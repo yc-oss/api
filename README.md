@@ -1,5 +1,7 @@
 # Y Combinator companies API
 
+This repository contains an unofficial API for Y Combinator companies fetched from the Y Combinator website's Algolia search index. It only includes **publicly launched companies** with pages on the Y Combinator website. It does not scrape the Y Combinator website, instead it uses the Algolia search index to fetch the companies in a GitHub Actions workflow that runs every day.
+
 <!--start generated readme-->
 
 ## ℹ️ Metadata
@@ -483,3 +485,95 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 
 </details>
 <!--end generated readme-->
+
+## 📀 Schema
+
+Each endpoint (with the exception of `meta.json`) returns an array of objects. Each object has the following properties:
+
+| Property                | Type     | Description                                                      |
+| ----------------------- | -------- | ---------------------------------------------------------------- |
+| `id`                    | number   | The company's ID decided by Y Combinator                         |
+| `name`                  | string   | The company's name                                               |
+| `slug`                  | string   | The company's human-readable slug                                |
+| `former_names`          | string[] | The company's former names, if the company was renamed           |
+| `small_logo_thumb_url`  | string   | The URL of the company's logo as a square hosted by Y Combinator |
+| `website`               | string   | The company's website URL                                        |
+| `all_locations`         | string   | The company's locations separated by colons (;)                  |
+| `long_description`      | string   | The company's long description                                   |
+| `one_liner`             | string   | The company's one-liner description                              |
+| `team_size`             | number   | The company's team size                                          |
+| `highlight_black`       | boolean  | Whether the company is highlighted for Black founders            |
+| `highlight_latinx`      | boolean  | Whether the company is highlighted for Hispanic/Latino founders  |
+| `highlight_women`       | boolean  | Whether the company is highlighted for women founders            |
+| `industry`              | string   | The company's industry                                           |
+| `subindustry`           | string   | The company's subindustry                                        |
+| `launched_at`           | number   | The company's launch date as a Unix timestamp                    |
+| `tags`                  | string[] | The company's tags                                               |
+| `top_company`           | boolean  | Whether the company is a top company                             |
+| `isHiring`              | boolean  | Whether the company is hiring                                    |
+| `nonprofit`             | boolean  | Whether the company is a nonprofit                               |
+| `batch`                 | string   | The company's batch                                              |
+| `status`                | string   | The company's status                                             |
+| `industries`            | string[] | The company's industries                                         |
+| `regions`               | string[] | The company's regions                                            |
+| `stage`                 | string   | The company's stage                                              |
+| `app_video_public`      | boolean  | Whether the company's app video is public                        |
+| `demo_day_video_public` | boolean  | Whether the company's demo day video is public                   |
+| `app_answers`           | object   | The company's app answers                                        |
+| `question_answers`      | boolean  | Whether the company's question answers are public                |
+| `url`                   | string   | The company's URL on the Y Combinator website                    |
+| `api`                   | string   | The company's API endpoint from this repository                  |
+
+For example, the `airbnb.json` endpoint returns the following object:
+
+```json
+{
+  "id": 271,
+  "name": "Airbnb",
+  "slug": "airbnb",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e9a0092bee2ccf926e650e59c06503ec6b9ee65.png",
+  "website": "http://airbnb.com",
+  "all_locations": "San Francisco, CA, USA",
+  "long_description": "Founded in August of 2008 and based in San Francisco, California, Airbnb is a trusted community marketplace for people to list, discover, and book unique accommodations around the world — online or from a mobile phone. Whether an apartment for a night, a castle for a week, or a villa for a month, Airbnb connects people to unique travel experiences, at any price point, in more than 33,000 cities and 192 countries. And with world-class customer service and a growing community of users, Airbnb is the easiest way for people to monetize their extra space and showcase it to an audience of millions.  \r\n\r\nNo global movement springs from individuals. It takes an entire team united behind something big. Together, we work hard, we laugh a lot, we brainstorm nonstop, we use hundreds of Post-Its a week, and we give the best high-fives in town. Headquartered in San Francisco, we have satellite offices in Dublin, London, Barcelona, Paris, Milan, Copenhagen, Berlin, Moscow, São Paolo, Sydney, and Singapore.",
+  "one_liner": "Book accommodations around the world.",
+  "team_size": 6132,
+  "highlight_black": false,
+  "highlight_latinx": false,
+  "highlight_women": false,
+  "industry": "Consumer",
+  "subindustry": "Consumer -> Travel, Leisure and Tourism",
+  "launched_at": 1326790856,
+  "tags": ["Marketplace", "Travel"],
+  "tags_highlighted": [],
+  "top_company": true,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "W09",
+  "status": "Public",
+  "industries": ["Consumer", "Travel, Leisure and Tourism"],
+  "regions": ["United States of America", "America / Canada"],
+  "stage": "Growth",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/airbnb",
+  "api": "https://yc-oss.github.io/api/batches/w09/airbnb.json"
+}
+```
+
+Here are first 10 companies from the Top Companies API (https://yc-oss.github.io/api/companies/top.json):
+
+| Logo                                                                                                                                   | Name       | One-liner                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------- |
+| <img src="https://bookface-images.s3.amazonaws.com/small_logos/33ee27aa9c6b3036b40ec6c7f0c2a98ccaf32f40.png" width="50" height="50" /> | PlanGrid   | Mobile applications for the construction industry.                      |
+| <img src="https://bookface-images.s3.amazonaws.com/small_logos/6ce7845c2e268525f5f04915212ac0a106fb7e3d.png" width="50" height="50" /> | Gusto      | Provides growing businesses with everything to take care of their team. |
+| <img src="https://bookface-images.s3.amazonaws.com/small_logos/b271a79c3b59d6344c90e2803525a22f2a5e8406.png" width="50" height="50" /> | Matterport | Turn physical objects and environments into 3D models in seconds.       |
+| <img src="https://bookface-images.s3.amazonaws.com/small_logos/fa98c8a53255b3fd2e9d4a65dbb47eec293729f1.png" width="50" height="50" /> | Amplitude  | Digital Analytics Platform.                                             |
+| <img src="https://bookface-images.s3.amazonaws.com/small_logos/1bbfeae646cc8051b5ad469413e67295e9fae353.png" width="50" height="50" /> | Sendwave   | Instant, no fee international remittances.                              |
+| <img src="https://bookface-images.s3.amazonaws.com/small_logos/ee26c3b11a260e7a045f68b47d8c804b306db89f.png" width="50" height="50" /> | Codecademy | The leading online learning platform for technical skills.              |
+| <img src="https://bookface-images.s3.amazonaws.com/small_logos/99f5abd1f15fa4ca4394b5781c98d8ff23db6f7b.png" width="50" height="50" /> | Segment    | Software and APIs to collect, clean, and control customer data.         |
+| <img src="https://bookface-images.s3.amazonaws.com/small_logos/251df7a6d1d16ee11aac63b910791aca861aff29.png" width="50" height="50" /> | HelloSign  | eSignature software for small and mid-market businesses.                |
+| <img src="https://bookface-images.s3.amazonaws.com/small_logos/e57fe3f2f5b8a158002acd8fef99c01e7294b55c.png" width="50" height="50" /> | Fivestars  | Customer loyalty and payments platform for small businesses.            |
+| <img src="https://bookface-images.s3.amazonaws.com/small_logos/4f3a455935f36a6655742aae286b206df1cd13bd.png" width="50" height="50" /> | GOAT Group | Platform for the greatest products from the past, present and future.   |
