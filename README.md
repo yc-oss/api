@@ -6,7 +6,7 @@
 
 API endpoint: https://yc-oss.github.io/api/meta.json
 
-- Last updated: August 22, 2024 at 12:22 PM
+- Last updated: August 22, 2024 at 12:30 PM
 - Companies: 4872
 - Batches: 41
 - Industries: 58
@@ -33,47 +33,47 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 
 | Batch       | Count | API endpoint                                          |
 | ----------- | ----- | ----------------------------------------------------- |
-| IK12        | 77    | https://yc-oss.github.io/api/batches/ik12.json        |
-| S05         | 8     | https://yc-oss.github.io/api/batches/s05.json         |
-| S06         | 11    | https://yc-oss.github.io/api/batches/s06.json         |
-| S07         | 19    | https://yc-oss.github.io/api/batches/s07.json         |
-| S08         | 22    | https://yc-oss.github.io/api/batches/s08.json         |
-| S09         | 26    | https://yc-oss.github.io/api/batches/s09.json         |
-| S10         | 36    | https://yc-oss.github.io/api/batches/s10.json         |
-| S11         | 60    | https://yc-oss.github.io/api/batches/s11.json         |
-| S12         | 82    | https://yc-oss.github.io/api/batches/s12.json         |
-| S13         | 52    | https://yc-oss.github.io/api/batches/s13.json         |
-| S14         | 80    | https://yc-oss.github.io/api/batches/s14.json         |
-| S15         | 105   | https://yc-oss.github.io/api/batches/s15.json         |
-| S16         | 103   | https://yc-oss.github.io/api/batches/s16.json         |
-| S17         | 125   | https://yc-oss.github.io/api/batches/s17.json         |
-| S18         | 132   | https://yc-oss.github.io/api/batches/s18.json         |
-| S19         | 175   | https://yc-oss.github.io/api/batches/s19.json         |
-| S20         | 207   | https://yc-oss.github.io/api/batches/s20.json         |
-| S21         | 391   | https://yc-oss.github.io/api/batches/s21.json         |
-| S22         | 236   | https://yc-oss.github.io/api/batches/s22.json         |
-| S23         | 219   | https://yc-oss.github.io/api/batches/s23.json         |
-| S24         | 204   | https://yc-oss.github.io/api/batches/s24.json         |
-| Unspecified | 3     | https://yc-oss.github.io/api/batches/unspecified.json |
-| W06         | 7     | https://yc-oss.github.io/api/batches/w06.json         |
-| W07         | 13    | https://yc-oss.github.io/api/batches/w07.json         |
-| W08         | 21    | https://yc-oss.github.io/api/batches/w08.json         |
-| W09         | 16    | https://yc-oss.github.io/api/batches/w09.json         |
-| W10         | 27    | https://yc-oss.github.io/api/batches/w10.json         |
-| W11         | 45    | https://yc-oss.github.io/api/batches/w11.json         |
-| W12         | 66    | https://yc-oss.github.io/api/batches/w12.json         |
-| W13         | 46    | https://yc-oss.github.io/api/batches/w13.json         |
-| W14         | 74    | https://yc-oss.github.io/api/batches/w14.json         |
-| W15         | 111   | https://yc-oss.github.io/api/batches/w15.json         |
-| W16         | 122   | https://yc-oss.github.io/api/batches/w16.json         |
-| W17         | 116   | https://yc-oss.github.io/api/batches/w17.json         |
-| W18         | 147   | https://yc-oss.github.io/api/batches/w18.json         |
-| W19         | 196   | https://yc-oss.github.io/api/batches/w19.json         |
-| W20         | 228   | https://yc-oss.github.io/api/batches/w20.json         |
-| W21         | 337   | https://yc-oss.github.io/api/batches/w21.json         |
-| W22         | 402   | https://yc-oss.github.io/api/batches/w22.json         |
-| W23         | 274   | https://yc-oss.github.io/api/batches/w23.json         |
 | W24         | 251   | https://yc-oss.github.io/api/batches/w24.json         |
+| S24         | 204   | https://yc-oss.github.io/api/batches/s24.json         |
+| W23         | 274   | https://yc-oss.github.io/api/batches/w23.json         |
+| S23         | 219   | https://yc-oss.github.io/api/batches/s23.json         |
+| W22         | 402   | https://yc-oss.github.io/api/batches/w22.json         |
+| S22         | 236   | https://yc-oss.github.io/api/batches/s22.json         |
+| W21         | 337   | https://yc-oss.github.io/api/batches/w21.json         |
+| S21         | 391   | https://yc-oss.github.io/api/batches/s21.json         |
+| W20         | 228   | https://yc-oss.github.io/api/batches/w20.json         |
+| S20         | 207   | https://yc-oss.github.io/api/batches/s20.json         |
+| S19         | 175   | https://yc-oss.github.io/api/batches/s19.json         |
+| W19         | 196   | https://yc-oss.github.io/api/batches/w19.json         |
+| W18         | 147   | https://yc-oss.github.io/api/batches/w18.json         |
+| S18         | 132   | https://yc-oss.github.io/api/batches/s18.json         |
+| S17         | 125   | https://yc-oss.github.io/api/batches/s17.json         |
+| W17         | 116   | https://yc-oss.github.io/api/batches/w17.json         |
+| W16         | 122   | https://yc-oss.github.io/api/batches/w16.json         |
+| S16         | 103   | https://yc-oss.github.io/api/batches/s16.json         |
+| W15         | 111   | https://yc-oss.github.io/api/batches/w15.json         |
+| S15         | 105   | https://yc-oss.github.io/api/batches/s15.json         |
+| W14         | 74    | https://yc-oss.github.io/api/batches/w14.json         |
+| S14         | 80    | https://yc-oss.github.io/api/batches/s14.json         |
+| W13         | 46    | https://yc-oss.github.io/api/batches/w13.json         |
+| S13         | 52    | https://yc-oss.github.io/api/batches/s13.json         |
+| W12         | 66    | https://yc-oss.github.io/api/batches/w12.json         |
+| S12         | 82    | https://yc-oss.github.io/api/batches/s12.json         |
+| S11         | 60    | https://yc-oss.github.io/api/batches/s11.json         |
+| W11         | 45    | https://yc-oss.github.io/api/batches/w11.json         |
+| S10         | 36    | https://yc-oss.github.io/api/batches/s10.json         |
+| W10         | 27    | https://yc-oss.github.io/api/batches/w10.json         |
+| S09         | 26    | https://yc-oss.github.io/api/batches/s09.json         |
+| W09         | 16    | https://yc-oss.github.io/api/batches/w09.json         |
+| S08         | 22    | https://yc-oss.github.io/api/batches/s08.json         |
+| W08         | 21    | https://yc-oss.github.io/api/batches/w08.json         |
+| S07         | 19    | https://yc-oss.github.io/api/batches/s07.json         |
+| W07         | 13    | https://yc-oss.github.io/api/batches/w07.json         |
+| S06         | 11    | https://yc-oss.github.io/api/batches/s06.json         |
+| W06         | 7     | https://yc-oss.github.io/api/batches/w06.json         |
+| S05         | 8     | https://yc-oss.github.io/api/batches/s05.json         |
+| IK12        | 77    | https://yc-oss.github.io/api/batches/ik12.json        |
+| Unspecified | 3     | https://yc-oss.github.io/api/batches/unspecified.json |
 
 </details>
 
