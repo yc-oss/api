@@ -4,11 +4,11 @@
 
 ## Metadata
 
-- Last updated: 2024-08-22T11:42:33.558Z
-- Total companies: 4872
-- Total tags: 329
-- Total industries: 58
-- Total batches: 41
+- Last updated: 2024-08-22T12:07:32.085Z
+- Companies: 4872
+- Batches: 41
+- Industries: 58
+- Tags: 329
 
 ## API
 
@@ -16,15 +16,20 @@
 
 ### Companies
 
-- All: https://yc-oss.github.io/api/companies/all.json
-- Black-founded: https://yc-oss.github.io/api/companies/black-founded.json
-- Hispanic/Latino-founded: https://yc-oss.github.io/api/companies/hispanic-latino-founded.json
-- Women-founded: https://yc-oss.github.io/api/companies/women-founded.json
-- Top: https://yc-oss.github.io/api/companies/top.json
-- Hiring: https://yc-oss.github.io/api/companies/hiring.json
-- Nonprofit: https://yc-oss.github.io/api/companies/nonprofit.json
+| List of companies | API endpoint |
+| --------------- | ------------ |
+| All | https://yc-oss.github.io/api/companies/all.json |
+| Black-founded | https://yc-oss.github.io/api/companies/black-founded.json |
+| Hispanic/Latino-founded | https://yc-oss.github.io/api/companies/hispanic-latino-founded.json |
+| Women-founded | https://yc-oss.github.io/api/companies/women-founded.json |
+| Top | https://yc-oss.github.io/api/companies/top.json |
+| Hiring | https://yc-oss.github.io/api/companies/hiring.json |
+| Nonprofit | https://yc-oss.github.io/api/companies/nonprofit.json |
 
 ### Batches
+
+<details>
+<summary>Companies per batch</summary>
 
 - IK12: https://yc-oss.github.io/api/batches/ik12.json
 - S05: https://yc-oss.github.io/api/batches/s05.json
@@ -67,8 +72,12 @@
 - W22: https://yc-oss.github.io/api/batches/w22.json
 - W23: https://yc-oss.github.io/api/batches/w23.json
 - W24: https://yc-oss.github.io/api/batches/w24.json
+</details>
 
 ### Industries
+
+<details>
+<summary>Companies per industry</summary>
 
 - Agriculture: https://yc-oss.github.io/api/industries/agriculture.json
 - Analytics: https://yc-oss.github.io/api/industries/analytics.json
@@ -128,8 +137,12 @@
 - Travel, Leisure and Tourism: https://yc-oss.github.io/api/industries/travel-leisure-and-tourism.json
 - Unspecified: https://yc-oss.github.io/api/industries/unspecified.json
 - Virtual and Augmented Reality: https://yc-oss.github.io/api/industries/virtual-and-augmented-reality.json
+</details>
 
 ### Tags
+
+<details>
+<summary>Companies per tag</summary>
 
 - 3D Printed Foods: https://yc-oss.github.io/api/tags/3d-printed-foods.json
 - 3D Printing: https://yc-oss.github.io/api/tags/3d-printing.json
@@ -459,7 +472,9 @@
 - Web Development: https://yc-oss.github.io/api/tags/web-development.json
 - Women's Health: https://yc-oss.github.io/api/tags/women's-health.json
 - Workflow Automation: https://yc-oss.github.io/api/tags/workflow-automation.json
+</details>
 <!--end generated readme-->
+
 
 
 
