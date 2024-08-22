@@ -274,7 +274,7 @@ if (hasChanges || true) {
 
   text += `\n## ℹ️ Metadata\n\n`;
   text += `API endpoint: https://yc-oss.github.io/api/meta.json\n\n`;
-  text += `- Last updated: ${new Date().toLocaleDateString("en-US", {
+  text += `- Last updated: ${new Date().toLocaleString("en-US", {
     dateStyle: "long",
     timeStyle: "short",
   })}\n`;
