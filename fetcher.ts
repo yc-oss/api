@@ -274,7 +274,7 @@ for (const { key, slug, name } of [
 }
 
 for (const company of results) {
-  ensureDir(
+  await ensureDir(
     `batches/${slugify(company.batch ?? "Unspecified", {
       lower: true,
     })}`
