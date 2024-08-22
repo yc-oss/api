@@ -1,0 +1,2182 @@
+{
+  "last_updated": "2024-08-22T10:11:02.514Z",
+  "readme": "https://github.com/yc-oss/api",
+  "companies": {
+    "all": {
+      "name": "All",
+      "count": 4872,
+      "api": "https://yc-oss.github.io/api/companies/all.json"
+    },
+    "black-founded": {
+      "name": "Black-founded",
+      "count": 272,
+      "api": "https://yc-oss.github.io/api/companies/black-founded.json"
+    },
+    "hispanic-latino-founded": {
+      "name": "Hispanic/Latino-founded",
+      "count": 482,
+      "api": "https://yc-oss.github.io/api/companies/hispanic-latino-founded.json"
+    },
+    "women-founded": {
+      "name": "Women-founded",
+      "count": 733,
+      "api": "https://yc-oss.github.io/api/companies/women-founded.json"
+    },
+    "top": {
+      "name": "Top",
+      "count": 91,
+      "api": "https://yc-oss.github.io/api/companies/top.json"
+    },
+    "hiring": {
+      "name": "Hiring",
+      "count": 1008,
+      "api": "https://yc-oss.github.io/api/companies/hiring.json"
+    },
+    "nonprofit": {
+      "name": "Nonprofit",
+      "count": 43,
+      "api": "https://yc-oss.github.io/api/companies/nonprofit.json"
+    }
+  },
+  "tags": {
+    "3d-printed-foods": {
+      "name": "3D Printed Foods",
+      "count": 1,
+      "api": "https://yc-oss.github.io/api/tags/3d-printed-foods.json"
+    },
+    "3d-printing": {
+      "name": "3D Printing",
+      "count": 9,
+      "api": "https://yc-oss.github.io/api/tags/3d-printing.json"
+    },
+    "advanced-materials": {
+      "name": "Advanced Materials",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/advanced-materials.json"
+    },
+    "advertising": {
+      "name": "Advertising",
+      "count": 30,
+      "api": "https://yc-oss.github.io/api/tags/advertising.json"
+    },
+    "aerospace": {
+      "name": "Aerospace",
+      "count": 21,
+      "api": "https://yc-oss.github.io/api/tags/aerospace.json"
+    },
+    "agriculture": {
+      "name": "Agriculture",
+      "count": 30,
+      "api": "https://yc-oss.github.io/api/tags/agriculture.json"
+    },
+    "ai": {
+      "name": "AI",
+      "count": 410,
+      "api": "https://yc-oss.github.io/api/tags/ai.json"
+    },
+    "ai-assistant": {
+      "name": "AI Assistant",
+      "count": 86,
+      "api": "https://yc-oss.github.io/api/tags/ai-assistant.json"
+    },
+    "ai-enhanced-learning": {
+      "name": "AI-Enhanced Learning",
+      "count": 31,
+      "api": "https://yc-oss.github.io/api/tags/ai-enhanced-learning.json"
+    },
+    "ai-powered-drug-discovery": {
+      "name": "AI-powered Drug Discovery",
+      "count": 35,
+      "api": "https://yc-oss.github.io/api/tags/ai-powered-drug-discovery.json"
+    },
+    "aiops": {
+      "name": "AIOps",
+      "count": 39,
+      "api": "https://yc-oss.github.io/api/tags/aiops.json"
+    },
+    "air-taxis": {
+      "name": "Air Taxis",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/air-taxis.json"
+    },
+    "airlines": {
+      "name": "Airlines",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/airlines.json"
+    },
+    "airplanes": {
+      "name": "Airplanes",
+      "count": 12,
+      "api": "https://yc-oss.github.io/api/tags/airplanes.json"
+    },
+    "alternative-battery-tech": {
+      "name": "Alternative Battery Tech",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/alternative-battery-tech.json"
+    },
+    "alternative-fuels": {
+      "name": "Alternative Fuels",
+      "count": 1,
+      "api": "https://yc-oss.github.io/api/tags/alternative-fuels.json"
+    },
+    "analytics": {
+      "name": "Analytics",
+      "count": 178,
+      "api": "https://yc-oss.github.io/api/tags/analytics.json"
+    },
+    "anti-aging": {
+      "name": "Anti-Aging",
+      "count": 7,
+      "api": "https://yc-oss.github.io/api/tags/anti-aging.json"
+    },
+    "api": {
+      "name": "API",
+      "count": 150,
+      "api": "https://yc-oss.github.io/api/tags/api.json"
+    },
+    "apis": {
+      "name": "APIs",
+      "count": 6,
+      "api": "https://yc-oss.github.io/api/tags/apis.json"
+    },
+    "apparel": {
+      "name": "Apparel",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/apparel.json"
+    },
+    "ar": {
+      "name": "AR",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/ar.json"
+    },
+    "architecture": {
+      "name": "Architecture",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/architecture.json"
+    },
+    "art-trading-platforms": {
+      "name": "Art Trading Platforms",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/art-trading-platforms.json"
+    },
+    "artificial-intelligence": {
+      "name": "Artificial Intelligence",
+      "count": 532,
+      "api": "https://yc-oss.github.io/api/tags/artificial-intelligence.json"
+    },
+    "assistive-tech": {
+      "name": "Assistive Tech",
+      "count": 7,
+      "api": "https://yc-oss.github.io/api/tags/assistive-tech.json"
+    },
+    "augmented-reality": {
+      "name": "Augmented Reality",
+      "count": 20,
+      "api": "https://yc-oss.github.io/api/tags/augmented-reality.json"
+    },
+    "auto-commerce": {
+      "name": "Auto Commerce",
+      "count": 6,
+      "api": "https://yc-oss.github.io/api/tags/auto-commerce.json"
+    },
+    "automation": {
+      "name": "Automation",
+      "count": 47,
+      "api": "https://yc-oss.github.io/api/tags/automation.json"
+    },
+    "automotive": {
+      "name": "Automotive",
+      "count": 17,
+      "api": "https://yc-oss.github.io/api/tags/automotive.json"
+    },
+    "autonomous-delivery": {
+      "name": "Autonomous Delivery",
+      "count": 9,
+      "api": "https://yc-oss.github.io/api/tags/autonomous-delivery.json"
+    },
+    "autonomous-trucking": {
+      "name": "Autonomous Trucking",
+      "count": 12,
+      "api": "https://yc-oss.github.io/api/tags/autonomous-trucking.json"
+    },
+    "b2b": {
+      "name": "B2B",
+      "count": 931,
+      "api": "https://yc-oss.github.io/api/tags/b2b.json"
+    },
+    "banking-as-a-service": {
+      "name": "Banking as a Service",
+      "count": 25,
+      "api": "https://yc-oss.github.io/api/tags/banking-as-a-service.json"
+    },
+    "batteryless-iot-sensors": {
+      "name": "Batteryless IoT Sensors",
+      "count": 1,
+      "api": "https://yc-oss.github.io/api/tags/batteryless-iot-sensors.json"
+    },
+    "beauty": {
+      "name": "Beauty",
+      "count": 10,
+      "api": "https://yc-oss.github.io/api/tags/beauty.json"
+    },
+    "big-data": {
+      "name": "Big Data",
+      "count": 18,
+      "api": "https://yc-oss.github.io/api/tags/big-data.json"
+    },
+    "billing": {
+      "name": "Billing",
+      "count": 6,
+      "api": "https://yc-oss.github.io/api/tags/billing.json"
+    },
+    "biometrics": {
+      "name": "Biometrics",
+      "count": 6,
+      "api": "https://yc-oss.github.io/api/tags/biometrics.json"
+    },
+    "bioplastic": {
+      "name": "Bioplastic",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/bioplastic.json"
+    },
+    "biotech": {
+      "name": "Biotech",
+      "count": 121,
+      "api": "https://yc-oss.github.io/api/tags/biotech.json"
+    },
+    "biotechnology": {
+      "name": "Biotechnology",
+      "count": 11,
+      "api": "https://yc-oss.github.io/api/tags/biotechnology.json"
+    },
+    "blockchain": {
+      "name": "Blockchain",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/blockchain.json"
+    },
+    "booking": {
+      "name": "Booking",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/booking.json"
+    },
+    "calendar": {
+      "name": "Calendar",
+      "count": 7,
+      "api": "https://yc-oss.github.io/api/tags/calendar.json"
+    },
+    "call-center": {
+      "name": "Call Center",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/call-center.json"
+    },
+    "cannabis": {
+      "name": "Cannabis",
+      "count": 7,
+      "api": "https://yc-oss.github.io/api/tags/cannabis.json"
+    },
+    "carbon-capture-and-removal": {
+      "name": "Carbon Capture and Removal",
+      "count": 13,
+      "api": "https://yc-oss.github.io/api/tags/carbon-capture-and-removal.json"
+    },
+    "careers": {
+      "name": "Careers",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/careers.json"
+    },
+    "cashierless-checkout": {
+      "name": "Cashierless Checkout",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/cashierless-checkout.json"
+    },
+    "cell-therapy": {
+      "name": "Cell Therapy",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/cell-therapy.json"
+    },
+    "cellular-agriculture": {
+      "name": "Cellular Agriculture",
+      "count": 6,
+      "api": "https://yc-oss.github.io/api/tags/cellular-agriculture.json"
+    },
+    "chat": {
+      "name": "Chat",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/chat.json"
+    },
+    "chatbot": {
+      "name": "Chatbot",
+      "count": 8,
+      "api": "https://yc-oss.github.io/api/tags/chatbot.json"
+    },
+    "chatbots": {
+      "name": "Chatbots",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/chatbots.json"
+    },
+    "china": {
+      "name": "China",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/china.json"
+    },
+    "civic-tech": {
+      "name": "Civic Tech",
+      "count": 8,
+      "api": "https://yc-oss.github.io/api/tags/civic-tech.json"
+    },
+    "clean-meat": {
+      "name": "Clean Meat",
+      "count": 1,
+      "api": "https://yc-oss.github.io/api/tags/clean-meat.json"
+    },
+    "climate": {
+      "name": "Climate",
+      "count": 156,
+      "api": "https://yc-oss.github.io/api/tags/climate.json"
+    },
+    "climatetech": {
+      "name": "ClimateTech",
+      "count": 33,
+      "api": "https://yc-oss.github.io/api/tags/climatetech.json"
+    },
+    "cloud-computing": {
+      "name": "Cloud Computing",
+      "count": 33,
+      "api": "https://yc-oss.github.io/api/tags/cloud-computing.json"
+    },
+    "cloud-gaming": {
+      "name": "Cloud Gaming",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/cloud-gaming.json"
+    },
+    "cloud-workload-protection": {
+      "name": "Cloud Workload Protection",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/cloud-workload-protection.json"
+    },
+    "coding-bootcamps": {
+      "name": "Coding Bootcamps",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/coding-bootcamps.json"
+    },
+    "collaboration": {
+      "name": "Collaboration",
+      "count": 50,
+      "api": "https://yc-oss.github.io/api/tags/collaboration.json"
+    },
+    "commercial-space-launch": {
+      "name": "Commercial Space Launch",
+      "count": 7,
+      "api": "https://yc-oss.github.io/api/tags/commercial-space-launch.json"
+    },
+    "community": {
+      "name": "Community",
+      "count": 63,
+      "api": "https://yc-oss.github.io/api/tags/community.json"
+    },
+    "compliance": {
+      "name": "Compliance",
+      "count": 54,
+      "api": "https://yc-oss.github.io/api/tags/compliance.json"
+    },
+    "computational-storage": {
+      "name": "Computational Storage",
+      "count": 1,
+      "api": "https://yc-oss.github.io/api/tags/computational-storage.json"
+    },
+    "computer-vision": {
+      "name": "Computer Vision",
+      "count": 58,
+      "api": "https://yc-oss.github.io/api/tags/computer-vision.json"
+    },
+    "construction": {
+      "name": "Construction",
+      "count": 52,
+      "api": "https://yc-oss.github.io/api/tags/construction.json"
+    },
+    "consumer": {
+      "name": "Consumer",
+      "count": 177,
+      "api": "https://yc-oss.github.io/api/tags/consumer.json"
+    },
+    "consumer-finance": {
+      "name": "Consumer Finance",
+      "count": 17,
+      "api": "https://yc-oss.github.io/api/tags/consumer-finance.json"
+    },
+    "consumer-health-services": {
+      "name": "Consumer Health Services",
+      "count": 106,
+      "api": "https://yc-oss.github.io/api/tags/consumer-health-services.json"
+    },
+    "consumer-products": {
+      "name": "Consumer Products",
+      "count": 7,
+      "api": "https://yc-oss.github.io/api/tags/consumer-products.json"
+    },
+    "conversational-ai": {
+      "name": "Conversational AI",
+      "count": 21,
+      "api": "https://yc-oss.github.io/api/tags/conversational-ai.json"
+    },
+    "conversational-banking": {
+      "name": "Conversational Banking",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/conversational-banking.json"
+    },
+    "covid-19": {
+      "name": "COVID-19",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/covid-19.json"
+    },
+    "creator-economy": {
+      "name": "Creator Economy",
+      "count": 30,
+      "api": "https://yc-oss.github.io/api/tags/creator-economy.json"
+    },
+    "crispr": {
+      "name": "CRISPR",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/crispr.json"
+    },
+    "crm": {
+      "name": "CRM",
+      "count": 15,
+      "api": "https://yc-oss.github.io/api/tags/crm.json"
+    },
+    "crowdfunding": {
+      "name": "Crowdfunding",
+      "count": 10,
+      "api": "https://yc-oss.github.io/api/tags/crowdfunding.json"
+    },
+    "crowdsourcing": {
+      "name": "Crowdsourcing",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/crowdsourcing.json"
+    },
+    "crypto-web3": {
+      "name": "Crypto / Web3",
+      "count": 92,
+      "api": "https://yc-oss.github.io/api/tags/crypto-web3.json"
+    },
+    "cryptocurrency": {
+      "name": "Cryptocurrency",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/cryptocurrency.json"
+    },
+    "cryptography": {
+      "name": "Cryptography",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/cryptography.json"
+    },
+    "cultivated-meat": {
+      "name": "Cultivated Meat",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/cultivated-meat.json"
+    },
+    "culture": {
+      "name": "Culture",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/culture.json"
+    },
+    "cultured-meat": {
+      "name": "Cultured Meat",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/cultured-meat.json"
+    },
+    "customer-service": {
+      "name": "Customer Service",
+      "count": 15,
+      "api": "https://yc-oss.github.io/api/tags/customer-service.json"
+    },
+    "customer-success": {
+      "name": "Customer Success",
+      "count": 23,
+      "api": "https://yc-oss.github.io/api/tags/customer-success.json"
+    },
+    "customer-support": {
+      "name": "Customer Support",
+      "count": 28,
+      "api": "https://yc-oss.github.io/api/tags/customer-support.json"
+    },
+    "customization": {
+      "name": "Customization",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/customization.json"
+    },
+    "cyber-insurance": {
+      "name": "Cyber Insurance",
+      "count": 1,
+      "api": "https://yc-oss.github.io/api/tags/cyber-insurance.json"
+    },
+    "cybersecurity": {
+      "name": "Cybersecurity",
+      "count": 29,
+      "api": "https://yc-oss.github.io/api/tags/cybersecurity.json"
+    },
+    "dao": {
+      "name": "DAO",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/dao.json"
+    },
+    "data-engineering": {
+      "name": "Data Engineering",
+      "count": 88,
+      "api": "https://yc-oss.github.io/api/tags/data-engineering.json"
+    },
+    "data-labeling": {
+      "name": "Data Labeling",
+      "count": 8,
+      "api": "https://yc-oss.github.io/api/tags/data-labeling.json"
+    },
+    "data-science": {
+      "name": "Data Science",
+      "count": 26,
+      "api": "https://yc-oss.github.io/api/tags/data-science.json"
+    },
+    "data-visualization": {
+      "name": "Data Visualization",
+      "count": 24,
+      "api": "https://yc-oss.github.io/api/tags/data-visualization.json"
+    },
+    "databases": {
+      "name": "Databases",
+      "count": 23,
+      "api": "https://yc-oss.github.io/api/tags/databases.json"
+    },
+    "dating": {
+      "name": "Dating",
+      "count": 7,
+      "api": "https://yc-oss.github.io/api/tags/dating.json"
+    },
+    "deep-learning": {
+      "name": "Deep Learning",
+      "count": 35,
+      "api": "https://yc-oss.github.io/api/tags/deep-learning.json"
+    },
+    "deepfake-detection": {
+      "name": "Deepfake Detection",
+      "count": 1,
+      "api": "https://yc-oss.github.io/api/tags/deepfake-detection.json"
+    },
+    "defi": {
+      "name": "DeFi",
+      "count": 15,
+      "api": "https://yc-oss.github.io/api/tags/defi.json"
+    },
+    "delivery": {
+      "name": "Delivery",
+      "count": 52,
+      "api": "https://yc-oss.github.io/api/tags/delivery.json"
+    },
+    "dental": {
+      "name": "Dental",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/dental.json"
+    },
+    "design": {
+      "name": "Design",
+      "count": 18,
+      "api": "https://yc-oss.github.io/api/tags/design.json"
+    },
+    "design-tools": {
+      "name": "Design Tools",
+      "count": 56,
+      "api": "https://yc-oss.github.io/api/tags/design-tools.json"
+    },
+    "developer-tools": {
+      "name": "Developer Tools",
+      "count": 463,
+      "api": "https://yc-oss.github.io/api/tags/developer-tools.json"
+    },
+    "devops": {
+      "name": "DevOps",
+      "count": 37,
+      "api": "https://yc-oss.github.io/api/tags/devops.json"
+    },
+    "devsecops": {
+      "name": "DevSecOps",
+      "count": 32,
+      "api": "https://yc-oss.github.io/api/tags/devsecops.json"
+    },
+    "diagnostics": {
+      "name": "Diagnostics",
+      "count": 31,
+      "api": "https://yc-oss.github.io/api/tags/diagnostics.json"
+    },
+    "digital-freight-brokerage": {
+      "name": "Digital Freight Brokerage",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/digital-freight-brokerage.json"
+    },
+    "digital-health": {
+      "name": "Digital Health",
+      "count": 95,
+      "api": "https://yc-oss.github.io/api/tags/digital-health.json"
+    },
+    "diversity-and-inclusion": {
+      "name": "Diversity & Inclusion",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/diversity-and-inclusion.json"
+    },
+    "documents": {
+      "name": "Documents",
+      "count": 27,
+      "api": "https://yc-oss.github.io/api/tags/documents.json"
+    },
+    "drones": {
+      "name": "Drones",
+      "count": 20,
+      "api": "https://yc-oss.github.io/api/tags/drones.json"
+    },
+    "drug-delivery": {
+      "name": "Drug Delivery",
+      "count": 6,
+      "api": "https://yc-oss.github.io/api/tags/drug-delivery.json"
+    },
+    "drug-discovery": {
+      "name": "Drug discovery",
+      "count": 31,
+      "api": "https://yc-oss.github.io/api/tags/drug-discovery.json"
+    },
+    "e-commerce": {
+      "name": "E-Commerce",
+      "count": 47,
+      "api": "https://yc-oss.github.io/api/tags/e-commerce.json"
+    },
+    "edge-computing-semiconductors": {
+      "name": "Edge Computing Semiconductors",
+      "count": 1,
+      "api": "https://yc-oss.github.io/api/tags/edge-computing-semiconductors.json"
+    },
+    "edtech": {
+      "name": "Edtech",
+      "count": 12,
+      "api": "https://yc-oss.github.io/api/tags/edtech.json"
+    },
+    "education": {
+      "name": "Education",
+      "count": 170,
+      "api": "https://yc-oss.github.io/api/tags/education.json"
+    },
+    "elearning": {
+      "name": "eLearning",
+      "count": 49,
+      "api": "https://yc-oss.github.io/api/tags/elearning.json"
+    },
+    "election-tech": {
+      "name": "Election Tech",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/election-tech.json"
+    },
+    "electric-vehicles": {
+      "name": "Electric Vehicles",
+      "count": 26,
+      "api": "https://yc-oss.github.io/api/tags/electric-vehicles.json"
+    },
+    "electronics": {
+      "name": "Electronics",
+      "count": 6,
+      "api": "https://yc-oss.github.io/api/tags/electronics.json"
+    },
+    "email": {
+      "name": "Email",
+      "count": 23,
+      "api": "https://yc-oss.github.io/api/tags/email.json"
+    },
+    "emerging-markets": {
+      "name": "Emerging Markets",
+      "count": 7,
+      "api": "https://yc-oss.github.io/api/tags/emerging-markets.json"
+    },
+    "energy": {
+      "name": "Energy",
+      "count": 31,
+      "api": "https://yc-oss.github.io/api/tags/energy.json"
+    },
+    "energy-storage": {
+      "name": "Energy Storage",
+      "count": 13,
+      "api": "https://yc-oss.github.io/api/tags/energy-storage.json"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "count": 94,
+      "api": "https://yc-oss.github.io/api/tags/enterprise.json"
+    },
+    "enterprise-software": {
+      "name": "Enterprise Software",
+      "count": 74,
+      "api": "https://yc-oss.github.io/api/tags/enterprise-software.json"
+    },
+    "entertainment": {
+      "name": "Entertainment",
+      "count": 48,
+      "api": "https://yc-oss.github.io/api/tags/entertainment.json"
+    },
+    "esports": {
+      "name": "eSports",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/esports.json"
+    },
+    "fashion": {
+      "name": "Fashion",
+      "count": 20,
+      "api": "https://yc-oss.github.io/api/tags/fashion.json"
+    },
+    "feedback": {
+      "name": "Feedback",
+      "count": 6,
+      "api": "https://yc-oss.github.io/api/tags/feedback.json"
+    },
+    "femtech": {
+      "name": "Femtech",
+      "count": 7,
+      "api": "https://yc-oss.github.io/api/tags/femtech.json"
+    },
+    "fertility-tech": {
+      "name": "Fertility Tech",
+      "count": 9,
+      "api": "https://yc-oss.github.io/api/tags/fertility-tech.json"
+    },
+    "finance": {
+      "name": "Finance",
+      "count": 59,
+      "api": "https://yc-oss.github.io/api/tags/finance.json"
+    },
+    "finops": {
+      "name": "FinOps",
+      "count": 26,
+      "api": "https://yc-oss.github.io/api/tags/finops.json"
+    },
+    "fintech": {
+      "name": "Fintech",
+      "count": 693,
+      "api": "https://yc-oss.github.io/api/tags/fintech.json"
+    },
+    "fitness": {
+      "name": "Fitness",
+      "count": 19,
+      "api": "https://yc-oss.github.io/api/tags/fitness.json"
+    },
+    "food": {
+      "name": "Food",
+      "count": 7,
+      "api": "https://yc-oss.github.io/api/tags/food.json"
+    },
+    "food-and-beverage": {
+      "name": "Food & Beverage",
+      "count": 26,
+      "api": "https://yc-oss.github.io/api/tags/food-and-beverage.json"
+    },
+    "food-service-robots-and-machines": {
+      "name": "Food Service Robots & Machines",
+      "count": 10,
+      "api": "https://yc-oss.github.io/api/tags/food-service-robots-and-machines.json"
+    },
+    "food-tech": {
+      "name": "Food Tech",
+      "count": 48,
+      "api": "https://yc-oss.github.io/api/tags/food-tech.json"
+    },
+    "fraud-detection": {
+      "name": "Fraud Detection",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/fraud-detection.json"
+    },
+    "fraud-prevention": {
+      "name": "Fraud Prevention",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/fraud-prevention.json"
+    },
+    "fundraising": {
+      "name": "Fundraising",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/fundraising.json"
+    },
+    "furniture": {
+      "name": "Furniture",
+      "count": 7,
+      "api": "https://yc-oss.github.io/api/tags/furniture.json"
+    },
+    "fusion-energy": {
+      "name": "Fusion Energy",
+      "count": 1,
+      "api": "https://yc-oss.github.io/api/tags/fusion-energy.json"
+    },
+    "gaming": {
+      "name": "Gaming",
+      "count": 80,
+      "api": "https://yc-oss.github.io/api/tags/gaming.json"
+    },
+    "gardening": {
+      "name": "Gardening",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/gardening.json"
+    },
+    "gene-therapy": {
+      "name": "Gene Therapy",
+      "count": 12,
+      "api": "https://yc-oss.github.io/api/tags/gene-therapy.json"
+    },
+    "generative-ai": {
+      "name": "Generative AI",
+      "count": 223,
+      "api": "https://yc-oss.github.io/api/tags/generative-ai.json"
+    },
+    "genetic-engineering": {
+      "name": "Genetic Engineering",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/genetic-engineering.json"
+    },
+    "genomics": {
+      "name": "Genomics",
+      "count": 29,
+      "api": "https://yc-oss.github.io/api/tags/genomics.json"
+    },
+    "geographic-information-system": {
+      "name": "Geographic Information System",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/geographic-information-system.json"
+    },
+    "ghost-kitchens": {
+      "name": "Ghost Kitchens",
+      "count": 11,
+      "api": "https://yc-oss.github.io/api/tags/ghost-kitchens.json"
+    },
+    "govtech": {
+      "name": "GovTech",
+      "count": 35,
+      "api": "https://yc-oss.github.io/api/tags/govtech.json"
+    },
+    "graphql": {
+      "name": "GraphQL",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/graphql.json"
+    },
+    "grocery": {
+      "name": "Grocery",
+      "count": 29,
+      "api": "https://yc-oss.github.io/api/tags/grocery.json"
+    },
+    "hard-tech": {
+      "name": "Hard Tech",
+      "count": 73,
+      "api": "https://yc-oss.github.io/api/tags/hard-tech.json"
+    },
+    "hardware": {
+      "name": "Hardware",
+      "count": 99,
+      "api": "https://yc-oss.github.io/api/tags/hardware.json"
+    },
+    "health-and-wellness": {
+      "name": "Health & Wellness",
+      "count": 35,
+      "api": "https://yc-oss.github.io/api/tags/health-and-wellness.json"
+    },
+    "health-insurance": {
+      "name": "Health Insurance",
+      "count": 23,
+      "api": "https://yc-oss.github.io/api/tags/health-insurance.json"
+    },
+    "health-tech": {
+      "name": "Health Tech",
+      "count": 153,
+      "api": "https://yc-oss.github.io/api/tags/health-tech.json"
+    },
+    "healthcare": {
+      "name": "Healthcare",
+      "count": 173,
+      "api": "https://yc-oss.github.io/api/tags/healthcare.json"
+    },
+    "healthcare-it": {
+      "name": "Healthcare IT",
+      "count": 25,
+      "api": "https://yc-oss.github.io/api/tags/healthcare-it.json"
+    },
+    "home-automation": {
+      "name": "Home Automation",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/home-automation.json"
+    },
+    "home-services": {
+      "name": "Home Services",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/home-services.json"
+    },
+    "housing": {
+      "name": "Housing",
+      "count": 18,
+      "api": "https://yc-oss.github.io/api/tags/housing.json"
+    },
+    "hr-tech": {
+      "name": "HR Tech",
+      "count": 70,
+      "api": "https://yc-oss.github.io/api/tags/hr-tech.json"
+    },
+    "human-resources": {
+      "name": "Human Resources",
+      "count": 19,
+      "api": "https://yc-oss.github.io/api/tags/human-resources.json"
+    },
+    "hydrogen-energy": {
+      "name": "Hydrogen Energy",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/hydrogen-energy.json"
+    },
+    "identity": {
+      "name": "Identity",
+      "count": 16,
+      "api": "https://yc-oss.github.io/api/tags/identity.json"
+    },
+    "immigration": {
+      "name": "Immigration",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/immigration.json"
+    },
+    "income-share-agreements": {
+      "name": "Income Share Agreements",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/income-share-agreements.json"
+    },
+    "india": {
+      "name": "India",
+      "count": 38,
+      "api": "https://yc-oss.github.io/api/tags/india.json"
+    },
+    "indoor-mapping": {
+      "name": "Indoor Mapping",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/indoor-mapping.json"
+    },
+    "industrial": {
+      "name": "Industrial",
+      "count": 10,
+      "api": "https://yc-oss.github.io/api/tags/industrial.json"
+    },
+    "industrial-workplace-safety": {
+      "name": "Industrial Workplace Safety",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/industrial-workplace-safety.json"
+    },
+    "infrastructure": {
+      "name": "Infrastructure",
+      "count": 64,
+      "api": "https://yc-oss.github.io/api/tags/infrastructure.json"
+    },
+    "insurance": {
+      "name": "Insurance",
+      "count": 63,
+      "api": "https://yc-oss.github.io/api/tags/insurance.json"
+    },
+    "international": {
+      "name": "International",
+      "count": 6,
+      "api": "https://yc-oss.github.io/api/tags/international.json"
+    },
+    "investing": {
+      "name": "Investing",
+      "count": 50,
+      "api": "https://yc-oss.github.io/api/tags/investing.json"
+    },
+    "investments": {
+      "name": "Investments",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/investments.json"
+    },
+    "iot": {
+      "name": "IoT",
+      "count": 46,
+      "api": "https://yc-oss.github.io/api/tags/iot.json"
+    },
+    "iot-security": {
+      "name": "IoT Security",
+      "count": 1,
+      "api": "https://yc-oss.github.io/api/tags/iot-security.json"
+    },
+    "kids": {
+      "name": "Kids",
+      "count": 9,
+      "api": "https://yc-oss.github.io/api/tags/kids.json"
+    },
+    "kubernetes": {
+      "name": "Kubernetes",
+      "count": 15,
+      "api": "https://yc-oss.github.io/api/tags/kubernetes.json"
+    },
+    "lab-on-a-chip": {
+      "name": "Lab-on-a-chip",
+      "count": 1,
+      "api": "https://yc-oss.github.io/api/tags/lab-on-a-chip.json"
+    },
+    "latin-america": {
+      "name": "Latin America",
+      "count": 21,
+      "api": "https://yc-oss.github.io/api/tags/latin-america.json"
+    },
+    "legal": {
+      "name": "Legal",
+      "count": 18,
+      "api": "https://yc-oss.github.io/api/tags/legal.json"
+    },
+    "legaltech": {
+      "name": "LegalTech",
+      "count": 43,
+      "api": "https://yc-oss.github.io/api/tags/legaltech.json"
+    },
+    "lending": {
+      "name": "Lending",
+      "count": 16,
+      "api": "https://yc-oss.github.io/api/tags/lending.json"
+    },
+    "live": {
+      "name": "Live",
+      "count": 7,
+      "api": "https://yc-oss.github.io/api/tags/live.json"
+    },
+    "location-based": {
+      "name": "Location-based",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/location-based.json"
+    },
+    "logistics": {
+      "name": "Logistics",
+      "count": 107,
+      "api": "https://yc-oss.github.io/api/tags/logistics.json"
+    },
+    "machine-learning": {
+      "name": "Machine Learning",
+      "count": 212,
+      "api": "https://yc-oss.github.io/api/tags/machine-learning.json"
+    },
+    "manufacturing": {
+      "name": "Manufacturing",
+      "count": 45,
+      "api": "https://yc-oss.github.io/api/tags/manufacturing.json"
+    },
+    "maritime": {
+      "name": "Maritime",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/maritime.json"
+    },
+    "market-research": {
+      "name": "Market Research",
+      "count": 10,
+      "api": "https://yc-oss.github.io/api/tags/market-research.json"
+    },
+    "marketing": {
+      "name": "Marketing",
+      "count": 56,
+      "api": "https://yc-oss.github.io/api/tags/marketing.json"
+    },
+    "marketplace": {
+      "name": "Marketplace",
+      "count": 316,
+      "api": "https://yc-oss.github.io/api/tags/marketplace.json"
+    },
+    "media": {
+      "name": "Media",
+      "count": 38,
+      "api": "https://yc-oss.github.io/api/tags/media.json"
+    },
+    "medical-devices": {
+      "name": "Medical Devices",
+      "count": 67,
+      "api": "https://yc-oss.github.io/api/tags/medical-devices.json"
+    },
+    "medical-robotics": {
+      "name": "Medical Robotics",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/medical-robotics.json"
+    },
+    "mental-health": {
+      "name": "Mental Health",
+      "count": 10,
+      "api": "https://yc-oss.github.io/api/tags/mental-health.json"
+    },
+    "mental-health-tech": {
+      "name": "Mental Health Tech",
+      "count": 43,
+      "api": "https://yc-oss.github.io/api/tags/mental-health-tech.json"
+    },
+    "messaging": {
+      "name": "Messaging",
+      "count": 42,
+      "api": "https://yc-oss.github.io/api/tags/messaging.json"
+    },
+    "metaverse": {
+      "name": "Metaverse",
+      "count": 8,
+      "api": "https://yc-oss.github.io/api/tags/metaverse.json"
+    },
+    "microfluidics": {
+      "name": "Microfluidics",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/microfluidics.json"
+    },
+    "microinsurance": {
+      "name": "Microinsurance",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/microinsurance.json"
+    },
+    "mining": {
+      "name": "Mining",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/mining.json"
+    },
+    "ml": {
+      "name": "ML",
+      "count": 11,
+      "api": "https://yc-oss.github.io/api/tags/ml.json"
+    },
+    "mobility": {
+      "name": "Mobility",
+      "count": 10,
+      "api": "https://yc-oss.github.io/api/tags/mobility.json"
+    },
+    "monitoring": {
+      "name": "Monitoring",
+      "count": 11,
+      "api": "https://yc-oss.github.io/api/tags/monitoring.json"
+    },
+    "music": {
+      "name": "Music",
+      "count": 22,
+      "api": "https://yc-oss.github.io/api/tags/music.json"
+    },
+    "nanomedicine": {
+      "name": "Nanomedicine",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/nanomedicine.json"
+    },
+    "nanosensors": {
+      "name": "Nanosensors",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/nanosensors.json"
+    },
+    "nanotechnology": {
+      "name": "Nanotechnology",
+      "count": 10,
+      "api": "https://yc-oss.github.io/api/tags/nanotechnology.json"
+    },
+    "navigation": {
+      "name": "Navigation",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/navigation.json"
+    },
+    "neobank": {
+      "name": "Neobank",
+      "count": 49,
+      "api": "https://yc-oss.github.io/api/tags/neobank.json"
+    },
+    "networks": {
+      "name": "Networks",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/networks.json"
+    },
+    "neurotechnology": {
+      "name": "Neurotechnology",
+      "count": 14,
+      "api": "https://yc-oss.github.io/api/tags/neurotechnology.json"
+    },
+    "next-gen-network-security": {
+      "name": "Next-gen Network Security",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/next-gen-network-security.json"
+    },
+    "nft": {
+      "name": "NFT",
+      "count": 6,
+      "api": "https://yc-oss.github.io/api/tags/nft.json"
+    },
+    "nlp": {
+      "name": "NLP",
+      "count": 27,
+      "api": "https://yc-oss.github.io/api/tags/nlp.json"
+    },
+    "no-code": {
+      "name": "No-code",
+      "count": 28,
+      "api": "https://yc-oss.github.io/api/tags/no-code.json"
+    },
+    "nonprofit": {
+      "name": "Nonprofit",
+      "count": 27,
+      "api": "https://yc-oss.github.io/api/tags/nonprofit.json"
+    },
+    "note-taking": {
+      "name": "Note-taking",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/note-taking.json"
+    },
+    "notifications": {
+      "name": "Notifications",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/notifications.json"
+    },
+    "oncology": {
+      "name": "Oncology",
+      "count": 21,
+      "api": "https://yc-oss.github.io/api/tags/oncology.json"
+    },
+    "open-source": {
+      "name": "Open Source",
+      "count": 145,
+      "api": "https://yc-oss.github.io/api/tags/open-source.json"
+    },
+    "operations": {
+      "name": "Operations",
+      "count": 21,
+      "api": "https://yc-oss.github.io/api/tags/operations.json"
+    },
+    "payments": {
+      "name": "Payments",
+      "count": 129,
+      "api": "https://yc-oss.github.io/api/tags/payments.json"
+    },
+    "payroll": {
+      "name": "Payroll",
+      "count": 15,
+      "api": "https://yc-oss.github.io/api/tags/payroll.json"
+    },
+    "pediatrics": {
+      "name": "Pediatrics",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/pediatrics.json"
+    },
+    "personalization": {
+      "name": "Personalization",
+      "count": 7,
+      "api": "https://yc-oss.github.io/api/tags/personalization.json"
+    },
+    "plant-based-meat": {
+      "name": "Plant-based Meat",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/plant-based-meat.json"
+    },
+    "podcasts": {
+      "name": "Podcasts",
+      "count": 8,
+      "api": "https://yc-oss.github.io/api/tags/podcasts.json"
+    },
+    "primary-care": {
+      "name": "Primary Care",
+      "count": 9,
+      "api": "https://yc-oss.github.io/api/tags/primary-care.json"
+    },
+    "privacy": {
+      "name": "Privacy",
+      "count": 15,
+      "api": "https://yc-oss.github.io/api/tags/privacy.json"
+    },
+    "procurement": {
+      "name": "Procurement",
+      "count": 12,
+      "api": "https://yc-oss.github.io/api/tags/procurement.json"
+    },
+    "productivity": {
+      "name": "Productivity",
+      "count": 137,
+      "api": "https://yc-oss.github.io/api/tags/productivity.json"
+    },
+    "proptech": {
+      "name": "Proptech",
+      "count": 84,
+      "api": "https://yc-oss.github.io/api/tags/proptech.json"
+    },
+    "psychedelics": {
+      "name": "Psychedelics",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/psychedelics.json"
+    },
+    "quantum-computing": {
+      "name": "Quantum Computing",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/quantum-computing.json"
+    },
+    "radar": {
+      "name": "Radar",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/radar.json"
+    },
+    "real-estate": {
+      "name": "Real Estate",
+      "count": 68,
+      "api": "https://yc-oss.github.io/api/tags/real-estate.json"
+    },
+    "recommendation-system": {
+      "name": "Recommendation System",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/recommendation-system.json"
+    },
+    "recruiting": {
+      "name": "Recruiting",
+      "count": 61,
+      "api": "https://yc-oss.github.io/api/tags/recruiting.json"
+    },
+    "referrals": {
+      "name": "Referrals",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/referrals.json"
+    },
+    "regtech": {
+      "name": "Regtech",
+      "count": 13,
+      "api": "https://yc-oss.github.io/api/tags/regtech.json"
+    },
+    "reinforcement-learning": {
+      "name": "Reinforcement Learning",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/reinforcement-learning.json"
+    },
+    "remittances": {
+      "name": "Remittances",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/remittances.json"
+    },
+    "remote": {
+      "name": "Remote",
+      "count": 7,
+      "api": "https://yc-oss.github.io/api/tags/remote.json"
+    },
+    "remote-work": {
+      "name": "Remote Work",
+      "count": 18,
+      "api": "https://yc-oss.github.io/api/tags/remote-work.json"
+    },
+    "renewable-energy": {
+      "name": "Renewable Energy",
+      "count": 14,
+      "api": "https://yc-oss.github.io/api/tags/renewable-energy.json"
+    },
+    "restaurant-tech": {
+      "name": "Restaurant Tech",
+      "count": 11,
+      "api": "https://yc-oss.github.io/api/tags/restaurant-tech.json"
+    },
+    "retail": {
+      "name": "Retail",
+      "count": 47,
+      "api": "https://yc-oss.github.io/api/tags/retail.json"
+    },
+    "retail-tech": {
+      "name": "Retail Tech",
+      "count": 15,
+      "api": "https://yc-oss.github.io/api/tags/retail-tech.json"
+    },
+    "reviews": {
+      "name": "Reviews",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/reviews.json"
+    },
+    "ridesharing": {
+      "name": "Ridesharing",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/ridesharing.json"
+    },
+    "robotic-process-automation": {
+      "name": "Robotic Process Automation",
+      "count": 22,
+      "api": "https://yc-oss.github.io/api/tags/robotic-process-automation.json"
+    },
+    "robotic-surgery": {
+      "name": "Robotic Surgery",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/robotic-surgery.json"
+    },
+    "robotics": {
+      "name": "Robotics",
+      "count": 67,
+      "api": "https://yc-oss.github.io/api/tags/robotics.json"
+    },
+    "rocketry": {
+      "name": "Rocketry",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/rocketry.json"
+    },
+    "saas": {
+      "name": "SaaS",
+      "count": 1042,
+      "api": "https://yc-oss.github.io/api/tags/saas.json"
+    },
+    "sales": {
+      "name": "Sales",
+      "count": 81,
+      "api": "https://yc-oss.github.io/api/tags/sales.json"
+    },
+    "sales-enablement": {
+      "name": "Sales Enablement",
+      "count": 23,
+      "api": "https://yc-oss.github.io/api/tags/sales-enablement.json"
+    },
+    "satellites": {
+      "name": "Satellites",
+      "count": 18,
+      "api": "https://yc-oss.github.io/api/tags/satellites.json"
+    },
+    "scheduling": {
+      "name": "Scheduling",
+      "count": 12,
+      "api": "https://yc-oss.github.io/api/tags/scheduling.json"
+    },
+    "search": {
+      "name": "Search",
+      "count": 16,
+      "api": "https://yc-oss.github.io/api/tags/search.json"
+    },
+    "security": {
+      "name": "Security",
+      "count": 81,
+      "api": "https://yc-oss.github.io/api/tags/security.json"
+    },
+    "security-orchestration-automation-and-response-(soar)": {
+      "name": "Security Orchestration, Automation and Response (SOAR)",
+      "count": 1,
+      "api": "https://yc-oss.github.io/api/tags/security-orchestration-automation-and-response-(soar).json"
+    },
+    "self-driving-vehicles": {
+      "name": "Self-Driving Vehicles",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/self-driving-vehicles.json"
+    },
+    "semiconductors": {
+      "name": "Semiconductors",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/semiconductors.json"
+    },
+    "seo": {
+      "name": "SEO",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/seo.json"
+    },
+    "skincare": {
+      "name": "Skincare",
+      "count": 1,
+      "api": "https://yc-oss.github.io/api/tags/skincare.json"
+    },
+    "sleep-tech": {
+      "name": "Sleep Tech",
+      "count": 9,
+      "api": "https://yc-oss.github.io/api/tags/sleep-tech.json"
+    },
+    "small-modular-reactors": {
+      "name": "Small Modular Reactors",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/small-modular-reactors.json"
+    },
+    "smart-clothing": {
+      "name": "Smart Clothing",
+      "count": 5,
+      "api": "https://yc-oss.github.io/api/tags/smart-clothing.json"
+    },
+    "smart-home-assistants": {
+      "name": "Smart Home Assistants",
+      "count": 6,
+      "api": "https://yc-oss.github.io/api/tags/smart-home-assistants.json"
+    },
+    "smart-locks": {
+      "name": "Smart Locks",
+      "count": 1,
+      "api": "https://yc-oss.github.io/api/tags/smart-locks.json"
+    },
+    "smb": {
+      "name": "SMB",
+      "count": 17,
+      "api": "https://yc-oss.github.io/api/tags/smb.json"
+    },
+    "sms": {
+      "name": "SMS",
+      "count": 6,
+      "api": "https://yc-oss.github.io/api/tags/sms.json"
+    },
+    "social": {
+      "name": "Social",
+      "count": 66,
+      "api": "https://yc-oss.github.io/api/tags/social.json"
+    },
+    "social-media": {
+      "name": "Social Media",
+      "count": 26,
+      "api": "https://yc-oss.github.io/api/tags/social-media.json"
+    },
+    "social-network": {
+      "name": "Social Network",
+      "count": 17,
+      "api": "https://yc-oss.github.io/api/tags/social-network.json"
+    },
+    "solar-power": {
+      "name": "Solar Power",
+      "count": 15,
+      "api": "https://yc-oss.github.io/api/tags/solar-power.json"
+    },
+    "space-exploration": {
+      "name": "Space Exploration",
+      "count": 18,
+      "api": "https://yc-oss.github.io/api/tags/space-exploration.json"
+    },
+    "speech-recognition": {
+      "name": "Speech Recognition",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/speech-recognition.json"
+    },
+    "sports-tech": {
+      "name": "Sports Tech",
+      "count": 19,
+      "api": "https://yc-oss.github.io/api/tags/sports-tech.json"
+    },
+    "stocks": {
+      "name": "Stocks",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/stocks.json"
+    },
+    "subscriptions": {
+      "name": "Subscriptions",
+      "count": 37,
+      "api": "https://yc-oss.github.io/api/tags/subscriptions.json"
+    },
+    "supply-chain": {
+      "name": "Supply Chain",
+      "count": 71,
+      "api": "https://yc-oss.github.io/api/tags/supply-chain.json"
+    },
+    "sustainability": {
+      "name": "Sustainability",
+      "count": 15,
+      "api": "https://yc-oss.github.io/api/tags/sustainability.json"
+    },
+    "sustainable-agriculture": {
+      "name": "Sustainable Agriculture",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/sustainable-agriculture.json"
+    },
+    "sustainable-fashion": {
+      "name": "Sustainable Fashion",
+      "count": 10,
+      "api": "https://yc-oss.github.io/api/tags/sustainable-fashion.json"
+    },
+    "sustainable-tourism": {
+      "name": "Sustainable Tourism",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/sustainable-tourism.json"
+    },
+    "swarm-robotics": {
+      "name": "Swarm Robotics",
+      "count": 1,
+      "api": "https://yc-oss.github.io/api/tags/swarm-robotics.json"
+    },
+    "synthetic-biology": {
+      "name": "Synthetic Biology",
+      "count": 28,
+      "api": "https://yc-oss.github.io/api/tags/synthetic-biology.json"
+    },
+    "talent-acquisition": {
+      "name": "Talent Acquisition",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/talent-acquisition.json"
+    },
+    "team-collaboration": {
+      "name": "Team Collaboration",
+      "count": 11,
+      "api": "https://yc-oss.github.io/api/tags/team-collaboration.json"
+    },
+    "telecommunications": {
+      "name": "Telecommunications",
+      "count": 21,
+      "api": "https://yc-oss.github.io/api/tags/telecommunications.json"
+    },
+    "telehealth": {
+      "name": "Telehealth",
+      "count": 23,
+      "api": "https://yc-oss.github.io/api/tags/telehealth.json"
+    },
+    "telemedicine": {
+      "name": "Telemedicine",
+      "count": 29,
+      "api": "https://yc-oss.github.io/api/tags/telemedicine.json"
+    },
+    "therapeutics": {
+      "name": "Therapeutics",
+      "count": 43,
+      "api": "https://yc-oss.github.io/api/tags/therapeutics.json"
+    },
+    "ticketing": {
+      "name": "Ticketing",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/ticketing.json"
+    },
+    "time-series": {
+      "name": "Time Series",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/time-series.json"
+    },
+    "trading": {
+      "name": "Trading",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/trading.json"
+    },
+    "transportation": {
+      "name": "Transportation",
+      "count": 38,
+      "api": "https://yc-oss.github.io/api/tags/transportation.json"
+    },
+    "travel": {
+      "name": "Travel",
+      "count": 42,
+      "api": "https://yc-oss.github.io/api/tags/travel.json"
+    },
+    "trust-and-safety": {
+      "name": "Trust & Safety",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/trust-and-safety.json"
+    },
+    "unmanned-vehicle": {
+      "name": "Unmanned Vehicle",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/unmanned-vehicle.json"
+    },
+    "vertical-farming": {
+      "name": "Vertical Farming",
+      "count": 4,
+      "api": "https://yc-oss.github.io/api/tags/vertical-farming.json"
+    },
+    "video": {
+      "name": "Video",
+      "count": 75,
+      "api": "https://yc-oss.github.io/api/tags/video.json"
+    },
+    "virtual-reality": {
+      "name": "Virtual Reality",
+      "count": 13,
+      "api": "https://yc-oss.github.io/api/tags/virtual-reality.json"
+    },
+    "vr-health": {
+      "name": "VR Health",
+      "count": 2,
+      "api": "https://yc-oss.github.io/api/tags/vr-health.json"
+    },
+    "warehouse-management-tech": {
+      "name": "Warehouse Management Tech",
+      "count": 13,
+      "api": "https://yc-oss.github.io/api/tags/warehouse-management-tech.json"
+    },
+    "weather": {
+      "name": "Weather",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/tags/weather.json"
+    },
+    "web-development": {
+      "name": "Web Development",
+      "count": 15,
+      "api": "https://yc-oss.github.io/api/tags/web-development.json"
+    },
+    "women's-health": {
+      "name": "Women's Health",
+      "count": 12,
+      "api": "https://yc-oss.github.io/api/tags/women's-health.json"
+    },
+    "workflow-automation": {
+      "name": "Workflow Automation",
+      "count": 39,
+      "api": "https://yc-oss.github.io/api/tags/workflow-automation.json"
+    }
+  },
+  "industries": {
+    "agriculture": {
+      "name": "Agriculture",
+      "count": 26,
+      "api": "https://yc-oss.github.io/api/industries/agriculture.json"
+    },
+    "analytics": {
+      "name": "Analytics",
+      "count": 117,
+      "api": "https://yc-oss.github.io/api/industries/analytics.json"
+    },
+    "apparel-and-cosmetics": {
+      "name": "Apparel and Cosmetics",
+      "count": 50,
+      "api": "https://yc-oss.github.io/api/industries/apparel-and-cosmetics.json"
+    },
+    "asset-management": {
+      "name": "Asset Management",
+      "count": 50,
+      "api": "https://yc-oss.github.io/api/industries/asset-management.json"
+    },
+    "automotive": {
+      "name": "Automotive",
+      "count": 20,
+      "api": "https://yc-oss.github.io/api/industries/automotive.json"
+    },
+    "aviation-and-space": {
+      "name": "Aviation and Space",
+      "count": 44,
+      "api": "https://yc-oss.github.io/api/industries/aviation-and-space.json"
+    },
+    "b2b": {
+      "name": "B2B",
+      "count": 2296,
+      "api": "https://yc-oss.github.io/api/industries/b2b.json"
+    },
+    "banking-and-exchange": {
+      "name": "Banking and Exchange",
+      "count": 73,
+      "api": "https://yc-oss.github.io/api/industries/banking-and-exchange.json"
+    },
+    "climate": {
+      "name": "Climate",
+      "count": 51,
+      "api": "https://yc-oss.github.io/api/industries/climate.json"
+    },
+    "construction": {
+      "name": "Construction",
+      "count": 37,
+      "api": "https://yc-oss.github.io/api/industries/construction.json"
+    },
+    "consumer": {
+      "name": "Consumer",
+      "count": 794,
+      "api": "https://yc-oss.github.io/api/industries/consumer.json"
+    },
+    "consumer-electronics": {
+      "name": "Consumer Electronics",
+      "count": 37,
+      "api": "https://yc-oss.github.io/api/industries/consumer-electronics.json"
+    },
+    "consumer-finance": {
+      "name": "Consumer Finance",
+      "count": 78,
+      "api": "https://yc-oss.github.io/api/industries/consumer-finance.json"
+    },
+    "consumer-health-and-wellness": {
+      "name": "Consumer Health and Wellness",
+      "count": 116,
+      "api": "https://yc-oss.github.io/api/industries/consumer-health-and-wellness.json"
+    },
+    "content": {
+      "name": "Content",
+      "count": 108,
+      "api": "https://yc-oss.github.io/api/industries/content.json"
+    },
+    "credit-and-lending": {
+      "name": "Credit and Lending",
+      "count": 72,
+      "api": "https://yc-oss.github.io/api/industries/credit-and-lending.json"
+    },
+    "diagnostics": {
+      "name": "Diagnostics",
+      "count": 55,
+      "api": "https://yc-oss.github.io/api/industries/diagnostics.json"
+    },
+    "drones": {
+      "name": "Drones",
+      "count": 17,
+      "api": "https://yc-oss.github.io/api/industries/drones.json"
+    },
+    "drug-discovery-and-delivery": {
+      "name": "Drug Discovery and Delivery",
+      "count": 41,
+      "api": "https://yc-oss.github.io/api/industries/drug-discovery-and-delivery.json"
+    },
+    "education": {
+      "name": "Education",
+      "count": 190,
+      "api": "https://yc-oss.github.io/api/industries/education.json"
+    },
+    "energy": {
+      "name": "Energy",
+      "count": 32,
+      "api": "https://yc-oss.github.io/api/industries/energy.json"
+    },
+    "engineering-product-and-design": {
+      "name": "Engineering, Product and Design",
+      "count": 469,
+      "api": "https://yc-oss.github.io/api/industries/engineering-product-and-design.json"
+    },
+    "finance-and-accounting": {
+      "name": "Finance and Accounting",
+      "count": 110,
+      "api": "https://yc-oss.github.io/api/industries/finance-and-accounting.json"
+    },
+    "fintech": {
+      "name": "Fintech",
+      "count": 564,
+      "api": "https://yc-oss.github.io/api/industries/fintech.json"
+    },
+    "food-and-beverage": {
+      "name": "Food and Beverage",
+      "count": 95,
+      "api": "https://yc-oss.github.io/api/industries/food-and-beverage.json"
+    },
+    "gaming": {
+      "name": "Gaming",
+      "count": 66,
+      "api": "https://yc-oss.github.io/api/industries/gaming.json"
+    },
+    "government": {
+      "name": "Government",
+      "count": 30,
+      "api": "https://yc-oss.github.io/api/industries/government.json"
+    },
+    "healthcare": {
+      "name": "Healthcare",
+      "count": 586,
+      "api": "https://yc-oss.github.io/api/industries/healthcare.json"
+    },
+    "healthcare-it": {
+      "name": "Healthcare IT",
+      "count": 113,
+      "api": "https://yc-oss.github.io/api/industries/healthcare-it.json"
+    },
+    "healthcare-services": {
+      "name": "Healthcare Services",
+      "count": 64,
+      "api": "https://yc-oss.github.io/api/industries/healthcare-services.json"
+    },
+    "home-and-personal": {
+      "name": "Home and Personal",
+      "count": 126,
+      "api": "https://yc-oss.github.io/api/industries/home-and-personal.json"
+    },
+    "housing-and-real-estate": {
+      "name": "Housing and Real Estate",
+      "count": 80,
+      "api": "https://yc-oss.github.io/api/industries/housing-and-real-estate.json"
+    },
+    "human-resources": {
+      "name": "Human Resources",
+      "count": 82,
+      "api": "https://yc-oss.github.io/api/industries/human-resources.json"
+    },
+    "industrial-bio": {
+      "name": "Industrial Bio",
+      "count": 33,
+      "api": "https://yc-oss.github.io/api/industries/industrial-bio.json"
+    },
+    "industrials": {
+      "name": "Industrials",
+      "count": 261,
+      "api": "https://yc-oss.github.io/api/industries/industrials.json"
+    },
+    "infrastructure": {
+      "name": "Infrastructure",
+      "count": 214,
+      "api": "https://yc-oss.github.io/api/industries/infrastructure.json"
+    },
+    "insurance": {
+      "name": "Insurance",
+      "count": 44,
+      "api": "https://yc-oss.github.io/api/industries/insurance.json"
+    },
+    "job-and-career-services": {
+      "name": "Job and Career Services",
+      "count": 18,
+      "api": "https://yc-oss.github.io/api/industries/job-and-career-services.json"
+    },
+    "legal": {
+      "name": "Legal",
+      "count": 31,
+      "api": "https://yc-oss.github.io/api/industries/legal.json"
+    },
+    "manufacturing-and-robotics": {
+      "name": "Manufacturing and Robotics",
+      "count": 59,
+      "api": "https://yc-oss.github.io/api/industries/manufacturing-and-robotics.json"
+    },
+    "marketing": {
+      "name": "Marketing",
+      "count": 135,
+      "api": "https://yc-oss.github.io/api/industries/marketing.json"
+    },
+    "medical-devices": {
+      "name": "Medical Devices",
+      "count": 41,
+      "api": "https://yc-oss.github.io/api/industries/medical-devices.json"
+    },
+    "office-management": {
+      "name": "Office Management",
+      "count": 25,
+      "api": "https://yc-oss.github.io/api/industries/office-management.json"
+    },
+    "operations": {
+      "name": "Operations",
+      "count": 112,
+      "api": "https://yc-oss.github.io/api/industries/operations.json"
+    },
+    "payments": {
+      "name": "Payments",
+      "count": 111,
+      "api": "https://yc-oss.github.io/api/industries/payments.json"
+    },
+    "productivity": {
+      "name": "Productivity",
+      "count": 189,
+      "api": "https://yc-oss.github.io/api/industries/productivity.json"
+    },
+    "real-estate-and-construction": {
+      "name": "Real Estate and Construction",
+      "count": 132,
+      "api": "https://yc-oss.github.io/api/industries/real-estate-and-construction.json"
+    },
+    "recruiting-and-talent": {
+      "name": "Recruiting and Talent",
+      "count": 63,
+      "api": "https://yc-oss.github.io/api/industries/recruiting-and-talent.json"
+    },
+    "retail": {
+      "name": "Retail",
+      "count": 123,
+      "api": "https://yc-oss.github.io/api/industries/retail.json"
+    },
+    "sales": {
+      "name": "Sales",
+      "count": 101,
+      "api": "https://yc-oss.github.io/api/industries/sales.json"
+    },
+    "security": {
+      "name": "Security",
+      "count": 89,
+      "api": "https://yc-oss.github.io/api/industries/security.json"
+    },
+    "social": {
+      "name": "Social",
+      "count": 114,
+      "api": "https://yc-oss.github.io/api/industries/social.json"
+    },
+    "supply-chain-and-logistics": {
+      "name": "Supply Chain and Logistics",
+      "count": 115,
+      "api": "https://yc-oss.github.io/api/industries/supply-chain-and-logistics.json"
+    },
+    "therapeutics": {
+      "name": "Therapeutics",
+      "count": 61,
+      "api": "https://yc-oss.github.io/api/industries/therapeutics.json"
+    },
+    "transportation-services": {
+      "name": "Transportation Services",
+      "count": 26,
+      "api": "https://yc-oss.github.io/api/industries/transportation-services.json"
+    },
+    "travel-leisure-and-tourism": {
+      "name": "Travel, Leisure and Tourism",
+      "count": 30,
+      "api": "https://yc-oss.github.io/api/industries/travel-leisure-and-tourism.json"
+    },
+    "unspecified": {
+      "name": "Unspecified",
+      "count": 19,
+      "api": "https://yc-oss.github.io/api/industries/unspecified.json"
+    },
+    "virtual-and-augmented-reality": {
+      "name": "Virtual and Augmented Reality",
+      "count": 21,
+      "api": "https://yc-oss.github.io/api/industries/virtual-and-augmented-reality.json"
+    }
+  },
+  "batches": {
+    "ik12": {
+      "name": "IK12",
+      "count": 77,
+      "api": "https://yc-oss.github.io/api/batches/ik12.json"
+    },
+    "s05": {
+      "name": "S05",
+      "count": 8,
+      "api": "https://yc-oss.github.io/api/batches/s05.json"
+    },
+    "s06": {
+      "name": "S06",
+      "count": 11,
+      "api": "https://yc-oss.github.io/api/batches/s06.json"
+    },
+    "s07": {
+      "name": "S07",
+      "count": 19,
+      "api": "https://yc-oss.github.io/api/batches/s07.json"
+    },
+    "s08": {
+      "name": "S08",
+      "count": 22,
+      "api": "https://yc-oss.github.io/api/batches/s08.json"
+    },
+    "s09": {
+      "name": "S09",
+      "count": 26,
+      "api": "https://yc-oss.github.io/api/batches/s09.json"
+    },
+    "s10": {
+      "name": "S10",
+      "count": 36,
+      "api": "https://yc-oss.github.io/api/batches/s10.json"
+    },
+    "s11": {
+      "name": "S11",
+      "count": 60,
+      "api": "https://yc-oss.github.io/api/batches/s11.json"
+    },
+    "s12": {
+      "name": "S12",
+      "count": 82,
+      "api": "https://yc-oss.github.io/api/batches/s12.json"
+    },
+    "s13": {
+      "name": "S13",
+      "count": 52,
+      "api": "https://yc-oss.github.io/api/batches/s13.json"
+    },
+    "s14": {
+      "name": "S14",
+      "count": 80,
+      "api": "https://yc-oss.github.io/api/batches/s14.json"
+    },
+    "s15": {
+      "name": "S15",
+      "count": 105,
+      "api": "https://yc-oss.github.io/api/batches/s15.json"
+    },
+    "s16": {
+      "name": "S16",
+      "count": 103,
+      "api": "https://yc-oss.github.io/api/batches/s16.json"
+    },
+    "s17": {
+      "name": "S17",
+      "count": 125,
+      "api": "https://yc-oss.github.io/api/batches/s17.json"
+    },
+    "s18": {
+      "name": "S18",
+      "count": 132,
+      "api": "https://yc-oss.github.io/api/batches/s18.json"
+    },
+    "s19": {
+      "name": "S19",
+      "count": 175,
+      "api": "https://yc-oss.github.io/api/batches/s19.json"
+    },
+    "s20": {
+      "name": "S20",
+      "count": 207,
+      "api": "https://yc-oss.github.io/api/batches/s20.json"
+    },
+    "s21": {
+      "name": "S21",
+      "count": 391,
+      "api": "https://yc-oss.github.io/api/batches/s21.json"
+    },
+    "s22": {
+      "name": "S22",
+      "count": 236,
+      "api": "https://yc-oss.github.io/api/batches/s22.json"
+    },
+    "s23": {
+      "name": "S23",
+      "count": 219,
+      "api": "https://yc-oss.github.io/api/batches/s23.json"
+    },
+    "s24": {
+      "name": "S24",
+      "count": 204,
+      "api": "https://yc-oss.github.io/api/batches/s24.json"
+    },
+    "unspecified": {
+      "name": "Unspecified",
+      "count": 3,
+      "api": "https://yc-oss.github.io/api/batches/unspecified.json"
+    },
+    "w06": {
+      "name": "W06",
+      "count": 7,
+      "api": "https://yc-oss.github.io/api/batches/w06.json"
+    },
+    "w07": {
+      "name": "W07",
+      "count": 13,
+      "api": "https://yc-oss.github.io/api/batches/w07.json"
+    },
+    "w08": {
+      "name": "W08",
+      "count": 21,
+      "api": "https://yc-oss.github.io/api/batches/w08.json"
+    },
+    "w09": {
+      "name": "W09",
+      "count": 16,
+      "api": "https://yc-oss.github.io/api/batches/w09.json"
+    },
+    "w10": {
+      "name": "W10",
+      "count": 27,
+      "api": "https://yc-oss.github.io/api/batches/w10.json"
+    },
+    "w11": {
+      "name": "W11",
+      "count": 45,
+      "api": "https://yc-oss.github.io/api/batches/w11.json"
+    },
+    "w12": {
+      "name": "W12",
+      "count": 66,
+      "api": "https://yc-oss.github.io/api/batches/w12.json"
+    },
+    "w13": {
+      "name": "W13",
+      "count": 46,
+      "api": "https://yc-oss.github.io/api/batches/w13.json"
+    },
+    "w14": {
+      "name": "W14",
+      "count": 74,
+      "api": "https://yc-oss.github.io/api/batches/w14.json"
+    },
+    "w15": {
+      "name": "W15",
+      "count": 111,
+      "api": "https://yc-oss.github.io/api/batches/w15.json"
+    },
+    "w16": {
+      "name": "W16",
+      "count": 122,
+      "api": "https://yc-oss.github.io/api/batches/w16.json"
+    },
+    "w17": {
+      "name": "W17",
+      "count": 116,
+      "api": "https://yc-oss.github.io/api/batches/w17.json"
+    },
+    "w18": {
+      "name": "W18",
+      "count": 147,
+      "api": "https://yc-oss.github.io/api/batches/w18.json"
+    },
+    "w19": {
+      "name": "W19",
+      "count": 196,
+      "api": "https://yc-oss.github.io/api/batches/w19.json"
+    },
+    "w20": {
+      "name": "W20",
+      "count": 228,
+      "api": "https://yc-oss.github.io/api/batches/w20.json"
+    },
+    "w21": {
+      "name": "W21",
+      "count": 337,
+      "api": "https://yc-oss.github.io/api/batches/w21.json"
+    },
+    "w22": {
+      "name": "W22",
+      "count": 402,
+      "api": "https://yc-oss.github.io/api/batches/w22.json"
+    },
+    "w23": {
+      "name": "W23",
+      "count": 274,
+      "api": "https://yc-oss.github.io/api/batches/w23.json"
+    },
+    "w24": {
+      "name": "W24",
+      "count": 251,
+      "api": "https://yc-oss.github.io/api/batches/w24.json"
+    }
+  }
+}
