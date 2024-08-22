@@ -266,33 +266,36 @@ if (hasChanges || true) {
 
   text += `\n## Metadata\n\n`;
   text += `- Last updated: ${new Date().toISOString()}\n`;
-  text += `- Total companies: ${results.length}\n`;
-  text += `- Total tags: ${uniqueTags.length}\n`;
-  text += `- Total industries: ${uniqueIndustries.length}\n`;
-  text += `- Total batches: ${uniqueBatches.length}\n`;
+  text += `- Companies: ${results.length}\n`;
+  text += `- Batches: ${uniqueBatches.length}\n`;
+  text += `- Industries: ${uniqueIndustries.length}\n`;
+  text += `- Tags: ${uniqueTags.length}\n`;
 
   text += `\n## API\n\n`;
   text += `- Metadata: https://yc-oss.github.io/api/meta.json\n`;
 
-  text += `\n### Companies\n\n`;
+  text += `\n### Companies\n\n| List of companies | API endpoint |\n| --------------- | ------------ |\n`;
   for (const slug of Object.keys(meta.companies)) {
-    text += `- ${meta.companies[slug].name}: https://yc-oss.github.io/api/companies/${slug}.json\n`;
+    text += `| ${meta.companies[slug].name} | https://yc-oss.github.io/api/companies/${slug}.json |\n`;
   }
 
-  text += `\n### Batches\n\n`;
+  text += `\n### Batches\n\n<details>\n<summary>Companies per batch</summary>\n\n`;
   for (const slug of Object.keys(meta.batches)) {
     text += `- ${meta.batches[slug].name}: https://yc-oss.github.io/api/batches/${slug}.json\n`;
   }
+  text += `</details>\n`;
 
-  text += `\n### Industries\n\n`;
+  text += `\n### Industries\n\n<details>\n<summary>Companies per industry</summary>\n\n`;
   for (const slug of Object.keys(meta.industries)) {
     text += `- ${meta.industries[slug].name}: https://yc-oss.github.io/api/industries/${slug}.json\n`;
   }
+  text += `</details>\n`;
 
-  text += `\n### Tags\n\n`;
+  text += `\n### Tags\n\n<details>\n<summary>Companies per tag</summary>\n\n`;
   for (const slug of Object.keys(meta.tags)) {
     text += `- ${meta.tags[slug].name}: https://yc-oss.github.io/api/tags/${slug}.json\n`;
   }
+  text += `</details>\n`;
 
   text += `<!--end generated readme-->\n`;
 
