@@ -109,9 +109,12 @@ const results = companies.map((hit) => {
   return {
     ...hit,
     url: `https://www.ycombinator.com/companies/${hit.slug}`,
-    api: `https://yc-oss.github.io/api/batches/${slugify(hit.batch ?? "other", {
-      lower: true,
-    })}/${hit.slug}.json`,
+    api: `https://yc-oss.github.io/api/batches/${slugify(
+      hit.batch ?? "Unspecified",
+      {
+        lower: true,
+      }
+    )}/${hit.slug}.json`,
   };
 });
 
@@ -270,6 +273,20 @@ for (const { key, slug, name } of [
   };
 }
 
+for (const company of results) {
+  ensureDir(
+    `batches/${slugify(result.batch ?? "Unspecified", {
+      lower: true,
+    })}`
+  );
+  await Deno.writeTextFile(
+    `batches/${slugify(result.batch ?? "Unspecified", {
+      lower: true,
+    })}/${company.slug}.json`,
+    JSON.stringify(company, null, 2) + "\n"
+  );
+}
+
 const existingMeta = JSON.parse(await Deno.readTextFile("meta.json"));
 const newMeta = {
   last_updated: new Date().toISOString(),
@@ -283,8 +300,7 @@ const hasChanges = Object.keys(newMeta).some((key) => {
     JSON.stringify(newMeta[key]) !== JSON.stringify(existingMeta[key])
   );
 });
-
-if (hasChanges || true) {
+if (hasChanges) {
   console.log("Meta has changed, updating meta.json");
   await Deno.writeTextFile(
     "meta.json",
