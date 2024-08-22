@@ -1,0 +1,29 @@
+name: Update APIs
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@4
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Run fetcher script
+        run: deno run --allow-net --allow-read --allow-write fetcher.ts
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m ":card_file_box: Update APIs: $(date +'%Y-%m-%d')" || exit 0
+          git push
