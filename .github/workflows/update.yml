@@ -1,5 +1,9 @@
 name: Update APIs
 
+permissions:
+  contents: write
+  pages: write
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -10,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@4
+        uses: actions/checkout@v4
 
       - name: Setup Deno
         uses: denoland/setup-deno@v1
@@ -27,3 +31,11 @@ jobs:
           git add .
           git commit -m ":card_file_box: Update APIs: $(date +'%Y-%m-%d')" || exit 0
           git push
+
+      - name: Publish to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: gh-pages
+          force_orphan: true

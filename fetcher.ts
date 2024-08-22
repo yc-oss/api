@@ -1,3 +1,4 @@
+import { ensureDir } from "https://deno.land/std@0.224.0/fs/ensure_dir.ts";
 import { slugify } from "https://deno.land/x/slugify/mod.ts";
 
 const indexName = "YCCompany_By_Launch_Date_production";
@@ -93,6 +94,11 @@ const fetchAllCompanies = async (): Promise<LaunchedCompany[]> => {
   }
   return allCompanies.sort((a, b) => a.id - b.id);
 };
+
+await ensureDir("companies");
+await ensureDir("tags");
+await ensureDir("industries");
+await ensureDir("batches");
 
 const companies = await fetchAllCompanies();
 const results = companies.map((hit) => {
