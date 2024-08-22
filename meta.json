@@ -1,41 +1,41 @@
 {
-  "last_updated": "2024-08-22T12:07:32.083Z",
+  "last_updated": "2024-08-22T12:22:41.830Z",
   "readme": "https://github.com/yc-oss/api",
   "companies": {
     "all": {
-      "name": "All",
+      "name": "All launched companies",
       "count": 4872,
       "api": "https://yc-oss.github.io/api/companies/all.json"
     },
+    "top": {
+      "name": "Top companies",
+      "count": 91,
+      "api": "https://yc-oss.github.io/api/companies/top.json"
+    },
     "black-founded": {
-      "name": "Black-founded",
+      "name": "Black-founded companies",
       "count": 272,
       "api": "https://yc-oss.github.io/api/companies/black-founded.json"
     },
     "hispanic-latino-founded": {
-      "name": "Hispanic/Latino-founded",
+      "name": "Hispanic/Latino-founded companies",
       "count": 482,
       "api": "https://yc-oss.github.io/api/companies/hispanic-latino-founded.json"
     },
     "women-founded": {
-      "name": "Women-founded",
+      "name": "Women-founded companies",
       "count": 733,
       "api": "https://yc-oss.github.io/api/companies/women-founded.json"
     },
-    "top": {
-      "name": "Top",
-      "count": 91,
-      "api": "https://yc-oss.github.io/api/companies/top.json"
-    },
-    "hiring": {
-      "name": "Hiring",
-      "count": 1006,
-      "api": "https://yc-oss.github.io/api/companies/hiring.json"
-    },
     "nonprofit": {
-      "name": "Nonprofit",
+      "name": "Not-for-profit companies",
       "count": 43,
       "api": "https://yc-oss.github.io/api/companies/nonprofit.json"
+    },
+    "hiring": {
+      "name": "Companies currently hiring",
+      "count": 1006,
+      "api": "https://yc-oss.github.io/api/companies/hiring.json"
     }
   },
   "tags": {
