@@ -1,0 +1,46 @@
+{
+  "id": 29767,
+  "name": "Thunder Compute",
+  "slug": "thunder-compute",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f41c1e3ea873ecf72e295ba7e2661334c89c3d60.png",
+  "website": "https://thundercompute.com",
+  "all_locations": "Atlanta, GA, USA",
+  "long_description": "Thunder Compute has created virtual GPU-over-TCP technology (think PCI-express over a network). This technology creates a new cloud instance with virtual, on-demand GPUs. \r\n\r\nWhat this means for developers is one cloud instance now accommodates any development workflow. A developer can build and debug in a CPU-only dev machine, then scale to a massive cluster with one command. This flexibility saves time spent configuring instances and cost of paying for idle compute during development.\r\n\r\nIn the background, our technology dramatically cuts CapEx for cloud providers. It does this by:\r\n\r\n1) Placing multiple workloads on a single GPU with dynamic memory sharing, similar to vCPUs on AWS, improving utilization\r\n\r\n2) Allowing CPU-only instances to share pooled GPU resources rather than dedicated cards that can't be accessed by other machines, further improving utilization\r\n\r\nGPU virtualization also saves OpEx by reducing IT and procurement processes required to get developers access to GPUs.\r\n\r\nNotably, this appears to be the most efficient technology for serverless GPU computing, achieving instantaneous cold starts by decoupling the GPU environment from the physical GPU.",
+  "one_liner": "Cloud Computing Technology to virtualize GPUs over TCP.",
+  "team_size": 2,
+  "highlight_black": false,
+  "highlight_latinx": false,
+  "highlight_women": false,
+  "industry": "B2B",
+  "subindustry": "Unspecified",
+  "launched_at": 1723245936,
+  "tags": [
+    "Artificial Intelligence",
+    "Developer Tools",
+    "B2B",
+    "Cloud Computing",
+    "Infrastructure"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "S24",
+  "status": "Active",
+  "industries": [
+    "B2B",
+    "Infrastructure"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada"
+  ],
+  "stage": "Early",
+  "app_video_public": true,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": true,
+  "url": "https://www.ycombinator.com/companies/thunder-compute",
+  "api": "https://yc-oss.github.io/api/batches/s24/thunder-compute.json"
+}

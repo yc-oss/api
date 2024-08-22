@@ -1,6 +1,10 @@
 # Y Combinator companies API
 
-This repository contains an unofficial API for Y Combinator companies fetched from the Y Combinator website's Algolia search index. It only includes **publicly launched companies** with pages on the Y Combinator website. It does not scrape the Y Combinator website, instead it uses the Algolia search index to fetch the companies in a GitHub Actions workflow that runs every day.
+This repository contains an unofficial API for Y Combinator companies fetched
+from the Y Combinator website's Algolia search index. It only includes
+**publicly launched companies** with pages on the Y Combinator website. It does
+not scrape the Y Combinator website, instead it uses the Algolia search index to
+fetch the companies in a GitHub Actions workflow that runs every day.
 
 <!--start generated readme-->
 
@@ -488,7 +492,8 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 
 ## 📀 Schema
 
-Each endpoint (with the exception of `meta.json`) returns an array of objects. Each object has the following properties:
+Each endpoint (with the exception of `meta.json`) returns an array of objects.
+Each object has the following properties:
 
 | Property                | Type     | Description                                                      |
 | ----------------------- | -------- | ---------------------------------------------------------------- |
@@ -563,7 +568,8 @@ For example, the `airbnb.json` endpoint returns the following object:
 }
 ```
 
-Here are first 10 companies from the Top Companies API (https://yc-oss.github.io/api/companies/top.json):
+Here are first 10 companies from the Top Companies API
+(https://yc-oss.github.io/api/companies/top.json):
 
 | Logo                                                                                                                                   | Name       | One-liner                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------- |
