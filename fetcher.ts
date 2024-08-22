@@ -121,7 +121,7 @@ const meta: Record<
 > = {
   companies: {
     all: {
-      name: "All",
+      name: "All launched companies",
       count: results.length,
       api: "https://yc-oss.github.io/api/companies/all.json",
     },
@@ -217,16 +217,24 @@ for (const batch of uniqueBatches) {
 }
 
 for (const { key, slug, name } of [
-  { key: "highlight_black", slug: "black-founded", name: "Black-founded" },
+  { key: "top_company", slug: "top", name: "Top companies" },
+  {
+    key: "highlight_black",
+    slug: "black-founded",
+    name: "Black-founded companies",
+  },
   {
     key: "highlight_latinx",
     slug: "hispanic-latino-founded",
-    name: "Hispanic/Latino-founded",
+    name: "Hispanic/Latino-founded companies",
   },
-  { key: "highlight_women", slug: "women-founded", name: "Women-founded" },
-  { key: "top_company", slug: "top", name: "Top" },
-  { key: "isHiring", slug: "hiring", name: "Hiring" },
-  { key: "nonprofit", slug: "nonprofit", name: "Nonprofit" },
+  {
+    key: "highlight_women",
+    slug: "women-founded",
+    name: "Women-founded companies",
+  },
+  { key: "nonprofit", slug: "nonprofit", name: "Not-for-profit companies" },
+  { key: "isHiring", slug: "hiring", name: "Companies currently hiring" },
 ]) {
   const filteredResults = results.filter((result) => result[key]);
   await Deno.writeTextFile(
@@ -264,36 +272,39 @@ if (hasChanges || true) {
   const readme = await Deno.readTextFile("README.md");
   let text = `<!--start generated readme-->\n`;
 
-  text += `\n## Metadata\n\n`;
-  text += `- Last updated: ${new Date().toISOString()}\n`;
+  text += `\n## ℹ️ Metadata\n\n`;
+  text += `API endpoint: https://yc-oss.github.io/api/meta.json\n\n`;
+  text += `- Last updated: ${new Date().toLocaleDateString("en-US", {
+    dateStyle: "long",
+    timeStyle: "short",
+  })}\n`;
   text += `- Companies: ${results.length}\n`;
   text += `- Batches: ${uniqueBatches.length}\n`;
   text += `- Industries: ${uniqueIndustries.length}\n`;
   text += `- Tags: ${uniqueTags.length}\n`;
 
-  text += `\n## API\n\n`;
-  text += `- Metadata: https://yc-oss.github.io/api/meta.json\n`;
+  text += `\n## 💻 APIs\n\n`;
 
-  text += `\n### Companies\n\n| List of companies | API endpoint |\n| --------------- | ------------ |\n`;
+  text += `\n### 🏢 Companies\n\n| List of companies | API endpoint |\n| --------------- | ------------ |\n`;
   for (const slug of Object.keys(meta.companies)) {
     text += `| ${meta.companies[slug].name} | https://yc-oss.github.io/api/companies/${slug}.json |\n`;
   }
 
-  text += `\n### Batches\n\n<details>\n<summary>Companies per batch</summary>\n\n`;
+  text += `\n### 🎓 Batches\n\n<details>\n<summary>Companies per batch</summary>\n\n| Batch | Count | API endpoint |\n| ---- | ---- | ------------ |\n`;
   for (const slug of Object.keys(meta.batches)) {
-    text += `- ${meta.batches[slug].name}: https://yc-oss.github.io/api/batches/${slug}.json\n`;
+    text += `| ${meta.batches[slug].name} | ${meta.batches[slug].count} | https://yc-oss.github.io/api/batches/${slug}.json |\n`;
   }
   text += `</details>\n`;
 
-  text += `\n### Industries\n\n<details>\n<summary>Companies per industry</summary>\n\n`;
+  text += `\n### 🏭 Industries\n\n<details>\n<summary>Companies per industry</summary>\n\n| Industry | Count | API endpoint |\n| -------- | ---- | ------------ |\n`;
   for (const slug of Object.keys(meta.industries)) {
-    text += `- ${meta.industries[slug].name}: https://yc-oss.github.io/api/industries/${slug}.json\n`;
+    text += `| ${meta.industries[slug].name} | ${meta.industries[slug].count} | https://yc-oss.github.io/api/industries/${slug}.json |\n`;
   }
   text += `</details>\n`;
 
-  text += `\n### Tags\n\n<details>\n<summary>Companies per tag</summary>\n\n`;
+  text += `\n### 🏷️ Tags\n\n<details>\n<summary>Companies per tag</summary>\n\n| Tag | Count | API endpoint |\n| --- | ---- | ------------ |\n`;
   for (const slug of Object.keys(meta.tags)) {
-    text += `- ${meta.tags[slug].name}: https://yc-oss.github.io/api/tags/${slug}.json\n`;
+    text += `| ${meta.tags[slug].name} | ${meta.tags[slug].count} | https://yc-oss.github.io/api/tags/${slug}.json |\n`;
   }
   text += `</details>\n`;
 

@@ -24,6 +24,9 @@ jobs:
       - name: Run fetcher script
         run: deno run --allow-net --allow-read --allow-write fetcher.ts
 
+      - name: Format README.md
+        run: deno fmt README.md
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
