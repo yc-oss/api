@@ -275,12 +275,12 @@ for (const { key, slug, name } of [
 
 for (const company of results) {
   ensureDir(
-    `batches/${slugify(result.batch ?? "Unspecified", {
+    `batches/${slugify(company.batch ?? "Unspecified", {
       lower: true,
     })}`
   );
   await Deno.writeTextFile(
-    `batches/${slugify(result.batch ?? "Unspecified", {
+    `batches/${slugify(company.batch ?? "Unspecified", {
       lower: true,
     })}/${company.slug}.json`,
     JSON.stringify(company, null, 2) + "\n"
