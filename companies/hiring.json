@@ -17547,7 +17547,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Dripos is the only piece of software a coffee shop needs to run their business. We offer point of sale, employee scheduling, mobile ordering, and more to the 100,000 cafes in the United States.",
     "one_liner": "The only piece of software a coffee shop needs to operate.",
-    "team_size": 18,
+    "team_size": 30,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -18260,7 +18260,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f00f6931229f64701cd737b9839f92f72e20005.png",
     "website": "https://www.swif.ai",
     "all_locations": "Sunnyvale, CA, USA; Santa Clara, CA, USA; Remote",
-    "long_description": "We enhance security and ensure compliance. Swif is a unified device security platform that works on all popular operating systems, allowing your IT team the visibility and control they need to secure and manage devices in your organization. Swif allows you to automate customizable patch management for compliance frameworks such as HIPAA, SOC2, ISO 27001, fedRAMP, and CJIS.",
+    "long_description": "Secure and manage all your devices with Swif. Automate compliance, streamline onboarding, and save on access management—all in one platform.\r\n\r\n---\r\n\r\nChallenges Addressed\r\n\r\n- Fragmented device management across multiple operating systems and locations.\r\n- Time-consuming manual compliance checks and reporting for various regulatory standards.\r\n- Inefficient onboarding and offboarding processes for remote and global teams.\r\n- Lack of visibility into shadow IT and unauthorized SaaS application usage.\r\n\r\n\r\nCustomer Benefits\r\n\r\n- Unified visibility and control over all organizational devices, regardless of operating system or location.\r\n- Significant time savings through automated compliance readiness checks and real-time reporting.\r\n- Enhanced security posture with the ability to instantly lock or wipe compromised devices remotely.\r\n- Reduced IT overhead by consolidating device management, access control, and compliance tools into a single platform.\r\n",
     "one_liner": "Compliance-First Device Security",
     "team_size": 10,
     "highlight_black": false,
@@ -25222,54 +25222,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/levro",
     "api": "https://yc-oss.github.io/api/batches/s21/levro.json"
-  },
-  {
-    "id": 24038,
-    "name": "FrontPage",
-    "slug": "frontpage",
-    "former_names": [
-      "Crowdware Labs Private Limited"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29ac95e715a7bf8e21b677a36c6d3cebf4e933ad.png",
-    "website": "https://front.page",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "FrontPage has built a community for financial market traders in India. The community has more than 1M monthly active users.\r\n\r\nNow building a new stock trading platform for India, leveraging AI advances. \r\n\r\n\r\n\r\n",
-    "one_liner": "AI first stock trading platform for India",
-    "team_size": 24,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1627473725,
-    "tags": [
-      "Fintech",
-      "Community",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S21",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Asset Management"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/frontpage",
-    "api": "https://yc-oss.github.io/api/batches/s21/frontpage.json"
   },
   {
     "id": 24039,
@@ -37565,6 +37517,54 @@
     "api": "https://yc-oss.github.io/api/batches/w23/doctor-droid.json"
   },
   {
+    "id": 27690,
+    "name": "Credal.ai",
+    "slug": "credal-ai",
+    "former_names": [
+      "Credal.AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67584a441ac14e21e59b84f0e3760e5308aaf4dc.png",
+    "website": "https://credal.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Credal protects your sensitive data across all AI apps. We ensure everyone at your company can get the benefits of AI like ChatGPT, without risking business secrets or protected data like PII making it into AI training. Think \"Okta for AI\".\r\n\r\nCredal gives you four layers of security:\r\n1. Automatic redaction, anonymisation, or user warnings when sensitive data is about to be sent off network\r\n2. Our Secure Chat UI and APIs provide audit logs on every interaction with external AI, allowing you to see what data has been shared with which providers and what Terms of Service or MSA's govern each one.\r\n3. We provide a wrapper around all the major providers of Large Language Models, so we can automatically direct your requests to the most appropriate AI for your particular request (based on data sensitivity, context window, cost, etc.)\r\n4. We get sensible MSA's in place with all major external providers, so your data cannot be retained for more than 30 days or used to train models.",
+    "one_liner": "Build Intelligent Internal Assistants",
+    "team_size": 8,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1669993072,
+    "tags": [
+      "Generative AI",
+      "API",
+      "Cybersecurity",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/credal-ai",
+    "api": "https://yc-oss.github.io/api/batches/w23/credal-ai.json"
+  },
+  {
     "id": 27692,
     "name": "Rollstack",
     "slug": "rollstack-2",
@@ -39029,6 +39029,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pointwise",
     "api": "https://yc-oss.github.io/api/batches/w23/pointwise.json"
+  },
+  {
+    "id": 27957,
+    "name": "Infinia",
+    "slug": "infinia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7fe17d09bdbf7258b587a47e734d932c0b1886d.png",
+    "website": "https://www.infiniaweb.com/",
+    "all_locations": "",
+    "long_description": "Infinia is enabling Fintechs, PSPs and Banks to connect to RTP rails both for payins and payouts globally. Ianai, the CEO, is the former Global VP of Partnerships at dLocal and grew the company from $0 to $100M ARR.\r\n\r\n",
+    "one_liner": "Real Time Payments infraestructure",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1668175381,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/infinia",
+    "api": "https://yc-oss.github.io/api/batches/w23/infinia.json"
   },
   {
     "id": 27959,
@@ -42991,8 +43031,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4967676cdc6058f952822347fafe9d59a61218fb.png",
     "website": "https://autotab.com",
     "all_locations": "",
-    "long_description": "Autotab is a desktop app for teaching AI to do the work you don’t want to do. You simply show it how to do the task once and Autotab uses AI to learn how to do it for you. Once it has learned a task, Autotab can do it as many times as you want, 24/7/365—no lunch breaks needed.\r\n\r\nAutotab is built for real work: It excels at tasks that are **repetitive**, such as doing the same thing for every item in a list, and **complex** e.g. involving many steps across different software applications. Autotab currently is able to do any task that can be done in a browser, with capabilities to control any application on your computer coming soon.\r\n\r\nOn top of it all, you only pay for the time that Autotab actually spends doing work for you—starting at $1/hour!",
-    "one_liner": "The digital robot that does your repetitive work — for $1/hour",
+    "long_description": "Autotab is a desktop app for teaching AI to do the work you don’t want to do. You simply show it how to do the task once and Autotab uses AI to learn how to do it for you. Once it has learned a task, Autotab can do it as many times as you want, 24/7/365—no lunch breaks needed.\r\n\r\nAutotab is built for real work: It excels at tasks that are **repetitive**, such as doing the same thing for every item in a list, and **complex** e.g. involving many steps across different software applications. Autotab currently is able to do any task that can be done in a browser, with capabilities to control any application on your computer coming soon.\r\n\r\nOn top of it all, you only pay for the time that Autotab actually spends doing work for you!",
+    "one_liner": "The digital robot that does your repetitive work",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -43608,45 +43648,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/nuanced-inc.json"
   },
   {
-    "id": 29252,
-    "name": "Maia",
-    "slug": "maia",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7f5941ce46fd5ba95ec2e5bbefc76f37b95a78.png",
-    "website": "https://www.ourmaia.com/",
-    "all_locations": "",
-    "long_description": "Maia helps couples connect more each day. Trained by relationship experts, Maia offers daily activities, personalized advice, proactive insights, quizzes and games through AI and relationship science.",
-    "one_liner": "AI relationship app that keeps couples together",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "Healthcare",
-    "subindustry": "Consumer -> Social",
-    "launched_at": 1707183494,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/maia",
-    "api": "https://yc-oss.github.io/api/batches/w24/maia.json"
-  },
-  {
     "id": 29253,
     "name": "Vectorview",
     "slug": "vectorview",
@@ -43697,7 +43698,7 @@
     "all_locations": "",
     "long_description": "Reducto offers robust and reliable document ingestion for any workflow. Our API allows you to convert complex, unstructured documents into structured outputs that are perfect for RAG, process automation, and more. ",
     "one_liner": "Unlocking data behind complex documents",
-    "team_size": 2,
+    "team_size": 4,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -43706,10 +43707,10 @@
     "launched_at": 1704664395,
     "tags": [
       "Documents",
-      "Artificial Intelligence",
       "Data Engineering",
       "Enterprise Software",
-      "Search"
+      "Search",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45268,6 +45269,45 @@
     "api": "https://yc-oss.github.io/api/batches/w24/sample.json"
   },
   {
+    "id": 29422,
+    "name": "Amber AI",
+    "slug": "amber-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff0aee737867b4cc208ed70d985fdd52233ec5bc.png",
+    "website": "https://helloamber.ai/",
+    "all_locations": "",
+    "long_description": "Amber is an extension of your post-sales team that has context on every customer and every action. \r\n- Transforms a sea of faceless customers into data-driven opportunities your team can execute on \r\n- Automate reactive responses to minimize firefighting \r\n- Supercharge proactive outreach with AI crafted conversations and up-sell qualification; every customer will feel taken care of \r\n\r\nOvertime Amber can learn and scale more and more of your post-sales motions. ",
+    "one_liner": "Co-pilot for Account Managers",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "B2B",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1709700135,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/amber-ai",
+    "api": "https://yc-oss.github.io/api/batches/w24/amber-ai.json"
+  },
+  {
     "id": 29424,
     "name": "Openmart",
     "slug": "openmart",
@@ -46622,52 +46662,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/overlap",
     "api": "https://yc-oss.github.io/api/batches/s24/overlap.json"
-  },
-  {
-    "id": 29977,
-    "name": "Merlin AI",
-    "slug": "merlin-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b546cd339690195550c29da13ada87ec426a083a.png",
-    "website": "https://www.merlinai.co",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Merlin is an AI-powered ERP for construction companies. \r\n\r\nWe provide construction companies with a single, AI-powered platform to manage their entire business operations. Our platform unifies project management, materials management, finance, estimating, and CRM—traditionally scattered across multiple systems—into one cohesive solution. For the first time, construction firms can automate and oversee every aspect of their projects in a single, intuitive system. Today, construction companies pay for 8-17 different tools - that we eliminate the need for. \r\n\r\nWe reduce \r\n\r\n- Manual work by 60%\r\n- Cut software costs by $10,000 monthly\r\n- Complete projects 3x faster. \r\n\r\nWe're witnessing a perfect storm of factors: decades of stagnation in traditional ERP systems, a multi-billion-dollar industry built on misaligned incentives, and the transformative potential of AI. This confluence creates a rare cyclical opportunity for market upheaval. The last major shift in this space occurred in the 1990s with the advent of digital systems, and now, 30 years later, we're on the cusp of another seismic change. Customers are crying out for innovation and as AI reshapes the landscape, early customer signals indicate an eagerness for smarter, more efficient systems. It's a unique window of opportunity that opens perhaps once in a multi-decade chance to redefine an entire industry's operational backbone.",
-    "one_liner": "AI powered ERP for Construction",
-    "team_size": 6,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1722038915,
-    "tags": [
-      "SaaS",
-      "Construction",
-      "Manufacturing",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/merlin-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/merlin-ai.json"
   }
 ]

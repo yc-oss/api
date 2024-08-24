@@ -4154,7 +4154,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -8446,7 +8446,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -13447,6 +13447,53 @@
     "api": "https://yc-oss.github.io/api/batches/s24/poka-labs.json"
   },
   {
+    "id": 29254,
+    "name": "Reducto",
+    "slug": "reducto",
+    "former_names": [
+      "Remembrall"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9794d4fb523375d125992ce9fa5e9e9db45daf9a.png",
+    "website": "https://reducto.ai",
+    "all_locations": "",
+    "long_description": "Reducto offers robust and reliable document ingestion for any workflow. Our API allows you to convert complex, unstructured documents into structured outputs that are perfect for RAG, process automation, and more. ",
+    "one_liner": "Unlocking data behind complex documents",
+    "team_size": 4,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1704664395,
+    "tags": [
+      "Documents",
+      "Data Engineering",
+      "Enterprise Software",
+      "Search",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reducto",
+    "api": "https://yc-oss.github.io/api/batches/w24/reducto.json"
+  },
+  {
     "id": 29260,
     "name": "Quary",
     "slug": "quary",
@@ -16692,6 +16739,54 @@
     "api": "https://yc-oss.github.io/api/batches/s24/codes-health.json"
   },
   {
+    "id": 29637,
+    "name": "Flyflow",
+    "slug": "flyflow",
+    "former_names": [
+      "flyflow"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png",
+    "website": "https://flyflow.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "\"I don’t know how I would have found these leads myself.\"  - YC Founder\r\n\r\nFlyflow enables companies to find prospective customers using AI workflows instead of drowning in tables. Try out our product at app.flyflow.ai.\r\n\r\nHow are we different?\r\n\r\n(1) Higher quality leads: get to a list that’s so relevant, you’ll want to spend time getting introduced to people there, instead of sending another 1,000 cold emails\r\n\r\n(2) Incredibly easy to set up: get up and running with a list of prospects in hand  in under 10 minutes\r\n\r\n(3) Integrate the best of different sales tools all in one place: no need to switch between different tabs for web research, filtering by company size, and finding prospect LinkedIns",
+    "one_liner": "The easiest way to find high-quality sales leads",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1718910453,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Sales",
+      "Market Research",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/flyflow",
+    "api": "https://yc-oss.github.io/api/batches/s24/flyflow.json"
+  },
+  {
     "id": 29640,
     "name": "Tabular",
     "slug": "tabular",
@@ -16880,51 +16975,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moonglow",
     "api": "https://yc-oss.github.io/api/batches/s24/moonglow.json"
-  },
-  {
-    "id": 29655,
-    "name": "Decisional AI",
-    "slug": "decisional-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c95777ae41d5fc39d9bb0a16dbc6c51ab22a81f7.png",
-    "website": "https://www.getdecisional.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decisional is building an AI Financial Analyst that reads and understands data from thousands of public and private sources. Our Co-Founder Dhruv, was a former Financial Analyst and we developed an AI Agent he wished he had that pulls all your emails, documents, and external websites helping you become a better investor and saving up to 10 hours of weekly soul crushing grunt work.",
-    "one_liner": "AI Agent for Financial Analysts",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1723533013,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Finance",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/decisional-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/decisional-ai.json"
   },
   {
     "id": 29657,
@@ -17206,26 +17256,27 @@
     "api": "https://yc-oss.github.io/api/batches/s24/elevate-2.json"
   },
   {
-    "id": 29682,
-    "name": "Neuralize",
-    "slug": "neuralize",
+    "id": 29678,
+    "name": "Driftly",
+    "slug": "driftly",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45f0e7293aa7c9b30e23484958f756fccacc81c0.png",
-    "website": "https://runlocal.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d08387cfaa037f8a1900921e9df4e525ab02d86.png",
+    "website": "https://driftly.ai",
     "all_locations": "",
-    "long_description": "Neuralize halves the time to deploy AI/ML on mobile and laptop apps. It’s a single web interface for optimizing models across target devices, benchmarking on a device farm that we maintain, and evaluating performance-quality trade-offs. Contact us if you work with on-device AI/ML in production.\r\n\r\n",
-    "one_liner": "The Developer Platform for On-Device AI/ML",
-    "team_size": 3,
+    "long_description": "Driftly automates scheduling for home health agencies, eliminating 1-2 hours of driving per clinician per day.\r\n\r\nHome health clinicians spend about 1/3 of their time driving. With the 85+ population projected to double in the next decade, home health providers are struggling to meet growing demand. Driftly helps solve this by making clinicians 10-15% more productive.",
+    "one_liner": "Intelligent scheduling for home healthcare",
+    "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1722617907,
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1723587984,
     "tags": [
-      "Developer Tools",
-      "Machine Learning",
-      "DevOps",
+      "Scheduling",
+      "Logistics",
+      "Healthcare",
+      "Enterprise Software",
       "AI"
     ],
     "tags_highlighted": [],
@@ -17236,7 +17287,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Operations"
     ],
     "regions": [
       "Unspecified"
@@ -17246,8 +17297,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/neuralize",
-    "api": "https://yc-oss.github.io/api/batches/s24/neuralize.json"
+    "url": "https://www.ycombinator.com/companies/driftly",
+    "api": "https://yc-oss.github.io/api/batches/s24/driftly.json"
   },
   {
     "id": 29683,
@@ -17482,49 +17533,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/answergrid.json"
   },
   {
-    "id": 29694,
-    "name": "AminoAnalytica",
-    "slug": "aminoanalytica",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
-    "website": "https://www.aminoanalytica.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Creating new functional proteins, such as industrial enzymes or therapeutic peptides, has traditionally been an inefficient and costly ‘trial-and-error’ process. Biotech companies painstakingly make random mutations of existing proteins, test them, and repeat this cycle until success.\r\n\r\nAI ‘de-novo’ protein design promised a breakthrough by generating entirely new proteins from scratch. However, it severely falls short due to a lack of comprehensive data, resulting in poor accuracies that make it unfit for industrial use.\r\n\r\nAt AminoAnalytica, we offer a new approach: accelerated adaptation. Our AI software rapidly predicts protein properties in silico, eliminating the need for thousands of lab tests. This enables us to enhance existing proteins for better industrial performance, transforming the traditional ‘trial-and-error’ method into an ultra-high throughput and intelligent process.",
-    "one_liner": "AI for enhanced functional proteins",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1715962434,
-    "tags": [
-      "Biotech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aminoanalytica",
-    "api": "https://yc-oss.github.io/api/batches/s24/aminoanalytica.json"
-  },
-  {
     "id": 29695,
     "name": "Merse",
     "slug": "merse-2",
@@ -17659,100 +17667,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ledgerup",
     "api": "https://yc-oss.github.io/api/batches/s24/ledgerup.json"
-  },
-  {
-    "id": 29705,
-    "name": "Lighthouz AI",
-    "slug": "lighthouz-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/590821192763a73a9f24cba27c008ad9759614a4.png",
-    "website": "https://lighthouz.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lighthouz AI is building AI procurement specialists to automate B2B purchasing for manufacturers. It 2x'es the productivity of procurement teams by automating manual workflows and increases cost savings. \r\n\r\nBusinesses waste $30B *per year* doing procurement tasks manually using emails and spreadsheets. These tasks include entering data on ERP, creating purchase orders, verifying invoices, and communicating with vendors. \r\n\r\nLighthouz's AI procurement specialists autonomously handles manual procurement workflows. It integrates with emails and ERP systems. Our multi AI agent system is powered by dynamic knowledge graphs constructed from unstructured data (emails, PDFs, images, etc). By automating manual tasks, procurement teams can focus on strategic tasks and decision making. \r\n\r\nOur team has 20+ years of combined AI experience: \r\n- Srijan has been a GaTech CS professor, was a research scientist at Google, did postdoc at Stanford, PhD at University of Maryland and undergrad at IIT. \r\n- Sonali was a lead AI engineer at Progressive insurance, American Family insurance, Halliburton, did her MS at University of Washington, and undergrad at IIT. ",
-    "one_liner": "AI procurement specialists to automate B2B purchasing for…",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1724264636,
-    "tags": [
-      "Generative AI",
-      "Supply Chain",
-      "Procurement",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lighthouz-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/lighthouz-ai.json"
-  },
-  {
-    "id": 29706,
-    "name": "Mito Health",
-    "slug": "mito-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/118c97aeee5d0c5e72328790f7c87b42e90a8df3.png",
-    "website": "https://mitohealth.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mito Health provides in-depth health insights from routine bloodwork tests using AI and a doctor in the loop.",
-    "one_liner": "Measure over 100 biomarkers to prevent disease and achieve peak health",
-    "team_size": 10,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1721173093,
-    "tags": [
-      "Anti-Aging",
-      "Consumer Health Services",
-      "Health Tech",
-      "Digital Health",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mito-health",
-    "api": "https://yc-oss.github.io/api/batches/s24/mito-health.json"
   },
   {
     "id": 29708,
@@ -17890,6 +17804,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fazeshift",
     "api": "https://yc-oss.github.io/api/batches/s24/fazeshift.json"
+  },
+  {
+    "id": 29727,
+    "name": "Overstand Labs",
+    "slug": "overstand-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86e94aed080f088f5400aed5835385a94c15f844.png",
+    "website": "https://overstandlabs.com",
+    "all_locations": "",
+    "long_description": "Imagine that your company had an extremely knowledgeable employee who’d been at your company since its inception. This employee would have perfect awareness of all of the product features and workflows, and they know all of your customers. They’ve attended every meeting with every customer and read every single support ticket. They’ve read every word of product documentation and listened to every meeting in which any use case for your products have been described.\r\n\r\nSenta and Mihir are building Overstand: the AI manifestation of this omniscient employee. With Overstand, no revenue is left on the table due to “not knowing” about an opportunity. Overstand is able to match any expressed customer interest to its entire product understanding, ensuring that opportunities for upsell or cross-sell are clearly identified and surfaced to those responsible for account expansion.\r\n\r\nIf you are trying to upsell your existing customer accounts, email founders@overstandlabs.com to schedule a demo.",
+    "one_liner": "The cross-selling engine for enterprise software companies",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1724369845,
+    "tags": [
+      "Sales",
+      "Sales Enablement",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/overstand-labs",
+    "api": "https://yc-oss.github.io/api/batches/s24/overstand-labs.json"
   },
   {
     "id": 29729,
@@ -18179,7 +18136,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00fc65a85c76fb32520d640f572ef57d213f16cf.png",
     "website": "https://www.withdavid.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Data is the bottleneck for better AI - and David AI aims to solve this by unlocking proprietary data sources. Our platform connects model developers with data rights-holders - ensuring high data quality and fair compensation.",
+    "long_description": "Data is the bottleneck for better AI - and David AI aims to solve this by unlocking private, proprietary data sources. Our platform connects model developers with data owners - ensuring high data quality and seamless exchange.",
     "one_liner": "The data marketplace for AI",
     "team_size": 2,
     "highlight_black": false,
@@ -18313,56 +18270,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/distro",
     "api": "https://yc-oss.github.io/api/batches/s24/distro.json"
-  },
-  {
-    "id": 29764,
-    "name": "Zeit AI",
-    "slug": "zeit-ai",
-    "former_names": [
-      "Cascada AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8b12b6d63b7ef88542a88cfd73009aa6a48073f.png",
-    "website": "https://zeit-ai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zeit AI transforms Excel files in a structured database that can be queried using natural language. For example, the financial consultancy RISE, which depends heavily on Excel, uses Zeit AI to access and analyze expenses across their organization.",
-    "one_liner": "Insights from tabular data in just a few words.",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1722311835,
-    "tags": [
-      "Generative AI",
-      "Analytics",
-      "Data Science",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/zeit-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/zeit-ai.json"
   },
   {
     "id": 29772,
@@ -18721,6 +18628,53 @@
     "api": "https://yc-oss.github.io/api/batches/s24/lilac-labs.json"
   },
   {
+    "id": 29791,
+    "name": "Cartage",
+    "slug": "cartage",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e8f6d3db65691d588f5769ee5f350c062cf8671.png",
+    "website": "https://www.cartage.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cartage is the future of freight coordination. Transparent, tech-driven and eliminating the need for human coordinators.",
+    "one_liner": "Autonomous freight operations",
+    "team_size": 4,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1716915052,
+    "tags": [
+      "Machine Learning",
+      "Workflow Automation",
+      "Logistics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cartage",
+    "api": "https://yc-oss.github.io/api/batches/s24/cartage.json"
+  },
+  {
     "id": 29792,
     "name": "Winford AI",
     "slug": "winford-ai",
@@ -18767,53 +18721,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/winford-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/winford-ai.json"
-  },
-  {
-    "id": 29793,
-    "name": "Zephr",
-    "slug": "zephr",
-    "former_names": [
-      "Flyte.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/058a4179456e2462a6c042d4847d6b2621e2db77.png",
-    "website": "https://www.zephr.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zephr automates customer success so that you can manage hundreds of customers with ease. Our AI monitors customer health, identifies expansion opportunities and churn, and syncs updates across platforms.",
-    "one_liner": "AI customer success manager",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1721862703,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Customer Success",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zephr",
-    "api": "https://yc-oss.github.io/api/batches/s24/zephr.json"
   },
   {
     "id": 29804,
@@ -18954,6 +18861,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/corpdaq",
     "api": "https://yc-oss.github.io/api/batches/s24/corpdaq.json"
+  },
+  {
+    "id": 29812,
+    "name": "ZeroPath",
+    "slug": "zeropath",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd70ee2d072b5f54e3fd3fc0e2531e49708b3fa7.png",
+    "website": "https://zeropath.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ZeroPath is a developer tool that autonomously detects, verifies, and submits fixes for vulnerabilities in your code. Engineers can link their existing SAST tools to ZeroPath for validation and triage, significantly reducing the time and cost per vulnerability fix. Developers can also easily modify patches or perform regular development tasks by issuing natural language commands to @zeropath-ai in pull requests.",
+    "one_liner": "Automatically find, verify, and fix web app vulnerabilities",
+    "team_size": 4,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1718222641,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Security",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zeropath",
+    "api": "https://yc-oss.github.io/api/batches/s24/zeropath.json"
   },
   {
     "id": 29821,
@@ -19670,7 +19623,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -19690,5 +19643,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/merlin-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/merlin-ai.json"
+  },
+  {
+    "id": 29981,
+    "name": "Kairo Health",
+    "slug": "kairo-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c60c69ff532e5b2e33d0105a9322b6a9f857dd4e.png",
+    "website": "https://trykairo.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Kairo Health builds AI agents that help deliver patient care at a fraction of the cost.\r\n\r\nThe US has a shortage of nurses, care coordinators, and administrators, all of whom spend a significant portion of their days navigating disparate software systems like their EHR and waiting on hold for hours over the phone. Organizations have little incentive to grow these teams, which leads to burnout and inefficiency.\r\n\r\nKairo scales this support staff by recording their actions and translating them into instructions for our agents to execute on their own. Organizations can deploy these agents for any care delivery workflow, such as calling patients to check-in on their symptoms, rescheduling a clinician’s panel in case of an emergency, and filling late cancellation slots with other patients.",
+    "one_liner": "The AI healthcare workforce",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1724055639,
+    "tags": [
+      "Digital Health",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kairo-health",
+    "api": "https://yc-oss.github.io/api/batches/s24/kairo-health.json"
   }
 ]

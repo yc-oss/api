@@ -10059,8 +10059,8 @@
     "website": "https://infracost.io",
     "all_locations": "Edinburgh, Scotland, United Kingdom; Remote",
     "long_description": "Infracost shifts cloud costs left and makes FinOps proactive. It sits in the engineering workflow (CI/CD), and shows the cost impact of code changes (IaC) before the code is shipped to production. This catches costly mistakes before any money has been spent. It also checks to make sure all resources are tagged with your set tagging policy, and runs checks on the code against our FinOps policy packs, ensuring best practices are followed (e.g. GP2 volumes should be GP3).\r\n\r\nThis creates a cost-aware engineering culture.",
-    "one_liner": "Shifting cloud costs left directly into CI/CD before code is merged.",
-    "team_size": 7,
+    "one_liner": "Shift FinOps Left: tell engineers how much code changes will cost…",
+    "team_size": 9,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -18471,7 +18471,7 @@
     "all_locations": "",
     "long_description": "Reducto offers robust and reliable document ingestion for any workflow. Our API allows you to convert complex, unstructured documents into structured outputs that are perfect for RAG, process automation, and more. ",
     "one_liner": "Unlocking data behind complex documents",
-    "team_size": 2,
+    "team_size": 4,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -18480,10 +18480,10 @@
     "launched_at": 1704664395,
     "tags": [
       "Documents",
-      "Artificial Intelligence",
       "Data Engineering",
       "Enterprise Software",
-      "Search"
+      "Search",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20661,8 +20661,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45f0e7293aa7c9b30e23484958f756fccacc81c0.png",
     "website": "https://runlocal.ai",
     "all_locations": "",
-    "long_description": "Neuralize halves the time to deploy AI/ML on mobile and laptop apps. It’s a single web interface for optimizing models across target devices, benchmarking on a device farm that we maintain, and evaluating performance-quality trade-offs. Contact us if you work with on-device AI/ML in production.\r\n\r\n",
-    "one_liner": "The Developer Platform for On-Device AI/ML",
+    "long_description": "Neuralize makes it easier to develop and deploy on-device AI in mobile/PC apps. \r\n\r\nIt's a single interface for applying model compression, benchmarking on our device farm, evaluating performance-quality trade-offs in our web dashboard, and deploying optimized models for different end-user devices. \r\n\r\nContact us if you work with on-device AI/ML in production.\r\n\r\n",
+    "one_liner": "The Deployment Platform for On-Device AI/ML",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -20671,10 +20671,10 @@
     "subindustry": "B2B",
     "launched_at": 1722617907,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20744,49 +20744,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gauge",
     "api": "https://yc-oss.github.io/api/batches/s24/gauge.json"
-  },
-  {
-    "id": 29694,
-    "name": "AminoAnalytica",
-    "slug": "aminoanalytica",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
-    "website": "https://www.aminoanalytica.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Creating new functional proteins, such as industrial enzymes or therapeutic peptides, has traditionally been an inefficient and costly ‘trial-and-error’ process. Biotech companies painstakingly make random mutations of existing proteins, test them, and repeat this cycle until success.\r\n\r\nAI ‘de-novo’ protein design promised a breakthrough by generating entirely new proteins from scratch. However, it severely falls short due to a lack of comprehensive data, resulting in poor accuracies that make it unfit for industrial use.\r\n\r\nAt AminoAnalytica, we offer a new approach: accelerated adaptation. Our AI software rapidly predicts protein properties in silico, eliminating the need for thousands of lab tests. This enables us to enhance existing proteins for better industrial performance, transforming the traditional ‘trial-and-error’ method into an ultra-high throughput and intelligent process.",
-    "one_liner": "AI for enhanced functional proteins",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1715962434,
-    "tags": [
-      "Biotech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aminoanalytica",
-    "api": "https://yc-oss.github.io/api/batches/s24/aminoanalytica.json"
   },
   {
     "id": 29708,
@@ -21294,51 +21251,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/polymet",
     "api": "https://yc-oss.github.io/api/batches/s24/polymet.json"
-  },
-  {
-    "id": 29826,
-    "name": "Simplifine",
-    "slug": "simplifine",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28bfd5603abc1cad782c0769498ab77e4c72242d.png",
-    "website": "https://www.simplifine.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our library includes features like:\r\n\r\n- Seamless on-device to cloud training handoff\r\n- AI-assisted hyperparameter selection\r\n- Auto parallelism configurations\r\n- Synthetic dataset generation\r\n- In-built evaluations\r\n\r\nWith support for various LLM models and auto-optimizations for hardware, Simplifine reduces the steep learning curve, allowing users to focus on innovation rather than infrastructure management. Whether you're moving from local to multi-GPU instances or optimizing your resources, Simplifine helps you get the most out of your LLM training efficiently and cost-effectively.",
-    "one_liner": "Open-source, AI-assisted LLM fine-tuning library for non-AI developers",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1723501563,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/simplifine",
-    "api": "https://yc-oss.github.io/api/batches/s24/simplifine.json"
   },
   {
     "id": 29830,

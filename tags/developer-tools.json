@@ -8093,8 +8093,8 @@
     "website": "https://infracost.io",
     "all_locations": "Edinburgh, Scotland, United Kingdom; Remote",
     "long_description": "Infracost shifts cloud costs left and makes FinOps proactive. It sits in the engineering workflow (CI/CD), and shows the cost impact of code changes (IaC) before the code is shipped to production. This catches costly mistakes before any money has been spent. It also checks to make sure all resources are tagged with your set tagging policy, and runs checks on the code against our FinOps policy packs, ensuring best practices are followed (e.g. GP2 volumes should be GP3).\r\n\r\nThis creates a cost-aware engineering culture.",
-    "one_liner": "Shifting cloud costs left directly into CI/CD before code is merged.",
-    "team_size": 7,
+    "one_liner": "Shift FinOps Left: tell engineers how much code changes will cost…",
+    "team_size": 9,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -20354,54 +20354,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/hamming-ai.json"
   },
   {
-    "id": 29637,
-    "name": "Flyflow",
-    "slug": "flyflow",
-    "former_names": [
-      "flyflow"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png",
-    "website": "https://flyflow.dev/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "\"Flyflow is miles better than Twilio IVR\"  - Digital Marketing Customer\r\n\r\nFlyflow brings your brand to life with human-like AI support agents. When human agents are not available or affordable, our customers use Flylow-powered voice support to answer their customers’ questions. We provide AI trained on company-specific knowledge, triggers to escalate to human-agents, automatic actions (like email and scheduling), and best-in-class conversation quality. \r\n\r\nHow are we different?\r\n(1) Incredibly easy to set up: get up and running in under an hour with a phone number your customers can call right away.\r\n(2) Configurable: get access to all the knobs and dials so that you can create an experience that feels natural to your customers\r\n(3) Best-in-class conversation quality: end-pointing, interruption handling, and latency reduction all built in-house\r\n(4) Easy transition from IVR and call-center support: purpose-built for use cases like customer support and lead qualification",
-    "one_liner": "AI-powered phone support that beats IVR and human agents",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1718910453,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "Infrastructure",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flyflow",
-    "api": "https://yc-oss.github.io/api/batches/s24/flyflow.json"
-  },
-  {
     "id": 29641,
     "name": "Patchwork Technologies",
     "slug": "patchwork-technologies",
@@ -20685,8 +20637,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45f0e7293aa7c9b30e23484958f756fccacc81c0.png",
     "website": "https://runlocal.ai",
     "all_locations": "",
-    "long_description": "Neuralize halves the time to deploy AI/ML on mobile and laptop apps. It’s a single web interface for optimizing models across target devices, benchmarking on a device farm that we maintain, and evaluating performance-quality trade-offs. Contact us if you work with on-device AI/ML in production.\r\n\r\n",
-    "one_liner": "The Developer Platform for On-Device AI/ML",
+    "long_description": "Neuralize makes it easier to develop and deploy on-device AI in mobile/PC apps. \r\n\r\nIt's a single interface for applying model compression, benchmarking on our device farm, evaluating performance-quality trade-offs in our web dashboard, and deploying optimized models for different end-user devices. \r\n\r\nContact us if you work with on-device AI/ML in production.\r\n\r\n",
+    "one_liner": "The Deployment Platform for On-Device AI/ML",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -20695,10 +20647,10 @@
     "subindustry": "B2B",
     "launched_at": 1722617907,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21376,6 +21328,53 @@
     "api": "https://yc-oss.github.io/api/batches/s24/laminar-ai.json"
   },
   {
+    "id": 29786,
+    "name": "Palmier",
+    "slug": "palmier",
+    "former_names": [
+      "ProteusAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19e3b27d7fc2671f257c71b7ed9aa25fcdef35bc.png",
+    "website": "https://www.palmier.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Developers spend only about 30% of their time actually building new features, with the rest of their day taken up by tedious but necessary tasks like understanding code, fixing bugs, and reviewing other people's code. And this only gets worse as the codebase gets larger. Palmier tackles this problem with an AI that truly understands a developer’s codebase, taking on the time-consuming tasks that often hinder their productivity. By helping developers quickly grasp complex code, review their work, and spot errors, Palmier frees up their time to focus more on designing and creating. With Palmier, developers can work faster and with greater confidence, boosting productivity and getting back to what they love—building great software.",
+    "one_liner": "Palmier is an AI that understands any codebase",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1724450208,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/palmier",
+    "api": "https://yc-oss.github.io/api/batches/s24/palmier.json"
+  },
+  {
     "id": 29797,
     "name": "Haystack Software",
     "slug": "haystack-software",
@@ -21568,17 +21567,17 @@
     "one_liner": "Automatically find, verify, and fix web app vulnerabilities",
     "team_size": 4,
     "highlight_black": false,
-    "highlight_latinx": false,
+    "highlight_latinx": true,
     "highlight_women": false,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1718222641,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Security",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21645,51 +21644,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/polymet",
     "api": "https://yc-oss.github.io/api/batches/s24/polymet.json"
-  },
-  {
-    "id": 29826,
-    "name": "Simplifine",
-    "slug": "simplifine",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28bfd5603abc1cad782c0769498ab77e4c72242d.png",
-    "website": "https://www.simplifine.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our library includes features like:\r\n\r\n- Seamless on-device to cloud training handoff\r\n- AI-assisted hyperparameter selection\r\n- Auto parallelism configurations\r\n- Synthetic dataset generation\r\n- In-built evaluations\r\n\r\nWith support for various LLM models and auto-optimizations for hardware, Simplifine reduces the steep learning curve, allowing users to focus on innovation rather than infrastructure management. Whether you're moving from local to multi-GPU instances or optimizing your resources, Simplifine helps you get the most out of your LLM training efficiently and cost-effectively.",
-    "one_liner": "Open-source, AI-assisted LLM fine-tuning library for non-AI developers",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1723501563,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/simplifine",
-    "api": "https://yc-oss.github.io/api/batches/s24/simplifine.json"
   },
   {
     "id": 29835,

@@ -24960,7 +24960,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -26388,6 +26388,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/tivara.json"
   },
   {
+    "id": 29694,
+    "name": "AminoAnalytica",
+    "slug": "aminoanalytica",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
+    "website": "https://www.aminoanalytica.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Creating new functional proteins, such as industrial enzymes or therapeutic peptides, has traditionally been an inefficient and costly ‘trial-and-error’ process. Biotech companies painstakingly make random mutations of existing proteins, test them, and repeat this cycle until success.\r\n\r\nAI ‘de-novo’ protein design promised a breakthrough by generating entirely new proteins from scratch. However, it severely falls short due to a lack of comprehensive data, resulting in poor accuracies that make it unfit for industrial use.\r\n\r\nAt AminoAnalytica, we offer a new approach: accelerated adaptation. Our AI software rapidly predicts protein properties in silico, eliminating the need for thousands of lab tests. This enables us to enhance existing proteins for better industrial performance, transforming the traditional ‘trial-and-error’ method into an ultra-high throughput and intelligent process.",
+    "one_liner": "AI for enhanced functional proteins",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Healthcare",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1715962434,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Artificial Intelligence",
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Industrial Bio"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aminoanalytica",
+    "api": "https://yc-oss.github.io/api/batches/s24/aminoanalytica.json"
+  },
+  {
     "id": 29706,
     "name": "Mito Health",
     "slug": "mito-health",
@@ -26406,10 +26450,10 @@
     "launched_at": 1721173093,
     "tags": [
       "Anti-Aging",
+      "Artificial Intelligence",
       "Consumer Health Services",
       "Health Tech",
-      "Digital Health",
-      "AI"
+      "Digital Health"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26850,7 +26894,7 @@
     "name": "Kairo Health",
     "slug": "kairo-health",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8321f164c917bca073d287b6e7b9cad5b3d035ea.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c60c69ff532e5b2e33d0105a9322b6a9f857dd4e.png",
     "website": "https://trykairo.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Kairo Health builds AI agents that help deliver patient care at a fraction of the cost.\r\n\r\nThe US has a shortage of nurses, care coordinators, and administrators, all of whom spend a significant portion of their days navigating disparate software systems like their EHR and waiting on hold for hours over the phone. Organizations have little incentive to grow these teams, which leads to burnout and inefficiency.\r\n\r\nKairo scales this support staff by recording their actions and translating them into instructions for our agents to execute on their own. Organizations can deploy these agents for any care delivery workflow, such as calling patients to check-in on their symptoms, rescheduling a clinician’s panel in case of an emergency, and filling late cancellation slots with other patients.",
@@ -26863,9 +26907,9 @@
     "subindustry": "Healthcare",
     "launched_at": 1724055639,
     "tags": [
-      "Artificial Intelligence",
       "Digital Health",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

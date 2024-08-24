@@ -2493,14 +2493,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab2e29daec9e4efba8cc8dc5764edc5ad41ae1ee.png",
     "website": "https://simetrik.com",
-    "all_locations": "Bogotá, Bogota, Colombia",
-    "long_description": "All your external financial data (banks, gateways, etc.) replicated to your data warehouse for conciliation, traceability and cash flow in Latam.",
-    "one_liner": "Simetrik is a universal reconciliator: software that extracts,…",
-    "team_size": 68,
+    "all_locations": "Bogotá, Bogota, Colombia; Remote",
+    "long_description": "No code enterprise SaaS for financial control automation. Empowering finops and accounting teams with a no code platform that allows them to automate and maintain financial control automation throughout the finops process. ",
+    "one_liner": "No code enterprise SaaS for financial control automation.",
+    "team_size": 350,
     "highlight_black": false,
     "highlight_latinx": true,
     "highlight_women": false,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "Consumer -> Apparel and Cosmetics",
     "launched_at": 1509591804,
     "tags": [
@@ -2514,14 +2514,14 @@
     "batch": "W18",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Apparel and Cosmetics"
+      "B2B",
+      "Finance and Accounting"
     ],
     "regions": [
       "Colombia",
       "Latin America",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -19325,7 +19325,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7fe17d09bdbf7258b587a47e734d932c0b1886d.png",
     "website": "https://www.infiniaweb.com/",
-    "all_locations": "Montevideo, Montevideo Department, Uruguay",
+    "all_locations": "",
     "long_description": "Infinia is enabling Fintechs, PSPs and Banks to connect to RTP rails both for payins and payouts globally. Ianai, the CEO, is the former Global VP of Partnerships at dLocal and grew the company from $0 to $100M ARR.\r\n\r\n",
     "one_liner": "Real Time Payments infraestructure",
     "team_size": 3,
@@ -19335,14 +19335,10 @@
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1668175381,
-    "tags": [
-      "Fintech",
-      "Payments",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -19351,8 +19347,6 @@
       "Payments"
     ],
     "regions": [
-      "Uruguay",
-      "Latin America",
       "Remote",
       "Partly Remote"
     ],
@@ -22139,6 +22133,53 @@
     "api": "https://yc-oss.github.io/api/batches/s24/praxos.json"
   },
   {
+    "id": 29786,
+    "name": "Palmier",
+    "slug": "palmier",
+    "former_names": [
+      "ProteusAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19e3b27d7fc2671f257c71b7ed9aa25fcdef35bc.png",
+    "website": "https://www.palmier.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Developers spend only about 30% of their time actually building new features, with the rest of their day taken up by tedious but necessary tasks like understanding code, fixing bugs, and reviewing other people's code. And this only gets worse as the codebase gets larger. Palmier tackles this problem with an AI that truly understands a developer’s codebase, taking on the time-consuming tasks that often hinder their productivity. By helping developers quickly grasp complex code, review their work, and spot errors, Palmier frees up their time to focus more on designing and creating. With Palmier, developers can work faster and with greater confidence, boosting productivity and getting back to what they love—building great software.",
+    "one_liner": "Palmier is an AI that understands any codebase",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1724450208,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/palmier",
+    "api": "https://yc-oss.github.io/api/batches/s24/palmier.json"
+  },
+  {
     "id": 29796,
     "name": "Finosu",
     "slug": "finosu",
@@ -22278,6 +22319,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/thyme",
     "api": "https://yc-oss.github.io/api/batches/s24/thyme.json"
+  },
+  {
+    "id": 29812,
+    "name": "ZeroPath",
+    "slug": "zeropath",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd70ee2d072b5f54e3fd3fc0e2531e49708b3fa7.png",
+    "website": "https://zeropath.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ZeroPath is a developer tool that autonomously detects, verifies, and submits fixes for vulnerabilities in your code. Engineers can link their existing SAST tools to ZeroPath for validation and triage, significantly reducing the time and cost per vulnerability fix. Developers can also easily modify patches or perform regular development tasks by issuing natural language commands to @zeropath-ai in pull requests.",
+    "one_liner": "Automatically find, verify, and fix web app vulnerabilities",
+    "team_size": 4,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1718222641,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Security",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zeropath",
+    "api": "https://yc-oss.github.io/api/batches/s24/zeropath.json"
   },
   {
     "id": 29820,
