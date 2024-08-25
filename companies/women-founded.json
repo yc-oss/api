@@ -30263,7 +30263,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -32042,17 +32042,17 @@
   },
   {
     "id": 29439,
-    "name": "camelQA",
-    "slug": "camelqa",
+    "name": "camelAI",
+    "slug": "camelai",
     "former_names": [
       "qaml (pronounced camel)",
       "qaml"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7356698f9b3f7a439b9951c6def0617a8421df3.png",
-    "website": "https://camelqa.com/",
+    "website": "https://camelai.com/",
     "all_locations": "Austin, TX, USA",
-    "long_description": "CamelQA creates, maintains, and runs your app tests for you. \r\n\r\nCamelQA is an AI QA agent that can conduct end-to-end testing of mobile apps. We convert natural language test cases into tests that run on iOS and Android devices in our device farm, making the QA process easier and more reliable.",
-    "one_liner": "AI that replaces human QAs for mobile app testing",
+    "long_description": "camelAI connects AI to all of your tools. Enabling you to talk to your entire tech stack in a single chat. \r\n\r\nOur API connections are built in-house to optimize their functionality for LLMs. Say things like “how did I spend my money last month?” and get a breakdown of your spending by category. Or “mark all emails that contain the word unsubscribe as read.” And immediately tackle your inbox.",
+    "one_liner": "Connect your tools to AI. Talk to your tools and take action.",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": true,
@@ -32061,8 +32061,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1701468865,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "AI"
+      "API",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32085,8 +32087,8 @@
     "demo_day_video_public": false,
     "app_answers": true,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/camelqa",
-    "api": "https://yc-oss.github.io/api/batches/w24/camelqa.json"
+    "url": "https://www.ycombinator.com/companies/camelai",
+    "api": "https://yc-oss.github.io/api/batches/w24/camelai.json"
   },
   {
     "id": 29441,
@@ -32863,7 +32865,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Insurance is super old school. We want to transform the insurance industry with AI. Corgi is streamlining the process of buying insurance, underwriting, getting support, and filing a claim with AI.",
     "one_liner": "Corgi is building an AI insurance company",
-    "team_size": 4,
+    "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": true,
     "highlight_women": true,
@@ -32871,10 +32873,10 @@
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1720644316,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "API",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

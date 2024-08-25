@@ -1162,7 +1162,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S08",
     "status": "Active",
@@ -12489,7 +12489,7 @@
     "former_names": [
       "Houston"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a8e654b60fde90319e6049ca9400195a102703b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d8d3cb25a60e81613dcaac912d3f28552022bc8.png",
     "website": "https://index.app",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Index is a dashboard builder for your business metrics. It's super fast, polished and collaborative. ",
@@ -46654,17 +46654,17 @@
   },
   {
     "id": 29439,
-    "name": "camelQA",
-    "slug": "camelqa",
+    "name": "camelAI",
+    "slug": "camelai",
     "former_names": [
       "qaml (pronounced camel)",
       "qaml"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7356698f9b3f7a439b9951c6def0617a8421df3.png",
-    "website": "https://camelqa.com/",
+    "website": "https://camelai.com/",
     "all_locations": "Austin, TX, USA",
-    "long_description": "CamelQA creates, maintains, and runs your app tests for you. \r\n\r\nCamelQA is an AI QA agent that can conduct end-to-end testing of mobile apps. We convert natural language test cases into tests that run on iOS and Android devices in our device farm, making the QA process easier and more reliable.",
-    "one_liner": "AI that replaces human QAs for mobile app testing",
+    "long_description": "camelAI connects AI to all of your tools. Enabling you to talk to your entire tech stack in a single chat. \r\n\r\nOur API connections are built in-house to optimize their functionality for LLMs. Say things like “how did I spend my money last month?” and get a breakdown of your spending by category. Or “mark all emails that contain the word unsubscribe as read.” And immediately tackle your inbox.",
+    "one_liner": "Connect your tools to AI. Talk to your tools and take action.",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": true,
@@ -46673,8 +46673,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1701468865,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "AI"
+      "API",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46697,8 +46699,8 @@
     "demo_day_video_public": false,
     "app_answers": true,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/camelqa",
-    "api": "https://yc-oss.github.io/api/batches/w24/camelqa.json"
+    "url": "https://www.ycombinator.com/companies/camelai",
+    "api": "https://yc-oss.github.io/api/batches/w24/camelai.json"
   },
   {
     "id": 29451,
@@ -47647,7 +47649,7 @@
     "website": "https://tivara.com",
     "all_locations": "",
     "long_description": "",
-    "one_liner": "Prior authorization workflow automation for doctors.",
+    "one_liner": "Using LLMs to automate insurance approval for healthcare clinics",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -47656,10 +47658,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1722295529,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47776,6 +47778,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pulse-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/pulse-ai.json"
+  },
+  {
+    "id": 29701,
+    "name": "Plume",
+    "slug": "plume",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/848a0a716b3d688b2054184d78580f9988c075be.png",
+    "website": "http://www.plumefinder.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Plume simplifies and accelerates the process of improving home energy efficiency. With rising electricity prices and stricter regulations, homeowners need to assess their homes, understand energy renovation options, find the best ones, and hire trustworthy contractors.\r\n\r\nUsing thermodynamic models, public housing data, satellite imagery and AI, Plume assesses your home’s energy efficiency, recommends cost-effective improvements, and connects you with vetted contractors.\r\n\r\nOur platform allows the user to simulate personalised renovations scenarios helping homeowners make informed decisions quickly and efficiently.\r\n\r\nTry it now for your house anywhere in the world.",
+    "one_liner": "Home energy renovations made easy",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Climate",
+    "launched_at": 1724527338,
+    "tags": [
+      "SaaS",
+      "Renewable Energy",
+      "ClimateTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Climate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/plume",
+    "api": "https://yc-oss.github.io/api/batches/s24/plume.json"
   },
   {
     "id": 29715,
@@ -48722,10 +48770,10 @@
     "subindustry": "B2B",
     "launched_at": 1721636551,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Enterprise Software",
-      "International"
+      "International",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

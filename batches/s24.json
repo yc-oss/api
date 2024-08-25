@@ -566,7 +566,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f8c54103232ce6ad4a91f33685eeaecbcd4d224.png",
     "website": "https://www.miruml.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Miru automates deploying and managing software for robots and IoT devices. We provide engineers with the infrastructure to deploy updates over-the-air to a fleet of devices by simply pushing new changes to GitHub.\r\n\r\nAfter meeting at their freshman dorm at the University of Texas at Austin, Armel, Vedant, and Ben spent their time in college building an AI-video dev tool. They are passionate about a future where robots can free humans from doing the dull, dirty, and dangerous tasks that dominate billions of people’s lives. They founded Miru to provide the infrastructure to accelerate this transition.",
+    "long_description": "Miru automates deploying and managing software for robots and IoT devices. We provide engineers with the infrastructure to deploy updates over-the-air to a fleet of devices by simply pushing new changes to GitHub.",
     "one_liner": "Deployment infrastructure for robotics & IoT",
     "team_size": 3,
     "highlight_black": true,
@@ -1994,7 +1994,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Insurance is super old school. We want to transform the insurance industry with AI. Corgi is streamlining the process of buying insurance, underwriting, getting support, and filing a claim with AI.",
     "one_liner": "Corgi is building an AI insurance company",
-    "team_size": 4,
+    "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": true,
     "highlight_women": true,
@@ -2002,10 +2002,10 @@
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1720644316,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "API",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3243,7 +3243,7 @@
     "website": "https://tivara.com",
     "all_locations": "",
     "long_description": "",
-    "one_liner": "Prior authorization workflow automation for doctors.",
+    "one_liner": "Using LLMs to automate insurance approval for healthcare clinics",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -3252,10 +3252,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1722295529,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3648,6 +3648,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pulse-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/pulse-ai.json"
+  },
+  {
+    "id": 29701,
+    "name": "Plume",
+    "slug": "plume",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/848a0a716b3d688b2054184d78580f9988c075be.png",
+    "website": "http://www.plumefinder.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Plume simplifies and accelerates the process of improving home energy efficiency. With rising electricity prices and stricter regulations, homeowners need to assess their homes, understand energy renovation options, find the best ones, and hire trustworthy contractors.\r\n\r\nUsing thermodynamic models, public housing data, satellite imagery and AI, Plume assesses your home’s energy efficiency, recommends cost-effective improvements, and connects you with vetted contractors.\r\n\r\nOur platform allows the user to simulate personalised renovations scenarios helping homeowners make informed decisions quickly and efficiently.\r\n\r\nTry it now for your house anywhere in the world.",
+    "one_liner": "Home energy renovations made easy",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Climate",
+    "launched_at": 1724527338,
+    "tags": [
+      "SaaS",
+      "Renewable Energy",
+      "ClimateTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Climate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/plume",
+    "api": "https://yc-oss.github.io/api/batches/s24/plume.json"
   },
   {
     "id": 29702,
@@ -7422,8 +7468,8 @@
       "Remo Financial"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ba48aacb41b72ca599ee9f3bdfdc4153d4f46b1.png",
-    "website": "http://remomoney.com",
-    "all_locations": "Dubai, Dubai, United Arab Emirates",
+    "website": "http://getremo.ai",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Faster, more accurate KYC, KYB, and AML processes designed to help financial institutions scale.",
     "one_liner": "Enhance your compliance team with AI",
     "team_size": 2,
@@ -7446,8 +7492,8 @@
       "Fintech"
     ],
     "regions": [
-      "United Arab Emirates",
-      "Middle East and North Africa",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -7880,10 +7926,10 @@
     "subindustry": "B2B",
     "launched_at": 1721636551,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Enterprise Software",
-      "International"
+      "International",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
