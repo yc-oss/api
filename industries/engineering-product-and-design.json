@@ -6795,7 +6795,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S19",
     "status": "Active",
@@ -14253,8 +14253,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b18880e05c9eef448b41e2f69a59b103c451224d.png",
     "website": "https://rubbrband.com",
     "all_locations": "",
-    "long_description": "Rubbrband is software that lets you repeatably generate images in your unique style. You can achieve this using Rubbrband workflows, which lets users customize their AI to generate images in the exact style you want.\r\n\r\nRubbrband is used by creative directors and artists all around the world.",
-    "one_liner": "Generate images in your own style",
+    "long_description": "Rubbrband is building an AI artist that can imagine and edit beautiful images for you. \r\n\r\nWe are on a mission to allow anybody to create great art, regardless of skill level.\r\n\r\nRubbrband is used by creatives all around the world.",
+    "one_liner": "Roi, your AI artist",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -20560,6 +20560,97 @@
     "api": "https://yc-oss.github.io/api/batches/s24/maitai.json"
   },
   {
+    "id": 29648,
+    "name": "Honeycomb",
+    "slug": "honeycomb",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cef9dfb1223cd3b81075ffad20c2fdf90473d781.png",
+    "website": "https://honeycomb.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Honeycomb is building agents to automate tasks across the entire software development lifecycle. Our agents are state-of-the-art, achieving 22% on the SWE-Bench coding benchmark.",
+    "one_liner": "Building agents that can code.",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1724662021,
+    "tags": [
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/honeycomb",
+    "api": "https://yc-oss.github.io/api/batches/s24/honeycomb.json"
+  },
+  {
+    "id": 29653,
+    "name": "ideate.xyz",
+    "slug": "ideate-xyz",
+    "former_names": [
+      "Ditto AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1f844500826bbf6ae6b83f0088e5afee7c6dd28.png",
+    "website": "https://ideate.xyz",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Ideate is the first AI design co-pilot that content creation teams can collaborate with to create high click-through thumbnail designs for their social media channels. \r\nThe thumbnail design process is orchestrated by AI with layout, composition, copy and imagery all optimised for brand consistency.",
+    "one_liner": "AI design co-pilot for content teams",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1724663841,
+    "tags": [
+      "Generative AI",
+      "Design",
+      "Design Tools",
+      "Creator Economy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ideate-xyz",
+    "api": "https://yc-oss.github.io/api/batches/s24/ideate-xyz.json"
+  },
+  {
     "id": 29654,
     "name": "Moonglow",
     "slug": "moonglow",
@@ -21227,6 +21318,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724084407,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
       "SaaS",
       "Collaboration"

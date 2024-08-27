@@ -1142,12 +1142,12 @@
     "name": "Finnt",
     "slug": "finnt",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9b19150d5e54d90279773a7bfd71c3f18b2e273.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba2fcb0f3d1c37511fec6edc8aef75fe9412d0d3.png",
     "website": "https://finnt.com",
     "all_locations": "Miami, FL, USA",
-    "long_description": "Finnt helps finance professionals to streamline financial data processing and enhance operational workflows.\r\n\r\n",
-    "one_liner": "AI-native financial research & analysis platform",
-    "team_size": 7,
+    "long_description": "Finnt uses AI to automate Corporate Finance procedures in FP&A, Controllership, Accounting, Tax etc. \r\n",
+    "one_liner": "Finance workflows automation",
+    "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -1155,11 +1155,11 @@
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1643292732,
     "tags": [
+      "Artificial Intelligence",
       "Finance",
       "B2B",
       "Workflow Automation",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2896,6 +2896,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/entangl.json"
   },
   {
+    "id": 29648,
+    "name": "Honeycomb",
+    "slug": "honeycomb",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cef9dfb1223cd3b81075ffad20c2fdf90473d781.png",
+    "website": "https://honeycomb.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Honeycomb is building agents to automate tasks across the entire software development lifecycle. Our agents are state-of-the-art, achieving 22% on the SWE-Bench coding benchmark.",
+    "one_liner": "Building agents that can code.",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1724662021,
+    "tags": [
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/honeycomb",
+    "api": "https://yc-oss.github.io/api/batches/s24/honeycomb.json"
+  },
+  {
     "id": 29678,
     "name": "Driftly",
     "slug": "driftly",
@@ -2903,7 +2947,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d08387cfaa037f8a1900921e9df4e525ab02d86.png",
     "website": "https://driftly.ai",
     "all_locations": "",
-    "long_description": "Driftly automates scheduling for home health agencies, eliminating 1-2 hours of driving per clinician per day.\r\n\r\nHome health clinicians spend about 1/3 of their time driving. With the 85+ population projected to double in the next decade, home health providers are struggling to meet growing demand. Driftly helps solve this by making clinicians 10-15% more productive.",
+    "long_description": "Driftly automates scheduling for home health agencies, eliminating 1-2 hours of driving per clinician per day.\r\n\r\nHome health clinicians spend about 1/3 of their time driving. With the 85+ population projected to double in the next decade, home health providers are struggling to meet growing demand, and they're already being forced to turn away 75% of referred patients. Driftly helps solve this by making clinicians 10-15% more productive, allowing home health agencies to grow their patient census (and their revenue) without hiring more clinicians.",
     "one_liner": "Intelligent scheduling for home healthcare",
     "team_size": 2,
     "highlight_black": false,
@@ -2913,11 +2957,11 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1723587984,
     "tags": [
+      "Artificial Intelligence",
       "Scheduling",
       "Logistics",
       "Healthcare",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3075,6 +3119,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/conveo",
     "api": "https://yc-oss.github.io/api/batches/s24/conveo.json"
+  },
+  {
+    "id": 29740,
+    "name": "Redouble AI",
+    "slug": "redouble-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e13268bccc689331aeb895ce0dfa6583a9c1b0d4.png",
+    "website": "https://redouble.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Redouble is the solution to scale human-in-the-loop for AI workflows in regulated industries. \r\n\r\nCompanies are increasingly adopting LLMs to automate their workflows, but sufficiently accurate and consistent outputs are hard to obtain, especially in regulated industries where mistakes are costly. As a result, AI companies are using human reviewers in production to verify and correct the output of their AI pipelines - which quickly becomes an unsustainable bottleneck for growth. \r\n\r\nOur solution dynamically learns from our clients' unique domain specific human feedback data; provides recommendations whether to send the output of a LLM pipeline to a human for review; monitors the insights obtained from human reviewers at scale, while also flagging suspicious reviews to ensure consistent final outputs; and integrates easily with our clients' existing pipelines via a small number of simple API calls.",
+    "one_liner": "Automated Quality Control for AI Workflows in Regulated Industries",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1724701202,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/redouble-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/redouble-ai.json"
   },
   {
     "id": 29756,

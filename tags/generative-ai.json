@@ -804,7 +804,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W20",
     "status": "Active",
@@ -2943,8 +2943,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7cd2f8fa8997c12e2650de183d17aeb87fe20f3c.png",
     "website": "https://www.wolfia.com",
     "all_locations": "Austin, TX, USA; Mountain View, CA, USA; Remote",
-    "long_description": "Wolfia helps automate 80% of your security questionnaires, RFPs, and RFIs with accurate answers and detailed citations using generative AI. We do this by building a knowledge base using your existing policies and previously answered questionnaires.",
-    "one_liner": "Accurate RFP and RFI responses in seconds",
+    "long_description": "Wolfia helps accelerates security reviews for AI-first companies, helping them close deals faster. We use AI to help answer security questionnaires, and provide an trust center to share your AI policies and security posture.",
+    "one_liner": "Security review automation for AI companies",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -7681,7 +7681,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -7951,7 +7951,7 @@
     "website": "https://www.inventive.ai/",
     "all_locations": "Mountain View, CA, USA",
     "long_description": "At Inventive, our mission is to build intelligence that helps B2B sales teams win deals. \r\n\r\nOur AI platform assists sales teams in responding to and winning RFPs and sales questionnaires. With our tailored AI system & agents, the sales team can understand and extract essential sections from RFP documents, obtain AI-generated responses to RFP questions, and receive intelligent suggestions from meeting compliance requirements to outshining competitors. \r\n\r\nBy leveraging Inventive, sales teams can improve their efficiency by 70+%, and craft high-quality proposals that significantly enhance their chances of securing successful deals.\r\n\r\nBuilt by a customer-obsessed team comprising an ex-exec from a Fortune 500 company and engineers from Google & and Stanford. Backed by top Silicon Valley investors including YCombinator.",
-    "one_liner": "GenAI-first RFP response platform",
+    "one_liner": "GenAI-First RFP & Sales Questionnaire Response Platform",
     "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -7960,11 +7960,11 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1687811406,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Sales"
+      "Sales",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9660,6 +9660,53 @@
     "api": "https://yc-oss.github.io/api/batches/s24/flyflow.json"
   },
   {
+    "id": 29653,
+    "name": "ideate.xyz",
+    "slug": "ideate-xyz",
+    "former_names": [
+      "Ditto AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1f844500826bbf6ae6b83f0088e5afee7c6dd28.png",
+    "website": "https://ideate.xyz",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Ideate is the first AI design co-pilot that content creation teams can collaborate with to create high click-through thumbnail designs for their social media channels. \r\nThe thumbnail design process is orchestrated by AI with layout, composition, copy and imagery all optimised for brand consistency.",
+    "one_liner": "AI design co-pilot for content teams",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1724663841,
+    "tags": [
+      "Generative AI",
+      "Design",
+      "Design Tools",
+      "Creator Economy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ideate-xyz",
+    "api": "https://yc-oss.github.io/api/batches/s24/ideate-xyz.json"
+  },
+  {
     "id": 29671,
     "name": "reworks",
     "slug": "reworks",
@@ -9801,53 +9848,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/pulse-ai.json"
   },
   {
-    "id": 29705,
-    "name": "Lighthouz AI",
-    "slug": "lighthouz-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/590821192763a73a9f24cba27c008ad9759614a4.png",
-    "website": "https://lighthouz.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lighthouz AI is building AI procurement specialists to automate B2B purchasing for manufacturers. It 2x'es the productivity of procurement teams by automating manual workflows and increases cost savings. \r\n\r\nBusinesses waste $30B *per year* doing procurement tasks manually using emails and spreadsheets. These tasks include entering data on ERP, creating purchase orders, verifying invoices, and communicating with vendors. \r\n\r\nLighthouz's AI procurement specialists autonomously handles manual procurement workflows. It integrates with emails and ERP systems. Our multi AI agent system is powered by dynamic knowledge graphs constructed from unstructured data (emails, PDFs, images, etc). By automating manual tasks, procurement teams can focus on strategic tasks and decision making. \r\n\r\nOur team has 20+ years of combined AI experience: \r\n- Srijan has been a GaTech CS professor, was a research scientist at Google, did postdoc at Stanford, PhD at University of Maryland and undergrad at IIT. \r\n- Sonali was a lead AI engineer at Progressive insurance, American Family insurance, Halliburton, did her MS at University of Washington, and undergrad at IIT. ",
-    "one_liner": "AI procurement specialists for manufacturers",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1724264636,
-    "tags": [
-      "Generative AI",
-      "Supply Chain",
-      "Procurement",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lighthouz-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/lighthouz-ai.json"
-  },
-  {
     "id": 29712,
     "name": "Benchify",
     "slug": "benchify",
@@ -9985,6 +9985,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hestus-inc",
     "api": "https://yc-oss.github.io/api/batches/s24/hestus-inc.json"
+  },
+  {
+    "id": 29740,
+    "name": "Redouble AI",
+    "slug": "redouble-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e13268bccc689331aeb895ce0dfa6583a9c1b0d4.png",
+    "website": "https://redouble.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Redouble is the solution to scale human-in-the-loop for AI workflows in regulated industries. \r\n\r\nCompanies are increasingly adopting LLMs to automate their workflows, but sufficiently accurate and consistent outputs are hard to obtain, especially in regulated industries where mistakes are costly. As a result, AI companies are using human reviewers in production to verify and correct the output of their AI pipelines - which quickly becomes an unsustainable bottleneck for growth. \r\n\r\nOur solution dynamically learns from our clients' unique domain specific human feedback data; provides recommendations whether to send the output of a LLM pipeline to a human for review; monitors the insights obtained from human reviewers at scale, while also flagging suspicious reviews to ensure consistent final outputs; and integrates easily with our clients' existing pipelines via a small number of simple API calls.",
+    "one_liner": "Automated Quality Control for AI Workflows in Regulated Industries",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1724701202,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/redouble-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/redouble-ai.json"
   },
   {
     "id": 29759,

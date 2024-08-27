@@ -7960,9 +7960,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59d7a492c16a589b2127d73b70edf9aee906b7db.png",
     "website": "https://www.heimdalccu.com",
-    "all_locations": "Denver, CO, USA; Kailua-Kona, HI, USA",
+    "all_locations": "Denver, CO, USA",
     "long_description": "Heimdal builds machines that permanently capture and store atmospheric CO2. Congress has passed legislation (IRA) guaranteeing a tax credit for each tonne removed via Direct Air Capture until 2044. We are building technology that profitably captures CO2 with this tax credit, right here in the United States.",
-    "one_liner": "Affordable and verified DAC",
+    "one_liner": "Affordable and verified direct air carbon capture and storage",
     "team_size": 10,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -11131,6 +11131,48 @@
     "api": "https://yc-oss.github.io/api/batches/s24/ultra.json"
   },
   {
+    "id": 29581,
+    "name": "Moment Robotics",
+    "slug": "moment-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86f2306a80dea5727d137345f56321f8366238a3.png",
+    "website": "http://www.momentrobotics.com/",
+    "all_locations": "Remote",
+    "long_description": "Moment Robotics makes robots to automate the movement of goods, starting inside hospitals. We transport, place, and organize supplies, samples, and equipment so hospital staff can focus on their patients.\r\n",
+    "one_liner": "Robots to automate the movement of goods within hospitals ",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1724697135,
+    "tags": [
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moment-robotics",
+    "api": "https://yc-oss.github.io/api/batches/s24/moment-robotics.json"
+  },
+  {
     "id": 29597,
     "name": "Spaceium Inc",
     "slug": "spaceium-inc",
@@ -11641,6 +11683,51 @@
     "api": "https://yc-oss.github.io/api/batches/s24/1849-bio.json"
   },
   {
+    "id": 29747,
+    "name": "deepsilicon",
+    "slug": "deepsilicon",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86bf1a250ebd174788e945f8cb80bbfa5fad5a1c.png",
+    "website": "https://www.deepsilicon.net/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Software and hardware to run neural networks faster and cheaper",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1724647478,
+    "tags": [
+      "Edge Computing Semiconductors",
+      "Hard Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/deepsilicon",
+    "api": "https://yc-oss.github.io/api/batches/s24/deepsilicon.json"
+  },
+  {
     "id": 29754,
     "name": "Conductor Quantum",
     "slug": "conductor-quantum",
@@ -11749,8 +11836,8 @@
     "subindustry": "Industrials",
     "launched_at": 1723534292,
     "tags": [
+      "Artificial Intelligence",
       "Mining",
-      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -11859,6 +11946,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/guardian-rf",
     "api": "https://yc-oss.github.io/api/batches/s24/guardian-rf.json"
+  },
+  {
+    "id": 29784,
+    "name": "Sensei",
+    "slug": "sensei",
+    "former_names": [
+      "OBO"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/923d5f790da4d561053faea254073e3aa5fc2da3.png",
+    "website": "https://senseirobotics.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sensei helps robotics companies scale and outsource their training data collection. Our hardware platform enables the collection of human-demonstration data at a tenth of the cost and twice the speed of current teleop approaches. Our software platform acts like Scale AI for robotics data: a large network of paid human operators use our low-cost collection platform to fulfill data-generation requests. ",
+    "one_liner": "Robotic Training Data at Scale",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Industrials",
+    "subindustry": "Unspecified",
+    "launched_at": 1724658554,
+    "tags": [
+      "Marketplace",
+      "SaaS",
+      "Robotics",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sensei",
+    "api": "https://yc-oss.github.io/api/batches/s24/sensei.json"
   },
   {
     "id": 29803,
