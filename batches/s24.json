@@ -547,7 +547,7 @@
       "Fully Remote"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -970,7 +970,7 @@
     "website": "https://www.cheersreviews.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Cheers is an in-person experience management platform that empowers service providers—like electricians, restaurants, and solar companies—to revolutionize customer interactions with NFC-enabled ‘Smart’ Badges.\r\n\r\nThese badges go beyond traditional employee identification; they are tap-enabled tools designed to streamline crucial in-person actions such as gathering reviews, collecting leads, verifying employment, and more. By turning every modern smartphone into a frictionless tool for these interactions, Cheers ensures businesses can capture on-the-spot feedback and drive positive reviews, all attributed to specific employees, products, and locations.\r\n\r\nSo far, Cheers has achieved:\r\n\r\n- $50K of ARR in the first ~2 months of operation\r\n- Thousands of new reviews generated across our customer base\r\n- 5-10x increase in feedback and 5-star reviews within the first month\r\n\r\nEmployee-level and product-level attribution fosters a culture of excellence, allowing managers to track performance, host competitions, and provide targeted training—all within a single platform.\r\n\r\nWhile we’re revolutionizing feedback today, our broader vision is to build Cheers into the central operating system for in-person businesses, integrating scheduling, payments, and performance tracking.",
-    "one_liner": "The super-app for in-person employees",
+    "one_liner": "The super-app for in-person employee management",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": true,
@@ -979,9 +979,9 @@
     "subindustry": "B2B",
     "launched_at": 1721413814,
     "tags": [
+      "Artificial Intelligence",
       "Analytics",
       "Feedback",
-      "AI",
       "Reviews"
     ],
     "tags_highlighted": [],
@@ -1758,8 +1758,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f86b78941e41162fe785f78a758f28b109d81ae6.png",
     "website": "https://getcallback.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Callback does your repetitive, manual operations tasks for you. We’ve built a task automation platform with humans in the loop to make ops painless and scalable.  \r\n",
-    "one_liner": "startup ops OOTB",
+    "long_description": "Callback is AI-native business process outsourcing. Companies use us to stay lean and focused on their core business, while we orchestrate and execute their critical tasks. \r\n",
+    "one_liner": "AI-native business process outsourcing",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -1799,7 +1799,7 @@
     "name": "Tabular",
     "slug": "tabular",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0929fea2a7fa9e4203d9e430776f9f273be3d60.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee0b8f16bae30d2bbbc9ba13873ddd8f795b33ed.png",
     "website": "https://www.gotabular.de/en/",
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "Tabular uses AI to automate the core workflows of accounting firms, starting in Europe. We generate finished ledger entries that users export with just one click. This involves tasks like classifying documents, determining VAT filings and selecting the correct booking accounts.",
@@ -3105,11 +3105,9 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1723587984,
     "tags": [
-      "Artificial Intelligence",
       "Scheduling",
       "Logistics",
-      "Healthcare",
-      "Enterprise Software"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3196,8 +3194,8 @@
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1724193978,
     "tags": [
-      "GovTech",
-      "Aerospace"
+      "Aerospace",
+      "Industrial"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3321,8 +3319,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4de281c6d37ab55c49650d3d583f54636f29ab59.png",
     "website": "https://parahelp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Parahelp builds AI support agents that resolve support tickets end-to-end like humans.\r\n\r\nFor example, when a customer requests a refund, your Parahelp agent can automatically look up the order information, check if the customer qualifies based on the company's policy, and process the refund in the payment system.",
-    "one_liner": "Human-like AI support agents",
+    "long_description": "Parahelp is an AI support agent that can resolve customer inquiries end-to-end.\r\n\r\nFor example, when a customer requests a refund, Parahelp can automatically look up subscription data, determine eligibility, and, if eligible, process the refund in the payment system.",
+    "one_liner": "Your AI support agent",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -3331,10 +3329,10 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1720219864,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Customer Service",
       "Customer Support",
+      "AI",
       "Ticketing"
     ],
     "tags_highlighted": [],
@@ -4027,10 +4025,10 @@
     "subindustry": "B2B",
     "launched_at": 1724264636,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Workflow Automation",
       "Procurement",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4524,9 +4522,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2962f31d13812ecf642bf4f800415c4be5836497.png",
     "website": "https://manaflow.ai",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Manaflow is the simplest way to augment repetitive office work in tables. With one click, you can execute millions of tasks involving data retrieval, gluing APIs, and taking actions side-by-side with your office work co-pilot.",
-    "one_liner": "Augment repetitive office work in tables with AI",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Manaflow is a simple way to automate repetitive office work in tables. With one click, you can execute millions of tasks involving data retrieval, gluing APIs, and taking actions side-by-side with your office work co-pilot.",
+    "one_liner": "Automate repetitive office work in tables with AI",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -4535,10 +4533,10 @@
     "subindustry": "B2B",
     "launched_at": 1715992295,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6189,8 +6187,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b402edc0d59aaae7f217e948a65add9eb3b2b93.png",
     "website": "https://soff.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soff builds supply chain software for manufacturing companies. We integrate with ERPs and email to automate supplier communication, send RFQs, and issue POs. Our software transforms unstructured emails and PDFs into SQL-ready data, directly injecting quotes into the ERP system. We replace Coupa and eliminate the need for manual data entry and dedicated supplier portals.",
-    "one_liner": "Automating manufacturing supply chains.",
+    "long_description": "Soff is a supply chain operating system for manufacturing companies. We unify supply chain data and automate core workflows, such as data entry, requesting quotes, comparing quotes, and issuing purchase orders. Our customers save dozens of hours a week spent on repetitive manual tasks.",
+    "one_liner": "Supply chain operating system for manufacturing companies.",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -6202,7 +6200,8 @@
       "B2B",
       "Manufacturing",
       "Supply Chain",
-      "Procurement"
+      "Procurement",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6211,7 +6210,8 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Supply Chain and Logistics"
     ],
     "regions": [
       "United States of America",
@@ -6370,9 +6370,11 @@
     "subindustry": "Industrials",
     "launched_at": 1722631140,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
-      "AI"
+      "Machine Learning",
+      "Semiconductors"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6672,7 +6674,7 @@
     "former_names": [
       "OBO"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/923d5f790da4d561053faea254073e3aa5fc2da3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e3e1067b2d9b0492706fd6cec1ccf4d50ee5c59.png",
     "website": "https://senseirobotics.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sensei helps robotics companies scale and outsource their training data collection. Our hardware platform enables the collection of human-demonstration data at a tenth of the cost and twice the speed of current teleop approaches. Our software platform acts like Scale AI for robotics data: a large network of paid human operators use our low-cost collection platform to fulfill data-generation requests. ",
@@ -6685,8 +6687,8 @@
     "subindustry": "Unspecified",
     "launched_at": 1724658554,
     "tags": [
+      "Hard Tech",
       "Marketplace",
-      "SaaS",
       "Robotics",
       "Data Engineering",
       "AI"
@@ -7096,11 +7098,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1724199477,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "B2B",
-      "Biotech",
-      "AI"
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7548,7 +7550,7 @@
     "name": "Dataleap",
     "slug": "dataleap",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e3e3df3501081e56b960c5a904579177357d576.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/faee29cbea32c379ce896ec9fb7d1788061afc21.png",
     "website": "https://dataleap.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dataleap is a GenAI-powered market intelligence platform for corporate strategy departments and top management consulting firms.\r\n\r\nWe combine the natural language interface from chatGPT with trusted, verifiable market data from best-in-class data providers. We do the heavy lifting of aggregating all data sources into a single interface.\r\n\r\nWe optimize the whole market research workflow from finding the right information, managing the internal knowledge base as well as sharing information with team members. \r\n\r\nWe already work with leading consultancies like BCG and industry giants like Siemens Energy and Uniper. ",
@@ -8594,6 +8596,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/mindely.json"
   },
   {
+    "id": 29839,
+    "name": "pap!",
+    "slug": "pap",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91957da820be361c716d7cafd0c4078a1c7333e0.png",
+    "website": "https://joinpap.com/",
+    "all_locations": "Berkeley, CA, USA",
+    "long_description": "Consumers miss out on $50B+ every year because they're busy and unaware, and that money is sitting in their email inbox. So, we automated reading email receipts and claiming the money they're entitled to, offering a service to which you can sign up once, do (literally) nothing, and earn $.\r\n\r\nWhere is this money coming from?\r\n\r\n- Retailers: When the price of clothes or furniture you've already bought drops, you're entitled to a refund for the difference\r\n- Airlines: When a flight you've booked gets delayed or canceled, you're entitled to a cash compensation.\r\n- Enterprises: When a class-action lawsuit is filed against a company you engage with, you're entitled to money.\r\n- And many more, that even the government holds some of your unclaimed funds.\r\n\r\nToday, the dream of one service that automatically claims the money you deserve when you shop, fly,... and live is (finally) possible.\r\n\r\nWe started with automating refunds in the shopping industry and have secured $5,000 in refunds to our users, growing 136% MoM. With AI, we've been able to repurpose that same automation to tackle refunds in the flight industry and the class-action lawsuit landscape.\r\n\r\nWhy us? (1) We're obsessed with reclaiming what's rightfully yours: Kamal and Anthony grew up in Lebanon, where people's money was unfairly taken away. (2) Weijie was the lead infra engineer for Wish's recommendation system, the feature that fueled their IPO. Our combined experience includes Apple, Addepar, Bolt, Wish, and StackAdapt.\r\n\r\nAnd we're all working towards one goal: move those billions of dollars where they belong.\r\n",
+    "one_liner": "The world owes you money. We get it for you.",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1724803143,
+    "tags": [
+      "Fintech",
+      "Consumer",
+      "Consumer Finance",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pap",
+    "api": "https://yc-oss.github.io/api/batches/s24/pap.json"
+  },
+  {
     "id": 29841,
     "name": "Elayne",
     "slug": "elayne",
@@ -9425,6 +9471,54 @@
     "api": "https://yc-oss.github.io/api/batches/s24/kart-ai.json"
   },
   {
+    "id": 29963,
+    "name": "Capitol AI",
+    "slug": "capitol-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d21edd589862cd64f905545df119c53426538c8d.png",
+    "website": "https://www.capitol.ai/",
+    "all_locations": "Washington, DC, USA; Remote",
+    "long_description": "Capitol is an infinitely smart AI research assistant with access to your important documents, enabling you to create high-quality content instantly. You can generate informed multimodal articles, white papers, marketing content, and tweet storms. Capitol has a D2C product, and a B2B product offering for companies that want to embed real-time content creation and editing into their applications. You can generate informed multimodal articles, white papers, marketing content, and tweet storms. Capitol has a D2C product, and a B2B product offering for companies that want to embed real-time content creation and editing into their applications.\r\n\r\nPolitico has exclusively partnered with Capitol to power all Politico Pro users with AI content creation for policy and regulatory analysis. \r\n\r\nIn the future, all publishers of content and data will have an AI research layer. Capitol will be the category-defining product to unlock this transformation.",
+    "one_liner": "Infinitely smart research assistant to generate content from your data",
+    "team_size": 11,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1724724761,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Analytics",
+      "Media"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/capitol-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/capitol-ai.json"
+  },
+  {
     "id": 29964,
     "name": "Overlap",
     "slug": "overlap",
@@ -9477,7 +9571,7 @@
     "website": "https://www.formulainsight.io/",
     "all_locations": "",
     "long_description": "We are building a central repository for hedge funds to store their most valuable Excel data that can be accessed with conversational search.",
-    "one_liner": "Helping hedge funds expedite spreadsheet analysis ",
+    "one_liner": "Enabling hedge funds to track projections and expedite analysis",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -9566,7 +9660,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2ac264e6877792745759c5eec0d699fa373574f.png",
     "website": "https://patched.codes",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Patched is an open-source framework that uses AI to accelerate asynchronous development tasks like code reviews, linting, patching, and documentation. \r\n\r\nWe are the preferred option for privacy-conscious enterprises that want to leverage AI for their development workflow without compromising security and compliance.",
+    "long_description": "Patched is an open-source framework to automate code reviews, docs, and patches with AI.\r\n\r\n\r\nWe empower developers to build and deploy AI-assisted workflows that can autonomously complete repetitive, mundane tasks like documentation, code reviews, and security patching.\r\n\r\n\r\nPatched is the preferred option for privacy-conscious enterprises and engineer that want to leverage the best AI models for their development workflows without compromising security, control, or compliance.\r\n\r\n\r\n**What makes Patched different?**\r\n- Autonomous Automation: Unlike copilots that assist during active development, Patched runs in the background, managing tasks autonomously.\r\n- Code-Native Workflows: Flows can be built using visual editors or Python code.\r\n- Open-Source Flexibility: Allows running patchflows locally and integrating with preferred LLM API endpoints for enhanced privacy.\r\n- Control & Precision: Get full control over your workflows, overcoming limitations of non-deterministic agentic behaviors.",
     "one_liner": "Open-source framework to accelerate development tasks with AI",
     "team_size": 2,
     "highlight_black": false,
@@ -9576,9 +9670,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1721263283,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "B2B",
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9890,7 +9985,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834f64faae757a9cee7b855ffa502fb3b8718e52.png",
     "website": "https://midship.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We take your complex documents, extract the data you need, and enter it into your preferred format. For instance, we pull rent roll data from a 40-page loan application directly into an analyst's spreadsheet. ",
+    "long_description": "We extract data from documents and input it directly into your spreadsheets. A CRE firm is trialing us to extract data from loan documents to populate their underwriting spreadsheets in 5 minutes, instead of hours.",
     "one_liner": "Extract documents straight to your spreadsheets",
     "team_size": 3,
     "highlight_black": false,
@@ -9901,8 +9996,8 @@
     "launched_at": 1722383379,
     "tags": [
       "Documents",
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -13360,10 +13360,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c7e5700b37d004a21b21f411b10e188028b085.png",
     "website": "http://dittowords.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Manage the words across your team’s product from design to production.",
     "one_liner": "Manage the words across your team’s product from design to production.",
-    "team_size": 9,
+    "team_size": 13,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": true,
@@ -13387,7 +13387,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -26714,6 +26716,7 @@
     "tags": [
       "Machine Learning",
       "SaaS",
+      "Consumer",
       "Security"
     ],
     "tags_highlighted": [],
@@ -45505,7 +45508,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
     "website": "https://getdecipher.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decipher AI is a next-gen Sentry replacement that helps you uncover, prioritize, and debug production issues faster.\r\n\r\nIt lets engineers identify and resolve production issues by analyzing runtime data and product behavior with AI. Companies use us to monitor their application and to quickly understand what went wrong, the user impact, and how to fix it.\r\n\r\nAI Product Analysis\r\nDecipher determined the real product impact using session replays, code, and error data so you can prioritize and map them to support tickets.\r\n\r\nIntelligent Alerting\r\nDecipher's AI distinguishes critical issues from noise, ensuring you only receive alerts that demand your attention. No fussy filters or thresholds required.\r\n\r\nSmart Grouping\r\nDecipher automatically clusters related errors, giving you a clear overview of issues affecting your product. The first actually useful error dashboard. \r\n\r\nIssue Insights\r\nDecipher reveals patterns and insights across every instance of the same error by analyzing all shared attributes - including requests, logs, and local variables.\r\n\r\nAI Debugging\r\nDecipher's AI uses codebase wide understanding and product context to root cause bugs. It can help you get started or even submit a pull request.\r\n\r\nCustomer Reports, Correlated\r\nDecipher automatically correlates support tickets with relevant errors, bridging the gap between customer reports and monitoring.\r\n\r\nContact us at founders@getdecipher.com or book a demo here: https://cal.com/decipher/demo",
+    "long_description": "Decipher AI is an AI-powered bug detection platform that helps teams deliver high-quality, reliable products by continuously analyzing session replays and code-level system behavior.\r\n\r\nCompanies rely on Decipher to identify critical issues before more customers encounter them and to access rich technical context for swift resolution.",
     "one_liner": "Helping engineers understand and fix production bugs",
     "team_size": 2,
     "highlight_black": false,
@@ -45515,11 +45518,11 @@
     "subindustry": "Unspecified",
     "launched_at": 1708738486,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Monitoring",
-      "AI"
+      "Monitoring"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47175,7 +47178,7 @@
     "name": "Tabular",
     "slug": "tabular",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0929fea2a7fa9e4203d9e430776f9f273be3d60.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee0b8f16bae30d2bbbc9ba13873ddd8f795b33ed.png",
     "website": "https://www.gotabular.de/en/",
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "Tabular uses AI to automate the core workflows of accounting firms, starting in Europe. We generate finished ledger entries that users export with just one click. This involves tasks like classifying documents, determining VAT filings and selecting the correct booking accounts.",
@@ -47841,10 +47844,10 @@
     "subindustry": "B2B",
     "launched_at": 1724264636,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Workflow Automation",
       "Procurement",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -48474,54 +48477,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/laminar-ai.json"
   },
   {
-    "id": 29784,
-    "name": "Sensei",
-    "slug": "sensei",
-    "former_names": [
-      "OBO"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/923d5f790da4d561053faea254073e3aa5fc2da3.png",
-    "website": "https://senseirobotics.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sensei helps robotics companies scale and outsource their training data collection. Our hardware platform enables the collection of human-demonstration data at a tenth of the cost and twice the speed of current teleop approaches. Our software platform acts like Scale AI for robotics data: a large network of paid human operators use our low-cost collection platform to fulfill data-generation requests. ",
-    "one_liner": "Robotic Training Data at Scale",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Industrials",
-    "subindustry": "Unspecified",
-    "launched_at": 1724658554,
-    "tags": [
-      "Marketplace",
-      "SaaS",
-      "Robotics",
-      "Data Engineering",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sensei",
-    "api": "https://yc-oss.github.io/api/batches/s24/sensei.json"
-  },
-  {
     "id": 29786,
     "name": "Palmier",
     "slug": "palmier",
@@ -48677,11 +48632,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1724199477,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "B2B",
-      "Biotech",
-      "AI"
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49179,7 +49134,7 @@
     "website": "https://www.formulainsight.io/",
     "all_locations": "",
     "long_description": "We are building a central repository for hedge funds to store their most valuable Excel data that can be accessed with conversational search.",
-    "one_liner": "Helping hedge funds expedite spreadsheet analysis ",
+    "one_liner": "Enabling hedge funds to track projections and expedite analysis",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
