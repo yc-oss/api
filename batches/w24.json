@@ -1261,7 +1261,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7f5941ce46fd5ba95ec2e5bbefc76f37b95a78.png",
     "website": "https://www.ourmaia.com/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Maia helps couples connect more each day. Trained by relationship experts, Maia offers daily activities, personalized advice, proactive insights, quizzes and games through AI and relationship science.",
     "one_liner": "AI relationship app that keeps couples together",
     "team_size": 2,
@@ -1283,11 +1283,12 @@
       "Consumer Health and Wellness"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": true,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maia",
@@ -1386,7 +1387,7 @@
     "former_names": [
       "Screenwriter"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b019cbaf6c0eb247cf32394bf286011b28e84660.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48f8c157e3777236c60cf1c3b2f3bdfc23a2c923.png",
     "website": "https://momentic.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Momentic, we are on a mission to make testing easy for engineering teams. We make AI do the heavy lifting for you: finding elements, reasoning about assertions, visual comparisons, and even generating whole tests!\r\n\r\nBook a demo today at momentic.ai/demo!",
@@ -1399,10 +1400,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1700355696,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1672,11 +1673,11 @@
     "subindustry": "B2B",
     "launched_at": 1703103445,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3664,6 +3665,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lucite",
     "api": "https://yc-oss.github.io/api/batches/w24/lucite.json"
+  },
+  {
+    "id": 29315,
+    "name": "Attunement",
+    "slug": "attunement",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/544db1f208e24ce7ff96a1c358355acdfabcaf13.png",
+    "website": "http://attunement.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Attunement an automation workflow platform for psychiatric assessments.",
+    "one_liner": "Automation workflow for psychiatric assessments.",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Therapeutics",
+    "launched_at": 1706574795,
+    "tags": [
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/attunement",
+    "api": "https://yc-oss.github.io/api/batches/w24/attunement.json"
   },
   {
     "id": 29317,
@@ -6928,21 +6972,21 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b7969c1cf6999d5b5333e8a0fd7ca63e13f079f.png",
     "website": "https://yondu.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Yondu develops models that allow robots to understand and intelligently carry out complex commands. The models are trained on data across various robotic platforms on different modalities of tasks. The models serve as a control policy for devices that need to make decisions, whether they be drones for reconnaissance, robot dogs for inspections, or cameras for smart surveillance. Yondu offers our models to robotics service providers through an API and license. Additionally, Yondu sells off-the-shelf hardware with our custom models to provide smart robots for tasks that benefit from improved human-robot interaction. Our first product is a drone you can control with your voice. ",
-    "one_liner": "Robotic Foundation Models for Intelligent Navigation",
+    "long_description": "Yondu develops robots to help fill the over 4 million unfilled retail jobs. Our first robot is designed to pick, stock, and face shelves in grocery stores. We believe the next phase of robotics is in multi use robots that operate in dynamic environments around people. ",
+    "one_liner": "Grocery Store Automation with Intelligent Robotics",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
-    "industry": "Industrials",
+    "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1709280983,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Hard Tech",
       "Robotics",
-      "Navigation",
-      "AI"
+      "Retail Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6951,8 +6995,8 @@
     "batch": "W24",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
+      "B2B",
+      "Retail"
     ],
     "regions": [
       "United States of America",
@@ -7732,13 +7776,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff0aee737867b4cc208ed70d985fdd52233ec5bc.png",
     "website": "https://helloamber.ai/",
     "all_locations": "",
-    "long_description": "Amber is an extension of your post-sales team that has context on every customer and every action. \r\n- Transforms a sea of faceless customers into data-driven opportunities your team can execute on \r\n- Automate reactive responses to minimize firefighting \r\n- Supercharge proactive outreach with AI crafted conversations and up-sell qualification; every customer will feel taken care of \r\n\r\nOvertime Amber can learn and scale more and more of your post-sales motions. ",
-    "one_liner": "Co-pilot for Account Managers",
+    "long_description": "Amber is a super app for kids, offering Aristotic mentorship, social connections, browsing, and gaming. Ultra will transform screens from a source of depression and addiction, into the ultimate learning environment.",
+    "one_liner": "Super app for kids ",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "B2B",
+    "highlight_women": false,
+    "industry": "Education",
     "subindustry": "Consumer -> Content",
     "launched_at": 1709700135,
     "tags": [],
@@ -7749,8 +7793,7 @@
     "batch": "W24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Sales"
+      "Education"
     ],
     "regions": [
       "Unspecified"

@@ -24947,7 +24947,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7f5941ce46fd5ba95ec2e5bbefc76f37b95a78.png",
     "website": "https://www.ourmaia.com/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Maia helps couples connect more each day. Trained by relationship experts, Maia offers daily activities, personalized advice, proactive insights, quizzes and games through AI and relationship science.",
     "one_liner": "AI relationship app that keeps couples together",
     "team_size": 2,
@@ -24969,11 +24969,12 @@
       "Consumer Health and Wellness"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": true,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maia",
@@ -25245,6 +25246,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/selera-medical",
     "api": "https://yc-oss.github.io/api/batches/w24/selera-medical.json"
+  },
+  {
+    "id": 29315,
+    "name": "Attunement",
+    "slug": "attunement",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/544db1f208e24ce7ff96a1c358355acdfabcaf13.png",
+    "website": "http://attunement.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Attunement an automation workflow platform for psychiatric assessments.",
+    "one_liner": "Automation workflow for psychiatric assessments.",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Therapeutics",
+    "launched_at": 1706574795,
+    "tags": [
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/attunement",
+    "api": "https://yc-oss.github.io/api/batches/w24/attunement.json"
   },
   {
     "id": 29339,
@@ -26437,6 +26481,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/mito-health.json"
   },
   {
+    "id": 29707,
+    "name": "Taxo",
+    "slug": "taxo",
+    "former_names": [
+      "Taxomatica"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f975b562ddf2a304a569ae2a7dc2814672828062.png",
+    "website": "http://taxo.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Taxo integrates with electronic health records (EHRs) to automate medical billing and coding. Its AI-powered solution reduces the time and cost of claims processing by 90%, enabling providers to focus on patient care rather than administrative tasks.",
+    "one_liner": "Automated medical billing and coding",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Healthcare",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1724873194,
+    "tags": [
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/taxo",
+    "api": "https://yc-oss.github.io/api/batches/s24/taxo.json"
+  },
+  {
     "id": 29714,
     "name": "Kopra Bio",
     "slug": "kopra-bio",
@@ -26673,7 +26761,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a2cd9231d352195b9c81d40c7f7df4295e580f3.png",
     "website": "https://www.baselinetrials.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The main document in a clinical trial is the study protocol. Currently, entire floors of people use the protocol to create the study forms, database, programs, and hundreds of pages of other documents. We use AI to automate the process of creating everything from the protocol, saving not only spend on headcount but also months of time which can translate to >$10M in lost revenue saved for a single phase 3 trial. ",
+    "long_description": "The main document in a clinical trial is the study protocol. At large companies, floors of people use the protocol to create the study data collection forms, clinical database design, error checks, analysis code, and data transformation mappings. We use AI to automate the process of creating everything from the protocol, saving not only spend on headcount but also months of time which can translate to up to $18M in lost revenue saved for a single phase 3 trial. ",
     "one_liner": "AI document creation and data management for clinical trials",
     "team_size": 2,
     "highlight_black": true,
@@ -26683,11 +26771,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1724199477,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "B2B",
-      "Biotech"
+      "Biotech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

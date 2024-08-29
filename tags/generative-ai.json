@@ -2944,7 +2944,7 @@
     "website": "https://www.wolfia.com",
     "all_locations": "Austin, TX, USA; Mountain View, CA, USA; Remote",
     "long_description": "Wolfia helps accelerates security reviews for AI-first companies, helping them close deals faster. We use AI to help answer security questionnaires, and provide an trust center to share your AI policies and security posture.",
-    "one_liner": "Security review automation for AI companies",
+    "one_liner": "10x Faster Security Reviews for AI-first companies",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -4318,11 +4318,11 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1669993072,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "API",
       "Cybersecurity",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9111,21 +9111,21 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b7969c1cf6999d5b5333e8a0fd7ca63e13f079f.png",
     "website": "https://yondu.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Yondu develops models that allow robots to understand and intelligently carry out complex commands. The models are trained on data across various robotic platforms on different modalities of tasks. The models serve as a control policy for devices that need to make decisions, whether they be drones for reconnaissance, robot dogs for inspections, or cameras for smart surveillance. Yondu offers our models to robotics service providers through an API and license. Additionally, Yondu sells off-the-shelf hardware with our custom models to provide smart robots for tasks that benefit from improved human-robot interaction. Our first product is a drone you can control with your voice. ",
-    "one_liner": "Robotic Foundation Models for Intelligent Navigation",
+    "long_description": "Yondu develops robots to help fill the over 4 million unfilled retail jobs. Our first robot is designed to pick, stock, and face shelves in grocery stores. We believe the next phase of robotics is in multi use robots that operate in dynamic environments around people. ",
+    "one_liner": "Grocery Store Automation with Intelligent Robotics",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
-    "industry": "Industrials",
+    "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1709280983,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Hard Tech",
       "Robotics",
-      "Navigation",
-      "AI"
+      "Retail Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9134,8 +9134,8 @@
     "batch": "W24",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
+      "B2B",
+      "Retail"
     ],
     "regions": [
       "United States of America",
@@ -10041,8 +10041,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00fc65a85c76fb32520d640f572ef57d213f16cf.png",
     "website": "https://www.withdavid.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Data is the bottleneck for better AI - and David AI aims to solve this by unlocking private, proprietary data sources. Our platform connects model developers with data owners - ensuring high data quality and seamless exchange.",
-    "one_liner": "The data marketplace for AI",
+    "long_description": "",
+    "one_liner": "Data for multimodal AI",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -10053,7 +10053,6 @@
     "tags": [
       "Artificial Intelligence",
       "Generative AI",
-      "Marketplace",
       "Data Engineering",
       "AI"
     ],
@@ -10226,7 +10225,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bc45b65a26744235ad21f9338a6d0aea36ac0d3.png",
     "website": "https://www.argil.ai/",
-    "all_locations": "",
+    "all_locations": "Paris, Île-de-France, France",
     "long_description": "",
     "one_liner": "The video generation engine for the creator economy ",
     "team_size": 8,
@@ -10250,7 +10249,8 @@
       "Consumer"
     ],
     "regions": [
-      "Unspecified"
+      "France",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -10353,6 +10353,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mindely",
     "api": "https://yc-oss.github.io/api/batches/s24/mindely.json"
+  },
+  {
+    "id": 29848,
+    "name": "Saldor",
+    "slug": "saldor",
+    "former_names": [
+      "Ovation"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a075f23bbd8f7661151fbd5110d6e48d39a3b3a.png",
+    "website": "https://saldor.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Engineers use Saldor's API to provide high quality web data to their AI agents.",
+    "one_liner": "The web scraper for AI",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1722921255,
+    "tags": [
+      "AIOps",
+      "Generative AI",
+      "Data Engineering",
+      "Search",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/saldor",
+    "api": "https://yc-oss.github.io/api/batches/s24/saldor.json"
   },
   {
     "id": 29851,
@@ -10627,5 +10675,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arva-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/arva-ai.json"
+  },
+  {
+    "id": 29983,
+    "name": "PathPilot",
+    "slug": "pathpilot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6768364915c3c8551c79d1fe59ba06f2cc7c2a5.png",
+    "website": "https://www.getpathpilot.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "PathPilot transforms session replays (like those in Posthog) into actionable written summaries for product insights and timely alerts. By analyzing session replays, PathPilot AI generates qualitative session summaries, helping you focus on the most impactful user sessions, understand high-value customer activities, and receive alerts when critical user sessions need attention.",
+    "one_liner": "Turn Session Replays into Actionable Insights ",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1724891975,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "B2B",
+      "Customer Success",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pathpilot",
+    "api": "https://yc-oss.github.io/api/batches/s24/pathpilot.json"
   }
 ]
