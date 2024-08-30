@@ -905,10 +905,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04ac699768ee01bea09ec4c32c01f02b31efebd7.png",
     "website": "https://pipekit.io",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Our app manages Argo Workflows for data teams, enabling complex data &\r\n CI pipelines in half the time while saving companies hundreds of thousands of dollars annually. Argo Workflows is an open-source pipeline framework for Kubernetes that’s used in production by Bloomberg, Intuit, Adobe, New Relic, NVIDIA, and many other open-source early adopters. ",
+    "all_locations": "Atlanta, GA, USA; San Francisco, CA, USA; Remote",
+    "long_description": "Our app manages Argo Workflows for data teams, enabling complex data &\r\n CI pipelines in half the time while saving companies hundreds of thousands of dollars annually. We maintain Argo Workflows, an open-source pipeline framework for Kubernetes that’s used in production by Bloomberg, Intuit, Adobe, New Relic, NVIDIA, and many other open-source early adopters. ",
     "one_liner": "Pipekit scales data & CI pipelines for enterprises",
-    "team_size": 7,
+    "team_size": 9,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -992,6 +992,58 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/warpbuild",
     "api": "https://yc-oss.github.io/api/batches/s21/warpbuild.json"
+  },
+  {
+    "id": 25342,
+    "name": "Stably",
+    "slug": "stably",
+    "former_names": [
+      "Lovecast",
+      "UpArrow",
+      "UpDragon"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7522b24d3853d0b79cebe72798f4a3a33c54ac27.png",
+    "website": "https://www.stably.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Stably helps product teams ship fast without breaking things. Our AI analyzes your web apps, generates comprehensive test scripts, and adapts to changes on the fly. ",
+    "one_liner": "AI-powered web testing that lets you ship faster without breaking…",
+    "team_size": 4,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1645204142,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "DevOps",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stably",
+    "api": "https://yc-oss.github.io/api/batches/w22/stably.json"
   },
   {
     "id": 25871,
@@ -1619,7 +1671,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5e884dc3712bac23843cd1a536f9b8735d8c51e.png",
     "website": "https://tryparity.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building an AI SRE for incident response. Parity is the new first line of defense for on-call engineers work with Kubernetes - it autonomously triages and responds to incoming alerts.",
+    "long_description": "We’re building an AI SRE for incident response. Parity is the first line of defense for on-call engineers working with Kubernetes - it autonomously triages, root causes, and heals your cluster.",
     "one_liner": "The World's First AI SRE",
     "team_size": 3,
     "highlight_black": false,
@@ -1629,11 +1681,11 @@
     "subindustry": "B2B",
     "launched_at": 1723073466,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Kubernetes",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -29989,8 +29989,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7522b24d3853d0b79cebe72798f4a3a33c54ac27.png",
     "website": "https://www.stably.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Stably helps engineering teams develop fast without breaking things. We do so by using AI to generate, run, and maintain your E2E tests automatically.",
-    "one_liner": "We help you move fast without breaking things",
+    "long_description": "Stably helps product teams ship fast without breaking things. Our AI analyzes your web apps, generates comprehensive test scripts, and adapts to changes on the fly. ",
+    "one_liner": "AI-powered web testing that lets you ship faster without breaking…",
     "team_size": 4,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -29999,9 +29999,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1645204142,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS"
+      "SaaS",
+      "DevOps",
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47038,7 +47040,7 @@
     "name": "Superunit",
     "slug": "superunit",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/96ece542d3cf76bfcc561b886abbad3af7a0321c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbd00107f697b5f5493bc13c93f8896ad8eff46b.png",
     "website": "http://unitiq.ai",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Superunit is an AI-powered accounting and inventory management platform for companies selling physical goods. We close a company's books 5x faster and more accurately than human teams.\r\n\r\nWe offer automated bookkeeping, supply chain management, inventory costs, and contribution margin analysis.  Our system seamlessly integrates with Quickbooks and ERP systems, eliminating manual data entry and minimizing errors.\r\n\r\nUsers can interact with Superunit via Slack or email, avoiding the need to learn new software.\r\n\r\n(https://www.loom.com/share/1425f6802d774e1aa00a8ac4b64782ff)\r\n",
@@ -47051,11 +47053,11 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1719276994,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "E-commerce",
-      "AI"
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47598,24 +47600,24 @@
     "name": "Offstream",
     "slug": "offstream",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aae0a1dabe49efe34e1e11b732c704a25caf7169.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/343bfc43bc79563ba958e18c388fa951ab1c7e01.png",
     "website": "https://www.useoffstream.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Offstream is Vanta for carbon compliance. We have over $350K ARR and 9 customers who are mid-sized clean tech developers. \r\n\r\nZach (CTO) studied CS at Notre Dame and built the entire product at Repool (YC S21). Varsha (CEO) is an HBS grad who launched a traceable cotton product at Indigo Ag and secured contracts for $50M in booked revenue. At Indigo, she hired 80 people and spent $50M to get carbon compliant because it was opaque, time-consuming, and changing rapidly.\r\n\r\nOffstream solves this by using LLMs to parse regulations, generate technical reports for customers, and manage 100,000+ operational data points on project’s lifecycles. We cut the time customers spend on compliance by 90% and at 1/5th of the cost of alternatives.\r\n\r\nAll new infrastructure built today has carbon compliance requirements and we are just getting started.\r\n",
+    "long_description": "Offstream is Vanta for carbon compliance. We have grown 20+% MoM since joining the YC batch and have 10 clean energy developers using our platform to get and stay compliant with regulations.\r\n\r\nToday, every new infrastructure project, from data centers to biomass power plants has a complicated mess of local, state, federal, and private sector standards that they must understand and comply with to make their projects profitable.\r\n\r\nOffstream solves this by using LLMs to parse regulations, generate technical reports for customers, and manage 100,000+ operational data points on project’s lifecycles. We cut the time customers spend on compliance by 90% and at 1/5th of the cost of alternatives.",
     "one_liner": "Vanta for carbon compliance",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": true,
-    "industry": "Industrials",
+    "industry": "B2B",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1720465631,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Compliance",
-      "Climate",
-      "ClimateTech"
+      "Climate"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47624,8 +47626,7 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Climate"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -47847,8 +47848,8 @@
     "launched_at": 1724264636,
     "tags": [
       "SaaS",
+      "B2B",
       "Workflow Automation",
-      "Procurement",
       "AI",
       "AI Assistant"
     ],
@@ -47874,6 +47875,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lighthouz-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/lighthouz-ai.json"
+  },
+  {
+    "id": 29708,
+    "name": "Zenbase AI",
+    "slug": "zenbase-ai",
+    "former_names": [
+      "langjit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd54b637cf4e5d1842d0d06352abde6b7d388b51.png",
+    "website": "https://zenbase.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Zenbase automates prompt engineering and model selection so developers can focus on programming, and not prompting.\r\n\r\nWe’re core team members of Stanford’s DSPy, the #1 LLM optimization framework used by Meta, Microsoft, Google, and 40+ others.\r\n\r\nWe're building the production version.",
+    "one_liner": "Continuous prompt optimization for LLMs from DSPy core contributors",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1720735986,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zenbase-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/zenbase-ai.json"
   },
   {
     "id": 29715,
@@ -48489,7 +48538,7 @@
     "website": "https://www.lmnr.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Laminar is a platform that enables AI developers to rapidly iterate on LLM applications to ensure reliability. We do this by providing:\r\n\r\n- a GUI to build LLM applications as dynamic graphs with seamless local code interfacing. These graph pipelines can be directly hosted on our infrastructure and exposed as scalable API endpoints.\r\n- an open-source package to generate abstraction-free code from these graphs directly into developers' codebases.\r\n- a state-of-the art evaluation platform that lets users build fast and custom evaluators without managing evaluation infrastructure themselves.\r\n- a data management infrastructure with built-in support for vector search over datasets and files. Data can be easily ingested into LLMs and LLMs can write to the datasets directly, creating a self-improving data flywheel.\r\n- a low latency logging and observability infrastructure.\r\n\r\nLaminar combines orchestration, evaluations, data, and observability in a single platform to empower AI developers to ship reliable LLM applications 10x faster.",
-    "one_liner": "Developer platform to ship reliable LLM agents 10x faster.",
+    "one_liner": "Open-source observability and analytics for complex LLM apps",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -48499,10 +48548,10 @@
     "launched_at": 1721337823,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48546,10 +48595,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1724450208,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48824,10 +48873,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724084407,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "SaaS",
-      "Collaboration"
+      "B2B",
+      "Collaboration",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49365,11 +49415,11 @@
     "name": "Outerport",
     "slug": "outerport",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fdd7ce5a8890527f27c80fb1746a830e39d06fb2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b04f0fee59f28a3fa66d41bb63e4aef150ce2812.png",
     "website": "https://outerport.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outerport is a registry for foundation model (LLM) weights, which allows distributed servers to maintain the latest models on cache. Hot swap models instantly, minimize cold starts, scale horizontally, and maintain version control.\r\n\r\nWe provide a central platform for secure governance over models while providing low latency customer serving with LLMs. ",
-    "one_liner": "Enterprise registry for foundation model weights",
+    "long_description": "Outerport is a registry for foundation model weights (e.g. LLMs, diffusion models) which allows servers to maintain the latest models on cache. We leverage compression & caching to serve multiple models on one endpoint and save 40% in GPU costs. \r\n\r\nHot swap models instantly, minimize cold starts, scale horizontally, maintain version control, and secure your models on a central platform. ",
+    "one_liner": "VMware for GPUs",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,

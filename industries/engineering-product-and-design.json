@@ -12038,8 +12038,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7522b24d3853d0b79cebe72798f4a3a33c54ac27.png",
     "website": "https://www.stably.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Stably helps engineering teams develop fast without breaking things. We do so by using AI to generate, run, and maintain your E2E tests automatically.",
-    "one_liner": "We help you move fast without breaking things",
+    "long_description": "Stably helps product teams ship fast without breaking things. Our AI analyzes your web apps, generates comprehensive test scripts, and adapts to changes on the fly. ",
+    "one_liner": "AI-powered web testing that lets you ship faster without breaking…",
     "team_size": 4,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -12048,9 +12048,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1645204142,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS"
+      "SaaS",
+      "DevOps",
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18292,9 +18294,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6972f19105bed048ed6f4be829b43f779ed02d87.png",
     "website": "https://www.greptile.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Greptile is an AI-powered API that can search and understand large codebases in natural language, letting software teams easily build powerful internal dev tools. \r\n\r\nDevelopers at 300+ companies including Stripe and Amazon use Greptile for LLM-powered codebase Q&A, to automatically update their docs on new commits, automate PR reviews, automatically add codebase context to new Jira tickets, and [much, much more](https://docs.greptile.com/examples).\r\n\r\nGreptile can used via the cloud, or be hosted 100% on your AWS in an air-gapped VPC.",
-    "one_liner": "AI expert on any codebase in natural language, accessible via API",
-    "team_size": 3,
+    "long_description": "Greptile is an AI that understands large codebases that you can query via an API. \r\n\r\nYou can:\r\n- Use it to chat with your codebase\r\n- Plug it into Jira to generate descriptions for tickets, into GitHub to get automate PR reviews etc. with full knowledge of the codebase\r\n- Build custom internal tools and automations on top of the API!\r\n\r\nGreptile can used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.\r\n\r\nToday, 800+ software teams including Wombo, Metamask, Warp, Exa AI, Bland, Leya, and more use Greptile to accelerate their software development lifecycle.  ",
+    "one_liner": "AI expert on your codebase that you can query via an API",
+    "team_size": 6,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -18321,9 +18323,9 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
+    "app_video_public": true,
+    "demo_day_video_public": true,
+    "app_answers": true,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/greptile",
     "api": "https://yc-oss.github.io/api/batches/w24/greptile.json"
@@ -20890,11 +20892,11 @@
     "former_names": [
       "langjit"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a38ced645c5376e513f2d43f9b2b29bcaa81631.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd54b637cf4e5d1842d0d06352abde6b7d388b51.png",
     "website": "https://zenbase.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zenbase AI automates prompt engineering for production environments. Instead of manually crafting prompts, developers can integrate Zenbase AI’s open-source SDK to streamline and optimize their AI workflows. Imagine working on an AI project where the prompt engineering process is automated, reducing your workload and improving efficiency.\r\n\r\nZenbase AI is transforming how developers ship with AI by providing automated prompt engineering and continuous quality optimization. Zenbase AI enables you to create better user experiences faster, focusing on programming rather than prompting. With Zenbase AI, you can drive better outcomes and save dozens of hours.\r\n\r\nCyrus Nouroozi and Amir Mehr have been friends for a long time and have been doing consulting together. Both are key contributors to StanfordNLP's DSPy project. Through their consulting work, they identified a common pain point: prompt iteration was time-consuming with uncertain ROI. Realizing the potential for automation, they created Zenbase. By automating prompt engineering, Zenbase significantly reduces the time and effort required, allowing developers to deploy AI models faster and with better performance.\r\n\r\nZenbase, being open-source, empowers a wide range of developers and companies to enhance their AI capabilities efficiently. With its innovative approach and focus on automation, Zenbase is poised to revolutionize AI prompt engineering and optimize AI workflows across various industries.",
-    "one_liner": "Prompt engineering, automated.",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Zenbase automates prompt engineering and model selection so developers can focus on programming, and not prompting.\r\n\r\nWe’re core team members of Stanford’s DSPy, the #1 LLM optimization framework used by Meta, Microsoft, Google, and 40+ others.\r\n\r\nWe're building the production version.",
+    "one_liner": "Continuous prompt optimization for LLMs from DSPy core contributors",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -20903,8 +20905,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1720735986,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20920,7 +20923,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -21025,6 +21028,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/reactwise.json"
   },
   {
+    "id": 29736,
+    "name": "MagiCode",
+    "slug": "magicode",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f1dbd87ba1f72f5d3f7bc950ca874d61b4ac849.png",
+    "website": "https://www.magicode.ai/",
+    "all_locations": "Stanford, CA, USA",
+    "long_description": "MagiCode is a proactive AI pair programmer that intuitively understands developers' actions in real time, actively anticipates their next steps, and offers assistance even before they ask.",
+    "one_liner": "Proactive AI Pair Programmer",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1724977749,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/magicode",
+    "api": "https://yc-oss.github.io/api/batches/s24/magicode.json"
+  },
+  {
     "id": 29737,
     "name": "Hestus, Inc.",
     "slug": "hestus-inc",
@@ -21084,7 +21131,7 @@
     "website": "https://www.lmnr.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Laminar is a platform that enables AI developers to rapidly iterate on LLM applications to ensure reliability. We do this by providing:\r\n\r\n- a GUI to build LLM applications as dynamic graphs with seamless local code interfacing. These graph pipelines can be directly hosted on our infrastructure and exposed as scalable API endpoints.\r\n- an open-source package to generate abstraction-free code from these graphs directly into developers' codebases.\r\n- a state-of-the art evaluation platform that lets users build fast and custom evaluators without managing evaluation infrastructure themselves.\r\n- a data management infrastructure with built-in support for vector search over datasets and files. Data can be easily ingested into LLMs and LLMs can write to the datasets directly, creating a self-improving data flywheel.\r\n- a low latency logging and observability infrastructure.\r\n\r\nLaminar combines orchestration, evaluations, data, and observability in a single platform to empower AI developers to ship reliable LLM applications 10x faster.",
-    "one_liner": "Developer platform to ship reliable LLM agents 10x faster.",
+    "one_liner": "Open-source observability and analytics for complex LLM apps",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -21094,10 +21141,10 @@
     "launched_at": 1721337823,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21320,10 +21367,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724084407,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "SaaS",
-      "Collaboration"
+      "B2B",
+      "Collaboration",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
