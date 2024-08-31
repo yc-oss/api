@@ -145,8 +145,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cc54fa641b3cb3228721daab125c19f08d117b8.png",
     "website": "http://www.fuseinsight.com",
     "all_locations": "London, England, United Kingdom; Remote",
-    "long_description": "TL;DR: AI-powered analysis of healthcare contracts and payments to help providers detect underpayments and collect the revenue they’re owed from insurers.\r\n\r\nAsk: if you know senior finance execs in health systems, execs in healthcare PE, or mid to large sized healthcare practice owners, please do connect us! We won’t waste their time: +1 628 468 3232.\r\n\r\nOffer: for customers who sign up before September 16th 2024 we’re offering a 50% discount on revenue quality audits. ",
-    "one_liner": "AI contract analytics to detect underpayments for healthcare providers",
+    "long_description": "TL;DR: AI-powered analysis of healthcare contracts and payments to help providers detect underpayments, compare rates with peers, and maximize revenue they collect from insurers. \r\n\r\nAsk: if you know senior finance execs in health systems, execs in healthcare PE, or mid to large sized healthcare practice owners, please do connect us! We won’t waste their time: +1 628 468 3232.\r\n\r\nOffer: for customers who sign up before September 16th 2024 we’re offering a 50% discount on revenue quality audits. ",
+    "one_liner": "AI contract analytics to maximize revenue for healthcare providers",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -753,9 +753,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40c600d4dd6ad3b3cd6921951d261d9713464bc1.png",
     "website": "https://www.domu.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Domu automates debt collection calls for banks using GenAI.\r\n\r\nAfter 8 months of being live, we have half a million in annual recurring revenue with customers like BBVA, Skandia and BNP Paribas.\r\n\r\n",
-    "one_liner": "Domu automates debt collection calls for banks like BBVA using GenAI.…",
-    "team_size": 4,
+    "long_description": "Domu automates debt collection calls for the banks using generative AI. We have $770k in ARR with clients like BBVA, BNP Paribas and Skandia.",
+    "one_liner": "Automating debt collection calls for banks.",
+    "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": true,
     "highlight_women": true,
@@ -764,8 +764,8 @@
     "launched_at": 1719086771,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Call Center",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -2904,6 +2904,51 @@
     "api": "https://yc-oss.github.io/api/batches/s24/rewbi.json"
   },
   {
+    "id": 29668,
+    "name": "Proxis",
+    "slug": "proxis",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58c309e9f0667689e728737a8880efae9b16e7d6.png",
+    "website": "https://www.proxis.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We bring the same technology optimizations that power ChatGPT and Gemini for low-cost inferences to Llama models with an easy to use API. \r\n\r\nWith one line of code change, developers can cut inference costs by up to 50% while still matching Llama 405b quality on complex queries. We achieve this through hardware specific kernel-level optimizations, combined with cascaded serving to dynamically run inferences on the most appropriate model architecture. \r\n\r\nWhile we work on ensuring API reliability and uptime, join our waitlist at proxis.ai.",
+    "one_liner": "The cheapest API for serving Llama models.",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1725054386,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Cloud Computing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/proxis",
+    "api": "https://yc-oss.github.io/api/batches/s24/proxis.json"
+  },
+  {
     "id": 29670,
     "name": "Solarflare",
     "slug": "solarflare",
@@ -4056,6 +4101,54 @@
     "api": "https://yc-oss.github.io/api/batches/s24/ledgerup.json"
   },
   {
+    "id": 29703,
+    "name": "dmodel",
+    "slug": "dmodel",
+    "former_names": [
+      "ChipChap",
+      "DAS Intelligence"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3696c9745e142e57106326ecee11170df0cc6971.png",
+    "website": "https://www.dmodel.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "dmodel lets companies look inside the mind of an AI model and manipulate its thoughts in real-time. For example, AI-driven customer service platforms can use dmodel to rapidly fine-tune responses for accuracy and brand alignment, without retraining the entire model.",
+    "one_liner": "Look inside the model",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1725040353,
+    "tags": [
+      "Generative AI",
+      "API",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dmodel",
+    "api": "https://yc-oss.github.io/api/batches/s24/dmodel.json"
+  },
+  {
     "id": 29704,
     "name": "Modus",
     "slug": "modus",
@@ -4249,7 +4342,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd54b637cf4e5d1842d0d06352abde6b7d388b51.png",
     "website": "https://zenbase.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Zenbase automates prompt engineering and model selection so developers can focus on programming, and not prompting.\r\n\r\nWe’re core team members of Stanford’s DSPy, the #1 LLM optimization framework used by Meta, Microsoft, Google, and 40+ others.\r\n\r\nWe're building the production version.",
+    "long_description": "Zenbase automates prompt engineering and model selection so developers can focus on programming.\r\n\r\nWe’re core team members of Stanford’s DSPy, the #1 LLM optimization framework used by Meta, Microsoft, Google, and 40+ others.\r\n\r\nWe're building the production version.",
     "one_liner": "Continuous prompt optimization for LLMs from DSPy core contributors",
     "team_size": 2,
     "highlight_black": false,
@@ -4259,9 +4352,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1720735986,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4487,9 +4580,9 @@
     "launched_at": 1724130421,
     "tags": [
       "Gene Therapy",
+      "Synthetic Biology",
       "Biotech",
       "Therapeutics",
-      "Drug discovery",
       "Oncology"
     ],
     "tags_highlighted": [],
@@ -5073,7 +5166,7 @@
     "website": "https://www.reactwise.com/",
     "all_locations": "Cambridge, England, United Kingdom",
     "long_description": "Our Mission: \r\nWe aim to accelerate and automate chemical process development by equipping wet-lab chemists with the power of data-driven optimization and robotic execution of experiments.\r\n\r\nThe Problem: \r\nThe discovery of novel pharmaceuticals is one of our most important weapons in fighting disease. However, the drug development pipeline is often held up for many months during the design of chemical processes to manufacture these drugs at scale, delaying FDA trials and lengthening the time until drug launch. Designing chemical processes involves the identification of suitable parameters such as catalyst/temperature/solvent. Currently process development is often done via tedious trial and error experimentation (slow) or exhaustive screening (expensive and wasteful).\r\n\r\nOur Approach: \r\nIn our research we have developed algorithms for chemical process optimization which leverage transfer learning and Bayesian optimization. We validated the algorithms in the wet lab, showing an up to 95% reduction in experimental burden and cost when compared to exhaustive screening. We have made our approaches accessible to human experimentalists through our user-friendly no-code software platform, and to automated laboratory equipment with our API.\r\n\r\nOur Background: \r\nWe recently completed our PhDs in Machine Learning for Chemistry at the University of Cambridge. We built an automated lab to validate our optimization strategies during our studies, and are now working to accelerate and automate chemistry & biotech.",
-    "one_liner": "AI co-pilot for novel drug manufacturing",
+    "one_liner": "AI co-pilot for chemical reaction optimization",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -7089,8 +7182,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19e3b27d7fc2671f257c71b7ed9aa25fcdef35bc.png",
     "website": "https://www.palmier.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Developers spend only about 30% of their time actually building new features, with the rest of their day taken up by tedious but necessary tasks like understanding code, fixing bugs, and reviewing other people's code. And this only gets worse as the codebase gets larger. Palmier tackles this problem with an AI that truly understands a developer’s codebase, taking on the time-consuming tasks that often hinder their productivity. By helping developers quickly grasp complex code, review their work, and spot errors, Palmier frees up their time to focus more on designing and creating. With Palmier, developers can work faster and with greater confidence, boosting productivity and getting back to what they love—building great software.",
-    "one_liner": "Palmier is an AI that understands any codebase",
+    "long_description": "With 41% of today’s code generated by AI and growing, why are collaboration and code review still stuck in outdated processes? We believe that just as AI has revolutionized code development, it can transform every aspect of the software lifecycle, from issue tracking to collaboration, review, merging, and deployment. That’s why we’re building Palmier, the first AI-native code repository. Palmier deeply integrates AI to assist with code understanding, review, and collaboration directly within your codebase, greatly increasing code reliability and engineering productivity.",
+    "one_liner": "AI Native Code Repository",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": true,
@@ -7636,8 +7729,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e636a3e769f4147545c35c1b93dfab260ce92e8.png",
     "website": "https://tryhelium.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "With Helium, growth teams can add new paywalls or run experiments on UI, messaging and offers in minutes. \r\n\r\nHelium also drives conversion with SmartSelect, our AI that finds the best paywall experience for each user.\r\n\r\nWe've earned 100M+ in revenue building AI conversion tools for Uber and Meta, and are building Helium to help other companies do the same.",
-    "one_liner": "Run paywall experiments without code",
+    "long_description": "Helium uses AI to build better mobile upsell flows. \r\n\r\nGrowth teams use Helium's visual editor to create their in-app paywalls, then our ML system runs automated tests on messaging, experience, and pricing to drive conversion. \r\n\r\nFor example, a social app with 20M MAU uses Helium to test value propositions and pricing across dozens of countries.\r\n\r\nWe've earned $100M+ building AI conversion tools for Uber and Meta, and started Helium to help other companies do the same.",
+    "one_liner": "AI to build better upsell flows",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -8204,8 +8297,10 @@
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "launched_at": 1722479842,
     "tags": [
+      "Artificial Intelligence",
       "Real Estate",
-      "AI"
+      "Housing",
+      "Proptech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8380,7 +8475,7 @@
     "website": "https://www.omnidock.com",
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "Expanding to other marketplaces is a massive growth lever for brands and manufacturers, but it’s complex and resource-intensive.\r\n\r\nOmnidock makes it effortless for merchants to sell on multiple marketplaces by acting as their merchant of record. Brands simply plug into our operating system, which reads their catalog, assesses marketplace eligibility, and auto-launches their products through our pre-vetted marketplace accounts. We handle all transactions on their behalf, removing the challenges and complexities of multi-marketplace selling",
-    "one_liner": "Sell on all eCommerce marketplaces",
+    "one_liner": "Sell on all eCommerce marketplaces globally",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -8591,6 +8686,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simplifine",
     "api": "https://yc-oss.github.io/api/batches/s24/simplifine.json"
+  },
+  {
+    "id": 29828,
+    "name": "Focus Buddy",
+    "slug": "focus-buddy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36badd071180ac2d70c72ca019989b6ecf1830ca.png",
+    "website": "https://www.focusbuddy.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reach out to us at founders@sterlinglabs.io\r\n\r\nFocus buddy is an AI productivity coach that stays on calls with you and help you accomplish your important work goals on a daily basis, even when you are struggling to focus.\r\n\r\nWe noticed that our users develop a productive relationship with Focus Buddy. Users stay on calls for multiple hours everyday where they depend on Focus Buddy to:\r\n• Avoid procrastination and get started: Address hidden anxieties, embrace imperfection, chunk tasks, kickstart with mini-goals, and use regular check-ins to maintain momentum.\r\n• Recover from distractions and stay focused: Focus Buddy detects when they are working on less important tasks or scrolling on social media, help them overcome the underlying concerns feeding the distraction, and help them get back to the important task\r\n• Manage stress and Prevent Burnout: Focus Buddy detects stress buildup, integrates mindfulness habits to the workflow, helps take short rejuvenating breaks, and stay composed.\r\n\r\nOur Initial ICP is people with ADHD who are highly motivated but also highly blocked by internal and environmental factors. In the future, we believe each worker should have their own personal coach that enforces proven productivity techniques in real time to help them extract more focused hours every day with the same effort. \r\n",
+    "one_liner": "AI Productivity Coach: Get work done when you are struggling to focus",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Consumer",
+    "subindustry": "Unspecified",
+    "launched_at": 1724988357,
+    "tags": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Mental Health",
+      "Conversational AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/focus-buddy",
+    "api": "https://yc-oss.github.io/api/batches/s24/focus-buddy.json"
   },
   {
     "id": 29829,
@@ -8954,6 +9095,56 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pap",
     "api": "https://yc-oss.github.io/api/batches/s24/pap.json"
+  },
+  {
+    "id": 29840,
+    "name": "Blaze",
+    "slug": "blaze-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4e9eaaae054562a704e2fa2c79cd662fa1de1a6.png",
+    "website": "https://blaze.money",
+    "all_locations": "Mexico City, CDMX, Mexico; Remote",
+    "long_description": "Blaze is Global Venmo for cross border payments. We combine the UX of Venmo with the speed, global reach, and low cost of USDC. If you're a Californian nomad living in Mexico City, you can use Blaze to pay rent to your Mexican landlord. And if you're an expat living in Colombia, you can use Blaze to pay your Spanish teacher for classes. \r\n\r\nIn addition to P2P, we're also enabling a network of travel-related businesses to accept payments on Blaze and reach our customer base of global citizens. For example, a Travel Concierge business in Jamaica can accept payments on Blaze from her US customers coming to visit for the summer.\r\n\r\nDuring a 6 month stint traveling around Asia, Faiyam experienced first hand the frustrations of paying people from different countries. Luc was experiencing the same in his travels around Latin America. Fees were exorbitant, apps that worked for one person didn't work for the other, and the user experiences were cumbersome.\r\n\r\nEnter Blaze. \r\n\r\nCross-border P2P payments is projected to be a $9T market by 2030. Our long term vision is that you should be able to drop in to any country on the planet and pay anyone you meet simply, quickly, and affordably. It's easy to send an sms to anyone anywhere in the world without thinking about where they're from. We want to do the same with payments. \r\n\r\nThe advent of consumer friendly blockchain tech, especially stablecoins, presents a unique opportunity to do this. The legacy financial system stitches together otherwise siloed country-specific systems to handle cross-border payments. Blockchain has no such notion of a border in the first place. As such the present moment is a unique, generational opportunity to rewrite the rules of global finance. \r\n\r\nFaiyam studied Math at Duke and engineering at Cornell before building a $1M ARR company with Luc. Luc’s a former technical lead at Spotify and Artsy, who studied Engineering at NYU and has cofounded 2 VC-backed startups, one that hit #1 in app store and got him sued by Drake. Igor led design at Bitpanda, Austria’s first unicorn.\r\n",
+    "one_liner": "Global Venmo for cross border payments",
+    "team_size": 5,
+    "highlight_black": true,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1724981206,
+    "tags": [
+      "Fintech",
+      "Crypto / Web3",
+      "Payments",
+      "Finance",
+      "Travel"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "Mexico",
+      "Latin America",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blaze-2",
+    "api": "https://yc-oss.github.io/api/batches/s24/blaze-2.json"
   },
   {
     "id": 29841,
@@ -9794,18 +9985,19 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26d03427ec3ea68c07451c35b4d65e5adcaa30cc.png",
     "website": "https://kart.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are an interactive search platform that simplifies your research for electronic products. For any question, we extract relevant recommendations from Reddit/Youtube and trusted content creators.",
+    "long_description": "Kart transforms the product discovery experience for the most innovative e-commerce companies. At a fraction of the cost and time, we build customized AI shopping assistants like Amazon Rufus, trained to answer any question on your catalog. ",
     "one_liner": "Building personalized search for electronic products",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1722983007,
     "tags": [
-      "Consumer",
       "E-commerce",
+      "Furniture",
+      "Fashion",
       "Search",
       "Electronics"
     ],
@@ -9816,7 +10008,8 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -10220,6 +10413,7 @@
     "launched_at": 1719115501,
     "tags": [
       "Developer Tools",
+      "Open Source",
       "Web Development",
       "Cloud Computing"
     ],
@@ -10558,6 +10752,51 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/syntra",
     "api": "https://yc-oss.github.io/api/batches/s24/syntra.json"
+  },
+  {
+    "id": 29990,
+    "name": "DreamRP",
+    "slug": "dreamrp",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b03e14b8a7d809f05b6579c758dc4fbbe6ff821.png",
+    "website": "https://www.dreamrp.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DreamRP lets creators earn money by turning their characters into chatbots. For example, George R.R. Martin could charge fans to chat with a Jon Snow bot.",
+    "one_liner": "Character AI meets Patreon",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1724999023,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Consumer",
+      "Entertainment",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dreamrp",
+    "api": "https://yc-oss.github.io/api/batches/s24/dreamrp.json"
   },
   {
     "id": 29992,

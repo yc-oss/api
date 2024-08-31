@@ -1675,7 +1675,7 @@
       "Wisp Finance"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/69fb9c525432d1e46ceb4d9dc25dc4e77da0f0be.png",
-    "website": "https://co.dev",
+    "website": "https://co.dev/?ref=YC",
     "all_locations": "",
     "long_description": "Codev empowers developers to run multiple coding tasks asynchronously, make modifications on the fly, and instantly create GitHub pull requests.",
     "one_liner": "Delegate tasks to your AI developers",
@@ -1687,8 +1687,8 @@
     "subindustry": "Fintech",
     "launched_at": 1673365680,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -1796,7 +1796,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -3550,9 +3550,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40c600d4dd6ad3b3cd6921951d261d9713464bc1.png",
     "website": "https://www.domu.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Domu automates debt collection calls for banks using GenAI.\r\n\r\nAfter 8 months of being live, we have half a million in annual recurring revenue with customers like BBVA, Skandia and BNP Paribas.\r\n\r\n",
-    "one_liner": "Domu automates debt collection calls for banks like BBVA using GenAI.…",
-    "team_size": 4,
+    "long_description": "Domu automates debt collection calls for the banks using generative AI. We have $770k in ARR with clients like BBVA, BNP Paribas and Skandia.",
+    "one_liner": "Automating debt collection calls for banks.",
+    "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": true,
     "highlight_women": true,
@@ -3561,8 +3561,8 @@
     "launched_at": 1719086771,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Call Center",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4066,7 +4066,7 @@
     "website": "https://www.reactwise.com/",
     "all_locations": "Cambridge, England, United Kingdom",
     "long_description": "Our Mission: \r\nWe aim to accelerate and automate chemical process development by equipping wet-lab chemists with the power of data-driven optimization and robotic execution of experiments.\r\n\r\nThe Problem: \r\nThe discovery of novel pharmaceuticals is one of our most important weapons in fighting disease. However, the drug development pipeline is often held up for many months during the design of chemical processes to manufacture these drugs at scale, delaying FDA trials and lengthening the time until drug launch. Designing chemical processes involves the identification of suitable parameters such as catalyst/temperature/solvent. Currently process development is often done via tedious trial and error experimentation (slow) or exhaustive screening (expensive and wasteful).\r\n\r\nOur Approach: \r\nIn our research we have developed algorithms for chemical process optimization which leverage transfer learning and Bayesian optimization. We validated the algorithms in the wet lab, showing an up to 95% reduction in experimental burden and cost when compared to exhaustive screening. We have made our approaches accessible to human experimentalists through our user-friendly no-code software platform, and to automated laboratory equipment with our API.\r\n\r\nOur Background: \r\nWe recently completed our PhDs in Machine Learning for Chemistry at the University of Cambridge. We built an automated lab to validate our optimization strategies during our studies, and are now working to accelerate and automate chemistry & biotech.",
-    "one_liner": "AI co-pilot for novel drug manufacturing",
+    "one_liner": "AI co-pilot for chemical reaction optimization",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -4191,6 +4191,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dataleap",
     "api": "https://yc-oss.github.io/api/batches/s24/dataleap.json"
+  },
+  {
+    "id": 29828,
+    "name": "Focus Buddy",
+    "slug": "focus-buddy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36badd071180ac2d70c72ca019989b6ecf1830ca.png",
+    "website": "https://www.focusbuddy.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reach out to us at founders@sterlinglabs.io\r\n\r\nFocus buddy is an AI productivity coach that stays on calls with you and help you accomplish your important work goals on a daily basis, even when you are struggling to focus.\r\n\r\nWe noticed that our users develop a productive relationship with Focus Buddy. Users stay on calls for multiple hours everyday where they depend on Focus Buddy to:\r\n• Avoid procrastination and get started: Address hidden anxieties, embrace imperfection, chunk tasks, kickstart with mini-goals, and use regular check-ins to maintain momentum.\r\n• Recover from distractions and stay focused: Focus Buddy detects when they are working on less important tasks or scrolling on social media, help them overcome the underlying concerns feeding the distraction, and help them get back to the important task\r\n• Manage stress and Prevent Burnout: Focus Buddy detects stress buildup, integrates mindfulness habits to the workflow, helps take short rejuvenating breaks, and stay composed.\r\n\r\nOur Initial ICP is people with ADHD who are highly motivated but also highly blocked by internal and environmental factors. In the future, we believe each worker should have their own personal coach that enforces proven productivity techniques in real time to help them extract more focused hours every day with the same effort. \r\n",
+    "one_liner": "AI Productivity Coach: Get work done when you are struggling to focus",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Consumer",
+    "subindustry": "Unspecified",
+    "launched_at": 1724988357,
+    "tags": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Mental Health",
+      "Conversational AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/focus-buddy",
+    "api": "https://yc-oss.github.io/api/batches/s24/focus-buddy.json"
   },
   {
     "id": 29839,

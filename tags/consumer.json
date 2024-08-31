@@ -2607,7 +2607,6 @@
     "subindustry": "Consumer",
     "launched_at": 1615046058,
     "tags": [
-      "Marketplace",
       "Crypto / Web3",
       "Consumer"
     ],
@@ -3466,7 +3465,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -5298,7 +5297,7 @@
     "all_locations": "San Francisco, CA, USA; Los Angeles, CA, USA",
     "long_description": "A personal cloud storage platform that's so good, it'll replace Finder / File Explorer on your desktop. Find anything with multi-modal, natural language search. Browse with a lightning fast interface that feels just like native. Organize, tag, view, edit, share, and more. ",
     "one_liner": "Intelligent Personal Cloud Storage",
-    "team_size": 4,
+    "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -5322,9 +5321,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8333,52 +8330,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/pap.json"
   },
   {
-    "id": 29962,
-    "name": "Kart AI",
-    "slug": "kart-ai",
-    "former_names": [
-      "Omni"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26d03427ec3ea68c07451c35b4d65e5adcaa30cc.png",
-    "website": "https://kart.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are an interactive search platform that simplifies your research for electronic products. For any question, we extract relevant recommendations from Reddit/Youtube and trusted content creators.",
-    "one_liner": "Building personalized search for electronic products",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1722983007,
-    "tags": [
-      "Consumer",
-      "E-commerce",
-      "Search",
-      "Electronics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kart-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/kart-ai.json"
-  },
-  {
     "id": 29964,
     "name": "Overlap",
     "slug": "overlap",
@@ -8421,5 +8372,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/overlap",
     "api": "https://yc-oss.github.io/api/batches/s24/overlap.json"
+  },
+  {
+    "id": 29990,
+    "name": "DreamRP",
+    "slug": "dreamrp",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b03e14b8a7d809f05b6579c758dc4fbbe6ff821.png",
+    "website": "https://www.dreamrp.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DreamRP lets creators earn money by turning their characters into chatbots. For example, George R.R. Martin could charge fans to chat with a Jon Snow bot.",
+    "one_liner": "Character AI meets Patreon",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1724999023,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Consumer",
+      "Entertainment",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dreamrp",
+    "api": "https://yc-oss.github.io/api/batches/s24/dreamrp.json"
   }
 ]

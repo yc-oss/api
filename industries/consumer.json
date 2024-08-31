@@ -23743,7 +23743,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W20",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Consumer",
       "Food and Beverage"
@@ -26776,7 +26776,6 @@
     "subindustry": "Consumer",
     "launched_at": 1615046058,
     "tags": [
-      "Marketplace",
       "Crypto / Web3",
       "Consumer"
     ],
@@ -29999,6 +29998,54 @@
     "api": "https://yc-oss.github.io/api/batches/w22/ozone.json"
   },
   {
+    "id": 25476,
+    "name": "Shuttle Central",
+    "slug": "shuttle-central",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc47cb88cc1f331f8d2fb5a24dd2db38a8c5517b.png",
+    "website": "https://book.shuttlecentral.com/",
+    "all_locations": "Cancún, Q.R., Mexico",
+    "long_description": "API for Travel companies to sell airport transportation. Helping them increase their profits by up to 20% per transaction",
+    "one_liner": "Helping travel companies to sell transportation online",
+    "team_size": 28,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Travel, Leisure and Tourism",
+    "launched_at": 1641322669,
+    "tags": [
+      "B2B",
+      "Travel",
+      "E-commerce",
+      "Transportation",
+      "Mobility"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Travel, Leisure and Tourism"
+    ],
+    "regions": [
+      "Mexico",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shuttle-central",
+    "api": "https://yc-oss.github.io/api/batches/w22/shuttle-central.json"
+  },
+  {
     "id": 25530,
     "name": "Inedit (Brandazine)",
     "slug": "inedit-brandazine",
@@ -31400,7 +31447,7 @@
     "all_locations": "San Francisco, CA, USA; Los Angeles, CA, USA",
     "long_description": "A personal cloud storage platform that's so good, it'll replace Finder / File Explorer on your desktop. Find anything with multi-modal, natural language search. Browse with a lightning fast interface that feels just like native. Organize, tag, view, edit, share, and more. ",
     "one_liner": "Intelligent Personal Cloud Storage",
-    "team_size": 4,
+    "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -31424,9 +31471,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -35458,6 +35503,52 @@
     "api": "https://yc-oss.github.io/api/batches/s24/simplifine.json"
   },
   {
+    "id": 29828,
+    "name": "Focus Buddy",
+    "slug": "focus-buddy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36badd071180ac2d70c72ca019989b6ecf1830ca.png",
+    "website": "https://www.focusbuddy.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reach out to us at founders@sterlinglabs.io\r\n\r\nFocus buddy is an AI productivity coach that stays on calls with you and help you accomplish your important work goals on a daily basis, even when you are struggling to focus.\r\n\r\nWe noticed that our users develop a productive relationship with Focus Buddy. Users stay on calls for multiple hours everyday where they depend on Focus Buddy to:\r\n• Avoid procrastination and get started: Address hidden anxieties, embrace imperfection, chunk tasks, kickstart with mini-goals, and use regular check-ins to maintain momentum.\r\n• Recover from distractions and stay focused: Focus Buddy detects when they are working on less important tasks or scrolling on social media, help them overcome the underlying concerns feeding the distraction, and help them get back to the important task\r\n• Manage stress and Prevent Burnout: Focus Buddy detects stress buildup, integrates mindfulness habits to the workflow, helps take short rejuvenating breaks, and stay composed.\r\n\r\nOur Initial ICP is people with ADHD who are highly motivated but also highly blocked by internal and environmental factors. In the future, we believe each worker should have their own personal coach that enforces proven productivity techniques in real time to help them extract more focused hours every day with the same effort. \r\n",
+    "one_liner": "AI Productivity Coach: Get work done when you are struggling to focus",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Consumer",
+    "subindustry": "Unspecified",
+    "launched_at": 1724988357,
+    "tags": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Mental Health",
+      "Conversational AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/focus-buddy",
+    "api": "https://yc-oss.github.io/api/batches/s24/focus-buddy.json"
+  },
+  {
     "id": 29834,
     "name": "Rastro",
     "slug": "rastro",
@@ -35546,52 +35637,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/pap.json"
   },
   {
-    "id": 29962,
-    "name": "Kart AI",
-    "slug": "kart-ai",
-    "former_names": [
-      "Omni"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26d03427ec3ea68c07451c35b4d65e5adcaa30cc.png",
-    "website": "https://kart.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are an interactive search platform that simplifies your research for electronic products. For any question, we extract relevant recommendations from Reddit/Youtube and trusted content creators.",
-    "one_liner": "Building personalized search for electronic products",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1722983007,
-    "tags": [
-      "Consumer",
-      "E-commerce",
-      "Search",
-      "Electronics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kart-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/kart-ai.json"
-  },
-  {
     "id": 29964,
     "name": "Overlap",
     "slug": "overlap",
@@ -35634,5 +35679,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/overlap",
     "api": "https://yc-oss.github.io/api/batches/s24/overlap.json"
+  },
+  {
+    "id": 29990,
+    "name": "DreamRP",
+    "slug": "dreamrp",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b03e14b8a7d809f05b6579c758dc4fbbe6ff821.png",
+    "website": "https://www.dreamrp.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DreamRP lets creators earn money by turning their characters into chatbots. For example, George R.R. Martin could charge fans to chat with a Jon Snow bot.",
+    "one_liner": "Character AI meets Patreon",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1724999023,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Consumer",
+      "Entertainment",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dreamrp",
+    "api": "https://yc-oss.github.io/api/batches/s24/dreamrp.json"
   }
 ]

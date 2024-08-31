@@ -2850,7 +2850,7 @@
     "all_locations": "San Francisco, CA, USA; Los Angeles, CA, USA",
     "long_description": "A personal cloud storage platform that's so good, it'll replace Finder / File Explorer on your desktop. Find anything with multi-modal, natural language search. Browse with a lightning fast interface that feels just like native. Organize, tag, view, edit, share, and more. ",
     "one_liner": "Intelligent Personal Cloud Storage",
-    "team_size": 4,
+    "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -2874,9 +2874,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4308,7 +4306,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67584a441ac14e21e59b84f0e3760e5308aaf4dc.png",
     "website": "https://credal.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Credal protects your sensitive data across all AI apps. We ensure everyone at your company can get the benefits of AI like ChatGPT, without risking business secrets or protected data like PII making it into AI training. Think \"Okta for AI\".\r\n\r\nCredal gives you four layers of security:\r\n1. Automatic redaction, anonymisation, or user warnings when sensitive data is about to be sent off network\r\n2. Our Secure Chat UI and APIs provide audit logs on every interaction with external AI, allowing you to see what data has been shared with which providers and what Terms of Service or MSA's govern each one.\r\n3. We provide a wrapper around all the major providers of Large Language Models, so we can automatically direct your requests to the most appropriate AI for your particular request (based on data sensitivity, context window, cost, etc.)\r\n4. We get sensible MSA's in place with all major external providers, so your data cannot be retained for more than 30 days or used to train models.",
+    "long_description": "Give any employee the power to build AI Assistants that understand your Enterprise's people, data and tools. Security, access controls and compliance built in.",
     "one_liner": "Build Intelligent Internal Assistants",
     "team_size": 8,
     "highlight_black": false,
@@ -9707,6 +9705,51 @@
     "api": "https://yc-oss.github.io/api/batches/s24/ideate-xyz.json"
   },
   {
+    "id": 29668,
+    "name": "Proxis",
+    "slug": "proxis",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58c309e9f0667689e728737a8880efae9b16e7d6.png",
+    "website": "https://www.proxis.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We bring the same technology optimizations that power ChatGPT and Gemini for low-cost inferences to Llama models with an easy to use API. \r\n\r\nWith one line of code change, developers can cut inference costs by up to 50% while still matching Llama 405b quality on complex queries. We achieve this through hardware specific kernel-level optimizations, combined with cascaded serving to dynamically run inferences on the most appropriate model architecture. \r\n\r\nWhile we work on ensuring API reliability and uptime, join our waitlist at proxis.ai.",
+    "one_liner": "The cheapest API for serving Llama models.",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1725054386,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Cloud Computing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/proxis",
+    "api": "https://yc-oss.github.io/api/batches/s24/proxis.json"
+  },
+  {
     "id": 29671,
     "name": "reworks",
     "slug": "reworks",
@@ -9846,6 +9889,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pulse-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/pulse-ai.json"
+  },
+  {
+    "id": 29703,
+    "name": "dmodel",
+    "slug": "dmodel",
+    "former_names": [
+      "ChipChap",
+      "DAS Intelligence"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3696c9745e142e57106326ecee11170df0cc6971.png",
+    "website": "https://www.dmodel.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "dmodel lets companies look inside the mind of an AI model and manipulate its thoughts in real-time. For example, AI-driven customer service platforms can use dmodel to rapidly fine-tune responses for accuracy and brand alignment, without retraining the entire model.",
+    "one_liner": "Look inside the model",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1725040353,
+    "tags": [
+      "Generative AI",
+      "API",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dmodel",
+    "api": "https://yc-oss.github.io/api/batches/s24/dmodel.json"
   },
   {
     "id": 29712,
@@ -10766,5 +10857,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pathpilot",
     "api": "https://yc-oss.github.io/api/batches/s24/pathpilot.json"
+  },
+  {
+    "id": 29990,
+    "name": "DreamRP",
+    "slug": "dreamrp",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b03e14b8a7d809f05b6579c758dc4fbbe6ff821.png",
+    "website": "https://www.dreamrp.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DreamRP lets creators earn money by turning their characters into chatbots. For example, George R.R. Martin could charge fans to chat with a Jon Snow bot.",
+    "one_liner": "Character AI meets Patreon",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1724999023,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Consumer",
+      "Entertainment",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dreamrp",
+    "api": "https://yc-oss.github.io/api/batches/s24/dreamrp.json"
   }
 ]
