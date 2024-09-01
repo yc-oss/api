@@ -77898,11 +77898,11 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1669993072,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "API",
       "Cybersecurity",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -83281,7 +83281,7 @@
     "former_names": [
       "Curious Data"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2dfe803e31176ba4760f7416a30ab05e1f66d7a4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a15c4d80c460289d85dd7ca55681d29f3aae7ba.png",
     "website": "https://www.turntable.so",
     "all_locations": "New York, NY, USA",
     "long_description": "Turntable allows less technical analysts to build their own data pipelines. Companies use our AI-native workspace to scale their analytics without hiring more engineers.\r\n\r\nIf you use DBT or Airflow- or you're building out your data stack for the first time- please reach out!",
@@ -95066,7 +95066,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -101513,14 +101513,14 @@
   },
   {
     "id": 29670,
-    "name": "Solarflare",
-    "slug": "solarflare",
+    "name": "Zuni",
+    "slug": "zuni",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f7439ea9507eab5e38e392db4dc6ac330516242.png",
-    "website": "https://solarflarehq.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/742dc8fa59a27c4e2e104cec4505f34b79fbf1bb.png",
+    "website": "https://zuni.app",
     "all_locations": "Remote",
-    "long_description": "Stream real-time, typed data to your React app from your existing Postgres database.\r\n\r\nSolarflare is an open-source tool for your Postgres DB that lets you write real-time React.\r\n\r\nReal-time applications are the future: real-time features delight users and help teams stay in sync with each other and the data they care about. We’re building Solarflare because it is still hard to build real-time features.\r\n\r\n* Go live in minutes - we integrate seamlessly with your existing infra\r\n* Write type-safe React - generate a strongly-typed client and use PG tables directly on your frontend\r\n* Fits your existing stack - no need to replace your DB, sign up to Supabase, replace your ORM, or write a new API layer\r\n* Stream user data securely - row-level security means clients only have access to their own rows",
-    "one_liner": "Real-time Postgres data in React 🐘⚡️",
+    "long_description": "",
+    "one_liner": "Smarter email for founders",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -101529,9 +101529,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721689611,
     "tags": [
-      "Developer Tools",
-      "Web Development",
-      "Infrastructure"
+      "Generative AI",
+      "Productivity",
+      "Email",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -101541,7 +101542,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Productivity"
     ],
     "regions": [
       "Remote",
@@ -101552,8 +101553,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/solarflare",
-    "api": "https://yc-oss.github.io/api/batches/s24/solarflare.json"
+    "url": "https://www.ycombinator.com/companies/zuni",
+    "api": "https://yc-oss.github.io/api/batches/s24/zuni.json"
   },
   {
     "id": 29671,
@@ -101965,6 +101966,53 @@
     "api": "https://yc-oss.github.io/api/batches/s24/passage.json"
   },
   {
+    "id": 29686,
+    "name": "Snowpilot",
+    "slug": "snowpilot",
+    "former_names": [
+      "Snowpilot.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c15cc576c889b7c67699bfb7c6291c7f7430c95a.png",
+    "website": "https://www.snowpilot.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Snowpilot is a spreadsheet-like UI with the full power of a data warehouse. Powered by cutting-edge database tech, Snowpilot lets non-technical users join datasets and query live across billions of rows, with data automatically pulled in from tools like Salesforce, Zendesk, Gong, and Posthog.\r\n\r\nBen and Dom met at a Sequoia & a16z-backed data startup, Census. Together, we built the first real-time, warehouse-native customer data platform. Prior to that, Dom led 20+ ML engineers at Adobe to build their internal ad optimization platform, which allocates $1B in annual spend. Ben built the microservices stack powering the new Microsoft Edge, scaling from 0 to hundreds of millions of DAUs.\r\n\r\nWe started coding Snowpilot two weeks ago (mid-August '24), and we already have a live demo app that can run sub-second queries on millions of rows, entirely in the user's browser.\r\n\r\nThe data warehouse market is $10B/yr, growing 23% YOY. We will disrupt incumbents and significantly expand this market by enabling non-engineers to use the data warehouse on a daily basis.",
+    "one_liner": "The data warehouse that's as simple as a spreadsheet",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1725142580,
+    "tags": [
+      "B2B",
+      "Big Data",
+      "Data Engineering",
+      "AI",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/snowpilot",
+    "api": "https://yc-oss.github.io/api/batches/s24/snowpilot.json"
+  },
+  {
     "id": 29687,
     "name": "MinusX",
     "slug": "minusx",
@@ -102359,10 +102407,10 @@
     "subindustry": "B2B",
     "launched_at": 1724264636,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "B2B",
       "Workflow Automation",
-      "AI",
+      "Supply Chain",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -102490,8 +102538,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a704debd59a1fbf8c3e8d8edd73861b4f0054d.png",
     "website": "https://www.fazeshift.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fazeshift is automating Accounts Receivable. Once a sales contract is signed, we handle the rest. We generate invoices from contract terms, send invoices, match payments, and manage collections. What used to take teams of people and hours of manual work can now be fully automated with Fazeshift. \r\n\r\nCaitlin and Timmy met while getting their MBA at Harvard. After graduating, they started a B2B marketing software startup, which is where they first experienced the pain of this process.\r\n\r\nThe problem stems from fragmented data across software platforms like QuickBooks, Stripe, NetSuite, DocuSign, HubSpot, and Salesforce. Fazeshift’s infrastructure connects the data across these software platforms and uses LLMs to automate the previously manual workflow.",
-    "one_liner": "Better Accounts Receivable with Zero Employees",
+    "long_description": "Fazeshift is an AI agent for automating Accounts Receivable. What used to take teams of people and hours of manual work can now be fully automated with Fazeshift. \r\n\r\nCaitlin and Timmy met while getting their MBA at Harvard. After graduating, they started a B2B marketing software startup, which is where they first experienced the pain of this process.\r\n\r\nThe problem stems from fragmented data across software platforms like QuickBooks, Stripe, NetSuite, DocuSign, HubSpot, and Salesforce. Fazeshift’s infrastructure connects the data across these software platforms and uses LLMs to automate the previously manual workflow.",
+    "one_liner": "AI agent for Accounts Receivable",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -102500,9 +102548,9 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1716255604,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -102946,7 +102994,7 @@
     "website": "https://clearly-ai.com",
     "all_locations": "Seattle, WA, USA",
     "long_description": "Clearly AI automates AppSec reviews and privacy assessments to provide a first line of defense, so that security and privacy engineers can focus on the most critical applications for their enterprise.\r\n\r\nSecurity and privacy teams are severely understaffed. Teams  only review a fraction of features released, putting corporations at risk. At Amazon and Moveworks, we felt this pain during hundreds of security and privacy reviews.\r\n\r\nWith Clearly AI, teams can review all features and applications for best practices and compliance, triage which applications need deep security analysis, and accelerate all necessary reviews.\r\n\r\nClearly AI is built by security engineers for security engineers.",
-    "one_liner": "Automate security and privacy with AI that understands your software.",
+    "one_liner": "Automate software security and privacy reviews",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -102955,9 +103003,9 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1722269171,
     "tags": [
+      "Artificial Intelligence",
       "Security",
-      "Privacy",
-      "AI"
+      "Privacy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -103499,8 +103547,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad2c2bac43ac73d823e1b7175c3e0daf2bec8e45.png",
     "website": "https://www.stempad.io",
     "all_locations": "",
-    "long_description": "You can think of Stempad as a Notion for science. It is the world's first true pen-and-paper alternative to fast scientific writing. Quickly switch between different forms of technical visualization with the ease of a stylus and the convenience of your keyboard. \r\n\r\nStempad allows you to export and share your work, collaborate in real time, create and write assignments, write papers, takes notes, create presentations, and so much more. Our vision is to make it easier and faster for teachers, students, and scientists to digitize and share their scientific ideas to world.",
-    "one_liner": "Text editor for fast scientific writing.",
+    "long_description": "You can think of Stempad as a Notion for science. It is the world's first true pen-and-paper alternative to fast scientific writing and collaborating. Quickly switch between different forms of technical visualization with the ease of a whiteboard and the convenience of your keyboard.\r\n\r\nStempad allows you to share your work, collaborate in real time, store your data, annotate, write papers, plan, takes notes, create presentations, and so much more. Our vision is to make it easier and faster for students and scientists to digitize and share their scientific ideas.",
+    "one_liner": "Notion for science",
     "team_size": 1,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -103926,7 +103974,7 @@
     "all_locations": "Miami, FL, USA; Remote",
     "long_description": "Praxos is an AI-powered workbench for insurance professionals. \r\n\r\n\r\nInsurance professionals use Praxos to automate repetitive tasks and access public and proprietary data in a single platform.\r\n\r\n\r\n\r\nLearn more at https://www.praxos.ai",
     "one_liner": "Workbench for Insurance Professionals",
-    "team_size": 2,
+    "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": true,
     "highlight_women": false,
@@ -103934,8 +103982,8 @@
     "subindustry": "B2B",
     "launched_at": 1723170275,
     "tags": [
-      "Insurance",
-      "AI"
+      "Artificial Intelligence",
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -104151,7 +104199,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19e3b27d7fc2671f257c71b7ed9aa25fcdef35bc.png",
     "website": "https://www.palmier.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "With 41% of today’s code generated by AI and growing, why are collaboration and code review still stuck in outdated processes? We believe that just as AI has revolutionized code development, it can transform every aspect of the software lifecycle, from issue tracking to collaboration, review, merging, and deployment. That’s why we’re building Palmier, the first AI-native code repository. Palmier deeply integrates AI to assist with code understanding, review, and collaboration directly within your codebase, greatly increasing code reliability and engineering productivity.",
+    "long_description": "We believe that just as AI has revolutionized code development, it can transform every aspect of the software lifecycle, from issue tracking to collaboration, review, merging, and deployment. That’s why we’re building Palmier, the first AI-native code repository. Palmier deeply integrates AI to assist with code understanding, review, and collaboration directly within your codebase, greatly increasing code reliability and engineering productivity.",
     "one_liner": "AI Native Code Repository",
     "team_size": 2,
     "highlight_black": false,
@@ -104161,10 +104209,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1724450208,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -106036,10 +106084,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1721263283,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

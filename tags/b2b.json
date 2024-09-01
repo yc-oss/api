@@ -42399,6 +42399,53 @@
     "api": "https://yc-oss.github.io/api/batches/s24/passage.json"
   },
   {
+    "id": 29686,
+    "name": "Snowpilot",
+    "slug": "snowpilot",
+    "former_names": [
+      "Snowpilot.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c15cc576c889b7c67699bfb7c6291c7f7430c95a.png",
+    "website": "https://www.snowpilot.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Snowpilot is a spreadsheet-like UI with the full power of a data warehouse. Powered by cutting-edge database tech, Snowpilot lets non-technical users join datasets and query live across billions of rows, with data automatically pulled in from tools like Salesforce, Zendesk, Gong, and Posthog.\r\n\r\nBen and Dom met at a Sequoia & a16z-backed data startup, Census. Together, we built the first real-time, warehouse-native customer data platform. Prior to that, Dom led 20+ ML engineers at Adobe to build their internal ad optimization platform, which allocates $1B in annual spend. Ben built the microservices stack powering the new Microsoft Edge, scaling from 0 to hundreds of millions of DAUs.\r\n\r\nWe started coding Snowpilot two weeks ago (mid-August '24), and we already have a live demo app that can run sub-second queries on millions of rows, entirely in the user's browser.\r\n\r\nThe data warehouse market is $10B/yr, growing 23% YOY. We will disrupt incumbents and significantly expand this market by enabling non-engineers to use the data warehouse on a daily basis.",
+    "one_liner": "The data warehouse that's as simple as a spreadsheet",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1725142580,
+    "tags": [
+      "B2B",
+      "Big Data",
+      "Data Engineering",
+      "AI",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/snowpilot",
+    "api": "https://yc-oss.github.io/api/batches/s24/snowpilot.json"
+  },
+  {
     "id": 29689,
     "name": "Tivara",
     "slug": "tivara",
@@ -42633,53 +42680,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/modus.json"
   },
   {
-    "id": 29705,
-    "name": "Lighthouz AI",
-    "slug": "lighthouz-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/590821192763a73a9f24cba27c008ad9759614a4.png",
-    "website": "https://lighthouz.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lighthouz AI is building AI procurement specialists to automate B2B purchasing for manufacturers. It 2x'es the productivity of procurement teams by automating manual workflows and increases cost savings. \r\n\r\nBusinesses waste $30B *per year* doing procurement tasks manually using emails and spreadsheets. These tasks include entering data on ERP, creating purchase orders, verifying invoices, and communicating with vendors. \r\n\r\nLighthouz's AI procurement specialists autonomously handles manual procurement workflows. It integrates with emails and ERP systems. Our multi AI agent system is powered by dynamic knowledge graphs constructed from unstructured data (emails, PDFs, images, etc). By automating manual tasks, procurement teams can focus on strategic tasks and decision making. \r\n\r\nOur team has 20+ years of combined AI experience: \r\n- Srijan has been a GaTech CS professor, was a research scientist at Google, did postdoc at Stanford, PhD at University of Maryland and undergrad at IIT. \r\n- Sonali was a lead AI engineer at Progressive insurance, American Family insurance, Halliburton, did her MS at University of Washington, and undergrad at IIT. ",
-    "one_liner": "AI procurement specialists for manufacturers",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1724264636,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Workflow Automation",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lighthouz-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/lighthouz-ai.json"
-  },
-  {
     "id": 29710,
     "name": "TaxGPT",
     "slug": "taxgpt",
@@ -42733,8 +42733,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a704debd59a1fbf8c3e8d8edd73861b4f0054d.png",
     "website": "https://www.fazeshift.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fazeshift is automating Accounts Receivable. Once a sales contract is signed, we handle the rest. We generate invoices from contract terms, send invoices, match payments, and manage collections. What used to take teams of people and hours of manual work can now be fully automated with Fazeshift. \r\n\r\nCaitlin and Timmy met while getting their MBA at Harvard. After graduating, they started a B2B marketing software startup, which is where they first experienced the pain of this process.\r\n\r\nThe problem stems from fragmented data across software platforms like QuickBooks, Stripe, NetSuite, DocuSign, HubSpot, and Salesforce. Fazeshift’s infrastructure connects the data across these software platforms and uses LLMs to automate the previously manual workflow.",
-    "one_liner": "Better Accounts Receivable with Zero Employees",
+    "long_description": "Fazeshift is an AI agent for automating Accounts Receivable. What used to take teams of people and hours of manual work can now be fully automated with Fazeshift. \r\n\r\nCaitlin and Timmy met while getting their MBA at Harvard. After graduating, they started a B2B marketing software startup, which is where they first experienced the pain of this process.\r\n\r\nThe problem stems from fragmented data across software platforms like QuickBooks, Stripe, NetSuite, DocuSign, HubSpot, and Salesforce. Fazeshift’s infrastructure connects the data across these software platforms and uses LLMs to automate the previously manual workflow.",
+    "one_liner": "AI agent for Accounts Receivable",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -42743,9 +42743,9 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1716255604,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43848,7 +43848,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19e3b27d7fc2671f257c71b7ed9aa25fcdef35bc.png",
     "website": "https://www.palmier.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "With 41% of today’s code generated by AI and growing, why are collaboration and code review still stuck in outdated processes? We believe that just as AI has revolutionized code development, it can transform every aspect of the software lifecycle, from issue tracking to collaboration, review, merging, and deployment. That’s why we’re building Palmier, the first AI-native code repository. Palmier deeply integrates AI to assist with code understanding, review, and collaboration directly within your codebase, greatly increasing code reliability and engineering productivity.",
+    "long_description": "We believe that just as AI has revolutionized code development, it can transform every aspect of the software lifecycle, from issue tracking to collaboration, review, merging, and deployment. That’s why we’re building Palmier, the first AI-native code repository. Palmier deeply integrates AI to assist with code understanding, review, and collaboration directly within your codebase, greatly increasing code reliability and engineering productivity.",
     "one_liner": "AI Native Code Repository",
     "team_size": 2,
     "highlight_black": false,
@@ -43858,10 +43858,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1724450208,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44781,10 +44781,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1721263283,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
