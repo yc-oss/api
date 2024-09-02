@@ -9277,7 +9277,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -16995,52 +16995,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/tabular.json"
   },
   {
-    "id": 29641,
-    "name": "Patchwork Technologies",
-    "slug": "patchwork-technologies",
-    "former_names": [
-      "Patchwork"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9636232e9fd3e1292610b435b2210aa9bb6571f.png",
-    "website": "https://getpatchwork.io",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Patchwork automates the process of implementing rigorous logging of software, and provides a few-click route from code to storage.",
-    "one_liner": "Building the next generation logging and observability platform",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1723390201,
-    "tags": [
-      "Developer Tools",
-      "DevOps",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/patchwork-technologies",
-    "api": "https://yc-oss.github.io/api/batches/s24/patchwork-technologies.json"
-  },
-  {
     "id": 29648,
     "name": "Honeycomb",
     "slug": "honeycomb",
@@ -17190,8 +17144,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7782bd4ff8b915f629867117b0ee24a39f15ab9.png",
     "website": "https://moonglow.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moonglow makes it easy to run machine learning experiments on powerful GPUs in the cloud. \r\n\r\nUsually, setting up remote GPUs involves complicated and time-consuming DevOps. But with Moonglow, you can keep working in the familiar Jupyter notebook on your own computer. When you're ready to use more computing power, you just click a button to switch from your local machine to a GPU on your preferred cloud compute provider.\r\n\r\nSign up at moonglow.ai!\r\n",
-    "one_liner": "Run local Jupyter notebooks on your cloud compute",
+    "long_description": "Moonglow connects local Jupyter notebooks to remote cloud compute. Machine learning researchers and data scientists use us to scale up their experiments without having to do DevOps.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at ACL and ICLR.\r\n\r\nWith the explosive growth of deep learning, there are over 1 million ML researchers who do computationally intensive experiments every day. They use Jupyter notebooks to do so, but every time they want to try out a new idea, they need to get the notebooks running on cloud machines. This process, repeated hundreds of times a month, is time-consuming and error-prone.\r\n\r\nMoonglow reliably brings the time-to-experiment down from 5 minutes to 20 seconds. Just as Vercel and Replit abstracted away the lower levels of the computing stack for web developers and programmers, we do the same for ML researchers.\r\n\r\nhttps://moonglow.ai\r\n",
+    "one_liner": "Connecting local Jupyter notebooks to remote cloud compute.",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -18709,7 +18663,7 @@
     "former_names": [
       "Modern Realtor"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94be4a23143e7882263f057ddd82a4890c1d714f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb526bca388e3c57218bf91837aeaa43548f4bf8.png",
     "website": "https://modernrealty.io",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Modern Realty is an AI real estate agent that helps you buy homes without relying on a traditional realtor. Historically, sellers pay a 3% commission to the buyer's agent. However, due to a recent lawsuit against the National Association of Realtors, buyers will soon have to pay their agents themselves (which would be an extra $30,000 on a $1 million dollar house). We offer a self service alternative.",
@@ -18799,52 +18753,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/distro",
     "api": "https://yc-oss.github.io/api/batches/s24/distro.json"
-  },
-  {
-    "id": 29768,
-    "name": "Ember Robotics",
-    "slug": "ember-robotics",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7501c381ec6654b0249e7c8d1881f708e27ce6e.png",
-    "website": "https://www.emberrobotics.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ember Robotics is building camera diagnostics tools for robots and automotive. We worked on mitigating camera failures at Tesla Autopilot that took hours to resolve and now we're building software that does it in minutes.",
-    "one_liner": "Camera diagnostics for robots",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1722583865,
-    "tags": [
-      "Developer Tools",
-      "Robotics",
-      "Analytics",
-      "Data Visualization",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ember-robotics",
-    "api": "https://yc-oss.github.io/api/batches/s24/ember-robotics.json"
   },
   {
     "id": 29772,
@@ -19943,14 +19851,14 @@
   },
   {
     "id": 29850,
-    "name": "SureBright Technologies, Inc.",
-    "slug": "surebright-technologies-inc",
+    "name": "SureBright",
+    "slug": "surebright",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6af946715f593d63dbd3d293f141557b6df74e1a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/637e029a9dd28023684af2fb257e1a2adbe4db31.png",
     "website": "https://surebright.com/",
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "SureBright embeds AI-powered product warranties in the consumer journey in under 10 minutes, empowering North American merchants to generate additional revenue and boost customer loyalty at zero cost. Think of it as the Stripe of embedded warranties enabling any merchant to offer an Apple Care-style warranty program for every product ranging from smartphones to mattresses.\r\n\r\nSMBs (< $100M sales) cannot offer warranties due to insurers' high premium requirements. Larger merchants face prolonged onboarding times of over six months and need to build internal tools and support teams to manage warranty operations. SureBright eliminates these barriers, enabling merchants of any size to offer warranties in minutes while reducing the cost to zero.\r\n\r\nSupporting all sales channels, including major e-commerce platforms, websites, marketplace sales, and brick-and-mortar, SureBright automates every step of the warranty distribution process. By embedding warranties at seven different points in the consumer journey, we achieve over 5x the industry warranty conversion rates. Founded by ex-Amazon and ex-InsurTech Unicorn, we are poised to expand the Product Warranty market by $45 billion.",
-    "one_liner": "We embed product warranties in consumer purchase journey.",
+    "one_liner": "Offer your own Apple Care-like warranty program in 10 minutes!",
     "team_size": 7,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -19986,8 +19894,8 @@
     "demo_day_video_public": false,
     "app_answers": true,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/surebright-technologies-inc",
-    "api": "https://yc-oss.github.io/api/batches/s24/surebright-technologies-inc.json"
+    "url": "https://www.ycombinator.com/companies/surebright",
+    "api": "https://yc-oss.github.io/api/batches/s24/surebright.json"
   },
   {
     "id": 29857,
