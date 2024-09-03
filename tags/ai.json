@@ -3047,56 +3047,6 @@
     "api": "https://yc-oss.github.io/api/batches/s21/elto.json"
   },
   {
-    "id": 22708,
-    "name": "Flux Auto",
-    "slug": "flux-auto",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/640f26537f8b5dd95cdf6d6556434583b3097c60.png",
-    "website": "https://fluxauto.xyz",
-    "all_locations": "Houston, TX, USA; Bengaluru, KA, India",
-    "long_description": "Flux Auto is building autonomous vehicle technology to fully automate the movement and operation of forklifts in warehouses. This removes dependency on human commercial drivers, allowing logistics companies to increase productivity while reducing operating costs. ",
-    "one_liner": "Autonomous Forklifts",
-    "team_size": 56,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1647888445,
-    "tags": [
-      "Autonomous Trucking",
-      "Hard Tech",
-      "Robotics",
-      "Logistics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W21",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "India",
-      "America / Canada",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flux-auto",
-    "api": "https://yc-oss.github.io/api/batches/w21/flux-auto.json"
-  },
-  {
     "id": 22744,
     "name": "Encord",
     "slug": "encord",
@@ -9748,7 +9698,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -16901,6 +16851,51 @@
     "api": "https://yc-oss.github.io/api/batches/s24/codes-health.json"
   },
   {
+    "id": 29635,
+    "name": "DigitalCarbon",
+    "slug": "digitalcarbon",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cd96189d0726eb13cddf2279ecddbb8f1d37895.png",
+    "website": "https://www.digitalcarbon.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Digitalcarbon transforms ordinary images and videos into interactive, photorealistic 3D environments. Our technology can take photos from any device and render 3D scenes at more than 100 frames per second on everyday devices. \r\n\r\nThe founders were the first and second hires at a previous YC company AssemblyAI, and have more than 8 years of experience building AI models. \r\n\r\nCreating immersive 3D experiences typically requires complex equipment and suffers from slow rendering speeds. This has limited the adoption of 3D technology across various industries. Digitalcarbon fixes that, eliminating the need for specialized equipment and dramatically accelerating the rendering process.\r\n\r\nOur technology enables applications across various industries:\r\n* Real estate: Creating virtual property tours that feel remarkably lifelike\r\n* E-commerce: Providing interactive 3D product visualizations to boost consumer experience\r\n* Tourism: Helping tourist businesses attract more travelers with immersive virtual previews\r\n* Drone mapping and inspection: Enhancing aerial surveys and structural assessments with detailed 3D models\r\n\r\nThink Unreal Engine meets Matterport, but faster, editable, and more accessible for businesses of all sizes.",
+    "one_liner": "Convert images and videos into immersive 3D scenes",
+    "team_size": 0,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "Industrials",
+    "launched_at": 1725300975,
+    "tags": [
+      "Computer Vision",
+      "Real Estate",
+      "B2B",
+      "E-commerce",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/digitalcarbon",
+    "api": "https://yc-oss.github.io/api/batches/s24/digitalcarbon.json"
+  },
+  {
     "id": 29637,
     "name": "Flyflow",
     "slug": "flyflow",
@@ -17779,49 +17774,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/answergrid",
     "api": "https://yc-oss.github.io/api/batches/s24/answergrid.json"
-  },
-  {
-    "id": 29695,
-    "name": "Merse",
-    "slug": "merse-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5434c4b263e66f63370382780eb9d4f6987fb984.png",
-    "website": "https://merse.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "A fully immersive Comics reading and creation platform which uses Audio Effects. Creators can use our AI-native platform to generate characters, backdrops, and compelling audio speeches for each speech bubble.",
-    "one_liner": "Discover and Create Audio-Visual Comics",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1720334032,
-    "tags": [
-      "Consumer",
-      "Entertainment",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/merse-2",
-    "api": "https://yc-oss.github.io/api/batches/s24/merse-2.json"
   },
   {
     "id": 29697,
@@ -18755,6 +18707,52 @@
     "api": "https://yc-oss.github.io/api/batches/s24/distro.json"
   },
   {
+    "id": 29767,
+    "name": "Thunder Compute",
+    "slug": "thunder-compute",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f41c1e3ea873ecf72e295ba7e2661334c89c3d60.png",
+    "website": "https://thundercompute.com",
+    "all_locations": "Atlanta, GA, USA",
+    "long_description": "Thunder Compute has created virtual GPU-over-TCP technology (think PCI-express over a network). This technology creates a new cloud instance with virtual, on-demand GPUs. \r\n\r\nWhat this means for developers is one cloud instance now accommodates any development workflow. A developer can build and debug in a CPU-only dev machine, then scale to a massive cluster with one command. This flexibility saves time spent configuring instances and cost of paying for idle compute during development.\r\n\r\nIn the background, our technology dramatically cuts CapEx for cloud providers. It does this by:\r\n\r\n1) Placing multiple workloads on a single GPU with dynamic memory sharing, similar to vCPUs on AWS, improving utilization\r\n\r\n2) Allowing CPU-only instances to share pooled GPU resources rather than dedicated cards that can't be accessed by other machines, further improving utilization\r\n\r\nGPU virtualization also saves OpEx by reducing IT and procurement processes required to get developers access to GPUs.\r\n\r\nNotably, this appears to be the most efficient technology for serverless GPU computing, achieving instantaneous cold starts by decoupling the GPU environment from the physical GPU.",
+    "one_liner": "Cloud Computing Technology to virtualize GPUs over TCP.",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1723245936,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Cloud Computing",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/thunder-compute",
+    "api": "https://yc-oss.github.io/api/batches/s24/thunder-compute.json"
+  },
+  {
     "id": 29772,
     "name": "Parley",
     "slug": "parley",
@@ -18942,7 +18940,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e5656b39d16bbcdfc91b65842c58f6ec8a57e4e.png",
     "website": "https://www.presti.ai/",
     "all_locations": "",
-    "long_description": "Furniture companies spend millions and months each year on photoshoots or CGI to create product images as these visuals are crucial for driving sales.\r\n\r\nPresti offers a faster and cheaper solution powered by generative AI. Unlike other generative AI tools, our core model is optimized for furniture products and includes multiple features tailored to the unique needs of furniture industry.\r\n \r\nWe have 100 paying B2B users with a 10% growth week over week.",
+    "long_description": "Furniture companies spend millions and months each year on photoshoots or CGI to create product images as these visuals are crucial for driving sales.\r\n\r\nPresti offers a faster and cheaper solution powered by generative AI. Unlike other generative AI tools, our core model is optimized for furniture products and includes multiple features tailored to the unique needs of furniture industry.\r\n \r\nWe have 100 paying B2B users with a 10% growth week over week.\r\nWe raised a $3.5M seed round",
     "one_liner": "Product photography for furniture companies with generative AI",
     "team_size": 7,
     "highlight_black": false,
@@ -18959,7 +18957,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -19161,6 +19159,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lilac-labs",
     "api": "https://yc-oss.github.io/api/batches/s24/lilac-labs.json"
+  },
+  {
+    "id": 29788,
+    "name": "Blast",
+    "slug": "blast",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29292a3f650e36337a51d3b02a933f32d892da35.png",
+    "website": "https://blastsec.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Blast offers automated tooling to rigorously evaluate generative AI apps for a wide array of failure modes to help even the most risk-averse companies adopt generative AI safely and confidently.",
+    "one_liner": "Helping enterprises build safe and compliant LLM apps/agents",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "Education",
+    "launched_at": 1724647952,
+    "tags": [
+      "Security",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blast",
+    "api": "https://yc-oss.github.io/api/batches/s24/blast.json"
   },
   {
     "id": 29792,
@@ -19898,6 +19939,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/surebright.json"
   },
   {
+    "id": 29852,
+    "name": "AI Sell",
+    "slug": "ai-sell",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e95c3064e61ac7181ef0f8cc128b99e870d3c477.png",
+    "website": "https://www.aisell.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building AI Sales Associates for Shopify brands. Traditional brick-and-mortar retail stores rely on sales associates to provide personalized customer service, guide product discovery and close sales, but it's always been too expensive and unscaleable for online stores. We work with Shopify brands to build AI agents that are experts in their products and can gently steer customers to a purchase, delighting customers and lifting conversion/AOV.\r\n\r\nJerry and Jeffrey are brothers who previously worked together to scale The Coding School to a 6mil+ in revenue. Jerry built software to help run the 50+ Shopify brands that Openstore acquired more profitably and efficiently. He was also an engineer at Flexport and Google.\r\n\r\nJeffrey previously worked at DRW as a quant trader, and as an engineer at Facebook, Snowflake and Amazon.\r\n",
+    "one_liner": "AI Sales Associate for Ecommerce",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "Consumer -> Virtual and Augmented Reality",
+    "launched_at": 1725323188,
+    "tags": [
+      "Sales",
+      "E-commerce",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ai-sell",
+    "api": "https://yc-oss.github.io/api/batches/s24/ai-sell.json"
+  },
+  {
     "id": 29857,
     "name": "Pharos",
     "slug": "pharos",
@@ -20444,6 +20529,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pathpilot",
     "api": "https://yc-oss.github.io/api/batches/s24/pathpilot.json"
+  },
+  {
+    "id": 29989,
+    "name": "Melty",
+    "slug": "melty",
+    "former_names": [
+      "BookMe"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5957c080cba74e8f92840d3baeec2beaae949d4b.png",
+    "website": "https://melty.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Melty is the first editor that’s aware of what you’re doing from the terminal to GitHub and collaborates with you to write production-ready code.",
+    "one_liner": "Open source AI code editor for 10x engineers",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1725301012,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/melty",
+    "api": "https://yc-oss.github.io/api/batches/s24/melty.json"
   },
   {
     "id": 29990,
