@@ -1775,7 +1775,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fdfe6ee3e3551142b62a5144a0c5d6494e9c0ac.png",
     "website": "https://www.mobileboost.io/gptdriver",
     "all_locations": "San Francisco, CA, USA; New York, NY, USA; Remote",
-    "long_description": "Mobileboost is the leading AI Native Mobile Testing Tool used by companies like Duolingo and Remitly. It features:\r\n\r\n1. Automated Testing: Generates test cases and tests your mobile app autonomously on detailed instructions or high level objectives.\r\n\r\n2. Visual Recognition: Uses the visual output of your phone, eliminating the need for UI hierarchy dependency and element identifiers\r\n\r\n3. Cross-Technology Compatibility: Works seamlessly with all technologies including web views and native phone elements. No source code access required.",
+    "long_description": "Mobileboost is the leading AI Native Mobile Testing Tool used by companies like Duolingo, Spotify, and Remitly. It features:\r\n\r\n1. Automated Testing: Generates test cases and tests your mobile app autonomously on detailed instructions or high level objectives.\r\n\r\n2. Visual Recognition: Uses the visual output of your phone, eliminating the need for UI hierarchy dependency and element identifiers\r\n\r\n3. Cross-Technology Compatibility: Works seamlessly with all technologies including web views and native phone elements. No source code access required.",
     "one_liner": "AI native mobile testing.",
     "team_size": 15,
     "highlight_black": false,
@@ -1785,11 +1785,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1628867687,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "B2B",
-      "No-code",
-      "AI"
+      "No-code"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2177,7 +2177,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -2350,12 +2350,12 @@
     "former_names": [
       "Bobidi, Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e3c64e345cfdbbe13c9f3c4ba2ccd1d476936fe9.png",
-    "website": "http://www.bobidi.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ad06a2fc0dfb05a71b56e2db5a10bae1d203fbe.png",
+    "website": "http://www.supertalents.ai",
     "all_locations": "Los Gatos, CA, USA",
-    "long_description": "Bobidi helps AI companies validate the AI models very fast and improve them 10x more efficiently.  It is critical because AI companies are having hard times predicting the unknown-unknowns and thus how the model will perform in the real world.  \r\n\r\nOur underlying magic is that we run a global gamified community that is incentivized to test and find the edge cases that the model missed.  The whole process would be 10x more efficient than the industry norm that takes as long as a couple of months.  \r\n\r\nThis is the mashup between the community and AI, the areas we (the co-founders) are the experts of, bringing experiences from Facebook and Google & Niantic, respectively.  Both have exited before as CEO (Social Commerce Startup in Korea) and CTO (AR Startup acquired by Niantic), respectively.",
-    "one_liner": "Bug bounty as a Service for AI",
-    "team_size": 15,
+    "long_description": "Bobidi runs SuperTalents AI, a gamified training solution to help restaurants and vendors boost sales by empowering their staff.  ",
+    "one_liner": "Gamified Trainig For Hospitality Workers",
+    "team_size": 7,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -2363,11 +2363,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1642208334,
     "tags": [
-      "AIOps",
-      "Artificial Intelligence",
       "Generative AI",
       "Machine Learning",
-      "NLP"
+      "Human Resources",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2377,11 +2376,13 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Human Resources"
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5768,6 +5769,53 @@
     "api": "https://yc-oss.github.io/api/batches/w23/clueso.json"
   },
   {
+    "id": 27983,
+    "name": "Retape",
+    "slug": "retape",
+    "former_names": [
+      "Merse"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a1343a7ff01bd912487deab455046d3055f8a0e.png",
+    "website": "https://www.retape.ai/",
+    "all_locations": "Remote",
+    "long_description": "Retape lets you create personalized outreach videos at scale. We turn a lead list and a template script into lifelike videos using your AI avatar. \r\n",
+    "one_liner": "Scale your video outreach with AI",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1673428509,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "Sales"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/retape",
+    "api": "https://yc-oss.github.io/api/batches/w23/retape.json"
+  },
+  {
     "id": 27991,
     "name": "Coldreach",
     "slug": "coldreach",
@@ -7493,7 +7541,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -10124,7 +10172,7 @@
       "Hestus Inc"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bf9811142c8ee5a617b8ae8d72ad53320f655b5.png",
-    "website": "",
+    "website": "https://www.hestus.co",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hestus is AI-powered CAD software that speeds up hardware development. While engineers are typically quick at coming up with initial design concepts, they are bogged down getting from idea to the final design due to countless tedious and repetitive tasks. We are building CAD software that automates these mundane tasks and speeds up the design execution process, while letting engineers spend more time on the creative part of the design process.\r\n",
     "one_liner": "An AI-powered CAD software",
@@ -10358,8 +10406,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a121e291e0c0d2ca3fe9ade29f345d6f3bb2a6c2.png",
     "website": "https://corpdaq.com",
     "all_locations": "Singapore, Singapore; Remote",
-    "long_description": "We’re building an AI-powered financial simulator and financing marketplace for profitable SMBs across the Asia Pacific, starting in Indonesia where we’re based. We’re both second-time founders from Indonesia. We started Corpdaq to solve the problems we faced while running our previous startups, Payfazz (which have raised 250M US$ in total) and Verihubs (which have raised 5M US$ in total).",
-    "one_liner": "AI-powered financial simulator and financing marketplace",
+    "long_description": "We’re building an AI-powered and API-powered lending processing platform for profitable SMBs and Startups across the Asia Pacific, starting in Indonesia where we’re based. We’re both second-time founders from Indonesia. We started Corpdaq to solve the problems we faced while running our previous startups, Payfazz (which have raised 250M US$ in total) and Verihubs (which have raised 5M US$ in total).",
+    "one_liner": "Stripe of Lending for Asia",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -10371,6 +10419,7 @@
       "Artificial Intelligence",
       "Fintech",
       "Generative AI",
+      "API",
       "AI"
     ],
     "tags_highlighted": [],

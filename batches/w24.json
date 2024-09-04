@@ -1432,7 +1432,7 @@
     "name": "Adagy Robotics",
     "slug": "adagy-robotics",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e36bb1e90fd2b33ef753c6730f6e10920dcea5c9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7a680d1493fa7b391bcafe94d3b16c9bb0af090.png",
     "website": "https://www.adagyrobotics.com/",
     "all_locations": "",
     "long_description": "Adagy is a remote intervention service that rescues robots when they fail. For example, when a tractor robot gets lost in a field, instead of calling the farmer for help, it can now call Adagy, whose operators will take control of the robot and remotely drive it back to safety. \r\n\r\nWe’re starting with trained human operators assisted by generative AI, and as we collect more data, our model will learn to handle more of the edge cases. \r\n\r\nWe want to see a world with more robots, so we’re addressing the biggest problem in robot deployment: reliability. ",
@@ -2078,7 +2078,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -2924,7 +2924,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -4439,10 +4439,10 @@
     "subindustry": "Healthcare",
     "launched_at": 1709616757,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "Digital Health",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8531,26 +8531,28 @@
   },
   {
     "id": 29443,
-    "name": "Stackgrant",
-    "slug": "stackgrant",
+    "name": "For Effect",
+    "slug": "for-effect",
     "former_names": [
       "Chirp"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6190d44a5e8c5a66d653302df9117053a742732d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b149f6917b5b7f8655329f4c129a6536c58bab42.png",
     "website": "",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "We help companies find grants and draft compelling proposals",
-    "team_size": 2,
+    "one_liner": "AI Video Effects",
+    "team_size": 1,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
-    "industry": "Government",
+    "industry": "Consumer",
     "subindustry": "B2B -> Sales",
     "launched_at": 1702424671,
     "tags": [
-      "Artificial Intelligence",
-      "GovTech"
+      "Consumer",
+      "Video",
+      "Media",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8559,21 +8561,20 @@
     "batch": "W24",
     "status": "Active",
     "industries": [
-      "Government"
+      "Consumer",
+      "Content"
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stackgrant",
-    "api": "https://yc-oss.github.io/api/batches/w24/stackgrant.json"
+    "url": "https://www.ycombinator.com/companies/for-effect",
+    "api": "https://yc-oss.github.io/api/batches/w24/for-effect.json"
   },
   {
     "id": 29444,
