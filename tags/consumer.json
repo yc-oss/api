@@ -2719,7 +2719,7 @@
       "Canada",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4681,7 +4681,9 @@
     "id": 25907,
     "name": "Joon Health",
     "slug": "joon-health",
-    "former_names": [],
+    "former_names": [
+      "Joon"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c143cc41cce3030b961ba7a83dcc56ee602bd4f.png",
     "website": "https://joonhealth.co",
     "all_locations": "San Francisco, CA, USA; Oakland, CA, USA",
@@ -5720,58 +5722,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hype",
     "api": "https://yc-oss.github.io/api/batches/s22/hype.json"
-  },
-  {
-    "id": 26885,
-    "name": "Mintplex Labs",
-    "slug": "mintplex-labs",
-    "former_names": [
-      "Rampp Labs Inc",
-      "Rampp.xyz",
-      "MintPlex",
-      "Mintplex"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcaf96ff05ba04df3210e9778e22967b727fde37.png",
-    "website": "https://mintplexlabs.com",
-    "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Mintplex Labs builds open-source accessible AI applications that make the democratization of LLMs, RAG, Agents, vector databases, and the latest technology to the desktops of the world. Enabling locally running LLMs with built-in tooling and zero code.\r\n\r\nCurrent tools are:\r\nAnythingLLM (https://github.com/Mintplex-Labs/anything-llm)\r\nVectorAdmin (https://github.com/Mintplex-Labs/vector-admin)",
-    "one_liner": "Building accessible local AI.",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1652840561,
-    "tags": [
-      "Consumer",
-      "B2B",
-      "Productivity",
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mintplex-labs",
-    "api": "https://yc-oss.github.io/api/batches/s22/mintplex-labs.json"
   },
   {
     "id": 26897,
@@ -7564,13 +7514,13 @@
   },
   {
     "id": 29443,
-    "name": "For Effect",
-    "slug": "for-effect",
+    "name": "ForEffect",
+    "slug": "foreffect",
     "former_names": [
       "Chirp"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b149f6917b5b7f8655329f4c129a6536c58bab42.png",
-    "website": "",
+    "website": "https://foreffect.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "AI Video Effects",
@@ -7606,8 +7556,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/for-effect",
-    "api": "https://yc-oss.github.io/api/batches/w24/for-effect.json"
+    "url": "https://www.ycombinator.com/companies/foreffect",
+    "api": "https://yc-oss.github.io/api/batches/w24/foreffect.json"
   },
   {
     "id": 29459,
@@ -8245,6 +8195,52 @@
     "api": "https://yc-oss.github.io/api/batches/s24/paasa.json"
   },
   {
+    "id": 29828,
+    "name": "Focus Buddy",
+    "slug": "focus-buddy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36badd071180ac2d70c72ca019989b6ecf1830ca.png",
+    "website": "https://www.focusbuddy.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reach out to us at founders@focusbuddy.ai\r\n\r\nFocus buddy is an AI productivity coach that stays on calls with you and help you accomplish your important work goals on a daily basis, even when you are struggling to focus.\r\n\r\nWe noticed that our users develop a productive relationship with Focus Buddy. Users stay on calls for multiple hours everyday where they depend on Focus Buddy to:\r\n• Avoid procrastination and get started: Address hidden anxieties, embrace imperfection, chunk tasks, kickstart with mini-goals, and use regular check-ins to maintain momentum.\r\n• Recover from distractions and stay focused: Focus Buddy detects when they are working on less important tasks or scrolling on social media, help them overcome the underlying concerns feeding the distraction, and help them get back to the important task\r\n• Manage stress and Prevent Burnout: Focus Buddy detects stress buildup, integrates mindfulness habits to the workflow, helps take short rejuvenating breaks, and stay composed.\r\n\r\nOur Initial ICP is people with ADHD who are highly motivated but also highly blocked by internal and environmental factors. In the future, we believe each worker should have their own personal coach that enforces proven productivity techniques in real time to help them extract more focused hours every day with the same effort. \r\n",
+    "one_liner": "AI Productivity Coach: Get work done when you are struggling to focus",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Consumer",
+    "subindustry": "Unspecified",
+    "launched_at": 1724988357,
+    "tags": [
+      "Consumer",
+      "Productivity",
+      "Mental Health",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/focus-buddy",
+    "api": "https://yc-oss.github.io/api/batches/s24/focus-buddy.json"
+  },
+  {
     "id": 29829,
     "name": "Moreta",
     "slug": "moreta",
@@ -8428,7 +8424,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b03e14b8a7d809f05b6579c758dc4fbbe6ff821.png",
     "website": "https://www.dreamrp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "DreamRP lets creators earn money by turning their characters into chatbots. For example, George R.R. Martin could charge fans to chat with a Jon Snow bot.",
+    "long_description": "DreamRP lets creators earn money by turning their characters into chatbots. For example, George R.R. Martin could charge fans to chat with a Jon Snow bot.\r\n\r\nAI roleplaying is ravenously popular, but no existing platform focuses on the most impactful component of the experience: the creators who make the characters. With a more ethical implementation of AI and the right creation and monetization features, DreamRP has unlocked AI roleplaying for the most talented and successful creators.",
     "one_liner": "Character AI meets Patreon",
     "team_size": 2,
     "highlight_black": false,

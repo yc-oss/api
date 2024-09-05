@@ -45496,7 +45496,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66941efea1bbb96c0037b8eb01cd10d72092895c.png",
     "website": "https://joinformal.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; New York, NY, USA; Remote",
     "long_description": "",
     "one_liner": "Take control of your data in real-time.",
     "team_size": 10,
@@ -71782,7 +71782,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Productivity"
@@ -76237,11 +76237,11 @@
     "subindustry": "B2B",
     "launched_at": 1655587130,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "B2B",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -82405,15 +82405,15 @@
   },
   {
     "id": 27965,
-    "name": "keyval",
-    "slug": "keyval",
+    "name": "Odigos",
+    "slug": "odigos",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01789500d10ff2ef05f798f16209dfd5b1e1f331.png",
-    "website": "https://keyval.dev",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6519c1c9ffc92217f36449c3d731f02ef19aedb2.png",
+    "website": "https://odigos.io",
     "all_locations": "",
-    "long_description": "Keyval leverages eBPF technology to create an open-source solution that can automatically generate distributed traces for any application without any engineering work.\r\nDevelopers are struggling with extracting and delivering high-quality monitoring data.\r\nCurrently, building a pipeline is a manual process that takes months to implement, is an error-prone process that requires tons of code changes across multiple R&D teams, and demands collaboration.\r\n\r\n",
-    "one_liner": "Open-source codeless monitoring pipeline",
-    "team_size": 6,
+    "long_description": "Odigos leverages eBPF technology to create an open-source solution that can automatically generate distributed traces for any application without any engineering work.\r\nDevelopers are struggling with extracting and delivering high-quality monitoring data.\r\nCurrently, building a pipeline is a manual process that takes months to implement, is an error-prone process that requires tons of code changes across multiple R&D teams, and demands collaboration.\r\n\r\n",
+    "one_liner": "Enterprise-Grade OpenTelemetry",
+    "team_size": 9,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -82439,8 +82439,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keyval",
-    "api": "https://yc-oss.github.io/api/batches/w23/keyval.json"
+    "url": "https://www.ycombinator.com/companies/odigos",
+    "api": "https://yc-oss.github.io/api/batches/w23/odigos.json"
   },
   {
     "id": 27966,
@@ -85058,7 +85058,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -86234,7 +86234,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Security",
     "launched_at": 1689618282,
     "tags": [
       "Security",
@@ -86245,7 +86245,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Security"
@@ -89389,11 +89389,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688142176,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "DevSecOps",
       "Machine Learning",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -94310,7 +94310,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -96101,10 +96101,10 @@
     "name": "phospho",
     "slug": "phospho",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25da999aa4a2fad3937c56ced9af091933f43a83.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18adb73f19cdc6d40006f80186b22f0d0a3b08ff.png",
     "website": "https://phospho.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Phospho is an open-source text analytics platform for LLM apps in production.\r\n\r\nCompanies like Quivr or Sudowrite use phospho to monitor interactions with their LLM app and take action.\r\n\r\nWe want to be the Datadog the LLM OS.  Text will be the main mean of communication between humans and computers, and also computers to computers. A tool is needed to analyze these flows in real time.",
+    "long_description": "Phospho is an open-source text analytics platform for LLM apps in production.\r\n\r\nCompanies like Quivr or Sudowrite use phospho to get answers, take decisions and reduce churn by mining user messages.\r\n\r\nUse phospho to:\r\n- cluster messages or chat sessions\r\n- get user analytics\r\n- setup no code text analytics (LLM detection, sentiment, classifiers,...)\r\n- iterate faster with AB tests\r\n- centralize all your transcripts in one place\r\n\r\nGet started in 3 minutes by uploading a CSV. Integrate the API when convinced.",
     "one_liner": "Open Source Text Analytics for LLM Apps",
     "team_size": 3,
     "highlight_black": false,
@@ -96754,8 +96754,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3f9546e074addf8f9d38b3d1199ed7484573033.png",
     "website": "https://superagent.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superagent is an open-source platform for custom AI-agents that do web research. Companies use us to do better sales, marketing, and project management.\r\n\r\nThe agents can reason, browse the web, and access your files. It's open-source, and it's designed for everyone - not just AI experts.\r\n\r\n🥷 How do companies build their own AI-agents:\r\n- No coding or infrastructure needed: Customize AI-agents using simple markup.\r\n- Integration with Airtable: Ideal for business users.\r\n- API and SDKs: Embed AI-agents into any app or third-party system, e.g. Salesforce.\r\n\r\n🚀 By choosing Superagent, companies can:\r\n- Improve Sales: Gather detailed info about potential customers early on. Focus efforts on those most likely to buy, increasing success rates and saving time.\r\n- Personalize Marketing: Connect to CRMs to craft custom marketing messages. AI-agents analyze customer data to send offers that match their interests, boosting engagement and sales.\r\n- Stay Ahead of Competitors: Track what competitors are doing by analyzing market reports, web activity, and social media. Quickly adjust your strategies, find new market gaps, and offer better products.",
-    "one_liner": "Open-source AI-agents for doing web research",
+    "long_description": "Superagent uses AI to help businesses improve their compliance ✅\r\n\r\nFor employees:\r\n- 💬 Answers employee questions about compliance policies instantly.\r\n- 📚 Provides sources for all information.\r\n- 🔐 Gives compliance teams control over content.\r\n\r\nFor compliance managers:\r\n- 🔍 Identifies gaps between company procedures and compliance standards.\r\n- 🔄 Helps update procedures based on new standards or incidents.\r\n- 🔔 Monitors regulatory changes in your industry.",
+    "one_liner": "ChatGPT for Compliance",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -96765,8 +96765,9 @@
     "launched_at": 1701445003,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
+      "SaaS",
+      "Compliance",
+      "Regtech",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -96776,8 +96777,7 @@
     "batch": "W24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -100332,7 +100332,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67c33e0e1229416643c3c04c56495e10ccaea0a.png",
     "website": "https://www.cheersreviews.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cheers is building the operating system for in-person businesses, bringing the seamless efficiency of an Apple Store to every local service. We're starting with NFC-enabled employee badges that solve immediate pain points: collecting reviews, attributing customer interactions, and tracking performance. Our customers 5-10x their monthly Google Reviews.\r\n\r\n\r\n\r\n- Imagine walking into any local business and experiencing the smoothness of an Apple Store: roaming checkouts, instant transactions, and personalized service - all from a tap on an employee's phone. That's the future we're creating. Our badges are the first step towards a fully integrated, frictionless system for in-person operations.\r\n\r\n\r\n\r\nMost tech ignores field workers. We're fixing that. We're digitizing all operations for local services - from home repairs to restaurants. Our vision: tap your phone anywhere to close a sale, leave a review, or verify service, making every interaction as smooth as buying the latest iPhone.\r\n\r\n\r\n\r\n- We have 30 paying customers, including one enterprise pilot. MRR grew from $1,400 to $4,750 in two months. We've processed over 3,000 reviews.\r\n\r\n\r\n\r\nFounded by Dylan Allen and Ernesto Valencia, CS grads from BYU with experience at Microsoft and Amazon. We're expanding into scheduling, payments, and full workforce management. Our goal: become the central platform for in-person work, serving millions of field employees and revolutionizing how local businesses operate.",
+    "long_description": "Cheers is building the operating system for in-person businesses, bringing the seamless efficiency of an Apple Store to every local service. We're starting with NFC-enabled employee badges that solve immediate pain points: collecting reviews, accepting payments, attributing customer interactions, and tracking performance. Our customers 5-10x their monthly Google Reviews.\r\n\r\n\r\n\r\n- Imagine walking into any local business and experiencing the smoothness of an Apple Store: roaming checkouts, instant transactions, and personalized service - all from a tap on an employee's phone. That's the future we're creating. Our badges are the first step towards a fully integrated, frictionless system for in-person operations.\r\n\r\n\r\n\r\nMost tech ignores field workers. We're fixing that. We're digitizing all operations for local services - from home repairs to restaurants. Our vision: tap your phone anywhere to close a sale, leave a review, or verify service, making every interaction as smooth as buying the latest iPhone.\r\n\r\n\r\n\r\n- We have over 30 paying customers, including one enterprise pilot. MRR grew from $1,400 to ~$5,000 in two months. We've processed over 3,000 reviews.\r\n\r\n\r\n\r\nFounded by Dylan Allen and Ernesto Valencia, CS grads from BYU with experience at Microsoft and Amazon. We're expanding into scheduling, payments, and full workforce management. Our goal: become the central platform for in-person work, serving millions of field employees and revolutionizing how local businesses operate.",
     "one_liner": "The super-app for in-person employee management",
     "team_size": 2,
     "highlight_black": false,
@@ -101016,6 +101016,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/stack-auth.json"
   },
   {
+    "id": 29644,
+    "name": "VideoGen",
+    "slug": "videogen",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67133b6c1025c9a5557fc657b87ed61ad2b540c5.png",
+    "website": "https://videogen.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Today, we serve thousands of customers, from individuals and small businesses to teams at Google and ByteDance.\r\n\r\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks!",
+    "one_liner": "Generate professional videos in seconds",
+    "team_size": 3,
+    "highlight_black": true,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1725431613,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "SaaS",
+      "Video"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/videogen",
+    "api": "https://yc-oss.github.io/api/batches/s24/videogen.json"
+  },
+  {
     "id": 29645,
     "name": "Phonely",
     "slug": "phonely",
@@ -101585,7 +101629,7 @@
     "subindustry": "B2B",
     "launched_at": 1724580560,
     "tags": [
-      "Fintech",
+      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Healthcare",
@@ -101757,7 +101801,7 @@
     "website": "https://www.deepsim.io",
     "all_locations": "Mountain View, CA, USA",
     "long_description": "DeepSim is building an AI-accelerated 3D physics simulator that runs 1000X faster than existing FEM tools, speeding up complex simulations from days to minutes. DeepSim was founded by Stanford PhDs with expertise in thermal modeling of semiconductor devices & circuits, and GPU-accelerated solvers.\r\n",
-    "one_liner": "AI-accelerated multi-physics simulations",
+    "one_liner": "An AI physics simulator for AI chip design",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -101766,8 +101810,8 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1723754775,
     "tags": [
-      "B2B",
-      "AI"
+      "Artificial Intelligence",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -103970,54 +104014,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/thunder-compute.json"
   },
   {
-    "id": 29769,
-    "name": "Pinnacle",
-    "slug": "pinnacle",
-    "former_names": [
-      "InsightForge"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b466ed207f7ecd72989b10237037b204765513f2.png",
-    "website": "https://trypinnacle.app/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Meet Pinnacle: The Future of SMS Marketing 📲\r\n\r\nPinnacle is the next generation of SMS marketing, created to overcome the design and engagement limitations of traditional SMS while still being in your native messaging apps on iOS and Android. We improve SMS marketing to drive higher ROI by providing businesses access to RCS Business Messaging (RBM) for rich, interactive content and branding like custom business headers, shoppable carousels, quick response buttons, and detailed analytics (including read receipts!). \r\n\r\nInterested in learning more? \r\n\r\nIf you or someone you know in e-commerce or at a marketing agency for e-commerce wants to increase sales with the next era of SMS marketing, reach out to us for a demo!\r\n\r\n- Email founders@trypinnacle.app OR\r\n- Text (870) 897 7103 OR\r\n- Book a 15 minute meeting: https://calendly.com/founders-at-pinnacle/discovery",
-    "one_liner": "Next Generation SMS Marketing",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1725406476,
-    "tags": [
-      "B2B",
-      "E-commerce",
-      "Marketing",
-      "SMS",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pinnacle",
-    "api": "https://yc-oss.github.io/api/batches/s24/pinnacle.json"
-  },
-  {
     "id": 29770,
     "name": "Intryc",
     "slug": "intryc",
@@ -104176,9 +104172,11 @@
     "subindustry": "B2B",
     "launched_at": 1723170275,
     "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "B2B",
       "Compliance",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -104803,7 +104801,7 @@
     "website": "https://zigma.io",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "We began with an open-source library for React developers that enables them to create beautiful and accessible interfaces (NextUI). We are now building a complete frontend-as-a-service platform to make building the frontend part of products easier, allowing teams to focus more on their product and less on design systems and frontend complexities (zigma.io).",
-    "one_liner": "Open-source design system creation & management platform.",
+    "one_liner": "Design system creation & management platform.",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": true,

@@ -6809,7 +6809,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/640f26537f8b5dd95cdf6d6556434583b3097c60.png",
     "website": "https://fluxauto.xyz",
-    "all_locations": "Houston, TX, USA",
+    "all_locations": "Houston, TX, USA; Bengaluru, KA, India",
     "long_description": "Flux Auto is building autonomous mobility technology to fully automate the movement and operation of vehicles in any environment and for any application. Using Flux's solutions customers can reduce their dependency on human drivers, while also increasing productivity and reducing operating costs. \r\n\r\nFlux is currently deploying in warehouses, farms and mines.",
     "one_liner": "Autonomous Mobility for Any Application",
     "team_size": 56,
@@ -6838,7 +6838,9 @@
     ],
     "regions": [
       "United States of America",
+      "India",
       "America / Canada",
+      "South Asia",
       "Remote",
       "Partly Remote"
     ],
@@ -12558,6 +12560,56 @@
     "api": "https://yc-oss.github.io/api/batches/s22/hedgehog-2.json"
   },
   {
+    "id": 26885,
+    "name": "Mintplex Labs",
+    "slug": "mintplex-labs",
+    "former_names": [
+      "Rampp Labs Inc",
+      "Rampp.xyz",
+      "MintPlex",
+      "Mintplex"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcaf96ff05ba04df3210e9778e22967b727fde37.png",
+    "website": "https://mintplexlabs.com",
+    "all_locations": "Irvine, CA, USA; Remote",
+    "long_description": "Mintplex Labs builds AnythingLLM, an all-in-one desktop AI application that handles everything an LLM should do to increase your productivity while remaining fully private. \r\n\r\nCurrent tools are:\r\nAnythingLLM (https://github.com/Mintplex-Labs/anything-llm)\r\nVectorAdmin (https://github.com/Mintplex-Labs/vector-admin)",
+    "one_liner": "Building the all-in-one private desktop AI assistant",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1652840561,
+    "tags": [
+      "Artificial Intelligence",
+      "Open Source",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mintplex-labs",
+    "api": "https://yc-oss.github.io/api/batches/s22/mintplex-labs.json"
+  },
+  {
     "id": 26902,
     "name": "Maya Labs",
     "slug": "maya-labs",
@@ -12786,6 +12838,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wondercraft",
     "api": "https://yc-oss.github.io/api/batches/s22/wondercraft.json"
+  },
+  {
+    "id": 27172,
+    "name": "Lancey",
+    "slug": "lancey",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b4be6448879f62d812b1d5fa3d238cd1061e335.png",
+    "website": "https://lancey.ai",
+    "all_locations": "Toronto, ON, Canada; Remote",
+    "long_description": "Lancey uses your product data to analyze out how users use your product and then suggests experiments, automatically.",
+    "one_liner": "AI agents to help product teams operate faster.",
+    "team_size": 5,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1655587130,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "SaaS",
+      "B2B",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lancey",
+    "api": "https://yc-oss.github.io/api/batches/s22/lancey.json"
   },
   {
     "id": 27174,
@@ -14478,56 +14577,6 @@
     "api": "https://yc-oss.github.io/api/batches/w23/boundary.json"
   },
   {
-    "id": 27943,
-    "name": "Hadrius",
-    "slug": "hadrius",
-    "former_names": [
-      "Quantbase"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
-    "website": "https://www.hadrius.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Hadrius allows regulated financial firms of all sizes to consolidate and automate their compliance processes using AI in one platform. Today, we're securing compliance for $250B+ AUM across our clients.\r\n\r\nWe're building the AI that will regulate the US financial system and the trillions that flows through it.",
-    "one_liner": "The Financial Compliance Copilot",
-    "team_size": 9,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1668714980,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Compliance",
-      "Regtech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Asset Management"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hadrius",
-    "api": "https://yc-oss.github.io/api/batches/w23/hadrius.json"
-  },
-  {
     "id": 27947,
     "name": "Shortbread",
     "slug": "shortbread",
@@ -15990,52 +16039,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/outset.json"
   },
   {
-    "id": 28869,
-    "name": "Health Harbor",
-    "slug": "health-harbor",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/707952491ce6520207a9fc042912ea6190fc34a5.png",
-    "website": "https://healthharbor.co/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We use generative AI to call insurance on behalf of healthcare clinics. We save clinics up to 40 hours of calls every week over existing outsourced human solutions. \r\n\r\nCompared to the existing solutions for benefits verifications: \r\n- We're faster -- by default, we have a turnaround of 24 hours compared to typically a 3 day turnaround for competitors\r\n- We can reach more payors -- as long as they have a phone line, we can support calling them for benefits. There's quite a few payors in both medical and dental (e.g. Seledent) that have yet to offer a digital retrieval of benefits\r\n- We're reliable and consistent -- there is no person-to-person variation or question skipping when it comes to working with software\r\n",
-    "one_liner": "Using generative AI to call insurance for healthcare clinics",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1689790147,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Healthcare IT",
-      "Billing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/health-harbor",
-    "api": "https://yc-oss.github.io/api/batches/s23/health-harbor.json"
-  },
-  {
     "id": 28879,
     "name": "Menza",
     "slug": "menza",
@@ -16504,6 +16507,52 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/glade",
     "api": "https://yc-oss.github.io/api/batches/s23/glade.json"
+  },
+  {
+    "id": 28957,
+    "name": "Continue",
+    "slug": "continue",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea071d17d03a0effc12bac914da21cd9bee66060.png",
+    "website": "https://continue.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside the IDE",
+    "one_liner": "The leading open-source AI code assistant",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1688142176,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "DevSecOps",
+      "Machine Learning",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/continue",
+    "api": "https://yc-oss.github.io/api/batches/s23/continue.json"
   },
   {
     "id": 28966,
@@ -18183,6 +18232,52 @@
     "api": "https://yc-oss.github.io/api/batches/w24/radmate-ai.json"
   },
   {
+    "id": 29207,
+    "name": "PurplePages",
+    "slug": "purplepages",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf22855fa2bcccfa5a6527f46a30a4d6e91069b2.png",
+    "website": "https://www.thepurplepages.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Purple is an AI agent for online local marketplace transactions.",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Consumer",
+    "subindustry": "B2B",
+    "launched_at": 1707161827,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "Real Estate",
+      "Conversational AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Home and Personal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/purplepages",
+    "api": "https://yc-oss.github.io/api/batches/w24/purplepages.json"
+  },
+  {
     "id": 29226,
     "name": "Greptile",
     "slug": "greptile",
@@ -19727,6 +19822,50 @@
     "api": "https://yc-oss.github.io/api/batches/w24/markprompt.json"
   },
   {
+    "id": 29342,
+    "name": "InQuery",
+    "slug": "inquery-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6af70add968020435b7e6619f1daf7399205f64b.png",
+    "website": "https://www.inquery.ai/",
+    "all_locations": "",
+    "long_description": "InQuery is an operating system for the insurance industry built from the ground-up to leverage modern language processing techniques to improve claims handling, policy administration and distribution, and underwriting, starting with the world's first AI-native Claims Management System.\r\n\r\nOur mission is to empower the insurance industry to close the trillion dollar underinsurance gap by expanding the reach and scope of insurance products to cover the emerging risks of the 21st century.",
+    "one_liner": "AI-Native Operating System for the Insurance Industry",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "Fintech",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1704737122,
+    "tags": [
+      "Documents",
+      "Artificial Intelligence",
+      "Insurance",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inquery-2",
+    "api": "https://yc-oss.github.io/api/batches/w24/inquery-2.json"
+  },
+  {
     "id": 29345,
     "name": "PandasAI",
     "slug": "pandasai",
@@ -20116,8 +20255,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3f9546e074addf8f9d38b3d1199ed7484573033.png",
     "website": "https://superagent.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superagent is an open-source platform for custom AI-agents that do web research. Companies use us to do better sales, marketing, and project management.\r\n\r\nThe agents can reason, browse the web, and access your files. It's open-source, and it's designed for everyone - not just AI experts.\r\n\r\n🥷 How do companies build their own AI-agents:\r\n- No coding or infrastructure needed: Customize AI-agents using simple markup.\r\n- Integration with Airtable: Ideal for business users.\r\n- API and SDKs: Embed AI-agents into any app or third-party system, e.g. Salesforce.\r\n\r\n🚀 By choosing Superagent, companies can:\r\n- Improve Sales: Gather detailed info about potential customers early on. Focus efforts on those most likely to buy, increasing success rates and saving time.\r\n- Personalize Marketing: Connect to CRMs to craft custom marketing messages. AI-agents analyze customer data to send offers that match their interests, boosting engagement and sales.\r\n- Stay Ahead of Competitors: Track what competitors are doing by analyzing market reports, web activity, and social media. Quickly adjust your strategies, find new market gaps, and offer better products.",
-    "one_liner": "Open-source AI-agents for doing web research",
+    "long_description": "Superagent uses AI to help businesses improve their compliance ✅\r\n\r\nFor employees:\r\n- 💬 Answers employee questions about compliance policies instantly.\r\n- 📚 Provides sources for all information.\r\n- 🔐 Gives compliance teams control over content.\r\n\r\nFor compliance managers:\r\n- 🔍 Identifies gaps between company procedures and compliance standards.\r\n- 🔄 Helps update procedures based on new standards or incidents.\r\n- 🔔 Monitors regulatory changes in your industry.",
+    "one_liner": "ChatGPT for Compliance",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -20127,8 +20266,9 @@
     "launched_at": 1701445003,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
+      "SaaS",
+      "Compliance",
+      "Regtech",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -20138,8 +20278,7 @@
     "batch": "W24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -21918,7 +22057,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "InspectMind AI is changing the game for people who build and design buildings by making it super easy to do their paperwork. Our tool uses AI to quickly turn videos and photos from construction sites into detailed, accurate and well formatted reports. What used to take days of typing and organizing now takes just minutes. With our app, workers can spend less time at their desks and more time doing the important stuff on site.",
     "one_liner": "Write Construction Inspections Reports using AI, up to 10x faster",
-    "team_size": 3,
+    "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": true,
@@ -22833,6 +22972,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/patchwork-technologies.json"
   },
   {
+    "id": 29644,
+    "name": "VideoGen",
+    "slug": "videogen",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67133b6c1025c9a5557fc657b87ed61ad2b540c5.png",
+    "website": "https://videogen.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Today, we serve thousands of customers, from individuals and small businesses to teams at Google and ByteDance.\r\n\r\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks!",
+    "one_liner": "Generate professional videos in seconds",
+    "team_size": 3,
+    "highlight_black": true,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1725431613,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "SaaS",
+      "Video"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/videogen",
+    "api": "https://yc-oss.github.io/api/batches/s24/videogen.json"
+  },
+  {
     "id": 29645,
     "name": "Phonely",
     "slug": "phonely",
@@ -23152,6 +23335,51 @@
     "api": "https://yc-oss.github.io/api/batches/s24/silurian.json"
   },
   {
+    "id": 29666,
+    "name": "Willow",
+    "slug": "willow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84cdb997c972cbab78ec7c78db702d1e6fb071bf.png",
+    "website": "https://seewillow.com/",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "Willow is an AI-powered revenue cycle management software. Starting with the intake and coding process for skilled nursing facilities, we maximize reimbursement by converting complex clinical paperwork into accurate diagnoses and ICD codes.\r\n \r\nWe built Willow after seeing how nursing homes struggle with revenue cycle challenges that result in lost revenue and claim denials. Traditional processes are outdated and prone to errors, with no solution tailored to the complexities of long-term care. Our AI-driven platform addresses this gap, simplifying operations and reducing costly mistakes so staff can focus on delivering quality patient care.\r\n \r\nOver $490 billion is spent annually on long-term care in the US. With the growing demand and increasing complexity of insurance billing, Willow ensures long-term care providers capture the full value of their services. ",
+    "one_liner": "AI-powered Revenue Cycle Management for Long-term Care",
+    "team_size": 4,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1724580560,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "B2B",
+      "Healthcare",
+      "Health Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/willow",
+    "api": "https://yc-oss.github.io/api/batches/s24/willow.json"
+  },
+  {
     "id": 29667,
     "name": "Rewbi",
     "slug": "rewbi",
@@ -23287,6 +23515,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/reworks",
     "api": "https://yc-oss.github.io/api/batches/s24/reworks.json"
+  },
+  {
+    "id": 29672,
+    "name": "DeepSim, Inc.",
+    "slug": "deepsim-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d741366d22aa79f5635aa8f89c9861f4d5b6afc3.png",
+    "website": "https://www.deepsim.io",
+    "all_locations": "Mountain View, CA, USA",
+    "long_description": "DeepSim is building an AI-accelerated 3D physics simulator that runs 1000X faster than existing FEM tools, speeding up complex simulations from days to minutes. DeepSim was founded by Stanford PhDs with expertise in thermal modeling of semiconductor devices & circuits, and GPU-accelerated solvers.\r\n",
+    "one_liner": "An AI physics simulator for AI chip design",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1723754775,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/deepsim-inc",
+    "api": "https://yc-oss.github.io/api/batches/s24/deepsim-inc.json"
   },
   {
     "id": 29673,
@@ -24436,6 +24709,55 @@
     "api": "https://yc-oss.github.io/api/batches/s24/brighterway.json"
   },
   {
+    "id": 29778,
+    "name": "Praxos",
+    "slug": "praxos",
+    "former_names": [
+      "Praxos Intelligence, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d35446ae117ad0a29d2185361444c5985f90b211.png",
+    "website": "https://www.praxos.ai",
+    "all_locations": "Miami, FL, USA; Remote",
+    "long_description": "Praxos allows insurance professionals to automate their operations—from filling out applications to crafting proposals and comparing coverages—in one place. This enables risk advisors to stand out and close more deals in an industry where service speed is critical, but mistakes are costly.",
+    "one_liner": "AI workbench for insurance teams",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1723170275,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "B2B",
+      "Compliance",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/praxos",
+    "api": "https://yc-oss.github.io/api/batches/s24/praxos.json"
+  },
+  {
     "id": 29780,
     "name": "Presti AI",
     "slug": "presti-ai",
@@ -24810,52 +25132,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/remo",
     "api": "https://yc-oss.github.io/api/batches/s24/remo.json"
-  },
-  {
-    "id": 29828,
-    "name": "Focus Buddy",
-    "slug": "focus-buddy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36badd071180ac2d70c72ca019989b6ecf1830ca.png",
-    "website": "https://www.focusbuddy.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reach out to us at founders@focusbuddy.ai\r\n\r\nFocus buddy is an AI productivity coach that stays on calls with you and help you accomplish your important work goals on a daily basis, even when you are struggling to focus.\r\n\r\nWe noticed that our users develop a productive relationship with Focus Buddy. Users stay on calls for multiple hours everyday where they depend on Focus Buddy to:\r\n• Avoid procrastination and get started: Address hidden anxieties, embrace imperfection, chunk tasks, kickstart with mini-goals, and use regular check-ins to maintain momentum.\r\n• Recover from distractions and stay focused: Focus Buddy detects when they are working on less important tasks or scrolling on social media, help them overcome the underlying concerns feeding the distraction, and help them get back to the important task\r\n• Manage stress and Prevent Burnout: Focus Buddy detects stress buildup, integrates mindfulness habits to the workflow, helps take short rejuvenating breaks, and stay composed.\r\n\r\nOur Initial ICP is people with ADHD who are highly motivated but also highly blocked by internal and environmental factors. In the future, we believe each worker should have their own personal coach that enforces proven productivity techniques in real time to help them extract more focused hours every day with the same effort. \r\n",
-    "one_liner": "AI Productivity Coach: Get work done when you are struggling to focus",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Consumer",
-    "subindustry": "Unspecified",
-    "launched_at": 1724988357,
-    "tags": [
-      "Artificial Intelligence",
-      "Productivity",
-      "Mental Health",
-      "Conversational AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Content"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/focus-buddy",
-    "api": "https://yc-oss.github.io/api/batches/s24/focus-buddy.json"
   },
   {
     "id": 29830,
@@ -25373,7 +25649,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b03e14b8a7d809f05b6579c758dc4fbbe6ff821.png",
     "website": "https://www.dreamrp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "DreamRP lets creators earn money by turning their characters into chatbots. For example, George R.R. Martin could charge fans to chat with a Jon Snow bot.",
+    "long_description": "DreamRP lets creators earn money by turning their characters into chatbots. For example, George R.R. Martin could charge fans to chat with a Jon Snow bot.\r\n\r\nAI roleplaying is ravenously popular, but no existing platform focuses on the most impactful component of the experience: the creators who make the characters. With a more ethical implementation of AI and the right creation and monetization features, DreamRP has unlocked AI roleplaying for the most talented and successful creators.",
     "one_liner": "Character AI meets Patreon",
     "team_size": 2,
     "highlight_black": false,

@@ -1068,7 +1068,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67c33e0e1229416643c3c04c56495e10ccaea0a.png",
     "website": "https://www.cheersreviews.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cheers is building the operating system for in-person businesses, bringing the seamless efficiency of an Apple Store to every local service. We're starting with NFC-enabled employee badges that solve immediate pain points: collecting reviews, attributing customer interactions, and tracking performance. Our customers 5-10x their monthly Google Reviews.\r\n\r\n\r\n\r\n- Imagine walking into any local business and experiencing the smoothness of an Apple Store: roaming checkouts, instant transactions, and personalized service - all from a tap on an employee's phone. That's the future we're creating. Our badges are the first step towards a fully integrated, frictionless system for in-person operations.\r\n\r\n\r\n\r\nMost tech ignores field workers. We're fixing that. We're digitizing all operations for local services - from home repairs to restaurants. Our vision: tap your phone anywhere to close a sale, leave a review, or verify service, making every interaction as smooth as buying the latest iPhone.\r\n\r\n\r\n\r\n- We have 30 paying customers, including one enterprise pilot. MRR grew from $1,400 to $4,750 in two months. We've processed over 3,000 reviews.\r\n\r\n\r\n\r\nFounded by Dylan Allen and Ernesto Valencia, CS grads from BYU with experience at Microsoft and Amazon. We're expanding into scheduling, payments, and full workforce management. Our goal: become the central platform for in-person work, serving millions of field employees and revolutionizing how local businesses operate.",
+    "long_description": "Cheers is building the operating system for in-person businesses, bringing the seamless efficiency of an Apple Store to every local service. We're starting with NFC-enabled employee badges that solve immediate pain points: collecting reviews, accepting payments, attributing customer interactions, and tracking performance. Our customers 5-10x their monthly Google Reviews.\r\n\r\n\r\n\r\n- Imagine walking into any local business and experiencing the smoothness of an Apple Store: roaming checkouts, instant transactions, and personalized service - all from a tap on an employee's phone. That's the future we're creating. Our badges are the first step towards a fully integrated, frictionless system for in-person operations.\r\n\r\n\r\n\r\nMost tech ignores field workers. We're fixing that. We're digitizing all operations for local services - from home repairs to restaurants. Our vision: tap your phone anywhere to close a sale, leave a review, or verify service, making every interaction as smooth as buying the latest iPhone.\r\n\r\n\r\n\r\n- We have over 30 paying customers, including one enterprise pilot. MRR grew from $1,400 to ~$5,000 in two months. We've processed over 3,000 reviews.\r\n\r\n\r\n\r\nFounded by Dylan Allen and Ernesto Valencia, CS grads from BYU with experience at Microsoft and Amazon. We're expanding into scheduling, payments, and full workforce management. Our goal: become the central platform for in-person work, serving millions of field employees and revolutionizing how local businesses operate.",
     "one_liner": "The super-app for in-person employee management",
     "team_size": 2,
     "highlight_black": false,
@@ -2168,6 +2168,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/clara.json"
   },
   {
+    "id": 29644,
+    "name": "VideoGen",
+    "slug": "videogen",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67133b6c1025c9a5557fc657b87ed61ad2b540c5.png",
+    "website": "https://videogen.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Today, we serve thousands of customers, from individuals and small businesses to teams at Google and ByteDance.\r\n\r\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks!",
+    "one_liner": "Generate professional videos in seconds",
+    "team_size": 3,
+    "highlight_black": true,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1725431613,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "SaaS",
+      "Video"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/videogen",
+    "api": "https://yc-oss.github.io/api/batches/s24/videogen.json"
+  },
+  {
     "id": 29645,
     "name": "Phonely",
     "slug": "phonely",
@@ -3011,7 +3055,7 @@
     "subindustry": "B2B",
     "launched_at": 1724580560,
     "tags": [
-      "Fintech",
+      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Healthcare",
@@ -3229,7 +3273,7 @@
     "website": "https://www.deepsim.io",
     "all_locations": "Mountain View, CA, USA",
     "long_description": "DeepSim is building an AI-accelerated 3D physics simulator that runs 1000X faster than existing FEM tools, speeding up complex simulations from days to minutes. DeepSim was founded by Stanford PhDs with expertise in thermal modeling of semiconductor devices & circuits, and GPU-accelerated solvers.\r\n",
-    "one_liner": "AI-accelerated multi-physics simulations",
+    "one_liner": "An AI physics simulator for AI chip design",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -3238,8 +3282,8 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1723754775,
     "tags": [
-      "B2B",
-      "AI"
+      "Artificial Intelligence",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6730,54 +6774,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/ember-robotics.json"
   },
   {
-    "id": 29769,
-    "name": "Pinnacle",
-    "slug": "pinnacle",
-    "former_names": [
-      "InsightForge"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b466ed207f7ecd72989b10237037b204765513f2.png",
-    "website": "https://trypinnacle.app/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Meet Pinnacle: The Future of SMS Marketing 📲\r\n\r\nPinnacle is the next generation of SMS marketing, created to overcome the design and engagement limitations of traditional SMS while still being in your native messaging apps on iOS and Android. We improve SMS marketing to drive higher ROI by providing businesses access to RCS Business Messaging (RBM) for rich, interactive content and branding like custom business headers, shoppable carousels, quick response buttons, and detailed analytics (including read receipts!). \r\n\r\nInterested in learning more? \r\n\r\nIf you or someone you know in e-commerce or at a marketing agency for e-commerce wants to increase sales with the next era of SMS marketing, reach out to us for a demo!\r\n\r\n- Email founders@trypinnacle.app OR\r\n- Text (870) 897 7103 OR\r\n- Book a 15 minute meeting: https://calendly.com/founders-at-pinnacle/discovery",
-    "one_liner": "Next Generation SMS Marketing",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1725406476,
-    "tags": [
-      "B2B",
-      "E-commerce",
-      "Marketing",
-      "SMS",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pinnacle",
-    "api": "https://yc-oss.github.io/api/batches/s24/pinnacle.json"
-  },
-  {
     "id": 29770,
     "name": "Intryc",
     "slug": "intryc",
@@ -7103,9 +7099,11 @@
     "subindustry": "B2B",
     "launched_at": 1723170275,
     "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "B2B",
       "Compliance",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7320,7 +7318,7 @@
     "website": "https://guardianrf.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Cost-Effective Drone Detection and Signal Intelligence for 21st- Century Peacekeeping. ",
-    "one_liner": "Context-specific drone detection and signal intel for US defense. ",
+    "one_liner": "Drone detection and signal intelligence for US defense. ",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -8052,7 +8050,7 @@
     "website": "https://zigma.io",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "We began with an open-source library for React developers that enables them to create beautiful and accessible interfaces (NextUI). We are now building a complete frontend-as-a-service platform to make building the frontend part of products easier, allowing teams to focus more on their product and less on design systems and frontend complexities (zigma.io).",
-    "one_liner": "Open-source design system creation & management platform.",
+    "one_liner": "Design system creation & management platform.",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": true,
@@ -9027,11 +9025,11 @@
     "subindustry": "Unspecified",
     "launched_at": 1724988357,
     "tags": [
-      "Artificial Intelligence",
+      "Consumer",
       "Productivity",
       "Mental Health",
-      "Conversational AI",
-      "AI Assistant"
+      "AI",
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11218,7 +11216,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b03e14b8a7d809f05b6579c758dc4fbbe6ff821.png",
     "website": "https://www.dreamrp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "DreamRP lets creators earn money by turning their characters into chatbots. For example, George R.R. Martin could charge fans to chat with a Jon Snow bot.",
+    "long_description": "DreamRP lets creators earn money by turning their characters into chatbots. For example, George R.R. Martin could charge fans to chat with a Jon Snow bot.\r\n\r\nAI roleplaying is ravenously popular, but no existing platform focuses on the most impactful component of the experience: the creators who make the characters. With a more ethical implementation of AI and the right creation and monetization features, DreamRP has unlocked AI roleplaying for the most talented and successful creators.",
     "one_liner": "Character AI meets Patreon",
     "team_size": 2,
     "highlight_black": false,

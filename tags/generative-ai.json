@@ -3057,7 +3057,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Productivity"
@@ -8734,10 +8734,10 @@
     "name": "phospho",
     "slug": "phospho",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25da999aa4a2fad3937c56ced9af091933f43a83.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18adb73f19cdc6d40006f80186b22f0d0a3b08ff.png",
     "website": "https://phospho.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Phospho is an open-source text analytics platform for LLM apps in production.\r\n\r\nCompanies like Quivr or Sudowrite use phospho to monitor interactions with their LLM app and take action.\r\n\r\nWe want to be the Datadog the LLM OS.  Text will be the main mean of communication between humans and computers, and also computers to computers. A tool is needed to analyze these flows in real time.",
+    "long_description": "Phospho is an open-source text analytics platform for LLM apps in production.\r\n\r\nCompanies like Quivr or Sudowrite use phospho to get answers, take decisions and reduce churn by mining user messages.\r\n\r\nUse phospho to:\r\n- cluster messages or chat sessions\r\n- get user analytics\r\n- setup no code text analytics (LLM detection, sentiment, classifiers,...)\r\n- iterate faster with AB tests\r\n- centralize all your transcripts in one place\r\n\r\nGet started in 3 minutes by uploading a CSV. Integrate the API when convinced.",
     "one_liner": "Open Source Text Analytics for LLM Apps",
     "team_size": 3,
     "highlight_black": false,
@@ -9706,6 +9706,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/flyflow.json"
   },
   {
+    "id": 29644,
+    "name": "VideoGen",
+    "slug": "videogen",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67133b6c1025c9a5557fc657b87ed61ad2b540c5.png",
+    "website": "https://videogen.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Today, we serve thousands of customers, from individuals and small businesses to teams at Google and ByteDance.\r\n\r\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks!",
+    "one_liner": "Generate professional videos in seconds",
+    "team_size": 3,
+    "highlight_black": true,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1725431613,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "SaaS",
+      "Video"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/videogen",
+    "api": "https://yc-oss.github.io/api/batches/s24/videogen.json"
+  },
+  {
     "id": 29653,
     "name": "ideate.xyz",
     "slug": "ideate-xyz",
@@ -10304,6 +10348,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/david-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/david-ai.json"
+  },
+  {
+    "id": 29778,
+    "name": "Praxos",
+    "slug": "praxos",
+    "former_names": [
+      "Praxos Intelligence, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d35446ae117ad0a29d2185361444c5985f90b211.png",
+    "website": "https://www.praxos.ai",
+    "all_locations": "Miami, FL, USA; Remote",
+    "long_description": "Praxos allows insurance professionals to automate their operations—from filling out applications to crafting proposals and comparing coverages—in one place. This enables risk advisors to stand out and close more deals in an industry where service speed is critical, but mistakes are costly.",
+    "one_liner": "AI workbench for insurance teams",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1723170275,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "B2B",
+      "Compliance",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/praxos",
+    "api": "https://yc-oss.github.io/api/batches/s24/praxos.json"
   },
   {
     "id": 29795,
@@ -11006,7 +11099,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b03e14b8a7d809f05b6579c758dc4fbbe6ff821.png",
     "website": "https://www.dreamrp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "DreamRP lets creators earn money by turning their characters into chatbots. For example, George R.R. Martin could charge fans to chat with a Jon Snow bot.",
+    "long_description": "DreamRP lets creators earn money by turning their characters into chatbots. For example, George R.R. Martin could charge fans to chat with a Jon Snow bot.\r\n\r\nAI roleplaying is ravenously popular, but no existing platform focuses on the most impactful component of the experience: the creators who make the characters. With a more ethical implementation of AI and the right creation and monetization features, DreamRP has unlocked AI roleplaying for the most talented and successful creators.",
     "one_liner": "Character AI meets Patreon",
     "team_size": 2,
     "highlight_black": false,
