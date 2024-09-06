@@ -5022,6 +5022,52 @@
     "api": "https://yc-oss.github.io/api/batches/s19/gen1e-lifesciences.json"
   },
   {
+    "id": 12632,
+    "name": "Zeta Surgical",
+    "slug": "z-imaging",
+    "former_names": [
+      "Z Imaging"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b3181948a04111f72b6532cb62225d18c9d0525.png",
+    "website": "http://zetasurgical.com",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "We develop surgical navigation and robotics tools to make minimally invasive surgeries easier, faster and more accessible.",
+    "one_liner": "Next-Generation Surgical Navigation and Robotics",
+    "team_size": 12,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Medical Devices",
+    "launched_at": 1556686578,
+    "tags": [
+      "Artificial Intelligence",
+      "Medical Robotics",
+      "Augmented Reality"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S19",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Medical Devices"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/z-imaging",
+    "api": "https://yc-oss.github.io/api/batches/s19/z-imaging.json"
+  },
+  {
     "id": 12638,
     "name": "Milo",
     "slug": "milo",
@@ -12571,7 +12617,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcaf96ff05ba04df3210e9778e22967b727fde37.png",
     "website": "https://mintplexlabs.com",
-    "all_locations": "Irvine, CA, USA; Remote",
+    "all_locations": "Irvine, CA, USA; Los Angeles, CA, USA; Remote",
     "long_description": "Mintplex Labs builds AnythingLLM, an all-in-one desktop AI application that handles everything an LLM should do to increase your productivity while remaining fully private. \r\n\r\nCurrent tools are:\r\nAnythingLLM (https://github.com/Mintplex-Labs/anything-llm)\r\nVectorAdmin (https://github.com/Mintplex-Labs/vector-admin)",
     "one_liner": "Building the all-in-one private desktop AI assistant",
     "team_size": 3,
@@ -13714,11 +13760,11 @@
       "JustPaid (Loopfour Inc)",
       "JustPaid"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4d3f38c1d243925fc15067d6f5cc3998e355140.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/21b9ea3d5a5ea0c78a84d34b37db9c9bd5a5212d.png",
     "website": "https://www.justpaid.io",
     "all_locations": "Mountain View, CA, USA; Remote",
     "long_description": "Imagine if ChatGPT had a baby with Quickbooks, that is what we are building at JustPaid.io … Also offering an AI accounts receivable agent, making sure you're collecting revenue on time.\r\n\r\nJustPaid.io is the AI financial automation invoicing and bill pay you wish you had earlier.\r\n\r\n- We are modernizing revenue collections for small and mid-size companies. We automate manual tasks and streamline workflows to unlock financial insights, invoice with AI, and accelerate the monthly close process. Are you a small or midsize business managing large amounts of monthly transactions? If you are we can help.\r\n\r\n- Within the platform, our AI-powered financial engine automates invoicing and bill pay. Collect from customers and pay bills on time.  📈\r\n\r\n- Using Stripe? Using Quickbooks, NetSuite, Bill.com or Brex? We plug right in and make things simple, performing an entire data sync free for new customers. Migrate from hard-to-use and legacy revenue software to JustPaid for your revenue and bill pay needs. \r\n\r\n- Need help? Email us at sales@justpaid.io and schedule a demo today.\r\n------\r\n\r\nOur values:\r\n\r\nWe are always asking ourselves, how can we make a company's team's life easier to help them scale through financial technology?\r\n\r\n- We don’t settle.\r\n- We are passionate.\r\n- We are serial entrepreneurs.\r\n\r\nWe aim to make a dent in the universe",
-    "one_liner": "AI accounts receivable agent",
+    "one_liner": "Delightful AI rev ops.",
     "team_size": 10,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -17323,7 +17369,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -19593,6 +19639,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/attunement",
     "api": "https://yc-oss.github.io/api/batches/w24/attunement.json"
+  },
+  {
+    "id": 29328,
+    "name": "Guide Labs",
+    "slug": "guide-labs",
+    "former_names": [
+      "Guide Labs Inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
+    "website": "https://www.guidelabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Guide labs, we build interpretable foundation models that can reliably explain their reasoning, and are easy to align. We provide access to these models via an API. Over the past 6 years, our team has built and deployed interpretable models at Meta, and Google. \r\n\r\nOur models provide explanations that:  \r\n1) provide human-understandable explanations, for each output token, \r\n2) which parts of the input (prompt) is most important for each part of the generated output, and 3) which inputs, in the training data, directly led to the model's generated output. \r\n\r\nBecause our models can explain their outputs, they are easier to debug, steer, and align. ",
+    "one_liner": "Interpretable foundation models that are easy to align",
+    "team_size": 2,
+    "highlight_black": true,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1709806941,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Machine Learning",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/guide-labs",
+    "api": "https://yc-oss.github.io/api/batches/w24/guide-labs.json"
   },
   {
     "id": 29330,
@@ -22834,6 +22928,52 @@
     "api": "https://yc-oss.github.io/api/batches/s24/hamming-ai.json"
   },
   {
+    "id": 29633,
+    "name": "Unsloth AI",
+    "slug": "unsloth-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/821f8850dee6e9f14ef87d19a86abcd55976c80c.png",
+    "website": "https://unsloth.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Unsloth helps builders create custom models better & faster. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 2 million monthly model downloads and 15K GitHub stars, our mission is to make fine-tuning and open-source the best it can be!",
+    "one_liner": "Open Source Fine-tuning & Training of LLMs",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1725425996,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Open Source",
+      "No-code",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unsloth-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/unsloth-ai.json"
+  },
+  {
     "id": 29636,
     "name": "Bayesline",
     "slug": "bayesline",
@@ -23289,52 +23429,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/decisional-ai.json"
   },
   {
-    "id": 29661,
-    "name": "Silurian",
-    "slug": "silurian",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/264e2c359db5aaec1e0417e61bfa018c5458c3dc.png",
-    "website": "https://silurian.ai/",
-    "all_locations": "",
-    "long_description": "Silurian is building foundation models for simulating Earth, starting with weather. From assessing the risk of wildfires to predicting the energy grid load, we provide an infrastructure layer for our planet. Our frontier models push the boundaries of what can be simulated on Earth and improve decision making across vital sectors including energy, insurance, agriculture, and logistics. \r\n",
-    "one_liner": "Foundation models to simulate Earth",
-    "team_size": 4,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Climate",
-    "launched_at": 1723594839,
-    "tags": [
-      "Artificial Intelligence",
-      "Climate",
-      "Insurance",
-      "Agriculture",
-      "Energy"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Climate"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/silurian",
-    "api": "https://yc-oss.github.io/api/batches/s24/silurian.json"
-  },
-  {
     "id": 29666,
     "name": "Willow",
     "slug": "willow",
@@ -23430,11 +23524,11 @@
     "name": "Proxis",
     "slug": "proxis",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58c309e9f0667689e728737a8880efae9b16e7d6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/986238fcd885c5d40b8767f600f089dc3fcdeeaf.png",
     "website": "https://www.proxis.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We bring the same technology optimizations that power ChatGPT and Gemini for low-cost inferences to Llama models with an easy to use API. \r\n\r\nWith one line of code change, developers can cut inference costs by up to 50% while still matching Llama 405b quality on complex queries. We achieve this through hardware specific kernel-level optimizations, combined with cascaded serving to dynamically run inferences on the most appropriate model architecture. \r\n\r\nWhile we work on ensuring API reliability and uptime, join our waitlist at proxis.ai.",
-    "one_liner": "The cheapest API for serving Llama models.",
+    "long_description": "Proxis is the first dedicated platform for LLM distillation and serving, unlocking production ready models at 1/10th the cost.\r\n\r\nFine-tuning frontier models like GPT-4 on proprietary data is expensive, and locks customers into one external closed source model provider. \r\n\r\nTo solve this, enterprise AI teams can use Proxis to distill state-of-the-art Llama 405b into an efficient model tuned on their own data, which is 5x faster and 10x cheaper than closed source alternatives.\r\n\r\nJackson (CTO) optimized the Gemini model at Google for efficient deployment at massive scale. Liam (CEO) built zero-to-one systems as a software engineer.",
+    "one_liner": "The platform for LLM distillation and serving.",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -23747,6 +23841,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tivara",
     "api": "https://yc-oss.github.io/api/batches/s24/tivara.json"
+  },
+  {
+    "id": 29692,
+    "name": "Weave Robotics",
+    "slug": "weave-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa1669fc77240d5b136ed7eb12c167327e93c7e8.png",
+    "website": "https://www.weaverobots.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Building the world’s first two-armed, mobile AI butler for the home.  We’re building the AI foundation models, software, and hardware that can work alongside you, host and entertain with you, tidy up, and eventually do anything a human helper could.",
+    "one_liner": "Butler robots for the home",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Industrials",
+    "subindustry": "Unspecified",
+    "launched_at": 1724225748,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Consumer Products",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/weave-robotics",
+    "api": "https://yc-oss.github.io/api/batches/s24/weave-robotics.json"
   },
   {
     "id": 29694,
@@ -24062,6 +24201,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fazeshift",
     "api": "https://yc-oss.github.io/api/batches/s24/fazeshift.json"
+  },
+  {
+    "id": 29721,
+    "name": "Panora",
+    "slug": "panora",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/10b041265670ef03fc794bc6300cf8eef692d02a.png",
+    "website": "https://panora.dev",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "",
+    "one_liner": "Open source integrations platform for the LLM era",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1715907913,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "API",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/panora",
+    "api": "https://yc-oss.github.io/api/batches/s24/panora.json"
   },
   {
     "id": 29724,
@@ -24942,6 +25128,51 @@
     "api": "https://yc-oss.github.io/api/batches/s24/zephr.json"
   },
   {
+    "id": 29801,
+    "name": "Rescript",
+    "slug": "rescript",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52d14c2c72f66c6805d933bc967187d7bfd4fbd9.png",
+    "website": "https://rescript.ai/",
+    "all_locations": "",
+    "long_description": "Rescript helps regulatory law and government relations teams automate and organize the never-ending process of keeping up to date with every regulatory and political development. \r\n\r\nOur AI-enabled software scans the web for news, writes detailed analysis of hearings and regulations, and helps teams manage all of their workstreams from one platform.\r\n\r\nFor more information, visit www.rescript.ai or contact our team at team@rescript.ai.",
+    "one_liner": "Regulatory and Policy Intelligence for Law and Government Relations",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1725406800,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Civic Tech",
+      "B2B",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rescript",
+    "api": "https://yc-oss.github.io/api/batches/s24/rescript.json"
+  },
+  {
     "id": 29808,
     "name": "Lumen Orbit",
     "slug": "lumen-orbit",
@@ -25649,7 +25880,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b03e14b8a7d809f05b6579c758dc4fbbe6ff821.png",
     "website": "https://www.dreamrp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "DreamRP lets creators earn money by turning their characters into chatbots. For example, George R.R. Martin could charge fans to chat with a Jon Snow bot.\r\n\r\nAI roleplaying is ravenously popular, but no existing platform focuses on the most impactful component of the experience: the creators who make the characters. With a more ethical implementation of AI and the right creation and monetization features, DreamRP has unlocked AI roleplaying for the most talented and successful creators.",
+    "long_description": "DreamRP lets creators earn money by turning their characters into chatbots. For example, George R.R. Martin could charge fans to chat with a Jon Snow bot.\r\n\r\nAI roleplaying is wildly popular, but no existing platform focuses on the most impactful component of the experience: the creators who make the characters. With a more ethical implementation of AI and the right creation and monetization features, DreamRP has unlocked AI roleplaying for the most talented and successful creators.",
     "one_liner": "Character AI meets Patreon",
     "team_size": 2,
     "highlight_black": false,

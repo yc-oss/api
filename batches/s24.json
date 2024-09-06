@@ -1799,6 +1799,52 @@
     "api": "https://yc-oss.github.io/api/batches/s24/codes-health.json"
   },
   {
+    "id": 29633,
+    "name": "Unsloth AI",
+    "slug": "unsloth-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/821f8850dee6e9f14ef87d19a86abcd55976c80c.png",
+    "website": "https://unsloth.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Unsloth helps builders create custom models better & faster. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 2 million monthly model downloads and 15K GitHub stars, our mission is to make fine-tuning and open-source the best it can be!",
+    "one_liner": "Open Source Fine-tuning & Training of LLMs",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1725425996,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Open Source",
+      "No-code",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unsloth-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/unsloth-ai.json"
+  },
+  {
     "id": 29635,
     "name": "DigitalCarbon",
     "slug": "digitalcarbon",
@@ -2917,11 +2963,11 @@
     "subindustry": "Industrials -> Climate",
     "launched_at": 1723594839,
     "tags": [
-      "Artificial Intelligence",
       "Climate",
       "Insurance",
       "Agriculture",
-      "Energy"
+      "Energy",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3133,11 +3179,11 @@
     "name": "Proxis",
     "slug": "proxis",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58c309e9f0667689e728737a8880efae9b16e7d6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/986238fcd885c5d40b8767f600f089dc3fcdeeaf.png",
     "website": "https://www.proxis.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We bring the same technology optimizations that power ChatGPT and Gemini for low-cost inferences to Llama models with an easy to use API. \r\n\r\nWith one line of code change, developers can cut inference costs by up to 50% while still matching Llama 405b quality on complex queries. We achieve this through hardware specific kernel-level optimizations, combined with cascaded serving to dynamically run inferences on the most appropriate model architecture. \r\n\r\nWhile we work on ensuring API reliability and uptime, join our waitlist at proxis.ai.",
-    "one_liner": "The cheapest API for serving Llama models.",
+    "long_description": "Proxis is the first dedicated platform for LLM distillation and serving, unlocking production ready models at 1/10th the cost.\r\n\r\nFine-tuning frontier models like GPT-4 on proprietary data is expensive, and locks customers into one external closed source model provider. \r\n\r\nTo solve this, enterprise AI teams can use Proxis to distill state-of-the-art Llama 405b into an efficient model tuned on their own data, which is 5x faster and 10x cheaper than closed source alternatives.\r\n\r\nJackson (CTO) optimized the Gemini model at Google for efficient deployment at massive scale. Liam (CEO) built zero-to-one systems as a software engineer.",
+    "one_liner": "The platform for LLM distillation and serving.",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -3177,7 +3223,10 @@
     "id": 29670,
     "name": "Zuni",
     "slug": "zuni",
-    "former_names": [],
+    "former_names": [
+      "Letterhead",
+      "Solarflare"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/742dc8fa59a27c4e2e104cec4505f34b79fbf1bb.png",
     "website": "https://zuni.app",
     "all_locations": "Remote",
@@ -3188,7 +3237,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1721689611,
     "tags": [
       "Generative AI",
@@ -4002,6 +4051,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tandem-2",
     "api": "https://yc-oss.github.io/api/batches/s24/tandem-2.json"
+  },
+  {
+    "id": 29692,
+    "name": "Weave Robotics",
+    "slug": "weave-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa1669fc77240d5b136ed7eb12c167327e93c7e8.png",
+    "website": "https://www.weaverobots.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Building the world’s first two-armed, mobile AI butler for the home.  We’re building the AI foundation models, software, and hardware that can work alongside you, host and entertain with you, tidy up, and eventually do anything a human helper could.",
+    "one_liner": "Butler robots for the home",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Industrials",
+    "subindustry": "Unspecified",
+    "launched_at": 1724225748,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Consumer Products",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/weave-robotics",
+    "api": "https://yc-oss.github.io/api/batches/s24/weave-robotics.json"
   },
   {
     "id": 29693,
@@ -5074,7 +5168,7 @@
     "website": "https://panora.dev",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "",
-    "one_liner": "A single API to add integrations to your product. Open Source.",
+    "one_liner": "Open source integrations platform for the LLM era",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -5083,11 +5177,11 @@
     "subindustry": "B2B",
     "launched_at": 1715907913,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6403,7 +6497,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62aeb4571c521c87b0ada043c51715a34d4054d4.png",
     "website": "https://beebettor.com",
     "all_locations": "",
-    "long_description": "BeeBettor is a platform for researching, analyzing, and selling sports betting data. On top of their day job, sports bettors spend hours every day picking the bets they want to make, often sharing that for free with their followers. They want to be compensated for their work, but existing solutions are fragmented. There is no easy way to create and distribute content to paying subscribers. BeeBettor combines our top-of-the-line research tool with built-in distribution, automating as much as possible for our creators.",
+    "long_description": "BeeBettor makes sports betting simple. Currently, sports bettors download more than 40 sports betting apps to get the full experience. At each one, they must go through a long KYC process. Then once their 40 accounts are active and funded, finding the best price is a painstaking process involving third-party tools to search available offers. BeeBettor aggregates all these accounts into one app and automatically gives sports bettors the best price.",
     "one_liner": "Robinhood for sports betting",
     "team_size": 2,
     "highlight_black": false,
@@ -6415,7 +6509,7 @@
     "tags": [
       "Sports Tech",
       "Consumer",
-      "Social"
+      "Consumer Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6774,6 +6868,54 @@
     "api": "https://yc-oss.github.io/api/batches/s24/ember-robotics.json"
   },
   {
+    "id": 29769,
+    "name": "Pinnacle",
+    "slug": "pinnacle",
+    "former_names": [
+      "InsightForge"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b466ed207f7ecd72989b10237037b204765513f2.png",
+    "website": "https://trypinnacle.app/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Meet Pinnacle: The Future of SMS Marketing 📲\r\n\r\nPinnacle is the next generation of SMS marketing, created to overcome the design and engagement limitations of traditional SMS while still being in your native messaging apps on iOS and Android. We improve SMS marketing to drive higher ROI by providing businesses access to RCS Business Messaging (RBM) for rich, interactive content and branding like custom business headers, shoppable carousels, quick response buttons, and detailed analytics (including read receipts!). \r\n\r\nInterested in learning more? \r\n\r\nIf you or someone you know in e-commerce or at a marketing agency for e-commerce wants to increase sales with the next era of SMS marketing, reach out to us for a demo!\r\n\r\n- Email founders@trypinnacle.app OR\r\n- Text (870) 897 7103 OR\r\n- Book a 15 minute meeting: https://calendly.com/founders-at-pinnacle/discovery",
+    "one_liner": "Next Generation SMS Marketing",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1725406476,
+    "tags": [
+      "B2B",
+      "Sales",
+      "E-commerce",
+      "Marketing",
+      "SMS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pinnacle",
+    "api": "https://yc-oss.github.io/api/batches/s24/pinnacle.json"
+  },
+  {
     "id": 29770,
     "name": "Intryc",
     "slug": "intryc",
@@ -6798,7 +6940,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -7821,8 +7963,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1708fa08344b75fc38d36f9effcf823a2fb93846.png",
     "website": "https://www.odo.do/",
     "all_locations": "New York, NY, USA",
-    "long_description": "State and local governments buy $1.5TN worth of products and services from businesses every year, ranging from consulting, constructions, to yes, cream cheese and bagels. However, the process of winning government contracts today is extremely manual and opaque. Businesses can’t easily find relevant contracts, spend 40-80 hours drafting proposals, and don’t get feedback on why they won or lost a contract.\r\n\r\n\r\nOdo is the first AI-powered platform to help businesses win state and local government contracts. Odo can find relevant contracts, draft proposals, and analyze wins and losses through public records sourcing. Our customers have saved up to 80% of time spent drafting proposals, and doubled their government sales pipeline.\r\n\r\n\r\nWith Odo, you can win more government contracts at a fraction of the cost.",
-    "one_liner": "Helping businesses find and win government contracts",
+    "long_description": "State and local governments buy $1.5TN worth of products and services from companies every year, ranging from consulting, constructions, to yes, cream cheese and bagels. However, the process of winning government contracts today is extremely fragmented, non-standardized, and time consuming. Companies can’t easily find relevant contracts, spend 40-80 hours drafting proposals, and don’t know why they won or lost a contract.\r\n\r\nOdo is the first AI-powered platform to help companies win state and local government contracts. Odo can find relevant contracts, draft proposals, and analyze wins and losses through public records sourcing. Our customers have saved up to 80% of time and doubled their government sales pipeline.\r\n\r\nWith Odo, you can win more government contracts at a fraction of the cost.",
+    "one_liner": "Help companies find and win government contracts with AI",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -8003,8 +8145,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e636a3e769f4147545c35c1b93dfab260ce92e8.png",
     "website": "https://tryhelium.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Helium uses AI to build better mobile upsell flows. \r\n\r\nGrowth teams use Helium's visual editor to create their in-app paywalls, then our ML system runs automated tests on messaging, experience, and pricing to drive conversion. \r\n\r\nFor example, a social app with 20M MAU uses Helium to test value propositions and pricing across dozens of countries.\r\n\r\nWe've earned $100M+ building AI conversion tools for Uber and Meta, and started Helium to help other companies do the same.",
-    "one_liner": "AI to build better upsell flows",
+    "long_description": "Helium's AI continuously experiments on monetization surfaces (signup, subscribe, upsell) to increase revenue. \r\n\r\nToday, growth teams use Helium's visual editor to create their in-app paywalls, then our ML system runs automated tests on messaging, experience, and pricing to drive conversion. \r\n\r\nFor example, a social app with 20M MAU uses Helium to generate and test in-app paywalls to get more users to subscribe to their paid offering. \r\n\r\nWe've earned $100M+ building AI conversion tools for Uber and Meta, and started Helium to help other companies do the same.",
+    "one_liner": "AI App Monetization ",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -8015,7 +8157,8 @@
     "tags": [
       "Developer Tools",
       "Machine Learning",
-      "DevOps"
+      "B2B",
+      "Subscriptions"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8105,11 +8248,11 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1725406800,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Civic Tech",
       "B2B",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9013,7 +9156,7 @@
     "slug": "focus-buddy",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36badd071180ac2d70c72ca019989b6ecf1830ca.png",
-    "website": "https://www.focusbuddy.ai/",
+    "website": "https://www.focusbuddy.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Reach out to us at founders@focusbuddy.ai\r\n\r\nFocus buddy is an AI productivity coach that stays on calls with you and help you accomplish your important work goals on a daily basis, even when you are struggling to focus.\r\n\r\nWe noticed that our users develop a productive relationship with Focus Buddy. Users stay on calls for multiple hours everyday where they depend on Focus Buddy to:\r\n• Avoid procrastination and get started: Address hidden anxieties, embrace imperfection, chunk tasks, kickstart with mini-goals, and use regular check-ins to maintain momentum.\r\n• Recover from distractions and stay focused: Focus Buddy detects when they are working on less important tasks or scrolling on social media, help them overcome the underlying concerns feeding the distraction, and help them get back to the important task\r\n• Manage stress and Prevent Burnout: Focus Buddy detects stress buildup, integrates mindfulness habits to the workflow, helps take short rejuvenating breaks, and stay composed.\r\n\r\nOur Initial ICP is people with ADHD who are highly motivated but also highly blocked by internal and environmental factors. In the future, we believe each worker should have their own personal coach that enforces proven productivity techniques in real time to help them extract more focused hours every day with the same effort. \r\n",
     "one_liner": "AI Productivity Coach: Get work done when you are struggling to focus",
@@ -10395,7 +10538,7 @@
     "website": "https://kart.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kart transforms the product discovery experience for the most innovative e-commerce companies. At a fraction of the cost and time, we build customized AI shopping assistants like Amazon Rufus, trained to answer any question on your catalog. ",
-    "one_liner": "Building personalized search for electronic products",
+    "one_liner": "The AI shopping assistant for all e-commerce brands",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -10613,6 +10756,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mica-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/mica-ai.json"
+  },
+  {
+    "id": 29967,
+    "name": "Village Labs",
+    "slug": "village-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b437f74d1da9b456b7203c06d57c8eae2c1fa858.png",
+    "website": "https://villagelabs.app/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "At Village Labs, we help America's businesses become employee owned by helping them set up and manage an employee stock ownership plan (ESOP). \r\n\r\nESOPs are a federal retirement plan that enable businesses to give their employees a stake in the company in exchange for significant tax benefits. \r\n\r\nWith 2.9M Baby Boomer business owners set to retire in the coming years, there's a growing \"Silver Tsunami\" of businesses across the country in search of new ownership. For many of these owners, selling to their employees is a socially-minded yet financially pragmatic solution.\r\n\r\nBy selling ownership of their business to an ESOP, owners get a fair price, tax benefits, and the satisfaction of knowing their employees and legacy will be taken care of — things not guaranteed with traditional buyers like private equity. In turn, employees retain their jobs and get shares in the business that can help them create life changing wealth by the time they retire — imagine an office secretary retiring as a millionaire. \r\n\r\nThousands of businesses across America like Bob's Red Mill, Harpoon Brewery, and Recology already have an ESOP, benefiting over 14 million workers and creating 2.1 trillion in employee wealth. We're excited about the opportunity to massively grow these numbers by making it simple for every business to become employee owned. \r\n",
+    "one_liner": "Helping America's businesses become employee owned",
+    "team_size": 2,
+    "highlight_black": true,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1725498040,
+    "tags": [
+      "Human Resources"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/village-labs",
+    "api": "https://yc-oss.github.io/api/batches/s24/village-labs.json"
   },
   {
     "id": 29968,
@@ -11216,7 +11401,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b03e14b8a7d809f05b6579c758dc4fbbe6ff821.png",
     "website": "https://www.dreamrp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "DreamRP lets creators earn money by turning their characters into chatbots. For example, George R.R. Martin could charge fans to chat with a Jon Snow bot.\r\n\r\nAI roleplaying is ravenously popular, but no existing platform focuses on the most impactful component of the experience: the creators who make the characters. With a more ethical implementation of AI and the right creation and monetization features, DreamRP has unlocked AI roleplaying for the most talented and successful creators.",
+    "long_description": "DreamRP lets creators earn money by turning their characters into chatbots. For example, George R.R. Martin could charge fans to chat with a Jon Snow bot.\r\n\r\nAI roleplaying is wildly popular, but no existing platform focuses on the most impactful component of the experience: the creators who make the characters. With a more ethical implementation of AI and the right creation and monetization features, DreamRP has unlocked AI roleplaying for the most talented and successful creators.",
     "one_liner": "Character AI meets Patreon",
     "team_size": 2,
     "highlight_black": false,
@@ -11274,7 +11459,8 @@
       "AIOps",
       "Developer Tools",
       "SaaS",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

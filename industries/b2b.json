@@ -55326,12 +55326,12 @@
     "name": "Rootly",
     "slug": "rootly",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/383c72955878b09af877eb182c076febb7ce76e8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a2564e596519346980eeb0db1c1545af7126b49.png",
     "website": "https://rootly.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "At Rootly, we are a mission to be the go-to way companies respond when things go wrong, helping every organization be more reliable. We do this by building an industry leading incident management platform that allows companies around the world consistently and quickly resolve incidents. We are not simply transforming an industry, we are carving an entirely new +$B segment ourselves and need incredible talent to achieve this ambitious goal together.\r\n\r\nCustomers love Rootly. Some of the fastest growing companies around the world such as NVIDIA, Figma, Canva, Tripadvisor, Squarespace and more rely on Rootly to power their critical incident management process. They obsess over our delightful enterprise-ready platform and unique partnership model.",
-    "one_liner": "Modern on-call and incident management",
-    "team_size": 52,
+    "long_description": "Rootly is a modern on-call and incident management platform used by top YC companies like Dropbox, Lattice, Webflow, Faire, but also Figma, LinkedIn, NVIDIA and 100s more.",
+    "one_liner": "Modern On-Call and Incident Management Platform",
+    "team_size": 60,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -55339,9 +55339,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1625761934,
     "tags": [
+      "AIOps",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "Security"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -85058,7 +85060,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -91040,7 +91042,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -92100,7 +92102,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Productivity"
@@ -95430,10 +95432,10 @@
     "subindustry": "B2B",
     "launched_at": 1709806941,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Machine Learning",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -96353,7 +96355,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -98563,8 +98565,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e52cdc0c1e4177276aba7fa2d8e4326d287620ca.png",
     "website": "https://retellai.com",
     "all_locations": "",
-    "long_description": "We help developers implement human-like voice agents in a day instead of months. Plug in your LLM, a voice agent is born!\r\n\r\nFrom AI-powered call agents to voice-enabled coaching apps and lifelike companions, we are your trusted ally in turning these visions into reality.\r\n\r\nAlthough Voice AI has been around for some time, it hasn't yet become effective enough for mainstream use, primarily because of poor user experience. Conversational flows often feel awkward with unnatural pauses and interruptions, requests are frequently misunderstood, and voices sound robotic or overly dramatic. On top of that, setting up such a Voice AI system can require upwards of 100 hours of frustrating development.\r\n\r\nBy offering a truly conversational, fast, and empathetic Voice AI that can be easily configured for any industry and integrated into any product, we aim to push the boundary of user-friendliness to a new level, reaching the threshold for mainstream adoption of Voice AI.\r\n\r\nWe are at a pivotal moment in history where Voice AI will become the primary interface for accessing products and services, revolutionizing our interactions with machines for the better.\r\n\r\nRetell AI is at the forefront of creating this new reality.",
-    "one_liner": "Infra for Building Conversational Voice AI",
+    "long_description": "The leading platform for building and managing AI voice agents that revolutionize contact center operations.",
+    "one_liner": "Supercharge Your Contact Center Operations with AI Phone Agents",
     "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -100740,6 +100742,52 @@
     "api": "https://yc-oss.github.io/api/batches/s24/entangl.json"
   },
   {
+    "id": 29633,
+    "name": "Unsloth AI",
+    "slug": "unsloth-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/821f8850dee6e9f14ef87d19a86abcd55976c80c.png",
+    "website": "https://unsloth.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Unsloth helps builders create custom models better & faster. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 2 million monthly model downloads and 15K GitHub stars, our mission is to make fine-tuning and open-source the best it can be!",
+    "one_liner": "Open Source Fine-tuning & Training of LLMs",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1725425996,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Open Source",
+      "No-code",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unsloth-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/unsloth-ai.json"
+  },
+  {
     "id": 29635,
     "name": "DigitalCarbon",
     "slug": "digitalcarbon",
@@ -101661,11 +101709,11 @@
     "name": "Proxis",
     "slug": "proxis",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58c309e9f0667689e728737a8880efae9b16e7d6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/986238fcd885c5d40b8767f600f089dc3fcdeeaf.png",
     "website": "https://www.proxis.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We bring the same technology optimizations that power ChatGPT and Gemini for low-cost inferences to Llama models with an easy to use API. \r\n\r\nWith one line of code change, developers can cut inference costs by up to 50% while still matching Llama 405b quality on complex queries. We achieve this through hardware specific kernel-level optimizations, combined with cascaded serving to dynamically run inferences on the most appropriate model architecture. \r\n\r\nWhile we work on ensuring API reliability and uptime, join our waitlist at proxis.ai.",
-    "one_liner": "The cheapest API for serving Llama models.",
+    "long_description": "Proxis is the first dedicated platform for LLM distillation and serving, unlocking production ready models at 1/10th the cost.\r\n\r\nFine-tuning frontier models like GPT-4 on proprietary data is expensive, and locks customers into one external closed source model provider. \r\n\r\nTo solve this, enterprise AI teams can use Proxis to distill state-of-the-art Llama 405b into an efficient model tuned on their own data, which is 5x faster and 10x cheaper than closed source alternatives.\r\n\r\nJackson (CTO) optimized the Gemini model at Google for efficient deployment at massive scale. Liam (CEO) built zero-to-one systems as a software engineer.",
+    "one_liner": "The platform for LLM distillation and serving.",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -101705,7 +101753,10 @@
     "id": 29670,
     "name": "Zuni",
     "slug": "zuni",
-    "former_names": [],
+    "former_names": [
+      "Letterhead",
+      "Solarflare"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/742dc8fa59a27c4e2e104cec4505f34b79fbf1bb.png",
     "website": "https://zuni.app",
     "all_locations": "Remote",
@@ -101716,7 +101767,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1721689611,
     "tags": [
       "Generative AI",
@@ -102997,7 +103048,7 @@
     "website": "https://panora.dev",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "",
-    "one_liner": "A single API to add integrations to your product. Open Source.",
+    "one_liner": "Open source integrations platform for the LLM era",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -103006,11 +103057,11 @@
     "subindustry": "B2B",
     "launched_at": 1715907913,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -104014,6 +104065,54 @@
     "api": "https://yc-oss.github.io/api/batches/s24/thunder-compute.json"
   },
   {
+    "id": 29769,
+    "name": "Pinnacle",
+    "slug": "pinnacle",
+    "former_names": [
+      "InsightForge"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b466ed207f7ecd72989b10237037b204765513f2.png",
+    "website": "https://trypinnacle.app/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Meet Pinnacle: The Future of SMS Marketing 📲\r\n\r\nPinnacle is the next generation of SMS marketing, created to overcome the design and engagement limitations of traditional SMS while still being in your native messaging apps on iOS and Android. We improve SMS marketing to drive higher ROI by providing businesses access to RCS Business Messaging (RBM) for rich, interactive content and branding like custom business headers, shoppable carousels, quick response buttons, and detailed analytics (including read receipts!). \r\n\r\nInterested in learning more? \r\n\r\nIf you or someone you know in e-commerce or at a marketing agency for e-commerce wants to increase sales with the next era of SMS marketing, reach out to us for a demo!\r\n\r\n- Email founders@trypinnacle.app OR\r\n- Text (870) 897 7103 OR\r\n- Book a 15 minute meeting: https://calendly.com/founders-at-pinnacle/discovery",
+    "one_liner": "Next Generation SMS Marketing",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1725406476,
+    "tags": [
+      "B2B",
+      "Sales",
+      "E-commerce",
+      "Marketing",
+      "SMS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pinnacle",
+    "api": "https://yc-oss.github.io/api/batches/s24/pinnacle.json"
+  },
+  {
     "id": 29770,
     "name": "Intryc",
     "slug": "intryc",
@@ -104038,7 +104137,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -104754,8 +104853,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e636a3e769f4147545c35c1b93dfab260ce92e8.png",
     "website": "https://tryhelium.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Helium uses AI to build better mobile upsell flows. \r\n\r\nGrowth teams use Helium's visual editor to create their in-app paywalls, then our ML system runs automated tests on messaging, experience, and pricing to drive conversion. \r\n\r\nFor example, a social app with 20M MAU uses Helium to test value propositions and pricing across dozens of countries.\r\n\r\nWe've earned $100M+ building AI conversion tools for Uber and Meta, and started Helium to help other companies do the same.",
-    "one_liner": "AI to build better upsell flows",
+    "long_description": "Helium's AI continuously experiments on monetization surfaces (signup, subscribe, upsell) to increase revenue. \r\n\r\nToday, growth teams use Helium's visual editor to create their in-app paywalls, then our ML system runs automated tests on messaging, experience, and pricing to drive conversion. \r\n\r\nFor example, a social app with 20M MAU uses Helium to generate and test in-app paywalls to get more users to subscribe to their paid offering. \r\n\r\nWe've earned $100M+ building AI conversion tools for Uber and Meta, and started Helium to help other companies do the same.",
+    "one_liner": "AI App Monetization ",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -104766,7 +104865,8 @@
     "tags": [
       "Developer Tools",
       "Machine Learning",
-      "DevOps"
+      "B2B",
+      "Subscriptions"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -104856,11 +104956,11 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1725406800,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Civic Tech",
       "B2B",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -106218,7 +106318,7 @@
     "website": "https://kart.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kart transforms the product discovery experience for the most innovative e-commerce companies. At a fraction of the cost and time, we build customized AI shopping assistants like Amazon Rufus, trained to answer any question on your catalog. ",
-    "one_liner": "Building personalized search for electronic products",
+    "one_liner": "The AI shopping assistant for all e-commerce brands",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -106392,6 +106492,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mica-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/mica-ai.json"
+  },
+  {
+    "id": 29967,
+    "name": "Village Labs",
+    "slug": "village-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b437f74d1da9b456b7203c06d57c8eae2c1fa858.png",
+    "website": "https://villagelabs.app/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "At Village Labs, we help America's businesses become employee owned by helping them set up and manage an employee stock ownership plan (ESOP). \r\n\r\nESOPs are a federal retirement plan that enable businesses to give their employees a stake in the company in exchange for significant tax benefits. \r\n\r\nWith 2.9M Baby Boomer business owners set to retire in the coming years, there's a growing \"Silver Tsunami\" of businesses across the country in search of new ownership. For many of these owners, selling to their employees is a socially-minded yet financially pragmatic solution.\r\n\r\nBy selling ownership of their business to an ESOP, owners get a fair price, tax benefits, and the satisfaction of knowing their employees and legacy will be taken care of — things not guaranteed with traditional buyers like private equity. In turn, employees retain their jobs and get shares in the business that can help them create life changing wealth by the time they retire — imagine an office secretary retiring as a millionaire. \r\n\r\nThousands of businesses across America like Bob's Red Mill, Harpoon Brewery, and Recology already have an ESOP, benefiting over 14 million workers and creating 2.1 trillion in employee wealth. We're excited about the opportunity to massively grow these numbers by making it simple for every business to become employee owned. \r\n",
+    "one_liner": "Helping America's businesses become employee owned",
+    "team_size": 2,
+    "highlight_black": true,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1725498040,
+    "tags": [
+      "Human Resources"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/village-labs",
+    "api": "https://yc-oss.github.io/api/batches/s24/village-labs.json"
   },
   {
     "id": 29968,
@@ -106875,7 +107017,8 @@
       "AIOps",
       "Developer Tools",
       "SaaS",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
