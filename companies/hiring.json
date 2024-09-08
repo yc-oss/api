@@ -15751,7 +15751,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51b9cb2b4a9873a75bbecddb957db0e52fd65b12.png",
     "website": "http://www.turingsaas.com",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; New York, NY, USA",
     "long_description": "Developing a consumer product like Dove is complex, time-consuming, and expensive; companies like Unilever analyzes millions of data points to develop a blockbuster consumer product. Turing makes this process 10x more efficient. Turing's AI harnesses the data from several sources and helps to make a better decision about product development 10x faster. ",
     "one_liner": "AI for R&D of consumer brands like P&G to develop better products",
     "team_size": 18,
@@ -15762,8 +15762,8 @@
     "subindustry": "B2B -> Retail",
     "launched_at": 1583715286,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15779,7 +15779,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -34980,7 +34980,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/027aebd8670e1f9af979f5faf2e16000e83da2c8.png",
     "website": "https://unify.ai",
-    "all_locations": "London, England, United Kingdom; Berlin, Berlin, Germany; Remote",
+    "all_locations": "London, England, United Kingdom; Remote",
     "long_description": "Unify is the central platform for optimized LLM deployment.\r\n\r\nWith a single API key and unified prompting syntax, Unify lets you call and benchmark all third-party LLM endpoint providers; find the endpoints that match your speed, latency and cost requirements; and automatically route any prompt to the best LLM using a global mixture-of-experts that's better, faster and cheaper than any individual model.\r\n\r\nStart routing now at unify.ai ✨",
     "one_liner": "Route Your Prompt to the Best LLM ✨",
     "team_size": 10,
@@ -35009,7 +35009,6 @@
     ],
     "regions": [
       "United Kingdom",
-      "Germany",
       "Europe",
       "Remote",
       "Fully Remote"
@@ -44095,8 +44094,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbc59b2ac835af41989059970e9ec6bbe3bfe2f0.png",
     "website": "https://www.anaphero.com/",
     "all_locations": "Austin, TX, USA",
-    "long_description": "We're on a mission to make healthcare more accessible and human with AI voice technology. Our platform enables health systems to automate clinical conversations, from phone triage to care advice to follow-ups.\r\n\r\nWe've developed proprietary natural language models tailored for healthcare, built on top of advanced speech AI and knowledge representation. Our goal is to relieve overburdened clinicians, improve care access, and help health systems thrive in a challenging economic climate.\r\n\r\nOur founding team brings together decades of experience across conversational AI, healthcare IT, and enterprise SaaS. We're backed by top healthcare VCs and have partnerships with several leading health systems.",
-    "one_liner": "Automating phone-based healthcare workflows",
+    "long_description": "We're on a mission to make healthcare more accessible and human with voice AI technology. Our platform enables healthcare organizations and their staff to automate phone-based workflows typically handled by humans. We partner with health care organizations to reduce their operational expense and eliminate administrative burden.\r\n\r\nOur founders bring a blend of clinical experience and technical expertise. Ryan is a Stanford/Harvard trained physician formerly on the founding team of Two Chairs and Ophelia (W20). Jeff formerly worked on voice AI at Amazon Alexa and ML projects at Citi/Salesforce.\r\n\r\nWe have incredible traction and a healthy pipeline of health systems to grow into. We are well funded and backed by top investors, including Y Combinator.",
+    "one_liner": "Automating voice-based healthcare workflows",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -44105,10 +44104,10 @@
     "subindustry": "Healthcare",
     "launched_at": 1709616757,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "Digital Health",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46098,6 +46097,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/taxgpt",
     "api": "https://yc-oss.github.io/api/batches/s24/taxgpt.json"
+  },
+  {
+    "id": 29732,
+    "name": "ReactWise",
+    "slug": "reactwise",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/426a30b70fda99424c435ff497b3865e72ad8b18.png",
+    "website": "https://www.reactwise.com/",
+    "all_locations": "",
+    "long_description": "Our Mission: \r\nWe aim to accelerate and automate chemical process development by equipping wet-lab chemists with the power of data-driven optimization and robotic execution of experiments.\r\n\r\nThe Problem: \r\nThe discovery of novel pharmaceuticals is one of our most important weapons in fighting disease. However, the drug development pipeline is often held up for many months during the design of chemical processes to manufacture these drugs at scale, delaying FDA trials and lengthening the time until drug launch. Designing chemical processes involves the identification of suitable parameters such as catalyst/temperature/solvent. Currently process development is often done via tedious trial and error experimentation (slow) or exhaustive screening (expensive and wasteful).\r\n\r\nOur Approach: \r\nIn our research we have developed algorithms for chemical process optimization which leverage transfer learning and Bayesian optimization. We validated the algorithms in the wet lab, showing an up to 95% reduction in experimental burden and cost when compared to exhaustive screening. We have made our approaches accessible to human experimentalists through our user-friendly no-code software platform, and to automated laboratory equipment with our API.\r\n\r\nOur Background: \r\nWe recently completed our PhDs in Machine Learning for Chemistry at the University of Cambridge. We built an automated lab to validate our optimization strategies during our studies, and are now working to accelerate and automate chemistry & biotech.",
+    "one_liner": "AI co-pilot for chemical reaction optimization",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1716931653,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reactwise",
+    "api": "https://yc-oss.github.io/api/batches/s24/reactwise.json"
   },
   {
     "id": 29735,
