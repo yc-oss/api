@@ -5628,6 +5628,52 @@
     "api": "https://yc-oss.github.io/api/batches/w22/emobi.json"
   },
   {
+    "id": 25635,
+    "name": "SkyLink",
+    "slug": "skylink",
+    "former_names": [
+      "earnJARVIS"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e8cb2f021ba1541f2a0f502e119d294cbd78b4ba.png",
+    "website": "http://www.tryskylink.com",
+    "all_locations": "New York, NY, USA; San Francisco, CA, USA",
+    "long_description": "SkyLink is transforming corporate travel into a hassle-free, efficient experience. By integrating advanced route optimization and reducing the need for traditional travel agents, we're not only saving companies millions but also simplifying the travel process. \r\n\r\nWith SkyLink, employees can effortlessly book their travel, just like sending a Slack message. Trusted by leading global corporations, our platform acts as a pocket-sized travel agent, ensuring smart, cost-effective travel decisions and a smoother journey for everyone involved. \r\n\r\nSkyLink is where simplicity meets innovation in corporate travel.",
+    "one_liner": "Travel Management Meets AI",
+    "team_size": 12,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1646778535,
+    "tags": [
+      "Travel",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/skylink",
+    "api": "https://yc-oss.github.io/api/batches/w22/skylink.json"
+  },
+  {
     "id": 25645,
     "name": "Power to the Brand",
     "slug": "power-to-the-brand",
@@ -7033,7 +7079,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/027aebd8670e1f9af979f5faf2e16000e83da2c8.png",
     "website": "https://unify.ai",
-    "all_locations": "London, England, United Kingdom; Remote",
+    "all_locations": "London, England, United Kingdom; Berlin, Berlin, Germany; Remote",
     "long_description": "Unify is the central platform for optimized LLM deployment.\r\n\r\nWith a single API key and unified prompting syntax, Unify lets you call and benchmark all third-party LLM endpoint providers; find the endpoints that match your speed, latency and cost requirements; and automatically route any prompt to the best LLM using a global mixture-of-experts that's better, faster and cheaper than any individual model.\r\n\r\nStart routing now at unify.ai ✨",
     "one_liner": "Route Your Prompt to the Best LLM ✨",
     "team_size": 10,
@@ -7062,6 +7108,7 @@
     ],
     "regions": [
       "United Kingdom",
+      "Germany",
       "Europe",
       "Remote",
       "Fully Remote"
@@ -14659,6 +14706,54 @@
     "api": "https://yc-oss.github.io/api/batches/s24/central.json"
   },
   {
+    "id": 29328,
+    "name": "Guide Labs",
+    "slug": "guide-labs",
+    "former_names": [
+      "Guide Labs Inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
+    "website": "https://www.guidelabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Guide labs, we build interpretable foundation models that can reliably explain their reasoning, and are easy to align. We provide access to these models via an API. Over the past 6 years, our team has built and deployed interpretable models at Meta, and Google. \r\n\r\nOur models provide explanations that:  \r\n1) provide human-understandable explanations, for each output token, \r\n2) which parts of the input (prompt) is most important for each part of the generated output, and \r\n3) which inputs, in the training data, directly led to the model's generated output. \r\n\r\nBecause our models can explain their outputs, they are easier to debug, steer, and align. ",
+    "one_liner": "Interpretable foundation models that are easy to steer and understand",
+    "team_size": 2,
+    "highlight_black": true,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1709806941,
+    "tags": [
+      "Generative AI",
+      "Machine Learning",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/guide-labs",
+    "api": "https://yc-oss.github.io/api/batches/w24/guide-labs.json"
+  },
+  {
     "id": 29345,
     "name": "PandasAI",
     "slug": "pandasai",
@@ -17486,52 +17581,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/networkocean.json"
   },
   {
-    "id": 29665,
-    "name": "Aviary",
-    "slug": "aviary",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f47ea21942c532bab77414bc94063db0814528ae.png",
-    "website": "https://aviaryhq.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aviary is a new AI-based video search software, that makes searching through millions of videos easy. We are currently working with some of the world's largest content providers to make their video collections searchable, automatically.\r\n\r\nThe founding team comes from Snapchat, Notion, Pinterest, CMU, University of Toronto, with extensive background in multimodal machine learning and in building search systems at scale.",
-    "one_liner": "AI-based video search for large video collections.",
-    "team_size": 4,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1723146818,
-    "tags": [
-      "Video",
-      "Media",
-      "Search",
-      "AI",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aviary",
-    "api": "https://yc-oss.github.io/api/batches/s24/aviary.json"
-  },
-  {
     "id": 29667,
     "name": "Rewbi",
     "slug": "rewbi",
@@ -17761,6 +17810,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/neuralize",
     "api": "https://yc-oss.github.io/api/batches/s24/neuralize.json"
+  },
+  {
+    "id": 29683,
+    "name": "CodeViz",
+    "slug": "codeviz",
+    "former_names": [
+      "Edison Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b3886b4eeec86b01eb6eb8ba6e07dd24f7af701.png",
+    "website": "https://www.codeviz.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "CodeViz creates interactive diagrams of codebases to help engineers quickly understand and navigate code.\r\n\r\nAdopted by engineers at Amazon, Microsoft, and Roblox, CodeViz was founded by two ex-Tesla engineers to tackle the 70% of development time lost to reading code. Download today at https://codeviz.ai",
+    "one_liner": "We build codebase maps for developers",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1723607809,
+    "tags": [
+      "Developer Tools",
+      "Productivity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/codeviz",
+    "api": "https://yc-oss.github.io/api/batches/s24/codeviz.json"
   },
   {
     "id": 29684,
@@ -18638,6 +18733,51 @@
     "api": "https://yc-oss.github.io/api/batches/s24/deepsilicon.json"
   },
   {
+    "id": 29748,
+    "name": "Seals AI",
+    "slug": "seals-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfde4ebc7296b1d61f754907f5cf5a9a1f8fe26d.png",
+    "website": "https://www.hireseals.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Seals is a suite of AI Employees for Wholesalers. Instead of relying on humans to quote, take orders, collect payments, and enter data into ERPs. We build AI Employees that do these manual repetitive tasks for the 700k wholesalers in the US.\r\n\r\nWe’re a team of three CS majors, and Fernando launched and grew AT&T in Mexico to $120M ARR. Previously, we all worked together at our last YC-backed startup, building it to over $6M in revenue. It was there that we placed thousands of purchase orders with wholesalers.\r\n\r\nWe realized that almost every physical product comes from B2B sales in the supply chain. However, it turns out that most of these operations are still done manually through phone and email, involving tasks like quoting, taking orders, collecting payments, entering data into ERPs, and providing support. By automating these tasks with AI agents in a human-like manner, we are creating a massive opportunity to convert $100B of payroll expenses into software spending.\r\n",
+    "one_liner": "AI Employees for Wholesalers",
+    "team_size": 4,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1725683549,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/seals-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/seals-ai.json"
+  },
+  {
     "id": 29750,
     "name": "Asterisk",
     "slug": "asterisk",
@@ -18826,6 +18966,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/distro",
     "api": "https://yc-oss.github.io/api/batches/s24/distro.json"
+  },
+  {
+    "id": 29762,
+    "name": "Remade",
+    "slug": "remade",
+    "former_names": [
+      "Pheat AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54349afe229386963a0d97273557dd9db8219ab7.png",
+    "website": "https://www.remade.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Remade uses AI to create studio-quality videos. For example, ScentBird, a fragrance subscription service, uses Remade to create TikTok ad hooks and increase conversion.\r\n\r\nTraditional videography is labour-intensive, slow, and expensive. Enterprises spend thousands on it, while smaller businesses often can't afford it. Remade reduces the cost of professional videos by 100x and cuts delivery time from weeks to 15 minutes. Using AI and social media data, we personalize content creation and optimize product ads. Our mission is to streamline visual content generation across multiple industries, making it faster and more accessible for businesses.",
+    "one_liner": "Automating Video Ad Workflows using AI",
+    "team_size": 4,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1721201298,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Social Media",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/remade",
+    "api": "https://yc-oss.github.io/api/batches/s24/remade.json"
   },
   {
     "id": 29767,
