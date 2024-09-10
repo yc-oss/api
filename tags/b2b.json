@@ -13449,7 +13449,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -25876,7 +25876,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -33209,7 +33209,9 @@
     "id": 27967,
     "name": "Echo",
     "slug": "echo",
-    "former_names": [],
+    "former_names": [
+      "Tailorr"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6dfed4b4cf59bce811964c28ffcffc1f374e33f.png",
     "website": "https://www.echothat.ai/",
     "all_locations": "Haifa, Haifa District, Israel",
@@ -36380,6 +36382,53 @@
     "api": "https://yc-oss.github.io/api/batches/s23/telophase.json"
   },
   {
+    "id": 28894,
+    "name": "Lysto AI",
+    "slug": "lysto-ai",
+    "former_names": [
+      "Bazaar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbb7d66ed2e644e988bdc285bd48dad9fd69c37a.png",
+    "website": "https://lysto.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Lysto is a task automation platform built for go-to-market (GTM) teams, designed to streamline workflows and reduce time spent on administrative tasks. By aggregating data from your video calls, emails, and other data sources like internal documents and product analytics, Lysto automates key GTM tasks such as updating CRM records, drafting personalized follow-up emails, and logging customer issues in tools like Slack or JIRA. Each task can be fully automated or flagged for final review in Lysto’s task inbox, providing both efficiency and oversight.",
+    "one_liner": "Task automation platform for GTM teams",
+    "team_size": 2,
+    "highlight_black": true,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1725912013,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Workflow Automation",
+      "Customer Success",
+      "Sales"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/lysto-ai",
+    "api": "https://yc-oss.github.io/api/batches/s23/lysto-ai.json"
+  },
+  {
     "id": 28896,
     "name": "GovernGPT",
     "slug": "governgpt",
@@ -38206,52 +38255,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dgi-apparel",
     "api": "https://yc-oss.github.io/api/batches/w24/dgi-apparel.json"
-  },
-  {
-    "id": 29274,
-    "name": "DaLMatian",
-    "slug": "dalmatian",
-    "former_names": [
-      "DaLMatian.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cdfcbfc93d22e1c4e40641eca07bfbde1aee908.png",
-    "website": "https://www.dalmatian.ai/",
-    "all_locations": "",
-    "long_description": "DaLMatian is the first autonomous AI data analyst. We're building a multi-step reasoning agent that combines text-to-sql, segmentation, anomaly detection, and other tools to help decision makers generate more revenue.\r\n\r\nFounded by three friends who met in undergrad at Princeton, our experience includes AI at Google Research, engineering at Google & Duolingo, quant trading at Virtu, and analytics at Riskified.",
-    "one_liner": "The first autonomous AI data analyst agent",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1705255239,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "B2B",
-      "Analytics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dalmatian",
-    "api": "https://yc-oss.github.io/api/batches/w24/dalmatian.json"
   },
   {
     "id": 29276,
@@ -41794,7 +41797,7 @@
     "website": "https://www.gotabular.de/en/",
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "Tabular uses AI to automate the core workflows of accounting firms, starting in Europe. We generate finished ledger entries that users export with just one click. This involves tasks like classifying documents, determining VAT filings and selecting the correct booking accounts.",
-    "one_liner": "AI Autopilot for Accounting Firms",
+    "one_liner": "AI Copilot for Accounting Firms",
     "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -42762,7 +42765,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5e884dc3712bac23843cd1a536f9b8735d8c51e.png",
     "website": "https://tryparity.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building an AI SRE for incident response. Parity is the first line of defense for on-call engineers working with Kubernetes - it autonomously triages, root causes, and heals your cluster.",
+    "long_description": "We’re the world's first AI SRE. Parity is the first line of defense for on-call engineers working with Kubernetes - it autonomously triages, root causes, and heals your cloud infrastructure.",
     "one_liner": "The World's First AI SRE",
     "team_size": 3,
     "highlight_black": false,
@@ -42772,11 +42775,11 @@
     "subindustry": "B2B",
     "launched_at": 1723073466,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Kubernetes",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43271,7 +43274,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfde4ebc7296b1d61f754907f5cf5a9a1f8fe26d.png",
     "website": "https://www.hireseals.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Seals is a suite of AI Employees for Wholesalers. Instead of relying on humans to quote, take orders, collect payments, and enter data into ERPs. We build AI Employees that do these manual repetitive tasks for the 700k wholesalers in the US.\r\n\r\nWe’re a team of three CS majors, and Fernando launched and grew AT&T in Mexico to $120M ARR. Previously, we all worked together at our last YC-backed startup, building it to over $6M in revenue. It was there that we placed thousands of purchase orders with wholesalers.\r\n\r\nWe realized that almost every physical product comes from B2B sales in the supply chain. However, it turns out that most of these operations are still done manually through phone and email, involving tasks like quoting, taking orders, collecting payments, entering data into ERPs, and providing support. By automating these tasks with AI agents in a human-like manner, we are creating a massive opportunity to convert $100B of payroll expenses into software spending.\r\n",
+    "long_description": "Seals is a suite of AI Employees for Wholesalers. Instead of relying on humans to quote, take orders, collect payments, and enter data into ERPs. We build AI Employees that do these manual repetitive tasks for the 700k wholesalers in the US.\r\n\r\nWe’re a team of three Computer Science majors, and Fernando launched and grew AT&T in Mexico to $120M ARR. Previously, we all worked together at our last YC-backed startup, building it to over $6M in revenue. It was there that we placed thousands of purchase orders with wholesalers.\r\n\r\nWe realized that almost every physical product comes from B2B sales in the supply chain. However, it turns out that most of these operations are still done manually through phone and email, involving tasks like quoting, taking orders, collecting payments, entering data into ERPs, and providing support. By automating these tasks with AI agents in a human-like manner, we are creating a massive opportunity to convert $100B of payroll expenses into software spending.\r\n",
     "one_liner": "AI Employees for Wholesalers",
     "team_size": 4,
     "highlight_black": false,
@@ -43281,9 +43284,9 @@
     "subindustry": "B2B",
     "launched_at": 1725683549,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43925,8 +43928,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/11645ef37cd7799ea7be4100a586ad214e99c619.png",
     "website": "https://www.lmnr.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Laminar is a platform that enables AI developers to rapidly iterate on LLM applications to ensure reliability. We do this by providing:\r\n\r\n- a GUI to build LLM applications as dynamic graphs with seamless local code interfacing. These graph pipelines can be directly hosted on our infrastructure and exposed as scalable API endpoints.\r\n- an open-source package to generate abstraction-free code from these graphs directly into developers' codebases.\r\n- a state-of-the art evaluation platform that lets users build fast and custom evaluators without managing evaluation infrastructure themselves.\r\n- a data management infrastructure with built-in support for vector search over datasets and files. Data can be easily ingested into LLMs and LLMs can write to the datasets directly, creating a self-improving data flywheel.\r\n- a low latency logging and observability infrastructure.\r\n\r\nLaminar combines orchestration, evaluations, data, and observability in a single platform to empower AI developers to ship reliable LLM applications 10x faster.",
-    "one_liner": "Open-source observability and analytics for complex LLM apps",
+    "long_description": "Laminar is an open-source platform which provides observability, text analytics, evals and prompt chain management for AI agent. \r\n\r\n",
+    "one_liner": "Open-source DataDog + PostHog for complex AI agents",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -43936,10 +43939,10 @@
     "launched_at": 1721337823,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43973,7 +43976,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19e3b27d7fc2671f257c71b7ed9aa25fcdef35bc.png",
     "website": "https://www.palmier.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Code repositories are built for humans to understand and collaborate on code. But soon, they’ll be used primarily by AIs working on our behalf. As this shift happens, the structure and processes around code must evolve.\r\n\r\nAt Palmier, we’re building a new kind of code repository designed for AIs. Every line of code has a history behind it, and we’re making that history accessible for AIs to create more efficient and reliable code.\r\n\r\nOur first product is a platform that helps developers work seamlessly with AI, improving efficiency. We aim to provide an API for any AI to interact with code, giving it the information needed to produce better quality code.\r\n\r\nReach out at founders@palmier.io",
+    "long_description": "Code repositories are built for humans to understand and collaborate on code. But soon, they’ll be used primarily by AIs working on our behalf. As this shift happens, the structure and processes around code must evolve.\r\n\r\nAt Palmier, we’re building a new kind of code repository designed for AIs. Every line of code has a history behind it, and we’re making that history accessible for AIs to create more efficient and reliable code, aligned with human intention.\r\n\r\nOur first product is a platform that helps developers work seamlessly with AI, improving efficiency. We aim to provide an API for any AI to interact with code, giving it the information needed to produce better quality code.\r\n\r\nReach out at founders@palmier.io",
     "one_liner": "AI Native Github Alternative",
     "team_size": 2,
     "highlight_black": false,
@@ -43983,10 +43986,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1724450208,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
