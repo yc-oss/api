@@ -4015,7 +4015,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W18",
     "status": "Active",
@@ -13753,12 +13753,12 @@
     "name": "Datrics",
     "slug": "datrics",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2736a45ba7e87a3fa5da7efc282830fc460c531b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/497093f34ecc13678b906d7569a6740cbcbb4952.png",
     "website": "https://datrics.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Datrics.ai transforms enterprise sales and finance operations with an AI-powered digital coworker, streamlining complex analyses into simple conversations. Imagine a bank CFO querying, 'How did our loan performance this quarter compare to the last?' and instantly receiving detailed, visual analyses directly via MS Teams chat. This revolutionizes tasks that were once time-consuming and complex.\r\n\r\nOur vision is to cultivate a vast ecosystem of digital coworkers, enabling businesses to harness the power of data-driven decisions effortlessly.\r\n\r\nAt the core of Datrics lies our unique low-code data workflow automation platform, designed to simplify data handling for digital analysts. This platform empowers analytics teams to dive into data exploration and blending, uncover insights, and create automated workflows and dashboards for sharing insights — all without the need for coding.\r\n\r\n\r\n\r\n",
-    "one_liner": "AI-powered 🤖 digital coworker for analytics",
-    "team_size": 15,
+    "one_liner": "A tool to create AI-powered 🤖 digital coworkers for BI and analytics.",
+    "team_size": 22,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -13786,7 +13786,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -19318,7 +19318,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -24826,7 +24826,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Supply Chain and Logistics"
@@ -29271,16 +29271,16 @@
   },
   {
     "id": 27190,
-    "name": "Abridge",
-    "slug": "abridge",
+    "name": "Sculpt",
+    "slug": "sculpt",
     "former_names": [
       "aBridge"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a4fc56b9a750bfcbbb0ff3b54d2124eb5d15cd.png",
-    "website": "https://www.abridge.dev/",
-    "all_locations": "Mumbai, MH, India; San Francisco, CA, USA",
-    "long_description": "Abridge is a digital freight forwarder for India. With Abridge, shippers (i.e. importers/exporters) can book freight, automate compliance documents, track shipments, and communicate with supply chain partners all in one place via Abridge's integrated online platform.\r\n\r\n90% of freight logistics companies (i.e. the current alternative for shippers) still follow largely manual processes. By automating these processes, Abridge is helping companies with logistics activity in India run the modern supply chain of the future.",
-    "one_liner": "Flexport for India",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aecbe7c9746a215c5988fc9a472c03bbcb3fec72.png",
+    "website": "https://www.sculptcosting.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Artificial Intelligence that converts manufacturing drawings into costing quotations in minutes, not weeks.",
+    "one_liner": "Fully automated should-cost analysis for precision manufacturers.",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -29289,10 +29289,9 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1657149913,
     "tags": [
-      "Digital Freight Brokerage",
       "B2B",
-      "Logistics",
-      "Supply Chain"
+      "Manufacturing",
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -29302,12 +29301,10 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Supply Chain and Logistics"
+      "Engineering, Product and Design"
     ],
     "regions": [
-      "India",
       "United States of America",
-      "South Asia",
       "America / Canada"
     ],
     "stage": "Early",
@@ -29315,8 +29312,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/abridge",
-    "api": "https://yc-oss.github.io/api/batches/s22/abridge.json"
+    "url": "https://www.ycombinator.com/companies/sculpt",
+    "api": "https://yc-oss.github.io/api/batches/s22/sculpt.json"
   },
   {
     "id": 27194,
@@ -39796,53 +39793,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/delve.json"
   },
   {
-    "id": 29390,
-    "name": "OffDeal",
-    "slug": "offdeal",
-    "former_names": [
-      "Sidekick Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23d3f5ab2e3955f14083478510c8a7ab18cb9f8f.png",
-    "website": "https://offdeal.io",
-    "all_locations": "New York, NY, USA",
-    "long_description": "OffDeal is building an AI-native investment bank for buying and selling small businesses. \r\n\r\nWe use custom AI agents and big data to screen thousands of SMBs each day, matching buyers with the perfect acquisition target in days instead of months. Unlike legacy M&A advisors, we can search for targets for hundreds of buyers concurrently, 24/7. \r\n\r\nWe are a full stack company and own the entire value chain - from first party SMB data and proprietary algorithms, to custom AI tooling and SMB relationships. Since we use AI to sell work, we make money through transaction fees - usually 2-3% of purchase price. \r\n\r\nWe’re excited to bring much needed innovation to an otherwise extremely archaic world of small business M&A 🙂\r\n",
-    "one_liner": "AI-native investment bank for buying SMBs",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1709626394,
-    "tags": [
-      "Fintech",
-      "Generative AI",
-      "B2B",
-      "SMB",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/offdeal",
-    "api": "https://yc-oss.github.io/api/batches/w24/offdeal.json"
-  },
-  {
     "id": 29391,
     "name": "Abel",
     "slug": "abel",
@@ -41517,7 +41467,7 @@
     "name": "ClaimSorted",
     "slug": "claimsorted",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9b3a44d48c18414e7f77179571fb859396060e1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84c63763f18d7ea0f559f538047cb3865f092ccc.png",
     "website": "https://claimsorted.com",
     "all_locations": "New York, NY, USA",
     "long_description": "ClaimSorted helps insurance companies remove the hassle of managing claims by enabling them to outsource their claim operations to us. This service is known as a Third Party Administrator (TPA). Unlike traditional TPAs, we blend AI and best-in-class experts to deliver a 5-star customer experience, minimise mistakes and speed up claim assessment.",
@@ -43079,6 +43029,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/focal-2.json"
   },
   {
+    "id": 29738,
+    "name": "Unriddle",
+    "slug": "unriddle",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a43d64da416cf83409cb2bda502d9ab9c88f7cb8.png",
+    "website": "https://www.unriddle.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Unriddle is a web app that helps industry and academic researchers read, write and organize research papers really quickly. We launched just over a year ago and today we have 1.4M users, including teams at Stanford University, Roche Pharmaceutical and Johns Hopkins.\r\n\r\nWe're using language models to help researchers quickly and deeply understand papers, write literature reviews, prepare citations, and keep the entire research team on the same page.\r\n\r\nAnalyzing key themes and gaps in a field usually means going through hundreds of research papers, which is both time-consuming and disorganized. Researchers also might struggle to understand a paper's importance when working across different disciplines without the necessary context.\r\n\r\nUnriddle understands the context behind your research. It synthesizes relevant findings, highlights connections between papers, and suggests related studies you might have missed.",
+    "one_liner": "Read, write and organize research papers faster.",
+    "team_size": 5,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1715615655,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "B2B",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unriddle",
+    "api": "https://yc-oss.github.io/api/batches/s24/unriddle.json"
+  },
+  {
     "id": 29739,
     "name": "Planbase",
     "slug": "planbase",
@@ -43365,7 +43359,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9d0d2f6b82ad16085947b8f50c8befcd9a6f3f7.png",
     "website": "https://asterisk.so",
     "all_locations": "",
-    "long_description": "Asterisk is an AI Hacker for Codebases. It automatically finds, verifies, and patches security vulnerabilities in your codebase, enabling continuous security checks without slowing down your development process.\r\n\r\nAsterisk can find business logic errors with context-aware scanning and automate the full auditing cycle to generate reports with near-zero false positives.",
+    "long_description": "Asterisk (asterisk.so) is an AI Hacker for Codebases. It automatically finds, verifies, and patches security vulnerabilities in your codebase, enabling continuous security checks without slowing down your development process.\r\n\r\nAsterisk can find business logic errors with context-aware scanning and automate the full auditing cycle to generate reports with near-zero false positives.",
     "one_liner": "AI-augmented security audits for modern development teams.",
     "team_size": 3,
     "highlight_black": false,
@@ -45034,7 +45028,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2ac264e6877792745759c5eec0d699fa373574f.png",
     "website": "https://patched.codes",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Patched is an open-source framework to automate code reviews, docs, and patches with AI.\r\n\r\n\r\nWe empower developers to build and deploy AI-assisted workflows that can autonomously complete repetitive, mundane tasks like documentation, code reviews, and security patching.\r\n\r\n\r\nPatched is the preferred option for privacy-conscious enterprises and engineer that want to leverage the best AI models for their development workflows without compromising security, control, or compliance.\r\n\r\n\r\n**What makes Patched different?**\r\n- Autonomous Automation: Unlike copilots that assist during active development, Patched runs in the background, managing tasks autonomously.\r\n- Code-Native Workflows: Flows can be built using visual editors or Python code.\r\n- Open-Source Flexibility: Allows running patchflows locally and integrating with preferred LLM API endpoints for enhanced privacy.\r\n- Control & Precision: Get full control over your workflows, overcoming limitations of non-deterministic agentic behaviors.",
+    "long_description": "Patched is an open-source framework to automate code reviews, docs, and patches with AI.\r\n\r\nWe empower developers to build and deploy AI-assisted workflows that can autonomously complete repetitive, mundane tasks like documentation, code reviews, and security patching.\r\n\r\nPatched is the preferred option for privacy-conscious enterprises and engineer that want to leverage the best AI models for their development workflows without compromising security, control, or compliance.\r\n\r\nWhat makes Patched different?\r\n- Autonomous Automation: Unlike copilots that assist during active development, Patched runs in the background, managing tasks autonomously.\r\n- Code-Native Workflows: Flows can be built using visual editors or Python code.\r\n- Open-Source Flexibility: Allows running patchflows locally and integrating with preferred LLM API endpoints for enhanced privacy.\r\n- Control & Precision: Get full control over your workflows, overcoming limitations of non-deterministic agentic behaviors.",
     "one_liner": "Open-source workflow automation for dev teams",
     "team_size": 2,
     "highlight_black": false,
@@ -45044,10 +45038,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1721263283,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -925,7 +925,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S19",
     "status": "Active",
@@ -6825,6 +6825,56 @@
     "api": "https://yc-oss.github.io/api/batches/s24/gauge.json"
   },
   {
+    "id": 29708,
+    "name": "Zenbase AI",
+    "slug": "zenbase-ai",
+    "former_names": [
+      "langjit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd54b637cf4e5d1842d0d06352abde6b7d388b51.png",
+    "website": "https://zenbase.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Zenbase automates prompt engineering and model selection so developers can focus on programming.\r\n\r\nWe’re core contributors of Stanford NLP’s DSPy, the #1 LLM optimization framework used by Meta, Microsoft, Google, and 40+ others.\r\n\r\nWe're building the production version.",
+    "one_liner": "Continuous prompt optimization for LLMs from DSPy core contributors",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1720735986,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zenbase-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/zenbase-ai.json"
+  },
+  {
     "id": 29721,
     "name": "Panora",
     "slug": "panora",
@@ -6929,7 +6979,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2ac264e6877792745759c5eec0d699fa373574f.png",
     "website": "https://patched.codes",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Patched is an open-source framework to automate code reviews, docs, and patches with AI.\r\n\r\n\r\nWe empower developers to build and deploy AI-assisted workflows that can autonomously complete repetitive, mundane tasks like documentation, code reviews, and security patching.\r\n\r\n\r\nPatched is the preferred option for privacy-conscious enterprises and engineer that want to leverage the best AI models for their development workflows without compromising security, control, or compliance.\r\n\r\n\r\n**What makes Patched different?**\r\n- Autonomous Automation: Unlike copilots that assist during active development, Patched runs in the background, managing tasks autonomously.\r\n- Code-Native Workflows: Flows can be built using visual editors or Python code.\r\n- Open-Source Flexibility: Allows running patchflows locally and integrating with preferred LLM API endpoints for enhanced privacy.\r\n- Control & Precision: Get full control over your workflows, overcoming limitations of non-deterministic agentic behaviors.",
+    "long_description": "Patched is an open-source framework to automate code reviews, docs, and patches with AI.\r\n\r\nWe empower developers to build and deploy AI-assisted workflows that can autonomously complete repetitive, mundane tasks like documentation, code reviews, and security patching.\r\n\r\nPatched is the preferred option for privacy-conscious enterprises and engineer that want to leverage the best AI models for their development workflows without compromising security, control, or compliance.\r\n\r\nWhat makes Patched different?\r\n- Autonomous Automation: Unlike copilots that assist during active development, Patched runs in the background, managing tasks autonomously.\r\n- Code-Native Workflows: Flows can be built using visual editors or Python code.\r\n- Open-Source Flexibility: Allows running patchflows locally and integrating with preferred LLM API endpoints for enhanced privacy.\r\n- Control & Precision: Get full control over your workflows, overcoming limitations of non-deterministic agentic behaviors.",
     "one_liner": "Open-source workflow automation for dev teams",
     "team_size": 2,
     "highlight_black": false,
@@ -6939,10 +6989,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1721263283,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

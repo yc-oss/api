@@ -1043,7 +1043,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Industrials",
       "Manufacturing and Robotics"
@@ -1664,7 +1664,7 @@
     "name": "ClaimSorted",
     "slug": "claimsorted",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9b3a44d48c18414e7f77179571fb859396060e1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84c63763f18d7ea0f559f538047cb3865f092ccc.png",
     "website": "https://claimsorted.com",
     "all_locations": "New York, NY, USA",
     "long_description": "ClaimSorted helps insurance companies remove the hassle of managing claims by enabling them to outsource their claim operations to us. This service is known as a Third Party Administrator (TPA). Unlike traditional TPAs, we blend AI and best-in-class experts to deliver a 5-star customer experience, minimise mistakes and speed up claim assessment.",
@@ -2952,7 +2952,7 @@
     "website": "https://www.usekura.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kura is an intelligent copilot that helps software teams build more quickly and confidently on the cloud. Kura integrates directly with services like AWS to help provision infrastructure, respond to incidents, and search over complex cloud systems.",
-    "one_liner": "The AI DevOps Copilot",
+    "one_liner": "The AI DevOps Copilot for Software Teams",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -3963,6 +3963,52 @@
     "api": "https://yc-oss.github.io/api/batches/s24/minusx.json"
   },
   {
+    "id": 29688,
+    "name": "camfer",
+    "slug": "camfer",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ba0416db5787652b7ee49418b79794a3841c659.png",
+    "website": "https://www.camfer.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building the first AI mechanical engineer that collaborates with humans to do design tasks end-to-end. Human engineers can talk to Camfer to build, test, and iterate 3D designs natively on CAD platforms.",
+    "one_liner": "Building the world’s first Al mechanical engineer.",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1726008426,
+    "tags": [
+      "Generative AI",
+      "Hardware",
+      "Productivity",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/camfer",
+    "api": "https://yc-oss.github.io/api/batches/s24/camfer.json"
+  },
+  {
     "id": 29689,
     "name": "Tivara",
     "slug": "tivara",
@@ -4767,9 +4813,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1720735986,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS"
+      "Generative AI",
+      "SaaS",
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5896,19 +5944,20 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a43d64da416cf83409cb2bda502d9ab9c88f7cb8.png",
     "website": "https://www.unriddle.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Unriddle is a research assistant that helps academics quickly find insights in scientific literature so they can write papers faster. We’re using language models to offload rote research tasks, speeding up the research process and freeing up more human capacity for higher reasoning and insight.\r\n\r\nSince launching a year ago, we’ve grown to over 1,000,000 users.\r\n\r\nAnd we’re proud to power research teams at top orgs like Roche Pharmaceutical, Stanford University, GSK, Johns Hopkins and MIT.",
-    "one_liner": "Read and write research papers faster.",
-    "team_size": 2,
+    "long_description": "Unriddle is a web app that helps industry and academic researchers read, write and organize research papers really quickly. We launched just over a year ago and today we have 1.4M users, including teams at Stanford University, Roche Pharmaceutical and Johns Hopkins.\r\n\r\nWe're using language models to help researchers quickly and deeply understand papers, write literature reviews, prepare citations, and keep the entire research team on the same page.\r\n\r\nAnalyzing key themes and gaps in a field usually means going through hundreds of research papers, which is both time-consuming and disorganized. Researchers also might struggle to understand a paper's importance when working across different disciplines without the necessary context.\r\n\r\nUnriddle understands the context behind your research. It synthesizes relevant findings, highlights connections between papers, and suggests related studies you might have missed.",
+    "one_liner": "Read, write and organize research papers faster.",
+    "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1715615655,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
-      "Productivity",
-      "AI"
+      "B2B",
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5917,7 +5966,7 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -6309,7 +6358,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9d0d2f6b82ad16085947b8f50c8befcd9a6f3f7.png",
     "website": "https://asterisk.so",
     "all_locations": "",
-    "long_description": "Asterisk is an AI Hacker for Codebases. It automatically finds, verifies, and patches security vulnerabilities in your codebase, enabling continuous security checks without slowing down your development process.\r\n\r\nAsterisk can find business logic errors with context-aware scanning and automate the full auditing cycle to generate reports with near-zero false positives.",
+    "long_description": "Asterisk (asterisk.so) is an AI Hacker for Codebases. It automatically finds, verifies, and patches security vulnerabilities in your codebase, enabling continuous security checks without slowing down your development process.\r\n\r\nAsterisk can find business logic errors with context-aware scanning and automate the full auditing cycle to generate reports with near-zero false positives.",
     "one_liner": "AI-augmented security audits for modern development teams.",
     "team_size": 3,
     "highlight_black": false,
@@ -8462,9 +8511,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2ad649a18852dafbb67750b37634ebaf5846cdc.png",
     "website": "https://www.meetthyme.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Online meetings are one of the main deliverables for financial advisors, but keeping track of insights, notes, and tasks during these meetings is challenging for advisors as they have to remain engaged in the call while writing down details.\r\n\r\nThyme solves this using transcription, summarization, document parsing, and seamless synchronization with the rest of the advisor stack, including Wealthbox and Redtail. \r\n\r\nOur users save hours each week and have much better notes that raise the quality of their client relationships.",
-    "one_liner": "Meeting intelligence for financial advisors.",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "There are 300k+ financial advisors in the US using a digital Rolodex to manage their client relationships, and it's time for a makeover.\r\n\r\nAt Thyme we are building the OS for financial advisors that allows them to automatically take notes in meetings (in-person, online, and phone calls), manage their client records with the help of AI, and offer a client portal where clients can track their assets, manage tasks, and even pay for their services. \r\n\r\nOur users have replaced their legacy CRMs and billing solutions with us while deepening their clients' relationships thanks to our client portal and AI tooling that puts rich context at their fingertips.",
+    "one_liner": "The OS for financial advisors",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": true,
@@ -8491,7 +8540,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11022,7 +11071,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2ac264e6877792745759c5eec0d699fa373574f.png",
     "website": "https://patched.codes",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Patched is an open-source framework to automate code reviews, docs, and patches with AI.\r\n\r\n\r\nWe empower developers to build and deploy AI-assisted workflows that can autonomously complete repetitive, mundane tasks like documentation, code reviews, and security patching.\r\n\r\n\r\nPatched is the preferred option for privacy-conscious enterprises and engineer that want to leverage the best AI models for their development workflows without compromising security, control, or compliance.\r\n\r\n\r\n**What makes Patched different?**\r\n- Autonomous Automation: Unlike copilots that assist during active development, Patched runs in the background, managing tasks autonomously.\r\n- Code-Native Workflows: Flows can be built using visual editors or Python code.\r\n- Open-Source Flexibility: Allows running patchflows locally and integrating with preferred LLM API endpoints for enhanced privacy.\r\n- Control & Precision: Get full control over your workflows, overcoming limitations of non-deterministic agentic behaviors.",
+    "long_description": "Patched is an open-source framework to automate code reviews, docs, and patches with AI.\r\n\r\nWe empower developers to build and deploy AI-assisted workflows that can autonomously complete repetitive, mundane tasks like documentation, code reviews, and security patching.\r\n\r\nPatched is the preferred option for privacy-conscious enterprises and engineer that want to leverage the best AI models for their development workflows without compromising security, control, or compliance.\r\n\r\nWhat makes Patched different?\r\n- Autonomous Automation: Unlike copilots that assist during active development, Patched runs in the background, managing tasks autonomously.\r\n- Code-Native Workflows: Flows can be built using visual editors or Python code.\r\n- Open-Source Flexibility: Allows running patchflows locally and integrating with preferred LLM API endpoints for enhanced privacy.\r\n- Control & Precision: Get full control over your workflows, overcoming limitations of non-deterministic agentic behaviors.",
     "one_liner": "Open-source workflow automation for dev teams",
     "team_size": 2,
     "highlight_black": false,
@@ -11032,10 +11081,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1721263283,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
