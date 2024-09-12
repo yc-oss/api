@@ -23118,7 +23118,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -25314,7 +25314,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -29146,7 +29146,7 @@
     "name": "Khoj",
     "slug": "khoj",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd6227d42ac8c50f126c05afb2c2cf0bc82af194.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34c0b5b2907cbf1aeb1fbc4283f0011a8b58c86b.png",
     "website": "https://khoj.dev/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Khoj is an open-source, personal AI application that helps you get answers to your questions, whether they be in your own notes or online. You can use it to get answers that are grounded in reality, references included. Rather than spending an hour researching collating information from different sources, have Khoj do it for you, easily and quickly. Khoj can also generate images and understand your voice via TTS, so you can work hands-free.\r\n\r\nWith our specialized agents, you can get deeper assistance on topics related to Health, Tutoring, Therapy, or something else altogether. \r\n\r\nBecause we're open-source, you can always choose to self-host Khoj on your own machine for more privacy.\r\n\r\nWe've previously built products for Cortana AI at Microsoft and scaled them from 0 to 20M daily active users.",
@@ -29159,9 +29159,9 @@
     "subindustry": "Consumer",
     "launched_at": 1689811773,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Consumer",
+      "Productivity",
       "Open Source",
       "AI Assistant"
     ],
@@ -29461,7 +29461,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0575a4d9f95080c1cee72f3e7a7286db03e66d7c.png",
     "website": "https://www.silimate.com",
-    "all_locations": "",
+    "all_locations": "Mountain View, CA, USA",
     "long_description": "Silimate is the co-pilot for chip designers; it finds functional bugs, predicts PPA issues, and recommends fixes in real-time alongside RTL development.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging to functional correctness and optimized PPA (power/performance/area). With Silimate, chip designers write correct, PPA-optimized RTL code from the onset and build better chips in less time.",
     "one_liner": "The co-pilot for chip designers",
     "team_size": 2,
@@ -29471,7 +29471,13 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1691095117,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
+      "Semiconductors",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -29483,7 +29489,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -31324,17 +31331,17 @@
   },
   {
     "id": 29387,
-    "name": "Overeasy",
-    "slug": "overeasy",
+    "name": "Cracked",
+    "slug": "cracked",
     "former_names": [
       "Dataneko",
       "Redshift AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41fcdace9655193105a65cfa80729247ef9f92c8.png",
-    "website": "https://overeasy.sh/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ded087babce97242696eae6d9e1933eb3c2a3cf5.png",
+    "website": "https://www.getcracked.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Overeasy is building IRIS, an AI agent that helps you automatically label your visual data with prompting. IRIS currently has state of the art performance on zero-shot detection for COCO and LVIS!",
-    "one_liner": "Go from idea to CV model 100x faster",
+    "long_description": "Accessible video creation.",
+    "one_liner": "AI Video Creation",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -31343,8 +31350,6 @@
     "subindustry": "B2B",
     "launched_at": 1722555710,
     "tags": [
-      "Computer Vision",
-      "Open Source",
       "AI"
     ],
     "tags_highlighted": [],
@@ -31365,8 +31370,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/overeasy",
-    "api": "https://yc-oss.github.io/api/batches/s24/overeasy.json"
+    "url": "https://www.ycombinator.com/companies/cracked",
+    "api": "https://yc-oss.github.io/api/batches/s24/cracked.json"
   },
   {
     "id": 29389,
@@ -31377,7 +31382,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4be701b5f2811f43798676a3f2def02a041095d2.png",
     "website": "https://www.getdelve.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Delve is the easiest way to get HIPAA & SOC 2 compliant.\r\n\r\nWe use AI to catch issues you can't and fix them before you can.\r\n\r\nBuilt for founders that move fast.\r\n\r\nLet's chat: https://cal.com/team/getdelve/demo",
     "one_liner": "HIPAA and SOC 2 in days, not months.",
     "team_size": 3,
@@ -31387,13 +31392,7 @@
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1704449902,
-    "tags": [
-      "SaaS",
-      "Health Tech",
-      "B2B",
-      "Compliance",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -31405,8 +31404,7 @@
       "Security"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -31882,7 +31880,7 @@
     "slug": "openmart",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3272f433169329e2ccdcfa2ff3d36c8a4d68ea88.png",
-    "website": "https://www.openmart.ai",
+    "website": "https://www.openmart.com",
     "all_locations": "",
     "long_description": "Openmart is an AI alternative to ZoomInfo that helps sales professionals query millions of unstructured business data like websites, reviews and socials. Kathryn and Richard met at Pinterest in 2019 and later both joined seed-stage startups. Richard developed LLM and AI agents before ChatGPT, while Kathryn led GTM and drove revenue growth from 0 to 1.",
     "one_liner": "AI alternative to ZoomInfo",
@@ -32923,8 +32921,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f47ea21942c532bab77414bc94063db0814528ae.png",
     "website": "https://aviaryhq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aviary is a new AI-based video search software, that makes searching through millions of videos easy. We are currently working with some of the world's largest content providers to make their video collections searchable, automatically.\r\n\r\nThe founding team comes from Snapchat, Notion, Pinterest, CMU, University of Toronto, with extensive background in multimodal machine learning and in building search systems at scale.",
-    "one_liner": "AI-based video search for large video collections.",
+    "long_description": "Aviary is a new AI-based video search software, that makes searching through and understanding millions of videos easy. We are currently working with some of the world's largest content providers to make their video collections searchable, automatically, and to help them understand their video data.\r\n\r\nThe founding team comes from Snapchat, Notion, Pinterest, CMU, University of Toronto, with extensive background in multimodal machine learning and in building search systems at scale.",
+    "one_liner": "AI-based video search and understanding on large video collections.",
     "team_size": 4,
     "highlight_black": false,
     "highlight_latinx": false,

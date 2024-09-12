@@ -214,7 +214,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S12",
     "status": "Active",
@@ -5293,7 +5293,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Reworkd, we're working on multimodal LLM agents that serve as the simplest way to extract web data at scale. Customers come to us with lists of 100s to 1000s of websites along with a data schema. Our agents traverse these websites, understand their structure, and generate code to extract data from them.\r\n\r\nWe've been working on LLM agents since their inception and have received over 30k stars on GitHub and 1M+ users across previous agent products. If you're interested in our pilot program, shoot us an email!",
     "one_liner": "The simplest way to extract web data at scale",
-    "team_size": 4,
+    "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -5663,7 +5663,7 @@
     "name": "Khoj",
     "slug": "khoj",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd6227d42ac8c50f126c05afb2c2cf0bc82af194.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34c0b5b2907cbf1aeb1fbc4283f0011a8b58c86b.png",
     "website": "https://khoj.dev/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Khoj is an open-source, personal AI application that helps you get answers to your questions, whether they be in your own notes or online. You can use it to get answers that are grounded in reality, references included. Rather than spending an hour researching collating information from different sources, have Khoj do it for you, easily and quickly. Khoj can also generate images and understand your voice via TTS, so you can work hands-free.\r\n\r\nWith our specialized agents, you can get deeper assistance on topics related to Health, Tutoring, Therapy, or something else altogether. \r\n\r\nBecause we're open-source, you can always choose to self-host Khoj on your own machine for more privacy.\r\n\r\nWe've previously built products for Cortana AI at Microsoft and scaled them from 0 to 20M daily active users.",
@@ -5676,9 +5676,9 @@
     "subindustry": "Consumer",
     "launched_at": 1689811773,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Consumer",
+      "Productivity",
       "Open Source",
       "AI Assistant"
     ],
@@ -6309,52 +6309,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/trieve",
     "api": "https://yc-oss.github.io/api/batches/w24/trieve.json"
-  },
-  {
-    "id": 29387,
-    "name": "Overeasy",
-    "slug": "overeasy",
-    "former_names": [
-      "Dataneko",
-      "Redshift AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41fcdace9655193105a65cfa80729247ef9f92c8.png",
-    "website": "https://overeasy.sh/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Overeasy is building IRIS, an AI agent that helps you automatically label your visual data with prompting. IRIS currently has state of the art performance on zero-shot detection for COCO and LVIS!",
-    "one_liner": "Go from idea to CV model 100x faster",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1722555710,
-    "tags": [
-      "Computer Vision",
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/overeasy",
-    "api": "https://yc-oss.github.io/api/batches/s24/overeasy.json"
   },
   {
     "id": 29433,

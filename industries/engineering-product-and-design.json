@@ -9890,7 +9890,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -15221,7 +15221,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -15583,9 +15583,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/820af679200d42ba6edf958ca36c54bfd8a7734c.png",
     "website": "https://shortloop.dev/",
     "all_locations": "Bengaluru, KA, India",
-    "long_description": "Replay production calls and voice datasets to improve your voice bots.",
-    "one_liner": "Automated Voice AI Tests",
-    "team_size": 3,
+    "long_description": "Task-specific VoiceBots for your outbound and inbound calls with prospects, customers, and workforce.",
+    "one_liner": "AI Phone Calls For Your Business",
+    "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -15593,10 +15593,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1677530662,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
+      "Generative AI",
       "SaaS",
-      "B2B",
-      "API"
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17632,7 +17633,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0575a4d9f95080c1cee72f3e7a7286db03e66d7c.png",
     "website": "https://www.silimate.com",
-    "all_locations": "",
+    "all_locations": "Mountain View, CA, USA",
     "long_description": "Silimate is the co-pilot for chip designers; it finds functional bugs, predicts PPA issues, and recommends fixes in real-time alongside RTL development.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging to functional correctness and optimized PPA (power/performance/area). With Silimate, chip designers write correct, PPA-optimized RTL code from the onset and build better chips in less time.",
     "one_liner": "The co-pilot for chip designers",
     "team_size": 2,
@@ -17642,7 +17643,13 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1691095117,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
+      "Semiconductors",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -17654,7 +17661,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -19019,6 +19027,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/keywords-ai",
     "api": "https://yc-oss.github.io/api/batches/w24/keywords-ai.json"
+  },
+  {
+    "id": 29330,
+    "name": "Speck",
+    "slug": "speck",
+    "former_names": [
+      "Glance"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3abedd30ff50727e295918adde3c699b0ec0c114.png",
+    "website": "https://paige.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Paige is an AI frontend engineer that helps developers iterate faster on websites. Our customers use us to save hours on slow frontend development.\r\n\r\nLucas built Sweep, an AI developer. Raghav won 7 hackathons with LLM agents.\r\n‎\r\nJoin our community: https://discord.gg/speck",
+    "one_liner": "Paige, an AI Frontend Engineer",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1705004448,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/speck",
+    "api": "https://yc-oss.github.io/api/batches/w24/speck.json"
   },
   {
     "id": 29334,
@@ -21731,8 +21786,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1bed1ef41abdcfa8093bce09a2bf9679884e218.png",
     "website": "https://vendra.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vendra uses AI to automate project management and information lookup when working with vendors and suppliers, letting hardware teams focus on building and shipping amazing products",
-    "one_liner": "AI vendor and project management for hardware teams",
+    "long_description": "Vendra uses AI to automate project management and information lookup when working with vendors and suppliers - all with no change to existing workflows - letting hardware teams focus on building and shipping amazing products",
+    "one_liner": "AI copilot for hardware teams working with vendors",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,

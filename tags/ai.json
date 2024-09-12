@@ -2130,8 +2130,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25b0dd2e6d40928386efa49045651d24ad82e60b.png",
     "website": "https://www.usemotion.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Motion uses artificial intelligence to optimize your and your team’s day. Motion takes all of your team projects, individual tasks, internal & external meetings, personal commitments…etc, and automatically builds one perfect schedule. When plans change, Motion automatically re-prioritizes your schedule, like a personal assistant. ",
-    "one_liner": "Automatically prioritize tasks for you and your team",
+    "long_description": "Double the world's productivity by automating project management and workflows, so people can focus on real work instead of busy work. ",
+    "one_liner": "Automate project management and business workflows.",
     "team_size": 30,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -3107,7 +3107,7 @@
     "website": "https://encord.com",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Encord is the leading data development platform for advanced vision and multimodal AI teams. We build tools and infrastructure to help the world's leading AI teams get their models into production faster - with data-centric model testing, human-centric workflow and annotation tools for labeling & RLHF, and data curation and management software. \r\n\r\nEncord is trusted by pioneering AI teams at Stanford Medicine, Mass General Brigham, Tractable, Viz AI, Iterative Health, the UHN, the Royal Navy, Veo, and many more global companies.",
-    "one_liner": "The data development platform for advanced AI teams",
+    "one_liner": "The data development platform for AI teams",
     "team_size": 70,
     "highlight_black": false,
     "highlight_latinx": true,
@@ -10680,7 +10680,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Reworkd, we're working on multimodal LLM agents that serve as the simplest way to extract web data at scale. Customers come to us with lists of 100s to 1000s of websites along with a data schema. Our agents traverse these websites, understand their structure, and generate code to extract data from them.\r\n\r\nWe've been working on LLM agents since their inception and have received over 30k stars on GitHub and 1M+ users across previous agent products. If you're interested in our pilot program, shoot us an email!",
     "one_liner": "The simplest way to extract web data at scale",
-    "team_size": 4,
+    "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -11854,6 +11854,53 @@
     "api": "https://yc-oss.github.io/api/batches/s23/vetrec.json"
   },
   {
+    "id": 28894,
+    "name": "Lysto AI",
+    "slug": "lysto-ai",
+    "former_names": [
+      "Bazaar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04048e20ad9f577bc3492f6e2f693d9acc9475d4.png",
+    "website": "https://lysto.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Lysto is a task automation platform built for go-to-market (GTM) teams, designed to streamline workflows and reduce time spent on administrative tasks. By aggregating data from your video calls, emails, and other data sources like internal documents and product analytics, Lysto automates key GTM tasks such as updating CRM records, drafting personalized follow-up emails, and logging customer issues in tools like Slack or JIRA. Each task can be fully automated or flagged for final review in Lysto’s task inbox, providing both efficiency and oversight.",
+    "one_liner": "Task automation platform for GTM teams",
+    "team_size": 2,
+    "highlight_black": true,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1725912013,
+    "tags": [
+      "B2B",
+      "Workflow Automation",
+      "Customer Success",
+      "Sales",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/lysto-ai",
+    "api": "https://yc-oss.github.io/api/batches/s23/lysto-ai.json"
+  },
+  {
     "id": 28896,
     "name": "GovernGPT",
     "slug": "governgpt",
@@ -12570,6 +12617,52 @@
     "api": "https://yc-oss.github.io/api/batches/s23/prodtrace.json"
   },
   {
+    "id": 29010,
+    "name": "Silimate",
+    "slug": "silimate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0575a4d9f95080c1cee72f3e7a7286db03e66d7c.png",
+    "website": "https://www.silimate.com",
+    "all_locations": "Mountain View, CA, USA",
+    "long_description": "Silimate is the co-pilot for chip designers; it finds functional bugs, predicts PPA issues, and recommends fixes in real-time alongside RTL development.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging to functional correctness and optimized PPA (power/performance/area). With Silimate, chip designers write correct, PPA-optimized RTL code from the onset and build better chips in less time.",
+    "one_liner": "The co-pilot for chip designers",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1691095117,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/silimate",
+    "api": "https://yc-oss.github.io/api/batches/s23/silimate.json"
+  },
+  {
     "id": 29018,
     "name": "sudocode",
     "slug": "sudocode",
@@ -12613,54 +12706,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sudocode",
     "api": "https://yc-oss.github.io/api/batches/s23/sudocode.json"
-  },
-  {
-    "id": 29040,
-    "name": "Inventive AI",
-    "slug": "inventive-ai",
-    "former_names": [
-      "Inventiv AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ca8dbe5acb1f1a068aec484d7a9083db2e81f55.png",
-    "website": "https://www.inventive.ai/",
-    "all_locations": "Mountain View, CA, USA",
-    "long_description": "At Inventive, our mission is to build intelligence that helps B2B sales teams win deals. \r\n\r\nOur AI platform assists sales teams in responding to and winning RFPs and sales questionnaires. With our tailored AI system & agents, the sales team can understand and extract essential sections from RFP documents, obtain AI-generated responses to RFP questions, and receive intelligent suggestions from meeting compliance requirements to outshining competitors. \r\n\r\nBy leveraging Inventive, sales teams can improve their efficiency by 70+%, and craft high-quality proposals that significantly enhance their chances of securing successful deals.\r\n\r\nBuilt by a customer-obsessed team comprising an ex-exec from a Fortune 500 company and engineers from Google & and Stanford. Backed by top Silicon Valley investors including YCombinator.",
-    "one_liner": "GenAI-First RFP & Sales Questionnaire Response Platform",
-    "team_size": 5,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1687811406,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "B2B",
-      "Sales",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inventive-ai",
-    "api": "https://yc-oss.github.io/api/batches/s23/inventive-ai.json"
   },
   {
     "id": 29046,
@@ -14708,6 +14753,53 @@
     "api": "https://yc-oss.github.io/api/batches/w24/guide-labs.json"
   },
   {
+    "id": 29330,
+    "name": "Speck",
+    "slug": "speck",
+    "former_names": [
+      "Glance"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3abedd30ff50727e295918adde3c699b0ec0c114.png",
+    "website": "https://paige.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Paige is an AI frontend engineer that helps developers iterate faster on websites. Our customers use us to save hours on slow frontend development.\r\n\r\nLucas built Sweep, an AI developer. Raghav won 7 hackathons with LLM agents.\r\n‎\r\nJoin our community: https://discord.gg/speck",
+    "one_liner": "Paige, an AI Frontend Engineer",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1705004448,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/speck",
+    "api": "https://yc-oss.github.io/api/batches/w24/speck.json"
+  },
+  {
     "id": 29345,
     "name": "PandasAI",
     "slug": "pandasai",
@@ -15366,17 +15458,17 @@
   },
   {
     "id": 29387,
-    "name": "Overeasy",
-    "slug": "overeasy",
+    "name": "Cracked",
+    "slug": "cracked",
     "former_names": [
       "Dataneko",
       "Redshift AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41fcdace9655193105a65cfa80729247ef9f92c8.png",
-    "website": "https://overeasy.sh/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ded087babce97242696eae6d9e1933eb3c2a3cf5.png",
+    "website": "https://www.getcracked.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Overeasy is building IRIS, an AI agent that helps you automatically label your visual data with prompting. IRIS currently has state of the art performance on zero-shot detection for COCO and LVIS!",
-    "one_liner": "Go from idea to CV model 100x faster",
+    "long_description": "Accessible video creation.",
+    "one_liner": "AI Video Creation",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -15385,8 +15477,6 @@
     "subindustry": "B2B",
     "launched_at": 1722555710,
     "tags": [
-      "Computer Vision",
-      "Open Source",
       "AI"
     ],
     "tags_highlighted": [],
@@ -15407,56 +15497,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/overeasy",
-    "api": "https://yc-oss.github.io/api/batches/s24/overeasy.json"
-  },
-  {
-    "id": 29389,
-    "name": "Delve",
-    "slug": "delve",
-    "former_names": [
-      "Sunona"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4be701b5f2811f43798676a3f2def02a041095d2.png",
-    "website": "https://www.getdelve.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Delve is the easiest way to get HIPAA & SOC 2 compliant.\r\n\r\nWe use AI to catch issues you can't and fix them before you can.\r\n\r\nBuilt for founders that move fast.\r\n\r\nLet's chat: https://cal.com/team/getdelve/demo",
-    "one_liner": "HIPAA and SOC 2 in days, not months.",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1704449902,
-    "tags": [
-      "SaaS",
-      "Health Tech",
-      "B2B",
-      "Compliance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/delve",
-    "api": "https://yc-oss.github.io/api/batches/w24/delve.json"
+    "url": "https://www.ycombinator.com/companies/cracked",
+    "api": "https://yc-oss.github.io/api/batches/s24/cracked.json"
   },
   {
     "id": 29397,
@@ -15692,7 +15734,7 @@
     "slug": "openmart",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3272f433169329e2ccdcfa2ff3d36c8a4d68ea88.png",
-    "website": "https://www.openmart.ai",
+    "website": "https://www.openmart.com",
     "all_locations": "",
     "long_description": "Openmart is an AI alternative to ZoomInfo that helps sales professionals query millions of unstructured business data like websites, reviews and socials. Kathryn and Richard met at Pinterest in 2019 and later both joined seed-stage startups. Richard developed LLM and AI agents before ChatGPT, while Kathryn led GTM and drove revenue growth from 0 to 1.",
     "one_liner": "AI alternative to ZoomInfo",
@@ -17303,6 +17345,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moonglow",
     "api": "https://yc-oss.github.io/api/batches/s24/moonglow.json"
+  },
+  {
+    "id": 29655,
+    "name": "Decisional AI",
+    "slug": "decisional-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c95777ae41d5fc39d9bb0a16dbc6c51ab22a81f7.png",
+    "website": "https://www.getdecisional.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Decisional is building an AI Financial Analyst for Equity Investors that pulls information from public and private data sources. Financial Services firms like LTV Capital use our AI Agent to gain superhuman abilities like gleaning insights from thousands of data rooms or documents & magically modelling spreadsheets in seconds",
+    "one_liner": "AI Agent that makes Financial Analysts superhuman",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Fintech",
+    "subindustry": "B2B",
+    "launched_at": 1723533013,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Finance",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/decisional-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/decisional-ai.json"
   },
   {
     "id": 29657,
@@ -19625,8 +19712,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1bed1ef41abdcfa8093bce09a2bf9679884e218.png",
     "website": "https://vendra.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vendra uses AI to automate project management and information lookup when working with vendors and suppliers, letting hardware teams focus on building and shipping amazing products",
-    "one_liner": "AI vendor and project management for hardware teams",
+    "long_description": "Vendra uses AI to automate project management and information lookup when working with vendors and suppliers - all with no change to existing workflows - letting hardware teams focus on building and shipping amazing products",
+    "one_liner": "AI copilot for hardware teams working with vendors",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -20430,54 +20517,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/patched.json"
   },
   {
-    "id": 29972,
-    "name": "Affil.ai",
-    "slug": "affil-ai",
-    "former_names": [
-      "Awardington"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/afaac0ba9fea3d823a798e81e6b89e28c34dbd0e.png",
-    "website": "https://affil.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Affil.ai helps financial companies monitor their affiliate marketing content so that they can expand marketing efforts & grow their revenue without compliance concerns. ",
-    "one_liner": "AI Compliance For Financial Affiliate Marketing",
-    "team_size": 2,
-    "highlight_black": true,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "Fintech",
-    "launched_at": 1724004001,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Compliance",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/affil-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/affil-ai.json"
-  },
-  {
     "id": 29977,
     "name": "Merlin AI",
     "slug": "merlin-ai",
@@ -20611,53 +20650,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kairo-health",
     "api": "https://yc-oss.github.io/api/batches/s24/kairo-health.json"
-  },
-  {
-    "id": 29983,
-    "name": "PathPilot",
-    "slug": "pathpilot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6768364915c3c8551c79d1fe59ba06f2cc7c2a5.png",
-    "website": "https://www.getpathpilot.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "PathPilot makes it easy to understand what your users are experiencing by extracting key highlights from hours of session replay videos.\r\n\r\n+ Quickly see how users interact with new features\r\n+ Uncover hidden UI issues\r\n+ Ensure smooth experiences for top customers\r\n+ Receive recommendations for UI improvements ",
-    "one_liner": "Turn Session Replays into Actionable Insights ",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": true,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1724891975,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "B2B",
-      "Customer Success",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pathpilot",
-    "api": "https://yc-oss.github.io/api/batches/s24/pathpilot.json"
   },
   {
     "id": 29987,

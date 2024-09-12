@@ -7383,7 +7383,7 @@
     "website": "https://encord.com",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Encord is the leading data development platform for advanced vision and multimodal AI teams. We build tools and infrastructure to help the world's leading AI teams get their models into production faster - with data-centric model testing, human-centric workflow and annotation tools for labeling & RLHF, and data curation and management software. \r\n\r\nEncord is trusted by pioneering AI teams at Stanford Medicine, Mass General Brigham, Tractable, Viz AI, Iterative Health, the UHN, the Royal Navy, Veo, and many more global companies.",
-    "one_liner": "The data development platform for advanced AI teams",
+    "one_liner": "The data development platform for AI teams",
     "team_size": 70,
     "highlight_black": false,
     "highlight_latinx": true,
@@ -14603,7 +14603,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -14966,9 +14966,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/820af679200d42ba6edf958ca36c54bfd8a7734c.png",
     "website": "https://shortloop.dev/",
     "all_locations": "Bengaluru, KA, India",
-    "long_description": "Replay production calls and voice datasets to improve your voice bots.",
-    "one_liner": "Automated Voice AI Tests",
-    "team_size": 3,
+    "long_description": "Task-specific VoiceBots for your outbound and inbound calls with prospects, customers, and workforce.",
+    "one_liner": "AI Phone Calls For Your Business",
+    "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -14976,10 +14976,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1677530662,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
+      "Generative AI",
       "SaaS",
-      "B2B",
-      "API"
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17947,6 +17948,52 @@
     "api": "https://yc-oss.github.io/api/batches/s23/chatter.json"
   },
   {
+    "id": 29010,
+    "name": "Silimate",
+    "slug": "silimate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0575a4d9f95080c1cee72f3e7a7286db03e66d7c.png",
+    "website": "https://www.silimate.com",
+    "all_locations": "Mountain View, CA, USA",
+    "long_description": "Silimate is the co-pilot for chip designers; it finds functional bugs, predicts PPA issues, and recommends fixes in real-time alongside RTL development.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging to functional correctness and optimized PPA (power/performance/area). With Silimate, chip designers write correct, PPA-optimized RTL code from the onset and build better chips in less time.",
+    "one_liner": "The co-pilot for chip designers",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1691095117,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/silimate",
+    "api": "https://yc-oss.github.io/api/batches/s23/silimate.json"
+  },
+  {
     "id": 29018,
     "name": "sudocode",
     "slug": "sudocode",
@@ -19101,6 +19148,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/keywords-ai",
     "api": "https://yc-oss.github.io/api/batches/w24/keywords-ai.json"
+  },
+  {
+    "id": 29330,
+    "name": "Speck",
+    "slug": "speck",
+    "former_names": [
+      "Glance"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3abedd30ff50727e295918adde3c699b0ec0c114.png",
+    "website": "https://paige.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Paige is an AI frontend engineer that helps developers iterate faster on websites. Our customers use us to save hours on slow frontend development.\r\n\r\nLucas built Sweep, an AI developer. Raghav won 7 hackathons with LLM agents.\r\n‎\r\nJoin our community: https://discord.gg/speck",
+    "one_liner": "Paige, an AI Frontend Engineer",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1705004448,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/speck",
+    "api": "https://yc-oss.github.io/api/batches/w24/speck.json"
   },
   {
     "id": 29334,

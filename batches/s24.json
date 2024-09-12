@@ -186,17 +186,17 @@
   },
   {
     "id": 29387,
-    "name": "Overeasy",
-    "slug": "overeasy",
+    "name": "Cracked",
+    "slug": "cracked",
     "former_names": [
       "Dataneko",
       "Redshift AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41fcdace9655193105a65cfa80729247ef9f92c8.png",
-    "website": "https://overeasy.sh/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ded087babce97242696eae6d9e1933eb3c2a3cf5.png",
+    "website": "https://www.getcracked.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Overeasy is building IRIS, an AI agent that helps you automatically label your visual data with prompting. IRIS currently has state of the art performance on zero-shot detection for COCO and LVIS!",
-    "one_liner": "Go from idea to CV model 100x faster",
+    "long_description": "Accessible video creation.",
+    "one_liner": "AI Video Creation",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -205,8 +205,6 @@
     "subindustry": "B2B",
     "launched_at": 1722555710,
     "tags": [
-      "Computer Vision",
-      "Open Source",
       "AI"
     ],
     "tags_highlighted": [],
@@ -227,8 +225,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/overeasy",
-    "api": "https://yc-oss.github.io/api/batches/s24/overeasy.json"
+    "url": "https://www.ycombinator.com/companies/cracked",
+    "api": "https://yc-oss.github.io/api/batches/s24/cracked.json"
   },
   {
     "id": 29406,
@@ -2767,8 +2765,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c95777ae41d5fc39d9bb0a16dbc6c51ab22a81f7.png",
     "website": "https://www.getdecisional.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decisional is building an AI Financial Analyst that reads and understands data from thousands of public and private sources. Our Co-Founder Dhruv, was a former Financial Analyst and we developed an AI Agent he wished he had that pulls all your emails, documents, and external websites helping you become a better equity investor and saving up to 10 hours of weekly soul crushing grunt work.",
-    "one_liner": "AI Agent for Financial Analysts",
+    "long_description": "Decisional is building an AI Financial Analyst for Equity Investors that pulls information from public and private data sources. Financial Services firms like LTV Capital use our AI Agent to gain superhuman abilities like gleaning insights from thousands of data rooms or documents & magically modelling spreadsheets in seconds",
+    "one_liner": "AI Agent that makes Financial Analysts superhuman",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -2777,11 +2775,11 @@
     "subindustry": "B2B",
     "launched_at": 1723533013,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3091,8 +3089,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f47ea21942c532bab77414bc94063db0814528ae.png",
     "website": "https://aviaryhq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aviary is a new AI-based video search software, that makes searching through millions of videos easy. We are currently working with some of the world's largest content providers to make their video collections searchable, automatically.\r\n\r\nThe founding team comes from Snapchat, Notion, Pinterest, CMU, University of Toronto, with extensive background in multimodal machine learning and in building search systems at scale.",
-    "one_liner": "AI-based video search for large video collections.",
+    "long_description": "Aviary is a new AI-based video search software, that makes searching through and understanding millions of videos easy. We are currently working with some of the world's largest content providers to make their video collections searchable, automatically, and to help them understand their video data.\r\n\r\nThe founding team comes from Snapchat, Notion, Pinterest, CMU, University of Toronto, with extensive background in multimodal machine learning and in building search systems at scale.",
+    "one_liner": "AI-based video search and understanding on large video collections.",
     "team_size": 4,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -8881,8 +8879,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1bed1ef41abdcfa8093bce09a2bf9679884e218.png",
     "website": "https://vendra.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vendra uses AI to automate project management and information lookup when working with vendors and suppliers, letting hardware teams focus on building and shipping amazing products",
-    "one_liner": "AI vendor and project management for hardware teams",
+    "long_description": "Vendra uses AI to automate project management and information lookup when working with vendors and suppliers - all with no change to existing workflows - letting hardware teams focus on building and shipping amazing products",
+    "one_liner": "AI copilot for hardware teams working with vendors",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -9171,7 +9169,9 @@
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1720714870,
-    "tags": [],
+    "tags": [
+      "Climate"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -10439,7 +10439,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/290c0065a5ffe07236a3cc433e4c722863914784.png",
     "website": "https://pipeshift.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pipeshift AI provides a fast and scalable infrastructure for fine-tuning and inferencing open-source LLMs.\r\nWe abstract away the training + inferencing infrastructure and the tooling/CI-CD around it, enabling engineering teams to get to production with all the optimizations and one-click deployments.",
+    "long_description": "Pipeshift is the cloud platform for finetuning and inferencing open-source LLMs, helping engineering teams get to production with their LLMs faster than ever.\r\nWith Pipeshift, companies making >1000 calls/day on frontier LLMs can use their data and logs to replace GPT/Claude with specialized LLMs that offer higher accuracy, lower latencies, and model ownership.",
     "one_liner": "Fine-tuning and Inferencing for Open-source LLMs.",
     "team_size": 8,
     "highlight_black": false,
@@ -11168,7 +11168,7 @@
     "website": "https://affil.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Affil.ai helps financial companies monitor their affiliate marketing content so that they can expand marketing efforts & grow their revenue without compliance concerns. ",
-    "one_liner": "AI Compliance For Financial Affiliate Marketing",
+    "one_liner": "AI Financial Affiliate Network",
     "team_size": 2,
     "highlight_black": true,
     "highlight_latinx": false,
@@ -11177,11 +11177,11 @@
     "subindustry": "Fintech",
     "launched_at": 1724004001,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Compliance",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11354,7 +11354,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7fb8dd787fa66d47ca6abb75ccb2dfdf4951c03.png",
     "website": "https://somalab.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Soma Lab helps medical schools train students. Medical students practice on our AI simulations before they see live patients.",
     "one_liner": "Simulated patients to scale medical education.",
     "team_size": 2,
@@ -11364,13 +11364,10 @@
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1719547782,
-    "tags": [
-      "Education",
-      "Healthcare"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -11378,8 +11375,7 @@
       "Healthcare"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11527,7 +11523,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6768364915c3c8551c79d1fe59ba06f2cc7c2a5.png",
     "website": "https://www.getpathpilot.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "PathPilot makes it easy to understand what your users are experiencing by extracting key highlights from hours of session replay videos.\r\n\r\n+ Quickly see how users interact with new features\r\n+ Uncover hidden UI issues\r\n+ Ensure smooth experiences for top customers\r\n+ Receive recommendations for UI improvements ",
     "one_liner": "Turn Session Replays into Actionable Insights ",
     "team_size": 3,
@@ -11537,16 +11533,10 @@
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1724891975,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "B2B",
-      "Customer Success",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -11554,8 +11544,6 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
