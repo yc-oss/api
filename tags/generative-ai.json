@@ -1937,7 +1937,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -2640,6 +2640,54 @@
     "api": "https://yc-oss.github.io/api/batches/w22/toko.json"
   },
   {
+    "id": 25732,
+    "name": "Campfire (applied AI company)",
+    "slug": "campfire-applied-ai-company",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7769fc25a13cb27de9d3009945c7469b7f22649d.png",
+    "website": "https://campfire.to",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Campfire is building the next generation of games powered by AI. Our first product is a game with LLM-based AI agents at the heart of the gameplay experience along with the tools to realize these worlds. \r\n\r\nAdvent of AI is going to change entertainment more than 3D rendering or the internet. We're following in foot steps of Pixar and Epic Games in creating a paradigm shifting company at the intersection of creativity and technology.",
+    "one_liner": "Building the next generation of games and consumer apps powered by AI",
+    "team_size": 5,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Consumer",
+    "subindustry": "B2B",
+    "launched_at": 1645693578,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Consumer",
+      "B2B",
+      "Gaming"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/campfire-applied-ai-company",
+    "api": "https://yc-oss.github.io/api/batches/w22/campfire-applied-ai-company.json"
+  },
+  {
     "id": 25870,
     "name": "Top Road",
     "slug": "top-road",
@@ -2689,6 +2737,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/top-road",
     "api": "https://yc-oss.github.io/api/batches/w22/top-road.json"
+  },
+  {
+    "id": 25921,
+    "name": "Nophin",
+    "slug": "nophin",
+    "former_names": [
+      "Nophin Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0455a652b85ac5ebbe8030cb953e41c7e4c2098.png",
+    "website": "https://www.nophin.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Nophin helps commercial real estate professionals screen deals faster with Cresa, an AI Analyst that automates multifamily deal screening and diligence processes, freeing up time for what truly matters—closing the best opportunities.\r\n \r\nAcquisition teams are overwhelmed with manual tasks, from screening countless deals that don't meet buying criteria to analyzing complex documents and conducting market research. These inefficiencies lead to missed opportunities and slowed decision-making, making it difficult to focus on high-potential opportunities.\r\n\r\nCresa is the first fine-tuned multimodal Agent capable of handling various workflows for acquisition teams around the clock so they can focus on high-potential deals that align with their buying criteria. Cresa can screen deals, analyze documents, and generate comprehensive reports.  \r\n",
+    "one_liner": "AI Deal Screening Analyst for Commercial Real Estate Acquisitions",
+    "team_size": 5,
+    "highlight_black": true,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1642782114,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "Real Estate",
+      "Proptech",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nophin",
+    "api": "https://yc-oss.github.io/api/batches/w22/nophin.json"
   },
   {
     "id": 25991,
@@ -6734,8 +6831,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/612d97982fa7188f4b057359d71cb159d3758d7a.png",
     "website": "https://lifelike.app/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lifelike is a platform where people talk to and create AI characters. Users can choose from thousands of existing user-created characters or create their own, customizing everything from their voice to personality and appearance. Characters also have long-term memory, allowing users to build more meaningful relationships over time.",
-    "one_liner": "AI characters you can talk to using your voice",
+    "long_description": "",
+    "one_liner": "",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -8420,8 +8517,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4f74db69743203afdd04fd72ff9cb2c50e324b5.png",
     "website": "http://buster.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Buster is an infrastructure platform that engineering teams use to connect their database to their LLM applications. We provide our customers with tooling for data cataloging, fine-tuning, security, evaluations, retrieval, sql generation, and more.",
-    "one_liner": "Infrastructure to connect LLMs and databases",
+    "long_description": "Buster is an open-source alternative to Fivetran, Snowflake, dbt Cloud & Tableau - all in a single platform. With it, engineers can spin up their entire AI data stack in a weekend and business users can ask data questions in plain english, get back charts & build their own dashboards.",
+    "one_liner": "The open-source, AI-native data stack",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -8430,11 +8527,11 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1698776495,
     "tags": [
-      "Developer Tools",
       "Generative AI",
-      "SaaS",
-      "Infrastructure",
-      "AI"
+      "Data Science",
+      "Data Engineering",
+      "Data Visualization",
+      "Databases"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8444,7 +8541,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Analytics"
     ],
     "regions": [
       "United States of America",

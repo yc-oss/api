@@ -787,7 +787,7 @@
     "name": "Greptile",
     "slug": "greptile",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6972f19105bed048ed6f4be829b43f779ed02d87.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f71e2192666be11ddc0e606e5c3ac0d905c3b3fa.png",
     "website": "https://www.greptile.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greptile is an AI that understands large codebases that you can query via an API. \r\n\r\nYou can:\r\n- Use it to chat with your codebase\r\n- Plug it into Jira to generate descriptions for tickets, into GitHub to get automate PR reviews etc. with full knowledge of the codebase\r\n- Build custom internal tools and automations on top of the API!\r\n\r\nGreptile can used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.\r\n\r\nToday, 800+ software teams including Wombo, Metamask, Warp, Exa AI, Bland, Leya, and more use Greptile to accelerate their software development lifecycle.  ",
@@ -846,7 +846,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -1931,8 +1931,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4f74db69743203afdd04fd72ff9cb2c50e324b5.png",
     "website": "http://buster.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Buster is an infrastructure platform that engineering teams use to connect their database to their LLM applications. We provide our customers with tooling for data cataloging, fine-tuning, security, evaluations, retrieval, sql generation, and more.",
-    "one_liner": "Infrastructure to connect LLMs and databases",
+    "long_description": "Buster is an open-source alternative to Fivetran, Snowflake, dbt Cloud & Tableau - all in a single platform. With it, engineers can spin up their entire AI data stack in a weekend and business users can ask data questions in plain english, get back charts & build their own dashboards.",
+    "one_liner": "The open-source, AI-native data stack",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -1941,11 +1941,11 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1698776495,
     "tags": [
-      "Developer Tools",
       "Generative AI",
-      "SaaS",
-      "Infrastructure",
-      "AI"
+      "Data Science",
+      "Data Engineering",
+      "Data Visualization",
+      "Databases"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1955,7 +1955,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Analytics"
     ],
     "regions": [
       "United States of America",
@@ -2555,7 +2555,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3480b49d1b5cd46b7fdc5e241e94171723b5fa7.png",
     "website": "https://www.paradigmai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Centered around the primitive of a spreadsheet, Paradigm puts swarms of intelligent agents at your fingertips. The real power of Paradigm comes with scale: imagine having tens of thousands of interns working for you in parallel. Paradigm is 1000x faster than manual data collection, completing an average of 500 cells per minute.\r\n\r\nJoin our waitlist www.paradigmai.com/join\r\n",
     "one_liner": "A reimagined workspace with AI at its core",
     "team_size": 3,
     "highlight_black": false,
@@ -4124,7 +4124,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3abedd30ff50727e295918adde3c699b0ec0c114.png",
     "website": "https://paige.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Paige is an AI frontend engineer that helps developers iterate faster on websites. Our customers use us to save hours on slow frontend development.\r\n\r\nLucas built Sweep, an AI developer. Raghav won 7 hackathons with LLM agents.\r\n‎\r\nJoin our community: https://discord.gg/speck",
+    "long_description": "We're the makers of Paige. Paige is an AI frontend engineer that helps developers iterate faster on websites. Our customers use us to save hours on slow frontend development.\r\n\r\nLucas built Sweep, an AI developer. Raghav won 7 hackathons with LLM agents.\r\n‎\r\nJoin our community: https://discord.gg/speck",
     "one_liner": "Paige, an AI Frontend Engineer",
     "team_size": 2,
     "highlight_black": false,
@@ -4134,10 +4134,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1705004448,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9084,10 +9084,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c88b32aafe01b51dcfae9875e84ed423eac2c51.png",
     "website": "https://datacurve.ai/",
-    "all_locations": "",
-    "long_description": "We generate expert quality data at scale for fine-tuning LLMs\r\n",
-    "one_liner": "Curated data for training LLMs",
-    "team_size": 3,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We generate expert quality coding data at scale for fine-tuning LLMs\r\n",
+    "one_liner": "Frontier coding data for training and evaluating LLMs",
+    "team_size": 4,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": true,
@@ -9105,7 +9105,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
