@@ -2646,7 +2646,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7769fc25a13cb27de9d3009945c7469b7f22649d.png",
     "website": "https://campfire.to",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Toronto, ON, Canada",
     "long_description": "Campfire is building the next generation of games powered by AI. Our first product is a game with LLM-based AI agents at the heart of the gameplay experience along with the tools to realize these worlds. \r\n\r\nAdvent of AI is going to change entertainment more than 3D rendering or the internet. We're following in foot steps of Pixar and Epic Games in creating a paradigm shifting company at the intersection of creativity and technology.",
     "one_liner": "Building the next generation of games and consumer apps powered by AI",
     "team_size": 5,
@@ -2675,6 +2675,7 @@
     ],
     "regions": [
       "United States of America",
+      "Canada",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -7474,53 +7475,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/shasta-health.json"
   },
   {
-    "id": 28884,
-    "name": "Dialtone",
-    "slug": "dialtone",
-    "former_names": [
-      "Samtana"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/860324292ccfb1c586baa4eae8ba66bac3099339.png",
-    "website": "https://usedialtone.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dialtone is a data tooling and management platform that helps you make the best use of your data, to get to the best model faster.",
-    "one_liner": "Data tooling and management platform for all your AI needs",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "Consumer -> Social",
-    "launched_at": 1688669019,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dialtone",
-    "api": "https://yc-oss.github.io/api/batches/s23/dialtone.json"
-  },
-  {
     "id": 28893,
     "name": "VetRec",
     "slug": "vetrec",
@@ -10101,11 +10055,11 @@
     "subindustry": "Unspecified",
     "launched_at": 1726008426,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Hardware",
       "Productivity",
-      "Manufacturing",
-      "AI"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11193,6 +11147,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/henry-2",
     "api": "https://yc-oss.github.io/api/batches/s24/henry-2.json"
+  },
+  {
+    "id": 29960,
+    "name": "Void",
+    "slug": "void",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ab88e3a4fc8224ae094d26b68f966408fe4cf3f.png",
+    "website": "https://voideditor.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Void is an open source AI code editor. We let developers use Cursor-style AI features without sacrificing privacy.",
+    "one_liner": "The open source Cursor alternative",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1726250392,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/void",
+    "api": "https://yc-oss.github.io/api/batches/s24/void.json"
   },
   {
     "id": 29973,
