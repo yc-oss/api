@@ -1952,7 +1952,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S19",
     "status": "Active",
@@ -5337,6 +5337,54 @@
     "api": "https://yc-oss.github.io/api/batches/w22/nyckel.json"
   },
   {
+    "id": 25451,
+    "name": "Instant Labs",
+    "slug": "instant-labs",
+    "former_names": [
+      "Instant Domain Search, Inc.",
+      "Instant Domains, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fce95230603b3c8d8102ec0f35d5ff87968d9335.png",
+    "website": "https://instant.ca",
+    "all_locations": "Victoria, BC, Canada",
+    "long_description": "Instant Labs started in 2005 by building the fastest domain search engine on the internet: https://instantdomainsearch.com. People have performed over 2.5M searches and purchased 250K domains with our free tool. In 2023, we released Strobe, https://strobe.app, an AI-powered tool to help brands find creators to help them grow.",
+    "one_liner": "Instant builds AI-powered tools to help build your business.",
+    "team_size": 1,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1647887201,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/instant-labs",
+    "api": "https://yc-oss.github.io/api/batches/w22/instant-labs.json"
+  },
+  {
     "id": 25529,
     "name": "Criya",
     "slug": "roomplays",
@@ -6446,6 +6494,53 @@
     "api": "https://yc-oss.github.io/api/batches/w22/reality-defender.json"
   },
   {
+    "id": 26505,
+    "name": "Layerup",
+    "slug": "layerup",
+    "former_names": [
+      "DAOfront",
+      "Coinbooks"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8642dde96f05262417ace24dc6a69378230796d.png",
+    "website": "https://www.uselayerup.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Layerup's mission is to boost innovation in industries that lack it, starting by bringing AI securely to enterprises.",
+    "one_liner": "AI Agents for Compliance Operations",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1645952902,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/layerup",
+    "api": "https://yc-oss.github.io/api/batches/s22/layerup.json"
+  },
+  {
     "id": 26666,
     "name": "Airtrain AI",
     "slug": "airtrain-ai",
@@ -6571,7 +6666,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
-    "status": "Inactive",
+    "status": "Active",
     "industries": [
       "B2B",
       "Productivity"
@@ -8716,54 +8811,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/concourse",
     "api": "https://yc-oss.github.io/api/batches/w23/concourse.json"
-  },
-  {
-    "id": 27763,
-    "name": "Double – Coding Copilot",
-    "slug": "double-coding-copilot",
-    "former_names": [
-      "Double"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50e5a1022a2437ff5f516fa3afe9ed74fb7be3f4.png",
-    "website": "https://double.bot",
-    "all_locations": "Redwood City, CA, USA",
-    "long_description": "Do you run into these problems with Github Copilot?\r\n- Bad completions that break your train of thought when you’re writing comments?\r\n- Doesn’t close brackets, or adds too many closing brackets?\r\n- Functions, variables, and libraries not being auto-imported after accepting a suggestion?\r\n- Multi-cursor mode not working?\r\n- Wish copilot could name your variables?\r\n- Wish copilot could trigger in the middle of a line?\r\n- Want to stop wasting time with GPT3.5 chat and default to GPT4?\r\n\r\nDouble is an high quality alternative to Copilot inside VS Code, engineered for performance. It’s designed with great craftsmanship by people who care a lot about getting the small details right. Check our BF launch posts for details!",
-    "one_liner": "AI coding copilot engineered for performance",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": true,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1679084003,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "Chatbot",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/double-coding-copilot",
-    "api": "https://yc-oss.github.io/api/batches/w23/double-coding-copilot.json"
   },
   {
     "id": 27808,
@@ -11662,6 +11709,51 @@
     "api": "https://yc-oss.github.io/api/batches/s23/menza.json"
   },
   {
+    "id": 28884,
+    "name": "Dialtone",
+    "slug": "dialtone",
+    "former_names": [
+      "Samtana"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/860324292ccfb1c586baa4eae8ba66bac3099339.png",
+    "website": "https://usedialtone.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dialtone helps enterprises scale manufacturing 10x faster",
+    "one_liner": "Supercharge manufacturing with AI",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Industrials",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1688669019,
+    "tags": [
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dialtone",
+    "api": "https://yc-oss.github.io/api/batches/s23/dialtone.json"
+  },
+  {
     "id": 28887,
     "name": "Skyvern",
     "slug": "skyvern",
@@ -13687,50 +13779,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/tracecat.json"
   },
   {
-    "id": 29251,
-    "name": "Poka Labs",
-    "slug": "poka-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3db3e4b14d4a36988633e929d3562b45dfa8d41.png",
-    "website": "https://www.pokalabs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Poka Labs is developing an AI platform to automate operations tasks in chemical manufacturing, beginning with production scheduling. Traditionally, these tasks are performed manually using spreadsheets. Our software seamlessly integrates with existing data sources such as data historians, emails, and PDFs to automate analytics, scheduling, changes, and communication within a single platform.\r\n\r\nMalay and Andrew met while pursuing their MBAs at Harvard Business School. Malay previously worked as an engineer in the specialty chemical industry, saving his employers over $100 million across US, China, and German plants. Andrew worked as a software engineer on data infrastructure at Meta and optimization problems at a seed-stage startup. He also completed a Masters degree at Harvard specializing in Machine Learning.",
-    "one_liner": "The modern operating system for chemical manufacturing.",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1721318249,
-    "tags": [
-      "SaaS",
-      "Supply Chain",
-      "AI",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/poka-labs",
-    "api": "https://yc-oss.github.io/api/batches/s24/poka-labs.json"
-  },
-  {
     "id": 29254,
     "name": "Reducto",
     "slug": "reducto",
@@ -14941,53 +14989,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/open",
     "api": "https://yc-oss.github.io/api/batches/w24/open.json"
-  },
-  {
-    "id": 29363,
-    "name": "Lytix",
-    "slug": "lytix",
-    "former_names": [
-      "Spare Change",
-      "SpareChange"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/068d4a57daee96d896a98ada71a651a2d39135bf.png",
-    "website": "https://lytix.co/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Better product analytics for your LLM based products along with general purpose tools to triage errors that just make sense. ",
-    "one_liner": "Analytics and alerts that make sense. ",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1710554488,
-    "tags": [
-      "Developer Tools",
-      "Analytics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lytix",
-    "api": "https://yc-oss.github.io/api/batches/w24/lytix.json"
   },
   {
     "id": 29365,
@@ -17069,54 +17070,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/decisional-ai.json"
   },
   {
-    "id": 29657,
-    "name": "Azalea Robotics Corporation",
-    "slug": "azalea-robotics-corporation",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a43d3ef392fa3a7d4ef89797c2972ddacbdd1b5c.png",
-    "website": "https://azalearobotics.com/",
-    "all_locations": "Berkeley, CA, USA",
-    "long_description": "Azalea Robotics is automating airport baggage handling with intelligent robot operations. The global market for airport baggage handling systems is $20+ billion and growing, presenting a significant opportunity for innovation and market disruption in this sector.\r\n\r\n\r\nPassenger air traffic volume is increasing, driving demand for efficient and reliable baggage handling at airports and putting immense pressure on existing infrastructure. In 2023 alone, airports processed approximately 4.5 billion bags, highlighting the need for advanced solutions to manage this load effectively. Azalea Robotics provides state-of-the-art robotic systems that enhance efficiency, reduce mishandling, and improve passenger experience through more reliable operations.\r\n\r\n\r\nBaggage handling is a critical component of airline ground operations, yet it is fraught with challenges. The work is physically demanding, often leading to long-term injuries among workers. Traditional baggage handling involves repetitive lifting and maneuvering of heavy loads, which can result in long-term health issues. Azalea Robotics addresses these challenges by automating the most strenuous tasks, thereby reducing the risk of injury and enhancing operational efficiency.",
-    "one_liner": "Azalea Robotics automates airport baggage handling with robots.",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1723668106,
-    "tags": [
-      "Robotics",
-      "Logistics",
-      "Transportation",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/azalea-robotics-corporation",
-    "api": "https://yc-oss.github.io/api/batches/s24/azalea-robotics-corporation.json"
-  },
-  {
     "id": 29658,
     "name": "RetroFix AI",
     "slug": "retrofix-ai",
@@ -17484,52 +17437,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/neuralize",
     "api": "https://yc-oss.github.io/api/batches/s24/neuralize.json"
-  },
-  {
-    "id": 29683,
-    "name": "CodeViz",
-    "slug": "codeviz",
-    "former_names": [
-      "Edison Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b3886b4eeec86b01eb6eb8ba6e07dd24f7af701.png",
-    "website": "https://www.codeviz.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "CodeViz creates interactive diagrams of codebases to help engineers quickly understand and navigate code.\r\n\r\nAdopted by engineers at Amazon, Microsoft, and Roblox, CodeViz was founded by two ex-Tesla engineers to tackle the 70% of development time lost to reading code. Download today at https://codeviz.ai",
-    "one_liner": "We build codebase maps for developers",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1723607809,
-    "tags": [
-      "Developer Tools",
-      "Productivity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/codeviz",
-    "api": "https://yc-oss.github.io/api/batches/s24/codeviz.json"
   },
   {
     "id": 29684,
@@ -18544,6 +18451,51 @@
     "api": "https://yc-oss.github.io/api/batches/s24/asterisk.json"
   },
   {
+    "id": 29754,
+    "name": "Conductor Quantum",
+    "slug": "conductor-quantum",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f87b0dddb05a92646b51780f21648d12f3019bf.png",
+    "website": "https://www.conductorquantum.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Quantum computers will allow humanity to simulate nature at the quantum level, enabling the acceleration of drug discovery and the development of new materials. \r\n\r\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\r\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\r\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of silicon quantum technology and build a silicon-based quantum computer.",
+    "one_liner": "Quantum computers on silicon chips using AI.",
+    "team_size": 2,
+    "highlight_black": true,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1718219316,
+    "tags": [
+      "Hard Tech",
+      "Machine Learning",
+      "Quantum Computing",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/conductor-quantum",
+    "api": "https://yc-oss.github.io/api/batches/s24/conductor-quantum.json"
+  },
+  {
     "id": 29759,
     "name": "David AI",
     "slug": "david-ai",
@@ -19235,6 +19187,51 @@
     "api": "https://yc-oss.github.io/api/batches/s24/blast.json"
   },
   {
+    "id": 29791,
+    "name": "Cartage",
+    "slug": "cartage",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e8f6d3db65691d588f5769ee5f350c062cf8671.png",
+    "website": "https://www.cartage.ai",
+    "all_locations": "",
+    "long_description": "Cartage is the future of freight coordination. Transparent, tech-driven and eliminating the need for human coordinators.",
+    "one_liner": "Autonomous freight coordination",
+    "team_size": 4,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1716915052,
+    "tags": [
+      "Machine Learning",
+      "Workflow Automation",
+      "Logistics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cartage",
+    "api": "https://yc-oss.github.io/api/batches/s24/cartage.json"
+  },
+  {
     "id": 29792,
     "name": "Winford AI",
     "slug": "winford-ai",
@@ -19779,54 +19776,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rastro",
     "api": "https://yc-oss.github.io/api/batches/s24/rastro.json"
-  },
-  {
-    "id": 29848,
-    "name": "Saldor",
-    "slug": "saldor",
-    "former_names": [
-      "Ovation"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a075f23bbd8f7661151fbd5110d6e48d39a3b3a.png",
-    "website": "https://saldor.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Engineers use Saldor's API to provide high quality web data to their AI agents.",
-    "one_liner": "The web scraper for AI",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1722921255,
-    "tags": [
-      "AIOps",
-      "Generative AI",
-      "Data Engineering",
-      "Search",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/saldor",
-    "api": "https://yc-oss.github.io/api/batches/s24/saldor.json"
   },
   {
     "id": 29849,
