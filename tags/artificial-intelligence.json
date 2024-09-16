@@ -10221,7 +10221,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/730897d24e909ee905c210f74fec1b439d21c4a7.png",
     "website": "https://www.cerebrium.ai/",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York, NY, USA; London, England, United Kingdom; Remote",
     "long_description": "Cerebrium is a serverless infrastructure platform for AI applications. We make it easier for companies to build and deploy AI based applications. We offer Serverless GPU's with low cold start times, over 12 varieties of GPU chips, allow you to run large scale batch jobs, run realtime voice applications and much more. We are used by the teams at Tavus, CivitAI, Twilio and many more. \r\n\r\nCustomers typically experience 40% in cost savings when compared to using traditional cloud providers and can scale models to more than 10K requests per minute with minimal engineering overhead. ",
     "one_liner": "Serverless Infrastructure Platform for AI",
     "team_size": 4,
@@ -10248,7 +10248,9 @@
     ],
     "regions": [
       "United States of America",
+      "United Kingdom",
       "America / Canada",
+      "Europe",
       "Remote",
       "Fully Remote"
     ],
@@ -20054,6 +20056,54 @@
     "api": "https://yc-oss.github.io/api/batches/w24/ragas.json"
   },
   {
+    "id": 29350,
+    "name": "Aether Energy",
+    "slug": "aether-energy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fdcedd6988abbc35bfedf1d78f7da44ed6d08f4a.png",
+    "website": "https://www.aethernrg.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Aether is an AI-powered end-to-end platform for rooftop solar and roofing installers in the US and Western European markets. \r\n\r\nSome of our innovations:\r\n\r\n- In-house computer vision and fine-tuned AI models built for solar\r\n- Rapid and accurate photovoltaic site design, 10x faster\r\n- Co-pilot for rooftop solar to streamline & automate various tasks for solar installers. \r\n\r\nWhy it’s needed: Today, rooftop solar is still complex, expensive, and inaccurate. More than half of the cost of a rooftop solar project comes from soft costs. We started Aether with the sole aim of reducing solar soft costs. \r\n\r\nOur vision: Aether will be a big player in the young and emerging Solar software vertical, which has a projected 20B Global TAM up for grabs by 2025.",
+    "one_liner": "Solar and roofing workflow software for solar installers worldwide",
+    "team_size": 4,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1709429693,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Solar Power",
+      "Climate",
+      "Renewable Energy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aether-energy",
+    "api": "https://yc-oss.github.io/api/batches/w24/aether-energy.json"
+  },
+  {
     "id": 29352,
     "name": "Firebender",
     "slug": "firebender",
@@ -20608,50 +20658,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/andy-ai",
     "api": "https://yc-oss.github.io/api/batches/w24/andy-ai.json"
-  },
-  {
-    "id": 29387,
-    "name": "Cracked",
-    "slug": "cracked",
-    "former_names": [
-      "Dataneko",
-      "Redshift AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ded087babce97242696eae6d9e1933eb3c2a3cf5.png",
-    "website": "",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Accessible video creation.",
-    "one_liner": "AI Video Creation",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1722555710,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cracked",
-    "api": "https://yc-oss.github.io/api/batches/s24/cracked.json"
   },
   {
     "id": 29390,
@@ -22132,53 +22138,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dragoneye",
     "api": "https://yc-oss.github.io/api/batches/w24/dragoneye.json"
-  },
-  {
-    "id": 29506,
-    "name": "MathGPTPro",
-    "slug": "mathgptpro",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3f536ef35f5c7ee64be3f52c50f6a3f42790fd2.png",
-    "website": "https://info.mathgptpro.com/",
-    "all_locations": "Santa Clara, CA, USA",
-    "long_description": "MathGPT is the leading AI math solver that enables academic performance and productivity of both students and teachers. It has already answered millions of questions from over 200 countries in just a few months, which turns the previously mission-impossible personalized learning into real. Our advanced math AI model achieves roughly 20% higher accuracy in mathematical and quantitative problem-solving capabilities. \r\n\r\nAs we move forward, we will tackle the hardest problems in the educational sector, personalization, adaptive learning, and shortages of teachers, with our trial runs in schools. By automating grading, providing insightful analytics, and generating adaptive assignments, our model empowers teachers to understand what their students need and what should be provided accordingly. \r\n",
-    "one_liner": "Ultimate AI Math Problem Solver to Revolutionize Personalized Learning",
-    "team_size": 7,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "Education",
-    "subindustry": "Unspecified",
-    "launched_at": 1712036975,
-    "tags": [
-      "AI-Enhanced Learning",
-      "Artificial Intelligence",
-      "Education",
-      "Generative AI",
-      "Edtech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "Education"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": true,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/mathgptpro",
-    "api": "https://yc-oss.github.io/api/batches/w24/mathgptpro.json"
   },
   {
     "id": 29507,
@@ -23840,53 +23799,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/storia-ai.json"
   },
   {
-    "id": 29675,
-    "name": "Offstream",
-    "slug": "offstream",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/343bfc43bc79563ba958e18c388fa951ab1c7e01.png",
-    "website": "https://www.useoffstream.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Offstream is Vanta for carbon compliance. We have grown 20+% MoM since joining the YC batch and have 10 clean energy developers using our platform to get and stay compliant with regulations.\r\n\r\nToday, every new infrastructure project, from data centers to biomass power plants has a complicated mess of local, state, federal, and private sector standards that they must understand and comply with to make their projects profitable.\r\n\r\nOffstream solves this by using LLMs to parse regulations, generate technical reports for customers, and manage 100,000+ operational data points on project’s lifecycles. We cut the time customers spend on compliance by 90% and at 1/5th of the cost of alternatives.",
-    "one_liner": "Vanta for carbon compliance",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "B2B",
-    "subindustry": "Industrials -> Climate",
-    "launched_at": 1720465631,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Compliance",
-      "Climate"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/offstream",
-    "api": "https://yc-oss.github.io/api/batches/s24/offstream.json"
-  },
-  {
     "id": 29683,
     "name": "CodeViz",
     "slug": "codeviz",
@@ -24898,52 +24810,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/zeit-ai.json"
   },
   {
-    "id": 29768,
-    "name": "Ember Robotics",
-    "slug": "ember-robotics",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7501c381ec6654b0249e7c8d1881f708e27ce6e.png",
-    "website": "https://www.emberrobotics.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ember Robotics is building camera diagnostics tools for robots and automotive. We worked on optimizing camera performance at Tesla Autopilot and now we're building software that takes mitigating camera failures from hours to minutes.",
-    "one_liner": "Camera diagnostics for robots",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1722583865,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Robotics",
-      "Analytics",
-      "Data Visualization"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ember-robotics",
-    "api": "https://yc-oss.github.io/api/batches/s24/ember-robotics.json"
-  },
-  {
     "id": 29775,
     "name": "Brighterway",
     "slug": "brighterway",
@@ -25413,54 +25279,48 @@
     "api": "https://yc-oss.github.io/api/batches/s24/remo.json"
   },
   {
-    "id": 29824,
-    "name": "Assembly HOA",
-    "slug": "assembly-hoa",
-    "former_names": [
-      "Assembly Technologies Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/251db0cfd3ffbbbe376cb8fa8066246654b8bd87.png",
-    "website": "https://assemblyhoa.com",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "We help HOAs manage their communities in a modern and transparent way. HOA boards choose Assembly to replace their existing management company, ensuring excellent service and clear visibility into their HOA’s finances and operations. With Assembly, community priorities are always addressed, and homeowners can easily understand what their HOA is doing and how their monthly dues are being used.\r\n\r\nOur mission is to create turnkey communities and protect property values through transparent, efficient, and proactive management. By combining top industry expertise with the latest in AI and fintech, we provide real-time financial insights, strategic community planning, and automated operations.\r\n\r\nLike many homeowners, Shreyas and Allen experienced frustrations with HOAs. Our investigation revealed that most HOA management companies are outdated mom-and-pop operations nearing retirement, resistant to adopting new technology. Furthermore, these companies often prioritize relationships with vendors and banks over the interests of the communities they serve, leading to misaligned incentives. Realizing this, we knew that to achieve our mission of fixing HOAs, Assembly HOA had to be vertically integrated.\r\n\r\nWe are live with over 20 communities in Greater Los Angeles and SF Bay Area. ",
-    "one_liner": "AI-enabled HOA management",
-    "team_size": 4,
+    "id": 29822,
+    "name": "omnidock",
+    "slug": "omnidock",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5fa8b0b52753fce8ae0550cd99d622ad6ab9496.png",
+    "website": "https://www.omnidock.com",
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "Expanding to other geographies and marketplaces is a massive growth lever for brands and manufacturers, but it’s complex and resource-intensive.\r\n\r\nOmnidock makes it effortless for merchants to sell on multiple marketplaces by acting as their merchant of record. Brands simply plug into our operating system, which reads their catalog, assesses marketplace eligibility, and auto-launches their products through our pre-vetted marketplace accounts. We handle all transactions on their behalf, removing the challenges and complexities of multi-marketplace selling",
+    "one_liner": "Sell on all eCommerce marketplaces globally",
+    "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-    "launched_at": 1720464041,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1723790505,
     "tags": [
       "Artificial Intelligence",
-      "Fintech",
-      "Real Estate",
-      "Housing",
-      "Proptech"
+      "Logistics",
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
+      "B2B",
+      "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "Germany",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/assembly-hoa",
-    "api": "https://yc-oss.github.io/api/batches/s24/assembly-hoa.json"
+    "url": "https://www.ycombinator.com/companies/omnidock",
+    "api": "https://yc-oss.github.io/api/batches/s24/omnidock.json"
   },
   {
     "id": 29828,
@@ -25881,7 +25741,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a8bc8b5c8de45073e0d61917890db15c4ddc8cb.png",
     "website": "https://www.anglera.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Anglera, we're building an AI-native system of record for e-commerce data.\r\n\r\nWe previously enriched millions of products at Uber Eats, and we're leveraging our Stanford AI expertise to reimagine an existing $10B software category (Product Information Management).",
+    "long_description": "At Anglera, we're building an AI-native system of record for e-commerce.\r\n\r\nWe previously enriched millions of products at Uber Eats, and we're leveraging our Stanford AI expertise to reimagine how business manage product data at scale. This is an existing $10B software category (Product Information Management).",
     "one_liner": "The smartest way to manage product data",
     "team_size": 2,
     "highlight_black": false,
@@ -26014,6 +25874,53 @@
     "api": "https://yc-oss.github.io/api/batches/s24/mica-ai.json"
   },
   {
+    "id": 29968,
+    "name": "Patched",
+    "slug": "patched",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2ac264e6877792745759c5eec0d699fa373574f.png",
+    "website": "https://patched.codes",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Patched is an open-source framework to automate code reviews, docs, and patches with AI.\r\n\r\nWe empower developers to build and deploy AI-assisted workflows that can autonomously complete repetitive, mundane tasks like documentation, code reviews, and security patching.\r\n\r\nPatched is the preferred option for privacy-conscious enterprises and engineer that want to leverage the best AI models for their development workflows without compromising security, control, or compliance.\r\n\r\nWhat makes Patched different?\r\n- Autonomous Automation: Unlike copilots that assist during active development, Patched runs in the background, managing tasks autonomously.\r\n- Code-Native Workflows: Flows can be built using visual editors or Python code.\r\n- Open-Source Flexibility: Allows running patchflows locally and integrating with preferred LLM API endpoints for enhanced privacy.\r\n- Control & Precision: Get full control over your workflows, overcoming limitations of non-deterministic agentic behaviors.",
+    "one_liner": "Open-source workflow automation for development teams",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1721263283,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/patched",
+    "api": "https://yc-oss.github.io/api/batches/s24/patched.json"
+  },
+  {
     "id": 29972,
     "name": "Affil.ai",
     "slug": "affil-ai",
@@ -26060,6 +25967,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/affil-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/affil-ai.json"
+  },
+  {
+    "id": 29987,
+    "name": "Syntra",
+    "slug": "syntra",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
+    "website": "https://www.syntra.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Syntra is the all-in-one solution for private practice doctors. Our operating system includes a personalized EHR that automates administrative tasks for doctors, such as patient intake, scribing, billing, and inventory management. \r\n\r\nPractices are switching off of solutions they have used for over a decade, calling Syntra \"the only solution that doesn’t need to be managed.”",
+    "one_liner": "Operating System for Private Practice Doctors",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1723733582,
+    "tags": [
+      "Artificial Intelligence",
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/syntra",
+    "api": "https://yc-oss.github.io/api/batches/s24/syntra.json"
   },
   {
     "id": 29990,
