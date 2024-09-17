@@ -7380,7 +7380,7 @@
   },
   {
     "id": 1671,
-    "name": "Imbue (formerly Generally Intelligent)",
+    "name": "Imbue",
     "slug": "imbue",
     "former_names": [
       "Sourceress",
@@ -7400,9 +7400,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1493860914,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8133,13 +8133,15 @@
     "id": 1781,
     "name": "Vanta",
     "slug": "vanta",
-    "former_names": [],
+    "former_names": [
+      "Vanta"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0660fb546ece5e50a895e790c299dcaaeeefad32.png",
     "website": "https://vanta.com",
-    "all_locations": "San Francisco, CA, USA; New York, NY, USA; Dublin, County Dublin, Ireland",
-    "long_description": "Vanta was founded in 2018, in the wake of several high-profile data breaches that shook our collective faith in internet businesses. Online security was only becoming more important, but we knew firsthand how hard it could be for fast-growing companies to invest the time and manpower it takes to build a solid security foundation.\r\n\r\nFrom our early days of automating security monitoring for compliance standards like SOC 2, HIPAA, and ISO 27001, to pioneering a brand-new market as the leading Trust Management Platform, our vision to restore trust in internet businesses by enabling companies to improve and prove their security remains unchanged. Now more than ever, making security continuous—not just a point-in-time check— is essential. Vanta is the leading Trust Management Platform that helps simplify and centralize security for organizations of all sizes. Over 4,000 companies including Autodesk, Chili Piper, Flo Health and Quora, rely on Vanta to build, maintain and demonstrate their trust—all in a way that's real-time and transparent.\r\n\r\nRecently named the #1 Leader in G2's Winter 2023 Grid® Reports for Security Compliance, Vanta debuted a number of new product innovations over the last year, including Access Reviews which automates the once-manual, time-consuming access reviews process and an enhanced Risk Management solution allowing companies to holistically understand, prioritize, and reduce risks within their company to build a stronger security approach and demonstrate compliance.\r\n\r\nVanta was built on the idea that software can be used to do amazing things for the world—if we trust it to do so.  And we can’t do it alone. Come join us!",
-    "one_liner": "Automate compliance. Simplify security. Demonstrate trust.",
-    "team_size": 450,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ABOUT VANTA\r\n\r\nVanta (YC W18) is the leading automated compliance and trust management platform designed to simplify and centralize compliance and security workflows for organizations of all sizes.\r\n\r\nWHY YC STARTUPS NEED VANTA\r\n\r\nAs a YC company, proving your security compliance is crucial for selling to security-conscious buyers and entering new markets. We would know, we’ve been there—and we’ve helped over 8,000 customers do just that! Vanta's out-of-the-box solution, combined with expert service partners, helps you quickly and painlessly achieve and maintain compliance with top compliance frameworks—allowing you to focus on building great products. Learn more at https://vanta.com.\r\n\r\nYC-ONLY OFFER\r\n\r\n25% Off Offer for YC Companies and Access to Partner Network:\r\nYC companies receive a 25% discount on the Vanta platform. Leverage Vanta’s automation alongside our trusted partner network to customize your compliance program.\r\n\r\nQuick Start for start-ups: Get SOC 2 ready in as little as 4 weeks with help from a trusted service partner. Guided by a virtual CISO and a dedicated compliance team, you'll be onboarded and fully supported in getting audit-ready quickly and easily—perfect for fast-moving founders.\r\n\r\nWHY VANTA?\r\n\r\nBuilt for startups: Vanta knows startups. We went through YC in 2018 and have since helped thousands of startups, including YC companies Supabase (YC S20), Bend (YC S22), and Newfront (YC W18) achieve and maintain compliance quickly. Startups like Charityvest (YC S20), BreachRX, and Flo Health have gone from zero to SOC 2 Type I or ISO 27001 certification in 10 days or less with Vanta.\r\n\r\nFuture-proof, feature-rich, automated platform: Vanta’s modular platform evolves with your needs, including:\r\n\r\n\r\n* 30 frameworks spanning security, privacy, industry, geographic, and custom frameworks\r\n\r\n* 350+ integrations that automate evidence collection for these frameworks\r\n\r\n* 1,000 automated, hourly tests to ensure real, continuous security—not just at audit time, but all the time\r\n\r\n* Pre-built policy templates, lightweight agent for security checks, background checks, cyber insurance, cookie consent management, auditor portal, user access reviews, security awareness training, risk assessments, vendor security reviews, managing vulnerabilities, and more\r\n\r\nTailored support for early-stage companies: Vanta offers internal, no-cost Customer Success and GRC (compliance) experts, robust technical support, detailed documentation, and a 24/7 chatbot for frequently asked questions.\r\n\r\n(Optional) Purchase Vanta with auditors experienced in your framework and the Vanta platform, or choose from a range of MSP/consulting partners for additional services like penetration tests and virtual CISO support (some at no cost). We don’t force vendor lock-in.\r\n\r\nTransparent pricing and promises: Vanta strives to do what it says on the tin: we believe in setting and meeting customer expectations. We offer flexible contracts, fair and transparent pricing, and publish our support metrics. We prefer to focus on helping customers succeed and let them explain why they chose us over others—check out our G2 reviews and customer case studies!\r\n\r\nProven market leader and well-funded: Vanta was founded in 2018 and has raised $350M with over 500 employees. We’ve guided over 8,000 customers through their first or multiple audit cycles for various frameworks. These customer learnings and our funding help drive a fast pace of product development to delight customers and ensure Vanta will be there for you in the future.\r\n\r\nInterested in seeing why Upflow (YC W20), Tailor (YC S22), and hundreds of other YC companies trust Vanta to expedite their compliance? Email yc@vanta.com to learn more!",
+    "one_liner": "The proven leader in fast, automated compliance",
+    "team_size": 550,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": true,
@@ -8163,9 +8165,7 @@
     ],
     "regions": [
       "United States of America",
-      "Ireland",
       "America / Canada",
-      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -9621,56 +9621,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pocket-worlds",
     "api": "https://yc-oss.github.io/api/batches/s18/pocket-worlds.json"
-  },
-  {
-    "id": 1956,
-    "name": "Regology",
-    "slug": "regology",
-    "former_names": [
-      "Regology",
-      "Regology",
-      "Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d64f3c4f837e97a80dc51e0a1c6f4bc76b3626e.png",
-    "website": "http://regology.com",
-    "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Our AI engine helps your organization understand applicable laws and follow them through a collaborative platform. The unique combination of software and regulatory content simplify the compliance burden.",
-    "one_liner": "Regulatory compliance powered by AI",
-    "team_size": 54,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1525230401,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S18",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/regology",
-    "api": "https://yc-oss.github.io/api/batches/s18/regology.json"
   },
   {
     "id": 1957,
@@ -15607,52 +15557,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/turing-labs-inc",
     "api": "https://yc-oss.github.io/api/batches/w20/turing-labs-inc.json"
-  },
-  {
-    "id": 13233,
-    "name": "Cortex",
-    "slug": "cortex",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00bba81d8d6dbef5184de3d7c801a05f958ef1ec.png",
-    "website": "https://cortex.io/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "​​Cortex is an internal developer portal built to accelerate the path to engineering excellence. Companies like Docker, TripAdvisor, and Dropbox use Cortex to catalog, score, and assign action to improve service quality and velocity, so devs can get back to work that drives the business forward. ",
-    "one_liner": "Build reliable and innovative software at scale",
-    "team_size": 50,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1581369609,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W20",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cortex",
-    "api": "https://yc-oss.github.io/api/batches/w20/cortex.json"
   },
   {
     "id": 13239,
@@ -33090,54 +32994,6 @@
     "api": "https://yc-oss.github.io/api/batches/w22/arpari.json"
   },
   {
-    "id": 25984,
-    "name": "Rally UXR",
-    "slug": "rally-uxr",
-    "former_names": [
-      "Rally"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d1bec746269f46935a108658fb17cddc54ed760.png",
-    "website": "https://www.rallyuxr.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Rally is a User Research CRM that makes it easy for teams to do research with their users. By automating outreach, scheduling, incentives, and participant management, Rally replaces messy spreadsheets and disjointed tooling, saving teams hours each week.",
-    "one_liner": "User Research CRM",
-    "team_size": 13,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1645632239,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Design Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rally-uxr",
-    "api": "https://yc-oss.github.io/api/batches/w22/rally-uxr.json"
-  },
-  {
     "id": 25995,
     "name": "Workflow86",
     "slug": "workflow86",
@@ -33277,6 +33133,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/reviving-mind",
     "api": "https://yc-oss.github.io/api/batches/w22/reviving-mind.json"
+  },
+  {
+    "id": 26034,
+    "name": "Verdn",
+    "slug": "verdn",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e476da775568ad864db9fb2419d31edd4fa483f.png",
+    "website": "https://verdn.com",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Verdn is a climate-impact API for companies and their end-customers. \r\n\r\nWith Verdn, companies direct a portion of sales towards ecosystem restoration projects (like tree planting, ocean-plastic cleanup, and coral planting), carried out by vetted NGO partners. After each sale, we send the end-customer a tracking dashboard where they can engage with updates about their positive impact.\r\n\r\nOur mission is to Ctrl+Z global ecosystem collapse by making sustainability profitable. We have planted 1,500,000 trees, recovered 400,000 kg of ocean-bound plastic and 150 m2 of coral reef, and have over 100+ paying customers that are seeing a 10x boost in engagement.",
+    "one_liner": "An API to bundle trackable climate donations with any transaction.",
+    "team_size": 4,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Climate",
+    "launched_at": 1639755149,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Climate",
+      "API",
+      "ClimateTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Climate"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/verdn",
+    "api": "https://yc-oss.github.io/api/batches/w22/verdn.json"
   },
   {
     "id": 26035,
@@ -39648,6 +39550,51 @@
     "api": "https://yc-oss.github.io/api/batches/w23/vellum.json"
   },
   {
+    "id": 28127,
+    "name": "Benchmark",
+    "slug": "benchmark",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0dddc99c1f1c38c90b727d87cc7bb8d59dfad6be.png",
+    "website": "https://withbenchmark.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Benchmark is the fastest way to screen deals & analyze investment data. Benchmark efficiently extracts, organizes, and summarizes key information from any data source in seconds, while automatically building a proprietary comp database. With Benchmark, decision makers can capitalize on opportunities with unmatched speed and precision. Visit https://withbenchmark.com to accelerate your investment process today.",
+    "one_liner": "The fastest way to screen deals & aggregate investment data.",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "Real Estate and Construction",
+    "launched_at": 1673633463,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Finance",
+      "Investing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/benchmark",
+    "api": "https://yc-oss.github.io/api/batches/w23/benchmark.json"
+  },
+  {
     "id": 28131,
     "name": "Untether Labs",
     "slug": "untether-labs",
@@ -41273,6 +41220,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/transformity",
     "api": "https://yc-oss.github.io/api/batches/s23/transformity.json"
+  },
+  {
+    "id": 28911,
+    "name": "CandorIQ",
+    "slug": "candoriq",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99094827db793d0b0566e8f598e87a87eb795ade.png",
+    "website": "https://www.candoriq.com/",
+    "all_locations": "",
+    "long_description": "CandorIQ is software to manage Headcount and Compensation planning. Employees are +70% of all OPEX and yet still managed in sheets & email. We manage all people spend in 1 platform, integrated into your Finance & HR stack.\r\n\r\nProduct capabilities include:\r\n- Headcount & backfill planning\r\n- Headcount budget scenarios across departments\r\n- Merit cycle planning\r\n- Analytics including employee churn, hiring win/loss, cash burn",
+    "one_liner": "Headcount & Compensation Management",
+    "team_size": 4,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1687966048,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/candoriq",
+    "api": "https://yc-oss.github.io/api/batches/s23/candoriq.json"
   },
   {
     "id": 28921,
@@ -44144,10 +44130,10 @@
     "subindustry": "Healthcare",
     "launched_at": 1709616757,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "Digital Health",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46359,7 +46345,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7ba643e872dfb236016ba560ace56c12e3baf83.png",
     "website": "https://intryc.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Consumer enterprises have millions of customer support tickets annually. They need to constantly evaluate support agents’ performance and compliance. Typically they evaluate 4-5% of those interactions manually but it's slow, expensive and not scalable. Intryc's AI can evaluate 100% of all customer interactions, in real time, at half the cost.",
+    "long_description": "Consumer enterprises have millions of customer support tickets annually. They need to constantly evaluate support agents’ performance and compliance. Typically they evaluate less than 5% of those interactions manually which is slow, expensive and not scalable. Intryc's AI can evaluate 100% of all customer interactions, in real time, at half the cost.\r\n\r\nWe work with customers like Deel.com and make in 80k in ARR.",
     "one_liner": "Intryc uses AI to automate quality assurance for customer support",
     "team_size": 7,
     "highlight_black": false,

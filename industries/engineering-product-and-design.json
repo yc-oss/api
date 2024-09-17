@@ -4147,7 +4147,7 @@
   },
   {
     "id": 1671,
-    "name": "Imbue (formerly Generally Intelligent)",
+    "name": "Imbue",
     "slug": "imbue",
     "former_names": [
       "Sourceress",
@@ -4167,9 +4167,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1493860914,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13068,7 +13068,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -14211,10 +14211,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7abc96adeb32772a65759b3c7fb44df00a0e11db.png",
     "website": "https://integrated-reasoning.com",
-    "all_locations": "San Francisco, CA, USA; Kilauea, HI, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Integrated Reasoning builds efficient computer processors that are tailored to the memory access patterns of Karp's 21 NP-complete problems. We’re making it 100x - 10,000x faster to perform computations like scheduling airline pilots or optimizing packing layouts for shipping containers.",
     "one_liner": "Faster processors for solving NP-complete problems",
-    "team_size": 3,
+    "team_size": 1,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -14222,11 +14222,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1656696534,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hard Tech",
       "Hardware",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18766,7 +18766,7 @@
     "website": "https://simplex.sh",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Simplex creates on-demand vision datasets rendered from 3D scenes to train AI models. We can create data for any scenario, saving companies millions of hours they’d otherwise spend collecting and labeling real data.",
-    "one_liner": "Synthetic vision datasets for foundation model training",
+    "one_liner": "Synthetic datasets for vision models",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -18775,11 +18775,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723709594,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Robotics",
       "B2B",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20507,8 +20507,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a01850274c75354216d6176ea84a00b84aa83cb.png",
     "website": "https://www.entangl.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "As aerospace engineers, we've experienced firsthand the painful reality of cross-team design reviews. Teams grind for weeks to prepare for these meetings, yet costly errors still slip through to manufacturing or even operation (think doors blowing off planes).\r\n\r\nThe issue? Engineers work in silos, unaware of how their decisions impact the broader system. Changing the O-ring material might unexpectedly impact the seal integrity at low temperatures when building a space shuttle booster rocket (see NASA Space Shuttle Disaster).\r\n\r\nOur platform identifies design problems autonomously across engineering projects. It then suggests targeted solutions to the right engineers and delivers daily insights and reviews, preventing expensive problems early on (poor engineering cost Boeing $100B+).  This saves each engineer 2 months of work every year and makes engineering safer.\r\n",
-    "one_liner": "Detect errors in complex engineering projects using AI",
+    "long_description": "Entangl is automating hardware design end-to-end without errors. Currently, our AI agent automatically detects errors in hardware design as engineering teams work. For each error detected, Entangl also suggests a detailed step-by-step solution. \r\n\r\nWe are also actively training our next AI agent that can autonomously implement solutions (think code completion but for hardware).\r\n\r\nErrors being caught too late are the number one reason that engineering projects get delayed by detecting them instantly, projects move faster.",
+    "one_liner": "Automating hardware design end-to-end without errors",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -20517,10 +20517,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716219164,
     "tags": [
+      "Artificial Intelligence",
       "Aerospace",
       "Enterprise Software",
       "Automation",
-      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -21054,7 +21054,7 @@
     "website": "https://storia.ai",
     "all_locations": "Millbrae, CA, USA",
     "long_description": "With AI increasingly automating away code generation, software engineers will spend more time reading, judging, and architecting code rather than writing it. Storia is building tools for the next generation of software development, making every developer 10x more productive.\r\n\r\nWe are starting with Sage, a Perplexity-like agent for helping developers understand, judge, and generate software. Given an existing codebase, developers can ask Sage questions such as:\r\n1) Given my project’s SLA and latency constraints, what is the appropriate underlying vector database to use? How would I incorporate it into my existing codebase?\r\n2) Why should I pick Redis over Milvus as my underlying vector store?\r\n3) Does this codebase in our organization still work and what steps are required for a complex integration with another library?\r\n\r\nSage’s answers are directly supported by documentation and external references like GitHub, Stack Overflow, and project management software, preventing hallucinations. Today, Sage has up-to-date knowledge about open-source repositories (indexed daily). Tomorrow it will have a deep understanding of every line of code on the Internet. For teams, Sage will know about your private codebase too.\r\n\r\nNo group has yet solved how to build an AI system that comprehends a codebase and its context and can empower every developer to architect better code, faster. This requires new research advances because vanilla RAG and out-of-the-box LLMs aren’t going to cut it. \r\n\r\nWe have 20+ years of software engineering and AI research experience. Julia worked on precursors of Gemini using contextual neural techniques before they were called “RAG” (and applied it to products like Google Keyboard and Pixel phones). Mihail built the earliest LLMs at Amazon Alexa and launched the first contextual deep learning conversational AI system in production at Alexa.\r\n",
-    "one_liner": "AI pair programmer for engineering teams using all the world’s code",
+    "one_liner": "Open source AI copilot that knows your company's code and its context",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -21063,10 +21063,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724629645,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21528,10 +21528,10 @@
     "launched_at": 1721337823,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22123,9 +22123,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1726250392,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Generative AI",
-      "AI"
+      "Generative AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -8865,7 +8865,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S18",
     "status": "Active",
@@ -13861,7 +13861,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W20",
     "status": "Active",
@@ -33642,7 +33642,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -33928,7 +33928,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -38174,10 +38174,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7abc96adeb32772a65759b3c7fb44df00a0e11db.png",
     "website": "https://integrated-reasoning.com",
-    "all_locations": "San Francisco, CA, USA; Kilauea, HI, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Integrated Reasoning builds efficient computer processors that are tailored to the memory access patterns of Karp's 21 NP-complete problems. We’re making it 100x - 10,000x faster to perform computations like scheduling airline pilots or optimizing packing layouts for shipping containers.",
     "one_liner": "Faster processors for solving NP-complete problems",
-    "team_size": 3,
+    "team_size": 1,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -38185,11 +38185,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1656696534,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hard Tech",
       "Hardware",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41964,7 +41964,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -42792,17 +42792,17 @@
   },
   {
     "id": 28780,
-    "name": "Mano Claims",
-    "slug": "mano-claims",
+    "name": "Mano Health",
+    "slug": "mano-health",
     "former_names": [
       "Mano AI",
       "Mano"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5043833232af4db7d1717473d4f76cd933309f14.png",
-    "website": "https://www.mano.claims/",
+    "website": "https://www.manohealth.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "We work with health plans to involve all stakeholders, including advisors, TPAs, carriers, and stop-loss providers. This removes all unnecessary blockers and allows for world-class service delivery and claims management.",
-    "one_liner": "Provide better health insurance by automating claims with GenAI.",
+    "long_description": "We are on a mission to revolutionize health insurance in America. We provide AI and technology workflows to decrease the cost of American health insurance. We work with health plans to involve all stakeholders, including advisors, TPAs, carriers, and stop-loss providers. This removes all unnecessary blockers and allows for world-class service delivery.",
+    "one_liner": "Handcrafting the future of benefits administration.",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": true,
@@ -42811,11 +42811,11 @@
     "subindustry": "B2B",
     "launched_at": 1686714264,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "B2B",
-      "Healthcare IT",
-      "AI"
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42829,17 +42829,15 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mano-claims",
-    "api": "https://yc-oss.github.io/api/batches/s23/mano-claims.json"
+    "url": "https://www.ycombinator.com/companies/mano-health",
+    "api": "https://yc-oss.github.io/api/batches/s23/mano-health.json"
   },
   {
     "id": 28784,
@@ -43690,53 +43688,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/epsilla",
     "api": "https://yc-oss.github.io/api/batches/s23/epsilla.json"
-  },
-  {
-    "id": 28911,
-    "name": "CandorIQ",
-    "slug": "candoriq",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99094827db793d0b0566e8f598e87a87eb795ade.png",
-    "website": "https://www.candoriq.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "CandorIQ is software to manage Headcount and Compensation planning. Employees are +70% of all OPEX and yet still managed in sheets & email. We manage all people spend in 1 platform, integrated into your Finance & HR stack.\r\n\r\nProduct capabilities include:\r\n- Headcount & backfill planning\r\n- Headcount budget scenarios across departments\r\n- Merit cycle planning\r\n- Analytics including employee churn, hiring win/loss, cash burn",
-    "one_liner": "Headcount & Compensation Management",
-    "team_size": 4,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1687966048,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "SaaS",
-      "B2B",
-      "HR Tech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/candoriq",
-    "api": "https://yc-oss.github.io/api/batches/s23/candoriq.json"
   },
   {
     "id": 28920,
@@ -47330,7 +47281,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Firstwork is a next-generation HR platform designed specifically for companies with dynamic workforce needs. Our mission is to streamline and automate key HR processes to help businesses operate more efficiently and effectively.\r\n\r\nWhat We Do (for now):\r\n\r\n(1) Smart Onboarding 📋: Our platform simplifies the onboarding process by automating the collection and verification of credentials, such as right-to-work documents, insurance forms and driver’s licenses. This reduces administrative burden and accelerates the time-to-productivity for new hires.\r\n\r\n(2) AI-Assisted Activation 🤖: Leveraging AI, we enhance communication and messaging for new hires, ensuring they receive timely and relevant information. This helps in better engagement and faster integration into their roles.\r\n\r\n(3) Perpetual Compliance ✅: Our system uses AI and OCR technology to continuously monitor and ensure compliance with various regulatory requirements. This includes tracking expirations of critical documents, updating records, and generating compliance reports, thus reducing the risk of penalties and legal issues.\r\n\r\n",
     "one_liner": "Rippling for frontline workers",
-    "team_size": 2,
+    "team_size": 9,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -47338,11 +47289,11 @@
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1721851005,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Human Resources",
       "Workflow Automation",
-      "Compliance"
+      "Compliance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47559,7 +47510,7 @@
     "website": "https://storia.ai",
     "all_locations": "Millbrae, CA, USA",
     "long_description": "With AI increasingly automating away code generation, software engineers will spend more time reading, judging, and architecting code rather than writing it. Storia is building tools for the next generation of software development, making every developer 10x more productive.\r\n\r\nWe are starting with Sage, a Perplexity-like agent for helping developers understand, judge, and generate software. Given an existing codebase, developers can ask Sage questions such as:\r\n1) Given my project’s SLA and latency constraints, what is the appropriate underlying vector database to use? How would I incorporate it into my existing codebase?\r\n2) Why should I pick Redis over Milvus as my underlying vector store?\r\n3) Does this codebase in our organization still work and what steps are required for a complex integration with another library?\r\n\r\nSage’s answers are directly supported by documentation and external references like GitHub, Stack Overflow, and project management software, preventing hallucinations. Today, Sage has up-to-date knowledge about open-source repositories (indexed daily). Tomorrow it will have a deep understanding of every line of code on the Internet. For teams, Sage will know about your private codebase too.\r\n\r\nNo group has yet solved how to build an AI system that comprehends a codebase and its context and can empower every developer to architect better code, faster. This requires new research advances because vanilla RAG and out-of-the-box LLMs aren’t going to cut it. \r\n\r\nWe have 20+ years of software engineering and AI research experience. Julia worked on precursors of Gemini using contextual neural techniques before they were called “RAG” (and applied it to products like Google Keyboard and Pixel phones). Mihail built the earliest LLMs at Amazon Alexa and launched the first contextual deep learning conversational AI system in production at Alexa.\r\n",
-    "one_liner": "AI pair programmer for engineering teams using all the world’s code",
+    "one_liner": "Open source AI copilot that knows your company's code and its context",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -47568,10 +47519,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724629645,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47838,8 +47789,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/590821192763a73a9f24cba27c008ad9759614a4.png",
     "website": "https://lighthouz.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lighthouz AI is building AI procurement specialists for manufacturers. \r\n\r\n500,000 procurement professionals waste their entire day using emails to communicate with suppliers, and entering data on spreadsheets and 90s looking ERP software. That's $40B wasted annually. \r\n\r\nLighthouz's AI procurement specialists change this. The AI agent automates all manual tasks of procurement -- data extraction from emails & documents, data entry on ERP systems. It 15x'es the productivity of procurement teams. \r\n\r\nOur AI agents will replace 500k jobs in the next 5 years. \r\n\r\nOur team has 20+ years of combined AI experience: \r\n- Srijan has been a GaTech CS professor, ex- Google, Stanford, UMD, IIT. He has built systems now in production at Meta, Home Depot, etc. He has written 60+ papers that are cited 6000+ times. \r\n- Sonali was a lead AI engineer at Progressive insurance, American Family insurance, Halliburton, did her MS at University of Washington, and undergrad at IIT. ",
-    "one_liner": "AI agents to automate procurement for manufacturers",
+    "long_description": "Lighthouz AI is building AI procurement specialists for manufacturers. \r\n\r\n500,000 procurement professionals waste their entire day using emails to communicate with suppliers, and entering data on spreadsheets and 90s looking ERP software. That's $40B wasted annually. \r\n\r\nLighthouz's AI procurement specialists disrupts this entire profession. The AI agent automates all manual tasks of procurement -- data extraction from emails & documents, data entry on ERP systems. It 15x'es the productivity of procurement teams. \r\n\r\nOur AI agents will replace 500k jobs in the next 5 years. \r\n\r\nOur team has 20+ years of combined AI experience: \r\n- Srijan has been a GaTech CS professor, ex- Google, Stanford, UMD, IIT. He has built systems now in production at Meta, Home Depot, etc. He has written 60+ papers that are cited 6000+ times. \r\n- Sonali was a lead AI engineer at Progressive insurance, American Family insurance, Halliburton, did her MS at University of Washington, and undergrad at IIT. ",
+    "one_liner": "AI procurement specialists to 15x productivity ",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -48117,10 +48068,10 @@
     "name": "Planbase",
     "slug": "planbase",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aaf7c4ce3cdd5dd502358260302159ce5202826c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c90e3bdee3f423a2851f31667bf39e1362ce8f5.png",
     "website": "https://www.joinplanbase.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Planbase has everything modern clinics need to manage their team in one place: capacity planning, employee scheduling, availability management, credentialing and payroll.\r\n",
+    "long_description": "Planbase has everything health clinics need to manage their team in one place: capacity planning, employee scheduling, credentialing and payroll.\r\n",
     "one_liner": "Workforce management for modern healthcare ",
     "team_size": 2,
     "highlight_black": false,
@@ -48130,10 +48081,10 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1723528837,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48552,10 +48503,10 @@
     "launched_at": 1721337823,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48773,9 +48724,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d744652d044db8fd7d6b6b8562f875c5a349c5.png",
     "website": "https://www.tryandai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "&AI is a platform for patent due diligence. We help attorneys, investors and inventors conduct research for patent prosecution, IP litigation, and portfolio management.",
+    "long_description": "&AI is a patent due diligence platform for attorneys, inventors, and investors. We enable research and create work products for patent prosecution, IP litigation, and portfolio management.",
     "one_liner": "The definitive platform for patent due diligence",
-    "team_size": 2,
+    "team_size": 4,
     "highlight_black": true,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -48799,9 +48750,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -49051,7 +49000,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f562e2265bcd5600f4ba364e50019b9ca9ba417.png",
     "website": "https://www.tradeflowai.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "TradeFlow is an AI-powered software that automates stock trade settlement for financial firms. During her time in financial services, Taryn saw firsthand how inefficient and costly it is to settle trades. Historically, it’s been difficult to improve this process because it’s heavily reliant on manual emails, disparate systems, and inconsistently structured data. However, the advent of powerful AI technology allows us to unlock greater automation than ever before. TradeFlow empowers back offices to do more with less by offloading these time-intensive tasks to AI.",
+    "long_description": "TradeFlow is AI-powered settlement for financial securities. During her time in financial services, Taryn saw firsthand how inefficient and costly it is to settle trades. Historically, it’s been difficult to improve this process because it’s heavily reliant on manual emails, disparate systems, and inconsistently structured data. However, the advent of powerful AI technology allows us to unlock greater automation than ever before. TradeFlow empowers back offices to do more with less by offloading these time-intensive tasks to AI.",
     "one_liner": "We build AI software to automate stock trade settlement.",
     "team_size": 2,
     "highlight_black": false,
@@ -49061,11 +49010,11 @@
     "subindustry": "Fintech",
     "launched_at": 1721925578,
     "tags": [
-      "Artificial Intelligence",
       "FinOps",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49236,7 +49185,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a8bc8b5c8de45073e0d61917890db15c4ddc8cb.png",
     "website": "https://www.anglera.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Anglera, we're building an AI-native system of record for e-commerce.\r\n\r\nWe previously enriched millions of products at Uber Eats, and we're leveraging our Stanford AI expertise to reimagine how business manage product data at scale. This is an existing $10B software category (Product Information Management).",
+    "long_description": "At Anglera, we're building an AI-native system of record for e-commerce.\r\n\r\nWe previously enriched millions of products at Uber Eats, and we're leveraging our Stanford AI expertise to reimagine how businesses manage product data at scale. This is an existing $10B software category (Product Information Management).",
     "one_liner": "The smartest way to manage product data",
     "team_size": 2,
     "highlight_black": false,
@@ -49247,10 +49196,10 @@
     "launched_at": 1719875304,
     "tags": [
       "Artificial Intelligence",
+      "Machine Learning",
       "SaaS",
       "B2B",
-      "E-commerce",
-      "API"
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49281,7 +49230,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d24f87db5131a298b5fd35aba59870c07522d6f.png",
     "website": "https://www.formulainsight.io/",
-    "all_locations": "",
+    "all_locations": "New York, NY, USA",
     "long_description": "Formula Insight gives hedge funds a central repository of their financial models and lets them track changes in their forecasts so they can make better investment decisions.",
     "one_liner": "Database for Hedge Funds to store, query and analyze financial models",
     "team_size": 2,
@@ -49292,10 +49241,10 @@
     "subindustry": "B2B",
     "launched_at": 1721802502,
     "tags": [
+      "Fintech",
       "SaaS",
       "B2B",
       "Workflow Automation",
-      "Productivity",
       "Enterprise Software"
     ],
     "tags_highlighted": [],
@@ -49308,7 +49257,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
