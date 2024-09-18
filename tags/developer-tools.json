@@ -6300,7 +6300,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S20",
     "status": "Active",
@@ -17394,11 +17394,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688142176,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "DevSecOps",
       "Machine Learning",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18136,49 +18136,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/paradedb",
     "api": "https://yc-oss.github.io/api/batches/s23/paradedb.json"
-  },
-  {
-    "id": 29103,
-    "name": "Ten",
-    "slug": "ten",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88098d68dfc7b53629e20f25f6c3a783f2b6c1fb.png",
-    "website": "https://ten.dev",
-    "all_locations": "Limerick, County Limerick, Ireland",
-    "long_description": "Ten analyses pull requests to generate context diagrams and comments for affected functions.\r\n\r\nAuthors explain why changes were made by replying to Ten, replies are used as context for future pull requests.\r\n\r\nReviewers use Ten to quickly understand modified code and flag potential side effects elsewhere in the codebase.\r\n",
-    "one_liner": "Helping developers understand code remarkably fast.",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1690946743,
-    "tags": [
-      "Developer Tools",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Ireland",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ten",
-    "api": "https://yc-oss.github.io/api/batches/s23/ten.json"
   },
   {
     "id": 29105,
@@ -19588,9 +19545,9 @@
     "subindustry": "B2B",
     "launched_at": 1709681560,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Infrastructure",
-      "AI",
       "Conversational AI",
       "AI Assistant"
     ],
@@ -20782,9 +20739,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45f0e7293aa7c9b30e23484958f756fccacc81c0.png",
     "website": "https://runlocal.ai",
-    "all_locations": "",
-    "long_description": "Neuralize helps engineering teams ship better on-device AI faster and without the hassle. It's a single web platform to host AI models, apply model compression, benchmark on our device farm, evaluate performance-quality trade-offs, and deploy optimized on-device models to end-users. Contact us if you work with on-device AI/ML in production.\r\n\r\n",
-    "one_liner": "Ship better on-device AI faster and without the hassle",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Neuralize enables engineering teams to continuously deploy on-device AI/ML models that are tailored to users’ specific phones/laptops. Our platform automates model optimization, benchmarking on test devices, and over-the-air model delivery — whenever users' devices update.",
+    "one_liner": "The On-Device AI Deployment Platform ",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -20809,7 +20766,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -20839,9 +20797,9 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1723607809,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Productivity"
+      "Productivity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21243,8 +21201,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f1dbd87ba1f72f5d3f7bc950ca874d61b4ac849.png",
     "website": "https://www.magicode.ai/",
     "all_locations": "Stanford, CA, USA",
-    "long_description": "MagiCode makes the last mile delivery of AI-generated code. MagiCode performs real time code reviews inside the editor, ensuring that any AI-generated/pasted code is bug free, context-aware, and production ready.",
-    "one_liner": "Last mile delivery of AI-generated code",
+    "long_description": "MagiCode is a realtime code review system for AI-generated code. MagiCode acts as the communication channel between any AI code-writing tool and the human developer by offering realtime feedback and suggestions, helping to ensure the generated code is bug-free, context-aware, and production-ready.",
+    "one_liner": "Realtime code review for AI generated code",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -21706,8 +21664,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4710258b532336aba66453d3f5d6d2c4a3026d4.png",
     "website": "https://zigma.io",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "We began with an open-source library for React developers that enables them to create beautiful and accessible interfaces (NextUI). We are now building a complete frontend-as-a-service platform to make building the frontend part of products easier, allowing teams to focus more on their product and less on design systems and frontend complexities (zigma.io).",
-    "one_liner": "Design system creation & management platform.",
+    "long_description": "We began with an open-source library for React developers that enables them to create beautiful and accessible interfaces (NextUI). We are now building Zigma a complete frontend-as-a-service platform to make building the frontend part of products easier, allowing teams to focus more on their product and less on design systems and frontend complexities (zigma.io).",
+    "one_liner": "We connect your design files to production code in minutes",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": true,
@@ -21718,7 +21676,8 @@
     "tags": [
       "Developer Tools",
       "SaaS",
-      "Design Tools"
+      "Design Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21799,8 +21758,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd70ee2d072b5f54e3fd3fc0e2531e49708b3fa7.png",
     "website": "https://zeropath.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ZeroPath is a developer tool that autonomously detects, verifies, and submits fixes for vulnerabilities in your code. Engineers can link their existing SAST tools to ZeroPath for validation and triage, significantly reducing the time and cost per vulnerability fix. Developers can also easily modify patches or perform regular development tasks by issuing natural language commands to @zeropath-ai in pull requests.",
-    "one_liner": "Automatically find, verify, and fix web app vulnerabilities",
+    "long_description": "ZeroPath is a developer tool that autonomously detects, verifies, and submits fixes for vulnerabilities in your code. Engineers can use ZeroPath to find security problems that they might only otherwise catch in pentests or from bug bounty researchers. Developers can also easily modify patches or perform regular development tasks by issuing natural language commands to @zeropath-ai in pull requests.",
+    "one_liner": "Automatically find, verify, and fix software vulnerabilities",
     "team_size": 4,
     "highlight_black": false,
     "highlight_latinx": true,
@@ -21809,11 +21768,11 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1718222641,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Security",
-      "Cybersecurity",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
