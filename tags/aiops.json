@@ -1466,6 +1466,7 @@
     "tags": [
       "AIOps",
       "B2B",
+      "Automation",
       "Operations"
     ],
     "tags_highlighted": [],
@@ -1586,54 +1587,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/elevate-2.json"
   },
   {
-    "id": 29751,
-    "name": "Opslane",
-    "slug": "opslane",
-    "former_names": [
-      "TBD"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb6bdec6d811fcf222549436bd6be5f9214dd6c4.png",
-    "website": "https://opslane.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Opslane reduces the alert fatigue that overwhelms on-call engineers and leads to millions in lost productivity and downtime. \r\n\r\nWe add critical business, customer, and revenue impact to alerts, enabling teams to quickly identify and resolve the most impactful issues.\r\n\r\nAre noisy alerts a hair on fire problem for your company, or someone you know? We'd love to hear from you - email founders@opslane.com.",
-    "one_liner": "Open-source tool to reduce noisy alerts",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1721925789,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/opslane",
-    "api": "https://yc-oss.github.io/api/batches/s24/opslane.json"
-  },
-  {
     "id": 29782,
     "name": "Laminar AI",
     "slug": "laminar-ai",
@@ -1734,8 +1687,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/290c0065a5ffe07236a3cc433e4c722863914784.png",
     "website": "https://pipeshift.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pipeshift is the cloud platform for finetuning and inferencing open-source LLMs, helping engineering teams get to production with their LLMs faster than ever.\r\nWith Pipeshift, companies making >1000 calls/day on frontier LLMs can use their data and logs to replace GPT/Claude with specialized LLMs that offer higher accuracy, lower latencies, and model ownership.",
-    "one_liner": "Fine-tuning and Inferencing for Open-source LLMs.",
+    "long_description": "Pipeshift is the \"Vercel for open-source LLMs\", offering a platform for finetuning, distilling, and inferencing open-source LLMs for engineering teams to get to production with their LLMs 10x faster. With Pipeshift, companies making >1000 calls/day on frontier LLMs can use their data and logs to replace GPT/Claude in production with specialized LLMs that offer higher accuracy, lower latencies, and model ownership.\r\n\r\nWe are experts in LLMs, having scaled LLMs to 1000s of users in 2023. That's when we saw the massive drawbacks of closed-source LLMs in production, making us start Pipeshift AI. We met 6 years back as roommates during undergrad, and before starting Pipeshift AI, we led a defense robotics non-profit backed by NVIDIA and built a health-tech startup.\r\n\r\nThe shift to AI is like the shift to the cloud, every company is going to implement AI. And, open-source AI will be as good as closed-source AI. Meta's Llama 3.1 models prove that. But, the open-source AI stack is a complete mess, with companies needing a team of engineers to set up 10+ different tools just to get started and every optimization needs 1000s of engineering hours.\r\n\r\nPipeshift offers this stack out of the box. With our fine-tuning + distilling platform and one-click deployment stack for hosting these LLMs, we ensure 10x faster experimentation cycles and time-to-production. Think \"Vercel for open-source LLMs\".",
+    "one_liner": "Platform for Fine-tuning, Distilling and Inferencing Open-source LLMs.",
     "team_size": 8,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -1745,8 +1698,10 @@
     "launched_at": 1717199794,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Generative AI",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

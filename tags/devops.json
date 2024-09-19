@@ -1532,11 +1532,11 @@
     "former_names": [
       "Patchwork"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9636232e9fd3e1292610b435b2210aa9bb6571f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f03303e10fc7a386927151fea9b210f581a40738.png",
     "website": "https://getpatchwork.io",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Patchwork automates logging from code to storage. We make it simple to implement actionable, context-rich logging across your entire codebase",
-    "one_liner": "Building the next generation logging and observability platform",
+    "long_description": "Patchwork automates logging from code to storage. We make it simple to implement actionable, structured logging across your entire codebase",
+    "one_liner": "The next generation logging and observability platform",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -1572,6 +1572,54 @@
     "api": "https://yc-oss.github.io/api/batches/s24/patchwork-technologies.json"
   },
   {
+    "id": 29654,
+    "name": "Moonglow",
+    "slug": "moonglow",
+    "former_names": [
+      "Kopfkino"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7782bd4ff8b915f629867117b0ee24a39f15ab9.png",
+    "website": "https://moonglow.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Moonglow connects local Jupyter notebooks to remote cloud compute. Machine learning researchers and data scientists use us to scale up their experiments without having to do DevOps.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at ACL and ICLR.\r\n\r\nWith the explosive growth of deep learning, there are over 1 million ML researchers who do computationally intensive experiments every day. They use Jupyter notebooks to do so, but every time they want to try out a new idea, they need to get the notebooks running on cloud machines. This process, repeated hundreds of times a month, is time-consuming and error-prone.\r\n\r\nMoonglow reliably brings the time-to-experiment down from 5 minutes to 20 seconds. Just as Vercel and Replit abstracted away the lower levels of the computing stack for web developers and programmers, we do the same for ML researchers.\r\n\r\nhttps://moonglow.ai\r\n",
+    "one_liner": "Connecting local Jupyter notebooks to remote cloud compute.",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1721868567,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "DevOps",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moonglow",
+    "api": "https://yc-oss.github.io/api/batches/s24/moonglow.json"
+  },
+  {
     "id": 29660,
     "name": "Kura",
     "slug": "kura",
@@ -1579,7 +1627,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0935dc69df212430399abcf4c622841465846f8c.png",
     "website": "https://www.usekura.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kura is an intelligent copilot that helps software teams build more quickly and confidently on the cloud. Kura integrates directly with services like AWS to help provision infrastructure, respond to incidents, and search over complex cloud systems.",
+    "long_description": "Kura is a DevOps copilot that helps software teams manage their cloud infrastructure. \r\nKura integrates directly with services like AWS to help respond to incidents, provision resources, and search over your entire cloud. Developers today spend 30% of their time managing cloud infra, and we cut that by 10x so teams can get back to shipping features quickly.\r\n\r\nKura's founding team includes CEO Mark Dawson, an engineer and second time founder, and CTO Trevor Reed, former Google engineer and Mars Rover driver at NASA JPL.",
     "one_liner": "The AI DevOps Copilot for Software Teams",
     "team_size": 2,
     "highlight_black": false,
@@ -1590,8 +1638,8 @@
     "launched_at": 1724200248,
     "tags": [
       "Developer Tools",
-      "Chat",
       "DevOps",
+      "Cloud Computing",
       "Infrastructure",
       "AI Assistant"
     ],
@@ -1607,7 +1655,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1708,5 +1758,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/parity",
     "api": "https://yc-oss.github.io/api/batches/s24/parity.json"
+  },
+  {
+    "id": 29751,
+    "name": "Opslane",
+    "slug": "opslane",
+    "former_names": [
+      "TBD"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb6bdec6d811fcf222549436bd6be5f9214dd6c4.png",
+    "website": "https://opslane.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Opslane speeds up incident resolution by automating work that is performed by short staffed SRE teams. \r\n\r\nWe do this by stitching together relevant context (logs, metrics, traces, code changes and runbooks) to help on-call engineers figure out what's going on.",
+    "one_liner": "AI SRE to speed up incident response",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1721925789,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Enterprise",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/opslane",
+    "api": "https://yc-oss.github.io/api/batches/s24/opslane.json"
   }
 ]
