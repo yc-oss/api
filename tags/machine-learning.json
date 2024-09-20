@@ -9205,7 +9205,10 @@
     "id": 29296,
     "name": "Simplex",
     "slug": "simplex",
-    "former_names": [],
+    "former_names": [
+      "Simplex",
+      "Pansimulate"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/913e6b51c430adf62219064ece8a440650c1dba0.png",
     "website": "https://simplex.sh",
     "all_locations": "San Francisco, CA, USA",
@@ -9216,7 +9219,7 @@
     "highlight_latinx": false,
     "highlight_women": true,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723709594,
     "tags": [
       "Artificial Intelligence",
@@ -9257,7 +9260,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
     "website": "https://www.guidelabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Guide labs, we build interpretable foundation models that can reliably explain their reasoning, and are easy to align. We provide access to these models via an API. Over the past 6 years, our team has built and deployed interpretable models at Meta, and Google. \r\n\r\nOur models provide explanations that:  \r\n1) provide human-understandable explanations, for each output token, \r\n2) which parts of the input (prompt) is most important for each part of the generated output, and \r\n3) which inputs, in the training data, directly led to the model's generated output. \r\n\r\nBecause our models can explain their outputs, they are easier to debug, steer, and align. ",
+    "long_description": "At Guide labs, we build interpretable foundation models, on any data modality, that can reliably explain their reasoning, and are easy to steer and debug. We provide access to these models via an API. \r\n\r\nOur models provide explanations in human-understandable terms, highlight which parts of the input is most important for the model's output, and  which inputs, in the training data, directly led to the model's generated output. ",
     "one_liner": "Interpretable foundation models that are easy to steer and understand",
     "team_size": 2,
     "highlight_black": true,
@@ -9267,10 +9270,10 @@
     "subindustry": "B2B",
     "launched_at": 1709806941,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Machine Learning",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9524,6 +9527,55 @@
     "api": "https://yc-oss.github.io/api/batches/s24/undermind.json"
   },
   {
+    "id": 29611,
+    "name": "mdhub",
+    "slug": "mdhub",
+    "former_names": [
+      "mdhub Inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2f1eb2c1129f64d032a91cee4b0a0b5cbae5b8c.png",
+    "website": "https://www.mdhub.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "mdhub is building AI assistants for mental health clinics to efficiently run their operations. \r\n\r\nInstead of seeing patients, mental health clinicians spend 50% of their time on other tasks, delaying access to mental health care. We aim to help mental health clinicians become 10x more efficient with mdhub by automating everything that occurs before, during, and after they see patients.\r\n",
+    "one_liner": "AI assistants for mental health clinics to efficiently run their ops",
+    "team_size": 6,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1720483554,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Digital Health",
+      "Healthcare",
+      "Mental Health"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mdhub",
+    "api": "https://yc-oss.github.io/api/batches/s24/mdhub.json"
+  },
+  {
     "id": 29654,
     "name": "Moonglow",
     "slug": "moonglow",
@@ -9540,7 +9592,7 @@
     "highlight_latinx": false,
     "highlight_women": true,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721868567,
     "tags": [
       "Artificial Intelligence",
@@ -9631,7 +9683,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722617907,
     "tags": [
       "Developer Tools",
@@ -9666,7 +9718,8 @@
     "name": "MinusX",
     "slug": "minusx",
     "former_names": [
-      "minusone.ai"
+      "minusone.ai",
+      "minusx.ai"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/92dbd9d186e22d922d985755f90407e21859378a.png",
     "website": "https://minusx.ai",
@@ -9812,7 +9865,7 @@
     "name": "FINNY AI",
     "slug": "finny-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa60c1c440fe1c4c74e959895e4b7cf0dc09a7a1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4b1314259fa54085f5a8aebfce665d01140cd17.png",
     "website": "https://www.finnyai.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Growth is the number one priority for all Financial Advisors. \r\n                                                                                                                                                                   \r\nHowever, the organic growth process is highly inefficient and full of noise. Advisors often waste hours building prospect lists by aggregating information across horizontal solutions like Linkedin, ZoomInfo, Pitchbook, qualifying these leads, setting up meetings, and spending time on unqualified prospects. Advisors spend an average of 58 hours on business development for every 1 new client converted, and have <1% conversion rates.\r\n                                                                                                                                                               \r\nDue to the time-intensive nature of organic growth, advisors often turn to inorganic avenues for growing, via M&A, despite those being far less capital efficient.\r\n\r\nAt FINNY, we are certain we can do better with AI. With our tool, advisors can:\r\n- Identify prospects within their target niche, aggregating thousands of data points per lead\r\n- Prioritize prospects based on their predicted likelihood of converting, a score unique to each advisor and prospect pair\r\n- Automate the outreach and meeting scheduling with their high priority prospects\r\n\r\nIn short, FINNY is the one-stop shop for advisors when growing their book of business, starting by solving prospecting. \r\n\r\nFINNY launched paid pilots in May to select RIAs, and our waitlist grew to 30 firms in under one month.",
@@ -9902,7 +9955,9 @@
     "id": 29777,
     "name": "Exa Laboratories",
     "slug": "exa-laboratories",
-    "former_names": [],
+    "former_names": [
+      "Exa Labs"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cdbcac53e6942fed7f69509eb7dbfe11272c685.png",
     "website": "https://exalaboratories.com",
     "all_locations": "San Francisco, CA, USA",
@@ -9950,10 +10005,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e8f6d3db65691d588f5769ee5f350c062cf8671.png",
     "website": "https://www.cartage.ai",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Cartage is the future of freight coordination. Transparent, tech-driven and eliminating the need for human coordinators.",
     "one_liner": "Autonomous freight coordination",
-    "team_size": 4,
+    "team_size": 8,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -9964,6 +10019,7 @@
       "Machine Learning",
       "Workflow Automation",
       "Logistics",
+      "Supply Chain",
       "AI"
     ],
     "tags_highlighted": [],
@@ -9977,6 +10033,8 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -9992,7 +10050,9 @@
     "id": 29799,
     "name": "Helium",
     "slug": "helium",
-    "former_names": [],
+    "former_names": [
+      "CloudCaptain"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e636a3e769f4147545c35c1b93dfab260ce92e8.png",
     "website": "https://tryhelium.com",
     "all_locations": "San Francisco, CA, USA",
@@ -10087,12 +10147,14 @@
     "id": 29957,
     "name": "Anglera",
     "slug": "anglera",
-    "former_names": [],
+    "former_names": [
+      "Angler"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a8bc8b5c8de45073e0d61917890db15c4ddc8cb.png",
     "website": "https://www.anglera.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Anglera, we're building an AI-native system of record for e-commerce.\r\n\r\nWe previously enriched millions of products at Uber Eats, and we're leveraging our Stanford AI expertise to reimagine how businesses manage product data at scale. This is an existing $10B software category (Product Information Management).",
-    "one_liner": "The smartest way to manage product data",
+    "long_description": "At Anglera, we're building an AI-native operating system for e-commerce.\r\n\r\nWe previously enriched millions of products at Uber Eats, and we're leveraging our Stanford AI expertise to reimagine how businesses manage product data at scale. This is an existing $10B software category (Product Information Management).",
+    "one_liner": "AI-native operating system for e-commerce",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -10101,11 +10163,11 @@
     "subindustry": "B2B -> Retail",
     "launched_at": 1719875304,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "B2B",
-      "E-commerce"
+      "E-commerce",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

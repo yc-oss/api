@@ -3756,12 +3756,14 @@
     "id": 29750,
     "name": "Asterisk",
     "slug": "asterisk",
-    "former_names": [],
+    "former_names": [
+      "Stition"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9d0d2f6b82ad16085947b8f50c8befcd9a6f3f7.png",
     "website": "https://asterisk.so",
     "all_locations": "",
-    "long_description": "Asterisk (asterisk.so) is an AI Hacker for Codebases. It automatically finds, verifies, and patches security vulnerabilities in your codebase, enabling continuous security checks without slowing down your development process.\r\n\r\nAsterisk can find business logic errors with context-aware scanning and automate the full auditing cycle to generate reports with near-zero false positives.",
-    "one_liner": "AI-augmented security audits for modern development teams.",
+    "long_description": "Asterisk (asterisk.so) is an AI Hacker for Codebases. It automatically finds, verifies, and patches security vulnerabilities in codebases, just like a human security engineer would.\r\n\r\n\r\nAsterisk can find business logic errors with context-aware scanning and automate the full auditing cycle to generate reports with near-zero false positives.\r\n\r\n\r\nAsterisk has autonomously discovered vulnerabilities in Google, Hoppscotch, and others.",
+    "one_liner": "AI Hacker for Codebases",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -3840,49 +3842,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/guardian-rf",
     "api": "https://yc-oss.github.io/api/batches/s24/guardian-rf.json"
-  },
-  {
-    "id": 29788,
-    "name": "Blast",
-    "slug": "blast",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29292a3f650e36337a51d3b02a933f32d892da35.png",
-    "website": "https://blastsec.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Blast offers automated tooling to rigorously evaluate generative AI apps for a wide array of failure modes to help even the most risk-averse companies adopt generative AI safely and confidently.",
-    "one_liner": "Helping enterprises build safe and compliant LLM apps/agents",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "Education",
-    "launched_at": 1724647952,
-    "tags": [
-      "Security",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/blast",
-    "api": "https://yc-oss.github.io/api/batches/s24/blast.json"
   },
   {
     "id": 29812,

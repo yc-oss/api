@@ -2867,10 +2867,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1717266827,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
       "Aerospace",
       "Enterprise Software",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -2903,7 +2903,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a01850274c75354216d6176ea84a00b84aa83cb.png",
     "website": "https://www.entangl.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Entangl is automating hardware design end-to-end without errors. Currently, our AI agent automatically detects errors in hardware design as engineering teams work. For each error detected, Entangl also suggests a detailed step-by-step solution. \r\n\r\nWe are also actively training our next AI agent that can autonomously implement solutions (think code completion but for hardware).\r\n\r\nErrors being caught too late are the number one reason that engineering projects get delayed by detecting them instantly, projects move faster.",
+    "long_description": "Entangl is automating engineering design. Starting with datacenter design, our AI agent automatically detects errors while engineering teams work. For each error detected, Entangl suggests a detailed step-by-step solution.\r\n\r\n20,000 datacenters are being built every year, making this a massive market.\r\n\r\nWe are also actively training our next AI agent that can autonomously implement solutions (think code completion but for hardware engineering).",
     "one_liner": "Automating hardware design end-to-end without errors",
     "team_size": 2,
     "highlight_black": false,
@@ -2937,7 +2937,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/entangl",
     "api": "https://yc-oss.github.io/api/batches/s24/entangl.json"
   },
@@ -2945,12 +2945,14 @@
     "id": 29648,
     "name": "Honeycomb",
     "slug": "honeycomb",
-    "former_names": [],
+    "former_names": [
+      "Rho AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cef9dfb1223cd3b81075ffad20c2fdf90473d781.png",
     "website": "https://honeycomb.sh/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Honeycomb is building agents to automate tasks across the entire software development lifecycle. Our agents are state-of-the-art, achieving 22% on the SWE-Bench coding benchmark.",
-    "one_liner": "Building agents that can code.",
+    "one_liner": "Autonomous Software Agents",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -2959,9 +2961,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724662021,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2995,7 +2997,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4c9c1ca34943210e8eb096916507b35ab33bece.png",
     "website": "https://www.trypulse.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pulse AI simplifies the procurement process for mid-market and large enterprises by utilizing LLMs to automate supply chain actions.\r\n\r\nProcessing unstructured data in the form of emails, RFQs, PRs takes up over 40% of supply chain management time. Pulse AI develops recommendations from siloed communication with suppliers by integrating with procurement teams' existing tools—ranging from email, document suites, and ERPs. \r\n\r\nPulse structures this data to build our search engine (think Glean for supply chain) and automates tasks such as purchase order management, invoice matching for accounts payable, and vendor communications. ",
+    "long_description": "Pulse automates procurement with AI to reduce supply chain risk. Our AI agents eliminate the time wasted on fragmented supply chain data in emails, spreadsheets, and ERPs.",
     "one_liner": "Procurement on autopilot",
     "team_size": 2,
     "highlight_black": false,
@@ -3080,7 +3082,9 @@
     "id": 29717,
     "name": "Conveo",
     "slug": "conveo",
-    "former_names": [],
+    "former_names": [
+      "Conveo.ai"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be917e02391c4f6a7e2852343b9919dbbb24d2e6.png",
     "website": "https://conveo.ai/",
     "all_locations": "San Francisco, CA, USA",
@@ -3171,7 +3175,9 @@
     "id": 29740,
     "name": "Redouble AI",
     "slug": "redouble-ai",
-    "former_names": [],
+    "former_names": [
+      "Deconvolute AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e13268bccc689331aeb895ce0dfa6583a9c1b0d4.png",
     "website": "https://redouble.ai/",
     "all_locations": "San Francisco, CA, USA",
@@ -3182,7 +3188,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B",
     "launched_at": 1724701202,
     "tags": [
       "Artificial Intelligence",
@@ -3271,7 +3277,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1721748598,
     "tags": [
       "B2B",
@@ -3306,7 +3312,9 @@
     "id": 29779,
     "name": "The Forecasting Company",
     "slug": "the-forecasting-company",
-    "former_names": [],
+    "former_names": [
+      "The Forecasting Co"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/983383728c2382109365d3629889d96ec8743656.png",
     "website": "https://www.theforecastingcompany.com",
     "all_locations": "Paris, Île-de-France, France",
@@ -3317,7 +3325,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B",
     "launched_at": 1721958475,
     "tags": [
       "B2B",
@@ -3347,30 +3355,78 @@
     "api": "https://yc-oss.github.io/api/batches/s24/the-forecasting-company.json"
   },
   {
+    "id": 29788,
+    "name": "Blast",
+    "slug": "blast",
+    "former_names": [
+      "Affix"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/491bc3e14f2a2109e453def9bad93c9ac0db7f3e.png",
+    "website": "https://blastsec.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Blast helps large enterprises build safe and reliable LLM apps. We provide a platform to help enterprises rigorously evaluate and turn their generative AI prototypes into reliable apps that can be confidently deployed at scale.\r\n\r\n",
+    "one_liner": "Building safe and compliant LLM apps/agents for enterprises",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1724647952,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blast",
+    "api": "https://yc-oss.github.io/api/batches/s24/blast.json"
+  },
+  {
     "id": 29792,
     "name": "Winford AI",
     "slug": "winford-ai",
     "former_names": [
-      "FundAImental"
+      "FundAImental",
+      "fundaimental",
+      "Fundaimental"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdcf01f892f2f6cf5a47d68818067a5d316eb12a.png",
     "website": "https://winford.ai/",
     "all_locations": "New York, NY, USA",
     "long_description": "Winford AI helps institutional credit investors monitor their loan portfolios and make better underwriting decisions. Our AI automatically extracts data from financial reporting packages and legal documents, helping portfolio managers invest in the right businesses and saving analysts hours every week.",
-    "one_liner": "AI-Powered Software for Institutional Credit Investors",
+    "one_liner": "AI-Powered Underwriting and Monitoring for Institutional Credit Funds",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1722879025,
     "tags": [
+      "Artificial Intelligence",
       "Finance",
       "Workflow Automation",
       "Productivity",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3504,7 +3560,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721636551,
     "tags": [
       "SaaS",
@@ -3641,14 +3697,13 @@
     "highlight_latinx": false,
     "highlight_women": true,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B",
     "launched_at": 1722038915,
     "tags": [
-      "SaaS",
+      "Artificial Intelligence",
       "Construction",
-      "Manufacturing",
-      "Enterprise Software",
-      "AI"
+      "B2B",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,

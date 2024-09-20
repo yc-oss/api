@@ -2253,8 +2253,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0725d56b3f25795eb6a4bdff83720f3b685c1167.png",
     "website": "https://www.relate.so/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Relate is a simple, collaborative sales CRM for startups and SMBs.",
-    "one_liner": "Simple sales CRM for startups and SMBs.",
+    "long_description": "Relate is HubSpot for APAC. We combine B2B marketing and sales into one platform.",
+    "one_liner": "HubSpot for APAC",
     "team_size": 7,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -3970,14 +3970,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b466ed207f7ecd72989b10237037b204765513f2.png",
     "website": "https://trypinnacle.app/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pinnacle is Klaviyo for RCS, the new standard for SMS that embeds apps. Our no-code tool lets brands send RCS messages to consumers to shop directly in their SMS. \r\n\r\nIf you or someone you know in e-commerce or at a marketing agency for e-commerce wants to increase sales with the next era of SMS marketing, reach out to us for a demo!\r\n\r\n- Email founders@trypinnacle.app OR\r\n- Text (870) 897 7103 OR\r\n- Book a 15 minute meeting: https://calendly.com/founders-at-pinnacle/discovery",
-    "one_liner": "Next Generation SMS Marketing",
+    "long_description": "Pinnacle is an API for RCS, the new standard for SMS for app-like text messages. For example, developers can create messages that show products that can be purchased with one tap natively on iOS and Android.",
+    "one_liner": "SDK for RCS (the next-generation of texting)",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1725406476,
     "tags": [
       "B2B",
@@ -3994,7 +3994,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Marketing"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -4003,7 +4003,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": null,
+    "app_answers": true,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pinnacle",
     "api": "https://yc-oss.github.io/api/batches/s24/pinnacle.json"
@@ -4012,23 +4012,25 @@
     "id": 29852,
     "name": "AI Sell",
     "slug": "ai-sell",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e95c3064e61ac7181ef0f8cc128b99e870d3c477.png",
+    "former_names": [
+      "Teleport Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2330225b52fb2e2499999f2f54833ade2c359de.png",
     "website": "https://www.aisell.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building AI Sales Associates for Shopify brands. Traditional brick-and-mortar retail stores rely on sales associates to provide personalized customer service, guide product discovery and close sales, but it's always been too expensive and unscaleable for online stores. We work with Shopify brands to build AI agents that are experts in their products and can gently steer customers to a purchase, delighting customers and lifting conversion/AOV.\r\n\r\nJerry and Jeffrey are brothers who previously worked together to scale The Coding School to a 6mil+ in revenue. Jerry built software to help run the 50+ Shopify brands that Openstore acquired more profitably and efficiently. He was also an engineer at Flexport and Google.\r\n\r\nJeffrey previously worked at DRW as a quant trader, and as an engineer at Facebook, Snowflake and Amazon.\r\n",
+    "long_description": "We're building AI Sales Associates for eCommerce. Imagine going on nike.com and facetiming an AI Lebron James and getting his advice on which his shoes to buy. Traditional brick-and-mortar retail stores rely on sales associates to provide personalized customer service, guide product discovery and close sales, but it's always been too expensive and unscaleable for online stores. We're building video-based AI agents that are experts in their products and can gently steer customers to a purchase, delighting customers and lifting conversion/AOV.\r\n\r\nJerry and Jeffrey are brothers who previously worked together to scale The Coding School to a 6mil+ in revenue. Jerry built software to help run the 50+ Shopify brands that Openstore acquired more profitably and efficiently. He was also an engineer at Flexport and Google.\r\n\r\nJeffrey previously worked at DRW as a quant trader, and as an engineer at Facebook, Snowflake and Amazon.\r\n",
     "one_liner": "AI Sales Associate for Ecommerce",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "Consumer -> Virtual and Augmented Reality",
+    "subindustry": "B2B",
     "launched_at": 1725323188,
     "tags": [
+      "Artificial Intelligence",
       "Sales",
-      "E-commerce",
-      "AI"
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4037,8 +4039,7 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Operations"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -4053,6 +4054,53 @@
     "api": "https://yc-oss.github.io/api/batches/s24/ai-sell.json"
   },
   {
+    "id": 29962,
+    "name": "Kart AI",
+    "slug": "kart-ai",
+    "former_names": [
+      "Omni",
+      "Omni Research"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26d03427ec3ea68c07451c35b4d65e5adcaa30cc.png",
+    "website": "https://kart.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Kart transforms the product discovery experience for the most innovative e-commerce companies. At a fraction of the cost and time, we build customized AI shopping assistants like Amazon Rufus, trained to answer any question on your catalog. ",
+    "one_liner": "The AI shopping assistant for all e-commerce brands",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1722983007,
+    "tags": [
+      "SaaS",
+      "Sales",
+      "E-commerce"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kart-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/kart-ai.json"
+  },
+  {
     "id": 29966,
     "name": "Mica AI",
     "slug": "mica-ai",
@@ -4060,8 +4108,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5673bb763cddf60cddfa3da8562713ab0fdce74.png",
     "website": "https://usemica.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mica automates a company’s entire sales follow-up process. Mica’s AI agents analyze sales calls and other communication, figure out what the prospect cared about the most, build tailored collateral that’s sent to them post-call, and continuously follow up with relevant information until a deal is closed. \r\n\r\nMica provides all the information needed to make a purchasing decision — in one centralized location.\r\n\r\nWith 3M B2B companies in the US alone, and our price of $100/month/seat, this is a 11B market opportunity in just the United States\r\n\r\n\r\nWhile working with with sales teams at their previous jobs, the founders noticed that the best sales reps weren’t just good at selling—they were also elite content creators - crafting tailored collateral like decks, 1-pagers, demos and more that their champions used to advocate for them within their companies. \r\n\r\n\r\nHowever, crafting good collateral took over 30 minutes per call. With multiple calls a day, they could only prioritize some of their clients. With Mica, we cut the follow-up creation time from 30 minutes to under 1 minute, allowing them to serve all their clients, leading to more closed deals and more revenue.\r\n",
-    "one_liner": "AI Agents that Build Sales Collateral",
+    "long_description": "Mica builds AI Agents that automate B2B sales. Our agents analyze sales calls, generate tailored collateral, and follow up until the deal is closed.\r\n\r\nThe founders met at UC Berkeley, and at our last jobs, we saw that the best sales reps weren’t just great at selling—they were elite content creators. They crafted tailored collateral like decks and highlight videos for each buyer, and their champions used this info to advocate for purchasing their product within their companies. \r\n\r\nHowever, because this takes more than 30 minutes per call, even the best reps could only do tailored follow-ups for a few clients, leaving millions in lost deals.\r\n\r\nMica’s agents reduce that time to less than a minute. This lets top performers do A+ work on every deal and helps the rest of the team sell like a top performer.\r\n\r\nSales collateral creation and follow-up is a $11b market in the US but this is just our beachhead. We’ll ship a fleet of agents that automate and eventually replace every other facet of the $80b enterprise sales market.  \r\n\r\n",
+    "one_liner": "Al Agents that Automate B2B Sales",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,

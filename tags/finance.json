@@ -2386,58 +2386,12 @@
     "api": "https://yc-oss.github.io/api/batches/w24/dropback.json"
   },
   {
-    "id": 29613,
-    "name": "ClaimSorted",
-    "slug": "claimsorted",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84c63763f18d7ea0f559f538047cb3865f092ccc.png",
-    "website": "https://claimsorted.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "ClaimSorted helps insurance companies remove the hassle of managing claims by enabling them to outsource their claim operations to us. This service is known as a Third Party Administrator (TPA). Unlike traditional TPAs, we blend AI and best-in-class experts to deliver a 5-star customer experience, minimise mistakes and speed up claim assessment.",
-    "one_liner": "Making it easy for insurance companies to process claims",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1715711900,
-    "tags": [
-      "Finance",
-      "B2B",
-      "Health Insurance",
-      "Insurance",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/claimsorted",
-    "api": "https://yc-oss.github.io/api/batches/s24/claimsorted.json"
-  },
-  {
     "id": 29636,
     "name": "Bayesline",
     "slug": "bayesline",
-    "former_names": [],
+    "former_names": [
+      "Bayesline, Inc."
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a34bad8ff76fdef00535145a04bd76a11f215b1.png",
     "website": "https://bayesline.com",
     "all_locations": "New York, NY, USA",
@@ -2483,7 +2437,9 @@
     "id": 29655,
     "name": "Decisional AI",
     "slug": "decisional-ai",
-    "former_names": [],
+    "former_names": [
+      "Decisional AI, Inc."
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c95777ae41d5fc39d9bb0a16dbc6c51ab22a81f7.png",
     "website": "https://www.getdecisional.ai/",
     "all_locations": "San Francisco, CA, USA",
@@ -2494,7 +2450,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "Fintech",
-    "subindustry": "B2B",
+    "subindustry": "Fintech",
     "launched_at": 1723533013,
     "tags": [
       "Fintech",
@@ -2574,7 +2530,7 @@
     "name": "FINNY AI",
     "slug": "finny-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa60c1c440fe1c4c74e959895e4b7cf0dc09a7a1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4b1314259fa54085f5a8aebfce665d01140cd17.png",
     "website": "https://www.finnyai.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Growth is the number one priority for all Financial Advisors. \r\n                                                                                                                                                                   \r\nHowever, the organic growth process is highly inefficient and full of noise. Advisors often waste hours building prospect lists by aggregating information across horizontal solutions like Linkedin, ZoomInfo, Pitchbook, qualifying these leads, setting up meetings, and spending time on unqualified prospects. Advisors spend an average of 58 hours on business development for every 1 new client converted, and have <1% conversion rates.\r\n                                                                                                                                                               \r\nDue to the time-intensive nature of organic growth, advisors often turn to inorganic avenues for growing, via M&A, despite those being far less capital efficient.\r\n\r\nAt FINNY, we are certain we can do better with AI. With our tool, advisors can:\r\n- Identify prospects within their target niche, aggregating thousands of data points per lead\r\n- Prioritize prospects based on their predicted likelihood of converting, a score unique to each advisor and prospect pair\r\n- Automate the outreach and meeting scheduling with their high priority prospects\r\n\r\nIn short, FINNY is the one-stop shop for advisors when growing their book of business, starting by solving prospecting. \r\n\r\nFINNY launched paid pilots in May to select RIAs, and our waitlist grew to 30 firms in under one month.",
@@ -2620,26 +2576,28 @@
     "name": "Winford AI",
     "slug": "winford-ai",
     "former_names": [
-      "FundAImental"
+      "FundAImental",
+      "fundaimental",
+      "Fundaimental"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdcf01f892f2f6cf5a47d68818067a5d316eb12a.png",
     "website": "https://winford.ai/",
     "all_locations": "New York, NY, USA",
     "long_description": "Winford AI helps institutional credit investors monitor their loan portfolios and make better underwriting decisions. Our AI automatically extracts data from financial reporting packages and legal documents, helping portfolio managers invest in the right businesses and saving analysts hours every week.",
-    "one_liner": "AI-Powered Software for Institutional Credit Investors",
+    "one_liner": "AI-Powered Underwriting and Monitoring for Institutional Credit Funds",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1722879025,
     "tags": [
+      "Artificial Intelligence",
       "Finance",
       "Workflow Automation",
       "Productivity",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2678,7 +2636,7 @@
     "highlight_latinx": true,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1721429440,
     "tags": [
       "Fintech",

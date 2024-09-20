@@ -1739,6 +1739,55 @@
     "api": "https://yc-oss.github.io/api/batches/w24/quantic.json"
   },
   {
+    "id": 29387,
+    "name": "Cracked",
+    "slug": "cracked",
+    "former_names": [
+      "Dataneko",
+      "Redshift AI",
+      "Overeasy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7adc8fbafaf4a3e1890d04d10d944845783512c5.png",
+    "website": "https://www.cracked.so/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Playground for Movement",
+    "one_liner": "AI Motion Graphics Copilot",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1722555710,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Design Tools",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cracked",
+    "api": "https://yc-oss.github.io/api/batches/s24/cracked.json"
+  },
+  {
     "id": 29397,
     "name": "Manifold Freight",
     "slug": "manifold-freight",
@@ -1841,7 +1890,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a01850274c75354216d6176ea84a00b84aa83cb.png",
     "website": "https://www.entangl.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Entangl is automating hardware design end-to-end without errors. Currently, our AI agent automatically detects errors in hardware design as engineering teams work. For each error detected, Entangl also suggests a detailed step-by-step solution. \r\n\r\nWe are also actively training our next AI agent that can autonomously implement solutions (think code completion but for hardware).\r\n\r\nErrors being caught too late are the number one reason that engineering projects get delayed by detecting them instantly, projects move faster.",
+    "long_description": "Entangl is automating engineering design. Starting with datacenter design, our AI agent automatically detects errors while engineering teams work. For each error detected, Entangl suggests a detailed step-by-step solution.\r\n\r\n20,000 datacenters are being built every year, making this a massive market.\r\n\r\nWe are also actively training our next AI agent that can autonomously implement solutions (think code completion but for hardware engineering).",
     "one_liner": "Automating hardware design end-to-end without errors",
     "team_size": 2,
     "highlight_black": false,
@@ -1875,7 +1924,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/entangl",
     "api": "https://yc-oss.github.io/api/batches/s24/entangl.json"
   },
@@ -1894,7 +1943,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1723590693,
     "tags": [
       "AIOps",
@@ -2025,7 +2074,7 @@
     "name": "FINNY AI",
     "slug": "finny-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa60c1c440fe1c4c74e959895e4b7cf0dc09a7a1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4b1314259fa54085f5a8aebfce665d01140cd17.png",
     "website": "https://www.finnyai.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Growth is the number one priority for all Financial Advisors. \r\n                                                                                                                                                                   \r\nHowever, the organic growth process is highly inefficient and full of noise. Advisors often waste hours building prospect lists by aggregating information across horizontal solutions like Linkedin, ZoomInfo, Pitchbook, qualifying these leads, setting up meetings, and spending time on unqualified prospects. Advisors spend an average of 58 hours on business development for every 1 new client converted, and have <1% conversion rates.\r\n                                                                                                                                                               \r\nDue to the time-intensive nature of organic growth, advisors often turn to inorganic avenues for growing, via M&A, despite those being far less capital efficient.\r\n\r\nAt FINNY, we are certain we can do better with AI. With our tool, advisors can:\r\n- Identify prospects within their target niche, aggregating thousands of data points per lead\r\n- Prioritize prospects based on their predicted likelihood of converting, a score unique to each advisor and prospect pair\r\n- Automate the outreach and meeting scheduling with their high priority prospects\r\n\r\nIn short, FINNY is the one-stop shop for advisors when growing their book of business, starting by solving prospecting. \r\n\r\nFINNY launched paid pilots in May to select RIAs, and our waitlist grew to 30 firms in under one month.",
@@ -2071,7 +2120,8 @@
     "name": "Dimely",
     "slug": "dimely",
     "former_names": [
-      "Flex"
+      "Flex",
+      "Kalo"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3c0ebb7e9cc188d3721bc8e308ed808091559dc.png",
     "website": "https://dimely.co/",
@@ -2086,11 +2136,11 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1723104343,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Automation",
-      "Billing",
-      "AI"
+      "Billing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2166,7 +2216,8 @@
     "slug": "actionbase",
     "former_names": [
       "OpenIndex",
-      "Actionbase"
+      "Actionbase",
+      "actionbase"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45e844f16ef43f9b7e0b85af2ef8054c311e8481.png",
     "website": "https://actionbase.co",
@@ -2178,7 +2229,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723408013,
     "tags": [
       "Developer Tools",

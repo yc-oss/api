@@ -1525,14 +1525,14 @@
   },
   {
     "id": 29259,
-    "name": "Hemingway",
-    "slug": "hemingway",
+    "name": "Newton",
+    "slug": "newton",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09ec54ada7cfd98f57fb5bb875b80e539ac05f12.png",
-    "website": "https://hemingwayai.co",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60be510d2b328f6b4aef95a5b8356c88055a5ee2.png",
+    "website": "https://joinnewton.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Modern patient management platform for the retail healthcare market, starting with dentists",
-    "one_liner": "Modern Patient Management for Retail Healthcare",
+    "long_description": "",
+    "one_liner": "AI-Powered Patient Manager for Dentistry",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -1541,10 +1541,10 @@
     "subindustry": "B2B",
     "launched_at": 1704170538,
     "tags": [
-      "Artificial Intelligence",
       "Scheduling",
       "Healthcare",
-      "Dental"
+      "Telecommunications",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1564,8 +1564,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hemingway",
-    "api": "https://yc-oss.github.io/api/batches/w24/hemingway.json"
+    "url": "https://www.ycombinator.com/companies/newton",
+    "api": "https://yc-oss.github.io/api/batches/w24/newton.json"
   },
   {
     "id": 29260,
@@ -1623,7 +1623,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9637a17ef68e79a0e70a53729e5937278fffb4ea.png",
     "website": "https://www.malibou.co",
     "all_locations": "Paris, IDF, France",
-    "long_description": "malibou is a web application helping French SMBs to manage employees, run payroll and track compliance in a single app.\r\n\r\nWhen processing payroll in France, you either have the choice between an accountant with good advice but no way to connect an HRIS with him, or a good HRIS that does not include payroll services. It was time for a change, to finally bring payroll and HR at the same place. \r\n\r\nDue to increasing competition in the space, French payroll engines have just opened their APIs. This allows us to offer a unified payroll and HR solution, which wasn't possible before.\r\n\r\nmalibou was launched 4 months ago and helps more than 40 companies to manage and pay hundreds of employees.",
+    "long_description": "malibou is a web application helping French SMBs to manage employees, run payroll and track compliance in a single app.\r\n\r\nWhen processing payroll in France, you either have the choice between an accountant with good advice but no way to connect an HRIS with him, or a good HRIS that does not include payroll services. It was time for a change, to finally bring payroll and HR at the same place. \r\n\r\nDue to increasing competition in the space, French payroll engines have just opened their APIs. This allows us to offer a unified payroll and HR solution, which wasn't possible before.",
     "one_liner": "the first all-in-one payroll and HR software for French SMBs",
     "team_size": 2,
     "highlight_black": false,
@@ -2115,8 +2115,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bff91e056c2671056dab8785b2f94a03b0d5adb.png",
     "website": "https://fractal-labs.gg/",
     "all_locations": "",
-    "long_description": "Building an RPG with infinite depth powered by our AI game engine. Our vision is a UGC platform where this engine enables users to effortlessly create immersive worlds.\r\n\r\nThe first stage in the road map is our inaugural game, Wizard Cats (https://store.steampowered.com/app/3176500/Wizard_Cats/), with spells, quests, and worlds powered by our engine. Through this Reddit post (https://www.reddit.com/r/LocalLLaMA/comments/1el1et6/were_making_a_game_where_llms_power_spell_and/), we captured the imagination of gamers and found an initial group of playtesters. The next stage is to advance the engine to power generated 3D environments / mechanics and allow any user to create their own open world RPGs.\r\n\r\nFounded by three friends who met in undergrad at Princeton, our experience includes AI at Google Research, engineering at Google & Duolingo, and quant trading at Virtu.",
-    "one_liner": "AI Roblox for open world RPGs",
+    "long_description": "Building AI Roblox. Our vision is a UGC platform where anyone can create games like Skyrim or Black Myth Wukong without knowing how to code.\r\n\r\nThe first stage in the road map is our inaugural game, Wizard Cats (https://store.steampowered.com/app/3176500/Wizard_Cats/), with spells, quests, and worlds powered by our engine. Through this Reddit post (https://www.reddit.com/r/LocalLLaMA/comments/1el1et6/were_making_a_game_where_llms_power_spell_and/), we captured the imagination of gamers and found an initial group of playtesters. The next stage is to advance the engine to power generated 3D environments / mechanics and allow any user to create their own open world RPGs.\r\n\r\nFounded by three friends who met in undergrad at Princeton, our experience includes AI at Google Research, engineering at Google & Duolingo, and HFT quant trading at Virtu.",
+    "one_liner": "AI Roblox for RPGs",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -2125,10 +2125,10 @@
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1705255239,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Gaming",
-      "Social"
+      "Social",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4078,7 +4078,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
     "website": "https://www.guidelabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Guide labs, we build interpretable foundation models that can reliably explain their reasoning, and are easy to align. We provide access to these models via an API. Over the past 6 years, our team has built and deployed interpretable models at Meta, and Google. \r\n\r\nOur models provide explanations that:  \r\n1) provide human-understandable explanations, for each output token, \r\n2) which parts of the input (prompt) is most important for each part of the generated output, and \r\n3) which inputs, in the training data, directly led to the model's generated output. \r\n\r\nBecause our models can explain their outputs, they are easier to debug, steer, and align. ",
+    "long_description": "At Guide labs, we build interpretable foundation models, on any data modality, that can reliably explain their reasoning, and are easy to steer and debug. We provide access to these models via an API. \r\n\r\nOur models provide explanations in human-understandable terms, highlight which parts of the input is most important for the model's output, and  which inputs, in the training data, directly led to the model's generated output. ",
     "one_liner": "Interpretable foundation models that are easy to steer and understand",
     "team_size": 2,
     "highlight_black": true,
@@ -4088,10 +4088,10 @@
     "subindustry": "B2B",
     "launched_at": 1709806941,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Machine Learning",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4303,13 +4303,13 @@
   },
   {
     "id": 29335,
-    "name": "Creo",
-    "slug": "creo",
+    "name": "Toolify",
+    "slug": "toolify",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dda140ccf9838edcec96e76d3655e00315a0b4a7.png",
-    "website": "https://trycreo.com",
+    "website": "https://toolify.sh",
     "all_locations": "Bengaluru, KA, India",
-    "long_description": "Creo is dev-first internal tooling. At some point, companies using low-code builders hit a brick wall, and are bogged down by their limitations rather quickly.\r\n\r\nWe offer:\r\n- A starter kit with sensible defaults,\r\n- A VSCode extension which has AI that creates the internal tool for you, end to end, and,\r\n- A web app where you can deploy your tools.\r\n\r\nThis gives you the best of both worlds -- everything you need to build tools just as fast as low-code, and an escape hatch when you need it.",
+    "long_description": "Toolify is dev-first internal tooling. At some point, companies using low-code builders hit a brick wall, and are bogged down by their limitations rather quickly.\r\n\r\nWe offer:\r\n- A starter kit with sensible defaults,\r\n- A VSCode extension which has AI that creates the internal tool for you, end to end, and,\r\n- A web app where you can deploy your tools.\r\n\r\nThis gives you the best of both worlds -- everything you need to build tools just as fast as low-code, and an escape hatch when you need it.",
     "one_liner": "Build internal tools with AI",
     "team_size": 2,
     "highlight_black": false,
@@ -4342,8 +4342,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/creo",
-    "api": "https://yc-oss.github.io/api/batches/w24/creo.json"
+    "url": "https://www.ycombinator.com/companies/toolify",
+    "api": "https://yc-oss.github.io/api/batches/w24/toolify.json"
   },
   {
     "id": 29336,

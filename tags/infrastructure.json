@@ -2450,7 +2450,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56ef3ec5ae83019ddb5d6898272fd3b9d1089c62.png",
     "website": "https://mem0.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Mem0, we are building the long-term memory for LLMs to enable personalization for the GenAI stack. This enables LLMs to remember past interactions and provide more personalized responses.",
+    "long_description": "Mem0 provides a memory layer for LLM applications, enabling them to remember and learn from user interactions over time.\r\n",
     "one_liner": "The Memory layer for your AI apps",
     "team_size": 4,
     "highlight_black": false,
@@ -2460,9 +2460,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1716511817,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Generative AI",
+      "Open Source",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2487,54 +2489,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/mem0.json"
   },
   {
-    "id": 29613,
-    "name": "ClaimSorted",
-    "slug": "claimsorted",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84c63763f18d7ea0f559f538047cb3865f092ccc.png",
-    "website": "https://claimsorted.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "ClaimSorted helps insurance companies remove the hassle of managing claims by enabling them to outsource their claim operations to us. This service is known as a Third Party Administrator (TPA). Unlike traditional TPAs, we blend AI and best-in-class experts to deliver a 5-star customer experience, minimise mistakes and speed up claim assessment.",
-    "one_liner": "Making it easy for insurance companies to process claims",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1715711900,
-    "tags": [
-      "Finance",
-      "B2B",
-      "Health Insurance",
-      "Insurance",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/claimsorted",
-    "api": "https://yc-oss.github.io/api/batches/s24/claimsorted.json"
-  },
-  {
     "id": 29649,
     "name": "Wordware",
     "slug": "wordware",
@@ -2542,8 +2496,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c770777f9cd85b3f3274575fc6698227327bddb.png",
     "website": "https://wordware.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "1. Collaborative IDE for Building AI Agents \r\n2. At the heart of it, there is a new programming language that merges plain English with concepts like loops, conditional statements and function calling.\r\n3. We also support forking, API deployment and sharing as a hosted app.\r\n4. Think replicate meets replit for Agents with a proprietary programming language.",
-    "one_liner": "IDE for Building AI Agents with Natural Language Programming",
+    "long_description": "1. Collaborative IDE for Building AI Agents \r\n2. At its heart is a new programming language that merges plain English with concepts like loops, conditional statements, and function calling.\r\n3. We also support forking, API deployment and sharing as a hosted app.\r\n\r\nWe have 300,000 users, and many companies paying us between 199 and 10k per month.",
+    "one_liner": "IDE to develop, iterate and deploy AI Agents",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -2553,9 +2507,9 @@
     "launched_at": 1715713232,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2596,7 +2550,7 @@
     "highlight_latinx": false,
     "highlight_women": true,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721868567,
     "tags": [
       "Artificial Intelligence",
@@ -2726,18 +2680,20 @@
     "id": 29728,
     "name": "expand.ai",
     "slug": "expand-ai",
-    "former_names": [],
+    "former_names": [
+      "ExpandAI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a4ca900e14bd5e1d1e19fc8edf43b165d078ff8.png",
     "website": "https://expand.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "expand.ai instantly turns any website into a type-safe API you can rely on.\r\n\r\nYou can either request data from any website instantly or let expand.ai build up datasets for you.\r\n\r\nWe take care of the hard parts like dealing with bot protection, scaling browser infrastructure and making sure that we only extract verified, correct information.",
-    "one_liner": "The scraper to power your AI apps",
+    "one_liner": "Turn any website into an API.",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B",
     "launched_at": 1725734595,
     "tags": [
       "Developer Tools",
@@ -2768,7 +2724,9 @@
     "id": 29767,
     "name": "Thunder Compute",
     "slug": "thunder-compute",
-    "former_names": [],
+    "former_names": [
+      "Thunder"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f41c1e3ea873ecf72e295ba7e2661334c89c3d60.png",
     "website": "https://thundercompute.com",
     "all_locations": "Atlanta, GA, USA",
@@ -2779,7 +2737,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
       "Developer Tools",
@@ -2814,7 +2772,9 @@
     "id": 29950,
     "name": "Pipeshift AI",
     "slug": "pipeshift-ai",
-    "former_names": [],
+    "former_names": [
+      "Xylem AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/290c0065a5ffe07236a3cc433e4c722863914784.png",
     "website": "https://pipeshift.ai",
     "all_locations": "San Francisco, CA, USA",
@@ -2904,7 +2864,9 @@
     "id": 29956,
     "name": "XTraffic",
     "slug": "xtraffic",
-    "former_names": [],
+    "former_names": [
+      "Circuits Evolved"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bccc8d721dd1ad624677c161bcecf5383b7dfc8.png",
     "website": "https://XTraffic.com/",
     "all_locations": "Dallas, TX, USA",
@@ -2915,7 +2877,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "Government",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "Government",
     "launched_at": 1724363826,
     "tags": [
       "Civic Tech",
@@ -2950,7 +2912,11 @@
     "id": 29992,
     "name": "Outerport",
     "slug": "outerport",
-    "former_names": [],
+    "former_names": [
+      "haipera",
+      "Haipera",
+      "Outerbasis"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b04f0fee59f28a3fa66d41bb63e4aef150ce2812.png",
     "website": "https://outerport.com",
     "all_locations": "San Francisco, CA, USA",

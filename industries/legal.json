@@ -763,7 +763,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -1055,7 +1055,7 @@
     "name": "Docsum",
     "slug": "docsum",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa285d8867248995d9e512d56693b98b5a544086.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbbf3c5f2937adf8242a332b8bfc9fbaa18073e3.png",
     "website": "https://www.docsum.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Docsum is an AI contract review and negotiation platform. With Docsum, legal, procurement, and sales teams can negotiate and manage contracts 3x faster, to reduce the time to close and win more deals. Docsum works by analyzing and redlining contracts using configurable playbooks owned by lawyers.\r\n",
@@ -1326,7 +1326,9 @@
     "id": 29731,
     "name": "Olive Legal",
     "slug": "olive-legal",
-    "former_names": [],
+    "former_names": [
+      "Pastel Health"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f7baf06a18eb95e118fcef8277af5190afda01b.png",
     "website": "https://olive.legal",
     "all_locations": "San Francisco, CA, USA",
@@ -1337,7 +1339,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Legal",
     "launched_at": 1724859181,
     "tags": [
       "B2B",
@@ -1466,8 +1468,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52d14c2c72f66c6805d933bc967187d7bfd4fbd9.png",
     "website": "https://rescript.ai/",
     "all_locations": "",
-    "long_description": "Rescript helps regulatory law and government relations teams automate and organize the never-ending process of keeping up to date with every regulatory and political development. \r\n\r\nOur AI-enabled software scans the web for news, writes detailed analysis of hearings and regulations, and helps teams manage all of their workstreams from one platform.\r\n\r\nFor more information, visit www.rescript.ai or contact our team at team@rescript.ai.",
-    "one_liner": "Regulatory and Policy Intelligence for Law and Government Relations",
+    "long_description": "Rescript helps regulatory compliance and advocacy teams effortlessly track the constant stream of legal developments and always stay compliant. With our AI regulatory analyst, companies don't have to rely on expensive consultants or settle for inadequate tools that can't do the job. \r\n\r\n\r\nHow it works: \r\n1. Comprehensive Tracking: Rescript scans the web for government meetings and regulatory documents, feeding them into our internal repository. \r\n\r\n2. Intelligent Filtering: Our tool determines whether a new development involves the customer's regulatory priorities, using reasoning trained by 40+ regulatory analysts from top consulting firms.\r\n\r\n3. Change Management: We sync with existing internal policies and materials, and evaluate them in light of new regulations.  \r\n\r\nFor more information, visit www.rescript.ai or contact our team at team@rescript.ai.",
+    "one_liner": "AI Regulatory Analyst for Enterprises",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -1476,11 +1478,11 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1725406800,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Civic Tech",
       "B2B",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

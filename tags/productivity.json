@@ -1815,6 +1815,53 @@
     "api": "https://yc-oss.github.io/api/batches/w20/clayboard.json"
   },
   {
+    "id": 13233,
+    "name": "Cortex",
+    "slug": "cortex",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00bba81d8d6dbef5184de3d7c801a05f958ef1ec.png",
+    "website": "https://cortex.io/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "​​Cortex is an internal developer portal built to accelerate the path to engineering excellence. Companies like Docker, TripAdvisor, and Dropbox use Cortex to catalog, score, and assign action to improve service quality and velocity, so devs can get back to work that drives the business forward. ",
+    "one_liner": "Cortex is the Internal Developer Portal eliminating “developer tax”…",
+    "team_size": 100,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1581369609,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W20",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cortex",
+    "api": "https://yc-oss.github.io/api/batches/w20/cortex.json"
+  },
+  {
     "id": 13315,
     "name": "Cron",
     "slug": "cron",
@@ -5401,7 +5448,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9637a17ef68e79a0e70a53729e5937278fffb4ea.png",
     "website": "https://www.malibou.co",
     "all_locations": "Paris, IDF, France",
-    "long_description": "malibou is a web application helping French SMBs to manage employees, run payroll and track compliance in a single app.\r\n\r\nWhen processing payroll in France, you either have the choice between an accountant with good advice but no way to connect an HRIS with him, or a good HRIS that does not include payroll services. It was time for a change, to finally bring payroll and HR at the same place. \r\n\r\nDue to increasing competition in the space, French payroll engines have just opened their APIs. This allows us to offer a unified payroll and HR solution, which wasn't possible before.\r\n\r\nmalibou was launched 4 months ago and helps more than 40 companies to manage and pay hundreds of employees.",
+    "long_description": "malibou is a web application helping French SMBs to manage employees, run payroll and track compliance in a single app.\r\n\r\nWhen processing payroll in France, you either have the choice between an accountant with good advice but no way to connect an HRIS with him, or a good HRIS that does not include payroll services. It was time for a change, to finally bring payroll and HR at the same place. \r\n\r\nDue to increasing competition in the space, French payroll engines have just opened their APIs. This allows us to offer a unified payroll and HR solution, which wasn't possible before.",
     "one_liner": "the first all-in-one payroll and HR software for French SMBs",
     "team_size": 2,
     "highlight_black": false,
@@ -5824,7 +5871,9 @@
     "id": 29575,
     "name": "Superfilter",
     "slug": "superfilter",
-    "former_names": [],
+    "former_names": [
+      "SuperFilter"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc0229dcf2325bed21e0f1d72a79ed3e65a29f75.png",
     "website": "https://superfilter.ai",
     "all_locations": "Remote",
@@ -5962,7 +6011,10 @@
     "id": 29688,
     "name": "camfer",
     "slug": "camfer",
-    "former_names": [],
+    "former_names": [
+      "Camfer Inc.",
+      "Camfer"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ba0416db5787652b7ee49418b79794a3841c659.png",
     "website": "https://www.camfer.dev/",
     "all_locations": "San Francisco, CA, USA",
@@ -5973,7 +6025,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1726008426,
     "tags": [
       "Artificial Intelligence",
@@ -6021,7 +6073,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "Consumer",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1716911130,
     "tags": [
       "Productivity",
@@ -6163,7 +6215,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "Consumer",
+    "subindustry": "B2B",
     "launched_at": 1715615655,
     "tags": [
       "Artificial Intelligence",
@@ -6242,26 +6294,28 @@
     "name": "Winford AI",
     "slug": "winford-ai",
     "former_names": [
-      "FundAImental"
+      "FundAImental",
+      "fundaimental",
+      "Fundaimental"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdcf01f892f2f6cf5a47d68818067a5d316eb12a.png",
     "website": "https://winford.ai/",
     "all_locations": "New York, NY, USA",
     "long_description": "Winford AI helps institutional credit investors monitor their loan portfolios and make better underwriting decisions. Our AI automatically extracts data from financial reporting packages and legal documents, helping portfolio managers invest in the right businesses and saving analysts hours every week.",
-    "one_liner": "AI-Powered Software for Institutional Credit Investors",
+    "one_liner": "AI-Powered Underwriting and Monitoring for Institutional Credit Funds",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1722879025,
     "tags": [
+      "Artificial Intelligence",
       "Finance",
       "Workflow Automation",
       "Productivity",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6334,10 +6388,57 @@
     "api": "https://yc-oss.github.io/api/batches/s24/odo.json"
   },
   {
+    "id": 29797,
+    "name": "Haystack Software",
+    "slug": "haystack-software",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb08cd689b8bc726ff34032bcc77b9fe6763467b.png",
+    "website": "https://haystackeditor.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Haystack is a a canvas-based IDE that automates the tedious and mechanical steps of software development -- plumbing, refactoring, and finding code -- so that software engineers can focus on the important parts. \r\n\r\nIn Haystack, users can explore and edit their code on a 2D canvas with a navigational copilot assisting every step of their way.",
+    "one_liner": "Visualize and edit your codebase on an infinite canvas",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1722315932,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/haystack-software",
+    "api": "https://yc-oss.github.io/api/batches/s24/haystack-software.json"
+  },
+  {
     "id": 29826,
     "name": "Simplifine",
     "slug": "simplifine",
-    "former_names": [],
+    "former_names": [
+      "Titan"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28bfd5603abc1cad782c0769498ab77e4c72242d.png",
     "website": "https://www.simplifine.com",
     "all_locations": "San Francisco, CA, USA",
@@ -6348,7 +6449,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "Consumer",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "Consumer",
     "launched_at": 1723501563,
     "tags": [
       "AI-Enhanced Learning",
@@ -6382,7 +6483,10 @@
     "id": 29828,
     "name": "Focus Buddy",
     "slug": "focus-buddy",
-    "former_names": [],
+    "former_names": [
+      "Therapy Buddy",
+      "Sterling Labs"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36badd071180ac2d70c72ca019989b6ecf1830ca.png",
     "website": "https://www.focusbuddy.ai/?ref=yc",
     "all_locations": "San Francisco, CA, USA",
@@ -6393,7 +6497,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "Consumer",
-    "subindustry": "Unspecified",
+    "subindustry": "Consumer -> Content",
     "launched_at": 1724988357,
     "tags": [
       "Artificial Intelligence",
@@ -6429,10 +6533,10 @@
     "name": "et al.",
     "slug": "et-al",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67295d811ad3ae0ca427e7d9ba989b1a2fa8cc28.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d505a9f785d5fbe835969de244a7a0e565f25d58.png",
     "website": "https://www.et-al.io",
-    "all_locations": "",
-    "long_description": "et al. is the mobile app that brings together your newsletters, research papers, podcasts, and more, in one place. Imagine a Twitter feed powered by LLMs delivering you useful content in short sentence insights.",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "et al. is a mobile app that aggregates your newsletters, research papers, articles, and more, in one place. Think of it as an LLM-powered feed delivering you useful content in short insights.\r\n\r\nWe extract key takeaways from long-form content - allowing you to read as little or as much as you like from the original piece of information. With et al., you get to stay on top of breakthroughs in your field, build knowledge, and discover new interests effortlessly.\r\n\r\nFor example, if you’re building an AI voice agent, you’ll see the latest in speech-to-text models without having to actively search, go through a pile of research papers, or prompt an LLM.",
     "one_liner": "Daily feed of insights extracted from your go-to sources using LLMs.",
     "team_size": 2,
     "highlight_black": false,
@@ -6457,7 +6561,8 @@
       "Consumer"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6472,7 +6577,7 @@
     "name": "OrgOrg",
     "slug": "orgorg",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a85dfbdee31c6048c82ade4924fd31a547a3c1ab.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fb29e15efef66c7b44bb861d2b14c2d4cc13ca4.png",
     "website": "https://orgorg.us",
     "all_locations": "Los Altos, CA, USA; Remote",
     "long_description": "OrgOrg is a suite of apps that keeps teams productive and healthy regardless of the size of your organization. Founded by the creator of Zenter (YC 07, acquired by Google and became Google Slides), OrgOrg is designed to be a natural extension of Google Workspace Apps to help run organizations collaborate better leading to higher productivity.\r\n\r\nToday the suite includes apps like:\r\n  \r\n• Go links: Go links allows anyone in the org to easily name any link so team members can jump directly to the information that matters most: go/sales, go/production, go/anything-you-want.\r\n• Profiles with Personality: OrgOrg profiles are as insightful as they are delightful. They not only show you the expected org chart data, but also highlight accomplishments, how you like to work, and who you are as a person.\r\n• Goal tracking: Track, share, and collaborate on \"big rock\" goals on the cadence that makes sense for your team from daily to annually.\r\n• Branded New Tab: Keep the team focused the next major milestone, broadcast announcements, and keep important links top of mind every time a new browser tab is opened.\r\n• All Hands Q&A: Crowdsource questions, anonymously if desired, for large team meetings to make sure everyone's voice is heard, and the most top of mind questions are answered and recorded.\r\n• Smart Groups: Create rules based groups of people and use them to make sure the right people are in the right conversations and have the right access. For example, anyone with the title of \"Software Engineer\" should be in the #eng slack channel and eng@ google group.\r\n• On-call: Schedule smart rotations that take into account balancing the load and using signals from calendar schedules to make sure you don't waste time figuring out who can cover what in a fair way. Easily page the on-call from slack, API, or OrgOrg directly.\r\n• And more...\r\n\r\nAll the tools you need so you can spend more time focusing on your core business, and less time focusing on the complexity that comes from running an organization.",

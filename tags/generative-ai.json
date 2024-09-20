@@ -2320,7 +2320,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -3424,8 +3424,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/731fd6f22634f935a03484945b5b569dae8c8ed9.png",
     "website": "http://www.applydesign.io",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-    "long_description": "Apply Design helps homebuyer reimagine their new home using AI.\r\n\r\nWe provide homebuyers access to a website that showcases their next home images augmented with hundreds of photorealistic interior designs, all size-accurate and curated by professional designers. These designs are created using real furniture from top brands. \r\nWe help homebuyers see the potential of their next home and turn that into a reality.\r\nFor example, when a young married couple with a baby visits the website we host, instead of seeing a dull property listing on Zillow with empty pictures or old furniture, the family sees realistic and personalized virtual interior designs – such as a home office and a baby room – which we automatically generate for them. They can then play with those designs and see how that home fits their needs and tastes and buy those furniture directly from Apply Design.\r\n\r\nThis is a $20B market opportunity, given the 50M properties sold or rented annually in North America and Europe alone. ",
-    "one_liner": "Helping homebuyers reimagine their home using AI",
+    "long_description": "Apply Design is a leading AI-powered virtual staging app that empowers real estate professionals to showcase the full potential of their properties to prospective buyers, helping them sell homes faster and for higher prices. \r\n\r\nWe virtually stage over 10,000 properties monthly, transforming images of vacant or outdated spaces into fully furnished, captivating property photos. Our proprietary AI-powered software is the only solution capable of generating photorealistic designs in one click while also enabling instant customization of any detail with complete control.\r\n\r\nThis is a $10B market opportunity, given the 50M properties sold or rented annually in North America and Europe alone. ",
+    "one_liner": "Helping realtors showcase the full potential of their properties",
     "team_size": 9,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -6556,7 +6556,6 @@
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1675971158,
     "tags": [
-      "AI-powered Drug Discovery",
       "Generative AI",
       "Synthetic Biology",
       "Biotech",
@@ -8700,7 +8699,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
     "website": "https://www.guidelabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Guide labs, we build interpretable foundation models that can reliably explain their reasoning, and are easy to align. We provide access to these models via an API. Over the past 6 years, our team has built and deployed interpretable models at Meta, and Google. \r\n\r\nOur models provide explanations that:  \r\n1) provide human-understandable explanations, for each output token, \r\n2) which parts of the input (prompt) is most important for each part of the generated output, and \r\n3) which inputs, in the training data, directly led to the model's generated output. \r\n\r\nBecause our models can explain their outputs, they are easier to debug, steer, and align. ",
+    "long_description": "At Guide labs, we build interpretable foundation models, on any data modality, that can reliably explain their reasoning, and are easy to steer and debug. We provide access to these models via an API. \r\n\r\nOur models provide explanations in human-understandable terms, highlight which parts of the input is most important for the model's output, and  which inputs, in the training data, directly led to the model's generated output. ",
     "one_liner": "Interpretable foundation models that are easy to steer and understand",
     "team_size": 2,
     "highlight_black": true,
@@ -8710,10 +8709,10 @@
     "subindustry": "B2B",
     "launched_at": 1709806941,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Machine Learning",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9019,6 +9018,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shiboleth",
     "api": "https://yc-oss.github.io/api/batches/w24/shiboleth.json"
+  },
+  {
+    "id": 29387,
+    "name": "Cracked",
+    "slug": "cracked",
+    "former_names": [
+      "Dataneko",
+      "Redshift AI",
+      "Overeasy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7adc8fbafaf4a3e1890d04d10d944845783512c5.png",
+    "website": "https://www.cracked.so/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Playground for Movement",
+    "one_liner": "AI Motion Graphics Copilot",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1722555710,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Design Tools",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cracked",
+    "api": "https://yc-oss.github.io/api/batches/s24/cracked.json"
   },
   {
     "id": 29391,
@@ -9620,6 +9668,55 @@
     "api": "https://yc-oss.github.io/api/batches/w24/mathos.json"
   },
   {
+    "id": 29585,
+    "name": "Mem0",
+    "slug": "mem0",
+    "former_names": [
+      "Embedchain Inc",
+      "Embedchain"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56ef3ec5ae83019ddb5d6898272fd3b9d1089c62.png",
+    "website": "https://mem0.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mem0 provides a memory layer for LLM applications, enabling them to remember and learn from user interactions over time.\r\n",
+    "one_liner": "The Memory layer for your AI apps",
+    "team_size": 4,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1716511817,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mem0",
+    "api": "https://yc-oss.github.io/api/batches/s24/mem0.json"
+  },
+  {
     "id": 29633,
     "name": "Unsloth AI",
     "slug": "unsloth-ai",
@@ -9762,12 +9859,14 @@
     "name": "ideate.xyz",
     "slug": "ideate-xyz",
     "former_names": [
-      "Ditto AI"
+      "Ditto AI",
+      "ditto - build apps in a document editor",
+      "ditto"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1f844500826bbf6ae6b83f0088e5afee7c6dd28.png",
     "website": "https://ideate.xyz",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ideate.xyz is the first AI graphics design co-pilot for content marketers.\r\n\r\nIt is a graphics editor as easy to use as Canva with a built-in AI designer, helping users to create and iterate brand consistent designs via chat or in editor.\r\n\r\nGraphics design is still the biggest pain and most outsourced task for content marketers. This represents an $8 billion dollar market. ideate.xyz is the first copilot ot enable content marketers to truly own the design process.\r\n",
+    "long_description": "ideate.xyz is the first AI graphics design co-pilot for content marketers.\r\n\r\nIt’s like an easier-to-use Canva with a built-in AI designer. Users create designs in our editor and chat with our virtual design expert so they can iterate on the work without having to hire an agency.",
     "one_liner": "AI graphics design co-pilot for content marketers",
     "team_size": 2,
     "highlight_black": false,
@@ -9809,7 +9908,10 @@
     "id": 29668,
     "name": "Proxis",
     "slug": "proxis",
-    "former_names": [],
+    "former_names": [
+      "CureAI",
+      "Tailwind Health"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/986238fcd885c5d40b8767f600f089dc3fcdeeaf.png",
     "website": "https://www.proxis.ai/",
     "all_locations": "San Francisco, CA, USA",
@@ -9820,7 +9922,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725054386,
     "tags": [
       "Artificial Intelligence",
@@ -9902,7 +10004,9 @@
     "id": 29671,
     "name": "reworks",
     "slug": "reworks",
-    "former_names": [],
+    "former_names": [
+      "Reworks"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b12fb500c43cd81f6ea2556e6142a978f7e6e8f9.png",
     "website": "https://www.reworks.ai",
     "all_locations": "San Francisco, CA, USA",
@@ -9996,7 +10100,10 @@
     "id": 29688,
     "name": "camfer",
     "slug": "camfer",
-    "former_names": [],
+    "former_names": [
+      "Camfer Inc.",
+      "Camfer"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ba0416db5787652b7ee49418b79794a3841c659.png",
     "website": "https://www.camfer.dev/",
     "all_locations": "San Francisco, CA, USA",
@@ -10007,7 +10114,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1726008426,
     "tags": [
       "Artificial Intelligence",
@@ -10048,7 +10155,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4c9c1ca34943210e8eb096916507b35ab33bece.png",
     "website": "https://www.trypulse.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pulse AI simplifies the procurement process for mid-market and large enterprises by utilizing LLMs to automate supply chain actions.\r\n\r\nProcessing unstructured data in the form of emails, RFQs, PRs takes up over 40% of supply chain management time. Pulse AI develops recommendations from siloed communication with suppliers by integrating with procurement teams' existing tools—ranging from email, document suites, and ERPs. \r\n\r\nPulse structures this data to build our search engine (think Glean for supply chain) and automates tasks such as purchase order management, invoice matching for accounts payable, and vendor communications. ",
+    "long_description": "Pulse automates procurement with AI to reduce supply chain risk. Our AI agents eliminate the time wasted on fragmented supply chain data in emails, spreadsheets, and ERPs.",
     "one_liner": "Procurement on autopilot",
     "team_size": 2,
     "highlight_black": false,
@@ -10092,7 +10199,8 @@
     "slug": "dmodel",
     "former_names": [
       "ChipChap",
-      "DAS Intelligence"
+      "DAS Intelligence",
+      "d-model"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3696c9745e142e57106326ecee11170df0cc6971.png",
     "website": "https://www.dmodel.ai",
@@ -10144,7 +10252,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd54b637cf4e5d1842d0d06352abde6b7d388b51.png",
     "website": "https://zenbase.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Zenbase automates prompt engineering and model selection so developers can focus on programming.\r\n\r\nWe’re core contributors of Stanford NLP’s DSPy, the #1 LLM optimization framework used by Meta, Microsoft, Google, and 40+ others.\r\n\r\nWe're building the production version.",
+    "long_description": "Zenbase helps developers focus on programming by automating prompt engineering and model selection.\r\n\r\nWe’re core contributors of Stanford NLP’s DSPy, the #1 LLM optimization framework used by Meta, Microsoft, Google, among many others. But it's hard to use outside of academia.\r\n\r\nWe're building the production version.",
     "one_liner": "Continuous prompt optimization for LLMs from DSPy core contributors",
     "team_size": 2,
     "highlight_black": false,
@@ -10242,7 +10350,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "Fintech",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "Fintech",
     "launched_at": 1724331890,
     "tags": [
       "Fintech",
@@ -10373,7 +10481,9 @@
     "id": 29740,
     "name": "Redouble AI",
     "slug": "redouble-ai",
-    "former_names": [],
+    "former_names": [
+      "Deconvolute AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e13268bccc689331aeb895ce0dfa6583a9c1b0d4.png",
     "website": "https://redouble.ai/",
     "all_locations": "San Francisco, CA, USA",
@@ -10384,7 +10494,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B",
     "launched_at": 1724701202,
     "tags": [
       "Artificial Intelligence",
@@ -10651,7 +10761,9 @@
     "id": 29809,
     "name": "Corpdaq",
     "slug": "corpdaq",
-    "former_names": [],
+    "former_names": [
+      "OpenFintek"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a121e291e0c0d2ca3fe9ade29f345d6f3bb2a6c2.png",
     "website": "https://corpdaq.com",
     "all_locations": "Singapore, Singapore; Remote",
@@ -10753,7 +10865,7 @@
     "highlight_latinx": false,
     "highlight_women": true,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1718861250,
     "tags": [
       "Generative AI",
@@ -10847,7 +10959,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722921255,
     "tags": [
       "Artificial Intelligence",
@@ -10883,7 +10995,8 @@
     "name": "Diode Computers, Inc.",
     "slug": "diode-computers-inc",
     "former_names": [
-      "Schematx"
+      "Schematx",
+      "Diode, Inc."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1e7f9d9a50296d38458d5ad7a76c87823682bc2.png",
     "website": "https://diode.computer",
@@ -10929,7 +11042,9 @@
     "id": 29858,
     "name": "Vera Health",
     "slug": "vera-health",
-    "former_names": [],
+    "former_names": [
+      "Veracity-Health"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3e3b0d6c435e444f21ce5659e297ba0ef644c73.png",
     "website": "https://www.vera-health.ai",
     "all_locations": "San Francisco, CA, USA",
@@ -10940,7 +11055,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "Healthcare",
-    "subindustry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1723103974,
     "tags": [
       "Generative AI",
@@ -10973,7 +11088,9 @@
     "id": 29950,
     "name": "Pipeshift AI",
     "slug": "pipeshift-ai",
-    "former_names": [],
+    "former_names": [
+      "Xylem AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/290c0065a5ffe07236a3cc433e4c722863914784.png",
     "website": "https://pipeshift.ai",
     "all_locations": "San Francisco, CA, USA",
@@ -11030,7 +11147,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B",
     "launched_at": 1723615480,
     "tags": [
       "Generative AI",
@@ -11108,50 +11225,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/henry-2.json"
   },
   {
-    "id": 29960,
-    "name": "Void",
-    "slug": "void",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ab88e3a4fc8224ae094d26b68f966408fe4cf3f.png",
-    "website": "https://voideditor.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Void is an open source AI code editor. We let developers use Cursor-style AI features without sacrificing privacy.",
-    "one_liner": "The open source Cursor alternative",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1726250392,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/void",
-    "api": "https://yc-oss.github.io/api/batches/s24/void.json"
-  },
-  {
     "id": 29973,
     "name": "Arva AI",
     "slug": "arva-ai",
@@ -11211,19 +11284,19 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5957c080cba74e8f92840d3baeec2beaae949d4b.png",
     "website": "https://melty.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Melty is the first editor that’s aware of what you’re doing from the terminal to GitHub and collaborates with you to write production-ready code.",
-    "one_liner": "Open source AI code editor for 10x engineers",
+    "long_description": "Melty is the first chat-based code editor. It creates a git commit along with each chat message so it can always stay in sync with you, like a pair programmer.\r\n\r\nWe launched Melty two weeks ago, and we're already at 4500 stars on github, which makes it one of the fastest growing open source YC repos ever.",
+    "one_liner": "Melty is the first chat-based code editor",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "Consumer",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725301012,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Generative AI",
-      "AI"
+      "Generative AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

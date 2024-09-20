@@ -1008,7 +1008,6 @@
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1675971158,
     "tags": [
-      "AI-powered Drug Discovery",
       "Generative AI",
       "Synthetic Biology",
       "Biotech",
@@ -1132,7 +1131,8 @@
     "name": "ACX",
     "slug": "acx",
     "former_names": [
-      "AcX Therapeutics"
+      "AcX Therapeutics",
+      "AcX"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d89675f3ead68157bcc251005373db2f5eb870b.png",
     "website": "https://www.acxtherapeutics.com/",
@@ -1179,25 +1179,28 @@
     "id": 29412,
     "name": "Ligo Biosciences",
     "slug": "ligo-biosciences",
-    "former_names": [],
+    "former_names": [
+      "Ligo",
+      "Ligo Bio"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd381079ddb420940e9b57512009e6b5bc73e27a.png",
     "website": "https://www.ligo.bio",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building the next generation of deep-learning models for enzyme design to slash the cost of chemical manufacturing. The $6 trillion chemical industry is flawed: It produces 20% of industrial greenhouse gases, and is responsible for 15% of global energy usage. \r\n\r\n\r\nEnzymes offer a far more sustainable alternative to chemical synthesis and have already revolutionised how a select few chemicals are produced. The problem is each enzyme takes years of trial and error to develop. Our enzyme models learn the principles of catalysis, allowing us to design enzymes for each reaction, in days not years. ",
-    "one_liner": "Generative enzyme design for the chemical industry.",
-    "team_size": 3,
+    "long_description": "We are building the next generation of deep-learning models for enzyme design to slash the cost of chemical manufacturing. The $6 trillion chemical industry is flawed: It produces 20% of industrial greenhouse gases, and is responsible for 15% of global energy usage. \r\n\r\nEnzymes offer a far more sustainable alternative to chemical synthesis and have already revolutionised how a select few chemicals are produced. The problem is each enzyme takes years of trial and error to develop. Our enzyme models learn the principles of catalysis, allowing us to design enzymes for each reaction, in days not years. \r\n\r\nWe currently have $4.3M of LOIs and have completed our first $20k contract. ",
+    "one_liner": "AI designed enzymes for the chemical industry.",
+    "team_size": 4,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": true,
     "industry": "Healthcare",
-    "subindustry": "Healthcare",
+    "subindustry": "Healthcare -> Industrial Bio",
     "launched_at": 1723173017,
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
       "Synthetic Biology",
       "Biotech",
-      "Climate"
+      "Climate",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1275,7 +1278,9 @@
     "id": 29713,
     "name": "Anthrogen",
     "slug": "anthrogen",
-    "former_names": [],
+    "former_names": [
+      "Arctic Capture"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b82e4439479abc4af4baa257faf13f88240781b4.png",
     "website": "https://anthrogen.com",
     "all_locations": "New York, NY, USA",
@@ -1384,7 +1389,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "Industrials",
-    "subindustry": "Unspecified",
+    "subindustry": "Industrials",
     "launched_at": 1720558135,
     "tags": [
       "Hard Tech",
