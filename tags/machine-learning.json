@@ -5032,7 +5032,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3509dac4b76d442f8f0aa79c2bda0b827e78798.png",
     "website": "http://mindstate.design",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Pittsburgh, PA, USA",
     "long_description": "Developing the next generation of psychedelic therapeutics for mental health indications. We design novel altered states of consciousness using machine learning, human experiential data, and molecular pharmacology.",
     "one_liner": "Next-generation psychedelic therapeutics for mental health",
     "team_size": 7,
@@ -9222,11 +9222,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723709594,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Robotics",
       "B2B",
-      "Data Labeling"
+      "Data Labeling",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9490,13 +9490,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e44c4453098a5caed0988fdf2dff5b898cdcac4.png",
     "website": "https://www.undermind.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Undermind, we're building a search engine that can handle extremely complex questions. It’s geared at experts, like research scientists and doctors, who need to find very specific resources to solve high-stakes problems. \r\n\r\nWe’ve rebuilt search from the ground up to address this. Our new approach employs high-quality LLMs to adaptively explore a database, mimicking how a human researcher carefully discovers information. This approach dramatically outperforms (by 10-50x) traditional keyword search and other modern AI-based retrieval methods.\r\n\r\nOur first target users are the 50 million researchers searching for scientific literature on PubMed and Google Scholar every month. We’ve launched and have users paying us $200-$1000 per seat per year, from fields like medicine, ML, biotech, finance, and more. Our techniques in the future can port to even broader use cases and databases in law/consulting/finance.\r\n",
-    "one_liner": "A search engine for complex questions",
+    "long_description": "At Undermind, we're building a search engine that can handle extremely complex questions. It’s geared at experts, like research scientists and doctors, who need to find very specific resources to solve high-stakes problems. \r\n\r\nWe’ve rebuilt search from the ground up to address this. Our new approach employs high-quality LLMs to adaptively explore a database, mimicking how a human researcher carefully discovers information. This approach dramatically outperforms (by 10-50x) traditional keyword search and other modern AI-based retrieval methods.\r\n\r\nOur first target users are the 50 million researchers searching for scientific literature on PubMed and Google Scholar every month. We’ve launched and have users paying us $200-$500 per seat per year, from fields like medicine, ML, biotech, finance, and more.\r\n",
+    "one_liner": "An AI agent for complex search",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
-    "industry": "Education",
+    "industry": "B2B",
     "subindustry": "Education",
     "launched_at": 1718632251,
     "tags": [
@@ -9512,7 +9512,7 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "Education"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -9686,10 +9686,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722617907,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9723,7 +9723,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/92dbd9d186e22d922d985755f90407e21859378a.png",
     "website": "https://minusx.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "MinusX is a chrome extension that adds a side chat to your analytics apps (Jupyter, Metabase, Grafana, Tableau, etc). Given an instruction, our agent operates your apps - by clicking & typing, just like you do - to analyze data and answer queries. We believe an AI Data Scientist is a scientist, not yet-another-new-analytics-platform. MinusX interoperates with you in tools you already love and use, and as a matter of philosophy, gets out of the way.",
     "one_liner": "AI Data Scientist for Jupyter and Metabase",
     "team_size": 3,
@@ -9734,10 +9734,10 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1722024736,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Analytics",
       "Data Science",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -9752,9 +9752,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9763,6 +9761,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/minusx",
     "api": "https://yc-oss.github.io/api/batches/s24/minusx.json"
+  },
+  {
+    "id": 29692,
+    "name": "Weave Robotics",
+    "slug": "weave-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa1669fc77240d5b136ed7eb12c167327e93c7e8.png",
+    "website": "https://www.weaverobots.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Making the world’s first personal robot that's built for the home.  Our robot, Isaac, will autonomously tidy up endless messes, fold laundry, and care for your home while you’re away, and we’re shipping our first 30 in fall of 2025.",
+    "one_liner": "Personal robots for the home--that ship in 2025",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1724225748,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Machine Learning",
+      "Robotics",
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/weave-robotics",
+    "api": "https://yc-oss.github.io/api/batches/s24/weave-robotics.json"
   },
   {
     "id": 29698,
@@ -9821,7 +9865,7 @@
     "website": "https://www.usepromi.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Promi is a pricing and discount optimization platform. We help merchants by personalizing and dynamically setting discounts across products to maximize sales and profit.\r\n\r\nEcommerce merchants and marketers typically use discounts to drive customer acquisition, boost sales during holidays, or liquidate inventory. But deciding on a discount to offer is typically guesswork. Who to send the discount to, how much to offer, and which products it applies to are, in the most advanced cases, determined manually by looking at past sales and seeing what worked well. In the majority of cases, it's what feels and sounds good.\r\n\r\n\r\nPromi leverages your store data to optimize discounts at a more granular level than possible manually. We dynamically determine the best value across each product, for different users, at different times in order to maximize sales and profit.",
-    "one_liner": "Optimizing ecommerce merchant pricing with dynamic, personalized…",
+    "one_liner": "Optimizing ecommerce pricing with dynamic, personalized discounts",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -9868,8 +9912,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4b1314259fa54085f5a8aebfce665d01140cd17.png",
     "website": "https://www.finnyai.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Growth is the number one priority for all Financial Advisors. \r\n                                                                                                                                                                   \r\nHowever, the organic growth process is highly inefficient and full of noise. Advisors often waste hours building prospect lists by aggregating information across horizontal solutions like Linkedin, ZoomInfo, Pitchbook, qualifying these leads, setting up meetings, and spending time on unqualified prospects. Advisors spend an average of 58 hours on business development for every 1 new client converted, and have <1% conversion rates.\r\n                                                                                                                                                               \r\nDue to the time-intensive nature of organic growth, advisors often turn to inorganic avenues for growing, via M&A, despite those being far less capital efficient.\r\n\r\nAt FINNY, we are certain we can do better with AI. With our tool, advisors can:\r\n- Identify prospects within their target niche, aggregating thousands of data points per lead\r\n- Prioritize prospects based on their predicted likelihood of converting, a score unique to each advisor and prospect pair\r\n- Automate the outreach and meeting scheduling with their high priority prospects\r\n\r\nIn short, FINNY is the one-stop shop for advisors when growing their book of business, starting by solving prospecting. \r\n\r\nFINNY launched paid pilots in May to select RIAs, and our waitlist grew to 30 firms in under one month.",
-    "one_liner": "Using ML to supercharge organic growth for Financial Advisors",
+    "long_description": "FINNY is building a new operating system for independent financial advisors, and starting by helping them grow.\r\n \r\nOur goal is to empower the best financial advisors (the independents!) to serve all Americans who want financial advice.  We are starting with growth, which is the most existential problem advisors face. \r\n                                                                                                                                                      \r\nThe organic growth process is highly inefficient and full of noise. Advisors often waste 60 hours of business development to convert 1 new client.  \r\n\r\nAt FINNY, we are certain we can do better with AI. With our tool, advisors can:\r\n- Identify prospects within their target niche, aggregating thousands of data points per lead\r\n- Prioritize prospects based on their predicted likelihood of converting, a score unique to each advisor and prospect pair\r\n- Automate the outreach and meeting scheduling with their high priority prospects\r\n\r\nIn essence, doing all the work for the advisors, and letting them focus on what actually matters, the client relationship.",
+    "one_liner": "The OS for independent financial advisors ",
     "team_size": 4,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -9914,7 +9958,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f87b0dddb05a92646b51780f21648d12f3019bf.png",
     "website": "https://www.conductorquantum.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quantum computers will allow humanity to simulate nature at the quantum level, enabling the acceleration of drug discovery and the development of new materials. \r\n\r\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\r\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\r\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of silicon quantum technology and build a silicon-based quantum computer.",
+    "long_description": "Quantum computers will allow humanity to understand the world at its most fundamental level, enabling the acceleration of drug discovery and the development of new materials. \r\n\r\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\r\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\r\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of silicon quantum technology and build a silicon-based quantum computer.",
     "one_liner": "Quantum computers on silicon chips using AI.",
     "team_size": 2,
     "highlight_black": true,
@@ -9924,11 +9968,11 @@
     "subindustry": "Industrials",
     "launched_at": 1718219316,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
       "Quantum Computing",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9946,7 +9990,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": null,
+    "app_answers": true,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/conductor-quantum",
     "api": "https://yc-oss.github.io/api/batches/s24/conductor-quantum.json"
@@ -9971,11 +10015,11 @@
     "subindustry": "Industrials",
     "launched_at": 1722631140,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
       "Machine Learning",
-      "Semiconductors",
-      "AI"
+      "Semiconductors"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10053,7 +10097,7 @@
     "former_names": [
       "CloudCaptain"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e636a3e769f4147545c35c1b93dfab260ce92e8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/743b9f85db08e7b8a93c6c78302038fa26e34292.png",
     "website": "https://tryhelium.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Helium is building self-improving software — AI that continuously experiments on key moments in the user funnel to boost revenue. Our first customer, a social app with 20M MAU, uses Helium to test new in-app paywalls to get more users to subscribe. \r\n\r\nZach previously made $100M+ in growth experiments at Uber, Shishir led the first LLM features for Alexa, and Anish worked at Meta building ML to automatically experiment on ads, increasing Instagram ads conversion by 10%. ",
@@ -10153,7 +10197,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a8bc8b5c8de45073e0d61917890db15c4ddc8cb.png",
     "website": "https://www.anglera.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Anglera, we're building an AI-native operating system for e-commerce.\r\n\r\nWe previously enriched millions of products at Uber Eats, and we're leveraging our Stanford AI expertise to reimagine how businesses manage product data at scale. This is an existing $10B software category (Product Information Management).",
+    "long_description": "At Anglera, we're building an AI-native operating system for e-commerce.\r\n\r\nWe previously enriched millions of products at Uber Eats, and we're leveraging our Stanford AI expertise to reimagine how businesses manage product data at scale.",
     "one_liner": "AI-native operating system for e-commerce",
     "team_size": 2,
     "highlight_black": false,
@@ -10163,11 +10207,11 @@
     "subindustry": "B2B -> Retail",
     "launched_at": 1719875304,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "B2B",
-      "E-commerce",
-      "AI"
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -1868,6 +1868,51 @@
     "api": "https://yc-oss.github.io/api/batches/w22/rehook-ai.json"
   },
   {
+    "id": 25573,
+    "name": "Zorba",
+    "slug": "zorba",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6756e454d5e09277c9ff4e6f0c058072011b4619.png",
+    "website": "https://www.getzorba.com/",
+    "all_locations": "Saint Petersburg, FL, USA",
+    "long_description": "Zorba is a real estate sales AI copilot, powered by proprietary vertical data, designed to help sales and customer success teams grow their client base and improve retention. It's used and trusted by both Fortune 500 and mid-market firms. With a multi-layered, LLM-driven engine, we’ve built a proprietary dataset of consolidated real estate entities, delivering real-time insights tailored specifically for the industry. Think Apollo or ZoomInfo, but AI-first and driven by real estate data",
+    "one_liner": "AI copilot for real-estate sales teams, powered by proprietary data",
+    "team_size": null,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "launched_at": 1641571770,
+    "tags": [
+      "Real Estate",
+      "Sales",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zorba",
+    "api": "https://yc-oss.github.io/api/batches/w22/zorba.json"
+  },
+  {
     "id": 25680,
     "name": "Cotera",
     "slug": "cotera",
@@ -2494,7 +2539,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54349afe229386963a0d97273557dd9db8219ab7.png",
     "website": "https://www.remade.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Remade uses AI to create studio-quality videos. For example, ScentBird, a fragrance subscription service, uses Remade to create TikTok ad hooks and increase conversion.\r\n\r\nTraditional videography is labour-intensive, slow, and expensive. Enterprises spend thousands on it, while smaller businesses often can't afford it. Remade reduces the cost of professional videos by 100x and cuts delivery time from weeks to 15 minutes. Using AI and social media data, we personalize content creation and optimize product ads. Our mission is to streamline visual content generation across multiple industries, making it faster and more accessible for businesses.",
+    "long_description": "Remade uses AI to create studio-quality videos. For example, ScentBird, a fragrance subscription service, uses Remade to create engaging TikTok ad hooks and increase conversion.\r\n\r\nTraditional videography is labour-intensive, slow, and expensive. Enterprises spend thousands on it, while smaller businesses often can't afford it. Remade reduces the cost of professional videos by 100x and cuts delivery time from weeks to 15 minutes. Using AI and social media data, we personalize content creation and optimize product ads. Our mission is to streamline visual content generation across multiple industries, making it faster and more accessible for businesses.",
     "one_liner": "Automating Video Ad Workflows using AI",
     "team_size": 4,
     "highlight_black": false,
@@ -2533,103 +2578,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/remade.json"
   },
   {
-    "id": 29769,
-    "name": "Pinnacle",
-    "slug": "pinnacle",
-    "former_names": [
-      "InsightForge"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b466ed207f7ecd72989b10237037b204765513f2.png",
-    "website": "https://trypinnacle.app/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pinnacle is an API for RCS, the new standard for SMS for app-like text messages. For example, developers can create messages that show products that can be purchased with one tap natively on iOS and Android.",
-    "one_liner": "SDK for RCS (the next-generation of texting)",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1725406476,
-    "tags": [
-      "B2B",
-      "Sales",
-      "E-commerce",
-      "Marketing",
-      "SMS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": true,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pinnacle",
-    "api": "https://yc-oss.github.io/api/batches/s24/pinnacle.json"
-  },
-  {
-    "id": 29952,
-    "name": "Ficra",
-    "slug": "ficra",
-    "former_names": [
-      "SignOp",
-      "Ficra",
-      "Ficra (SignOp)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0dc17fe22b167d4939fbd99c8dd3dcf2bb877cd0.png",
-    "website": "https://ficra.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ficra is a live, visual map of your users’ journeys, both inside and outside your product. Our AI automatically gives you realtime visibility into marketing and product funnels: every ad, email, A/B test, push notification, and in-app flow your users see. With Ficra, marketing teams can increase conversions, compliance teams can flag and fix violations, and product teams can accelerate their workflows.",
-    "one_liner": "Visual map of every ad, email, flow, and screen your users see.",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1725388449,
-    "tags": [
-      "B2B",
-      "Workflow Automation",
-      "Compliance",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ficra",
-    "api": "https://yc-oss.github.io/api/batches/s24/ficra.json"
-  },
-  {
     "id": 29972,
     "name": "Affil.ai",
     "slug": "affil-ai",
@@ -2640,8 +2588,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/afaac0ba9fea3d823a798e81e6b89e28c34dbd0e.png",
     "website": "https://affil.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Affil.ai helps financial companies monitor their affiliate marketing content so that they can expand marketing efforts & grow their revenue without compliance concerns. ",
-    "one_liner": "AI Financial Affiliate Network",
+    "long_description": "We're an affiliate network for financial brands. We help financial companies monitor their affiliate marketing content so that they have full visibility into what they're saying, enabling them to expand marketing efforts & grow their revenue.",
+    "one_liner": "AI Affiliate Network For Financial Brands",
     "team_size": 2,
     "highlight_black": true,
     "highlight_latinx": false,

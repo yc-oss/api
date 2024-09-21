@@ -11103,10 +11103,10 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1723759198,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Logistics"
+      "Logistics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11129,48 +11129,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ultra",
     "api": "https://yc-oss.github.io/api/batches/s24/ultra.json"
-  },
-  {
-    "id": 29581,
-    "name": "Moment Robotics",
-    "slug": "moment-robotics",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86f2306a80dea5727d137345f56321f8366238a3.png",
-    "website": "http://www.momentrobotics.com/",
-    "all_locations": "Remote",
-    "long_description": "Moment Robotics makes robots to automate the movement of goods, starting inside hospitals. We transport, place, and organize supplies, samples, and equipment so hospital staff can focus on their patients.\r\n",
-    "one_liner": "Robots to automate the movement of goods within hospitals ",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1724697135,
-    "tags": [
-      "Robotics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Inactive",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/moment-robotics",
-    "api": "https://yc-oss.github.io/api/batches/s24/moment-robotics.json"
   },
   {
     "id": 29589,
@@ -11325,11 +11283,11 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1723668106,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
       "Logistics",
       "Transportation",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11409,7 +11367,7 @@
     "website": "https://silurian.ai/",
     "all_locations": "Kirkland, WA, USA",
     "long_description": "Silurian is building foundation models for simulating Earth, starting with weather. From assessing the risk of wildfires to predicting the energy grid load, we provide an infrastructure layer for our planet. Our frontier models push the boundaries of what can be simulated on Earth and improve decision making across vital sectors including energy, insurance, agriculture, and logistics. \r\n",
-    "one_liner": "Foundation models to simulate Earth",
+    "one_liner": "Foundation models to simulate Earth, starting with weather.",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -11593,7 +11551,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa1669fc77240d5b136ed7eb12c167327e93c7e8.png",
     "website": "https://www.weaverobots.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Making the world’s first personal robot that's built for the home.  Our robot, Isaac, will autonomously tidy up endless messes, fold laundry, and care for your home while you’re away, and we’re shipping our first 30 in the fall of 2025.",
+    "long_description": "Making the world’s first personal robot that's built for the home.  Our robot, Isaac, will autonomously tidy up endless messes, fold laundry, and care for your home while you’re away, and we’re shipping our first 30 in fall of 2025.",
     "one_liner": "Personal robots for the home--that ship in 2025",
     "team_size": 2,
     "highlight_black": false,
@@ -11604,9 +11562,10 @@
     "launched_at": 1724225748,
     "tags": [
       "Artificial Intelligence",
+      "Hard Tech",
+      "Machine Learning",
       "Robotics",
-      "Consumer Products",
-      "AI"
+      "Consumer"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11687,7 +11646,7 @@
     "website": "http://www.plumefinder.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Plume simplifies and accelerates the process of improving home energy efficiency. With rising electricity prices and stricter regulations, homeowners need to assess their homes, understand energy renovation options, find the best ones, and hire trustworthy contractors.\r\n\r\nUsing thermodynamic models, public housing data, satellite imagery and AI, Plume assesses your home’s energy efficiency, recommends cost-effective improvements, and connects you with vetted contractors.\r\n\r\nOur platform allows the user to simulate personalised renovations scenarios helping homeowners make informed decisions quickly and efficiently.\r\n\r\nTry it now for your house anywhere in the world.",
-    "one_liner": "Home energy renovations made easy",
+    "one_liner": "Home energy renovation copilot",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -11697,6 +11656,7 @@
     "launched_at": 1724527338,
     "tags": [
       "SaaS",
+      "Real Estate",
       "Climate",
       "Renewable Energy",
       "ClimateTech"
@@ -11735,8 +11695,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b82e4439479abc4af4baa257faf13f88240781b4.png",
     "website": "https://anthrogen.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "We are engineering photosynthesizing bacteria and cascading their enzymatic outputs for low-cost, scalable, and carbon-negative polymer manufacturing. We want to take in tons of CO2 to help reverse climate change while also working to decarbonize supply chains, so carbon capture becomes redundant in the first place.\r\n\r\nWe have engineered the fastest photosynthesizing organism in the world with CRISPR and use generative models to design our enzymatic cascades. We are stating with starch as the quintessential polymer but will expand to other verticals soon.",
-    "one_liner": "Scalable, carbon-negative polymer manufacturing.",
+    "long_description": "Anthrogen uses genetically modified bacteria and optimized enzymes to turn carbon from the air into cheap chemicals. Think Solugen but for larger, more complex molecules and using atmospheric carbon instead of sugar as a base. \r\n\r\nWe have engineered the fastest photosynthesizing organism in the world with CRISPR and use generative models to design our enzymatic cascades. We are stating with jet/rocket fuel but will expand to other verticals soon.",
+    "one_liner": "We make large molecules like fuels and plastics from the air.",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -11783,8 +11743,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a17250c337f8e98ac79079d08da2abffb3b3b6b.png",
     "website": "https://www.1849.bio",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "1849 bio designs microbes enabling cheap metal extraction allowing miners to unlock value from low quality copper and gold ores. Surprisingly, the mining industry is one of the largest scale users of biotech in the world with biomining processes accounting for ~1% of global copper production. Biomining is ultra-low cost, running around ~$1/ton of ore vs ~$7/ton for conventional processes. \r\n\r\nUnfortunately, while biomining is cheap, it can’t be applied to over 80% of copper ores, leaving vast resources without profitable extraction methods. An estimated 100M tonnes of copper sit today in waste materials and stockpiles with negative unit economics.\r\n\r\nWhile a great deal of effort has been spent on optimizing microbial metal extraction processes, very little effort has been spent on optimizing the microbes themselves. \r\n\r\nTo change that, we’re creating new biotech tools and platforms applied directly to the types of biology most relevant to miners. This enables us to develop new microbes and tackle some of the most difficult problems in biomining, unlocking billions in value from unprofitable resources while being more environmentally friendly than conventional processes.\r\n\r\nWe’re world class microbial engineers. We met while doing our PhDs in synthetic biology, where we spent our time applying and developing the most advanced bioengineering technologies to engineer living cells. ",
-    "one_liner": "We make microbes enabling ultra cheap metal extraction.",
+    "long_description": "1849 bio designs microbes enabling cheap metal extraction allowing miners to unlock value from low quality copper and gold ores. Surprisingly, the mining industry is one of the largest scale users of biotech in the world with biomining processes accounting for ~1% of global copper production. Biomining is ultra-low cost, running around ~$1/ton of ore vs ~$7/ton for conventional processes. \r\n\r\nUnfortunately, while biomining is cheap, it can’t be applied to over 80% of copper ores, leaving vast resources without profitable extraction methods. An estimated ~$800B of copper sit today in waste materials and stockpiles with negative unit economics.\r\n\r\nWhile a great deal of effort has been spent on optimizing microbial metal extraction processes, very little effort has been spent on optimizing the microbes themselves. \r\n\r\nTo change that, we’re creating new biotech tools and platforms applied directly to the types of biology most relevant to miners. This enables us to develop new microbes and tackle some of the most difficult problems in biomining, unlocking billions in value from unprofitable resources while being more environmentally friendly than conventional processes.\r\n\r\nWe’re world class microbial engineers. We met while doing our PhDs in synthetic biology, where we spent our time applying and developing the most advanced bioengineering technologies to engineer living cells. ",
+    "one_liner": "Engineering microbes for miners to unlock billions in trapped metal",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -11874,7 +11834,7 @@
     "website": "https://www.autumnlabs.io/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Autumn Labs delivers a developer-friendly platform for monitoring and managing modern manufacturing lines. Seamlessly integrating with robotic stations—automated test stations, robotic assembly cells, and industrial arms—it ensures full traceability, live data monitoring, and secure data transport. We prioritize streamlining factory operations, boosting production quality, and preventing supply chain disruptions, all while offering an effortless onboarding experience for engineers and manufacturers.",
-    "one_liner": "A platform to monitor and manage industrial robots and test stations.",
+    "one_liner": "Datadog for industrial robots",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -11921,7 +11881,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f87b0dddb05a92646b51780f21648d12f3019bf.png",
     "website": "https://www.conductorquantum.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quantum computers will allow humanity to simulate nature at the quantum level, enabling the acceleration of drug discovery and the development of new materials. \r\n\r\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\r\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\r\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of silicon quantum technology and build a silicon-based quantum computer.",
+    "long_description": "Quantum computers will allow humanity to understand the world at its most fundamental level, enabling the acceleration of drug discovery and the development of new materials. \r\n\r\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\r\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\r\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of silicon quantum technology and build a silicon-based quantum computer.",
     "one_liner": "Quantum computers on silicon chips using AI.",
     "team_size": 2,
     "highlight_black": true,
@@ -11931,11 +11891,11 @@
     "subindustry": "Industrials",
     "launched_at": 1718219316,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
       "Quantum Computing",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11953,7 +11913,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": null,
+    "app_answers": true,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/conductor-quantum",
     "api": "https://yc-oss.github.io/api/batches/s24/conductor-quantum.json"
@@ -12062,11 +12022,11 @@
     "subindustry": "Industrials",
     "launched_at": 1722631140,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
       "Machine Learning",
-      "Semiconductors",
-      "AI"
+      "Semiconductors"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12153,11 +12113,11 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1724658554,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Marketplace",
       "Robotics",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12297,6 +12257,7 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1719001491,
     "tags": [
+      "Hard Tech",
       "Robotics",
       "Computer Vision",
       "Manufacturing",

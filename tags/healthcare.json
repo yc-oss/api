@@ -4050,7 +4050,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48474c1b0337163fd12462fb6b72ee336a4ad010.png",
     "website": "https://www.adni.co/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "With Adni, healthcare workers can buy their gear, find new jobs, read healthcare news, access resources, store credentials, and more. Healthcare organizations white-label Adni to launch a digital home base that engages and retains their clinical workforce.",
+    "long_description": "With Adni, healthcare workers can buy their gear, find new jobs, read healthcare news, access resources, store credentials, and more. Healthcare organizations recruit talent through our public-facing job board, and white-label our software to power an all-in-one digital home base that engages and retains their clinical workforce.",
     "one_liner": "Super App for Healthcare Workers",
     "team_size": 5,
     "highlight_black": false,
@@ -7436,10 +7436,10 @@
       "AcX Therapeutics",
       "AcX"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d89675f3ead68157bcc251005373db2f5eb870b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3045fed2da6ea36378026ddf52dfe4a0a7ad3870.png",
     "website": "https://www.acxtherapeutics.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ACX is the only company that has successfully reproduced the compounds that bacteria use to kill microbes for therapeutic development. Our patentable technology, which comprises synthetic compounds that mimic natural substances, has applications in humans, animals, and crops. We are beginning with the elimination of crop pathogens—harmful to pests but beneficial for humans!",
+    "long_description": "ACX is the only company that has successfully recreated synthetically the compounds that bacteria use to kill microbes for therapeutic development. Our patentable technology has applications in humans, animals, and crops. We are beginning with the elimination of crop pathogens—harmful to pests but beneficial for humans!",
     "one_liner": "Therapeutics inspired by bacteria's natural killing abilities",
     "team_size": 2,
     "highlight_black": false,
@@ -7715,6 +7715,54 @@
     "api": "https://yc-oss.github.io/api/batches/w24/parcelbio.json"
   },
   {
+    "id": 29579,
+    "name": "Ply Health",
+    "slug": "ply-health",
+    "former_names": [
+      "Ply Health, Inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c454fe31d232865f088e5c89e17be5719d4f75f4.png",
+    "website": "https://plyhealth.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ply helps behavioral health providers (e.g. therapists, social workers, psychiatrists) see more patients by getting them in network with insurance companies like Aetna or Medicaid. Ply submits enrollments 2x faster using automation and AI enabled data validation.",
+    "one_liner": "Faster way to get providers in-network with payers.",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1715876832,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Healthcare",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ply-health",
+    "api": "https://yc-oss.github.io/api/batches/s24/ply-health.json"
+  },
+  {
     "id": 29611,
     "name": "mdhub",
     "slug": "mdhub",
@@ -7781,10 +7829,10 @@
     "subindustry": "Healthcare",
     "launched_at": 1721954121,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Healthcare",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -7861,7 +7909,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d08387cfaa037f8a1900921e9df4e525ab02d86.png",
     "website": "https://driftly.ai",
     "all_locations": "",
-    "long_description": "Today, 80% of spending on home healthcare is unrelated to providing care, and most of these tasks can be automated with LLMs. Home health agencies use specialized home health EHRs to manage all aspects of their business--these systems are slow-moving and don't interoperate with third party tools. We're building a new EHR from the ground up.\r\n\r\nOur first feature is clinician scheduling, which is the biggest pain point for most agencies today. Our software cuts clinician travel time in half, eliminating 10% of total costs and more than doubling profitability.\r\n\r\n\r\n",
+    "long_description": "Driftly is an AI-native EHR for home health agencies. 80% of the $133B spent every year by home health agencies is unrelated to providing care, and most of this can be eliminated with LLMs. Our first feature is clinician scheduling, where our tool cuts travel time in half, saving 10% of total costs.",
     "one_liner": "AI-native EHR for home health agencies",
     "team_size": 2,
     "highlight_black": false,
@@ -7902,10 +7950,10 @@
     "slug": "dodo",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffc4a158d3979439d30a2236e2c173382feadd5d.png",
-    "website": "https://www.vetdodo.com/",
+    "website": "https://www.dodo.health/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Every third receptionist in specialty clinics leaves their job each year. At the same time, increased demand for specialized care has strained clinic resources. Facing understaffed and undertrained support, clients spend an average of 67% of their call time listening to hold music and navigating phone trees (“press 1 for x”). Frustrated by long wait times, many take their business elsewhere.\r\n\r\nDodo is an AI receptionist for specialty clinics, such as veterinarians and dentists, fine-tuned on industry-specific knowledge and trained on protocols taken directly from receptionists’ manuals, which often span multiple binders. We handle front and back-office tasks, enabling clinics to provide 24/7 service. Dodo answers calls, sends medical records, and refills prescriptions - fully autonomously, with no human in the loop.",
-    "one_liner": "AI Receptionists for Specialty Clinics",
+    "long_description": "Dodo builds an AI workforce for specialty clinics, such as veterinarians and dentists, fine-tuned on industry-specific knowledge and trained on protocols taken directly from employee manuals and playbooks, which often span multiple binders. \r\n\r\nClinics hire Dodo's labor-as-a-software to handle front and back-office tasks, enabling clinics to provide 24/7 service. Dodo answers calls, sends medical records, and refills prescriptions—fully autonomously, with no human in the loop.",
+    "one_liner": "AI Workforce for Specialty Clinics",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -7962,10 +8010,10 @@
     "subindustry": "Healthcare",
     "launched_at": 1722295529,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8034,6 +8082,51 @@
     "api": "https://yc-oss.github.io/api/batches/s24/taxo.json"
   },
   {
+    "id": 29709,
+    "name": "Substrate",
+    "slug": "substrate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/393d53ff8accd94443d46e0fdfdbb6f561ff709d.png",
+    "website": "https://www.substrate.cc/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Substrate's AI agents automate the click-work & data entry in revenue cycle management. Our agents perform repetitive and time-consuming tasks on behalf of medical billers, significantly increasing efficiency and reducing errors.",
+    "one_liner": "Artificial Intelligence for your medical billing team",
+    "team_size": 2,
+    "highlight_black": true,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1726819851,
+    "tags": [
+      "Robotic Process Automation",
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/substrate",
+    "api": "https://yc-oss.github.io/api/batches/s24/substrate.json"
+  },
+  {
     "id": 29745,
     "name": "Lumenary",
     "slug": "lumenary",
@@ -8087,8 +8180,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c3ccc32c3cef12a79c45aceb7aa532c954f0602.png",
     "website": "https://www.brighterway.ai/",
     "all_locations": "",
-    "long_description": "At Brighterway, we use AI to assist physicians in the workers' compensation claims review process. Physicians typically spend significant time reviewing thousands of pages of medical documents– our technology highlights the 10-15% of pages that are relevant, streamlining their review process and saving them time.\r\n\r\nBrighterway structures and deduplicates disorganized medical records (PDFs) and summarizes them down to content related to a doctor's specialty. In our online portal, physicians can view our summaries side-by-side with the original documents, and can filter, edit, and search for specific body parts or visits (i.e. “Clinical Notes” or “Ankle”) that can get them the answers they need in seconds, rather than hours.",
-    "one_liner": "Automating the workers-compensation claims review process",
+    "long_description": "At Brighterway, we use AI to speed up the medical record review process for physicians in medlegal exams. Physicians spend hours reviewing thousands of pages of medical documents– our technology highlights the information that is most relevant to a doctor's specialty, streamlining their review process and saving them time.\r\n\r\nBrighterway structures and deduplicates disorganized medical records (PDFs) and extracts the content that is medically relevant and related to a doctor's specialty, so they can focus on what matters most.",
+    "one_liner": "Streamlining the record review process for physicians in medlegal…",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -8144,11 +8237,11 @@
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1722645222,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "Digital Health",
       "Healthcare",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8182,8 +8275,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3e3b0d6c435e444f21ce5659e297ba0ef644c73.png",
     "website": "https://www.vera-health.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're empowering doctors and researchers with instant access to up-to-date evidence-based answers. Our platform cuts through the noise to deliver trustworthy medical information 10x faster, revolutionizing clinical decision-support and accelerating research breakthroughs.",
-    "one_liner": "Providing AI agents to healthcare companies ",
+    "long_description": "We empower healthcare providers, starting with emergency physicians, with instant access to up-to-date evidence-based answers. Our platform cuts through the noise to deliver trustworthy medical information 10x faster, revolutionizing clinical decision-support.",
+    "one_liner": "AI-powered clinical decision support for healthcare providers",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -8230,7 +8323,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hey Revia is a voice AI that handles complex phone calls for healthcare providers. Our software automates complex menus, reduces hold times, and handles tedious phone calls—verifying provider details, updating insurance info, and securing approvals. We offer Revia as web app, mobile app and API.",
     "one_liner": "Voice AI to automate complex phone calls for healthcare providers",
-    "team_size": 3,
+    "team_size": 4,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -8253,7 +8346,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8274,7 +8369,7 @@
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Syntra is the all-in-one solution for private practice doctors. Our operating system includes a personalized EHR that automates administrative tasks for doctors, such as patient intake, scribing, billing, and inventory management. \r\n\r\nPractices are switching off of solutions they have used for over a decade, calling Syntra \"the only solution that doesn’t need to be managed.”",
-    "one_liner": "Operating System for Private Practice Doctors",
+    "one_liner": "AI OS for Private Practice Doctors",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,

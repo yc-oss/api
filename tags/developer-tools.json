@@ -2025,7 +2025,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdd426bda9ef275c28e96ced0d2eee0559bcf773.png",
     "website": "https://sendbird.com",
     "all_locations": "San Mateo, CA, USA",
-    "long_description": "At Sendbird, we are building the world's leading conversations platform for mobile apps. We power over 300M+ people's conversations every month and we are working with the leading customers such as DoorDash, Reddit, Yahoo!, PayPal, Walgreens, and have raised $220M+ in total funding from ICONIQ, Tiger Global, Meritech, Emergence, SoftBank Vision Fund, Steadfast, Shasta, and August.",
+    "long_description": "At Sendbird, we are building the world's no1. customer communications platform. We power over 300M+ people's conversations every month and we are working with the leading customers such as DoorDash, Match Group, Yahoo!, PayPal, Walgreens, and have raised $220M+ in total funding from ICONIQ, Tiger Global, Meritech, Emergence, SoftBank Vision Fund, Steadfast, Shasta, and August.",
     "one_liner": "The no1. conversations platform for mobile apps.",
     "team_size": 300,
     "highlight_black": false,
@@ -2059,7 +2059,7 @@
     ],
     "stage": "Growth",
     "app_video_public": false,
-    "demo_day_video_public": true,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sendbird",
@@ -6315,7 +6315,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7117,7 +7117,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -13415,6 +13415,56 @@
     "api": "https://yc-oss.github.io/api/batches/s22/sunpia.json"
   },
   {
+    "id": 27152,
+    "name": "Firecrawl",
+    "slug": "firecrawl",
+    "former_names": [
+      "SideGuide",
+      "Mendable",
+      "SideGuide",
+      "Mendable"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d81916c7376f47ef6d8a6a498411483e26238a8.png",
+    "website": "https://www.firecrawl.dev",
+    "all_locations": "San Francisco, CA, USA; Boston, MA, USA",
+    "long_description": "Firecrawl is the easiest way to extract data from the web. Developers use us to reliably convert URLs into LLM-ready markdown or structured data with a single API call. We crossed 6k GitHub stars in just two months and have had paying customers since day one 1. \r\n\r\nPreviously, we built Mendable, one of the first commercially available “chat with your data” applications. We sold to companies like MongoDB, Coinbase, Snapchat, and more. To do this, we spent a surprising amount of time building reliable infrastructure for getting clean data from the web. When we started to see our founding friends rebuilding the same thing, we thought we might be on to something.\r\n\r\nWe see Firecrawl evolving into the easiest way for humans or AIs to collect data on the web. Imagine a magical interface instantly gathering data from any format, anywhere, with no code required.  ",
+    "one_liner": "The easiest way to extract AI ready data from the web",
+    "team_size": 6,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1661283698,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/firecrawl",
+    "api": "https://yc-oss.github.io/api/batches/s22/firecrawl.json"
+  },
+  {
     "id": 27167,
     "name": "Blockscope",
     "slug": "blockscope",
@@ -14921,8 +14971,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa6f0365e063d6abf85d22cf51d505e868af977e.png",
     "website": "https://wildmoose.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Wild Moose helps on-call developers more quickly identify the source of production incidents. We do this by providing a conversational AI trained on their environment.  We feed observability data into a Large-Language Model. Then, when something breaks, they can just ask the moose a question and get an answer.\r\n",
-    "one_liner": "Helping on-call devs tame production chaos with Generative AI",
+    "long_description": "Wild Moose automatically kicks off any root-cause investigation to improve MTTR.\r\nOur AI triages issues, analyzes impact, and suggests next steps - all before human intervention is needed.",
+    "one_liner": "Automating root cause analysis with generative AI",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -14931,11 +14981,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1675106023,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15490,54 +15540,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sage-ai",
     "api": "https://yc-oss.github.io/api/batches/w23/sage-ai.json"
-  },
-  {
-    "id": 27958,
-    "name": "Noya Software",
-    "slug": "noya-software",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7d3160c0336ac442ed7a4c13a39845f3f042dff.png",
-    "website": "https://noya.io",
-    "all_locations": "San Francisco, CA, USA; Walnut Creek, CA, USA; Remote",
-    "long_description": "Noya is a new kind of product design tool for non-designers. This is our second time co-founding a design tools company – our first company was acquired by Airbnb in 2017 and we became the design tools team there.\r\n\r\nAt Airbnb, we built the design infrastructure that the entire company relied on to scale design without increasing headcount costs. We did this by letting non-designers (such as marketing, PMs, and engineering) design screens and websites.  Now we're making these tools available to every company.",
-    "one_liner": "Product design tool that lets everyone design like a designer",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1674852593,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Design Tools",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/noya-software",
-    "api": "https://yc-oss.github.io/api/batches/w23/noya-software.json"
   },
   {
     "id": 27966,
@@ -19301,8 +19303,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/068d4a57daee96d896a98ada71a651a2d39135bf.png",
     "website": "https://lytix.co/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Lytix is Datadog for LLMs. We give developers time, money and certainty when building with AI. Developers are using lytix to build custom evaluations, identify opportunities to save money, and optimize their KPIs. In 4 months we've gone live with 4 companies, and processed over 400k events. Sahil (CEO), worked on product analytics and built machine learning models at QuickBooks. Sid (CTO) was previously a lead engineer at Titan (YC S18) where he has directly contributed to a cybersecurity patent and done multiple large scale infrastructure migrations.",
-    "one_liner": "DataDog for AI, build custom evaluations for end-to-end observability.",
+    "long_description": "Lytix is Datadog for LLMs. We give developers time, money and certainty when building with AI. Developers are using lytix to build custom evaluations, identify opportunities to save money, and optimize their KPIs. In 4 months we've gone live with 5 companies, and processed almost 1 million. Customers have reduced errors by up to 85%.\r\n Sahil (CEO), worked on product analytics and built machine learning models at QuickBooks. Sid (CTO) was previously a lead engineer at Titan (YC S18) where he has directly contributed to a cybersecurity patent and done multiple large scale infrastructure migrations.",
+    "one_liner": "DataDog for LLMs, turnkey solution for n=1 custom evaluations",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -19858,7 +19860,7 @@
     "name": "Spur",
     "slug": "spur",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f44d5700d09c60293e8a582f5102a56388bd41ff.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b63801706e3874e4f1017433f3c6a3ce0dddbca.png",
     "website": "https://www.spurtest.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Never code up another test or hire an external QA team. We handle and automate all functional and E2E testing. ",
@@ -20138,7 +20140,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/728ee9ea2b99fcf7119bc1be1f331371e8b80fc2.png",
     "website": "https://coval.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Coval automates AI agent testing, helping engineers launch dependable assistants across chat, voice, and other modalities. Our simulation and evaluation complement ad-hoc manual testing, preventing poor user experiences. Using our team's background in the autonomous vehicle industry, we focus on statistically validated reliability, applying proven techniques from self-driving tech to ensure quality.",
+    "long_description": "Coval is a simulation & evaluation platform for AI agents, helping engineers launch dependable assistants across chat, voice, and other modalities. \r\nWe simulate thousands of scenarios engineers don't have to manually test their agents. Our CI/CD evaluations automatically simulate and detect regressions.",
     "one_liner": "Simulation & Evaluation for AI Agents",
     "team_size": 10,
     "highlight_black": false,
@@ -20148,11 +20150,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725341816,
     "tags": [
-      "AIOps",
       "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure",
-      "Trust & Safety"
+      "B2B",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20166,9 +20167,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -20192,7 +20191,7 @@
     "website": "https://www.miruml.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Miru makes it easy for engineers to deploy and monitor software on robots and IoT devices. We provide the infrastructure to deploy updates over-the-air to a fleet of devices by simply pushing new changes to GitHub.",
-    "one_liner": "Deployment infrastructure for edge computing",
+    "one_liner": "Deployment infrastructure for robotics and IoT",
     "team_size": 3,
     "highlight_black": true,
     "highlight_latinx": false,
@@ -20286,8 +20285,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9fd82d6ad8c83a6a8a30a2f1f88b9186d91f977.png",
     "website": "https://glasskube.dev/",
     "all_locations": "Vienna, Vienna, Austria",
-    "long_description": "Glasskube is building a new packaging ecosystem for Kubernetes. With our Open Source package manager, we aim to replace Helm in the long run and give users a Docker-like experience to build, extend, deploy and distribute Kubernetes applications. We're also working on a cloud-native templating language so anyone building packages for Kubernetes can use a DSL and won't have to use the Go templating engine anymore.",
-    "one_liner": "The next generation Package Manager for Kubernetes",
+    "long_description": "Glasskube is an Open Source Package Manager for Kubernetes. Kubernetes is highly fragmented, making it nearly impossible to deploy applications across multiple environments with current tooling. We help software companies sell to enterprises and deploy to private infrastructure, different cloud environments, and on-premises.\r\n\r\nThe founders have been best friends for over 15 years, lived together in college, and even had a startup together. Philip was the CTO of a European Kubernetes-based company that was acquired in 2022.",
+    "one_liner": "Open Source Package Manager for Kubernetes",
     "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -20425,7 +20424,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f03303e10fc7a386927151fea9b210f581a40738.png",
     "website": "https://getpatchwork.io",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Patchwork automates logging from code to storage. We make it simple to implement actionable, structured logging across your entire codebase",
+    "long_description": "Patchwork automates logging from code to storage. We make it possible to automatically add actionable, structured event logs across your entire codebase. OTel is automated instrumentation for the ideal world, Patchwork is for everyone else.\r\n\r\nPatchwork was founded by three engineers who know what good looks like when it comes to observability, but also know it's takes a lot of dev effort to do manually. ",
     "one_liner": "The next generation logging and observability platform",
     "team_size": 3,
     "highlight_black": false,
@@ -20435,9 +20434,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723390201,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20510,6 +20509,51 @@
     "api": "https://yc-oss.github.io/api/batches/s24/stack-auth.json"
   },
   {
+    "id": 29647,
+    "name": "Maitai",
+    "slug": "maitai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3c6b9b422d6e861a26fcf29a7acd2c4eae136af.png",
+    "website": "https://trymaitai.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Maitai makes building reliable AI applications easy. We autocorrect faulty model output in real-time and automatically fine-tune models that learn from their mistakes. This means our customers get more reliable results immediately, and over time, they gain custom models built specifically for their application that only get better and faster. You wouldn’t hire an employee who doesn’t learn from their mistakes—so why use a model that doesn’t? Maitai is here to deliver the next generation of reliable AI inference for enterprise.",
+    "one_liner": "Reliable, self-improving enterprise AI",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1716914094,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maitai",
+    "api": "https://yc-oss.github.io/api/batches/s24/maitai.json"
+  },
+  {
     "id": 29649,
     "name": "Wordware",
     "slug": "wordware",
@@ -20534,7 +20578,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -20553,49 +20597,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wordware",
     "api": "https://yc-oss.github.io/api/batches/s24/wordware.json"
-  },
-  {
-    "id": 29652,
-    "name": "Kisho",
-    "slug": "kisho",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a71d31cc61afb44132647636e9f5b22d496cf012.png",
-    "website": "https://kisho.app",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kisho is an AI data scientist that lives inside a Jupyter Notebook. It enables anyone to perform advanced data analysis and build ML models using natural language - no coding required.",
-    "one_liner": "The AI Data Scientist - a Jupyter Notebook that writes itself.",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1725404546,
-    "tags": [
-      "Developer Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kisho",
-    "api": "https://yc-oss.github.io/api/batches/s24/kisho.json"
   },
   {
     "id": 29654,
@@ -20756,10 +20757,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722617907,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20793,7 +20794,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b3886b4eeec86b01eb6eb8ba6e07dd24f7af701.png",
     "website": "https://www.codeviz.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CodeViz creates interactive maps of codebases to help engineers quickly understand and navigate code.\r\n\r\nAdopted by engineers at Amazon, Microsoft, and Roblox, CodeViz was founded by two ex-Tesla engineers to tackle the 70% of development time lost to reading code. Download today at https://codeviz.ai",
+    "long_description": "CodeViz creates interactive maps of codebases to help engineers quickly understand and navigate code. \r\n \r\nAdopted by engineers at Amazon, Microsoft, and Roblox, CodeViz was founded by two ex-Tesla engineers to tackle the 75% of development time lost to reading code. Download today at https://codeviz.ai",
     "one_liner": "AI agent that builds codebase maps for developers",
     "team_size": 2,
     "highlight_black": false,
@@ -20803,9 +20804,9 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1723607809,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20887,7 +20888,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd54b637cf4e5d1842d0d06352abde6b7d388b51.png",
     "website": "https://zenbase.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Zenbase helps developers focus on programming by automating prompt engineering and model selection.\r\n\r\nWe’re core contributors of Stanford NLP’s DSPy, the #1 LLM optimization framework used by Meta, Microsoft, Google, among many others. But it's hard to use outside of academia.\r\n\r\nWe're building the production version.",
+    "long_description": "Zenbase helps developers focus on programming by automating prompt engineering and model selection. We’re core contributors of Stanford NLP’s DSPy, the #1 LLM optimization framework used by Meta, Microsoft, Google, among many others. But it's hard to use outside of academia. We're building the production version.",
     "one_liner": "Continuous prompt optimization for LLMs from DSPy core contributors",
     "team_size": 2,
     "highlight_black": false,
@@ -20923,7 +20924,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/zenbase-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/zenbase-ai.json"
   },
@@ -20936,7 +20937,7 @@
     "website": "https://www.benchify.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Benchify is a code review tool that uncovers real bugs by rigorously testing code using methods typically restricted to rocket science and chip design.",
-    "one_liner": "Automatic code reviews powered by rocket-grade testing",
+    "one_liner": "Bug-free code without writing tests",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": true,
@@ -20991,11 +20992,11 @@
     "subindustry": "B2B",
     "launched_at": 1723073466,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Kubernetes",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21026,8 +21027,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2962f31d13812ecf642bf4f800415c4be5836497.png",
     "website": "https://manaflow.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manaflow is a simple way to automate repetitive office work in tables. With one click, you can execute millions of tasks involving data retrieval, gluing APIs, and taking actions side-by-side with your office work co-pilot.",
-    "one_liner": "Automate repetitive office work in tables with AI",
+    "long_description": "Manaflow automates repetitive internal workflows involving data, APIs, and actions. Manaflow provides the infrastructure for businesses to build useful AI agents that can schedule recurring tasks, loop in human approval, and call custom tools. Instead of operations teams manually using internal tools, Manaflow agents listen to English instructions and operate tools in the background, interfacing directly with sources of truth, applications, and databases. ",
+    "one_liner": "AI Workflow Builder for Businesses",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -21360,8 +21361,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f41c1e3ea873ecf72e295ba7e2661334c89c3d60.png",
     "website": "https://thundercompute.com",
     "all_locations": "Atlanta, GA, USA",
-    "long_description": "Thunder Compute has created virtual GPU-over-TCP technology (think PCI-express over a network). This technology creates a new cloud instance with virtual, on-demand GPUs. \r\n\r\nWhat this means for developers is one cloud instance now accommodates any development workflow. A developer can build and debug in a CPU-only dev machine, then scale to a massive cluster with one command. This flexibility saves time spent configuring instances and cost of paying for idle compute during development.\r\n\r\nIn the background, our technology dramatically cuts CapEx for cloud providers. It does this by:\r\n\r\n1) Placing multiple workloads on a single GPU with dynamic memory sharing, similar to vCPUs on AWS, improving utilization\r\n\r\n2) Allowing CPU-only instances to share pooled GPU resources rather than dedicated cards that can't be accessed by other machines, further improving utilization\r\n\r\nGPU virtualization also saves OpEx by reducing IT and procurement processes required to get developers access to GPUs.\r\n\r\nNotably, this appears to be the most efficient technology for serverless GPU computing, achieving instantaneous cold starts by decoupling the GPU environment from the physical GPU.",
-    "one_liner": "Cloud Computing Technology to virtualize GPUs over TCP.",
+    "long_description": "Thunder Compute creates software to virtualize GPUs over a network. With a single command we trick your computer into thinking it’s directly attached to any number of cloud GPUs, saving developer hours of setup while allowing us to serve 5x more users with the same hardware.\r\n\r\nDevelopers save time spent configuring instances and cost of paying for idle compute during development.\r\n\r\nIn the background, our technology dramatically cuts CapEx of GPUs in any data center or cloud. It does this by:\r\n\r\n1) Placing multiple workloads on a single GPU\r\n\r\n2) Allowing CPU-only instances to share pooled GPU resources\r\n\r\nGPU virtualization also saves OpEx by reducing IT and procurement processes required to get developers access to GPUs.",
+    "one_liner": "Software to virtualize GPUs over TCP.",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -21445,6 +21446,54 @@
     "api": "https://yc-oss.github.io/api/batches/s24/ember-robotics.json"
   },
   {
+    "id": 29769,
+    "name": "Pinnacle",
+    "slug": "pinnacle",
+    "former_names": [
+      "InsightForge"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b466ed207f7ecd72989b10237037b204765513f2.png",
+    "website": "https://trypinnacle.app/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pinnacle is an API for RCS, the new standard for SMS for app-like text messages. For example, developers can create messages that show products that can be purchased with one tap natively on iOS and Android.\r\n\r\nIf you're currently using SMS from Twilio, etc, and you don't want to leave money on the table, get in touch with us - founders@trypinnacle.app with subject \"YCBIO\". \r\n\r\nIf you're a YC company, we'll get you a free founders mode™️ hat, 1000 free msgs/mo + 24/7 real founder mode™️ support when you switch to us.",
+    "one_liner": "API & SDK for RCS (the next-generation of texting)",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1725406476,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Sales",
+      "E-commerce",
+      "SMS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pinnacle",
+    "api": "https://yc-oss.github.io/api/batches/s24/pinnacle.json"
+  },
+  {
     "id": 29781,
     "name": "Cerulion",
     "slug": "cerulion",
@@ -21453,9 +21502,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/336383ad58869871ce591b4e1b31dd374319435c.png",
     "website": "https://www.cerulion.com",
-    "all_locations": "",
-    "long_description": "Cerulion is middleware for robots - it abstracts away the process of interfacing with the motors and sensors. Visualization, data logging, and control can be easily achieved in a no-code GUI. ",
-    "one_liner": "Cross-platform robot middleware with no-code GUI",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cerulion is an open source operating system for robots built by 2 MIT robotics PhDs. Companies like Amazon Robotics and Boston Dynamics AI Institute are using us to develop faster and ship more reliable robots than with ROS. With up to 1000x improvements in communications performance over state of the art, Cerulion is enabling the next generation of embodied AI.",
+    "one_liner": "Open source operating system for robots",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -21465,10 +21514,10 @@
     "launched_at": 1720480188,
     "tags": [
       "Developer Tools",
-      "Robotic Process Automation",
+      "Hard Tech",
+      "SaaS",
       "Robotics",
-      "B2B",
-      "API"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21477,10 +21526,12 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -21556,10 +21607,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1724450208,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21601,10 +21652,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722315932,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Productivity"
+      "Productivity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21635,7 +21686,7 @@
     "former_names": [
       "CloudCaptain"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e636a3e769f4147545c35c1b93dfab260ce92e8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/743b9f85db08e7b8a93c6c78302038fa26e34292.png",
     "website": "https://tryhelium.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Helium is building self-improving software — AI that continuously experiments on key moments in the user funnel to boost revenue. Our first customer, a social app with 20M MAU, uses Helium to test new in-app paywalls to get more users to subscribe. \r\n\r\nZach previously made $100M+ in growth experiments at Uber, Shishir led the first LLM features for Alexa, and Anish worked at Meta building ML to automatically experiment on ads, increasing Instagram ads conversion by 10%. ",
@@ -21698,10 +21749,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716301435,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21839,9 +21890,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1719854001,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Design Tools"
+      "Design Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21887,9 +21938,10 @@
     "launched_at": 1722887304,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "SaaS",
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21965,7 +22017,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ab88e3a4fc8224ae094d26b68f966408fe4cf3f.png",
     "website": "https://voideditor.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Void is an open source AI code editor. We let developers use Cursor-style AI features without sacrificing privacy.",
+    "long_description": "Void is an open source AI code editor. We let developers use Cursor-style AI features, without having to send their code to Cursor’s API.",
     "one_liner": "The open source Cursor alternative",
     "team_size": 2,
     "highlight_black": false,
@@ -22009,7 +22061,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2ac264e6877792745759c5eec0d699fa373574f.png",
     "website": "https://patched.codes",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Patched is an open-source framework to automate code reviews, docs, and patches with AI.\r\n\r\nWe empower developers to build and deploy AI-assisted workflows that can autonomously complete repetitive, mundane tasks like documentation, code reviews, and security patching.\r\n\r\nPatched is the preferred option for privacy-conscious enterprises and engineer that want to leverage the best AI models for their development workflows without compromising security, control, or compliance.\r\n\r\nWhat makes Patched different?\r\n- Autonomous Automation: Unlike copilots that assist during active development, Patched runs in the background, managing tasks autonomously.\r\n- Code-Native Workflows: Flows can be built using visual editors or Python code.\r\n- Open-Source Flexibility: Allows running patchflows locally and integrating with preferred LLM API endpoints for enhanced privacy.\r\n- Control & Precision: Get full control over your workflows, overcoming limitations of non-deterministic agentic behaviors.",
+    "long_description": "Patched empowers development teams to build and deploy AI-assisted workflows that can autonomously complete post-code tasks like documentation, code reviews, and security patching. Our workflows can be customized using a visual builder and can be self-hosted with any AI model, enabling automation without compromising security, control, or compliance.",
     "one_liner": "Open-source workflow automation for enterprise dev teams",
     "team_size": 2,
     "highlight_black": false,
@@ -22056,7 +22108,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0299dba6774c882d9a658c3116ab00c79bf5cf4.png",
     "website": "https://www.freestyle.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building an abstract cloud for JavaScript engineers. We replace databases, message queues, streaming infrastructure, authorization, and more with open-source JavaScript packages that developers can compose into world-class software. To modularize this capability in JavaScript, we developed a new distributed runtime, hosted by our cloud.",
+    "long_description": "Ben and Jacob met in Calculus class in 10th grade, and tried founding a startup in high school — it didn’t go anywhere, but it taught them a ton.\r\n\r\nDuring high school, Ben lead the frontend team for the World Health Organization’s COVID-19 App Team.\r\n\r\nAfter high school, Jacob went to Apple and Ben went to college. When there was an opening on his team, Jacob had Ben apply, and Ben left UChicago to go work at Apple.\r\n\r\nThey spent about 2 years at Apple as Senior Engineers in the Conversational Engineering Department, before leaving to found Freestyle.\r\n\r\nFreestyle is directly inspired by what they saw as their failures of the tech they worked with at Apple.",
     "one_liner": "Build exceptional infrastructure with just JavaScript.",
     "team_size": 5,
     "highlight_black": false,
@@ -22103,7 +22155,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5957c080cba74e8f92840d3baeec2beaae949d4b.png",
     "website": "https://melty.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Melty is the first chat-based code editor. It creates a git commit along with each chat message so it can always stay in sync with you, like a pair programmer.\r\n\r\nWe launched Melty two weeks ago, and we're already at 4500 stars on github, which makes it one of the fastest growing open source YC repos ever.",
+    "long_description": "Melty is the first chat-based code editor. It creates a git commit along with each chat message so it can always stay in sync with you, like a pair programmer. We launched Melty two weeks ago, and we're already at 4500 stars on github, which makes it one of the fastest growing open source YC repos ever.",
     "one_liner": "Melty is the first chat-based code editor",
     "team_size": 2,
     "highlight_black": false,
@@ -22113,9 +22165,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725301012,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Generative AI"
+      "Generative AI",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -1440,7 +1440,7 @@
     "website": "https://www.miruml.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Miru makes it easy for engineers to deploy and monitor software on robots and IoT devices. We provide the infrastructure to deploy updates over-the-air to a fleet of devices by simply pushing new changes to GitHub.",
-    "one_liner": "Deployment infrastructure for edge computing",
+    "one_liner": "Deployment infrastructure for robotics and IoT",
     "team_size": 3,
     "highlight_black": true,
     "highlight_latinx": false,
@@ -1485,8 +1485,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9fd82d6ad8c83a6a8a30a2f1f88b9186d91f977.png",
     "website": "https://glasskube.dev/",
     "all_locations": "Vienna, Vienna, Austria",
-    "long_description": "Glasskube is building a new packaging ecosystem for Kubernetes. With our Open Source package manager, we aim to replace Helm in the long run and give users a Docker-like experience to build, extend, deploy and distribute Kubernetes applications. We're also working on a cloud-native templating language so anyone building packages for Kubernetes can use a DSL and won't have to use the Go templating engine anymore.",
-    "one_liner": "The next generation Package Manager for Kubernetes",
+    "long_description": "Glasskube is an Open Source Package Manager for Kubernetes. Kubernetes is highly fragmented, making it nearly impossible to deploy applications across multiple environments with current tooling. We help software companies sell to enterprises and deploy to private infrastructure, different cloud environments, and on-premises.\r\n\r\nThe founders have been best friends for over 15 years, lived together in college, and even had a startup together. Philip was the CTO of a European Kubernetes-based company that was acquired in 2022.",
+    "one_liner": "Open Source Package Manager for Kubernetes",
     "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -1535,7 +1535,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f03303e10fc7a386927151fea9b210f581a40738.png",
     "website": "https://getpatchwork.io",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Patchwork automates logging from code to storage. We make it simple to implement actionable, structured logging across your entire codebase",
+    "long_description": "Patchwork automates logging from code to storage. We make it possible to automatically add actionable, structured event logs across your entire codebase. OTel is automated instrumentation for the ideal world, Patchwork is for everyone else.\r\n\r\nPatchwork was founded by three engineers who know what good looks like when it comes to observability, but also know it's takes a lot of dev effort to do manually. ",
     "one_liner": "The next generation logging and observability platform",
     "team_size": 3,
     "highlight_black": false,
@@ -1545,9 +1545,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723390201,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1685,10 +1685,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722617907,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1733,11 +1733,11 @@
     "subindustry": "B2B",
     "launched_at": 1723073466,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Kubernetes",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -163,7 +163,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S19",
     "status": "Active",
@@ -1299,56 +1299,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/reprompt.json"
   },
   {
-    "id": 29524,
-    "name": "Coval",
-    "slug": "coval",
-    "former_names": [
-      "Datawave"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/728ee9ea2b99fcf7119bc1be1f331371e8b80fc2.png",
-    "website": "https://coval.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Coval automates AI agent testing, helping engineers launch dependable assistants across chat, voice, and other modalities. Our simulation and evaluation complement ad-hoc manual testing, preventing poor user experiences. Using our team's background in the autonomous vehicle industry, we focus on statistically validated reliability, applying proven techniques from self-driving tech to ensure quality.",
-    "one_liner": "Simulation & Evaluation for AI Agents",
-    "team_size": 10,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1725341816,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Infrastructure",
-      "Trust & Safety"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/coval",
-    "api": "https://yc-oss.github.io/api/batches/s24/coval.json"
-  },
-  {
     "id": 29569,
     "name": "Miru",
     "slug": "miru-ml",
@@ -1362,7 +1312,7 @@
     "website": "https://www.miruml.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Miru makes it easy for engineers to deploy and monitor software on robots and IoT devices. We provide the infrastructure to deploy updates over-the-air to a fleet of devices by simply pushing new changes to GitHub.",
-    "one_liner": "Deployment infrastructure for edge computing",
+    "one_liner": "Deployment infrastructure for robotics and IoT",
     "team_size": 3,
     "highlight_black": true,
     "highlight_latinx": false,
@@ -1418,8 +1368,8 @@
     "launched_at": 1719086771,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Call Center",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -1454,7 +1404,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f86b78941e41162fe785f78a758f28b109d81ae6.png",
     "website": "https://getcallback.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Callback is AI-native business process outsourcing. Companies use us to stay lean and focused on their core business, while we orchestrate and execute their critical tasks. \r\n",
+    "long_description": "Callback is AI-native business process outsourcing. We help our customers stay focused on their core business while we use AI to automate tasks like invoice processing, PDF report parsing, and data labeling. \r\n",
     "one_liner": "AI-native business process outsourcing",
     "team_size": 2,
     "highlight_black": false,
@@ -1516,7 +1466,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -1654,9 +1604,10 @@
     "launched_at": 1722887304,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "SaaS",
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1682,16 +1633,16 @@
   },
   {
     "id": 29950,
-    "name": "Pipeshift AI",
-    "slug": "pipeshift-ai",
+    "name": "Pipeshift",
+    "slug": "pipeshift",
     "former_names": [
       "Xylem AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/290c0065a5ffe07236a3cc433e4c722863914784.png",
-    "website": "https://pipeshift.ai",
+    "website": "https://pipeshift.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pipeshift is the \"Vercel for open-source LLMs\", offering a platform for finetuning, distilling, and inferencing open-source LLMs for engineering teams to get to production with their LLMs 10x faster. With Pipeshift, companies making >1000 calls/day on frontier LLMs can use their data and logs to replace GPT/Claude in production with specialized LLMs that offer higher accuracy, lower latencies, and model ownership.\r\n\r\nWe are experts in LLMs, having scaled LLMs to 1000s of users in 2023. That's when we saw the massive drawbacks of closed-source LLMs in production, making us start Pipeshift AI. We met 6 years back as roommates during undergrad, and before starting Pipeshift AI, we led a defense robotics non-profit backed by NVIDIA and built a health-tech startup.\r\n\r\nThe shift to AI is like the shift to the cloud, every company is going to implement AI. And, open-source AI will be as good as closed-source AI. Meta's Llama 3.1 models prove that. But, the open-source AI stack is a complete mess, with companies needing a team of engineers to set up 10+ different tools just to get started and every optimization needs 1000s of engineering hours.\r\n\r\nPipeshift offers this stack out of the box. With our fine-tuning + distilling platform and one-click deployment stack for hosting these LLMs, we ensure 10x faster experimentation cycles and time-to-production. Think \"Vercel for open-source LLMs\".",
-    "one_liner": "Platform for Fine-tuning, Distilling and Inferencing Open-source LLMs.",
+    "long_description": "Pipeshift is the \"Vercel for open-source LLMs\", offering a platform for finetuning, distilling, and inferencing open-source LLMs for engineering teams to get to production with their LLMs 10x faster. With Pipeshift, companies making >1000 calls/day on frontier LLMs can use their data and logs to replace GPT/Claude in production with specialized LLMs that offer higher accuracy, lower latencies, and model ownership.\r\n\r\nWe are experts in LLMs, having scaled LLMs to 1000s of users in 2023. That's when we saw the massive drawbacks of closed-source LLMs in production, making us start Pipeshift. We met 6 years back as roommates during undergrad, and before starting Pipeshift, we led a defense robotics non-profit backed by NVIDIA and built a health-tech startup.\r\n\r\nThe shift to AI is like the shift to the cloud, every company is going to implement AI. And, open-source AI will be as good as closed-source AI. Meta's Llama 3.1 models prove that. But, the open-source AI stack is a complete mess, with companies needing a team of engineers to set up 10+ different tools just to get started and every optimization needs countless engineering hours.\r\n\r\nPipeshift offers this stack out of the box. With our fine-tuning + distilling platform and one-click deployment stack for hosting these LLMs, we ensure 10x faster experimentation cycles and time-to-production. Think \"Vercel for open-source LLMs\".",
+    "one_liner": "Platform for Fine-tuning and Inferencing Open-source LLMs.",
     "team_size": 8,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -1725,8 +1676,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pipeshift-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/pipeshift-ai.json"
+    "url": "https://www.ycombinator.com/companies/pipeshift",
+    "api": "https://yc-oss.github.io/api/batches/s24/pipeshift.json"
   },
   {
     "id": 29992,
