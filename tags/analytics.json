@@ -7819,9 +7819,9 @@
     "subindustry": "B2B",
     "launched_at": 1721413814,
     "tags": [
+      "Artificial Intelligence",
       "Analytics",
       "Feedback",
-      "AI",
       "Reviews"
     ],
     "tags_highlighted": [],
@@ -7844,51 +7844,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cheers-2",
     "api": "https://yc-oss.github.io/api/batches/s24/cheers-2.json"
-  },
-  {
-    "id": 29610,
-    "name": "Hamming AI",
-    "slug": "hamming-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63f48bd5017efb50e1fd3bcb1bd32b4b6a0147e3.png",
-    "website": "https://hamming.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Humans make billions of calls/day. We think a majority of these will be handled by AI built by thousands of companies tackling every single vertical.\r\n\r\nMaking these AI voice agents reliable is hard. A small change in prompts, function call definitions, or model providers can cause large changes in LLM outputs. \r\n\r\nHamming automates testing for AI voice agents. Our voice agents call your voice agent. An AI drive-through startup uses Hamming to simulate thousands of simultaneous phone calls to achieve 99.99% agent order accuracy.\r\n\r\nWe have a proven track record of helping enterprises win with AI. Sumanyu (CEO) previously helped Citizen (safety app) grow its users by 4X and grew an AI-powered sales program to 100s of millions in revenue/year at Tesla. Marius (CTO) previously ran data infrastructure @ Anduril and was a founding engineer @ Spell (MLOps startup acquired by Reddit).",
-    "one_liner": "Automated testing for AI voice agents",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1715007777,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Analytics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hamming-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/hamming-ai.json"
   },
   {
     "id": 29636,
@@ -8007,10 +7962,10 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1722311835,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Analytics",
       "Data Science",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -8045,8 +8000,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7501c381ec6654b0249e7c8d1881f708e27ce6e.png",
     "website": "https://www.emberrobotics.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ember Robotics is building camera diagnostics tools for robots and automotive. We worked on optimizing camera performance at Tesla Autopilot and now we're building software that takes mitigating camera failures from hours to minutes.",
-    "one_liner": "Camera diagnostics for robots",
+    "long_description": "Ember Robotics is building the hardware observability layer for autonomous robots, starting with camera diagnostic tools. We worked on optimizing camera performance at Tesla Autopilot and now we're building software that takes mitigating camera failures from hours to minutes.",
+    "one_liner": "Datadog for robots",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,

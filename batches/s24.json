@@ -397,9 +397,9 @@
     "launched_at": 1723833827,
     "tags": [
       "AI-powered Drug Discovery",
-      "Artificial Intelligence",
       "Biotech",
       "Therapeutics",
+      "AI",
       "Biotechnology"
     ],
     "tags_highlighted": [],
@@ -664,7 +664,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f8c54103232ce6ad4a91f33685eeaecbcd4d224.png",
     "website": "https://www.miruml.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Miru makes it easy for engineers to deploy and monitor software on robots and IoT devices. We provide the infrastructure to deploy updates over-the-air to a fleet of devices by simply pushing new changes to GitHub.",
+    "long_description": "Miru provides developers with the infrastructure to easily deploy updates over-the-air to fleets of robots and IoT devices by simply pushing new changes to GitHub. ",
     "one_liner": "Deployment infrastructure for robotics and IoT",
     "team_size": 3,
     "highlight_black": true,
@@ -710,7 +710,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a43915880e9457258d58ab7ad09815c195bf21a.png",
     "website": "https://www.spherecast.ai/",
     "all_locations": "",
-    "long_description": "Spherecast is an AI-powered inventory management software for omni-channel e-commerce brands, supporting supply chain managers with demand planning, inventory optimization, and supplier communication.\r\n\r\nSpherecast tells brands when to reorder, how much, which warehouse to stock, and at what cost. It then autonomously executes by communicating with suppliers, manufacturers, and warehouses.\r\n\r\nSpherecast helps avoid stockouts and overstock, improve inventory visibility, and save time.",
+    "long_description": "Spherecast is an AI-powered inventory management software for omni-channel e-commerce brands, supporting supply chain managers with demand planning, inventory optimization, and supplier communication.\r\n\r\nSpherecast tells brands when to reorder, how much, which warehouse to stock, and at what cost. It then autonomously executes these decisions by communicating with suppliers and manufacturers.\r\n\r\nSpherecast helps avoid stockouts and overstock, improve inventory visibility, and save time.",
     "one_liner": "AI Supply Chain Manager for Ecommerce",
     "team_size": 5,
     "highlight_black": false,
@@ -906,11 +906,11 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1719276994,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "B2B",
-      "E-commerce",
-      "AI"
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1046,9 +1046,9 @@
     "subindustry": "B2B",
     "launched_at": 1721413814,
     "tags": [
+      "Artificial Intelligence",
       "Analytics",
       "Feedback",
-      "AI",
       "Reviews"
     ],
     "tags_highlighted": [],
@@ -1190,10 +1190,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1717266827,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
       "Aerospace",
       "Enterprise Software",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -1281,6 +1281,7 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1721072332,
     "tags": [
+      "Hard Tech",
       "Data Visualization",
       "Time Series",
       "Industrial",
@@ -1360,7 +1361,7 @@
     "website": "https://spaceium.com",
     "all_locations": "Long Beach, CA, USA",
     "long_description": "Spaceium builds fully automated space stations to refuel and repair spacecraft. We have secured $86.1 million in binding commercial contracts and have an additional $230 million in the pipeline. Additionally, we have 1 billion dollars in letters of intent. We have successfully tested our hardware, which will launch to space next year. \r\n\r\nOur fully automated space stations will efficiently store and transfer both cryogenic (extremely cold) and non-cryogenic fuels with zero loss during storage and transfer. And they can transfer fuel seamlessly to any spacecraft design using our proprietary modular robotic arm.\r\n\r\nOur customers include launch vehicles, orbital transfer vehicles, moon landers, and spacecraft that benefit from increased payload capacity and extended travel capabilities. Our long-term vision is to build service hubs along the space superhighway to connect Earth to Moon and Mars and help humanity to become multi multi-planetary species\r\n",
-    "one_liner": "Fully automated space stations for refueling and repair of spacecraft",
+    "one_liner": "In-Space Refueling",
     "team_size": null,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -1545,7 +1546,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63f48bd5017efb50e1fd3bcb1bd32b4b6a0147e3.png",
     "website": "https://hamming.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Humans make billions of calls/day. We think a majority of these will be handled by AI built by thousands of companies tackling every single vertical.\r\n\r\nMaking these AI voice agents reliable is hard. A small change in prompts, function call definitions, or model providers can cause large changes in LLM outputs. \r\n\r\nHamming automates testing for AI voice agents. Our voice agents call your voice agent. An AI drive-through startup uses Hamming to simulate thousands of simultaneous phone calls to achieve 99.99% agent order accuracy.\r\n\r\nWe have a proven track record of helping enterprises win with AI. Sumanyu (CEO) previously helped Citizen (safety app) grow its users by 4X and grew an AI-powered sales program to 100s of millions in revenue/year at Tesla. Marius (CTO) previously ran data infrastructure @ Anduril and was a founding engineer @ Spell (MLOps startup acquired by Reddit).",
     "one_liner": "Automated testing for AI voice agents",
     "team_size": 2,
@@ -1555,15 +1556,10 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1715007777,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Analytics",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -1572,8 +1568,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1781,11 +1776,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725425996,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Open Source",
       "No-code",
-      "Cloud Computing"
+      "Cloud Computing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2105,9 +2100,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723390201,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2455,7 +2450,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "1. Collaborative IDE for Building AI Agents \r\n2. At its heart is a new programming language that merges plain English with concepts like loops, conditional statements, and function calling.\r\n3. We also support forking, API deployment and sharing as a hosted app.\r\n\r\nWe have 300,000 users, and many companies paying us between 199 and 10k per month.",
     "one_liner": "IDE to develop, iterate and deploy AI Agents",
-    "team_size": 3,
+    "team_size": 9,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -2470,7 +2465,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -2601,7 +2596,7 @@
     "long_description": "ideate.xyz is the first AI graphics design co-pilot for content marketers.\r\n\r\nIt’s like an easier-to-use Canva with a built-in AI designer. Users create designs in our editor and chat with our virtual design expert so they can iterate on the work without having to hire an agency.",
     "one_liner": "AI graphics design co-pilot for content marketers",
     "team_size": 2,
-    "highlight_black": false,
+    "highlight_black": true,
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
@@ -2704,11 +2699,11 @@
     "subindustry": "Fintech",
     "launched_at": 1723533013,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Finance",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3018,7 +3013,7 @@
     "name": "Aviary",
     "slug": "aviary",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/10418ffd1c11263768a24d1a4699ac053ed94114.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af8fb819bd1415737686097f1f7303ce053a9468.png",
     "website": "https://aviary.video",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hi, we're Aviary. We are the automated Scale AI for video understanding. Our software understands video content as well as any human, allowing millions of videos to be annotated and analyzed in a fraction of the time and cost it would take a human.\r\n\r\nThe founding team comes from Snapchat, Notion, Pinterest, CMU, University of Toronto, with extensive background in multimodal machine learning and in building search systems at scale.",
@@ -3355,7 +3350,7 @@
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
-    "highlight_women": false,
+    "highlight_women": true,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724629645,
@@ -3502,8 +3497,8 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1723587984,
     "tags": [
+      "Artificial Intelligence",
       "Scheduling",
-      "Logistics",
       "Healthcare"
     ],
     "tags_highlighted": [],
@@ -3768,7 +3763,7 @@
     "website": "https://www.trypassage.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Passage is a co-pilot for the customs brokering space. \r\n\r\nToday, companies employ entire teams of customs brokers and entry writers who spend hours keying in data and corresponding with clients. \r\n\r\nWith our co-pilot, we plan to streamline this tedious data entry work, and email correspondence, making compliance teams significantly more efficient",
-    "one_liner": "Clear your goods in minutes, with AI ",
+    "one_liner": "Clear goods through customs, with AI",
     "team_size": 2,
     "highlight_black": true,
     "highlight_latinx": false,
@@ -3777,11 +3772,11 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1719338941,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Logistics",
-      "Transportation",
-      "AI"
+      "Transportation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3825,10 +3820,10 @@
     "subindustry": "B2B",
     "launched_at": 1725142580,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Big Data",
       "Data Engineering",
+      "AI",
       "Databases"
     ],
     "tags_highlighted": [],
@@ -3970,14 +3965,14 @@
     "subindustry": "Healthcare",
     "launched_at": 1722295529,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -4244,10 +4239,10 @@
     "subindustry": "Consumer",
     "launched_at": 1720334032,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Consumer",
-      "Entertainment",
-      "AI"
+      "Entertainment"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4422,7 +4417,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/848a0a716b3d688b2054184d78580f9988c075be.png",
     "website": "http://www.plumefinder.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Plume simplifies and accelerates the process of improving home energy efficiency. With rising electricity prices and stricter regulations, homeowners need to assess their homes, understand energy renovation options, find the best ones, and hire trustworthy contractors.\r\n\r\nUsing thermodynamic models, public housing data, satellite imagery and AI, Plume assesses your home’s energy efficiency, recommends cost-effective improvements, and connects you with vetted contractors.\r\n\r\nOur platform allows the user to simulate personalised renovations scenarios helping homeowners make informed decisions quickly and efficiently.\r\n\r\nTry it now for your house anywhere in the world.",
+    "long_description": "Plume is an energy renovation copilot that helps real estate agents and contractors with energy audits and renovation planning.\r\n\r\nOur first customer, a real estate marketplace, uses Plume to provide potential buyers with precise energy renovation scenarios, cutting the time to sell a house in half.\r\n\r\nUsing thermodynamic models, public housing data, satellite imagery and AI,  Plume enables remote energy assessments of any building.\r\n\r\nIn Europe alone, 35 million homes face regulatory pressure to be retrofitted within the next 5 years, and 220 million over the next 25 years.\r\n\r\nPlume leverages the founding team's unique expertise: Marc, a Harvard satellite researcher; JB, a thermodynamics engineer; and Edouard, a sales and product builder from Palantir.",
     "one_liner": "Home energy renovation copilot",
     "team_size": 3,
     "highlight_black": false,
@@ -4611,7 +4606,7 @@
     "website": "https://lighthouz.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Lighthouz AI is building AI procurement specialists for manufacturers. \r\n\r\n\r\n500,000 procurement professionals waste their entire day using emails to communicate with suppliers, and entering data on spreadsheets and outdated ERP software. That's $40B wasted annually. \r\n\r\n\r\nLighthouz's AI procurement specialists disrupts this entire profession. The AI agent automates all manual tasks of procurement -- data extraction from emails & documents, data entry on ERP systems. It 15x'es the productivity of procurement teams. \r\n\r\n\r\nOur AI agents will replace 500k jobs in the next 5 years. \r\n\r\n\r\nOur team has 20+ years of combined AI experience: \r\n- Srijan has been a GaTech CS professor, ex- Google, Stanford, UMD, IIT. He has built systems now in production at Meta, Home Depot, etc. He has written 60+ papers that are cited 6000+ times. \r\n- Sonali was a lead AI engineer at Progressive insurance, American Family insurance, Halliburton, did her MS at University of Washington, and undergrad at IIT. ",
-    "one_liner": "AI procurement specialists for manufacturers to 15x productivity",
+    "one_liner": "AI procurement specialists for manufacturers",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -4620,10 +4615,10 @@
     "subindustry": "B2B",
     "launched_at": 1724264636,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Workflow Automation",
       "Supply Chain",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4709,7 +4704,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f975b562ddf2a304a569ae2a7dc2814672828062.png",
     "website": "https://taxo.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Taxo integrates with electronic health records (EHRs) to automate medical billing and coding. Its AI-powered solution reduces the time and cost of claims processing by 90%, enabling providers to focus on patient care rather than administrative tasks.",
+    "long_description": "Taxo integrates with electronic health records (EHRs) to automate medical billing and coding. Its AI-powered solution reduces the time and cost of claims processing by >90%, enabling providers to focus on patient care rather than administrative tasks.",
     "one_liner": "Automated medical billing and coding",
     "team_size": 8,
     "highlight_black": false,
@@ -4719,8 +4714,8 @@
     "subindustry": "Healthcare",
     "launched_at": 1724873194,
     "tags": [
-      "Healthcare",
-      "AI"
+      "Artificial Intelligence",
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4763,11 +4758,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1720735986,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4858,9 +4853,9 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1724299254,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5033,8 +5028,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/acdb0c2a3124d9e5717a63d0231af9b6f7447919.png",
     "website": "https://kopra.bio",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kopra Bio makes genetically engineerd viruses that teach your immune system to kill cancer using tech we developed at UCSF. We’re making the next Keytruda ($25B/yr cancer drug blockbuster) starting with the most aggressive form of brain cancer, glioblastoma. In the most challenging brain cancer model, we improve survival from 0% with the current FDA approved treamtent to 90% with our treatment.",
-    "one_liner": "Genetically engineerd viruses that teach your immune system to kill…",
+    "long_description": "Kopra Bio makes genetically engineered viruses that teach your immune system to kill cancer using tech we developed at UCSF. We’re making the next Keytruda ($25B/yr cancer drug blockbuster) starting with the most aggressive form of brain cancer, glioblastoma. In the most challenging brain cancer model, we improve survival from 0% with the current FDA approved treamtent to 90% with our treatment.",
+    "one_liner": "Genetically engineered viruses that teach your immune system to kill…",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -5093,9 +5088,9 @@
     "subindustry": "B2B",
     "launched_at": 1720330783,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Real Estate",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -5265,9 +5260,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/10b041265670ef03fc794bc6300cf8eef692d02a.png",
     "website": "https://panora.dev",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "",
-    "one_liner": "Open source integrations platform for the LLM era",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Panora makes it easy for developers to build AI products that have access to business data.\r\nWe do this by providing both data connectors and transformers under a single well-documented API. \r\nIn a few hours instead of weeks - Developers give their AI agents and copilots access to data in CRMs, File Storage platforms, project management tools\r\n",
+    "one_liner": "Data Connectors for LLMs",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -5276,11 +5271,11 @@
     "subindustry": "B2B",
     "launched_at": 1715907913,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "API",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5295,7 +5290,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5373,11 +5368,11 @@
     "subindustry": "Government",
     "launched_at": 1720055072,
     "tags": [
-      "Artificial Intelligence",
       "Civic Tech",
       "GovTech",
       "Climate",
-      "Transportation"
+      "Transportation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5555,9 +5550,9 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1722269171,
     "tags": [
+      "Artificial Intelligence",
       "Security",
-      "Privacy",
-      "AI"
+      "Privacy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5636,8 +5631,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f7baf06a18eb95e118fcef8277af5190afda01b.png",
     "website": "https://olive.legal",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Olive uses AI to summarize client medical records for personal injury lawyers. We're at $13k MRR after launching eight weeks ago, and law firms choose us because we double paralegal efficiency.\r\n\r\nSam's ex-girlfriend introduced him to Greg back at CMU in 2017, and while that relationship didn't last, their friendship has. After undergrad, Greg went to Harvard Law School, while Sam worked for three years at Jane Street, including a year in Hong Kong where he built out a satellite dev team for the algo options trading desk.\r\n\r\nGreg graduated, Sam quit, and we founded Olive with a big idea: use AI to make the law more accessible. We started with AI in corporate law given Greg's background, but quickly realized the space was crowded, and turned our attention to the under-competed $65B personal injury market.\r\n\r\nAI disruption makes a lot of sense in personal injury because the incentives are aligned—plaintiff lawyers are paid on contingency, and therefore love time-saving tools. We have competitors who have proven substantial demand for medical chronologies, but they operate at best on hybrid human/AI approaches with multi-day turnarounds. We think there's space for an AI solution that cuts humans out of the loop entirely with instant turnarounds, and we think we're the right team to do it.\r\n\r\nWe're focusing on the medical malpractice niche within personal injury, because there's a massive access to justice problem: medical malpractice lawyers decline most cases under $250k since they're too expensive to litigate. An estimated 80% of medical malpractice victims can't secure representation right now, and we're on a mission to change that by making the litigation process cheaper, at the same time unlocking a massive market of latent demand.",
-    "one_liner": "AI medical summaries for personal injury lawyers.",
+    "long_description": "Olive uses AI to summarize client medical records for personal injury lawyers. We're at $13k MRR after launching eight weeks ago, and law firms choose us because we double paralegal efficiency. As we take over more legal workflow, Olive will serve victims of medical malpractice directly. \r\n\r\nSam's ex-girlfriend introduced him to Greg back at CMU in 2017, and while that relationship didn't last, their friendship has. After undergrad, Greg went to Harvard Law School, while Sam worked for three years at Jane Street, building & leading a satellite dev team.\r\n\r\nGreg graduated, Sam quit, and we founded Olive with a big idea: use AI to make the law more accessible. We started with AI in corporate law given Greg's background, but quickly realized the space was crowded, and turned our attention to the under-competed $65B personal injury market.\r\n\r\nAI disruption makes a lot of sense in personal injury because the incentives are aligned—plaintiff lawyers are paid on contingency, and therefore love time-saving tools. We have competitors who have proven substantial demand for medical summaries, but they operate at best on hybrid human/AI approaches with multi-day turnarounds. We think there's space for an AI solution that cuts humans out of the loop entirely, and we think we're the right team to do it.\r\n\r\nWe're focusing on the medical malpractice niche within personal injury, because there's a massive access to justice problem: medical malpractice lawyers decline most cases under $500k since they're too expensive to litigate. An estimated 80% of medical malpractice victims can't secure representation right now. We estimate this latent demand at $48bn/year.\r\n\r\nWe are on a mission to unlock this value.",
+    "one_liner": "AI medical summaries for injury lawyers",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -5765,8 +5760,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0914e7c57600d0f4e29b3d49471acd1e2eeee03.png",
     "website": "https://usefocal.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Focal enables large enterprises to effectively leverage AI to automate traditionally manual workflows. Our initial focus is geared towards helping financial institutions automate compliance, risk, and dispute operations.",
-    "one_liner": "AI automation for enterprises",
+    "long_description": "Focal enables f to effectively leverage AI to automate traditionally manual workflows. Our initial focus is geared towards helping financial institutions automate compliance, risk, and dispute operations.",
+    "one_liner": "AI-powered compliance operations for banks and fintechs",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -5775,11 +5770,11 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1720475145,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "B2B",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6141,7 +6136,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/becd07dd532d02d7faf201baa5f85e3101cc6f42.png",
     "website": "https://lumenary.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumenary automates value-based quality reporting for healthcare providers using AI, unlocking tens of millions of dollars in reimbursements and incentives. With just a few clicks, we unify EHR & claims data, calculate risk-adjusted quality measures, and submit hundreds of different reports to payers, registries, and regulators.",
+    "long_description": "Lumenary automates quality management for healthcare using interpretable AI. With just a few clicks, Lumenary's quality platform can accurately and in real time abstract unstructured charts into the precise forms necessary for clinical registry submissions, infection control documentation, safety incident reporting, and population health analysis, saving millions in labor costs and overhead. Lumenary was founded by four best friends who met at Dartmouth College, with engineering expertise from Jane Street Capital, IMC Trading, Palantir Technologies, and Flatiron Health. They've published high impact machine learning research in venues like NeurIPS, in addition to deploying enterprise software managing billions of dollars and petabytes of data. Lumenary is co-developing its quality platform with a leading academic medical center.",
     "one_liner": "AI-powered quality reporting for healthcare.",
     "team_size": 4,
     "highlight_black": false,
@@ -6151,10 +6146,10 @@
     "subindustry": "Healthcare",
     "launched_at": 1722638950,
     "tags": [
-      "Artificial Intelligence",
       "Healthcare",
       "Automation",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6200,9 +6195,9 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1721586663,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6565,7 +6560,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70cdd1fa78c63083ab6a70c63195a46e8f6cad04.png",
     "website": "https://getpaxai.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Pax uses AI to automate import tax refunds (aka duty drawback) for retailers and manufacturers. We launched 4 weeks ago and have ~$200K in contracts.\r\n\r\nEach year, 80% of eligible refunds—equivalent to $11B—go unclaimed. Pax is the first AI-powered broker helping brands under $50M reclaim 3-5% of their revenue. Our algorithms generate 15% more refunds than the industry leader and reduce processing time by 99% with AI.\r\n\r\nWe are two technical founders: I got my PhD from MIT and, and was a former research scientist at Amazon & Flexport, where I encountered the problem firsthand. My co-founder Chris is a second-time founder and former software engineer at Amazon, Brex, and TikTok.",
     "one_liner": "AI Broker for Import Tax Refund",
     "team_size": 2,
@@ -6575,15 +6570,10 @@
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1721770612,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Compliance",
-      "Supply Chain"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -6592,8 +6582,7 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6791,7 +6780,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2af2b5c47fb7082d55355cc9c8ad07af8fb99ae7.png",
     "website": "https://modernrealty.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Interpret real estate data and gain an edge on other home buyers. ",
+    "long_description": "Cutting-edge AI tools for home buying: Stay ahead of the competition.\r\n",
     "one_liner": "AI Realtor for Home Buyers",
     "team_size": 2,
     "highlight_black": false,
@@ -6847,11 +6836,11 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1715554333,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Manufacturing",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6945,10 +6934,10 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1722311835,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Analytics",
       "Data Science",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -7031,8 +7020,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7501c381ec6654b0249e7c8d1881f708e27ce6e.png",
     "website": "https://www.emberrobotics.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ember Robotics is building camera diagnostics tools for robots and automotive. We worked on optimizing camera performance at Tesla Autopilot and now we're building software that takes mitigating camera failures from hours to minutes.",
-    "one_liner": "Camera diagnostics for robots",
+    "long_description": "Ember Robotics is building the hardware observability layer for autonomous robots, starting with camera diagnostic tools. We worked on optimizing camera performance at Tesla Autopilot and now we're building software that takes mitigating camera failures from hours to minutes.",
+    "one_liner": "Datadog for robots",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -7217,10 +7206,10 @@
     "name": "Soff",
     "slug": "soff",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b402edc0d59aaae7f217e948a65add9eb3b2b93.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee65dad94920a028a9b2e74271fb799f715d405f.png",
     "website": "https://soff.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soff is a supply chain operating system for manufacturing companies. We unify supply chain data and automate core workflows, such as data entry, requesting quotes, comparing quotes, and issuing purchase orders. Our customers save dozens of hours a week spent on repetitive manual tasks.",
+    "long_description": "Soff is a supply chain OS for manufacturing companies. We unify supply chain data and automate core workflows, such as data entry, requesting quotes, comparing quotes, and issuing purchase orders. Our customers save dozens of hours a week spent on repetitive manual tasks.",
     "one_liner": "Supply Chain OS for manufacturing companies.",
     "team_size": 2,
     "highlight_black": false,
@@ -7406,11 +7395,11 @@
     "subindustry": "Industrials",
     "launched_at": 1722631140,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
       "Machine Learning",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7908,7 +7897,7 @@
     "website": "https://blastsec.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Blast helps large enterprises build safe and reliable LLM apps. We provide a platform to help enterprises rigorously evaluate and turn their generative AI prototypes into reliable apps that can be confidently deployed at scale.\r\n\r\n",
-    "one_liner": "Building safe and compliant LLM apps/agents for enterprises",
+    "one_liner": "Helping enterprises build safe and compliant LLM apps/agents",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -7951,8 +7940,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/69545faa0fc0f7ee6b89313f1c320d59486f1802.png",
     "website": "https://paasa.com",
     "all_locations": "Gurugram, HR, India",
-    "long_description": "Paasa is the global investing platform for aspiring HNIs. We simplify access to global markets from emerging economies, while offering an AI advisor and robo-investing.\r\n\r\n\r\n‘Pre-HNIs’ and HNIs in countries like India want to diversify their wealth internationally. Most customers hesitate due to lack of guidance on foreign investments, tax laws that change every year, and slow outflows from local banks.\r\n\r\n\r\nThese barriers keep global investing out of reach, reserved for the top 0.001% who can afford wealth managers and family offices. We’re changing that.\r\n\r\n\r\nOur vision is to bring all the opportunities of the 0.001% without any hassle. ",
-    "one_liner": "Give HNIs in emerging markets a global investment portfolio",
+    "long_description": "Paasa is the global investing platform for aspiring HNIs in emerging markets.\r\n\r\nHNIs in countries like India want to diversify their wealth internationally. Saving their wealth in a depreciating currency puts them at risk in a global context. However, most customers still hesitate due to lack of guidance on capital controls, tax laws that change every year, and slow outflows from local banks.\r\n\r\nPaasa streamlines this - thus empowering HNIs to save for their child's education, spend overseas confidently, and build generational wealth in a stable currency.\r\n",
+    "one_liner": "Simplifying global investing for HNIs in emerging markets",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -8436,10 +8425,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716301435,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Design Tools"
+      "Design Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8578,9 +8567,9 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1721429440,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Finance",
-      "AI"
+      "Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8807,8 +8796,8 @@
     "website": "https://actionbase.co",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Actionbase builds tools that make the internet programmatically interactable. Our first tool is an SDK for automating popular websites.",
-    "one_liner": "Making the web agent-interpretable. ",
-    "team_size": 2,
+    "one_liner": "Automate popular websites in a few lines of code",
+    "team_size": 1,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -8999,10 +8988,10 @@
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "launched_at": 1722479842,
     "tags": [
-      "Artificial Intelligence",
       "Real Estate",
       "Housing",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9024,7 +9013,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/propaya",
     "api": "https://yc-oss.github.io/api/batches/s24/propaya.json"
   },
@@ -9132,7 +9121,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/053aa7457c1d5eea2da3b5da115d627b0d54adbc.png",
     "website": "https://polymet.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Polymet makes it easy for product teams to create a design system and well-designed pages, components with AI. \r\n\r\nWhenever the team needs a new component or a page, they just give the prompt in, get the new design that follows their design system, and code out. \r\n\r\nIt takes seconds and teams can iterate and ship faster. \r\n",
+    "long_description": "Polymet uses AI to help non-designers create production-ready designs and front-end code. They explain what they want or provide an image, and Polymet designs the interface.\r\n\r\nOur customers use Polymet instead of hiring designers and save thousands of dollars every month. Even their managers can design with English instead of writing design specs.\r\n\r\nThis helps these teams move faster and cover design function on their own instead of contractors at early stages and when they start to scale their can produce a lot more design work, just like Midjourney.",
     "one_liner": "AI Product Designer",
     "team_size": 2,
     "highlight_black": false,
@@ -9273,7 +9262,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/251db0cfd3ffbbbe376cb8fa8066246654b8bd87.png",
     "website": "https://assemblyhoa.com",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "We help HOAs manage their communities in a modern and transparent way. HOA boards choose Assembly to replace their existing management company, ensuring excellent service and clear visibility into their HOA’s finances and operations. With Assembly, community priorities are always addressed, and homeowners can easily understand what their HOA is doing and how their monthly dues are being used.\r\n\r\nOur mission is to create turnkey communities and protect property values through transparent, efficient, and proactive management. By combining top industry expertise with the latest in AI and fintech, we provide real-time financial insights, strategic community planning, and automated operations.\r\n\r\nLike many homeowners, Shreyas and Allen experienced frustrations with HOAs. Our investigation revealed that most HOA management companies are outdated mom-and-pop operations nearing retirement, resistant to adopting new technology. Furthermore, these companies often prioritize relationships with vendors and banks over the interests of the communities they serve, leading to misaligned incentives. Realizing this, we knew that to achieve our mission of fixing HOAs, Assembly HOA had to be vertically integrated.\r\n\r\nWe are live with over 20 communities in Greater Los Angeles and SF Bay Area. ",
+    "long_description": "We help HOAs manage their communities in a modern and transparent way. HOA boards choose Assembly to replace their existing management company, ensuring excellent service and clear visibility into their HOA’s finances and operations. With Assembly, community priorities are always addressed, and homeowners can easily understand what their HOA is doing and how their monthly dues are being used.\r\n\r\nOur mission is to create turnkey communities and protect property values through transparent, efficient, and proactive management. By combining top industry expertise with the latest in AI and fintech, we provide real-time financial insights, strategic community planning, and automated operations.\r\n\r\nLike many homeowners, Shreyas and Allen experienced frustrations with HOAs. Our investigation revealed that most HOA management companies are outdated mom-and-pop operations nearing retirement, resistant to adopting new technology. Furthermore, these companies often prioritize relationships with vendors and banks over the interests of the communities they serve, leading to misaligned incentives. Realizing this, we knew that to achieve our mission of fixing HOAs, Assembly HOA had to be vertically integrated.\r\n\r\nWe are live with over 39 communities in Greater Los Angeles and SF Bay Area. ",
     "one_liner": "AI-enabled HOA Management Company",
     "team_size": 6,
     "highlight_black": false,
@@ -9331,8 +9320,8 @@
     "subindustry": "B2B",
     "launched_at": 1722966351,
     "tags": [
-      "Artificial Intelligence",
-      "Data Labeling"
+      "Data Labeling",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9365,7 +9354,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28bfd5603abc1cad782c0769498ab77e4c72242d.png",
     "website": "https://www.simplifine.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Research work is hell. It is very silo'ed, and the workflow is clunky - this is because researchers create their own pipelines with tools (for all things literature search, review, note-taking, writing, editing, data analysis, and so on) that are not designed for researchers.\r\n\r\nSimplifine is designed for researchers, by researchers. We supercharge all those research tasks with specialised LLMs so researchers do not need to use dozens of badly integrated tools ever again. We are the only app researchers will need.",
+    "long_description": "Research workflows are broken, forcing researchers to cobble together disconnected tools for literature review, writing, data analysis, and more—tools not designed for their needs.\r\n\r\nSimplifine changes everything. Built by researchers, for researchers, it equips you with AI agents that act like JARVIS from Iron Man, capable not only of connecting and analyzing information but also running computational experiments and simulations. Our specialized LLM Agents can design and execute complex research experiments with PhD-level expertise, compressing weeks of work into minutes. With Simplifine, you no longer need to juggle fragmented tools—everything from advanced simulations to data analysis happens in one place.",
     "one_liner": "AI-Powered Workspace for Research",
     "team_size": 3,
     "highlight_black": false,
@@ -9376,9 +9365,9 @@
     "launched_at": 1723501563,
     "tags": [
       "AI-Enhanced Learning",
+      "Artificial Intelligence",
       "Productivity",
       "Consumer Products",
-      "AI",
       "Note-taking"
     ],
     "tags_highlighted": [],
@@ -9414,7 +9403,7 @@
     "website": "https://www.focusbuddy.ai/?ref=yc",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Reach out to us at founders@focusbuddy.ai\r\n\r\nFocus buddy is an AI productivity coach that stays on calls with you and help you accomplish your important work goals on a daily basis, even when you are struggling to focus.\r\n\r\nWe noticed that our users develop a productive relationship with Focus Buddy. Users stay on calls for multiple hours everyday where they depend on Focus Buddy to:\r\n• Avoid procrastination and get started: Address hidden anxieties, embrace imperfection, chunk tasks, kickstart with mini-goals, and use regular check-ins to maintain momentum.\r\n• Recover from distractions and stay focused: Focus Buddy detects when they are working on less important tasks or scrolling on social media, help them overcome the underlying concerns feeding the distraction, and help them get back to the important task\r\n• Manage stress and Prevent Burnout: Focus Buddy detects stress buildup, integrates mindfulness habits to the workflow, helps take short rejuvenating breaks, and stay composed.\r\n\r\nOur Initial ICP is people with ADHD who are highly motivated but also highly blocked by internal and environmental factors. In the future, we believe each worker should have their own personal coach that enforces proven productivity techniques in real time to help them extract more focused hours every day with the same effort. \r\n",
-    "one_liner": "AI Productivity Coach: Get work done when you are struggling to focus",
+    "one_liner": "AI Productivity Coach you speak with while working to stay focused…",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -9423,10 +9412,10 @@
     "subindustry": "Consumer -> Content",
     "launched_at": 1724988357,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Productivity",
       "Mental Health",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -9885,11 +9874,11 @@
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1718839098,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Health Tech",
       "LegalTech",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10116,7 +10105,7 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "SureBright lets e-commerce merchants embed \"Apple Care” like product warranties into their checkout flows in less than 10 minutes. Our AI-powered warranty platform generates incremental revenue and boosts customer loyalty at zero cost to the merchant.\r\n\r\nWe earn a margin on each policy sold. Currently, we’re live with 60 merchants generating $22K in monthly revenue. We’ve booked an additional $50K of monthly revenue in signed contracts. \r\n\r\nSanket led engineering at PolicyBazar, an insurance tech company that IPOed and is valued at over $8B. Manish worked at Amazon and has built $100M ARR products, handling over 180B requests per day.\r\n\r\nUntil now, finding the right policy for any product and pricing it at the right price wasn’t possible at scale. We automated this process using LLM and have unlocked a $50B+ opportunity. Each month, over 5 million consumers view SureBright warranty offers.",
     "one_liner": "Apple Care-like warranty program for every retailer ",
-    "team_size": 7,
+    "team_size": 11,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -10124,11 +10113,11 @@
     "subindustry": "B2B -> Retail",
     "launched_at": 1720298517,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "E-commerce",
       "Insurance",
-      "Retail",
-      "AI"
+      "Retail"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10683,10 +10672,10 @@
     "subindustry": "Real Estate and Construction",
     "launched_at": 1718775199,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "Real Estate",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -10774,10 +10763,10 @@
     "subindustry": "Government",
     "launched_at": 1724363826,
     "tags": [
+      "Artificial Intelligence",
       "Civic Tech",
       "Transportation",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11276,7 +11265,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/afaac0ba9fea3d823a798e81e6b89e28c34dbd0e.png",
     "website": "https://affil.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're an affiliate network for financial brands. We help financial companies monitor their affiliate marketing content so that they have full visibility into what they're saying, enabling them to expand marketing efforts & grow their revenue.",
+    "long_description": "We're an AI affiliate network for financial brands. \r\n\r\nAffiliate marketing is an important growth channel for financial brands like Capital One or Acorns, but growth is limited because it's difficult to ensure their affiliates are compliant with brand guidelines or regulations. \r\n\r\nWe help financial companies monitor their affiliate marketing content so that they have full visibility into what their affiliates are saying, enabling them to expand marketing efforts & grow their revenue. Likewise, we work closely with affiliates to improve their experience as well. \r\n\r\nThe incumbents in the space makes billions providing a subpar experience for everyone. We're here to revolutionize affiliate marketing for the financial space.",
     "one_liner": "AI Affiliate Network For Financial Brands",
     "team_size": 2,
     "highlight_black": true,
@@ -11417,7 +11406,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b546cd339690195550c29da13ada87ec426a083a.png",
     "website": "https://www.merlinai.co",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Merlin is an AI-powered ERP for construction companies. \r\n\r\nWe provide construction companies with a single, AI-powered platform to manage their entire business operations. Our platform unifies project management, materials management, finance, estimating, and CRM—traditionally scattered across multiple systems—into one cohesive solution. For the first time, construction firms can automate and oversee every aspect of their projects in a single, intuitive system. Today, construction companies pay for 8-17 different tools - that we eliminate the need for. \r\n\r\nWe reduce \r\n\r\n- Manual work by 60%\r\n- Cut software costs by $10,000 monthly\r\n- Complete projects 3x faster. \r\n\r\nWe're witnessing a perfect storm of factors: decades of stagnation in traditional ERP systems, a multi-billion-dollar industry built on misaligned incentives, and the transformative potential of AI. This confluence creates a rare cyclical opportunity for market upheaval. The last major shift in this space occurred in the 1990s with the advent of digital systems, and now, 30 years later, we're on the cusp of another seismic change. Customers are crying out for innovation and as AI reshapes the landscape, early customer signals indicate an eagerness for smarter, more efficient systems. It's a unique window of opportunity that opens perhaps once in a multi-decade chance to redefine an entire industry's operational backbone.",
+    "long_description": "Merlin is an AI-powered ERP for construction companies. \r\n\r\nWe provide construction companies with a single, AI-powered platform to manage their entire business operations. Our platform unifies project management, materials management, finance, estimating, and CRM—traditionally scattered across multiple systems—into one cohesive solution. For the first time, construction firms can automate and oversee every aspect of their projects in a single, intuitive system. Today, construction companies pay for 8-17 different tools - that we eliminate the need for. \r\n\r\nWe reduce \r\n\r\n- Manual work by 60%\r\n- Cut software costs by $10,000 monthly\r\n- Complete projects 3x faster. \r\n\r\nWhy Now?\r\nWe're witnessing a perfect storm of factors: decades of stagnation in traditional ERP systems, a multi-billion-dollar industry built on misaligned incentives, and the transformative potential of AI. This confluence creates a rare cyclical opportunity for market upheaval. The last major shift in this space occurred in the 1990s with the advent of digital systems, and now, 30 years later, we're on the cusp of another seismic change. Customers are crying out for innovation and as AI reshapes the landscape, early customer signals indicate an eagerness for smarter, more efficient systems. It's a unique window of opportunity that opens perhaps once in a multi-decade chance to redefine an entire industry's operational backbone.\r\n\r\nTeam:\r\nKS, a BITS Pilani grad and successful startup co-founder, and Ayantika, an IIT alumni and tech expert, bring extensive coding and product development expertise together bringing about over a decade of technical expertise. Sneha ( that’s me), with over a decade of experience in supply chain management and lean manufacturing within the construction industry, has lived the pain of using ERPs in this industry.",
     "one_liner": "AI powered ERP for Construction",
     "team_size": 6,
     "highlight_black": false,
