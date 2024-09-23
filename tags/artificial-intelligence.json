@@ -5119,6 +5119,59 @@
     "api": "https://yc-oss.github.io/api/batches/s19/taskade.json"
   },
   {
+    "id": 12871,
+    "name": "Motion",
+    "slug": "motion",
+    "former_names": [
+      "Betiver",
+      "Betingale",
+      "CareerVC",
+      "Fluttern",
+      "NexusBird",
+      "nexusbird",
+      "Nexusbird",
+      "NexusBird"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25b0dd2e6d40928386efa49045651d24ad82e60b.png",
+    "website": "https://www.usemotion.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Double the world's productivity by automating project management and internal workflows with A.I. We want to bring operational excellence to every organization in the world.",
+    "one_liner": "Automate project management and business workflow with A.I.",
+    "team_size": 30,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1583629488,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W20",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/motion",
+    "api": "https://yc-oss.github.io/api/batches/w20/motion.json"
+  },
+  {
     "id": 13074,
     "name": "Phonic",
     "slug": "phonic",
@@ -16046,6 +16099,54 @@
     "api": "https://yc-oss.github.io/api/batches/s23/cardinal-gray.json"
   },
   {
+    "id": 28893,
+    "name": "VetRec",
+    "slug": "vetrec",
+    "former_names": [
+      "Verba",
+      "Neum",
+      "Verba",
+      "Neum"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b431c0a63a44f00269d119fe4eabf718b56980ac.png",
+    "website": "https://vetrec.io",
+    "all_locations": "Seattle, WA, USA",
+    "long_description": "VetRec automates the process of taking clinical notes for veterinarians in a matter of seconds. Veterinarians should just review clinical notes, not spend time creating them. A visit with a pet is precious and 100% of the focus should be spent on the pet, not on notes. VetRec is the veterinarian's best friend.",
+    "one_liner": "AI Scribe for veterinarians that produces clinical notes in seconds",
+    "team_size": 4,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1689362011,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Health Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vetrec",
+    "api": "https://yc-oss.github.io/api/batches/s23/vetrec.json"
+  },
+  {
     "id": 28894,
     "name": "Lysto AI",
     "slug": "lysto-ai",
@@ -22898,8 +22999,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bc8a86f3dad84d8c3a7969bd9b93e56ac46e282.png",
     "website": "https://phonely.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Phonely lets any business go from a website to a conversational AI receptionist in a matter of minutes. \r\n\r\nOur platform lets businesses connect to their scheduling software, route calls, or answer customer support questions from a knowledge base just like a human. \r\n\r\nAfter the call, Phonely provides powerful AI analytics and automatically extracts relevant information, sending it directly to the business CRM, phone, or inbox. ",
-    "one_liner": "Replicate your best human phone agents with voice AI",
+    "long_description": "Phonely uses existing call recordings to create a 'AI vocal twin' that can answer customer support calls and match or outperform call center agents. On top of that we've built a Zapier like workflow that lets businesses connect to software or transfer calls just like a person would. Our platform sits on proprietary deterministic LLM that is both cheaper and more accurate than gpt-4o for call center inquiries.",
+    "one_liner": "AI call centers ",
     "team_size": 4,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -23025,51 +23126,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maitai",
     "api": "https://yc-oss.github.io/api/batches/s24/maitai.json"
-  },
-  {
-    "id": 29649,
-    "name": "Wordware",
-    "slug": "wordware",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c770777f9cd85b3f3274575fc6698227327bddb.png",
-    "website": "https://wordware.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "1. Collaborative IDE for Building AI Agents \r\n2. At its heart is a new programming language that merges plain English with concepts like loops, conditional statements, and function calling.\r\n3. We also support forking, API deployment and sharing as a hosted app.\r\n\r\nWe have 300,000 users, and many companies paying us between 199 and 10k per month.",
-    "one_liner": "IDE to develop, iterate and deploy AI Agents",
-    "team_size": 9,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1715713232,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wordware",
-    "api": "https://yc-oss.github.io/api/batches/s24/wordware.json"
   },
   {
     "id": 29654,
@@ -25701,7 +25757,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b29fc94915cb31662bedfaa8eda5297b0c9e5bb.png",
     "website": "https://www.usul.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Usul helps companies win defense contracts with AI. We do this by using LLMs to interpret government policy, track funding lines, and find new business opportunities.",
+    "long_description": "Usul helps companies win defense contracts with AI. Recent conflicts have forced the DoD to demand the next-generation of military technology. So we built software for US companies and our allies to collaborate and sell to the government. \r\n\r\nIn the past 3 weeks, we’ve signed 6 customers at $104k ARR and 12 pilots worth another $212k ARR when they convert. This includes the fastest-growing defense company and a big 3 consulting firm.\r\n\r\nThere are 1M companies who sell to the DoD, and we charge $24k on average. This is a $24B market that's growing quickly due to recent geopolitics.\r\n\r\nWe’re 4 Stanford engineers from Palantir, NASA, & Reliable Robotics where we experienced this problem first hand and learned how to win this market. ",
     "one_liner": "Win Defense Contracts with AI.",
     "team_size": 4,
     "highlight_black": true,
