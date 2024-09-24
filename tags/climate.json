@@ -2836,9 +2836,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b29a81d7939c72383911910428333ce0a52db2e8.png",
     "website": "https://www.gridware.io",
     "all_locations": "Walnut Creek, CA, USA",
-    "long_description": "Gridware provides a grid monitoring system of sensors and software for the power distribution grid. The system centers around a low-cost hardware platform that is easily and permanently deployed to power poles. The platform detects and predicts faults that ignite wildfires, expedites repairs during a power outage, and helps utilities demonstrate risk reduction to regulators through comprehensive asset health profiles.",
-    "one_liner": "Hardware + software to detect powerline failure and prevent wildfires.",
-    "team_size": 14,
+    "long_description": "Gridware exists to enhance and protect the mother of all networks: the electrical grid. The grid touches everyone and makes our modern economy possible. But it’s also fragile. When the grid is compromised, everything grinds to a halt, and the consequences can be dire: wildfires burn, land is destroyed, property is damaged, progress stops, and lives are lost.  \r\n\r\nOur team builds smart sensors that help utility companies to immediately detect, find, and fix outages and take steps to prevent new outages, and other related disasters, from happening at all. The need for power will only increase. We protect the grid of today while we build the grid of tomorrow.  \r\n\r\nGridware is privately held and backed by the best climate-tech and Silicon Valley investors. We are headquartered in the Bay Area in northern California. ",
+    "one_liner": "Protecting the grid today, preparing the grid for tomorrow",
+    "team_size": 50,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -2863,13 +2863,15 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/gridware",
     "api": "https://yc-oss.github.io/api/batches/w21/gridware.json"
   },
@@ -4071,7 +4073,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -4881,7 +4883,7 @@
     "name": "Verdn",
     "slug": "verdn",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e476da775568ad864db9fb2419d31edd4fa483f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eabd499d35efb4a8abf8ffc610de8831963b3f2a.png",
     "website": "https://verdn.com",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Verdn is a climate-impact API for companies and their end-customers. \r\n\r\nWith Verdn, companies direct a portion of sales towards ecosystem restoration projects (like tree planting, ocean-plastic cleanup, and coral planting), carried out by vetted NGO partners. After each sale, we send the end-customer a tracking dashboard where they can engage with updates about their positive impact.\r\n\r\nOur mission is to Ctrl+Z global ecosystem collapse by making sustainability profitable. We have planted 1,500,000 trees, recovered 400,000 kg of ocean-bound plastic and 150 m2 of coral reef, and have over 100+ paying customers that are seeing a 10x boost in engagement.",
@@ -4912,7 +4914,9 @@
     ],
     "regions": [
       "United Kingdom",
-      "Europe"
+      "Europe",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7136,6 +7140,52 @@
     "api": "https://yc-oss.github.io/api/batches/s24/offstream.json"
   },
   {
+    "id": 29694,
+    "name": "AminoAnalytica",
+    "slug": "aminoanalytica",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
+    "website": "https://www.aminoanalytica.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We all know that enzymes speed up chemical reactions—but they can be much more than that. Our AI-designed enzymes actively clean up the world, by removing harmful pollutants like CO2 from our air, and phosphorus from our waters.",
+    "one_liner": "AI designed enzymes for a cleaner world",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Industrial Bio",
+    "launched_at": 1715962434,
+    "tags": [
+      "Biotech",
+      "Manufacturing",
+      "Climate",
+      "ClimateTech",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Industrial Bio"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aminoanalytica",
+    "api": "https://yc-oss.github.io/api/batches/s24/aminoanalytica.json"
+  },
+  {
     "id": 29701,
     "name": "Plume",
     "slug": "plume",
@@ -7242,7 +7292,7 @@
     "website": "https://www.ontramobility.com",
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "Ontra Mobility is founded by two former Googler engineers with PhDs in operations research. Ontra helps cities and other transit agencies increase ridership through data-driven planning and real-time optimization. The founders developed the software that powered MARTA Reach in Atlanta, GA and CAT SMART in Savannah, GA.",
-    "one_liner": "Platform for planning and operating multimodal transit systems",
+    "one_liner": "Platform for cities to optimize transit ",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -7251,11 +7301,11 @@
     "subindustry": "Government",
     "launched_at": 1720055072,
     "tags": [
+      "Artificial Intelligence",
       "Civic Tech",
       "GovTech",
       "Climate",
-      "Transportation",
-      "AI"
+      "Transportation"
     ],
     "tags_highlighted": [],
     "top_company": false,

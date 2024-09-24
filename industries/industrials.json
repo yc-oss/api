@@ -1608,11 +1608,11 @@
     "name": "Gecko Robotics",
     "slug": "gecko-robotics",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c17bde559082152735ce7ab0b91e0768c790bbee.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb7bd253bc194c1e1245a6c643b86e65d530a53f.png",
     "website": "https://www.geckorobotics.com",
-    "all_locations": "Austin, TX, USA; Houston, TX, USA; New York, NY, USA; Boston, MA, USA; Pittsburgh, PA, USA; Amsterdam, NH, Netherlands; Abu Dhabi, Abu Dhabi, United Arab Emirates",
-    "long_description": "The mission of Gecko Robotics is to improve the state of the world by helping the most important institutions ensure the availability, reliability and sustainability of critical infrastructure. Gecko's combination of wall-climbing robots, industry-leading sensors, and an AI-powered data platform give customers a unique window into the health of their physical assets allowing real-time decisions that prevent power outages, ensure military missions succeed, and help reduce energy costs. ",
-    "one_liner": "Protecting Today's Critical Infrastructure. Informing Tomorrow's.",
+    "all_locations": "Pittsburgh, PA, USA; Austin, TX, USA",
+    "long_description": "Gecko Robotics is the pioneer of AI + Robotics [AIR technology], transforming how the world builds, operates, and maintains its most critical infrastructure for a more reliable and sustainable future. Using fixed sensors and robots that climb, crawl, swim, and fly, we combine first-order data layers with the predictive power of AI into a single source of truth for the physical world. Cantilever™ is our operating platform, powered by AIR technology, that empowers teams to achieve operational excellence through actionable data for immediate and long-term planning.",
+    "one_liner": "AI + Robotics for the Built World",
     "team_size": 230,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -1621,11 +1621,11 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1447653915,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
       "Energy",
       "Big Data",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1639,11 +1639,7 @@
     ],
     "regions": [
       "United States of America",
-      "Netherlands",
-      "United Arab Emirates",
       "America / Canada",
-      "Europe",
-      "Middle East and North Africa",
       "Remote",
       "Partly Remote"
     ],
@@ -6941,9 +6937,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b29a81d7939c72383911910428333ce0a52db2e8.png",
     "website": "https://www.gridware.io",
     "all_locations": "Walnut Creek, CA, USA",
-    "long_description": "Gridware provides a grid monitoring system of sensors and software for the power distribution grid. The system centers around a low-cost hardware platform that is easily and permanently deployed to power poles. The platform detects and predicts faults that ignite wildfires, expedites repairs during a power outage, and helps utilities demonstrate risk reduction to regulators through comprehensive asset health profiles.",
-    "one_liner": "Hardware + software to detect powerline failure and prevent wildfires.",
-    "team_size": 14,
+    "long_description": "Gridware exists to enhance and protect the mother of all networks: the electrical grid. The grid touches everyone and makes our modern economy possible. But it’s also fragile. When the grid is compromised, everything grinds to a halt, and the consequences can be dire: wildfires burn, land is destroyed, property is damaged, progress stops, and lives are lost.  \r\n\r\nOur team builds smart sensors that help utility companies to immediately detect, find, and fix outages and take steps to prevent new outages, and other related disasters, from happening at all. The need for power will only increase. We protect the grid of today while we build the grid of tomorrow.  \r\n\r\nGridware is privately held and backed by the best climate-tech and Silicon Valley investors. We are headquartered in the Bay Area in northern California. ",
+    "one_liner": "Protecting the grid today, preparing the grid for tomorrow",
+    "team_size": 50,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -6968,13 +6964,15 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/gridware",
     "api": "https://yc-oss.github.io/api/batches/w21/gridware.json"
   },
@@ -8301,7 +8299,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -9150,7 +9148,7 @@
     "name": "Verdn",
     "slug": "verdn",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e476da775568ad864db9fb2419d31edd4fa483f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eabd499d35efb4a8abf8ffc610de8831963b3f2a.png",
     "website": "https://verdn.com",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Verdn is a climate-impact API for companies and their end-customers. \r\n\r\nWith Verdn, companies direct a portion of sales towards ecosystem restoration projects (like tree planting, ocean-plastic cleanup, and coral planting), carried out by vetted NGO partners. After each sale, we send the end-customer a tracking dashboard where they can engage with updates about their positive impact.\r\n\r\nOur mission is to Ctrl+Z global ecosystem collapse by making sustainability profitable. We have planted 1,500,000 trees, recovered 400,000 kg of ocean-bound plastic and 150 m2 of coral reef, and have over 100+ paying customers that are seeing a 10x boost in engagement.",
@@ -9181,7 +9179,9 @@
     ],
     "regions": [
       "United Kingdom",
-      "Europe"
+      "Europe",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -10139,7 +10139,7 @@
     "all_locations": "Cincinnati, OH, USA",
     "long_description": "Velontra is building a hypersonic space plane that can takeoff from anywhere in any weather.  This horizontal takeoff increases launch reliability and enables customers to directly access any orbit.  Our air-breathing propulsion system is up to 6 times more fuel efficient than any rocket, and uses oxygen from the air which creates thousands of pounds of additional payload capacity. \r\n\r\nWe have millions in current government/commercial contracts and LOI’s. \r\n\r\nWe have assembled a team of industry experts, government senior executives, and a NASA astronaut. \r\n\r\nThe hypersonic space plane will work by taking off from any runway with a jet propulsion system.  Next, it will climb to over 100,000’ and Mach 5.  At this point, it will launch a 2nd stage rocket directly into the desired Low Earth Orbit. \r\n\r\nVelontra is “boldly going where no one has gone before.”",
     "one_liner": "Hypersonic space plane that can take-off from any location and weather",
-    "team_size": 4,
+    "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -10150,8 +10150,7 @@
       "Commercial Space Launch",
       "Hardware",
       "Drones",
-      "Space Exploration",
-      "Satellites"
+      "Aerospace"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11561,11 +11560,11 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1724225748,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
       "Robotics",
-      "Consumer"
+      "Consumer",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12009,7 +12008,7 @@
     "former_names": [
       "Exa Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cdbcac53e6942fed7f69509eb7dbfe11272c685.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a856b1c6b22cb0117e3f843abca70d239c77524.png",
     "website": "https://exalaboratories.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Exa is making reconfigurable chips for AI, offering superior speed and energy efficiency compared to traditional GPUs/TPUs/LPUs.\r\n\r\nOur chips automatically adapt themselves to each specific AI model, overcoming the von Neumann bottleneck, (a common limitation in standard systems). By optimizing for each AI architecture, we significantly boost both inference and training speeds while reducing energy consumption.\r\n\r\nImagine having hardware tailored to your AI model, whilst still maintaining the flexibility of a GPU. This way, you won't need to re-manufacture your hardware each time you change your model architecture, all while still benefiting from the speed and efficiency of specialized hardware, saving data centers and compute clusters hundreds of millions of dollars every year!",
@@ -12022,11 +12021,11 @@
     "subindustry": "Industrials",
     "launched_at": 1722631140,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
       "Machine Learning",
-      "Semiconductors",
-      "AI"
+      "Semiconductors"
     ],
     "tags_highlighted": [],
     "top_company": false,
