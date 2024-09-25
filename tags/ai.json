@@ -476,6 +476,57 @@
     "api": "https://yc-oss.github.io/api/batches/s15/snapmagic.json"
   },
   {
+    "id": 996,
+    "name": "Daily",
+    "slug": "daily",
+    "former_names": [
+      "Pluot Communications",
+      "Daily",
+      "Daily.co"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/927c390a496a781ceefe9112931064f3f4b058ea.png",
+    "website": "https://daily.co",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Daily is real-time voice, video, and AI for developers. Our cross-platform SDKs and global infrastructure enable ultra-low latency, highest quality experiences for developers building real-time voice and video AI agents. Our platform also supports integration of traditional voice/video calls, in addition to AI agent experiences. ",
+    "one_liner": "Conversational Voice and Multimodal AI built with Open Source ",
+    "team_size": 62,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1447280415,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W16",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/daily",
+    "api": "https://yc-oss.github.io/api/batches/w16/daily.json"
+  },
+  {
     "id": 1033,
     "name": "Netomi",
     "slug": "netomi",
@@ -16371,55 +16422,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/inspectmind-ai.json"
   },
   {
-    "id": 29512,
-    "name": "Reprompt",
-    "slug": "reprompt",
-    "former_names": [
-      "SyncUp.ai",
-      "Reprompt (previously SyncUp.ai)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83c6310c2d3b5627d5902a01cf1ed1fe7a00b53c.png",
-    "website": "https://repromptai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reprompt builds AI data agents that extract structured data from complex documents and websites\r\n\r\nUnlike traditional data ingestion, Reprompt agents can intelligently combine, validate, and error-correct data across many sources.\r\n\r\nFor example, an Enterprise partner in mapping used Reprompt agents to identify business listings in their maps dataset had closed or moved by querying across the web and public government datasets",
-    "one_liner": "AI Data Agents for reading complex documents and websites",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1705532788,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "B2B",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reprompt",
-    "api": "https://yc-oss.github.io/api/batches/w24/reprompt.json"
-  },
-  {
     "id": 29517,
     "name": "RetailReady",
     "slug": "retailready",
@@ -16707,9 +16709,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbd00107f697b5f5493bc13c93f8896ad8eff46b.png",
     "website": "http://superunit.ai",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Superunit is an AI-powered accounting agent for companies selling physical goods. We have 6 customers doing $8.3k in booked revenue.  For these companies we close the books 5x faster than human teams and with fewer errors.  \r\n\r\nWe offer automated bookkeeping, supply chain management, inventory costs, and contribution margin analysis.  Our system seamlessly integrates with Quickbooks, eliminating manual data entry and minimizing errors.\r\n\r\nUsers can interact with Superunit via Slack or email, avoiding the need to learn new software.\r\n\r\n(https://www.loom.com/share/1425f6802d774e1aa00a8ac4b64782ff)\r\n",
-    "one_liner": "AI accounting agent for companies selling physical goods",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Superunit is building an AI powered ERP for companies selling physical goods.  We’ve released our first module - AI accounting and supply chain management - to 7 customers in the last 6 weeks. We’ve booked $8.3k in MRR and just signed a pilot with a $200M apparel company. \r\n\r\nWe offer automated bookkeeping, supply chain management, inventory costs, and contribution margin analysis.  Our system seamlessly integrates with Quickbooks and ERPs, eliminating manual data entry and minimizing errors.\r\n\r\nUsers can interact with Superunit via Slack or email, avoiding the need to learn new software.\r\n\r\n(https://www.loom.com/share/1425f6802d774e1aa00a8ac4b64782ff)\r\n",
+    "one_liner": "AI powered ERP for companies selling physical goods",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -16719,9 +16721,9 @@
     "launched_at": 1719276994,
     "tags": [
       "Fintech",
+      "Machine Learning",
       "SaaS",
       "B2B",
-      "E-commerce",
       "AI"
     ],
     "tags_highlighted": [],
@@ -16886,55 +16888,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/comfy-deploy",
     "api": "https://yc-oss.github.io/api/batches/s24/comfy-deploy.json"
-  },
-  {
-    "id": 29608,
-    "name": "Genie",
-    "slug": "genie",
-    "former_names": [
-      "Genie Online, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df7ecf05b173d6c5f110965b03c57b5f45b89a53.png",
-    "website": "http://www.genie.gg",
-    "all_locations": "Lake Oswego, OR, USA; Remote",
-    "long_description": "Genie unlocks a new level of personalized play that's never been possible before.  More than 10k kids have made friends with Genie in our iOS app, and our most engaged kids spend 2hrs a day creating adventurous stories, playing games and having fun talking to their AI friend... always in a safe & age appropriate way.",
-    "one_liner": "Conversational AI Sidekick for Kids.",
-    "team_size": 4,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Social",
-    "launched_at": 1722007649,
-    "tags": [
-      "Consumer",
-      "Kids",
-      "Edtech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Social"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/genie",
-    "api": "https://yc-oss.github.io/api/batches/s24/genie.json"
   },
   {
     "id": 29623,
@@ -17302,52 +17255,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/videogen",
     "api": "https://yc-oss.github.io/api/batches/s24/videogen.json"
-  },
-  {
-    "id": 29648,
-    "name": "Honeycomb",
-    "slug": "honeycomb",
-    "former_names": [
-      "Rho AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cef9dfb1223cd3b81075ffad20c2fdf90473d781.png",
-    "website": "https://honeycomb.sh/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Honeycomb is building agents to automate tasks across the entire software development lifecycle. Our agents are state-of-the-art, achieving 22% on the SWE-Bench coding benchmark.",
-    "one_liner": "Autonomous Software Agents",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1724662021,
-    "tags": [
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/honeycomb",
-    "api": "https://yc-oss.github.io/api/batches/s24/honeycomb.json"
   },
   {
     "id": 29649,
@@ -17823,6 +17730,52 @@
     "api": "https://yc-oss.github.io/api/batches/s24/elevate-2.json"
   },
   {
+    "id": 29683,
+    "name": "CodeViz",
+    "slug": "codeviz",
+    "former_names": [
+      "Edison Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b3886b4eeec86b01eb6eb8ba6e07dd24f7af701.png",
+    "website": "https://www.codeviz.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "CodeViz creates interactive maps of codebases to help engineers quickly understand and navigate code. \r\n \r\nAdopted by engineers at Amazon, Microsoft, and Roblox, CodeViz was founded by two ex-Tesla engineers to tackle the 75% of development time lost to reading code. Download today at https://codeviz.ai",
+    "one_liner": "AI agent that builds codebase maps for developers",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1723607809,
+    "tags": [
+      "Developer Tools",
+      "Productivity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/codeviz",
+    "api": "https://yc-oss.github.io/api/batches/s24/codeviz.json"
+  },
+  {
     "id": 29684,
     "name": "Parahelp",
     "slug": "parahelp",
@@ -17869,6 +17822,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/parahelp",
     "api": "https://yc-oss.github.io/api/batches/s24/parahelp.json"
+  },
+  {
+    "id": 29685,
+    "name": "Passage",
+    "slug": "passage",
+    "former_names": [
+      "shippd.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc99cdc7705015347bf46d8b9329855cae09ee2.png",
+    "website": "https://www.trypassage.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Passage is a co-pilot for the customs brokering space. \r\n\r\nToday, companies employ entire teams of customs brokers and entry writers who spend hours keying in data and corresponding with clients. \r\n\r\nWith our co-pilot, we plan to streamline this tedious data entry work, and email correspondence, making compliance teams significantly more efficient",
+    "one_liner": "Clear goods through customs, with AI",
+    "team_size": 2,
+    "highlight_black": true,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1719338941,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Logistics",
+      "Transportation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/passage",
+    "api": "https://yc-oss.github.io/api/batches/s24/passage.json"
   },
   {
     "id": 29686,
@@ -18151,38 +18152,38 @@
     "api": "https://yc-oss.github.io/api/batches/s24/modus.json"
   },
   {
-    "id": 29710,
-    "name": "TaxGPT",
-    "slug": "taxgpt",
-    "former_names": [
-      "TaxGPT Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/925a4d89b983d4afdeba53e9f6b6672031081f94.png",
-    "website": "https://www.taxgpt.com",
+    "id": 29706,
+    "name": "Mito Health",
+    "slug": "mito-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7d5b3d9d49d514698e3998f8986079a0af9f826.png",
+    "website": "https://mitohealth.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "TaxGPT AI co-pilot for accountants and tax professionals increases tax firm's productivity and profitability by 10x by automating tax research, client communication, onboarding flows and secure document collection.",
-    "one_liner": "AI Co-Pilot for Accountants",
-    "team_size": 2,
+    "long_description": "Mito Health uses blood work and scans to tell our customers what to do to prevent disease and live longer. Customers love having a health expert in their pocket, who knows all about them, and can offer trusted advice. Our program has already helped customers detect cancer early and cut their risk of heart disease.",
+    "one_liner": "AI Preventive Health Provider",
+    "team_size": 8,
     "highlight_black": false,
-    "highlight_latinx": true,
-    "highlight_women": true,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1724299254,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1721173093,
     "tags": [
-      "Fintech",
-      "B2B",
+      "Anti-Aging",
+      "Consumer Health Services",
+      "Health Tech",
+      "Digital Health",
       "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Finance and Accounting"
+      "Healthcare",
+      "Consumer Health and Wellness"
     ],
     "regions": [
       "United States of America",
@@ -18195,8 +18196,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/taxgpt",
-    "api": "https://yc-oss.github.io/api/batches/s24/taxgpt.json"
+    "url": "https://www.ycombinator.com/companies/mito-health",
+    "api": "https://yc-oss.github.io/api/batches/s24/mito-health.json"
   },
   {
     "id": 29711,
@@ -18609,53 +18610,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deepsilicon",
     "api": "https://yc-oss.github.io/api/batches/s24/deepsilicon.json"
-  },
-  {
-    "id": 29748,
-    "name": "Seals AI",
-    "slug": "seals-ai",
-    "former_names": [
-      "Talk To Users AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfde4ebc7296b1d61f754907f5cf5a9a1f8fe26d.png",
-    "website": "https://www.hireseals.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Seals is a suite of AI Employees for Wholesalers & Distributors. Instead of relying on humans to quote, take orders, collect payments and enter data into ERPs. We build AI Employees that do these manual repetitive tasks for the 700k wholesalers in the US.\r\n\r\nWe’re a team of three Computer Science majors, and Fernando launched and grew AT&T in Mexico to $120M ARR. Previously, we all worked together at our last YC-backed startup, building it to over $6M in revenue. It was there that we placed thousands of purchase orders with wholesalers.\r\n\r\nWe realized that almost every physical product comes from B2B sales in the supply chain. However, it turns out that most of these operations are still done manually through phone and email, involving tasks like quoting, taking orders, collecting payments, entering data into ERPs, and providing support. By automating these tasks with AI agents in a human-like manner, we are creating a massive opportunity to convert $100B of payroll expenses into software spending.\r\n",
-    "one_liner": "AI Employees for Wholesalers & Distributors",
-    "team_size": 4,
-    "highlight_black": false,
-    "highlight_latinx": true,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1725683549,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/seals-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/seals-ai.json"
   },
   {
     "id": 29750,
@@ -19788,56 +19742,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/omnidock.json"
   },
   {
-    "id": 29824,
-    "name": "Assembly HOA",
-    "slug": "assembly-hoa",
-    "former_names": [
-      "Assembly Technologies Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/251db0cfd3ffbbbe376cb8fa8066246654b8bd87.png",
-    "website": "https://assemblyhoa.com",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "We help HOAs manage their communities in a modern and transparent way. HOA boards choose Assembly to replace their existing management company, ensuring excellent service and clear visibility into their HOA’s finances and operations. With Assembly, community priorities are always addressed, and homeowners can easily understand what their HOA is doing and how their monthly dues are being used.\r\n\r\nOur mission is to create turnkey communities and protect property values through transparent, efficient, and proactive management. By combining top industry expertise with the latest in AI and fintech, we provide real-time financial insights, strategic community planning, and automated operations.\r\n\r\nLike many homeowners, Shreyas and Allen experienced frustrations with HOAs. Our investigation revealed that most HOA management companies are outdated mom-and-pop operations nearing retirement, resistant to adopting new technology. Furthermore, these companies often prioritize relationships with vendors and banks over the interests of the communities they serve, leading to misaligned incentives. Realizing this, we knew that to achieve our mission of fixing HOAs, Assembly HOA had to be vertically integrated.\r\n\r\nWe are live with over 39 communities in Greater Los Angeles and SF Bay Area. ",
-    "one_liner": "AI-enabled HOA Management Company",
-    "team_size": 6,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-    "launched_at": 1720464041,
-    "tags": [
-      "Fintech",
-      "Real Estate",
-      "Housing",
-      "Proptech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/assembly-hoa",
-    "api": "https://yc-oss.github.io/api/batches/s24/assembly-hoa.json"
-  },
-  {
     "id": 29825,
     "name": "Sepal AI",
     "slug": "sepal-ai",
@@ -20066,56 +19970,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/voker.json"
   },
   {
-    "id": 29841,
-    "name": "Elayne",
-    "slug": "elayne",
-    "former_names": [
-      "Elayne AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8e7accc7b8fd46709776c7eeeddc94c78493149.png",
-    "website": "https://www.elayne.com/",
-    "all_locations": "Denver, CO, USA",
-    "long_description": "Over 75% of today’s workforce will need to plan for or manage a family member’s death in the next decade, a process that takes over 400 hours across 18 months. This administrative burden causes a $100 billion annual drag on US companies due to lost productivity, absenteeism, and attrition.\r\n\r\nOur platform leverages GenAI and post-pandemic policy changes to automate financial, legal, and administrative tasks. Our AI assistant auto-populates modules based on uploaded materials, identifies gaps in the estate plan, and provides straightforward recommendations.\r\n\r\nBy approaching this problem as an employee benefit, Elayne addresses the 44% increase in attrition and 76% drop in productivity that follows a family member’s death.",
-    "one_liner": "AI family estate planning & settlements after death",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1718839098,
-    "tags": [
-      "Fintech",
-      "Health Tech",
-      "LegalTech",
-      "HR Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Human Resources"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/elayne",
-    "api": "https://yc-oss.github.io/api/batches/s24/elayne.json"
-  },
-  {
     "id": 29852,
     "name": "AI Sell",
     "slug": "ai-sell",
@@ -20301,6 +20155,51 @@
     "api": "https://yc-oss.github.io/api/batches/s24/pipeshift.json"
   },
   {
+    "id": 29954,
+    "name": "Henry",
+    "slug": "henry-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d265b62e9a71a10a393d1dd6dc5f7e7aee9d789.png",
+    "website": "http://www.henry.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Henry is an AI copilot for commercial real estate (CRE) brokers that seamlessly integrates a brokerage’s internal data set with external sources to generate custom presentations and financial modeling for deals. Our mission is to help CRE brokers close more deals faster, earning more while doing less repetitive work. We’re initially focusing on enabling brokers to generate deal decks in seconds—a task that typically consumes 20+ hours a week across multiple departments within a brokerage.",
+    "one_liner": "Automating Deal Decks for Commercial Real Estate Brokers",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction",
+    "launched_at": 1718775199,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "Real Estate",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/henry-2",
+    "api": "https://yc-oss.github.io/api/batches/s24/henry-2.json"
+  },
+  {
     "id": 29955,
     "name": "Felafax",
     "slug": "felafax",
@@ -20389,54 +20288,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/void",
     "api": "https://yc-oss.github.io/api/batches/s24/void.json"
-  },
-  {
-    "id": 29963,
-    "name": "Capitol AI",
-    "slug": "capitol-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d21edd589862cd64f905545df119c53426538c8d.png",
-    "website": "https://www.capitol.ai/",
-    "all_locations": "Washington, DC, USA",
-    "long_description": "As Perplexity or Gemini replaces the Google Search we all use today, it will remove the need to ever visit a website. This is an existential risk to all media brands, which is why Capitol went from zero to $1.68M in revenue during YC: all media companies need to offer THEIR OWN Perplexity-like experience to maintain their direct relationship with customers. The most trusted brand in political news and analysis, Politico, chose us to power their Politico Pro Subscription product.\r\n\r\nConsumers expect instant personalized answers. Publishers won’t build this on their own.\r\n\r\nCapitol’s API lights up publishers' websites and apps so their end users can generate personalized search results, cited research reports, and even tweet storms using the publisher’s proprietary data—all within their paywall. \r\n\r\nCapitol is the new last mile of content delivery for publishing. This market is $16b in 2023, and will grow to $85.6b in 2030.\r\n\r\nGemini and Perplexity are the imperial forces. Capitol is arming the rebels.\r\n",
-    "one_liner": "Capitol is a custom perplexity for every website in the world.",
-    "team_size": 11,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1724724761,
-    "tags": [
-      "AI-Enhanced Learning",
-      "Workflow Automation",
-      "Analytics",
-      "Media",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": true,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/capitol-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/capitol-ai.json"
   },
   {
     "id": 29964,
