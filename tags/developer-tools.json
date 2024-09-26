@@ -252,7 +252,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S11",
     "status": "Active",
@@ -7790,7 +7790,7 @@
       "Crypto / Web3"
     ],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -10138,8 +10138,8 @@
   },
   {
     "id": 24787,
-    "name": "Squire.ai (fka EchoLayer)",
-    "slug": "squire-ai-fka-echolayer",
+    "name": "Squire.ai",
+    "slug": "squire-ai",
     "former_names": [
       "Codex",
       "CODEOWNERS",
@@ -10147,7 +10147,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8972703d81fdbb75413d24021353cf5ed0937ec2.png",
     "website": "https://squire.ai",
-    "all_locations": "San Francisco, CA, USA; Canada",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Squire is a devtool that works with you by writing pull request descriptions, reviewing PRs, and writing code to implement code review feedback.",
     "one_liner": "Never code alone.",
     "team_size": 8,
@@ -10158,11 +10158,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1627487920,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Compliance",
-      "Security",
-      "AI"
+      "Security"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10176,7 +10176,6 @@
     ],
     "regions": [
       "United States of America",
-      "Canada",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -10186,8 +10185,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/squire-ai-fka-echolayer",
-    "api": "https://yc-oss.github.io/api/batches/s21/squire-ai-fka-echolayer.json"
+    "url": "https://www.ycombinator.com/companies/squire-ai",
+    "api": "https://yc-oss.github.io/api/batches/s21/squire-ai.json"
   },
   {
     "id": 24827,
@@ -10890,7 +10889,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Security"
@@ -13441,9 +13440,9 @@
     "subindustry": "B2B",
     "launched_at": 1661283698,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -14446,8 +14445,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
     "website": "https://www.launchflow.com/",
     "all_locations": "Remote",
-    "long_description": "[LaunchFlow](https://www.launchflow.com/) is an Infrastructure as Code Python SDK that extends OpenTofu with features like [multi-environment support](https://docs.launchflow.com/docs/concepts/environments), [autoconfigured infrastructure clients](https://docs.launchflow.com/docs/concepts/resources), and [API release management](https://docs.launchflow.com/docs/concepts/services).\r\n\r\nYou can add GCP / AWS infrastructure to your app with a single line of code - Includes integrations with [FastAPI](https://docs.launchflow.com/docs/framework-guides/fastapi), [Flask](https://docs.launchflow.com/docs/framework-guides/flask), and [Django](https://docs.launchflow.com/docs/framework-guides/django).\r\n\r\nIt only takes 3 commands to launch your first app to GCP or AWS\\\r\n$ pip install launchflow \\\r\n$ lf init \\\r\n$ lf deploy \r\n\r\nFollow the [Get Started Guide](https://docs.launchflow.com/docs/get-started) to launch an example FastAPI app in a matter of minutes. No account required.",
-    "one_liner": "Automate infrastructure on GCP and AWS with Python",
+    "long_description": "LaunchFlow is an open source command line tool that can deploy any application to AWS or GCP with a single command.\r\n\r\nThe CLI configures cloud environments, permissions, release pipelines, and other infrastructure that distracts startups from their core product.\r\n\r\nThe CLI pairs with a high-level Python SDK that lets users customize their cloud environments with minimal configuration—our users only maintain an average of 4 lines of configuration per application.\r\n\r\nLaunch anything with 3 commands:\r\n1. $ pip install launchflow\r\n2. $ lf init\r\n3. $ lf deploy",
+    "one_liner": "Launch your app to AWS or GCP in minutes",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -14459,6 +14458,7 @@
       "Developer Tools",
       "SaaS",
       "B2B",
+      "Open Source",
       "Cloud Computing"
     ],
     "tags_highlighted": [],
@@ -15576,7 +15576,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -19123,8 +19123,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
     "website": "https://getdecipher.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decipher AI is an AI-powered bug detection platform that helps teams deliver high-quality, reliable products by continuously analyzing session replays and code-level system behavior.\r\n\r\nCompanies rely on Decipher to identify critical issues before more customers encounter them and to access rich technical context for swift resolution.",
-    "one_liner": "Helping engineers understand and fix production bugs",
+    "long_description": "AI-first session replay and application monitoring to uncover hidden bugs that are costing you user trust and increasing churn. Plus, rich technical context to understand and fix bugs quickly.\r\n\r\nCompanies rely on Decipher to identify issues before more customers encounter them and to access rich technical context for swift resolution.",
+    "one_liner": "AI-powered session replay and app monitoring to uncover hidden bugs",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -19724,7 +19724,10 @@
     "id": 29449,
     "name": "Fileforge",
     "slug": "fileforge",
-    "former_names": [],
+    "former_names": [
+      "CodeMuse",
+      "Onedoc"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a97af94f2a8e762d28add9f85502c5647837362.png",
     "website": "https://www.fileforge.com/",
     "all_locations": "San Francisco, CA, USA",
@@ -19748,7 +19751,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -20345,9 +20348,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725599788,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -20565,7 +20568,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7782bd4ff8b915f629867117b0ee24a39f15ab9.png",
     "website": "https://moonglow.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moonglow connects local Jupyter notebooks to remote cloud compute. Machine learning researchers and data scientists use us to scale up their experiments without having to do DevOps.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at ACL and ICLR.\r\n\r\nWith the explosive growth of deep learning, there are over 1 million ML researchers who do computationally intensive experiments every day. They use Jupyter notebooks to do so, but every time they want to try out a new idea, they need to get the notebooks running on cloud machines. This process, repeated hundreds of times a month, is time-consuming and error-prone.\r\n\r\nMoonglow reliably brings the time-to-experiment down from 5 minutes to 20 seconds. Just as Vercel and Replit abstracted away the lower levels of the computing stack for web developers and programmers, we do the same for ML researchers.\r\n\r\nhttps://moonglow.ai\r\n",
+    "long_description": "Moonglow connects local Jupyter notebooks to remote cloud compute. Machine learning researchers and data scientists use us to scale up their experiments without having to do DevOps.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at NeurIPS, ICLR and ACL.\r\n\r\nWith the explosive growth of deep learning, there are over 1 million ML researchers who do computationally intensive experiments every day. They use Jupyter notebooks to do so, but every time they want to try out a new idea, they need to get the notebooks running on cloud machines. This process, repeated hundreds of times a month, is time-consuming and error-prone.\r\n\r\nMoonglow reliably brings the time-to-experiment down from 5 minutes to 20 seconds. Just as Vercel and Replit abstracted away the lower levels of the computing stack for web developers and programmers, we do the same for ML researchers.\r\n\r\nhttps://moonglow.ai\r\n",
     "one_liner": "Connecting local Jupyter notebooks to remote cloud compute.",
     "team_size": 2,
     "highlight_black": false,
@@ -20669,10 +20672,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724629645,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20836,56 +20839,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/gauge.json"
   },
   {
-    "id": 29708,
-    "name": "Zenbase AI",
-    "slug": "zenbase-ai",
-    "former_names": [
-      "langjit"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd54b637cf4e5d1842d0d06352abde6b7d388b51.png",
-    "website": "https://zenbase.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Zenbase helps developers focus on programming by automating prompt engineering and model selection. We’re core contributors of Stanford NLP’s DSPy, the #1 LLM optimization framework used by Meta, Microsoft, Google, among many others. But it's hard to use outside of academia. We're building the production version.",
-    "one_liner": "Continuous prompt optimization for LLMs from DSPy core contributors",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1720735986,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "SaaS",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/zenbase-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/zenbase-ai.json"
-  },
-  {
     "id": 29712,
     "name": "Benchify",
     "slug": "benchify",
@@ -20994,10 +20947,10 @@
     "subindustry": "B2B",
     "launched_at": 1715992295,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21038,11 +20991,11 @@
     "subindustry": "B2B",
     "launched_at": 1715907913,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21706,10 +21659,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716301435,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22017,7 +21970,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2ac264e6877792745759c5eec0d699fa373574f.png",
     "website": "https://patched.codes",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Patched empowers development teams to build and deploy AI-assisted workflows that can autonomously complete post-code tasks like documentation, code reviews, and security patching. Our workflows can be customized using a visual builder and can be self-hosted with any AI model, enabling automation without compromising security, control, or compliance.",
     "one_liner": "Open-source workflow automation for enterprise dev teams",
     "team_size": 2,
@@ -22028,10 +21981,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1721263283,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22045,9 +21998,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -22160,7 +22111,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b04f0fee59f28a3fa66d41bb63e4aef150ce2812.png",
     "website": "https://outerport.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outerport lets companies use their GPUs more efficiently by making it easy for them to be swapped from task to task. Just like how VMWare made it easy to put multiple users on a single server machine, we make it easy to put multiple large models on a single GPU. Rather than having separate sets of GPUs for each task, you can buy less GPUs and make better use of it.\r\n\r\nHot swap foundation model weights instantly, minimize cold starts, scale horizontally, maintain version control, secure your models on a central registry, perform A/B tests, and save 40% on GPU costs. ",
+    "long_description": "Outerport lets companies use their GPUs more efficiently by making it easy for them to be swapped from task to task. Just like how VMWare made it easy to put multiple users on a single server machine, we make it easy to put multiple AI models on a single GPU. Rather than having separate sets of GPUs for each task, you can buy less GPUs and make better use of it.\r\n\r\nHot swap foundation model weights instantly, minimize cold starts, scale horizontally, maintain version control, secure your models on a central registry, perform A/B tests, and save 40% on GPU costs. ",
     "one_liner": "VMware for GPUs",
     "team_size": 2,
     "highlight_black": false,
@@ -22171,10 +22122,10 @@
     "launched_at": 1721673756,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,

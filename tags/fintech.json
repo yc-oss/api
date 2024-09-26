@@ -14769,7 +14769,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a16a09957704451334262d0e10e575dc15ff06d1.png",
     "website": "https://www.joinslash.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
     "long_description": "Slash is on a mission to become the largest commercial issuer in America. \r\n\r\nWe offer businesses:\r\n1. Deposit accounts with free outgoing wire and ACH transfers. \r\n2. Corporate cards with up to 2% cash back, virtual cards, fine grain spend controls, and controls/automation to save hours of work.\r\n3. Integrations to all major accounting platforms.\r\n4. Detailed spend, income, and other financial analytics.",
     "one_liner": "On a mission to become the largest commercial issuer in America",
     "team_size": 25,
@@ -21293,7 +21293,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Fintech",
       "Payments"
@@ -26264,10 +26264,10 @@
     "launched_at": 1655180175,
     "tags": [
       "Fintech",
-      "Health Tech",
       "Healthcare",
       "LegalTech",
-      "Healthcare IT"
+      "Call Center",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28292,7 +28292,7 @@
     "all_locations": "Dubai, Dubai, United Arab Emirates",
     "long_description": "Alaan is an AI-powered expense management platform for businesses in the Middle East. We help businesses instantly issue corporate cards for employees, control their spending, and automate receipts. \r\n\r\nOur mission is to simplify finance for businesses in the Middle East and help them prosper. We have grown rapidly and now work with over 500 startups, mid-market, and enterprise customers across various industries, doing tens of millions of dollars in payment volume. We've been default alive since our launch in August 2022 (averaging ~20% monthly net revenue growth in 2023).\r\n\r\nCheck out alaan.com/careers if you want to join us!",
     "one_liner": "AI-powered expense management platform for businesses in the Middle…",
-    "team_size": 60,
+    "team_size": 70,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -29504,6 +29504,49 @@
     "api": "https://yc-oss.github.io/api/batches/s23/vaultpay.json"
   },
   {
+    "id": 29000,
+    "name": "SafetyKit",
+    "slug": "safetykit",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9e75c5434d4db65b7f3f6434cf59d0341971429.png",
+    "website": "https://www.safetykit.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "SafetyKit replaces human Trust and Safety reviewers with language models.\r\n\r\nWe make it easy for enterprise Trust and Safety teams to supercharge their content review workflows — speeding up agent decision-making 5x or by automating the review altogether — and significantly reduce operations costs with faster, more accurate decisions.\r\n\r\nWith SafetyKit, Trust and Safety teams write their policies in natural language and use them to detect and action nefarious content, instantly.  Each decision is accompanied by an explanation grounded in your policies — not a generic definition or model score.  We allow TnS teams to confidently scale their capacity, freeing up your agents for the highest leverage work, while reducing those agents exposure to problematic content. ",
+    "one_liner": "AI-Powered Trust and Safety Automation",
+    "team_size": 5,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1687827774,
+    "tags": [
+      "Fintech",
+      "Compliance",
+      "Trust & Safety"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/safetykit",
+    "api": "https://yc-oss.github.io/api/batches/s23/safetykit.json"
+  },
+  {
     "id": 29002,
     "name": "Envelope",
     "slug": "envelope",
@@ -30032,7 +30075,7 @@
     "website": "https://centralhq.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "- [Our fever dream Bookface launch](https://bookface.ycombinator.com/posts/81742)\r\n- [$10K+ high value YC deal + reviews](https://bookface.ycombinator.com/deals/2463)",
-    "one_liner": "Eliminating business bullshit: payroll, benefits, govt. filings, etc",
+    "one_liner": "Eliminating business bullshit: payroll, benefits, compliance, etc",
     "team_size": 13,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -31052,8 +31095,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbd00107f697b5f5493bc13c93f8896ad8eff46b.png",
     "website": "http://superunit.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superunit is building an AI powered ERP for companies selling physical goods.  We’ve released our first module - AI accounting and supply chain management - to 7 customers in the last 6 weeks. We’ve booked $8.3k in MRR and just signed a pilot with a $200M apparel company. \r\n\r\nWe offer automated bookkeeping, supply chain management, inventory costs, and contribution margin analysis.  Our system seamlessly integrates with Quickbooks and ERPs, eliminating manual data entry and minimizing errors.\r\n\r\nUsers can interact with Superunit via Slack or email, avoiding the need to learn new software.\r\n\r\n(https://www.loom.com/share/1425f6802d774e1aa00a8ac4b64782ff)\r\n",
-    "one_liner": "AI powered ERP for companies selling physical goods",
+    "long_description": "Superunit is building an AI powered ERP for companies manufacturing or selling physical goods.  We’ve released our first module - AI accounting and supply chain management - to 7 customers in the last 6 weeks. We’ve booked $8.3k in MRR and just signed a pilot with a $200M apparel company. \r\n\r\nWe offer automated bookkeeping, supply chain management, inventory costs, and contribution margin analysis.  Our system seamlessly integrates with Quickbooks and ERPs, eliminating manual data entry and minimizing errors.\r\n\r\nUsers can interact with Superunit via Slack or email, avoiding the need to learn new software.\r\n\r\n(https://www.loom.com/share/1425f6802d774e1aa00a8ac4b64782ff)\r\n",
+    "one_liner": "AI powered ERP for companies manufacturing or selling physical goods",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -31751,7 +31794,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a121e291e0c0d2ca3fe9ade29f345d6f3bb2a6c2.png",
     "website": "https://corpdaq.com",
     "all_locations": "Singapore, Singapore; Remote",
-    "long_description": "We’re building Stripe of Lending for Asian Businesses. Corpdaq is a lending platform that connects Businesses with Banks & Investors in South East Asia. We use LLM’s to automatically  assess their business and creditworthiness. We launched 4 months ago, we already have $36,000 of monthly revenue, and we’re growing 85% every month. We’re both second-time founders from Indonesia. Hendra was previously CEO and Co-founder of Payfazz, a billion-dollar fintech and payments company in Indonesia. Inas was previously CTO and Co-founder of Rulo, an exited enterprise fintech software, and Verihubs, the largest verification and credit scoring startup in Indonesia.",
+    "long_description": "We’re building Stripe of Lending for Asian Businesses. Corpdaq is a lending platform that connects Businesses with Banks & Investors in South East Asia. We use LLM’s to automatically  assess their business and creditworthiness. We launched 4 months ago, we already have $36,000 of monthly revenue, and we’re growing 85% every month. We’re both second-time founders from Indonesia. Hendra was previously CEO and Co-founder of Payfazz, a billion-dollar fintech and payments company in Indonesia. Inas was previously CTO and Co-founder of Rulo, an exited enterprise financial software startup, and Verihubs, the largest verification and credit scoring startup in Indonesia.",
     "one_liner": "Stripe of Lending for Asia",
     "team_size": 2,
     "highlight_black": false,
@@ -31999,11 +32042,11 @@
     "subindustry": "Fintech",
     "launched_at": 1721925578,
     "tags": [
-      "Artificial Intelligence",
       "FinOps",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32035,7 +32078,7 @@
     "website": "https://joinpap.com/",
     "all_locations": "Berkeley, CA, USA",
     "long_description": "Consumers miss out on $70B+ every year because they're busy and unaware, and that money is sitting in their email inbox. So, we automated reading email receipts and claiming the money they're entitled to, offering a service to which you can sign up once, do (literally) nothing, and earn $.\r\n\r\nWhere is this money coming from?\r\n\r\n- Retailers: When the price of clothes or furniture you've already bought drops, you're entitled to a refund for the difference\r\n- Airlines: When a flight you've booked gets delayed or canceled, you're entitled to a cash compensation.\r\n- Enterprises: When a class-action lawsuit is filed against a company you engage with, you're entitled to money.\r\n- And many more, that even the government holds some of your unclaimed funds.\r\n\r\nToday, the dream of one service that automatically claims the money you deserve when you shop, fly,... and live is (finally) possible.\r\n\r\nWe started with automating refunds in the shopping industry and have secured $8,000 in refunds to our users, growing 233% MoM. With AI, we've been able to repurpose that same automation to tackle refunds in the flight industry and the class-action lawsuit landscape.\r\n\r\nWhy us? (1) We're obsessed with reclaiming what's rightfully yours: Kamal and Anthony grew up in Lebanon, where people's money was unfairly taken away. (2) Weijie was the lead infra engineer for Wish's recommendation system, the feature that fueled their IPO. Our combined experience includes Apple, Addepar, Bolt, Wish, and StackAdapt.\r\n\r\nAnd we're all working towards one goal: move those billions of dollars where they belong.\r\n",
-    "one_liner": "The world owes you money. We get it for you.",
+    "one_liner": "Agents that earn consumers dollars when they shop, travel, and live.",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -32130,7 +32173,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8e7accc7b8fd46709776c7eeeddc94c78493149.png",
     "website": "https://www.elayne.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Elayne empowers families to build generational wealth by automating estate planning and settlements on a single, unified platform. As the AI Executor, we manage the entire estate transfer process, facilitating $3 trillion in wealth transfers annually, with a ~3% take rate.\r\n\r\nAdria experienced this challenge firsthand after her mom passed away, leaving her to settle the estate while balancing her career. The process is currently entirely manual and takes an average of 400 hours over 18 months. Adria eventually burned out and resigned, which is when she realized that bereavement costs businesses $100 billion annually in lost productivity, absenteeism, and attrition.\r\n\r\nBy addressing this problem through businesses, Elayne generates recurring revenue in an industry traditionally reliant on 1x transactions, while maintaining a lasting presence in the end user’s life. We directly alleviate the 43% increase in attrition following the death of a family member, while reducing overall costs for grieving families, increasing generational wealth, and saving users hundreds of hours in financial, legal and administrative tasks per loss.",
+    "long_description": "Elayne empowers families to build generational wealth by automating estate planning and settlements on a single, unified platform. As the AI Executor, we manage the entire estate transfer process, facilitating $3 trillion in wealth transfers annually, with a ~3% take rate.\r\n\r\nAdria experienced this challenge firsthand after her mom passed away, leaving her to settle the estate while balancing her career. The process is currently entirely manual and takes an average of 400 hours over 18 months. Adria eventually burned out and resigned, which is when she realized that bereavement costs businesses $100 billion annually in lost productivity, absenteeism, and attrition.\r\n\r\nBy addressing this problem through businesses, Elayne generates recurring revenue in an industry traditionally reliant on 1x transactions, while maintaining a lasting presence in the end user’s life. We directly alleviate the 43% increase in attrition following the death of a family member, while reducing overall costs for grieving families, democratizing estate support, and saving users hundreds of hours in financial, legal, and administrative tasks per loss.",
     "one_liner": "AI family estate planning & settlements after death",
     "team_size": 2,
     "highlight_black": false,
@@ -32140,11 +32183,11 @@
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1718839098,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Health Tech",
       "LegalTech",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32228,8 +32271,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d24f87db5131a298b5fd35aba59870c07522d6f.png",
     "website": "https://www.formulainsight.io/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Formula Insight gives hedge funds a central repository of their financial models and lets them track changes in their forecasts so they can make better investment decisions.",
-    "one_liner": "Help Hedge Funds manage, track & query their Excel models",
+    "long_description": "Formula Insight offers Institutional Investors previously inaccessible data. We provide a central repository of financial models so investors can track changes to forecasts, quantify projection accuracy and expedite analysis.  This further systematizes the investment process and enables better investment decisions.",
+    "one_liner": "Help Institutional Investors manage, track & query their Excel models",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -32264,6 +32307,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/formula-insight",
     "api": "https://yc-oss.github.io/api/batches/s24/formula-insight.json"
+  },
+  {
+    "id": 29967,
+    "name": "Village Labs",
+    "slug": "village-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b437f74d1da9b456b7203c06d57c8eae2c1fa858.png",
+    "website": "https://villagelabs.app/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "At Village Labs, we help America's businesses become employee owned by helping them set up and manage an employee stock ownership plan (ESOP). \r\n\r\nESOPs are a federal retirement plan that enable businesses to give their employees a stake in the company in exchange for significant tax benefits. \r\n\r\nWith 2.9M Baby Boomer business owners set to retire in the coming years, there's a growing \"Silver Tsunami\" of businesses across the country in search of new ownership. For many of these owners, selling to their employees is a socially-minded yet financially pragmatic solution.\r\n\r\nBy selling ownership of their business to an ESOP, owners get a fair price, tax benefits, and the satisfaction of knowing their employees and legacy will be taken care of — things not guaranteed with traditional buyers like private equity. In turn, employees retain their jobs and get shares in the business that can help them create life changing wealth by the time they retire — imagine an office secretary retiring as a millionaire. \r\n\r\nThousands of businesses across America like Bob's Red Mill, Harpoon Brewery, and Recology already have an ESOP, benefiting over 14 million workers and creating 2.1 trillion in employee wealth. We're excited about the opportunity to massively grow these numbers by making it simple for every business to become employee owned. \r\n",
+    "one_liner": "Helping America's businesses become employee owned",
+    "team_size": 2,
+    "highlight_black": true,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1725498040,
+    "tags": [
+      "Fintech",
+      "Human Resources"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/village-labs",
+    "api": "https://yc-oss.github.io/api/batches/s24/village-labs.json"
   },
   {
     "id": 29973,

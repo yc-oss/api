@@ -4106,9 +4106,9 @@
     "subindustry": "B2B",
     "launched_at": 1661283698,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4475,6 +4475,56 @@
     "api": "https://yc-oss.github.io/api/batches/w23/nango.json"
   },
   {
+    "id": 27820,
+    "name": "LaunchFlow",
+    "slug": "launchflow",
+    "former_names": [
+      "FlowState",
+      "Inlet",
+      "launchflow"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
+    "website": "https://www.launchflow.com/",
+    "all_locations": "Remote",
+    "long_description": "LaunchFlow is an open source command line tool that can deploy any application to AWS or GCP with a single command.\r\n\r\nThe CLI configures cloud environments, permissions, release pipelines, and other infrastructure that distracts startups from their core product.\r\n\r\nThe CLI pairs with a high-level Python SDK that lets users customize their cloud environments with minimal configuration—our users only maintain an average of 4 lines of configuration per application.\r\n\r\nLaunch anything with 3 commands:\r\n1. $ pip install launchflow\r\n2. $ lf init\r\n3. $ lf deploy",
+    "one_liner": "Launch your app to AWS or GCP in minutes",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1675872738,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Open Source",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/launchflow",
+    "api": "https://yc-oss.github.io/api/batches/w23/launchflow.json"
+  },
+  {
     "id": 27852,
     "name": "Frigade",
     "slug": "frigade",
@@ -4748,7 +4798,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -4913,7 +4963,7 @@
     "name": "Rivet",
     "slug": "rivet",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad8853a70184b77f08ca1b653bbd61708d9523a6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df3d86b035914304a42a234eb7e38ebfaeb324d3.png",
     "website": "https://rivet.gg",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Rivet is an open-source solution for infrastructure and backend for games.",
@@ -6760,9 +6810,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725599788,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -6902,11 +6952,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1720735986,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
       "Generative AI",
       "SaaS",
-      "Open Source"
+      "Open Source",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6950,11 +7000,11 @@
     "subindustry": "B2B",
     "launched_at": 1715907913,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7086,7 +7136,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2ac264e6877792745759c5eec0d699fa373574f.png",
     "website": "https://patched.codes",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Patched empowers development teams to build and deploy AI-assisted workflows that can autonomously complete post-code tasks like documentation, code reviews, and security patching. Our workflows can be customized using a visual builder and can be self-hosted with any AI model, enabling automation without compromising security, control, or compliance.",
     "one_liner": "Open-source workflow automation for enterprise dev teams",
     "team_size": 2,
@@ -7097,10 +7147,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1721263283,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7114,9 +7164,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

@@ -7747,58 +7747,6 @@
     "api": "https://yc-oss.github.io/api/batches/w20/handoff.json"
   },
   {
-    "id": 13141,
-    "name": "Acho",
-    "slug": "acho",
-    "former_names": [
-      "UniBit",
-      "Acho",
-      "acho"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/539c698774160947b830b5edbd9d46daf94911d7.png",
-    "website": "http://acho.io",
-    "all_locations": "San Francisco, CA, USA; Boston, MA, USA",
-    "long_description": "Acho is a modern ERP platform for operations leaders to unify business systems, streamline processes, and manage business objectives. Uncompromising customized and rapidly fast, Acho grows KPI with dedicated solution resources and predictable ROI.  \r\n\r\nToday, Acho plays a pivotal role in elevating operational efficiency, automating workflows, and turning data into products for over 100 businesses. Among our valued customers are supply chain divisions of major global corporations, IT departments of Online Travel Agencies, Finance & Accounting units of prestigious banking institutions, and other organizations that play a key role in our daily life.\r\n",
-    "one_liner": "Modern ERP for Operations Leaders ",
-    "team_size": 15,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1599762607,
-    "tags": [
-      "B2B",
-      "Data Engineering",
-      "Enterprise Software",
-      "Cloud Computing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W20",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/acho",
-    "api": "https://yc-oss.github.io/api/batches/w20/acho.json"
-  },
-  {
     "id": 13148,
     "name": "Cadence",
     "slug": "cadence",
@@ -9579,7 +9527,7 @@
     "former_names": [
       "Evergreen"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36e20f89b10663bb956c6daad5f19a3ee1b8cf24.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1927688a0e9eda1caab52b030e0c7e5dd379fa2d.png",
     "website": "https://ziphq.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -22223,7 +22171,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Security"
@@ -26057,7 +26005,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
+    "subindustry": "B2B -> Sales",
     "launched_at": 1659633968,
     "tags": [
       "Generative AI",
@@ -26070,7 +26018,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Sales"
@@ -30612,6 +30560,47 @@
     "api": "https://yc-oss.github.io/api/batches/w23/depot.json"
   },
   {
+    "id": 27695,
+    "name": "Pigeon",
+    "slug": "pigeon",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ba5c80823fd550126b6ccf61259b290923bb56a.png",
+    "website": "https://www.pigeondocuments.com/",
+    "all_locations": "",
+    "long_description": "Pigeon makes it easy for businesses to collect documents from their clients. Instead of having to make client portal accounts or create new Dropbox folders every time you need documents, with Pigeon you can send an itemized upload checklist in a few clicks.",
+    "one_liner": "Document collection made fast, easy, and secure",
+    "team_size": 5,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1670803018,
+    "tags": [
+      "Generative AI",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pigeon",
+    "api": "https://yc-oss.github.io/api/batches/w23/pigeon.json"
+  },
+  {
     "id": 27696,
     "name": "SelectIQ",
     "slug": "selectiq",
@@ -31587,8 +31576,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
     "website": "https://www.launchflow.com/",
     "all_locations": "Remote",
-    "long_description": "[LaunchFlow](https://www.launchflow.com/) is an Infrastructure as Code Python SDK that extends OpenTofu with features like [multi-environment support](https://docs.launchflow.com/docs/concepts/environments), [autoconfigured infrastructure clients](https://docs.launchflow.com/docs/concepts/resources), and [API release management](https://docs.launchflow.com/docs/concepts/services).\r\n\r\nYou can add GCP / AWS infrastructure to your app with a single line of code - Includes integrations with [FastAPI](https://docs.launchflow.com/docs/framework-guides/fastapi), [Flask](https://docs.launchflow.com/docs/framework-guides/flask), and [Django](https://docs.launchflow.com/docs/framework-guides/django).\r\n\r\nIt only takes 3 commands to launch your first app to GCP or AWS\\\r\n$ pip install launchflow \\\r\n$ lf init \\\r\n$ lf deploy \r\n\r\nFollow the [Get Started Guide](https://docs.launchflow.com/docs/get-started) to launch an example FastAPI app in a matter of minutes. No account required.",
-    "one_liner": "Automate infrastructure on GCP and AWS with Python",
+    "long_description": "LaunchFlow is an open source command line tool that can deploy any application to AWS or GCP with a single command.\r\n\r\nThe CLI configures cloud environments, permissions, release pipelines, and other infrastructure that distracts startups from their core product.\r\n\r\nThe CLI pairs with a high-level Python SDK that lets users customize their cloud environments with minimal configuration—our users only maintain an average of 4 lines of configuration per application.\r\n\r\nLaunch anything with 3 commands:\r\n1. $ pip install launchflow\r\n2. $ lf init\r\n3. $ lf deploy",
+    "one_liner": "Launch your app to AWS or GCP in minutes",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -31600,6 +31589,7 @@
       "Developer Tools",
       "SaaS",
       "B2B",
+      "Open Source",
       "Cloud Computing"
     ],
     "tags_highlighted": [],
@@ -33215,7 +33205,7 @@
     "all_locations": "Dubai, Dubai, United Arab Emirates",
     "long_description": "Alaan is an AI-powered expense management platform for businesses in the Middle East. We help businesses instantly issue corporate cards for employees, control their spending, and automate receipts. \r\n\r\nOur mission is to simplify finance for businesses in the Middle East and help them prosper. We have grown rapidly and now work with over 500 startups, mid-market, and enterprise customers across various industries, doing tens of millions of dollars in payment volume. We've been default alive since our launch in August 2022 (averaging ~20% monthly net revenue growth in 2023).\r\n\r\nCheck out alaan.com/careers if you want to join us!",
     "one_liner": "AI-powered expense management platform for businesses in the Middle…",
-    "team_size": 60,
+    "team_size": 70,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -34020,7 +34010,7 @@
     "name": "Rivet",
     "slug": "rivet",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad8853a70184b77f08ca1b653bbd61708d9523a6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df3d86b035914304a42a234eb7e38ebfaeb324d3.png",
     "website": "https://rivet.gg",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Rivet is an open-source solution for infrastructure and backend for games.",
@@ -38561,11 +38551,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723709594,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Robotics",
       "B2B",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38969,7 +38959,7 @@
     "website": "https://centralhq.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "- [Our fever dream Bookface launch](https://bookface.ycombinator.com/posts/81742)\r\n- [$10K+ high value YC deal + reviews](https://bookface.ycombinator.com/deals/2463)",
-    "one_liner": "Eliminating business bullshit: payroll, benefits, govt. filings, etc",
+    "one_liner": "Eliminating business bullshit: payroll, benefits, compliance, etc",
     "team_size": 13,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -39063,8 +39053,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
     "website": "https://getdecipher.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decipher AI is an AI-powered bug detection platform that helps teams deliver high-quality, reliable products by continuously analyzing session replays and code-level system behavior.\r\n\r\nCompanies rely on Decipher to identify critical issues before more customers encounter them and to access rich technical context for swift resolution.",
-    "one_liner": "Helping engineers understand and fix production bugs",
+    "long_description": "AI-first session replay and application monitoring to uncover hidden bugs that are costing you user trust and increasing churn. Plus, rich technical context to understand and fix bugs quickly.\r\n\r\nCompanies rely on Decipher to identify issues before more customers encounter them and to access rich technical context for swift resolution.",
+    "one_liner": "AI-powered session replay and app monitoring to uncover hidden bugs",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -40407,7 +40397,10 @@
     "id": 29449,
     "name": "Fileforge",
     "slug": "fileforge",
-    "former_names": [],
+    "former_names": [
+      "CodeMuse",
+      "Onedoc"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a97af94f2a8e762d28add9f85502c5647837362.png",
     "website": "https://www.fileforge.com/",
     "all_locations": "San Francisco, CA, USA",
@@ -40431,7 +40424,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -41241,8 +41234,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbd00107f697b5f5493bc13c93f8896ad8eff46b.png",
     "website": "http://superunit.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superunit is building an AI powered ERP for companies selling physical goods.  We’ve released our first module - AI accounting and supply chain management - to 7 customers in the last 6 weeks. We’ve booked $8.3k in MRR and just signed a pilot with a $200M apparel company. \r\n\r\nWe offer automated bookkeeping, supply chain management, inventory costs, and contribution margin analysis.  Our system seamlessly integrates with Quickbooks and ERPs, eliminating manual data entry and minimizing errors.\r\n\r\nUsers can interact with Superunit via Slack or email, avoiding the need to learn new software.\r\n\r\n(https://www.loom.com/share/1425f6802d774e1aa00a8ac4b64782ff)\r\n",
-    "one_liner": "AI powered ERP for companies selling physical goods",
+    "long_description": "Superunit is building an AI powered ERP for companies manufacturing or selling physical goods.  We’ve released our first module - AI accounting and supply chain management - to 7 customers in the last 6 weeks. We’ve booked $8.3k in MRR and just signed a pilot with a $200M apparel company. \r\n\r\nWe offer automated bookkeeping, supply chain management, inventory costs, and contribution margin analysis.  Our system seamlessly integrates with Quickbooks and ERPs, eliminating manual data entry and minimizing errors.\r\n\r\nUsers can interact with Superunit via Slack or email, avoiding the need to learn new software.\r\n\r\n(https://www.loom.com/share/1425f6802d774e1aa00a8ac4b64782ff)\r\n",
+    "one_liner": "AI powered ERP for companies manufacturing or selling physical goods",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -42417,11 +42410,11 @@
     "subindustry": "B2B",
     "launched_at": 1723584667,
     "tags": [
+      "Artificial Intelligence",
       "Finance",
       "B2B",
       "HR Tech",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42602,10 +42595,10 @@
     "subindustry": "B2B",
     "launched_at": 1715992295,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42927,9 +42920,9 @@
     "subindustry": "B2B",
     "launched_at": 1715615655,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43345,7 +43338,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54349afe229386963a0d97273557dd9db8219ab7.png",
     "website": "https://www.remade.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Remade uses AI to create studio-quality videos. For example, ScentBird, a fragrance subscription service, uses Remade to create engaging TikTok ad hooks and increase conversion.\r\n\r\nTraditional videography is labour-intensive, slow, and expensive. Enterprises spend thousands on it, while smaller businesses often can't afford it. Remade reduces the cost of professional videos by 100x and cuts delivery time from weeks to 15 minutes. Using AI and social media data, we personalize content creation and optimize product ads. Our mission is to streamline visual content generation across multiple industries, making it faster and more accessible for businesses.",
+    "long_description": "Remade uses AI to scale hyper-personalized video generation for marketplaces. Our first customer, Scentbird, a midmarket fragrance marketplace uses Remade to create engaging TikTok ad hooks. We are a team of 4 Cambridge AI hackers with publications in CVPR, the largest Computer Vision conference, and the Lancet Journal, the most respected medical journal globally. Our ARR grew 66% last week from 18k to 30k with an additional 17k pilot revenue with Rappi and eFood, which will take us to a 650k contracted ARR by EoQ. We are building out a research-arm to develop proprietary tech, fusing recommendation algorithms with video models to deliver hyper-personalised videos that increase conversion.",
     "one_liner": "Automating Video Ad Workflows using AI",
     "team_size": 4,
     "highlight_black": false,
@@ -43355,11 +43348,11 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1721201298,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Social Media",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43641,11 +43634,11 @@
     "subindustry": "B2B",
     "launched_at": 1723170275,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Compliance",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44432,11 +44425,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724084407,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "SaaS",
       "B2B",
-      "Collaboration"
+      "Collaboration",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44714,11 +44707,11 @@
     "subindustry": "Fintech",
     "launched_at": 1721925578,
     "tags": [
-      "Artificial Intelligence",
       "FinOps",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45040,11 +45033,11 @@
     "subindustry": "B2B -> Retail",
     "launched_at": 1719875304,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "B2B",
-      "E-commerce"
+      "E-commerce",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45076,8 +45069,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d24f87db5131a298b5fd35aba59870c07522d6f.png",
     "website": "https://www.formulainsight.io/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Formula Insight gives hedge funds a central repository of their financial models and lets them track changes in their forecasts so they can make better investment decisions.",
-    "one_liner": "Help Hedge Funds manage, track & query their Excel models",
+    "long_description": "Formula Insight offers Institutional Investors previously inaccessible data. We provide a central repository of financial models so investors can track changes to forecasts, quantify projection accuracy and expedite analysis.  This further systematizes the investment process and enables better investment decisions.",
+    "one_liner": "Help Institutional Investors manage, track & query their Excel models",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -45120,7 +45113,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2ac264e6877792745759c5eec0d699fa373574f.png",
     "website": "https://patched.codes",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Patched empowers development teams to build and deploy AI-assisted workflows that can autonomously complete post-code tasks like documentation, code reviews, and security patching. Our workflows can be customized using a visual builder and can be self-hosted with any AI model, enabling automation without compromising security, control, or compliance.",
     "one_liner": "Open-source workflow automation for enterprise dev teams",
     "team_size": 2,
@@ -45131,10 +45124,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1721263283,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45148,9 +45141,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -45274,11 +45265,11 @@
     "subindustry": "B2B",
     "launched_at": 1722038915,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Construction",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

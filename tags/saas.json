@@ -21332,7 +21332,7 @@
       "Crypto / Web3"
     ],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -28437,8 +28437,8 @@
   },
   {
     "id": 24787,
-    "name": "Squire.ai (fka EchoLayer)",
-    "slug": "squire-ai-fka-echolayer",
+    "name": "Squire.ai",
+    "slug": "squire-ai",
     "former_names": [
       "Codex",
       "CODEOWNERS",
@@ -28446,7 +28446,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8972703d81fdbb75413d24021353cf5ed0937ec2.png",
     "website": "https://squire.ai",
-    "all_locations": "San Francisco, CA, USA; Canada",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Squire is a devtool that works with you by writing pull request descriptions, reviewing PRs, and writing code to implement code review feedback.",
     "one_liner": "Never code alone.",
     "team_size": 8,
@@ -28457,11 +28457,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1627487920,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Compliance",
-      "Security",
-      "AI"
+      "Security"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28475,7 +28475,6 @@
     ],
     "regions": [
       "United States of America",
-      "Canada",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -28485,8 +28484,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/squire-ai-fka-echolayer",
-    "api": "https://yc-oss.github.io/api/batches/s21/squire-ai-fka-echolayer.json"
+    "url": "https://www.ycombinator.com/companies/squire-ai",
+    "api": "https://yc-oss.github.io/api/batches/s21/squire-ai.json"
   },
   {
     "id": 24799,
@@ -31208,7 +31207,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Security"
@@ -34973,7 +34972,7 @@
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
+    "subindustry": "B2B -> Sales",
     "launched_at": 1659633968,
     "tags": [
       "Generative AI",
@@ -34986,7 +34985,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Sales"
@@ -39707,8 +39706,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
     "website": "https://www.launchflow.com/",
     "all_locations": "Remote",
-    "long_description": "[LaunchFlow](https://www.launchflow.com/) is an Infrastructure as Code Python SDK that extends OpenTofu with features like [multi-environment support](https://docs.launchflow.com/docs/concepts/environments), [autoconfigured infrastructure clients](https://docs.launchflow.com/docs/concepts/resources), and [API release management](https://docs.launchflow.com/docs/concepts/services).\r\n\r\nYou can add GCP / AWS infrastructure to your app with a single line of code - Includes integrations with [FastAPI](https://docs.launchflow.com/docs/framework-guides/fastapi), [Flask](https://docs.launchflow.com/docs/framework-guides/flask), and [Django](https://docs.launchflow.com/docs/framework-guides/django).\r\n\r\nIt only takes 3 commands to launch your first app to GCP or AWS\\\r\n$ pip install launchflow \\\r\n$ lf init \\\r\n$ lf deploy \r\n\r\nFollow the [Get Started Guide](https://docs.launchflow.com/docs/get-started) to launch an example FastAPI app in a matter of minutes. No account required.",
-    "one_liner": "Automate infrastructure on GCP and AWS with Python",
+    "long_description": "LaunchFlow is an open source command line tool that can deploy any application to AWS or GCP with a single command.\r\n\r\nThe CLI configures cloud environments, permissions, release pipelines, and other infrastructure that distracts startups from their core product.\r\n\r\nThe CLI pairs with a high-level Python SDK that lets users customize their cloud environments with minimal configuration—our users only maintain an average of 4 lines of configuration per application.\r\n\r\nLaunch anything with 3 commands:\r\n1. $ pip install launchflow\r\n2. $ lf init\r\n3. $ lf deploy",
+    "one_liner": "Launch your app to AWS or GCP in minutes",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -39720,6 +39719,7 @@
       "Developer Tools",
       "SaaS",
       "B2B",
+      "Open Source",
       "Cloud Computing"
     ],
     "tags_highlighted": [],
@@ -40919,7 +40919,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -45460,8 +45460,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
     "website": "https://getdecipher.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decipher AI is an AI-powered bug detection platform that helps teams deliver high-quality, reliable products by continuously analyzing session replays and code-level system behavior.\r\n\r\nCompanies rely on Decipher to identify critical issues before more customers encounter them and to access rich technical context for swift resolution.",
-    "one_liner": "Helping engineers understand and fix production bugs",
+    "long_description": "AI-first session replay and application monitoring to uncover hidden bugs that are costing you user trust and increasing churn. Plus, rich technical context to understand and fix bugs quickly.\r\n\r\nCompanies rely on Decipher to identify issues before more customers encounter them and to access rich technical context for swift resolution.",
+    "one_liner": "AI-powered session replay and app monitoring to uncover hidden bugs",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -46945,8 +46945,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbd00107f697b5f5493bc13c93f8896ad8eff46b.png",
     "website": "http://superunit.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superunit is building an AI powered ERP for companies selling physical goods.  We’ve released our first module - AI accounting and supply chain management - to 7 customers in the last 6 weeks. We’ve booked $8.3k in MRR and just signed a pilot with a $200M apparel company. \r\n\r\nWe offer automated bookkeeping, supply chain management, inventory costs, and contribution margin analysis.  Our system seamlessly integrates with Quickbooks and ERPs, eliminating manual data entry and minimizing errors.\r\n\r\nUsers can interact with Superunit via Slack or email, avoiding the need to learn new software.\r\n\r\n(https://www.loom.com/share/1425f6802d774e1aa00a8ac4b64782ff)\r\n",
-    "one_liner": "AI powered ERP for companies selling physical goods",
+    "long_description": "Superunit is building an AI powered ERP for companies manufacturing or selling physical goods.  We’ve released our first module - AI accounting and supply chain management - to 7 customers in the last 6 weeks. We’ve booked $8.3k in MRR and just signed a pilot with a $200M apparel company. \r\n\r\nWe offer automated bookkeeping, supply chain management, inventory costs, and contribution margin analysis.  Our system seamlessly integrates with Quickbooks and ERPs, eliminating manual data entry and minimizing errors.\r\n\r\nUsers can interact with Superunit via Slack or email, avoiding the need to learn new software.\r\n\r\n(https://www.loom.com/share/1425f6802d774e1aa00a8ac4b64782ff)\r\n",
+    "one_liner": "AI powered ERP for companies manufacturing or selling physical goods",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -47566,10 +47566,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724629645,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47887,7 +47887,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/590821192763a73a9f24cba27c008ad9759614a4.png",
     "website": "https://lighthouz.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lighthouz AI is building AI procurement specialists for manufacturers. \r\n\r\n\r\n500,000 procurement professionals waste their entire day using emails to communicate with suppliers, and entering data on spreadsheets and outdated ERP software. That's $40B wasted annually. \r\n\r\n\r\nLighthouz's AI procurement specialists disrupts this entire profession. The AI agent automates all manual tasks of procurement -- data extraction from emails & documents, data entry on ERP systems. It 15x'es the productivity of procurement teams. \r\n\r\n\r\nOur AI agents will replace 500k jobs in the next 5 years. \r\n\r\n\r\nOur team has 20+ years of combined AI experience: \r\n- Srijan has been a GaTech CS professor, ex- Google, Stanford, UMD, IIT. He has built systems now in production at Meta, Home Depot, etc. He has written 60+ papers that are cited 6000+ times. \r\n- Sonali was a lead AI engineer at Progressive insurance, American Family insurance, Halliburton, did her MS at University of Washington, and undergrad at IIT. ",
+    "long_description": "Lighthouz AI is building AI procurement specialists for manufacturers. \r\n\r\n500k procurement professionals spend 90% of their day emailing suppliers and entering data on spreadsheets and outdated ERP. \r\n\r\nLighthouz's AI procurement specialists disrupts this entire profession. It 15x'es the productivity of procurement teams. It automates all manual procurement tasks including data verification and entry on ERP. Our AI agents will replace 500k jobs in the next 10 years. \r\n\r\nOur team has 20+ years of combined AI experience: \r\n- Srijan has been a GaTech CS professor, research scientist @ Google, postdoc @ Stanford AI lab, PhD @ UMD, BTech @ IIT. He has built AI  systems now in production at Meta, Home Depot, etc. He has written 60+ papers that are cited 6000+ times. \r\n- Sonali was a lead AI engineer at Progressive insurance, American Family insurance, Halliburton, did her MS at University of Washington, and undergrad at IIT. ",
     "one_liner": "AI procurement specialists for manufacturers",
     "team_size": 3,
     "highlight_black": false,
@@ -47897,10 +47897,10 @@
     "subindustry": "B2B",
     "launched_at": 1724264636,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Workflow Automation",
       "Supply Chain",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -47946,11 +47946,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1720735986,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
       "Generative AI",
       "SaaS",
-      "Open Source"
+      "Open Source",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48550,7 +48550,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54349afe229386963a0d97273557dd9db8219ab7.png",
     "website": "https://www.remade.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Remade uses AI to create studio-quality videos. For example, ScentBird, a fragrance subscription service, uses Remade to create engaging TikTok ad hooks and increase conversion.\r\n\r\nTraditional videography is labour-intensive, slow, and expensive. Enterprises spend thousands on it, while smaller businesses often can't afford it. Remade reduces the cost of professional videos by 100x and cuts delivery time from weeks to 15 minutes. Using AI and social media data, we personalize content creation and optimize product ads. Our mission is to streamline visual content generation across multiple industries, making it faster and more accessible for businesses.",
+    "long_description": "Remade uses AI to scale hyper-personalized video generation for marketplaces. Our first customer, Scentbird, a midmarket fragrance marketplace uses Remade to create engaging TikTok ad hooks. We are a team of 4 Cambridge AI hackers with publications in CVPR, the largest Computer Vision conference, and the Lancet Journal, the most respected medical journal globally. Our ARR grew 66% last week from 18k to 30k with an additional 17k pilot revenue with Rappi and eFood, which will take us to a 650k contracted ARR by EoQ. We are building out a research-arm to develop proprietary tech, fusing recommendation algorithms with video models to deliver hyper-personalised videos that increase conversion.",
     "one_liner": "Automating Video Ad Workflows using AI",
     "team_size": 4,
     "highlight_black": false,
@@ -48560,11 +48560,11 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1721201298,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Social Media",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48983,10 +48983,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716301435,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49075,11 +49075,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724084407,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "SaaS",
       "B2B",
-      "Collaboration"
+      "Collaboration",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49263,11 +49263,11 @@
     "subindustry": "Fintech",
     "launched_at": 1721925578,
     "tags": [
-      "Artificial Intelligence",
       "FinOps",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49451,11 +49451,11 @@
     "subindustry": "B2B -> Retail",
     "launched_at": 1719875304,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "B2B",
-      "E-commerce"
+      "E-commerce",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49534,8 +49534,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d24f87db5131a298b5fd35aba59870c07522d6f.png",
     "website": "https://www.formulainsight.io/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Formula Insight gives hedge funds a central repository of their financial models and lets them track changes in their forecasts so they can make better investment decisions.",
-    "one_liner": "Help Hedge Funds manage, track & query their Excel models",
+    "long_description": "Formula Insight offers Institutional Investors previously inaccessible data. We provide a central repository of financial models so investors can track changes to forecasts, quantify projection accuracy and expedite analysis.  This further systematizes the investment process and enables better investment decisions.",
+    "one_liner": "Help Institutional Investors manage, track & query their Excel models",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -49684,11 +49684,11 @@
     "subindustry": "B2B",
     "launched_at": 1722038915,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Construction",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49725,7 +49725,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b04f0fee59f28a3fa66d41bb63e4aef150ce2812.png",
     "website": "https://outerport.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outerport lets companies use their GPUs more efficiently by making it easy for them to be swapped from task to task. Just like how VMWare made it easy to put multiple users on a single server machine, we make it easy to put multiple large models on a single GPU. Rather than having separate sets of GPUs for each task, you can buy less GPUs and make better use of it.\r\n\r\nHot swap foundation model weights instantly, minimize cold starts, scale horizontally, maintain version control, secure your models on a central registry, perform A/B tests, and save 40% on GPU costs. ",
+    "long_description": "Outerport lets companies use their GPUs more efficiently by making it easy for them to be swapped from task to task. Just like how VMWare made it easy to put multiple users on a single server machine, we make it easy to put multiple AI models on a single GPU. Rather than having separate sets of GPUs for each task, you can buy less GPUs and make better use of it.\r\n\r\nHot swap foundation model weights instantly, minimize cold starts, scale horizontally, maintain version control, secure your models on a central registry, perform A/B tests, and save 40% on GPU costs. ",
     "one_liner": "VMware for GPUs",
     "team_size": 2,
     "highlight_black": false,
@@ -49736,10 +49736,10 @@
     "launched_at": 1721673756,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,

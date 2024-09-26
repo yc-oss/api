@@ -585,58 +585,6 @@
     "api": "https://yc-oss.github.io/api/batches/s20/porter.json"
   },
   {
-    "id": 13141,
-    "name": "Acho",
-    "slug": "acho",
-    "former_names": [
-      "UniBit",
-      "Acho",
-      "acho"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/539c698774160947b830b5edbd9d46daf94911d7.png",
-    "website": "http://acho.io",
-    "all_locations": "San Francisco, CA, USA; Boston, MA, USA",
-    "long_description": "Acho is a modern ERP platform for operations leaders to unify business systems, streamline processes, and manage business objectives. Uncompromising customized and rapidly fast, Acho grows KPI with dedicated solution resources and predictable ROI.  \r\n\r\nToday, Acho plays a pivotal role in elevating operational efficiency, automating workflows, and turning data into products for over 100 businesses. Among our valued customers are supply chain divisions of major global corporations, IT departments of Online Travel Agencies, Finance & Accounting units of prestigious banking institutions, and other organizations that play a key role in our daily life.\r\n",
-    "one_liner": "Modern ERP for Operations Leaders ",
-    "team_size": 15,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1599762607,
-    "tags": [
-      "B2B",
-      "Data Engineering",
-      "Enterprise Software",
-      "Cloud Computing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W20",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/acho",
-    "api": "https://yc-oss.github.io/api/batches/w20/acho.json"
-  },
-  {
     "id": 22704,
     "name": "Triplit",
     "slug": "triplit",
@@ -1067,8 +1015,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
     "website": "https://www.launchflow.com/",
     "all_locations": "Remote",
-    "long_description": "[LaunchFlow](https://www.launchflow.com/) is an Infrastructure as Code Python SDK that extends OpenTofu with features like [multi-environment support](https://docs.launchflow.com/docs/concepts/environments), [autoconfigured infrastructure clients](https://docs.launchflow.com/docs/concepts/resources), and [API release management](https://docs.launchflow.com/docs/concepts/services).\r\n\r\nYou can add GCP / AWS infrastructure to your app with a single line of code - Includes integrations with [FastAPI](https://docs.launchflow.com/docs/framework-guides/fastapi), [Flask](https://docs.launchflow.com/docs/framework-guides/flask), and [Django](https://docs.launchflow.com/docs/framework-guides/django).\r\n\r\nIt only takes 3 commands to launch your first app to GCP or AWS\\\r\n$ pip install launchflow \\\r\n$ lf init \\\r\n$ lf deploy \r\n\r\nFollow the [Get Started Guide](https://docs.launchflow.com/docs/get-started) to launch an example FastAPI app in a matter of minutes. No account required.",
-    "one_liner": "Automate infrastructure on GCP and AWS with Python",
+    "long_description": "LaunchFlow is an open source command line tool that can deploy any application to AWS or GCP with a single command.\r\n\r\nThe CLI configures cloud environments, permissions, release pipelines, and other infrastructure that distracts startups from their core product.\r\n\r\nThe CLI pairs with a high-level Python SDK that lets users customize their cloud environments with minimal configuration—our users only maintain an average of 4 lines of configuration per application.\r\n\r\nLaunch anything with 3 commands:\r\n1. $ pip install launchflow\r\n2. $ lf init\r\n3. $ lf deploy",
+    "one_liner": "Launch your app to AWS or GCP in minutes",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -1080,6 +1028,7 @@
       "Developer Tools",
       "SaaS",
       "B2B",
+      "Open Source",
       "Cloud Computing"
     ],
     "tags_highlighted": [],
@@ -1630,8 +1579,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0397434e0b6d2ed128ce064a791b8816ac83bf09.png",
     "website": "https://regattastorage.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Regatta Storage is the new, default storage platform for cloud applications that helps data teams save 90% on their storage costs. Regatta transforms your existing S3 buckets into a local file system so that you can use your data with AI, analytics, genomics, and financial applications. Regatta accelerates data access, so your applications experience optimized, local-like performance. Regatta's storage scales with your applications, and you only pay for what you use -- no need to guess how much storage or performance you need. With no complex configuration, you can set up Regatta in a single click.",
-    "one_liner": "Simpler, lower-cost cloud storage",
+    "long_description": "Regatta Storage allows teams to access their S3 buckets as a local file system, saving 90% on storage costs. With Regatta, engineers can run data analytics directly on S3 -- eliminating data movement for these large data sets. For example, AI companies use Regatta to run their model training directly on data sets stored in S3. Regatta accelerates data access, so your applications experience optimized, local-like performance. Regatta's storage scales with your applications, and you only pay for what you use -- no need to guess how much storage or performance you need. With no complex configuration, you can set up Regatta in a single click.",
+    "one_liner": "Transform S3 into a high-performance local disk",
     "team_size": 1,
     "highlight_black": false,
     "highlight_latinx": false,

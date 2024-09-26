@@ -11783,8 +11783,8 @@
   },
   {
     "id": 24787,
-    "name": "Squire.ai (fka EchoLayer)",
-    "slug": "squire-ai-fka-echolayer",
+    "name": "Squire.ai",
+    "slug": "squire-ai",
     "former_names": [
       "Codex",
       "CODEOWNERS",
@@ -11792,7 +11792,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8972703d81fdbb75413d24021353cf5ed0937ec2.png",
     "website": "https://squire.ai",
-    "all_locations": "San Francisco, CA, USA; Canada",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Squire is a devtool that works with you by writing pull request descriptions, reviewing PRs, and writing code to implement code review feedback.",
     "one_liner": "Never code alone.",
     "team_size": 8,
@@ -11803,11 +11803,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1627487920,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Compliance",
-      "Security",
-      "AI"
+      "Security"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11821,7 +11821,6 @@
     ],
     "regions": [
       "United States of America",
-      "Canada",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -11831,8 +11830,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/squire-ai-fka-echolayer",
-    "api": "https://yc-oss.github.io/api/batches/s21/squire-ai-fka-echolayer.json"
+    "url": "https://www.ycombinator.com/companies/squire-ai",
+    "api": "https://yc-oss.github.io/api/batches/s21/squire-ai.json"
   },
   {
     "id": 24817,
@@ -18812,11 +18811,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723709594,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Robotics",
       "B2B",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19079,8 +19078,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
     "website": "https://getdecipher.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decipher AI is an AI-powered bug detection platform that helps teams deliver high-quality, reliable products by continuously analyzing session replays and code-level system behavior.\r\n\r\nCompanies rely on Decipher to identify critical issues before more customers encounter them and to access rich technical context for swift resolution.",
-    "one_liner": "Helping engineers understand and fix production bugs",
+    "long_description": "AI-first session replay and application monitoring to uncover hidden bugs that are costing you user trust and increasing churn. Plus, rich technical context to understand and fix bugs quickly.\r\n\r\nCompanies rely on Decipher to identify issues before more customers encounter them and to access rich technical context for swift resolution.",
+    "one_liner": "AI-powered session replay and app monitoring to uncover hidden bugs",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -19583,16 +19582,16 @@
   },
   {
     "id": 29372,
-    "name": "AdRizz.com",
-    "slug": "adrizz-com",
+    "name": "PySpur",
+    "slug": "pyspur",
     "former_names": [
       "Sevn.ai"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d39701497541d8ffaeff2255727aacf85410a587.png",
-    "website": "http://adrizz.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d78b1369b828cc303a6a77f59f19df0f4b21c51c.png",
+    "website": "http://pyspur.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help businesses grow faster by generating ad creatives for them.\r\n\r\nRunning paid ads profitably requires many A/B tests to find the top-performing creatives.\r\nWe help you generate dozens of creatives in seconds via AI so you can find the top performers faster.",
-    "one_liner": "AI Generator for Ad Creatives",
+    "long_description": "",
+    "one_liner": "AI Workflow Builder",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -19601,9 +19600,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1703955205,
     "tags": [
-      "Generative AI",
-      "Design",
-      "AI"
+      "Artificial Intelligence",
+      "Generative AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19624,8 +19622,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/adrizz-com",
-    "api": "https://yc-oss.github.io/api/batches/w24/adrizz-com.json"
+    "url": "https://www.ycombinator.com/companies/pyspur",
+    "api": "https://yc-oss.github.io/api/batches/w24/pyspur.json"
   },
   {
     "id": 29375,
@@ -19853,7 +19851,10 @@
     "id": 29449,
     "name": "Fileforge",
     "slug": "fileforge",
-    "former_names": [],
+    "former_names": [
+      "CodeMuse",
+      "Onedoc"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a97af94f2a8e762d28add9f85502c5647837362.png",
     "website": "https://www.fileforge.com/",
     "all_locations": "San Francisco, CA, USA",
@@ -19877,7 +19878,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -20630,9 +20631,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725599788,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -20855,7 +20856,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7782bd4ff8b915f629867117b0ee24a39f15ab9.png",
     "website": "https://moonglow.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moonglow connects local Jupyter notebooks to remote cloud compute. Machine learning researchers and data scientists use us to scale up their experiments without having to do DevOps.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at ACL and ICLR.\r\n\r\nWith the explosive growth of deep learning, there are over 1 million ML researchers who do computationally intensive experiments every day. They use Jupyter notebooks to do so, but every time they want to try out a new idea, they need to get the notebooks running on cloud machines. This process, repeated hundreds of times a month, is time-consuming and error-prone.\r\n\r\nMoonglow reliably brings the time-to-experiment down from 5 minutes to 20 seconds. Just as Vercel and Replit abstracted away the lower levels of the computing stack for web developers and programmers, we do the same for ML researchers.\r\n\r\nhttps://moonglow.ai\r\n",
+    "long_description": "Moonglow connects local Jupyter notebooks to remote cloud compute. Machine learning researchers and data scientists use us to scale up their experiments without having to do DevOps.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at NeurIPS, ICLR and ACL.\r\n\r\nWith the explosive growth of deep learning, there are over 1 million ML researchers who do computationally intensive experiments every day. They use Jupyter notebooks to do so, but every time they want to try out a new idea, they need to get the notebooks running on cloud machines. This process, repeated hundreds of times a month, is time-consuming and error-prone.\r\n\r\nMoonglow reliably brings the time-to-experiment down from 5 minutes to 20 seconds. Just as Vercel and Replit abstracted away the lower levels of the computing stack for web developers and programmers, we do the same for ML researchers.\r\n\r\nhttps://moonglow.ai\r\n",
     "one_liner": "Connecting local Jupyter notebooks to remote cloud compute.",
     "team_size": 2,
     "highlight_black": false,
@@ -21053,10 +21054,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724629645,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21292,11 +21293,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1720735986,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
       "Generative AI",
       "SaaS",
-      "Open Source"
+      "Open Source",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21812,10 +21813,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716301435,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21907,11 +21908,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724084407,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "SaaS",
       "B2B",
-      "Collaboration"
+      "Collaboration",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

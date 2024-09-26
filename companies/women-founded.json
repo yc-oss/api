@@ -9243,7 +9243,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W19",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Healthcare",
       "Industrial Bio"
@@ -19845,7 +19845,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -22615,7 +22615,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Fintech",
       "Payments"
@@ -27746,7 +27746,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -30598,11 +30598,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723709594,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Robotics",
       "B2B",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31025,7 +31025,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f825e68bedd9d6fae6a9628ae002227d27ab4d2.png",
     "website": "https://www.tamarind.bio",
     "all_locations": "",
-    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\nOur tools are used by over a thousand researchers, including many biotechs, the NIH, and universities. We currently focus on tools in structural biology, including protein structure prediction, protein design, and molecular docking.\r\n\r\nGet in touch at founders@tamarind.bio",
+    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nOur tools are used by thousands researchers in large pharma companies, top biotechs, and academic institutions. We currently focus on tools on protein design and engineering tooling, including for antibodies/therapeutics and enzymes.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
     "one_liner": "Easy to use computational biology tools for drug discovery",
     "team_size": 2,
     "highlight_black": false,
@@ -31037,7 +31037,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -31617,7 +31617,7 @@
       "AcX Therapeutics",
       "AcX"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60c44aafe771ee0c460a9983acb4b0e3a9af82f1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c5b92ce1577955b9d835075127086f2612abedf.png",
     "website": "https://www.acxtherapeutics.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "ACX is the only company that has successfully recreated synthetically the compounds that bacteria use to kill microbes for therapeutic development. Our patentable technology has applications in humans, animals, and crops. We are beginning with the elimination of crop pathogens—harmful to pests but beneficial for humans!",
@@ -32256,9 +32256,9 @@
     "launched_at": 1723833827,
     "tags": [
       "AI-powered Drug Discovery",
+      "Artificial Intelligence",
       "Biotech",
       "Therapeutics",
-      "AI",
       "Biotechnology"
     ],
     "tags_highlighted": [],
@@ -32895,7 +32895,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7782bd4ff8b915f629867117b0ee24a39f15ab9.png",
     "website": "https://moonglow.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moonglow connects local Jupyter notebooks to remote cloud compute. Machine learning researchers and data scientists use us to scale up their experiments without having to do DevOps.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at ACL and ICLR.\r\n\r\nWith the explosive growth of deep learning, there are over 1 million ML researchers who do computationally intensive experiments every day. They use Jupyter notebooks to do so, but every time they want to try out a new idea, they need to get the notebooks running on cloud machines. This process, repeated hundreds of times a month, is time-consuming and error-prone.\r\n\r\nMoonglow reliably brings the time-to-experiment down from 5 minutes to 20 seconds. Just as Vercel and Replit abstracted away the lower levels of the computing stack for web developers and programmers, we do the same for ML researchers.\r\n\r\nhttps://moonglow.ai\r\n",
+    "long_description": "Moonglow connects local Jupyter notebooks to remote cloud compute. Machine learning researchers and data scientists use us to scale up their experiments without having to do DevOps.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at NeurIPS, ICLR and ACL.\r\n\r\nWith the explosive growth of deep learning, there are over 1 million ML researchers who do computationally intensive experiments every day. They use Jupyter notebooks to do so, but every time they want to try out a new idea, they need to get the notebooks running on cloud machines. This process, repeated hundreds of times a month, is time-consuming and error-prone.\r\n\r\nMoonglow reliably brings the time-to-experiment down from 5 minutes to 20 seconds. Just as Vercel and Replit abstracted away the lower levels of the computing stack for web developers and programmers, we do the same for ML researchers.\r\n\r\nhttps://moonglow.ai\r\n",
     "one_liner": "Connecting local Jupyter notebooks to remote cloud compute.",
     "team_size": 2,
     "highlight_black": false,
@@ -32938,7 +32938,7 @@
     "name": "Aviary",
     "slug": "aviary",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af8fb819bd1415737686097f1f7303ce053a9468.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fc325e402d4fb47f73cacaa5afa2b1d0606622e.png",
     "website": "https://aviary.video",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hi, we're Aviary. We are the automated Scale AI for video understanding. Our software understands video content as well as any human, allowing millions of videos to be annotated and analyzed in a fraction of the time and cost it would take a human.\r\n\r\nThe founding team comes from Snapchat, Notion, Pinterest, CMU, University of Toronto, with extensive background in multimodal machine learning and in building search systems at scale.",
@@ -32999,10 +32999,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724629645,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33187,11 +33187,11 @@
     "subindustry": "B2B",
     "launched_at": 1723584667,
     "tags": [
+      "Artificial Intelligence",
       "Finance",
       "B2B",
       "HR Tech",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33222,7 +33222,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/590821192763a73a9f24cba27c008ad9759614a4.png",
     "website": "https://lighthouz.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lighthouz AI is building AI procurement specialists for manufacturers. \r\n\r\n\r\n500,000 procurement professionals waste their entire day using emails to communicate with suppliers, and entering data on spreadsheets and outdated ERP software. That's $40B wasted annually. \r\n\r\n\r\nLighthouz's AI procurement specialists disrupts this entire profession. The AI agent automates all manual tasks of procurement -- data extraction from emails & documents, data entry on ERP systems. It 15x'es the productivity of procurement teams. \r\n\r\n\r\nOur AI agents will replace 500k jobs in the next 5 years. \r\n\r\n\r\nOur team has 20+ years of combined AI experience: \r\n- Srijan has been a GaTech CS professor, ex- Google, Stanford, UMD, IIT. He has built systems now in production at Meta, Home Depot, etc. He has written 60+ papers that are cited 6000+ times. \r\n- Sonali was a lead AI engineer at Progressive insurance, American Family insurance, Halliburton, did her MS at University of Washington, and undergrad at IIT. ",
+    "long_description": "Lighthouz AI is building AI procurement specialists for manufacturers. \r\n\r\n500k procurement professionals spend 90% of their day emailing suppliers and entering data on spreadsheets and outdated ERP. \r\n\r\nLighthouz's AI procurement specialists disrupts this entire profession. It 15x'es the productivity of procurement teams. It automates all manual procurement tasks including data verification and entry on ERP. Our AI agents will replace 500k jobs in the next 10 years. \r\n\r\nOur team has 20+ years of combined AI experience: \r\n- Srijan has been a GaTech CS professor, research scientist @ Google, postdoc @ Stanford AI lab, PhD @ UMD, BTech @ IIT. He has built AI  systems now in production at Meta, Home Depot, etc. He has written 60+ papers that are cited 6000+ times. \r\n- Sonali was a lead AI engineer at Progressive insurance, American Family insurance, Halliburton, did her MS at University of Washington, and undergrad at IIT. ",
     "one_liner": "AI procurement specialists for manufacturers",
     "team_size": 3,
     "highlight_black": false,
@@ -33232,10 +33232,10 @@
     "subindustry": "B2B",
     "launched_at": 1724264636,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Workflow Automation",
       "Supply Chain",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -33869,8 +33869,8 @@
     "subindustry": "B2B",
     "launched_at": 1722966351,
     "tags": [
-      "Data Labeling",
-      "AI"
+      "Artificial Intelligence",
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33955,11 +33955,11 @@
     "subindustry": "Fintech",
     "launched_at": 1721925578,
     "tags": [
-      "Artificial Intelligence",
       "FinOps",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34040,7 +34040,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8e7accc7b8fd46709776c7eeeddc94c78493149.png",
     "website": "https://www.elayne.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Elayne empowers families to build generational wealth by automating estate planning and settlements on a single, unified platform. As the AI Executor, we manage the entire estate transfer process, facilitating $3 trillion in wealth transfers annually, with a ~3% take rate.\r\n\r\nAdria experienced this challenge firsthand after her mom passed away, leaving her to settle the estate while balancing her career. The process is currently entirely manual and takes an average of 400 hours over 18 months. Adria eventually burned out and resigned, which is when she realized that bereavement costs businesses $100 billion annually in lost productivity, absenteeism, and attrition.\r\n\r\nBy addressing this problem through businesses, Elayne generates recurring revenue in an industry traditionally reliant on 1x transactions, while maintaining a lasting presence in the end user’s life. We directly alleviate the 43% increase in attrition following the death of a family member, while reducing overall costs for grieving families, increasing generational wealth, and saving users hundreds of hours in financial, legal and administrative tasks per loss.",
+    "long_description": "Elayne empowers families to build generational wealth by automating estate planning and settlements on a single, unified platform. As the AI Executor, we manage the entire estate transfer process, facilitating $3 trillion in wealth transfers annually, with a ~3% take rate.\r\n\r\nAdria experienced this challenge firsthand after her mom passed away, leaving her to settle the estate while balancing her career. The process is currently entirely manual and takes an average of 400 hours over 18 months. Adria eventually burned out and resigned, which is when she realized that bereavement costs businesses $100 billion annually in lost productivity, absenteeism, and attrition.\r\n\r\nBy addressing this problem through businesses, Elayne generates recurring revenue in an industry traditionally reliant on 1x transactions, while maintaining a lasting presence in the end user’s life. We directly alleviate the 43% increase in attrition following the death of a family member, while reducing overall costs for grieving families, democratizing estate support, and saving users hundreds of hours in financial, legal, and administrative tasks per loss.",
     "one_liner": "AI family estate planning & settlements after death",
     "team_size": 2,
     "highlight_black": false,
@@ -34050,11 +34050,11 @@
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1718839098,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Health Tech",
       "LegalTech",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34142,11 +34142,11 @@
     "subindustry": "B2B",
     "launched_at": 1722038915,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Construction",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
