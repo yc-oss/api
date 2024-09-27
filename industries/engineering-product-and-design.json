@@ -12141,7 +12141,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32f61bbbf466e48b6d79b3f115c8246567eb41a8.png",
     "website": "https://spinach.io",
     "all_locations": "Nashville, TN, USA; Remote",
-    "long_description": "Spinach AI, backed by Y Combinator, Zoom and Atlassian, is the AI Project Manager for technology teams - a virtual, AI powered teammate that's always on time, captures accurate meeting notes, and follows up with action items and ticket suggestions. According to pre-LLM research by Gartner, 80% of project management tasks will be run by AI by 2030, Spinach is making that a reality today.",
+    "long_description": "Spinach AI, backed by Y Combinator, Zoom and Atlassian, is the AI Project Manager - a virtual, AI powered teammate that's always on time, captures accurate meeting notes, and follows up with action items and ticket suggestions. According to pre-LLM research by Gartner, 80% of project management tasks will be run by AI by 2030, Spinach is making that a reality today.",
     "one_liner": "The AI Project Manager",
     "team_size": 9,
     "highlight_black": false,
@@ -12151,11 +12151,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1641876509,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Productivity",
       "Collaboration",
-      "Remote Work"
+      "Remote Work",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20054,9 +20054,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724126992,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20306,9 +20306,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/728ee9ea2b99fcf7119bc1be1f331371e8b80fc2.png",
     "website": "https://coval.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Coval is a simulation & evaluation platform for AI agents, helping engineers launch dependable assistants across chat, voice, and other modalities. \r\nWe simulate thousands of scenarios engineers don't have to manually test their agents. Our CI/CD evaluations automatically simulate and detect regressions.",
+    "long_description": "Coval is a simulation & evaluation platform for autonomous AI agents, helping engineers launch dependable assistants across chat, voice, and other modalities. \r\nWe simulate thousands of scenarios engineers don't have to manually test their agents. Our CI/CD evaluations automatically simulate and detect regressions.",
     "one_liner": "Simulation & Evaluation for AI Agents",
-    "team_size": 10,
+    "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": true,
@@ -22352,5 +22352,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/melty",
     "api": "https://yc-oss.github.io/api/batches/s24/melty.json"
+  },
+  {
+    "id": 30040,
+    "name": "supercontrast",
+    "slug": "supercontrast",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/790820337661ae1bc9c065bae89b47e0ad126432.png",
+    "website": "https://supercontrast.com/",
+    "all_locations": "",
+    "long_description": "Supercontrast makes it easy for anyone to evaluate machine learning models. For example, we could help a small social media app find the best cloud solution for identifying hateful comments and deploy it the same day!",
+    "one_liner": "Find the best ML model for your use case",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1727282803,
+    "tags": [
+      "AIOps",
+      "Machine Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/supercontrast",
+    "api": "https://yc-oss.github.io/api/batches/f24/supercontrast.json"
   }
 ]
