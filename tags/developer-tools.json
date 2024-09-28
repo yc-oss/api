@@ -10147,7 +10147,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8972703d81fdbb75413d24021353cf5ed0937ec2.png",
     "website": "https://squire.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Canada",
     "long_description": "Squire is a devtool that works with you by writing pull request descriptions, reviewing PRs, and writing code to implement code review feedback.",
     "one_liner": "Never code alone.",
     "team_size": 8,
@@ -10176,6 +10176,7 @@
     ],
     "regions": [
       "United States of America",
+      "Canada",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -11774,7 +11775,7 @@
     "website": "https://sendo.dev",
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "We're making it easy, cheap and fun for startups to build on SMS again. Sendo is the most developer-friendly SMS API, with great documentation, a fast dashboard, helpful monitoring features, easier 10DLC compliance and much more.\r\n\r\nSave 40%+ compared to Twilio and other options, and get started sending messages in 1-2 days instead of waiting weeks for your 10DLC campaigns to get approved.",
-    "one_liner": "The best SMS API for startups",
+    "one_liner": "The best SMS/RCS API for startups",
     "team_size": 1,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -22150,5 +22151,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/outerport",
     "api": "https://yc-oss.github.io/api/batches/s24/outerport.json"
+  },
+  {
+    "id": 30023,
+    "name": "PearAI",
+    "slug": "pearai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc66990c87e4d8f300d62eedff5460f882406da.png",
+    "website": "https://trypear.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "PearAI is an open source AI code editor Think a better GitHub Copilot, or an open source Cursor. We're a fork of VSCode to maintain it's familiarity and functionalities, and add upon it the most seamless AI integration with all the top of the market models.\r\n\r\n\r\nPeople who have been using it so far expressed that PearAI has up to 5x’d their work and development speed by having AI integrated features such as the ability to talk to your codebase directly. Students also said this accelerated their learning tremendously, with features like /leetcode and /sensei for beginner friendly tasks.\r\n\r\n\r\nLong term, we aim to reduce the time it takes from idea to creation, in order to empower individuals to realize their ideas.\r\n",
+    "one_liner": "The open source AI code editor. Code and ship faster than you ever…",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1727484339,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Developer Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/pearai",
+    "api": "https://yc-oss.github.io/api/batches/f24/pearai.json"
   }
 ]

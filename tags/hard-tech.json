@@ -989,21 +989,22 @@
     "name": "Teleo",
     "slug": "teleo",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcf1b5fef4bc2bd14015f74c484816283e1fccb8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27eb2aa5b06962471ae4c326b326810f092de134.png",
     "website": "http://www.teleo.ai",
     "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Teleo converts construction heavy equipment, like dozers and loaders, into semi-autonomous robots. This enables a single operator to remotely operate multiple machines while sitting at a remote control center, unlocking productivity gains for the General Contractor.",
-    "one_liner": "Semi-autonomous heavy construction equipment",
-    "team_size": 17,
+    "long_description": "Teleo converts heavy equipment, like dozers, trucks, and loaders, into supervised autonomous robots. This enables a single operator to remotely operate multiple machines while sitting at a remote control center, unlocking productivity gains for the General Contractor.",
+    "one_liner": "Supervised Autonomous Heavy Equipment",
+    "team_size": 30,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
-    "industry": "Real Estate and Construction",
+    "industry": "Industrials",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1583906560,
     "tags": [
       "Autonomous Trucking",
-      "Hard Tech"
+      "Hard Tech",
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1012,8 +1013,8 @@
     "batch": "W20",
     "status": "Active",
     "industries": [
-      "Real Estate and Construction",
-      "Construction"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -2428,6 +2429,54 @@
     "api": "https://yc-oss.github.io/api/batches/w22/palitronica-inc.json"
   },
   {
+    "id": 25650,
+    "name": "NearWave",
+    "slug": "nearwave",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f557afe1950ca98cfc34f200e929dacc1c441796.png",
+    "website": "http://nearwave.co",
+    "all_locations": "Austin, TX, USA; South Bend, IN, USA",
+    "long_description": "NearWave makes a handheld imaging device that helps physicians select the right therapy for their breast cancer patients. This prevents patients from suffering through months of side effects caused by unsuccessful treatments. \r\n\r\n\r\n      ",
+    "one_liner": "Helping physicians select the right therapy for breast cancer patients",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Medical Devices",
+    "launched_at": 1646924515,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Hardware",
+      "SaaS",
+      "Medical Devices"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Medical Devices"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nearwave",
+    "api": "https://yc-oss.github.io/api/batches/w22/nearwave.json"
+  },
+  {
     "id": 25673,
     "name": "Enlightra",
     "slug": "enlightra",
@@ -2987,7 +3036,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f41b3aa61848ecb2a662ed36b6f5712b21849a8.png",
     "website": "https://www.synnaxlabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build software that helps hardware teams quickly and clearly evaluate how a component (engine, battery, valve, etc.) or process (assembly line, manufacturing plant) performs. We prevent mistakes, reduce costs, and accelerate time-to-market. Our platform unifies unifies industrial control with sensor data storage and automated post-processing, delivering an end-to-end operations and observability stack. To put it comparatively, take LabVIEW, InfluxDB, and Grafana, wrap them into a single package, add a bit of magic, and you get Synnax.",
+    "long_description": "We build software that helps hardware teams quickly and clearly evaluate how a component (engine, battery, valve, etc.) or process (assembly line, manufacturing plant) performs. We prevent mistakes, reduce costs, and accelerate time-to-market. Our platform unifies industrial control with sensor data storage and automated post-processing, delivering an end-to-end operations and observability stack. To put it comparatively, take LabVIEW, InfluxDB, and Grafana, wrap them into a single package, add a bit of magic, and you get Synnax.",
     "one_liner": "Unified Hardware Control and Data Processing Software",
     "team_size": 3,
     "highlight_black": false,
