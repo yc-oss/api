@@ -18569,7 +18569,7 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "",
     "one_liner": "Easier and more reliable mobile app releases for teams.",
-    "team_size": 8,
+    "team_size": 18,
     "highlight_black": false,
     "highlight_latinx": true,
     "highlight_women": true,
@@ -18993,7 +18993,7 @@
     "all_locations": "Bengaluru, KA, India; Remote",
     "long_description": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. Open source Application Performance Monitoring (APM) & Observability too",
     "one_liner": "Open source alternative to DataDog ",
-    "team_size": 15,
+    "team_size": 18,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -27268,7 +27268,11 @@
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1626372475,
     "tags": [
-      "SaaS"
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Supply Chain",
+      "Procurement"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -29178,7 +29182,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -30527,7 +30531,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -30643,6 +30647,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/atlas-2",
     "api": "https://yc-oss.github.io/api/batches/w22/atlas-2.json"
+  },
+  {
+    "id": 25511,
+    "name": "Viva Labs",
+    "slug": "viva-labs",
+    "former_names": [
+      "Resolutely",
+      "Iron Leap"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a802faddbe0dc27bf5879f66fe3da6f447e0bcfd.png",
+    "website": "https://www.vivalabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "- VivaDub: Translate, dub, and lip sync videos to any language\r\n- VivaChat: Video chat with realistic AI persons",
+    "one_liner": "AI Videos that Connect with People",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1648099991,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Video",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/viva-labs",
+    "api": "https://yc-oss.github.io/api/batches/w22/viva-labs.json"
   },
   {
     "id": 25519,
@@ -37553,6 +37605,7 @@
     "launched_at": 1659775119,
     "tags": [
       "SaaS",
+      "Health Tech",
       "B2B",
       "Healthcare IT"
     ],
@@ -38789,9 +38842,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4bc0c4958bdeddfb5cee7883f042a17f65e1bd00.png",
     "website": "https://depot.dev",
     "all_locations": "Montpellier, Occitanie, France; Remote",
-    "long_description": "Depot builds Docker containers up to 40 times faster. Companies like PostHog, Wistia, Appsmith, and Secoda use Depot to save tens of hours of build time every day. \r\n\r\nKyle and Jacob worked together as staff engineers for the past 4.5 years at Thorn and Era Software. Depot is their solution to the wildly inefficient container build tooling they encountered throughout their careers. ",
-    "one_liner": "Build Docker containers 40x faster",
-    "team_size": 3,
+    "long_description": "Depot is a build acceleration platform making builds up to 40x faster for Docker containers and GitHub Actions. Companies like PostHog, Wistia, Appsmith, and Secoda use Depot to save tens of hours of build time every day.\r\n\r\nWe offer a remote container build service for building Intel & Arm Docker images, from your CI or local machine, up to 40x faster. Our container builds come with in-depth build insights, ephemeral registries, and instant cache sharing across your team.\r\n\r\nFinally, we also offer our own Depot GitHub Actions Runners that brings all the speed of Depot to your entire GitHub Actions workflow at half the cost of GitHub-hosted runners, and up to 10x faster builds. Simply change the runs-on label of your existing workflow to route jobs to Depot runners.\r\n\r\nKyle and Jacob worked together as staff engineers for 4.5 years at Thorn and Era Software, before founding Depot. Depot is their solution to the wildly inefficient container build tooling and non-performant CI systems they encountered throughout their careers. \r\n",
+    "one_liner": "Build faster. Waste less time.",
+    "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -46974,54 +47027,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tabular",
     "api": "https://yc-oss.github.io/api/batches/s24/tabular.json"
-  },
-  {
-    "id": 29642,
-    "name": "Stack Auth",
-    "slug": "stack-auth",
-    "former_names": [
-      "Stack"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c58aadee870eec1472167cb5194bd295f5285f8.png",
-    "website": "https://stack-auth.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stack is the open-source authN, authZ, and user management platform.\r\n\r\nWe build for devs that want to iterate quickly, offering both managed auth and self-hosting. You can set it up in one minute and scale with the project as it grows.\r\n\r\nStack was built by repeat founders with strong technical backgrounds. Check out our GitHub: https://github.com/stack-auth/stack",
-    "one_liner": "The open-source Auth0 alternative",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1716295686,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Identity",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stack-auth",
-    "api": "https://yc-oss.github.io/api/batches/s24/stack-auth.json"
   },
   {
     "id": 29644,

@@ -2119,7 +2119,7 @@
     "all_locations": "Bengaluru, KA, India; Remote",
     "long_description": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. Open source Application Performance Monitoring (APM) & Observability too",
     "one_liner": "Open source alternative to DataDog ",
-    "team_size": 15,
+    "team_size": 18,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -6838,54 +6838,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/random-labs.json"
   },
   {
-    "id": 29642,
-    "name": "Stack Auth",
-    "slug": "stack-auth",
-    "former_names": [
-      "Stack"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c58aadee870eec1472167cb5194bd295f5285f8.png",
-    "website": "https://stack-auth.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stack is the open-source authN, authZ, and user management platform.\r\n\r\nWe build for devs that want to iterate quickly, offering both managed auth and self-hosting. You can set it up in one minute and scale with the project as it grows.\r\n\r\nStack was built by repeat founders with strong technical backgrounds. Check out our GitHub: https://github.com/stack-auth/stack",
-    "one_liner": "The open-source Auth0 alternative",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1716295686,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Identity",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stack-auth",
-    "api": "https://yc-oss.github.io/api/batches/s24/stack-auth.json"
-  },
-  {
     "id": 29693,
     "name": "Gauge",
     "slug": "gauge",
@@ -7228,8 +7180,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc66990c87e4d8f300d62eedff5460f882406da.png",
     "website": "https://trypear.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "PearAI is an open source AI code editor. Think a better GitHub Copilot, or an open source Cursor. We're a fork of VSCode and Continue to maintain it's familiarity and functionalities, and add upon it the most seamless AI integration with all the top of the market models.\r\n\r\nPeople who have been using it so far expressed that PearAI has up to 5x’d their work and development speed by having AI integrated features such as the ability to talk to your codebase directly. Students also said this accelerated their learning tremendously, with features like /leetcode and /sensei for beginner friendly tasks.\r\n\r\nLong term, we aim to reduce the time it takes from idea to creation, in order to empower individuals to realize their ideas.\r\n\r\nWhy does open source matter for a code editor?\r\n\r\nThe moat is not in the AI models, the best model on the market will be used by any of these editors out there (except Copilot, which actually still uses GPT4 Turbo lol).\r\n\r\nThis means the true differentiators will be UI/UX, trust, transparency, community support, and distribution. These are all perfectly aligned with open source.\r\n\r\nPearAI currently has the most active open source community out of these AI code editors. Unlike most open source projects that are mostly just 1-2 people contributing, PearAI has more than 50% of its commits made by contributors, spanning from our landing page, server and app itself. This explains our extremely fast development cycle. Code editors are the best products to be open source, because each developer are users themselves of the product!\r\n\r\nNot only is our code open source, us as founders, are “open source” as well! We post our entire development journey and life online, through our YouTube channel and Twitch livestreams (youtube.com/@FryingPan & youtube.com/@nang88). This is the root of why we have such a strong community right off the start.\r\n\r\nTry it out - we're sure you'll love it! We have a built-in free trial, download for free at https://trypear.ai/download.\r\n",
-    "one_liner": "The open source AI code editor. Code and ship faster than you ever…",
+    "long_description": "PearAI is an open source AI code editor. Think a better GitHub Copilot, or an open source Cursor. We're a fork of VSCode and Continue to maintain it's familiarity and functionalities, and add upon it the most seamless AI integration with all the top of the market models.\r\n\r\nPeople who have been using it so far expressed that PearAI has up to 5x’d their work and development speed by having AI integrated features such as the ability to talk to your codebase directly. Students also said this accelerated their learning tremendously, with features like /leetcode and /sensei for beginner friendly tasks.\r\n\r\nLong term, we aim to reduce the time it takes from idea to creation.\r\n\r\nWhy does open source matter for a code editor?\r\n\r\nThe moat is not in the AI models, the best model on the market will be used by any of these editors out there (except Copilot, which actually still uses GPT4 Turbo).\r\n\r\nThis means the true differentiators will be UI/UX, trust, transparency, community support, and distribution. These are all perfectly aligned with open source.\r\n\r\nPearAI has more than 50% of its commits made by contributors, spanning from our landing page, server and app itself. This helps speed up the development cycle. Code editors are the best products to be open source, because each developer are users themselves of the product! Not only is our code open source, us as founders, are “open source” as well! We post our entire development journey and life online, through our YouTube channels and Twitch livestreams (youtube.com/@FryingPan & youtube.com/@nang88). \r\n\r\nTry it out - we're sure you'll love it! We download and use for free at https://trypear.ai/download.\r\n",
+    "one_liner": "The Open-Source AI Code Editor",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -7239,9 +7191,9 @@
     "launched_at": 1727484339,
     "tags": [
       "AI-Enhanced Learning",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -5650,8 +5650,11 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1648099991,
     "tags": [
+      "SaaS",
+      "B2B",
       "Video",
-      "AI"
+      "AI",
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10482,6 +10485,54 @@
     "api": "https://yc-oss.github.io/api/batches/w23/epsilon.json"
   },
   {
+    "id": 28077,
+    "name": "Corgi Labs",
+    "slug": "corgi-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48ab8ae360dddc3659ad06077db5d3349b75b91f.png",
+    "website": "https://www.corgilabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "End-to-end suite of fraud detection and prevention solutions, including an analytics product to monitor and understand dispute + fraud metrics, an AI product which highlights transactions for merchants to follow up on, and an AI solution to recommend rules that can be implemented in payment provider platforms (Stripe, Shopify, Adyen) to proactively reduce dispute + fraud rates.",
+    "one_liner": "AI to increase payment acceptance and reduce fraud for businesses",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1677769779,
+    "tags": [
+      "Payments",
+      "Analytics",
+      "E-commerce",
+      "Data Visualization",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corgi-labs",
+    "api": "https://yc-oss.github.io/api/batches/w23/corgi-labs.json"
+  },
+  {
     "id": 28081,
     "name": "DAGWorks Inc.",
     "slug": "dagworks-inc",
@@ -10907,56 +10958,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/second",
     "api": "https://yc-oss.github.io/api/batches/w23/second.json"
-  },
-  {
-    "id": 28371,
-    "name": "Fetchr",
-    "slug": "fetchr",
-    "former_names": [
-      "Captivated",
-      "Market"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7974482d81e92fc67ff3b20c0ab1c939e6c54864.png",
-    "website": "https://www.fetchr.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fetchr is an AI-powered personal shopper that learns about your style, budget, and size to deliver clothes right to your door. We save you time and effort by finding and sending the items you want, tailored just for you.",
-    "one_liner": "AI personal shopper that learns about you and buys things for you",
-    "team_size": 4,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Apparel and Cosmetics",
-    "launched_at": 1708846007,
-    "tags": [
-      "Consumer",
-      "E-commerce",
-      "Fashion",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Apparel and Cosmetics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fetchr",
-    "api": "https://yc-oss.github.io/api/batches/w23/fetchr.json"
   },
   {
     "id": 28414,
@@ -11899,6 +11900,54 @@
     "api": "https://yc-oss.github.io/api/batches/s23/menza.json"
   },
   {
+    "id": 28884,
+    "name": "Dialtone",
+    "slug": "dialtone",
+    "former_names": [
+      "Samtana"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/860324292ccfb1c586baa4eae8ba66bac3099339.png",
+    "website": "https://usedialtone.com",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "Scale manufacturing 10x faster with AI-powered supply chain forecasting and production line monitoring to get materials on time and reduce delays, all while minimizing impact from upstream design and BOM changes.",
+    "one_liner": "Supercharge manufacturing with AI",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Industrials",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1688669019,
+    "tags": [
+      "Logistics",
+      "Manufacturing",
+      "Supply Chain",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dialtone",
+    "api": "https://yc-oss.github.io/api/batches/s23/dialtone.json"
+  },
+  {
     "id": 28887,
     "name": "Skyvern",
     "slug": "skyvern",
@@ -12325,54 +12374,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/respaid",
     "api": "https://yc-oss.github.io/api/batches/s23/respaid.json"
-  },
-  {
-    "id": 28938,
-    "name": "Glade",
-    "slug": "glade",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39e64fe4e49894144581ae2ef69befe4cb83f6b8.png",
-    "website": "https://www.gladetool.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Glade is building the next generation of video games. Today, games have linear gameplay and fixed content which become stale and repetitive for players. Using AI, Glade is pioneering an entirely new genre of games.",
-    "one_liner": "Building the next generation of video games using AI",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1687994809,
-    "tags": [
-      "Generative AI",
-      "Consumer",
-      "Entertainment",
-      "Gaming",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/glade",
-    "api": "https://yc-oss.github.io/api/batches/s23/glade.json"
   },
   {
     "id": 28959,
@@ -16390,51 +16391,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/forge-rewards.json"
   },
   {
-    "id": 29522,
-    "name": "Marr Labs",
-    "slug": "marr-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78a360f7a0cb054dd1d879714a91edbac53734cc.png",
-    "website": "https://www.marrlabs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Marr Labs is making AI-voice agents that are indistinguishable from humans. Han and Dave previously created speech tech company Vlingo that powered the first Siri app and was acquired for $225M. \r\n\r\n\r\nNow they are taking voice to the next level by making AI-voice agents that can handle virtually any phone-based job, from answering calls to schedule appointments to call center sales and support jobs—all at a fraction of the cost of a human agent.\r\n \r\n\r\nIn the US alone, businesses handle 17 billion calls a year at an average cost of $5 per call–an $85 billion addressable market. ",
-    "one_liner": "AI-voice agents that are indistinguishable from humans.",
-    "team_size": 6,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1709760702,
-    "tags": [
-      "Artificial Intelligence",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/marr-labs",
-    "api": "https://yc-oss.github.io/api/batches/w24/marr-labs.json"
-  },
-  {
     "id": 29532,
     "name": "Ångström AI",
     "slug": "angstrom-ai",
@@ -16993,54 +16949,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/bayesline",
     "api": "https://yc-oss.github.io/api/batches/s24/bayesline.json"
-  },
-  {
-    "id": 29637,
-    "name": "Flyflow",
-    "slug": "flyflow",
-    "former_names": [
-      "flyflow"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png",
-    "website": "https://flyflow.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "\"I don’t know how I would have found these leads myself.\"  - YC Founder\r\n\r\nFlyflow enables companies to find prospective customers using AI workflows instead of drowning in tables. Try out our product at app.flyflow.ai.\r\n\r\nHow are we different?\r\n\r\n(1) Higher quality leads: get to a list that’s so relevant, you’ll want to spend time getting introduced to people there, instead of sending another 1,000 cold emails\r\n\r\n(2) Incredibly easy to set up: get up and running with a list of prospects in hand  in under 10 minutes\r\n\r\n(3) Integrate the best of different sales tools all in one place: no need to switch between different tabs for web research, filtering by company size, and finding prospect LinkedIns",
-    "one_liner": "The easiest way to find high-quality sales leads",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1718910453,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Sales",
-      "Market Research",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flyflow",
-    "api": "https://yc-oss.github.io/api/batches/s24/flyflow.json"
   },
   {
     "id": 29640,
@@ -19251,7 +19159,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a121e291e0c0d2ca3fe9ade29f345d6f3bb2a6c2.png",
     "website": "https://corpdaq.com",
     "all_locations": "Singapore, Singapore; Remote",
-    "long_description": "We’re building Stripe of Lending for Asian Businesses. Corpdaq is a lending platform that connects Businesses with Banks & Investors in South East Asia. We use LLM’s to automatically  assess their business and creditworthiness. We launched 4 months ago, we already have $36,000 of monthly revenue, and we’re growing 85% every month. We’re both second-time founders from Indonesia. Hendra was previously CEO and Co-founder of Payfazz, a billion-dollar fintech and payments company in Indonesia. Inas was previously CTO and Co-founder of Rulo, an exited enterprise financial software startup, and Verihubs, the largest verification and credit scoring startup in Indonesia.",
+    "long_description": "We’re building Stripe of Lending for Asian Businesses. Corpdaq is a lending platform that connects Businesses with Banks & Investors in South East Asia. We use LLM’s to automatically  assess their business and creditworthiness. We launched 4 months ago, we already have $36,000 of monthly revenue, and we’re growing 85% every month. We’re both second-time founders from Indonesia. Hendra was previously CEO and Co-founder of Payfazz, a nearly 1 billion-dollar fintech and payments company in Indonesia. Inas was previously CTO and Co-founder of Rulo, an exited enterprise financial software startup, and Verihubs, the largest verification and credit scoring startup in Indonesia.",
     "one_liner": "Stripe of Lending for Asia",
     "team_size": 2,
     "highlight_black": false,
@@ -20588,49 +20496,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dreamrp",
     "api": "https://yc-oss.github.io/api/batches/s24/dreamrp.json"
-  },
-  {
-    "id": 30023,
-    "name": "PearAI",
-    "slug": "pearai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc66990c87e4d8f300d62eedff5460f882406da.png",
-    "website": "https://trypear.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "PearAI is an open source AI code editor. Think a better GitHub Copilot, or an open source Cursor. We're a fork of VSCode and Continue to maintain it's familiarity and functionalities, and add upon it the most seamless AI integration with all the top of the market models.\r\n\r\nPeople who have been using it so far expressed that PearAI has up to 5x’d their work and development speed by having AI integrated features such as the ability to talk to your codebase directly. Students also said this accelerated their learning tremendously, with features like /leetcode and /sensei for beginner friendly tasks.\r\n\r\nLong term, we aim to reduce the time it takes from idea to creation, in order to empower individuals to realize their ideas.\r\n\r\nWhy does open source matter for a code editor?\r\n\r\nThe moat is not in the AI models, the best model on the market will be used by any of these editors out there (except Copilot, which actually still uses GPT4 Turbo lol).\r\n\r\nThis means the true differentiators will be UI/UX, trust, transparency, community support, and distribution. These are all perfectly aligned with open source.\r\n\r\nPearAI currently has the most active open source community out of these AI code editors. Unlike most open source projects that are mostly just 1-2 people contributing, PearAI has more than 50% of its commits made by contributors, spanning from our landing page, server and app itself. This explains our extremely fast development cycle. Code editors are the best products to be open source, because each developer are users themselves of the product!\r\n\r\nNot only is our code open source, us as founders, are “open source” as well! We post our entire development journey and life online, through our YouTube channel and Twitch livestreams (youtube.com/@FryingPan & youtube.com/@nang88). This is the root of why we have such a strong community right off the start.\r\n\r\nTry it out - we're sure you'll love it! We have a built-in free trial, download for free at https://trypear.ai/download.\r\n",
-    "one_liner": "The open source AI code editor. Code and ship faster than you ever…",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1727484339,
-    "tags": [
-      "AI-Enhanced Learning",
-      "Developer Tools",
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/pearai",
-    "api": "https://yc-oss.github.io/api/batches/f24/pearai.json"
   }
 ]

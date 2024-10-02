@@ -43586,7 +43586,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S20",
     "status": "Active",
@@ -46720,7 +46720,7 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "",
     "one_liner": "Easier and more reliable mobile app releases for teams.",
-    "team_size": 8,
+    "team_size": 18,
     "highlight_black": false,
     "highlight_latinx": true,
     "highlight_women": true,
@@ -47329,7 +47329,7 @@
     "all_locations": "Bengaluru, KA, India; Remote",
     "long_description": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. Open source Application Performance Monitoring (APM) & Observability too",
     "one_liner": "Open source alternative to DataDog ",
-    "team_size": 15,
+    "team_size": 18,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -59828,7 +59828,11 @@
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1626372475,
     "tags": [
-      "SaaS"
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Supply Chain",
+      "Procurement"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -62559,7 +62563,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -62583,16 +62587,16 @@
   },
   {
     "id": 25075,
-    "name": "SNR Audio",
-    "slug": "snr-audio",
+    "name": "Swades AI",
+    "slug": "swades-ai",
     "former_names": [
       "Better Financial Corporation"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/edd76f738b796e9ee48834dab8b83e2b208740b8.png",
-    "website": "https://www.snr.audio/",
+    "website": "https://www.swades.ai/",
     "all_locations": "New York, NY, USA",
     "long_description": "Signal Noise Labs is an AI lab building custom AI models for TTS & ASR\r\n\r\nOur next-gen TTS model surpasses competitors on performance at one-tenth the cost. Enjoy low latency websocket support and mult-speaker voice generation at pricing that helps you scale.\r\n\r\nOur next-gen ASR model surpasses competitors on performance at one-tenth the cost. Enjoy voice activity detection, word-level timestamps and diarization support at pricing that helps you scale.",
-    "one_liner": "APIs for TTS & STT",
+    "one_liner": "AI product studio building ",
     "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -62621,8 +62625,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/snr-audio",
-    "api": "https://yc-oss.github.io/api/batches/w22/snr-audio.json"
+    "url": "https://www.ycombinator.com/companies/swades-ai",
+    "api": "https://yc-oss.github.io/api/batches/w22/swades-ai.json"
   },
   {
     "id": 25117,
@@ -64780,8 +64784,11 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1648099991,
     "tags": [
+      "SaaS",
+      "B2B",
       "Video",
-      "AI"
+      "AI",
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -76001,6 +76008,7 @@
     "launched_at": 1659775119,
     "tags": [
       "SaaS",
+      "Health Tech",
       "B2B",
       "Healthcare IT"
     ],
@@ -77942,9 +77950,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4bc0c4958bdeddfb5cee7883f042a17f65e1bd00.png",
     "website": "https://depot.dev",
     "all_locations": "Montpellier, Occitanie, France; Remote",
-    "long_description": "Depot builds Docker containers up to 40 times faster. Companies like PostHog, Wistia, Appsmith, and Secoda use Depot to save tens of hours of build time every day. \r\n\r\nKyle and Jacob worked together as staff engineers for the past 4.5 years at Thorn and Era Software. Depot is their solution to the wildly inefficient container build tooling they encountered throughout their careers. ",
-    "one_liner": "Build Docker containers 40x faster",
-    "team_size": 3,
+    "long_description": "Depot is a build acceleration platform making builds up to 40x faster for Docker containers and GitHub Actions. Companies like PostHog, Wistia, Appsmith, and Secoda use Depot to save tens of hours of build time every day.\r\n\r\nWe offer a remote container build service for building Intel & Arm Docker images, from your CI or local machine, up to 40x faster. Our container builds come with in-depth build insights, ephemeral registries, and instant cache sharing across your team.\r\n\r\nFinally, we also offer our own Depot GitHub Actions Runners that brings all the speed of Depot to your entire GitHub Actions workflow at half the cost of GitHub-hosted runners, and up to 10x faster builds. Simply change the runs-on label of your existing workflow to route jobs to Depot runners.\r\n\r\nKyle and Jacob worked together as staff engineers for 4.5 years at Thorn and Era Software, before founding Depot. Depot is their solution to the wildly inefficient container build tooling and non-performant CI systems they encountered throughout their careers. \r\n",
+    "one_liner": "Build faster. Waste less time.",
+    "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -83198,7 +83206,7 @@
     "website": "https://www.corgilabs.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "End-to-end suite of fraud detection and prevention solutions, including an analytics product to monitor and understand dispute + fraud metrics, an AI product which highlights transactions for merchants to follow up on, and an AI solution to recommend rules that can be implemented in payment provider platforms (Stripe, Shopify, Adyen) to proactively reduce dispute + fraud rates.",
-    "one_liner": "CorgiAI is payment fraud prevention software for ecommerce, travel…",
+    "one_liner": "AI to increase payment acceptance and reduce fraud for businesses",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -83206,7 +83214,13 @@
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1677769779,
-    "tags": [],
+    "tags": [
+      "Payments",
+      "Analytics",
+      "E-commerce",
+      "Data Visualization",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -88959,8 +88973,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45990918ee7bbc44c96dd9df2e6d026a60a9c84c.png",
     "website": "https://mavenbio.io",
     "all_locations": "Boston, MA, USA",
-    "long_description": "The way therapeutic opportunities are often evaluated today is through a heavy dose of consultants, hundreds of slides, and ultimately highly fragmented and incomplete information. We believe this high content, low insight process is a core driver of inefficiency in the industry. Maven is building the platform that will allow stakeholders of all disciplines to effectively evaluate therapeutic opportunities. \r\n\r\n169 Drugs each year fail in clinical development due to business and commercial reasons (only ~60 drugs are approved annually). That number represents roughly 20% of all clinical development programs, or roughly $28 billion in sub-optimal R&D dollars annually. At Maven Bio, our goal is to halve the commercial failure rate and thereby increase the number of drugs that are approved and available to patients. \r\n\r\nTo start, Maven is building a biopharma commercial intelligence platform which allows corporate development teams to rapidly construct deal landscapes and conduct comparative analyses. Maven empowers users with evidence-backed insights based on their business context. Over time, Maven will add additional knowledge areas to the platform to provide an increasingly comprehensive and accurate assessment of a therapeutic opportunity.",
-    "one_liner": "AI-enabled BioPharma Industry Research",
+    "long_description": "Maven Bio empowers business development teams, consultants, and bankers focused on BioPharma to perform end-to-end analysis workflows typically done by a junior analyst in a fraction of the time. \r\n\r\nMaven Bio’s AI Analyst can construct a full competitive landscape, research specific drugs or companies, or analyze trial data, all by leveraging our curated content library of over 10 million BioPharma documents.\r\n\r\nIn contrast to general purpose market intel solutions, Maven Bio is designed for the needs of BioPharma, with deep feature sets built around high-leverage industry workflows, all with the goal of empowering teams to understand their market and competitive landscape.\r\n\r\nTry it now at mavenbio.io",
+    "one_liner": "Your AI analyst for BioPharma market intelligence",
     "team_size": 4,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -95350,8 +95364,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
     "website": "https://www.guidelabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Guide labs, we build Interpretable AI systems, on any data modality, that can reliably explain their reasoning, and are easy to steer and debug. We provide access to these models via an API. \r\n\r\nOur models provide explanations in human-understandable terms, highlight which parts of the input is most important for the model's output, and  which inputs, in the training data, directly led to the model's generated output. ",
-    "one_liner": "Interpretable AI systems that are easy to understand, debug, and…",
+    "long_description": "At Guide labs, we build Interpretable AI systems, on any data modality, that can reliably explain their reasoning, and are easy to steer and debug. We provide access to these models via an API. ",
+    "one_liner": "Interpretable AI systems",
     "team_size": 2,
     "highlight_black": true,
     "highlight_latinx": false,
@@ -99871,7 +99885,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Marr Labs is making AI-voice agents that are indistinguishable from humans. Han and Dave previously created speech tech company Vlingo that powered the first Siri app and was acquired for $225M. \r\n\r\n\r\nNow they are taking voice to the next level by making AI-voice agents that can handle virtually any phone-based job, from answering calls to schedule appointments to call center sales and support jobs—all at a fraction of the cost of a human agent.\r\n \r\n\r\nIn the US alone, businesses handle 17 billion calls a year at an average cost of $5 per call–an $85 billion addressable market. ",
     "one_liner": "AI-voice agents that are indistinguishable from humans.",
-    "team_size": 6,
+    "team_size": 9,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -99880,7 +99894,7 @@
     "launched_at": 1709760702,
     "tags": [
       "Artificial Intelligence",
-      "AI",
+      "Conversational AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -100836,7 +100850,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b041c724586138b48b39d2006b38bfaef0efa1e1.png",
     "website": "https://flyflow.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "\"I don’t know how I would have found these leads myself.\"  - YC Founder\r\n\r\nFlyflow enables companies to find prospective customers using AI workflows instead of drowning in tables. Try out our product at app.flyflow.ai.\r\n\r\nHow are we different?\r\n\r\n(1) Higher quality leads: get to a list that’s so relevant, you’ll want to spend time getting introduced to people there, instead of sending another 1,000 cold emails\r\n\r\n(2) Incredibly easy to set up: get up and running with a list of prospects in hand  in under 10 minutes\r\n\r\n(3) Integrate the best of different sales tools all in one place: no need to switch between different tabs for web research, filtering by company size, and finding prospect LinkedIns",
     "one_liner": "The easiest way to find high-quality sales leads",
     "team_size": 2,
@@ -100846,16 +100860,10 @@
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1718910453,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Sales",
-      "Market Research",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -100864,8 +100872,7 @@
       "Sales"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -101021,7 +101028,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c58aadee870eec1472167cb5194bd295f5285f8.png",
     "website": "https://stack-auth.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Stack is the open-source authN, authZ, and user management platform.\r\n\r\nWe build for devs that want to iterate quickly, offering both managed auth and self-hosting. You can set it up in one minute and scale with the project as it grows.\r\n\r\nStack was built by repeat founders with strong technical backgrounds. Check out our GitHub: https://github.com/stack-auth/stack",
     "one_liner": "The open-source Auth0 alternative",
     "team_size": 2,
@@ -101031,16 +101038,10 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716295686,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Identity",
-      "Open Source"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -101049,8 +101050,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -102306,7 +102306,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
