@@ -86,6 +86,50 @@
     "api": "https://yc-oss.github.io/api/batches/f24/supercontrast.json"
   },
   {
+    "id": 30044,
+    "name": "Sandra.ai",
+    "slug": "sandra-ai",
+    "former_names": [
+      "Sandra.AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddc4d3d82d6281e2334567bbf0d16f3ae5c30955.png",
+    "website": "https://sandra-ai.webflow.io/",
+    "all_locations": "",
+    "long_description": "Sandra builds multilingual voice AI receptionists, specifically designed for car dealerships. It seamlessly handles customer calls—whether for appointments, service details, availability, or more—offering a natural, human-like experience 24/7. \r\n\r\nWhat sets Sandra apart is its deep integration with dealership management systems, allowing it to manage even the most complex queries. This ensures no calls or leads are missed, boosting both customer satisfaction and team efficiency.\r\n\r\nThe car dealership industry handles over 3 billion calls annually, with each call averaging 4 to 6 minutes. Traditional call centers charge between $1 and $2 per minute, depending on the complexity of the service. Thus, we estimate the total addressable market for inbound calls alone to exceed $26 billion a year. This does not even account for future opportunities in outbound calls.\r\n\r\nBefore launching Sandra, the founding team spent years working in the automotive and call center industries during their time at McKinsey. The three co-founders graduated in Data Science and AI from institutions like MIT, Ecole Polytechnique and HEC Paris.\r\n",
+    "one_liner": "Sandra.ai builds the leading voice AI receptionist for car dealerships",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1727911106,
+    "tags": [
+      "Generative AI",
+      "Customer Service",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sandra-ai",
+    "api": "https://yc-oss.github.io/api/batches/f24/sandra-ai.json"
+  },
+  {
     "id": 30045,
     "name": "Regatta Storage",
     "slug": "regatta-storage",
@@ -132,6 +176,50 @@
     "api": "https://yc-oss.github.io/api/batches/f24/regatta-storage.json"
   },
   {
+    "id": 30080,
+    "name": "Dexter",
+    "slug": "dexter",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bf1d044f7655cff3da689fa41b5c1e8fa982cea.png",
+    "website": "https://www.getdexter.co/",
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "Dexter is a no-code automation tool for ops team. For example, Dance, a European mobility company with over $11 million ARR, uses us to automate processes like resolving traffic tickets and accidents. ",
+    "one_liner": "No-code workflow automation for ops teams.",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1727913374,
+    "tags": [
+      "SaaS",
+      "Workflow Automation",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dexter",
+    "api": "https://yc-oss.github.io/api/batches/f24/dexter.json"
+  },
+  {
     "id": 30108,
     "name": "Bramble",
     "slug": "bramble",
@@ -139,8 +227,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdad8ea0547835501c79323a83215447e9980af6.png",
     "website": "https://usebramble.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bramble is an AI-powered real estate brokerage that provides end-to-end homebuying services for one simple flat fee. Get instant AI help to set up tours, evaluate homes, submit offers, and close confidently - with on-demand support from expert agents when you need it. \r\n\r\nWe recently opened early access in CA and in just a few weeks have gotten hundreds of sign-ups, several touring buyers, and have submitted multiple offers across the state - all with near-zero marketing spend. We just offered buyers what they really wanted: a high-quality experience for a reasonable price.",
-    "one_liner": "AI-powered buy-side brokerage with a simple flat fee",
+    "long_description": "Bramble is an AI-powered real estate brokerage that provides end-to-end homebuying services for a simple flat fee. Set up tours, evaluate homes, submit offers, and close confidently - with on-demand support from expert agents and AI-backed tools when you need it.\r\n\r\nWe opened early access in CA and in a few weeks saw hundreds of sign-ups, several touring buyers, and have submitted multiple offers across the state - all with near-zero marketing spend. We just offered buyers what they really wanted: a high-quality experience for a reasonable price.",
+    "one_liner": "AI-powered buyer real estate brokerage with a simple flat fee",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -149,11 +237,11 @@
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "launched_at": 1727386579,
     "tags": [
-      "Artificial Intelligence",
       "Real Estate",
       "Consumer",
       "Proptech",
-      "Consumer Products"
+      "Consumer Products",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -176,5 +264,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bramble",
     "api": "https://yc-oss.github.io/api/batches/f24/bramble.json"
+  },
+  {
+    "id": 30130,
+    "name": "Bifrost Orbital",
+    "slug": "bifrost-orbital",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0391c3b77050497a05133de8530d09aaa7d5f7e.png",
+    "website": "https://bifrostorbital.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bifrost Orbital is on a mission to provide continuous station-free uplink and downlink support to satellites in the lower Earth orbit using our proprietary Bifrost Connect™ vertically integrated tech stack.",
+    "one_liner": "Bifrost Orbital allows any satellite operator to communicate with…",
+    "team_size": 0,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1727908250,
+    "tags": [
+      "Satellites",
+      "Aerospace",
+      "Telecommunications"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bifrost-orbital",
+    "api": "https://yc-oss.github.io/api/batches/f24/bifrost-orbital.json"
   }
 ]

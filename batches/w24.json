@@ -4042,17 +4042,22 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cb3f26201c03b2b4385a2fa733f92ea4057090c.png",
     "website": "https://getomni.ai",
-    "all_locations": "",
-    "long_description": "Run ML models across your data. Categorize, extract, summarize, translate, and more.\r\n- Connect to a data warehouse - We support Snowflake, Postgres, MySQL, and MongoDB.\r\n- Choose models to run - Define type safe schemas to run against your unstructured data. Use any of the hosted models, or define your own.\r\n- Transform your data - We’ll run those models against your data, and keep your warehouse in sync as new rows/fields are added/deleted.\r\n- Query with SQL - All the transformed data stays in your warehouse. Surface this data in your product, or analyze with your existing BI tools.\r\n\r\n",
-    "one_liner": "Build AI applications on your infrastructure",
-    "team_size": 3,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Omni turns documents, slide decks, websites and more into the data you need. You'll never need to copy + paste data into spreadsheets again.\r\n- Connect to a database or document store. We support Snowflake, Postgres, Google Drive, S3 and more.\r\n- Transform your data - Define type safe schemas to run against your unstructured data. We’ll run those models against your data, and keep your warehouse in sync as new rows/fields are added/deleted.\r\n- Query with SQL - All the transformed data stays in your warehouse. Surface this data in your product, or analyze with your existing BI tools.",
+    "one_liner": "Automate document workflows",
+    "team_size": 4,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": true,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1699651931,
-    "tags": [],
+    "tags": [
+      "Documents",
+      "Artificial Intelligence",
+      "Finance",
+      "Automation"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -4061,11 +4066,11 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Operations"
     ],
     "regions": [
-      "Remote",
-      "Partly Remote"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4702,8 +4707,8 @@
   },
   {
     "id": 29346,
-    "name": "sync labs",
-    "slug": "sync-labs",
+    "name": "sync.",
+    "slug": "sync-2",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c534b008e7ff085ee7e32e819767b1f82d6d2396.png",
     "website": "https://sync.so/",
@@ -4736,8 +4741,8 @@
     "demo_day_video_public": true,
     "app_answers": true,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/sync-labs",
-    "api": "https://yc-oss.github.io/api/batches/w24/sync-labs.json"
+    "url": "https://www.ycombinator.com/companies/sync-2",
+    "api": "https://yc-oss.github.io/api/batches/w24/sync-2.json"
   },
   {
     "id": 29347,
@@ -8318,7 +8323,9 @@
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1708060326,
-    "tags": [],
+    "tags": [
+      "Climate"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -9776,8 +9783,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae111fb679eda4f4906d6a13ace6ecac6c8e2503.png",
     "website": "https://www.reformhq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reform makes it easy for logistics companies to build internal automation tools. We're like Retool built specifically for logistics software. Our customers use Reform to build internal tools that can automate tasks such as customs clearance filing, shipment processing, and customer onboarding.",
-    "one_liner": "Retool for logistics companies",
+    "long_description": "Automate your repetitive tasks, interface directly with your own transport management system, and create dashboards in one single platform.",
+    "one_liner": "The AI-powered workspace for freight forwarders",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -9786,10 +9793,10 @@
     "subindustry": "B2B",
     "launched_at": 1706556384,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Logistics",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9865,7 +9872,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f5022eca8cc608cc11b6618a6ec690fb93c69218.png",
     "website": "https://www.trytrueclaim.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Remote",
     "long_description": "TrueClaim processes all payments between healthcare providers and companies that self-fund their insurance. TrueClaim's AI-enabled engine adjudicates and continuously reviews 100% of medical claims to save at least 7% of healthcare costs.",
     "one_liner": "Transparent, AI-powered healthcare TPA.",
     "team_size": 2,
@@ -9875,16 +9882,10 @@
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1704498667,
-    "tags": [
-      "SaaS",
-      "Health Tech",
-      "Healthcare",
-      "HR Tech",
-      "Health Insurance"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -9892,8 +9893,6 @@
       "Healthcare"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Fully Remote"
     ],

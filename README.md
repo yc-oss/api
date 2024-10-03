@@ -12,8 +12,8 @@ fetch the companies in a GitHub Actions workflow that runs every day.
 
 API endpoint: https://yc-oss.github.io/api/meta.json
 
-- Last updated: October 2, 2024 at 12:48 AM
-- Companies: 4928
+- Last updated: October 3, 2024 at 12:48 AM
+- Companies: 4931
 - Batches: 42
 - Industries: 58
 - Tags: 330
@@ -41,7 +41,7 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | ----------- | ----- | ----------------------------------------------------- |
 | W24         | 251   | https://yc-oss.github.io/api/batches/w24.json         |
 | S24         | 254   | https://yc-oss.github.io/api/batches/s24.json         |
-| F24         | 4     | https://yc-oss.github.io/api/batches/f24.json         |
+| F24         | 7     | https://yc-oss.github.io/api/batches/f24.json         |
 | W23         | 274   | https://yc-oss.github.io/api/batches/w23.json         |
 | S23         | 220   | https://yc-oss.github.io/api/batches/s23.json         |
 | W22         | 403   | https://yc-oss.github.io/api/batches/w22.json         |
@@ -92,12 +92,12 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Industry                        | Count | API endpoint                                                                |
 | ------------------------------- | ----- | --------------------------------------------------------------------------- |
 | Agriculture                     | 26    | https://yc-oss.github.io/api/industries/agriculture.json                    |
-| Analytics                       | 116   | https://yc-oss.github.io/api/industries/analytics.json                      |
+| Analytics                       | 115   | https://yc-oss.github.io/api/industries/analytics.json                      |
 | Apparel and Cosmetics           | 49    | https://yc-oss.github.io/api/industries/apparel-and-cosmetics.json          |
 | Asset Management                | 50    | https://yc-oss.github.io/api/industries/asset-management.json               |
 | Automotive                      | 20    | https://yc-oss.github.io/api/industries/automotive.json                     |
-| Aviation and Space              | 44    | https://yc-oss.github.io/api/industries/aviation-and-space.json             |
-| B2B                             | 2329  | https://yc-oss.github.io/api/industries/b2b.json                            |
+| Aviation and Space              | 45    | https://yc-oss.github.io/api/industries/aviation-and-space.json             |
+| B2B                             | 2330  | https://yc-oss.github.io/api/industries/b2b.json                            |
 | Banking and Exchange            | 73    | https://yc-oss.github.io/api/industries/banking-and-exchange.json           |
 | Climate                         | 52    | https://yc-oss.github.io/api/industries/climate.json                        |
 | Construction                    | 36    | https://yc-oss.github.io/api/industries/construction.json                   |
@@ -114,7 +114,7 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Energy                          | 33    | https://yc-oss.github.io/api/industries/energy.json                         |
 | Engineering, Product and Design | 485   | https://yc-oss.github.io/api/industries/engineering-product-and-design.json |
 | Finance and Accounting          | 111   | https://yc-oss.github.io/api/industries/finance-and-accounting.json         |
-| Fintech                         | 568   | https://yc-oss.github.io/api/industries/fintech.json                        |
+| Fintech                         | 569   | https://yc-oss.github.io/api/industries/fintech.json                        |
 | Food and Beverage               | 96    | https://yc-oss.github.io/api/industries/food-and-beverage.json              |
 | Gaming                          | 68    | https://yc-oss.github.io/api/industries/gaming.json                         |
 | Government                      | 31    | https://yc-oss.github.io/api/industries/government.json                     |
@@ -125,8 +125,8 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Housing and Real Estate         | 80    | https://yc-oss.github.io/api/industries/housing-and-real-estate.json        |
 | Human Resources                 | 84    | https://yc-oss.github.io/api/industries/human-resources.json                |
 | Industrial Bio                  | 34    | https://yc-oss.github.io/api/industries/industrial-bio.json                 |
-| Industrials                     | 269   | https://yc-oss.github.io/api/industries/industrials.json                    |
-| Infrastructure                  | 212   | https://yc-oss.github.io/api/industries/infrastructure.json                 |
+| Industrials                     | 270   | https://yc-oss.github.io/api/industries/industrials.json                    |
+| Infrastructure                  | 211   | https://yc-oss.github.io/api/industries/infrastructure.json                 |
 | Insurance                       | 44    | https://yc-oss.github.io/api/industries/insurance.json                      |
 | Job and Career Services         | 18    | https://yc-oss.github.io/api/industries/job-and-career-services.json        |
 | Legal                           | 33    | https://yc-oss.github.io/api/industries/legal.json                          |
@@ -134,9 +134,9 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Marketing                       | 135   | https://yc-oss.github.io/api/industries/marketing.json                      |
 | Medical Devices                 | 42    | https://yc-oss.github.io/api/industries/medical-devices.json                |
 | Office Management               | 25    | https://yc-oss.github.io/api/industries/office-management.json              |
-| Operations                      | 111   | https://yc-oss.github.io/api/industries/operations.json                     |
-| Payments                        | 113   | https://yc-oss.github.io/api/industries/payments.json                       |
-| Productivity                    | 190   | https://yc-oss.github.io/api/industries/productivity.json                   |
+| Operations                      | 113   | https://yc-oss.github.io/api/industries/operations.json                     |
+| Payments                        | 114   | https://yc-oss.github.io/api/industries/payments.json                       |
+| Productivity                    | 191   | https://yc-oss.github.io/api/industries/productivity.json                   |
 | Real Estate and Construction    | 133   | https://yc-oss.github.io/api/industries/real-estate-and-construction.json   |
 | Recruiting and Talent           | 63    | https://yc-oss.github.io/api/industries/recruiting-and-talent.json          |
 | Retail                          | 124   | https://yc-oss.github.io/api/industries/retail.json                         |
@@ -162,11 +162,11 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | 3D Printed Foods                                       | 1     | https://yc-oss.github.io/api/tags/3d-printed-foods.json                                      |
 | 3D Printing                                            | 9     | https://yc-oss.github.io/api/tags/3d-printing.json                                           |
 | Advanced Materials                                     | 4     | https://yc-oss.github.io/api/tags/advanced-materials.json                                    |
-| Advertising                                            | 30    | https://yc-oss.github.io/api/tags/advertising.json                                           |
-| Aerospace                                              | 22    | https://yc-oss.github.io/api/tags/aerospace.json                                             |
+| Advertising                                            | 29    | https://yc-oss.github.io/api/tags/advertising.json                                           |
+| Aerospace                                              | 23    | https://yc-oss.github.io/api/tags/aerospace.json                                             |
 | Agriculture                                            | 30    | https://yc-oss.github.io/api/tags/agriculture.json                                           |
-| AI                                                     | 431   | https://yc-oss.github.io/api/tags/ai.json                                                    |
-| AI Assistant                                           | 95    | https://yc-oss.github.io/api/tags/ai-assistant.json                                          |
+| AI                                                     | 428   | https://yc-oss.github.io/api/tags/ai.json                                                    |
+| AI Assistant                                           | 96    | https://yc-oss.github.io/api/tags/ai-assistant.json                                          |
 | AI-Enhanced Learning                                   | 35    | https://yc-oss.github.io/api/tags/ai-enhanced-learning.json                                  |
 | AI-powered Drug Discovery                              | 33    | https://yc-oss.github.io/api/tags/ai-powered-drug-discovery.json                             |
 | AIOps                                                  | 36    | https://yc-oss.github.io/api/tags/aiops.json                                                 |
@@ -183,15 +183,15 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | AR                                                     | 3     | https://yc-oss.github.io/api/tags/ar.json                                                    |
 | Architecture                                           | 2     | https://yc-oss.github.io/api/tags/architecture.json                                          |
 | Art Trading Platforms                                  | 2     | https://yc-oss.github.io/api/tags/art-trading-platforms.json                                 |
-| Artificial Intelligence                                | 576   | https://yc-oss.github.io/api/tags/artificial-intelligence.json                               |
+| Artificial Intelligence                                | 581   | https://yc-oss.github.io/api/tags/artificial-intelligence.json                               |
 | Assistive Tech                                         | 7     | https://yc-oss.github.io/api/tags/assistive-tech.json                                        |
 | Augmented Reality                                      | 20    | https://yc-oss.github.io/api/tags/augmented-reality.json                                     |
 | Auto Commerce                                          | 6     | https://yc-oss.github.io/api/tags/auto-commerce.json                                         |
-| Automation                                             | 49    | https://yc-oss.github.io/api/tags/automation.json                                            |
-| Automotive                                             | 17    | https://yc-oss.github.io/api/tags/automotive.json                                            |
+| Automation                                             | 50    | https://yc-oss.github.io/api/tags/automation.json                                            |
+| Automotive                                             | 18    | https://yc-oss.github.io/api/tags/automotive.json                                            |
 | Autonomous Delivery                                    | 9     | https://yc-oss.github.io/api/tags/autonomous-delivery.json                                   |
 | Autonomous Trucking                                    | 12    | https://yc-oss.github.io/api/tags/autonomous-trucking.json                                   |
-| B2B                                                    | 957   | https://yc-oss.github.io/api/tags/b2b.json                                                   |
+| B2B                                                    | 956   | https://yc-oss.github.io/api/tags/b2b.json                                                   |
 | Banking as a Service                                   | 25    | https://yc-oss.github.io/api/tags/banking-as-a-service.json                                  |
 | Batteryless IoT Sensors                                | 1     | https://yc-oss.github.io/api/tags/batteryless-iot-sensors.json                               |
 | Beauty                                                 | 10    | https://yc-oss.github.io/api/tags/beauty.json                                                |
@@ -226,7 +226,7 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Collaboration                                          | 50    | https://yc-oss.github.io/api/tags/collaboration.json                                         |
 | Commercial Space Launch                                | 7     | https://yc-oss.github.io/api/tags/commercial-space-launch.json                               |
 | Community                                              | 61    | https://yc-oss.github.io/api/tags/community.json                                             |
-| Compliance                                             | 56    | https://yc-oss.github.io/api/tags/compliance.json                                            |
+| Compliance                                             | 55    | https://yc-oss.github.io/api/tags/compliance.json                                            |
 | Computational Storage                                  | 2     | https://yc-oss.github.io/api/tags/computational-storage.json                                 |
 | Computer Vision                                        | 60    | https://yc-oss.github.io/api/tags/computer-vision.json                                       |
 | Construction                                           | 54    | https://yc-oss.github.io/api/tags/construction.json                                          |
@@ -237,7 +237,7 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Conversational AI                                      | 25    | https://yc-oss.github.io/api/tags/conversational-ai.json                                     |
 | Conversational Banking                                 | 2     | https://yc-oss.github.io/api/tags/conversational-banking.json                                |
 | COVID-19                                               | 4     | https://yc-oss.github.io/api/tags/covid-19.json                                              |
-| Creator Economy                                        | 31    | https://yc-oss.github.io/api/tags/creator-economy.json                                       |
+| Creator Economy                                        | 30    | https://yc-oss.github.io/api/tags/creator-economy.json                                       |
 | CRISPR                                                 | 2     | https://yc-oss.github.io/api/tags/crispr.json                                                |
 | CRM                                                    | 16    | https://yc-oss.github.io/api/tags/crm.json                                                   |
 | Crowdfunding                                           | 10    | https://yc-oss.github.io/api/tags/crowdfunding.json                                          |
@@ -248,7 +248,7 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Cultivated Meat                                        | 2     | https://yc-oss.github.io/api/tags/cultivated-meat.json                                       |
 | Culture                                                | 2     | https://yc-oss.github.io/api/tags/culture.json                                               |
 | Cultured Meat                                          | 3     | https://yc-oss.github.io/api/tags/cultured-meat.json                                         |
-| Customer Service                                       | 16    | https://yc-oss.github.io/api/tags/customer-service.json                                      |
+| Customer Service                                       | 17    | https://yc-oss.github.io/api/tags/customer-service.json                                      |
 | Customer Success                                       | 23    | https://yc-oss.github.io/api/tags/customer-success.json                                      |
 | Customer Support                                       | 28    | https://yc-oss.github.io/api/tags/customer-support.json                                      |
 | Customization                                          | 2     | https://yc-oss.github.io/api/tags/customization.json                                         |
@@ -258,7 +258,7 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Data Engineering                                       | 90    | https://yc-oss.github.io/api/tags/data-engineering.json                                      |
 | Data Labeling                                          | 8     | https://yc-oss.github.io/api/tags/data-labeling.json                                         |
 | Data Science                                           | 27    | https://yc-oss.github.io/api/tags/data-science.json                                          |
-| Data Visualization                                     | 26    | https://yc-oss.github.io/api/tags/data-visualization.json                                    |
+| Data Visualization                                     | 25    | https://yc-oss.github.io/api/tags/data-visualization.json                                    |
 | Databases                                              | 25    | https://yc-oss.github.io/api/tags/databases.json                                             |
 | Dating                                                 | 7     | https://yc-oss.github.io/api/tags/dating.json                                                |
 | Deep Learning                                          | 36    | https://yc-oss.github.io/api/tags/deep-learning.json                                         |
@@ -268,14 +268,14 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Dental                                                 | 3     | https://yc-oss.github.io/api/tags/dental.json                                                |
 | Design                                                 | 18    | https://yc-oss.github.io/api/tags/design.json                                                |
 | Design Tools                                           | 57    | https://yc-oss.github.io/api/tags/design-tools.json                                          |
-| Developer Tools                                        | 469   | https://yc-oss.github.io/api/tags/developer-tools.json                                       |
+| Developer Tools                                        | 468   | https://yc-oss.github.io/api/tags/developer-tools.json                                       |
 | DevOps                                                 | 40    | https://yc-oss.github.io/api/tags/devops.json                                                |
 | DevSecOps                                              | 32    | https://yc-oss.github.io/api/tags/devsecops.json                                             |
 | Diagnostics                                            | 32    | https://yc-oss.github.io/api/tags/diagnostics.json                                           |
 | Digital Freight Brokerage                              | 3     | https://yc-oss.github.io/api/tags/digital-freight-brokerage.json                             |
 | Digital Health                                         | 95    | https://yc-oss.github.io/api/tags/digital-health.json                                        |
 | Diversity & Inclusion                                  | 5     | https://yc-oss.github.io/api/tags/diversity-and-inclusion.json                               |
-| Documents                                              | 28    | https://yc-oss.github.io/api/tags/documents.json                                             |
+| Documents                                              | 29    | https://yc-oss.github.io/api/tags/documents.json                                             |
 | Drones                                                 | 21    | https://yc-oss.github.io/api/tags/drones.json                                                |
 | Drug Delivery                                          | 6     | https://yc-oss.github.io/api/tags/drug-delivery.json                                         |
 | Drug discovery                                         | 31    | https://yc-oss.github.io/api/tags/drug-discovery.json                                        |
@@ -299,15 +299,15 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Feedback                                               | 6     | https://yc-oss.github.io/api/tags/feedback.json                                              |
 | Femtech                                                | 7     | https://yc-oss.github.io/api/tags/femtech.json                                               |
 | Fertility Tech                                         | 9     | https://yc-oss.github.io/api/tags/fertility-tech.json                                        |
-| Finance                                                | 58    | https://yc-oss.github.io/api/tags/finance.json                                               |
+| Finance                                                | 59    | https://yc-oss.github.io/api/tags/finance.json                                               |
 | FinOps                                                 | 25    | https://yc-oss.github.io/api/tags/finops.json                                                |
-| Fintech                                                | 694   | https://yc-oss.github.io/api/tags/fintech.json                                               |
+| Fintech                                                | 695   | https://yc-oss.github.io/api/tags/fintech.json                                               |
 | Fitness                                                | 18    | https://yc-oss.github.io/api/tags/fitness.json                                               |
 | Food                                                   | 7     | https://yc-oss.github.io/api/tags/food.json                                                  |
 | Food & Beverage                                        | 26    | https://yc-oss.github.io/api/tags/food-and-beverage.json                                     |
 | Food Service Robots & Machines                         | 10    | https://yc-oss.github.io/api/tags/food-service-robots-and-machines.json                      |
 | Food Tech                                              | 48    | https://yc-oss.github.io/api/tags/food-tech.json                                             |
-| Fraud Detection                                        | 5     | https://yc-oss.github.io/api/tags/fraud-detection.json                                       |
+| Fraud Detection                                        | 6     | https://yc-oss.github.io/api/tags/fraud-detection.json                                       |
 | Fraud Prevention                                       | 4     | https://yc-oss.github.io/api/tags/fraud-prevention.json                                      |
 | Fundraising                                            | 3     | https://yc-oss.github.io/api/tags/fundraising.json                                           |
 | Furniture                                              | 7     | https://yc-oss.github.io/api/tags/furniture.json                                             |
@@ -324,16 +324,16 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | GraphQL                                                | 3     | https://yc-oss.github.io/api/tags/graphql.json                                               |
 | Grocery                                                | 28    | https://yc-oss.github.io/api/tags/grocery.json                                               |
 | Hard Tech                                              | 82    | https://yc-oss.github.io/api/tags/hard-tech.json                                             |
-| Hardware                                               | 103   | https://yc-oss.github.io/api/tags/hardware.json                                              |
+| Hardware                                               | 102   | https://yc-oss.github.io/api/tags/hardware.json                                              |
 | Health & Wellness                                      | 33    | https://yc-oss.github.io/api/tags/health-and-wellness.json                                   |
-| Health Insurance                                       | 23    | https://yc-oss.github.io/api/tags/health-insurance.json                                      |
-| Health Tech                                            | 155   | https://yc-oss.github.io/api/tags/health-tech.json                                           |
-| Healthcare                                             | 178   | https://yc-oss.github.io/api/tags/healthcare.json                                            |
+| Health Insurance                                       | 22    | https://yc-oss.github.io/api/tags/health-insurance.json                                      |
+| Health Tech                                            | 154   | https://yc-oss.github.io/api/tags/health-tech.json                                           |
+| Healthcare                                             | 177   | https://yc-oss.github.io/api/tags/healthcare.json                                            |
 | Healthcare IT                                          | 25    | https://yc-oss.github.io/api/tags/healthcare-it.json                                         |
 | Home Automation                                        | 3     | https://yc-oss.github.io/api/tags/home-automation.json                                       |
 | Home Services                                          | 5     | https://yc-oss.github.io/api/tags/home-services.json                                         |
 | Housing                                                | 19    | https://yc-oss.github.io/api/tags/housing.json                                               |
-| HR Tech                                                | 68    | https://yc-oss.github.io/api/tags/hr-tech.json                                               |
+| HR Tech                                                | 67    | https://yc-oss.github.io/api/tags/hr-tech.json                                               |
 | Human Resources                                        | 21    | https://yc-oss.github.io/api/tags/human-resources.json                                       |
 | Hydrogen Energy                                        | 4     | https://yc-oss.github.io/api/tags/hydrogen-energy.json                                       |
 | Identity                                               | 15    | https://yc-oss.github.io/api/tags/identity.json                                              |
@@ -344,7 +344,7 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Industrial                                             | 13    | https://yc-oss.github.io/api/tags/industrial.json                                            |
 | Industrial Workplace Safety                            | 4     | https://yc-oss.github.io/api/tags/industrial-workplace-safety.json                           |
 | Infrastructure                                         | 62    | https://yc-oss.github.io/api/tags/infrastructure.json                                        |
-| Insurance                                              | 61    | https://yc-oss.github.io/api/tags/insurance.json                                             |
+| Insurance                                              | 62    | https://yc-oss.github.io/api/tags/insurance.json                                             |
 | International                                          | 6     | https://yc-oss.github.io/api/tags/international.json                                         |
 | Investing                                              | 50    | https://yc-oss.github.io/api/tags/investing.json                                             |
 | Investments                                            | 5     | https://yc-oss.github.io/api/tags/investments.json                                           |
@@ -362,7 +362,7 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Location-based                                         | 3     | https://yc-oss.github.io/api/tags/location-based.json                                        |
 | Logistics                                              | 106   | https://yc-oss.github.io/api/tags/logistics.json                                             |
 | Machine Learning                                       | 217   | https://yc-oss.github.io/api/tags/machine-learning.json                                      |
-| Manufacturing                                          | 50    | https://yc-oss.github.io/api/tags/manufacturing.json                                         |
+| Manufacturing                                          | 49    | https://yc-oss.github.io/api/tags/manufacturing.json                                         |
 | Maritime                                               | 2     | https://yc-oss.github.io/api/tags/maritime.json                                              |
 | Market Research                                        | 10    | https://yc-oss.github.io/api/tags/market-research.json                                       |
 | Marketing                                              | 57    | https://yc-oss.github.io/api/tags/marketing.json                                             |
@@ -397,7 +397,7 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Notifications                                          | 2     | https://yc-oss.github.io/api/tags/notifications.json                                         |
 | Oncology                                               | 20    | https://yc-oss.github.io/api/tags/oncology.json                                              |
 | Open Source                                            | 151   | https://yc-oss.github.io/api/tags/open-source.json                                           |
-| Operations                                             | 23    | https://yc-oss.github.io/api/tags/operations.json                                            |
+| Operations                                             | 24    | https://yc-oss.github.io/api/tags/operations.json                                            |
 | Payments                                               | 132   | https://yc-oss.github.io/api/tags/payments.json                                              |
 | Payroll                                                | 14    | https://yc-oss.github.io/api/tags/payroll.json                                               |
 | Pediatrics                                             | 3     | https://yc-oss.github.io/api/tags/pediatrics.json                                            |
@@ -407,7 +407,7 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Primary Care                                           | 9     | https://yc-oss.github.io/api/tags/primary-care.json                                          |
 | Privacy                                                | 15    | https://yc-oss.github.io/api/tags/privacy.json                                               |
 | Procurement                                            | 14    | https://yc-oss.github.io/api/tags/procurement.json                                           |
-| Productivity                                           | 141   | https://yc-oss.github.io/api/tags/productivity.json                                          |
+| Productivity                                           | 140   | https://yc-oss.github.io/api/tags/productivity.json                                          |
 | Proptech                                               | 86    | https://yc-oss.github.io/api/tags/proptech.json                                              |
 | Psychedelics                                           | 2     | https://yc-oss.github.io/api/tags/psychedelics.json                                          |
 | Quantum Computing                                      | 4     | https://yc-oss.github.io/api/tags/quantum-computing.json                                     |
@@ -431,10 +431,10 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Robotic Surgery                                        | 2     | https://yc-oss.github.io/api/tags/robotic-surgery.json                                       |
 | Robotics                                               | 72    | https://yc-oss.github.io/api/tags/robotics.json                                              |
 | Rocketry                                               | 3     | https://yc-oss.github.io/api/tags/rocketry.json                                              |
-| SaaS                                                   | 1052  | https://yc-oss.github.io/api/tags/saas.json                                                  |
-| Sales                                                  | 88    | https://yc-oss.github.io/api/tags/sales.json                                                 |
+| SaaS                                                   | 1051  | https://yc-oss.github.io/api/tags/saas.json                                                  |
+| Sales                                                  | 87    | https://yc-oss.github.io/api/tags/sales.json                                                 |
 | Sales Enablement                                       | 25    | https://yc-oss.github.io/api/tags/sales-enablement.json                                      |
-| Satellites                                             | 17    | https://yc-oss.github.io/api/tags/satellites.json                                            |
+| Satellites                                             | 18    | https://yc-oss.github.io/api/tags/satellites.json                                            |
 | Scheduling                                             | 12    | https://yc-oss.github.io/api/tags/scheduling.json                                            |
 | Search                                                 | 16    | https://yc-oss.github.io/api/tags/search.json                                                |
 | Security                                               | 83    | https://yc-oss.github.io/api/tags/security.json                                              |
@@ -451,8 +451,8 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | SMB                                                    | 17    | https://yc-oss.github.io/api/tags/smb.json                                                   |
 | SMS                                                    | 7     | https://yc-oss.github.io/api/tags/sms.json                                                   |
 | Social                                                 | 67    | https://yc-oss.github.io/api/tags/social.json                                                |
-| Social Media                                           | 25    | https://yc-oss.github.io/api/tags/social-media.json                                          |
-| Social Network                                         | 18    | https://yc-oss.github.io/api/tags/social-network.json                                        |
+| Social Media                                           | 26    | https://yc-oss.github.io/api/tags/social-media.json                                          |
+| Social Network                                         | 19    | https://yc-oss.github.io/api/tags/social-network.json                                        |
 | Solar Power                                            | 15    | https://yc-oss.github.io/api/tags/solar-power.json                                           |
 | Space Exploration                                      | 17    | https://yc-oss.github.io/api/tags/space-exploration.json                                     |
 | Speech Recognition                                     | 3     | https://yc-oss.github.io/api/tags/speech-recognition.json                                    |
@@ -468,7 +468,7 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Synthetic Biology                                      | 30    | https://yc-oss.github.io/api/tags/synthetic-biology.json                                     |
 | Talent Acquisition                                     | 4     | https://yc-oss.github.io/api/tags/talent-acquisition.json                                    |
 | Team Collaboration                                     | 11    | https://yc-oss.github.io/api/tags/team-collaboration.json                                    |
-| Telecommunications                                     | 22    | https://yc-oss.github.io/api/tags/telecommunications.json                                    |
+| Telecommunications                                     | 23    | https://yc-oss.github.io/api/tags/telecommunications.json                                    |
 | Telehealth                                             | 23    | https://yc-oss.github.io/api/tags/telehealth.json                                            |
 | Telemedicine                                           | 29    | https://yc-oss.github.io/api/tags/telemedicine.json                                          |
 | Therapeutics                                           | 43    | https://yc-oss.github.io/api/tags/therapeutics.json                                          |
@@ -487,7 +487,7 @@ API endpoint: https://yc-oss.github.io/api/meta.json
 | Weather                                                | 3     | https://yc-oss.github.io/api/tags/weather.json                                               |
 | Web Development                                        | 17    | https://yc-oss.github.io/api/tags/web-development.json                                       |
 | Women's Health                                         | 13    | https://yc-oss.github.io/api/tags/women's-health.json                                        |
-| Workflow Automation                                    | 45    | https://yc-oss.github.io/api/tags/workflow-automation.json                                   |
+| Workflow Automation                                    | 46    | https://yc-oss.github.io/api/tags/workflow-automation.json                                   |
 
 </details>
 <!--end generated readme-->

@@ -1036,7 +1036,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67c33e0e1229416643c3c04c56495e10ccaea0a.png",
     "website": "https://www.cheersreviews.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cheers is building the OS for in-person / field services businesses. Our NFC-enabled badges allow employees to better grow positive reviews, gather customer feedback, and take customer payments, while giving managers significant workforce management insights with employee-specific data. \r\n\r\nIn 3 months, MRR grew from $1.4k to over $10k, with 30+ paying customers (including enterprise customers like Vivint Smart Home). We're first targeting the 1.5 million field service businesses in the U.S.—a ~$3B market at a conservative $150/month per customer.",
+    "long_description": "Cheers is building an integrated platform for in-person and field service businesses. Our NFC-enabled badges allow employees to better grow positive reviews, gather customer feedback, and take customer payments. Managers gain significant workforce management insights with employee-specific data, effectively managing more aspects of their operations.\r\n\r\nIn just 3 months, our MRR grew from $1.4k to over $10k, and we've already closed our first enterprise client, Vivint Smart Home. We're focusing on larger field service companies, replacing their outdated employee badging systems with our comprehensive solution that seamlessly embeds into their business operations.",
     "one_liner": "The OS for field service businesses",
     "team_size": 2,
     "highlight_black": false,
@@ -1046,9 +1046,9 @@
     "subindustry": "B2B",
     "launched_at": 1721413814,
     "tags": [
+      "Artificial Intelligence",
       "Analytics",
       "Feedback",
-      "AI",
       "Reviews"
     ],
     "tags_highlighted": [],
@@ -2302,14 +2302,18 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Corgi is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We’re taking it all.",
     "one_liner": "Corgi is building an AI insurance company",
-    "team_size": 3,
+    "team_size": 8,
     "highlight_black": false,
     "highlight_latinx": true,
     "highlight_women": true,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1720644316,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Insurance"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -3326,7 +3330,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/343bfc43bc79563ba958e18c388fa951ab1c7e01.png",
     "website": "https://www.useoffstream.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Offstream is Vanta for carbon compliance. \r\n\r\nToday, every new infrastructure project, from data centers to biomass power plants has a complicated mess of local, state, federal, and private sector standards that they must understand and comply with to make their projects profitable.\r\n\r\nOffstream solves this by using LLMs to parse regulations, generate technical reports for customers, and manage 100,000+ operational data points on project’s lifecycles. We cut the time customers spend on compliance by 90% and at 1/5th of the cost of alternatives.",
     "one_liner": "Vanta for carbon compliance",
     "team_size": 3,
@@ -3336,16 +3340,10 @@
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1720465631,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Compliance",
-      "Climate",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -3353,8 +3351,6 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -5840,7 +5836,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2dcfde1bafa60796981ae7624ad15e71586a290.png",
     "website": "https://www.hestus.co",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Hestus is AI-powered CAD software that speeds up hardware development. While engineers are typically quick at coming up with initial design concepts, they are bogged down getting from idea to the final design due to countless tedious and repetitive tasks. We are building CAD software that automates these mundane tasks and speeds up the design execution process, while letting engineers spend more time on the creative part of the design process.\r\n",
     "one_liner": "An AI-powered CAD software",
     "team_size": 2,
@@ -5850,16 +5846,10 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722282932,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "Hardware",
-      "Productivity",
-      "Manufacturing"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -5868,8 +5858,6 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -10416,7 +10404,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pipeshift is the \"Vercel for open-source LLMs\", offering a platform for finetuning, distilling, and inferencing open-source LLMs for engineering teams to get to production with their LLMs 10x faster. With Pipeshift, companies making >1000 calls/day on frontier LLMs can use their data and logs to replace GPT/Claude in production with specialized LLMs that offer higher accuracy, lower latencies, and model ownership.\r\n\r\nWe are experts in LLMs, having scaled LLMs to 1000s of users in 2023. That's when we saw the massive drawbacks of closed-source LLMs in production, making us start Pipeshift. We met 6 years back as roommates during undergrad, and before starting Pipeshift, we led a defense robotics non-profit backed by NVIDIA and built a health-tech startup.\r\n\r\nThe shift to AI is like the shift to the cloud, every company is going to implement AI. And, open-source AI will be as good as closed-source AI. Meta's Llama 3.1 models prove that. But, the open-source AI stack is a complete mess, with companies needing a team of engineers to set up 10+ different tools just to get started and every optimization needs countless engineering hours.\r\n\r\nPipeshift offers this stack out of the box. With our fine-tuning + distilling platform and one-click deployment stack for hosting these LLMs, we ensure 10x faster experimentation cycles and time-to-production. Think \"Vercel for open-source LLMs\".",
     "one_liner": "Platform for Fine-tuning, Distilling and Inferencing Open-source LLMs.",
-    "team_size": 8,
+    "team_size": 10,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
