@@ -11098,7 +11098,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fdfe6ee3e3551142b62a5144a0c5d6494e9c0ac.png",
     "website": "https://www.mobileboost.io/yc",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; New York, NY, USA; Remote",
     "long_description": "*Achieve Mobile App Test Coverage 10x Faster with AI-Powered Automation*\r\n\r\nStruggling with low E2E test coverage for your mobile app? Short on QA resources? \r\n\r\nOur GPT Driver uses AI to automate your mobile app testing, freeing up your team and providing reliable, consistent results. Eliminate tedious maintenance, accelerate release cycles, and ship higher-quality apps with GPT Driver. \r\n\r\nTrusted by mobile industry leaders like Duolingo, Spotify, Etsy, and Wise.",
     "one_liner": "AI native mobile testing.",
     "team_size": 15,
@@ -17201,8 +17201,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a2d106f9cdebdba12fd6e7d00d9e948e77f5be.png",
     "website": "https://www.metalware.com/",
     "all_locations": "",
-    "long_description": "Metalware is building copilot for the 1.5 million firmware engineers worldwide. We help hardware companies launch embedded systems 10x faster by automating low-level programming.",
-    "one_liner": "Copilot for firmware engineers",
+    "long_description": "Metalware is a black box binary analysis tool for fuzzing embedded architectures like ARM Cortex running RTOS or bare metal. Automatically detect zero-day and unknown vulnerabilities to reduce risk from hardware threat vectors.",
+    "one_liner": "Fuzz testing for embedded software",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -17211,10 +17211,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689732876,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18617,11 +18617,11 @@
     "former_names": [
       "Screenwriter"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48f8c157e3777236c60cf1c3b2f3bdfc23a2c923.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cb15800352fbda5433f88f7a2349b00d7303975.png",
     "website": "https://momentic.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Momentic is the most advanced AI platform for testing. We're accelerating engineering teams at companies like Retool, Podium, Chegg, Runway, and many more.",
-    "one_liner": "Automated testing with generative AI",
+    "one_liner": "The modern standard for software testing ",
     "team_size": 4,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -18630,10 +18630,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1700355696,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22381,5 +22381,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/supercontrast",
     "api": "https://yc-oss.github.io/api/batches/f24/supercontrast.json"
+  },
+  {
+    "id": 30129,
+    "name": "HumanLayer",
+    "slug": "humanlayer",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7da261b740a4ae0fbccdb7818277d3243f8a1c8.png",
+    "website": "https://humanlayer.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "HumanLayer is an API and SDK that lets AI agents contact humans on slack/email when they need approval, feedback, or input. For example, if an AI Agent elects to send an email to a prospect or update production data, AI engineers can require human approval on that action.\r\n",
+    "one_liner": "Human-in-the-Loop for AI Agents",
+    "team_size": 1,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1727921167,
+    "tags": [
+      "Developer Tools",
+      "Generative AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/humanlayer",
+    "api": "https://yc-oss.github.io/api/batches/f24/humanlayer.json"
   }
 ]

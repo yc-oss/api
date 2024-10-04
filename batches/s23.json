@@ -1095,7 +1095,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -4747,8 +4747,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a2d106f9cdebdba12fd6e7d00d9e948e77f5be.png",
     "website": "https://www.metalware.com/",
     "all_locations": "",
-    "long_description": "Metalware is building copilot for the 1.5 million firmware engineers worldwide. We help hardware companies launch embedded systems 10x faster by automating low-level programming.",
-    "one_liner": "Copilot for firmware engineers",
+    "long_description": "Metalware is a black box binary analysis tool for fuzzing embedded architectures like ARM Cortex running RTOS or bare metal. Automatically detect zero-day and unknown vulnerabilities to reduce risk from hardware threat vectors.",
+    "one_liner": "Fuzz testing for embedded software",
     "team_size": 2,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -4757,10 +4757,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689732876,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9070,8 +9070,8 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a04edfc3d5a9b0bb3ae585010c50f7f39fdc2a1.png",
     "website": "http://getnowadays.com/",
-    "all_locations": "",
-    "long_description": "Nowadays is an AI-powered event planning copilot that takes the hassle out of organizing corporate events. For example, just input event details, and our AI will contact venues and deal with negotiations for you.\r\n\r\nWe are a certified travel agency with unlimited network, guaranteeing your team the best bang for your buck!",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nowadays is an AI copilot that automates the boring parts of planning corporate events. For example, our AI can contact venues by email and phone to get availability, deal with back-and-forth negotiations, and present the best options.",
     "one_liner": "AI co-pilot for corporate event planning",
     "team_size": 3,
     "highlight_black": false,
@@ -9080,7 +9080,13 @@
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1687830204,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Logistics",
+      "Marketing",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -9092,7 +9098,8 @@
       "Operations"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
