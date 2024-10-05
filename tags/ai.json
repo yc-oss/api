@@ -5825,53 +5825,6 @@
     "api": "https://yc-oss.github.io/api/batches/w22/fintelite.json"
   },
   {
-    "id": 25541,
-    "name": "Versable",
-    "slug": "versable",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27cef04a2b2af454d42923ab9d77113e9f198884.png",
-    "website": "https://www.versable.ai/",
-    "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Auto parts retailers get product data from hundreds of manufacturers that is inaccurate and inconsistent, often with big gaps in key values. They currently have a team of \"catalog managers\" who are required to process and enhance this data line by line, resulting in a week to months long lag between receiving product data and actually being able to start generating revenue from those products. \r\n\r\nVersable leverages AI to scan the web for tens of millions of auto parts listings, and uses a fine-tuned LLM with RAG to instantly process, enhance, and transform data. With just a part number, Versable is able to generate market-ready titles, product descriptions, and specs, in any format that's needed. ",
-    "one_liner": "AI powered product description enhancement for the auto parts industry",
-    "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": true,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1642519106,
-    "tags": [
-      "Manufacturing",
-      "Data Engineering",
-      "AI",
-      "Automotive"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/versable",
-    "api": "https://yc-oss.github.io/api/batches/w22/versable.json"
-  },
-  {
     "id": 25575,
     "name": "Beam",
     "slug": "beam",
@@ -11762,52 +11715,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/serra.json"
   },
   {
-    "id": 28867,
-    "name": "Shasta Health",
-    "slug": "shasta-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0ddbae01a1bda2827881248dc2c26ab87f27982.png",
-    "website": "https://www.shasta.health",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Shasta Health enables physical therapists to go independent, so they can make 3X more than working for a big clinic. Our AI platform automates patient acquisition, billing, and engagement, so they can focus on treating patients rather than running a business.",
-    "one_liner": "AI platform for physical therapists to go independent",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "launched_at": 1690927737,
-    "tags": [
-      "Generative AI",
-      "Computer Vision",
-      "Digital Health",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shasta-health",
-    "api": "https://yc-oss.github.io/api/batches/s23/shasta-health.json"
-  },
-  {
     "id": 28869,
     "name": "Health Harbor",
     "slug": "health-harbor",
@@ -16606,7 +16513,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -17135,6 +17042,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/videogen",
     "api": "https://yc-oss.github.io/api/batches/s24/videogen.json"
+  },
+  {
+    "id": 29646,
+    "name": "Corgi",
+    "slug": "corgi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f66899a62764756d799d5abc511dc4b46f8c151.png",
+    "website": "https://www.corgi.insure/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Corgi is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We’re taking it all.",
+    "one_liner": "Corgi is building an AI insurance company",
+    "team_size": 8,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": true,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1720644316,
+    "tags": [
+      "Fintech",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corgi",
+    "api": "https://yc-oss.github.io/api/batches/s24/corgi.json"
   },
   {
     "id": 29649,
@@ -17754,52 +17705,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/minusx",
     "api": "https://yc-oss.github.io/api/batches/s24/minusx.json"
-  },
-  {
-    "id": 29692,
-    "name": "Weave Robotics",
-    "slug": "weave-robotics",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa1669fc77240d5b136ed7eb12c167327e93c7e8.png",
-    "website": "https://www.weaverobots.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Making the world’s first personal robot that's built for the home.  Our robot, Isaac, will autonomously tidy up endless messes, fold laundry, and care for your home while you’re away, and we’re shipping our first 30 in fall of 2025.",
-    "one_liner": "Personal robots for the home--that ship in 2025",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1724225748,
-    "tags": [
-      "Hard Tech",
-      "Machine Learning",
-      "Robotics",
-      "Consumer",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/weave-robotics",
-    "api": "https://yc-oss.github.io/api/batches/s24/weave-robotics.json"
   },
   {
     "id": 29697,
@@ -18588,54 +18493,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/modern-realty",
     "api": "https://yc-oss.github.io/api/batches/s24/modern-realty.json"
-  },
-  {
-    "id": 29761,
-    "name": "Distro",
-    "slug": "distro",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/499bf69da05f9cd925def17274cd2ef5f91c8a22.png",
-    "website": "https://distro.app",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Distro is the all-in-one AI-powered sales platform for counter staff and inside sales at industrial wholesale distributors (HVAC/R, plumbing, electrical, and more).",
-    "one_liner": "The AI co-pilot for sales reps at industrial wholesale distributors.",
-    "team_size": 4,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1715554333,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Manufacturing",
-      "Supply Chain",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/distro",
-    "api": "https://yc-oss.github.io/api/batches/s24/distro.json"
   },
   {
     "id": 29764,
@@ -20454,6 +20311,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kairo-health",
     "api": "https://yc-oss.github.io/api/batches/s24/kairo-health.json"
+  },
+  {
+    "id": 29987,
+    "name": "Syntra",
+    "slug": "syntra",
+    "former_names": [
+      "Lightning Medical"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
+    "website": "https://www.syntra.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Syntra is the all-in-one solution for private practice doctors. Our operating system includes a personalized EHR that automates administrative tasks for doctors, such as patient intake, scribing, billing, and inventory management. \r\n\r\nPractices are switching off of solutions they have used for over a decade, calling Syntra \"the only solution that doesn’t need to be managed.”",
+    "one_liner": "AI OS for Private Practice Doctors",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1723733582,
+    "tags": [
+      "Healthcare",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/syntra",
+    "api": "https://yc-oss.github.io/api/batches/s24/syntra.json"
   },
   {
     "id": 29989,
