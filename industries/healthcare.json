@@ -123,7 +123,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23026,7 +23026,7 @@
     "website": "https://vitalizecare.co",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Vitalize Care is solving the most pressing clinical operations problems for health systems, starting with optimizing staffing and scheduling. We help hospitals dramatically reduce labor spend, improve operational efficiency, and unburden clinical leaders from hours of work per day.\r\n\r\nWe're partnered with some of the country's most innovative health systems, and are excited to share more details soon!",
-    "one_liner": "Optimizing nurse staffing for health systems",
+    "one_liner": "Clinical Operations for Hospitals, Starting with Staffing and…",
     "team_size": 9,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -23824,11 +23824,11 @@
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1690927737,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Computer Vision",
       "Digital Health",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27081,5 +27081,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/syntra",
     "api": "https://yc-oss.github.io/api/batches/s24/syntra.json"
+  },
+  {
+    "id": 30048,
+    "name": "Astrix Health",
+    "slug": "astrix-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144a13ceedd1b9645b8478fb7512b3118141ca0b.png",
+    "website": "https://www.astrix.health",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Astrix offers an SDK designed for health tech developers to create safer, more reliable LLM applications. Our platform helps identify clinical safety issues, generate synthetic medical data, and conduct thorough application testing, allowing developers to quickly deliver powerful, safe generative AI solutions that benefit patients and providers alike.",
+    "one_liner": "Astrix is the toolkit for building safer health LLM applications.",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1728327995,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Collaboration",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/astrix-health",
+    "api": "https://yc-oss.github.io/api/batches/f24/astrix-health.json"
   }
 ]
