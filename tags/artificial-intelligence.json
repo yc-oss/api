@@ -540,6 +540,56 @@
     "api": "https://yc-oss.github.io/api/batches/w15/20n.json"
   },
   {
+    "id": 762,
+    "name": "Zeitview",
+    "slug": "zeitview",
+    "former_names": [
+      "DroneBase"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/06e32a7ff9f034ea9a91bf3c37be592aaf617047.png",
+    "website": "https://www.zeitview.com/",
+    "all_locations": "Santa Monica, CA, USA; Remote",
+    "long_description": "At Zeitview, our goal is to accelerate the transition to renewable energy and sustainable infrastructure. We do this by combining advanced inspection software with the ability to capture visual data in more than 60 countries. This allows us to deliver safer, faster, lower-cost inspections of energy and infrastructure assets with a high degree of accuracy and repeatability. We use artificial intelligence and machine learning to ingest and analyze vast amounts of visual data to provide objective insights that our customers can act on immediately.",
+    "one_liner": "Inspection software for renewable energy & sustainable infrastructure",
+    "team_size": 200,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Drones",
+    "launched_at": 1416219854,
+    "tags": [
+      "Artificial Intelligence",
+      "Drones",
+      "B2B",
+      "Climate",
+      "Renewable Energy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W15",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zeitview",
+    "api": "https://yc-oss.github.io/api/batches/w15/zeitview.json"
+  },
+  {
     "id": 780,
     "name": "Paperspace",
     "slug": "paperspace",
@@ -5986,28 +6036,29 @@
     "api": "https://yc-oss.github.io/api/batches/w20/atmo.json"
   },
   {
-    "id": 21769,
-    "name": "Roboflow",
-    "slug": "roboflow",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba0036069bd338a4c6188cb137722d8f584d0016.png",
-    "website": "https://roboflow.com",
-    "all_locations": "San Francisco, CA, USA; Des Moines, IA, USA",
-    "long_description": "Roboflow enables developers to make the world programmable.\r\n\r\nUse our tools to build better datasets (collect image, video / annotate), models (foundation and fine tuned small models), and deployments (self hosted, edge, APIs, SDKs) for computer vision. Over 250k developers, including those from over half the Fortune 100, build with our open source and hosted tools.\r\n\r\nBuild with us: https://app.roboflow.com\r\nHack with us: https://roboflow.slab.com/public/posts/roboflow-hackathons-external-u478m1iz\r\nWork with us: roboflow.com/careers\r\n",
-    "one_liner": "🖼️ Give your software the sense of sight.",
-    "team_size": 40,
+    "id": 21894,
+    "name": "Humanloop",
+    "slug": "humanloop",
+    "former_names": [
+      "humanlupe"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/364a02bb6e0092111a4c8bbb119301d2264c7ace.png",
+    "website": "https://humanloop.com",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Humanloop is the LLM evals platform for enterprises. Teams at Gusto, Vanta and Duolingo use Humanloop to ship reliable AI products. We enable you to adopt best practices for prompt management, evaluation and observability.",
+    "one_liner": "Humanloop is the LLM evals platform for enterprises. ",
+    "team_size": 14,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1598130074,
+    "launched_at": 1598299135,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
+      "Generative AI",
       "Machine Learning",
-      "Computer Vision",
-      "API"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6020,18 +6071,16 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "United Kingdom",
+      "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/roboflow",
-    "api": "https://yc-oss.github.io/api/batches/s20/roboflow.json"
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/humanloop",
+    "api": "https://yc-oss.github.io/api/batches/s20/humanloop.json"
   },
   {
     "id": 21900,
@@ -20069,7 +20118,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0913d1e9d9580abc891cabd8dcf7bc5c217d32e.png",
     "website": "https://centralhq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "- [Our fever dream Bookface launch](https://bookface.ycombinator.com/posts/81742)\r\n- [$10K+ high value YC deal + reviews](https://bookface.ycombinator.com/deals/2463)",
+    "long_description": "[Central](http://centralhq.com/) is a business back-office platform designed for founders. We handle payroll, benefits and everything needed to run a compliant startup. Unlike traditional HR products that make you do extra work, Central acts as your Head of HR and just takes cares of all government filings. 150+ companies run on Central. Get our [$10K+ high value YC deal](https://bookface.ycombinator.com/deals/2463) and read about [our fever dream Bookface launch](https://bookface.ycombinator.com/posts/81742)",
     "one_liner": "Eliminating business bullshit: payroll, benefits, compliance, etc",
     "team_size": 13,
     "highlight_black": false,
@@ -21298,7 +21347,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -22761,7 +22810,7 @@
     "website": "https://www.inspectmind.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "InspectMind AI is changing the game for people who build and design buildings by making it super easy to do their paperwork. Our tool uses AI to quickly turn videos and photos from construction sites into detailed, accurate and well formatted reports. What used to take days of typing and organizing now takes just minutes. With our app, workers can spend less time at their desks and more time doing the important stuff on site.",
-    "one_liner": "Write Construction Inspections Reports using AI, up to 10x faster",
+    "one_liner": "Write Construction Inspections Reports using AI, up to 100x faster",
     "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -26391,55 +26440,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/lumen-orbit.json"
   },
   {
-    "id": 29809,
-    "name": "Corpdaq",
-    "slug": "corpdaq",
-    "former_names": [
-      "OpenFintek"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a121e291e0c0d2ca3fe9ade29f345d6f3bb2a6c2.png",
-    "website": "https://corpdaq.com",
-    "all_locations": "Singapore, Singapore; Remote",
-    "long_description": "We’re building Stripe of Lending for Asian Businesses. Corpdaq is a lending platform that connects Businesses with Banks & Investors in South East Asia. We use LLM’s to automatically  assess Asian Businesses' prospectus and creditworthiness. ",
-    "one_liner": "Stripe of Lending for Asia",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1723761006,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Generative AI",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "Singapore",
-      "Southeast Asia",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/corpdaq",
-    "api": "https://yc-oss.github.io/api/batches/s24/corpdaq.json"
-  },
-  {
     "id": 29821,
     "name": "Polymet",
     "slug": "polymet",
@@ -27283,5 +27283,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/outerport",
     "api": "https://yc-oss.github.io/api/batches/s24/outerport.json"
+  },
+  {
+    "id": 30060,
+    "name": "Replexica",
+    "slug": "replexica",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5faeb3f5f19fc832ab39e5ce0996a16b9cf0247.png",
+    "website": "https://replexica.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Replexica automates localization end-to-end. It instantly produces translations, eliminates manual work, and needs no translation management software. Our AI generates pull requests with translations when developers commit UI code changes, avoiding the typical back-and-forth with translation agencies. This helps teams do localization 100x faster, ship to production more often, without bottlenecks.",
+    "one_liner": "Automated AI localization for multilingual software.",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728389519,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "International"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/replexica",
+    "api": "https://yc-oss.github.io/api/batches/f24/replexica.json"
   }
 ]

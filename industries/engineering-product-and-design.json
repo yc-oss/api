@@ -6613,7 +6613,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S19",
     "status": "Active",
@@ -8395,7 +8395,7 @@
     "all_locations": "San Francisco, CA, USA; Des Moines, IA, USA",
     "long_description": "Roboflow enables developers to make the world programmable.\r\n\r\nUse our tools to build better datasets (collect image, video / annotate), models (foundation and fine tuned small models), and deployments (self hosted, edge, APIs, SDKs) for computer vision. Over 250k developers, including those from over half the Fortune 100, build with our open source and hosted tools.\r\n\r\nBuild with us: https://app.roboflow.com\r\nHack with us: https://roboflow.slab.com/public/posts/roboflow-hackathons-external-u478m1iz\r\nWork with us: roboflow.com/careers\r\n",
     "one_liner": "🖼️ Give your software the sense of sight.",
-    "team_size": 40,
+    "team_size": 50,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -8403,11 +8403,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1598130074,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
       "Computer Vision",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8440,7 +8440,7 @@
     "former_names": [
       "Weaver"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53c04f23fe35c00f87432f8f1130e9538fc59906.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbd6b903d554c68c4aa51a62e4ba89b6e7fdd13c.png",
     "website": "https://seam.co",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Seam lets developers connect and control 3rd-party connected devices like door locks, thermostats, and more.\r\n",
@@ -8679,11 +8679,11 @@
     "former_names": [
       "humanlupe"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d91dd0b19cc29193f138c01c92905edc9586a84.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/364a02bb6e0092111a4c8bbb119301d2264c7ace.png",
     "website": "https://humanloop.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "We help product and engineering teams at enterprises build applications of large language models. Increase product velocity, by shipping performant and reliable AI features with Humanloop's Prompt Management, Evaluations and LLM Observability tools.",
-    "one_liner": "Enterprise LLMOps Platform – Prompt Management, Evals and LLM…",
+    "long_description": "Humanloop is the LLM evals platform for enterprises. Teams at Gusto, Vanta and Duolingo use Humanloop to ship reliable AI products. We enable you to adopt best practices for prompt management, evaluation and observability.",
+    "one_liner": "Humanloop is the LLM evals platform for enterprises. ",
     "team_size": 14,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -8692,10 +8692,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1598299135,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Machine Learning",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10529,8 +10529,8 @@
   },
   {
     "id": 23612,
-    "name": "Terra",
-    "slug": "terra",
+    "name": "Terra API",
+    "slug": "terra-api",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97a6c134a2281fc0b76fb07a0fe0c197e4948543.png",
     "website": "http://tryterra.co",
@@ -10568,8 +10568,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/terra",
-    "api": "https://yc-oss.github.io/api/batches/w21/terra.json"
+    "url": "https://www.ycombinator.com/companies/terra-api",
+    "api": "https://yc-oss.github.io/api/batches/w21/terra-api.json"
   },
   {
     "id": 23613,
@@ -12523,8 +12523,8 @@
     "slug": "telematica",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a481543a3e004f34c1986a41d9352073b9b22a58.png",
-    "website": "https://broccoli.com",
-    "all_locations": "San Francisco, CA, USA",
+    "website": "https://telematica.so",
+    "all_locations": "San Francisco, CA, USA; Bengaluru, KA, India",
     "long_description": "",
     "one_liner": "",
     "team_size": 5,
@@ -12537,7 +12537,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -12547,7 +12547,9 @@
     ],
     "regions": [
       "United States of America",
+      "India",
       "America / Canada",
+      "South Asia",
       "Remote",
       "Partly Remote"
     ],
@@ -13337,23 +13339,20 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ee33d4dd08812f99b8d82ea64b812f8d2810e88.png",
     "website": "https://instantdb.com",
-    "all_locations": "New York, NY, USA; Remote",
+    "all_locations": "New York, NY, USA",
     "long_description": "Instant is the modern Firebase. We make it easy to build realtime and collaborative applications like Notion or Figma.",
     "one_liner": "The Modern Firebase",
-    "team_size": 2,
+    "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
     "highlight_women": false,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1660785340,
-    "tags": [
-      "Developer Tools",
-      "API"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -13363,9 +13362,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -20715,7 +20712,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -22369,6 +22366,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/supercontrast",
     "api": "https://yc-oss.github.io/api/batches/f24/supercontrast.json"
+  },
+  {
+    "id": 30060,
+    "name": "Replexica",
+    "slug": "replexica",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5faeb3f5f19fc832ab39e5ce0996a16b9cf0247.png",
+    "website": "https://replexica.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Replexica automates localization end-to-end. It instantly produces translations, eliminates manual work, and needs no translation management software. Our AI generates pull requests with translations when developers commit UI code changes, avoiding the typical back-and-forth with translation agencies. This helps teams do localization 100x faster, ship to production more often, without bottlenecks.",
+    "one_liner": "Automated AI localization for multilingual software.",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728389519,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "International"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/replexica",
+    "api": "https://yc-oss.github.io/api/batches/f24/replexica.json"
   },
   {
     "id": 30129,
