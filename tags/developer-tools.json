@@ -6838,7 +6838,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S20",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -19451,6 +19451,52 @@
     "api": "https://yc-oss.github.io/api/batches/w24/codeant-ai.json"
   },
   {
+    "id": 29373,
+    "name": "Bilanc",
+    "slug": "bilanc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d7390c9fddfe9a6cf41b3b323ffc04d09432fa0.png",
+    "website": "https://www.bilanc.co",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Bilanc collects data from GitHub, Linear, and AI-powered DevEx surveys. We help teams move faster by providing specific insights for each engineer, and a cost for every ticket.",
+    "one_liner": "Analytics for Data-Driven Engineering Management",
+    "team_size": 2,
+    "highlight_black": true,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1701093428,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bilanc",
+    "api": "https://yc-oss.github.io/api/batches/w24/bilanc.json"
+  },
+  {
     "id": 29375,
     "name": "Preloop",
     "slug": "preloop",
@@ -20171,8 +20217,7 @@
       "AIOps",
       "Developer Tools",
       "Robotics",
-      "IoT",
-      "DevOps"
+      "IoT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22023,7 +22068,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc66990c87e4d8f300d62eedff5460f882406da.png",
     "website": "https://trypear.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "PearAI is an open source AI code editor. Think a better GitHub Copilot, or an open source Cursor. We're a fork of VSCode and Continue to maintain it's familiarity and functionalities, and add upon it the most seamless AI integration with all the top of the market models.\r\n\r\nPeople who have been using it so far expressed that PearAI has up to 5x’d their work and development speed by having AI integrated features such as the ability to talk to your codebase directly. Students also said this accelerated their learning tremendously, with features like /leetcode and /sensei for beginner friendly tasks.\r\n\r\nLong term, we aim to reduce the time it takes from idea to creation.\r\n\r\nWhy does open source matter for a code editor?\r\n\r\nThe moat is not in the AI models, the best model on the market will be used by any of these editors out there (except Copilot, which actually still uses GPT4 Turbo).\r\n\r\nThis means the true differentiators will be UI/UX, trust, transparency, community support, and distribution. These are all perfectly aligned with open source.\r\n\r\nThe PearAI project has around 49% of its commits made by contributors, spanning from our landing page, server and app itself. This helps speed up the development cycle. Code editors are the best products to be open source, because each developer are users themselves of the product! Not only is our code open source, us as founders, are “open source” as well! We post our entire development journey and life online, through our YouTube channels and Twitch livestreams (youtube.com/@FryingPan & youtube.com/@nang88). \r\n\r\nTry it out - we're sure you'll love it! Download and use for free at https://trypear.ai/download.\r\n",
+    "long_description": "PearAI is an open source AI code editor. Think a better GitHub Copilot, or an open source Cursor... But it's much more than that. Started out as a fork of VSCode and Continue. Crazy stuff coming soon... you won't wanna miss it!\r\n\r\nTry out PearAI today for free: https://trypear.ai/download.\r\n",
     "one_liner": "The Open-Source AI Code Editor",
     "team_size": 2,
     "highlight_black": false,
@@ -22033,10 +22078,10 @@
     "subindustry": "Consumer",
     "launched_at": 1727484339,
     "tags": [
-      "AI-Enhanced Learning",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "B2B",
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,

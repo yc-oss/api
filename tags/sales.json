@@ -675,7 +675,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W20",
     "status": "Active",
@@ -2005,6 +2005,56 @@
     "api": "https://yc-oss.github.io/api/batches/w22/trueplace.json"
   },
   {
+    "id": 25989,
+    "name": "Tuesday",
+    "slug": "tuesday",
+    "former_names": [
+      "1Flow, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b95dc6d900cfe42d1667dff8ad2d53e2628a0ec2.png",
+    "website": "https://tuesday.so",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "First, build hyper-targeted B2B contact lists without needing any manual verification – we’ll verify the leads for you. Then, generate 1000s of personalized emails that get you 8x more replies within minutes using AI.\r\n\r\n**Reach more buyers with Triple-Verified contacts**\r\nOther data providers in the market sell you outdated contacts that waste your time. Tuesday offers unlimited triple-verified emails and mobile phone numbers to you at extremely low cost.All contact data are triple-verified at the time of request, making sure you can reach your buyers easily.\r\n\r\n**Book more meetings with AI-Personalized emails**\r\nStop wasting your precious time “personalizing” emails and LinkedIn messages. You didn’t sign up for this job to read the “About” section of everyone’s LinkedIn profile.Tuesday seamlessly integrates with LinkedIn profile data and uses cutting-edge AI models to generate personalized emails – in seconds.Send hyper-relevant 1:1 messages based on your prospects pain and your company’s offering, automatically.",
+    "one_liner": "Scale personalized outreach with AI.",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1643704657,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Sales",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tuesday",
+    "api": "https://yc-oss.github.io/api/batches/w22/tuesday.json"
+  },
+  {
     "id": 26052,
     "name": "Nara",
     "slug": "nara",
@@ -2629,6 +2679,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/suger",
     "api": "https://yc-oss.github.io/api/batches/w23/suger.json"
+  },
+  {
+    "id": 27873,
+    "name": "Floworks",
+    "slug": "floworks",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b971472cf0d2638ad01eeaaf35f5a56a8abd2541.png",
+    "website": "https://floworks.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Floworks (https://floworks.ai) is building a suite of AI employees that helps business to run several business functions such as sales, on autopilot.\r\n\r\nOur flagship product, Alisha is an AI SDR that performs the full outbound SDR job- fully autonomously without any human involvement. \r\n\r\nOur AI SDR Alisha can perform ICP research, find out prospect lists, research about each prospect across 180 web sources, write highly personalized emails to each, follow and engage, and finally coordinate like a human to book sales calls.\r\n\r\nBusinesses using Alisha get 3 key benefits:\r\n1.⁠ ⁠They get 12x output from your existing sales team.\r\n2.⁠ ⁠⁠Are able to scale to 8 figure revenues with just a single AE.\r\n\r\nAlisha is built on our proprietary function calling model ThorV2 (https://floworks.ai/research) that outperforms both Claude 3 and GPT-4 function calling in accuracy by 13% and 43% respectively. At the same time, ThorV2 uses only a fraction of the cost (<40%) and time/latency (<78%) as the other models.\r\n\r\nOur second AI employee, Ashley, is an AI Executive Assistant that keeps you reminded and on top of your on your schedule. Works on your whim- just command Flowy to book a meeting, move a meeting or write a email, and it does without you having to navigate through every apps. You can teach Flowy specific workflows such as ‘inform me immediately if i receive a reply from xyz’, “show my unread emails from last day every morning 7am” and much more\r\n\r\nOur third AI employee, Romona is a helpful AI Revenue Operations Manager that keeps track of every CRM data updation on behalf of your team, works on your instruction to update notes, next steps, MEDDIC after every call, does periodic CRM reporting and much more.",
+    "one_liner": "Hire the best AI Sales employees | AI SDR | AI RevOps | AI EA",
+    "team_size": 20,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1678165264,
+    "tags": [
+      "Generative AI",
+      "Productivity",
+      "Sales",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/floworks",
+    "api": "https://yc-oss.github.io/api/batches/w23/floworks.json"
   },
   {
     "id": 27967,
@@ -3832,8 +3930,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f31690807aa0caf76a46157dc028528285b5989d.png",
     "website": "http://www.getveles.com",
     "all_locations": "Santa Barbara, CA, USA",
-    "long_description": "Introducing Veles – your copilot for enterprise software sales. Veles empowers sales reps to comprehend and convey pricing effectively, crafting dynamic quotes that maximize deal size. By integrating seamlessly with existing platforms, Veles streamlines the sales process and delivers actionable performance metrics.\r\n\r\nKey Features:\r\n\r\n✅ SaaS Pricing Calculator: Easily standardize pricing and track sales rep behavior in one intuitive platform.\r\n\r\n✅ Standard Deal Definition: Define sales strategies and terms to expedite onboarding and maintain negotiation consistency.\r\n\r\n✅ Performance Analytics: Gain insights into sales rep behaviors that lead to closed-won deals through comprehensive deal scoring.\r\n\r\n✅ Alignment & Optimization: Foster team alignment by sharing negotiations and strategies for successful negotiation calls.\r\n",
-    "one_liner": "Copilot for Enterprise Software Sales",
+    "long_description": "Veles – The Sales Calculator. Veles empowers sales reps to deliver pricing effectively and craft dynamic options that maximize deal size. By integrating seamlessly with CPQs And CRMs, Veles makes every sales rep a top performer. \r\n\r\nKey Features:\r\n\r\n✅ SaaS Pricing Calculator: Easily standardize pricing and track sales rep behavior in one intuitive platform.\r\n\r\n✅ Standard Deal Definition: Define sales strategies and terms to expedite onboarding and maintain negotiation consistency.\r\n\r\n✅ Performance Analytics: Gain insights into sales rep behaviors that lead to closed-won deals through comprehensive deal scoring.\r\n\r\n✅ Alignment & Optimization: Foster team alignment by sharing negotiations and strategies for successful negotiation calls.\r\n",
+    "one_liner": "The Sales Calculator",
     "team_size": 3,
     "highlight_black": false,
     "highlight_latinx": false,
