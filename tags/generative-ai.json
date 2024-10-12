@@ -6,7 +6,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/074cd05efbc63f7a13cbb794c1df90f03162dc58.png",
     "website": "http://mixerbox.com",
-    "all_locations": "Palo Alto, CA, USA; Taipei, TW",
+    "all_locations": "Palo Alto, CA, USA; Taipei, Taiwan",
     "long_description": "MixerBox is an AI Super-Apps technology company that helps people live easier through its 24/7 daily-essential mobile apps platform.\r\n\r\nFounded in 2012 by Harvard alumnus John Lai, MixerBox is backed by the Silicon Valley unicorn accelerator Y Combinator. The company’s apps have surpassed 300,000,000 downloads worldwide, and allow MixerBox users to wake up to MixerBox AlarmTunes, read MixerBox NewsDash, browse with MixerBox ChatAI Browser, pay with MixerBox AI Pay, watch MixerBox FreecableTV, and fall asleep with MixerBox Inspire Meditation. App by app, MixerBox strives to become the “Anything, Anytime Super-Apps Platform” to help people live easier.",
     "one_liner": "AI Super-Apps to Live Easier | The anything anytime superapps…",
     "team_size": 70,
@@ -33,7 +33,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "Taiwan",
+      "America / Canada",
+      "East Asia"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4201,7 +4203,7 @@
     "name": "Sameday",
     "slug": "sameday",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23862516af1ba0bbe26c8d0bea2a9744b359a125.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b22144ce4e98bfaff13e954f43d3147fe9073ae.png",
     "website": "https://www.gosameday.com/",
     "all_locations": "Lehi, UT, USA",
     "long_description": "Home service businesses, like plumbers and roofers, are losing millions of dollars each year by failing to answer the phone. Sameday's AI Sales Agent answers any calls they otherwise would miss and will follow up until every lead is on the schedule.",
@@ -4214,11 +4216,11 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1662953627,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Sales Enablement",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4683,6 +4685,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/salient",
     "api": "https://yc-oss.github.io/api/batches/w23/salient.json"
+  },
+  {
+    "id": 27812,
+    "name": "Dataglade",
+    "slug": "dataglade",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/744f46d0d325c233ded71498a19cdf197a21cade.png",
+    "website": "https://dataglade.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Dataglade is the smart way to research stocks. Our AI generates clear analyses and financial models for any public company, and our fundamental data fulfills almost every research need. We save investors hours every day by eliminating the need to manually dig through financial filings. Customers trust our reports because every number is backed by citations to our proprietary financial data warehouse. We inform $1+ billion of trades every day, and we’re just getting started. Check us out at dataglade.com.",
+    "one_liner": "The smart way to research stocks.",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1677170450,
+    "tags": [
+      "Fintech",
+      "Generative AI",
+      "SaaS",
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dataglade",
+    "api": "https://yc-oss.github.io/api/batches/w23/dataglade.json"
   },
   {
     "id": 27815,
@@ -11310,7 +11357,7 @@
   },
   {
     "id": 30044,
-    "name": "Sandra.ai",
+    "name": "Sandra AI",
     "slug": "sandra-ai",
     "former_names": [
       "Sandra.AI"
@@ -11352,6 +11399,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sandra-ai",
     "api": "https://yc-oss.github.io/api/batches/f24/sandra-ai.json"
+  },
+  {
+    "id": 30063,
+    "name": "Manicode",
+    "slug": "manicode",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd3e681d3754d6e346efb726f191b1e153d0c5a1.png",
+    "website": "https://manicode.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Chat with Manicode to edit your codebase. It's like a junior engineer at your command, but faster! Get it now:\r\n```\r\n> npm install -g manicode\r\n```\r\nRun `manicode` from your project directory. It will read and write to files in your project to produce the code you want.\r\n\r\nManicode is different from all the other coding agents, we swear!\r\n\r\nWhy it's cool:\r\n- **It chooses files to read automatically on each message** — unlike Cursor’s composer feature. This saves you time and makes Manicode respond more comprehensively.\r\n- **It takes 0 clicks** — type your instructions and Manicode will edit your files directly. It's simple and fast. Theoretically, you can do all your development by just chatting with it!\r\n- **It has full access to your terminal** — Manicode can run terminal commands to install packages, run tests, check for type errors, etc. Manicode is an engineer working for you.",
+    "one_liner": "Code with AI from our CLI",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728685475,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/manicode",
+    "api": "https://yc-oss.github.io/api/batches/f24/manicode.json"
   },
   {
     "id": 30129,

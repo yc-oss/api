@@ -276,7 +276,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/074cd05efbc63f7a13cbb794c1df90f03162dc58.png",
     "website": "http://mixerbox.com",
-    "all_locations": "Palo Alto, CA, USA; Taipei, TW",
+    "all_locations": "Palo Alto, CA, USA; Taipei, Taiwan",
     "long_description": "MixerBox is an AI Super-Apps technology company that helps people live easier through its 24/7 daily-essential mobile apps platform.\r\n\r\nFounded in 2012 by Harvard alumnus John Lai, MixerBox is backed by the Silicon Valley unicorn accelerator Y Combinator. The company’s apps have surpassed 300,000,000 downloads worldwide, and allow MixerBox users to wake up to MixerBox AlarmTunes, read MixerBox NewsDash, browse with MixerBox ChatAI Browser, pay with MixerBox AI Pay, watch MixerBox FreecableTV, and fall asleep with MixerBox Inspire Meditation. App by app, MixerBox strives to become the “Anything, Anytime Super-Apps Platform” to help people live easier.",
     "one_liner": "AI Super-Apps to Live Easier | The anything anytime superapps…",
     "team_size": 70,
@@ -303,7 +303,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "Taiwan",
+      "America / Canada",
+      "East Asia"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9875,56 +9877,6 @@
     "api": "https://yc-oss.github.io/api/batches/s21/exa.json"
   },
   {
-    "id": 24914,
-    "name": "Sully.ai",
-    "slug": "sully-ai",
-    "former_names": [
-      "Odiggo"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/911656ff1b74ea563f6a15aeb96e439e4b168e0e.png",
-    "website": "https://www.sully.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our Mission: \"One Human, One Doctor\".\r\nWhy? because access to a doctor is a basic human right.\r\n\r\nCustomer: \r\nHealthcare Organizations\r\n\r\nProduct: \r\nAll-in-one solution to save doctors time. \r\n\r\nProblem: \r\nDoctors spend 50% of their time on things other than patient care, and the other 50% is inefficient. \r\n\r\nSolution: \r\nAll-in-one solution for doctors that saves time from pre, post, and during-visit. \r\n\r\nOpportunity: \r\nOver 1 Billion visits patient care visits occur in the US annually, and the current average cost per visit is $300. When future visits are done by an ASI (Artificial Super Intelligence) doctor at a 10x cheaper cost ($29 per visit), it’s $3.9B in revenue in the US only and $25B+ globally.",
-    "one_liner": "AI Employees for healthcare organizations",
-    "team_size": 8,
-    "highlight_black": true,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1624955795,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Health Tech",
-      "B2B",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S21",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sully-ai",
-    "api": "https://yc-oss.github.io/api/batches/s21/sully-ai.json"
-  },
-  {
     "id": 25249,
     "name": "SilkChart",
     "slug": "silkchart",
@@ -13440,6 +13392,54 @@
     "api": "https://yc-oss.github.io/api/batches/s22/dev-tools-ai.json"
   },
   {
+    "id": 27491,
+    "name": "Sameday",
+    "slug": "sameday",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b22144ce4e98bfaff13e954f43d3147fe9073ae.png",
+    "website": "https://www.gosameday.com/",
+    "all_locations": "Lehi, UT, USA",
+    "long_description": "Home service businesses, like plumbers and roofers, are losing millions of dollars each year by failing to answer the phone. Sameday's AI Sales Agent answers any calls they otherwise would miss and will follow up until every lead is on the schedule.",
+    "one_liner": "AI sales agents for home service businesses",
+    "team_size": 7,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1662953627,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "B2B",
+      "Sales Enablement",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sameday",
+    "api": "https://yc-oss.github.io/api/batches/w23/sameday.json"
+  },
+  {
     "id": 27667,
     "name": "Stack AI",
     "slug": "stack-ai",
@@ -15651,51 +15651,6 @@
     "api": "https://yc-oss.github.io/api/batches/w23/yuma-ai.json"
   },
   {
-    "id": 28707,
-    "name": "Kino AI",
-    "slug": "kino-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/236edce8d65891082c7aa4675c370a79d943bee2.png",
-    "website": "https://kino.ai",
-    "all_locations": "",
-    "long_description": "Kino automatically organizes footage to make video editing faster and more enjoyable. Kino saves hours every day for all types of video creation, from Youtube content to Hollywood blockbusters.\r\n\r\nCheck out our demo! https://www.youtube.com/watch?v=lwon6fWvmco\r\n\r\nJoin the beta at https://kino.ai/beta",
-    "one_liner": "Kino automatically organizes footage to make video editing faster. ",
-    "team_size": 2,
-    "highlight_black": true,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1689168813,
-    "tags": [
-      "Artificial Intelligence",
-      "Computer Vision",
-      "B2B",
-      "Video",
-      "Media"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kino-ai",
-    "api": "https://yc-oss.github.io/api/batches/s23/kino-ai.json"
-  },
-  {
     "id": 28744,
     "name": "Reworkd",
     "slug": "reworkd",
@@ -17670,6 +17625,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/andromeda-surgical",
     "api": "https://yc-oss.github.io/api/batches/s23/andromeda-surgical.json"
+  },
+  {
+    "id": 29010,
+    "name": "Silimate",
+    "slug": "silimate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0575a4d9f95080c1cee72f3e7a7286db03e66d7c.png",
+    "website": "https://www.silimate.com",
+    "all_locations": "Mountain View, CA, USA",
+    "long_description": "Silimate is the co-pilot for chip designers; it finds functional bugs, predicts PPA issues, and recommends fixes in real-time alongside RTL development.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging to functional correctness and optimized PPA (power/performance/area). With Silimate, chip designers write correct, PPA-optimized RTL code from the onset and build better chips in less time.",
+    "one_liner": "The co-pilot for chip designers",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1691095117,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
+      "Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/silimate",
+    "api": "https://yc-oss.github.io/api/batches/s23/silimate.json"
   },
   {
     "id": 29018,
@@ -20994,50 +20995,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/preloop",
     "api": "https://yc-oss.github.io/api/batches/w24/preloop.json"
-  },
-  {
-    "id": 29377,
-    "name": "Toma",
-    "slug": "toma",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36511c34d99fbf72c05effaf820426cfd6fc6ed8.png",
-    "website": "http://www.toma.com/",
-    "all_locations": "",
-    "long_description": "Toma offers state-of-the-art AI voice agents for companies to streamline operations, starting with the automotive industry. Toma’s voice agents do tens of thousands of minutes of AI calls everyday and generate millions of dollars worth revenue for auto dealerships. Experience it by calling 415-214-9962.\r\n\r\nThe automotive industry is a sleeping giant contributing trillions of dollars to the GDP. The industry and its processes are ready for disruption. Toma is bringing AI to all operations in the industry while working hand-in-hand with some of the biggest names such as the Car Dealership Guy, and public companies like Lithia Motors and Cox Automotive. Toma is backed best investors in Silicon Valley and the Automotive industry.",
-    "one_liner": "AI for auto dealerships",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1702419018,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Operations",
-      "Automotive"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/toma",
-    "api": "https://yc-oss.github.io/api/batches/w24/toma.json"
   },
   {
     "id": 29379,
@@ -27324,5 +27281,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/replexica",
     "api": "https://yc-oss.github.io/api/batches/f24/replexica.json"
+  },
+  {
+    "id": 30118,
+    "name": "Ember Copilot",
+    "slug": "ember-copilot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc4c02e697fb21ae99bab2ac805d924074318bc8.png",
+    "website": "https://www.embercopilot.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We help surgeons automate medical scribing, patient intake, insurance letters, and more, all directly integrated within their EHR.  ",
+    "one_liner": "The AI medical assistant that actually works",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1728536375,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Digital Health",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ember-copilot",
+    "api": "https://yc-oss.github.io/api/batches/f24/ember-copilot.json"
   }
 ]

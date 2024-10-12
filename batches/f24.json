@@ -216,7 +216,7 @@
   },
   {
     "id": 30044,
-    "name": "Sandra.ai",
+    "name": "Sandra AI",
     "slug": "sandra-ai",
     "former_names": [
       "Sandra.AI"
@@ -304,6 +304,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/regatta-storage",
     "api": "https://yc-oss.github.io/api/batches/f24/regatta-storage.json"
+  },
+  {
+    "id": 30046,
+    "name": "Vocera",
+    "slug": "vocera",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d27c1f82fbc4e1e5864fe20574139df89773eab.png",
+    "website": "https://www.vocera.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Are you building AI voice agents like receptionists, customer support, or sales reps? Do you find yourself manually testing your bot by calling it? We faced similar challenges, especially being in a regulated industry. That's why we developed Vocera - a solution that automates the testing process for your voice agents. With Vocera, you can prove your reliability before going live, test every update seamlessly, and scale your operations efficiently.\r\n\r\nReplicating a real world conversation is hard. Our AI simulates these scenarios using workflows, personas and past conversations.\r\n\r\nWe are already talking to AI for ordering food, getting appointments and even interviews. The market is aptly getting flooded with AI voice agents built by thousands of companies. We make them dependable.",
+    "one_liner": "Evaluations for AI voice agents",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1728616885,
+    "tags": [
+      "AIOps",
+      "Chatbot",
+      "Trust & Safety",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vocera",
+    "api": "https://yc-oss.github.io/api/batches/f24/vocera.json"
   },
   {
     "id": 30048,
@@ -444,6 +489,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/replexica",
     "api": "https://yc-oss.github.io/api/batches/f24/replexica.json"
+  },
+  {
+    "id": 30063,
+    "name": "Manicode",
+    "slug": "manicode",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd3e681d3754d6e346efb726f191b1e153d0c5a1.png",
+    "website": "https://manicode.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Chat with Manicode to edit your codebase. It's like a junior engineer at your command, but faster! Get it now:\r\n```\r\n> npm install -g manicode\r\n```\r\nRun `manicode` from your project directory. It will read and write to files in your project to produce the code you want.\r\n\r\nManicode is different from all the other coding agents, we swear!\r\n\r\nWhy it's cool:\r\n- **It chooses files to read automatically on each message** — unlike Cursor’s composer feature. This saves you time and makes Manicode respond more comprehensively.\r\n- **It takes 0 clicks** — type your instructions and Manicode will edit your files directly. It's simple and fast. Theoretically, you can do all your development by just chatting with it!\r\n- **It has full access to your terminal** — Manicode can run terminal commands to install packages, run tests, check for type errors, etc. Manicode is an engineer working for you.",
+    "one_liner": "Code with AI from our CLI",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": true,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728685475,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/manicode",
+    "api": "https://yc-oss.github.io/api/batches/f24/manicode.json"
   },
   {
     "id": 30080,
@@ -599,11 +688,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1728536375,
     "tags": [
+      "Artificial Intelligence",
+      "SaaS",
       "B2B",
       "Digital Health",
-      "Healthcare",
-      "Mental Health",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
