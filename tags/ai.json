@@ -3818,7 +3818,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -5353,8 +5353,8 @@
     "website": "https://www.sully.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Our Mission: \"One Human, One Doctor\".\r\nWhy? Because access to a doctor is a basic human right.\r\n\r\nCustomer: \r\nHealthcare Organizations\r\n\r\nProduct: \r\nAll-in-one solution to save doctors time. \r\n\r\nProblem: \r\nDoctors spend 50% of their time on things other than patient care, and the other 50% is inefficient. \r\n\r\nSolution: \r\nAll-in-one solution for doctors that saves time from pre, post, and during-visit. \r\n\r\nOpportunity: \r\nOver 1 Billion visits patient care visits occur in the US annually, and the current average cost per visit is $300. When future visits are done by an ASI (Artificial Super Intelligence) doctor at a 10x cheaper cost ($29 per visit), it’s $3.9B in revenue in the US only and $25B+ globally.",
-    "one_liner": "AI Medical Employees for healthcare organizations",
-    "team_size": 8,
+    "one_liner": "AI Medical Employees for Healthcare",
+    "team_size": 12,
     "highlight_black": true,
     "highlight_latinx": false,
     "highlight_women": false,
@@ -5370,7 +5370,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -5386,9 +5386,9 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sully-ai",
     "api": "https://yc-oss.github.io/api/batches/s21/sully-ai.json"
   },
@@ -9120,8 +9120,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a23ab54dfc7d4f1d332c905fd3e054c452007712.png",
     "website": "https://concourse.co/",
     "all_locations": "New York, NY, USA",
-    "long_description": "",
-    "one_liner": "Connect, chat, and work with your financial data",
+    "long_description": "Concourse is building AI agents for corporate finance teams. Concourse works alongside finances teams to assist in day-to-day operations by taking on the most manual and time consuming work. Core to the platform is an AI analyst tailor-built for finance teams that is available at any hour of the day, accessible via natural language, and built with full connectivity to a company’s existing financial systems. Concourse enables team members to more effectively retrieve and analyze data, generate charts and reports, and answer ad-hoc questions.",
+    "one_liner": "AI Agents for corporate finance teams",
     "team_size": 5,
     "highlight_black": false,
     "highlight_latinx": false,
@@ -9137,7 +9137,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -12570,6 +12570,52 @@
     "api": "https://yc-oss.github.io/api/batches/s23/respaid.json"
   },
   {
+    "id": 28957,
+    "name": "Continue",
+    "slug": "continue",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea071d17d03a0effc12bac914da21cd9bee66060.png",
+    "website": "https://continue.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside the IDE",
+    "one_liner": "The leading open-source AI code assistant",
+    "team_size": 4,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1688142176,
+    "tags": [
+      "Developer Tools",
+      "DevSecOps",
+      "Machine Learning",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/continue",
+    "api": "https://yc-oss.github.io/api/batches/s23/continue.json"
+  },
+  {
     "id": 28959,
     "name": "sizeless",
     "slug": "sizeless",
@@ -14167,54 +14213,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kabilah",
     "api": "https://yc-oss.github.io/api/batches/w24/kabilah.json"
-  },
-  {
-    "id": 29246,
-    "name": "Tracecat",
-    "slug": "tracecat",
-    "former_names": [
-      "neometrics.ai",
-      "Neometrics"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
-    "website": "https://tracecat.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tracecat is the open source Tines / Splunk SOAR alternative.\r\n\r\nSecurity engineers use our platform to build AI-assisted workflows that automate investigations and incident response. We're building the easiest way for security teams to fight burnout and reduce mean time to respond.",
-    "one_liner": "Open source Tines / Splunk SOAR alternative for security engineers.",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1704382841,
-    "tags": [
-      "Workflow Automation",
-      "Cybersecurity",
-      "Monitoring",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tracecat",
-    "api": "https://yc-oss.github.io/api/batches/w24/tracecat.json"
   },
   {
     "id": 29251,
@@ -17003,6 +17001,54 @@
     "api": "https://yc-oss.github.io/api/batches/s24/superunit.json"
   },
   {
+    "id": 29579,
+    "name": "Ply Health",
+    "slug": "ply-health",
+    "former_names": [
+      "Ply Health, Inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c454fe31d232865f088e5c89e17be5719d4f75f4.png",
+    "website": "https://plyhealth.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Ply helps behavioral health providers (e.g. therapists, social workers, psychiatrists) see more patients by getting them in network with insurance companies like Aetna or Medicaid. Ply submits enrollments 2x faster using automation and AI enabled data validation.",
+    "one_liner": "Faster way to get providers in-network with payers.",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1715876832,
+    "tags": [
+      "Health Tech",
+      "Healthcare",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ply-health",
+    "api": "https://yc-oss.github.io/api/batches/s24/ply-health.json"
+  },
+  {
     "id": 29582,
     "name": "Cheers",
     "slug": "cheers-2",
@@ -18126,6 +18172,55 @@
     "api": "https://yc-oss.github.io/api/batches/s24/minusx.json"
   },
   {
+    "id": 29688,
+    "name": "camfer",
+    "slug": "camfer",
+    "former_names": [
+      "Camfer Inc.",
+      "Camfer"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ba0416db5787652b7ee49418b79794a3841c659.png",
+    "website": "https://www.camfer.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building the first AI mechanical engineer that collaborates with humans to do design tasks end-to-end. Human engineers can talk to Camfer to build, test, and iterate 3D designs natively on CAD platforms.",
+    "one_liner": "Building the world’s first AI mechanical engineer.",
+    "team_size": 3,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1726008426,
+    "tags": [
+      "Generative AI",
+      "Hardware",
+      "Productivity",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/camfer",
+    "api": "https://yc-oss.github.io/api/batches/s24/camfer.json"
+  },
+  {
     "id": 29697,
     "name": "stormy.ai",
     "slug": "stormy-ai",
@@ -18172,56 +18267,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stormy-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/stormy-ai.json"
-  },
-  {
-    "id": 29703,
-    "name": "dmodel",
-    "slug": "dmodel",
-    "former_names": [
-      "ChipChap",
-      "DAS Intelligence",
-      "d-model"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3696c9745e142e57106326ecee11170df0cc6971.png",
-    "website": "https://www.dmodel.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "dmodel lets companies look inside the mind of an AI model and manipulate its thoughts in real-time. For example, AI-driven customer service platforms can use dmodel to rapidly fine-tune responses for accuracy and brand alignment, without retraining the entire model.",
-    "one_liner": "Look inside the model",
-    "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1725040353,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "Compliance",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dmodel",
-    "api": "https://yc-oss.github.io/api/batches/s24/dmodel.json"
   },
   {
     "id": 29705,
@@ -20175,6 +20220,55 @@
     "api": "https://yc-oss.github.io/api/batches/s24/pipeshift.json"
   },
   {
+    "id": 29952,
+    "name": "Ficra",
+    "slug": "ficra",
+    "former_names": [
+      "SignOp",
+      "Ficra",
+      "Ficra (SignOp)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0dc17fe22b167d4939fbd99c8dd3dcf2bb877cd0.png",
+    "website": "https://ficra.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ficra enables product teams to ship higher quality releases, faster. \r\n\r\nFicra is the source of truth for every product screen and user flow, giving companies real-time visibility into what their users actually see in their live product. Ficra's AI provides a live, visual map of your users’ journeys: every screen, flow, A/B test, push notification and email. \r\n\r\nWith Ficra, product teams no longer waste 25% of their time auditing complex user flows to assess product quality and find the blind spots in funnels.",
+    "one_liner": "Real time, source of truth for every product screen and user flow",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": false,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1725388449,
+    "tags": [
+      "B2B",
+      "Workflow Automation",
+      "Productivity",
+      "Design Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ficra",
+    "api": "https://yc-oss.github.io/api/batches/s24/ficra.json"
+  },
+  {
     "id": 29954,
     "name": "Henry",
     "slug": "henry-2",
@@ -20912,6 +21006,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/protegee",
     "api": "https://yc-oss.github.io/api/batches/f24/protegee.json"
+  },
+  {
+    "id": 30060,
+    "name": "Replexica",
+    "slug": "replexica",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5faeb3f5f19fc832ab39e5ce0996a16b9cf0247.png",
+    "website": "https://replexica.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Replexica automates the localization process end-to-end. It produces authentic translations instantly and eliminates translation management and manual work. Our AI generates pull requests with translations when developers commit UI code changes, avoiding the typical back-and-forth with translation agencies. This helps teams do localization 100x faster, ship to production more often, without bottlenecks.",
+    "one_liner": "Automated AI localization for multilingual software.",
+    "team_size": 2,
+    "highlight_black": false,
+    "highlight_latinx": false,
+    "highlight_women": true,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728389519,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "International",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/replexica",
+    "api": "https://yc-oss.github.io/api/batches/f24/replexica.json"
   },
   {
     "id": 30100,
