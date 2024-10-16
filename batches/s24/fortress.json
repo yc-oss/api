@@ -11,12 +11,9 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fc1e4f30614dc5a29df7ff2e4742770fdf5b9a0.png",
   "website": "https://fortress.build",
   "all_locations": "San Francisco, CA, USA",
-  "long_description": "Fortress is a BYOC database platform for SaaS companies, streamlining the management of customer data across isolated and shared instances through a single interface. We handle network isolation, schema migrations, connection management, and role-based access controls per tenant—all on your cloud.\r\n\r\nGet the data security your clients demand, meet geographical compliance, and reduce latency—without the usual DevOps overhead and only a few changes to your code.",
-  "one_liner": "Tenant isolation simplified for SaaS",
+  "long_description": "Fortress is a Postgres developer platform that makes it simple to globally distribute data (replication and sharding) in a cost-effective manner.  \r\n\r\nDevelopers use Fortress to reduce network latency for their global users, comply with data sovereignty regulations, and for the peace of mind of a platform that manages horizontal scalability. ",
+  "one_liner": "Globally replicated and sharded Postgres",
   "team_size": 3,
-  "highlight_black": false,
-  "highlight_latinx": false,
-  "highlight_women": false,
   "industry": "B2B",
   "subindustry": "B2B -> Engineering, Product and Design",
   "launched_at": 1723763454,
@@ -44,7 +41,7 @@
   "app_video_public": false,
   "demo_day_video_public": false,
   "app_answers": null,
-  "question_answers": true,
+  "question_answers": false,
   "url": "https://www.ycombinator.com/companies/fortress",
   "api": "https://yc-oss.github.io/api/batches/s24/fortress.json"
 }
