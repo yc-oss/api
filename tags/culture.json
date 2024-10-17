@@ -10,9 +10,6 @@
     "long_description": "Qulture.Rocks makes people management, OKR management, and culture management software for some of the world's most innovative companies, backed by the likes of Founders Fund, Blackstone, Sequoia, and Tiger Global.\r\n\r\nOur suite of products encompasses 1:1s, engagement surveys, performance reviews, OKRs/goals, ongoing feedback, and peer to peer recognition, and integrates seamlessly with your existing software (including Slack).\r\n\r\nWe also help our customers design their processes, which is of special help for startups and scaleups implementing these practices for the first time.",
     "one_liner": "The people, management, and culture operating system for your startup.",
     "team_size": 70,
-    "highlight_black": false,
-    "highlight_latinx": true,
-    "highlight_women": false,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1513137768,
@@ -89,5 +86,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spokn",
     "api": "https://yc-oss.github.io/api/batches/w21/spokn.json"
+  },
+  {
+    "id": 30023,
+    "name": "PearAI",
+    "slug": "pearai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc66990c87e4d8f300d62eedff5460f882406da.png",
+    "website": "https://trypear.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "PearAI is an open source AI code editor. Think a better GitHub Copilot, or an open source and extendable Cursor... But it's much more than that.\r\n\r\n[Context]\r\nPearAI is becoming a curator of the best AI tools available. We started off with integrating Continue for our AI chat, and we're now integrating more AI tooling which serve different layers of the AI tech stack. This is called the PearAI Inventory, which holds all the AI tooling available.\r\n\r\n[Problem Statement]\r\n- Developers have other needs which a simple AI chat itself does not satisfy, necessitating them to still rely on other AI tools, such as Perplexity, mem0, v0, etc. There are many useful layers of the AI tech stack (e.g. code generation, applying edits, file generation, up-to-date AI search, RAG, terminal, personalization/memory, deployment, image generation, voice, etc.), and not all are currently satisfied by existing AI editors, which mostly try to be a one-size-fit-all solution.\r\n- Most developers do not know what the latest AI tools are, or how to use them. Even if they know, the latest AI tools constantly update, and change very fast, it’s difficult for the average developer to stay up to date (most developers still use the unpaid version of ChatGPT!).\r\n- For power users of AI tools, which are a small minority, they have to subscribe to multiple AI tools (Perplexity, ChatGPT, Claude, Cursor, etc.), each that do better at specific use cases. This causes overspending, additional context switching during workflows, and simply the inconvenience of managing multiple not fully utilized pricy subscriptions.\r\n- Enterprises also require more privacy safety which closed source AI tooling does not provide. We have already seen many companies express this concern, and that an open source version would be much safer.\r\n\r\n[Solution]\r\n- Each layer of the AI tech stack has existing products fully dedicated to perfecting those specific layers. We integrate the best ones for each layer into PearAI, creating the most useful, and effortless user experience one can have with AI coding. \r\n- PearAI is open source, allowing AI integrations to be easier, and the active community to help support it. This also helps with privacy, as enterprises can see that their data is not being stored from the app.\r\n\r\nExisting users have expressed an up to 5x speed up for their development workflow. Try out PearAI today for free: https://trypear.ai/download.\r\n",
+    "one_liner": "The Open-Source AI Code Editor",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1727484339,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Culture"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/pearai",
+    "api": "https://yc-oss.github.io/api/batches/f24/pearai.json"
   }
 ]

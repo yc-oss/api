@@ -7,20 +7,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc66990c87e4d8f300d62eedff5460f882406da.png",
     "website": "https://trypear.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "PearAI is an open source AI code editor. Think a better GitHub Copilot, or an open source Cursor... But it's much more than that. Started out as a fork of VSCode and Continue. Crazy stuff coming soon... you won't wanna miss it!\r\n\r\nTry out PearAI today for free: https://trypear.ai/download.\r\n",
+    "long_description": "PearAI is an open source AI code editor. Think a better GitHub Copilot, or an open source and extendable Cursor... But it's much more than that.\r\n\r\n[Context]\r\nPearAI is becoming a curator of the best AI tools available. We started off with integrating Continue for our AI chat, and we're now integrating more AI tooling which serve different layers of the AI tech stack. This is called the PearAI Inventory, which holds all the AI tooling available.\r\n\r\n[Problem Statement]\r\n- Developers have other needs which a simple AI chat itself does not satisfy, necessitating them to still rely on other AI tools, such as Perplexity, mem0, v0, etc. There are many useful layers of the AI tech stack (e.g. code generation, applying edits, file generation, up-to-date AI search, RAG, terminal, personalization/memory, deployment, image generation, voice, etc.), and not all are currently satisfied by existing AI editors, which mostly try to be a one-size-fit-all solution.\r\n- Most developers do not know what the latest AI tools are, or how to use them. Even if they know, the latest AI tools constantly update, and change very fast, it’s difficult for the average developer to stay up to date (most developers still use the unpaid version of ChatGPT!).\r\n- For power users of AI tools, which are a small minority, they have to subscribe to multiple AI tools (Perplexity, ChatGPT, Claude, Cursor, etc.), each that do better at specific use cases. This causes overspending, additional context switching during workflows, and simply the inconvenience of managing multiple not fully utilized pricy subscriptions.\r\n- Enterprises also require more privacy safety which closed source AI tooling does not provide. We have already seen many companies express this concern, and that an open source version would be much safer.\r\n\r\n[Solution]\r\n- Each layer of the AI tech stack has existing products fully dedicated to perfecting those specific layers. We integrate the best ones for each layer into PearAI, creating the most useful, and effortless user experience one can have with AI coding. \r\n- PearAI is open source, allowing AI integrations to be easier, and the active community to help support it. This also helps with privacy, as enterprises can see that their data is not being stored from the app.\r\n\r\nExisting users have expressed an up to 5x speed up for their development workflow. Try out PearAI today for free: https://trypear.ai/download.\r\n",
     "one_liner": "The Open-Source AI Code Editor",
     "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1727484339,
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "Open Source"
+      "Open Source",
+      "Culture"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -254,9 +251,6 @@
     "long_description": "Sandra builds multilingual voice AI receptionists, specifically designed for car dealerships. It seamlessly handles customer calls—whether for appointments, service details, availability, or more—offering a natural, human-like experience 24/7. \r\n\r\nWhat sets Sandra apart is its deep integration with dealership management systems, allowing it to manage even the most complex queries. This ensures no calls or leads are missed, boosting both customer satisfaction and team efficiency.\r\n\r\nThe car dealership industry handles over 3 billion calls annually, with each call averaging 4 to 6 minutes. Traditional call centers charge between $1 and $2 per minute, depending on the complexity of the service. Thus, we estimate the total addressable market for inbound calls alone to exceed $26 billion a year. This does not even account for future opportunities in outbound calls.\r\n\r\nBefore launching Sandra, the founding team spent years working in the automotive and call center industries during their time at McKinsey. The three co-founders graduated in Data Science and AI from institutions like MIT, Ecole Polytechnique and HEC Paris.\r\n",
     "one_liner": "Sandra AI builds the leading voice AI receptionist for car dealerships",
     "team_size": 3,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1727911106,
@@ -382,9 +376,6 @@
     "long_description": "Astrix offers an SDK designed for health tech developers to create safer, more reliable LLM applications. Our platform helps identify clinical safety issues, generate synthetic medical data, and conduct thorough application testing, allowing developers to quickly deliver powerful, safe generative AI solutions that benefit patients and providers alike.",
     "one_liner": "Astrix is the toolkit for building safer health LLM applications.",
     "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": false,
-    "highlight_women": false,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1728327995,
@@ -414,6 +405,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/astrix-health",
     "api": "https://yc-oss.github.io/api/batches/f24/astrix-health.json"
+  },
+  {
+    "id": 30050,
+    "name": "Circlemind",
+    "slug": "circlemind",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6841cc02f948f6063ec7e9690d52d98b446b92c.png",
+    "website": "https://circlemind.co",
+    "all_locations": "",
+    "long_description": "Circlemind is developing the next-generation of memory systems for AI that surpasses current Retrieval Augmented Generation (RAG) methods. Our technology allows for efficient, interpretable, and context-aware reasoning and retrieval.",
+    "one_liner": "Intelligent memory & retrieval for AI",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1729125196,
+    "tags": [
+      "Deep Learning",
+      "Developer Tools",
+      "Generative AI",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/circlemind",
+    "api": "https://yc-oss.github.io/api/batches/f24/circlemind.json"
   },
   {
     "id": 30051,
@@ -516,9 +548,6 @@
     "long_description": "Chat with Manicode to edit your codebase. It's like a junior engineer at your command, but faster! Get it now:\r\n```\r\n> npm install -g manicode\r\n```\r\nRun `manicode` from your project directory. It will read and write to files in your project to produce the code you want.\r\n\r\nManicode is different from all the other coding agents, we swear!\r\n\r\nWhy it's cool:\r\n- **It chooses files to read automatically on each message** — unlike Cursor’s composer feature. This saves you time and makes Manicode respond more comprehensively.\r\n- **It takes 0 clicks** — type your instructions and Manicode will edit your files directly. It's simple and fast. Theoretically, you can do all your development by just chatting with it!\r\n- **It has full access to your terminal** — Manicode can run terminal commands to install packages, run tests, check for type errors, etc. Manicode is an engineer working for you.",
     "one_liner": "Code with AI from our CLI",
     "team_size": 2,
-    "highlight_black": false,
-    "highlight_latinx": true,
-    "highlight_women": false,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1728685475,
@@ -548,6 +577,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/manicode",
     "api": "https://yc-oss.github.io/api/batches/f24/manicode.json"
+  },
+  {
+    "id": 30065,
+    "name": "BeerMe",
+    "slug": "beerme",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e0650ba9f1acc1bda5cfdcdba5b62f3ddf00ae2.png",
+    "website": "https://beerme.world/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "BeerMe is a community payments platform that makes sending money fun and personal. Send an old friend a couple beers ($16) on his birthday. Text your daughter a coffee ($5) to brighten her finals week. Slack your team little treats ($4 each) at the end of a long sprint. With a curated library of tokens, any moment becomes an occasion. Like all social media content, tokens can be sent via private, anonymous links on any platform where people stay connected. Transfers are instant, global, and free. Track and manage tokens, swap for other options, or cash out USDC to any crypto wallet or exchange. With BeerMe, there’s a token for every moment.",
+    "one_liner": "A fun, global alternative to Venmo built on USDC",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1729059342,
+    "tags": [
+      "Crypto / Web3",
+      "Payments",
+      "Consumer",
+      "Messaging",
+      "Social Media"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Social"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/beerme",
+    "api": "https://yc-oss.github.io/api/batches/f24/beerme.json"
   },
   {
     "id": 30080,
