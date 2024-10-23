@@ -5037,7 +5037,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -5154,48 +5154,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stably",
     "api": "https://yc-oss.github.io/api/batches/w22/stably.json"
-  },
-  {
-    "id": 25348,
-    "name": "Sei",
-    "slug": "sei",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/866cec0759154ee708c6b843e16d3f00f9d773be.png",
-    "website": "https://seiright.com/",
-    "all_locations": "Delhi, DL, India",
-    "long_description": "Simplify your regulatory compliance. Sei's AI agents sit alongside your risk and compliance teams, amplifying impact and scale",
-    "one_liner": "AI-powered Regulatory Compliance Platform",
-    "team_size": null,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1646055749,
-    "tags": [
-      "Compliance",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sei",
-    "api": "https://yc-oss.github.io/api/batches/w22/sei.json"
   },
   {
     "id": 25351,
@@ -8413,51 +8371,6 @@
     "api": "https://yc-oss.github.io/api/batches/w23/linum.json"
   },
   {
-    "id": 27687,
-    "name": "Layup",
-    "slug": "layup",
-    "former_names": [
-      "Regular"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/255e38f2963e8e6b4a44618432d95a3aeb5fde2c.png",
-    "website": "http://www.layuplabs.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Layup streamlines hiring by using an AI-driven interviewer to conduct screening interviews over the phone We help companies connect with more candidates faster, allowing hiring teams to build relationships with the best-fit applicants. For candidates, this means less waiting and a more respectful process.",
-    "one_liner": "AI voice agent for faster, fairer hiring",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1673145828,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Recruiting",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/layup",
-    "api": "https://yc-oss.github.io/api/batches/w23/layup.json"
-  },
-  {
     "id": 27690,
     "name": "Credal.ai",
     "slug": "credal-ai",
@@ -9975,6 +9888,54 @@
     "api": "https://yc-oss.github.io/api/batches/w23/fairway-health.json"
   },
   {
+    "id": 27952,
+    "name": "Finic",
+    "slug": "finic",
+    "former_names": [
+      "Triton",
+      "Buff",
+      "Sidekick"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20b67a9c14a3fc190679ba18dfb471c42aceba8e.png",
+    "website": "https://www.finic.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Finic provides browser infrastructure for developers building browser automations. Only 20% of the work of browser automation is writing the code - the other 80% is making sure it works in production.\r\n\r\nThis involves routing requests through residential proxies, saving and loading session cookies, fixing broken selectors, and dozens of other tasks that are needed to make the automation resilient to website updates and bot detectors.\r\n\r\nFinic handles this network level infrastructure so developers can focus on the business logic. They get a browser in the cloud configured to be indistinguishable from humans, and which can be controlled remotely using Playwright.",
+    "one_liner": "Browser automations that just work",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1677272534,
+    "tags": [
+      "B2B",
+      "Data Engineering",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/finic",
+    "api": "https://yc-oss.github.io/api/batches/w23/finic.json"
+  },
+  {
     "id": 27956,
     "name": "Hippo Scribe",
     "slug": "hippo-scribe",
@@ -10641,49 +10602,6 @@
     "api": "https://yc-oss.github.io/api/batches/w23/automat.json"
   },
   {
-    "id": 28707,
-    "name": "Kino AI",
-    "slug": "kino-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/236edce8d65891082c7aa4675c370a79d943bee2.png",
-    "website": "https://kino.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kino automatically organizes footage to make video editing faster and more enjoyable. Kino saves hours every day for all types of video creation, from Youtube content to Hollywood blockbusters.\r\n\r\nCheck out our demo! https://www.youtube.com/watch?v=lwon6fWvmco\r\n\r\nJoin the beta at https://kino.ai/beta",
-    "one_liner": "Kino automatically organizes footage to make video editing faster. ",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1689168813,
-    "tags": [
-      "Computer Vision",
-      "B2B",
-      "Video",
-      "Media",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kino-ai",
-    "api": "https://yc-oss.github.io/api/batches/s23/kino-ai.json"
-  },
-  {
     "id": 28802,
     "name": "Sohar Health",
     "slug": "sohar-health",
@@ -11124,6 +11042,51 @@
     "api": "https://yc-oss.github.io/api/batches/s23/spine-ai.json"
   },
   {
+    "id": 28841,
+    "name": "SuperCraft",
+    "slug": "supercraft",
+    "former_names": [
+      "Neuralyze"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e253b8344133fe4ca5b396057dd1384ef5081503.png",
+    "website": "https://supercraft.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "SuperCraft is a generative design software for physical products\r\n\r\nJoin thousands of designers using SuperCraft to make apparel, packaging, home appliances, gadgets, furniture and more",
+    "one_liner": "Figma for designing physical products",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1688534176,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Productivity",
+      "Design Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/supercraft",
+    "api": "https://yc-oss.github.io/api/batches/s23/supercraft.json"
+  },
+  {
     "id": 28849,
     "name": "Agentive",
     "slug": "agentive",
@@ -11343,6 +11306,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/serra",
     "api": "https://yc-oss.github.io/api/batches/s23/serra.json"
+  },
+  {
+    "id": 28867,
+    "name": "Shasta Health",
+    "slug": "shasta-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0ddbae01a1bda2827881248dc2c26ab87f27982.png",
+    "website": "https://www.shasta.health",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Shasta Health enables physical therapists to go independent, so they make 3X more than working for a traditional clinic. Our AI agents automatically find patients, handle scheduling, and bill insurance so our PTs can focus on providing care.\r\n\r\nPatients get a concierge in-home appointment that's fully covered by insurance, instead of being stuck on endless waitlists. Book an appointment today at www.shasta.health",
+    "one_liner": "Get physical therapy at home, covered by insurance",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1690927737,
+    "tags": [
+      "Generative AI",
+      "Computer Vision",
+      "Digital Health",
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shasta-health",
+    "api": "https://yc-oss.github.io/api/batches/s23/shasta-health.json"
   },
   {
     "id": 28869,
@@ -11879,49 +11885,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/respaid.json"
   },
   {
-    "id": 28957,
-    "name": "Continue",
-    "slug": "continue",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea071d17d03a0effc12bac914da21cd9bee66060.png",
-    "website": "https://continue.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside the IDE",
-    "one_liner": "The leading open-source AI code assistant",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1688142176,
-    "tags": [
-      "Developer Tools",
-      "DevSecOps",
-      "Machine Learning",
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/continue",
-    "api": "https://yc-oss.github.io/api/batches/s23/continue.json"
-  },
-  {
     "id": 28959,
     "name": "sizeless",
     "slug": "sizeless",
@@ -12288,23 +12251,23 @@
   },
   {
     "id": 29007,
-    "name": "ProdTrace",
-    "slug": "prodtrace",
+    "name": "Smoothspeak",
+    "slug": "smoothspeak",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adbc583e53670b508ec0ec7ef87f5417e4715329.png",
-    "website": "https://www.prodtrace.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5eb7784065a8156fe021cef815b7ee7e46418cef.png",
+    "website": "https://www.smoothspeak.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Keep your NPI programs on track and budget with ProdTrace. ProdTrace is a traceability platform that tracks changes across your PDM, PLM, ERP, emails, and documents. Don't miss another update to your design, lead time, or cost.\r\n\r\nProdTrace’s founding team has deep expertise building hardware and software across Google, a hardware unicorn, and the Stanford AI and robotics lab.",
-    "one_liner": "Keep your NPI programs on schedule and on budget",
+    "long_description": "Smoothspeak is an AI dating coach that you can text. We help you land more dates by improving how you text and speak in romantic scenarios through customized text suggestions and voice role play challenges.",
+    "one_liner": "Your personal AI dating coach",
     "team_size": 2,
-    "industry": "B2B",
+    "industry": "Consumer",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1689495664,
     "tags": [
       "Artificial Intelligence",
-      "Hardware",
-      "B2B",
-      "Supply Chain",
+      "Consumer",
+      "Gaming",
+      "Dating",
       "AI"
     ],
     "tags_highlighted": [],
@@ -12314,8 +12277,7 @@
     "batch": "S23",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -12326,8 +12288,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/prodtrace",
-    "api": "https://yc-oss.github.io/api/batches/s23/prodtrace.json"
+    "url": "https://www.ycombinator.com/companies/smoothspeak",
+    "api": "https://yc-oss.github.io/api/batches/s23/smoothspeak.json"
   },
   {
     "id": 29018,
@@ -14115,51 +14077,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tusk",
     "api": "https://yc-oss.github.io/api/batches/w24/tusk.json"
-  },
-  {
-    "id": 29314,
-    "name": "Lucite",
-    "slug": "lucite",
-    "former_names": [
-      "My Analyst",
-      "MyAnalyst"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e4f45a894d15ee1b96835a2cd9151bfb1e23022.png",
-    "website": "https://www.lucite.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Lucite is a finance productivity software that automates investment banking-style presentations and research. Led by a former investment banker / investor and a former Meta software engineer, the team is changing the finance professional workflow by automating tedious work and unlocking time for analysis and human expertise. Lucite's free demo, live on its website, generates presentations for public and private companies by searching the web, analyzing public filings, integrating with financial data sources, and leveraging LLMs. Through its enterprise offering, Lucite embeds directly into the workflow and automates slides in the customers' custom format with proprietary data integrations. ",
-    "one_liner": "Automating deliverables for finance professionals. ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1705081211,
-    "tags": [
-      "SaaS",
-      "Finance",
-      "Productivity",
-      "Investing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lucite",
-    "api": "https://yc-oss.github.io/api/batches/w24/lucite.json"
   },
   {
     "id": 29322,
@@ -16377,6 +16294,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/superunit.json"
   },
   {
+    "id": 29575,
+    "name": "Ceejay",
+    "slug": "ceejay",
+    "former_names": [
+      "SuperFilter"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa7a9ad5515cb67d23f321abf4851733201f76a1.png",
+    "website": "https://tryceejay.com",
+    "all_locations": "Remote",
+    "long_description": "Ceejay has access to your email and calendar and manages them like a human executive assistant. Ceejay notifies you about important messages, can search your inbox and schedule for relevant info, and manages your time (with your approval, of course). Your assistant is always working, improves as you use it, and will never take another job. If you want to be more responsive without sacrificing focus and peace of mind, try Ceejay today.",
+    "one_liner": "An expert assistant ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1724163637,
+    "tags": [
+      "Productivity",
+      "Email",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ceejay",
+    "api": "https://yc-oss.github.io/api/batches/s24/ceejay.json"
+  },
+  {
     "id": 29579,
     "name": "Ply Health",
     "slug": "ply-health",
@@ -16982,6 +16943,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/firstwork",
     "api": "https://yc-oss.github.io/api/batches/s24/firstwork.json"
+  },
+  {
+    "id": 29654,
+    "name": "Moonglow",
+    "slug": "moonglow",
+    "former_names": [
+      "Kopfkino"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7782bd4ff8b915f629867117b0ee24a39f15ab9.png",
+    "website": "https://moonglow.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Moonglow connects local Jupyter notebooks to remote cloud compute. Machine learning researchers and data scientists use us to scale up their experiments without having to do DevOps.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at NeurIPS, ICLR and ACL.\r\n\r\nWith the explosive growth of deep learning, there are over 1 million ML researchers who do computationally intensive experiments every day. They use Jupyter notebooks to do so, but every time they want to try out a new idea, they need to get the notebooks running on cloud machines. This process, repeated hundreds of times a month, is time-consuming and error-prone.\r\n\r\nMoonglow reliably brings the time-to-experiment down from 5 minutes to 20 seconds. Just as Vercel and Replit abstracted away the lower levels of the computing stack for web developers and programmers, we do the same for ML researchers.\r\n\r\nhttps://moonglow.ai\r\n",
+    "one_liner": "Connecting local Jupyter notebooks to remote cloud compute.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1721868567,
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "DevOps",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moonglow",
+    "api": "https://yc-oss.github.io/api/batches/s24/moonglow.json"
   },
   {
     "id": 29657,
@@ -17955,6 +17961,54 @@
     "api": "https://yc-oss.github.io/api/batches/s24/lumenary.json"
   },
   {
+    "id": 29746,
+    "name": "Drillbit",
+    "slug": "drillbit",
+    "former_names": [
+      "Dashlar",
+      "Brazos.ai",
+      "brazos.ai",
+      "Brazos.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4419cef5f696d4d8b3e4389332b904cebf532d72.png",
+    "website": "https://www.drillbit.com",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "Residential contractors are drowning in office work. Drillbit automates all of it. We use AI receptionists and an LLM based quoting tool on top of our own CRM to entirely manage jobs from lead, to quote, to scheduling, to staffing, and even collecting payment.",
+    "one_liner": "Automating Office Work for Residential Contractors.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1721586663,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/drillbit",
+    "api": "https://yc-oss.github.io/api/batches/s24/drillbit.json"
+  },
+  {
     "id": 29747,
     "name": "deepsilicon",
     "slug": "deepsilicon",
@@ -18210,6 +18264,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/modern-realty",
     "api": "https://yc-oss.github.io/api/batches/s24/modern-realty.json"
+  },
+  {
+    "id": 29761,
+    "name": "Distro",
+    "slug": "distro",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/499bf69da05f9cd925def17274cd2ef5f91c8a22.png",
+    "website": "https://distro.app",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "Distro is the all-in-one AI-powered sales platform for counter staff and inside sales at industrial wholesale distributors (HVAC/R, plumbing, electrical, and more).",
+    "one_liner": "The AI co-pilot for sales reps at industrial wholesale distributors.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1715554333,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Manufacturing",
+      "Supply Chain",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/distro",
+    "api": "https://yc-oss.github.io/api/batches/s24/distro.json"
   },
   {
     "id": 29764,
@@ -19173,48 +19272,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tradeflow",
     "api": "https://yc-oss.github.io/api/batches/s24/tradeflow.json"
-  },
-  {
-    "id": 29848,
-    "name": "Saldor",
-    "slug": "saldor",
-    "former_names": [
-      "Ovation"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a075f23bbd8f7661151fbd5110d6e48d39a3b3a.png",
-    "website": "https://saldor.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Making Neurosymbolic AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1722921255,
-    "tags": [
-      "Generative AI",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/saldor",
-    "api": "https://yc-oss.github.io/api/batches/s24/saldor.json"
   },
   {
     "id": 29849,

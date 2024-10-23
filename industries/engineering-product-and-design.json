@@ -13855,7 +13855,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2c91c467d6826fc9888627093516dbe795e1a6f.png",
     "website": "https://nango.dev",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Customers expect your SaaS to integrate with their ever-growing stack natively.\r\n\r\nShip any product integration fast with Nango. Leverage pre-built integrations and limitless customization.",
+    "long_description": "Customers expect your SaaS to integrate with all the software they use.\r\n\r\nWith Nango, you ship integrations your customers love, fast.\r\n\r\nLeverage hundreds of pre-built integrations and unlimited customization.",
     "one_liner": "A single API for all your integrations",
     "team_size": 6,
     "industry": "B2B",
@@ -15862,18 +15862,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e253b8344133fe4ca5b396057dd1384ef5081503.png",
     "website": "https://supercraft.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "SuperCraft helps teams design and visualize great physical products\r\n\r\nIndustrial designers use SuperCraft's node based collaborative canvas to prototype and design physical products across industries such as consumer electronics, furniture design, automotive and apparel\r\n\r\nWe use state of the art 2D and 3D generation techniques to help industrial designers design anything that they want.",
+    "long_description": "SuperCraft is a generative design software for physical products\r\n\r\nJoin thousands of designers using SuperCraft to make apparel, packaging, home appliances, gadgets, furniture and more",
     "one_liner": "Figma for designing physical products",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1688534176,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Productivity",
-      "Design Tools"
+      "Design Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16074,17 +16074,23 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a2d106f9cdebdba12fd6e7d00d9e948e77f5be.png",
     "website": "https://www.metalware.com/",
-    "all_locations": "",
-    "long_description": "Metalware is a black box binary analysis tool for fuzzing embedded architectures like ARM Cortex running RTOS or bare metal. Automatically detect zero-day and unknown vulnerabilities to reduce risk from hardware threat vectors.",
-    "one_liner": "Fuzz testing for embedded software",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Metalware builds cybersecurity tools for firmware. We fuzz and detect security and reliability issues in software running on drones, satellites, medical devices, electric vehicles, industrial controllers, and more.",
+    "one_liner": "Cybersecurity for firmware",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689732876,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Hardware",
+      "Cybersecurity",
+      "Enterprise"
+    ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -16093,7 +16099,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -16154,16 +16161,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside the IDE",
     "one_liner": "The leading open-source AI code assistant",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688142176,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "DevSecOps",
       "Machine Learning",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16419,49 +16426,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inari",
     "api": "https://yc-oss.github.io/api/batches/s23/inari.json"
-  },
-  {
-    "id": 29007,
-    "name": "ProdTrace",
-    "slug": "prodtrace",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adbc583e53670b508ec0ec7ef87f5417e4715329.png",
-    "website": "https://www.prodtrace.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Keep your NPI programs on track and budget with ProdTrace. ProdTrace is a traceability platform that tracks changes across your PDM, PLM, ERP, emails, and documents. Don't miss another update to your design, lead time, or cost.\r\n\r\nProdTrace’s founding team has deep expertise building hardware and software across Google, a hardware unicorn, and the Stanford AI and robotics lab.",
-    "one_liner": "Keep your NPI programs on schedule and on budget",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1689495664,
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "B2B",
-      "Supply Chain",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/prodtrace",
-    "api": "https://yc-oss.github.io/api/batches/s23/prodtrace.json"
   },
   {
     "id": 29010,
@@ -18398,7 +18362,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -19444,11 +19408,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721868567,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
       "DevOps",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20615,15 +20579,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a075f23bbd8f7661151fbd5110d6e48d39a3b3a.png",
     "website": "https://saldor.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Making Neurosymbolic AI",
+    "long_description": "Using formal verification to guide LLMs to correctness.",
+    "one_liner": "Neurosymbolic AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722921255,
     "tags": [
-      "Generative AI",
-      "AI"
+      "Artificial Intelligence",
+      "Generative AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

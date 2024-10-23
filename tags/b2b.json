@@ -24782,7 +24782,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Chariot is building financial products for nonprofits, starting with the first ever online payment system connecting Donor Advised Funds (DAFs) with nonprofits. DAF’s have $230 billion in assets and grant out over $52 billion per year to nonprofits. It’s the fastest growing segment of philanthropy, by far.\r\n\r\nChariot now powers seamless DAF giving for tens of thousands of nonprofits, including some of the most well-known nonprofits in the country, like Memorial Sloan Kettering Cancer Center, Central Park Conservancy, Boys & Girls Club of America, Pan-Mass Challenge, and March of Dimes. \r\n\r\nDAFpay is also now a primary payment option on leading fundraising platforms like GoFundMe, Givebutter, DonorDrive, Springboard by Jackson River, Engaging Networks, and dozens more. We are already driving tens of millions in new online DAF Giving by thousands of donors, and we’re only getting started.",
     "one_liner": "A payment network connecting nonprofits to the $229B in DAFs",
-    "team_size": 12,
+    "team_size": 14,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1656346176,
@@ -28752,10 +28752,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1673145828,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Recruiting",
-      "AI"
+      "Recruiting"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31041,17 +31041,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20b67a9c14a3fc190679ba18dfb471c42aceba8e.png",
     "website": "https://www.finic.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Finic provides browser infrastructure for developers building web scrapers, browser automations, and AI agents. Only 20% of the work involved in building a web scraper or automation is writing the code - the other 80% is making sure it works in production.\r\n\r\nThis involves routing requests through residential proxies, saving and loading session cookies, fixing broken selectors, and dozens of other tasks that are needed to make the automation resilient to website updates and bot detectors.\r\n\r\nFinic handles this network level infrastructure so developers can focus on the business logic. They get a browser in the cloud configured to be indistinguishable from humans, and which can be controlled remotely using libraries they're already familiar with like Playwright or Puppeteer.",
-    "one_liner": "Build web scrapers and browser automations that \"just work\"",
+    "long_description": "Finic provides browser infrastructure for developers building browser automations. Only 20% of the work of browser automation is writing the code - the other 80% is making sure it works in production.\r\n\r\nThis involves routing requests through residential proxies, saving and loading session cookies, fixing broken selectors, and dozens of other tasks that are needed to make the automation resilient to website updates and bot detectors.\r\n\r\nFinic handles this network level infrastructure so developers can focus on the business logic. They get a browser in the cloud configured to be indistinguishable from humans, and which can be controlled remotely using Playwright.",
+    "one_liner": "Browser automations that just work",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1677272534,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Data Engineering",
-      "Web Development"
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32655,7 +32655,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -32895,49 +32895,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hylight",
     "api": "https://yc-oss.github.io/api/batches/s23/hylight.json"
-  },
-  {
-    "id": 28707,
-    "name": "Kino AI",
-    "slug": "kino-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/236edce8d65891082c7aa4675c370a79d943bee2.png",
-    "website": "https://kino.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kino automatically organizes footage to make video editing faster and more enjoyable. Kino saves hours every day for all types of video creation, from Youtube content to Hollywood blockbusters.\r\n\r\nCheck out our demo! https://www.youtube.com/watch?v=lwon6fWvmco\r\n\r\nJoin the beta at https://kino.ai/beta",
-    "one_liner": "Kino automatically organizes footage to make video editing faster. ",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1689168813,
-    "tags": [
-      "Computer Vision",
-      "B2B",
-      "Video",
-      "Media",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kino-ai",
-    "api": "https://yc-oss.github.io/api/batches/s23/kino-ai.json"
   },
   {
     "id": 28744,
@@ -33616,18 +33573,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e253b8344133fe4ca5b396057dd1384ef5081503.png",
     "website": "https://supercraft.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "SuperCraft helps teams design and visualize great physical products\r\n\r\nIndustrial designers use SuperCraft's node based collaborative canvas to prototype and design physical products across industries such as consumer electronics, furniture design, automotive and apparel\r\n\r\nWe use state of the art 2D and 3D generation techniques to help industrial designers design anything that they want.",
+    "long_description": "SuperCraft is a generative design software for physical products\r\n\r\nJoin thousands of designers using SuperCraft to make apparel, packaging, home appliances, gadgets, furniture and more",
     "one_liner": "Figma for designing physical products",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1688534176,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Productivity",
-      "Design Tools"
+      "Design Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34835,49 +34792,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inari",
     "api": "https://yc-oss.github.io/api/batches/s23/inari.json"
-  },
-  {
-    "id": 29007,
-    "name": "ProdTrace",
-    "slug": "prodtrace",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adbc583e53670b508ec0ec7ef87f5417e4715329.png",
-    "website": "https://www.prodtrace.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Keep your NPI programs on track and budget with ProdTrace. ProdTrace is a traceability platform that tracks changes across your PDM, PLM, ERP, emails, and documents. Don't miss another update to your design, lead time, or cost.\r\n\r\nProdTrace’s founding team has deep expertise building hardware and software across Google, a hardware unicorn, and the Stanford AI and robotics lab.",
-    "one_liner": "Keep your NPI programs on schedule and on budget",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1689495664,
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "B2B",
-      "Supply Chain",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/prodtrace",
-    "api": "https://yc-oss.github.io/api/batches/s23/prodtrace.json"
   },
   {
     "id": 29010,
@@ -40306,9 +40220,9 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1721586663,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40327,7 +40241,7 @@
       "Partly Remote"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": true,
     "question_answers": true,
@@ -40482,11 +40396,11 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1715554333,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Manufacturing",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42473,6 +42387,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openfunnel",
     "api": "https://yc-oss.github.io/api/batches/f24/openfunnel.json"
+  },
+  {
+    "id": 30041,
+    "name": "Revyl",
+    "slug": "revyl",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/711329d9565ffe6020950612deecb8f5845b82f5.png",
+    "website": "https://www.revyl.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Revyl is an observability platform that automatically catches and triages bugs before they reach production.",
+    "one_liner": "Proactive observability",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1729643205,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/revyl",
+    "api": "https://yc-oss.github.io/api/batches/f24/revyl.json"
   },
   {
     "id": 30043,
