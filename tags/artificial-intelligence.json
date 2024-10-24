@@ -8450,7 +8450,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -9882,6 +9882,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mosaicvoice",
     "api": "https://yc-oss.github.io/api/batches/w22/mosaicvoice.json"
+  },
+  {
+    "id": 25575,
+    "name": "Beam",
+    "slug": "beam",
+    "former_names": [
+      "Slai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf7324872fe6b37d7579334928f7018d2099483b.png",
+    "website": "https://beam.cloud",
+    "all_locations": "New York, NY, USA; Cambridge, MA, USA",
+    "long_description": "Deploy inference endpoints, train AI models, run task queues, and autoscale to hundreds of GPUs. ",
+    "one_liner": "Serverless Cloud for Busy Developers",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1641494547,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/beam",
+    "api": "https://yc-oss.github.io/api/batches/w22/beam.json"
   },
   {
     "id": 25585,
@@ -12041,6 +12087,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fini",
     "api": "https://yc-oss.github.io/api/batches/s22/fini.json"
+  },
+  {
+    "id": 27042,
+    "name": "Artemis Search",
+    "slug": "artemis-search",
+    "former_names": [
+      "Artemis",
+      "Artemis Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/002e53ddce5bb4318d71a6b7c48c2417fb3ad159.png",
+    "website": "https://search-artemis.com/",
+    "all_locations": "San Francisco, CA, USA; Rochester, MN, USA; Remote",
+    "long_description": "Artemis Search is a vector database search with a twist. We use special-purpose deep-learning models instead of using textual / semantic similarity to evaluate how good a search result is.\r\n\r\nThis enables us to actually reason how well search results match the intent of the search query, eliminating the problems that come from evaluating search results on how much they look like the search query.",
+    "one_liner": "A search technology that actually finds what you’re looking for.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1656613108,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "SaaS",
+      "B2B",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/artemis-search",
+    "api": "https://yc-oss.github.io/api/batches/s22/artemis-search.json"
   },
   {
     "id": 27141,
@@ -17849,48 +17942,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/tile.json"
   },
   {
-    "id": 29259,
-    "name": "Newton",
-    "slug": "newton",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60be510d2b328f6b4aef95a5b8356c88055a5ee2.png",
-    "website": "https://joinnewton.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI-Powered Phones and Payments for Retail Healthcare",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1704170538,
-    "tags": [
-      "Artificial Intelligence",
-      "Payments",
-      "Scheduling",
-      "Healthcare",
-      "Telecommunications"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/newton",
-    "api": "https://yc-oss.github.io/api/batches/w24/newton.json"
-  },
-  {
     "id": 29260,
     "name": "Quary",
     "slug": "quary",
@@ -19682,7 +19733,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -20018,7 +20069,7 @@
     "all_locations": "",
     "long_description": "Openmart is an AI alternative to ZoomInfo that helps sales professionals query millions of unstructured business data like websites, reviews and socials. Kathryn and Richard met at Pinterest in 2019 and later both joined seed-stage startups. Richard developed LLM and AI agents before ChatGPT, while Kathryn led GTM and drove revenue growth from 0 to 1.",
     "one_liner": "AI alternative to ZoomInfo",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1704760449,
@@ -24746,24 +24797,25 @@
     "api": "https://yc-oss.github.io/api/batches/f24/pearai.json"
   },
   {
-    "id": 30041,
-    "name": "Revyl",
-    "slug": "revyl",
+    "id": 30038,
+    "name": "Lightscreen AI",
+    "slug": "lightscreen-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/711329d9565ffe6020950612deecb8f5845b82f5.png",
-    "website": "https://www.revyl.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Revyl is an observability platform that automatically catches and triages bugs before they reach production.",
-    "one_liner": "Proactive observability",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe703a7786db01d44cd03aafbbbf2dd7b0cc99cf.png",
+    "website": "https://lightscreen.ai",
+    "all_locations": "Sunnyvale, CA, USA",
+    "long_description": "Lightscreen is an interactive AI interview experience -- a different approach than other screening tools that unlocks greater insight into a candidate's engineering fundamentals and critical thinking skills.  Engineering teams use Lightscreen to expand the number of candidates they can screen, eliminate bias, decrease the number of steps in their interview process, and decrease time-to-fill on technical roles. ",
+    "one_liner": "Uncheatable, unbiased automated technical interviews",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1729643205,
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1729721651,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Infrastructure"
+      "SaaS",
+      "Recruiting",
+      "Talent Acquisition",
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24773,19 +24825,19 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Recruiting and Talent"
     ],
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
-    "app_answers": null,
+    "app_answers": true,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/revyl",
-    "api": "https://yc-oss.github.io/api/batches/f24/revyl.json"
+    "url": "https://www.ycombinator.com/companies/lightscreen-ai",
+    "api": "https://yc-oss.github.io/api/batches/f24/lightscreen-ai.json"
   },
   {
     "id": 30051,

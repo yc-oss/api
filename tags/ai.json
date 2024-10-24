@@ -4546,7 +4546,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -5520,52 +5520,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fintelite",
     "api": "https://yc-oss.github.io/api/batches/w22/fintelite.json"
-  },
-  {
-    "id": 25575,
-    "name": "Beam",
-    "slug": "beam",
-    "former_names": [
-      "Slai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf7324872fe6b37d7579334928f7018d2099483b.png",
-    "website": "https://beam.cloud",
-    "all_locations": "New York, NY, USA; Cambridge, MA, USA",
-    "long_description": "Run GPU inference and training jobs on serverless infrastructure that scales with you. ",
-    "one_liner": "Serverless Infrastructure for Generative AI",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1641494547,
-    "tags": [
-      "Developer Tools",
-      "Machine Learning",
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/beam",
-    "api": "https://yc-oss.github.io/api/batches/w22/beam.json"
   },
   {
     "id": 25587,
@@ -15345,7 +15299,7 @@
     "all_locations": "",
     "long_description": "Openmart is an AI alternative to ZoomInfo that helps sales professionals query millions of unstructured business data like websites, reviews and socials. Kathryn and Richard met at Pinterest in 2019 and later both joined seed-stage startups. Richard developed LLM and AI agents before ChatGPT, while Kathryn led GTM and drove revenue growth from 0 to 1.",
     "one_liner": "AI alternative to ZoomInfo",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1704760449,
@@ -20086,6 +20040,48 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/gait",
     "api": "https://yc-oss.github.io/api/batches/f24/gait.json"
+  },
+  {
+    "id": 30041,
+    "name": "Revyl",
+    "slug": "revyl",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/711329d9565ffe6020950612deecb8f5845b82f5.png",
+    "website": "https://www.revyl.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Revyl is an observability platform that automatically catches and triages bugs before they reach production.",
+    "one_liner": "Proactive observability",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1729643205,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/revyl",
+    "api": "https://yc-oss.github.io/api/batches/f24/revyl.json"
   },
   {
     "id": 30046,

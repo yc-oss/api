@@ -16417,7 +16417,7 @@
     "name": "Interviewed",
     "slug": "interviewed",
     "former_names": [],
-    "small_logo_thumb_url": "/company/thumb/missing.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34109dc6ab458d2caa1cccf55b6ec7163db8c41d.png",
     "website": "http://interviewed.com",
     "all_locations": "Austin, TX, USA",
     "long_description": "Indeed, the world’s number one job site has acquired Interviewed - http://press.indeed.com/press/indeed-acquires-leading-hr-technology-company-interviewed/",
@@ -20460,7 +20460,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pearl lets any office, hotel or restaurant serve the world's best coffees & teas at the push of a button.  \r\n\r\nPearl's proprietary brew technology matches the speed and convenience of a Keurig without using wasteful, low-quality coffee pods.   \r\n\r\nOur fully compostable single-servings contain freshly roasted whole bean coffees & teas sourced from premier roasters and importers.  We handle installation, upkeep, and automatic re-stocking of an evolving menu that's tailored to your preferences.  \r\n\r\nSay goodbye to bad office coffee and upgrade your mornings today! ",
     "one_liner": "The future of office coffee.  Keurig convenience meets cafe quality. ",
-    "team_size": 1,
+    "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Office Management",
     "launched_at": 1478055031,
@@ -33196,7 +33196,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S19",
     "status": "Active",
@@ -36988,12 +36988,12 @@
     "name": "Response",
     "slug": "response",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9009de50e1e4f8a60e0945185406fd4f00cc9116.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70722089a9cfbd2571c6ecc973da437d12dfc6e1.png",
     "website": "https://www.tryresponse.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Response is organizing the world’s inventory – making it universally accessible and useful. We make it easy for businesses to shop all their vendors in one place - starting with warehouse and operations teams. We’ve built the largest catalog of industrial products in the US and service customers in 25 states - ranging from single location startups to public companies with dozens of facilities.",
-    "one_liner": "Warehouse purchasing in one place.",
-    "team_size": 10,
+    "long_description": "At Response, we simplify how ops teams manage indirect spend—everything from office supplies to maintenance materials and packaging. Our platform streamlines procurement, cutting ordering and approval times by up to 92% and helping companies save up to 13% by centralizing purchases with their existing vendors.",
+    "one_liner": "Control indirect spend from end-to-end.",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1597601607,
@@ -37004,13 +37004,13 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S20",
     "status": "Active",
     "industries": [
       "B2B",
-      "Retail"
+      "Supply Chain and Logistics"
     ],
     "regions": [
       "United States of America",
@@ -57776,7 +57776,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -60431,7 +60431,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -61387,17 +61387,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf7324872fe6b37d7579334928f7018d2099483b.png",
     "website": "https://beam.cloud",
     "all_locations": "New York, NY, USA; Cambridge, MA, USA",
-    "long_description": "Run GPU inference and training jobs on serverless infrastructure that scales with you. ",
-    "one_liner": "Serverless Infrastructure for Generative AI",
-    "team_size": 4,
+    "long_description": "Deploy inference endpoints, train AI models, run task queues, and autoscale to hundreds of GPUs. ",
+    "one_liner": "Serverless Cloud for Busy Developers",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1641494547,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -70034,25 +70034,27 @@
   },
   {
     "id": 27042,
-    "name": "Umbria (by Artemis Labs)",
-    "slug": "umbria-by-artemis-labs",
+    "name": "Artemis Search",
+    "slug": "artemis-search",
     "former_names": [
       "Artemis",
       "Artemis Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82a440420e97facd717e40553968e709a6bf4e09.png",
-    "website": "https://umbriadocs.com/",
-    "all_locations": "San Francisco, CA, USA; Rochester, MN, USA",
-    "long_description": "We'll rebuild your docs, knowledge base or user guides in Umbria for free.",
-    "one_liner": "Drag and drop knowledge bases",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/002e53ddce5bb4318d71a6b7c48c2417fb3ad159.png",
+    "website": "https://search-artemis.com/",
+    "all_locations": "San Francisco, CA, USA; Rochester, MN, USA; Remote",
+    "long_description": "Artemis Search is a vector database search with a twist. We use special-purpose deep-learning models instead of using textual / semantic similarity to evaluate how good a search result is.\r\n\r\nThis enables us to actually reason how well search results match the intent of the search query, eliminating the problems that come from evaluating search results on how much they look like the search query.",
+    "one_liner": "A search technology that actually finds what you’re looking for.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1656613108,
     "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
       "SaaS",
       "B2B",
-      "Customer Support"
+      "Search"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -70065,15 +70067,17 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/umbria-by-artemis-labs",
-    "api": "https://yc-oss.github.io/api/batches/s22/umbria-by-artemis-labs.json"
+    "url": "https://www.ycombinator.com/companies/artemis-search",
+    "api": "https://yc-oss.github.io/api/batches/s22/artemis-search.json"
   },
   {
     "id": 27047,
@@ -87322,20 +87326,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60be510d2b328f6b4aef95a5b8356c88055a5ee2.png",
     "website": "https://joinnewton.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "",
     "one_liner": "AI-Powered Phones and Payments for Retail Healthcare",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1704170538,
-    "tags": [
-      "Artificial Intelligence",
-      "Payments",
-      "Scheduling",
-      "Healthcare",
-      "Telecommunications"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -87346,8 +87344,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -87593,7 +87590,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -91053,7 +91050,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -91629,7 +91626,7 @@
     "all_locations": "",
     "long_description": "Openmart is an AI alternative to ZoomInfo that helps sales professionals query millions of unstructured business data like websites, reviews and socials. Kathryn and Richard met at Pinterest in 2019 and later both joined seed-stage startups. Richard developed LLM and AI agents before ChatGPT, while Kathryn led GTM and drove revenue growth from 0 to 1.",
     "one_liner": "AI alternative to ZoomInfo",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1704760449,
@@ -100337,6 +100334,49 @@
     "api": "https://yc-oss.github.io/api/batches/f24/rulebase.json"
   },
   {
+    "id": 30038,
+    "name": "Lightscreen AI",
+    "slug": "lightscreen-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe703a7786db01d44cd03aafbbbf2dd7b0cc99cf.png",
+    "website": "https://lightscreen.ai",
+    "all_locations": "Sunnyvale, CA, USA",
+    "long_description": "Lightscreen is an interactive AI interview experience -- a different approach than other screening tools that unlocks greater insight into a candidate's engineering fundamentals and critical thinking skills.  Engineering teams use Lightscreen to expand the number of candidates they can screen, eliminate bias, decrease the number of steps in their interview process, and decrease time-to-fill on technical roles. ",
+    "one_liner": "Uncheatable, unbiased automated technical interviews",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1729721651,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Recruiting",
+      "Talent Acquisition",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lightscreen-ai",
+    "api": "https://yc-oss.github.io/api/batches/f24/lightscreen-ai.json"
+  },
+  {
     "id": 30040,
     "name": "supercontrast",
     "slug": "supercontrast",
@@ -100390,10 +100430,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729643205,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -100773,7 +100813,9 @@
     "launched_at": 1727913374,
     "tags": [
       "SaaS",
+      "B2B",
       "Workflow Automation",
+      "No-code",
       "Operations"
     ],
     "tags_highlighted": [],
@@ -100791,9 +100833,9 @@
       "Europe"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dexter",
     "api": "https://yc-oss.github.io/api/batches/f24/dexter.json"

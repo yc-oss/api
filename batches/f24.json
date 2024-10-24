@@ -200,6 +200,49 @@
     "api": "https://yc-oss.github.io/api/batches/f24/rulebase.json"
   },
   {
+    "id": 30038,
+    "name": "Lightscreen AI",
+    "slug": "lightscreen-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe703a7786db01d44cd03aafbbbf2dd7b0cc99cf.png",
+    "website": "https://lightscreen.ai",
+    "all_locations": "Sunnyvale, CA, USA",
+    "long_description": "Lightscreen is an interactive AI interview experience -- a different approach than other screening tools that unlocks greater insight into a candidate's engineering fundamentals and critical thinking skills.  Engineering teams use Lightscreen to expand the number of candidates they can screen, eliminate bias, decrease the number of steps in their interview process, and decrease time-to-fill on technical roles. ",
+    "one_liner": "Uncheatable, unbiased automated technical interviews",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1729721651,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Recruiting",
+      "Talent Acquisition",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lightscreen-ai",
+    "api": "https://yc-oss.github.io/api/batches/f24/lightscreen-ai.json"
+  },
+  {
     "id": 30040,
     "name": "supercontrast",
     "slug": "supercontrast",
@@ -253,10 +296,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729643205,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -580,6 +623,44 @@
     "api": "https://yc-oss.github.io/api/batches/f24/protegee.json"
   },
   {
+    "id": 30052,
+    "name": "issen",
+    "slug": "issen",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/124eb8c7fdda65607bf62e57ca5b5bf049fae711.png",
+    "website": "https://issen.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "issen is an AI conversational language app that helps you become fluent. Your on-demand voice tutor is personal to you, adapting lessons and chats to your particular interests, learning style, and goals.\r\n\r\nOur mission is to transform language learning by offering a level of connection, effectiveness and fun that, until now, only human teachers could provide.",
+    "one_liner": "Your conversational AI foreign language tutor",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1729707215,
+    "tags": [
+      "Generative AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/issen",
+    "api": "https://yc-oss.github.io/api/batches/f24/issen.json"
+  },
+  {
     "id": 30060,
     "name": "Replexica",
     "slug": "replexica",
@@ -809,7 +890,9 @@
     "launched_at": 1727913374,
     "tags": [
       "SaaS",
+      "B2B",
       "Workflow Automation",
+      "No-code",
       "Operations"
     ],
     "tags_highlighted": [],
@@ -827,9 +910,9 @@
       "Europe"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dexter",
     "api": "https://yc-oss.github.io/api/batches/f24/dexter.json"
@@ -923,6 +1006,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gecko-security",
     "api": "https://yc-oss.github.io/api/batches/f24/gecko-security.json"
+  },
+  {
+    "id": 30089,
+    "name": "Fresco",
+    "slug": "fresco",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1fb691819d2f0da01fceb80f8f4288c7f863b60.png",
+    "website": "https://fresco-ai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fresco helps construction superintendents take 1000s of pages of notes, 10x faster. We automate the process of completing progress notes and punch lists, reducing time requirements from hours to minutes. Superintendents simply record videos of their site walk, and Fresco pulls out the relevant information and formats it into rich reports. We also offer one-click integrations with leading project management software like Procore and ACC, for maximum usability.",
+    "one_liner": "Quick, mobile documentation for construction sites",
+    "team_size": 2,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1729716280,
+    "tags": [
+      "Construction",
+      "Compliance",
+      "Note-taking",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/fresco",
+    "api": "https://yc-oss.github.io/api/batches/f24/fresco.json"
   },
   {
     "id": 30100,
