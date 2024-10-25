@@ -6,7 +6,7 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7da261b740a4ae0fbccdb7818277d3243f8a1c8.png",
   "website": "https://humanlayer.dev",
   "all_locations": "San Francisco, CA, USA",
-  "long_description": "HumanLayer is an API and SDK that lets AI agents contact humans on slack/email when they need approval, feedback, or input. For example, if an AI Agent elects to send an email to a prospect or update production data, AI engineers can require human approval on that action.\r\n",
+  "long_description": "HumanLayer is an API and SDK that enables tool-calling AI Agents to contact humans for help, feedback, and approvals.\r\n\r\nFor example, one of our customers uses HumanLayer to have his SDR agent ping him in slack to review/revise agent-drafted emails before they go out to prospects.\r\n\r\nHumanLayer has clients for Python and Typescript, is designed to work with any framework + LLM, and lets you contact humans across slack, sms, email, and other channels.",
   "one_liner": "Human-in-the-Loop for AI Agents",
   "team_size": 1,
   "industry": "B2B",
@@ -34,7 +34,7 @@
   "app_video_public": false,
   "demo_day_video_public": false,
   "app_answers": null,
-  "question_answers": false,
+  "question_answers": true,
   "url": "https://www.ycombinator.com/companies/humanlayer",
   "api": "https://yc-oss.github.io/api/batches/f24/humanlayer.json"
 }

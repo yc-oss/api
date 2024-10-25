@@ -2902,7 +2902,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -3591,6 +3591,48 @@
     "api": "https://yc-oss.github.io/api/batches/w24/topo.json"
   },
   {
+    "id": 29319,
+    "name": "Meticulate",
+    "slug": "meticulate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3761b435e24919662b3cb0d2c5381a1f5398ba3.png",
+    "website": "https://meticulate.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Meticulate is the best tool for discovering and qualifying companies. We help sales and investment teams target highly specific ICPs and rapidly test outbound strategies.",
+    "one_liner": "The most powerful way to find, research, and track companies",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1709018484,
+    "tags": [
+      "Generative AI",
+      "Finance",
+      "Sales",
+      "Investing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/meticulate",
+    "api": "https://yc-oss.github.io/api/batches/w24/meticulate.json"
+  },
+  {
     "id": 29354,
     "name": "Quantic",
     "slug": "quantic",
@@ -3645,9 +3687,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3272f433169329e2ccdcfa2ff3d36c8a4d68ea88.png",
     "website": "https://www.openmart.com",
-    "all_locations": "",
-    "long_description": "Openmart is an AI alternative to ZoomInfo that helps sales professionals query millions of unstructured business data like websites, reviews and socials. Kathryn and Richard met at Pinterest in 2019 and later both joined seed-stage startups. Richard developed LLM and AI agents before ChatGPT, while Kathryn led GTM and drove revenue growth from 0 to 1.",
-    "one_liner": "AI alternative to ZoomInfo",
+    "all_locations": "Foster City, CA, USA",
+    "long_description": "Openmart is the GTM platform for reaching local business owners. Think of us like Apollo/ZoomInfo but for local business/POI data. We help sales professionals query millions of unstructured local business data like local government filings, websites, reviews and socials",
+    "one_liner": "GTM platform for reaching local businesses",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3669,7 +3711,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

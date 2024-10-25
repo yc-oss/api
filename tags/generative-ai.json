@@ -232,16 +232,16 @@
     "website": "https://spellbrush.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Here at Spellbrush, we're passionate about making a good anime game.\r\n\r\nWe also happen to be the world's leading generative AI studio — we're the team behind niji・journey.\r\n\r\nWe are currently investigating how AI can be used to help human artists perform masterpieces in the most complex medium of our times: video games.\r\n\r\nOur games are characterized by a no-compromise approach to well-balanced gameplay married to a truthful love of visual arts.",
-    "one_liner": "Magic Anime Pictures",
+    "one_liner": "Making Anime Real",
     "team_size": 20,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1669939734,
     "tags": [
+      "Artificial Intelligence",
       "Deep Learning",
       "Generative AI",
-      "Gaming",
-      "AI"
+      "Gaming"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -556,13 +556,13 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Playground combines AI research and product design to invent new kinds of creative tools.",
     "one_liner": "Make graphics like a Pro without being one",
-    "team_size": 10,
+    "team_size": 18,
     "industry": "Consumer",
     "subindustry": "Consumer -> Home and Personal",
     "launched_at": 1553817472,
     "tags": [
-      "Generative AI",
-      "AI"
+      "Artificial Intelligence",
+      "Generative AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6114,7 +6114,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -8148,6 +8148,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cloudcruise",
     "api": "https://yc-oss.github.io/api/batches/w24/cloudcruise.json"
+  },
+  {
+    "id": 29319,
+    "name": "Meticulate",
+    "slug": "meticulate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3761b435e24919662b3cb0d2c5381a1f5398ba3.png",
+    "website": "https://meticulate.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Meticulate is the best tool for discovering and qualifying companies. We help sales and investment teams target highly specific ICPs and rapidly test outbound strategies.",
+    "one_liner": "The most powerful way to find, research, and track companies",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1709018484,
+    "tags": [
+      "Generative AI",
+      "Finance",
+      "Sales",
+      "Investing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/meticulate",
+    "api": "https://yc-oss.github.io/api/batches/w24/meticulate.json"
   },
   {
     "id": 29324,
@@ -10801,6 +10843,46 @@
     "api": "https://yc-oss.github.io/api/batches/f24/manicode.json"
   },
   {
+    "id": 30091,
+    "name": "CollectWise",
+    "slug": "collectwise",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54a0d1806fce4357b7bd2975052cda17775a5bab.png",
+    "website": "https://www.collectwise.co/",
+    "all_locations": "",
+    "long_description": "CollectWise automates consumer debt collection with generative AI. CollectWise's AI agents send personalized emails and SMS communications to debtors, speak with debtors over the phone, report to credit bureaus, and automatically enforce judgments through liens or garnishments.\r\n\r\nWe currently have 110 customers and have successfully collected on $2,000,000 in balances, achieving 2X higher recovery rates than human collectors.",
+    "one_liner": "Automating consumer debt collection with AI",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1729792205,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Generative AI",
+      "Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/collectwise",
+    "api": "https://yc-oss.github.io/api/batches/f24/collectwise.json"
+  },
+  {
     "id": 30129,
     "name": "HumanLayer",
     "slug": "humanlayer",
@@ -10808,7 +10890,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7da261b740a4ae0fbccdb7818277d3243f8a1c8.png",
     "website": "https://humanlayer.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "HumanLayer is an API and SDK that lets AI agents contact humans on slack/email when they need approval, feedback, or input. For example, if an AI Agent elects to send an email to a prospect or update production data, AI engineers can require human approval on that action.\r\n",
+    "long_description": "HumanLayer is an API and SDK that enables tool-calling AI Agents to contact humans for help, feedback, and approvals.\r\n\r\nFor example, one of our customers uses HumanLayer to have his SDR agent ping him in slack to review/revise agent-drafted emails before they go out to prospects.\r\n\r\nHumanLayer has clients for Python and Typescript, is designed to work with any framework + LLM, and lets you contact humans across slack, sms, email, and other channels.",
     "one_liner": "Human-in-the-Loop for AI Agents",
     "team_size": 1,
     "industry": "B2B",
@@ -10836,7 +10918,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/humanlayer",
     "api": "https://yc-oss.github.io/api/batches/f24/humanlayer.json"
   }

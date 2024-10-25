@@ -13141,7 +13141,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Finance and Accounting"
@@ -21597,52 +21597,6 @@
     "api": "https://yc-oss.github.io/api/batches/w22/fuell.json"
   },
   {
-    "id": 25726,
-    "name": "Vendy",
-    "slug": "vendy",
-    "former_names": [
-      "payeasy",
-      "wepayeasy"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2281bc324d5c5e58506c7f08aa342175a403f0bf.png",
-    "website": "https://myvendy.com",
-    "all_locations": "Lagos, LA, Nigeria; LA, Nigeria",
-    "long_description": "Vendy Inc, a cutting-edge Financial Technology company registered in the U.S, and operating out of Nigeria, is on a mission to drive financial honesty in Africa. Vendy simplifies payment acceptance for businesses operating in Africa with its unified payment interface (UPI).",
-    "one_liner": "Vendy makes business payments as simple as a chat with its UPI…",
-    "team_size": 20,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1646358782,
-    "tags": [
-      "Fintech",
-      "Payments",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "regions": [
-      "Nigeria",
-      "Africa",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vendy",
-    "api": "https://yc-oss.github.io/api/batches/w22/vendy.json"
-  },
-  {
     "id": 25745,
     "name": "goodfin",
     "slug": "goodfin",
@@ -25353,10 +25307,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ad200a24281fdd6a8a1c278067a5acc87ff1dab.png",
     "website": "https://www.landeed.com/",
-    "all_locations": "Hyderabad, Telangana, India; San Francisco, CA, USA; Bengaluru, KA, India",
+    "all_locations": "Hyderabad, Telangana, India; TS, India",
     "long_description": "Landeed is building India's (then for rest of the world)  fastest and most comprehensive property title search engine. More than 84% of Indian household wealth is stored in real estate, property and land. However, with 2/3rds of all court cases in India dealing with land-related disputes, it is essential that people have accessible public records to both protect themselves against litigation and provide appropriate documentation for facilitating transactions.",
     "one_liner": "Landeed is India's fastest property title search engine ",
-    "team_size": 5,
+    "team_size": 35,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
     "launched_at": 1656366086,
@@ -25378,9 +25332,7 @@
     ],
     "regions": [
       "India",
-      "United States of America",
       "South Asia",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -30307,5 +30259,84 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/protegee",
     "api": "https://yc-oss.github.io/api/batches/f24/protegee.json"
+  },
+  {
+    "id": 30091,
+    "name": "CollectWise",
+    "slug": "collectwise",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54a0d1806fce4357b7bd2975052cda17775a5bab.png",
+    "website": "https://www.collectwise.co/",
+    "all_locations": "",
+    "long_description": "CollectWise automates consumer debt collection with generative AI. CollectWise's AI agents send personalized emails and SMS communications to debtors, speak with debtors over the phone, report to credit bureaus, and automatically enforce judgments through liens or garnishments.\r\n\r\nWe currently have 110 customers and have successfully collected on $2,000,000 in balances, achieving 2X higher recovery rates than human collectors.",
+    "one_liner": "Automating consumer debt collection with AI",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1729792205,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Generative AI",
+      "Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/collectwise",
+    "api": "https://yc-oss.github.io/api/batches/f24/collectwise.json"
+  },
+  {
+    "id": 30106,
+    "name": "Sunset",
+    "slug": "sunset",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56ef3aca735eb25aeb8caa09c528937ec0401398.png",
+    "website": "https://www.sunsetapp.com/",
+    "all_locations": "",
+    "long_description": "Sunset can track down bank accounts, retirement accounts, investment accounts, property and more for families after losing a loved one. Sunset will close those accounts and move the money into a Sunset estate account to manage.",
+    "one_liner": "Find and move money after a death",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1729742505,
+    "tags": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sunset",
+    "api": "https://yc-oss.github.io/api/batches/f24/sunset.json"
   }
 ]

@@ -20475,51 +20475,6 @@
     "api": "https://yc-oss.github.io/api/batches/w22/atlas-2.json"
   },
   {
-    "id": 25511,
-    "name": "Viva Labs",
-    "slug": "viva-labs",
-    "former_names": [
-      "Resolutely",
-      "Iron Leap"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a802faddbe0dc27bf5879f66fe3da6f447e0bcfd.png",
-    "website": "https://www.vivalabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "- VivaDub: Translate, dub, and lip sync videos to any language\r\n- VivaChat: Video chat with realistic AI persons",
-    "one_liner": "AI Videos that Connect with People",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1648099991,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Video",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/viva-labs",
-    "api": "https://yc-oss.github.io/api/batches/w22/viva-labs.json"
-  },
-  {
     "id": 25512,
     "name": "Ankr Health",
     "slug": "ankr-health",
@@ -22186,16 +22141,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2281bc324d5c5e58506c7f08aa342175a403f0bf.png",
     "website": "https://myvendy.com",
     "all_locations": "Lagos, LA, Nigeria; LA, Nigeria",
-    "long_description": "Vendy Inc, a cutting-edge Financial Technology company registered in the U.S, and operating out of Nigeria, is on a mission to drive financial honesty in Africa. Vendy simplifies payment acceptance for businesses operating in Africa with its unified payment interface (UPI).",
-    "one_liner": "Vendy makes business payments as simple as a chat with its UPI…",
+    "long_description": "Vendy is a marketplace on WhatsApp. We provide customized WhatsApp shops for sellers, allowing buyers to browse inventory, place orders with automated invoicing, and make payments, all within WhatsApp. No app download or sign-up required.",
+    "one_liner": "Vendy is a marketplace on WhatsApp",
     "team_size": 20,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1646358782,
     "tags": [
-      "Fintech",
       "Payments",
-      "B2B"
+      "B2B",
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -30452,23 +30407,23 @@
   },
   {
     "id": 27874,
-    "name": "Squack",
-    "slug": "squack",
+    "name": "Relace",
+    "slug": "relace",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1c5d5a31232b50024bbb1508f53cf4f2c9d6452.png",
-    "website": "http://squack.io",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae6bb6ef21e1f714caced7765c4401aa4e4ee438.png",
+    "website": "https://relace.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Squack gives accounting firms a RPA tool that uses LLMs to create complex automations using natural language. For example, an accountant can use Squack to create a workflow that automatically categorizes bank transactions just by writing a few sentences.",
-    "one_liner": "Natural language RPA tools for accountants",
-    "team_size": 3,
+    "long_description": "Relace makes it easy for startups to fine tune and host LLMs for domain-specific tasks. We beat SOTA models on performance and speed by providing an opinionated, all-in-one fine tuning and inference stack.",
+    "one_liner": "End-to-end fine tuning and inference for open source LLMs",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1679954526,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -30489,8 +30444,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/squack",
-    "api": "https://yc-oss.github.io/api/batches/w23/squack.json"
+    "url": "https://www.ycombinator.com/companies/relace",
+    "api": "https://yc-oss.github.io/api/batches/w23/relace.json"
   },
   {
     "id": 27876,
@@ -33944,7 +33899,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -34456,7 +34411,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66314affa2a18460ebaf6082abe1eba1272e5498.png",
     "website": "https://www.pincites.com/",
-    "all_locations": "",
+    "all_locations": "Menlo Park, CA, USA",
     "long_description": "Pincites makes contract negotiations faster and more consistent for legal teams. Using LLMs, Pincites takes a first pass at reviewing contracts, helping lawyers focus on riskiest parts of their negotiations.",
     "one_liner": "Close deals faster with AI for contract negotiation",
     "team_size": 3,
@@ -34481,6 +34436,8 @@
       "Legal"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -37828,9 +37785,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3272f433169329e2ccdcfa2ff3d36c8a4d68ea88.png",
     "website": "https://www.openmart.com",
-    "all_locations": "",
-    "long_description": "Openmart is an AI alternative to ZoomInfo that helps sales professionals query millions of unstructured business data like websites, reviews and socials. Kathryn and Richard met at Pinterest in 2019 and later both joined seed-stage startups. Richard developed LLM and AI agents before ChatGPT, while Kathryn led GTM and drove revenue growth from 0 to 1.",
-    "one_liner": "AI alternative to ZoomInfo",
+    "all_locations": "Foster City, CA, USA",
+    "long_description": "Openmart is the GTM platform for reaching local business owners. Think of us like Apollo/ZoomInfo but for local business/POI data. We help sales professionals query millions of unstructured local business data like local government filings, websites, reviews and socials",
+    "one_liner": "GTM platform for reaching local businesses",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -37852,7 +37809,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -41845,15 +41803,15 @@
     "website": "https://trykeet.com",
     "all_locations": "",
     "long_description": "Keet provides APIs for any website. Developers use us to connect their customers accounts and perform actions on their behalf. \r\n\r\nWhether it be legacy software or consumer sites, Keet manages your users authenticated sessions and provides stable integrations on any web platform. Now your AI Agent can access healthcare data or send automated messages on LinkedIn via Keet’s API or SDK.",
-    "one_liner": "APIs for any website",
+    "one_liner": "Authentication for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1724878024,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

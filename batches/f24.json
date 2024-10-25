@@ -1050,6 +1050,46 @@
     "api": "https://yc-oss.github.io/api/batches/f24/fresco.json"
   },
   {
+    "id": 30091,
+    "name": "CollectWise",
+    "slug": "collectwise",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54a0d1806fce4357b7bd2975052cda17775a5bab.png",
+    "website": "https://www.collectwise.co/",
+    "all_locations": "",
+    "long_description": "CollectWise automates consumer debt collection with generative AI. CollectWise's AI agents send personalized emails and SMS communications to debtors, speak with debtors over the phone, report to credit bureaus, and automatically enforce judgments through liens or garnishments.\r\n\r\nWe currently have 110 customers and have successfully collected on $2,000,000 in balances, achieving 2X higher recovery rates than human collectors.",
+    "one_liner": "Automating consumer debt collection with AI",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1729792205,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Generative AI",
+      "Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/collectwise",
+    "api": "https://yc-oss.github.io/api/batches/f24/collectwise.json"
+  },
+  {
     "id": 30100,
     "name": "Alex",
     "slug": "alex",
@@ -1125,6 +1165,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/metreecs",
     "api": "https://yc-oss.github.io/api/batches/f24/metreecs.json"
+  },
+  {
+    "id": 30106,
+    "name": "Sunset",
+    "slug": "sunset",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56ef3aca735eb25aeb8caa09c528937ec0401398.png",
+    "website": "https://www.sunsetapp.com/",
+    "all_locations": "",
+    "long_description": "Sunset can track down bank accounts, retirement accounts, investment accounts, property and more for families after losing a loved one. Sunset will close those accounts and move the money into a Sunset estate account to manage.",
+    "one_liner": "Find and move money after a death",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1729742505,
+    "tags": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sunset",
+    "api": "https://yc-oss.github.io/api/batches/f24/sunset.json"
   },
   {
     "id": 30108,
@@ -1300,7 +1379,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7da261b740a4ae0fbccdb7818277d3243f8a1c8.png",
     "website": "https://humanlayer.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "HumanLayer is an API and SDK that lets AI agents contact humans on slack/email when they need approval, feedback, or input. For example, if an AI Agent elects to send an email to a prospect or update production data, AI engineers can require human approval on that action.\r\n",
+    "long_description": "HumanLayer is an API and SDK that enables tool-calling AI Agents to contact humans for help, feedback, and approvals.\r\n\r\nFor example, one of our customers uses HumanLayer to have his SDR agent ping him in slack to review/revise agent-drafted emails before they go out to prospects.\r\n\r\nHumanLayer has clients for Python and Typescript, is designed to work with any framework + LLM, and lets you contact humans across slack, sms, email, and other channels.",
     "one_liner": "Human-in-the-Loop for AI Agents",
     "team_size": 1,
     "industry": "B2B",
@@ -1328,7 +1407,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/humanlayer",
     "api": "https://yc-oss.github.io/api/batches/f24/humanlayer.json"
   },

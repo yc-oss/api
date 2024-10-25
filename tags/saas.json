@@ -326,7 +326,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S11",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Healthcare",
       "Healthcare Services"
@@ -19121,7 +19121,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Finance and Accounting"
@@ -20316,7 +20316,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -28653,51 +28653,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/atlas-2",
     "api": "https://yc-oss.github.io/api/batches/w22/atlas-2.json"
-  },
-  {
-    "id": 25511,
-    "name": "Viva Labs",
-    "slug": "viva-labs",
-    "former_names": [
-      "Resolutely",
-      "Iron Leap"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a802faddbe0dc27bf5879f66fe3da6f447e0bcfd.png",
-    "website": "https://www.vivalabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "- VivaDub: Translate, dub, and lip sync videos to any language\r\n- VivaChat: Video chat with realistic AI persons",
-    "one_liner": "AI Videos that Connect with People",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1648099991,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Video",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/viva-labs",
-    "api": "https://yc-oss.github.io/api/batches/w22/viva-labs.json"
   },
   {
     "id": 25519,
@@ -37585,23 +37540,23 @@
   },
   {
     "id": 27874,
-    "name": "Squack",
-    "slug": "squack",
+    "name": "Relace",
+    "slug": "relace",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1c5d5a31232b50024bbb1508f53cf4f2c9d6452.png",
-    "website": "http://squack.io",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae6bb6ef21e1f714caced7765c4401aa4e4ee438.png",
+    "website": "https://relace.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Squack gives accounting firms a RPA tool that uses LLMs to create complex automations using natural language. For example, an accountant can use Squack to create a workflow that automatically categorizes bank transactions just by writing a few sentences.",
-    "one_liner": "Natural language RPA tools for accountants",
-    "team_size": 3,
+    "long_description": "Relace makes it easy for startups to fine tune and host LLMs for domain-specific tasks. We beat SOTA models on performance and speed by providing an opinionated, all-in-one fine tuning and inference stack.",
+    "one_liner": "End-to-end fine tuning and inference for open source LLMs",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1679954526,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37622,8 +37577,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/squack",
-    "api": "https://yc-oss.github.io/api/batches/w23/squack.json"
+    "url": "https://www.ycombinator.com/companies/relace",
+    "api": "https://yc-oss.github.io/api/batches/w23/relace.json"
   },
   {
     "id": 27876,
@@ -40713,7 +40668,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -43432,9 +43387,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3272f433169329e2ccdcfa2ff3d36c8a4d68ea88.png",
     "website": "https://www.openmart.com",
-    "all_locations": "",
-    "long_description": "Openmart is an AI alternative to ZoomInfo that helps sales professionals query millions of unstructured business data like websites, reviews and socials. Kathryn and Richard met at Pinterest in 2019 and later both joined seed-stage startups. Richard developed LLM and AI agents before ChatGPT, while Kathryn led GTM and drove revenue growth from 0 to 1.",
-    "one_liner": "AI alternative to ZoomInfo",
+    "all_locations": "Foster City, CA, USA",
+    "long_description": "Openmart is the GTM platform for reaching local business owners. Think of us like Apollo/ZoomInfo but for local business/POI data. We help sales professionals query millions of unstructured local business data like local government filings, websites, reviews and socials",
+    "one_liner": "GTM platform for reaching local businesses",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -43456,7 +43411,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
