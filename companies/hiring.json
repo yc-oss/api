@@ -1908,6 +1908,51 @@
     "api": "https://yc-oss.github.io/api/batches/s14/usergems.json"
   },
   {
+    "id": 714,
+    "name": "Hive",
+    "slug": "hive",
+    "former_names": [
+      "TicketLabs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/badfb865d3956c905328a893ade1fc0f2253e57b.png",
+    "website": "http://www.hive.co",
+    "all_locations": "Kitchener, ON, Canada; Remote",
+    "long_description": "Hive is an email & SMS marketing CRM used by brands to personalize and automate their campaigns. We pride ourselves on helping brands understand their email marketing, all while selling more and keeping their customers engaged.\r\n\r\nWe integrate with tech partners like Shopify and Eventbrite to let brands act on all their data, so they can easily segment their list in thousands of ways, and send more customized, timely email campaigns that land in inboxes.",
+    "one_liner": "Email and SMS marketing platform",
+    "team_size": 40,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1398908070,
+    "tags": [
+      "SaaS",
+      "SMS",
+      "Email"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S14",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hive",
+    "api": "https://yc-oss.github.io/api/batches/s14/hive.json"
+  },
+  {
     "id": 727,
     "name": "Front",
     "slug": "front",
@@ -13989,15 +14034,17 @@
     "website": "https://www.mindsdb.com/",
     "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
     "long_description": "MindsDB is a fast-growing AI startup headquartered in San Francisco, California. As a leading innovator bringing AI and Data together, our passion is empowering companies to easily build AI capabilities that can Think, Understand and Orchestrate: enabling teams to move from prototyping & experimentation to production in a fast & scalable way.\r\n\r\nMindsDB was founded in 2017 by Adam Carrigan and Jorge Torres, inspired by Ian M. Banks's Culture series, in which super AI systems called Minds collaborate with other forms of life to accomplish incredible goals. Starting as an Open-Source project, MindsDB has grown to be one of the most widely used AI-Data platforms in the world, with a growing community and more than 700 contributor developers from every corner of the globe.\r\n\r\nWe are backed with over $55M in funding from Mayfield, Benchmark, YCombinator, and nVidia. MindsDB is also recognized by Forbes as one of America's most promising AI companies (2021) and by Gartner as a Cool Vendor for Data and AI (2022).",
-    "one_liner": "MindsDB: Build ML powered applications fast",
+    "one_liner": "AI that works at work. Turnkey. Private. ",
     "team_size": 33,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1584047879,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "Open Source"
+      "Open Source",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24550,49 +24597,6 @@
     "api": "https://yc-oss.github.io/api/batches/s21/rinse.json"
   },
   {
-    "id": 24241,
-    "name": "Laudable",
-    "slug": "laudable",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb7d6cfef41904da6758d65129b0adeffca2b2e1.png",
-    "website": "https://www.laudable.com",
-    "all_locations": "United States; Remote",
-    "long_description": "Laudable finds happy customers and their success stories hiding in your existing data - like call recordings, NPS, salesforce logs - and auto-generates case study content.",
-    "one_liner": "App for B2B companies to find customer stories and advocates",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1627532302,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Video"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S21",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/laudable",
-    "api": "https://yc-oss.github.io/api/batches/s21/laudable.json"
-  },
-  {
     "id": 24243,
     "name": "Repool",
     "slug": "repool",
@@ -25822,16 +25826,14 @@
     "website": "https://www.hitpayapp.com",
     "all_locations": "Singapore, Singapore",
     "long_description": "HitPay is a full stack payments infrastructure platform designed for growing businesses in APAC. Founded in 2016 and headquartered in Singapore, HitPay unifies e-commerce, point of sale, and B2B payments into a single platform. The company is regulated in 6 APAC jurisdictions and backed by leading global investors, including Tiger Global, Y Combinator, Global Founders Capital, and HOF Capital.",
-    "one_liner": "All-in-one payment processing platform for SMBs",
+    "one_liner": "Payments infrastructure for businesses scaling in APAC",
     "team_size": 33,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1627395951,
     "tags": [
       "Fintech",
-      "Payments",
-      "No-code",
-      "SMB"
+      "Payments"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26127,6 +26129,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/litnerd",
     "api": "https://yc-oss.github.io/api/batches/s21/litnerd.json"
+  },
+  {
+    "id": 24562,
+    "name": "Noloco",
+    "slug": "noloco",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc0e83cec319be4be3188dc1d0b66bb5324a57f7.png",
+    "website": "https://noloco.io",
+    "all_locations": "Dublin, County Dublin, Ireland; Remote",
+    "long_description": "Noloco is the no-code platform for teams to create internal tools on top of their data in PostgreSQL, MySQL, Airtable & Google Sheets. With Noloco, you can build backoffice tools, CRUD apps and admin panels without writing a single line of code. ",
+    "one_liner": "Build the custom app your business needs — in minutes, without code",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1627056154,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Ireland",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/noloco",
+    "api": "https://yc-oss.github.io/api/batches/s21/noloco.json"
   },
   {
     "id": 24571,
@@ -26481,6 +26526,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/storylane",
     "api": "https://yc-oss.github.io/api/batches/s21/storylane.json"
+  },
+  {
+    "id": 24727,
+    "name": "Output Biosciences",
+    "slug": "output",
+    "former_names": [
+      "Jingu Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/990074a168ed566a1898edae4ddc84a3de0b15c3.png",
+    "website": "https://www.outputbio.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Output Biosciences is pioneering Biologically-Aware Generative AI to finally understand complex biological systems. Our new generative AI architecture can handle the extremely long, nonlinear, fragmented, and high dimensional data of biological systems. We are building Large Biological Models that can generate breakthrough medicines and transform the way we diagnose, treat and prevent disease. ",
+    "one_liner": "Teaching Generative AI the Language of Biology",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Therapeutics",
+    "launched_at": 1628006072,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Generative AI",
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Therapeutics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/output",
+    "api": "https://yc-oss.github.io/api/batches/s21/output.json"
   },
   {
     "id": 24746,
@@ -27050,49 +27140,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/payflow",
     "api": "https://yc-oss.github.io/api/batches/s21/payflow.json"
-  },
-  {
-    "id": 24876,
-    "name": "Nash",
-    "slug": "nash",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/85d1c8b167dc541ab5c546bde5eef2173f5264c6.png",
-    "website": "https://www.usenash.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Nash makes it easy for businesses to offer same-day delivery. We do this by building business workflows on top of delivery APIs (like Doordash, Uber, Skipcart). For example, a local dry-cleaning business can start offering pickup and dropoff service at a customer’s desired time without operating their own fleet.",
-    "one_liner": "The easiest way for any business to offer delivery",
-    "team_size": 31,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1625087366,
-    "tags": [
-      "Marketplace",
-      "B2B",
-      "Delivery"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S21",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nash",
-    "api": "https://yc-oss.github.io/api/batches/s21/nash.json"
   },
   {
     "id": 24879,
@@ -27725,18 +27772,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5810f2cdca1ab3fedc5a811643be13d5387e300c.png",
     "website": "https://www.strac.io/",
     "all_locations": "Bellevue, WA, USA; Remote",
-    "long_description": "Strac is a Data Discovery, DLP (Data Loss Prevention) & DSPM (Data Security Posture Management) company that discovers, classifies and remediates sensitive data across SaaS, Cloud, Endpoints  and Generative AI apps like Office 365, Google Workspace, Slack, Sharepoint, Google Drive, Zendesk, Salesforce, ChatGPT, Chrome, Jira, Mac, Endpoints, etc.",
+    "long_description": "Strac is an agentless Data Discovery (aka DSPM - Data Security Posture Management) & DLP (Data Leak Prevention) that automatically discovers, classifies and remediates sensitive data (alert, label, redact, mask, block, delete). \r\n\r\nStrac protects SaaS, Cloud, Gen AI and Endpoints like O365, Slack, GDrive, AWS, Salesforce, ChatGPT, Jira, Mac, Zendesk, and 40+ integrations. \r\n\r\nStrac protects enterprise companies like UiPath, ThredUP, Nylas, Crypto (dot) com!",
     "one_liner": "Data Discovery, DLP, DSPM for SaaS, Cloud, Gen AI & Endpoints",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1641604614,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "Security",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36689,6 +36736,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/icepanel",
     "api": "https://yc-oss.github.io/api/batches/w23/icepanel.json"
+  },
+  {
+    "id": 27919,
+    "name": "Helicone",
+    "slug": "helicone",
+    "former_names": [
+      "Prompt Zero",
+      "TableTalk",
+      "Valyr"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fd0f837e64cef0930fd804e4345c0342b9a2827.png",
+    "website": "https://www.helicone.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Helicone.ai is creating an advanced observability platform tailored for developers working with Large Language Models (LLMs). Our goal is to simplify and enhance the operational side of deploying these models, making it easier for developers to monitor, manage, and optimize their AI applications at scale. Helicone provides a unified view of performance, cost, and user interaction metrics for various LLM providers, like OpenAI, Anthropic, and LangChain, empowering developers to make their LLM deployments more efficient, reliable, and cost-effective.\r\n\r\n### Key Features\r\n\r\n1. **Centralized Observability**: Our platform captures and visualizes detailed logs and metrics across all LLM deployments. With tools for prompt management, performance tracing, and debugging, Helicone provides real-time insights into the inner workings of your LLMs.\r\n\r\n2. **LLM Performance Optimization**: Helicone supports prompt experimentation, success rate tracking, and fine-tuning, allowing you to continuously improve response quality and efficiency. This level of insight makes it easier to deliver high-performing, cost-effective AI applications.\r\n\r\n3. **Flexible Data Management**: We understand that data privacy is critical. Helicone supports deployment options for dedicated instances, hybrid cloud integrations, or self-hosted environments, allowing clients to maintain control over their data and ensuring compliance with privacy standards.\r\n\r\n### Built for Developers and Data Scientists\r\n\r\nHelicone is designed to meet the needs of engineers and data scientists who require transparency and control over their LLMs. From chatbots to document processing systems, Helicone equips you with the insights needed to track costs, understand user interactions, and optimize outputs—all from one intuitive platform.\r\n\r\nBy combining observability with LLM-specific insights, Helicone is redefining AI monitoring, empowering developers to deploy and scale their AI models with confidence.",
+    "one_liner": "LLM Observability for Developers",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1675832219,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Analytics",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/helicone",
+    "api": "https://yc-oss.github.io/api/batches/w23/helicone.json"
   },
   {
     "id": 27925,
