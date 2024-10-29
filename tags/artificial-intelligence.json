@@ -12266,6 +12266,51 @@
     "api": "https://yc-oss.github.io/api/batches/s22/invofox.json"
   },
   {
+    "id": 27162,
+    "name": "Oneleet",
+    "slug": "oneleet",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35b93ab2671a1397037aa92e0703d5f6c2ec0fba.png",
+    "website": "https://oneleet.com",
+    "all_locations": "Amsterdam, NH, Netherlands",
+    "long_description": "Oneleet provides a full-coverage cybersecurity platform through which companies can build, manage, and monitor their cybersecurity management program. The company's core product offers a roadmap for companies to become secure and build trust with their partners.\r\n\r\nThe founder behind Oneleet has spent the past 10+ years helping companies become more secure by performing penetration tests.",
+    "one_liner": "Automated security and compliance without security theater",
+    "team_size": 23,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1657281241,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Compliance",
+      "Security"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "Netherlands",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/oneleet",
+    "api": "https://yc-oss.github.io/api/batches/s22/oneleet.json"
+  },
+  {
     "id": 27166,
     "name": "Wondercraft",
     "slug": "wondercraft",
@@ -13574,7 +13619,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -14512,7 +14557,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -18034,6 +18079,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pivot-robotics",
     "api": "https://yc-oss.github.io/api/batches/w24/pivot-robotics.json"
+  },
+  {
+    "id": 29274,
+    "name": "Fractal Labs",
+    "slug": "fractal-labs",
+    "former_names": [
+      "DaLMatian.ai",
+      "DaLMatian"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bff91e056c2671056dab8785b2f94a03b0d5adb.png",
+    "website": "https://fractal-labs.gg/",
+    "all_locations": "",
+    "long_description": "Building a UGC platform where anyone can create games like Skyrim or Black Myth Wukong without knowing how to code.\r\n\r\nThe first stage in the road map is our inaugural game, Wizard Cats (https://store.steampowered.com/app/3176500/Wizard_Cats/), with spells, quests, and worlds powered by our engine. Through this Reddit post (https://www.reddit.com/r/LocalLLaMA/comments/1el1et6/were_making_a_game_where_llms_power_spell_and/), we captured the imagination of gamers and found an initial group of playtesters. The next stage is to advance the engine to power generated 3D environments / mechanics and allow any user to create their own open world RPGs.\r\n\r\nWe are three friends who met in undergrad at Princeton. Derrick published multiple papers on LLMs while at Google Research, all of which were accepted to NeurIPS. Jason worked as a full stack engineer at both Google and Duolingo. And Alan was a HFT quant trader at Virtu developing algorithms to trade options.",
+    "one_liner": "AI powered UGC platform for RPGs",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1705255239,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Gaming",
+      "Social"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fractal-labs",
+    "api": "https://yc-oss.github.io/api/batches/w24/fractal-labs.json"
   },
   {
     "id": 29275,
@@ -22789,48 +22878,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/focal-2.json"
   },
   {
-    "id": 29738,
-    "name": "Unriddle",
-    "slug": "unriddle",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a43d64da416cf83409cb2bda502d9ab9c88f7cb8.png",
-    "website": "https://www.unriddle.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Unriddle is a web app that helps industry and academic researchers read, write and find research papers really quickly. In just one year we've grown to 1.6M users including teams at Stanford University, GSK and Johns Hopkins.\r\n\r\nWe're using language models to help researchers quickly and deeply understand papers, write literature reviews, prepare citations and keep the whole research team on the same page.\r\n\r\nAnalyzing the key themes and gaps in a field usually means going through hundreds of papers, which is both time-consuming and disorganized. Researchers also might struggle to understand a paper's importance when working across different disciplines without the necessary context.\r\n\r\nUnriddle understands the context behind your research. It synthesizes relevant findings, highlights connections between papers and suggests related studies you might have missed.\r\n\r\nWe’re starting with software to read, write and find papers, but our ultimate goal is to build the researcher of the future: a human-AI hybrid that’s an order of magnitude more effective than any individual researcher.",
-    "one_liner": "Read, write and find research papers faster.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1715615655,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/unriddle",
-    "api": "https://yc-oss.github.io/api/batches/s24/unriddle.json"
-  },
-  {
     "id": 29739,
     "name": "Planbase",
     "slug": "planbase",
@@ -23573,53 +23620,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/blast",
     "api": "https://yc-oss.github.io/api/batches/s24/blast.json"
-  },
-  {
-    "id": 29792,
-    "name": "Winford AI",
-    "slug": "winford-ai",
-    "former_names": [
-      "FundAImental",
-      "fundaimental",
-      "Fundaimental"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdcf01f892f2f6cf5a47d68818067a5d316eb12a.png",
-    "website": "https://winford.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Winford AI helps institutional credit investors monitor their loan portfolios and make better underwriting decisions. Our AI automatically extracts data from financial reporting packages and legal documents, helping portfolio managers invest in the right businesses and saving analysts hours every week.",
-    "one_liner": "AI-Powered Underwriting and Monitoring for Institutional Credit Funds",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1722879025,
-    "tags": [
-      "Artificial Intelligence",
-      "Finance",
-      "Workflow Automation",
-      "Productivity",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/winford-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/winford-ai.json"
   },
   {
     "id": 29794,
@@ -24810,6 +24810,46 @@
     "api": "https://yc-oss.github.io/api/batches/f24/ctgt.json"
   },
   {
+    "id": 30057,
+    "name": "Luthor",
+    "slug": "luthor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/541e114d564e1114486b6a9d192704be24343bd3.png",
+    "website": "https://luthor.ai",
+    "all_locations": "",
+    "long_description": "One-click AI content generators have flooded the market with low-quality, cookie-cutter content. This makes it harder for brands that truly care to stand out. At Luthor we offer on-brand content that your readers will actually love to read. Our AI handles repetitive tasks like keyword research and data gathering, then creates the first draft. From there, we bring in domain experts and skilled writers to refine the content to fit your industry and adhere to your unique brand voice.\r\n \r\nAt Luthor we're taking back the internet and re-humanizing it one blog at a time.\r\n\r\n",
+    "one_liner": "AI-powered content, expertly refined by humans who know your brand.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1730139932,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/luthor",
+    "api": "https://yc-oss.github.io/api/batches/f24/luthor.json"
+  },
+  {
     "id": 30087,
     "name": "Gecko Security",
     "slug": "gecko-security",
@@ -24936,47 +24976,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alex",
     "api": "https://yc-oss.github.io/api/batches/f24/alex.json"
-  },
-  {
-    "id": 30117,
-    "name": "Relvy AI",
-    "slug": "relvy-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aa06b2c04632ad68c2151cc3aac66c942a0119b.png",
-    "website": "https://www.relvy.ai",
-    "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Relvy automates troubleshooting of production software. Engineers can get started with Relvy's lightweight debugging language model in less than 5 minutes, and save 30 minutes of triaging time per on-call alert.",
-    "one_liner": "AI for debugging production issues",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1729032291,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/relvy-ai",
-    "api": "https://yc-oss.github.io/api/batches/f24/relvy-ai.json"
   },
   {
     "id": 30118,
