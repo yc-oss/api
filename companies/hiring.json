@@ -602,6 +602,52 @@
     "api": "https://yc-oss.github.io/api/batches/w11/mino-games.json"
   },
   {
+    "id": 172,
+    "name": "Storyworth",
+    "slug": "storyworth",
+    "former_names": [
+      "StoryWorth"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/678d47516746207e33cdb648673c5564c0db2c63.png",
+    "website": "https://www.storyworth.com",
+    "all_locations": "Kailua, HI, USA; Stockholm, Stockholm County, Sweden; Remote",
+    "long_description": "Storyworth is a service that makes it easy for families to record their stories. Each week they email their customers a question about their life, for example \"What do you remember of your grandmother?\". Their customers reply by email, and the stories are saved and shared privately with their family. At the end of a year, their stories are bound in a beautiful keepsake book.",
+    "one_liner": "Record your family stories and print them in beautiful keepsake books.",
+    "team_size": 13,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Home and Personal",
+    "launched_at": 1326790021,
+    "tags": [
+      "SaaS",
+      "E-commerce"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W11",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Home and Personal"
+    ],
+    "regions": [
+      "United States of America",
+      "Sweden",
+      "America / Canada",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/storyworth",
+    "api": "https://yc-oss.github.io/api/batches/w11/storyworth.json"
+  },
+  {
     "id": 240,
     "name": "Stripe",
     "slug": "stripe",
@@ -4552,7 +4598,7 @@
     "all_locations": "Santa Monica, CA, USA; Remote",
     "long_description": "RocketLit gives all students better access to learning and educators access to the data they need to be most impactful.\r\n\r\nOur first product, RocketLit, is an adaptive and personalized learning platform that serves reading to students at their independent level. Students read the same content at different levels of complexity and fluidly move up reading levels as they improve.\r\n\r\nInnerOrbit is our new Science Assessment platform, giving students, teachers and administrators the practice and data they need to be successful on science tests. We serve the highest quality content and feature the most detailed reporting on the market. \r\n\r\nWe’re a small and focused team working to change the world through science education. Our company has served over 650k students and we’re on track to more than double that number in the next year. We’re looking for folks who’ll grow into a leadership role within the organization.",
     "one_liner": "RocketLit is an adaptive learning and assessment platform. ",
-    "team_size": 6,
+    "team_size": 11,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1461182720,
@@ -4578,7 +4624,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": false,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rocketlit",
     "api": "https://yc-oss.github.io/api/batches/s16/rocketlit.json"
@@ -14662,53 +14708,6 @@
     "api": "https://yc-oss.github.io/api/batches/w20/benepass.json"
   },
   {
-    "id": 13172,
-    "name": "StartPlaying.Games",
-    "slug": "startplaying-games",
-    "former_names": [
-      "Frequentish",
-      "StoreCash",
-      "StartPlaying.games"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f22576974c66f91d763fe0ff71ce413b8f3aee6.png",
-    "website": "https://startplaying.games/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "✨ Hello! ✨ - StartPlaying.Games is the largest marketplace for finding game masters to host digital tabletop games like D&D. Today, more than 40 million people play D&D around the world and sales have grown by double-digit percentages for the last five consecutive years. But still finding people to host and play these games with is challenging. Most solutions involve digging through discord servers, reddit, and specialty forums. We built StartPlaying.Games to solve this problem.",
-    "one_liner": "Building Communities Through Play",
-    "team_size": 6,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1597727759,
-    "tags": [
-      "Marketplace",
-      "Entertainment",
-      "Social"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W20",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/startplaying-games",
-    "api": "https://yc-oss.github.io/api/batches/w20/startplaying-games.json"
-  },
-  {
     "id": 13208,
     "name": "Whatnot",
     "slug": "whatnot",
@@ -15028,14 +15027,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce04cea0c7c1fdd2893b4d50aca57d665d3153ef.png",
     "website": "https://www.vori.com",
     "all_locations": "East Palo Alto, CA, USA",
-    "long_description": "Vori makes ordering dead simple for local supermarkets with a streamlines mobile wholesale marketplace where grocers can order for any department of their store--from dairy to dry goods to alcohol. ",
-    "one_liner": "Vori is a b2b wholesale app that streamlines ordering for…",
-    "team_size": 12,
+    "long_description": "Vori offers a modern operating system designed for the grocery industry. VoriOS helps independent and regional grocers streamline their inventory management, ordering, and supplier coordination, allowing them to operate more efficiently and profitably. The platform integrates real-time data to optimize stock replenishment and improve pricing strategies. Founded in 2019, Vori empowers grocers with technology that levels the playing field against larger retailers.",
+    "one_liner": "Vori is a modern operating system for supermarkets",
+    "team_size": 29,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1584148900,
     "tags": [
-      "Grocery"
+      "Grocery",
+      "SaaS",
+      "Retail Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20041,48 +20042,6 @@
     "api": "https://yc-oss.github.io/api/batches/w21/per-diem.json"
   },
   {
-    "id": 22823,
-    "name": "June",
-    "slug": "june",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7f5da22c38acb9a212882198584da041113894b.png",
-    "website": "http://june.so",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "June is a plug & play product analytics for B2B SaaS. \r\n\r\nIt automatically generates graphs of the metrics you should track, lets you view your company-level metrics, and zoom into them! ",
-    "one_liner": "June is the new way to do product analytics",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1614364832,
-    "tags": [
-      "Analytics",
-      "Data Visualization"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W21",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/june",
-    "api": "https://yc-oss.github.io/api/batches/w21/june.json"
-  },
-  {
     "id": 22827,
     "name": "Promoted.ai",
     "slug": "promoted",
@@ -21813,7 +21772,7 @@
     "all_locations": "Tempe, AZ, USA; Phoenix, AZ, USA",
     "long_description": "Soraban's building a copilot for accounting firms. We're first automating the client data gathering and service delivery process with software and AI.\r\n\r\nWe are looking for ambitious people to build the best piece of software for accountants.",
     "one_liner": "Automates data intake and service delivery process for tax firms.",
-    "team_size": 25,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1627685643,
@@ -22723,6 +22682,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/palettehq",
     "api": "https://yc-oss.github.io/api/batches/s21/palettehq.json"
+  },
+  {
+    "id": 23781,
+    "name": "Openlayer",
+    "slug": "openlayer",
+    "former_names": [
+      "Unbox",
+      "OpenLayer"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35b3b987d05aeeeea2e5ed41eb9bc474ea3d6529.png",
+    "website": "https://openlayer.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Openlayer helps you test and monitor high-quality AI systems.",
+    "one_liner": "The fastest way to ship airtight AI",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1625008531,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Generative AI",
+      "Machine Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openlayer",
+    "api": "https://yc-oss.github.io/api/batches/s21/openlayer.json"
   },
   {
     "id": 23796,
@@ -25087,52 +25094,6 @@
     "api": "https://yc-oss.github.io/api/batches/s21/sequin.json"
   },
   {
-    "id": 24384,
-    "name": "Whalesync",
-    "slug": "whalesync",
-    "former_names": [
-      "Whaleform Inc. (product is Whalesync)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b41e1d6f488e4bc79eaf0dddb0a7f7b316e142e.png",
-    "website": "https://www.whalesync.com",
-    "all_locations": "Miami, FL, USA; Seattle, WA, USA; Remote",
-    "long_description": "Whalesync makes data syncing easy. Our automation platform syncs data between key business tools like HubSpot and Airtable. We give developers and ops teams two-way, real-time sync, so they can build production-ready workflows.\r\n\r\nWhalesync launched during Y Combinator’s S21 cohort. Since then we’ve raised from some of the world’s top investors. We’re now trusted by hundreds of companies like [Ramp](https://ramp.com/), [Webflow](https://webflow.com/), and [Alchemy](https://www.alchemy.com/), and process millions of transactions every day. Many of our customers enjoy the product so much they [tell all their friends](https://whalesync.com/preach).",
-    "one_liner": "Two-way sync data between key business tools like HubSpot & Airtable",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1626201713,
-    "tags": [
-      "SaaS",
-      "Remote Work",
-      "No-code",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S21",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/whalesync",
-    "api": "https://yc-oss.github.io/api/batches/s21/whalesync.json"
-  },
-  {
     "id": 24391,
     "name": "CoLoop",
     "slug": "coloop",
@@ -26147,7 +26108,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48474c1b0337163fd12462fb6b72ee336a4ad010.png",
     "website": "https://www.adni.co/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "With Adni, healthcare workers can buy their gear, find new jobs, read healthcare news, access resources, store credentials, and more. Healthcare organizations recruit talent through our public-facing job board, and white-label our software to power an all-in-one digital home base that engages and retains their clinical workforce.",
+    "long_description": "With Adni, healthcare workers can apply to jobs, buy their gear, store credentials, and trade advice all-in-one. Employers recruit healthcare talent from Adni’s app, and white-label Adni to power their own gamified clinician portal (including their jobs, candidate referrals, and loyalty perks) that improves time-to-hire and retention.",
     "one_liner": "Super App for Healthcare Workers",
     "team_size": 5,
     "industry": "Healthcare",
@@ -29113,18 +29074,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42624b47fffc5d9d7f83077c9c444743511d6eb9.png",
     "website": "https://reforgedlabs.com/",
     "all_locations": "San Francisco, CA, USA; Ho Chi Minh City, Vietnam",
-    "long_description": "Reforged Labs is a platform for creating and optimizing video ads for game marketing. We use GenAI and ad intelligence to build and refine video creatives, powering faster experimentation and higher ROAS for game studios\r\n\r\nWe’re a small and nimble team with backgrounds from Google, Microsoft, and Harvard, and we’re backed by world-class investors, including Y Combinator, the founder of King and Sky Mavis, and executives from Niantic and Pocket Gems.",
-    "one_liner": "GenAI video ad and creative intelligence platform for game marketing",
+    "long_description": "Reforged Labs is breaking ground with the launch of its first-of-its-kind AI-powered video creation service, designed specifically for indie and small game studios. We are automating what has long been an expensive and time-consuming creative process, replacing it with lightning-fast delivery of cost-effective video ads tailored to each studio’s marketing needs. At the core of this service is Reforged Labs’ proprietary AI engine, trained by analyzing thousands of high-performing game ads in its reference library. \r\n\r\nStudios can select from a streamlined ‘storefront’ of ad templates modeled after the opening hooks, content format, and narrative flows from successful ads for games similar to their own. Game developers simply upload gameplay recordings and Reforged Labs’ AI will identify key scenes and moments that showcase the game’s most impactful features and designs. Reforged Labs delivers finished ads in less than 24 hours, saving game studios both time and money. \r\n\r\nWe’re a small and nimble team with backgrounds from Google, Microsoft, and Harvard, and we’re backed by world-class investors, including DCM, Y Combinator, the founder of King and Sky Mavis, and executives from Niantic and Pocket Gems.",
+    "one_liner": "AI-powered video ad creation service for indie and small game studios",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1644566628,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Gaming",
-      "Advertising"
+      "Advertising",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31202,6 +31163,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/workflow86",
     "api": "https://yc-oss.github.io/api/batches/w22/workflow86.json"
+  },
+  {
+    "id": 26016,
+    "name": "Finku",
+    "slug": "finku",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd2fc34605d4558d713fd1df46893a192df5b825.png",
+    "website": "http://finku.id",
+    "all_locations": "Jakarta, Jakarta, Indonesia",
+    "long_description": "We allow our users to create a single view of their finances from 22 banks, investment platforms and e-wallets to help them get control of their finances. We offer the most comprehensive account integrations and personal finance tools in Indonesia. ",
+    "one_liner": "Personal finance platform for Indonesia",
+    "team_size": 50,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1640796466,
+    "tags": [
+      "Fintech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Indonesia",
+      "Southeast Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/finku",
+    "api": "https://yc-oss.github.io/api/batches/w22/finku.json"
   },
   {
     "id": 26021,
@@ -34182,7 +34183,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35b93ab2671a1397037aa92e0703d5f6c2ec0fba.png",
     "website": "https://oneleet.com",
-    "all_locations": "Amsterdam, NH, Netherlands",
+    "all_locations": "",
     "long_description": "Oneleet provides a full-coverage cybersecurity platform through which companies can build, manage, and monitor their cybersecurity management program. The company's core product offers a roadmap for companies to become secure and build trust with their partners.\r\n\r\nThe founder behind Oneleet has spent the past 10+ years helping companies become more secure by performing penetration tests.",
     "one_liner": "Automated security and compliance without security theater",
     "team_size": 23,
@@ -34207,8 +34208,6 @@
       "Security"
     ],
     "regions": [
-      "Netherlands",
-      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -35592,6 +35591,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/latent",
     "api": "https://yc-oss.github.io/api/batches/w23/latent.json"
+  },
+  {
+    "id": 27704,
+    "name": "FlexDesk",
+    "slug": "flexdesk",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ba7b37dc3c29d740d89959501d5950b59307a9f.png",
+    "website": "https://www.flexdesk.com/",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "FlexDesk is the modern platform for corporate real estate departments. Combining lease administration with utilization intelligence, financial management, and a coworking booking platform, FlexDesk’s all-in-one solution is designed to help occupiers maximize the ROI of their real estate portfolio. Leading public and private corporations like Confluent, Hopper, ezCater, Blink Health, Paystand, and Bluecrest use FlexDesk to streamline their portfolio management processes while delighting their business users.",
+    "one_liner": "One platform for corporate occupiers to manage their office portfolios",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Office Management",
+    "launched_at": 1667858578,
+    "tags": [
+      "Real Estate",
+      "B2B",
+      "HR Tech",
+      "Proptech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Office Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/flexdesk",
+    "api": "https://yc-oss.github.io/api/batches/w23/flexdesk.json"
   },
   {
     "id": 27713,
@@ -37708,9 +37751,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/412a6b3ef532664df77532bc5d7ae3c1233de965.png",
     "website": "https://usepylon.com/?utm_source=ycdirectory&utm_medium=yc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pylon is a modern alternative to Zendesk. Pylon helps B2B companies manage their customers across the different places they talk to them - shared Slack channels, Microsoft Teams, email, in-app chat, Slack communities, and more.\r\n\r\nHundreds of fast-growing YC companies of all sizes like Mintlify, Hightouch, and Deel use Pylon to track customer conversations across slack/teams/email/in-app/community, resolve customer issues quickly, and keep customers engaged.\r\n\r\nPylon replaces tools like Zendesk/Intercom for modern companies.\r\n\r\nLearn more: https://www.usepylon.com\r\n\r\n\r\n-------\r\nExamples of specific capabilities include:\r\n- Unify customer conversations across Slack, Microsoft Teams, In-App Chat, Email, and Community.\r\n- Triage open issues, set SLAs, prioritize questions based on customer tier or other CRM data, connect questions with engineering work in Linear/Jira/Github, and measure metrics like response time and resolution rate.\r\n- Broadcast product updates, upcoming events, or outages to 100s of channels at once and get live link click, reaction, and reply data.",
-    "one_liner": "Customer support platform, built for B2B.",
-    "team_size": 15,
+    "long_description": "Pylon is the modern alternative to Zendesk, Intercom, Freshdesk, and Salesforce Service Cloud. We help B2B companies track customer support issues across common B2B channels including shared Slack channels (Slack Connect), Microsoft Teams, email, in-app chat, ticket forms, Slack community, and more.\r\n\r\nHundreds of fast-growing YC companies of all sizes like Vellum, Hightouch, and Deel are customers.\r\n\r\nLearn more at usepylon.com",
+    "one_liner": "The only customer support platform built for B2B.",
+    "team_size": 19,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1676268747,
@@ -41678,6 +41721,43 @@
     "api": "https://yc-oss.github.io/api/batches/s24/poka-labs.json"
   },
   {
+    "id": 29252,
+    "name": "Maia",
+    "slug": "maia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc7f5941ce46fd5ba95ec2e5bbefc76f37b95a78.png",
+    "website": "https://www.ourmaia.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Maia helps couples connect more each day. Trained by relationship experts, Maia offers daily activities, personalized advice, proactive insights, quizzes and games through AI and relationship science.",
+    "one_liner": "AI relationship app that keeps couples together",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1707183494,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maia",
+    "api": "https://yc-oss.github.io/api/batches/w24/maia.json"
+  },
+  {
     "id": 29253,
     "name": "Vectorview",
     "slug": "vectorview",
@@ -41996,42 +42076,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/starlight-charging",
     "api": "https://yc-oss.github.io/api/batches/w24/starlight-charging.json"
-  },
-  {
-    "id": 29286,
-    "name": "PointOne",
-    "slug": "pointone",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d23f524f231cbfcd78316df244ed5d03f2649c4d.png",
-    "website": "https://pointone.com/",
-    "all_locations": "",
-    "long_description": "Lawyers have to manually track all their client work in 6-minute increments. PointOne uses AI to completely automate time tracking and bill review, helping law firms collect more revenue and saving lawyers hours each week.",
-    "one_liner": "Automated time tracking and billing for law firms.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1705177845,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pointone",
-    "api": "https://yc-oss.github.io/api/batches/w24/pointone.json"
   },
   {
     "id": 29288,
@@ -44123,6 +44167,42 @@
     "api": "https://yc-oss.github.io/api/batches/s24/ply-health.json"
   },
   {
+    "id": 29589,
+    "name": "Theseus",
+    "slug": "theseus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05b004a38c0a5df5a4e151b258151cd9a38f08c8.png",
+    "website": "https://theseus.us",
+    "all_locations": "",
+    "long_description": "We've built a Micro Visual Positioning System (VPS) that can be retrofit onto any drone that simulates a GPS. Our VPS uses cameras and an accelerometer/gyroscope as well as reference satellite imagery for positioning. The system is entirely self contained, can't be jammed and has no RF signature. ",
+    "one_liner": "GPS Denied Navigation for Drones",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Drones",
+    "launched_at": 1725406335,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/theseus",
+    "api": "https://yc-oss.github.io/api/batches/s24/theseus.json"
+  },
+  {
     "id": 29597,
     "name": "Spaceium Inc",
     "slug": "spaceium-inc",
@@ -44288,43 +44368,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/entangl",
     "api": "https://yc-oss.github.io/api/batches/s24/entangl.json"
-  },
-  {
-    "id": 29643,
-    "name": "Clara",
-    "slug": "clara",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f6b06b1a3d9fa21d50da717df4b5634869f0342.png",
-    "website": "https://www.clarahomecare.com/",
-    "all_locations": "",
-    "long_description": "Clara is Deel/Rippling for in-home senior care. We provide an all-in-one payroll, tax, and insurance platform for families to directly employ caregivers, and a marketplace for them to discover and match with their ideal caregiver from our network of hundreds of qualified local care providers.\r\n\r\nClara was founded by two former Uber colleagues who have experienced the challenges of managing care for a loved one personally, and are inspired by the opportunity to apply their tech backgrounds to solving the most widespread and impactful issues in the >$120B in-home care industry. \r\n\r\nClara's marketplace is currently live in the SF Bay Area, delivering hundreds of hours of care to local families. Our consumer-facing senior-care payroll and tax management solution is live nationwide.",
-    "one_liner": "Helping families discover, hire, and manage in-home caregivers",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1722734654,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clara",
-    "api": "https://yc-oss.github.io/api/batches/s24/clara.json"
   },
   {
     "id": 29645,
