@@ -3735,7 +3735,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Sales"
@@ -9020,9 +9020,9 @@
       "Arcane AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e8293b8909fbc0452663290a630f3f5f9d0e7e1.png",
-    "website": "https://arcanelabs.ai/",
+    "website": "",
     "all_locations": "New York, NY, USA",
-    "long_description": "Arcane is building the AI powered Roblox. We allow anyone to create and play games, without writing code. Our first product, Summon Worlds, has tens of thousands of users who've created millions of Summons and used them to play AI powered games. \r\n\r\nLucas and Rohan were both engineers at Meta. Rohan was a Principal SWE on Gen AI, AR Glasses and UI Frameworks, and Lucas was a Staff SWE on Gen AI/AR Glasses, and previously at Nvidia. \r\n",
+    "long_description": "Arcane is building an AI powered game platform. We allow anyone to create and play games, without writing code. Our first product, Summon Worlds, has tens of thousands of users who've created millions of Summons and used them to play AI powered games. \r\n",
     "one_liner": "AI powered Roblox",
     "team_size": 2,
     "industry": "Consumer",
@@ -9247,15 +9247,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Today, we serve thousands of customers, from individuals and small businesses to teams at Google and ByteDance.\r\n\r\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks!",
     "one_liner": "AI that can create and edit professional videos",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1725431613,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
-      "Video",
-      "AI"
+      "Video"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10642,6 +10642,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/dreamrp.json"
   },
   {
+    "id": 30016,
+    "name": "Andoria",
+    "slug": "andoria",
+    "former_names": [
+      "Andoria AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e231d5b9221bb861a6f913385a74f69a4763ea0.png",
+    "website": "https://andoria.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Andoria is an AI customer onboarding manager that personalizes each onboarding walkthrough to each one of your users. The AI agent learns how your web application works, gathers data about your user (e.g. background & goal), and generates a custom onboarding. Andoria’s goal is to bring each user to “activation” from day 1. The best part: setup is only pasting a script tag into your HTML & Andoria takes it from there.",
+    "one_liner": "AI customer onboarding manager",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1730323819,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Customer Success",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/andoria",
+    "api": "https://yc-oss.github.io/api/batches/f24/andoria.json"
+  },
+  {
     "id": 30033,
     "name": "OpenFunnel",
     "slug": "openfunnel",
@@ -10881,6 +10925,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/collectwise",
     "api": "https://yc-oss.github.io/api/batches/f24/collectwise.json"
+  },
+  {
+    "id": 30096,
+    "name": "Scrapybara",
+    "slug": "scrapybara",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12a6ec6fb2a1d448f7a4289943c169afddbe611c.png",
+    "website": "https://scrapybara.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Scrapybara pairs AI-powered intelligence with the best data to help you close more leads faster. We automate lead generation, qualification, personalized outreach and meeting prep, and ping you about relevant updates so leads never go cold.",
+    "one_liner": "The AI Copilot For Modern Sales Teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1730261485,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "Sales",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/scrapybara",
+    "api": "https://yc-oss.github.io/api/batches/f24/scrapybara.json"
   },
   {
     "id": 30129,

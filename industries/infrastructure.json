@@ -5204,7 +5204,8 @@
     "slug": "scratch-data",
     "former_names": [
       "Hotswap",
-      "Tasker"
+      "Tasker",
+      "Journalize"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da76e9943d4f25da898d4584a50149b4f8feff25.png",
     "website": "https://www.scratchdata.com",
@@ -5213,7 +5214,7 @@
     "one_liner": "Analytics for builders. Record and query billions of datapoints with…",
     "team_size": 1,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1627940464,
     "tags": [
       "Developer Tools",
@@ -5227,7 +5228,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -8859,18 +8860,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f41c1e3ea873ecf72e295ba7e2661334c89c3d60.png",
     "website": "https://thundercompute.com",
     "all_locations": "Atlanta, GA, USA",
-    "long_description": "Thunder Compute creates software to virtualize GPUs over a network. With a single command we trick your computer into thinking it’s directly attached to any number of cloud GPUs, saving developer hours of setup while allowing us to serve 5x more users with the same hardware.\r\n\r\nDevelopers save time spent configuring instances and cost of paying for idle compute during development.\r\n\r\nIn the background, our technology dramatically cuts CapEx of GPUs in any data center or cloud. It does this by:\r\n\r\n1) Placing multiple workloads on a single GPU\r\n\r\n2) Allowing CPU-only instances to share pooled GPU resources\r\n\r\nGPU virtualization also saves OpEx by reducing IT and procurement processes required to get developers access to GPUs.",
+    "long_description": "Thunder Compute makes GPUs cheaper and easier to use. We do this with proprietary software to virtualize GPUs over a network.\r\n\r\nBenefits:\r\n- Never pay for idle GPUs\r\n- No need for CUDA drivers\r\n- Switch GPUs with one command",
     "one_liner": "Software to virtualize GPUs over TCP.",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
