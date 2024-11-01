@@ -3469,7 +3469,8 @@
     "name": "Ceejay",
     "slug": "ceejay",
     "former_names": [
-      "SuperFilter"
+      "SuperFilter",
+      "Superfilter"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa7a9ad5515cb67d23f321abf4851733201f76a1.png",
     "website": "https://tryceejay.com",
@@ -3478,7 +3479,7 @@
     "one_liner": "An expert assistant ",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "Consumer",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1724163637,
     "tags": [
       "Productivity",
@@ -4300,8 +4301,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc46cce4531bcb8cd250abaee08dfc030c7bb3b.png",
     "website": "https://vespper.com",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-    "long_description": "Vespper is an open-source AI on-call agent that automatically investigates production issues, such as incidents and alerts, and delivers detailed findings directly to Slack. It integrates with observability tools like Coralogix, DataDog and Grafana, codebases on GitHub, and internal knowledge platforms like Notion and Confluence, and manages to produce non-trivial insight about the problem that can save precious time & money.",
-    "one_liner": "Troubleshoot production issues faster using an AI agent",
+    "long_description": "Vespper is an on-call engineer running 24/7 to troubleshoot your alerts and surface the right data to help you resolve your issue so incidents never falls through the cracks.",
+    "one_liner": "24/7 AI on-call engineer",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
@@ -4418,6 +4419,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/scrapybara",
     "api": "https://yc-oss.github.io/api/batches/f24/scrapybara.json"
+  },
+  {
+    "id": 30097,
+    "name": "Innate",
+    "slug": "innate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5874ae5d91c6dc5a32065be587bcdaa98b58d82d.png",
+    "website": "https://innate.bot",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "Innate is developing the AI brain for teachable home robots. From navigation to manipulation, interaction and planning, our robots already act entirely autonomously, and users can teach entirely new behaviors quickly.\r\nOur customers use them to do chores the way they want, starting with cleaning or serving humans.\r\n\r\nUltimately, our goal is to collect the data to build the AI for all robots of the future.",
+    "one_liner": "Agentic, teachable multi-purpose home robots",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1730365227,
+    "tags": [
+      "Generative AI",
+      "Hard Tech",
+      "Robotics",
+      "Consumer",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/innate",
+    "api": "https://yc-oss.github.io/api/batches/f24/innate.json"
   },
   {
     "id": 30100,

@@ -5641,7 +5641,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W20",
     "status": "Active",
@@ -14796,19 +14796,20 @@
   },
   {
     "id": 28096,
-    "name": "Evefan",
-    "slug": "evefan",
+    "name": "OpenInt",
+    "slug": "openint",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67a1ff68627d7db644256cf5b89e938213258bed.png",
-    "website": "https://evefan.com",
+    "website": "https://openint.dev",
     "all_locations": "Remote",
-    "long_description": "Evefan enables developers to privately capture, transform and deliver customer events at internet scale. Evefan is open source and self-hosted on Cloudflare workers.",
-    "one_liner": "Capture, transform, and deliver customer events at internet scale",
+    "long_description": "OpenInt helps teams ship product integrations in hours, not weeks, using no or low code. Read and write data using unified APIs or sync it straight to your database. ",
+    "one_liner": "Open Source Embeddable Product Integrations",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1673267479,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Open Source"
@@ -14832,8 +14833,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/evefan",
-    "api": "https://yc-oss.github.io/api/batches/w23/evefan.json"
+    "url": "https://www.ycombinator.com/companies/openint",
+    "api": "https://yc-oss.github.io/api/batches/w23/openint.json"
   },
   {
     "id": 28098,
@@ -17508,7 +17509,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -17725,7 +17726,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -19179,6 +19180,53 @@
     "api": "https://yc-oss.github.io/api/batches/s24/wordware.json"
   },
   {
+    "id": 29653,
+    "name": "ideate.xyz",
+    "slug": "ideate-xyz",
+    "former_names": [
+      "Ditto AI",
+      "ditto - build apps in a document editor",
+      "ditto"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e40d278f6151881697542e1d57800daf27f68e7.png",
+    "website": "https://ideate.xyz",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ideate.xyz is a graphics design as API platform.\r\nWe help founders, marketing teams and agencies scale their marketing graphics design assets programmatically.",
+    "one_liner": "Automate marketing graphics design at scale",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1724663841,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "Design",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ideate-xyz",
+    "api": "https://yc-oss.github.io/api/batches/s24/ideate-xyz.json"
+  },
+  {
     "id": 29654,
     "name": "Moonglow",
     "slug": "moonglow",
@@ -19975,17 +20023,17 @@
     "website": "https://www.lmnr.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Laminar is an open-source platform which provides observability, text analytics, evals and prompt chain management for AI agent. \r\n\r\n",
-    "one_liner": "All-in-one open-source platform for engineering AI products",
+    "one_liner": "Open-source all-in-one platform for engineering AI products",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721337823,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20756,8 +20804,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc46cce4531bcb8cd250abaee08dfc030c7bb3b.png",
     "website": "https://vespper.com",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-    "long_description": "Vespper is an open-source AI on-call agent that automatically investigates production issues, such as incidents and alerts, and delivers detailed findings directly to Slack. It integrates with observability tools like Coralogix, DataDog and Grafana, codebases on GitHub, and internal knowledge platforms like Notion and Confluence, and manages to produce non-trivial insight about the problem that can save precious time & money.",
-    "one_liner": "Troubleshoot production issues faster using an AI agent",
+    "long_description": "Vespper is an on-call engineer running 24/7 to troubleshoot your alerts and surface the right data to help you resolve your issue so incidents never falls through the cracks.",
+    "one_liner": "24/7 AI on-call engineer",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",

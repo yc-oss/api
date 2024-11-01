@@ -89,6 +89,51 @@
     "api": "https://yc-oss.github.io/api/batches/w14/cruise.json"
   },
   {
+    "id": 662,
+    "name": "Checkr",
+    "slug": "checkr",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/211825b572def7bbe7c182d84f166129bc978b6b.png",
+    "website": "http://www.checkr.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Checkr builds people infrastructure for the future of work. And we believe everyone should have a fair chance to work. That's why we've designed a faster—and fairer—way to screen job seekers. For more information on our mission and products, visit http://checkr.com.",
+    "one_liner": "People infrastructure for the future of work",
+    "team_size": 800,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1398907661,
+    "tags": [
+      "Compliance",
+      "HR Tech",
+      "API",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": true,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S14",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/checkr",
+    "api": "https://yc-oss.github.io/api/batches/s14/checkr.json"
+  },
+  {
     "id": 740,
     "name": "Qventus",
     "slug": "qventus",
@@ -2623,52 +2668,6 @@
     "api": "https://yc-oss.github.io/api/batches/w20/flasho.json"
   },
   {
-    "id": 13519,
-    "name": "Recall.ai",
-    "slug": "recall-ai",
-    "former_names": [
-      "Hyperdoc",
-      "Perfect Recall"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d6872d13351da06ebec7a2375682212667cb787.png",
-    "website": "https://www.recall.ai",
-    "all_locations": "San Francisco, CA, USA; Waterloo, ON, Canada",
-    "long_description": "Recall is the universal API for meeting bots. We offer a unified API to capture data from meeting platforms like Zoom, Microsoft Teams, and Google Meet. \r\n\r\nOver 500 companies rely on our API today to process millions of hours of meeting data. We provide stable infrastructure that typically takes engineering teams 6+ months of time to build, and help our customers get up and running in days instead of months.",
-    "one_liner": "The universal API for meeting video, audio and metadata",
-    "team_size": 14,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1616094217,
-    "tags": [
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W20",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "Canada",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/recall-ai",
-    "api": "https://yc-oss.github.io/api/batches/w20/recall-ai.json"
-  },
-  {
     "id": 13522,
     "name": "Atmo",
     "slug": "atmo",
@@ -3176,54 +3175,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/parsagon",
     "api": "https://yc-oss.github.io/api/batches/w21/parsagon.json"
-  },
-  {
-    "id": 22835,
-    "name": "Vapi",
-    "slug": "vapi",
-    "former_names": [
-      "InvestBetter",
-      "Superpowered",
-      "Vapi (formerly Superpowered)",
-      "Vapi / Superpowered",
-      "Superpowered",
-      "Vapi / Superpowered",
-      "Superpowered"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3818df985d5f502f5dc4a6816903ce174528467f.png",
-    "website": "https://vapi.ai",
-    "all_locations": "San Francisco, CA, USA; Toronto, ON, Canada",
-    "long_description": "",
-    "one_liner": "Voice AI for developers.",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1614827434,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W21",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "Canada",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vapi",
-    "api": "https://yc-oss.github.io/api/batches/w21/vapi.json"
   },
   {
     "id": 22880,
@@ -13711,7 +13662,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -15210,6 +15161,49 @@
     "api": "https://yc-oss.github.io/api/batches/w24/manifold-freight.json"
   },
   {
+    "id": 29398,
+    "name": "ProSights",
+    "slug": "prosights",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7af3ebc3d01b55f1bcbe3d6c0c7f7edbaae31b20.png",
+    "website": "https://prosights.co/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "",
+    "one_liner": "ProSights is an AI-native workflow automation / search platform for…",
+    "team_size": 17,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1711348390,
+    "tags": [
+      "Fintech",
+      "Analytics",
+      "Enterprise Software",
+      "Investments",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prosights",
+    "api": "https://yc-oss.github.io/api/batches/w24/prosights.json"
+  },
+  {
     "id": 29399,
     "name": "Centauri AI",
     "slug": "centauri-ai",
@@ -16388,7 +16382,8 @@
     "name": "Ceejay",
     "slug": "ceejay",
     "former_names": [
-      "SuperFilter"
+      "SuperFilter",
+      "Superfilter"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa7a9ad5515cb67d23f321abf4851733201f76a1.png",
     "website": "https://tryceejay.com",
@@ -16397,7 +16392,7 @@
     "one_liner": "An expert assistant ",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "Consumer",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1724163637,
     "tags": [
       "Productivity",
@@ -18664,49 +18659,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/presti-ai.json"
   },
   {
-    "id": 29782,
-    "name": "Laminar",
-    "slug": "laminar",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f68c82dc13524e235198c783318ae1b1aa5d7432.png",
-    "website": "https://www.lmnr.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Laminar is an open-source platform which provides observability, text analytics, evals and prompt chain management for AI agent. \r\n\r\n",
-    "one_liner": "All-in-one open-source platform for engineering AI products",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1721337823,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/laminar",
-    "api": "https://yc-oss.github.io/api/batches/s24/laminar.json"
-  },
-  {
     "id": 29785,
     "name": "Simple AI",
     "slug": "simple-ai",
@@ -20390,6 +20342,47 @@
     "api": "https://yc-oss.github.io/api/batches/f24/circlemind.json"
   },
   {
+    "id": 30059,
+    "name": "Sphinx",
+    "slug": "sphinx",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe6a1b58847c1e53f0596617c9f63de97d49acc2.png",
+    "website": "https://sphinxlabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sphinx helps KYC teams in fintechs resolve complex cases instantly. We cut 85% of manual reviews using AI agents that make onboarding decisions – with proof.",
+    "one_liner": "AI Agents for KYC",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1730337457,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Compliance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sphinx",
+    "api": "https://yc-oss.github.io/api/batches/f24/sphinx.json"
+  },
+  {
     "id": 30060,
     "name": "Replexica",
     "slug": "replexica",
@@ -20432,6 +20425,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/replexica",
     "api": "https://yc-oss.github.io/api/batches/f24/replexica.json"
+  },
+  {
+    "id": 30064,
+    "name": "HYBRD",
+    "slug": "hybrd",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/565b470f8b93fd65e5df28c060b64e46b7aa4e73.png",
+    "website": "https://www.hybrd.app/",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "HYBRD is Strava for elite athletes who do more than just cardio. It brings all your training data together by integrating with top wearables and uses AI to make tracking weightlifting easy. This allows athletes to fully understand their training load, track holistic progress over time, and compete with friends in fresh, exciting ways.\r\n\r\nExisting products tend to focus on only one type of exercise—either cardio or strength—leaving hybrid athletes juggling disconnected tools. As hybrid athletes themselves the founders found this frustrating and set out to build the unified approach they needed for their training.\r\n\r\nThree of HYBRD’s founders previously worked at WHOOP, each leading teams across product, growth and analytics. In parallel, Mats was a member of the US national rowing team and Ben, Shoe and Ruiters have all completed Ironman 70.3s. ",
+    "one_liner": "Strava for elite athletes",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1730403041,
+    "tags": [
+      "Consumer",
+      "Fitness",
+      "Social",
+      "Digital Health",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hybrd",
+    "api": "https://yc-oss.github.io/api/batches/f24/hybrd.json"
   },
   {
     "id": 30108,

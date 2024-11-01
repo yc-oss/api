@@ -878,7 +878,8 @@
     "name": "Ceejay",
     "slug": "ceejay",
     "former_names": [
-      "SuperFilter"
+      "SuperFilter",
+      "Superfilter"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa7a9ad5515cb67d23f321abf4851733201f76a1.png",
     "website": "https://tryceejay.com",
@@ -887,7 +888,7 @@
     "one_liner": "An expert assistant ",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "Consumer",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1724163637,
     "tags": [
       "Productivity",
@@ -2355,21 +2356,21 @@
       "ditto - build apps in a document editor",
       "ditto"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1f844500826bbf6ae6b83f0088e5afee7c6dd28.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e40d278f6151881697542e1d57800daf27f68e7.png",
     "website": "https://ideate.xyz",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ideate.xyz is the first AI graphics design co-pilot for content marketers.\r\n\r\nIt’s like an easier-to-use Canva with a built-in AI designer. Users create designs in our editor and chat with our virtual design expert so they can iterate on the work without having to hire an agency.",
-    "one_liner": "AI graphics design co-pilot for content marketers",
+    "long_description": "ideate.xyz is a graphics design as API platform.\r\nWe help founders, marketing teams and agencies scale their marketing graphics design assets programmatically.",
+    "one_liner": "Automate marketing graphics design at scale",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724663841,
     "tags": [
+      "Developer Tools",
       "Generative AI",
       "SaaS",
       "Design",
-      "Design Tools",
-      "Creator Economy"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7023,17 +7024,17 @@
     "website": "https://www.lmnr.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Laminar is an open-source platform which provides observability, text analytics, evals and prompt chain management for AI agent. \r\n\r\n",
-    "one_liner": "All-in-one open-source platform for engineering AI products",
+    "one_liner": "Open-source all-in-one platform for engineering AI products",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721337823,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8330,23 +8331,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29ea469fed3c60e9950eccadce6c5b7f8fcd6569.png",
     "website": "https://kontigo.lat/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "We’re building Kontigo, a USDC Smart Neobank for Latinos in the U.S. and Latin America.\r\n\r\nWe launched our Peer-to-Peer onramp 20 days ago and we’ve already had $540k in deposits, 10k active users and a +300k waitlist. \r\n\r\nThe founding team has built and scaled fintechs in Latam, and it’s ex-Venmo, Nubank, Rappi, MercadoLibre, Ualá, Platzi, and Yuno. \r\n\r\nWe’re already backed by DST Global, Soma Capital, Pioneer Fund, Transpose + 10 YC alums.\r\n\r\nSending money to Latin America is just as painful as holding it due to the region's fragmentation into 33 countries with 39 different currencies. \r\n\r\nOn one hand, cross-border payments to Latam are absurdly expensive (up to 20% per transaction). Conversely, over the past decade, currency depreciation across the region has become unsustainable. (some countries surpassing the trillion percent ). \r\n\r\nKontigo solves this with a USDC global wallet & a BTC savings account. \r\n\r\n- Like Venmo, but on-USDC.\r\n- Like Zelle, but for cross-border payments. No limits.\r\n- Like Nubank & Revolut, but without inflationary currencies. Bitcoin-backed.\r\n\r\nUser wallets are connected to an AI-private banker on WhatsApp to execute international USDC transactions. ",
     "one_liner": "USDC-Smart Neobank for Latinos. ",
     "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1718239306,
-    "tags": [
-      "Fintech",
-      "Crypto / Web3",
-      "SMB"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
+    "tags": [],
+    "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -8355,8 +8350,6 @@
       "Banking and Exchange"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
