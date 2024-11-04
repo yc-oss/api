@@ -26566,7 +26566,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S18",
     "status": "Active",
@@ -80845,14 +80845,14 @@
     "all_locations": "",
     "long_description": "Sweetspot is an all-in-one government sales platform, powered by AI. We help businesses find, manage, and respond to government opportunities.\r\n",
     "one_liner": "AI for Government Contracting.",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689300101,
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -82813,19 +82813,19 @@
     "website": "https://vetrec.io",
     "all_locations": "Seattle, WA, USA",
     "long_description": "VetRec automates the process of taking clinical notes for veterinarians in a matter of seconds. Veterinarians should just review clinical notes, not spend time creating them. A visit with a pet is precious and 100% of the focus should be spent on the pet, not on notes. VetRec is the veterinarian's best friend.",
-    "one_liner": "AI Scribe for veterinarians that produces clinical notes in seconds",
-    "team_size": 4,
+    "one_liner": "AI Scribe for veterinarians. Saving time and improving patient care.",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689362011,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
-      "Health Tech"
+      "Health Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -82834,7 +82834,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -90397,7 +90399,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36511c34d99fbf72c05effaf820426cfd6fc6ed8.png",
     "website": "http://www.toma.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Toma offers state-of-the-art AI voice agents for companies to streamline operations, starting with the automotive industry. Toma’s voice agents do tens of thousands of minutes of AI calls everyday and generate millions of dollars worth revenue for auto dealerships. Experience it by calling 415-214-9962.\r\n\r\nThe automotive industry is a sleeping giant contributing trillions of dollars to the GDP. The industry and its processes are ready for disruption. Toma is bringing AI to all operations in the industry while working hand-in-hand with some of the biggest names such as the Car Dealership Guy, and public companies like Lithia Motors and Cox Automotive. Toma is backed best investors in Silicon Valley and the Automotive industry.",
+    "long_description": "At Toma, we aim to become the Microsoft/OpenAI of the Automotive industry by supplying a fully integrated AI + software suite to tens of thousands of profitable automotive dealers in America, and then worldwide.\r\n\r\nStep 1 is to provide the world’s best voice AI solution for the automotive industry, serving departments from service to sales to finance to information technology. Toma’s voice agents do thousands of AI calls every day and generate millions of dollars worth of revenue for auto dealerships.\r\n\r\nThe automotive industry is a sleeping giant contributing trillions of dollars to the GDP. The industry and its processes are ready for disruption. Toma is bringing AI to all operations in the industry while working hand-in-hand with some of the biggest names such as the Car Dealership Guy, and public companies like Lithia Motors and Cox Automotive. Toma is backed best investors in Silicon Valley and the Automotive industry.",
     "one_liner": "AI for auto dealerships",
     "team_size": 2,
     "industry": "B2B",
@@ -101328,6 +101330,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fix-ai",
     "api": "https://yc-oss.github.io/api/batches/f24/fix-ai.json"
+  },
+  {
+    "id": 30114,
+    "name": "Ryvn",
+    "slug": "ryvn",
+    "former_names": [
+      "Armada"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38a4a570871fba4b9702b51fa8da50142159b1a8.png",
+    "website": "https://ryvn.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ryvn manages the infrastructure for your applications in your cloud or your customer's cloud. You focus on building your product and we'll take care of deploying it to your customers, managing upgrades/rollbacks, and providing aggregated logging and monitoring to you.\r\n\r\nBuild once, deploy anywhere.",
+    "one_liner": "Deploy, monitor, and manage applications in customer clouds",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1730680026,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "SaaS",
+      "DevOps",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ryvn",
+    "api": "https://yc-oss.github.io/api/batches/f24/ryvn.json"
   },
   {
     "id": 30117,
