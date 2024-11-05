@@ -8523,7 +8523,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -10459,7 +10459,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/360b716e9bd195ffb328c46761ed387863edd652.png",
     "website": "https://verihubs.com",
     "all_locations": "Jakarta, Jakarta, Indonesia",
-    "long_description": "Verihubs is an Indonesian AI-powered verification company. We have helped more than 300 leading enterprises/startups in multiple sectors including banks, fintech, e-commerce, insurance and other digital sectors to prevent fraud occurrences. Ranked #1 in Indonesia by the National Institute of Standards and Technology (NIST) in terms of performance and accuracy, our AI-based face recognition (FR) technology became a staple in fraud prevention in this new era of digital acceleration. Our solutions have been trusted by BCA—the largest private bank in Indonesia, IFG (one of the largest state-owned insurance), Commonwealth Bank, Maybank, Bukalapak, FAZZ, Ministry of Finance, and many other industry leaders.\r\n\r\nThe pandemic has accelerated the digital development and adoption of products, services, and processes by 4-7 years according to recent studies. However, the verification solutions and related data to meet these digital needs are still so behind the ideal mark. We at Verihubs are on a mission to build an all-inclusive automated and instant verification platform for Indonesia.",
+    "long_description": "Verihubs is an Indonesian AI-powered verification company. We have helped more than 300 companies ranging from digital disruptors to Fortune 500 companies in Southeast Asia. Ranked #1 in Indonesia by the National Institute of Standards and Technology (NIST) in terms of performance and accuracy, our AI-based face recognition (FR) technology became a staple in fraud prevention in this new era of digital acceleration. Our solutions have been trusted by BCA—the largest private bank in Indonesia, IFG (one of the largest state-owned insurance), Commonwealth Bank, Maybank, Bukalapak, FAZZ, Ministry of Finance, and many other industry leaders.\r\n\r\nThe pandemic has accelerated the digital development and adoption of products, services, and processes by 4-7 years according to recent studies. However, the verification solutions and related data to meet these digital needs are still so behind the ideal mark. We at Verihubs are on a mission to build an all-inclusive automated and instant verification platform for Indonesia.",
     "one_liner": "AI-powered Deepfake Detection",
     "team_size": 57,
     "industry": "B2B",
@@ -17745,20 +17745,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
     "website": "https://getdecipher.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "AI agent that analyses session replays and application-level data to uncover issues that are costing you user trust and increasing churn. Plus, rich technical context to understand and fix bugs quickly.\r\n\r\nCompanies rely on Decipher to identify issues before more customers encounter them and to access rich technical context for swift resolution.",
     "one_liner": "AI agent that uncovers product issues and bugs in production",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1708738486,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Monitoring",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -17770,8 +17764,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -20832,6 +20825,46 @@
     "api": "https://yc-oss.github.io/api/batches/f24/andoria.json"
   },
   {
+    "id": 30024,
+    "name": "Upshift",
+    "slug": "upshift",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d97ce9291f8a51ec2a48e5fa70be7766b06a04b5.png",
+    "website": "https://upshift.dev",
+    "all_locations": "Charlotte, NC, USA",
+    "long_description": "Upshift is tooling for plugin systems and app stores. We help product companies support plugins or apps, to help them achieve outcomes like what the app stores in Salesforce and Shopify have done for those products. We believe plugin support drives more sales, better retention, and compounds value over time.\r\n\r\nCompanies put it off because it can take months, even years, and hundreds of thousands of dollars to build. We cut the time-to-production down to weeks.\r\n\r\nWe know how to build it. Together, we have more than a decade in engineering leadership from Palantir and Candid Health, and we've built extensibility like this before.\r\n\r\nEvery software product company who wants to enable their users to extend the platform is a potential customer. And it's a clear differentiator for best-in-class software companies who want to leverage their customer base as a community working to make their product even better.",
+    "one_liner": "We help product companies build plugin systems and app stores.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1730739931,
+    "tags": [
+      "Developer Tools",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/upshift",
+    "api": "https://yc-oss.github.io/api/batches/f24/upshift.json"
+  },
+  {
     "id": 30040,
     "name": "supercontrast",
     "slug": "supercontrast",
@@ -21083,23 +21116,25 @@
     "api": "https://yc-oss.github.io/api/batches/f24/manicode.json"
   },
   {
-    "id": 30100,
-    "name": "Alex",
-    "slug": "alex",
+    "id": 30074,
+    "name": "vly.ai",
+    "slug": "vly-ai-2",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/211bbe719ecb6e8800789a12c674df98b2a1fb49.png",
-    "website": "https://alexcodes.app",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f1f18d8b47e8fea70cee789ba9bf7d88a9f5e2b.png",
+    "website": "https://vly.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tired of switching tabs to cursor every time you're building your iOS app in Xcode?\r\n\r\nWorry not!\r\n\r\nAlex is a sidebar app that works directly with Xcode, and has the same Cmd+L, Cmd+K, and Apply Code commands as Cursor. And, it's super fast.\r\n\r\nCheck it out: https://alexcodes.app",
-    "one_liner": "The Cursor for Xcode",
-    "team_size": 1,
+    "long_description": "vly.ai makes your entire team technical. we build your web apps live, blending expert insights with automation to deliver faster growth, better performance, and updates at 5x less the cost.",
+    "one_liner": "The easiest way to build custom full-stack software without code",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1728718432,
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1730684290,
     "tags": [
+      "AIOps",
       "Artificial Intelligence",
-      "Developer Tools",
-      "AI Assistant"
+      "SaaS",
+      "Enterprise Software",
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21114,6 +21149,42 @@
     "regions": [
       "United States of America",
       "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vly-ai-2",
+    "api": "https://yc-oss.github.io/api/batches/f24/vly-ai-2.json"
+  },
+  {
+    "id": 30100,
+    "name": "Alex",
+    "slug": "alex",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/211bbe719ecb6e8800789a12c674df98b2a1fb49.png",
+    "website": "https://alexcodes.app",
+    "all_locations": "",
+    "long_description": "Tired of switching tabs to cursor every time you're building your iOS app in Xcode?\r\n\r\nWorry not!\r\n\r\nAlex is a sidebar app that works directly with Xcode, and has the same Cmd+L, Cmd+K, and Apply Code commands as Cursor. And, it's super fast.\r\n\r\nCheck it out: https://alexcodes.app",
+    "one_liner": "The Cursor for Xcode",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1728718432,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

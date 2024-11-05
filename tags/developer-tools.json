@@ -6711,7 +6711,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -10317,7 +10317,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The best developer companies (think Stripe, Twilio, MongoDB) have effective and user-centric documentation at their backbone. Mintlify helps any company achieve the documentation they need effortlessly, so that they can focus on building what they do best.",
     "one_liner": "The modern standard for documentation",
-    "team_size": 11,
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1641800191,
@@ -17785,49 +17785,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/speck.json"
   },
   {
-    "id": 29334,
-    "name": "Decipher AI",
-    "slug": "decipher-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
-    "website": "https://getdecipher.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI agent that analyses session replays and application-level data to uncover issues that are costing you user trust and increasing churn. Plus, rich technical context to understand and fix bugs quickly.\r\n\r\nCompanies rely on Decipher to identify issues before more customers encounter them and to access rich technical context for swift resolution.",
-    "one_liner": "AI agent that uncovers product issues and bugs in production",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1708738486,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Monitoring",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/decipher-ai",
-    "api": "https://yc-oss.github.io/api/batches/w24/decipher-ai.json"
-  },
-  {
     "id": 29335,
     "name": "Toolify",
     "slug": "toolify",
@@ -20668,6 +20625,46 @@
     "api": "https://yc-oss.github.io/api/batches/f24/pearai.json"
   },
   {
+    "id": 30024,
+    "name": "Upshift",
+    "slug": "upshift",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d97ce9291f8a51ec2a48e5fa70be7766b06a04b5.png",
+    "website": "https://upshift.dev",
+    "all_locations": "Charlotte, NC, USA",
+    "long_description": "Upshift is tooling for plugin systems and app stores. We help product companies support plugins or apps, to help them achieve outcomes like what the app stores in Salesforce and Shopify have done for those products. We believe plugin support drives more sales, better retention, and compounds value over time.\r\n\r\nCompanies put it off because it can take months, even years, and hundreds of thousands of dollars to build. We cut the time-to-production down to weeks.\r\n\r\nWe know how to build it. Together, we have more than a decade in engineering leadership from Palantir and Candid Health, and we've built extensibility like this before.\r\n\r\nEvery software product company who wants to enable their users to extend the platform is a potential customer. And it's a clear differentiator for best-in-class software companies who want to leverage their customer base as a community working to make their product even better.",
+    "one_liner": "We help product companies build plugin systems and app stores.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1730739931,
+    "tags": [
+      "Developer Tools",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/upshift",
+    "api": "https://yc-oss.github.io/api/batches/f24/upshift.json"
+  },
+  {
     "id": 30028,
     "name": "Gait",
     "slug": "gait",
@@ -21002,47 +20999,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/manicode.json"
   },
   {
-    "id": 30100,
-    "name": "Alex",
-    "slug": "alex",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/211bbe719ecb6e8800789a12c674df98b2a1fb49.png",
-    "website": "https://alexcodes.app",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tired of switching tabs to cursor every time you're building your iOS app in Xcode?\r\n\r\nWorry not!\r\n\r\nAlex is a sidebar app that works directly with Xcode, and has the same Cmd+L, Cmd+K, and Apply Code commands as Cursor. And, it's super fast.\r\n\r\nCheck it out: https://alexcodes.app",
-    "one_liner": "The Cursor for Xcode",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1728718432,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alex",
-    "api": "https://yc-oss.github.io/api/batches/f24/alex.json"
-  },
-  {
     "id": 30112,
     "name": "Fix AI",
     "slug": "fix-ai",
@@ -21093,7 +21049,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38a4a570871fba4b9702b51fa8da50142159b1a8.png",
     "website": "https://ryvn.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ryvn manages the infrastructure for your applications in your cloud or your customer's cloud. You focus on building your product and we'll take care of deploying it to your customers, managing upgrades/rollbacks, and providing aggregated logging and monitoring to you.\r\n\r\nBuild once, deploy anywhere.",
+    "long_description": "Ryvn manages the infrastructure for your applications in your cloud or your customer's cloud. We handle deploying and rolling out updates, provide aggregated logging and monitoring, and offer one-click rollbacks. Expand into regulated industries, accelerate time-to-PoCs, and boost revenue by offering on-prem/self-hosted without the added complexity.\r\n\r\nBuild once, deploy anywhere.",
     "one_liner": "Deploy, monitor, and manage applications in customer clouds",
     "team_size": 2,
     "industry": "B2B",
