@@ -30508,7 +30508,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W19",
     "status": "Active",
@@ -38631,7 +38631,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "📬 Stable is a virtual address & mailroom for startups, and the only solution on the market that guides you through switching your business address compliantly\r\n\r\n- 🏢 1 permanent business address for all of your company documents and mail\r\n- 👩‍🏫 Guidance on compliantly switching your address with the IRS, state, banks, payroll, etc\r\n- 📨 Open, view, forward, and shred your mail securely without physically entering a mailroom\r\n- ⚡ Integrations with the tools you love to use (Slack, Dropbox, Drive, etc)\r\n- 💻 Modern platform with encrypted file storage, optical character recognition, and more\r\n",
     "one_liner": "A virtual address + mailbox for business",
-    "team_size": 12,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Office Management",
     "launched_at": 1584214989,
@@ -41003,7 +41003,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S20",
     "status": "Active",
@@ -42315,16 +42315,16 @@
     "website": "https://dataland.io",
     "all_locations": "New York, NY, USA",
     "long_description": "Dataland is a high-performance data tool that's specifically designed for non-technical frontline teams. Dataland unifies data from across the business and allows frontline teams to Search, Analyze, and Ask AI to quickly get the answers they need, without needing to juggle multiple tools. Frontline teams - working in customer support, sales, fulfillment, operations, and logistics - get data workflows done 10x faster by using a single integrated tool that's designed to be fast and easy to use.",
-    "one_liner": "Fast Data Tool for Frontline Teams",
+    "one_liner": "The fastest database viewer ever built.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1594828571,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Data Engineering",
-      "Data Visualization",
-      "AI"
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -50364,7 +50364,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -58561,7 +58561,7 @@
     "all_locations": "Seattle, WA, USA",
     "long_description": "Uberduck makes tools high-quality audiovisual content creation tools for product companies, brands, agencies, and musicians.\r\n\r\nWe offer audio generation, image generation, and video generation functionality, including enterprise workflow APIs to power end-to-end video creation experiences.\r\n\r\nVocal samples and full songs produced by our text-to-speech, text-to-singing, text-to-rapping, lyric video generation, and voice conversion technologies power:\r\n- AI remixes and original songs for musicians ranging from hobbyists to the largest DJs in the world.\r\n- Personalized musical content in marketing campaigns.\r\n- A variety of music-related consumer experiences built on top of our APIs.",
     "one_liner": "Fast, professional content creation with AI audio, image, and video.",
-    "team_size": 1,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1642801196,
@@ -71361,7 +71361,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Analytics"
@@ -71870,47 +71870,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sameday",
     "api": "https://yc-oss.github.io/api/batches/w23/sameday.json"
-  },
-  {
-    "id": 27492,
-    "name": "Nucleus",
-    "slug": "nucleus-2",
-    "former_names": [
-      "Treasury"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68a2f3216b535ae529517f8b12edc555bb892f68.png",
-    "website": "https://usenucleus.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nucleus is building AI search across sales calls for Product Marketing teams so they can figure out what to build and pitch at the speed of thought. Think of it as Perplexity or ChatGPT over client calls and CRM data. \r\n\r\nProduct marketing teams spend hours listening to or doing keyword searches over sales calls to inform go to market strategy. With Nucleus, they can directly pose questions such as “Where are we losing deals and why?”, “What are customers saying about competition?”, “Show me testimonials I can use.” “What features and product bugs are customers reporting?”",
-    "one_liner": "AI Search Across Sales Calls for Product Marketing teams",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "Fintech",
-    "launched_at": 1680111928,
-    "tags": [
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nucleus-2",
-    "api": "https://yc-oss.github.io/api/batches/w23/nucleus-2.json"
   },
   {
     "id": 27583,
@@ -75205,29 +75164,29 @@
   },
   {
     "id": 27867,
-    "name": "Anarchy Labs",
-    "slug": "anarchy-labs",
+    "name": "TruthSuite",
+    "slug": "truthsuite",
     "former_names": [
       "Extensional AI",
       "Extensional",
       "Extensional AI",
       "Anarchy AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2c15af20d6989e642c06b7359ae97f7890efbe8.png",
-    "website": "https://anarchy.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a6e691a37cf8ccaf8d7f5a7a06674c06c0a4659.png",
+    "website": "https://truthsuite.com",
     "all_locations": "Zürich, ZH, Switzerland; Remote",
-    "long_description": "Anarchy provides open-source LLM training infrastructure and tooling for developers.  We provide a platform to help developers manage their datasets and fine-tunes.",
-    "one_liner": "Gitlab for LLM Teams",
-    "team_size": 5,
+    "long_description": "TruthSuite provides a comprehensive platform to supercharge the due-diligence and research processes for lawyers and other professionals for whom the truth matters.  Lawyers use TruthSuite to uncover consistent versions of events as well as identify misinformation in testimonials.\r\n\r\nPrev. Anarchy Labs",
+    "one_liner": "AI Fact Checking for Lawyers",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1669080392,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
       "Generative AI",
       "Machine Learning",
-      "Infrastructure"
+      "Legal",
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -75237,7 +75196,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Legal"
     ],
     "regions": [
       "Switzerland",
@@ -75250,8 +75209,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/anarchy-labs",
-    "api": "https://yc-oss.github.io/api/batches/w23/anarchy-labs.json"
+    "url": "https://www.ycombinator.com/companies/truthsuite",
+    "api": "https://yc-oss.github.io/api/batches/w23/truthsuite.json"
   },
   {
     "id": 27868,
@@ -75484,10 +75443,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1679954526,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -81310,7 +81269,7 @@
     "all_locations": "",
     "long_description": "We provide an in-browser document editor that any patent attorney can start using straight away. It works just like Google Docs but, under the hood, is powered by an AI copilot to help the attorney write high-quality patents efficiently.\r\n\r\nOur product can help with all stages of the patent life cycle, from drafting and filing to prosecution and opposition.",
     "one_liner": "We use AI to help attorneys write patents.",
-    "team_size": 8,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1686701574,
@@ -92647,7 +92606,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -97951,17 +97910,17 @@
     "website": "https://www.riskangle.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "RiskAngle helps insurance underwriters make underwriting decisions faster, reducing the total time-to-bind so insurance companies can collect more premiums.",
-    "one_liner": "Making underwriting a breeze",
+    "one_liner": "Medical record summary in minutes",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1721862703,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Insurance",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -100441,16 +100400,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/642979c858a987426c5ec887f54d05c12f8e9974.png",
     "website": "https://rulebase.co",
     "all_locations": "",
-    "long_description": "We create voice agents that simulate phishing attacks on your employees, helping to strengthen your defenses while identifying vulnerabilities.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-    "one_liner": "Voice agents that simulate phishing attacks on your employees.",
+    "long_description": "We build fraud detection models to prevent account takeovers and voice phishing for fintechs, banks and contact centres. We also run voice phishing simulations to train employees against bad actors.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "one_liner": "The AI voice fraud defence system built for financial services",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1728494886,
     "tags": [
       "Finance",
-      "Compliance",
-      "Operations"
+      "Cybersecurity",
+      "Fraud Prevention",
+      "Fraud Detection",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -100564,7 +100525,7 @@
     "website": "https://raycaster.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Raycaster helps sellers quickly understand which accounts to prioritize, what products to recommend, and how to engage effectively - replacing hours of manual research and guesswork with deep, actionable insights. We're building the intelligence layer that helps GTM teams truly understand and serve their most valuable customers.",
-    "one_liner": "Next-gen account intelligence for enterprise sales",
+    "one_liner": "Private investigator for high-stakes sales",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -100942,16 +100903,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/541e114d564e1114486b6a9d192704be24343bd3.png",
     "website": "https://luthor.ai",
     "all_locations": "",
-    "long_description": "One-click AI content generators have flooded the market with low-quality, cookie-cutter content. This makes it harder for brands that truly care to stand out. At Luthor we offer on-brand content that your readers will actually love to read. Our AI handles repetitive tasks like keyword research and data gathering, then creates the first draft. From there, we bring in domain experts and skilled writers to refine the content to fit your industry and adhere to your unique brand voice.\r\n \r\nAt Luthor we're taking back the internet and re-humanizing it one blog at a time.\r\n\r\n",
+    "long_description": "One-click AI content generators have flooded the market with low-quality, cookie-cutter content. This makes it harder for brands that truly care to stand out. At Luthor we offer on-brand content that your readers will actually love to read. Our AI handles repetitive tasks like keyword research and data gathering, then creates the first draft. From there, we bring in domain experts and skilled writers to refine the content to fit your industry and adhere to your unique brand voice.\r\n \r\nAt Luthor we're taking back the internet and humanizing it one blog at a time.\r\n\r\n",
     "one_liner": "AI-powered content, expertly refined by humans who know your brand.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1730139932,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -101020,13 +100981,13 @@
   },
   {
     "id": 30063,
-    "name": "Manicode",
-    "slug": "manicode",
+    "name": "Codebuff",
+    "slug": "codebuff",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd3e681d3754d6e346efb726f191b1e153d0c5a1.png",
-    "website": "https://manicode.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83dd749cad6b076cbdf0353e077cb0a959d224a4.png",
+    "website": "https://codebuff.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Chat with Manicode to edit your codebase. It's like a junior engineer at your command, but faster! Get it now:\r\n```\r\n> npm install -g manicode\r\n```\r\nRun `manicode` from your project directory. It will read and write to files in your project to produce the code you want.\r\n\r\nManicode is different from all the other coding agents, we swear!\r\n\r\nWhy it's cool:\r\n- **It chooses files to read automatically on each message** — unlike Cursor’s composer feature. This saves you time and makes Manicode respond more comprehensively.\r\n- **It takes 0 clicks** — type your instructions and Manicode will edit your files directly. It's simple and fast. Theoretically, you can do all your development by just chatting with it!\r\n- **It has full access to your terminal** — Manicode can run terminal commands to install packages, run tests, check for type errors, etc. Manicode is an engineer working for you.",
+    "long_description": "Chat with Codebuff to edit your codebase. It's like a junior engineer at your command, but faster! Get it now:\r\n```\r\n> npm install -g codebuff\r\n```\r\nRun `codebuff` from your project directory. It will read and write to files in your project to produce the code you want.\r\n\r\nCodebuff is different from all the other coding agents, we swear!\r\n\r\nWhy it's cool:\r\n- **It chooses files to read automatically on each message** — unlike Cursor’s composer feature. This saves you time and makes Codebuff respond more comprehensively.\r\n- **It takes 0 clicks** — type your instructions and Codebuff will edit your files directly. It's simple and fast. Theoretically, you can do all your development by just chatting with it!\r\n- **It has full access to your terminal** — Codebuff can run terminal commands to install packages, run tests, check for type errors, etc. Codebuff is an engineer working for you.",
     "one_liner": "Code with AI from our CLI",
     "team_size": 2,
     "industry": "B2B",
@@ -101056,8 +101017,8 @@
     "demo_day_video_public": false,
     "app_answers": true,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/manicode",
-    "api": "https://yc-oss.github.io/api/batches/f24/manicode.json"
+    "url": "https://www.ycombinator.com/companies/codebuff",
+    "api": "https://yc-oss.github.io/api/batches/f24/codebuff.json"
   },
   {
     "id": 30066,

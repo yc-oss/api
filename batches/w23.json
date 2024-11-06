@@ -271,23 +271,23 @@
   },
   {
     "id": 27492,
-    "name": "Nucleus",
-    "slug": "nucleus-2",
+    "name": "LazyEditor",
+    "slug": "lazyeditor",
     "former_names": [
       "Treasury"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68a2f3216b535ae529517f8b12edc555bb892f68.png",
-    "website": "https://usenucleus.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ece7a8e4aaed724d9d2a4da4b1acf7858d4694c.png",
+    "website": "https://www.lazyeditor.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nucleus is building AI search across sales calls for Product Marketing teams so they can figure out what to build and pitch at the speed of thought. Think of it as Perplexity or ChatGPT over client calls and CRM data. \r\n\r\nProduct marketing teams spend hours listening to or doing keyword searches over sales calls to inform go to market strategy. With Nucleus, they can directly pose questions such as “Where are we losing deals and why?”, “What are customers saying about competition?”, “Show me testimonials I can use.” “What features and product bugs are customers reporting?”",
-    "one_liner": "AI Search Across Sales Calls for Product Marketing teams",
+    "long_description": "LazyEditor is an AI-driven video editor that instantly handles the entire editing process, from removing silences and filler words to adding b-rolls and enhancing overall quality. We help content creators produce professional, high-quality videos that maximize engagement with minimal effort.",
+    "one_liner": "AI Agentic Video Editor",
     "team_size": 3,
-    "industry": "B2B",
+    "industry": "Consumer",
     "subindustry": "Fintech",
     "launched_at": 1680111928,
     "tags": [
-      "B2B",
-      "AI"
+      "Artificial Intelligence",
+      "Video"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -296,7 +296,7 @@
     "batch": "W23",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -307,8 +307,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nucleus-2",
-    "api": "https://yc-oss.github.io/api/batches/w23/nucleus-2.json"
+    "url": "https://www.ycombinator.com/companies/lazyeditor",
+    "api": "https://yc-oss.github.io/api/batches/w23/lazyeditor.json"
   },
   {
     "id": 27583,
@@ -4729,29 +4729,29 @@
   },
   {
     "id": 27867,
-    "name": "Anarchy Labs",
-    "slug": "anarchy-labs",
+    "name": "TruthSuite",
+    "slug": "truthsuite",
     "former_names": [
       "Extensional AI",
       "Extensional",
       "Extensional AI",
       "Anarchy AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2c15af20d6989e642c06b7359ae97f7890efbe8.png",
-    "website": "https://anarchy.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a6e691a37cf8ccaf8d7f5a7a06674c06c0a4659.png",
+    "website": "https://truthsuite.com",
     "all_locations": "Zürich, ZH, Switzerland; Remote",
-    "long_description": "Anarchy provides open-source LLM training infrastructure and tooling for developers.  We provide a platform to help developers manage their datasets and fine-tunes.",
-    "one_liner": "Gitlab for LLM Teams",
-    "team_size": 5,
+    "long_description": "TruthSuite provides a comprehensive platform to supercharge the due-diligence and research processes for lawyers and other professionals for whom the truth matters.  Lawyers use TruthSuite to uncover consistent versions of events as well as identify misinformation in testimonials.\r\n\r\nPrev. Anarchy Labs",
+    "one_liner": "AI Fact Checking for Lawyers",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1669080392,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
       "Generative AI",
       "Machine Learning",
-      "Infrastructure"
+      "Legal",
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4761,7 +4761,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Legal"
     ],
     "regions": [
       "Switzerland",
@@ -4774,8 +4774,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/anarchy-labs",
-    "api": "https://yc-oss.github.io/api/batches/w23/anarchy-labs.json"
+    "url": "https://www.ycombinator.com/companies/truthsuite",
+    "api": "https://yc-oss.github.io/api/batches/w23/truthsuite.json"
   },
   {
     "id": 27868,
@@ -5008,10 +5008,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1679954526,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5170,7 +5170,7 @@
     "all_locations": "Santiago, Santiago Metropolitan Region, Chile",
     "long_description": "We offer no-money-down installations that generate free money for homeowners from day one. We are digitalizing the whole process of going solar. Instead of using traditional forms and leaving it up to customers to fill them, we use technology to take all that burden off our customers plate. We only ask for an address and offer free instant quotes.",
     "one_liner": "Managed marketplace for solar in Latam",
-    "team_size": 12,
+    "team_size": 23,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1668605904,
@@ -5191,9 +5191,7 @@
     ],
     "regions": [
       "Chile",
-      "Latin America",
-      "Remote",
-      "Partly Remote"
+      "Latin America"
     ],
     "stage": "Early",
     "app_video_public": false,
