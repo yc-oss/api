@@ -4525,49 +4525,6 @@
     "api": "https://yc-oss.github.io/api/batches/s19/gen1e-lifesciences.json"
   },
   {
-    "id": 12632,
-    "name": "Zeta Surgical",
-    "slug": "z-imaging",
-    "former_names": [
-      "Z Imaging"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b3181948a04111f72b6532cb62225d18c9d0525.png",
-    "website": "http://zetasurgical.com",
-    "all_locations": "Boston, MA, USA",
-    "long_description": "We develop surgical navigation and robotics tools to make minimally invasive surgeries easier, faster and more accessible.",
-    "one_liner": "Next-Generation Surgical Navigation and Robotics",
-    "team_size": 12,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Medical Devices",
-    "launched_at": 1556686578,
-    "tags": [
-      "Artificial Intelligence",
-      "Medical Robotics",
-      "Augmented Reality"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S19",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Medical Devices"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/z-imaging",
-    "api": "https://yc-oss.github.io/api/batches/s19/z-imaging.json"
-  },
-  {
     "id": 12638,
     "name": "Milo",
     "slug": "milo",
@@ -4836,6 +4793,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/flowbot",
     "api": "https://yc-oss.github.io/api/batches/s19/flowbot.json"
+  },
+  {
+    "id": 12862,
+    "name": "Index",
+    "slug": "index-3",
+    "former_names": [
+      "Houston"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d8d3cb25a60e81613dcaac912d3f28552022bc8.png",
+    "website": "https://index.app",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Index is a dashboard builder for your business metrics. It's super fast, polished and collaborative. ",
+    "one_liner": "Index is the collaborative platform for business analytics",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1599762607,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Data Visualization"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S19",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/index-3",
+    "api": "https://yc-oss.github.io/api/batches/s19/index-3.json"
   },
   {
     "id": 12871,
@@ -5491,7 +5493,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W20",
     "status": "Active",
@@ -15230,6 +15232,50 @@
     "api": "https://yc-oss.github.io/api/batches/s23/empower.json"
   },
   {
+    "id": 28841,
+    "name": "SuperCraft",
+    "slug": "supercraft",
+    "former_names": [
+      "Neuralyze"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e253b8344133fe4ca5b396057dd1384ef5081503.png",
+    "website": "https://supercraft.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "SuperCraft is a generative design software for physical products\r\n\r\nSuperCraft CAD is the first generative design software that generates high quality 3D models as NURBS surfaces, that have infinite resolution and can be easily edited and also imported into other CAD softwares such as Rhino and SolidWorks\r\n\r\nJoin thousands of designers using SuperCraft to make apparel, packaging, home appliances, gadgets, furniture and more",
+    "one_liner": "Figma for designing physical products",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1688534176,
+    "tags": [
+      "Artificial Intelligence",
+      "Productivity",
+      "Design Tools",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/supercraft",
+    "api": "https://yc-oss.github.io/api/batches/s23/supercraft.json"
+  },
+  {
     "id": 28844,
     "name": "Alguna",
     "slug": "alguna",
@@ -16008,7 +16054,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -17254,48 +17300,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/tempo-labs.json"
   },
   {
-    "id": 29156,
-    "name": "CodeStory",
-    "slug": "codestory",
-    "former_names": [
-      "codestory"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a9169e160dd38d456fe04d3f659d2d15573346d.png",
-    "website": "https://codestory.ai",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "We're building Aide, an AI-native IDE designed for engineers to enjoy problem-solving with agents by their side.\r\n\r\nWe're currently a team of two, based in London, United Kingdom. Between us, we have been tech leads with experience building testing infrastructure at Meta, payment systems for 150k merchants in India, been an ACM ICPC world finalist and Open-Source contributor to critical infrastructure including gRPC and the Bazel build system. We love dev tooling, and enjoy thinking about the future of programming.",
-    "one_liner": "Aide is an AI-native , privacy-first IDE built on top of VSCode",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1688064768,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/codestory",
-    "api": "https://yc-oss.github.io/api/batches/s23/codestory.json"
-  },
-  {
     "id": 29158,
     "name": "Feanix Biotechnologies",
     "slug": "feanix-biotechnologies",
@@ -17941,6 +17945,49 @@
     "api": "https://yc-oss.github.io/api/batches/w24/quary.json"
   },
   {
+    "id": 29263,
+    "name": "Apriora",
+    "slug": "apriora",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e24765a67c824275355f94c45e9ddb09d76c547c.png",
+    "website": "https://www.apriora.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Apriora conducts live interviews with an AI recruiter. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\nOur AI recruiter has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, our AI asks personalized follow-up questions in real-time based on the candidate's responses.\r\nOur AI recruiter can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
+    "one_liner": "Your AI recruiter for interviewing and identifying the best talent",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1703103445,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Recruiting",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/apriora",
+    "api": "https://yc-oss.github.io/api/batches/w24/apriora.json"
+  },
+  {
     "id": 29265,
     "name": "Pretzel AI",
     "slug": "pretzel-ai",
@@ -18492,50 +18539,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trellis",
     "api": "https://yc-oss.github.io/api/batches/w24/trellis.json"
-  },
-  {
-    "id": 29307,
-    "name": "Blume Benefits",
-    "slug": "blume-benefits",
-    "former_names": [
-      "Blitz AI",
-      "Blume"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15ea369712455e4db27cb24aae44230d83a5b836.png",
-    "website": "https://www.blumebenefits.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Blume is a web app that streamlines insurance quoting, renewal, and revenue ops processes for health insurance brokers. We are working with our first cohort of health insurance brokers to help them save the, on average, 6 hours of manual data entry they do every week.",
-    "one_liner": "The AI copilot for health insurance brokers.",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1706634406,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Insurance",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Inactive",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/blume-benefits",
-    "api": "https://yc-oss.github.io/api/batches/w24/blume-benefits.json"
   },
   {
     "id": 29310,
@@ -21826,51 +21829,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/retrofix-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/retrofix-ai.json"
-  },
-  {
-    "id": 29665,
-    "name": "Aviary",
-    "slug": "aviary",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fc325e402d4fb47f73cacaa5afa2b1d0606622e.png",
-    "website": "https://aviary.video",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hi, we're Aviary. We are the automated Scale AI for video understanding. Our software understands video content as well as any human, allowing millions of videos to be annotated and analyzed in a fraction of the time and cost it would take a human.\r\n\r\nThe founding team comes from Snapchat, Notion, Pinterest, CMU, University of Toronto, with extensive background in multimodal machine learning and in building search systems at scale.",
-    "one_liner": "Automated Scale AI for Video",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1723146818,
-    "tags": [
-      "Artificial Intelligence",
-      "Video",
-      "Media",
-      "Search",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aviary",
-    "api": "https://yc-oss.github.io/api/batches/s24/aviary.json"
   },
   {
     "id": 29666,
