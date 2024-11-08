@@ -3789,15 +3789,15 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc6a4fe2e078ae61e81ab99d657be389a0238c71.png",
     "website": "https://www.mindportal.com",
-    "all_locations": "London, England, United Kingdom; San Francisco, CA, USA",
-    "long_description": "At MindPortal, we are leading the way in human-AI telepathy, developing non-invasive neural interfaces that transform how humans interact with AI. Our mission is to streamline communication by allowing users to interact with AI through thought alone, bypassing conventional methods like typing or speaking. Our state-of-the-art technology interprets human thoughts into AI interactions, offering a real-time thought engagement experience. This innovative approach not only improves communication efficiency but also fosters a closer, symbiotic relationship between humans and AI. We are dedicated to advancing humanity into a future of boundless possibilities and prosperity, where human potential is greatly enhanced through our groundbreaking technology.",
-    "one_liner": "Making Humanity Telepathic",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "MindPortal is a pioneering AI research company advancing human-AI interaction by enabling people to communicate with computers and AI assistants purely through thought. As an AI company, we focus exclusively on model development rather than hardware. Our models are designed to be general-purpose, adaptable across a wide range of applications. Our flagship development, MindSpeech, is the first AI model to translate imagined speech into text, enabling direct thought-to-language communication. MindSpeech has earned endorsements from leading experts, including Neuralink's former technical strategy head and DARPA’s N3 program lead scientist. Our thought-to-language AI models have the potential for transformative applications in fields such as healthcare, education, and VR/AR and our work has been featured in major publications such as Forbes, The Times, The Telegraph, and Business Insider. MindPortal has over 11 patents filed in the field and is backed by prominent investors such as Y Combinator and Kleiner Perkins.\r\n",
+    "one_liner": "Thought-to-Language AI Models",
     "team_size": 10,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1614670242,
     "tags": [
-      "Hardware",
+      "Artificial Intelligence",
       "Neurotechnology",
       "AI"
     ],
@@ -3813,9 +3813,7 @@
     ],
     "regions": [
       "United Kingdom",
-      "United States of America",
       "Europe",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -9035,56 +9033,6 @@
     "api": "https://yc-oss.github.io/api/batches/w23/dream3d.json"
   },
   {
-    "id": 27867,
-    "name": "TruthSuite",
-    "slug": "truthsuite",
-    "former_names": [
-      "Extensional AI",
-      "Extensional",
-      "Extensional AI",
-      "Anarchy AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a6e691a37cf8ccaf8d7f5a7a06674c06c0a4659.png",
-    "website": "https://truthsuite.com",
-    "all_locations": "Zürich, ZH, Switzerland; Remote",
-    "long_description": "TruthSuite provides a comprehensive platform to supercharge the due-diligence and research processes for lawyers and other professionals for whom the truth matters.  Lawyers use TruthSuite to uncover consistent versions of events as well as identify misinformation in testimonials.\r\n\r\nPrev. Anarchy Labs",
-    "one_liner": "AI Fact Checking for Lawyers",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1669080392,
-    "tags": [
-      "Generative AI",
-      "Machine Learning",
-      "Legal",
-      "LegalTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "Switzerland",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/truthsuite",
-    "api": "https://yc-oss.github.io/api/batches/w23/truthsuite.json"
-  },
-  {
     "id": 27868,
     "name": "Outerbase",
     "slug": "outerbase",
@@ -9661,6 +9609,52 @@
     "api": "https://yc-oss.github.io/api/batches/w23/fintool.json"
   },
   {
+    "id": 27935,
+    "name": "FiddleCube",
+    "slug": "fiddlecube",
+    "former_names": [
+      "ZKomm",
+      "Devpod"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fb2ae6f476fb244457c0798bb0fc47f11be99bb.png",
+    "website": "https://fiddlecube.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "FiddleCube's AI agent helps teams build safe, enterprise-ready Gen AI systems. FiddleCube generates the most comprehensive and up-to-date set of adversarial tests for red-teaming, ensuring safety and compliance with laws across the EU, USCAN, and MENA countries.",
+    "one_liner": "Build safe, enterprise-ready Gen AI systems",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1690346092,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Data Science",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fiddlecube",
+    "api": "https://yc-oss.github.io/api/batches/w23/fiddlecube.json"
+  },
+  {
     "id": 27938,
     "name": "Boundary",
     "slug": "boundary",
@@ -9843,54 +9837,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fairway-health",
     "api": "https://yc-oss.github.io/api/batches/w23/fairway-health.json"
-  },
-  {
-    "id": 27952,
-    "name": "Finic",
-    "slug": "finic",
-    "former_names": [
-      "Triton",
-      "Buff",
-      "Sidekick"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20b67a9c14a3fc190679ba18dfb471c42aceba8e.png",
-    "website": "https://www.finic.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Finic provides browser infrastructure for developers building browser automations. Only 20% of the work of browser automation is writing the code - the other 80% is making sure it works in production.\r\n\r\nThis involves routing requests through residential proxies, saving and loading session cookies, fixing broken selectors, and dozens of other tasks that are needed to make the automation resilient to website updates and bot detectors.\r\n\r\nFinic handles this network level infrastructure so developers can focus on the business logic. They get a browser in the cloud configured to be indistinguishable from humans, and which can be controlled remotely using Playwright.",
-    "one_liner": "Browser automations that just work",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1677272534,
-    "tags": [
-      "B2B",
-      "Data Engineering",
-      "Web Development",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/finic",
-    "api": "https://yc-oss.github.io/api/batches/w23/finic.json"
   },
   {
     "id": 27956,
@@ -11044,6 +10990,50 @@
     "api": "https://yc-oss.github.io/api/batches/s23/spine-ai.json"
   },
   {
+    "id": 28841,
+    "name": "SuperCraft",
+    "slug": "supercraft",
+    "former_names": [
+      "Neuralyze"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e253b8344133fe4ca5b396057dd1384ef5081503.png",
+    "website": "https://supercraft.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "SuperCraft is a generative design software for physical products\r\n\r\nIt is currently the only tool that generates NURBS based 3D CAD models from product descriptions\r\n\r\nJoin thousands of designers using SuperCraft to make apparel, packaging, home appliances, gadgets, furniture and more",
+    "one_liner": "Figma for designing physical products",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1688534176,
+    "tags": [
+      "Productivity",
+      "Design Tools",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/supercraft",
+    "api": "https://yc-oss.github.io/api/batches/s23/supercraft.json"
+  },
+  {
     "id": 28849,
     "name": "Agentive",
     "slug": "agentive",
@@ -12025,6 +12015,49 @@
     "api": "https://yc-oss.github.io/api/batches/s23/slicker.json"
   },
   {
+    "id": 28982,
+    "name": "Flint",
+    "slug": "flint-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ae7ccbcf0f08279561c5897abc3d64c3bf525b1.png",
+    "website": "http://flintk12.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Flint is an AI platform for K-12. With Flint, schools can use AI to provide personalized learning for every student.",
+    "one_liner": "AI tutoring for schools",
+    "team_size": 8,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1686701426,
+    "tags": [
+      "Education",
+      "Generative AI",
+      "Edtech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/flint-2",
+    "api": "https://yc-oss.github.io/api/batches/s23/flint-2.json"
+  },
+  {
     "id": 28991,
     "name": "Inlet",
     "slug": "inlet-2",
@@ -12294,6 +12327,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/smoothspeak",
     "api": "https://yc-oss.github.io/api/batches/s23/smoothspeak.json"
+  },
+  {
+    "id": 29010,
+    "name": "Silimate",
+    "slug": "silimate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0575a4d9f95080c1cee72f3e7a7286db03e66d7c.png",
+    "website": "https://www.silimate.com",
+    "all_locations": "Mountain View, CA, USA",
+    "long_description": "Silimate is the co-pilot for chip designers; it finds functional bugs, predicts PPA issues, and recommends fixes in real-time alongside RTL development.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging to functional correctness and optimized PPA (power/performance/area). With Silimate, chip designers write correct, PPA-optimized RTL code from the onset and build better chips in less time.",
+    "one_liner": "The co-pilot for chip designers",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1691095117,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/silimate",
+    "api": "https://yc-oss.github.io/api/batches/s23/silimate.json"
   },
   {
     "id": 29018,
@@ -14335,6 +14411,51 @@
     "api": "https://yc-oss.github.io/api/batches/w24/guide-labs.json"
   },
   {
+    "id": 29330,
+    "name": "Speck",
+    "slug": "speck",
+    "former_names": [
+      "Glance"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3abedd30ff50727e295918adde3c699b0ec0c114.png",
+    "website": "https://paige.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're the makers of Paige. Paige is an AI frontend engineer that helps developers iterate faster on websites. Our customers use us to save hours on slow frontend development.\r\n\r\nLucas built Sweep, an AI developer. Raghav won 9 hackathons with LLM agents.\r\n‎\r\nJoin our community: https://discord.gg/speck",
+    "one_liner": "Paige, an AI Frontend Engineer",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1705004448,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/speck",
+    "api": "https://yc-oss.github.io/api/batches/w24/speck.json"
+  },
+  {
     "id": 29339,
     "name": "Anaphero",
     "slug": "anaphero",
@@ -14559,20 +14680,20 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Centralize is the AI-powered relationship intelligence platform for enterprise sales. We provide dynamic org charts that proactively identify key players, making cross-department multithreading effortless. Contact priorities update in real-time using AI-generated conversation insights from emails and calls. In-depth account planning becomes scalable and pipeline reviews now take minutes, giving the entire org a top-down view of the deal, hierarchy penetration, and the true state of conversations.\r\n\r\nThe result? Deals qualified in half the time and win rates boosted by up to 56%.",
     "one_liner": "The AI-powered relationship intelligence platform for enterprise sales",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1699493825,
     "tags": [
-      "Generative AI",
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Analytics",
+      "Sales",
       "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -14582,7 +14703,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -14679,50 +14802,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aedilic",
     "api": "https://yc-oss.github.io/api/batches/w24/aedilic.json"
-  },
-  {
-    "id": 29363,
-    "name": "Lytix",
-    "slug": "lytix",
-    "former_names": [
-      "Spare Change",
-      "SpareChange"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/068d4a57daee96d896a98ada71a651a2d39135bf.png",
-    "website": "https://lytix.co/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Lytix is Datadog for LLMs. We give developers time, money and certainty when building with AI. Developers are using lytix to build custom evaluations, identify opportunities to save money, and optimize their KPIs. In 4 months we've gone live with 5 companies, and processed almost 1 million. Customers have reduced errors by up to 85%.\r\n Sahil (CEO), worked on product analytics and built machine learning models at QuickBooks. Sid (CTO) was previously a lead engineer at Titan (YC S18) where he has directly contributed to a cybersecurity patent and done multiple large scale infrastructure migrations.",
-    "one_liner": "DataDog for LLMs, turnkey solution for n=1 custom evaluations",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1710554488,
-    "tags": [
-      "Developer Tools",
-      "Analytics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lytix",
-    "api": "https://yc-oss.github.io/api/batches/w24/lytix.json"
   },
   {
     "id": 29365,
@@ -16948,51 +17027,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moonglow",
     "api": "https://yc-oss.github.io/api/batches/s24/moonglow.json"
-  },
-  {
-    "id": 29657,
-    "name": "Azalea Robotics Corporation",
-    "slug": "azalea-robotics-corporation",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a43d3ef392fa3a7d4ef89797c2972ddacbdd1b5c.png",
-    "website": "https://azalearobotics.com/",
-    "all_locations": "Berkeley, CA, USA",
-    "long_description": "Azalea Robotics automates airport baggage handling with intelligent robot operations. The global market for airport baggage handling systems is $20+ billion and growing, presenting a significant opportunity for innovation and market disruption in this sector.\r\n\r\n\r\nPassenger air traffic volume is increasing, driving demand for efficient and reliable baggage handling at airports and putting immense pressure on existing infrastructure. In 2023 alone, airports processed approximately 4.5 billion bags, highlighting the need for advanced solutions to manage this load effectively. Azalea Robotics provides state-of-the-art robotic systems that enhance efficiency, reduce mishandling, and improve passenger experience through more reliable operations.\r\n\r\n\r\nBaggage handling is a critical component of airline ground operations, yet it is fraught with challenges. The work is physically demanding, often leading to long-term injuries among workers. Traditional baggage handling involves repetitive lifting and maneuvering of heavy loads, which can result in long-term health issues. Azalea Robotics addresses these challenges by automating the most strenuous tasks, thereby reducing the risk of injury and enhancing operational efficiency.",
-    "one_liner": "Automating airport baggage handling with robots.",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1723668106,
-    "tags": [
-      "Robotics",
-      "Logistics",
-      "Transportation",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/azalea-robotics-corporation",
-    "api": "https://yc-oss.github.io/api/batches/s24/azalea-robotics-corporation.json"
   },
   {
     "id": 29661,
@@ -20419,6 +20453,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hybrd",
     "api": "https://yc-oss.github.io/api/batches/f24/hybrd.json"
+  },
+  {
+    "id": 30066,
+    "name": "Aditto",
+    "slug": "aditto",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62c9fdc4a1aa82f601c5acac4e00a49dde5159cb.png",
+    "website": "https://aditto.co",
+    "all_locations": "",
+    "long_description": "Aditto lets founders launch search engine marketing with the click of a button. Each day, Aditto generates search ads and landing page variants based on what your leads are doing online.",
+    "one_liner": "Let AI manage your marketing.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1730767330,
+    "tags": [
+      "Marketing",
+      "Advertising",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aditto",
+    "api": "https://yc-oss.github.io/api/batches/f24/aditto.json"
   },
   {
     "id": 30108,

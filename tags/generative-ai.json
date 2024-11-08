@@ -2598,7 +2598,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Fintech"
     ],
@@ -2852,10 +2852,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7cd2f8fa8997c12e2650de183d17aeb87fe20f3c.png",
     "website": "https://www.wolfia.com",
-    "all_locations": "Austin, TX, USA; Mountain View, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Wolfia helps accelerates security reviews for AI-first companies, helping them close deals faster. We use AI to help answer security questionnaires, and provide an trust center to share your AI policies and security posture.",
     "one_liner": "10x Faster Security Reviews for AI-first companies",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1658875414,
@@ -4708,7 +4708,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a6e691a37cf8ccaf8d7f5a7a06674c06c0a4659.png",
     "website": "https://truthsuite.com",
-    "all_locations": "Zürich, ZH, Switzerland; Remote",
+    "all_locations": "New York, NY, USA; Remote",
     "long_description": "TruthSuite provides a comprehensive platform to supercharge the due-diligence and research processes for lawyers and other professionals for whom the truth matters.  Lawyers use TruthSuite to uncover consistent versions of events as well as identify misinformation in testimonials.\r\n\r\nPrev. Anarchy Labs",
     "one_liner": "AI Fact Checking for Lawyers",
     "team_size": 4,
@@ -4716,11 +4716,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1669080392,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Machine Learning",
       "Legal",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4733,8 +4733,8 @@
       "Legal"
     ],
     "regions": [
-      "Switzerland",
-      "Europe",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -5290,18 +5290,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fb2ae6f476fb244457c0798bb0fc47f11be99bb.png",
     "website": "https://fiddlecube.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "FiddleCube enables developers to create high-quality datasets using AI.\r\nOur data platform enables users to:\r\n1. Create datasets using just a prompt, few seed examples or a knowledge base of documents.\r\n2. Manage and annotate the datasets, apply various quality metrics and evals.\r\n3. Export the data in a structured format that connects with any GPT or open source fine-tuning API.",
-    "one_liner": "Generate and manage high-quality training datasets for LLMs",
+    "long_description": "FiddleCube's AI agent helps teams build safe, enterprise-ready Gen AI systems. FiddleCube generates the most comprehensive and up-to-date set of adversarial tests for red-teaming, ensuring safety and compliance with laws across the EU, USCAN, and MENA countries.",
+    "one_liner": "Build safe, enterprise-ready Gen AI systems",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1690346092,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Data Science",
-      "Data Labeling"
+      "Data Labeling",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7329,15 +7329,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Flint is an AI platform for K-12. With Flint, schools can use AI to provide personalized learning for every student.",
     "one_liner": "AI tutoring for schools",
-    "team_size": 6,
+    "team_size": 8,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1686701426,
     "tags": [
-      "Artificial Intelligence",
       "Education",
       "Generative AI",
-      "Edtech"
+      "Edtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8273,51 +8273,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/phospho",
     "api": "https://yc-oss.github.io/api/batches/w24/phospho.json"
-  },
-  {
-    "id": 29356,
-    "name": "Centralize",
-    "slug": "centralize",
-    "former_names": [
-      "Sage"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8410f1b40522f461a5e5bb56266f4f053b29bffa.png",
-    "website": "https://www.usecentralize.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Centralize is the AI-powered relationship intelligence platform for enterprise sales. We provide dynamic org charts that proactively identify key players, making cross-department multithreading effortless. Contact priorities update in real-time using AI-generated conversation insights from emails and calls. In-depth account planning becomes scalable and pipeline reviews now take minutes, giving the entire org a top-down view of the deal, hierarchy penetration, and the true state of conversations.\r\n\r\nThe result? Deals qualified in half the time and win rates boosted by up to 56%.",
-    "one_liner": "The AI-powered relationship intelligence platform for enterprise sales",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1699493825,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "B2B",
-      "Analytics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/centralize",
-    "api": "https://yc-oss.github.io/api/batches/w24/centralize.json"
   },
   {
     "id": 29360,

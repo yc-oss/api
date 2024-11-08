@@ -1931,15 +1931,15 @@
   },
   {
     "id": 28822,
-    "name": "Electric Air (Previously Helios Climate)",
-    "slug": "electric-air-previously-helios-climate",
+    "name": "Electric Air",
+    "slug": "electric-air-2",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de40cdab3b2a59f362314d96298b6bfbfdf6a69b.png",
     "website": "https://www.electricair.io/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Electric Air is a tech-enabled contractor for heat pump installations that cuts costs by 60%. Heat pumps are the most efficient way to heat American homes with a $53B annual market opportunity. ",
     "one_liner": "Tech-enabled heat pump contractor that cuts costs by 60%",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1689390208,
@@ -1969,8 +1969,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/electric-air-previously-helios-climate",
-    "api": "https://yc-oss.github.io/api/batches/s23/electric-air-previously-helios-climate.json"
+    "url": "https://www.ycombinator.com/companies/electric-air-2",
+    "api": "https://yc-oss.github.io/api/batches/s23/electric-air-2.json"
   },
   {
     "id": 28823,
@@ -2492,17 +2492,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e253b8344133fe4ca5b396057dd1384ef5081503.png",
     "website": "https://supercraft.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "SuperCraft is a generative design software for physical products\r\n\r\nSuperCraft CAD is the first generative design software that generates high quality 3D models as NURBS surfaces, that have infinite resolution and can be easily edited and also imported into other CAD softwares such as Rhino and SolidWorks\r\n\r\nJoin thousands of designers using SuperCraft to make apparel, packaging, home appliances, gadgets, furniture and more",
+    "long_description": "SuperCraft is a generative design software for physical products\r\n\r\nIt is currently the only tool that generates NURBS based 3D CAD models from product descriptions\r\n\r\nJoin thousands of designers using SuperCraft to make apparel, packaging, home appliances, gadgets, furniture and more",
     "one_liner": "Figma for designing physical products",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1688534176,
     "tags": [
-      "Artificial Intelligence",
       "Productivity",
       "Design Tools",
-      "Manufacturing"
+      "Manufacturing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5732,15 +5732,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Flint is an AI platform for K-12. With Flint, schools can use AI to provide personalized learning for every student.",
     "one_liner": "AI tutoring for schools",
-    "team_size": 6,
+    "team_size": 8,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1686701426,
     "tags": [
-      "Artificial Intelligence",
       "Education",
       "Generative AI",
-      "Edtech"
+      "Edtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6463,16 +6463,16 @@
     "all_locations": "Mountain View, CA, USA",
     "long_description": "Silimate is the co-pilot for chip designers; it finds functional bugs, predicts PPA issues, and recommends fixes in real-time alongside RTL development.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging to functional correctness and optimized PPA (power/performance/area). With Silimate, chip designers write correct, PPA-optimized RTL code from the onset and build better chips in less time.",
     "one_liner": "The co-pilot for chip designers",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1691095117,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Enterprise Software",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7295,18 +7295,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d332393d7c5b5f27e1a2f82f8ec54fa8b38e21a1.png",
     "website": "https://smobi.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Smobi is a next-generation data and analytics platform for the small business acquisitions industry. We do this by gathering alternative and hard-to-find data, and converting it into actionable information for search funds, private equity, and strategic business buyers.",
-    "one_liner": "Zillow for SMB Sales",
-    "team_size": 2,
-    "industry": "Consumer",
+    "long_description": "Smobi is an AI powered conversational marketing platform that helps e-commerce brands increase sales and improve their customer relationships via interactive SMS messages.",
+    "one_liner": "Bringing In-App experiences to SMS",
+    "team_size": 3,
+    "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1689048246,
     "tags": [
-      "Fintech",
-      "Real Estate",
+      "SaaS",
       "B2B",
-      "Analytics",
-      "SMB"
+      "E-commerce",
+      "Marketing",
+      "SMS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7315,7 +7315,8 @@
     "batch": "S23",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Marketing"
     ],
     "regions": [
       "United States of America",
