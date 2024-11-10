@@ -1896,8 +1896,8 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc80e89e8e84a807f38d676cc225132abec1b885.png",
     "website": "https://heroicstory.com",
-    "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "We're building an AI-powered engine focused on transforming storytelling and creator economics. Backed by industry-leading minds in entertainment, gaming, and technology, our diverse team excels at merging narrative intelligence with business strategy. Our co-founders are a dynamic duo of brothers who have shipped VR games, built virtual influencers on Twitch, and launched popular entertainment across all media including film and television. During the multibillion-dollar online poker boom of the 2000s, our CEO was one of the top no-limit hold'em players in the world.",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "We're building the world's first true Author OS - an intelligent engine that will transform how stories are created, shared, and loved. Our mission is to give storytellers superpowers, removing every barrier between imagination and reality through AI. Founded by brothers who've pushed creative boundaries across VR gaming, Twitch streaming, and Hollywood, we combine deep technical expertise with an innate understanding of what makes stories work. Our CEO, a former world-class poker player, brings the same strategic depth and calculated boldness that won millions to our mission of empowering creators. We're a team of rebellious optimists who believe we're standing at the threshold of storytelling's next great evolution. The printing press gave stories reach. We're giving them wings.",
     "one_liner": "AI-native Book Publishing",
     "team_size": 6,
     "industry": "Consumer",
@@ -1924,7 +1924,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8382,6 +8382,10 @@
     "subindustry": "Fintech -> Payments",
     "launched_at": 1680338396,
     "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "B2B",
       "AI"
     ],
     "tags_highlighted": [],
@@ -9169,7 +9173,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72bfb13e14b0f43d68d0a7055eec27310d54f3c0.png",
     "website": "https://inkeep.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Inkeep provides all the AI tools teams need to scale support: an assistant for users, a copilot for support teams, and an AI writer to identify and fix content gaps. \r\n\r\n\r\nTeams like Anthropic, Pinecone, and Postman trust Inkeep to help their users find what they need and get quick human support when they need it.",
+    "long_description": "Inkeep provides all the AI tools teams need to scale support: an assistant for users, a copilot for support teams, and an AI writer to identify and fix content gaps. \r\n\r\nTeams like Anthropic, Pinecone, and Postman trust Inkeep to help their users find what they need and get quick human support when they need it.\r\n\r\nInkeep \"just works\" with your setup - ingest any source, add to any support or docs platform, or use our APIs to automate your support workflows and create custom experiences.",
     "one_liner": "AI support you can trust.",
     "team_size": 9,
     "industry": "B2B",
@@ -14275,47 +14279,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/speck.json"
   },
   {
-    "id": 29339,
-    "name": "Anaphero",
-    "slug": "anaphero",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbc59b2ac835af41989059970e9ec6bbe3bfe2f0.png",
-    "website": "https://www.anaphero.com/",
-    "all_locations": "Austin, TX, USA",
-    "long_description": "We're on a mission to make healthcare more accessible and human with voice AI technology. Our platform enables healthcare organizations and their staff to automate phone-based workflows typically handled by humans. We partner with health care organizations to reduce their operational expense and eliminate administrative burden.\r\n\r\nOur founders bring a blend of clinical experience and technical expertise. Ryan is a Stanford/Harvard trained physician formerly on the founding team of Two Chairs and Ophelia (W20). Jeff formerly worked on voice AI at Amazon Alexa and ML projects at Citi/Salesforce.\r\n\r\nWe have incredible traction and a healthy pipeline of health systems to grow into. We are well funded and backed by top investors, including Y Combinator.",
-    "one_liner": "Automating voice-based healthcare workflows",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1709616757,
-    "tags": [
-      "Health Tech",
-      "Digital Health",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/anaphero",
-    "api": "https://yc-oss.github.io/api/batches/w24/anaphero.json"
-  },
-  {
     "id": 29345,
     "name": "PandasAI",
     "slug": "pandasai",
@@ -14667,51 +14630,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ellipsis",
     "api": "https://yc-oss.github.io/api/batches/w24/ellipsis.json"
-  },
-  {
-    "id": 29368,
-    "name": "CodeAnt AI",
-    "slug": "codeant-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9efd3b7815df44b6aca06023be3c607e3a345ee5.png",
-    "website": "https://codeant.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "CodeAnt AI is an AI code reviewer that helps you find and fix critical code quality issues and security vulnerabilities in 30+ languages. Start your 7-day free trial today!.\r\n\r\nWe are SOC 2 compliant, and are live in small teams to large unicorns.",
-    "one_liner": "AI Code Reviewer",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1700644508,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Productivity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/codeant-ai",
-    "api": "https://yc-oss.github.io/api/batches/w24/codeant-ai.json"
   },
   {
     "id": 29372,
@@ -19988,6 +19906,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/riveter-ai",
     "api": "https://yc-oss.github.io/api/batches/f24/riveter-ai.json"
+  },
+  {
+    "id": 30023,
+    "name": "PearAI",
+    "slug": "pearai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc66990c87e4d8f300d62eedff5460f882406da.png",
+    "website": "https://trypear.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "PearAI: The Open-Source AI Code Editor. (https://trypear.ai)\r\n\r\nAI Code Editor with an up-to-date, curated inventory of the best AI tools, natively integrated for effortless AI-powered coding. \r\n\r\nRelaunch: 11/11... Stay tuned.",
+    "one_liner": "The Open-Source AI Code Editor",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1727484339,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Culture",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/pearai",
+    "api": "https://yc-oss.github.io/api/batches/f24/pearai.json"
   },
   {
     "id": 30028,

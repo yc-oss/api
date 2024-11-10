@@ -13807,7 +13807,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72bfb13e14b0f43d68d0a7055eec27310d54f3c0.png",
     "website": "https://inkeep.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Inkeep provides all the AI tools teams need to scale support: an assistant for users, a copilot for support teams, and an AI writer to identify and fix content gaps. \r\n\r\n\r\nTeams like Anthropic, Pinecone, and Postman trust Inkeep to help their users find what they need and get quick human support when they need it.",
+    "long_description": "Inkeep provides all the AI tools teams need to scale support: an assistant for users, a copilot for support teams, and an AI writer to identify and fix content gaps. \r\n\r\nTeams like Anthropic, Pinecone, and Postman trust Inkeep to help their users find what they need and get quick human support when they need it.\r\n\r\nInkeep \"just works\" with your setup - ingest any source, add to any support or docs platform, or use our APIs to automate your support workflows and create custom experiences.",
     "one_liner": "AI support you can trust.",
     "team_size": 9,
     "industry": "B2B",
@@ -17953,51 +17953,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/ellipsis.json"
   },
   {
-    "id": 29368,
-    "name": "CodeAnt AI",
-    "slug": "codeant-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9efd3b7815df44b6aca06023be3c607e3a345ee5.png",
-    "website": "https://codeant.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "CodeAnt AI is an AI code reviewer that helps you find and fix critical code quality issues and security vulnerabilities in 30+ languages. Start your 7-day free trial today!.\r\n\r\nWe are SOC 2 compliant, and are live in small teams to large unicorns.",
-    "one_liner": "AI Code Reviewer",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1700644508,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Productivity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/codeant-ai",
-    "api": "https://yc-oss.github.io/api/batches/w24/codeant-ai.json"
-  },
-  {
     "id": 29375,
     "name": "Preloop",
     "slug": "preloop",
@@ -20462,10 +20417,10 @@
     "subindustry": "Consumer",
     "launched_at": 1727484339,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "Culture"
+      "Culture",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20906,6 +20861,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ryvn",
     "api": "https://yc-oss.github.io/api/batches/f24/ryvn.json"
+  },
+  {
+    "id": 30115,
+    "name": "SRE.ai",
+    "slug": "sre-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f375e97363cbcb8f0c3649db7b5728649c8cb303.png",
+    "website": "https://sre.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "SRE.ai is an AI-powered automation platform for DevOps teams. We are currently focused on helping development teams building on Salesforce Clouds.",
+    "one_liner": "AI agents to automate DevOps workflows",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1731196685,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "DevOps",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sre-ai",
+    "api": "https://yc-oss.github.io/api/batches/f24/sre-ai.json"
   },
   {
     "id": 30129,

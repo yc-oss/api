@@ -1226,7 +1226,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -4120,23 +4120,23 @@
   },
   {
     "id": 29339,
-    "name": "Anaphero",
-    "slug": "anaphero",
+    "name": "Clarion",
+    "slug": "clarion",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbc59b2ac835af41989059970e9ec6bbe3bfe2f0.png",
-    "website": "https://www.anaphero.com/",
-    "all_locations": "Austin, TX, USA",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d42943b90f437bd5f4540ef5967011e4865a3427.png",
+    "website": "https://clarionhealth.ai",
+    "all_locations": "New York, NY, USA",
     "long_description": "We're on a mission to make healthcare more accessible and human with voice AI technology. Our platform enables healthcare organizations and their staff to automate phone-based workflows typically handled by humans. We partner with health care organizations to reduce their operational expense and eliminate administrative burden.\r\n\r\nOur founders bring a blend of clinical experience and technical expertise. Ryan is a Stanford/Harvard trained physician formerly on the founding team of Two Chairs and Ophelia (W20). Jeff formerly worked on voice AI at Amazon Alexa and ML projects at Citi/Salesforce.\r\n\r\nWe have incredible traction and a healthy pipeline of health systems to grow into. We are well funded and backed by top investors, including Y Combinator.",
-    "one_liner": "Automating voice-based healthcare workflows",
+    "one_liner": "Elevate patient communications with conversational AI",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1709616757,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "Digital Health",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4156,8 +4156,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/anaphero",
-    "api": "https://yc-oss.github.io/api/batches/w24/anaphero.json"
+    "url": "https://www.ycombinator.com/companies/clarion",
+    "api": "https://yc-oss.github.io/api/batches/w24/clarion.json"
   },
   {
     "id": 29340,
@@ -5188,20 +5188,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9efd3b7815df44b6aca06023be3c607e3a345ee5.png",
     "website": "https://codeant.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "CodeAnt AI is an AI code reviewer that helps you find and fix critical code quality issues and security vulnerabilities in 30+ languages. Start your 7-day free trial today!.\r\n\r\nWe are SOC 2 compliant, and are live in small teams to large unicorns.",
     "one_liner": "AI Code Reviewer",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1700644508,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Productivity",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -5213,8 +5207,6 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
