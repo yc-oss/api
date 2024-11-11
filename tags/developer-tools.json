@@ -19567,51 +19567,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/opslane.json"
   },
   {
-    "id": 29767,
-    "name": "Thunder Compute",
-    "slug": "thunder-compute",
-    "former_names": [
-      "Thunder"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f41c1e3ea873ecf72e295ba7e2661334c89c3d60.png",
-    "website": "https://thundercompute.com",
-    "all_locations": "Atlanta, GA, USA",
-    "long_description": "Thunder Compute makes GPUs cheaper and easier to use. We do this with proprietary software to virtualize GPUs over a network.\r\n\r\nBenefits:\r\n- Never pay for idle GPUs\r\n- No need for CUDA drivers\r\n- Switch GPUs with one command",
-    "one_liner": "Software to virtualize GPUs over TCP.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1723245936,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Cloud Computing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/thunder-compute",
-    "api": "https://yc-oss.github.io/api/batches/s24/thunder-compute.json"
-  },
-  {
     "id": 29768,
     "name": "Ember Robotics",
     "slug": "ember-robotics",
@@ -20410,7 +20365,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc66990c87e4d8f300d62eedff5460f882406da.png",
     "website": "https://trypear.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "PearAI: The Open-Source AI Code Editor. (https://trypear.ai)\r\n\r\nAI Code Editor with an up-to-date, curated inventory of the best AI tools, natively integrated for effortless AI-powered coding. \r\n\r\nRelaunch: 11/11... Stay tuned.",
+    "long_description": "PearAI: The Open Source and Extensible AI Code Editor. (https://trypear.ai)\r\n\r\nAI Code Editor with an up-to-date, curated inventory of the best AI tools, natively integrated for effortless AI-powered coding. \r\n\r\n[The Problem]\r\nFor developers: “AI is transforming how development is done and I want to increase my productivity to the max using AI”\r\n- I don’t know which are the best AI tools to use\r\n- I don’t want 5+ different subscriptions and having to keep up with all of them and new ones\r\n- UX is not good between these tools\r\n- I don’t know how to integrate them into my workflow and fully utilize them\r\n\r\nFor AI coding tools: “I built the best AI tool for a use case and want to distribute my product to more users”\r\n- No distribution and cost per acquisition is high\r\n- Churn is high because users don’t know how to integrate the tool into workflow\r\n- Prefer generating revenue through an API\r\n\r\nCurrent AI code editors:\r\n- Not open source, this leads to\r\n   - Lack of trust and transparency from big companies. When Nang was working on the developer tooling team, onboarding Cursor was not possible due to this. An open source developer tool would be much more favorable.\r\n   - Lack of community and flexibility; a code editor is the best product to be open source because developers actually use the product and know best how to improve it.\r\n- Lack of support; our open source members have on numerous occasions helped our current customers make features and bugfixes.\r\n- Try to solve coding with AI as a one-size-fits-all solution. For each specific part of coding with AI (ie. autocomplete, RAG, search, deploy, personalization), there exists another tool/company that specializes in solving this single part - and does it better as a result. This trend will only continue in the future. Check out the YC batch every season. \r\n\r\n[The Solution]\r\nAn extensible, open source AI code editor. Imagine if VSCode was rebuilt knowing that AI was going to transform how development is done. Made by two developers with over 500k subscribers on Youtube, an audience of also developers.\r\n\r\nDeveloper:\r\n- Native integrations for the best user experience ; the same UX for all AI tools\r\n- Single subscription for access to all tools\r\n- Active open source community, helping with new features and customer support, led by build-in-public founders\r\n- PearAI curates an inventory of the best AI tools on the market.\r\n\r\nAI Tools:\r\n- PearAI integrates the tool into a unified, seamless user experience/workflow that users know and love; AI tool A can communicate with AI tool B\r\n- Removes friction of use for users by enabling a centralized billing\r\n- PearAI distributes product to users\r\n\r\n[Why Us]\r\nNang Ang, B.S.&M.S @ CMU in Computer Engineering, prev software engineer at Two Sigma on the Developer Tooling Team. He has grown a community of over 150k subscribers on Youtube and gained over 50+ million views on social media from developers.\r\n\r\nDuke Pan, prev software engineer at Meta, Cisco, Coinbase, and Tesla Autopilot He has grown a community of over 345k subscribers on YouTube and gained over 50 million views from mainly people in tech and developers.\r\n\r\nThe next generation of builders who will increasingly leverage these AI tools are going to be young. Pan and Nang’s relatability and understanding of how to distribute, build-in-public and curate a community in this space grounds them as the perfect team for this product, in addition to their deep technical expertise. They are willing to die to bring the best AI code editor into the world.\r\n\r\nTry for free today at https://trypear.ai/download.\r\n\r\nFollow our journey at\r\n- https://youtube.com/nang88\r\n- https://youtube.com/FryingPan",
     "one_liner": "The Open-Source AI Code Editor",
     "team_size": 2,
     "industry": "Consumer",
@@ -20439,7 +20394,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pearai",
     "api": "https://yc-oss.github.io/api/batches/f24/pearai.json"
   },
@@ -20877,11 +20832,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1731196685,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "DevOps",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
