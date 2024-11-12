@@ -21559,7 +21559,7 @@
     "all_locations": "Aarhus, Denmark; Remote",
     "long_description": "Pipe|bio is the bioinformatics cloud for antibody / peptide screening & drug development.\r\n\r\nWe enable scientists to analyze and manage massive amounts of DNA sequencing data themselves without the need for bioinformaticians or programmers. The software is highly visual and enables you to overlay and filter information from different sources across your organization; be it assay data, sequence data or other process metadata. Insights from past results can be used to guide new experiments and they get better as you upload more and more data. Team leads get oversight and these capabilities combined empower organizations to find better drugs, faster.\r\n\r\nWe believe that science moves faster when scientists can curate and analyse their own data.",
     "one_liner": "PipeBio is a SaaS bioinformatics platform to develop antibody drugs.",
-    "team_size": 3,
+    "team_size": 10,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Therapeutics",
     "launched_at": 1614718514,
@@ -22085,7 +22085,7 @@
     "website": "https://blixo.com",
     "all_locations": "Miami, FL, USA; Remote",
     "long_description": "Blixo offers fast, scalable, and more accessible short-term (3 months) supply chain financing in Southeast Asia (SEA). Blixo specializes in providing smaller loans (<$50k) with an AI-driven underwriting process (approval in <1 week). These loans have higher repayment rates and lower per customer risk. Blixo uses AI credit scoring based on real-time data such as cash flow and inventory, further reducing risk and streamlining repayment. Unlike traditional banks and recent FinTech entrants, Blixo can profitably finance the 74% of suppliers and retailers in SEA that otherwise would be overlooked by traditional lenders because they either lack a traditional credit score or need a loan under $100k.",
-    "one_liner": "Short-term, fast origination, supply chain financing for SEA",
+    "one_liner": "B2B BNPL for SEA",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -36119,7 +36119,8 @@
     "slug": "struct",
     "former_names": [
       "Bumper",
-      "Struct"
+      "Struct",
+      "AvenHQ"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15ecb8a9d903b0fb450aa6187f3b78313fc656ca.png",
     "website": "https://struct.app",
@@ -36141,7 +36142,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -37568,7 +37569,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -39197,21 +39198,21 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0dddc99c1f1c38c90b727d87cc7bb8d59dfad6be.png",
     "website": "https://withbenchmark.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Benchmark is the fastest way to screen deals & analyze investment data. Benchmark efficiently extracts, organizes, and summarizes key information from any data source in seconds, while automatically building a proprietary comp database. With Benchmark, decision makers can capitalize on opportunities with unmatched speed and precision. Visit https://withbenchmark.com to accelerate your investment process today.",
-    "one_liner": "The fastest way to screen deals & aggregate investment data.",
-    "team_size": 3,
+    "long_description": "Benchmark is the trusted AI platform for investment firms. Today, leading firms use Benchmark to screen deals, extract insights from unstructured data, and automate workflows. Our platform combines cutting-edge AI with deep industry expertise to help investment firms make smarter, faster decisions across their entire deal lifecycle.",
+    "one_liner": "The trusted AI platform for investment firms",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "Real Estate and Construction",
     "launched_at": 1673633463,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Finance",
-      "Investing"
+      "Investing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -42962,8 +42963,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24db1f3b2c957bd0e1551d1e58afec1ea05426a4.png",
     "website": "https://getaftercare.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help e-commerce stores run more conversational post-purchase surveys using AI to capture deeper customer feedback and marketing attribution data.",
-    "one_liner": "Conversational post-purchase surveys using AI",
+    "long_description": "Aftercare helps you run surveys with AI-powered follow-up questions to dig into responses for deeper insights—it’s like having a skilled interviewer for every survey. ",
+    "one_liner": "Conversational AI surveys with intelligent follow-up questions",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -42971,8 +42972,8 @@
     "tags": [
       "SaaS",
       "B2B",
-      "E-commerce",
-      "Marketing"
+      "Feedback",
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42981,8 +42982,7 @@
     "batch": "W24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Marketing"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -43593,7 +43593,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -44452,49 +44452,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/zenbase-ai.json"
   },
   {
-    "id": 29715,
-    "name": "Kastle",
-    "slug": "kastle",
-    "former_names": [
-      "Conversion Pilot"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5599d6ea2250a3e737886dc9c0347fc88fcd2abb.png",
-    "website": "https://kastle.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kastle is an AI voice agent for mortgage servicing. We help servicers collect payments, verify new borrowers, and qualify new loan inquiries over the phone. \r\n\r\nRishi and Nitish met at UIUC where they graduated with degrees in systems engineering and computer science.  Rishi was the founding Product Manager for Redfin’s Mortgage Marketplace at 22 and grew the business from $3M to $6M in revenue in 9 months. Nitish patented Verkada’s motion search system and was the youngest tech lead at the company at 23.\r\n\r\nWhile building Redfin's Mortgage Marketplace Rishi realized traditional lenders didn't have the infrastructure to service online inquiries and were losing customers. Nitish and Rishi are building Kastle to help traditional financial services companies better interface with their customers. ",
-    "one_liner": "AI voice agents for mortgage servicing",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1720330783,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Real Estate",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kastle",
-    "api": "https://yc-oss.github.io/api/batches/s24/kastle.json"
-  },
-  {
     "id": 29717,
     "name": "Conveo",
     "slug": "conveo",
@@ -45165,18 +45122,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97f65d84796a7dda7da0321a7b98d8c70eff14eb.png",
     "website": "https://www.riskangle.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskAngle helps insurance underwriters make underwriting decisions faster, reducing the total time-to-bind so insurance companies can collect more premiums.",
+    "long_description": "RiskAngle delivers fast, accurate summaries of complex medical records, helping insurance underwriters make quicker decisions, streamlining claims processing, and enabling lawyers to build stronger injury cases.",
     "one_liner": "Medical record summary in minutes",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1721862703,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Insurance",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46295,7 +46252,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bf1d044f7655cff3da689fa41b5c1e8fa982cea.png",
     "website": "https://www.getdexter.co/",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "Dexter is the AI process tool for ops team. For example, Dance, a European mobility company with over $11 million ARR, uses us to automate processes like resolving traffic tickets and accidents. ",
+    "long_description": "Dexter is the AI process tool for ops teams. For example, Dance, a European mobility company with over $11 million ARR, uses us to automate processes like resolving traffic tickets and accidents. ",
     "one_liner": "AI process automation for ops teams.",
     "team_size": 3,
     "industry": "B2B",

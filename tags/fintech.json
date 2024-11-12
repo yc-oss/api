@@ -5387,7 +5387,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S18",
     "status": "Active",
@@ -14835,7 +14835,7 @@
     "website": "https://blixo.com",
     "all_locations": "Miami, FL, USA; Remote",
     "long_description": "Blixo offers fast, scalable, and more accessible short-term (3 months) supply chain financing in Southeast Asia (SEA). Blixo specializes in providing smaller loans (<$50k) with an AI-driven underwriting process (approval in <1 week). These loans have higher repayment rates and lower per customer risk. Blixo uses AI credit scoring based on real-time data such as cash flow and inventory, further reducing risk and streamlining repayment. Unlike traditional banks and recent FinTech entrants, Blixo can profitably finance the 74% of suppliers and retailers in SEA that otherwise would be overlooked by traditional lenders because they either lack a traditional credit score or need a loan under $100k.",
-    "one_liner": "Short-term, fast origination, supply chain financing for SEA",
+    "one_liner": "B2B BNPL for SEA",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -25572,7 +25572,8 @@
     "slug": "struct",
     "former_names": [
       "Bumper",
-      "Struct"
+      "Struct",
+      "AvenHQ"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15ecb8a9d903b0fb450aa6187f3b78313fc656ca.png",
     "website": "https://struct.app",
@@ -25594,7 +25595,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -30050,16 +30051,16 @@
     "website": "https://sphinxlabs.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sphinx helps KYC teams in fintechs resolve complex cases instantly. We cut 85% of manual reviews using AI agents that make onboarding decisions – with proof.",
-    "one_liner": "AI Agents for KYC",
+    "one_liner": "AI Agents for KYC & AML",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1730337457,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
-      "Compliance",
-      "AI"
+      "Compliance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -30089,11 +30090,11 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3afba7107af675a74603453de784d45704467e6.png",
     "website": "https://recaseai.com",
-    "all_locations": "Remote",
-    "long_description": "Recase is a drag-and-drop platform for fintechs to automate their manual onboarding tasks with AI so that good users don't wait to use their platform.",
-    "one_liner": "Helping fintechs onboard more users instantly",
+    "all_locations": "",
+    "long_description": "Recase automates fintech onboarding and underwriting tasks, turning cases that would otherwise need manual review into instant approvals. Our platform connects to any KYC/KYB data sources, enabling teams to build risk scoring and AI workflows that achieve full automation.",
+    "one_liner": "Instant approvals for fintech onboarding and underwriting",
     "team_size": 2,
-    "industry": "Fintech",
+    "industry": "B2B",
     "subindustry": "Fintech",
     "launched_at": 1730430835,
     "tags": [
@@ -30109,11 +30110,11 @@
     "batch": "F24",
     "status": "Active",
     "industries": [
-      "Fintech"
+      "B2B",
+      "Operations"
     ],
     "regions": [
-      "Remote",
-      "Fully Remote"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -30131,17 +30132,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54a0d1806fce4357b7bd2975052cda17775a5bab.png",
     "website": "https://www.collectwise.co/",
     "all_locations": "",
-    "long_description": "CollectWise automates consumer debt collection with generative AI. CollectWise's AI agents send personalized emails and SMS communications to debtors, speak with debtors over the phone, report to credit bureaus, and automatically enforce judgments through liens or garnishments.\r\n\r\nWe currently have 110 customers and have successfully collected on $2,000,000 in balances, achieving 2X higher recovery rates than human collectors.",
-    "one_liner": "Automating consumer debt collection with AI",
+    "long_description": "CollectWise automates late-stage debt recovery with AI. We’re outperforming collection firms by 2X and have successfully serviced over $2 million in debts.\r\n\r\nOur AI agents allow creditors to recover charged-off debt after their internal teams have exhausted all other collection efforts. We automate every step of the late-stage recovery process, including credit reporting, legal servicing, direct outreach, and enforcement actions like garnishments and liens.",
+    "one_liner": "Automating late-stage debt recovery with AI",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1729792205,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Generative AI",
-      "Finance"
+      "Finance",
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

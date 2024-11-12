@@ -1281,7 +1281,8 @@
     "slug": "struct",
     "former_names": [
       "Bumper",
-      "Struct"
+      "Struct",
+      "AvenHQ"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15ecb8a9d903b0fb450aa6187f3b78313fc656ca.png",
     "website": "https://struct.app",
@@ -1303,7 +1304,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -1846,5 +1847,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rescript",
     "api": "https://yc-oss.github.io/api/batches/s24/rescript.json"
+  },
+  {
+    "id": 30091,
+    "name": "CollectWise",
+    "slug": "collectwise",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54a0d1806fce4357b7bd2975052cda17775a5bab.png",
+    "website": "https://www.collectwise.co/",
+    "all_locations": "",
+    "long_description": "CollectWise automates late-stage debt recovery with AI. We’re outperforming collection firms by 2X and have successfully serviced over $2 million in debts.\r\n\r\nOur AI agents allow creditors to recover charged-off debt after their internal teams have exhausted all other collection efforts. We automate every step of the late-stage recovery process, including credit reporting, legal servicing, direct outreach, and enforcement actions like garnishments and liens.",
+    "one_liner": "Automating late-stage debt recovery with AI",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1729792205,
+    "tags": [
+      "Fintech",
+      "Generative AI",
+      "Finance",
+      "LegalTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/collectwise",
+    "api": "https://yc-oss.github.io/api/batches/f24/collectwise.json"
   }
 ]

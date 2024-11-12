@@ -7657,16 +7657,16 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d6872d13351da06ebec7a2375682212667cb787.png",
     "website": "https://www.recall.ai",
-    "all_locations": "San Francisco, CA, USA; Waterloo, ON, Canada",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Recall is the universal API for meeting bots. We offer a unified API to capture data from meeting platforms like Zoom, Microsoft Teams, and Google Meet. \r\n\r\nOver 500 companies rely on our API today to process millions of hours of meeting data. We provide stable infrastructure that typically takes engineering teams 6+ months of time to build, and help our customers get up and running in days instead of months.",
     "one_liner": "The universal API for meeting video, audio and metadata",
-    "team_size": 14,
+    "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1616094217,
     "tags": [
-      "Artificial Intelligence",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7680,7 +7680,6 @@
     ],
     "regions": [
       "United States of America",
-      "Canada",
       "America / Canada",
       "Remote",
       "Partly Remote"
@@ -15883,6 +15882,48 @@
     "api": "https://yc-oss.github.io/api/batches/s23/sid.json"
   },
   {
+    "id": 28851,
+    "name": "Bronco AI",
+    "slug": "bronco-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dce0ac1e308aa18998242314db08d5821b4db4aa.png",
+    "website": "https://www.bronco.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bronco is an applied AI lab helping chipmakers keep Moore’s law going. Our mission is to build AI silicon verification engineers that find bugs, drive functional coverage, and help companies ship working chips on time.\r\n\r\nWe're currently deployed alongside verification teams at leading chip companies building next generation hardware (4 nm process node).\r\n\r\nWe are well-funded and backed by tier-1 investors, including YC, 8VC, Elad Gil, SV Angel, and Contrary Capital. We have also established strong relationships with the leading academic and industry researchers in the field of AI for chip design. Our advisors have won multiple Best Paper Awards at leading conferences, been cited tens of thousands of times, and received some of the highest honors in the microelectronics and EDA industries.",
+    "one_liner": "AI for ASIC Design Verification",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1683953569,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Enterprise Software",
+      "Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bronco-ai",
+    "api": "https://yc-oss.github.io/api/batches/s23/bronco-ai.json"
+  },
+  {
     "id": 28868,
     "name": "Briefer",
     "slug": "briefer",
@@ -18635,7 +18676,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -18746,8 +18787,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/354a00433e0332ff17869b4c08d6ee8d10b8a232.png",
     "website": "https://dragoneye.ai/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Dragoneye helps devs build powerful apps and features that use images and videos. With our cutting-edge AI tech, folks can recognize things in the world with high accuracy and deep granularity, right out of the box. No more arduous process of annotating any training data or doing any machine learning work themselves.\r\n\r\nFor example, retailers can turn their product images into rich product metadata. With this highly detailed metadata, we help these companies to supercharge their commerce solutions and importantly, drive revenue by enhancing everything from site search to buying analytics.\r\n\r\nOverview Video: https://www.youtube.com/watch?v=opRMn48z9dM",
-    "one_liner": "Helping devs build computer vision models automatically",
+    "long_description": "Dragoneye helps devs build powerful apps and features that use images and videos. With our cutting-edge AI tech, folks can recognize things in the world with high accuracy and deep granularity - more than 13K classes - right out of the box. No more arduous process of annotating any training data or doing any machine learning work themselves.\r\n\r\nTry out our demo today at https://dashboard.dragoneye.ai/!",
+    "one_liner": "More detailed object recognition than Google and Amazon",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
@@ -19921,7 +19962,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",

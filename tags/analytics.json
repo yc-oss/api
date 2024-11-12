@@ -1196,7 +1196,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d619f8799e732a5c91a6f2c6e4b30d3ce7f23196.png",
     "website": "http://www.framed.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Predictive analytics for user churn. We use machine learning to help you identify when, and why, your users are leaving.\r\n\r\nWe're building data science tools and predictive analytics solutions for businesses who want value without headcount. Our platform will also include ways for people to collaborate on datasets and analyses. We're in beta, but we have several companies using our product right now. Data science is a high demand field and want to democratize it for all companies to use.\r\n\r\nFramed Data was acquired by Block in 2016.",
+    "long_description": "Predictive analytics for user churn. We use machine learning to help you identify when, and why, your users are leaving.\r\n\r\nWe're building data science tools and predictive analytics solutions for businesses who want value without headcount. Our platform will also include ways for people to collaborate on datasets and analyses. Data science is a high demand field and want to democratize it for all companies to use.\r\n\r\nFramed Data was acquired by Block in 2016.",
     "one_liner": "Predicted churn for enterprises. (Acquired by Block)",
     "team_size": 2,
     "industry": "B2B",
@@ -6606,20 +6606,20 @@
     "all_locations": "Remote",
     "long_description": "Orbio uses satellite imagery to track methane emissions from the oil & gas industry. We sell the data to financial companies that want to invest into the best performing energy companies.\r\n\r\nUntil today, oil & gas companies use excel-based emission factors to calculate and report their emissions. As these excel-based emission factors underestimate actual emissions by ~70%, the finance companies that invest into oil & gas can’t mitigate against incoming risks from new regulations, \r\n\r\nWe have built a technology that can for the first time use satellite images to track methane from every single oil & gas facility on the planet, replacing emission factors and allowing finance companies to make the best bets on oil & gas companies that will withstand a wide avalanche of incoming regulation. In the summer 2023 our satellite-based technology got ranked #1 both in terms of accuracy and sensitivity of methane emission events by Stanford University in a peer-reviewed study, beating a range of multi-bn dollar competitors like Maxar.\r\n\r\nLearn more at https://orbio.earth",
     "one_liner": "Tracking methane emissions with satellites",
-    "team_size": 8,
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1687128394,
     "tags": [
+      "Artificial Intelligence",
       "Satellites",
       "Analytics",
       "Climate",
-      "Energy",
-      "AI"
+      "Energy"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -7146,7 +7146,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -7525,5 +7525,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/riveter-ai",
     "api": "https://yc-oss.github.io/api/batches/f24/riveter-ai.json"
+  },
+  {
+    "id": 30032,
+    "name": "Coblocks",
+    "slug": "coblocks",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/46707ad38f8fd59e85067d699fe9815eaa71b3c8.png",
+    "website": "https://coblocks.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Coblocks is a thoughtfully-designed data platform that helps teams write queries and automate workflows faster. \r\n\r\nWe understand the columns, tables, and relationships in your data and use them to help anyone on your team build pipelines with AI, SQL and Python. Think of us like Zapier plus Cursor for data engineering.\r\n\r\nHere’s how we’re different:\r\n\r\n• All-in-one: You can get started in 2 minutes – no setup or configuration required. We have one-click integrations, warehousing, transformation, and schedules all built in.\r\n• Seamless integrations: Plug in your Postgres database, Stripe transactions, Hubspot leads, or any other data source, without writing code to keep things in sync.\r\n• Thoughtful AI: We love Cursor and we love data – we combined the two to help you write accurate queries. We use existing metadata to help you create new datasets, connect sources, fix errors, or edit in place.\r\n• Collaborative: Easily share data and discover what others in your org have built as a starting place for your analysis. Wrap common blocks of logic with templates so your team never has to start from zero.\r\n• Resilient and Scalable: Our compute engine is lightning-fast for queries and builds. Git and branching are built-in for both code and data, so you can time-travel backwards when things break. You can start with GBs and grow to TBs.",
+    "one_liner": "Build data pipelines in minutes with AI",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1731328761,
+    "tags": [
+      "Analytics",
+      "Data Science",
+      "Big Data",
+      "Data Engineering",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/coblocks",
+    "api": "https://yc-oss.github.io/api/batches/f24/coblocks.json"
   }
 ]

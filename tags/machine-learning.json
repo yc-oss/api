@@ -4580,7 +4580,7 @@
     "all_locations": "Aarhus, Denmark; Remote",
     "long_description": "Pipe|bio is the bioinformatics cloud for antibody / peptide screening & drug development.\r\n\r\nWe enable scientists to analyze and manage massive amounts of DNA sequencing data themselves without the need for bioinformaticians or programmers. The software is highly visual and enables you to overlay and filter information from different sources across your organization; be it assay data, sequence data or other process metadata. Insights from past results can be used to guide new experiments and they get better as you upload more and more data. Team leads get oversight and these capabilities combined empower organizations to find better drugs, faster.\r\n\r\nWe believe that science moves faster when scientists can curate and analyse their own data.",
     "one_liner": "PipeBio is a SaaS bioinformatics platform to develop antibody drugs.",
-    "team_size": 3,
+    "team_size": 10,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Therapeutics",
     "launched_at": 1614718514,
@@ -5471,18 +5471,18 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f30f00dbe44cde67296a43e445c0bb0dc14f9b5.png",
     "website": "http://medium.bio",
-    "all_locations": "San Francisco, CA, USA; Boston, MA, USA; Remote",
-    "long_description": "We build AI models to create novel, high performing biomolecules faster. Our AI models simulate the biophysical properties of biomolecules and identify the most promising ones to be tested in the lab. ",
-    "one_liner": "AI to design any biomolecule for any function",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We develop AI models & new assays to create functional, therapeutic antibodies.",
+    "one_liner": "AI-designed Antibodies",
     "team_size": 6,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Industrial Bio",
     "launched_at": 1630004252,
     "tags": [
       "AI-powered Drug Discovery",
+      "Artificial Intelligence",
       "Machine Learning",
-      "Biotech",
-      "AI"
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5492,13 +5492,13 @@
     "status": "Active",
     "industries": [
       "Healthcare",
-      "Industrial Bio"
+      "Therapeutics"
     ],
     "regions": [
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8758,6 +8758,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/preloop",
     "api": "https://yc-oss.github.io/api/batches/w24/preloop.json"
+  },
+  {
+    "id": 29442,
+    "name": "Ocular AI",
+    "slug": "ocular-ai",
+    "former_names": [
+      "AutoflowAI (Zapier for AI Copilots)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e20f659338993dfe61925632a05952fe44797ed.png",
+    "website": "https://useocular.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ocular AI 2.0 Launch Week: Dec 01 - 07, 2024",
+    "one_liner": "Ocular AI 2.0 Launch Week: Dec 01 - 07, 2024",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1706216304,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "Computer Vision",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/ocular-ai",
+    "api": "https://yc-oss.github.io/api/batches/w24/ocular-ai.json"
   },
   {
     "id": 29460,
