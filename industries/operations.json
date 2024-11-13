@@ -2387,9 +2387,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a76ce0d932f5b9149b08c23515c1d62bbef3229.png",
     "website": "https://tractian.com",
-    "all_locations": "Atlanta, GA, USA; São Paulo, SP, Brazil",
-    "long_description": "TRACTIAN makes it easy for maintenance teams to detect issues in their machines early on.",
-    "one_liner": "Artificial Intelligence Quarterbacking Your Maintenance Operations",
+    "all_locations": "Atlanta, GA, USA",
+    "long_description": "Tractian is a machine intelligence company that offers industrial monitoring systems.",
+    "one_liner": "Artificial Intelligence Quarterbacking Your Industrial Operations",
     "team_size": 300,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -2412,16 +2412,14 @@
     ],
     "regions": [
       "United States of America",
-      "Brazil",
       "America / Canada",
-      "Latin America",
       "Remote",
       "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tractian",
     "api": "https://yc-oss.github.io/api/batches/w21/tractian.json"
@@ -4868,17 +4866,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bf1d044f7655cff3da689fa41b5c1e8fa982cea.png",
     "website": "https://www.getdexter.co/",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "Dexter is the AI process tool for ops teams. For example, Dance, a European mobility company with over $11 million ARR, uses us to automate processes like resolving traffic tickets and accidents. ",
-    "one_liner": "AI process automation for ops teams.",
+    "long_description": "Dexter is the AI process tool for ops teams. We help companies move critical operating processes out of spreadsheets and Slack into reliable automated flows. \r\n\r\nWe orchestrate workflows end-to-end, with AI tasks (like filling out online forms, extracting information from images or documents) alongside manual and automated steps. \r\n\r\nFor example, Dance, a European mobility company with over 10,000 monthly subscribers, uses us to automate processes like resolving traffic tickets and accidents. ",
+    "one_liner": "AI RPA for operations teams",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1727913374,
     "tags": [
+      "Robotic Process Automation",
       "SaaS",
       "B2B",
       "Workflow Automation",
-      "No-code",
       "Operations"
     ],
     "tags_highlighted": [],
@@ -4943,5 +4941,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/recase",
     "api": "https://yc-oss.github.io/api/batches/f24/recase.json"
+  },
+  {
+    "id": 30113,
+    "name": "Melder",
+    "slug": "melder",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a53f5e5359151706b4d27ad1fdc4d1ebf5bb81f6.png",
+    "website": "https://melder.io",
+    "all_locations": "",
+    "long_description": "We automate the painful parts of supplier data integration - from PDF extraction to duplicate matching to spend analysis - and surface opportunities that are usually buried in unstructured data\r\n",
+    "one_liner": "Turning messy supply chain data into actionable savings",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1731437113,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Supply Chain",
+      "Procurement",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/melder",
+    "api": "https://yc-oss.github.io/api/batches/f24/melder.json"
   }
 ]
