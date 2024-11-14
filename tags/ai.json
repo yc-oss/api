@@ -1616,8 +1616,8 @@
   },
   {
     "id": 11986,
-    "name": "PatternFast",
-    "slug": "patternfast",
+    "name": "Tailornova/Couturme",
+    "slug": "tailornova-couturme",
     "former_names": [
       "Tailornova",
       "COUTURME"
@@ -1657,8 +1657,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/patternfast",
-    "api": "https://yc-oss.github.io/api/batches/w19/patternfast.json"
+    "url": "https://www.ycombinator.com/companies/tailornova-couturme",
+    "api": "https://yc-oss.github.io/api/batches/w19/tailornova-couturme.json"
   },
   {
     "id": 12005,
@@ -3573,7 +3573,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -3788,7 +3788,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc6a4fe2e078ae61e81ab99d657be389a0238c71.png",
     "website": "https://www.mindportal.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "MindPortal is a pioneering AI research company advancing human-AI interaction by enabling people to communicate with computers and AI assistants purely through thought. As an AI company, we focus exclusively on model development rather than hardware. Our models are designed to be general-purpose, adaptable across a wide range of applications. Our flagship development, MindSpeech, is the first AI model to translate imagined speech into text, enabling direct thought-to-language communication. MindSpeech has earned endorsements from leading experts, including Neuralink's former technical strategy head and DARPA’s N3 program lead scientist. Our thought-to-language AI models have the potential for transformative applications in fields such as healthcare, education, and VR/AR and our work has been featured in major publications such as Forbes, The Times, The Telegraph, and Business Insider. MindPortal has over 11 patents filed in the field and is backed by prominent investors such as Y Combinator and Kleiner Perkins.\r\n",
+    "long_description": "MindPortal is a pioneering AI research company advancing human-AI interaction by enabling people to communicate with computers and AI assistants purely through thought. As an AI company, we focus exclusively on model development rather than hardware. Our models are designed to be general-purpose, adaptable across a wide range of applications. Our flagship development, MindSpeech, is the first supervised AI model to translate imagined speech into text, enabling direct thought-to-language communication. MindSpeech has earned endorsements from leading experts, including Neuralink's former technical strategy head and DARPA’s N3 program lead scientist. Our thought-to-language AI models have the potential for transformative applications in fields such as healthcare, education, and VR/AR and our work has been featured in major publications such as Forbes, The Times, The Telegraph, and Business Insider. MindPortal has over 11 patents filed in the field and is backed by prominent investors such as Y Combinator and Kleiner Perkins.\r\n",
     "one_liner": "Thought-to-Language AI Models",
     "team_size": 10,
     "industry": "Consumer",
@@ -4611,7 +4611,7 @@
     "team_size": 9,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-    "launched_at": 1624316664,
+    "launched_at": 1620954637,
     "tags": [
       "IoT",
       "Housing",
@@ -7822,6 +7822,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/monterey-ai",
     "api": "https://yc-oss.github.io/api/batches/s22/monterey-ai.json"
+  },
+  {
+    "id": 27178,
+    "name": "Pump.co",
+    "slug": "pump-co",
+    "former_names": [
+      "Pump"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd441b185f1d0725ac8c35281774ba67b3fdc86.png",
+    "website": "https://www.pump.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pump saves up to 60% off AWS for early stage startups, and for free (yes, that's right). Using group buying and AI, Pump automates cost savings that require no engineering effort. #GetPumped ",
+    "one_liner": "The Costco for cloud is here 🔥🔥",
+    "team_size": 30,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1681178261,
+    "tags": [
+      "FinOps",
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pump-co",
+    "api": "https://yc-oss.github.io/api/batches/s22/pump-co.json"
   },
   {
     "id": 27185,
@@ -11676,7 +11720,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -11930,14 +11974,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d8be8a05c36ad89e0a6589a8573fae10d75c592.png",
     "website": "https://rankai.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "70% of SMBs skip SEO entirely, because they can't justify paying $3k+ to agencies. Rankai automates every step of SEO process and brings it to SMBs at 1% of the usual cost. Our AI Agent crawls though the website, identifies target keywords, generates SEO-optimized blogs and code fixes, and applies them automatically.\r\n\r\nStarting with SEO, Rankai is building an all-in-one AI Marketing Agency.",
-    "one_liner": "AI Marketing Agency, starting with SEO.",
+    "long_description": "70% of SMBs skip SEO entirely, because they can't justify paying $4k+ to agencies. Rankai automates every step of SEO process and brings it to SMBs at 1% of the usual cost. Our AI Agent crawls though the website, identifies target keywords, generates SEO-optimized blogs and code fixes, and applies them automatically.\r\n\r\nStarting with SEO, Rankai is building an all-in-one AI Marketing Agency.",
+    "one_liner": "Automated SEO with AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1731442233,
     "tags": [
       "SaaS",
+      "B2B",
       "Marketing",
       "SEO",
       "AI"
@@ -15323,6 +15368,53 @@
     "api": "https://yc-oss.github.io/api/batches/w24/sonauto.json"
   },
   {
+    "id": 29439,
+    "name": "camelAI",
+    "slug": "camelai",
+    "former_names": [
+      "qaml (pronounced camel)",
+      "qaml"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7356698f9b3f7a439b9951c6def0617a8421df3.png",
+    "website": "https://camelai.com/",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "CamelAI is an AI-powered data analyst for business intelligence. Connect any data source—CSVs, CRMs, SQL databases, data warehouses—and ask Camel complex questions or request reports and charts, all without needing code or SQL.",
+    "one_liner": "AI Business Intelligence agent. Get actionable insights in minutes.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1701468865,
+    "tags": [
+      "SaaS",
+      "Data Science",
+      "Data Visualization",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/camelai",
+    "api": "https://yc-oss.github.io/api/batches/w24/camelai.json"
+  },
+  {
     "id": 29440,
     "name": "Rove",
     "slug": "rove",
@@ -15672,6 +15764,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/junction-bioscience",
     "api": "https://yc-oss.github.io/api/batches/w24/junction-bioscience.json"
+  },
+  {
+    "id": 29478,
+    "name": "Reform",
+    "slug": "reform",
+    "former_names": [
+      "Knowstory"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae111fb679eda4f4906d6a13ace6ecac6c8e2503.png",
+    "website": "https://www.reformhq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Automate your repetitive tasks, interface directly with your own transport management system, and create dashboards in one single platform.",
+    "one_liner": "The AI-powered workspace for freight forwarding",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1706556384,
+    "tags": [
+      "SaaS",
+      "Logistics",
+      "Supply Chain",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reform",
+    "api": "https://yc-oss.github.io/api/batches/w24/reform.json"
   },
   {
     "id": 29505,
@@ -19864,6 +20000,46 @@
     "api": "https://yc-oss.github.io/api/batches/s24/dreamrp.json"
   },
   {
+    "id": 30014,
+    "name": "fixa",
+    "slug": "fixa",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45765460c3699e337b466745ffabfc89fbedc807.png",
+    "website": "https://www.fixa.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI voice agents are automating thousands of calls per day for businesses. But to find errors, voice agent developers must manually review thousands of call recordings and transcripts. \r\n\r\nfixa does this automatically, reviewing call transcripts + recordings at scale, and providing developers with precise, actionable, insights when things go south.",
+    "one_liner": "fix AI voice agents faster.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1731468857,
+    "tags": [
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fixa",
+    "api": "https://yc-oss.github.io/api/batches/f24/fixa.json"
+  },
+  {
     "id": 30017,
     "name": "Riveter AI",
     "slug": "riveter-ai",
@@ -19925,7 +20101,7 @@
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
-    "launched_at": 1730260242,
+    "launched_at": 1725490998,
     "tags": [
       "Developer Tools",
       "Compliance",
@@ -20162,6 +20338,51 @@
     "api": "https://yc-oss.github.io/api/batches/f24/ctgt.json"
   },
   {
+    "id": 30056,
+    "name": "Keye",
+    "slug": "keye",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/752dbca5b1132b2193b05d3d08d6ad4f0456b641.png",
+    "website": "https://www.keye.co",
+    "all_locations": "New York, NY, USA",
+    "long_description": "\r\nKeye is an AI software that lets private equity firms do due diligence for acquisitions faster and more accurately. Our customers can evaluate 10x more deals and fund better companies which leads directly to better returns/more alpha.\r\n--\r\n\r\nOur system is the first of its kind to instantly generate complex, comprehensive data packs from raw data in any format, directly from the data room. This enables investors to gain an 80% understanding of a potential deal within moments, empowering them to say No to a deal earlier in the process and focus on high-potential opportunities. Traditionally, creating these detailed data packs—like cohort or retention analyses and customer roll-forwards—takes weeks, during which critical details may be overlooked, potentially costing funds millions in missed insights and poor decisions.\r\n--\r\n\r\nKeye combines cutting-edge AI with deep private equity expertise to deliver powerful, multi-layered insights that go far beyond the simple summarizers and search functions offered by other tools. Our platform dives deep into both quantitative and qualitative due diligence data, offering high-impact analytics crafted specifically for private equity workflows. This isn’t just automation—it’s a purpose-built solution that uncovers actionable insights, fueling smarter decisions and driving true alpha.\r\n\r\n",
+    "one_liner": "Automated Due Diligence for Private Market Investors",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1731519331,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "Investing",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/keye",
+    "api": "https://yc-oss.github.io/api/batches/f24/keye.json"
+  },
+  {
     "id": 30057,
     "name": "Luthor",
     "slug": "luthor",
@@ -20335,7 +20556,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a60f5ba14460a149ec6587f93611a37f06bcb11.png",
     "website": "https://www.autocomputer.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "With just a prompt, our desktop AI system automates steps for any complex computer usage workflow, that you can accept with a single keystroke. It makes repetitive but critical workflows such as financial data entry 2-5x faster, while providing complete visibility, control, and adaptability—all without requiring any setup, recording, or onboarding to a new platform.",
+    "long_description": "With just a prompt, our desktop AI system automates steps for any complex computer usage workflow that you can accept with a single keystroke. It makes repetitive but critical workflows such as financial data entry 2-5x faster, while providing complete visibility, control, and adaptability—all without requiring any setup, recording, or migrating to a new platform.",
     "one_liner": "Zero setup AI automation for workflows on your computer",
     "team_size": 2,
     "industry": "B2B",
@@ -20408,6 +20629,94 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/permitportal",
     "api": "https://yc-oss.github.io/api/batches/f24/permitportal.json"
+  },
+  {
+    "id": 30090,
+    "name": "Origami Agents",
+    "slug": "origami-agents",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f16d5c33c6e89730484ed654b37241bd9d63bbcb.png",
+    "website": "https://www.origami-agents.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Every Origami Agent works like a dedicated human sales rep, analyzing social comments, press releases, and product pages to find your perfect leads. \r\n\r\nNow, use millions of Origami Agents working 24/7 to bring you the top 1% of buyers for your solution every day.\r\n‎ \r\nPreviously, Finn built custom outbound solutions for over 20 startups, while Kenson was the CTO at an enterprise sales startup. We found ourselves building this tool for our customers over and over again, and that it worked 10x better than all other outbound strategies.\r\n‎ \r\nThere’s enough information on the internet to know exactly which prospects are primed to buy, and most sales teams still haven’t realized this yet.",
+    "one_liner": "Agents that find companies actively looking for your solution",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1731183180,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Sales",
+      "Sales Enablement",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/origami-agents",
+    "api": "https://yc-oss.github.io/api/batches/f24/origami-agents.json"
+  },
+  {
+    "id": 30102,
+    "name": "Diffusion Studio",
+    "slug": "diffusion-studio",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/018de82a1215c62a9cb659b6b4986e1b651dc62b.png",
+    "website": "https://diffusion.studio/",
+    "all_locations": "Munich, BY, Germany; Remote",
+    "long_description": "Diffusion Studio is the AI video editor. Diffusion Studio automates video editing using AI - removing double takes, pauses, and filler words - so content creators can focus on the creative side of their content. Our first version of the product had over 20 thousand users, and we have just launched our next version.",
+    "one_liner": "The AI Video Editor",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "B2B",
+    "launched_at": 1731522844,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Video",
+      "Media",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "Germany",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/diffusion-studio",
+    "api": "https://yc-oss.github.io/api/batches/f24/diffusion-studio.json"
   },
   {
     "id": 30108,
