@@ -10555,7 +10555,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -14608,7 +14608,7 @@
     "former_names": [
       "Inquery"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7edc2edfc4d158a9af715078f82b38ac1c0ce9f2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fad6d127e5843dda3d9f06585de22ad73a6df795.png",
     "website": "https://tableflow.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Leverage AI to extract data from PDFs, CSVs, images, and emails instantly.",
@@ -14618,11 +14618,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1676487521,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Open Source",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21181,6 +21181,48 @@
     "api": "https://yc-oss.github.io/api/batches/f24/vly-ai-2.json"
   },
   {
+    "id": 30096,
+    "name": "Scrapybara",
+    "slug": "scrapybara",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9ad486292e2ee10cb4cccf0d676cfb2e2ac571f.png",
+    "website": "https://scrapybara.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Scrapybara is a computer for your AI. We provide virtual computer environments for AI agents to interact with.",
+    "one_liner": "A computer for your AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1730261485,
+    "tags": [
+      "Developer Tools",
+      "API",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/scrapybara",
+    "api": "https://yc-oss.github.io/api/batches/f24/scrapybara.json"
+  },
+  {
     "id": 30100,
     "name": "Alex",
     "slug": "alex",
@@ -21215,6 +21257,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alex",
     "api": "https://yc-oss.github.io/api/batches/f24/alex.json"
+  },
+  {
+    "id": 30107,
+    "name": "Surge",
+    "slug": "surge",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f55889b876077192ae88368c48e83468f24487c.png",
+    "website": "https://surgemsg.com",
+    "all_locations": "Lehi, UT, USA",
+    "long_description": "Surge is a new SMS API platform that helps you register campaigns and verify toll-free numbers in 1-2 days instead of the 2-3 weeks that is standard in the industry. Our higher level APIs and embeddable UI components help you build texting functionality faster and with less code than the major SMS APIs, and we respond to support inquiries much faster too. Please reach out if we can help with SMS in any way!",
+    "one_liner": "The easiest way for developers to send text messages",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1731622401,
+    "tags": [
+      "SaaS",
+      "API",
+      "No-code",
+      "SMS",
+      "Telecommunications"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/surge",
+    "api": "https://yc-oss.github.io/api/batches/f24/surge.json"
   },
   {
     "id": 30112,
@@ -21266,7 +21351,7 @@
     "website": "https://www.relvy.ai",
     "all_locations": "",
     "long_description": "Relvy automates troubleshooting of production software. Engineers can get started with Relvy's lightweight debugging language model in less than 5 minutes, and save 30 minutes of triaging time per on-call alert.",
-    "one_liner": "AI for debugging production issues",
+    "one_liner": "AI that discovers and debugs production issues",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

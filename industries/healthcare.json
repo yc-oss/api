@@ -19977,7 +19977,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -23034,21 +23034,25 @@
   },
   {
     "id": 29113,
-    "name": "Simbie Health",
-    "slug": "simbie-health",
+    "name": "Simbie AI",
+    "slug": "simbie-ai",
     "former_names": [
       "PeerWise Medical"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39a03e7565b7417c257e154d7791f550b67834d6.png",
-    "website": "http://www.simbiehealth.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c0554511472d4b8530371b08cba5abd6f3f6fff.png",
+    "website": "http://www.heysimbie.com",
     "all_locations": "",
     "long_description": "",
-    "one_liner": "Filling gaps in transitions of care",
+    "one_liner": "Clinically-trained AI Voice Agents for Healthcare",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1689114050,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Health Tech"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -23059,15 +23063,16 @@
       "Healthcare"
     ],
     "regions": [
-      "Unspecified"
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/simbie-health",
-    "api": "https://yc-oss.github.io/api/batches/s23/simbie-health.json"
+    "url": "https://www.ycombinator.com/companies/simbie-ai",
+    "api": "https://yc-oss.github.io/api/batches/s23/simbie-ai.json"
   },
   {
     "id": 29122,
@@ -25532,6 +25537,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/reticular",
     "api": "https://yc-oss.github.io/api/batches/f24/reticular.json"
+  },
+  {
+    "id": 30101,
+    "name": "Chorrie",
+    "slug": "chorrie",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/752a568bd421c3f4c6a5c8a4ff957dd6915e52c7.png",
+    "website": "https://chorrie.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "At Chorrie, we are empowering medical billing teams to automate their revenue cycle management and catch insurance claim denials and under-billing before it happens.  We provide an AI-powered no-code platform to turn tedious manual claims checks into automated ones, allowing us to scale esoteric subject-matter expertise specific to an individual practice or team.  Our platform integrates directly with native EMR systems, allowing for easy optimization without workflow disruption.",
+    "one_liner": "Eliminate medical claim denials & underbilling with AI",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1731609344,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "Healthcare",
+      "Billing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chorrie",
+    "api": "https://yc-oss.github.io/api/batches/f24/chorrie.json"
   },
   {
     "id": 30109,
