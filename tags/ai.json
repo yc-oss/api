@@ -5052,51 +5052,6 @@
     "api": "https://yc-oss.github.io/api/batches/s21/sully-ai.json"
   },
   {
-    "id": 25275,
-    "name": "Strac",
-    "slug": "strac",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5810f2cdca1ab3fedc5a811643be13d5387e300c.png",
-    "website": "https://www.strac.io/",
-    "all_locations": "Bellevue, WA, USA; Remote",
-    "long_description": "Strac is an agentless Data Discovery (aka DSPM - Data Security Posture Management) & DLP (Data Leak Prevention) that automatically discovers, classifies and remediates sensitive data (alert, label, redact, mask, block, delete). \r\n\r\nStrac protects SaaS, Cloud, Gen AI and Endpoints like O365, Slack, GDrive, AWS, Salesforce, ChatGPT, Jira, Mac, Zendesk, and 40+ integrations. \r\n\r\nStrac protects enterprise companies like UiPath, ThredUP, Nylas, Crypto (dot) com!",
-    "one_liner": "Data Discovery, DLP, DSPM for SaaS, Cloud, Gen AI & Endpoints",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1641604614,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "Security",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/strac",
-    "api": "https://yc-oss.github.io/api/batches/w22/strac.json"
-  },
-  {
     "id": 25351,
     "name": "Axross Pte Ltd",
     "slug": "axross-pte-ltd",
@@ -5914,51 +5869,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ponyrun",
     "api": "https://yc-oss.github.io/api/batches/w22/ponyrun.json"
-  },
-  {
-    "id": 25969,
-    "name": "Shaped",
-    "slug": "shaped",
-    "former_names": [
-      "shaped.ai Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/241b1f1931647920258ef5ae6571461ada0b62f1.png",
-    "website": "https://shaped.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Increase engagement, conversion, and revenue with a configurable search and recommendation system that adapts in real-time.",
-    "one_liner": "The fastest path to relevant recommendations and search",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1646119340,
-    "tags": [
-      "Machine Learning",
-      "API",
-      "Search",
-      "AI",
-      "Recommendation System"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shaped",
-    "api": "https://yc-oss.github.io/api/batches/w22/shaped.json"
   },
   {
     "id": 25975,
@@ -8954,7 +8864,7 @@
     "website": "https://co.dev/?ref=YC",
     "all_locations": "",
     "long_description": "Codev empowers developers to run multiple coding tasks asynchronously, make modifications on the fly, and instantly create GitHub pull requests.",
-    "one_liner": "Delegate tasks to your AI developers",
+    "one_liner": "Build Fullstack Web Apps with Natural Language",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Fintech",
@@ -12598,7 +12508,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -12666,6 +12576,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aisdr",
     "api": "https://yc-oss.github.io/api/batches/s23/aisdr.json"
+  },
+  {
+    "id": 29113,
+    "name": "Simbie AI",
+    "slug": "simbie-ai",
+    "former_names": [
+      "PeerWise Medical"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c0554511472d4b8530371b08cba5abd6f3f6fff.png",
+    "website": "http://www.simbie.ai",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Clinically-trained AI Voice Agents for Healthcare",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1689114050,
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/simbie-ai",
+    "api": "https://yc-oss.github.io/api/batches/s23/simbie-ai.json"
   },
   {
     "id": 29118,
@@ -15550,8 +15502,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e8293b8909fbc0452663290a630f3f5f9d0e7e1.png",
     "website": "",
     "all_locations": "New York, NY, USA",
-    "long_description": "Arcane is building an AI powered game platform. We allow anyone to create and play games, without writing code. Our first product, Summon Worlds, has tens of thousands of users who've created millions of Summons and used them to play AI powered games. \r\n",
-    "one_liner": "AI powered Roblox",
+    "long_description": "Arcane is building an AI powered game platform. We allow anyone to create and play games, without writing code.",
+    "one_liner": "AI powered games",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
@@ -18180,6 +18132,45 @@
     "api": "https://yc-oss.github.io/api/batches/s24/zeit-ai.json"
   },
   {
+    "id": 29766,
+    "name": "Kura AI",
+    "slug": "kura-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3437476f706a40b53ca9ffaafb5ca9f6da1d9e50.png",
+    "website": "https://trykura.com",
+    "all_locations": "",
+    "long_description": "Kura breaks 87% on the WebVoyager Benchmark. That is 31% better than Claude's Computer Use demo and 14% better than the previous State of the Art.\r\n\r\nIn 10 years there will be more AI agents on the internet than humans. Kura is SOTA for giving AI agents the tools for interacting with websites.",
+    "one_liner": "New State of the Art for Browser Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1731604870,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kura-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/kura-ai.json"
+  },
+  {
     "id": 29772,
     "name": "Parley",
     "slug": "parley",
@@ -18528,52 +18519,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/winford-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/winford-ai.json"
-  },
-  {
-    "id": 29793,
-    "name": "RiskAngle",
-    "slug": "riskangle",
-    "former_names": [
-      "Flyte.ai",
-      "Zephr",
-      "Zephr (Flyte AI, Inc)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97f65d84796a7dda7da0321a7b98d8c70eff14eb.png",
-    "website": "https://www.riskangle.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskAngle delivers fast, accurate summaries of complex medical records, helping insurance underwriters make quicker decisions, streamlining claims processing, and enabling lawyers to build stronger injury cases.",
-    "one_liner": "Medical record summary in minutes",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1721862703,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Insurance",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/riskangle",
-    "api": "https://yc-oss.github.io/api/batches/s24/riskangle.json"
   },
   {
     "id": 29797,
@@ -20253,13 +20198,13 @@
     "name": "Keye",
     "slug": "keye",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/752dbca5b1132b2193b05d3d08d6ad4f0456b641.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90506160477f970492b1093950c729f17eeb2192.png",
     "website": "https://www.keye.co",
     "all_locations": "New York, NY, USA",
     "long_description": "\r\nKeye is an AI software that lets private equity firms do due diligence for acquisitions faster and more accurately. Our customers can evaluate 10x more deals and fund better companies which leads directly to better returns/more alpha.\r\n--\r\n\r\nOur system is the first of its kind to instantly generate complex, comprehensive data packs from raw data in any format, directly from the data room. This enables investors to gain an 80% understanding of a potential deal within moments, empowering them to say No to a deal earlier in the process and focus on high-potential opportunities. Traditionally, creating these detailed data packs—like cohort or retention analyses and customer roll-forwards—takes weeks, during which critical details may be overlooked, potentially costing funds millions in missed insights and poor decisions.\r\n--\r\n\r\nKeye combines cutting-edge AI with deep private equity expertise to deliver powerful, multi-layered insights that go far beyond the simple summarizers and search functions offered by other tools. Our platform dives deep into both quantitative and qualitative due diligence data, offering high-impact analytics crafted specifically for private equity workflows. This isn’t just automation—it’s a purpose-built solution that uncovers actionable insights, fueling smarter decisions and driving true alpha.\r\n\r\n",
     "one_liner": "Automated Due Diligence for Private Market Investors",
     "team_size": 3,
-    "industry": "B2B",
+    "industry": "Fintech",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1731519331,
     "tags": [
@@ -20276,8 +20221,7 @@
     "batch": "F24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Finance and Accounting"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -20332,50 +20276,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/luthor",
     "api": "https://yc-oss.github.io/api/batches/f24/luthor.json"
-  },
-  {
-    "id": 30060,
-    "name": "Replexica",
-    "slug": "replexica",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5faeb3f5f19fc832ab39e5ce0996a16b9cf0247.png",
-    "website": "https://replexica.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Replexica automates the localization process end-to-end. It produces authentic translations instantly and eliminates translation management and manual work. Our AI generates pull requests with translations when developers commit UI code changes, avoiding the typical back-and-forth with translation agencies. This helps teams do localization 100x faster, ship to production more often, without bottlenecks.",
-    "one_liner": "Automated AI localization for multilingual software.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1728389519,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "International",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/replexica",
-    "api": "https://yc-oss.github.io/api/batches/f24/replexica.json"
   },
   {
     "id": 30064,
@@ -20882,6 +20782,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/helpcare-ai",
     "api": "https://yc-oss.github.io/api/batches/f24/helpcare-ai.json"
+  },
+  {
+    "id": 30125,
+    "name": "Synth",
+    "slug": "synth-3",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72c8ca1f80fbcb63a0a616d53bce31153601a954.png",
+    "website": "https://www.usesynth.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "You add a few decorators to your agent code, and run your agent on a dataset of questions you've generated / collected in the wild. We give you back a dataset of message triplets that's ready to be uploaded to your fine-tuning provider of choice (OpenAI, OpenPipe, Anthropic, Gemini, etc) that will give you a language model ready to steer your agent in production more effectively.",
+    "one_liner": "We help AI agents learn from data.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1729021221,
+    "tags": [
+      "Reinforcement Learning",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/synth-3",
+    "api": "https://yc-oss.github.io/api/batches/f24/synth-3.json"
   },
   {
     "id": 30131,

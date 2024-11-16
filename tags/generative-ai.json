@@ -1711,8 +1711,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e67cf96446cc05ab25099e8ab94b8256f0f724e.png",
     "website": "https://www.tavus.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tavus is a leading generative AI video research company on a mission to humanize AI. We build frontier AI models and APIs to enable developers to build digital twin experiences with video generation and real-time conversational video.",
-    "one_liner": "Build digital twin video experiences with easy-to-use APIs",
+    "long_description": "At Tavus, we're building the human layer of AI. Our mission is to make human-AI interaction as natural as face-to-face interaction, enabling the human touch where it has been previously unscalable. We achieve this through pioneering research in multi-modal AI models for human perception and understanding, combined with state-of-the-art human avatar rendering and conversation models that we make accessible to developers worldwide. Our models and APIs power everything from text-to-video AI avatars to real-time conversational video experiences across industries like healthcare, recruiting, sales, education, and more. By enabling AI to see, hear, and communicate with human-like authenticity, we're creating the foundation for developers to create the next generation of AI employees, assistants, and companions.",
+    "one_liner": "Building the human layer of AI",
     "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -2078,11 +2078,11 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1641604614,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "Security",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4976,16 +4976,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a23ca564de06df0b857da5a04633ddcefaf276a.png",
     "website": "http://www.ezdubs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "EzDubs dubs videos and livestreams into different languages in real-time, all while preserving the voice of the original speaker. \r\n\r\nBy enabling communication and broadcasting across multiple geographies, EzDubs boosts viewership and engagement, enables cross-border knowledge sharing in real-time, and breaks down language barriers across the internet.\r\n\r\nVisit www.ezdubs.ai to try out our Chrome extension and our Twitter bot for dubbing YouTube and Twitter videos with a single click, or reach out to us to integrate EzDubs' APIs with your website / livestreaming stack. ",
-    "one_liner": "Real-time AI dubbing",
+    "long_description": "EzDubs is a real-time speech translator. Our proprietary models translate speech without waiting for complete sentences, clone voices on the fly (without enrollments), and even replicate emotions in the translated language. \r\n\r\nOur iOS and Android apps translate live phone calls, automatically dub voice messages, and auto-translate text conversations so that you can communicate seamlessly across languages, with your voice and emotions. Thousands of users use EzDubs to communicate with friends and family who speak different languages, manage offshore teams, and even have relationships across languages. \r\n\r\nVisit https://ezdubs.ai to download our app and try a live demo of our real-time speech translator, or reach out to explore how EzDubs can integrate with your communication stack to enable live multilingual conversations. ",
+    "one_liner": "Real-time speech translation",
     "team_size": 6,
-    "industry": "B2B",
+    "industry": "Consumer",
     "subindustry": "B2B",
     "launched_at": 1670724581,
     "tags": [
       "Artificial Intelligence",
       "Generative AI",
-      "Media",
       "API",
       "Telecommunications"
     ],
@@ -4996,7 +4995,7 @@
     "batch": "W23",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -8883,8 +8882,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e8293b8909fbc0452663290a630f3f5f9d0e7e1.png",
     "website": "",
     "all_locations": "New York, NY, USA",
-    "long_description": "Arcane is building an AI powered game platform. We allow anyone to create and play games, without writing code. Our first product, Summon Worlds, has tens of thousands of users who've created millions of Summons and used them to play AI powered games. \r\n",
-    "one_liner": "AI powered Roblox",
+    "long_description": "Arcane is building an AI powered game platform. We allow anyone to create and play games, without writing code.",
+    "one_liner": "AI powered games",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
@@ -9762,6 +9761,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/redouble-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/redouble-ai.json"
+  },
+  {
+    "id": 29766,
+    "name": "Kura AI",
+    "slug": "kura-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3437476f706a40b53ca9ffaafb5ca9f6da1d9e50.png",
+    "website": "https://trykura.com",
+    "all_locations": "",
+    "long_description": "Kura breaks 87% on the WebVoyager Benchmark. That is 31% better than Claude's Computer Use demo and 14% better than the previous State of the Art.\r\n\r\nIn 10 years there will be more AI agents on the internet than humans. Kura is SOTA for giving AI agents the tools for interacting with websites.",
+    "one_liner": "New State of the Art for Browser Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1731604870,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kura-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/kura-ai.json"
   },
   {
     "id": 29776,

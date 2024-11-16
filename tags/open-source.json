@@ -1668,9 +1668,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3aef5c655cdc851ccad387554c204466a87669e7.png",
     "website": "https://questdb.io/",
     "all_locations": "London, England, United Kingdom; Remote",
-    "long_description": "QuestDB is an open-source time-series database for high throughput ingestion and fast SQL queries with operational simplicity.\r\n\r\nQuestDB powers the infrastructure for companies in Financial Services, Crypto/Web3, Space Exploration, Energy and Manufacturing.",
+    "long_description": "QuestDB is a high-performance, open-source database for time series data. It focuses on fast ingest, blazingly fast queries and superior developer experience with SQL and open formats.\r\n\r\nQuestDB is designed from the ground up to operate as close to the hardware as possible -- eliminating ingestion bottlenecks and lowering overall hardware requirements.\r\n\r\nQuestDB powers the infrastructure for companies in Financial Services, Crypto/Web3, Space Exploration, and Energy/Renewables.",
     "one_liner": "The fastest open source time series database",
-    "team_size": 20,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1593714682,
@@ -6761,5 +6761,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pearai",
     "api": "https://yc-oss.github.io/api/batches/f24/pearai.json"
+  },
+  {
+    "id": 30060,
+    "name": "Replexica",
+    "slug": "replexica",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5faeb3f5f19fc832ab39e5ce0996a16b9cf0247.png",
+    "website": "https://replexica.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Replexica automates the localization process end-to-end. It produces authentic translations instantly and eliminates translation management and manual work. Our AI generates pull requests with translations when developers commit UI code changes, avoiding the typical back-and-forth with translation agencies. This helps teams do localization 100x faster, ship to production more often, without bottlenecks.",
+    "one_liner": "Automated AI localization for multilingual software.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728389519,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Open Source",
+      "International"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/replexica",
+    "api": "https://yc-oss.github.io/api/batches/f24/replexica.json"
   }
 ]
