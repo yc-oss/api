@@ -141,14 +141,16 @@
     "website": "https://www.galini.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Galini guardrails-as-a-service filter harmful inputs and outputs based on company policies and industry regulations. We make it easy for companies to create, test, deploy and refine guardrails.\r\nWith Galini, product and engineering leaders enjoy peace of mind knowing their AI apps are compliant at run-time, and save $1-10M in costs from avoiding in-house build",
-    "one_liner": "Compliance guardrails for AI apps",
+    "one_liner": "Compliance guardrails-as-a-service for AI applications",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1730260242,
     "tags": [
-      "Developer Tools",
+      "SaaS",
+      "B2B",
       "Compliance",
+      "Enterprise",
       "AI"
     ],
     "tags_highlighted": [],
@@ -538,6 +540,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openfunnel",
     "api": "https://yc-oss.github.io/api/batches/f24/openfunnel.json"
+  },
+  {
+    "id": 30034,
+    "name": "HealthSpark",
+    "slug": "healthspark",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a4a39ebd6ad42c60d1ab5b002dc1f1ef7b9df78.png",
+    "website": "https://www.joinhealthspark.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "HealthSpark is an AI-powered, all-in-one platform for independent physical therapists. Our “business-in-a-box” solution automates administrative tasks so physical therapists can focus on what matters most — delivering exceptional care to their patients.",
+    "one_liner": "Launch, run, and grow an AI-native physical therapy practice",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1731746181,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Digital Health",
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/healthspark",
+    "api": "https://yc-oss.github.io/api/batches/f24/healthspark.json"
   },
   {
     "id": 30036,
@@ -1133,7 +1177,7 @@
     "name": "issen",
     "slug": "issen",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/124eb8c7fdda65607bf62e57ca5b5bf049fae711.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7cd641f60601d1542af5d677938a1afb3b727537.png",
     "website": "https://issen.com",
     "all_locations": "New York, NY, USA",
     "long_description": "issen is an AI conversational language app that helps you become fluent. Your on-demand voice tutor is personal to you, adapting lessons and chats to your particular interests, learning style, and goals.\r\n\r\nOur mission is to transform language learning by offering a level of connection, effectiveness and fun that, until now, only human teachers could provide.",
@@ -1249,6 +1293,49 @@
     "api": "https://yc-oss.github.io/api/batches/f24/ctgt.json"
   },
   {
+    "id": 30055,
+    "name": "RiskCube",
+    "slug": "riskcube",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e55e38ad260d4702bf3f8928801e1f5372f997b.png",
+    "website": "https://riskcube.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RiskCube is a digital insurance broker for property & casualty risk. Businesses use RiskCube to identify specific risks, like floods and hurricanes, and purchase only the most relevant insurance policies.",
+    "one_liner": "Digital insurance brokerage for property & casualty risks. ",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1731782052,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "Climate",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/riskcube",
+    "api": "https://yc-oss.github.io/api/batches/f24/riskcube.json"
+  },
+  {
     "id": 30056,
     "name": "Keye",
     "slug": "keye",
@@ -1340,17 +1427,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe6a1b58847c1e53f0596617c9f63de97d49acc2.png",
     "website": "https://sphinxlabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sphinx helps KYC teams in fintechs resolve complex cases instantly. We cut 85% of manual reviews using AI agents that make onboarding decisions – with proof.",
+    "long_description": "Sphinx helps compliance teams in fintechs resolve KYC & AML cases instantly. We cut 90% of manual reviews using AI agents that make onboarding decisions – with proof. ",
     "one_liner": "AI Agents for KYC & AML",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1730337457,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
-      "Compliance"
+      "Compliance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1641,10 +1728,10 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1731569238,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1660,7 +1747,7 @@
       "Unspecified"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": true,
     "question_answers": false,
@@ -1727,7 +1814,8 @@
       "SaaS",
       "B2B",
       "Workflow Automation",
-      "Manufacturing"
+      "Manufacturing",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2226,17 +2314,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9ad486292e2ee10cb4cccf0d676cfb2e2ac571f.png",
     "website": "https://scrapybara.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Scrapybara is a computer for your AI. We provide virtual computer environments for AI agents to interact with.",
+    "long_description": "Scrapybara provides virtual computer environments for AI agents. We deploy, scale, and maintain remote desktop instances that agents like Claude Computer Use can interact with via an API.",
     "one_liner": "A computer for your AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1730261485,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2556,17 +2644,17 @@
     "website": "https://usebramble.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Bramble is an AI-powered real estate brokerage that provides end-to-end homebuying services for a simple flat fee. Set up tours, evaluate homes, submit offers, and close confidently - with on-demand support from expert agents and AI-backed tools when you need it.\r\n\r\nWe opened early access in CA and in a few weeks saw hundreds of sign-ups, several touring buyers, and have submitted multiple offers across the state - all with near-zero marketing spend. We just offered buyers what they really wanted: a high-quality experience for a reasonable price.",
-    "one_liner": "AI-powered buyer real estate brokerage with a simple flat fee",
+    "one_liner": "AI-powered, full-service, flat-fee brokerage for homebuyers",
     "team_size": 3,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "launched_at": 1727386579,
     "tags": [
+      "Artificial Intelligence",
       "Real Estate",
       "Consumer",
       "Proptech",
-      "Consumer Products",
-      "AI"
+      "Consumer Products"
     ],
     "tags_highlighted": [],
     "top_company": false,
