@@ -5744,6 +5744,51 @@
     "api": "https://yc-oss.github.io/api/batches/w20/be-go.json"
   },
   {
+    "id": 13519,
+    "name": "Recall.ai",
+    "slug": "recall-ai",
+    "former_names": [
+      "Hyperdoc",
+      "Perfect Recall"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d6872d13351da06ebec7a2375682212667cb787.png",
+    "website": "https://www.recall.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Recall is the universal API for meeting bots. We offer a unified API to capture data from meeting platforms like Zoom, Microsoft Teams, and Google Meet. \r\n\r\nOver 500 companies rely on our API today to process millions of hours of meeting data. We provide stable infrastructure that typically takes engineering teams 6+ months of time to build, and help our customers get up and running in days instead of months.",
+    "one_liner": "The universal API for meeting video, audio and metadata",
+    "team_size": 16,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1616094217,
+    "tags": [
+      "Artificial Intelligence",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W20",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/recall-ai",
+    "api": "https://yc-oss.github.io/api/batches/w20/recall-ai.json"
+  },
+  {
     "id": 13522,
     "name": "Atmo",
     "slug": "atmo",
@@ -7650,6 +7695,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mystic",
     "api": "https://yc-oss.github.io/api/batches/w21/mystic.json"
+  },
+  {
+    "id": 23451,
+    "name": "MarqVision",
+    "slug": "marqvision",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e090676e13257c11dfb75067589489f952bb4bb5.png",
+    "website": "https://www.marqvision.com/",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "We are building the IP infrastructure for global brands and marketplaces to manage all their IP operations –\u000bfrom creating, managing, protecting and licensing IPs – in one unified platform. With IP protection, we help brands take down counterfeits from 1,500 online marketplaces worldwide. With IP creation, we help brands register trademarks in 120 countries with a click of a button. Founded by Harvard Law Students and backed by Softbank, DST Global and Y Combinator, MarqVision raised a $20 million Series A round in June 2022.",
+    "one_liner": "MarqVision builds an IP Operating System in a digital economy",
+    "team_size": 150,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1624608504,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/marqvision",
+    "api": "https://yc-oss.github.io/api/batches/s21/marqvision.json"
   },
   {
     "id": 23472,
@@ -14407,20 +14495,21 @@
       "Buff",
       "Sidekick"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20b67a9c14a3fc190679ba18dfb471c42aceba8e.png",
-    "website": "https://www.finic.io",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a79b41ba573b60ddd27e6d2e6de45506fcd624c4.png",
+    "website": "https://www.finic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Finic helps developers in the finance, healthcare, and govtech industries automate browser based workflows in 1/10 the time it normally takes, with no prior automation experience required. \r\n\r\nWith Finic, you:\r\n- Record a browser workflow with our copilot\r\n- Generate automation code in Python or TypeScript\r\n- Deploy to Finic with a single command\r\n- Run your automation from anywhere via API\r\n- View logs and session recordings from the dashboard",
-    "one_liner": "The browser automation platform for developers",
+    "long_description": "Finic helps fintechs automate fraud and dispute investigations with AI agents that automatically follows SOPs and writes comprehensive case notes.\r\n\r\nWith Finic, fintechs can:\r\n- 10x fraud ops capacity without increasing headcount\r\n- Train agents on new fraud typologies and instantly scale to thousands per day\r\n- Reduce time-to-resolution from hours to under 5 minutes",
+    "one_liner": "AI agent for fraud and dispute investigations",
     "team_size": 2,
-    "industry": "B2B",
+    "industry": "Fintech",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1677272534,
     "tags": [
       "Artificial Intelligence",
       "B2B",
+      "Compliance",
       "Automation",
-      "Web Development"
+      "Fraud Detection"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -14429,8 +14518,7 @@
     "batch": "W23",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -24942,6 +25030,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/riveter-ai",
     "api": "https://yc-oss.github.io/api/batches/f24/riveter-ai.json"
+  },
+  {
+    "id": 30029,
+    "name": "Summed AI",
+    "slug": "summed-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffaf4c723a5127555d28fa1155b199c0dbf47a7.png",
+    "website": "https://summed.ai",
+    "all_locations": "",
+    "long_description": "Summed AI is an AI assistant that digs up accurate Medicare policy details for you 90% faster, so you can enroll your clients quicker with fewer compliance dings.",
+    "one_liner": "AI Copilot for Medicare Insurance Sales Agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1731882747,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/summed-ai",
+    "api": "https://yc-oss.github.io/api/batches/f24/summed-ai.json"
   },
   {
     "id": 30030,

@@ -14335,15 +14335,15 @@
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "We are building the IP infrastructure for global brands and marketplaces to manage all their IP operations –\u000bfrom creating, managing, protecting and licensing IPs – in one unified platform. With IP protection, we help brands take down counterfeits from 1,500 online marketplaces worldwide. With IP creation, we help brands register trademarks in 120 countries with a click of a button. Founded by Harvard Law Students and backed by Softbank, DST Global and Y Combinator, MarqVision raised a $20 million Series A round in June 2022.",
     "one_liner": "MarqVision builds an IP Operating System in a digital economy",
-    "team_size": 90,
+    "team_size": 150,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1624608504,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26440,10 +26440,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4da680d3cdee4cc7ad6408d3177026092f04c75.png",
     "website": "https://metriport.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Metriport helps healthcare organizations access and manage comprehensive patient medical data.\r\n\r\nThrough a single integration, Metriport ensures clinical accuracy and completeness of medical information to providers, delivering comprehensive consolidated patient clinical data at the point-of-care. By standardizing, de-duplicating, consolidating, and hydrating the data with medical code crosswalking, providers get a rich understanding of their patients' medical histories through Metriport.\r\n\r\nMetriport is the only open-source solution of its kind that offers all these integrations in a single platform, and standardizes complex data formats into industry standards such as FHIR and C-CDA.\r\n\r\nAs a developer-first, HIPAA and SOC 2 Type II compliant interoperability solution, Metriport is powering the next wave of innovators in healthcare, creating an internet for healthcare data.",
     "one_liner": "Open-Source Universal API for Healthcare Data",
-    "team_size": 7,
+    "team_size": 6,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1654554081,
@@ -26468,7 +26468,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -31044,20 +31044,21 @@
       "Buff",
       "Sidekick"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20b67a9c14a3fc190679ba18dfb471c42aceba8e.png",
-    "website": "https://www.finic.io",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a79b41ba573b60ddd27e6d2e6de45506fcd624c4.png",
+    "website": "https://www.finic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Finic helps developers in the finance, healthcare, and govtech industries automate browser based workflows in 1/10 the time it normally takes, with no prior automation experience required. \r\n\r\nWith Finic, you:\r\n- Record a browser workflow with our copilot\r\n- Generate automation code in Python or TypeScript\r\n- Deploy to Finic with a single command\r\n- Run your automation from anywhere via API\r\n- View logs and session recordings from the dashboard",
-    "one_liner": "The browser automation platform for developers",
+    "long_description": "Finic helps fintechs automate fraud and dispute investigations with AI agents that automatically follows SOPs and writes comprehensive case notes.\r\n\r\nWith Finic, fintechs can:\r\n- 10x fraud ops capacity without increasing headcount\r\n- Train agents on new fraud typologies and instantly scale to thousands per day\r\n- Reduce time-to-resolution from hours to under 5 minutes",
+    "one_liner": "AI agent for fraud and dispute investigations",
     "team_size": 2,
-    "industry": "B2B",
+    "industry": "Fintech",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1677272534,
     "tags": [
       "Artificial Intelligence",
       "B2B",
+      "Compliance",
       "Automation",
-      "Web Development"
+      "Fraud Detection"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31066,8 +31067,7 @@
     "batch": "W23",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -42269,6 +42269,46 @@
     "api": "https://yc-oss.github.io/api/batches/f24/docflow.json"
   },
   {
+    "id": 30029,
+    "name": "Summed AI",
+    "slug": "summed-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffaf4c723a5127555d28fa1155b199c0dbf47a7.png",
+    "website": "https://summed.ai",
+    "all_locations": "",
+    "long_description": "Summed AI is an AI assistant that digs up accurate Medicare policy details for you 90% faster, so you can enroll your clients quicker with fewer compliance dings.",
+    "one_liner": "AI Copilot for Medicare Insurance Sales Agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1731882747,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/summed-ai",
+    "api": "https://yc-oss.github.io/api/batches/f24/summed-ai.json"
+  },
+  {
     "id": 30033,
     "name": "OpenFunnel",
     "slug": "openfunnel",
@@ -42276,8 +42316,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3933af22f00b2c643f560120f88df7fa344a1ffe.png",
     "website": "https://openfunnel.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Developers have scattered yet heavy touch-points that represent adoption and buying intent. \r\n\r\nWe help GTM teams at dev-tooling companies identify and sell to their most relevant users. Our AI agents thoroughly understand your dev-tool, scan developer channels, analyze interactions, and alert you about strong developer leads and engagement signals.",
-    "one_liner": "We help DevTool Companies find & sell to their most engaged users",
+    "long_description": "Developers have scattered yet heavy touch-points that represent adoption and buying intent across social channels.\r\n\r\nWe help GTM teams at dev-tooling companies identify and engage with developers who are in the market for their product. Our AI agents thoroughly understand your dev-tool, scan developer channels, analyze interactions, and alert you about strong developer leads and engagement signals.",
+    "one_liner": "OpenFunnel is building GTM Agents for Devtool companies",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -42486,7 +42526,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e55e38ad260d4702bf3f8928801e1f5372f997b.png",
     "website": "https://riskcube.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube is a digital insurance broker for property & casualty risk. Businesses use RiskCube to identify specific risks, like floods and hurricanes, and purchase only the most relevant insurance policies.",
+    "long_description": "RiskCube is a digital insurance broker for property & casualty risks. Businesses use RiskCube to identify specific risks, like floods and hurricanes, and purchase only the most relevant insurance policies.",
     "one_liner": "Digital insurance brokerage for property & casualty risks. ",
     "team_size": 2,
     "industry": "Fintech",
@@ -42696,7 +42736,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc7095317389a5c68c0c208c8ea8d41d1ba3ad7c.png",
     "website": "https://andtiny.com",
     "all_locations": "Singapore, Singapore; Remote",
-    "long_description": "Tiny is the operating system for factories. Our mission is to provide factories with a single, cohesive platform to track and manage the full lifecycle of an order across every department in the organization. \r\n\r\nOur first module, the Sales Quotation module, helps sales and engineering teams respond to quotes faster and more accurately. We’re already working with several factories in Southeast Asia, focusing on suppliers in the automotive and electronics industries.",
+    "long_description": "At Tiny we’re building a compound startup like Rippling for factories. Our mission is to provide factories with a single, cohesive platform to track and manage the full lifecycle of a manufactured item across every department in their organization.\r\n\r\nTiny is a ground-up reimagination of cumbersome traditional ERP software. Factories now have an intuitive user experience that leverages live collaborative editing to get everyone working together seamlessly, with a workflow engine that assigns tasks to the right person at the right time. Furthermore, as we expand our platform, we plan to automate repetitive tasks, thereby reducing costs and unlocking valuable insights by unifying sales, procurement, and production processes—all within a single system.\r\n\r\n",
     "one_liner": "The operating system for factories",
     "team_size": 3,
     "industry": "B2B",
