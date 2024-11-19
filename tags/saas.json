@@ -18774,7 +18774,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Marketing"
@@ -21329,20 +21329,20 @@
     "name": "MarqVision",
     "slug": "marqvision",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e090676e13257c11dfb75067589489f952bb4bb5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b993f487d88442acd03e44f8b8ba2ff9dd1c72c7.png",
     "website": "https://www.marqvision.com/",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "We are building the IP infrastructure for global brands and marketplaces to manage all their IP operations –\u000bfrom creating, managing, protecting and licensing IPs – in one unified platform. With IP protection, we help brands take down counterfeits from 1,500 online marketplaces worldwide. With IP creation, we help brands register trademarks in 120 countries with a click of a button. Founded by Harvard Law Students and backed by Softbank, DST Global and Y Combinator, MarqVision raised a $20 million Series A round in June 2022.",
-    "one_liner": "MarqVision builds an IP Operating System in a digital economy",
-    "team_size": 150,
+    "long_description": "MarqVision’s mission is to protect and build a future shaped by original ideas, innovations, and creativity. As a leading online brand protection solution, we help global brands identify and remove counterfeits and combat piracy from over 1,500 platforms and thousands of rogue websites in over 118 countries. In a time when counterfeiting poses an increasingly serious challenge, we believe that democratizing legal expertise and access to the latest in generative AI technology is critical for continuing to support the inventors, developers, and artists of the world who work tirelessly to deliver safe, high-quality products.\r\n\r\nMarqVision’s technology powers everything from detection, monitoring, and even enforcement to protect brands at scale. Founded in 2020 by Harvard Law graduates, MarqVision is proudly backed by Altos Ventures, DST Global Partners, Softbank, Atinum Investments and Y Combinator. Our commitment to innovation has also been recognized with a prestigious 2022 Innovation Award from LVMH Louis Vuitton Moët Hennessy (LVMH), and we are honored to be part of the LVMH accelerator program, La Maison des Startups, at the Station F incubator. As we bring forth the next evolution of brand protection, we invite businesses everywhere to join us in safeguarding the creativity that drives our world.",
+    "one_liner": "Building a future shaped by original ideas, innovations, and…",
+    "team_size": 200,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1624608504,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25666,7 +25666,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -25890,7 +25890,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -35859,7 +35859,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -40720,7 +40720,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -44314,6 +44314,52 @@
     "api": "https://yc-oss.github.io/api/batches/s24/gauge.json"
   },
   {
+    "id": 29697,
+    "name": "stormy.ai",
+    "slug": "stormy-ai",
+    "former_names": [
+      "1nterface.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f1ddb5f6ce9243b0a70f403432e67cf94cfed14.png",
+    "website": "https://stormy.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Influencer marketing is a pain to set up. Founders spend hours scrolling the feed, DMing content creators, negotiating deals and paying them.\r\n\r\nWe hated that process. So we fully automated it with AI.\r\n\r\nNow, you can focus on building and let Stormy handle the distribution!",
+    "one_liner": "Influencer marketing on autopilot",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1723238839,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stormy-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/stormy-ai.json"
+  },
+  {
     "id": 29699,
     "name": "Pulse AI",
     "slug": "pulse-ai",
@@ -44417,16 +44463,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "dmodel lets companies look inside the mind of an AI model and manipulate its thoughts in real-time. For example, AI-driven customer service platforms can use dmodel to rapidly fine-tune responses for accuracy and brand alignment, without retraining the entire model.",
     "one_liner": "Look inside the model",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725040353,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "Compliance",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46301,7 +46347,7 @@
     "slug": "riskcube",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e55e38ad260d4702bf3f8928801e1f5372f997b.png",
-    "website": "https://riskcube.ai",
+    "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "RiskCube is a digital insurance broker for property & casualty risks. Businesses use RiskCube to identify specific risks, like floods and hurricanes, and purchase only the most relevant insurance policies.",
     "one_liner": "Digital insurance brokerage for property & casualty risks. ",
@@ -46556,6 +46602,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/origami-agents",
     "api": "https://yc-oss.github.io/api/batches/f24/origami-agents.json"
+  },
+  {
+    "id": 30099,
+    "name": "Gander",
+    "slug": "gander",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/103e5e968261b6e0f5f380738a8663b4974fa3c8.png",
+    "website": "https://usegander.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Gander is bringing LLMs to the airline industry starting with customer service. Our first products help airlines automate the process of calculating compensation for flight disruptions and baggage issues, while our proactive voice agent calls customers to get them on a new flight when they are delayed or cancelled.",
+    "one_liner": "LLM's For Aviation, Starting with Customer Service",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1731944906,
+    "tags": [
+      "SaaS",
+      "Customer Support",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gander",
+    "api": "https://yc-oss.github.io/api/batches/f24/gander.json"
   },
   {
     "id": 30101,
