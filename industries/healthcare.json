@@ -6493,7 +6493,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W18",
     "status": "Active",
@@ -25416,6 +25416,47 @@
     "api": "https://yc-oss.github.io/api/batches/s24/syntra.json"
   },
   {
+    "id": 30019,
+    "name": "ShowAndTell",
+    "slug": "showandtell",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c665b16548130250a715fffb82efe08cc789e047.png",
+    "website": "https://www.tryshowandtell.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ShowAndTell creates AI agents for dental patient operations. Our agents educate patients, boost case acceptance, and build lasting trust. We enable dental staff to focus on patient care rather than patient operations.",
+    "one_liner": "Agents for the dental operating model",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1732046929,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Health Tech",
+      "Dental"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/showandtell",
+    "api": "https://yc-oss.github.io/api/batches/f24/showandtell.json"
+  },
+  {
     "id": 30027,
     "name": "Docflow",
     "slug": "docflow",
@@ -25506,17 +25547,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144a13ceedd1b9645b8478fb7512b3118141ca0b.png",
     "website": "https://www.astrix.health",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Astrix builds AI purchasing agents for healthcare providers. Astrix helps providers secure better deals on recurring medical supplies, equipment, and pharmacy orders by using AI to find the best offers from reputable vendors.\r\n\r\nWe use generative AI to aggregate and normalize data from thousands of sources, delivering actionable pricing insights for buyers and sellers alike.",
+    "long_description": "Astrix builds AI purchasing agents for healthcare providers. Astrix analyzes your inventory, patient flow, and spending to ensure you purchase the right items at the right time and the best price.",
     "one_liner": "Astrix builds AI purchasing agents for healthcare providers.",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1728327995,
     "tags": [
-      "Marketplace",
-      "Medical Devices",
+      "Machine Learning",
       "Collaboration",
-      "Healthcare"
+      "Healthcare",
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25674,8 +25716,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc4c02e697fb21ae99bab2ac805d924074318bc8.png",
     "website": "https://www.embercopilot.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help surgeons automate medical scribing, patient intake, insurance letters, and more, all directly integrated within their EHR.  ",
-    "one_liner": "The AI medical assistant that actually works",
+    "long_description": "We help surgery centers automate medical scribing, coding, and more, all directly integrated within their EHR.  ",
+    "one_liner": "The only medical scribe that reduces claim denials by 20%",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -25723,9 +25765,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1730747199,
     "tags": [
+      "AIOps",
       "Health Tech",
       "Healthcare",
-      "AI"
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -5100,7 +5100,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Fintech"
     ],
@@ -7310,46 +7310,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/willow.json"
   },
   {
-    "id": 29678,
-    "name": "Driftly",
-    "slug": "driftly",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d08387cfaa037f8a1900921e9df4e525ab02d86.png",
-    "website": "https://driftly.ai",
-    "all_locations": "",
-    "long_description": "Driftly is an AI-native EHR for home health agencies. 80% of the $133B spent every year by home health agencies is unrelated to providing care, and most of this can be eliminated with LLMs. Our first feature is clinician scheduling, where our tool cuts travel time in half, saving 10% of total costs.",
-    "one_liner": "AI-native EHR for home health agencies",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1723587984,
-    "tags": [
-      "Artificial Intelligence",
-      "Scheduling",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/driftly",
-    "api": "https://yc-oss.github.io/api/batches/s24/driftly.json"
-  },
-  {
     "id": 29679,
     "name": "Dodo",
     "slug": "dodo",
@@ -7787,17 +7747,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144a13ceedd1b9645b8478fb7512b3118141ca0b.png",
     "website": "https://www.astrix.health",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Astrix builds AI purchasing agents for healthcare providers. Astrix helps providers secure better deals on recurring medical supplies, equipment, and pharmacy orders by using AI to find the best offers from reputable vendors.\r\n\r\nWe use generative AI to aggregate and normalize data from thousands of sources, delivering actionable pricing insights for buyers and sellers alike.",
+    "long_description": "Astrix builds AI purchasing agents for healthcare providers. Astrix analyzes your inventory, patient flow, and spending to ensure you purchase the right items at the right time and the best price.",
     "one_liner": "Astrix builds AI purchasing agents for healthcare providers.",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1728327995,
     "tags": [
-      "Marketplace",
-      "Medical Devices",
+      "Machine Learning",
       "Collaboration",
-      "Healthcare"
+      "Healthcare",
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7873,8 +7834,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc4c02e697fb21ae99bab2ac805d924074318bc8.png",
     "website": "https://www.embercopilot.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help surgeons automate medical scribing, patient intake, insurance letters, and more, all directly integrated within their EHR.  ",
-    "one_liner": "The AI medical assistant that actually works",
+    "long_description": "We help surgery centers automate medical scribing, coding, and more, all directly integrated within their EHR.  ",
+    "one_liner": "The only medical scribe that reduces claim denials by 20%",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -7922,9 +7883,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1730747199,
     "tags": [
+      "AIOps",
       "Health Tech",
       "Healthcare",
-      "AI"
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
