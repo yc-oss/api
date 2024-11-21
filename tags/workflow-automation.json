@@ -373,7 +373,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W20",
     "status": "Active",
@@ -587,7 +587,7 @@
     "one_liner": "AI Agents for CFO and Finance teams",
     "team_size": 5,
     "industry": "B2B",
-    "subindustry": "Fintech -> Consumer Finance",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1643292732,
     "tags": [
       "Finance",
@@ -1222,7 +1222,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -1942,12 +1942,14 @@
     "id": 30067,
     "name": "Platus",
     "slug": "platus",
-    "former_names": [],
+    "former_names": [
+      "Openlaw"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/014b1ba3942482fbcc33d8bd34b870f8e4f598a4.png",
     "website": "https://www.platus.com",
     "all_locations": "",
     "long_description": "Platus delivers fast, reliable legal infrastructure with a no-code platform and API, designed to support SMEs with instant access to notarization, legal drafting, e-signing, and workflow solutions. Our solution removes the high costs and slow processing of traditional legal services, by empowering businesses to seamlessly manage compliance and legal tasks.",
-    "one_liner": "Automate Your Legal Operations",
+    "one_liner": "Platus automates legal operations ",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
@@ -1955,6 +1957,7 @@
     "tags": [
       "B2B",
       "Workflow Automation",
+      "Compliance",
       "LegalTech",
       "AI"
     ],
@@ -2106,5 +2109,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/recase",
     "api": "https://yc-oss.github.io/api/batches/f24/recase.json"
+  },
+  {
+    "id": 30111,
+    "name": "Foundry",
+    "slug": "foundry",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c839e82bc6ea23ed6f4b665baee614f79adcff66.png",
+    "website": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building a platform to design, test, and improve AI agents. It’s hard to build agents, understand how well they’re performing, and know what and how to improve. Our platform unifies design, evaluation, and fine-tuning, making it easier to identify weaknesses, improve reliability, and scale agents for real-world use.\r\n\r\nManil and Pranav previously worked at Scale AI, where they helped produce and refine data to evaluate and improve some of the best AI models in the world. Now, we’re bringing that expertise to help companies build AI systems that work better, faster.",
+    "one_liner": "Build, test, and improve AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1731963387,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Workflow Automation",
+      "No-code",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/foundry",
+    "api": "https://yc-oss.github.io/api/batches/f24/foundry.json"
   }
 ]

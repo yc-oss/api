@@ -21078,7 +21078,7 @@
     "one_liner": "AI-powered video ad creation service for indie and small game studios",
     "team_size": 10,
     "industry": "B2B",
-    "subindustry": "Consumer -> Gaming",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1644566628,
     "tags": [
       "Generative AI",
@@ -21956,7 +21956,7 @@
     "one_liner": "AI Agents for CFO and Finance teams",
     "team_size": 5,
     "industry": "B2B",
-    "subindustry": "Fintech -> Consumer Finance",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1643292732,
     "tags": [
       "Finance",
@@ -35110,23 +35110,23 @@
   },
   {
     "id": 29082,
-    "name": "Finbox",
-    "slug": "finbox",
+    "name": "Strada",
+    "slug": "strada",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbe7429005f13f30d1bf075a7ecf03be7fcba302.png",
-    "website": "https://www.usefinbox.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b9226bd2c56b8a4b99aa2de655898ae8f45ff9e.png",
+    "website": "https://www.getstrada.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Finbox helps AR & AP teams automate their customer & supplier communication. It monitors your shared inbox and prioritizes, routes, and replies to email based on data from your ERP and procurement systems. \r\n\r\nWith Finbox, finance teams stay lean as they scale, gain visibility into their processes, and get stakeholders the data they need in minutes instead of days.",
-    "one_liner": "AI agent for AP & AR communication",
+    "long_description": "Strada is the easiest way to launch and scale AI workflows across your business.",
+    "one_liner": "AI agents for workflow automation",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1690570692,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35136,7 +35136,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Finance and Accounting"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -35147,8 +35147,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/finbox",
-    "api": "https://yc-oss.github.io/api/batches/s23/finbox.json"
+    "url": "https://www.ycombinator.com/companies/strada",
+    "api": "https://yc-oss.github.io/api/batches/s23/strada.json"
   },
   {
     "id": 29092,
@@ -36388,8 +36388,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb011897f099f9342d33ca8a6bad3b4388ee0a54.png",
     "website": "https://usetusk.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tusk is an AI coding agent that writes, pushes, and tests code for frontend tasks. Engineers use Tusk to automatically fix customer-reported bugs and make UI/UX improvements, increasing customer NPS while reducing context-switching.\r\n\r\nTusk integrates with Linear, Jira, Notion, and GitHub so that it takes one click to create a pull request. Simply assign a ticket to Tusk. Our AI will traverse your codebase and external apps for context, create a pull request, and then test the change to make QA easy.",
-    "one_liner": "AI agent that fixes customers' bugs instantly",
+    "long_description": "Tusk is an AI-powered tool that helps developers generate unit and integration tests with codebase context. Tusk runs on your PRs as a non-blocking check and suggests happy path and edge case tests that are not covered by existing tests. Engineering teams that use Tusk increase their code coverage with high-impact tests.",
+    "one_liner": "Generate unit and integration tests with AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -36644,6 +36644,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/speck",
     "api": "https://yc-oss.github.io/api/batches/w24/speck.json"
+  },
+  {
+    "id": 29334,
+    "name": "Decipher AI",
+    "slug": "decipher-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
+    "website": "https://getdecipher.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI agent that analyses session replays and application-level data to uncover issues that are costing you user trust and increasing churn. Plus, rich technical context to understand and fix bugs quickly.\r\n\r\nCompanies rely on Decipher to identify issues before more customers encounter them and to access rich technical context for swift resolution.",
+    "one_liner": "AI agent that uncovers product issues and bugs in production",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1708738486,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Analytics",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/decipher-ai",
+    "api": "https://yc-oss.github.io/api/batches/w24/decipher-ai.json"
   },
   {
     "id": 29335,
@@ -40226,16 +40269,16 @@
     "all_locations": "Palo Alto, CA, USA",
     "long_description": "Distro is the all-in-one AI-powered sales platform for counter staff and inside sales at industrial wholesale distributors (HVAC/R, plumbing, electrical, and more).",
     "one_liner": "The AI co-pilot for sales reps at industrial wholesale distributors.",
-    "team_size": 4,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1715554333,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Manufacturing",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42240,7 +42283,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d97ce9291f8a51ec2a48e5fa70be7766b06a04b5.png",
     "website": "https://upshift.dev",
     "all_locations": "Charlotte, NC, USA",
-    "long_description": "Upshift is tooling for plugin systems and app stores. We help product companies support plugins or apps, to help them achieve outcomes like what the app stores in Salesforce and Shopify have done for those products. We believe plugin support drives more sales, better retention, and compounds value over time.\r\n\r\nCompanies put it off because it can take months, even years, and hundreds of thousands of dollars to build. We cut the time-to-production down to weeks.\r\n\r\nWe know how to build it. Together, we have more than a decade in engineering leadership from Palantir and Candid Health, and we've built extensibility like this before.\r\n\r\nEvery software product company who wants to enable their users to extend the platform is a potential customer. And it's a clear differentiator for best-in-class software companies who want to leverage their customer base as a community working to make their product even better.",
+    "long_description": "Upshift is tooling for plugin systems and app stores. We help product companies support plugins or apps, to help them achieve outcomes like what the app stores in Salesforce and Shopify have done for those products. We believe plugin support drives more sales, better retention, and compounds value over time.\r\n\r\nUp until now, only the biggest companies have had the resources to build these app stores because it can take years and massive upfront engineering investment to ship something. We cut the time-to-production down to weeks. And this will open up previously inaccessible possibilities for mid-sized businesses and fast-growing startups.\r\n\r\nWe know how to build it. For more than five years, Adam and Thomas have worked together as eng leaders, mastering our system integration expertise from Palantir and Candid Health. Our biggest win included converting an $823 million contract vehicle for the US Army, overhauling their entire data fabric.\r\n\r\nEvery software product company who wants to enable their users to extend the platform is a potential customer. It's a clear differentiator for best-in-class software companies who want to leverage their customer base as a community working to make their product even better.",
     "one_liner": "We help product companies build plugin systems and app stores.",
     "team_size": 2,
     "industry": "B2B",
@@ -42248,6 +42291,8 @@
     "launched_at": 1730739931,
     "tags": [
       "Developer Tools",
+      "Marketplace",
+      "SaaS",
       "B2B"
     ],
     "tags_highlighted": [],
@@ -42362,7 +42407,7 @@
     "website": "https://openfunnel.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Developers have scattered yet heavy touch-points that represent adoption and buying intent across social channels.\r\n\r\nWe help GTM teams at dev-tooling companies identify and engage with developers who are in the market for their product. Our AI agents thoroughly understand your dev-tool, scan developer channels, analyze interactions, and alert you about strong developer leads and engagement signals.",
-    "one_liner": "OpenFunnel is building GTM Agents for Devtool companies",
+    "one_liner": "GTM Faster with Vertical Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -42738,12 +42783,14 @@
     "id": 30067,
     "name": "Platus",
     "slug": "platus",
-    "former_names": [],
+    "former_names": [
+      "Openlaw"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/014b1ba3942482fbcc33d8bd34b870f8e4f598a4.png",
     "website": "https://www.platus.com",
     "all_locations": "",
     "long_description": "Platus delivers fast, reliable legal infrastructure with a no-code platform and API, designed to support SMEs with instant access to notarization, legal drafting, e-signing, and workflow solutions. Our solution removes the high costs and slow processing of traditional legal services, by empowering businesses to seamlessly manage compliance and legal tasks.",
-    "one_liner": "Automate Your Legal Operations",
+    "one_liner": "Platus automates legal operations ",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
@@ -42751,6 +42798,7 @@
     "tags": [
       "B2B",
       "Workflow Automation",
+      "Compliance",
       "LegalTech",
       "AI"
     ],
@@ -43223,17 +43271,17 @@
     "website": "https://www.embercopilot.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We help surgery centers automate medical scribing, coding, and more, all directly integrated within their EHR.  ",
-    "one_liner": "The only medical scribe that reduces claim denials by 20%",
+    "one_liner": "The only medical scribe that reduces claim denials by 55%",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1728536375,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Digital Health",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,

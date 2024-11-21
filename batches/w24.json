@@ -3207,8 +3207,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb011897f099f9342d33ca8a6bad3b4388ee0a54.png",
     "website": "https://usetusk.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tusk is an AI coding agent that writes, pushes, and tests code for frontend tasks. Engineers use Tusk to automatically fix customer-reported bugs and make UI/UX improvements, increasing customer NPS while reducing context-switching.\r\n\r\nTusk integrates with Linear, Jira, Notion, and GitHub so that it takes one click to create a pull request. Simply assign a ticket to Tusk. Our AI will traverse your codebase and external apps for context, create a pull request, and then test the change to make QA easy.",
-    "one_liner": "AI agent that fixes customers' bugs instantly",
+    "long_description": "Tusk is an AI-powered tool that helps developers generate unit and integration tests with codebase context. Tusk runs on your PRs as a non-blocking check and suggests happy path and edge case tests that are not covered by existing tests. Engineering teams that use Tusk increase their code coverage with high-impact tests.",
+    "one_liner": "Generate unit and integration tests with AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -3967,14 +3967,20 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
     "website": "https://getdecipher.com",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "AI agent that analyses session replays and application-level data to uncover issues that are costing you user trust and increasing churn. Plus, rich technical context to understand and fix bugs quickly.\r\n\r\nCompanies rely on Decipher to identify issues before more customers encounter them and to access rich technical context for swift resolution.",
     "one_liner": "AI agent that uncovers product issues and bugs in production",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1708738486,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Analytics",
+      "Enterprise Software",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -3986,7 +3992,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4129,10 +4136,10 @@
     "subindustry": "Healthcare",
     "launched_at": 1709616757,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "Digital Health",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6662,10 +6669,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/166536f94d496e2b50084b3b8edf8b6d9e29040b.png",
     "website": "https://justwords.ai",
-    "all_locations": "",
-    "long_description": "We’re building an AI-first marketing tech stack for enterprises. We are on a mission to rethink growth by turning content into conversations. Our core product allows companies to auto-refresh content on growth channels like emails using reinforcement learning, artificial intelligence, and causal inferences. \r\n\r\nCompanies have 10X their speed of experimentation, and have seen stat sig engagement lift with our technology. We built similar software on Twitter and Pinterest, which lifted user growth by 20%.",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI-first marketing platform that puts companies in a state of continuous experimentation. We let you test 100+ variations within a month, across segments without the need to setup an 'octopus' on your favorite CRM tool. We also automate reporting which takes the grunt work of baby sitting every A/B test out of the way.",
     "one_liner": "Scale hyper-personalized messaging with AI",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1704840202,
@@ -6681,11 +6688,12 @@
       "Marketing"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/just-words",

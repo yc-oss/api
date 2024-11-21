@@ -5597,7 +5597,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W20",
     "status": "Active",
@@ -10983,7 +10983,9 @@
     "id": 25966,
     "name": "Sendo",
     "slug": "sendo",
-    "former_names": [],
+    "former_names": [
+      "Winno"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b175061a073988c7d7a903c9e5517ba9daf8a8b3.png",
     "website": "https://sendo.dev",
     "all_locations": "New York, NY, USA; San Francisco, CA, USA; Remote",
@@ -10991,7 +10993,7 @@
     "one_liner": "The best SMS/RCS API for startups",
     "team_size": 1,
     "industry": "B2B",
-    "subindustry": "Consumer -> Content",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1644542792,
     "tags": [
       "Developer Tools",
@@ -13218,6 +13220,53 @@
     "api": "https://yc-oss.github.io/api/batches/w23/indexical.json"
   },
   {
+    "id": 27713,
+    "name": "Lynx",
+    "slug": "lynx",
+    "former_names": [
+      "Myly",
+      "CodeComplete AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87bf8e05766a109cbdca1dfc5bfa3fa7f69f32d8.png",
+    "website": "https://uselynx.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lynx is an AI platform that investigates and resolves engineering issues directly in your environment, from data anomalies to production outages. When incidents arise, Lynx will automatically gather information, pinpoint root causes, and execute solutions. Lynx makes incident resolution faster and more reliable, so teams can minimize downtime and focus on building.",
+    "one_liner": "AI platform for investigating and resolving engineering incidents",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1675473274,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "DevOps",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lynx",
+    "api": "https://yc-oss.github.io/api/batches/w23/lynx.json"
+  },
+  {
     "id": 27728,
     "name": "Nango",
     "slug": "nango",
@@ -15333,7 +15382,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Artie is software that streams data from databases to data warehouses in real-time. Today, most companies run their ETL process every few hours or overnight, so their data warehouse is always out of date; with Artie, the warehouse always has live production data.",
     "one_liner": "Software that streams data from databases to warehouses in real-time",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1684375922,
@@ -17432,8 +17481,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb011897f099f9342d33ca8a6bad3b4388ee0a54.png",
     "website": "https://usetusk.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tusk is an AI coding agent that writes, pushes, and tests code for frontend tasks. Engineers use Tusk to automatically fix customer-reported bugs and make UI/UX improvements, increasing customer NPS while reducing context-switching.\r\n\r\nTusk integrates with Linear, Jira, Notion, and GitHub so that it takes one click to create a pull request. Simply assign a ticket to Tusk. Our AI will traverse your codebase and external apps for context, create a pull request, and then test the change to make QA easy.",
-    "one_liner": "AI agent that fixes customers' bugs instantly",
+    "long_description": "Tusk is an AI-powered tool that helps developers generate unit and integration tests with codebase context. Tusk runs on your PRs as a non-blocking check and suggests happy path and edge case tests that are not covered by existing tests. Engineering teams that use Tusk increase their code coverage with high-impact tests.",
+    "one_liner": "Generate unit and integration tests with AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -17599,6 +17648,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/speck",
     "api": "https://yc-oss.github.io/api/batches/w24/speck.json"
+  },
+  {
+    "id": 29334,
+    "name": "Decipher AI",
+    "slug": "decipher-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
+    "website": "https://getdecipher.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI agent that analyses session replays and application-level data to uncover issues that are costing you user trust and increasing churn. Plus, rich technical context to understand and fix bugs quickly.\r\n\r\nCompanies rely on Decipher to identify issues before more customers encounter them and to access rich technical context for swift resolution.",
+    "one_liner": "AI agent that uncovers product issues and bugs in production",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1708738486,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Analytics",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/decipher-ai",
+    "api": "https://yc-oss.github.io/api/batches/w24/decipher-ai.json"
   },
   {
     "id": 29335,
@@ -20315,7 +20407,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d97ce9291f8a51ec2a48e5fa70be7766b06a04b5.png",
     "website": "https://upshift.dev",
     "all_locations": "Charlotte, NC, USA",
-    "long_description": "Upshift is tooling for plugin systems and app stores. We help product companies support plugins or apps, to help them achieve outcomes like what the app stores in Salesforce and Shopify have done for those products. We believe plugin support drives more sales, better retention, and compounds value over time.\r\n\r\nCompanies put it off because it can take months, even years, and hundreds of thousands of dollars to build. We cut the time-to-production down to weeks.\r\n\r\nWe know how to build it. Together, we have more than a decade in engineering leadership from Palantir and Candid Health, and we've built extensibility like this before.\r\n\r\nEvery software product company who wants to enable their users to extend the platform is a potential customer. And it's a clear differentiator for best-in-class software companies who want to leverage their customer base as a community working to make their product even better.",
+    "long_description": "Upshift is tooling for plugin systems and app stores. We help product companies support plugins or apps, to help them achieve outcomes like what the app stores in Salesforce and Shopify have done for those products. We believe plugin support drives more sales, better retention, and compounds value over time.\r\n\r\nUp until now, only the biggest companies have had the resources to build these app stores because it can take years and massive upfront engineering investment to ship something. We cut the time-to-production down to weeks. And this will open up previously inaccessible possibilities for mid-sized businesses and fast-growing startups.\r\n\r\nWe know how to build it. For more than five years, Adam and Thomas have worked together as eng leaders, mastering our system integration expertise from Palantir and Candid Health. Our biggest win included converting an $823 million contract vehicle for the US Army, overhauling their entire data fabric.\r\n\r\nEvery software product company who wants to enable their users to extend the platform is a potential customer. It's a clear differentiator for best-in-class software companies who want to leverage their customer base as a community working to make their product even better.",
     "one_liner": "We help product companies build plugin systems and app stores.",
     "team_size": 2,
     "industry": "B2B",
@@ -20323,6 +20415,8 @@
     "launched_at": 1730739931,
     "tags": [
       "Developer Tools",
+      "Marketplace",
+      "SaaS",
       "B2B"
     ],
     "tags_highlighted": [],
@@ -20609,17 +20703,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6841cc02f948f6063ec7e9690d52d98b446b92c.png",
     "website": "https://circlemind.co",
     "all_locations": "",
-    "long_description": "Circlemind is developing the next-generation of memory systems for AI that surpasses current Retrieval Augmented Generation (RAG) methods. Our technology allows for efficient, interpretable, and context-aware reasoning and retrieval.",
+    "long_description": "Circlemind is developing the next-generation of memory systems for AI that surpasses current Retrieval Augmented Generation (RAG) methods. Our technology based on Knowledge Graphs and PageRank, allows for efficient, interpretable, and context-aware reasoning and retrieval.",
     "one_liner": "Intelligent memory & retrieval for AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1729125196,
     "tags": [
+      "Artificial Intelligence",
       "Deep Learning",
       "Developer Tools",
       "Generative AI",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20813,6 +20908,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/scrapybara",
     "api": "https://yc-oss.github.io/api/batches/f24/scrapybara.json"
+  },
+  {
+    "id": 30111,
+    "name": "Foundry",
+    "slug": "foundry",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c839e82bc6ea23ed6f4b665baee614f79adcff66.png",
+    "website": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building a platform to design, test, and improve AI agents. It’s hard to build agents, understand how well they’re performing, and know what and how to improve. Our platform unifies design, evaluation, and fine-tuning, making it easier to identify weaknesses, improve reliability, and scale agents for real-world use.\r\n\r\nManil and Pranav previously worked at Scale AI, where they helped produce and refine data to evaluate and improve some of the best AI models in the world. Now, we’re bringing that expertise to help companies build AI systems that work better, faster.",
+    "one_liner": "Build, test, and improve AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1731963387,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Workflow Automation",
+      "No-code",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/foundry",
+    "api": "https://yc-oss.github.io/api/batches/f24/foundry.json"
   },
   {
     "id": 30112,

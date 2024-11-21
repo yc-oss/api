@@ -1228,7 +1228,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W18",
     "status": "Active",
@@ -5242,7 +5242,7 @@
     "one_liner": "AI-powered video ad creation service for indie and small game studios",
     "team_size": 10,
     "industry": "B2B",
-    "subindustry": "Consumer -> Gaming",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1644566628,
     "tags": [
       "Generative AI",
@@ -5417,7 +5417,7 @@
     "one_liner": "AI Agents for CFO and Finance teams",
     "team_size": 5,
     "industry": "B2B",
-    "subindustry": "Fintech -> Consumer Finance",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1643292732,
     "tags": [
       "Finance",
@@ -12078,48 +12078,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/cedalio.json"
   },
   {
-    "id": 29082,
-    "name": "Finbox",
-    "slug": "finbox",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fbe7429005f13f30d1bf075a7ecf03be7fcba302.png",
-    "website": "https://www.usefinbox.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Finbox helps AR & AP teams automate their customer & supplier communication. It monitors your shared inbox and prioritizes, routes, and replies to email based on data from your ERP and procurement systems. \r\n\r\nWith Finbox, finance teams stay lean as they scale, gain visibility into their processes, and get stakeholders the data they need in minutes instead of days.",
-    "one_liner": "AI agent for AP & AR communication",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1690570692,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/finbox",
-    "api": "https://yc-oss.github.io/api/batches/s23/finbox.json"
-  },
-  {
     "id": 29085,
     "name": "Quill AI",
     "slug": "quill-ai",
@@ -12623,7 +12581,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -13873,8 +13831,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb011897f099f9342d33ca8a6bad3b4388ee0a54.png",
     "website": "https://usetusk.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tusk is an AI coding agent that writes, pushes, and tests code for frontend tasks. Engineers use Tusk to automatically fix customer-reported bugs and make UI/UX improvements, increasing customer NPS while reducing context-switching.\r\n\r\nTusk integrates with Linear, Jira, Notion, and GitHub so that it takes one click to create a pull request. Simply assign a ticket to Tusk. Our AI will traverse your codebase and external apps for context, create a pull request, and then test the change to make QA easy.",
-    "one_liner": "AI agent that fixes customers' bugs instantly",
+    "long_description": "Tusk is an AI-powered tool that helps developers generate unit and integration tests with codebase context. Tusk runs on your PRs as a non-blocking check and suggests happy path and edge case tests that are not covered by existing tests. Engineering teams that use Tusk increase their code coverage with high-impact tests.",
+    "one_liner": "Generate unit and integration tests with AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -14164,6 +14122,90 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/speck",
     "api": "https://yc-oss.github.io/api/batches/w24/speck.json"
+  },
+  {
+    "id": 29334,
+    "name": "Decipher AI",
+    "slug": "decipher-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
+    "website": "https://getdecipher.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI agent that analyses session replays and application-level data to uncover issues that are costing you user trust and increasing churn. Plus, rich technical context to understand and fix bugs quickly.\r\n\r\nCompanies rely on Decipher to identify issues before more customers encounter them and to access rich technical context for swift resolution.",
+    "one_liner": "AI agent that uncovers product issues and bugs in production",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1708738486,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Analytics",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/decipher-ai",
+    "api": "https://yc-oss.github.io/api/batches/w24/decipher-ai.json"
+  },
+  {
+    "id": 29339,
+    "name": "Clarion",
+    "slug": "clarion",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d42943b90f437bd5f4540ef5967011e4865a3427.png",
+    "website": "https://clarionhealth.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "We're on a mission to make healthcare more accessible and human with voice AI technology. Our platform enables healthcare organizations and their staff to automate phone-based workflows typically handled by humans. We partner with health care organizations to reduce their operational expense and eliminate administrative burden.\r\n\r\nOur founders bring a blend of clinical experience and technical expertise. Ryan is a Stanford/Harvard trained physician formerly on the founding team of Two Chairs and Ophelia (W20). Jeff formerly worked on voice AI at Amazon Alexa and ML projects at Citi/Salesforce.\r\n\r\nWe have incredible traction and a healthy pipeline of health systems to grow into. We are well funded and backed by top investors, including Y Combinator.",
+    "one_liner": "Elevate patient communications with conversational AI",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1709616757,
+    "tags": [
+      "Health Tech",
+      "Digital Health",
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clarion",
+    "api": "https://yc-oss.github.io/api/batches/w24/clarion.json"
   },
   {
     "id": 29342,
@@ -18018,51 +18060,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/modern-realty.json"
   },
   {
-    "id": 29761,
-    "name": "Distro",
-    "slug": "distro",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/499bf69da05f9cd925def17274cd2ef5f91c8a22.png",
-    "website": "https://distro.app",
-    "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Distro is the all-in-one AI-powered sales platform for counter staff and inside sales at industrial wholesale distributors (HVAC/R, plumbing, electrical, and more).",
-    "one_liner": "The AI co-pilot for sales reps at industrial wholesale distributors.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1715554333,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Manufacturing",
-      "Supply Chain",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/distro",
-    "api": "https://yc-oss.github.io/api/batches/s24/distro.json"
-  },
-  {
     "id": 29764,
     "name": "Zeit AI",
     "slug": "zeit-ai",
@@ -19842,8 +19839,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45765460c3699e337b466745ffabfc89fbedc807.png",
     "website": "https://www.fixa.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "fixa helps developers fix their AI voice agents faster, reviewing call transcripts + recordings at scale, and providing developers with precise, actionable, insights when things go south.",
-    "one_liner": "fix AI voice agents faster.",
+    "long_description": "fixa is the Mixpanel for AI voice agents. companies like OfOne use us to run simulated tests, analyze production calls, and fix bugs in their voice agents.",
+    "one_liner": "mixpanel for AI voice agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -20171,6 +20168,51 @@
     "api": "https://yc-oss.github.io/api/batches/f24/revyl.json"
   },
   {
+    "id": 30042,
+    "name": "Praxis AI",
+    "slug": "praxis-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc75863ffa7ab9e6cfde60f2ae59759a3a54241.png",
+    "website": "https://praxis-tech.ai",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Praxis AI is a platform that helps manufacturing engineers shift towards a proactive maintenance mindset. This eliminates the concept of day-to-day firefighting, and results in prolonged machine life, reduced production downtimes, and improved product quality.\r\n\r\nOur simplified interface enables manufacturing teams with minimal data science knowledge to create custom complex models on the machinery they know is critical to their operations. We walk them through the process of connecting to their data, configuring and building a model, deploying a model, and finally operationalizing a model using our copilot Max.e.\r\n\r\nOnce configured, Praxis AI and Max.e directly integrate into your existing workflows. For example once a downtime prediction model has been configured for a machine, Max.e will monitor and alert when a threshold is reached and provide you with an automated root cause analysis to resolve the issue. Early results have shown that Praxis can help manufacturers reduce their unplanned production downtimes by as much as 25%. \r\n\r\nExisting solutions focus on dashboards and complex charts. We know that dashboards don't cut costs, actions do. Praxis AI takes care of the complex machine learning and enables manufacturing engineers to focus on the important task of actually running a production floor, but now empowered by data-driven AI insights.",
+    "one_liner": "AI enabled optimization and monitoring for manufacturing in real time",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Unspecified",
+    "launched_at": 1732148257,
+    "tags": [
+      "AIOps",
+      "IoT",
+      "Manufacturing",
+      "Data Science",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/praxis-ai",
+    "api": "https://yc-oss.github.io/api/batches/f24/praxis-ai.json"
+  },
+  {
     "id": 30045,
     "name": "Regatta Storage",
     "slug": "regatta-storage",
@@ -20298,47 +20340,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/astrix-health.json"
   },
   {
-    "id": 30050,
-    "name": "Circlemind",
-    "slug": "circlemind",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6841cc02f948f6063ec7e9690d52d98b446b92c.png",
-    "website": "https://circlemind.co",
-    "all_locations": "",
-    "long_description": "Circlemind is developing the next-generation of memory systems for AI that surpasses current Retrieval Augmented Generation (RAG) methods. Our technology allows for efficient, interpretable, and context-aware reasoning and retrieval.",
-    "one_liner": "Intelligent memory & retrieval for AI",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1729125196,
-    "tags": [
-      "Deep Learning",
-      "Developer Tools",
-      "Generative AI",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/circlemind",
-    "api": "https://yc-oss.github.io/api/batches/f24/circlemind.json"
-  },
-  {
     "id": 30054,
     "name": "CTGT",
     "slug": "ctgt",
@@ -20393,7 +20394,7 @@
     "one_liner": "Automated Due Diligence for Private Market Investors",
     "team_size": 3,
     "industry": "Fintech",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "Fintech",
     "launched_at": 1731519331,
     "tags": [
       "Artificial Intelligence",
@@ -20592,12 +20593,14 @@
     "id": 30067,
     "name": "Platus",
     "slug": "platus",
-    "former_names": [],
+    "former_names": [
+      "Openlaw"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/014b1ba3942482fbcc33d8bd34b870f8e4f598a4.png",
     "website": "https://www.platus.com",
     "all_locations": "",
     "long_description": "Platus delivers fast, reliable legal infrastructure with a no-code platform and API, designed to support SMEs with instant access to notarization, legal drafting, e-signing, and workflow solutions. Our solution removes the high costs and slow processing of traditional legal services, by empowering businesses to seamlessly manage compliance and legal tasks.",
-    "one_liner": "Automate Your Legal Operations",
+    "one_liner": "Platus automates legal operations ",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
@@ -20605,6 +20608,7 @@
     "tags": [
       "B2B",
       "Workflow Automation",
+      "Compliance",
       "LegalTech",
       "AI"
     ],
@@ -20628,6 +20632,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/platus",
     "api": "https://yc-oss.github.io/api/batches/f24/platus.json"
+  },
+  {
+    "id": 30073,
+    "name": "Pearson Labs",
+    "slug": "pearson-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e33a2875f652bdd69936c606147614f5fff8283.png",
+    "website": "http://www.pearsonlabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pearson builds AI agents to automate corporate legal transactions (M&As, IPOs, financings, etc). We are currently working with a global top 10 law firm. Our mission is to participate in every corporate transaction that happen every year around the world.",
+    "one_liner": "AI to automate corporate legal transactions (M&As, IPOs, financings)",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1731901982,
+    "tags": [
+      "Generative AI",
+      "Legal",
+      "LegalTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pearson-labs",
+    "api": "https://yc-oss.github.io/api/batches/f24/pearson-labs.json"
   },
   {
     "id": 30077,
@@ -20819,7 +20865,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "F24",
     "status": "Active",
@@ -21012,48 +21058,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sre-ai",
     "api": "https://yc-oss.github.io/api/batches/f24/sre-ai.json"
-  },
-  {
-    "id": 30118,
-    "name": "Ember Copilot",
-    "slug": "ember-copilot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc4c02e697fb21ae99bab2ac805d924074318bc8.png",
-    "website": "https://www.embercopilot.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help surgery centers automate medical scribing, coding, and more, all directly integrated within their EHR.  ",
-    "one_liner": "The only medical scribe that reduces claim denials by 20%",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1728536375,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Digital Health",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ember-copilot",
-    "api": "https://yc-oss.github.io/api/batches/f24/ember-copilot.json"
   },
   {
     "id": 30124,
