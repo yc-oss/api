@@ -378,6 +378,49 @@
     "api": "https://yc-oss.github.io/api/batches/w23/vocode.json"
   },
   {
+    "id": 28663,
+    "name": "kapa.ai",
+    "slug": "kapa-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/274c05ef6658ba8b2d341c95ee4d90f16444919c.png",
+    "website": "https://www.kapa.ai/",
+    "all_locations": "Remote",
+    "long_description": "kapa.ai makes it easy for technical companies to build AI support and onboarding bots for their users. Teams at +150 leading startups and enterprises incl. OpenAI, Mixpanel, Mapbox, Docker, Next.js and Prisma use kapa to level up their developer experience and reduce support.\r\n\r\nWe enable companies to use their existing technical knowledge sources incl. docs, tutorials, chat logs, and GitHub issues to generate AI bots that answers developer questions automatically. More than 750k developers have access to kapa.ai via website widgets, Slack/Discord bots, API integrations, or via Zendesk.",
+    "one_liner": "Create enterprise-grade AI assistants from your content",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1689019081,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "AI",
+      "Conversational AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kapa-ai",
+    "api": "https://yc-oss.github.io/api/batches/s23/kapa-ai.json"
+  },
+  {
     "id": 28839,
     "name": "Spine AI",
     "slug": "spine-ai",
@@ -1087,17 +1130,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe703a7786db01d44cd03aafbbbf2dd7b0cc99cf.png",
     "website": "https://lightscreen.ai",
     "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Lightscreen is an interactive AI interview experience -- a different approach than other screening tools that unlocks greater insight into a candidate's engineering fundamentals and critical thinking skills.  Engineering teams use Lightscreen to expand the number of candidates they can screen, eliminate bias, decrease the number of steps in their interview process, and decrease time-to-fill on technical roles. ",
-    "one_liner": "Uncheatable, unbiased automated technical interviews",
+    "long_description": "Lightscreen’s AI interviewer works with candidates step-by-step through dynamic coding problems like a pair programmer, observing their problem-solving process. It analyzes a variety of signals in real time to make sure their work is genuine. Lightscreen's problems are also designed to measure more than the ability to solve coding puzzles, offering insights into problem-solving and engineering skills.",
+    "one_liner": "Voice + video AI interviewer",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1729721651,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Recruiting",
       "Talent Acquisition",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -1121,45 +1164,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lightscreen-ai",
     "api": "https://yc-oss.github.io/api/batches/f24/lightscreen-ai.json"
-  },
-  {
-    "id": 30109,
-    "name": "OpenClinic",
-    "slug": "openclinic",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/483388e90b402ff77c4deac6a1c3f3b7bc46cb2a.png",
-    "website": "https://www.tryopenclinic.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "OpenClinic makes it easy for any doctor or hospital to open their own digital clinic. Our AI assistant takes a comprehensive medical history using an empathic voice-based interface, uses sophisticated medical reasoning to narrow down likely diagnoses, and produces evidence-based treatment suggestions for each patient. Licensed doctors then review the text-based summaries of the cases our AI provides, and choose how to manage the patients.",
-    "one_liner": "Digital medical clinics that are 99% AI, 1% doctor.",
-    "team_size": 4,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1731439180,
-    "tags": [
-      "Health Tech",
-      "Telehealth",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/openclinic",
-    "api": "https://yc-oss.github.io/api/batches/f24/openclinic.json"
   }
 ]

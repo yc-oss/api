@@ -10691,7 +10691,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -16925,8 +16925,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
     "website": "https://www.tempolabs.ai/",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Tempo empowers anyone to generate and edit high-quality react code using natural language prompts and a visual code editor. This helps developers stay focused on writing business logic rather than CSS, helps designers ship pixel-perfect UIs without engineering, and helps teams move 10X faster by eliminating the design->code translation process.",
-    "one_liner": "AI design tool like figma which can edit any react codebase",
+    "long_description": "Tempo Labs (YC S23) is building AI agents for frontend design and development. We sell completed designs and pull requests, helping teams scale frontend development without hiring additional staff. Our secret sauce is our code-based design tool (which replaces figma) and our human-in-the-loop review process which guarantees output quality",
+    "one_liner": "AI Agents for Frontend Design and Development",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -19919,28 +19919,28 @@
   },
   {
     "id": 29800,
-    "name": "Zigma - by NextUI",
-    "slug": "zigma-by-nextui",
+    "name": "Frontio - by NextUI",
+    "slug": "frontio-by-nextui",
     "former_names": [
       "NextUI Inc.",
       "NextUI",
       "Zigma (By NextUI)",
       "Zigma - By NextUI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4710258b532336aba66453d3f5d6d2c4a3026d4.png",
-    "website": "https://zigma.io",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d994f85650ec0d33948010d665ddeff6476ab6a.png",
+    "website": "https://frontio.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "We began with an open-source library for React developers that enables them to create beautiful and accessible interfaces (NextUI). We are now building Zigma a complete frontend-as-a-service platform to make building the frontend part of products easier, allowing teams to focus more on their product and less on design systems and frontend complexities (zigma.io).",
-    "one_liner": "We connect your design files to production code in minutes",
+    "long_description": "We began with an open-source library for React developers that enables them to create beautiful and accessible interfaces (NextUI). We are now building Frontio a complete frontend-as-a-service platform to make building the frontend part of products easier, allowing teams to focus more on their product and less on design systems and frontend complexities (frontio.ai).",
+    "one_liner": "Frontio simplifies frontend creation by automating design systems and…",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716301435,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Design Tools"
+      "Design Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19963,8 +19963,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zigma-by-nextui",
-    "api": "https://yc-oss.github.io/api/batches/s24/zigma-by-nextui.json"
+    "url": "https://www.ycombinator.com/companies/frontio-by-nextui",
+    "api": "https://yc-oss.github.io/api/batches/s24/frontio-by-nextui.json"
   },
   {
     "id": 29810,
@@ -20704,7 +20704,7 @@
     "website": "https://circlemind.co",
     "all_locations": "",
     "long_description": "Circlemind is developing the next-generation of memory systems for AI that surpasses current Retrieval Augmented Generation (RAG) methods. Our technology based on Knowledge Graphs and PageRank, allows for efficient, interpretable, and context-aware reasoning and retrieval.",
-    "one_liner": "Intelligent memory & retrieval for AI",
+    "one_liner": "Circlemind is an open-source RAG using knowledge graphs and PageRank.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21053,11 +21053,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1731196685,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "DevOps",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21089,18 +21089,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aa06b2c04632ad68c2151cc3aac66c942a0119b.png",
     "website": "https://www.relvy.ai",
     "all_locations": "",
-    "long_description": "Relvy automates monitoring of production software. Our cost efficient language models uniquely enable us to monitor logs 24x7 to discover and debug issues before customers find out.",
-    "one_liner": "Efficient AI that discovers and debugs production issues",
+    "long_description": "Relvy does 24x7 monitoring of production software logs to both discover and debug issues. We do this using our custom LLMs that are 300x cheaper than frontier models, which means we are the only AI that's usable at the scale of this problem.",
+    "one_liner": "Efficient AI for monitoring production software",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1729032291,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21131,7 +21131,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7da261b740a4ae0fbccdb7818277d3243f8a1c8.png",
     "website": "https://humanlayer.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "HumanLayer is an API and SDK that enables tool-calling AI Agents to contact humans for help, feedback, and approvals.\r\n\r\nFor example, one of our customers uses HumanLayer to have his SDR agent ping him in slack to review/revise agent-drafted emails before they go out to prospects.\r\n\r\nHumanLayer has clients for Python and Typescript, is designed to work with any framework + LLM, and lets you contact humans across slack, sms, email, and other channels.",
+    "long_description": "HumanLayer is an API that enables AI applications to contact humans for help, feedback, and approvals. \r\n\r\n\r\nOur customer Cased uses HumanLayer to ship DevOps agents that manage complex and risky workflows like production deployments and database migrations. We’ve grown to $500 MRR during the batch.\r\n\r\n\r\nWe’re building HumanLayer because we know that the future of AI Applications is not gonna be humans sitting at a chat interface, the future is “outer loop” or “headless” agents, and our partners are building AI apps that invert the typical interaction paradigm. Autonomous agents are calling humans, not the other way around.\r\n\r\n\r\nAI Agents are poised to disrupt the $4.6tn global labor market, but in order to make agents reliable today, and train them to be fully autonomous tomorrow, solutions like HumanLayer are an inevitable part of the AI Agent stack. ",
     "one_liner": "Human-in-the-Loop for AI Agents",
     "team_size": 1,
     "industry": "B2B",
