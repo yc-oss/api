@@ -27034,6 +27034,50 @@
     "api": "https://yc-oss.github.io/api/batches/s21/ahazou.json"
   },
   {
+    "id": 24874,
+    "name": "Payflow",
+    "slug": "payflow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2f3335ebf887d6a8fa009be25267d1702eb2a4c.png",
+    "website": "https://www.payflow.es/",
+    "all_locations": "Madrid, Community of Madrid, Spain",
+    "long_description": "A mobile app. It allows employees to get paid whenever they want, instead of just once a month (or biweekly). We sell it to companies as an employee benefit (B2B SaaS).\r\n",
+    "one_liner": "A mobile app. It allows employees to get paid their salary on-demand.",
+    "team_size": 50,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1624456825,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "HR Tech",
+      "Lending"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "Spain",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": true,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/payflow",
+    "api": "https://yc-oss.github.io/api/batches/s21/payflow.json"
+  },
+  {
     "id": 24882,
     "name": "Pide Directo",
     "slug": "pide-directo",
@@ -28053,7 +28097,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -31801,6 +31845,48 @@
     "api": "https://yc-oss.github.io/api/batches/w22/cinapse.json"
   },
   {
+    "id": 26148,
+    "name": "Strom AI",
+    "slug": "strom-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f12044f094578ca82db1687f85b95eb8ee8e0c37.png",
+    "website": "https://strom.ai",
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "Strom AI is an AI-powered proposals creation platform for businesses, agencies, and freelancers. We help you create professional documents like proposals, quotes, and user requirement documents effortlessly, saving you hours of manual work. With a passion for automation, we’ve built the ultimate tool to simplify collaboration, streamline workflows, and let you focus on what truly matters—delivering exceptional results and winning clients.",
+    "one_liner": "Create professional proposals, quotes, and documents in seconds.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1645800544,
+    "tags": [
+      "Documents",
+      "SaaS",
+      "Collaboration"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Germany",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/strom-ai",
+    "api": "https://yc-oss.github.io/api/batches/w22/strom-ai.json"
+  },
+  {
     "id": 26190,
     "name": "HippoBuild",
     "slug": "hippobuild",
@@ -32630,7 +32716,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Productivity"
@@ -33556,8 +33642,8 @@
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Open Source",
-      "No-code"
+      "Workflow Automation",
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36255,17 +36341,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/255e38f2963e8e6b4a44618432d95a3aeb5fde2c.png",
     "website": "http://www.layuplabs.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Layup streamlines hiring by using an AI-driven interviewer to conduct screening interviews over the phone We help companies connect with more candidates faster, allowing hiring teams to build relationships with the best-fit applicants. For candidates, this means less waiting and a more respectful process.",
-    "one_liner": "AI voice agent for faster, fairer hiring",
+    "long_description": "We help your users interact with your products by offering real-time, adaptive assistance directly within your product",
+    "one_liner": "AI that lets your product guide your users",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1673145828,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Recruiting"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39066,7 +39151,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "APIs underpin the internet but are still painful to work with. They are often untyped, unstandardized, and out-of-sync across multiple sources of truth.\r\n\r\nFern enables businesses to offer “Stripe-level” SDKs (client libraries) and Docs for their REST API. Inspired by internal tooling we saw at AWS and Palantir, we’re building Fern to let every engineering team offer easy-to-use and well-documented APIs.\r\n\r\nFounded in 2022, we’re less than 10 people, building open source, and backed by YCombinator. We work together in our office in the Williamsburg neighborhood of Brooklyn, NY. Our customers include Cohere, ElevenLabs, Pinecone, Webflow, and Merge.dev.",
     "one_liner": "Input OpenAPI. Output SDKs and API documentation.",
-    "team_size": 9,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1674979441,
@@ -41143,8 +41228,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d8be8a05c36ad89e0a6589a8573fae10d75c592.png",
     "website": "https://rankai.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "70% of SMBs skip SEO entirely, because they can't justify paying $4k+ to agencies. Rankai automates every step of SEO process and brings it to SMBs at <1% of the usual cost. Our AI Agent crawls though the website, identifies target keywords, generates SEO-optimized blogs and code fixes, and applies them automatically.\r\n\r\nStarting with SEO, Rankai is building an all-in-one AI Marketing Agency.",
-    "one_liner": "Automated SEO with AI",
+    "long_description": "Marketing agencies are expensive and human-powered. Rankai is building AI agents to replace them. Our first AI agent automates the entire SEO process and makes it 20x more affordable. It automatically crawls though the website, identifies target keywords, generates SEO-optimized blogs and code fixes, and applies them to the website.",
+    "one_liner": "AI Marketing Agency",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -44332,10 +44417,10 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1723238839,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46143,18 +46228,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a50815d6d550fb22a7b50d80c60786ccb0d8576d.png",
     "website": "https://getsymphony.co",
     "all_locations": "New York, NY, USA",
-    "long_description": "Symphony is a conversational AI recruiter that helps companies hire customer-facing roles better & faster, all while giving candidates a more enjoyable and supportive experience in the recruiting process. \r\n\r\nWe help companies in industries like financial services, hospitality, and healthcare quickly fill roles—from customer service representatives to nurses to account managers—in as little as 2 days, with only 20% of the resources.",
-    "one_liner": "Conversational AI recruiter automates hiring for customer-facing roles",
+    "long_description": "Symphony helps enterprises hire and train their customer-facing employees using interactive AI voice simulations of real-world scenarios. Users can create an infinite number of simulations that allow their teams to practice the job - avoiding costly mistakes with real customers. For example, we’re live with 2 of the top 3 auto insurers in NA, helping train 1000s of newly hired claims adjusters. ",
+    "one_liner": "Voice AI sims for next-gen employee training",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1730410520,
     "tags": [
-      "Generative AI",
       "SaaS",
       "B2B",
-      "Recruiting",
-      "Talent Acquisition"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46313,8 +46397,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e399be3a936103a9070aa01ba006948e8bc844c7.png",
     "website": "https://afternoon.co",
     "all_locations": "New York, NY, USA",
-    "long_description": "Afternoon.co empowers ecommerce founders to make better business decisions with real time financial metrics. We pair it with managed bookkeeping and tax services, to reduce administrative burden on founders. \r\n\r\nAccountants struggle serving 4 million+ of ecommerce brands in the US, because of complexity in sales tax, multiple sales channels and inventory management. We automate a large portion of bookkeeping by integrating with their sales and inventory systems, so founders can spend time doing admin work.\r\n",
-    "one_liner": "Accounting software and bookkeeping service for founders",
+    "long_description": "Afternoon.co empowers founders to make better business decisions with real time financial metrics. We pair managed bookkeeping and tax services, to reduce administrative burden on founders. \r\n\r\nAccountants struggle serving 4 million+ of ecommerce brands & startups in the US, because of complexity in sales tax, multiple sales channels and inventory management. We automate a large portion of bookkeeping by integrating with their sales and inventory systems, so founders can spend time doing admin work.\r\n",
+    "one_liner": "Bookkeeping and tax platform for ecommerce & startup founders",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -46352,17 +46436,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe703a7786db01d44cd03aafbbbf2dd7b0cc99cf.png",
     "website": "https://lightscreen.ai",
     "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Lightscreen’s AI interviewer works with candidates step-by-step through dynamic coding problems like a pair programmer, observing their problem-solving process. It analyzes a variety of signals in real time to make sure their work is genuine. Lightscreen's problems are also designed to measure more than the ability to solve coding puzzles, offering insights into problem-solving and engineering skills.",
+    "long_description": "Lightscreen’s voice + video AI interviewer enables companies to identify and invest in genuinely skilled candidates. It's already being used by high-growth startups to screen technical candidates. \r\n\r\nWe provide companies with a voicebot that can run a full-length technical interview, does smart interruptions, and multi-modal cheating detection. The AI provides the company rubric-based, rich candidate evaluation in minutes and can be fully customized to ask questions and evaluate based on the company's needs. ",
     "one_liner": "Voice + video AI interviewer",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1729721651,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Recruiting",
       "Talent Acquisition",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -46380,9 +46464,9 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lightscreen-ai",
     "api": "https://yc-oss.github.io/api/batches/f24/lightscreen-ai.json"
@@ -46402,11 +46486,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1729125196,
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
       "Developer Tools",
       "Generative AI",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46437,18 +46521,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70be263b066d6de8782aafcee6461d75b56a008f.png",
     "website": "https://www.ctgt.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CTGT is moving AI beyond deep learning, towards intelligence that is foundationally designed to be efficient and trustworthy. Our enterprise-grade platform prevents AI hallucinations and errors in real-time while maximizing ROI. Based on seminal research that opens the \"black box\" of AI, we enable Fortune 500 companies to deploy AI with confidence through automated risk prevention, comprehensive audit trails, and institutional-grade security controls. With AI adoption surging to 72%, we help organizations avoid costly mistakes and reputation damage while achieving 99.99% reliability and 10x faster deployment times. Trusted by industry leaders and backed by prominent investors like Mark Cuban, CTGT transforms AI from a liability into a competitive advantage.",
+    "long_description": "CTGT is building the next evolution of AI, towards intelligence that is foundationally designed to be efficient and trustworthy. Our enterprise-grade platform prevents AI hallucinations and errors in real-time while maximizing ROI. Based on seminal research that opens the \"black box\" of AI, we enable Fortune 500 companies to deploy AI with confidence through automated risk prevention, comprehensive audit trails, and institutional-grade security controls. With AI adoption surging to 72%, we help organizations avoid costly mistakes and reputation damage while achieving 99.99% reliability and 10x faster deployment times. Trusted by industry leaders and backed by prominent investors, CTGT transforms AI from a liability into a competitive advantage.",
     "one_liner": "Entirely New AI Stack: Efficient and Safe Alternative to LLM Ecosystem",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1730040950,
     "tags": [
+      "Artificial Intelligence",
       "Deep Learning",
       "SaaS",
       "B2B",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46661,11 +46745,11 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1729014786,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Security",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46696,21 +46780,21 @@
     "name": "Origami Agents",
     "slug": "origami-agents",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f16d5c33c6e89730484ed654b37241bd9d63bbcb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/044cfd68ccbe05f3075927ce91603fe06ca17b98.png",
     "website": "https://www.origami-agents.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Every Origami Agent works like a dedicated human sales rep, analyzing social comments, press releases, and product pages to find your perfect leads. \r\n\r\nNow, use millions of Origami Agents working 24/7 to bring you the top 1% of buyers for your solution every day.\r\n‎ \r\nPreviously, Finn built custom outbound solutions for over 20 startups, while Kenson was the CTO at an enterprise sales startup. We found ourselves building this tool for our customers over and over again, and that it worked 10x better than all other outbound strategies.\r\n‎ \r\nThere’s enough information on the internet to know exactly which prospects are primed to buy, and most sales teams still haven’t realized this yet.",
-    "one_liner": "Agents that find companies actively looking for your solution",
+    "long_description": "Every Origami Agent works like a dedicated human sales rep, analyzing websites, press releases, and product pages to bring you the top 1% of your customers every day.\r\n\r\nUse millions of Origami Agents to make sense of the other 99% of data that's not in structured databases.\r\n‎ \r\nPreviously, Finn built custom outbound solutions for over 20 startups, while Kenson was the CTO at an enterprise sales startup. We found ourselves building this tool for our customers over and over again, and that it worked 10x better than all other outbound strategies.\r\n‎ \r\nThere’s enough information on the internet to know exactly who your perfect customers are, and most sales teams still haven’t realized this yet.",
+    "one_liner": "Agents that find your perfect customers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1731183180,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Sales",
-      "Sales Enablement",
-      "AI"
+      "Sales Enablement"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47047,18 +47131,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50c65b09c63d4db06dcd89cb26fd6622b6c3934c.png",
     "website": "https://www.canvas.inc/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Canvas empowers Customer Success teams to work 10x faster with automated insights, health monitoring, and engagement tools. From tracking product usage and predicting churn to identifying upsell opportunities, generating custom dashboards and reports, scheduling check-ins, and preparing for renewals, Canvas enables CSMs to drive client retention and growth—all through a seamless, chat-based interface.",
+    "long_description": "Canvas is the AI-copilot for enterprise customer success teams. By automatically surfacing and addressing the most critical risks and growth opportunities, we transform CSMs from reactive support managers into proactive growth drivers.",
     "one_liner": "The AI Copilot for Customer Success",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1731558538,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Customer Success",
       "Analytics",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

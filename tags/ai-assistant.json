@@ -1340,8 +1340,8 @@
     "website": "http://www.helloaviary.ai",
     "all_locations": "Chicago, IL, USA",
     "long_description": "AviaryAI is the industry's first outbound AI service team for banks, credit unions, and insurance companies. In a landscape where only 18% of financial service providers make proactive outbound calls and rely heavily on emails, AviaryAI offers a groundbreaking solution. Powered by a private LLM, our suite of products helps institutions leverage Generative AI while adhering to stringent regulatory and compliance standards.",
-    "one_liner": "Outbound voice agents for the financial services industry",
-    "team_size": 5,
+    "one_liner": "Outbound AI voice agents for the financial services industry",
+    "team_size": 6,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1654737893,
@@ -1354,7 +1354,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -4211,14 +4211,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45765460c3699e337b466745ffabfc89fbedc807.png",
     "website": "https://www.fixa.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fixa is the Sentry for AI voice agents. Companies like OfOne use us to run simulated tests, analyze production calls, and fix bugs in their voice agents. \r\n\r\nWe were both voice agent developers at PlayHT – and, in order to find bugs in our agents, we would spend countless hours manually calling them and listening to conversation recordings. So, we’ve decided to build a platform that does this automatically. \r\n\r\nFixa shows developers exactly where and how their agents mess up – enabling them to pinpoint root causes and fix them faster. ",
+    "long_description": "Fixa is the Sentry for AI voice agents. Companies like 11x and OfOne use us to run simulated tests, analyze production calls, and fix bugs in their voice agents. \r\n\r\nWe were both voice agent developers at PlayHT – and, in order to find bugs in our agents, we would spend countless hours manually calling them and listening to conversation recordings. So, we’ve decided to build a platform that does this automatically. \r\n\r\nFixa shows developers exactly where and how their agents mess up – enabling them to pinpoint root causes and fix them faster. ",
     "one_liner": "sentry for AI voice agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1731468857,
     "tags": [
-      "AI",
+      "Artificial Intelligence",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4369,6 +4369,49 @@
     "api": "https://yc-oss.github.io/api/batches/f24/karmen.json"
   },
   {
+    "id": 30063,
+    "name": "Codebuff",
+    "slug": "codebuff",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83dd749cad6b076cbdf0353e077cb0a959d224a4.png",
+    "website": "https://codebuff.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Chat with Codebuff to edit your codebase. It's a coding agent that can iterate and run terminal commands, just like a junior engineer -- but faster!\r\n\r\nCodebuff is going up-market from Cursor, with a $99/mo price point. It's the most powerful coding agent on the market that also happens to be the easiest to use.\r\n\r\nNote: Codebuff was renamed recently from Manicode.\r\n\r\nWhy it's cool:\r\n- **It chooses files to read automatically on each message** — unlike Cursor’s Composer feature. This saves you time and makes Codebuff respond more comprehensively.\r\n- **It takes 0 clicks** — type your instructions and Codebuff will edit your files directly. It's simple and fast. Theoretically, you can do all your development by just chatting with it!\r\n- **It has full access to your terminal** — Codebuff can run terminal commands to install packages, run tests, check for type errors, etc. Codebuff is an engineer working for you.\r\n\r\n Get it now:\r\n```\r\n> npm install -g codebuff\r\n```\r\nRun `codebuff` from your project directory. It will read and write to files in your project to produce the code you want.",
+    "one_liner": "The CLI tool that writes code for you",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728685475,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Enterprise Software",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/codebuff",
+    "api": "https://yc-oss.github.io/api/batches/f24/codebuff.json"
+  },
+  {
     "id": 30089,
     "name": "Fresco",
     "slug": "fresco",
@@ -4510,9 +4553,9 @@
     "launched_at": 1730747199,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Health Tech",
       "Healthcare",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

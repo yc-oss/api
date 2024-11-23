@@ -2139,7 +2139,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S19",
     "status": "Active",
@@ -7664,18 +7664,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ad7f92f5e1f4e1f43d9bbc07955a731cac3a1db.png",
     "website": "https://somalab.ai",
     "all_locations": "",
-    "long_description": "Soma Lab creates AI-simulated conversations for healthcare training. Students and healthcare providers use us to build skills and get evaluated.",
-    "one_liner": "Simulated conversations to scale healthcare training and evaluation.",
+    "long_description": "Soma Lab creates simulated conversations with AI patients to scale healthcare training. Students and providers practice with AI patients to build skills and get evaluated.",
+    "one_liner": "Simulated conversations with AI patients to scale healthcare training.",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1719547782,
     "tags": [
       "AI-Enhanced Learning",
-      "Artificial Intelligence",
       "Education",
       "Healthcare",
-      "Edtech"
+      "Edtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7746,7 +7746,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144a13ceedd1b9645b8478fb7512b3118141ca0b.png",
     "website": "https://www.astrix.health",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York, NY, USA",
     "long_description": "Astrix builds AI purchasing agents for healthcare providers. Astrix analyzes your inventory, patient flow, and spending to ensure you purchase the right items at the right time and the best price.",
     "one_liner": "Astrix builds AI purchasing agents for healthcare providers.",
     "team_size": 2,
@@ -7771,7 +7771,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -7830,7 +7832,9 @@
     "id": 30109,
     "name": "OpenClinic",
     "slug": "openclinic",
-    "former_names": [],
+    "former_names": [
+      "Dojo"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/483388e90b402ff77c4deac6a1c3f3b7bc46cb2a.png",
     "website": "https://www.tryopenclinic.com",
     "all_locations": "San Francisco, CA, USA",
@@ -7924,9 +7928,9 @@
     "launched_at": 1730747199,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Health Tech",
       "Healthcare",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

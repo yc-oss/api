@@ -6252,7 +6252,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Productivity"
@@ -7008,8 +7008,8 @@
     "website": "http://www.helloaviary.ai",
     "all_locations": "Chicago, IL, USA",
     "long_description": "AviaryAI is the industry's first outbound AI service team for banks, credit unions, and insurance companies. In a landscape where only 18% of financial service providers make proactive outbound calls and rely heavily on emails, AviaryAI offers a groundbreaking solution. Powered by a private LLM, our suite of products helps institutions leverage Generative AI while adhering to stringent regulatory and compliance standards.",
-    "one_liner": "Outbound voice agents for the financial services industry",
-    "team_size": 5,
+    "one_liner": "Outbound AI voice agents for the financial services industry",
+    "team_size": 6,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1654737893,
@@ -7022,7 +7022,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -7993,6 +7993,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/linum",
     "api": "https://yc-oss.github.io/api/batches/w23/linum.json"
+  },
+  {
+    "id": 27687,
+    "name": "Layup",
+    "slug": "layup",
+    "former_names": [
+      "Regular"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/255e38f2963e8e6b4a44618432d95a3aeb5fde2c.png",
+    "website": "http://www.layuplabs.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "We help your users interact with your products by offering real-time, adaptive assistance directly within your product",
+    "one_liner": "AI that lets your product guide your users",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1673145828,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/layup",
+    "api": "https://yc-oss.github.io/api/batches/w23/layup.json"
   },
   {
     "id": 27690,
@@ -11687,49 +11731,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/slicker.json"
   },
   {
-    "id": 28982,
-    "name": "Flint",
-    "slug": "flint-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ae7ccbcf0f08279561c5897abc3d64c3bf525b1.png",
-    "website": "http://flintk12.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Flint is an AI platform for K-12. With Flint, schools can use AI to provide personalized learning for every student.",
-    "one_liner": "AI tutoring for schools",
-    "team_size": 8,
-    "industry": "Education",
-    "subindustry": "Education",
-    "launched_at": 1686701426,
-    "tags": [
-      "Education",
-      "Generative AI",
-      "Edtech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "Education"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flint-2",
-    "api": "https://yc-oss.github.io/api/batches/s23/flint-2.json"
-  },
-  {
     "id": 28991,
     "name": "Inlet",
     "slug": "inlet-2",
@@ -12887,7 +12888,7 @@
     "website": "https://www.tempolabs.ai/",
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Tempo Labs (YC S23) is building AI agents for frontend design and development. We sell completed designs and pull requests, helping teams scale frontend development without hiring additional staff. Our secret sauce is our code-based design tool (which replaces figma) and our human-in-the-loop review process which guarantees output quality",
-    "one_liner": "AI Agents for Frontend Design and Development",
+    "one_liner": "Code-first Alternative to Figma",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -14040,49 +14041,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/glimmer.json"
   },
   {
-    "id": 29324,
-    "name": "PromptArmor",
-    "slug": "promptarmor",
-    "former_names": [
-      "Board Security Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f85e50382b3869e84b292235c05317d5db4ab8cd.png",
-    "website": "https://promptarmor.com/",
-    "all_locations": "",
-    "long_description": "Ensuring every AI Agent and Application is secure from adversarial attacks, and compliant with the latest legislation. \r\n\r\nReach out for a security audit or pentest!",
-    "one_liner": "Security and Compliance for LLM Applications",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1702083397,
-    "tags": [
-      "Generative AI",
-      "Security",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/promptarmor",
-    "api": "https://yc-oss.github.io/api/batches/w24/promptarmor.json"
-  },
-  {
     "id": 29325,
     "name": "Keywords AI",
     "slug": "keywords-ai",
@@ -14736,48 +14694,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ellipsis",
     "api": "https://yc-oss.github.io/api/batches/w24/ellipsis.json"
-  },
-  {
-    "id": 29372,
-    "name": "PySpur",
-    "slug": "pyspur",
-    "former_names": [
-      "Sevn.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d78b1369b828cc303a6a77f59f19df0f4b21c51c.png",
-    "website": "http://pyspur.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "LLM Reasoning Engine",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1703955205,
-    "tags": [
-      "Generative AI",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pyspur",
-    "api": "https://yc-oss.github.io/api/batches/w24/pyspur.json"
   },
   {
     "id": 29377,
@@ -16306,6 +16222,48 @@
     "api": "https://yc-oss.github.io/api/batches/s24/superunit.json"
   },
   {
+    "id": 29577,
+    "name": "Variant",
+    "slug": "variant",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cdc6224947dca521498180f254e7e668f62f04b.png",
+    "website": "https://variant.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Variant is building the state-of-the-art model for software design. Our first milestone, icon generation, already surpasses existing approaches. The company is founded by Ben South Lee, former VP of Product Design at unicorn companies Postmates ($5B exit) and Avara ($2.5B market cap), and Daniel Bulhosa Solórzano, Staff ML engineer at Square and Cruise.",
+    "one_liner": "Building the state-of-the-art model for software design",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1732310413,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Design Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/variant",
+    "api": "https://yc-oss.github.io/api/batches/f24/variant.json"
+  },
+  {
     "id": 29579,
     "name": "Ply Health",
     "slug": "ply-health",
@@ -17453,6 +17411,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/merse-2",
     "api": "https://yc-oss.github.io/api/batches/s24/merse-2.json"
+  },
+  {
+    "id": 29697,
+    "name": "stormy.ai",
+    "slug": "stormy-ai",
+    "former_names": [
+      "1nterface.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f1ddb5f6ce9243b0a70f403432e67cf94cfed14.png",
+    "website": "https://stormy.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Influencer marketing is a pain to set up. Founders spend hours scrolling the feed, DMing content creators, negotiating deals and paying them.\r\n\r\nWe hated that process. So we fully automated it with AI.\r\n\r\nNow, you can focus on building and let Stormy handle the distribution!",
+    "one_liner": "Influencer marketing on autopilot",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1723238839,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stormy-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/stormy-ai.json"
   },
   {
     "id": 29703,
@@ -19846,6 +19850,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/merlin-ai.json"
   },
   {
+    "id": 29978,
+    "name": "Soma Lab",
+    "slug": "soma-lab",
+    "former_names": [
+      "simhealth.ai",
+      "Luna Sim (prev. simhealth.ai)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ad7f92f5e1f4e1f43d9bbc07955a731cac3a1db.png",
+    "website": "https://somalab.ai",
+    "all_locations": "",
+    "long_description": "Soma Lab creates simulated conversations with AI patients to scale healthcare training. Students and providers practice with AI patients to build skills and get evaluated.",
+    "one_liner": "Simulated conversations with AI patients to scale healthcare training.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1719547782,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Education",
+      "Healthcare",
+      "Edtech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/soma-lab",
+    "api": "https://yc-oss.github.io/api/batches/s24/soma-lab.json"
+  },
+  {
     "id": 29980,
     "name": "Midship",
     "slug": "midship",
@@ -20016,46 +20064,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/dreamrp.json"
   },
   {
-    "id": 30014,
-    "name": "fixa",
-    "slug": "fixa",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45765460c3699e337b466745ffabfc89fbedc807.png",
-    "website": "https://www.fixa.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fixa is the Sentry for AI voice agents. Companies like OfOne use us to run simulated tests, analyze production calls, and fix bugs in their voice agents. \r\n\r\nWe were both voice agent developers at PlayHT – and, in order to find bugs in our agents, we would spend countless hours manually calling them and listening to conversation recordings. So, we’ve decided to build a platform that does this automatically. \r\n\r\nFixa shows developers exactly where and how their agents mess up – enabling them to pinpoint root causes and fix them faster. ",
-    "one_liner": "sentry for AI voice agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1731468857,
-    "tags": [
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fixa",
-    "api": "https://yc-oss.github.io/api/batches/f24/fixa.json"
-  },
-  {
     "id": 30017,
     "name": "Riveter AI",
     "slug": "riveter-ai",
@@ -20149,6 +20157,88 @@
     "api": "https://yc-oss.github.io/api/batches/f24/galini.json"
   },
   {
+    "id": 30022,
+    "name": "Symphony",
+    "slug": "symphony",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a50815d6d550fb22a7b50d80c60786ccb0d8576d.png",
+    "website": "https://getsymphony.co",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Symphony helps enterprises hire and train their customer-facing employees using interactive AI voice simulations of real-world scenarios. Users can create an infinite number of simulations that allow their teams to practice the job - avoiding costly mistakes with real customers. For example, we’re live with 2 of the top 3 auto insurers in NA, helping train 1000s of newly hired claims adjusters. ",
+    "one_liner": "Voice AI sims for next-gen employee training",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1730410520,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "HR Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/symphony",
+    "api": "https://yc-oss.github.io/api/batches/f24/symphony.json"
+  },
+  {
+    "id": 30023,
+    "name": "PearAI",
+    "slug": "pearai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc66990c87e4d8f300d62eedff5460f882406da.png",
+    "website": "https://trypear.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The Open Source and Extendable AI Code Editor: https://trypear.ai.\r\n",
+    "one_liner": "The Open Source and Extendable AI Code Editor",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1727484339,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Culture",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pearai",
+    "api": "https://yc-oss.github.io/api/batches/f24/pearai.json"
+  },
+  {
     "id": 30028,
     "name": "Gait",
     "slug": "gait",
@@ -20236,7 +20326,7 @@
     "website": "https://www.shopencore.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Encore is your go-to online shopping assistant for finding secondhand treasures. Our conversational search engine makes it easy and fun to browse platforms like Depop, eBay, Grailed, and Poshmark—all in one place. Whether you’re after styling tips, honest reviews, trend ideas, or tracking down that cool piece you saw in a movie or on social media, we’ve got you covered. Shopping should feel like having a personal expert by your side, helping you discover things you’ll truly love. With Encore, browsing becomes easy, fun, and actually rewarding.",
-    "one_liner": "Your personal online shopping assistant, starting with secondhand",
+    "one_liner": "Search and discovery engine for secondhand products ",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -20308,49 +20398,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/healthspark",
     "api": "https://yc-oss.github.io/api/batches/f24/healthspark.json"
-  },
-  {
-    "id": 30038,
-    "name": "Lightscreen AI",
-    "slug": "lightscreen-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe703a7786db01d44cd03aafbbbf2dd7b0cc99cf.png",
-    "website": "https://lightscreen.ai",
-    "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Lightscreen’s AI interviewer works with candidates step-by-step through dynamic coding problems like a pair programmer, observing their problem-solving process. It analyzes a variety of signals in real time to make sure their work is genuine. Lightscreen's problems are also designed to measure more than the ability to solve coding puzzles, offering insights into problem-solving and engineering skills.",
-    "one_liner": "Voice + video AI interviewer",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1729721651,
-    "tags": [
-      "SaaS",
-      "Recruiting",
-      "Talent Acquisition",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": true,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lightscreen-ai",
-    "api": "https://yc-oss.github.io/api/batches/f24/lightscreen-ai.json"
   },
   {
     "id": 30041,
@@ -20485,6 +20532,50 @@
     "api": "https://yc-oss.github.io/api/batches/f24/regatta-storage.json"
   },
   {
+    "id": 30046,
+    "name": "Vocera",
+    "slug": "vocera",
+    "former_names": [
+      "Lex"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d27c1f82fbc4e1e5864fe20574139df89773eab.png",
+    "website": "https://www.vocera.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Are you building AI voice agents like receptionists, customer support, or sales reps? Do you find yourself manually testing your bot by calling it? We faced similar challenges, especially being in a regulated industry. That's why we developed Vocera - a solution that automates the testing process for your voice agents. With Vocera, you can prove your reliability before going live, test every update seamlessly, and scale your operations efficiently.\r\n\r\nReplicating a real world conversation is hard. Our AI simulates these scenarios using workflows, personas and past conversations.\r\n\r\nWe are already talking to AI for ordering food, getting appointments and even interviews. The market is aptly getting flooded with AI voice agents built by thousands of companies. We make them dependable.",
+    "one_liner": "Testing & Observability for AI voice agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728616885,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vocera",
+    "api": "https://yc-oss.github.io/api/batches/f24/vocera.json"
+  },
+  {
     "id": 30047,
     "name": "Lune AI",
     "slug": "lune-ai",
@@ -20531,7 +20622,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144a13ceedd1b9645b8478fb7512b3118141ca0b.png",
     "website": "https://www.astrix.health",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York, NY, USA",
     "long_description": "Astrix builds AI purchasing agents for healthcare providers. Astrix analyzes your inventory, patient flow, and spending to ensure you purchase the right items at the right time and the best price.",
     "one_liner": "Astrix builds AI purchasing agents for healthcare providers.",
     "team_size": 2,
@@ -20556,7 +20647,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -20567,65 +20660,24 @@
     "api": "https://yc-oss.github.io/api/batches/f24/astrix-health.json"
   },
   {
-    "id": 30052,
-    "name": "ISSEN",
-    "slug": "issen",
+    "id": 30050,
+    "name": "Circlemind",
+    "slug": "circlemind",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7cd641f60601d1542af5d677938a1afb3b727537.png",
-    "website": "https://issen.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "ISSEN is an AI conversational language app that helps you become fluent. Your on-demand voice tutor is personal to you, adapting lessons and chats to your particular interests, learning style, and goals. Our mission is to transform language learning by offering a level of connection, effectiveness and fun that, until now, only human teachers could provide.",
-    "one_liner": "AI realtime voice companion for language learning",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1729707215,
-    "tags": [
-      "Education",
-      "Generative AI",
-      "Consumer",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/issen",
-    "api": "https://yc-oss.github.io/api/batches/f24/issen.json"
-  },
-  {
-    "id": 30054,
-    "name": "CTGT",
-    "slug": "ctgt",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70be263b066d6de8782aafcee6461d75b56a008f.png",
-    "website": "https://www.ctgt.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "CTGT is moving AI beyond deep learning, towards intelligence that is foundationally designed to be efficient and trustworthy. Our enterprise-grade platform prevents AI hallucinations and errors in real-time while maximizing ROI. Based on seminal research that opens the \"black box\" of AI, we enable Fortune 500 companies to deploy AI with confidence through automated risk prevention, comprehensive audit trails, and institutional-grade security controls. With AI adoption surging to 72%, we help organizations avoid costly mistakes and reputation damage while achieving 99.99% reliability and 10x faster deployment times. Trusted by industry leaders and backed by prominent investors like Mark Cuban, CTGT transforms AI from a liability into a competitive advantage.",
-    "one_liner": "Entirely New AI Stack: Efficient and Safe Alternative to LLM Ecosystem",
-    "team_size": 2,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6841cc02f948f6063ec7e9690d52d98b446b92c.png",
+    "website": "https://circlemind.co",
+    "all_locations": "",
+    "long_description": "Circlemind is developing the next-generation of memory systems for AI that surpasses current Retrieval Augmented Generation (RAG) methods. Our technology based on Knowledge Graphs and PageRank, allows for efficient, interpretable, and context-aware reasoning and retrieval.",
+    "one_liner": "Circlemind is an open-source RAG using knowledge graphs and PageRank.",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1730040950,
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1729125196,
     "tags": [
       "Deep Learning",
+      "Developer Tools",
+      "Generative AI",
       "SaaS",
-      "B2B",
-      "Enterprise",
       "AI"
     ],
     "tags_highlighted": [],
@@ -20636,19 +20688,18 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ctgt",
-    "api": "https://yc-oss.github.io/api/batches/f24/ctgt.json"
+    "url": "https://www.ycombinator.com/companies/circlemind",
+    "api": "https://yc-oss.github.io/api/batches/f24/circlemind.json"
   },
   {
     "id": 30056,
@@ -20776,6 +20827,49 @@
     "api": "https://yc-oss.github.io/api/batches/f24/sphinx.json"
   },
   {
+    "id": 30063,
+    "name": "Codebuff",
+    "slug": "codebuff",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83dd749cad6b076cbdf0353e077cb0a959d224a4.png",
+    "website": "https://codebuff.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Chat with Codebuff to edit your codebase. It's a coding agent that can iterate and run terminal commands, just like a junior engineer -- but faster!\r\n\r\nCodebuff is going up-market from Cursor, with a $99/mo price point. It's the most powerful coding agent on the market that also happens to be the easiest to use.\r\n\r\nNote: Codebuff was renamed recently from Manicode.\r\n\r\nWhy it's cool:\r\n- **It chooses files to read automatically on each message** — unlike Cursor’s Composer feature. This saves you time and makes Codebuff respond more comprehensively.\r\n- **It takes 0 clicks** — type your instructions and Codebuff will edit your files directly. It's simple and fast. Theoretically, you can do all your development by just chatting with it!\r\n- **It has full access to your terminal** — Codebuff can run terminal commands to install packages, run tests, check for type errors, etc. Codebuff is an engineer working for you.\r\n\r\n Get it now:\r\n```\r\n> npm install -g codebuff\r\n```\r\nRun `codebuff` from your project directory. It will read and write to files in your project to produce the code you want.",
+    "one_liner": "The CLI tool that writes code for you",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728685475,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Enterprise Software",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/codebuff",
+    "api": "https://yc-oss.github.io/api/batches/f24/codebuff.json"
+  },
+  {
     "id": 30064,
     "name": "HYBRD",
     "slug": "hybrd",
@@ -20859,90 +20953,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/cekura.json"
   },
   {
-    "id": 30073,
-    "name": "Pearson Labs",
-    "slug": "pearson-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e33a2875f652bdd69936c606147614f5fff8283.png",
-    "website": "http://www.pearsonlabs.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pearson builds AI agents to help law firms and companies execute corporate transactions. We help rainmakers at law firms run gigantic books of businesses with AI. Companies pay for the software to reduce billable hours. Within a month, we have our first design partner, Orrick, a $1b+ revenue law firm, who’s working with us closely to build an AI data room for their 5000 clients.",
-    "one_liner": "AI agents used by law firms and companies for corporate transactions",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1731901982,
-    "tags": [
-      "Generative AI",
-      "Legal",
-      "LegalTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pearson-labs",
-    "api": "https://yc-oss.github.io/api/batches/f24/pearson-labs.json"
-  },
-  {
-    "id": 30077,
-    "name": "AutoComputer",
-    "slug": "autocomputer",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a60f5ba14460a149ec6587f93611a37f06bcb11.png",
-    "website": "https://www.autocomputer.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AutoComputer is a desktop robotic process automation system.  Given just a text prompt, our AI automates tedious tasks such as financial data entry by performing all the clicks and keystrokes for you.",
-    "one_liner": "Desktop RPA with AI computer use",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Consumer",
-    "launched_at": 1731450144,
-    "tags": [
-      "Deep Learning",
-      "B2B",
-      "Enterprise",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/autocomputer",
-    "api": "https://yc-oss.github.io/api/batches/f24/autocomputer.json"
-  },
-  {
     "id": 30078,
     "name": "Abundant",
     "slug": "abundant",
@@ -20987,6 +20997,53 @@
     "api": "https://yc-oss.github.io/api/batches/f24/abundant.json"
   },
   {
+    "id": 30087,
+    "name": "Gecko Security",
+    "slug": "gecko-security",
+    "former_names": [
+      "Gecko Security Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cb5e156a2d833200fe0f915ffe682c440528c6a.png",
+    "website": "https://gecko.security",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We built Gecko for teams that want to build secure code quickly without wasting time on security tools that don’t deliver results, or relying on one-time human pentests that quickly become outdated. Gecko uses AI to understand how your application should work, simulates relevant attacks to find critical vulnerabilities, and then verifies these vulnerabilities by exploiting them. It also helps you understand the risk of these vulnerabilities and applies a working fix to keep your code secure.",
+    "one_liner": "AI Security Engineer to Find and Fix Vulnerabilities ",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1729014786,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Security",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gecko-security",
+    "api": "https://yc-oss.github.io/api/batches/f24/gecko-security.json"
+  },
+  {
     "id": 30088,
     "name": "PermitPortal",
     "slug": "permitportal",
@@ -21027,24 +21084,23 @@
     "api": "https://yc-oss.github.io/api/batches/f24/permitportal.json"
   },
   {
-    "id": 30090,
-    "name": "Origami Agents",
-    "slug": "origami-agents",
+    "id": 30096,
+    "name": "Scrapybara",
+    "slug": "scrapybara",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f16d5c33c6e89730484ed654b37241bd9d63bbcb.png",
-    "website": "https://www.origami-agents.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9ad486292e2ee10cb4cccf0d676cfb2e2ac571f.png",
+    "website": "https://scrapybara.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Every Origami Agent works like a dedicated human sales rep, analyzing social comments, press releases, and product pages to find your perfect leads. \r\n\r\nNow, use millions of Origami Agents working 24/7 to bring you the top 1% of buyers for your solution every day.\r\n‎ \r\nPreviously, Finn built custom outbound solutions for over 20 startups, while Kenson was the CTO at an enterprise sales startup. We found ourselves building this tool for our customers over and over again, and that it worked 10x better than all other outbound strategies.\r\n‎ \r\nThere’s enough information on the internet to know exactly which prospects are primed to buy, and most sales teams still haven’t realized this yet.",
-    "one_liner": "Agents that find companies actively looking for your solution",
+    "long_description": "Scrapybara provides virtual computer environments for AI agents. We deploy, scale, and maintain remote desktop instances that agents like Claude Computer Use can interact with via an API.",
+    "one_liner": "Virtual Desktops for AI Agents",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1731183180,
+    "subindustry": "B2B",
+    "launched_at": 1730261485,
     "tags": [
-      "SaaS",
-      "B2B",
-      "Sales",
-      "Sales Enablement",
+      "Developer Tools",
+      "API",
+      "Infrastructure",
       "AI"
     ],
     "tags_highlighted": [],
@@ -21055,7 +21111,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Sales"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -21066,8 +21122,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/origami-agents",
-    "api": "https://yc-oss.github.io/api/batches/f24/origami-agents.json"
+    "url": "https://www.ycombinator.com/companies/scrapybara",
+    "api": "https://yc-oss.github.io/api/batches/f24/scrapybara.json"
   },
   {
     "id": 30099,
@@ -21118,8 +21174,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/018de82a1215c62a9cb659b6b4986e1b651dc62b.png",
     "website": "https://diffusion.studio/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Diffusion Studio is an AI-powered video editing application that automates repetitive editing tasks right in the browser. Diffusion Studio takes advantage of recently released Webcodecs and WebGPU to encode, process, and decode videos with hardware acceleration.",
-    "one_liner": "Figma for Video Editing using Webcodecs Browser Acceleration",
+    "long_description": "Diffusion Studio is Canva for video editing, we allow anyone to import video footage they have taken and our AI will generate a publish-ready video. We have achieved this only now because we replace heavyweight desktop apps with the newly released WebCodecs and WebGPU web APIs, that enable hardware-accelerated encoding in the Browser.",
+    "one_liner": "Next Generation Canva for AI Video Editing in the Browser",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "B2B",
@@ -21284,25 +21340,27 @@
     "api": "https://yc-oss.github.io/api/batches/f24/relvy-ai.json"
   },
   {
-    "id": 30124,
-    "name": "Helpcare AI",
-    "slug": "helpcare-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/096e00fed8decd142a3133ebfdbffa1618ea7fb5.png",
-    "website": "https://helpcare.ai",
+    "id": 30119,
+    "name": "Canvas",
+    "slug": "canvas",
+    "former_names": [
+      "Iris"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50c65b09c63d4db06dcd89cb26fd6622b6c3934c.png",
+    "website": "https://www.canvas.inc/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Helpcare builds AI Agents to take on coordination burden from staff and reduces time of care by autonomously identifying and outreaching patients (through phone, text, email, & mail) to schedule visits, book screenings, complete pre-post, and onboard. These agents require no integration, can navigate all tools, speak 29 languages, come with 50+ outreach scripts and have a remarkable 80% conversation-to-booking closing rate.",
-    "one_liner": "Get more patients in the door with AI Agents for Healthcare Admin",
-    "team_size": null,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1730747199,
+    "long_description": "Canvas is the AI-copilot for enterprise customer success teams. By automatically surfacing and addressing the most critical risks and growth opportunities, we transform CSMs from reactive support managers into proactive growth drivers.",
+    "one_liner": "The AI Copilot for Customer Success",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1731558538,
     "tags": [
-      "AIOps",
-      "Health Tech",
-      "Healthcare",
-      "AI",
-      "AI Assistant"
+      "SaaS",
+      "Customer Success",
+      "Analytics",
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21311,22 +21369,20 @@
     "batch": "F24",
     "status": "Active",
     "industries": [
-      "Healthcare",
-      "Healthcare IT"
+      "B2B",
+      "Analytics"
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/helpcare-ai",
-    "api": "https://yc-oss.github.io/api/batches/f24/helpcare-ai.json"
+    "url": "https://www.ycombinator.com/companies/canvas",
+    "api": "https://yc-oss.github.io/api/batches/f24/canvas.json"
   },
   {
     "id": 30125,
