@@ -94,7 +94,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0913d1e9d9580abc891cabd8dcf7bc5c217d32e.png",
     "website": "https://centralhq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "[Central](http://centralhq.com/) is a business back-office platform designed for founders. We handle payroll, benefits and everything needed to run a compliant startup. Unlike traditional HR products that make you do extra work, Central acts as your Head of HR and just takes cares of all government filings. 150+ companies run on Central. Get our [$10K+ high value YC deal](https://bookface.ycombinator.com/deals/2463) and read about [our fever dream Bookface launch](https://bookface.ycombinator.com/posts/81742)",
+    "long_description": "[Central](http://centralhq.com/) is a business back-office platform designed for founders. We handle payroll, benefits and everything needed to run a compliant startup. Unlike traditional HR products that make you do extra work, Central acts as your Head of HR and just takes cares of all government filings. 150+ YC companies run on Central. Get our [$10K+ high value YC deal](https://bookface.ycombinator.com/deals/2463) and read about [our fever dream Bookface launch](https://bookface.ycombinator.com/posts/81742)",
     "one_liner": "Eliminating business bullshit: payroll, benefits, compliance, etc",
     "team_size": 13,
     "industry": "B2B",
@@ -5658,21 +5658,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4419cef5f696d4d8b3e4389332b904cebf532d72.png",
     "website": "https://www.drillbit.com",
-    "all_locations": "Austin, TX, USA",
+    "all_locations": "",
     "long_description": "Residential contractors are drowning in office work. Drillbit automates all of it. We use AI receptionists and an LLM based quoting tool on top of our own CRM to entirely manage jobs from lead, to quote, to scheduling, to staffing, and even collecting payment.",
     "one_liner": "Automating Office Work for Residential Contractors.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1721586663,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -5681,8 +5677,6 @@
       "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -6420,13 +6414,19 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f41c1e3ea873ecf72e295ba7e2661334c89c3d60.png",
     "website": "https://thundercompute.com",
     "all_locations": "",
-    "long_description": "Thunder Compute makes GPUs cheaper and easier to use. We do this with proprietary software to virtualize GPUs over a network.\r\n\r\nBenefits:\r\n- Never pay for idle GPUs\r\n- No need for CUDA drivers\r\n- Switch GPUs with one command",
-    "one_liner": "Software to virtualize GPUs over TCP.",
+    "long_description": "GPUs are in extremely high demand for AI development. A single GPU server can cost up to $300K. Despite this, GPUs in data centers are only utilized an average of 15-20% of the time. Thunder Compute is building technology to increase GPU utilization from 15-20% to 90%+, meaning that each GPU can be shared by 5x as many developers as in data centers today. Our technology achieves this efficiency gain by allowing all of the servers in a data center to share a single pool of network-attached GPUs rather than physically attaching a GPU to each server. Try Thunder Compute at docs.thundercompute.com/quickstart",
+    "one_liner": "Virtualization software to make GPUs 5x cheaper",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Data Science",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -8399,6 +8399,7 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1723790505,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "E-commerce",
       "AI"

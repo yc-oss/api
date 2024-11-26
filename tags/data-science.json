@@ -687,7 +687,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Analytics"
@@ -1192,6 +1192,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/zeit-ai.json"
   },
   {
+    "id": 29767,
+    "name": "Thunder Compute",
+    "slug": "thunder-compute",
+    "former_names": [
+      "Thunder"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f41c1e3ea873ecf72e295ba7e2661334c89c3d60.png",
+    "website": "https://thundercompute.com",
+    "all_locations": "",
+    "long_description": "GPUs are in extremely high demand for AI development. A single GPU server can cost up to $300K. Despite this, GPUs in data centers are only utilized an average of 15-20% of the time. Thunder Compute is building technology to increase GPU utilization from 15-20% to 90%+, meaning that each GPU can be shared by 5x as many developers as in data centers today. Our technology achieves this efficiency gain by allowing all of the servers in a data center to share a single pool of network-attached GPUs rather than physically attaching a GPU to each server. Try Thunder Compute at docs.thundercompute.com/quickstart",
+    "one_liner": "Virtualization software to make GPUs 5x cheaper",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1723245936,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Data Science",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/thunder-compute",
+    "api": "https://yc-oss.github.io/api/batches/s24/thunder-compute.json"
+  },
+  {
     "id": 30032,
     "name": "Coblocks",
     "slug": "coblocks",
@@ -1242,18 +1286,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc75863ffa7ab9e6cfde60f2ae59759a3a54241.png",
     "website": "https://praxis-tech.ai",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Praxis AI is a platform that helps manufacturing engineers shift towards a proactive maintenance mindset. This eliminates the concept of day-to-day firefighting, and results in prolonged machine life, reduced production downtimes, and improved product quality.\r\n\r\nOur simplified interface enables manufacturing teams with minimal data science knowledge to create custom complex models on the machinery they know is critical to their operations. We walk them through the process of connecting to their data, configuring and building a model, deploying a model, and finally operationalizing a model using our copilot Max.e.\r\n\r\nOnce configured, Praxis AI and Max.e directly integrate into your existing workflows. For example once a downtime prediction model has been configured for a machine, Max.e will monitor and alert when a threshold is reached and provide you with an automated root cause analysis to resolve the issue. Early results have shown that Praxis can help manufacturers reduce their unplanned production downtimes by as much as 25%. \r\n\r\nExisting solutions focus on dashboards and complex charts. We know that dashboards don't cut costs, actions do. Praxis AI takes care of the complex machine learning and enables manufacturing engineers to focus on the important task of actually running a production floor, but now empowered by data-driven AI insights.",
-    "one_liner": "AI-enabled optimization and monitoring for manufacturing in real time",
+    "long_description": "Praxis AI builds manufacturing specific agents capable of reasoning and processing complex situations. Our engineering copilot predicts and prevents machine failures in real time by solving problems the same way an engineer would.\r\n\r\nOur agents have access to and make sense of the structured and unstructured data that exists at factories including machine sensor data, maintenance manuals and work orders. Our simplified interface enables manufacturing teams with minimal AI knowledge to create custom complex workflows on the machinery they know is critical to their operations. Early results have shown that Praxis can help manufacturers reduce their unplanned production downtimes by as much as 25%. \r\n\r\nExisting solutions focus on dashboards and complex charts. We know that dashboards don't cut costs, actions do.",
+    "one_liner": "Manufacturing specific reasoning agents to prevent machine failures",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Unspecified",
     "launched_at": 1732148257,
     "tags": [
-      "AIOps",
-      "Artificial Intelligence",
       "IoT",
       "Manufacturing",
-      "Data Science"
+      "Data Science",
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,

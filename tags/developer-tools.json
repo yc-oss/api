@@ -8755,7 +8755,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b049a52be34bb701fef7828f1cea14c3624e5f6.png",
     "website": "https://secoda.co",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Secoda is a universal data catalogue and documentation tool that makes finding metadata, queries, charts and documentation as easy as a google search.\r\n\r\nToday, data teams are collecting tons of data, but most employees don't know what data exists, how to use it, and what data to trust. This confusion happens because different components of company data get collected in fragmented tools Secoda helps teams find, understand data in one easy to use platform that's accessible to any employee.",
+    "long_description": "Secoda helps data teams deliver trustworthy data for AI and analytics. With Secoda’s search-first approach, your data catalogue won’t collect dust—easily search across all columns, tables, dashboards, events, and metrics. Ask any question and get fast, contextual answers powered by AI.\r\n\r\nBuilt to empower teams, Secoda combines data cataloging, governance, and observability into one seamless platform that’s accessible, intuitive, and even self-hosted if needed. Whether you need a data dictionary, column-level lineage, or AI-powered insights, Secoda makes discovering, understanding, and trusting your data effortless for every employee.",
     "one_liner": "The second brain for your data team",
     "team_size": 27,
     "industry": "B2B",
@@ -14581,11 +14581,11 @@
     "subindustry": "B2B",
     "launched_at": 1672773099,
     "tags": [
+      "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Analytics",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16924,7 +16924,7 @@
     "website": "https://www.tempolabs.ai/",
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Tempo Labs (YC S23) is building AI agents for frontend design and development. We sell completed designs and pull requests, helping teams scale frontend development without hiring additional staff. Our secret sauce is our code-based design tool (which replaces figma) and our human-in-the-loop review process which guarantees output quality",
-    "one_liner": "Code-first Alternative to Figma",
+    "one_liner": "Code-First Alternative to Figma",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -19652,6 +19652,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/opslane.json"
   },
   {
+    "id": 29767,
+    "name": "Thunder Compute",
+    "slug": "thunder-compute",
+    "former_names": [
+      "Thunder"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f41c1e3ea873ecf72e295ba7e2661334c89c3d60.png",
+    "website": "https://thundercompute.com",
+    "all_locations": "",
+    "long_description": "GPUs are in extremely high demand for AI development. A single GPU server can cost up to $300K. Despite this, GPUs in data centers are only utilized an average of 15-20% of the time. Thunder Compute is building technology to increase GPU utilization from 15-20% to 90%+, meaning that each GPU can be shared by 5x as many developers as in data centers today. Our technology achieves this efficiency gain by allowing all of the servers in a data center to share a single pool of network-attached GPUs rather than physically attaching a GPU to each server. Try Thunder Compute at docs.thundercompute.com/quickstart",
+    "one_liner": "Virtualization software to make GPUs 5x cheaper",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1723245936,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Data Science",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/thunder-compute",
+    "api": "https://yc-oss.github.io/api/batches/s24/thunder-compute.json"
+  },
+  {
     "id": 29768,
     "name": "Ember Robotics",
     "slug": "ember-robotics",
@@ -20960,7 +21004,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b36be9d458851b00e9309610a54bf963da83472.png",
     "website": "https://www.thefoundryai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building a platform to design, test, and improve AI agents. It’s hard to build agents, understand how well they’re performing, and know what and how to improve. Our platform unifies design, evaluation, and fine-tuning, making it easier to identify weaknesses, improve reliability, and scale agents for real-world use.\r\n\r\nManil and Pranav previously worked at Scale AI, where they helped produce and refine data to evaluate and improve some of the best AI models in the world. Now, we’re bringing that expertise to help companies build AI systems that work better, faster.",
+    "long_description": "Foundry is a self-serve platform that helps you evaluate, build, and improve your AI agents.\r\nPranav and I previously worked at Scale AI, where we helped the top AI labs build and improve their models. Now, we’re turning our focus to agents, creating the tools every business needs to succeed in this new era.\r\n\r\nImagine you want to build an agent to handle your company’s hiring process. You need it to screen resumes, schedule interviews, and follow up with candidates—all without manual input. Foundry gives you the tools to create an agent that fits your needs: defining workflows, integrating APIs, and iterating on outputs until it works seamlessly.\r\n\r\nOnce your agent is live, how do you ensure it performs as expected? Foundry allows you to evaluate its decisions, track key metrics, and fine-tune its behavior based on real-world feedback. For example, if the agent struggles to prioritize candidates or adapt to new hiring requirements, Foundry helps you identify these gaps and improve performance over time.\r\n\r\nWhether you're designing from scratch or iterating on existing systems, Foundry provides the orchestration, evaluation, and iteration tools to create smarter, more reliable agents that grow with your business.",
     "one_liner": "Build, test, and improve AI agents",
     "team_size": 2,
     "industry": "B2B",
@@ -21174,7 +21218,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7da261b740a4ae0fbccdb7818277d3243f8a1c8.png",
     "website": "https://humanlayer.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "HumanLayer is an API that enables AI applications to contact humans for help, feedback, and approvals. \r\n\r\n\r\nOur customer Cased uses HumanLayer to ship DevOps agents that manage complex and risky workflows like production deployments and database migrations. We’ve grown to $500 MRR during the batch.\r\n\r\n\r\nWe’re building HumanLayer because we know that the future of AI Applications is not gonna be humans sitting at a chat interface, the future is “outer loop” or “headless” agents, and our partners are building AI apps that invert the typical interaction paradigm. Autonomous agents are calling humans, not the other way around.\r\n\r\n\r\nAI Agents are poised to disrupt the $4.6tn global labor market, but in order to make agents reliable today, and train them to be fully autonomous tomorrow, solutions like HumanLayer are an inevitable part of the AI Agent stack. ",
+    "long_description": "HumanLayer is an API that enables AI applications to contact humans for help, feedback, and approvals. One customer uses HumanLayer to ship DevOps agents that manage complex and risky workflows like production deployments and database migrations. \r\n\r\n\r\nWe’re building HumanLayer because we know that the future of AI Applications is not gonna be humans sitting at a chat interface, the future is “outer loop” or “headless” agents, and our partners are building AI apps that invert the typical interaction paradigm. Autonomous agents are calling humans, not the other way around.\r\n\r\n\r\nAI Agents are poised to disrupt the $4.6tn global labor market, but in order to make agents reliable today, and train them to be fully autonomous tomorrow, solutions like HumanLayer are an inevitable part of the AI Agent stack. ",
     "one_liner": "Human-in-the-Loop for AI Agents",
     "team_size": 1,
     "industry": "B2B",
