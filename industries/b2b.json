@@ -43430,7 +43430,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S20",
     "status": "Active",
@@ -65829,7 +65829,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -73984,7 +73984,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -82536,51 +82536,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/transformity.json"
   },
   {
-    "id": 28884,
-    "name": "Dialtone",
-    "slug": "dialtone",
-    "former_names": [
-      "Samtana"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/860324292ccfb1c586baa4eae8ba66bac3099339.png",
-    "website": "https://usedialtone.com",
-    "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Increase margins and speed up procurement with automated AI voice & email supplier communications, automatic data extraction & entry into your ERP/MRP, demand forecasting, spend analysis & optimization, and supplier inventory checks & RFQs.",
-    "one_liner": "Automate 80% of your supply chain tasks with AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Consumer -> Social",
-    "launched_at": 1688669019,
-    "tags": [
-      "Logistics",
-      "Manufacturing",
-      "Supply Chain",
-      "Operations",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dialtone",
-    "api": "https://yc-oss.github.io/api/batches/s23/dialtone.json"
-  },
-  {
     "id": 28885,
     "name": "Telophase",
     "slug": "telophase",
@@ -84321,18 +84276,18 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e75b3701367f92118dfb24055cc3333d139fe333.png",
     "website": "https://roundtable.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Roundtable provides data collection tools for technical user and market research teams. \r\n",
-    "one_liner": "Developer-friendly survey software",
+    "all_locations": "",
+    "long_description": "Roundtable uses behavioral biometrics to detect bot and agentic sources of fraud. We work with companies like JD Power and Respondent.io to automate the data quality process.",
+    "one_liner": "Behavioral biometrics for fraud detection",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1685540601,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "API",
-      "Market Research"
+      "Market Research",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -84344,8 +84299,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -87596,22 +87550,19 @@
     "name": "DGI Apparel",
     "slug": "dgi-apparel",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d2855688a2800a265fb162338e869dcaaabdd08.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee1a0cab463910beae62d9d3212eb8390758edb8.png",
     "website": "https://www.dgiapparel.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "DGI Apparel is a one-stop shop for custom screen printers to purchase all of the supplies needed to operate their business. DGI enables users to connect their existing vendor accounts to compare prices, inventory, and shipping time across all of their vendors on a single website. They can also manage all of their vendor carts, checkout, and view purchase tracking and analytics right from DGI.",
     "one_liner": "Expedia for ordering blank apparel",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1706993476,
-    "tags": [
-      "B2B",
-      "Apparel"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -91264,17 +91215,17 @@
     "website": "http://betterbasket.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "BetterBasket helps grocers with pricing, powered by competitive data. Our founding team worked together at Uber Eats growing the dark store business in Asia to $100 million in revenue and making it profitable, and are now building BetterBasket to bring those learnings to all grocers.",
-    "one_liner": "Pricing for grocers with competitive data",
+    "one_liner": "The only all-in-one pricing system for grocers",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1706153675,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Analytics",
       "Food & Beverage",
-      "Retail"
+      "Retail",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -93954,7 +93905,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "ProhostAI is building an AI Property Manager for short-term rental hosts on Airbnb and other platforms. Our team consists of an ex-Airbnb Staff Data Scientist and Dropbox Sr Software Engineer who are also Superhosts with 9 properties worth $15M making $1.5M/yr.",
     "one_liner": "AI Property Manager for Airbnb & Short-Term Rental Hosts",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1722581917,
@@ -94713,7 +94664,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "W25",
+    "batch": "X25",
     "status": "Active",
     "industries": [
       "B2B"
@@ -94727,7 +94678,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/leeroo",
-    "api": "https://yc-oss.github.io/api/batches/w25/leeroo.json"
+    "api": "https://yc-oss.github.io/api/batches/x25/leeroo.json"
   },
   {
     "id": 29659,
@@ -101571,16 +101522,16 @@
     "website": "http://www.pearsonlabs.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pearson builds AI agents to help law firms and companies execute corporate transactions. We help rainmakers at law firms run gigantic books of businesses with AI. Companies pay for the software to reduce billable hours. Within a month, we have our first design partner, Orrick, a $1b+ revenue law firm, who’s working with us closely to build an AI data room for their 5000 clients.",
-    "one_liner": "AI agents used by law firms and companies for corporate transactions",
+    "one_liner": "AI agents to help law firms execute corporate transactions",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Legal",
     "launched_at": 1731901982,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Legal",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -102702,5 +102653,46 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/humanlayer",
     "api": "https://yc-oss.github.io/api/batches/f24/humanlayer.json"
+  },
+  {
+    "id": 30208,
+    "name": "Hyphen",
+    "slug": "hyphen",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7895a461242ef2ca60469f6f46d26def9dd88819.png",
+    "website": "https://hyphenlabs.tech",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hyphen enables Medical AI research teams and decision support solutions prepare high quality training datasets from CT Scans, X Rays and MRIs. With Hyphen, you can collect radiology data from hospitals/labs and create workflows for annotation & reviews. Hyphen also allows monitoring the skill levels of the labelling workforce. We equip labelers with AI-assists for annotations, 3D tools to view and make pixel-perfect markings while enabling reviewers to set up automated error-checking using consensus mechanisms.",
+    "one_liner": "Medical Data Annotation Software",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1732603808,
+    "tags": [
+      "AIOps",
+      "Machine Learning",
+      "Crowdsourcing",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hyphen",
+    "api": "https://yc-oss.github.io/api/batches/w25/hyphen.json"
   }
 ]

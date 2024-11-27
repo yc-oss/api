@@ -18802,7 +18802,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -23897,7 +23897,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -29566,7 +29566,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -33227,8 +33227,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/157ebdb745b65bc27b9db92ffd3d33a03418bcaf.png",
     "website": "https://www.proprise.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "PropRise is a next-generation data and analytics provider transforming the commercial real estate (CRE) sector through AI-driven automation. We specialize in sourcing alternative and hard-to-find data, converting unstructured formats—ranging from documents to images to audio—into structured, actionable insights. Our platform gives brokers and investors near real-time access to critical data such as sales comparables, rental history, and market trends, significantly enhancing the acquisitions process.\r\n\r\n\r\nOur mission is to be the catalyst for growth and innovation in the CRE market. We offer an unparalleled competitive advantage by delivering 10x the data at 1/100th the cost of traditional providers. Powered by proprietary machine learning algorithms, PropRise is redefining data collection and analytics in commercial real estate.",
-    "one_liner": "Automating commercial real estate data collection",
+    "long_description": "PropRise is an AI-powered investment analyst for commercial real estate, transforming how firms discover and evaluate opportunities. Our platform acts as a 24/7 analyst that finds hidden deals others miss by analyzing vast amounts of data beyond traditional listings - from local council meetings and permits to community sentiment and market trends. While most firms only see surface-level data like basic financials and broker listings, PropRise connects complex patterns across tech company expansions, local market shifts, and city development plans to identify overlooked opportunities.",
+    "one_liner": "AI Investment Analyst for Commercial Real Estate",
     "team_size": 3,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
@@ -34675,18 +34675,18 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e75b3701367f92118dfb24055cc3333d139fe333.png",
     "website": "https://roundtable.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Roundtable provides data collection tools for technical user and market research teams. \r\n",
-    "one_liner": "Developer-friendly survey software",
+    "all_locations": "",
+    "long_description": "Roundtable uses behavioral biometrics to detect bot and agentic sources of fraud. We work with companies like JD Power and Respondent.io to automate the data quality process.",
+    "one_liner": "Behavioral biometrics for fraud detection",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1685540601,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "API",
-      "Market Research"
+      "Market Research",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34698,8 +34698,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -35810,46 +35809,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/apriora",
     "api": "https://yc-oss.github.io/api/batches/w24/apriora.json"
-  },
-  {
-    "id": 29271,
-    "name": "DGI Apparel",
-    "slug": "dgi-apparel",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d2855688a2800a265fb162338e869dcaaabdd08.png",
-    "website": "https://www.dgiapparel.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "DGI Apparel is a one-stop shop for custom screen printers to purchase all of the supplies needed to operate their business. DGI enables users to connect their existing vendor accounts to compare prices, inventory, and shipping time across all of their vendors on a single website. They can also manage all of their vendor carts, checkout, and view purchase tracking and analytics right from DGI.",
-    "one_liner": "Expedia for ordering blank apparel",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1706993476,
-    "tags": [
-      "B2B",
-      "Apparel"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dgi-apparel",
-    "api": "https://yc-oss.github.io/api/batches/w24/dgi-apparel.json"
   },
   {
     "id": 29276,
@@ -37477,17 +37436,17 @@
     "website": "http://betterbasket.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "BetterBasket helps grocers with pricing, powered by competitive data. Our founding team worked together at Uber Eats growing the dark store business in Asia to $100 million in revenue and making it profitable, and are now building BetterBasket to bring those learnings to all grocers.",
-    "one_liner": "Pricing for grocers with competitive data",
+    "one_liner": "The only all-in-one pricing system for grocers",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1706153675,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Analytics",
       "Food & Beverage",
-      "Retail"
+      "Retail",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38649,7 +38608,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "ProhostAI is building an AI Property Manager for short-term rental hosts on Airbnb and other platforms. Our team consists of an ex-Airbnb Staff Data Scientist and Dropbox Sr Software Engineer who are also Superhosts with 9 properties worth $15M making $1.5M/yr.",
     "one_liner": "AI Property Manager for Airbnb & Short-Term Rental Hosts",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1722581917,

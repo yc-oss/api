@@ -13741,7 +13741,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -16088,6 +16088,48 @@
     "api": "https://yc-oss.github.io/api/batches/s23/menza.json"
   },
   {
+    "id": 28884,
+    "name": "Big Smart AI",
+    "slug": "big-smart-ai",
+    "former_names": [
+      "Samtana"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6862e0879eef05fb0ca8c2f4eb80effd66d6b73.png",
+    "website": "https://bigsmart.ai",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "AI enabled search.",
+    "one_liner": "Bigger, smarter, AI enabled search.",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1688669019,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/big-smart-ai",
+    "api": "https://yc-oss.github.io/api/batches/s23/big-smart-ai.json"
+  },
+  {
     "id": 28886,
     "name": "Cardinal Gray",
     "slug": "cardinal-gray",
@@ -16883,47 +16925,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vectorshift",
     "api": "https://yc-oss.github.io/api/batches/s23/vectorshift.json"
-  },
-  {
-    "id": 29005,
-    "name": "Roundtable",
-    "slug": "roundtable",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e75b3701367f92118dfb24055cc3333d139fe333.png",
-    "website": "https://roundtable.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Roundtable provides data collection tools for technical user and market research teams. \r\n",
-    "one_liner": "Developer-friendly survey software",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1685540601,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "API",
-      "Market Research"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/roundtable",
-    "api": "https://yc-oss.github.io/api/batches/s23/roundtable.json"
   },
   {
     "id": 29006,
@@ -20436,51 +20437,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/risotto.json"
   },
   {
-    "id": 29409,
-    "name": "BetterBasket",
-    "slug": "betterbasket",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7b35e46eb9b08cc67eb469ae038a64122cff97e.png",
-    "website": "http://betterbasket.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "BetterBasket helps grocers with pricing, powered by competitive data. Our founding team worked together at Uber Eats growing the dark store business in Asia to $100 million in revenue and making it profitable, and are now building BetterBasket to bring those learnings to all grocers.",
-    "one_liner": "Pricing for grocers with competitive data",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1706153675,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Analytics",
-      "Food & Beverage",
-      "Retail"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/betterbasket",
-    "api": "https://yc-oss.github.io/api/batches/w24/betterbasket.json"
-  },
-  {
     "id": 29410,
     "name": "Model ML",
     "slug": "model-ml",
@@ -21863,7 +21819,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "ProhostAI is building an AI Property Manager for short-term rental hosts on Airbnb and other platforms. Our team consists of an ex-Airbnb Staff Data Scientist and Dropbox Sr Software Engineer who are also Superhosts with 9 properties worth $15M making $1.5M/yr.",
     "one_liner": "AI Property Manager for Airbnb & Short-Term Rental Hosts",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1722581917,
@@ -22305,7 +22261,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "W25",
+    "batch": "X25",
     "status": "Active",
     "industries": [
       "B2B"
@@ -22319,7 +22275,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/leeroo",
-    "api": "https://yc-oss.github.io/api/batches/w25/leeroo.json"
+    "api": "https://yc-oss.github.io/api/batches/x25/leeroo.json"
   },
   {
     "id": 29658,
@@ -25623,48 +25579,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/aditto.json"
   },
   {
-    "id": 30073,
-    "name": "Pearson Labs",
-    "slug": "pearson-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e33a2875f652bdd69936c606147614f5fff8283.png",
-    "website": "http://www.pearsonlabs.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pearson builds AI agents to help law firms and companies execute corporate transactions. We help rainmakers at law firms run gigantic books of businesses with AI. Companies pay for the software to reduce billable hours. Within a month, we have our first design partner, Orrick, a $1b+ revenue law firm, who’s working with us closely to build an AI data room for their 5000 clients.",
-    "one_liner": "AI agents used by law firms and companies for corporate transactions",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1731901982,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Legal",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pearson-labs",
-    "api": "https://yc-oss.github.io/api/batches/f24/pearson-labs.json"
-  },
-  {
     "id": 30074,
     "name": "vly.ai",
     "slug": "vly-ai-2",
@@ -25876,6 +25790,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/diffusion-studio",
     "api": "https://yc-oss.github.io/api/batches/f24/diffusion-studio.json"
+  },
+  {
+    "id": 30108,
+    "name": "Bramble",
+    "slug": "bramble",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdad8ea0547835501c79323a83215447e9980af6.png",
+    "website": "https://usebramble.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bramble is the next generation property discovery platform that shows buyers the homes they actually want. Instead of using Zillow to comb through listings using only primitive filters like bedroom count and city, Bramble allows buyers to describe exactly what they're looking for and learns their preferences, just as a traditional agent would.\r\n\r\nWe got licensed as real estate agents and launched 2 months ago as a flat-rate real estate brokerage. We now have 5 accepted offers and we learned that we can build a much better solution for property discovery. Solving property discovery is a massive opportunity to control demand, which will rocketship our growth.",
+    "one_liner": "The next generation Zillow.",
+    "team_size": 3,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "launched_at": 1727386579,
+    "tags": [
+      "Artificial Intelligence",
+      "Real Estate",
+      "Consumer",
+      "Proptech",
+      "Consumer Products"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Housing and Real Estate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bramble",
+    "api": "https://yc-oss.github.io/api/batches/f24/bramble.json"
   },
   {
     "id": 30110,
@@ -26211,51 +26168,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ember-copilot",
     "api": "https://yc-oss.github.io/api/batches/f24/ember-copilot.json"
-  },
-  {
-    "id": 30124,
-    "name": "Helpcare AI",
-    "slug": "helpcare-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/096e00fed8decd142a3133ebfdbffa1618ea7fb5.png",
-    "website": "https://helpcare.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Helpcare builds AI Agents to take on coordination burden from staff and reduces time of care by autonomously identifying and outreaching patients (through phone, text, email, & mail) to schedule visits, book screenings, complete pre-post, and onboard. These agents require no integration, can navigate all tools, speak 29 languages, come with 50+ outreach scripts and have a remarkable 80% conversation-to-booking closing rate.",
-    "one_liner": "Get more patients in the door with AI Agents for Healthcare Admin",
-    "team_size": null,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1730747199,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Health Tech",
-      "Healthcare",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/helpcare-ai",
-    "api": "https://yc-oss.github.io/api/batches/f24/helpcare-ai.json"
   },
   {
     "id": 30127,
