@@ -5717,13 +5717,13 @@
     "all_locations": "Singapore, Singapore",
     "long_description": "AlemHealth connects hospitals and diagnostic centres in emerging markets to a global network of diagnostic imaging services. \r\n\r\nOur suite of plug-and-play radiology solutions makes it easy for any facility anywhere to access and provide world-class diagnostic care to its patients. We designed our hardware and software from the ground up specifically for emerging markets, where access to internet, electricity, and clinicians can be difficult.\r\nLearn more about our solutions at www.alemhealth.com.",
     "one_liner": "AI Radiologist in a Box - We provide a vertically integrated AI…",
-    "team_size": 11,
+    "team_size": 25,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1478578234,
     "tags": [
-      "Artificial Intelligence",
-      "Health Tech"
+      "Health Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5737,7 +5737,9 @@
     ],
     "regions": [
       "Singapore",
-      "Southeast Asia"
+      "Southeast Asia",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -12717,7 +12719,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58546f561c6a3cd285083ee0d5e1c3c9c285fcb2.png",
     "website": "https://rutterapi.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York, NY, USA",
     "long_description": "Rutter is building a universal API for e-commerce platforms, accounting systems and payment processors.\r\n\r\nSimilar to the financial market before Plaid, the world of business financial data is split across hundreds of platforms like e-commerce storefronts, marketplaces, accounting systems and payment processors, such as Shopify, Amazon, Quickbooks, Netsuite, Stripe and others.  \r\n\r\nEach of these platforms has its own app store or its equivalent, and the enterprising developer must spend thousands of hours building integrations in order to access the entire market.\r\n\r\nRutter is an integration layer for any company building integrations into commerce or accounting platforms. You can learn more about our universal API here: https://www.rutter.com/",
     "one_liner": "The Universal API for commerce and accounting",
     "team_size": 24,
@@ -12796,6 +12798,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/directshifts",
     "api": "https://yc-oss.github.io/api/batches/s19/directshifts.json"
+  },
+  {
+    "id": 12675,
+    "name": "Wasmer",
+    "slug": "wasmer",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97ea02f8fa3d6250285b27eb9529ebfee68db334.png",
+    "website": "https://wasmer.io",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "We are working on the software that will power the next generation of Cloud Computing (Edge Computing) platforms using WebAssembly.\r\n\r\nYou can see us as a mix between Docker (but 100x more performant in startup time, and with 100x more lightweight containers), npm (we released the first WebAssembly package manager: wapm.io) and the JVM (but more universal).",
+    "one_liner": "The Operating System for Edge Computing",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1556823526,
+    "tags": [
+      "Developer Tools",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S19",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wasmer",
+    "api": "https://yc-oss.github.io/api/batches/s19/wasmer.json"
   },
   {
     "id": 12700,
@@ -20217,50 +20261,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/quadrant-health",
     "api": "https://yc-oss.github.io/api/batches/w21/quadrant-health.json"
-  },
-  {
-    "id": 22856,
-    "name": "weweb.io",
-    "slug": "weweb-io",
-    "former_names": [
-      "WeWeb"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bee0ffda10cfa11258e095397f31eae96aa9aefb.png",
-    "website": "https://www.weweb.io/",
-    "all_locations": "Paris, Île-de-France, France",
-    "long_description": "WeWeb is a visual programming tool that allows you to build user interfaces on top of existing databases & auth systems. It allies the short learning curve of no-code with the freedom of code.\r\n\r\nCONTROL & FREEDOM – Build pixel-perfect frontends with drag-and-drop UI elements and no-code CSS properties but have the option to add custom code or import your own Vue.js components.\r\n\r\nCODE BEST PRACTICES – Follow development best practices by building components, global workflows and re-usable functions with no-code triggers and formulas with the option to add custom JS where needed.  \r\n\r\nNO VENDOR LOCK-IN – WeWeb generates a standard PWA-ready Single Page Application and allows you to deploy your projects on your own infrastructure. Build in no-code, host on-premise.",
-    "one_liner": "WeWeb is a no-code front-end builder that connects with any back-end.",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1614628838,
-    "tags": [
-      "Developer Tools",
-      "Web Development"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W21",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "France",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/weweb-io",
-    "api": "https://yc-oss.github.io/api/batches/w21/weweb-io.json"
   },
   {
     "id": 22861,
@@ -38412,7 +38412,7 @@
       "Mano"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d4c1cc0751098e00020fe57a63b4a98b4977331.png",
-    "website": "https://www.clearesthealth.com/",
+    "website": "https://clearesthealth.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "We are rebuilding the core infrastructure behind corporate health insurance, everything from care navigation, analytics, claims, and more. Fully cloud-native and AI-first. We are eager to directly impact the health and savings of 60% of the American population.",
     "one_liner": "Rebuilding trust in American health insurance.",
@@ -38421,11 +38421,11 @@
     "subindustry": "B2B",
     "launched_at": 1686714264,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "B2B",
-      "Healthcare IT",
-      "AI"
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40779,18 +40779,19 @@
       "Action AI",
       "Axilla"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cb7d2ea65e0632ab09d63d31bf930837044ff48.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae80e25bdbd788f8d7e919326b2da312d99c6b40.png",
     "website": "https://srcbook.com",
-    "all_locations": "",
-    "long_description": "Srcbook is an open-source TypeScript notebook for rapid prototyping, learning, and internal tooling.\r\n\r\nWe believe that in 2024 there is still no productive prototyping environment for JS/TS. Python has Jupyter and streamlit, but what about TypeScript which is largely the language de facto of product teams? Srcbook is the solution to this tooling gap.\r\n\r\nWhether you are prototyping node code, exploring libraries, sharing ideas with your team, building agents, or running evals, srcbook is the best tool for you and your team.\r\n\r\nWe're an open-source company and our vision is to make it dead easy to iterate on ideas and even deploy mini-apps to production incredibly easily.",
-    "one_liner": "TypeScript notebooks",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Srcbook is an AI powered web application builder.\r\n\r\nWhat if you could build web apps as easily as you make a Figma design or edit a Google Doc?\r\n\r\nEnter Srcbook. We've reimagined app development leveraging the awesome new progress we're seeing in AI models. \r\n\r\nOur intelligent environment helps you turn ideas into working applications, whether you know how to code or not. And for those who do code? You'll find all the power and flexibility you need, just without the usual headaches.\r\n\r\nWant to launch that app idea? Need to build something for your community? Looking to prototype faster? Start here. We've removed the barriers between idea and execution.\r\n\r\nNo more choosing between \"no-code\" tools that limit you or complex development setups. Just pure, joyful building - from concept to launch.\r\n\r\nThe future of creating for the web is here. We're empowering you to make it.\r\n\r\nOur mission is to empower everyone to build for the web.\r\n\r\n",
+    "one_liner": "Build web applications in minutes using AI.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1690767970,
     "tags": [
-      "Developer Tools",
-      "Open Source"
+      "Artificial Intelligence",
+      "No-code",
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40803,7 +40804,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -41745,43 +41747,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/garage-2",
     "api": "https://yc-oss.github.io/api/batches/w24/garage-2.json"
-  },
-  {
-    "id": 29271,
-    "name": "DGI Apparel",
-    "slug": "dgi-apparel",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee1a0cab463910beae62d9d3212eb8390758edb8.png",
-    "website": "https://www.dgiapparel.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "DGI Apparel is a one-stop shop for custom screen printers to purchase all of the supplies needed to operate their business. DGI enables users to connect their existing vendor accounts to compare prices, inventory, and shipping time across all of their vendors on a single website. They can also manage all of their vendor carts, checkout, and view purchase tracking and analytics right from DGI.",
-    "one_liner": "Expedia for ordering blank apparel",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1706993476,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dgi-apparel",
-    "api": "https://yc-oss.github.io/api/batches/w24/dgi-apparel.json"
   },
   {
     "id": 29288,
@@ -44365,42 +44330,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/entangl.json"
   },
   {
-    "id": 29640,
-    "name": "Tabular",
-    "slug": "tabular",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee0b8f16bae30d2bbbc9ba13873ddd8f795b33ed.png",
-    "website": "https://www.gotabular.de/en/",
-    "all_locations": "",
-    "long_description": "Tabular uses AI to automate the core workflows of accounting firms, starting in Europe. We generate finished ledger entries that users export with just one click. This involves tasks like booking expense accounts, determining VAT filings, reconciling transactions.",
-    "one_liner": "AI Copilot for accounting firms in Europe",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1724096273,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tabular",
-    "api": "https://yc-oss.github.io/api/batches/s24/tabular.json"
-  },
-  {
     "id": 29645,
     "name": "Phonely",
     "slug": "phonely",
@@ -45667,6 +45596,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pathpilot",
     "api": "https://yc-oss.github.io/api/batches/s24/pathpilot.json"
+  },
+  {
+    "id": 30056,
+    "name": "Keye",
+    "slug": "keye",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90506160477f970492b1093950c729f17eeb2192.png",
+    "website": "https://www.keye.co",
+    "all_locations": "New York, NY, USA",
+    "long_description": "\r\nKeye is an AI software that lets private equity firms do due diligence for acquisitions faster and more accurately. Our customers can evaluate 10x more deals and fund better companies which leads directly to better returns/more alpha.\r\n--\r\n\r\nOur system is the first of its kind to instantly generate complex, comprehensive data packs from raw data in any format, directly from the data room. This enables investors to gain an 80% understanding of a potential deal within moments, empowering them to say No to a deal earlier in the process and focus on high-potential opportunities. Traditionally, creating these detailed data packs—like cohort or retention analyses and customer roll-forwards—takes weeks, during which critical details may be overlooked, potentially costing funds millions in missed insights and poor decisions.\r\n--\r\n\r\nKeye combines cutting-edge AI with deep private equity expertise to deliver powerful, multi-layered insights that go far beyond the simple summarizers and search functions offered by other tools. Our platform dives deep into both quantitative and qualitative due diligence data, offering high-impact analytics crafted specifically for private equity workflows. This isn’t just automation—it’s a purpose-built solution that uncovers actionable insights, fueling smarter decisions and driving true alpha.\r\n\r\n",
+    "one_liner": "Automated Due Diligence for Private Market Investors",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1731519331,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "Investing",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/keye",
+    "api": "https://yc-oss.github.io/api/batches/f24/keye.json"
   },
   {
     "id": 30057,
