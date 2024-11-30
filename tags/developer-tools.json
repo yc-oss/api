@@ -9872,7 +9872,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7522b24d3853d0b79cebe72798f4a3a33c54ac27.png",
     "website": "https://www.stably.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Stably helps product teams ship fast without breaking things. Our AI analyzes your web apps, generates comprehensive test scripts, and adapts to changes on the fly. ",
     "one_liner": "Stably AI automates all your web E2E tests with zero-flake guarantee",
     "team_size": 3,
@@ -9880,15 +9880,15 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1645204142,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "DevOps",
-      "Web Development"
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -9900,7 +9900,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -12453,7 +12453,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d81916c7376f47ef6d8a6a498411483e26238a8.png",
     "website": "https://www.firecrawl.dev",
-    "all_locations": "San Francisco, CA, USA; Boston, MA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Firecrawl is the easiest way to extract data from the web. Developers use us to reliably convert URLs into LLM-ready markdown or structured data with a single API call. We crossed 17k GitHub stars in just two months and have had paying customers since day one.\r\n\r\nPreviously, we built Mendable, one of the first commercially available “chat with your data” applications. We sold to companies like MongoDB, Coinbase, Snapchat, and more. To do this, we spent a surprising amount of time building reliable infrastructure for getting clean data from the web. When we started to see our founding friends rebuilding the same thing, we thought we might be on to something.",
     "one_liner": "The easiest way to extract AI ready data from the web",
     "team_size": 6,
@@ -12461,9 +12461,9 @@
     "subindustry": "B2B",
     "launched_at": 1661283698,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13671,23 +13671,23 @@
   },
   {
     "id": 27869,
-    "name": "Codev",
-    "slug": "codev",
+    "name": "co.dev",
+    "slug": "co-dev",
     "former_names": [
       "Wisp Finance"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/69fb9c525432d1e46ceb4d9dc25dc4e77da0f0be.png",
     "website": "https://co.dev/?ref=YC",
     "all_locations": "",
-    "long_description": "Codev empowers developers to run multiple coding tasks asynchronously, make modifications on the fly, and instantly create GitHub pull requests.",
-    "one_liner": "Build Fullstack Web Apps with Natural Language",
+    "long_description": "Skip the complexity, high costs, and limitations of no-code tools—our AI-powered platform lets you create scalable, modern full-stack apps using natural language, all while keeping full ownership of your code.",
+    "one_liner": "Turn your ideas into full-stack apps",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Fintech",
     "launched_at": 1673365680,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -13709,8 +13709,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/codev",
-    "api": "https://yc-oss.github.io/api/batches/w23/codev.json"
+    "url": "https://www.ycombinator.com/companies/co-dev",
+    "api": "https://yc-oss.github.io/api/batches/w23/co-dev.json"
   },
   {
     "id": 27870,
@@ -20448,15 +20448,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d97ce9291f8a51ec2a48e5fa70be7766b06a04b5.png",
     "website": "https://upshift.dev",
     "all_locations": "Charlotte, NC, USA",
-    "long_description": "Upshift is tooling for plugin systems and app stores. We help product companies support plugins or apps, to help them achieve outcomes like what the app stores in Salesforce and Shopify have done for those products. We believe plugin support drives more sales, better retention, and compounds value over time.\r\n\r\nUp until now, only the biggest companies have had the resources to build these app stores because it can take years and massive upfront engineering investment to ship something. We cut the time-to-production down to weeks. And this will open up previously inaccessible possibilities for mid-sized businesses and fast-growing startups.\r\n\r\nWe know how to build it. For more than five years, Adam and Thomas have worked together as eng leaders, mastering our system integration expertise from Palantir and Candid Health. Our biggest win included converting an $823 million contract vehicle for the US Army, overhauling their entire data fabric.\r\n\r\nEvery software product company who wants to enable their users to extend the platform is a potential customer. It's a clear differentiator for best-in-class software companies who want to leverage their customer base as a community working to make their product even better.",
-    "one_liner": "We help product companies build plugin systems and app stores.",
+    "long_description": "Upshift is tooling for plugin systems. We help product companies support extension points, which enable them and their users to build and share additional functionality on top of their core product offerings. Extensibility with Upshift drives more sales, better retention, and compounds value over time.\r\n\r\nUp until now, only the biggest companies have had the resources to build these types of systems because it can take years and massive upfront engineering investment to ship something. We cut the time-to-production down to weeks. And this will open up previously inaccessible possibilities for mid-sized businesses and fast-growing startups.\r\n\r\nWe know how to build it. For more than six years, Adam and Thomas have worked together as eng leaders, mastering our system integration expertise from Palantir and Candid Health. Our biggest win included converting an $823 million contract vehicle for the US Army, overhauling their entire data fabric.",
+    "one_liner": "We help companies turn their software products into platforms.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1730739931,
     "tags": [
       "Developer Tools",
-      "Marketplace",
       "SaaS",
       "B2B"
     ],
@@ -20574,7 +20573,7 @@
     "website": "https://vespper.com",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "long_description": "Vespper is an on-call engineer running 24/7 to troubleshoot your alerts and surface the right data to help you resolve your issue so incidents never falls through the cracks.",
-    "one_liner": "24/7 AI on-call engineer",
+    "one_liner": "An AI copilot that automatically troubleshoots production alerts for…",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -20712,8 +20711,8 @@
     "subindustry": "Consumer",
     "launched_at": 1731874326,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -20752,11 +20751,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1729125196,
     "tags": [
+      "Artificial Intelligence",
       "Deep Learning",
       "Developer Tools",
       "Generative AI",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20938,8 +20937,7 @@
     "batch": "F24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -20962,17 +20960,17 @@
     "website": "https://www.thefoundryai.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Foundry is a self-serve platform that helps you evaluate, build, and improve your AI agents.\r\nPranav and I previously worked at Scale AI, where we helped the top AI labs build and improve their models. Now, we’re turning our focus to agents, creating the tools every business needs to succeed in this new era.\r\n\r\nImagine you want to build an agent to handle your company’s hiring process. You need it to screen resumes, schedule interviews, and follow up with candidates—all without manual input. Foundry gives you the tools to create an agent that fits your needs: defining workflows, integrating APIs, and iterating on outputs until it works seamlessly.\r\n\r\nOnce your agent is live, how do you ensure it performs as expected? Foundry allows you to evaluate its decisions, track key metrics, and fine-tune its behavior based on real-world feedback. For example, if the agent struggles to prioritize candidates or adapt to new hiring requirements, Foundry helps you identify these gaps and improve performance over time.\r\n\r\nWhether you're designing from scratch or iterating on existing systems, Foundry provides the orchestration, evaluation, and iteration tools to create smarter, more reliable agents that grow with your business.",
-    "one_liner": "Build, test, and improve AI agents",
+    "one_liner": "AWS for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1731963387,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation",
       "No-code",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21048,7 +21046,7 @@
     "website": "https://ryvn.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ryvn manages the infrastructure for your applications in your cloud or your customer's cloud. We handle deploying and rolling out updates, provide aggregated logging and monitoring, and offer one-click rollbacks. Expand into regulated industries, accelerate time-to-PoCs, and boost revenue by offering on-prem/self-hosted without the added complexity.\r\n\r\nBuild once, deploy anywhere.",
-    "one_liner": "Deploy, monitor, and manage applications in customer clouds",
+    "one_liner": "Deploy, update, and monitor applications in customer clouds",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -21091,7 +21089,7 @@
     "website": "https://sre.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SRE.ai is an AI-powered automation platform for DevOps teams. We are currently focused on helping development teams building on Salesforce Clouds.",
-    "one_liner": "AI agents to automate DevOps workflows",
+    "one_liner": "Low-Code DevOps for Low-Code Platforms",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
