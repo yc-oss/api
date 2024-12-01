@@ -4218,7 +4218,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1731468857,
     "tags": [
-      "Artificial Intelligence",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4258,10 +4258,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1732148257,
     "tags": [
-      "Artificial Intelligence",
       "IoT",
       "Manufacturing",
       "Data Science",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4299,7 +4299,7 @@
     "website": "https://vespper.com",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "long_description": "Vespper is an on-call engineer running 24/7 to troubleshoot your alerts and surface the right data to help you resolve your issue so incidents never falls through the cracks.",
-    "one_liner": "An AI copilot that automatically troubleshoots production alerts for…",
+    "one_liner": "AI agent that troubleshoots production alerts for software engineers,…",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4334,6 +4334,51 @@
     "api": "https://yc-oss.github.io/api/batches/f24/vespper.json"
   },
   {
+    "id": 30046,
+    "name": "Vocera",
+    "slug": "vocera",
+    "former_names": [
+      "Lex"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d27c1f82fbc4e1e5864fe20574139df89773eab.png",
+    "website": "https://www.vocera.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Are you building AI voice agents like receptionists, customer support, or sales reps? Do you find yourself manually testing your bot by calling it? We faced similar challenges, especially being in a regulated industry. That's why we developed Vocera - a solution that automates the testing process for your voice agents. With Vocera, you can prove your reliability before going live, test every update seamlessly, and scale your operations efficiently.\r\n\r\nReplicating a real world conversation is hard. Our AI simulates these scenarios using workflows, personas and past conversations.\r\n\r\nWe are already talking to AI for ordering food, getting appointments and even interviews. The market is aptly getting flooded with AI voice agents built by thousands of companies. We make them dependable.",
+    "one_liner": "Testing & Observability for AI voice agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728616885,
+    "tags": [
+      "B2B",
+      "Infrastructure",
+      "AI",
+      "Conversational AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vocera",
+    "api": "https://yc-oss.github.io/api/batches/f24/vocera.json"
+  },
+  {
     "id": 30047,
     "name": "Lune AI",
     "slug": "lune-ai",
@@ -4342,14 +4387,14 @@
     "website": "https://www.lune.dev/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "A replacement to standard LLMs for coding tasks - eliminate hallucinations with a marketplace of expert LLMs trained on hundreds of technical topics.",
-    "one_liner": "Lune AI - Better LLMs for code and technical tasks",
+    "one_liner": "Lune AI - Better GPT and Claude for coding",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1731874326,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4429,10 +4474,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1728685475,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Enterprise Software",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4466,7 +4511,7 @@
     "website": "https://fresco-ai.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fresco helps construction superintendents take 1000s of pages of notes, 10x faster. We automate the process of completing progress notes and punch lists, reducing time requirements from hours to minutes. Superintendents simply record videos of their site walk, and Fresco pulls out the relevant information and formats it into rich reports. We also offer one-click integrations with leading project management software like Procore and ACC, for maximum usability.",
-    "one_liner": "Quick, mobile documentation for construction sites",
+    "one_liner": "AI copilot for construction superintendents",
     "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
@@ -4507,8 +4552,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5874ae5d91c6dc5a32065be587bcdaa98b58d82d.png",
     "website": "https://innate.bot",
     "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Innate is developing the AI brain for teachable home robots. From navigation to manipulation, interaction and planning, our robots already act entirely autonomously, and users can teach entirely new behaviors quickly.\r\n\r\nOur first robots are tailored for builders of Silicon Valley to quickly develop on top of and play with the state of the art in Embodied AGI",
-    "one_liner": "Agentic, teachable general-purpose robots",
+    "long_description": "Innate is developing teachable home robots.\r\nOur robots navigate, perform physical tasks, interact and understand the world on their own, and users can teach entirely new behaviors quickly to get the help they need from the robots\r\n\r\nOur first product, Maurice, is tailored for builders of Silicon Valley to quickly develop on top of and play with the state of the art in Embodied AGI.",
+    "one_liner": "Teachable general-purpose robots",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
