@@ -19008,18 +19008,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7782bd4ff8b915f629867117b0ee24a39f15ab9.png",
     "website": "https://moonglow.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moonglow connects local Jupyter notebooks to remote cloud compute. Machine learning researchers and data scientists use us to scale up their experiments without having to do DevOps.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at NeurIPS, ICLR and ACL.\r\n\r\nWith the explosive growth of deep learning, there are over 1 million ML researchers who do computationally intensive experiments every day. They use Jupyter notebooks to do so, but every time they want to try out a new idea, they need to get the notebooks running on cloud machines. This process, repeated hundreds of times a month, is time-consuming and error-prone.\r\n\r\nMoonglow reliably brings the time-to-experiment down from 5 minutes to 20 seconds. Just as Vercel and Replit abstracted away the lower levels of the computing stack for web developers and programmers, we do the same for ML researchers.\r\n\r\nhttps://moonglow.ai\r\n",
-    "one_liner": "Connecting local Jupyter notebooks to remote cloud compute.",
+    "long_description": "Moonglow is a no-code platform for building browser agents. Users record their workflow once, and then our platform builds and deploys browser agents that automate their repetitive workflows.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at NeurIPS, ICLR and ACL.\r\n\r\nhttps://moonglow.ai",
+    "one_liner": "No-code platform for building browser agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721868567,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "DevOps",
-      "Infrastructure",
-      "AI"
+      "Robotic Process Automation",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20535,10 +20535,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729643205,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20603,7 +20603,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/vespper",
     "api": "https://yc-oss.github.io/api/batches/f24/vespper.json"
   },
@@ -20653,6 +20653,51 @@
     "api": "https://yc-oss.github.io/api/batches/f24/regatta-storage.json"
   },
   {
+    "id": 30046,
+    "name": "Vocera",
+    "slug": "vocera",
+    "former_names": [
+      "Lex"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d27c1f82fbc4e1e5864fe20574139df89773eab.png",
+    "website": "https://www.vocera.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Are you building AI voice agents like receptionists, customer support, or sales reps? Do you find yourself manually testing your bot by calling it? We faced similar challenges, especially being in a regulated industry. That's why we developed Vocera - a solution that automates the testing process for your voice agents. With Vocera, you can prove your reliability before going live, test every update seamlessly, and scale your operations efficiently.\r\n\r\nReplicating a real world conversation is hard. Our AI simulates these scenarios using workflows, personas and past conversations.\r\n\r\nWe are already talking to AI for ordering food, getting appointments and even interviews. The market is aptly getting flooded with AI voice agents built by thousands of companies. We make them dependable.",
+    "one_liner": "Testing & Observability for AI voice agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728616885,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Conversational AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vocera",
+    "api": "https://yc-oss.github.io/api/batches/f24/vocera.json"
+  },
+  {
     "id": 30047,
     "name": "Lune AI",
     "slug": "lune-ai",
@@ -20661,14 +20706,14 @@
     "website": "https://www.lune.dev/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "A replacement to standard LLMs for coding tasks - eliminate hallucinations with a marketplace of expert LLMs trained on hundreds of technical topics.",
-    "one_liner": "Lune AI - Better GPT and Claude for coding",
+    "one_liner": "Better GPT and Claude for coding",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1731874326,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -20749,11 +20794,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1728389519,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "International"
+      "International",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21051,11 +21096,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1731196685,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "DevOps",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21094,11 +21139,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1729032291,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

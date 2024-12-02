@@ -31436,7 +31436,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ea8243f6dc8eeb03dde825a84292c7087f12559.png",
     "website": "http://unravelcarbon.com",
     "all_locations": "Singapore, Singapore",
-    "long_description": "Unravel Carbon is  an enterprise software that helps companies track and reduce their carbon emissions, focusing on Asia, where 70% of global supply chains are. It uses AI/ML to help enterprises transform any operational data into full carbon supply chain data, helping them measure, track and report on their sustainability performance, identify climate risks and opportunities.\r\n\r\nIt is already serving some of the world’s largest companies and is backed by Sequoia and Y Combinator.\r\n",
+    "long_description": "Unravel Carbon is a leading sustainability data management platform, used in 48+ countries. It uses AI/ML to help enterprises transform any operational data into full carbon supply chain data, helping them measure, track and report on their sustainability performance. It is already serving some of the world’s largest companies and is backed by Sequoia and Y Combinator.",
     "one_liner": "Enterprise software for companies to track & reduce their carbon…",
     "team_size": 42,
     "industry": "B2B",
@@ -41224,18 +41224,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d8be8a05c36ad89e0a6589a8573fae10d75c592.png",
     "website": "https://rankai.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Marketing agencies are expensive and human-powered. Rankai is building AI agents to replace them. Our first AI agent automates the entire SEO process and makes it 20x more affordable. ",
+    "long_description": "Marketing agencies are expensive and human-powered. Rankai is building AI agents to replace them. \r\n\r\nOur first AI agent automates the entire SEO process and makes it 20x more affordable. ",
     "one_liner": "Building AI Agents to replace Marketing Agencies",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1731442233,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Marketing",
-      "SEO",
-      "AI"
+      "SEO"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46169,6 +46169,46 @@
     "api": "https://yc-oss.github.io/api/batches/f24/galini.json"
   },
   {
+    "id": 30021,
+    "name": "telli",
+    "slug": "telli",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41d94322ad309a45791f3a38d5d9cfbbe7f39b35.png",
+    "website": "https://telli.com/en/",
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "telli is building AI voice agents that convert leads into sales opportunities for B2C companies. For example, a leading home-buying platform is using telli to fully automate their pre-qualification.\r\n\r\nWe are serving customers in energy, real estate, medical products, and home services.\r\n\r\nYou might think that these B2C companies want to do more self-serve and less outreach. But the truth is outbound calls are what really drive conversion. Historically, managing these calls has been complex and expensive—costing companies hundreds of thousands of dollars. With telli, for the first time, B2C companies can automate the role of a pre-sales agent, end to end.",
+    "one_liner": "outbound call automation for B2C companies",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1733082630,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/telli",
+    "api": "https://yc-oss.github.io/api/batches/f24/telli.json"
+  },
+  {
     "id": 30022,
     "name": "Symphony",
     "slug": "symphony",
@@ -46176,17 +46216,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a50815d6d550fb22a7b50d80c60786ccb0d8576d.png",
     "website": "https://getsymphony.co",
     "all_locations": "New York, NY, USA",
-    "long_description": "Symphony helps enterprises hire and train their customer-facing employees using interactive AI voice simulations of real-world scenarios. Users can create an infinite number of simulations that allow their teams to practice the job - avoiding costly mistakes with real customers. For example, we’re live with 2 of the top 3 auto insurers in NA, helping train 1000s of newly hired claims adjusters. ",
+    "long_description": "Symphony helps enterprises train their customer-facing employees using interactive AI voice simulations of real-world scenarios. Users can create an infinite number of simulations that allow their teams to practice the job - avoiding costly mistakes with real customers. For example, we’re live with 2 of the top 3 auto insurers in NA, helping train 1000s of newly hired claims adjusters. ",
     "one_liner": "Voice AI sims for next-gen employee training",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1730410520,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46267,7 +46307,9 @@
     "tags": [
       "SaaS",
       "B2B",
-      "Scheduling"
+      "Scheduling",
+      "Healthcare",
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46390,10 +46432,10 @@
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1729721651,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Recruiting",
       "Talent Acquisition",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -46417,6 +46459,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lightscreen-ai",
     "api": "https://yc-oss.github.io/api/batches/f24/lightscreen-ai.json"
+  },
+  {
+    "id": 30046,
+    "name": "Vocera",
+    "slug": "vocera",
+    "former_names": [
+      "Lex"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d27c1f82fbc4e1e5864fe20574139df89773eab.png",
+    "website": "https://www.vocera.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Are you building AI voice agents like receptionists, customer support, or sales reps? Do you find yourself manually testing your bot by calling it? We faced similar challenges, especially being in a regulated industry. That's why we developed Vocera - a solution that automates the testing process for your voice agents. With Vocera, you can prove your reliability before going live, test every update seamlessly, and scale your operations efficiently.\r\n\r\nReplicating a real world conversation is hard. Our AI simulates these scenarios using workflows, personas and past conversations.\r\n\r\nWe are already talking to AI for ordering food, getting appointments and even interviews. The market is aptly getting flooded with AI voice agents built by thousands of companies. We make them dependable.",
+    "one_liner": "Testing & Observability for AI voice agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728616885,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Conversational AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vocera",
+    "api": "https://yc-oss.github.io/api/batches/f24/vocera.json"
   },
   {
     "id": 30050,
@@ -46780,9 +46867,9 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1731944906,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46999,11 +47086,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1729032291,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47079,7 +47166,7 @@
     "website": "https://www.canvas.inc/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Canvas is the AI-copilot for enterprise customer success teams. By automatically surfacing and addressing the most critical risks and growth opportunities, we transform CSMs from reactive support managers into proactive growth drivers.",
-    "one_liner": "The AI Copilot for Customer Success",
+    "one_liner": "AI-Copilot for Customer Success Teams",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",

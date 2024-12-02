@@ -17573,10 +17573,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c87a6ed342316be397663cebac7a3099c11d1320.png",
     "website": "https://skio.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "New York, NY, USA; Remote",
     "long_description": "Skio ($10M+ ARR in 3 years, profitable) is subscription management software for brands on Shopify. Customers include Liquid I.V., Milk Bar, Polaroid, Barstool, Unilever, KraveBeauty, Boba Tea Protein, & Siete.",
     "one_liner": "Subscriptions for Shopify",
-    "team_size": 42,
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1594268849,
@@ -17601,7 +17601,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -20961,6 +20961,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/resquared",
     "api": "https://yc-oss.github.io/api/batches/w21/resquared.json"
+  },
+  {
+    "id": 22997,
+    "name": "Codingal",
+    "slug": "codingal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77d50a678b852201eb874c4f38a23e0db3307c4c.png",
+    "website": "https://www.codingal.com",
+    "all_locations": "Bengaluru, KA, India",
+    "long_description": "Codingal (www.codingal.com) is a leading online after-school where kids & teens learn coding from expert instructors through live, interactive classes. Our mission is to build the world’s largest & most loved programming school for kids & teens, powered by human & AI tutors.\r\n\r\nMany countries have great technical universities but literally zero programming education at the K-12 level. Parents want their kids to get started with programming earlier, and that's why they use Codingal.\r\n\r\nAll our instructors come from Computer Science background, and they are rigorously vetted and trained. Every student gets a personalized learning path and individual attention in 1:1 private classes or small group classes with expert instructors. Students learn by building apps, games, animations, and websites in a fun & engaging way.\r\n\r\nKids find it so fun & engaging that NPS is just outstanding - 86. They have rated teachers at 4.9 out of 5. Curriculum content is rated at 4.8 out of 5.\r\n\r\nCodingal is on a mission to inspire kids to fall in love with coding, and provide the right education to them who will be able to create anything they can imagine and build the future when they grow up to become entrepreneurs, engineers, and scientists.",
+    "one_liner": "Leading online after-school where kids & teens learn coding",
+    "team_size": 70,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1616469948,
+    "tags": [
+      "Education",
+      "eLearning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W21",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "India",
+      "South Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/codingal",
+    "api": "https://yc-oss.github.io/api/batches/w21/codingal.json"
   },
   {
     "id": 23017,
@@ -28855,15 +28896,15 @@
     "website": "https://www.getsphere.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sphere helps US software companies manage their global sales tax / VAT / GST compliance requirements.\r\n\r\nOur platform helps with everything from nexus monitoring, registration, calculation and filing/remittance.\r\n\r\nCompanies like Runway AI choose our platform because we’re the only product that offers true global coverage, is easy to implement and reasonably priced.\r\n\r\n- We're growing rapidly (20%+ MoM revenue growth) and have signed customers like Runway AI, Sierra AI, Codeium + many more\r\n- We're building the world's first tax-focused LLMs (which we believe will be the foundation for a broader cross border compliance platform; think Deel for international billing)\r\n- We're well funded by Felicis Ventures and the founders of Flexport, Lyft, Betterup, Go1 and Xendit",
-    "one_liner": "AI-powered cross-border compliance",
+    "one_liner": "AI-powered sales tax, VAT and GST compliance",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1640146843,
     "tags": [
-      "Artificial Intelligence",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37615,45 +37656,6 @@
     "api": "https://yc-oss.github.io/api/batches/w23/berry.json"
   },
   {
-    "id": 28115,
-    "name": "Vellum",
-    "slug": "vellum",
-    "former_names": [
-      "Vocify"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cdc37dab125e7d4bef1e071544a86e8c3b5ff64.png",
-    "website": "https://www.vellum.ai/",
-    "all_locations": "Remote",
-    "long_description": "Prompt Engineering: Super powers for prompt engineers\r\n- Compare prompts, models, and even LLM providers side-by-side\r\n- Curate a library of test cases to evaluate prompts against\r\n- Quantitatively evaluate the output of your prompts using industry-standard ML metrics (Bleu, Meteor, Levenshtein distance, Semantic similarity)\r\n\r\nDeployments: Confidently iterate on models in production\r\n- Simple API interface that proxies requests to any model provider\r\n- Back-testing & version control\r\n- Observability of all your inputs and outputs; UI & API to submit explicit or implicit user feedback\r\n\r\nDocuments: Use your proprietary data in LLM applications\r\n- Robust API endpoint to submit documents (“corpus of text”) for querying against\r\n- Configurable chunking and semantic search strategies\r\n- Ability to query against corpus of text at run time\r\n\r\nContinuous Improvement: Continuously fine-tune to improve quality and lower cost\r\n- Passively accumulate training data to fine-tune your own proprietary models\r\n- Swap model providers or parameters under the hood – no code changes required\r\n\r\nWe’re a team of MIT engineers and McKinsey consultants who’ve been building apps on GPT-3 for 3 years since it first came out. We’ve built similar tools in MLOps for 4 years and have closely experienced the pain we’re solving for our customers today.\r\n\r\nWe believe that AI is the greatest technological leap since the internet. Our mission is to help companies adopt AI by taking their prototypes to production. If you have an AI use-case in mind, please reach out!",
-    "one_liner": "The AI Product Development Platform",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1673626837,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/vellum",
-    "api": "https://yc-oss.github.io/api/batches/w23/vellum.json"
-  },
-  {
     "id": 28127,
     "name": "Benchmark",
     "slug": "benchmark",
@@ -42880,6 +42882,42 @@
     "api": "https://yc-oss.github.io/api/batches/w24/prosights.json"
   },
   {
+    "id": 29402,
+    "name": "Yondu",
+    "slug": "yondu",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b7969c1cf6999d5b5333e8a0fd7ca63e13f079f.png",
+    "website": "https://yondu.ai/",
+    "all_locations": "",
+    "long_description": "Yondu develops robots to help fill the over 4 million unfilled retail jobs. Our first robot is designed to pick, stock, and face shelves in grocery stores. We believe the next phase of robotics is in multi use robots that operate in dynamic environments around people. ",
+    "one_liner": "Grocery Store Automation with Intelligent Robotics",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1709280983,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/yondu",
+    "api": "https://yc-oss.github.io/api/batches/w24/yondu.json"
+  },
+  {
     "id": 29404,
     "name": "DianaHR",
     "slug": "dianahr",
@@ -45706,9 +45744,9 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1730139932,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45783,9 +45821,9 @@
     "subindustry": "B2B -> Retail",
     "launched_at": 1729012958,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
-      "Retail Tech",
-      "AI"
+      "Retail Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,

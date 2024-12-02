@@ -261,6 +261,46 @@
     "api": "https://yc-oss.github.io/api/batches/f24/showandtell.json"
   },
   {
+    "id": 30021,
+    "name": "telli",
+    "slug": "telli",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41d94322ad309a45791f3a38d5d9cfbbe7f39b35.png",
+    "website": "https://telli.com/en/",
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "telli is building AI voice agents that convert leads into sales opportunities for B2C companies. For example, a leading home-buying platform is using telli to fully automate their pre-qualification.\r\n\r\nWe are serving customers in energy, real estate, medical products, and home services.\r\n\r\nYou might think that these B2C companies want to do more self-serve and less outreach. But the truth is outbound calls are what really drive conversion. Historically, managing these calls has been complex and expensive—costing companies hundreds of thousands of dollars. With telli, for the first time, B2C companies can automate the role of a pre-sales agent, end to end.",
+    "one_liner": "outbound call automation for B2C companies",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1733082630,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/telli",
+    "api": "https://yc-oss.github.io/api/batches/f24/telli.json"
+  },
+  {
     "id": 30022,
     "name": "Symphony",
     "slug": "symphony",
@@ -268,17 +308,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a50815d6d550fb22a7b50d80c60786ccb0d8576d.png",
     "website": "https://getsymphony.co",
     "all_locations": "New York, NY, USA",
-    "long_description": "Symphony helps enterprises hire and train their customer-facing employees using interactive AI voice simulations of real-world scenarios. Users can create an infinite number of simulations that allow their teams to practice the job - avoiding costly mistakes with real customers. For example, we’re live with 2 of the top 3 auto insurers in NA, helping train 1000s of newly hired claims adjusters. ",
+    "long_description": "Symphony helps enterprises train their customer-facing employees using interactive AI voice simulations of real-world scenarios. Users can create an infinite number of simulations that allow their teams to practice the job - avoiding costly mistakes with real customers. For example, we’re live with 2 of the top 3 auto insurers in NA, helping train 1000s of newly hired claims adjusters. ",
     "one_liner": "Voice AI sims for next-gen employee training",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1730410520,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -400,7 +440,9 @@
     "tags": [
       "SaaS",
       "B2B",
-      "Scheduling"
+      "Scheduling",
+      "Healthcare",
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -478,9 +520,9 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1731882747,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -521,9 +563,9 @@
     "subindustry": "Consumer",
     "launched_at": 1731102747,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
-      "Retail Tech"
+      "Retail Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -811,10 +853,10 @@
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1729721651,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Recruiting",
       "Talent Acquisition",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -942,10 +984,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729643205,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1055,7 +1097,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/vespper",
     "api": "https://yc-oss.github.io/api/batches/f24/vespper.json"
   },
@@ -1164,9 +1206,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1728616885,
     "tags": [
+      "Developer Tools",
+      "SaaS",
       "B2B",
-      "Infrastructure",
-      "AI",
       "Conversational AI",
       "AI Assistant"
     ],
@@ -1201,14 +1243,14 @@
     "website": "https://www.lune.dev/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "A replacement to standard LLMs for coding tasks - eliminate hallucinations with a marketplace of expert LLMs trained on hundreds of technical topics.",
-    "one_liner": "Lune AI - Better GPT and Claude for coding",
+    "one_liner": "Better GPT and Claude for coding",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1731874326,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -1631,9 +1673,9 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1730139932,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1672,10 +1714,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1730337457,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
-      "Compliance"
+      "Compliance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1713,11 +1755,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1728389519,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "International"
+      "International",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1972,11 +2014,11 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1731569238,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
       "Compliance",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2048,17 +2090,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e33a2875f652bdd69936c606147614f5fff8283.png",
     "website": "http://www.pearsonlabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pearson builds AI agents to automate corporate transactions. We work with Orrick as our first design partner to automate away 40-60% of their costs of delivery, starting with M&A due diligence and financings. $3-6T dollars flow through corporate transactions a year and lawyers take home 1-3% as their cut for every transaction. In the long run, we automate corporate transactions so companies can execute these transactions themselves.",
+    "long_description": "Pearson builds AI agents to automate corporate transactions. Large law firms use us to run gigantic books of businesses with AI, reducing their cost of delivery 40-60%. We work with Orrick as our first design partner, starting with M&A due diligence and financings. $3-6T dollars flow through corporate transactions a year and lawyers take home 1-3% as their cut for every transaction ($150B / year). In the long run, we will capture 50% of the corporate transaction market with the top 30 law firms. We will then provide our AI to companies so they can execute these transactions themselves.",
     "one_liner": "AI agents to automate corporate transactions",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1731901982,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Legal",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2819,9 +2861,9 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1731944906,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2986,9 +3028,9 @@
     "subindustry": "B2B -> Retail",
     "launched_at": 1729012958,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
-      "Retail Tech",
-      "AI"
+      "Retail Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3495,11 +3537,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1731196685,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "DevOps",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3579,11 +3621,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1729032291,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3659,7 +3701,7 @@
     "website": "https://www.canvas.inc/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Canvas is the AI-copilot for enterprise customer success teams. By automatically surfacing and addressing the most critical risks and growth opportunities, we transform CSMs from reactive support managers into proactive growth drivers.",
-    "one_liner": "The AI Copilot for Customer Success",
+    "one_liner": "AI-Copilot for Customer Success Teams",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -3836,9 +3878,9 @@
     "subindustry": "Unspecified",
     "launched_at": 1731992228,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Manufacturing"
+      "Manufacturing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3957,9 +3999,9 @@
     "subindustry": "Unspecified",
     "launched_at": 1731272455,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
