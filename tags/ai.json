@@ -2073,7 +2073,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b16e65239377a055987a5fda8f301c3a3cd7876f.png",
     "website": "https://yummy-future.com",
     "all_locations": "Champaign, IL, USA",
-    "long_description": "We achieve this through a unique blend of traditional coffee-making values—sourcing the best beans, understanding the nuances of roasting, and mastering the art of brewing—with cutting-edge technological innovation. Our cafes are not just spaces but experiences, where the artistry of the human barista is enhanced by the precision and efficiency of robotics. This synergy allows us to deliver consistently exceptional coffee, tailored to individual tastes, at a speed and scale previously unimaginable.\r\n\r\nBut it's not just about the coffee. It's about the experience—the moment of pause in a busy day, the space for conversation, the ritual that centers us. Our technology doesn't replace the human touch; it amplifies it, making the luxury of a perfectly crafted cup of coffee accessible to everyone, everywhere.\r\n\r\nAs we look to the future, our goal is to continue innovating, to push the boundaries of what a coffee company can be. We're not just serving drinks; we're creating a community united by a love for life. We're building a world where technology and tradition coexist, enhancing our lives and enriching our connections. One cup at a time, we're making the world a better place—through the universal language of coffee.",
+    "long_description": "We achieve this through a unique blend of traditional coffee-making values—sourcing the best beans, understanding the nuances of roasting, and mastering the art of brewing—with cutting-edge technological innovation. ",
     "one_liner": "We build robotic coffee shops.",
     "team_size": 7,
     "industry": "Industrials",
@@ -2081,8 +2081,8 @@
     "launched_at": 1556675968,
     "tags": [
       "Hard Tech",
+      "Hardware",
       "Robotics",
-      "Food & Beverage",
       "AI"
     ],
     "tags_highlighted": [],
@@ -14074,51 +14074,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/keywords-ai.json"
   },
   {
-    "id": 29328,
-    "name": "Guide Labs",
-    "slug": "guide-labs",
-    "former_names": [
-      "Guide Labs Inc"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
-    "website": "https://www.guidelabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Guide labs, we build Interpretable AI systems, on any data modality, that can reliably explain their reasoning, and are easy to steer and debug. We provide access to these models via an API. ",
-    "one_liner": "Interpretable AI systems",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1709806941,
-    "tags": [
-      "Generative AI",
-      "Machine Learning",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/guide-labs",
-    "api": "https://yc-oss.github.io/api/batches/w24/guide-labs.json"
-  },
-  {
     "id": 29330,
     "name": "Speck",
     "slug": "speck",
@@ -17714,50 +17669,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/parity.json"
   },
   {
-    "id": 29721,
-    "name": "Panora",
-    "slug": "panora",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/10b041265670ef03fc794bc6300cf8eef692d02a.png",
-    "website": "https://panora.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Panora makes it easy for developers to build AI products that have access to business data.\r\nWe do this by providing both data connectors and transformers under a single well-documented API. \r\nIn a few hours instead of weeks - Developers give their AI agents and copilots access to data in CRMs, File Storage platforms, project management tools\r\n",
-    "one_liner": "Data Connectors for LLMs",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1715907913,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "API",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/panora",
-    "api": "https://yc-oss.github.io/api/batches/s24/panora.json"
-  },
-  {
     "id": 29727,
     "name": "Overstand Labs",
     "slug": "overstand-labs",
@@ -20048,46 +19959,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/dreamrp.json"
   },
   {
-    "id": 30014,
-    "name": "fixa",
-    "slug": "fixa",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45765460c3699e337b466745ffabfc89fbedc807.png",
-    "website": "https://www.fixa.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fixa is the Sentry for AI voice agents. Companies like 11x and OfOne use us to run simulated tests, analyze production calls, and fix bugs in their voice agents. \r\n\r\nWe were both voice agent developers at PlayHT – and, in order to find bugs in our agents, we would spend countless hours manually calling them and listening to conversation recordings. So, we’ve decided to build a platform that does this automatically. \r\n\r\nFixa shows developers exactly where and how their agents mess up – enabling them to pinpoint root causes and fix them faster. ",
-    "one_liner": "sentry for AI voice agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1731468857,
-    "tags": [
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fixa",
-    "api": "https://yc-oss.github.io/api/batches/f24/fixa.json"
-  },
-  {
     "id": 30016,
     "name": "Andoria",
     "slug": "andoria",
@@ -20510,66 +20381,24 @@
     "api": "https://yc-oss.github.io/api/batches/f24/healthspark.json"
   },
   {
-    "id": 30038,
-    "name": "Lightscreen AI",
-    "slug": "lightscreen-ai",
+    "id": 30039,
+    "name": "Raycaster",
+    "slug": "raycaster",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe703a7786db01d44cd03aafbbbf2dd7b0cc99cf.png",
-    "website": "https://lightscreen.ai",
-    "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Lightscreen’s voice + video AI interviewer enables companies to identify and invest in genuinely skilled candidates. It's already being used by high-growth startups to screen technical candidates. \r\n\r\nWe provide companies with a voicebot that can run a full-length technical interview, does smart interruptions, and multi-modal cheating detection. The AI provides the company rubric-based, rich candidate evaluation in minutes and can be fully customized to ask questions and evaluate based on the company's needs. ",
-    "one_liner": "Voice + video AI interviewer",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9792a6e3d48255a53bbf6af175652a0f22302159.png",
+    "website": "https://raycaster.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Raycaster is a private investigator for enterprise sales teams. When companies need to sell complex products, we automatically surface detailed insights about their prospects - helping them land 6-figure deals in weeks instead of months.\r\n\r\nOur customers are using Raycaster to uncover everything from lab equipment specifications to API performance metrics - insights that traditionally took months of manual research and required technical knowhow of their top 1% performers.\r\n\r\nWhat makes us unique is our ability to surface customer insights automatically and contextually, something we perfected building AI systems at Uber, Meta, and Apple that anticipated user needs before they asked.\r\n\r\nThe opportunity is massive: 200k B2B software companies are selling complex products, representing a $10B market. We're starting with enterprise sales and expanding to every function that needs intelligent research to do their best work.",
+    "one_liner": "Private investigator for enterprise sales",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1729721651,
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1729820914,
     "tags": [
-      "SaaS",
-      "Recruiting",
-      "Talent Acquisition",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
       "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lightscreen-ai",
-    "api": "https://yc-oss.github.io/api/batches/f24/lightscreen-ai.json"
-  },
-  {
-    "id": 30041,
-    "name": "Revyl",
-    "slug": "revyl",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/711329d9565ffe6020950612deecb8f5845b82f5.png",
-    "website": "https://www.revyl.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Revyl is an observability platform that automatically catches and triages bugs before they reach production.",
-    "one_liner": "Proactive observability",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1729643205,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Infrastructure",
+      "Productivity",
+      "Sales",
+      "Enterprise",
       "AI"
     ],
     "tags_highlighted": [],
@@ -20580,19 +20409,21 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Sales"
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/revyl",
-    "api": "https://yc-oss.github.io/api/batches/f24/revyl.json"
+    "url": "https://www.ycombinator.com/companies/raycaster",
+    "api": "https://yc-oss.github.io/api/batches/f24/raycaster.json"
   },
   {
     "id": 30042,
@@ -20855,47 +20686,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/luthor",
     "api": "https://yc-oss.github.io/api/batches/f24/luthor.json"
-  },
-  {
-    "id": 30059,
-    "name": "Sphinx",
-    "slug": "sphinx",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe6a1b58847c1e53f0596617c9f63de97d49acc2.png",
-    "website": "https://sphinxlabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sphinx automates the manual work of compliance analysts. Our AI agents make AML decisions, helping banks and fintech eliminate onboarding bottlenecks.\r\n",
-    "one_liner": "AI Compliance Analysts for Banks & Fintechs",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1730337457,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "Compliance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sphinx",
-    "api": "https://yc-oss.github.io/api/batches/f24/sphinx.json"
   },
   {
     "id": 30060,
@@ -21325,47 +21115,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/diffusion-studio.json"
   },
   {
-    "id": 30110,
-    "name": "Forerunner AI",
-    "slug": "forerunner-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/683490b8ed63456c153999da3c193d23b5d08e78.png",
-    "website": "https://tryforerunner.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Forerunner is your aerospace, defense, and hardware engineering copilot, helping you beat tight deadlines by automating critical engineering workflows. Our secure AI agents access data from tools like Atlassian Suite and Microsoft Office, then collaborate with hardware engineers to accelerate design and analysis.",
-    "one_liner": "Copilot for aerospace engineers making rockets, munitions, satellites",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1730181783,
-    "tags": [
-      "Manufacturing",
-      "Aerospace",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/forerunner-ai",
-    "api": "https://yc-oss.github.io/api/batches/f24/forerunner-ai.json"
-  },
-  {
     "id": 30112,
     "name": "Fix AI",
     "slug": "fix-ai",
@@ -21490,48 +21239,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/relvy-ai",
     "api": "https://yc-oss.github.io/api/batches/f24/relvy-ai.json"
-  },
-  {
-    "id": 30118,
-    "name": "Ember Copilot",
-    "slug": "ember-copilot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc4c02e697fb21ae99bab2ac805d924074318bc8.png",
-    "website": "https://www.embercopilot.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help surgery centers automate medical scribing, coding, and more, all directly integrated within their EHR.  ",
-    "one_liner": "The only medical scribe that reduces claim denials by 55%",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1728536375,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Digital Health",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ember-copilot",
-    "api": "https://yc-oss.github.io/api/batches/f24/ember-copilot.json"
   },
   {
     "id": 30119,

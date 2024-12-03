@@ -3277,7 +3277,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W20",
     "status": "Active",
@@ -8674,17 +8674,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
     "website": "https://www.guidelabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Guide labs, we build Interpretable AI systems, on any data modality, that can reliably explain their reasoning, and are easy to steer and debug. We provide access to these models via an API. ",
+    "long_description": "At Guide labs, we build Interpretable foundation models and AI systems that can reliably explain their reasoning, and are easy to audit, steer and understand. We provide access to these models via our API. ",
     "one_liner": "Interpretable AI systems",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709806941,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Machine Learning",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8697,9 +8697,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9059,6 +9057,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moonglow",
     "api": "https://yc-oss.github.io/api/batches/s24/moonglow.json"
+  },
+  {
+    "id": 29665,
+    "name": "Aviary",
+    "slug": "aviary",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fc325e402d4fb47f73cacaa5afa2b1d0606622e.png",
+    "website": "https://aviary.video",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hi, we're Aviary. Our software understands video content as well as any human, so that you can understand and analyze millions of videos in a fraction of the time and cost it would take a human.\r\n\r\nThe founding team comes from Snapchat, Notion, Pinterest, CMU, University of Toronto, with extensive background in multimodal machine learning and in building search systems at scale.",
+    "one_liner": "Video Intelligence",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1723146818,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Video",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aviary",
+    "api": "https://yc-oss.github.io/api/batches/s24/aviary.json"
   },
   {
     "id": 29673,
@@ -9805,7 +9848,7 @@
     "slug": "hyphen",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7895a461242ef2ca60469f6f46d26def9dd88819.png",
-    "website": "https://hyphenlabs.tech",
+    "website": "https://www.hyphenlabs.tech",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hyphen enables Medical AI research teams and decision support solutions prepare high quality training datasets from CT Scans, X Rays and MRIs. With Hyphen, you can collect radiology data from hospitals/labs and create workflows for annotation & reviews. Hyphen also allows monitoring the skill levels of the labelling workforce. We equip labelers with AI-assists for annotations, 3D tools to view and make pixel-perfect markings while enabling reviewers to set up automated error-checking using consensus mechanisms.",
     "one_liner": "Medical Data Annotation Software",

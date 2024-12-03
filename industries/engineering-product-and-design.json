@@ -20397,51 +20397,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/frontio-by-nextui.json"
   },
   {
-    "id": 29810,
-    "name": "Actionbase",
-    "slug": "actionbase",
-    "former_names": [
-      "OpenIndex",
-      "Actionbase",
-      "actionbase"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45e844f16ef43f9b7e0b85af2ef8054c311e8481.png",
-    "website": "https://actionbase.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Actionbase builds tools that make the internet programmatically interactable. Our first tool is an SDK for automating popular websites.",
-    "one_liner": "Automate popular websites in a few lines of code",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1723408013,
-    "tags": [
-      "Developer Tools",
-      "API",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/actionbase",
-    "api": "https://yc-oss.github.io/api/batches/s24/actionbase.json"
-  },
-  {
     "id": 29814,
     "name": "Vendra",
     "slug": "vendra",
@@ -20881,7 +20836,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1731468857,
     "tags": [
-      "AI",
+      "Artificial Intelligence",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -21042,7 +20997,7 @@
     "former_names": [
       "Merlinn"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc46cce4531bcb8cd250abaee08dfc030c7bb3b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8071a4dd821b17c48fe53b21be58c8dd37534c31.png",
     "website": "https://vespper.com",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "long_description": "Vespper is an on-call engineer running 24/7 to troubleshoot your alerts and surface the right data to help you resolve your issue so incidents never falls through the cracks.",
@@ -21538,5 +21493,44 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/humanlayer",
     "api": "https://yc-oss.github.io/api/batches/f24/humanlayer.json"
+  },
+  {
+    "id": 30204,
+    "name": "Subtrace",
+    "slug": "subtrace",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4695455b866792efbea7a77ffcd942f140ee2274.png",
+    "website": "https://subtrace.dev",
+    "all_locations": "",
+    "long_description": "We make it easy to watch everything happening in your servers by tracking the API requests coming in / going out and storing this data in ClickHouse. Later, when you're solving a problem in production, you can filter for the requests you care about using simple SQL queries and dig into the details. You'll never have to print() a HTTP request again.",
+    "one_liner": "Chrome DevTools for your backend",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1733176117,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/subtrace",
+    "api": "https://yc-oss.github.io/api/batches/w25/subtrace.json"
   }
 ]

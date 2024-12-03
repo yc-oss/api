@@ -1414,7 +1414,7 @@
       "SaaS",
       "Analytics",
       "E-commerce",
-      "Data Engineering",
+      "Marketing",
       "Infrastructure"
     ],
     "tags_highlighted": [],
@@ -2379,18 +2379,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/10b041265670ef03fc794bc6300cf8eef692d02a.png",
     "website": "https://panora.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Panora makes it easy for developers to build AI products that have access to business data.\r\nWe do this by providing both data connectors and transformers under a single well-documented API. \r\nIn a few hours instead of weeks - Developers give their AI agents and copilots access to data in CRMs, File Storage platforms, project management tools\r\n",
-    "one_liner": "Data Connectors for LLMs",
+    "long_description": "Panora helps warehouses drive more business by connecting to any e-commerce platform and provides an AI assistant that automates data entry into WMS & ERPs platforms.",
+    "one_liner": "AI Copilot for Warehouse Coordinators",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1715907913,
     "tags": [
-      "Developer Tools",
-      "Open Source",
+      "Artificial Intelligence",
+      "Warehouse Management Tech",
+      "Logistics",
       "API",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2463,9 +2463,9 @@
     "former_names": [
       "Thunder"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f41c1e3ea873ecf72e295ba7e2661334c89c3d60.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/501bda7eaf23c59e167bae838b7a5bc2328b2fdb.png",
     "website": "https://thundercompute.com",
-    "all_locations": "",
+    "all_locations": "Atlanta, GA, USA",
     "long_description": "GPUs are in extremely high demand for AI development. A single GPU server can cost up to $300K. Despite this, GPUs in data centers are only utilized an average of 15-20% of the time. Thunder Compute is building technology to increase GPU utilization from 15-20% to 90%+, meaning that each GPU can be shared by 5x as many developers as in data centers today. Our technology achieves this efficiency gain by allowing all of the servers in a data center to share a single pool of network-attached GPUs rather than physically attaching a GPU to each server. Try Thunder Compute at docs.thundercompute.com/quickstart",
     "one_liner": "Virtualization software to make GPUs 5x cheaper",
     "team_size": 3,
@@ -2490,7 +2490,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -2695,10 +2696,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729643205,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2982,5 +2983,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/synth-3",
     "api": "https://yc-oss.github.io/api/batches/f24/synth-3.json"
+  },
+  {
+    "id": 30204,
+    "name": "Subtrace",
+    "slug": "subtrace",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4695455b866792efbea7a77ffcd942f140ee2274.png",
+    "website": "https://subtrace.dev",
+    "all_locations": "",
+    "long_description": "We make it easy to watch everything happening in your servers by tracking the API requests coming in / going out and storing this data in ClickHouse. Later, when you're solving a problem in production, you can filter for the requests you care about using simple SQL queries and dig into the details. You'll never have to print() a HTTP request again.",
+    "one_liner": "Chrome DevTools for your backend",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1733176117,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/subtrace",
+    "api": "https://yc-oss.github.io/api/batches/w25/subtrace.json"
   }
 ]
