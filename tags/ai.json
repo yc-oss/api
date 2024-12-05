@@ -6229,50 +6229,6 @@
     "api": "https://yc-oss.github.io/api/batches/w22/reality-defender.json"
   },
   {
-    "id": 26505,
-    "name": "Layerup",
-    "slug": "layerup",
-    "former_names": [
-      "DAOfront",
-      "Coinbooks"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8642dde96f05262417ace24dc6a69378230796d.png",
-    "website": "https://www.uselayerup.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Layerup's mission is to boost innovation in industries that lack it, starting by bringing AI securely to enterprises.",
-    "one_liner": "AI Agents for Compliance Operations",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1645952902,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/layerup",
-    "api": "https://yc-oss.github.io/api/batches/s22/layerup.json"
-  },
-  {
     "id": 26662,
     "name": "Paces",
     "slug": "paces",
@@ -6970,7 +6926,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -7019,7 +6975,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -7180,6 +7136,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/newscatcher",
     "api": "https://yc-oss.github.io/api/batches/s22/newscatcher.json"
+  },
+  {
+    "id": 26890,
+    "name": "Latent Space",
+    "slug": "latent-space",
+    "former_names": [
+      "wagmi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c0b56165e84e87a8ef9fc8ec4eddc18beadea9d.png",
+    "website": "https://latentspace.sh/",
+    "all_locations": "Jakarta, Jakarta, Indonesia",
+    "long_description": "Latent Space develops AI applications specifically designed to address the unique challenges and opportunities in emerging economies. Our first products are GoVisa (AI-enabled online visa and permits application) and SuperAI (administrative workflows automation) for the Indonesian and Southeast Asian markets.",
+    "one_liner": "Applied AI for The Emerging Economies",
+    "team_size": 16,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1657560214,
+    "tags": [
+      "SaaS",
+      "Workflow Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "Indonesia",
+      "Southeast Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/latent-space",
+    "api": "https://yc-oss.github.io/api/batches/s22/latent-space.json"
   },
   {
     "id": 26897,
@@ -8682,8 +8682,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f51be3e6016c33657688a682b7eb23e8ee1044a.png",
     "website": "https://www.usehaven.ai/",
     "all_locations": "",
-    "long_description": "Haven is building AI models to automate property management operations. Our first product, Marvin, is a front-desk assistant that can answer up to 80% of resident phone calls and requests on behalf of the property staff.\r\n",
-    "one_liner": "AI to automate property management operations",
+    "long_description": "Haven is building AI Agents to automate property management operations. Our first Agent is automating the maintenance coordination process. This means answering the phone when tenants have a maintenance issue, diagnosing the issue, dispatching a technician, and then following up with tenants to make sure the issue is resolved.\r\n",
+    "one_liner": "AI workforce for property management",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -9608,7 +9608,7 @@
     "name": "Sherloq",
     "slug": "sherloq",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9acb982aa3f9ab0fb989effb6d11745c8de59519.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/303c40c74b1c65d00ba6f772b138135819922051.png",
     "website": "http://sherloqdata.io/",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "long_description": "Companies use Sherloq as their single source of truth for their SQL on top of their existing data stack.\r\n\r\nToday, data-driven organizations face the challenge of giving 2 of their data analysts the same task and getting 2 totally different results from their analysis. Although SQL is the #1 coding language for data analysis, it is still managed independently on each user's internal documentation tools (notepads, Slack channels, or docx files).\r\nCreating one source of truth is an ongoing difficult process, that’s done manually and takes time to implement. \r\n\r\nUsing our plugin on top of our user's existing query editors, companies can now manage their SQL code in one place.\r\nWe ourselves are data users and we've built Sherloq to fit the exact needs of data teams, becoming a true alternative to the way SQL is being managed today.",
@@ -11736,52 +11736,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/sizeless.json"
   },
   {
-    "id": 28976,
-    "name": "Crew",
-    "slug": "crew-2",
-    "former_names": [
-      "Social Inc.",
-      "Pampas Inc.",
-      "Pampas"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d212d1d469884e8e337c874f85c3da9682d9d59.png",
-    "website": "https://www.trycrew.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI-powered recruiting and HR platform. Find and hire the best pre-vetted global software talent and simplify onboarding, payroll, and compliance. ",
-    "one_liner": "AI platform to hire and onboard your global team",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1691417670,
-    "tags": [
-      "B2B",
-      "Recruiting",
-      "HR Tech",
-      "Payroll",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/crew-2",
-    "api": "https://yc-oss.github.io/api/batches/s23/crew-2.json"
-  },
-  {
     "id": 28979,
     "name": "Slicker",
     "slug": "slicker",
@@ -11867,6 +11821,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inlet-2",
     "api": "https://yc-oss.github.io/api/batches/s23/inlet-2.json"
+  },
+  {
+    "id": 28992,
+    "name": "Rankai",
+    "slug": "rankai",
+    "former_names": [
+      "LineUp"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d8be8a05c36ad89e0a6589a8573fae10d75c592.png",
+    "website": "https://rankai.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Marketing agencies are expensive and human-powered. Rankai is building AI agents to replace them. \r\n\r\nOur first AI agent automates the entire SEO process and makes it 20x more affordable. ",
+    "one_liner": "Building AI Agents to replace Marketing Agencies",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1731442233,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Marketing",
+      "SEO",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rankai",
+    "api": "https://yc-oss.github.io/api/batches/s23/rankai.json"
   },
   {
     "id": 28994,
@@ -14087,6 +14086,51 @@
     "api": "https://yc-oss.github.io/api/batches/w24/tusk.json"
   },
   {
+    "id": 29314,
+    "name": "Lucite",
+    "slug": "lucite",
+    "former_names": [
+      "My Analyst",
+      "MyAnalyst"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/858c3c063dfedd813fbec2ad5e3c30a120380f2c.png",
+    "website": "https://www.lucite.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Lucite automates insurance carrier document analysis, data processing, and content creation for benefits brokers and advisors. With Lucite, firms stay focused on driving more value for their clients, not more busy work. Lucite is designed only for processes that can be automated precisely and repeatedly, minimizing the possibility of errors. We extract and analyze information from plan designs, claims reports, and renewals documents with precision and speed, transforming them into useful insights. Then we deliver polished reports, decks, and other deliverables in your ideal format, so every document has a consistent style and structure. Lucite reliably and accurately automates away the most painful parts of your practice.",
+    "one_liner": "Automating data analysis and content creation for benefits advisors.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1705081211,
+    "tags": [
+      "SaaS",
+      "Finance",
+      "Productivity",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lucite",
+    "api": "https://yc-oss.github.io/api/batches/w24/lucite.json"
+  },
+  {
     "id": 29319,
     "name": "Meticulate",
     "slug": "meticulate",
@@ -15128,49 +15172,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/prosights",
     "api": "https://yc-oss.github.io/api/batches/w24/prosights.json"
-  },
-  {
-    "id": 29399,
-    "name": "Centauri AI",
-    "slug": "centauri-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2909e97f1b5b60712aa5c9853c288e7c547ac289.png",
-    "website": "https://centauri-ai.tech",
-    "all_locations": "Alameda, CA, USA",
-    "long_description": "Centauri AI is a modern ETL and Data Science platform for banks and investment firms, starting with Structured Finance. \r\n\r\nFinancial firms heavily rely on Excel, PDF, and PPT files to exchange complex asset details, leading analysts to spend hours crunching the files and extracting insights. Moreover, these data files and reports cannot be easily reused due to poor data infrastructure. \r\n\r\nPowered by AI, our product cuts hours of data wrangling work down to minutes and makes it possible to query past data easily. This helps firms evaluate assets faster and win more deals.\r\n\r\nSince launching last month, we've started a pilot with a brokerage team at a public investment bank that now uses our product daily. Aiming to serve over 100,000 investment teams needing complex data analysis for alternative investments, this opens up a potential $5 billion market.",
-    "one_liner": "The Modern ETL and Data Science Platform for Finance",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "B2B",
-    "launched_at": 1711328630,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "Data Science",
-      "Data Engineering",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Asset Management"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/centauri-ai",
-    "api": "https://yc-oss.github.io/api/batches/w24/centauri-ai.json"
   },
   {
     "id": 29400,
@@ -18816,14 +18817,14 @@
     "all_locations": "Redmond, WA, USA",
     "long_description": "Lumen Orbit is building a network of megawatt-scale data centers in space, scaleable to gigawatt capacity, to be able to train large models like GPT6. Falling launch costs give us access to abundant energy, passive cooling, and the ability to rapidly scale in space.\r\n\r\nIn Partnership with NVIDIA's Inception Program, we are launching our demonstrator satellite in May 2025, which will have 100x more powerful GPUs than have ever been operated in space. ",
     "one_liner": "Data centers in space",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1718841179,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Satellites",
+      "Climate",
       "Cloud Computing",
       "AI"
     ],
@@ -20199,7 +20200,7 @@
     "website": "https://www.tryshowandtell.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "ShowAndTell creates AI agents for dental patient operations. Our agents educate patients, boost case acceptance, and build lasting trust. We enable dental staff to focus on patient care rather than patient operations.",
-    "one_liner": "Agents for the dental operating model",
+    "one_liner": "Agents for dental operations",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "B2B -> Sales",
@@ -20355,46 +20356,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/summed-ai.json"
   },
   {
-    "id": 30030,
-    "name": "Encore",
-    "slug": "encore",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d010cda5e1d2ce7d7599631a5d9044149bb440e.png",
-    "website": "https://www.shopencore.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Encore is your go-to online shopping assistant for finding secondhand treasures. Our conversational search platform makes it easy and fun to browse platforms like Depop, eBay, Grailed, and Poshmark—all in one place. Whether you’re after styling tips, honest reviews, trend ideas, or tracking down that cool piece you saw in a movie or on social media, we’ve got you covered. Shopping should feel like having a personal expert by your side, helping you discover things you’ll truly love. With Encore, browsing becomes easy, fun, and actually rewarding.",
-    "one_liner": "Conversational search and discovery for secondhand products ",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1731102747,
-    "tags": [
-      "Consumer",
-      "Retail Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/encore",
-    "api": "https://yc-oss.github.io/api/batches/f24/encore.json"
-  },
-  {
     "id": 30034,
     "name": "HealthSpark",
     "slug": "healthspark",
@@ -20444,15 +20405,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9792a6e3d48255a53bbf6af175652a0f22302159.png",
     "website": "https://raycaster.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Raycaster is a private investigator for enterprise sales teams. When companies need to sell complex products, we automatically surface detailed insights about their prospects - helping them land 6-figure deals in weeks instead of months.\r\n\r\nOur customers are using Raycaster to uncover everything from lab equipment specifications to API performance metrics - insights that traditionally took months of manual digging by top performers.\r\n\r\nWhat makes us unique is our ability to surface customer insights automatically and contextually, something we perfected building AI systems at Uber, Meta, and Apple that anticipated user needs before they asked.\r\n\r\nWe're starting with enterprise sales and expanding to every function that needs intelligent research to do their best work.",
-    "one_liner": "Private investigator for enterprise sales",
+    "long_description": "Raycaster helps companies sell complex technical products by surfacing hidden insights about their prospects. Our customers use us to automatically uncover everything from lab equipment specifications to API performance metrics - research that traditionally took weeks of manual digging.\r\n\r\nWhat's exciting is how these insights naturally spread. Teams start with sales, then realize their product and strategy teams need this deep customer understanding too. We're building the intelligence layer that helps technical teams make better decisions.",
+    "one_liner": "Research agent for scientific sales",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1729820914,
     "tags": [
       "B2B",
-      "Productivity",
+      "Biotech",
       "Sales",
       "Enterprise",
       "AI"
@@ -20469,9 +20430,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -20698,45 +20657,45 @@
     "api": "https://yc-oss.github.io/api/batches/f24/keye.json"
   },
   {
-    "id": 30057,
-    "name": "Luthor",
-    "slug": "luthor",
+    "id": 30059,
+    "name": "Sphinx",
+    "slug": "sphinx",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/541e114d564e1114486b6a9d192704be24343bd3.png",
-    "website": "https://luthor.ai",
-    "all_locations": "",
-    "long_description": "One-click AI content generators have flooded the market with low-quality, cookie-cutter content. This makes it harder for brands that truly care to stand out. At Luthor we offer on-brand content that your readers will actually love to read. Our AI handles repetitive tasks like keyword research and data gathering, then creates the first draft. From there, we bring in domain experts and skilled writers to refine the content to fit your industry and adhere to your unique brand voice.\r\n \r\nAt Luthor we're taking back the internet and humanizing it one blog at a time.\r\n\r\n",
-    "one_liner": "AI-powered content, expertly refined by humans who know your brand.",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe6a1b58847c1e53f0596617c9f63de97d49acc2.png",
+    "website": "https://sphinxlabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sphinx automates the manual work of compliance analysts. Our AI agents make AML decisions, helping banks and fintech eliminate onboarding bottlenecks.\r\n",
+    "one_liner": "AI Compliance Analysts for Banks & Fintechs",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1730139932,
+    "industry": "Fintech",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1730337457,
     "tags": [
+      "Fintech",
       "B2B",
-      "Marketing",
+      "Compliance",
       "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "F24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Marketing"
+      "Fintech"
     ],
     "regions": [
-      "Remote",
-      "Partly Remote"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/luthor",
-    "api": "https://yc-oss.github.io/api/batches/f24/luthor.json"
+    "url": "https://www.ycombinator.com/companies/sphinx",
+    "api": "https://yc-oss.github.io/api/batches/f24/sphinx.json"
   },
   {
     "id": 30060,
@@ -20826,6 +20785,50 @@
     "api": "https://yc-oss.github.io/api/batches/f24/hybrd.json"
   },
   {
+    "id": 30067,
+    "name": "Platus",
+    "slug": "platus",
+    "former_names": [
+      "Openlaw"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/014b1ba3942482fbcc33d8bd34b870f8e4f598a4.png",
+    "website": "https://www.platus.com",
+    "all_locations": "",
+    "long_description": "Platus delivers fast, reliable legal infrastructure with a no-code platform and API, designed to support SMBs with instant access to notarization, legal drafting, e-signing, and workflow automations. Our solution removes the high costs and slow processing of traditional legal services, by empowering businesses to seamlessly manage compliance and legal tasks.",
+    "one_liner": "Instant Legal Infrastructure - Draft, Sign, Notarize & Process",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1731569238,
+    "tags": [
+      "B2B",
+      "Workflow Automation",
+      "Compliance",
+      "LegalTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/platus",
+    "api": "https://yc-oss.github.io/api/batches/f24/platus.json"
+  },
+  {
     "id": 30073,
     "name": "Pearson Labs",
     "slug": "pearson-labs",
@@ -20866,6 +20869,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pearson-labs",
     "api": "https://yc-oss.github.io/api/batches/f24/pearson-labs.json"
+  },
+  {
+    "id": 30074,
+    "name": "vly.ai",
+    "slug": "vly-ai-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f1f18d8b47e8fea70cee789ba9bf7d88a9f5e2b.png",
+    "website": "https://vly.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "vly.ai makes your entire team technical. we're automating web development by blending expert insights with our models to deliver faster growth, better performance, and updates at 10x less the cost.",
+    "one_liner": "Helping companies build full-stack software without developers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1730684290,
+    "tags": [
+      "SaaS",
+      "Enterprise Software",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vly-ai-2",
+    "api": "https://yc-oss.github.io/api/batches/f24/vly-ai-2.json"
   },
   {
     "id": 30077,
@@ -20992,6 +21037,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/permitportal",
     "api": "https://yc-oss.github.io/api/batches/f24/permitportal.json"
+  },
+  {
+    "id": 30090,
+    "name": "Origami Agents",
+    "slug": "origami-agents",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/044cfd68ccbe05f3075927ce91603fe06ca17b98.png",
+    "website": "https://www.origami-agents.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Every Origami Agent works like a dedicated human sales rep, analyzing websites, press releases, and product pages to bring you the top 1% of your customers every day.\r\n\r\nUse millions of Origami Agents to make sense of the other 99% of data that's not in structured databases.\r\n‎ \r\nPreviously, Finn built custom outbound solutions for over 20 startups, while Kenson was the CTO at an enterprise sales startup. We found ourselves building this tool for our customers over and over again, and that it worked 10x better than all other outbound strategies.\r\n‎ \r\nThere’s enough information on the internet to know exactly who your perfect customers are, and most sales teams still haven’t realized this yet.",
+    "one_liner": "Agents that find your perfect customers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1731183180,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Sales",
+      "Sales Enablement",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/origami-agents",
+    "api": "https://yc-oss.github.io/api/batches/f24/origami-agents.json"
   },
   {
     "id": 30096,
@@ -21252,49 +21340,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/melder.json"
   },
   {
-    "id": 30115,
-    "name": "SRE.ai",
-    "slug": "sre-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f375e97363cbcb8f0c3649db7b5728649c8cb303.png",
-    "website": "https://sre.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "SRE.ai provides AI Agents to power Low-Code DevOps for Low-Code Platforms like Salesforce, SAP, NetSuite, etc.",
-    "one_liner": "Automated DevOps for Low-Code Platforms",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1731196685,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "DevOps",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sre-ai",
-    "api": "https://yc-oss.github.io/api/batches/f24/sre-ai.json"
-  },
-  {
     "id": 30116,
     "name": "Friday",
     "slug": "friday",
@@ -21423,23 +21468,25 @@
     "api": "https://yc-oss.github.io/api/batches/f24/canvas.json"
   },
   {
-    "id": 30127,
-    "name": "Fabricate",
-    "slug": "fabricate",
+    "id": 30124,
+    "name": "Helpcare AI",
+    "slug": "helpcare-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4186b40db0a98d3b2cd4a8e0c9817c3efd20dd8a.png",
-    "website": "https://www.tryfabricate.com",
-    "all_locations": "",
-    "long_description": "Hardware engineers spend a quarter of their time just figuring out how to get their parts made, and from who. Fabricate builds procurement software for hardware teams. We help engineers manage manufacturing feasibility and procurement across their suppliers, whether they're getting parts custom manufactured or buying them off-the-shelf.",
-    "one_liner": "Procurement for Hardware Teams",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1731992228,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/096e00fed8decd142a3133ebfdbffa1618ea7fb5.png",
+    "website": "https://helpcare.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Helpcare builds AI Workers for healthcare orgs to take on coordination burden from staff and reduce time of care by autonomously identifying and outreaching patients (through phone, text, email, & mail) to schedule visits, book screenings, complete pre-post, and onboard. \r\n\r\nThese agents require no integration, can navigate all tools, speak 29 languages, come with 50+ outreach scripts and have a remarkable 80% conversation-to-booking closing rate.",
+    "one_liner": "AI Workers for Healthcare Orgs to Find, Call & Schedule More Patients.",
+    "team_size": null,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1730747199,
     "tags": [
-      "B2B",
-      "Manufacturing",
-      "AI"
+      "AIOps",
+      "Health Tech",
+      "Healthcare",
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21448,19 +21495,22 @@
     "batch": "F24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Healthcare",
+      "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fabricate",
-    "api": "https://yc-oss.github.io/api/batches/f24/fabricate.json"
+    "url": "https://www.ycombinator.com/companies/helpcare-ai",
+    "api": "https://yc-oss.github.io/api/batches/f24/helpcare-ai.json"
   },
   {
     "id": 30131,
