@@ -14405,7 +14405,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -15828,48 +15828,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/mathos.json"
   },
   {
-    "id": 29510,
-    "name": "Yarn",
-    "slug": "yarn-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9affbf116d392b150097162d18aaec2ff55b99e9.png",
-    "website": "https://www.yarn.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Yarn uses AI to help founders, salespeople, and marketers make product and sales videos.\r\n\r\nTeams are using Yarn to make sales collateral, launch videos, use-case demos, training guides, and feature updates for Twitter and LinkedIn.\r\n\r\nNo video experience needed and everything looks great out-of-the-box – think Notion, Linear, or Stripe-quality – but branded for your team.\r\n\r\nThe magic really comes from AI (TTS, CV, LLMs) – so you can zip through 5x faster than a Loom.",
-    "one_liner": "Make sales and marketing videos with AI.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1708454742,
-    "tags": [
-      "B2B",
-      "Sales",
-      "Video",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/yarn-2",
-    "api": "https://yc-oss.github.io/api/batches/w24/yarn-2.json"
-  },
-  {
     "id": 29511,
     "name": "InspectMind AI",
     "slug": "inspectmind-ai",
@@ -16357,8 +16315,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67c33e0e1229416643c3c04c56495e10ccaea0a.png",
     "website": "https://www.cheers.tech",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cheers is building the super-app for in-person businesses. Our NFC-enabled badges allow employees to better grow positive reviews, gather customer feedback, and take customer payments. Managers gain significant workforce management insights with employee-specific data, effectively managing more aspects of their operations.\r\n\r\nIn just 3 months, our MRR grew from $1.4k to over $10k, and we've already closed our first enterprise client, Vivint Smart Home. We're focusing on larger field service companies, replacing their outdated employee badging systems with our comprehensive solution that seamlessly embeds into their business operations.",
-    "one_liner": "The super-app for in-person businesses",
+    "long_description": "Cheers is the super-app for field service businesses. We turn every employee interaction into an opportunity for real-time feedback, on-the-spot payments, and actionable insights—without the need for clunky legacy systems. Managers gain a data-rich, unified view of their workforce, helping them optimize operations and drive performance. We’re now generating over $10k in monthly recurring revenue and have secured our first enterprise client, Vivint Smart Home.",
+    "one_liner": "The super-app for field service businesses",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -20861,49 +20819,47 @@
     "api": "https://yc-oss.github.io/api/batches/f24/diffusion-studio.json"
   },
   {
-    "id": 30105,
-    "name": "ArchiLabs",
-    "slug": "archilabs",
+    "id": 30111,
+    "name": "Foundry",
+    "slug": "foundry",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb2a3cdbbb6f4b0b97cc737484c96197f2cb06a5.png",
-    "website": "https://archilabs.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b36be9d458851b00e9309610a54bf963da83472.png",
+    "website": "https://www.thefoundryai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ArchiLabs is building an AI co-pilot for architecture. Instead of spending hours on tedious tasks, architects can 10x their design speed with simple AI prompts.\r\n\r\nBrian and William met at Carnegie Mellon as engineers and separately had their own frustrating new construction experiences. Brian ran a tech-enabled homebuilding factory and found the design iteration process to be a massive bottleneck, while William built ground up homes in Texas and had a similar frustration. However, at the time, there wasn't an easy solution to the many pain points in the design process.\r\n\r\nAs AI reasoning models improve, Brian and William realized that there was a massive opportunity to fix the long-tail of frustrations and build a new construction design experience by fine tuning existing models, becoming bigger than Autodesk, the $60B company in the space.",
-    "one_liner": "AI Copilot for Architects",
+    "long_description": "Foundry is the Retool for AI agents, empowering companies to build and manage agents that automate entire workflows—like customer support, recruiting, and sales—in minutes, no AI expertise required.\r\n\r\nWith Foundry, teams can quickly create agents that actually work, track performance, and scale their impact across the business.\r\n\r\nPranav and I built AI systems at Scale AI for companies like OpenAI. Now, we’re bringing that experience to teams everywhere to make AI agents accessible and practical for every business.",
+    "one_liner": "Retool for AI Agents",
     "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1732038457,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1731963387,
     "tags": [
-      "SaaS",
-      "Construction",
-      "B2B",
-      "Proptech",
+      "Developer Tools",
+      "Workflow Automation",
+      "No-code",
+      "Automation",
       "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "F24",
     "status": "Active",
     "industries": [
-      "Real Estate and Construction",
-      "Construction"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/archilabs",
-    "api": "https://yc-oss.github.io/api/batches/f24/archilabs.json"
+    "url": "https://www.ycombinator.com/companies/foundry",
+    "api": "https://yc-oss.github.io/api/batches/f24/foundry.json"
   },
   {
     "id": 30112,
