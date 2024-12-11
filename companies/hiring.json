@@ -1567,6 +1567,50 @@
     "api": "https://yc-oss.github.io/api/batches/w14/axoni.json"
   },
   {
+    "id": 600,
+    "name": "DevCycle",
+    "slug": "devcycle",
+    "former_names": [
+      "Taplytics"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d251539438cb0eef66e90304a3ff25d30dfcf607.png",
+    "website": "http://devcycle.com",
+    "all_locations": "Toronto, ON, Canada",
+    "long_description": "DevCycle empowers development teams with seamless management of code deployment and feature releases. Our flexible and integrated Feature Management solution, specifically designed for developers, grants teams full control over their feature flags while preventing the accumulation of tech debt. With our scalable and cost-efficient platform, teams can focus on what truly matters—building exceptional software—without being bogged down by the complexities of feature management.\r\n\r\nPreviously known as Taplytics, born at Y Combinator in Silicon Valley as an A/B Testing and Experimentation solution for product and marketing teams, we have evolved into DevCycle, a trusted Feature Management Solution utilized by some of the world's largest brands. Serving millions of end-users and launching billions of events, we understand the demands of high-scale operations.",
+    "one_liner": "Feature Flag Management Built for Developers",
+    "team_size": 55,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1384978789,
+    "tags": [
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W14",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/devcycle",
+    "api": "https://yc-oss.github.io/api/batches/w14/devcycle.json"
+  },
+  {
     "id": 613,
     "name": "PiinPoint",
     "slug": "piinpoint",
@@ -17833,54 +17877,6 @@
     "api": "https://yc-oss.github.io/api/batches/s20/taktile.json"
   },
   {
-    "id": 22126,
-    "name": "Mito",
-    "slug": "mito",
-    "former_names": [
-      "Saga",
-      "Mtio"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1806ed31ccae256cd4739f203e4b05a30a49eea.png",
-    "website": "http://trymito.io",
-    "all_locations": "New York, NY, USA; Philadelphia, PA, USA; Remote",
-    "long_description": "Mito is Cursor for data science. We’re building an AI enabled IDE to 10x the productivity of data people. Data analysts use Mito to automate reports without relying on internal engineering resources. \r\n\r\nMito is used by thousands of business analysts, data scientists, and automation engineers at some of the world's largest banks, private equity shops, and consulting firms. \r\n\r\nOpen source is key to our enterprise sales strategy. Mito is open source and built on top of Jupyter. That means getting started with Mito is as simple as running `pip install` and doesn't require enterprises to manager new infrastructure. \r\n\r\nCheck us out at: https://www.trymito.io/",
-    "one_liner": "Cursor for data analysis",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1660746128,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Analytics",
-      "Open Source",
-      "Data Science"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S20",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mito",
-    "api": "https://yc-oss.github.io/api/batches/s20/mito.json"
-  },
-  {
     "id": 22131,
     "name": "DraftWise",
     "slug": "draftwise",
@@ -21230,7 +21226,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a16a09957704451334262d0e10e575dc15ff06d1.png",
     "website": "https://www.joinslash.com/",
-    "all_locations": "San Francisco, CA, USA; Palo Alto, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Slash is on a mission to become the largest commercial issuer in America. \r\n\r\nWe offer businesses:\r\n1. Deposit accounts with free outgoing wire and ACH transfers. \r\n2. Corporate cards with up to 2% cash back, virtual cards, fine grain spend controls, and controls/automation to save hours of work.\r\n3. Integrations to all major accounting platforms.\r\n4. Detailed spend, income, and other financial analytics.",
     "one_liner": "On a mission to become the largest commercial issuer in America",
     "team_size": 25,
@@ -21239,7 +21235,6 @@
     "launched_at": 1630082874,
     "tags": [
       "Fintech",
-      "Consumer",
       "E-commerce"
     ],
     "tags_highlighted": [],
@@ -31110,47 +31105,6 @@
     "api": "https://yc-oss.github.io/api/batches/w22/olympian-motors.json"
   },
   {
-    "id": 26108,
-    "name": "GoSats",
-    "slug": "gosats",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6ef13c2cf09acf6a7b852519447061cd749bdf8.png",
-    "website": "https://gosats.io",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "GoSats is a bitcoin rewards app. We help people accumulate free bitcoin as cashbacks and rewards every time they shop in India.",
-    "one_liner": "GoSats helps you earn free bitcoin when you shop in India.",
-    "team_size": 8,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1644855955,
-    "tags": [
-      "E-commerce",
-      "India"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gosats",
-    "api": "https://yc-oss.github.io/api/batches/w22/gosats.json"
-  },
-  {
     "id": 26118,
     "name": "OffBeast",
     "slug": "offbeast",
@@ -32888,7 +32842,7 @@
     "former_names": [
       "Flair"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e100c405afe4521368fee212f6be8863a02496c9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/11c55bb0e54fca5fe4511850804658816bda34e8.png",
     "website": "https://www.flairlabs.ai/",
     "all_locations": "Palo Alto, CA, USA; Remote",
     "long_description": "Flair Labs is the leading AI communications platform for real estate and lending, empowering teams to build autonomous agents that execute complex workflows across voice and text. We believe the next generation of top real estate teams will be responsible for managing swarms of agents that execute tasks on their behalf – Flair Agent platform is the foundation enabling this future.",
@@ -32898,8 +32852,8 @@
     "subindustry": "B2B",
     "launched_at": 1679982577,
     "tags": [
+      "Artificial Intelligence",
       "Real Estate",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -37985,6 +37939,49 @@
     "api": "https://yc-oss.github.io/api/batches/s23/cercli.json"
   },
   {
+    "id": 28410,
+    "name": "Finta",
+    "slug": "finta",
+    "former_names": [
+      "Porter"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b92816dfd05322ae3170422004ec62c7f938395.png",
+    "website": "https://www.finta.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Finta is the easiest way for startups to manage taxes, bookkeeping, and track financial metrics - all in one platform. It replaces Quickbooks and the need to pay expensive bookkeepers.\r\n\r\nFinta gives you squeaky clean books, files your taxes compliantly on time, and access to a dashboard to track burn, cash, runway, and everything else about your finances.\r\n\r\nYou can easily integrate Finta with modern tech tools like Brex, Ramp, Mercury, Stripe, Gusto, Rippling, Pulley, Carta, and more.\r\n\r\nFinta is the source of truth for your financial data as you scale.",
+    "one_liner": "Accounting and taxes for startups",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1673469605,
+    "tags": [
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/finta",
+    "api": "https://yc-oss.github.io/api/batches/w23/finta.json"
+  },
+  {
     "id": 28412,
     "name": "SpeedyBrand",
     "slug": "speedybrand",
@@ -41735,6 +41732,42 @@
     "api": "https://yc-oss.github.io/api/batches/w24/garage-2.json"
   },
   {
+    "id": 29286,
+    "name": "PointOne",
+    "slug": "pointone",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d23f524f231cbfcd78316df244ed5d03f2649c4d.png",
+    "website": "https://pointone.com/",
+    "all_locations": "",
+    "long_description": "Lawyers have to manually track all their client work in 6-minute increments. PointOne uses AI to completely automate time tracking and bill review, helping law firms collect more revenue and saving lawyers hours each week.",
+    "one_liner": "Automated time tracking and billing for law firms.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1705177845,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pointone",
+    "api": "https://yc-oss.github.io/api/batches/w24/pointone.json"
+  },
+  {
     "id": 29288,
     "name": "Arini",
     "slug": "arini",
@@ -42283,7 +42316,13 @@
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1702859345,
-    "tags": [],
+    "tags": [
+      "AI-powered Drug Discovery",
+      "SaaS",
+      "B2B",
+      "Biotech",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -42805,6 +42844,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/centauri-ai",
     "api": "https://yc-oss.github.io/api/batches/w24/centauri-ai.json"
+  },
+  {
+    "id": 29401,
+    "name": "dawn",
+    "slug": "dawn",
+    "former_names": [
+      "Sidekick [NOTE",
+      "this is a duplicate app per request of Diana Hu. old id: zkoticha]",
+      "Sidekick",
+      "Invisible Tools",
+      "Dawn"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b1479ad49376ddb3209cbb61b6c76e1112a85f6.png",
+    "website": "https://www.dawnai.com/",
+    "all_locations": "",
+    "long_description": "Make meaning out of billions of tokens.\r\n\r\nDawn is the analytics platform for AI products.\r\nWe transform user requests and model outputs into metrics you'll actually care about.",
+    "one_liner": "Analytics for AI products.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1710985617,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dawn",
+    "api": "https://yc-oss.github.io/api/batches/w24/dawn.json"
   },
   {
     "id": 29402,
@@ -43985,16 +44066,16 @@
     "all_locations": "",
     "long_description": "Every time workers in a warehouse box an order, they reference a 100 page manual with instructions like where to put the shipping label. RetailReady replaces the instruction manual with a tablet application.",
     "one_liner": "An AI-powered supply chain compliance engine",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1705423924,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Compliance",
       "Logistics",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44550,6 +44631,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/silurian",
     "api": "https://yc-oss.github.io/api/batches/s24/silurian.json"
+  },
+  {
+    "id": 29688,
+    "name": "camfer",
+    "slug": "camfer",
+    "former_names": [
+      "Camfer Inc.",
+      "Camfer"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c19c2043057dddb96aa0fb4c1eb11f547911f429.png",
+    "website": "https://www.camfer.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building the first AI mechanical engineer that collaborates with humans to do design tasks end-to-end. Human engineers can talk to camfer to build, test, and iterate 3D designs natively on CAD platforms.",
+    "one_liner": "Building the world’s first AI mechanical engineer.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1726008426,
+    "tags": [
+      "Generative AI",
+      "Hardware",
+      "Productivity",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/camfer",
+    "api": "https://yc-oss.github.io/api/batches/s24/camfer.json"
   },
   {
     "id": 29689,
@@ -45157,6 +45284,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/brighterway",
     "api": "https://yc-oss.github.io/api/batches/s24/brighterway.json"
+  },
+  {
+    "id": 29779,
+    "name": "The Forecasting Company",
+    "slug": "the-forecasting-company",
+    "former_names": [
+      "The Forecasting Co"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/983383728c2382109365d3629889d96ec8743656.png",
+    "website": "https://www.theforecastingcompany.com",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "The Forecasting Company builds planning systems based on our in-house foundation models for time series. ",
+    "one_liner": "Foundation models for time series",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1721958475,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Supply Chain",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "France",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/the-forecasting-company",
+    "api": "https://yc-oss.github.io/api/batches/s24/the-forecasting-company.json"
   },
   {
     "id": 29780,

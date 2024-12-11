@@ -6188,7 +6188,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S20",
     "status": "Active",
@@ -12044,6 +12044,50 @@
     "api": "https://yc-oss.github.io/api/batches/s22/phind.json"
   },
   {
+    "id": 26825,
+    "name": "Flair Labs",
+    "slug": "flair-labs",
+    "former_names": [
+      "Flair"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/11c55bb0e54fca5fe4511850804658816bda34e8.png",
+    "website": "https://www.flairlabs.ai/",
+    "all_locations": "Palo Alto, CA, USA; Remote",
+    "long_description": "Flair Labs is the leading AI communications platform for real estate and lending, empowering teams to build autonomous agents that execute complex workflows across voice and text. We believe the next generation of top real estate teams will be responsible for managing swarms of agents that execute tasks on their behalf – Flair Agent platform is the foundation enabling this future.",
+    "one_liner": "The world's first digital concierge for real estate and lending",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1679982577,
+    "tags": [
+      "Artificial Intelligence",
+      "Real Estate",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/flair-labs",
+    "api": "https://yc-oss.github.io/api/batches/s22/flair-labs.json"
+  },
+  {
     "id": 26837,
     "name": "Unify",
     "slug": "unify",
@@ -16657,51 +16701,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/empirical-health",
     "api": "https://yc-oss.github.io/api/batches/s23/empirical-health.json"
-  },
-  {
-    "id": 28938,
-    "name": "Glade",
-    "slug": "glade",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39e64fe4e49894144581ae2ef69befe4cb83f6b8.png",
-    "website": "https://gladestudio.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Glade is building the next generation of video games. Today, games have linear gameplay and fixed content which become stale and repetitive for players. Using AI, Glade is pioneering an entirely new genre of games.",
-    "one_liner": "Building the next generation of video games using AI",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1687994809,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Consumer",
-      "Entertainment",
-      "Gaming"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/glade",
-    "api": "https://yc-oss.github.io/api/batches/s23/glade.json"
   },
   {
     "id": 28957,
@@ -21724,6 +21723,48 @@
     "api": "https://yc-oss.github.io/api/batches/w24/getcrux.json"
   },
   {
+    "id": 29517,
+    "name": "RetailReady",
+    "slug": "retailready",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/199d48c929434ddb64281cd83b9621eb37c3ed62.png",
+    "website": "https://www.retailreadyai.com/",
+    "all_locations": "",
+    "long_description": "Every time workers in a warehouse box an order, they reference a 100 page manual with instructions like where to put the shipping label. RetailReady replaces the instruction manual with a tablet application.",
+    "one_liner": "An AI-powered supply chain compliance engine",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1705423924,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Compliance",
+      "Logistics",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/retailready",
+    "api": "https://yc-oss.github.io/api/batches/w24/retailready.json"
+  },
+  {
     "id": 29519,
     "name": "Forge Rewards",
     "slug": "forge-rewards",
@@ -24167,7 +24208,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -24884,48 +24925,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/quetzal",
     "api": "https://yc-oss.github.io/api/batches/s24/quetzal.json"
-  },
-  {
-    "id": 29849,
-    "name": "Usul",
-    "slug": "usul",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b29fc94915cb31662bedfaa8eda5297b0c9e5bb.png",
-    "website": "https://www.usul.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Usul helps companies win defense contracts with AI. Recent conflicts have forced the DoD to demand the next-generation of military technology. So we built software for US companies and our allies to collaborate and sell to the government. ",
-    "one_liner": "Win Defense Contracts with AI.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1722274635,
-    "tags": [
-      "Artificial Intelligence",
-      "GovTech",
-      "B2B",
-      "Procurement",
-      "Big Data"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/usul",
-    "api": "https://yc-oss.github.io/api/batches/s24/usul.json"
   },
   {
     "id": 29850,

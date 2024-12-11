@@ -1145,7 +1145,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W14",
     "status": "Active",
@@ -9152,7 +9152,8 @@
     "slug": "command-ai",
     "former_names": [
       "Foobar",
-      "Command Bar"
+      "Command Bar",
+      "CommandBar"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bca198859e87cd196f78931db97af3133a90eee.png",
     "website": "https://command.ai",
@@ -9173,7 +9174,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S20",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -9184,7 +9185,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -29324,7 +29325,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dce31c6ca3dabf16bfd5ee207762b419f47372bd.png",
     "website": "https://www.pledge.health/",
-    "all_locations": "New York, NY, USA; Cambridge, MA, USA",
+    "all_locations": "",
     "long_description": "Pledge automates patient billing for independent healthcare clinics. We estimate how much insurance will cover for each visit, so clinics can charge patients at the time of service, rather than waiting weeks for insurance to process.",
     "one_liner": "Automated patient billing for independent healthcare clinics",
     "team_size": 2,
@@ -29349,8 +29350,6 @@
       "Healthcare IT"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -34278,7 +34277,7 @@
     "website": "https://aglide.com",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Aglide give companies Okta-level access control for any app. All you need to connect an account is its username and password.\r\n\r\nCompanies use Aglide as their sole SSO, or connect it to their existing identity provider - letting them avoid the SSO tax, and manage access to accounts that don’t support SAML, like social media services.",
-    "one_liner": "Access management and SSO for any app, without relying on SAML.",
+    "one_liner": "Natively connect any app to your SSO.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -36588,6 +36587,47 @@
     "api": "https://yc-oss.github.io/api/batches/w24/toolify.json"
   },
   {
+    "id": 29340,
+    "name": "Tamarind Bio",
+    "slug": "tamarind-bio",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f825e68bedd9d6fae6a9628ae002227d27ab4d2.png",
+    "website": "https://www.tamarind.bio",
+    "all_locations": "",
+    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nOur tools are used by thousands researchers in large pharma companies, top biotechs, and academic institutions. We currently focus on tools on protein design and engineering tooling, including for antibodies/therapeutics and enzymes.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
+    "one_liner": "Easy to use computational biology tools for drug discovery",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1702859345,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "SaaS",
+      "B2B",
+      "Biotech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tamarind-bio",
+    "api": "https://yc-oss.github.io/api/batches/w24/tamarind-bio.json"
+  },
+  {
     "id": 29343,
     "name": "Infinity",
     "slug": "infinity",
@@ -38207,16 +38247,16 @@
     "all_locations": "",
     "long_description": "Every time workers in a warehouse box an order, they reference a 100 page manual with instructions like where to put the shipping label. RetailReady replaces the instruction manual with a tablet application.",
     "one_liner": "An AI-powered supply chain compliance engine",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1705423924,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Compliance",
       "Logistics",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40279,7 +40319,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -41273,11 +41313,11 @@
     "subindustry": "B2B",
     "launched_at": 1722274635,
     "tags": [
-      "Artificial Intelligence",
       "GovTech",
       "B2B",
       "Procurement",
-      "Big Data"
+      "Big Data",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
