@@ -714,7 +714,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W15",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Education"
     ],
@@ -7575,16 +7575,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/959f8b12f65c728c10162e5fc682b6a3dae63f4f.png",
     "website": "https://www.educato.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Educato builds exam prep platforms worldwide using AI. We are profitable, making $25.5k last month from 10 active exams and 10 more in the pipeline.\r\n\r\nOnline exam prep has existed for decades, yet the big players all target the same top 10 exams in the US. The reality is that most exams around the world still have little to no quality online prep material, including many taken by hundreds of thousands of students each year. Educato uses AI to generate high-quality prep content for these exams. LLMs allow us to target the profitable fat middle in the distribution of exams, historically overlooked by education companies.",
+    "long_description": "Educato builds exam prep platforms worldwide using AI.\r\n\r\nOnline exam prep has existed for decades, yet the big players all target the same top 10 exams in the US. The reality is that most exams around the world still have little to no quality online prep material, including many taken by hundreds of thousands of students each year. Educato uses AI to generate high-quality prep content for these exams. LLMs allow us to target the profitable fat middle in the distribution of exams, historically overlooked by education companies.",
     "one_liner": "AI-Powered Worldwide exam-prep platform",
     "team_size": 3,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1722269199,
     "tags": [
-      "Artificial Intelligence",
       "Education",
-      "Edtech"
+      "Edtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7641,5 +7641,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/studydojo",
     "api": "https://yc-oss.github.io/api/batches/f24/studydojo.json"
+  },
+  {
+    "id": 30165,
+    "name": "Edexia",
+    "slug": "edexia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c47809acef827e8266fe22b15646d39f5911391.png",
+    "website": "https://www.edexia.ai/",
+    "all_locations": "Capalaba, QLD, Australia",
+    "long_description": "Edexia is an AI teaching assistant that grades papers for teachers. It learns the style of each individual teacher, so it can grade just like they do, saving up to 100% of grading time.  \r\nEdexia can grade assignments from any curriculum, year level, subject, or format. Learning like a teacher, it visually breaks down its understanding of the rubric, and updates this as a teacher corrects its grading on the fly. \r\nOur vision is to transform education by facilitating the safe and effective integration of AI across all institutions and applications. Not using AI to replace teachers but rather to empower them—providing them with all the time and resources they need to develop their students.",
+    "one_liner": "AI Teaching Assistant for Grading Papers",
+    "team_size": 3,
+    "industry": "Education",
+    "subindustry": "Unspecified",
+    "launched_at": 1733896630,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
+      "Education",
+      "SaaS",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "Australia",
+      "Oceania"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/edexia",
+    "api": "https://yc-oss.github.io/api/batches/w25/edexia.json"
   }
 ]

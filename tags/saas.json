@@ -2095,10 +2095,10 @@
     ],
     "tags_highlighted": [],
     "top_company": true,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S13",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Marketing"
@@ -3534,7 +3534,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23191,7 +23191,7 @@
     "all_locations": "Hyderabad, Telangana, India",
     "long_description": "Swipe is a simple billing and payments app for small businesses in India. We make it easy for local businesses to invoice their customers over WhatsApp. With Swipe, businesses can send a WhatsApp message with a link that allows their customers to pay instantly with a variety of payment methods.",
     "one_liner": "Simple billing and payments for 75M+ Indian SMBs 🇮🇳",
-    "team_size": 35,
+    "team_size": 65,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1628792157,
@@ -30515,11 +30515,11 @@
     "slug": "take-app",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29b4bab56f2a8fa619215587a06c5eb9a44159be.png",
-    "website": "https://take.app",
+    "website": "https://www.take.app",
     "all_locations": "Singapore, Singapore; Remote",
     "long_description": "Ecommerce for WhatsApp. We make commerce more intuitive and accessible by simplifying WhatsApp ordering. \r\n\r\nFounder Youmin Kim is ex-Facebook Engineering Manager who launched Facebook Marketplace and Messaging Commerce in SE Asia. ",
     "one_liner": "Shopify for WhatsApp commerce",
-    "team_size": 6,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1640369197,
@@ -39905,7 +39905,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -40067,7 +40067,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Artie is software that streams data from databases to data warehouses in real-time. Today, most companies run their ETL process every few hours or overnight, so their data warehouse is always out of date; with Artie, the warehouse always has live production data.",
     "one_liner": "Software that streams data from databases to warehouses in real-time",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1684375922,
@@ -42780,7 +42780,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d18a60c353c24c8c090f2237dd2281d68b7155ba.png",
     "website": "https://www.useresonance.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Resonance is a platform that optimizes conversion rates via marketing across owned channels such as push, in-product, and email.",
+    "long_description": "Resonance optimizes conversion rates by intelligently delivering marketing messages across owned channels such as push, in-product, and email.",
     "one_liner": "Omni-channel marketing agent",
     "team_size": 1,
     "industry": "B2B",
@@ -45391,7 +45391,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -47193,48 +47193,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/relvy-ai.json"
   },
   {
-    "id": 30118,
-    "name": "Ember Copilot",
-    "slug": "ember-copilot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc4c02e697fb21ae99bab2ac805d924074318bc8.png",
-    "website": "https://www.embercopilot.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help surgery centers automate medical scribing, coding, and more, all directly integrated within their EHR.  ",
-    "one_liner": "The only medical scribe that reduces claim denials by 55%",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1728536375,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Digital Health",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ember-copilot",
-    "api": "https://yc-oss.github.io/api/batches/f24/ember-copilot.json"
-  },
-  {
     "id": 30119,
     "name": "Canvas",
     "slug": "canvas",
@@ -47320,5 +47278,47 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/roundabout-technologies",
     "api": "https://yc-oss.github.io/api/batches/f24/roundabout-technologies.json"
+  },
+  {
+    "id": 30165,
+    "name": "Edexia",
+    "slug": "edexia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c47809acef827e8266fe22b15646d39f5911391.png",
+    "website": "https://www.edexia.ai/",
+    "all_locations": "Capalaba, QLD, Australia",
+    "long_description": "Edexia is an AI teaching assistant that grades papers for teachers. It learns the style of each individual teacher, so it can grade just like they do, saving up to 100% of grading time.  \r\nEdexia can grade assignments from any curriculum, year level, subject, or format. Learning like a teacher, it visually breaks down its understanding of the rubric, and updates this as a teacher corrects its grading on the fly. \r\nOur vision is to transform education by facilitating the safe and effective integration of AI across all institutions and applications. Not using AI to replace teachers but rather to empower them—providing them with all the time and resources they need to develop their students.",
+    "one_liner": "AI Teaching Assistant for Grading Papers",
+    "team_size": 3,
+    "industry": "Education",
+    "subindustry": "Unspecified",
+    "launched_at": 1733896630,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
+      "Education",
+      "SaaS",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "Australia",
+      "Oceania"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/edexia",
+    "api": "https://yc-oss.github.io/api/batches/w25/edexia.json"
   }
 ]

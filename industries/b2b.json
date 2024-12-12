@@ -10492,10 +10492,10 @@
     ],
     "tags_highlighted": [],
     "top_company": true,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S13",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Marketing"
@@ -13889,8 +13889,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1416221193,
     "tags": [
-      "Artificial Intelligence",
-      "Machine Learning"
+      "Machine Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15137,7 +15137,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -42840,16 +42840,16 @@
     "website": "https://tryglimpse.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Glimpse helps retail-first CPG brands automate their cash reconciliation process & fight invalid fees from their retailers & distributors using AI. Imagine a beverage company sold $100k worth of goods to Whole Foods & only got paid $60k. The deducted $40k comes in hundreds of long PDF’s with obscure codes that a team has to manually review every single one of to ensure the fees are valid. A % of these fees are always invalid and brands have to go through a lengthy process to get back money owed to them. We automate this whole process - saving a brand dozens of hours a week & recouping them money back. ",
-    "one_liner": "Glimpse fights invalid fees for CPG brands in retail using AI",
+    "one_liner": "Glimpse is a suite of AI services for brands that sell in retail",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1595628044,
     "tags": [
+      "Artificial Intelligence",
       "E-commerce",
       "Food & Beverage",
-      "Retail",
-      "AI"
+      "Retail"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48927,7 +48927,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -49821,10 +49821,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Supply Chain and Logistics"
@@ -52371,7 +52371,7 @@
     "all_locations": "Hyderabad, Telangana, India",
     "long_description": "Swipe is a simple billing and payments app for small businesses in India. We make it easy for local businesses to invoice their customers over WhatsApp. With Swipe, businesses can send a WhatsApp message with a link that allows their customers to pay instantly with a variety of payment methods.",
     "one_liner": "Simple billing and payments for 75M+ Indian SMBs 🇮🇳",
-    "team_size": 35,
+    "team_size": 65,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1628792157,
@@ -59383,6 +59383,47 @@
     "api": "https://yc-oss.github.io/api/batches/w22/cherry-recommends.json"
   },
   {
+    "id": 25338,
+    "name": "CozmoX AI",
+    "slug": "cozmox-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d4daaa9e805a6f544e9f2b4134e28253b549d33.png",
+    "website": "https://www.cozmox.ai/",
+    "all_locations": "Abu Dhabi, Abu Dhabi, United Arab Emirates",
+    "long_description": "CozmoX provides AI employees powered by advanced voice technology that enables natural, human-like conversations. These digital workers communicate fluently with customers and stakeholders while handling repetitive tasks 24/7. Through our no-code platform, businesses can deploy AI employees that manage entire processes through voice interactions, replacing multiple software tools with unified solutions.\r\n\r\nWe’ve unveiled 3 powerful AI employees, with more to come:\r\n\r\nLiza (Sales Executive) - Engages in natural voice conversations throughout the sales cycle, from initial prospect calls to negotiations and closure. She handles qualification calls, follow-ups, and maintains CRM records while building rapport through intelligent dialogue.\r\n\r\nAlex (Debt Collector) - Conducts professional voice communications for collections, speaking with customers to arrange payments, negotiate plans, and ensure timely follow-ups while maintaining regulatory compliance.\r\n\r\nZara (Receptionist) - Masters voice-based front-office management, engaging in natural conversations to route calls, schedule appointments, take detailed messages, and resolve customer inquiries with a friendly, professional tone.\r\n\r\nLike the industrial revolution transformed farming, we're revolutionizing workplace communication. By automating routine conversations and tasks, human teams can focus on creativity, problem-solving, and business growth.\r\n\r\nWe're the first in the Middle East and Africa to offer this kind of technology, but we work with businesses all over the world. We're backed by Y Combinator, Goodwater Capital, Dubai Future District Fund, Rebel Fund, and Trampoline Venture Partners, and have raised $3M in our latest round.",
+    "one_liner": "Middle East and Africa's First Voice AI Employee Platform",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1644299294,
+    "tags": [
+      "Artificial Intelligence",
+      "Infrastructure",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United Arab Emirates",
+      "Middle East and North Africa"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cozmox-ai",
+    "api": "https://yc-oss.github.io/api/batches/w22/cozmox-ai.json"
+  },
+  {
     "id": 25340,
     "name": "Loops",
     "slug": "loops",
@@ -63398,8 +63439,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87c0954c151aa7067e034d8de33b3174d43f5ff0.png",
     "website": "https://hydra.so",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Hydra is the easiest way to build real-time apps and analytics with Postgres.\r\n\r\nEvery project with Hydra uses pg_duckdb, an open source (MIT licensed) program that embeds DuckDB's state-of-the-art analytics engine and features within Postgres. We developed pg_duckdb, the official Postgres extension for DuckDB, in collaboration with the DuckDB Foundation.\r\nhttps://github.com/duckdb/pg_duckdb",
-    "one_liner": "DuckDB-Powered Postgres for real-time apps and analytics.",
+    "long_description": "Hydra is an open source, analytics database that makes it easy to build apps, analytics, and ML on real-time data. It operates 100-1000X faster than traditional analytics databases (OLAP) that require data ingestion and transformation from external data source like Postgres and Amazon S3. With Hydra, high performance analytical processing runs directly on live transactions and real-time event data with zero-ETL.\r\n\r\nEvery Hydra project includes a fully managed Postgres database, integrated analytical processing, and bottomless, globally distributed object storage so you can ship sub-second analytics with any application in an afternoon.",
+    "one_liner": "We make it easier to build apps and analytics on real-time data",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -63663,11 +63704,11 @@
     "slug": "take-app",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29b4bab56f2a8fa619215587a06c5eb9a44159be.png",
-    "website": "https://take.app",
+    "website": "https://www.take.app",
     "all_locations": "Singapore, Singapore; Remote",
     "long_description": "Ecommerce for WhatsApp. We make commerce more intuitive and accessible by simplifying WhatsApp ordering. \r\n\r\nFounder Youmin Kim is ex-Facebook Engineering Manager who launched Facebook Marketplace and Messaging Commerce in SE Asia. ",
     "one_liner": "Shopify for WhatsApp commerce",
-    "team_size": 6,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1640369197,
@@ -63849,7 +63890,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -79582,7 +79623,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -79923,7 +79964,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Artie is software that streams data from databases to data warehouses in real-time. Today, most companies run their ETL process every few hours or overnight, so their data warehouse is always out of date; with Artie, the warehouse always has live production data.",
     "one_liner": "Software that streams data from databases to warehouses in real-time",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1684375922,
@@ -84067,10 +84108,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -84903,7 +84944,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -85374,7 +85415,7 @@
     "all_locations": "",
     "long_description": "Teams struggling with GPU availability use our platform to unlock capacity immediately for their growing AI workloads. Shadeform has a unified, easy-to-use API and platform to access and provision GPUs and deploy models for inference to any provider. With our aggregated availability and pricing data, we can help ensure your on-demand inference and training jobs will run on time at optimal cost.",
     "one_liner": "The GPU Cloud Marketplace",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689812081,
@@ -85508,7 +85549,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -86909,6 +86950,49 @@
     "api": "https://yc-oss.github.io/api/batches/w24/precip.json"
   },
   {
+    "id": 29248,
+    "name": "ScaleConvo",
+    "slug": "scaleconvo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53e41526266dccddacb7ef26077036080cb11399.png",
+    "website": "https://scaleconvo.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ScaleConvo is your business phone number enhanced with an AI agent that can automate conversations over call, text, and email.\r\n\r\nWe save businesses time by engaging customers for them and handling tasks like answering inquiries, scheduling appointments, and placing orders.",
+    "one_liner": "All-in-one Intelligent Business Phone Number and AI Agent",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1706225242,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "API",
+      "Automation",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Acquired",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/scaleconvo",
+    "api": "https://yc-oss.github.io/api/batches/w24/scaleconvo.json"
+  },
+  {
     "id": 29249,
     "name": "Nuanced, Inc.",
     "slug": "nuanced-inc",
@@ -86925,7 +87009,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -88951,18 +89035,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
     "website": "https://getdecipher.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI agent that analyses session replays and application-level data to uncover issues that are costing you user trust and increasing churn. Plus, rich technical context to understand and fix bugs quickly.\r\n\r\nCompanies rely on Decipher to identify issues before more customers encounter them and to access rich technical context for swift resolution.",
-    "one_liner": "AI agent that uncovers product issues and bugs in production",
+    "long_description": "Decipher AI builds AI agents that analyze session replays to understand user behavior, detect bugs and reveal insights—helping teams fix what matters, improve products, and keep their customers happy.",
+    "one_liner": "AI that analyzes your session replays to uncover issues and behavior.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1708738486,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Analytics",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -89412,7 +89496,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d18a60c353c24c8c090f2237dd2281d68b7155ba.png",
     "website": "https://www.useresonance.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Resonance is a platform that optimizes conversion rates via marketing across owned channels such as push, in-product, and email.",
+    "long_description": "Resonance optimizes conversion rates by intelligently delivering marketing messages across owned channels such as push, in-product, and email.",
     "one_liner": "Omni-channel marketing agent",
     "team_size": 1,
     "industry": "B2B",
@@ -90357,11 +90441,11 @@
     "name": "HostAI",
     "slug": "hostai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5ec59e9a4ba3517d491ba5ce5170139cb2ce78f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b192573b94e1871a4c735d72eff1613d58132585.png",
     "website": "https://www.hostai.app/",
     "all_locations": "",
-    "long_description": "We’re on a mission to streamline operations for the $120B vacation rental industry. Our all-in-one platform helps vacation rental operators consistently deliver 5-star guest experiences at scale.\r\n\r\nHostAI is a seamlessly integrated SaaS platform for your team to streamline operations, drive revenue, and boost guest satisfaction.  ",
-    "one_liner": "The operating system for managing vacation rentals. ",
+    "long_description": "We’re on a mission to streamline business communication for the $4T real estate industry. Our all-in-one conversational AI platform helps real-estate operations consistently deliver enterprise-level customer experiences - at scale.",
+    "one_liner": "The conversational AI platform for the built world",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -92647,7 +92731,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -96606,7 +96690,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -97379,7 +97463,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Supply Chain and Logistics"
@@ -97866,7 +97950,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -98483,14 +98567,14 @@
   },
   {
     "id": 29830,
-    "name": "Weavel",
-    "slug": "weavel",
+    "name": "Typa - by Weavel",
+    "slug": "typa-by-weavel",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/435a5d510b5dc3ae37445785848644661c3da156.png",
-    "website": "https://weavel.ai",
+    "website": "https://typa.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Weavel automates prompt and LLM engineering, delivering best prompts and algorithms 50x times faster. We do this by using LLMs and search algorithms to replace the manual trial-and-error of prompt engineering, but more efficiently - it is 3 times faster than the leading open source project.",
-    "one_liner": "Automate prompt & LLM engineering, 50x times faster than a human",
+    "long_description": "Typa automates inbound by posting authentic, everyday content crafted by AI. Simply chat with Typa and share your tasks, thoughts, or challenges - and AI generates content that sounds just like you, with your own insights incorporated. Watch your outreach grow on platforms like Twitter, LinkedIn, Bluesky, Medium, and more.",
+    "one_liner": "Automate inbound through authentic, everyday content posted by AI.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -98498,6 +98582,7 @@
     "tags": [
       "Generative AI",
       "B2B",
+      "Marketing",
       "AI"
     ],
     "tags_highlighted": [],
@@ -98508,7 +98593,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -98519,8 +98604,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/weavel",
-    "api": "https://yc-oss.github.io/api/batches/s24/weavel.json"
+    "url": "https://www.ycombinator.com/companies/typa-by-weavel",
+    "api": "https://yc-oss.github.io/api/batches/s24/typa-by-weavel.json"
   },
   {
     "id": 29833,
@@ -99928,10 +100013,10 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -100362,7 +100447,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "F24",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],

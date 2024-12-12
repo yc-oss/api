@@ -13856,7 +13856,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -14348,10 +14348,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Supply Chain and Logistics"
@@ -15922,7 +15922,7 @@
     "all_locations": "Hyderabad, Telangana, India",
     "long_description": "Swipe is a simple billing and payments app for small businesses in India. We make it easy for local businesses to invoice their customers over WhatsApp. With Swipe, businesses can send a WhatsApp message with a link that allows their customers to pay instantly with a variety of payment methods.",
     "one_liner": "Simple billing and payments for 75M+ Indian SMBs 🇮🇳",
-    "team_size": 35,
+    "team_size": 65,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1628792157,
@@ -22537,11 +22537,11 @@
     "slug": "take-app",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29b4bab56f2a8fa619215587a06c5eb9a44159be.png",
-    "website": "https://take.app",
+    "website": "https://www.take.app",
     "all_locations": "Singapore, Singapore; Remote",
     "long_description": "Ecommerce for WhatsApp. We make commerce more intuitive and accessible by simplifying WhatsApp ordering. \r\n\r\nFounder Youmin Kim is ex-Facebook Engineering Manager who launched Facebook Marketplace and Messaging Commerce in SE Asia. ",
     "one_liner": "Shopify for WhatsApp commerce",
-    "team_size": 6,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1640369197,
@@ -26341,6 +26341,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/peoplebox",
     "api": "https://yc-oss.github.io/api/batches/s22/peoplebox.json"
+  },
+  {
+    "id": 26897,
+    "name": "AviaryAI",
+    "slug": "aviaryai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c883569550177f7700c6efba769c869c5d530759.png",
+    "website": "http://www.helloaviary.ai",
+    "all_locations": "Chicago, IL, USA",
+    "long_description": "AviaryAI is the industry's first outbound AI service team for banks, credit unions, and insurance companies. In a landscape where only 18% of financial service providers make proactive outbound calls and rely heavily on emails, AviaryAI offers a groundbreaking solution. Powered by a private LLM, our suite of products helps institutions leverage Generative AI while adhering to stringent regulatory and compliance standards.",
+    "one_liner": "Outbound AI voice agents for the financial services industry",
+    "team_size": 6,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1654737893,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aviaryai",
+    "api": "https://yc-oss.github.io/api/batches/s22/aviaryai.json"
   },
   {
     "id": 26899,
@@ -32655,7 +32698,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -35673,6 +35716,49 @@
     "api": "https://yc-oss.github.io/api/batches/w24/scritch.json"
   },
   {
+    "id": 29248,
+    "name": "ScaleConvo",
+    "slug": "scaleconvo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53e41526266dccddacb7ef26077036080cb11399.png",
+    "website": "https://scaleconvo.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ScaleConvo is your business phone number enhanced with an AI agent that can automate conversations over call, text, and email.\r\n\r\nWe save businesses time by engaging customers for them and handling tasks like answering inquiries, scheduling appointments, and placing orders.",
+    "one_liner": "All-in-one Intelligent Business Phone Number and AI Agent",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1706225242,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "API",
+      "Automation",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Acquired",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/scaleconvo",
+    "api": "https://yc-oss.github.io/api/batches/w24/scaleconvo.json"
+  },
+  {
     "id": 29256,
     "name": "Momentic",
     "slug": "momentic",
@@ -36510,18 +36596,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
     "website": "https://getdecipher.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI agent that analyses session replays and application-level data to uncover issues that are costing you user trust and increasing churn. Plus, rich technical context to understand and fix bugs quickly.\r\n\r\nCompanies rely on Decipher to identify issues before more customers encounter them and to access rich technical context for swift resolution.",
-    "one_liner": "AI agent that uncovers product issues and bugs in production",
+    "long_description": "Decipher AI builds AI agents that analyze session replays to understand user behavior, detect bugs and reveal insights—helping teams fix what matters, improve products, and keep their customers happy.",
+    "one_liner": "AI that analyzes your session replays to uncover issues and behavior.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1708738486,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Analytics",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39785,7 +39871,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -40231,7 +40317,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Supply Chain and Logistics"
@@ -40585,7 +40671,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -41124,14 +41210,14 @@
   },
   {
     "id": 29830,
-    "name": "Weavel",
-    "slug": "weavel",
+    "name": "Typa - by Weavel",
+    "slug": "typa-by-weavel",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/435a5d510b5dc3ae37445785848644661c3da156.png",
-    "website": "https://weavel.ai",
+    "website": "https://typa.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Weavel automates prompt and LLM engineering, delivering best prompts and algorithms 50x times faster. We do this by using LLMs and search algorithms to replace the manual trial-and-error of prompt engineering, but more efficiently - it is 3 times faster than the leading open source project.",
-    "one_liner": "Automate prompt & LLM engineering, 50x times faster than a human",
+    "long_description": "Typa automates inbound by posting authentic, everyday content crafted by AI. Simply chat with Typa and share your tasks, thoughts, or challenges - and AI generates content that sounds just like you, with your own insights incorporated. Watch your outreach grow on platforms like Twitter, LinkedIn, Bluesky, Medium, and more.",
+    "one_liner": "Automate inbound through authentic, everyday content posted by AI.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -41139,6 +41225,7 @@
     "tags": [
       "Generative AI",
       "B2B",
+      "Marketing",
       "AI"
     ],
     "tags_highlighted": [],
@@ -41149,7 +41236,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -41160,8 +41247,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/weavel",
-    "api": "https://yc-oss.github.io/api/batches/s24/weavel.json"
+    "url": "https://www.ycombinator.com/companies/typa-by-weavel",
+    "api": "https://yc-oss.github.io/api/batches/s24/typa-by-weavel.json"
   },
   {
     "id": 29835,
@@ -43114,48 +43201,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/relvy-ai",
     "api": "https://yc-oss.github.io/api/batches/f24/relvy-ai.json"
-  },
-  {
-    "id": 30118,
-    "name": "Ember Copilot",
-    "slug": "ember-copilot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc4c02e697fb21ae99bab2ac805d924074318bc8.png",
-    "website": "https://www.embercopilot.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help surgery centers automate medical scribing, coding, and more, all directly integrated within their EHR.  ",
-    "one_liner": "The only medical scribe that reduces claim denials by 55%",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1728536375,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Digital Health",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ember-copilot",
-    "api": "https://yc-oss.github.io/api/batches/f24/ember-copilot.json"
   },
   {
     "id": 30127,
