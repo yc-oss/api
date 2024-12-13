@@ -193,7 +193,7 @@
     "isHiring": true,
     "nonprofit": false,
     "batch": "Unspecified",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Fintech"
     ],
@@ -1399,6 +1399,49 @@
     "api": "https://yc-oss.github.io/api/batches/s13/lob.json"
   },
   {
+    "id": 566,
+    "name": "Webflow",
+    "slug": "webflow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2275979b46d95062b78be0329b056f2290e3143.png",
+    "website": "https://webflow.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Webflow is the leading no-code visual web development platform. It seamlessly generates sophisticated code so anyone can build powerful web-based businesses and adapt to changes without developers or months of building. \r\n\r\nFrom entrepreneurs and creative agencies to Fortune 500 companies, Webflow makes the internet a more inclusive place by making the tools to build on it more accessible to more people, fueling business growth. Webflow powers websites for innovators like Discord, Monday.com, IDEO, Orange Theory Fitness, TED, and Dropbox. \r\n\r\nWebflow is backed by Y Combinator, Accel, CapitalG, Silversmith, and other awesome investors.",
+    "one_liner": "Professional website design and publishing platform. ",
+    "team_size": 600,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1367523820,
+    "tags": [
+      "SaaS",
+      "Design",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": true,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S13",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/webflow",
+    "api": "https://yc-oss.github.io/api/batches/s13/webflow.json"
+  },
+  {
     "id": 583,
     "name": "Cambly",
     "slug": "cambly",
@@ -2123,7 +2166,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2294,7 +2337,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2849,7 +2892,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2890,7 +2933,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3276,7 +3319,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -3367,7 +3410,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3574,7 +3617,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3620,7 +3663,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3888,7 +3931,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -4023,7 +4066,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4992,7 +5035,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": false,
@@ -5654,7 +5697,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7112,7 +7155,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -7295,56 +7338,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/beanstalk",
     "api": "https://yc-oss.github.io/api/batches/w18/beanstalk.json"
-  },
-  {
-    "id": 1731,
-    "name": "Blueberry Pediatrics",
-    "slug": "blueberry-pediatrics",
-    "former_names": [
-      "SparkMD Inc.",
-      "SparkMD",
-      "sparkMD",
-      "Blueberry Medical"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f53180b1f0a5dbf45a41287bda60b7bd4a4c1b5.png",
-    "website": "https://blueberrypediatrics.com",
-    "all_locations": "Mountain View, CA, USA; Remote",
-    "long_description": "Blueberry Medical provides concierge pediatric care with at-home medical diagnostics and an always-available team of Pediatricians. Blueberry handles twice as may illnesses as any other telemedicine provider and has proven to reduce ER costs by 50%.\r\n\r\n",
-    "one_liner": "24/7 pediatric clinic in every family's living room",
-    "team_size": 15,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1509562869,
-    "tags": [
-      "Consumer Health Services",
-      "Health Tech",
-      "Telehealth",
-      "Pediatrics",
-      "Digital Health"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W18",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/blueberry-pediatrics",
-    "api": "https://yc-oss.github.io/api/batches/w18/blueberry-pediatrics.json"
   },
   {
     "id": 1736,
@@ -7990,7 +7983,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10282,7 +10275,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11541,7 +11534,8 @@
     "slug": "playground",
     "former_names": [
       "Mighty Computing",
-      "Mighty"
+      "Mighty",
+      "Playground AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c81f0b3bef0891de69a8a04f8130fc26d47d3107.png",
     "website": "https://playground.com",
@@ -11572,7 +11566,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13496,7 +13490,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19292,7 +19286,9 @@
     "name": "SpruceID",
     "slug": "spruceid",
     "former_names": [
-      "Spruce Systems, Inc."
+      "Spruce Systems",
+      "Inc.",
+      "Spruce Systems"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01e89d335acbf75c6a733aa4b1efd72a71d9ee16.png",
     "website": "https://www.spruceid.com",
@@ -19301,7 +19297,7 @@
     "one_liner": "SpruceID lets users control their data across the web.",
     "team_size": 25,
     "industry": "Government",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "Government",
     "launched_at": 1622074792,
     "tags": [
       "GovTech",
@@ -19914,7 +19910,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "We’re on a mission to make behavioral health more available and accessible. We're backed by a16z, YCombinator, Craft, and many others to make this dream a reality.\r\n\r\nAt Juniper, we build software for behavioral health clinicians to improve quality of care. We streamline and replace manual efforts so clinicians can focus on what they do best: providing high-quality care.\r\n\r\n—\r\n\r\nBehavioral health is broken. We think this is a problem worth solving, and we think we know how to solve it. Interested? Check out https://jobs.lever.co/juniperplatform.\r\n\r\n—\r\n\r\nWant to say hi? Drop us a line at hello@juniperplatform.com.",
     "one_liner": "Admin automation for behavioral health",
-    "team_size": 33,
+    "team_size": 40,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1610859243,
@@ -22098,6 +22094,51 @@
     "api": "https://yc-oss.github.io/api/batches/w21/recover.json"
   },
   {
+    "id": 23440,
+    "name": "Jiga",
+    "slug": "jiga",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c19e5f223f5e07fad692fb4bea179778c08b018.png",
+    "website": "https://jiga.io",
+    "all_locations": "San Francisco, CA, USA; Tel Aviv-Yafo, Tel Aviv District, Israel; Remote",
+    "long_description": "Hardware companies use Jiga to centralize their RFQs, POs, and supplier communication in one place while automating their sourcing process. Instead of wasting hours on admin work and error-prone emails for quotes and orders, Jiga's customers get faster to market with optimal costs, quality, and lead times.\r\n",
+    "one_liner": "Build physical products faster",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1614785662,
+    "tags": [
+      "B2B",
+      "Manufacturing",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W21",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "Israel",
+      "America / Canada",
+      "Middle East and North Africa",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/jiga",
+    "api": "https://yc-oss.github.io/api/batches/w21/jiga.json"
+  },
+  {
     "id": 23452,
     "name": "Wasp",
     "slug": "wasp",
@@ -23029,6 +23070,51 @@
     "api": "https://yc-oss.github.io/api/batches/w22/serif-health.json"
   },
   {
+    "id": 23960,
+    "name": "Carbonfact",
+    "slug": "carbonfact",
+    "former_names": [
+      "Kanso"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83845e91476e0ba520c9781b05ad6af948e7eeed.png",
+    "website": "http://www.carbonfact.com",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "The first apparel & footwear Carbon Management Platform.",
+    "one_liner": "Decarbonizing the fashion industry",
+    "team_size": 8,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Climate",
+    "launched_at": 1626882180,
+    "tags": [
+      "SaaS",
+      "Sustainable Fashion",
+      "Climate"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Climate"
+    ],
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/carbonfact",
+    "api": "https://yc-oss.github.io/api/batches/s21/carbonfact.json"
+  },
+  {
     "id": 23967,
     "name": "Varos",
     "slug": "varos",
@@ -23474,18 +23560,18 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29db94cccb8fb04c76b3795f179303c30d31cc11.png",
     "website": "https://www.confidotech.com",
-    "all_locations": "New York, NY, USA; Washington, DC, USA",
+    "all_locations": "New York, NY, USA",
     "long_description": "Confido is a next-generation financial automation and intelligence platform that helps fast-growing CPG brands operate and scale more efficiently. ",
     "one_liner": "AI-enabled financial automation and intelligence for CPG Brands",
-    "team_size": 8,
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1627617699,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "Analytics"
+      "Analytics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24103,7 +24189,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -26005,48 +26091,6 @@
     "api": "https://yc-oss.github.io/api/batches/s21/adni.json"
   },
   {
-    "id": 24587,
-    "name": "Aer",
-    "slug": "aer",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2cb473ed161535672dc3db487d2e70dec2a74ec.png",
-    "website": "https://www.aercompliance.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Aer Compliance is Rippling for compliance, combining Code of Ethics, marketing, calendars, filings, workflows, and more in a single place.",
-    "one_liner": "Compound compliance: the central hub for meeting SEC obligations ",
-    "team_size": 18,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1627992245,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "Regtech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S21",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aer",
-    "api": "https://yc-oss.github.io/api/batches/s21/aer.json"
-  },
-  {
     "id": 24596,
     "name": "Siglo",
     "slug": "siglo",
@@ -26267,6 +26311,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bloop",
     "api": "https://yc-oss.github.io/api/batches/s21/bloop.json"
+  },
+  {
+    "id": 24628,
+    "name": "Kiwi Biosciences",
+    "slug": "kiwi-biosciences",
+    "former_names": [
+      "Kiwi Bio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbab0dcef0041ce58d73ba3b8e05f5279e22f0bf.png",
+    "website": "https://www.fodzyme.com",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "Kiwi Biosciences can help 18M Americans suffering from Irritable Bowel Syndrome (IBS) enjoy a normal meal without running to the bathroom two hours later. We develop novel, patent-pending enzymes that break down common digestive triggers in food. ",
+    "one_liner": "Patent-pending enzymes to break down common dietary triggers",
+    "team_size": 10,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1628891422,
+    "tags": [
+      "Biotech",
+      "Food Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kiwi-biosciences",
+    "api": "https://yc-oss.github.io/api/batches/s21/kiwi-biosciences.json"
   },
   {
     "id": 24720,
@@ -26742,7 +26830,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27362,7 +27450,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -29925,50 +30013,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/courtyard-io",
     "api": "https://yc-oss.github.io/api/batches/w22/courtyard-io.json"
-  },
-  {
-    "id": 25810,
-    "name": "Material Depot",
-    "slug": "material-depot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a662852a35aa588b121563de0be00dcfacd66749.png",
-    "website": "https://materialdepot.in/",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "The problem - Material discovery today is a big pain for the design community\r\n\r\nCountless hours are spent browsing to catalogues, visiting offline stores, coordinating with vendors for samples, getting quotations and finalizing materials. All of this process removes focus and causes hindrance to the process of design\r\n\r\nThe Solution - Discovery engine and AI design tools to make the process easy and seamless\r\n\r\nWe are building a digital library of materials across different categories with seamless search functionalities. On top that we are enabling the community with a image recognition tool and a digital mood board to embed the right material in the design",
-    "one_liner": "Search Engine, workflow automation for Architectural & Design industry",
-    "team_size": 4,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction",
-    "launched_at": 1646199572,
-    "tags": [
-      "Marketplace",
-      "SaaS",
-      "Construction",
-      "B2B",
-      "Proptech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/material-depot",
-    "api": "https://yc-oss.github.io/api/batches/w22/material-depot.json"
   },
   {
     "id": 25819,
@@ -32661,48 +32705,6 @@
     "api": "https://yc-oss.github.io/api/batches/s22/juicebox.json"
   },
   {
-    "id": 26803,
-    "name": "Tank Payments",
-    "slug": "tank-payments",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4db7a5077a335ed33cdb02645791bdc760dba1ca.png",
-    "website": "https://www.tankpayments.com/",
-    "all_locations": "Austin, TX, USA; Tempe, AZ, USA",
-    "long_description": "Tank Payments is building modern financial infrastructure for the trucking industry. We offer payables automation software for logistics businesses that make hundreds of payments to trucking businesses every day. For trucking businesses, we provide a best-in-class banking platform, designed to meet the unique financial needs of the trucking sector.",
-    "one_liner": "Modern financial infrastructure for the trucking industry.",
-    "team_size": 5,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Banking and Exchange",
-    "launched_at": 1659420849,
-    "tags": [
-      "Fintech",
-      "SaaS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Banking and Exchange"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tank-payments",
-    "api": "https://yc-oss.github.io/api/batches/s22/tank-payments.json"
-  },
-  {
     "id": 26807,
     "name": "Maverick BioMetals",
     "slug": "maverick-biometals",
@@ -35110,18 +35112,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/053379bcb6d2f8ca33ff9eb81f1d899a06a6872a.png",
     "website": "https://www.lume.ai",
     "all_locations": "",
-    "long_description": "Lume automates data mappings using AI. Lume helps teams ingest client data, normalize data from different sources, and create one to many integrations, automatically.",
-    "one_liner": "Automate data mappings using AI",
+    "long_description": "Lume automates data mapping using AI. Lume helps teams ingest client data, normalize data from different sources, and create one to many integrations, automatically.",
+    "one_liner": "Automate data mapping using AI",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1675974530,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Data Engineering",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36144,16 +36146,16 @@
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "Traces, evals, prompt management and metrics to debug and improve your LLM application.\r\nOnboard via https://langfuse.com\r\n\r\nLangfuse helps you build and improve LLM applications across the entire lifecycle: \r\n- Develop: Observability, Langfuse UI & Prompt Management\r\n- Monitor: Traces, Analytics, Metrics & Evaluations\r\n- Test: Experiments, Releases & Datasets\r\n\r\nWe are hiring: https://langfuse.com/careers",
     "one_liner": "Open source LLM engineering platform",
-    "team_size": 5,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1673911015,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Analytics",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36825,52 +36827,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vitalize-care",
     "api": "https://yc-oss.github.io/api/batches/w23/vitalize-care.json"
-  },
-  {
-    "id": 27961,
-    "name": "Hona",
-    "slug": "hona",
-    "former_names": [
-      "Milestones",
-      "Hona (formerly Milestones)",
-      "Hona 🚀"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7796601cb8c746f78b720f5509beb20c0e6fd6c1.png",
-    "website": "https://hona.com",
-    "all_locations": "Orem, UT, USA",
-    "long_description": "Hona is a software application that allows for businesses to automatically keep their clients up to date as to the status of their service. Alongside these updates, clients will have a unique user interface that will allow them to see the important milestones within their service and also receive education as to how it works and the next steps. Beyond the updates and education, Hona serves as a tool for clients to upload documents, directly communicate with the business, leave reviews and feedback to the business, and more. The long-term vision for Hona is to be the all in solution for client experience management used across many different industries. Clients will have one app to communicate and interact with multiple different businesses. As clients enjoy the use of Hona with one business, they will yearn to use it with other businesses. Additionally, the seamless integration between the business's CRM and Hona makes it desirable for the business to use as well.",
-    "one_liner": "The Domino's Pizza Tracker for service businesses and their clients.",
-    "team_size": 48,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1669140082,
-    "tags": [
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hona",
-    "api": "https://yc-oss.github.io/api/batches/w23/hona.json"
   },
   {
     "id": 27965,
@@ -38637,6 +38593,48 @@
     "api": "https://yc-oss.github.io/api/batches/s23/bland-ai.json"
   },
   {
+    "id": 28805,
+    "name": "Diligent",
+    "slug": "diligent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/306eaffa9ae52c97e7f7fd8c9161b13409115596.png",
+    "website": "https://godiligent.ai",
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "We help fintech risk and AML compliance teams automate and strengthen routine customer due diligence tasks with LLMs. Our AI assistants slash cost-to-comply, improve risk detection and free up capacity for investigations that require human expertise and decision making. \r\n\r\nFintechs and banks use us to automate workflows like running thorough due diligence on a legal entity, reviewing customer documents like registry extracts, proofs of address etc and remediating false positive alerts from their AML systems.",
+    "one_liner": "GenAI assistants for fintech risk and compliance operations",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1706799734,
+    "tags": [
+      "Fintech",
+      "Compliance",
+      "Fraud Prevention",
+      "Regtech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/diligent",
+    "api": "https://yc-oss.github.io/api/batches/s23/diligent.json"
+  },
+  {
     "id": 28811,
     "name": "Cascading AI",
     "slug": "cascading-ai",
@@ -39933,9 +39931,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ddaa5bebf2aae550b90599e16a46dc1f877c755.png",
     "website": "http://www.runconverge.com",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Tracking customer events (e.g. Add To Cart, Purchase, etc.) correctly is important, yet unattainable for most online stores due to the limitations of tracking in the browser and lack of in-house developers.\r\n\r\nConverge auto-tracks all important events – across the browser, store backend and subscription platforms. Once tracking is set up, Converge allows online stores to forward these events with the flip of a switch to their advertising platforms and analytics tools leading to improved ad performance and better insights.\r\n\r\nOur larger vision is to go beyond data infrastructure; and leverage our single customer data layer to build out a perfectly integrated set of applications that helps brands reduce their customer acquisition cost.",
-    "one_liner": "Segment for Ecommerce",
+    "all_locations": "New York, NY, USA",
+    "long_description": "We're building the unified marketing measurement stack for online stores. We make it easy for marketeers to understand where their customers come from, cut unprofitable channels, and scale when things are working.\r\n\r\nWe are vertically integrating the modern data stack for marketing teams of online stores by consolidating customer data collection, consent management, identity resolution, transformations, attribution, data forwarding, and analytics into a single platform.",
+    "one_liner": "All-in-one marketing measurement for B2C",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -39957,8 +39955,8 @@
       "B2B"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -40010,6 +40008,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sola",
     "api": "https://yc-oss.github.io/api/batches/s23/sola.json"
+  },
+  {
+    "id": 29000,
+    "name": "SafetyKit",
+    "slug": "safetykit",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9e75c5434d4db65b7f3f6434cf59d0341971429.png",
+    "website": "https://www.safetykit.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "SafetyKit replaces human Trust and Safety reviewers with language models.\r\n\r\nWe make it easy for enterprise Trust and Safety teams to supercharge their content review workflows — speeding up agent decision-making 5x or by automating the review altogether — and significantly reduce operations costs with faster, more accurate decisions.\r\n\r\nWith SafetyKit, Trust and Safety teams write their policies in natural language and use them to detect and action nefarious content, instantly.  Each decision is accompanied by an explanation grounded in your policies — not a generic definition or model score.  We allow TnS teams to confidently scale their capacity, freeing up your agents for the highest leverage work, while reducing those agents exposure to problematic content. ",
+    "one_liner": "AI-Powered Trust and Safety Automation",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1687827774,
+    "tags": [
+      "Fintech",
+      "Compliance",
+      "Trust & Safety"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/safetykit",
+    "api": "https://yc-oss.github.io/api/batches/s23/safetykit.json"
   },
   {
     "id": 29001,
@@ -40216,19 +40254,25 @@
   },
   {
     "id": 29045,
-    "name": "Movley",
-    "slug": "movley",
+    "name": "OpsNinja",
+    "slug": "opsninja",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b1ae749846c21ba002d841cf9d583c44e2bfbfb.png",
-    "website": "https://movley.com/",
-    "all_locations": "",
-    "long_description": "Movley is building Rippling for supply chain. Just like Rippling centralizes all your HR tools, we give Amazon & Shopify sellers one platform to manage their entire supply chain.",
-    "one_liner": "Rippling for supply chain.",
-    "team_size": 6,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/914afd5a1a7983e7aa09f46591973f0e77f098c0.png",
+    "website": "https://opsninja.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "OpsNinja is your e-commerce brand's product quality control department. Built by sellers, and trusted by 800+ brands. Are you a Shopify or Amazon seller? Sign up in 30 seconds to start monitoring your product quality for free!",
+    "one_liner": "Your e-commerce brand's product quality control department.",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1686948871,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Logistics",
+      "Manufacturing",
+      "E-commerce",
+      "Supply Chain"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -40240,6 +40284,8 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -40248,8 +40294,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/movley",
-    "api": "https://yc-oss.github.io/api/batches/s23/movley.json"
+    "url": "https://www.ycombinator.com/companies/opsninja",
+    "api": "https://yc-oss.github.io/api/batches/s23/opsninja.json"
   },
   {
     "id": 29053,
@@ -41613,6 +41659,49 @@
     "api": "https://yc-oss.github.io/api/batches/w24/garage-2.json"
   },
   {
+    "id": 29273,
+    "name": "Pivot Robotics",
+    "slug": "pivot-robotics",
+    "former_names": [
+      "Pivot AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee0d44cf8688258862f3d2457491a3a79d07f53c.png",
+    "website": "https://pivotrobotics.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pivot Robotics makes AI software for robotic arms that helps manufacturers automate their most labor intensive tasks. We are starting out with the dangerous task of metal grinding and are currently deploying our software on 10+ robots in a cast-iron foundry. ",
+    "one_liner": "AI for Robot Arms in Factories",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1709584102,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pivot-robotics",
+    "api": "https://yc-oss.github.io/api/batches/w24/pivot-robotics.json"
+  },
+  {
     "id": 29286,
     "name": "PointOne",
     "slug": "pointone",
@@ -42528,16 +42617,22 @@
     "former_names": [
       "Sunona"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4be701b5f2811f43798676a3f2def02a041095d2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe5544e1b1b961aace9e8e6d50ba3a3f37c9ca2d.png",
     "website": "https://getdelve.com/?utm_source=yc&utm_medium=bookface&utm_campaign=yc_company_page",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Delve is the easiest way to get HIPAA & SOC 2 compliant.\r\n\r\nWe use AI to catch issues you can't and fix them before you can.\r\n\r\nBuilt for founders that move fast.\r\n\r\nLet's chat: https://cal.com/team/getdelve/demo",
     "one_liner": "HIPAA and SOC 2 in days, not months.",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1704449902,
-    "tags": [],
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Compliance",
+      "Cybersecurity",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -42549,7 +42644,8 @@
       "Security"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -44467,6 +44563,45 @@
     "api": "https://yc-oss.github.io/api/batches/s24/wordware.json"
   },
   {
+    "id": 29657,
+    "name": "Azalea Robotics Corporation",
+    "slug": "azalea-robotics-corporation",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a43d3ef392fa3a7d4ef89797c2972ddacbdd1b5c.png",
+    "website": "https://azalearobotics.com/",
+    "all_locations": "Berkeley, CA, USA",
+    "long_description": "Azalea Robotics automates airport baggage handling with intelligent robot operations. The global market for airport baggage handling systems is $20+ billion and growing, presenting a significant opportunity for innovation and market disruption in this sector.\r\n\r\n\r\nPassenger air traffic volume is increasing, driving demand for efficient and reliable baggage handling at airports and putting immense pressure on existing infrastructure. In 2023 alone, airports processed approximately 4.5 billion bags, highlighting the need for advanced solutions to manage this load effectively. Azalea Robotics provides state-of-the-art robotic systems that enhance efficiency, reduce mishandling, and improve passenger experience through more reliable operations.\r\n\r\n\r\nBaggage handling is a critical component of airline ground operations, yet it is fraught with challenges. The work is physically demanding, often leading to long-term injuries among workers. Traditional baggage handling involves repetitive lifting and maneuvering of heavy loads, which can result in long-term health issues. Azalea Robotics addresses these challenges by automating the most strenuous tasks, thereby reducing the risk of injury and enhancing operational efficiency.",
+    "one_liner": "Automating airport baggage handling with robots.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1723668106,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/azalea-robotics-corporation",
+    "api": "https://yc-oss.github.io/api/batches/s24/azalea-robotics-corporation.json"
+  },
+  {
     "id": 29661,
     "name": "Silurian",
     "slug": "silurian",
@@ -45461,6 +45596,45 @@
     "api": "https://yc-oss.github.io/api/batches/s24/assembly-hoa.json"
   },
   {
+    "id": 29825,
+    "name": "Sepal AI",
+    "slug": "sepal-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78c48b77fe0ad236d148f827dd2ba0b86450afd3.png",
+    "website": "https://www.sepalai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sepal AI builds Large Language Models for Enterprises through data development, finetuning, and inference.\r\n\r\nOur team comes from Turing, Vercel, McKinsey, and Bain. At Turing, we built the LLM training business and products to support over $120M revenue growth in 6 months for companies like Open AI, Google, and Anthropic. \r\n\r\nWe learned that large, non-tech enterprises that we worked with, like PepsiCo, Bridgestone, and Volvo, don't have the data they need to train models to produce real value. Which means they’re not going to unlock the value from AI without a partner.\r\n\r\nWe are targeting the 2400 largest non-software companies to build, continuously fine tune, and deploy their custom models. ",
+    "one_liner": "Building LLMs for Large Enterprises.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1722966351,
+    "tags": [
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sepal-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/sepal-ai.json"
+  },
+  {
     "id": 29840,
     "name": "Blaze",
     "slug": "blaze-2",
@@ -45634,6 +45808,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/overlap",
     "api": "https://yc-oss.github.io/api/batches/s24/overlap.json"
+  },
+  {
+    "id": 29983,
+    "name": "PathPilot",
+    "slug": "pathpilot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6768364915c3c8551c79d1fe59ba06f2cc7c2a5.png",
+    "website": "https://www.getpathpilot.com/",
+    "all_locations": "",
+    "long_description": "PathPilot makes it easy to understand what your users are experiencing by extracting key highlights from hours of session replay videos.\r\n\r\n+ Quickly see how users interact with new features\r\n+ Uncover hidden UI issues\r\n+ Ensure smooth experiences for top customers\r\n+ Receive recommendations for UI improvements ",
+    "one_liner": "The AI Customer Experience Agent ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1724891975,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pathpilot",
+    "api": "https://yc-oss.github.io/api/batches/s24/pathpilot.json"
   },
   {
     "id": 30056,

@@ -1274,7 +1274,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2627,10 +2627,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W21",
-    "status": "Acquired",
+    "status": "Active",
     "industries": [
       "B2B",
       "Supply Chain and Logistics"
@@ -2989,7 +2989,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4260,19 +4260,25 @@
   },
   {
     "id": 29045,
-    "name": "Movley",
-    "slug": "movley",
+    "name": "OpsNinja",
+    "slug": "opsninja",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b1ae749846c21ba002d841cf9d583c44e2bfbfb.png",
-    "website": "https://movley.com/",
-    "all_locations": "",
-    "long_description": "Movley is building Rippling for supply chain. Just like Rippling centralizes all your HR tools, we give Amazon & Shopify sellers one platform to manage their entire supply chain.",
-    "one_liner": "Rippling for supply chain.",
-    "team_size": 6,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/914afd5a1a7983e7aa09f46591973f0e77f098c0.png",
+    "website": "https://opsninja.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "OpsNinja is your e-commerce brand's product quality control department. Built by sellers, and trusted by 800+ brands. Are you a Shopify or Amazon seller? Sign up in 30 seconds to start monitoring your product quality for free!",
+    "one_liner": "Your e-commerce brand's product quality control department.",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1686948871,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Logistics",
+      "Manufacturing",
+      "E-commerce",
+      "Supply Chain"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -4284,6 +4290,8 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -4292,8 +4300,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/movley",
-    "api": "https://yc-oss.github.io/api/batches/s23/movley.json"
+    "url": "https://www.ycombinator.com/companies/opsninja",
+    "api": "https://yc-oss.github.io/api/batches/s23/opsninja.json"
   },
   {
     "id": 29069,
@@ -4830,7 +4838,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
-    "status": "Acquired",
+    "status": "Active",
     "industries": [
       "B2B",
       "Supply Chain and Logistics"
