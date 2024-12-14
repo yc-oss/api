@@ -2791,7 +2791,10 @@
     "slug": "atmo",
     "former_names": [
       "Froglabs",
-      "Atmo"
+      "Atmo",
+      "Atmo",
+      "Inc.",
+      "Atmo AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/081c3bd5a2080215bbdaaea1ede5e0d87e553390.png",
     "website": "http://atmo.ai",
@@ -2800,7 +2803,7 @@
     "one_liner": "Ultra-precise AI weather forecasting.",
     "team_size": 10,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Climate",
+    "subindustry": "Industrials",
     "launched_at": 1672960029,
     "tags": [
       "Artificial Intelligence",
@@ -2997,7 +3000,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S20",
-    "status": "Inactive",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -8325,7 +8328,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -10474,50 +10477,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/readily",
     "api": "https://yc-oss.github.io/api/batches/s23/readily.json"
-  },
-  {
-    "id": 28811,
-    "name": "Cascading AI",
-    "slug": "cascading-ai",
-    "former_names": [
-      "CORE Ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/03e96f40b376939e555522ad547f5df9452b4fae.png",
-    "website": "https://www.cascading.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Casca is building AGI for banking.\r\n\r\nWe are replacing 30+ year-old legacy technology with AI-native systems of record that automate 90% of the manual work humans used to have to do. \r\n\r\nOur first product is an AI-native Loan Origination System - with a built-in AI Agent, called Sarah. Sarah communicates with small business loan applicants via email or sms, guides them through the application process and prepares the loan file for a human underwriter.\r\n\r\nWhy? Small businesses are the heart of the American economy and a lot of banks shy away from providing funding because of the manual effort in pursuing those deals. With us, that changes and unlocks affordable, quick bank funding for the 30M+ small businesses in the US as opposed to the high interest rates from online lenders.",
-    "one_liner": "AI Agents for Banking",
-    "team_size": 6,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1691481257,
-    "tags": [
-      "Conversational Banking",
-      "Fintech",
-      "Machine Learning",
-      "Finance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/cascading-ai",
-    "api": "https://yc-oss.github.io/api/batches/s23/cascading-ai.json"
   },
   {
     "id": 28815,
@@ -13324,50 +13283,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/andon-labs",
     "api": "https://yc-oss.github.io/api/batches/w24/andon-labs.json"
-  },
-  {
-    "id": 29254,
-    "name": "Reducto",
-    "slug": "reducto",
-    "former_names": [
-      "Remembrall"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9794d4fb523375d125992ce9fa5e9e9db45daf9a.png",
-    "website": "https://reducto.ai",
-    "all_locations": "",
-    "long_description": "Reducto offers robust and reliable document ingestion for any workflow. Our API allows you to convert complex, unstructured documents into structured outputs that are perfect for RAG, process automation, and more. ",
-    "one_liner": "Unlocking data behind complex documents",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1704664395,
-    "tags": [
-      "Documents",
-      "Data Engineering",
-      "Enterprise Software",
-      "Search",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reducto",
-    "api": "https://yc-oss.github.io/api/batches/w24/reducto.json"
   },
   {
     "id": 29256,
@@ -18194,7 +18109,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",

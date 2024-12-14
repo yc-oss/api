@@ -3483,7 +3483,10 @@
     "slug": "atmo",
     "former_names": [
       "Froglabs",
-      "Atmo"
+      "Atmo",
+      "Atmo",
+      "Inc.",
+      "Atmo AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/081c3bd5a2080215bbdaaea1ede5e0d87e553390.png",
     "website": "http://atmo.ai",
@@ -3492,7 +3495,7 @@
     "one_liner": "Ultra-precise AI weather forecasting.",
     "team_size": 10,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Climate",
+    "subindustry": "Industrials",
     "launched_at": 1672960029,
     "tags": [
       "Artificial Intelligence",
@@ -3866,7 +3869,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S20",
-    "status": "Inactive",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -8188,12 +8191,12 @@
   },
   {
     "id": 28811,
-    "name": "Cascading AI",
-    "slug": "cascading-ai",
+    "name": "Casca",
+    "slug": "casca",
     "former_names": [
       "CORE Ai"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/03e96f40b376939e555522ad547f5df9452b4fae.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b568f1b934922f1671754263d6a8cd377e2b1e9c.png",
     "website": "https://www.cascading.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Casca is building AGI for banking.\r\n\r\nWe are replacing 30+ year-old legacy technology with AI-native systems of record that automate 90% of the manual work humans used to have to do. \r\n\r\nOur first product is an AI-native Loan Origination System - with a built-in AI Agent, called Sarah. Sarah communicates with small business loan applicants via email or sms, guides them through the application process and prepares the loan file for a human underwriter.\r\n\r\nWhy? Small businesses are the heart of the American economy and a lot of banks shy away from providing funding because of the manual effort in pursuing those deals. With us, that changes and unlocks affordable, quick bank funding for the 30M+ small businesses in the US as opposed to the high interest rates from online lenders.",
@@ -8203,11 +8206,11 @@
     "subindustry": "Fintech",
     "launched_at": 1691481257,
     "tags": [
+      "Artificial Intelligence",
       "Conversational Banking",
       "Fintech",
       "Machine Learning",
-      "Finance",
-      "AI"
+      "Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8227,8 +8230,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/cascading-ai",
-    "api": "https://yc-oss.github.io/api/batches/s23/cascading-ai.json"
+    "url": "https://www.ycombinator.com/companies/casca",
+    "api": "https://yc-oss.github.io/api/batches/s23/casca.json"
   },
   {
     "id": 28837,
@@ -9278,51 +9281,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/autopallet-robotics.json"
   },
   {
-    "id": 29725,
-    "name": "Promi",
-    "slug": "promi",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65de95434aac1e56a3a1bbec4748cad918c0f6f2.png",
-    "website": "https://www.usepromi.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Promi is a pricing and discount optimization platform. We help merchants by personalizing and dynamically setting discounts across products to maximize sales and profit.\r\n\r\nEcommerce merchants and marketers typically use discounts to drive customer acquisition, boost sales during holidays, or liquidate inventory. But deciding on a discount to offer is typically guesswork. Who to send the discount to, how much to offer, and which products it applies to are, in the most advanced cases, determined manually by looking at past sales and seeing what worked well. In the majority of cases, it's what feels and sounds good.\r\n\r\n\r\nPromi leverages your store data to optimize discounts at a more granular level than possible manually. We dynamically determine the best value across each product, for different users, at different times in order to maximize sales and profit.",
-    "one_liner": "Optimizing ecommerce pricing with dynamic, personalized discounts",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1722224133,
-    "tags": [
-      "Machine Learning",
-      "SaaS",
-      "B2B",
-      "E-commerce",
-      "Retail"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/promi",
-    "api": "https://yc-oss.github.io/api/batches/s24/promi.json"
-  },
-  {
     "id": 29735,
     "name": "FINNY AI",
     "slug": "finny-ai",
@@ -9474,7 +9432,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
