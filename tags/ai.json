@@ -2885,7 +2885,8 @@
     "name": "inFeedo AI",
     "slug": "infeedo-ai",
     "former_names": [
-      "Amber by inFeedo"
+      "Amber by inFeedo",
+      "inFeedo"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a61152e963f966df00f207d33dfa20c234c99cfe.png",
     "website": "https://infeedo.ai",
@@ -5359,6 +5360,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/instant-labs",
     "api": "https://yc-oss.github.io/api/batches/w22/instant-labs.json"
+  },
+  {
+    "id": 25575,
+    "name": "Beam",
+    "slug": "beam",
+    "former_names": [
+      "Slai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf7324872fe6b37d7579334928f7018d2099483b.png",
+    "website": "https://beam.cloud",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Run AI workloads anywhere with zero complexity.",
+    "one_liner": "AI Infrastructure for Developers",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1641494547,
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/beam",
+    "api": "https://yc-oss.github.io/api/batches/w22/beam.json"
   },
   {
     "id": 25587,
@@ -14645,10 +14692,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b9790a2ac4247fc7994d02af6f1da28c9c0d2f9.png",
     "website": "https://www.manifoldfreight.com/",
-    "all_locations": "Seattle, WA, USA",
+    "all_locations": "Seattle, WA, USA; Remote",
     "long_description": "Manifold is revolutionizing the spot freight procurement process for Carriers, Brokers, and Shippers. Our inaugural product transforms the booking process for spot shipments, significantly reducing empty miles and increasing revenue.  We do this by aggregating spot shipment opportunities from a variety of shipper and brokerage sources into a single location.\r\n\r\nAndrew and Oliver bring deep domain expertise of freight from their pivotal roles at Convoy, where they were engineering leaders automating processes that were scaled to handle over 10,000 weekly shipments. This background has been instrumental in shaping Manifold's innovative approach.\r\n\r\nIn just two months since launching Manifold has achieved $5,100 in monthly revenue, showcasing the pressing demand for our product. Manifold is poised to transform this $100+ billion industry. Not only will we streamline spot freight procurement operations but we will also redefine the industry's cost structure for the better.",
     "one_liner": "Aggregating Spot Freight Opportunities for Carriers",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1706900903,
@@ -14670,7 +14717,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -15857,47 +15906,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/domu-technology-inc",
     "api": "https://yc-oss.github.io/api/batches/s24/domu-technology-inc.json"
-  },
-  {
-    "id": 29573,
-    "name": "Undermind",
-    "slug": "undermind",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e44c4453098a5caed0988fdf2dff5b898cdcac4.png",
-    "website": "https://www.undermind.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Undermind, we're building a search engine that can handle extremely complex questions. It’s geared at experts, like research scientists and doctors, who need to find very specific resources to solve high-stakes problems. \r\n\r\nWe’ve rebuilt search from the ground up to address this. Our new approach employs high-quality LLMs to adaptively explore a database, mimicking how a human researcher carefully discovers information. This approach dramatically outperforms (by 10-50x) traditional keyword search and other modern AI-based retrieval methods.\r\n\r\nOur first target users are the 50 million researchers searching for scientific literature on PubMed and Google Scholar every month. We’ve have users paying us $200-$500 per seat per year, from fields like medicine, ML, biotech, finance, and more.",
-    "one_liner": "An AI agent for complex search",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Education",
-    "launched_at": 1718632251,
-    "tags": [
-      "Machine Learning",
-      "Biotech",
-      "Search",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/undermind",
-    "api": "https://yc-oss.github.io/api/batches/s24/undermind.json"
   },
   {
     "id": 29574,

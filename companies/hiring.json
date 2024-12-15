@@ -3490,7 +3490,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6630,7 +6630,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10051,7 +10051,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10096,7 +10096,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10440,7 +10440,7 @@
     "one_liner": "Patient Intelligence Platform for Genetic Disease ",
     "team_size": 9,
     "industry": "Healthcare",
-    "subindustry": "Healthcare -> Diagnostics",
+    "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1541561609,
     "tags": [
       "Health Tech",
@@ -10463,7 +10463,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12085,7 +12085,7 @@
     "former_names": [
       "HealthSense IO",
       "Puzzl Group (Formerly HealthSense IO)",
-      "Puzzl Group ",
+      "Puzzl Group",
       "Puzzl",
       "Zeal (formerly Puzzl)"
     ],
@@ -17686,7 +17686,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18291,7 +18291,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19607,7 +19607,7 @@
     "one_liner": "Scheduling and workforce management SaaS for home healthcare providers",
     "team_size": 8,
     "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1611436998,
     "tags": [
       "Scheduling",
@@ -19713,7 +19713,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22943,7 +22943,7 @@
     "one_liner": "World-class, AI-enabled psychiatry covered by insurance",
     "team_size": 9,
     "industry": "Healthcare",
-    "subindustry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1624636729,
     "tags": [
       "Artificial Intelligence",
@@ -23584,7 +23584,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27587,9 +27587,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9bc3a224a6ab03aa39009f5213c25815ae6a7d5.png",
     "website": "https://www.agaveapi.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-50 years ago (on-prem, no APIs). We connect these systems by building proprietary APIs and a modern interface for automating work.\r\n\r\nConstruction Software Companies use our API to integrate their apps with these systems. Construction Companies use our interface to automate manual workflows, like keeping financial data in sync between field teams on jobsites and accounting teams in an office.",
-    "one_liner": "API & Data Infrastructure for Construction",
-    "team_size": 11,
+    "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\nOur core product is Agave Sync, which helps General and Trade Contractors keep financial data in sync between their field teams on jobsites and their accounting teams in a central back office.",
+    "one_liner": "Accounting data infrastructure for Construction",
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1642541270,
@@ -27597,8 +27597,7 @@
       "SaaS",
       "Construction",
       "B2B",
-      "Proptech",
-      "API"
+      "Proptech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28825,18 +28824,18 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf7324872fe6b37d7579334928f7018d2099483b.png",
     "website": "https://beam.cloud",
-    "all_locations": "New York, NY, USA; Cambridge, MA, USA",
-    "long_description": "Deploy inference endpoints, train AI models, run task queues, and autoscale to hundreds of GPUs. ",
-    "one_liner": "Serverless Cloud for Busy Developers",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Run AI workloads anywhere with zero complexity.",
+    "one_liner": "AI Infrastructure for Developers",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1641494547,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44277,6 +44276,47 @@
     "api": "https://yc-oss.github.io/api/batches/s24/abel-police.json"
   },
   {
+    "id": 29573,
+    "name": "Undermind",
+    "slug": "undermind",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e44c4453098a5caed0988fdf2dff5b898cdcac4.png",
+    "website": "https://www.undermind.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Undermind, we're building a search engine that can handle extremely complex questions. It’s geared at experts, like research scientists and doctors, who need to find very specific resources to solve high-stakes problems. \r\n\r\nWe’ve rebuilt search from the ground up to address this. Our new approach employs high-quality LLMs to adaptively explore a database, mimicking how a human researcher carefully discovers information. This approach dramatically outperforms (by 10-50x) traditional keyword search and other modern AI-based retrieval methods.\r\n\r\nOur first target users are the 50 million researchers searching for scientific literature on PubMed and Google Scholar every month. We’ve have users paying us $200-$500 per seat per year, from fields like medicine, ML, biotech, finance, and more.",
+    "one_liner": "An AI agent for scientific research",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Education",
+    "launched_at": 1718632251,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Biotech",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/undermind",
+    "api": "https://yc-oss.github.io/api/batches/s24/undermind.json"
+  },
+  {
     "id": 29579,
     "name": "Ply Health",
     "slug": "ply-health",
@@ -45465,48 +45505,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/presti-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/presti-ai.json"
-  },
-  {
-    "id": 29789,
-    "name": "Paasa",
-    "slug": "paasa",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/69545faa0fc0f7ee6b89313f1c320d59486f1802.png",
-    "website": "https://paasa.com",
-    "all_locations": "Gurugram, HR, India",
-    "long_description": "Paasa is the global investing platform for aspiring HNIs in emerging markets.\r\n\r\nHNIs in countries like India want to diversify their wealth internationally. Saving their wealth in a depreciating currency puts them at risk in a global context. However, most customers still hesitate due to lack of guidance on capital controls, tax laws that change every year, and slow outflows from local banks.\r\n\r\nPaasa streamlines this - thus empowering HNIs to save for their child's education, spend overseas confidently, and build generational wealth in a stable currency.\r\n",
-    "one_liner": "Simplifying global investing for HNIs in emerging markets",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1723926494,
-    "tags": [
-      "Fintech",
-      "Consumer",
-      "Investing",
-      "Emerging Markets"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Asset Management"
-    ],
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/paasa",
-    "api": "https://yc-oss.github.io/api/batches/s24/paasa.json"
   },
   {
     "id": 29791,

@@ -5391,6 +5391,60 @@
     "api": "https://yc-oss.github.io/api/batches/w20/ello.json"
   },
   {
+    "id": 13231,
+    "name": "QueryPie",
+    "slug": "querypie",
+    "former_names": [
+      "CHEQUER",
+      "QueryPie",
+      "CHEQUER",
+      "QueryPie",
+      "HynData",
+      "CHEQUER",
+      "QueryPie",
+      "QueryPie2"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/734a6a33e019411f619b73219afce2e9d4af8ef7.png",
+    "website": "https://www.querypie.com",
+    "all_locations": "San Mateo, CA, USA",
+    "long_description": "QueryPie solves two important customer problems. The first is being able to respond to ITGC audits to ensure financial transparency, The second is to keep customer privacy data and sensitive information from internal employees and external attackers,also provide insights into what data to use for AI.\r\n\r\nThis is made possible by centralizing access control and auditing of IT assets such as databases, servers, and containers across both on-premises and cloud environments in One-place QueryPie.\r\n\r\nQueryPie covered various privacy law and compliances such as ITGC for Sox, PCI-DSS, ISO27001, HIPAA, CCPA, GDPR, ISMS",
+    "one_liner": "Unified Access Control & Audit for Infrastructure",
+    "team_size": 97,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1606270339,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Compliance",
+      "Security",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W20",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/querypie",
+    "api": "https://yc-oss.github.io/api/batches/w20/querypie.json"
+  },
+  {
     "id": 13307,
     "name": "Photoroom",
     "slug": "photoroom",
@@ -6883,7 +6937,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7954,7 +8008,7 @@
     "one_liner": "World-class, AI-enabled psychiatry covered by insurance",
     "team_size": 9,
     "industry": "Healthcare",
-    "subindustry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1624636729,
     "tags": [
       "Artificial Intelligence",
@@ -8519,7 +8573,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10257,52 +10311,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mosaicvoice",
     "api": "https://yc-oss.github.io/api/batches/w22/mosaicvoice.json"
-  },
-  {
-    "id": 25575,
-    "name": "Beam",
-    "slug": "beam",
-    "former_names": [
-      "Slai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf7324872fe6b37d7579334928f7018d2099483b.png",
-    "website": "https://beam.cloud",
-    "all_locations": "New York, NY, USA; Cambridge, MA, USA",
-    "long_description": "Deploy inference endpoints, train AI models, run task queues, and autoscale to hundreds of GPUs. ",
-    "one_liner": "Serverless Cloud for Busy Developers",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1641494547,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Machine Learning",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/beam",
-    "api": "https://yc-oss.github.io/api/batches/w22/beam.json"
   },
   {
     "id": 25585,
@@ -22294,6 +22302,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spherecast",
     "api": "https://yc-oss.github.io/api/batches/s24/spherecast.json"
+  },
+  {
+    "id": 29573,
+    "name": "Undermind",
+    "slug": "undermind",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e44c4453098a5caed0988fdf2dff5b898cdcac4.png",
+    "website": "https://www.undermind.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Undermind, we're building a search engine that can handle extremely complex questions. It’s geared at experts, like research scientists and doctors, who need to find very specific resources to solve high-stakes problems. \r\n\r\nWe’ve rebuilt search from the ground up to address this. Our new approach employs high-quality LLMs to adaptively explore a database, mimicking how a human researcher carefully discovers information. This approach dramatically outperforms (by 10-50x) traditional keyword search and other modern AI-based retrieval methods.\r\n\r\nOur first target users are the 50 million researchers searching for scientific literature on PubMed and Google Scholar every month. We’ve have users paying us $200-$500 per seat per year, from fields like medicine, ML, biotech, finance, and more.",
+    "one_liner": "An AI agent for scientific research",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Education",
+    "launched_at": 1718632251,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Biotech",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/undermind",
+    "api": "https://yc-oss.github.io/api/batches/s24/undermind.json"
   },
   {
     "id": 29575,

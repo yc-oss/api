@@ -11722,7 +11722,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17072,7 +17072,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23127,7 +23127,8 @@
     "name": "Hotplate",
     "slug": "hotplate",
     "former_names": [
-      "Hotplate.com, Inc.",
+      "Hotplate.com",
+      "Inc.",
       "Hotplate.com"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68b16bb4324ca311db21ed0bf4613eb6cfa7e90e.png",
@@ -25091,10 +25092,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9eb31df6605279d78436b260aecddc2b77c97ff.png",
     "website": "https://www.homebreeze.com/",
-    "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "HomeBreeze offers the fastest and easiest way to make home upgrades. Our technology remotely scopes projects to get homeowners quotes within minutes, rather than weeks. We started with energy-efficient upgrades (e.g. heat pumps), as our first stop toward modernizing home management.",
-    "one_liner": "The fastest and easiest way to make energy-efficient home upgrades",
-    "team_size": 12,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "HomeBreeze offers the fastest and easiest way to make home upgrades. Our technology remotely scopes projects based on photos, video, answers to questions, and other data. We send those scopes to our network of contractors and get homeowners quotes within minutes, rather than weeks. We started with energy-efficient upgrades (e.g. heat pumps), as our first stop toward modernizing home management.",
+    "one_liner": "The fastest and easiest way to make home upgrades",
+    "team_size": 40,
     "industry": "Consumer",
     "subindustry": "Consumer -> Home and Personal",
     "launched_at": 1627653790,
@@ -25119,7 +25120,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -33775,6 +33776,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/beerme",
     "api": "https://yc-oss.github.io/api/batches/f24/beerme.json"
+  },
+  {
+    "id": 30097,
+    "name": "Innate",
+    "slug": "innate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5874ae5d91c6dc5a32065be587bcdaa98b58d82d.png",
+    "website": "https://innate.bot",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "Innate is developing innately intelligent teachable general-purpose robots. Our platforms are simple, accessible, so as to lower the barrier to entry into robotics for everyone.",
+    "one_liner": "Teachable general-purpose robots",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1730365227,
+    "tags": [
+      "Generative AI",
+      "Hard Tech",
+      "Robotics",
+      "Consumer",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Consumer Electronics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/innate",
+    "api": "https://yc-oss.github.io/api/batches/f24/innate.json"
   },
   {
     "id": 30102,
