@@ -3937,7 +3937,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9356,7 +9356,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W20",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Fintech",
       "Asset Management"
@@ -10280,6 +10280,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jeeves",
     "api": "https://yc-oss.github.io/api/batches/s20/jeeves.json"
+  },
+  {
+    "id": 21785,
+    "name": "Jensen Technology, Inc.",
+    "slug": null,
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0eabb1125e150da99bf5eafd74d3bf549905f241.png",
+    "website": "https://www.getjensen.com",
+    "all_locations": "Los Angeles, CA, USA; Remote",
+    "long_description": "Budgeting software that's integrated with your actual business data (QuickBooks, Gusto, Stripe, etc.) to help startups forecast revenue and cash.\r\n\r\nWhat it looks like to build a base budget: https://www.loom.com/share/66d5458569c6407babff893a7ffe96c7 ",
+    "one_liner": "Budgeting software for startups",
+    "team_size": 2,
+    "industry": "Unspecified",
+    "subindustry": "Unspecified",
+    "launched_at": 1599762607,
+    "tags": [
+      "FinOps",
+      "Fintech",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S20",
+    "status": "Acquired",
+    "industries": [
+      "Unspecified"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/null",
+    "api": "https://yc-oss.github.io/api/batches/s20/null.json"
   },
   {
     "id": 21790,
@@ -18888,9 +18930,11 @@
     "former_names": [
       "WeReno",
       "Inc.",
-      "VIDCALL, Inc",
+      "VIDCALL",
+      "Inc",
       "WeReno",
-      "WeReno (Vidcall, Inc.)"
+      "WeReno (Vidcall",
+      "Inc.)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c78986b23d9ab7c1e3cc7f8e34b14ae56a86fcaf.png",
     "website": "https://wereno.com",
@@ -21127,7 +21171,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -22112,6 +22156,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spade",
     "api": "https://yc-oss.github.io/api/batches/w22/spade.json"
+  },
+  {
+    "id": 25955,
+    "name": "Pebble",
+    "slug": "pebble-2",
+    "former_names": [
+      "Almonds",
+      "Pebble (Prev. Almonds)",
+      "Almonds"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ee7bbc9e6679adebd6f5aaa426c2c73a3e0471b.png",
+    "website": "https://www.pebble.us",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Why are there so many flaws with the banking system that seem obviously detrimental — but still exist? Why haven’t these new digital banks solved all of our financial headaches yet?\r\n\r\nIf you peak under the hood, you’ll find that every bank, fintech, and neobank is chained to the same outdated financial system built in the 1970s. The system knows it’s broken, so they won’t let go of its victims in fear of losing their monopolistic grip on your financial life. This shackled reliance on the system has held everyone back: from me — to you — to the local restaurant owner down the street — to the fresh-faced graduate trying to pay off their student loans. No one has been able to escape.\r\n\r\nPebble is here to turn banking on its head. Through Pebble’s digital wallet, you can earn 5% APY rewards on your money, and unlimited 5% cash back at our 56 partnered merchants. These include Amazon, Uber, AirBnB, Adidas, Chipotle, and more. \r\n\r\nWithin the app, you can also seamlessly pay, track, and manage your bills just by snapping a picture of it. You will receive a debit card made in collaboration with Mastercard with full budgeting controls. And Pebble supports full and partial payroll connections, so you can watch your paychecks grow in the Pebble ecosystem. \r\n\r\nSo, how do we make sure Pebble does not become a bank? It lies in the Pebbles: the first abstracted rewards currency designed to align the incentives of everyone in our financial ecosystem. These reward points will be distributed through the use of our simple app built for day-to-day finances.\r\n\r\nWe are taking a fresh approach towards finance. Towards designing a fairer economy. Towards the widespread adoption of blockchain technology. And towards building a new foundation. We can't wait for you to join The Money Revolution. As we like to say here, it pays to be early . . .",
+    "one_liner": "The first app that pays you to save, spend, and send your money.",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1653191992,
+    "tags": [
+      "Fintech",
+      "Crypto / Web3"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Acquired",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pebble-2",
+    "api": "https://yc-oss.github.io/api/batches/w22/pebble-2.json"
   },
   {
     "id": 25973,
@@ -25923,6 +26015,52 @@
     "api": "https://yc-oss.github.io/api/batches/w23/chart.json"
   },
   {
+    "id": 27845,
+    "name": "Bayes HQ",
+    "slug": "bayes-hq",
+    "former_names": [
+      "Bayes Today",
+      "Bayes"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3d924f50da5292471cce9c24c81c6f7baeeb5b7.png",
+    "website": "https://bayes-hq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bayes HQ automates filing Sales Tax for SaaS companies both inside and outside of the US.\r\n\r\nWe create a streamlined experience that not only lowers the filing cost but also removes any manual entry. By leveraging state-of-the-art ML, we ensure that our SaaS customers are always compliant both in the USA and international markets.\r\n\r\nSaaS companies must file sales tax to all jurisdictions where they make sales and for any business they need to file where the buyer resides. So you can imagine what a nightmare this is.\r\n\r\nThis is currently being done by expensive tax experts for most businesses, whereas Bayes can do it significantly cheaper as the team is experienced in ML/Al and can automate the process.\r\nWe've honed in on solving sales tax issues for SaaS companies and have strong momentum there.\r\n\r\nWe offer plugins for most CRMs and are constantly adding more integrations. We also offer an online portal where SaaS businesses simply upload any relevant documents and we take care of the rest! \r\n\r\nWe just need an Excel sheet containing just three simple columns: revenue generated from the customer, zip code of the customer, and date of the transaction. We handle the rest!",
+    "one_liner": "Automated sales tax for SaaS companies inside and outside of the US",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1677795884,
+    "tags": [
+      "Fintech",
+      "Machine Learning",
+      "SaaS",
+      "B2B",
+      "Analytics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Acquired",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bayes-hq",
+    "api": "https://yc-oss.github.io/api/batches/w23/bayes-hq.json"
+  },
+  {
     "id": 27853,
     "name": "Cobblestone",
     "slug": "cobblestone",
@@ -28456,6 +28594,49 @@
     "api": "https://yc-oss.github.io/api/batches/w24/miden.json"
   },
   {
+    "id": 29458,
+    "name": "Fern",
+    "slug": "fern-2",
+    "former_names": [
+      "Snyper Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50e2d8f55204a85f767bbe0de703aa9c51dc0c5c.png",
+    "website": "https://fern.fi/",
+    "all_locations": "Remote",
+    "long_description": "We are building a multi-layered, automated defense system against chargebacks and compliance violations for banks and merchants. The system focuses on preventing chargebacks, optimizing team efficiency, and removing the human cost of chargebacks and compliance.",
+    "one_liner": "Assisting fintechs simplify compliance through automated workflows",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1707166829,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Compliance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Acquired",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fern-2",
+    "api": "https://yc-oss.github.io/api/batches/w24/fern-2.json"
+  },
+  {
     "id": 29460,
     "name": "Ryse",
     "slug": "ryse",
@@ -29848,47 +30029,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sphinx",
     "api": "https://yc-oss.github.io/api/batches/f24/sphinx.json"
-  },
-  {
-    "id": 30091,
-    "name": "CollectWise",
-    "slug": "collectwise",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1792694f6083df81f7abeaf84bcea98ecdb14566.png",
-    "website": "https://collectwise.com/",
-    "all_locations": "",
-    "long_description": "CollectWise automates consumer debt collection with AI. We’re outperforming collection firms by 2X and have successfully serviced over $2 million in debts.\r\n\r\nOur platform handles the entire late-stage recovery process, allowing creditors to recover debts that couldn’t be resolved through voluntary communications. CollectWise's AI agents automate pre-legal outreach, asset research, litigation, credit reporting, and enforcement actions like garnishments and liens.",
-    "one_liner": "Automating consumer debt collection with AI",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1729792205,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Generative AI",
-      "Finance",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/collectwise",
-    "api": "https://yc-oss.github.io/api/batches/f24/collectwise.json"
   },
   {
     "id": 30106,
