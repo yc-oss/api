@@ -1471,7 +1471,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14574,6 +14574,49 @@
     "api": "https://yc-oss.github.io/api/batches/w20/turing-labs-inc.json"
   },
   {
+    "id": 13224,
+    "name": "Ello",
+    "slug": "ello",
+    "former_names": [
+      "Trustle"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/928879516f7652875f17aa5c190183b7d41f2982.png",
+    "website": "https://www.ello.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Building the world's first 1:1 AI teacher.",
+    "team_size": 26,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1584136938,
+    "tags": [
+      "Artificial Intelligence",
+      "Education"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W20",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ello",
+    "api": "https://yc-oss.github.io/api/batches/w20/ello.json"
+  },
+  {
     "id": 13233,
     "name": "Cortex",
     "slug": "cortex",
@@ -19732,9 +19775,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e25b587ba0f496e6716664e7fc54e10f8b437fdb.png",
     "website": "https://firstbase.io/",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Firstbase is building an all-in-one Company OS to help define how founders across the globe launch, manage and grow their businesses.\r\n\r\nMore than 10,000 founders from over 175 countries have used our product, Firstbase Start, to launch their startup. For many founders, \"firstbase.io\" has become what they type into their address bars when they think about incorporating a business.\r\n",
-    "one_liner": "All in one Company OS",
-    "team_size": 38,
+    "long_description": "Incorporation, compliance, bookkeeping, and taxes – all in one place.",
+    "one_liner": "The all-in-one startup operating system",
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1615225051,
@@ -27591,7 +27634,7 @@
     "website": "https://www.agaveapi.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\nOur core product is Agave Sync, which helps General and Trade Contractors keep financial data in sync between their field teams on jobsites and their accounting teams in a central back office.",
-    "one_liner": "Accounting data infrastructure for Construction",
+    "one_liner": "Financial data infrastructure for Construction",
     "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -41111,6 +41154,47 @@
     "api": "https://yc-oss.github.io/api/batches/s23/flex.json"
   },
   {
+    "id": 29177,
+    "name": "Onyx",
+    "slug": "onyx",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/def9ae8f0c06685a28e8184b828d9de7e1232ad3.png",
+    "website": "https://www.onyx.app/",
+    "all_locations": "",
+    "long_description": "Onyx is the AI assistant that connects to all your company tools and docs and makes finding any piece of information a breeze. Think ChatGPT, but with access to all your companies documents (only the ones you have access to, of course :P). Or, if you know Glean, you can think about it like an open-source Glean. \r\n\r\nConcerned about your data? Don't worry we're open source (MIT license) and built to be self-hosted. You can setup Onyx in your VPC in less than 30 minutes - no packets ever have to leave your cloud.\r\n\r\nCheck us out on Github: https://github.com/onyx-dot-app/onyx!",
+    "one_liner": "Open Source AI Assistant and Enterprise Search",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1704724705,
+    "tags": [
+      "Open Source",
+      "NLP",
+      "Enterprise",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/onyx",
+    "api": "https://yc-oss.github.io/api/batches/w24/onyx.json"
+  },
+  {
     "id": 29184,
     "name": "DryMerge",
     "slug": "drymerge",
@@ -41948,6 +42032,41 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/artisan",
     "api": "https://yc-oss.github.io/api/batches/w24/artisan.json"
+  },
+  {
+    "id": 29298,
+    "name": "Greenboard",
+    "slug": "greenboard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b55d26f2546aaad95483019c95d75031e9f9bc24.png",
+    "website": "https://www.greenboard.com",
+    "all_locations": "",
+    "long_description": "Greenboard is building a singular, AI-powered platform to handle management of the entirety of financial firms’ compliance programs, and eventually all back office processes. Today, financial institutions use Greenboard to detect risk using AI and to rip out and replace the bad legacy back office tooling they have wanted to get rid of for years.\r\n \r\n\r\n\r\nGreenboard's mission is to enable financial institutions to operate their back office teams at a higher standard, with half of the headcount. We’re starting with compliance",
+    "one_liner": "'Rippling' for Financial Compliance and Operations ",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1700498020,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/greenboard",
+    "api": "https://yc-oss.github.io/api/batches/w24/greenboard.json"
   },
   {
     "id": 29300,
@@ -44939,42 +45058,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tandem-2",
     "api": "https://yc-oss.github.io/api/batches/s24/tandem-2.json"
-  },
-  {
-    "id": 29692,
-    "name": "Weave Robotics",
-    "slug": "weave-robotics",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa1669fc77240d5b136ed7eb12c167327e93c7e8.png",
-    "website": "https://www.weaverobots.com",
-    "all_locations": "",
-    "long_description": "Making the world’s first personal robot that's built for the home.  Our robot, Isaac, will autonomously tidy up endless messes, fold laundry, and care for your home while you’re away, and we’re shipping our first 30 in fall of 2025.",
-    "one_liner": "Personal robots for the home--that ship in 2025",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1724225748,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/weave-robotics",
-    "api": "https://yc-oss.github.io/api/batches/s24/weave-robotics.json"
   },
   {
     "id": 29710,
