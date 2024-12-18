@@ -4545,7 +4545,7 @@
     "website": "https://yummy-future.com",
     "all_locations": "Champaign, IL, USA",
     "long_description": "We amplify worker produtivity by10X. Restaurants and food retail businesses require high volume and consistency, yet many business owners struggle to achieve this. Employees also dislike working in repetitive and labor-intensive environments, where even a slight mistake can lead to customer complaints. This results in high turnover rates in the restaurant industry.\r\n\r\nOur goal is to let robots and machines handle the boring, laborious tasks so that humans can focus on engaging with customers and collecting product feedback.",
-    "one_liner": "We build robotic workforces for the food & beverage industry,…",
+    "one_liner": "We build robotic workforces for the food & beverage industry.",
     "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -4554,7 +4554,8 @@
       "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
-      "Robotics"
+      "Robotics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7262,6 +7263,58 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mindee",
     "api": "https://yc-oss.github.io/api/batches/w21/mindee.json"
+  },
+  {
+    "id": 22880,
+    "name": "True3D",
+    "slug": "true3d",
+    "former_names": [
+      "True3D",
+      "Hyperplane",
+      "Hackpack",
+      "LeetDesign",
+      "QuickVid.ai",
+      "TutorAI.me"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7087dd31fd7820822029a19a7aa2228106eed2d0.png",
+    "website": "https://www.quickvid.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "True3D live streams sports in 3D to VR headsets. We’re building the foundational models to let you sit courtside at the NBA Finals from your living room.",
+    "one_liner": "Live stream sports in 3D ",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1614739771,
+    "tags": [
+      "Artificial Intelligence",
+      "Virtual Reality",
+      "Gaming",
+      "Media",
+      "eSports"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W21",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/true3d",
+    "api": "https://yc-oss.github.io/api/batches/w21/true3d.json"
   },
   {
     "id": 22882,
@@ -12140,50 +12193,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/phind",
     "api": "https://yc-oss.github.io/api/batches/s22/phind.json"
-  },
-  {
-    "id": 26825,
-    "name": "Flair Labs",
-    "slug": "flair-labs",
-    "former_names": [
-      "Flair"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/11c55bb0e54fca5fe4511850804658816bda34e8.png",
-    "website": "https://www.flairlabs.ai/",
-    "all_locations": "Palo Alto, CA, USA; Remote",
-    "long_description": "Flair Labs is the leading AI communications platform for real estate and lending, empowering teams to build autonomous agents that execute complex workflows across voice and text. We believe the next generation of top real estate teams will be responsible for managing swarms of agents that execute tasks on their behalf – Flair Agent platform is the foundation enabling this future.",
-    "one_liner": "The world's first digital concierge for real estate and lending",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1679982577,
-    "tags": [
-      "Artificial Intelligence",
-      "Real Estate",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flair-labs",
-    "api": "https://yc-oss.github.io/api/batches/s22/flair-labs.json"
   },
   {
     "id": 26837,
@@ -18171,8 +18180,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
     "website": "https://www.tempolabs.ai/",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Tempo Labs (YC S23) is building AI agents for frontend design and development. We sell completed designs and pull requests, helping teams scale frontend development without hiring additional staff. Our secret sauce is our code-based design tool (which replaces figma) and our human-in-the-loop review process which guarantees output quality",
-    "one_liner": "Code-First Alternative to Figma",
+    "long_description": "Tempo is a visual IDE for react that gives PMs, designers, and engineers the ability to collaborate visually on code. It offers the familiar UX of a design tool but functions like an IDE under the hood. Tempo is optimized for Vite and Tailwind.",
+    "one_liner": "Visual IDE for React, powered by AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -20620,49 +20629,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ellipsis",
     "api": "https://yc-oss.github.io/api/batches/w24/ellipsis.json"
-  },
-  {
-    "id": 29372,
-    "name": "PySpur",
-    "slug": "pyspur",
-    "former_names": [
-      "Sevn.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d78b1369b828cc303a6a77f59f19df0f4b21c51c.png",
-    "website": "http://pyspur.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "LLM Workflow Builder",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1703955205,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pyspur",
-    "api": "https://yc-oss.github.io/api/batches/w24/pyspur.json"
   },
   {
     "id": 29374,
@@ -23503,48 +23469,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/storia-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/storia-ai.json"
-  },
-  {
-    "id": 29682,
-    "name": "Neuralize",
-    "slug": "neuralize",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45f0e7293aa7c9b30e23484958f756fccacc81c0.png",
-    "website": "https://runlocal.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Neuralize enables engineering teams to continuously deploy on-device AI/ML models that are tailored to users’ specific phones/laptops. Our platform automates model optimization, benchmarking on test devices, and over-the-air model delivery — whenever users' devices update.",
-    "one_liner": "The On-Device AI Deployment Platform ",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1722617907,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Machine Learning",
-      "DevOps"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/neuralize",
-    "api": "https://yc-oss.github.io/api/batches/s24/neuralize.json"
   },
   {
     "id": 29684,
@@ -27230,5 +27154,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/edexia",
     "api": "https://yc-oss.github.io/api/batches/w25/edexia.json"
+  },
+  {
+    "id": 30275,
+    "name": "Solidroad",
+    "slug": "solidroad",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f1ca54adf81d62b81a43dd73c7ee1bab8f22a4.png",
+    "website": "https://solidroad.com",
+    "all_locations": "Dublin, County Dublin, Ireland",
+    "long_description": "Solidroad provides quality scoring, personalised coaching, and feedback for your customer conversations in both training and live environments.\r\n\r\nCustomer-facing reps can practice realistic conversations (phone, email, live chat & video call) with AI customers and receive personalised coaching and feedback in a risk-free environment. Solidroad also integrates with your live channels to score conversations and find skill gaps for continuous improvement.\r\n\r\nWe are working with large sales and support orgs to reduce time to proficiency during onboarding, provide massive efficiency gains for enablement and operations teams and improve go-live CSAT scores.\r\n\r\nSolidroad reviews and evaluates 100% of your mock and live customer conversations meaning no more need for you to run manual role-play sessions or manually review calls/chats all day.",
+    "one_liner": "AI-powered coaching platform for customer facing teams.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1734365180,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Ireland",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/solidroad",
+    "api": "https://yc-oss.github.io/api/batches/w25/solidroad.json"
   }
 ]

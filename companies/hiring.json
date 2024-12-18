@@ -9492,51 +9492,6 @@
     "api": "https://yc-oss.github.io/api/batches/s18/culdesac.json"
   },
   {
-    "id": 11895,
-    "name": "Overview",
-    "slug": "overview",
-    "former_names": [
-      "Overview.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd1326e4f02e779f1009ae931cfeb26eb1eb20b7.png",
-    "website": "https://overview.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Overview is a company that takes the cutting edge in computer vision and deep learning and applies it to previously unsolvable manufacturing inspection problems. We are truly a full stack company. We install physical cameras into the facility, run inference on the edge and manage massive deployments. Overview also streams gigabytes of video/image data to the cloud for our web platform to give customers advanced insights and analytics. ",
-    "one_liner": "AI vision sensors for manufacturing",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1538509310,
-    "tags": [
-      "Deep Learning",
-      "IoT",
-      "Computer Vision"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W19",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/overview",
-    "api": "https://yc-oss.github.io/api/batches/w19/overview.json"
-  },
-  {
     "id": 11924,
     "name": "Flockjay",
     "slug": "flockjay",
@@ -12227,7 +12182,7 @@
     "website": "https://yummy-future.com",
     "all_locations": "Champaign, IL, USA",
     "long_description": "We amplify worker produtivity by10X. Restaurants and food retail businesses require high volume and consistency, yet many business owners struggle to achieve this. Employees also dislike working in repetitive and labor-intensive environments, where even a slight mistake can lead to customer complaints. This results in high turnover rates in the restaurant industry.\r\n\r\nOur goal is to let robots and machines handle the boring, laborious tasks so that humans can focus on engaging with customers and collecting product feedback.",
-    "one_liner": "We build robotic workforces for the food & beverage industry,…",
+    "one_liner": "We build robotic workforces for the food & beverage industry.",
     "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -12236,7 +12191,8 @@
       "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
-      "Robotics"
+      "Robotics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20379,6 +20335,58 @@
     "api": "https://yc-oss.github.io/api/batches/w21/fathom.json"
   },
   {
+    "id": 22880,
+    "name": "True3D",
+    "slug": "true3d",
+    "former_names": [
+      "True3D",
+      "Hyperplane",
+      "Hackpack",
+      "LeetDesign",
+      "QuickVid.ai",
+      "TutorAI.me"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7087dd31fd7820822029a19a7aa2228106eed2d0.png",
+    "website": "https://www.quickvid.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "True3D live streams sports in 3D to VR headsets. We’re building the foundational models to let you sit courtside at the NBA Finals from your living room.",
+    "one_liner": "Live stream sports in 3D ",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1614739771,
+    "tags": [
+      "Artificial Intelligence",
+      "Virtual Reality",
+      "Gaming",
+      "Media",
+      "eSports"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W21",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/true3d",
+    "api": "https://yc-oss.github.io/api/batches/w21/true3d.json"
+  },
+  {
     "id": 22884,
     "name": "Rinsed",
     "slug": "rinsed",
@@ -22946,7 +22954,7 @@
     "all_locations": "Washington, DC, USA",
     "long_description": "hotglue is a tool that helps developers embed user-facing native SaaS integrations into their product with minimal development work, all while allowing the developers to remain in control of the data. hotglue also features a configurable Python-powered transformation layer for you to control how your product receives your customers' data. ",
     "one_liner": "Native user-facing SaaS integrations for your customers",
-    "team_size": 11,
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1625492255,
@@ -33065,13 +33073,13 @@
     "all_locations": "Palo Alto, CA, USA; Remote",
     "long_description": "Flair Labs is the leading AI communications platform for real estate and lending, empowering teams to build autonomous agents that execute complex workflows across voice and text. We believe the next generation of top real estate teams will be responsible for managing swarms of agents that execute tasks on their behalf – Flair Agent platform is the foundation enabling this future.",
     "one_liner": "The world's first digital concierge for real estate and lending",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1679982577,
     "tags": [
-      "Artificial Intelligence",
       "Real Estate",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -34025,56 +34033,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/homli",
     "api": "https://yc-oss.github.io/api/batches/s22/homli.json"
-  },
-  {
-    "id": 27137,
-    "name": "PrimeVault",
-    "slug": "primevault",
-    "former_names": [
-      "Exchecker",
-      "Excheqr"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c063ef6501ec4e09baa9f49d2abc635ba2fa65b8.png",
-    "website": "https://www.primevault.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "PrimeVault is a deep-tech crypto infrastructure company that is dedicated to building innovative core tools that make on-chain value ownership, transfer, issuance and access to decentralized financial products convenient, efficient and secure for businesses and institutions of any size and scale. PrimeVault leverages cutting-edge technologies such as sealed TEEs (Trusted Execution Environment), Formal Verification and MPC (Multiparty Computation) to offer powerful, secure, scalable and modular wallet infrastructure, programmable cross-chain asset management, comprehensive portfolio tracker, seamless CeDeFi interoperability with both on- and off-chain markets, and sophisticated risk mitigation solutions.",
-    "one_liner": "Supercharged crypto operations, custody and risk management",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1659127326,
-    "tags": [
-      "DeFi",
-      "SaaS",
-      "Crypto / Web3",
-      "B2B",
-      "DAO"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Asset Management"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/primevault",
-    "api": "https://yc-oss.github.io/api/batches/s22/primevault.json"
   },
   {
     "id": 27152,
@@ -39509,42 +39467,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/vetrec.json"
   },
   {
-    "id": 28911,
-    "name": "CandorIQ",
-    "slug": "candoriq",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99094827db793d0b0566e8f598e87a87eb795ade.png",
-    "website": "https://www.candoriq.com/",
-    "all_locations": "",
-    "long_description": "CandorIQ is software to manage Headcount and Compensation planning. Employees are +70% of all OPEX and yet still managed in sheets & email. We manage all people spend in 1 platform, integrated into your Finance & HR stack.\r\n\r\nProduct capabilities include:\r\n- Headcount & backfill planning\r\n- Headcount budget scenarios across departments\r\n- Merit cycle planning\r\n- Analytics including employee churn, hiring win/loss, cash burn",
-    "one_liner": "Headcount & Compensation Management",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1687966048,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/candoriq",
-    "api": "https://yc-oss.github.io/api/batches/s23/candoriq.json"
-  },
-  {
     "id": 28923,
     "name": "Maven Bio",
     "slug": "maven-bio",
@@ -40472,7 +40394,7 @@
     "name": "Happyrobot",
     "slug": "happyrobot",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6bc9a898b365c0f976d54b44c58d8a05ebfd7af.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd3e59db650540efed4a5b4af9e1693188ca3a4d.png",
     "website": "https://happyrobot.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Happyrobot's voice AI agents automate inbound and outbound phone calls in the logistics industry.\r\n\r\nFreight brokers, 3PLs, carriers and other enterprises connect their information systems to our AI agents to handle check calls, load updates, payment status, appointment scheduling or even sales negotiations.",
@@ -40992,8 +40914,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
     "website": "https://www.tempolabs.ai/",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Tempo Labs (YC S23) is building AI agents for frontend design and development. We sell completed designs and pull requests, helping teams scale frontend development without hiring additional staff. Our secret sauce is our code-based design tool (which replaces figma) and our human-in-the-loop review process which guarantees output quality",
-    "one_liner": "Code-First Alternative to Figma",
+    "long_description": "Tempo is a visual IDE for react that gives PMs, designers, and engineers the ability to collaborate visually on code. It offers the familiar UX of a design tool but functions like an IDE under the hood. Tempo is optimized for Vite and Tailwind.",
+    "one_liner": "Visual IDE for React, powered by AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -41124,13 +41046,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6db50cb8b7d8269f3c2b9ce2c300b8dd5e7d0bab.png",
     "website": "https://withflex.com/",
     "all_locations": "Remote",
-    "long_description": "Flex is a payment platform for businesses to accept HSA/FSA cards, unlocking the $120B per year sitting in HSA/FSA accounts. We offer a prebuilt, hosted checkout page or UI building blocks to integrate HSA/FSA payments directly into your existing payments flow. \r\n",
+    "long_description": "Flex is a payment platform for businesses to accept HSA/FSA, unlocking the $150B per year sitting in HSA/FSA accounts. \r\n",
     "one_liner": "Stripe for HSA/FSA payments",
-    "team_size": 5,
+    "team_size": 8,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1690520542,
-    "tags": [],
+    "tags": [
+      "Fintech",
+      "Marketplace",
+      "Health & Wellness"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -44363,45 +44289,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/k-scale-labs.json"
   },
   {
-    "id": 29558,
-    "name": "Abel Police",
-    "slug": "abel-police",
-    "former_names": [
-      "Growing Labs",
-      "Darius Labs",
-      "Abel"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae263ffeaaa9e3f73bd0e59ce02f82d425311d45.png",
-    "website": "http://abelpolice.com",
-    "all_locations": "",
-    "long_description": "Abel takes police body camera footage and turns it into completed police reports. Currently American patrol officers spend one third of their shift writing reports - turning that to zero would increase the effective police force by 50%, radically changing US cities.",
-    "one_liner": "Automating police paperwork",
-    "team_size": 5,
-    "industry": "Government",
-    "subindustry": "Government",
-    "launched_at": 1724975131,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Government"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/abel-police",
-    "api": "https://yc-oss.github.io/api/batches/s24/abel-police.json"
-  },
-  {
     "id": 29568,
     "name": "CardLift",
     "slug": "cardlift",
@@ -46059,8 +45946,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4998b9bdb179ae20d8af8c2a3631f5ca038a41d2.png",
     "website": "https://www.joinoverlap.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Overlap is Perplexity for the millions of hours of smart YouTube and interview content out there. \r\n\r\nPrompt Overlap with any topic and get the perfect clip. We have 7k users growing over 200% month-over-month since launching.",
-    "one_liner": "Overlap is Perplexity for video & audio content",
+    "long_description": "Overlap builds multimodal AI agents that can do literally anything you want related to video, such as finding specific moments, generating clips, or analyzing your video library. \r\n\r\nWhat takes media companies thousands of hours, we do in seconds. ",
+    "one_liner": "Multimodal AI agents for video",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
