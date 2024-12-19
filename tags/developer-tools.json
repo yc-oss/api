@@ -16922,8 +16922,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
     "website": "https://www.tempolabs.ai/",
     "all_locations": "Toronto, ON, Canada",
-    "long_description": "Tempo is a visual IDE for react that gives PMs, designers, and engineers the ability to collaborate visually on code. It offers the familiar UX of a design tool but functions like an IDE under the hood. Tempo is optimized for Vite and Tailwind.",
-    "one_liner": "Visual IDE for React, powered by AI",
+    "long_description": "Tempo is a visual editor for react that gives PMs, designers, and engineers the ability to collaborate visually on code. It offers the familiar UX of a design tool but functions like an IDE under the hood. Tempo is optimized for Vite and Tailwind.",
+    "one_liner": "Visual Editor for React, powered by AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -19217,7 +19217,7 @@
     "name": "RunLocal",
     "slug": "runlocal",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45f0e7293aa7c9b30e23484958f756fccacc81c0.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f47cbbc26af6f2d783af0166e54e51212101bcc.png",
     "website": "https://runlocal.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "RunLocal helps engineering teams discover, optimize, evaluate and deploy the best on-device AI model for their use case.\r\n",
@@ -19227,10 +19227,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722617907,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20647,51 +20647,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/regatta-storage.json"
   },
   {
-    "id": 30046,
-    "name": "Vocera",
-    "slug": "vocera",
-    "former_names": [
-      "Lex"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d27c1f82fbc4e1e5864fe20574139df89773eab.png",
-    "website": "https://www.vocera.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Are you building AI voice agents like receptionists, customer support, or sales reps? Do you find yourself manually testing your bot by calling it? We faced similar challenges, especially being in a regulated industry. That's why we developed Vocera - a solution that automates the testing process for your voice agents. With Vocera, you can prove your reliability before going live, test every update seamlessly, and scale your operations efficiently.\r\n\r\nReplicating a real world conversation is hard. Our AI simulates these scenarios using workflows, personas and past conversations.\r\n\r\nWe are already talking to AI for ordering food, getting appointments and even interviews. The market is aptly getting flooded with AI voice agents built by thousands of companies. We make them dependable.",
-    "one_liner": "Testing & Observability for AI voice agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1728616885,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Conversational AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vocera",
-    "api": "https://yc-oss.github.io/api/batches/f24/vocera.json"
-  },
-  {
     "id": 30047,
     "name": "Lune AI",
     "slug": "lune-ai",
@@ -21090,11 +21045,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1731196685,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "DevOps",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21209,7 +21164,7 @@
     "website": "https://subtrace.dev",
     "all_locations": "",
     "long_description": "We make it easy to watch everything happening in your servers by tracking the API requests coming in / going out and storing this data in ClickHouse. Later, when you're solving a problem in production, you can filter for the requests you care about using simple SQL queries and dig into the details. You'll never have to print() a HTTP request again.",
-    "one_liner": "Chrome DevTools for your backend",
+    "one_liner": "Chrome DevTools for backend infra",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
