@@ -880,7 +880,7 @@
     "name": "RescueTime",
     "slug": "rescuetime",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97db687a20a6a52c0ebb297a3f580779b4fb69ce.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8af96b82dfc6a218480e3c6ad5ac4747e3dec0b1.png",
     "website": "http://rescuetime.com",
     "all_locations": "Seattle, WA, USA; Remote",
     "long_description": "RescueTime helps you set boundaries, protect focused work time, and achieve work/life balance by shedding light on how you spend your time, improving your focus, and helping you find more time for the things that matter most.\r\n\r\nWe are a distributed company with members spread throughout the United States.",
@@ -5280,21 +5280,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c56e9d679598dde2fac7eb56c0066090a29bcb2.png",
     "website": "https://www.contalink.com/",
-    "all_locations": "Monterrey, N.L., Mexico; Remote",
+    "all_locations": "Remote",
     "long_description": "Contalink is a SAAS  to help accountants in Mexico automate bookkeeping and serve their clients online. We help accountants do bookkeeping 5x faster..",
     "one_liner": "We help Accountants automate work and serve their customers online",
     "team_size": 28,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1625675150,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -5303,8 +5299,6 @@
       "Productivity"
     ],
     "regions": [
-      "Mexico",
-      "Latin America",
       "Remote",
       "Fully Remote"
     ],
@@ -7478,7 +7472,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -8089,5 +8083,45 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/orgorg",
     "api": "https://yc-oss.github.io/api/batches/s24/orgorg.json"
+  },
+  {
+    "id": 30338,
+    "name": "CopyCat",
+    "slug": "copycat",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f0788a922bb389578b23e8ccb111b965944878a.png",
+    "website": "https://runcopycat.com",
+    "all_locations": "",
+    "long_description": "CopyCat automates repetitive tasks by recording your processes and transforming them into streamlined, instant workflows.",
+    "one_liner": "Turn screen recordings into automated workflows using AI.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1734580429,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Workflow Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/copycat",
+    "api": "https://yc-oss.github.io/api/batches/w25/copycat.json"
   }
 ]

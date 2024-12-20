@@ -362,7 +362,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tasker is building the easiest way to build AI agents to automate workflows and screen scraping.\r\n\r\n",
     "one_liner": "Building AI agent automation layer of the internet",
-    "team_size": 20,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1598041442,
@@ -991,18 +991,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f5695ba4c0d9dd82ed980d0e36154b1b915be329.png",
     "website": "https://trycontour.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Contour is building next-generation quality assurance to free engineering time and test products, end-to-end. PMs can input product requirements to auto-generate testing suites, informed by real user behavior data.",
-    "one_liner": "Automated QA Copilot",
+    "long_description": "Contour is building next-generation voice agents to provide manage call center operations and customer support. Users can define a workflow for their call and deploy the agent in minutes to handle both inbound and outbound calls.",
+    "one_liner": "No-Code Voice Agent Platform",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1687380459,
     "tags": [
-      "Developer Tools",
       "Generative AI",
       "B2B",
       "Workflow Automation",
-      "Enterprise Software"
+      "Enterprise Software",
+      "Call Center"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2284,5 +2284,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/foundry",
     "api": "https://yc-oss.github.io/api/batches/f24/foundry.json"
+  },
+  {
+    "id": 30338,
+    "name": "CopyCat",
+    "slug": "copycat",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f0788a922bb389578b23e8ccb111b965944878a.png",
+    "website": "https://runcopycat.com",
+    "all_locations": "",
+    "long_description": "CopyCat automates repetitive tasks by recording your processes and transforming them into streamlined, instant workflows.",
+    "one_liner": "Turn screen recordings into automated workflows using AI.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1734580429,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Workflow Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/copycat",
+    "api": "https://yc-oss.github.io/api/batches/w25/copycat.json"
   }
 ]

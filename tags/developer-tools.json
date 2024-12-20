@@ -475,7 +475,7 @@
     "name": "RescueTime",
     "slug": "rescuetime",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97db687a20a6a52c0ebb297a3f580779b4fb69ce.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8af96b82dfc6a218480e3c6ad5ac4747e3dec0b1.png",
     "website": "http://rescuetime.com",
     "all_locations": "Seattle, WA, USA; Remote",
     "long_description": "RescueTime helps you set boundaries, protect focused work time, and achieve work/life balance by shedding light on how you spend your time, improving your focus, and helping you find more time for the things that matter most.\r\n\r\nWe are a distributed company with members spread throughout the United States.",
@@ -5584,7 +5584,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tasker is building the easiest way to build AI agents to automate workflows and screen scraping.\r\n\r\n",
     "one_liner": "Building AI agent automation layer of the internet",
-    "team_size": 20,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1598041442,
@@ -15588,48 +15588,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/cedana.json"
   },
   {
-    "id": 28816,
-    "name": "Contour",
-    "slug": "contour",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f5695ba4c0d9dd82ed980d0e36154b1b915be329.png",
-    "website": "https://trycontour.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Contour is building next-generation quality assurance to free engineering time and test products, end-to-end. PMs can input product requirements to auto-generate testing suites, informed by real user behavior data.",
-    "one_liner": "Automated QA Copilot",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1687380459,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "B2B",
-      "Workflow Automation",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/contour",
-    "api": "https://yc-oss.github.io/api/batches/s23/contour.json"
-  },
-  {
     "id": 28826,
     "name": "Talc",
     "slug": "talc",
@@ -18262,8 +18220,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e20f659338993dfe61925632a05952fe44797ed.png",
     "website": "https://useocular.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ocular AI 2.0 Launch Week: Dec 01 - 07, 2024",
-    "one_liner": "Ocular AI 2.0 Launch Week: Dec 01 - 07, 2024",
+    "long_description": "Ocular AI is the data annotation engine for Generative AI, Computer Vision, and Enterprise AI models.\r\n\r\nWe help you transform unstructured, multi-modal data into golden datasets to power generative AI, frontier models, and computer vision.   \r\n\r\nOcular Foundry is the most intuitive, data-centric, and fastest platform that lets you label, annotate, version, and deploy your data for training models. It also orchestrates your annotation jobs, improving collaboration with members and annotators.   \r\n\r\nWith Ocular Bolt, shift from humans in the loop to experts in the loop to supercharge your data labeling and annotation projects. Our global expert workforce ensures fast, accurate results—no matter the scale or complexity of your data.  \r\n\r\nCompanies spend huge amounts on training data, but Foundry and Bolt are AI-native tools that lower costs, reduce manual effort, and accelerate high-quality data collection. We’re replacing outdated, clunky, and expensive data software!",
+    "one_liner": "Data engine for Generative AI, Computer Vision, and Enterprise AI.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Unspecified",
@@ -18483,7 +18441,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Never code up another test or hire an external QA team. We handle and automate all functional and E2E testing. ",
     "one_liner": "Spur is your AI QA Engineer. Test your websites with natural language.",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724126992,
@@ -18494,7 +18452,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -18508,7 +18466,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/spur",
@@ -21276,5 +21234,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zeroentropy",
     "api": "https://yc-oss.github.io/api/batches/w25/zeroentropy.json"
+  },
+  {
+    "id": 30259,
+    "name": "Asteroid",
+    "slug": "asteroid",
+    "former_names": [
+      "Entropy Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc8fcf7c25638bdf4248c3b5676e9d2c18135e4.png",
+    "website": "https://asteroid.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Asteroid provides runtime supervision for AI agents — delivering human-level oversight for every critical action before execution. We combine automated guardrails, human oversight, and continuous evaluation to help companies deploy AI safely and confidently in any domain.",
+    "one_liner": "Supervising AI agents to make them safe and reliable.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1734639467,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Generative AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/asteroid",
+    "api": "https://yc-oss.github.io/api/batches/w25/asteroid.json"
   }
 ]
