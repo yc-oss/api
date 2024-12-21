@@ -193,7 +193,7 @@
     "isHiring": true,
     "nonprofit": false,
     "batch": "Unspecified",
-    "status": "Acquired",
+    "status": "Active",
     "industries": [
       "Fintech"
     ],
@@ -2303,6 +2303,53 @@
     "api": "https://yc-oss.github.io/api/batches/w15/tempo.json"
   },
   {
+    "id": 797,
+    "name": "Resolve",
+    "slug": "resolve",
+    "former_names": [
+      "InsiteVR",
+      "Resolve (Formerly InsiteVR)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/389299d1c66fa893f4b70f857d4c48593bc491c6.png",
+    "website": "https://www.resolvebim.com",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "At Resolve we’re building the future of simulations using immersive technology like VR and AR. Today, Resolve helps bridge the communication gap between people who operate buildings and those who design and build them. We've built the most robust application for reviewing industrial facilities on wireless VR devices like the Oculus Quest - our customers love it because it just works even with complex 3D building models.\r\n\r\nFrom data centers to cutting-edge biopharma facilities, Resolve provides a collaborative virtual environment for operations & maintenance teams to review and interact with 3D building models at full scale - decreasing late stage changes during the construction process and delivering a safer, more easily operable building.\r\n\r\nOur customers' facilities contain a multitude of complex systems which require careful coordination and review to ensure the building is completed on time and within budget. To prevent rework and increased building maintenance costs, Resolve fixes the broken system of screen-sharing 3D models and 2D floorplans with the operations teams that inherit the building and, instead, gives them easy access to their 3D building models before concrete is poured.",
+    "one_liner": "VR simulations for operations, maintenance and construction teams.",
+    "team_size": 9,
+    "industry": "Real Estate and Construction",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1416222759,
+    "tags": [
+      "Virtual Reality",
+      "Construction",
+      "Design Tools",
+      "Metaverse"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W15",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/resolve",
+    "api": "https://yc-oss.github.io/api/batches/w15/resolve.json"
+  },
+  {
     "id": 809,
     "name": "EquipmentShare",
     "slug": "equipmentshare",
@@ -3448,7 +3495,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3934,7 +3981,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4067,7 +4114,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4572,7 +4619,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13134,7 +13181,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14586,8 +14633,8 @@
     "subindustry": "Education",
     "launched_at": 1584136938,
     "tags": [
-      "Artificial Intelligence",
-      "Education"
+      "Education",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20255,7 +20302,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b02946f8a599da0094eef2036b683183f2d0ac89.png",
     "website": "https://popl.co/",
-    "all_locations": "New York, NY, USA; Los Angeles, CA, USA",
+    "all_locations": "New York, NY, USA",
     "long_description": "Popl is the leading digital business card platform for teams and individuals. Professionals use our software platforms and smart devices to make instant digital connections with potential clients.",
     "one_liner": "The #1 Digital Business Card Platform for Teams and Individuals",
     "team_size": 38,
@@ -20282,7 +20329,7 @@
       "Partly Remote"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
@@ -21847,9 +21894,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8915251968445e21f6c523ef791b6cee8e7d0c59.png",
     "website": "https://www.rejoyhealth.com/",
-    "all_locations": "Palo Alto, CA, USA; Santa Clara, CA, USA",
-    "long_description": "Developing AI tools and LLM for Healthcare",
-    "one_liner": "AI tools and LLM for Healthcare",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "Our AI-powered healthcare information platform leverages  LLMs to deliver accurate, up-to-date medical knowledge",
+    "one_liner": "AI-powered healthcare information",
     "team_size": 8,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
@@ -22502,7 +22549,8 @@
     "name": "SwiftSku",
     "slug": "swiftsku",
     "former_names": [
-      "SwiftSku, Inc."
+      "SwiftSku",
+      "Inc."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3bb40b858fa07c3be03a29e849b4171670bbe91c.png",
     "website": "https://swiftsku.com",
@@ -26967,42 +27015,6 @@
     "api": "https://yc-oss.github.io/api/batches/s21/aviator.json"
   },
   {
-    "id": 24842,
-    "name": "FirstIgnite",
-    "slug": "firstignite",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6093f8dee5d8e445d2bff9f30caeb8397b0ec2eb.png",
-    "website": "https://firstignite.com",
-    "all_locations": "Remote",
-    "long_description": "FirstIgnite builds AI powered business intelligence tools.",
-    "one_liner": "AI-Powered Business Development for Scientific Organizations",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1624624276,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S21",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/firstignite",
-    "api": "https://yc-oss.github.io/api/batches/s21/firstignite.json"
-  },
-  {
     "id": 24861,
     "name": "Stepful",
     "slug": "stepful",
@@ -31231,51 +31243,6 @@
     "api": "https://yc-oss.github.io/api/batches/w22/reviving-mind.json"
   },
   {
-    "id": 26034,
-    "name": "Verdn",
-    "slug": "verdn",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a3be5733c09516e4f05737ae69b07e62d4ff577.png",
-    "website": "https://verdn.com",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Verdn is a climate-impact API for companies and their end-customers. \r\n\r\nWith Verdn, companies direct a portion of sales towards ecosystem restoration projects (like tree planting, ocean-plastic cleanup, and coral planting), carried out by vetted NGO partners. After each sale, we send the end-customer a tracking dashboard where they can engage with updates about their positive impact.\r\n\r\nOur mission is to Ctrl+Z global ecosystem collapse by making sustainability profitable. We have planted 1,500,000 trees, recovered 400,000 kg of ocean-bound plastic and 150 m2 of coral reef, and have over 100+ paying customers that are seeing a 10x boost in engagement.",
-    "one_liner": "An API to bundle trackable climate donations with any transaction.",
-    "team_size": 4,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Climate",
-    "launched_at": 1639755149,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Climate",
-      "API",
-      "ClimateTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Climate"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/verdn",
-    "api": "https://yc-oss.github.io/api/batches/w22/verdn.json"
-  },
-  {
     "id": 26035,
     "name": "Darsel",
     "slug": "darsel",
@@ -31315,52 +31282,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/darsel",
     "api": "https://yc-oss.github.io/api/batches/w22/darsel.json"
-  },
-  {
-    "id": 26049,
-    "name": "Netmaker",
-    "slug": "netmaker",
-    "former_names": [
-      "Gravitl"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3c3a99ff41b4e029c9cc8c8084119c4e97eb919.png",
-    "website": "https://netmaker.io",
-    "all_locations": "Asheville, NC, USA",
-    "long_description": "Netmaker is an open source virtual networking platform based on WireGuard. With Netmaker, you can bridge, clouds, the edge, IoT devices, and Kubernetes clusters. Netmaker provides the fastest possible virtual networks, with an average speed 10x faster than standard alternatives. Think of Netmaker like your VPC for distributed systems.",
-    "one_liner": "Automated WireGuard networks for distributed systems and Kubernetes",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1639687708,
-    "tags": [
-      "DevSecOps",
-      "Next-gen Network Security",
-      "Open Source",
-      "Kubernetes"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/netmaker",
-    "api": "https://yc-oss.github.io/api/batches/w22/netmaker.json"
   },
   {
     "id": 26050,
@@ -34022,6 +33943,56 @@
     "api": "https://yc-oss.github.io/api/batches/s22/homli.json"
   },
   {
+    "id": 27137,
+    "name": "PrimeVault",
+    "slug": "primevault",
+    "former_names": [
+      "Exchecker",
+      "Excheqr"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c063ef6501ec4e09baa9f49d2abc635ba2fa65b8.png",
+    "website": "https://www.primevault.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "PrimeVault is a deep-tech crypto infrastructure company that is dedicated to building innovative core tools that make on-chain value ownership, transfer, issuance and access to decentralized financial products convenient, efficient and secure for businesses and institutions of any size and scale. PrimeVault leverages cutting-edge technologies such as sealed TEEs (Trusted Execution Environment), Formal Verification and MPC (Multiparty Computation) to offer powerful, secure, scalable and modular wallet infrastructure, programmable cross-chain asset management, comprehensive portfolio tracker, seamless CeDeFi interoperability with both on- and off-chain markets, and sophisticated risk mitigation solutions.",
+    "one_liner": "Supercharged crypto operations, custody and risk management",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1659127326,
+    "tags": [
+      "DeFi",
+      "SaaS",
+      "Crypto / Web3",
+      "B2B",
+      "DAO"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/primevault",
+    "api": "https://yc-oss.github.io/api/batches/s22/primevault.json"
+  },
+  {
     "id": 27152,
     "name": "Firecrawl",
     "slug": "firecrawl",
@@ -35082,6 +35053,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/doctor-droid",
     "api": "https://yc-oss.github.io/api/batches/w23/doctor-droid.json"
+  },
+  {
+    "id": 27687,
+    "name": "Layup",
+    "slug": "layup",
+    "former_names": [
+      "Regular"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/255e38f2963e8e6b4a44618432d95a3aeb5fde2c.png",
+    "website": "http://www.layuplabs.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "With a unique second cursor that integrates directly into your UI, Layup delivers real-time, adaptive assistance, completely transforming user engagement. We save product and support teams countless hours that would otherwise be spent creating in-app guides and other product documentation.",
+    "one_liner": "Guide your users. Right in your product.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1673145828,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/layup",
+    "api": "https://yc-oss.github.io/api/batches/w23/layup.json"
   },
   {
     "id": 27690,
@@ -43620,6 +43635,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/retell-ai",
     "api": "https://yc-oss.github.io/api/batches/w24/retell-ai.json"
+  },
+  {
+    "id": 29442,
+    "name": "Ocular AI",
+    "slug": "ocular-ai",
+    "former_names": [
+      "AutoflowAI (Zapier for AI Copilots)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e20f659338993dfe61925632a05952fe44797ed.png",
+    "website": "https://useocular.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ocular AI is the data annotation engine for Generative AI, Computer Vision, and Enterprise AI models.\r\n\r\nWe help you transform unstructured, multi-modal data into golden datasets to power generative AI, frontier models, and computer vision.   \r\n\r\nOcular Foundry is the most intuitive, data-centric, and fastest platform that lets you label, annotate, version, and deploy your data for training models. It also orchestrates your annotation jobs, improving collaboration with members and annotators.   \r\n\r\nWith Ocular Bolt, shift from humans in the loop to experts in the loop to supercharge your data labeling and annotation projects. Our global expert workforce ensures fast, accurate results—no matter the scale or complexity of your data.  \r\n\r\nCompanies spend huge amounts on training data, but Foundry and Bolt are AI-native tools that lower costs, reduce manual effort, and accelerate high-quality data collection. We’re replacing outdated, clunky, and expensive data software!",
+    "one_liner": "Data engine for Generative AI, Computer Vision, and Enterprise AI.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1706216304,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "Computer Vision",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/ocular-ai",
+    "api": "https://yc-oss.github.io/api/batches/w24/ocular-ai.json"
   },
   {
     "id": 29457,

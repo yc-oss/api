@@ -762,7 +762,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -934,7 +934,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5391,49 +5391,6 @@
     "api": "https://yc-oss.github.io/api/batches/w20/visual-one.json"
   },
   {
-    "id": 13224,
-    "name": "Ello",
-    "slug": "ello",
-    "former_names": [
-      "Trustle"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/928879516f7652875f17aa5c190183b7d41f2982.png",
-    "website": "https://www.ello.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Building the world's first 1:1 AI teacher.",
-    "team_size": 26,
-    "industry": "Education",
-    "subindustry": "Education",
-    "launched_at": 1584136938,
-    "tags": [
-      "Artificial Intelligence",
-      "Education"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W20",
-    "status": "Active",
-    "industries": [
-      "Education"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ello",
-    "api": "https://yc-oss.github.io/api/batches/w20/ello.json"
-  },
-  {
     "id": 13231,
     "name": "QueryPie",
     "slug": "querypie",
@@ -7687,9 +7644,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8915251968445e21f6c523ef791b6cee8e7d0c59.png",
     "website": "https://www.rejoyhealth.com/",
-    "all_locations": "Palo Alto, CA, USA; Santa Clara, CA, USA",
-    "long_description": "Developing AI tools and LLM for Healthcare",
-    "one_liner": "AI tools and LLM for Healthcare",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "Our AI-powered healthcare information platform leverages  LLMs to deliver accurate, up-to-date medical knowledge",
+    "one_liner": "AI-powered healthcare information",
     "team_size": 8,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
@@ -13348,7 +13305,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -15619,51 +15576,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deasy-labs",
     "api": "https://yc-oss.github.io/api/batches/s23/deasy-labs.json"
-  },
-  {
-    "id": 28792,
-    "name": "Infobot",
-    "slug": "infobot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bcd595cb4b441645c0ceecb8f874f445bb04db44.png",
-    "website": "https://infobot.ai",
-    "all_locations": "Oakland, CA, USA; Remote",
-    "long_description": "By using LLMs to generate news content, we reduce the cost of generating an article by over 1000x. That means that instead of covering just a few dozen topics like the New York Times, we can cover millions of hyper niche topics in the long tail distribution. By changing the cost structure, we are growing the market and creating a new business model for news at scale.\r\n",
-    "one_liner": "The AI generated news network",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Content",
-    "launched_at": 1690071004,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Consumer",
-      "Social Media",
-      "Media"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Content"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/infobot",
-    "api": "https://yc-oss.github.io/api/batches/s23/infobot.json"
   },
   {
     "id": 28799,
@@ -21387,7 +21299,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -22223,6 +22135,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/getcrux",
     "api": "https://yc-oss.github.io/api/batches/w24/getcrux.json"
+  },
+  {
+    "id": 29515,
+    "name": "NowHouse",
+    "slug": "nowhouse",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a46937fb560137c8e2a3bbcfcaf475423a4d2fc.png",
+    "website": "https://www.nowhouse.io",
+    "all_locations": "",
+    "long_description": "NowHouse helps stock brokerages settle trades instantly.",
+    "one_liner": "NowHouse is building a new Broadridge.",
+    "team_size": 0,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1709826722,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "Enterprise",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nowhouse",
+    "api": "https://yc-oss.github.io/api/batches/w24/nowhouse.json"
   },
   {
     "id": 29517,
@@ -24552,6 +24505,49 @@
     "api": "https://yc-oss.github.io/api/batches/s24/thunder-compute.json"
   },
   {
+    "id": 29772,
+    "name": "Parley",
+    "slug": "parley",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/49aadd86a1a43580b7c9079ab398a509ebe10568.png",
+    "website": "https://parley.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Parley automates flat-fee legal work using LLM’s, starting with visa applications for immigration lawyers. Currently, immigration lawyers spend 20+ hours putting together writing-intensive work visas and green cards. We integrate directly into a lawyer's workflow and do all the reading, writing, and compiling — which is 80% of the work required to file a visa application. ",
+    "one_liner": "Automating flat-fee legal work, starting with work visas + green cards",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1719517061,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Legal",
+      "LegalTech",
+      "Immigration"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/parley",
+    "api": "https://yc-oss.github.io/api/batches/s24/parley.json"
+  },
+  {
     "id": 29775,
     "name": "Brighterway",
     "slug": "brighterway",
@@ -25926,46 +25922,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/galini.json"
   },
   {
-    "id": 30021,
-    "name": "telli",
-    "slug": "telli",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41d94322ad309a45791f3a38d5d9cfbbe7f39b35.png",
-    "website": "https://telli.com/en/",
-    "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "telli is building AI voice agents that convert leads into sales opportunities for B2C companies. For example, a leading home-buying platform is using telli to fully automate their pre-qualification.\r\n\r\nWe are serving customers in energy, real estate, medical products, and home services.\r\n\r\nYou might think that these B2C companies want to do more self-serve and less outreach. But the truth is outbound calls are what really drive conversion. Historically, managing these calls has been complex and expensive—costing companies hundreds of thousands of dollars. With telli, for the first time, B2C companies can automate the role of a pre-sales agent, end to end.",
-    "one_liner": "outbound call automation for B2C companies",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1733082630,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Germany",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/telli",
-    "api": "https://yc-oss.github.io/api/batches/f24/telli.json"
-  },
-  {
     "id": 30022,
     "name": "Symphony",
     "slug": "symphony",
@@ -27188,45 +27144,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/solidroad",
     "api": "https://yc-oss.github.io/api/batches/w25/solidroad.json"
-  },
-  {
-    "id": 30338,
-    "name": "CopyCat",
-    "slug": "copycat",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f0788a922bb389578b23e8ccb111b965944878a.png",
-    "website": "https://runcopycat.com",
-    "all_locations": "",
-    "long_description": "CopyCat automates repetitive tasks by recording your processes and transforming them into streamlined, instant workflows.",
-    "one_liner": "Turn screen recordings into automated workflows using AI.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1734580429,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Workflow Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/copycat",
-    "api": "https://yc-oss.github.io/api/batches/w25/copycat.json"
   }
 ]

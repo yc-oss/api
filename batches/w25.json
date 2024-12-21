@@ -92,7 +92,7 @@
     "one_liner": "Automatic updates for your customer-facing docs",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1734445501,
     "tags": [
       "Developer Tools",
@@ -292,17 +292,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f0788a922bb389578b23e8ccb111b965944878a.png",
     "website": "https://runcopycat.com",
-    "all_locations": "",
+    "all_locations": "Seattle, WA, USA",
     "long_description": "CopyCat automates repetitive tasks by recording your processes and transforming them into streamlined, instant workflows.",
-    "one_liner": "Turn screen recordings into automated workflows using AI.",
+    "one_liner": "Turn screen recordings into AI automated workflows.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1734580429,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Workflow Automation"
+      "Workflow Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -315,7 +315,8 @@
       "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -324,5 +325,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/copycat",
     "api": "https://yc-oss.github.io/api/batches/w25/copycat.json"
+  },
+  {
+    "id": 30341,
+    "name": "Browser Use",
+    "slug": "browser-use",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c098c79c1154d878f59439428e54fe98a83295a2.png",
+    "website": "https://browser-use.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Browser Use allows developers to create state of the art web agents with a few lines of code.\r\n\r\nWe currently stand at 89% on Web Voyager dataset, which is the best web agent you can actually use.",
+    "one_liner": "Open Source Web Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1734712888,
+    "tags": [
+      "Open Source",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/browser-use",
+    "api": "https://yc-oss.github.io/api/batches/w25/browser-use.json"
   }
 ]
