@@ -3066,6 +3066,51 @@
     "api": "https://yc-oss.github.io/api/batches/s20/hypotenuse-ai.json"
   },
   {
+    "id": 21882,
+    "name": "CoreCare",
+    "slug": "corecare",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/672d1183e4066fae6c6f5104b7e94e1357a68a17.png",
+    "website": "https://corecare.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Getting paid in healthcare is hard. Healthcare providers contract with numerous payors, all of which have their own systems and processes for authorizing payment. Worse, payor systems don't communicate with provider EMRs, so providers are forced to do a lot of manual work between them to get paid. This results in providers spending $300 Billion a year to get paid, and ultimately collect less money than what they are owed.\r\n\r\nCoreCare aggregates administrative patient data from all systems providers work with (EHR, Gov, Payer), standardizes it in our Enterprise Data Warehouse and creates a single net view of administrative patient data for the provider. Then we add workflow automations (according to client specifications) to eliminate the manual work providers are forced to do to get paid. ",
+    "one_liner": "We help healthcare providers reduce administrative costs using AI.",
+    "team_size": 10,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1599762607,
+    "tags": [
+      "B2B",
+      "Workflow Automation",
+      "Enterprise Software",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S20",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corecare",
+    "api": "https://yc-oss.github.io/api/batches/s20/corecare.json"
+  },
+  {
     "id": 22008,
     "name": "Aquarium Learning",
     "slug": "aquarium-learning",
@@ -6319,51 +6364,6 @@
     "api": "https://yc-oss.github.io/api/batches/w22/tuesday.json"
   },
   {
-    "id": 25995,
-    "name": "Workflow86",
-    "slug": "workflow86",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c71984e3c90e232ebbf75967edf3df1a6a22f4e9.png",
-    "website": "https://www.workflow86.com",
-    "all_locations": "Sydney, NSW, Australia",
-    "long_description": "Workflow86 turns any description of a business process or procedure into an automated workflow with fully configured forms, tasks, integrations, notifications, document generation and more. Deploy highly customized business processes and workflows that work with your existing systems in minutes, and just as easily edit and iterate on them with no-code, code or AI assistance.",
-    "one_liner": "Build custom automated business processes in minutes",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1642126076,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Enterprise",
-      "No-code",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Australia",
-      "Oceania",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/workflow86",
-    "api": "https://yc-oss.github.io/api/batches/w22/workflow86.json"
-  },
-  {
     "id": 25999,
     "name": "Codec",
     "slug": "codec",
@@ -6454,50 +6454,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/query-vary",
     "api": "https://yc-oss.github.io/api/batches/w22/query-vary.json"
-  },
-  {
-    "id": 26119,
-    "name": "CloudEagle.ai",
-    "slug": "cloudeagle-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6923cdc5341d5fca8bef2410fbbf04a6451777e2.png",
-    "website": "https://www.cloudeagle.ai",
-    "all_locations": "Palo Alto, CA, USA; Remote",
-    "long_description": "CloudEagle helps Finance, IT & procurement teams save on software spend and help streamline the renewal and buying process. Our customers save 10-30% on their existing spend and hundreds of hours renewing and buying new apps. \r\n\r\n- Your single system of record for all things “SaaS Vendors”\r\n    --> Contract renewal reminders & cost optimization alerts\r\n    --> Cross-team workflows for renewing and buying apps\r\n    --> Personalized vendor recommendations, better than G2 and Gartner\r\n    --> Expert negotiations on your behalf",
-    "one_liner": "SaaS Procurement and Optimization Platform",
-    "team_size": 60,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1642576937,
-    "tags": [
-      "FinOps",
-      "SaaS",
-      "Productivity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Acquired",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cloudeagle-ai",
-    "api": "https://yc-oss.github.io/api/batches/w22/cloudeagle-ai.json"
   },
   {
     "id": 26138,
@@ -13611,50 +13567,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/precip.json"
   },
   {
-    "id": 29250,
-    "name": "Tatara",
-    "slug": "tatara",
-    "former_names": [
-      "Synapse"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4319ff9506d71118ed7d064b079992e42b7d51e.png",
-    "website": "https://tatara.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Tatara is the developer platform for multimodal AI applications. We give developers a single place to debug, evaluate, and monitor their generative text, image, audio, and video products.",
-    "one_liner": "Developer platform for multimodal AI applications",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1706577374,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Acquired",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tatara",
-    "api": "https://yc-oss.github.io/api/batches/w24/tatara.json"
-  },
-  {
     "id": 29251,
     "name": "Poka Labs",
     "slug": "poka-labs",
@@ -15519,46 +15431,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sonauto",
     "api": "https://yc-oss.github.io/api/batches/w24/sonauto.json"
-  },
-  {
-    "id": 29437,
-    "name": "Stackwise",
-    "slug": "stackwise",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d086a70968364d3b0aab7bd857adee6398a816c3.png",
-    "website": "https://stackwise.ai/stacks",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The open source AI app boilerplate collection, ranging from music and audio generation, to streaming and image descriptions.\r\n\r\nWe are fully open source - star us at https://github.com/stackwiseai/stackwise. If you're interesting in contributing, we'd be happy to help you get started!\r\n\r\nWe have backgrounds working on agentic behaviour and generative AI. We met through AutoGPT where we were both lead maintainers and then founding ai engineers. Here, we built the go-to benchmark in the agent space, and published a NeurIPS paper together.",
-    "one_liner": "The open source AI app collection",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1701714892,
-    "tags": [
-      "Developer Tools",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Acquired",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stackwise",
-    "api": "https://yc-oss.github.io/api/batches/w24/stackwise.json"
   },
   {
     "id": 29439,

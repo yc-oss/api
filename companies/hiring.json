@@ -4411,7 +4411,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -16751,49 +16751,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dialect",
     "api": "https://yc-oss.github.io/api/batches/s20/dialect.json"
-  },
-  {
-    "id": 21882,
-    "name": "CoreCare",
-    "slug": "corecare",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/672d1183e4066fae6c6f5104b7e94e1357a68a17.png",
-    "website": "https://corecare.io/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Getting paid in healthcare is hard. Healthcare providers contract with numerous payors, all of which have their own systems and processes for authorizing payment. Worse, payor systems don't communicate with provider EMRs, so providers are forced to do a lot of manual work between them to get paid. This results in providers spending $300 Billion a year to get paid, and ultimately collect less money than what they are owed.\r\n\r\nCoreCare aggregates administrative patient data from all systems providers work with (EHR, Gov, Payer), standardizes it in our Enterprise Data Warehouse and creates a single net view of administrative patient data for the provider. Then we add workflow automations (according to client specifications) to eliminate the manual work providers are forced to do to get paid. ",
-    "one_liner": "Making it easy for healthcare providers to collect payments ",
-    "team_size": 10,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1599762607,
-    "tags": [
-      "Fintech",
-      "Health Tech",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S20",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/corecare",
-    "api": "https://yc-oss.github.io/api/batches/s20/corecare.json"
   },
   {
     "id": 21885,
@@ -31078,18 +31035,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c71984e3c90e232ebbf75967edf3df1a6a22f4e9.png",
     "website": "https://www.workflow86.com",
     "all_locations": "Sydney, NSW, Australia",
-    "long_description": "Workflow86 turns any description of a business process or procedure into an automated workflow with fully configured forms, tasks, integrations, notifications, document generation and more. Deploy highly customized business processes and workflows that work with your existing systems in minutes, and just as easily edit and iterate on them with no-code, code or AI assistance.",
-    "one_liner": "Build custom automated business processes in minutes",
+    "long_description": "Workflow86 is your on-demand AI workflow engineer that designs, builds and edits complete end-to-end automated workflows and business processes based on your instructions. \r\n\r\nWorkflow86 turns any description of a business process or procedure into an automated workflow with fully configured forms, tasks, integrations, notifications, document generation and more. Deploy highly customized business processes and workflows that work with your existing systems in minutes, and just as easily edit and iterate on them with no-code, code or AI assistance.",
+    "one_liner": "AI Workflow Engineer for automating your business operations",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1642126076,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Enterprise",
-      "No-code",
-      "AI"
+      "No-code"
     ],
     "tags_highlighted": [],
     "top_company": false,

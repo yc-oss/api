@@ -9743,22 +9743,24 @@
     "slug": "corecare",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/672d1183e4066fae6c6f5104b7e94e1357a68a17.png",
-    "website": "https://corecare.io/",
+    "website": "https://corecare.ai",
     "all_locations": "New York, NY, USA",
     "long_description": "Getting paid in healthcare is hard. Healthcare providers contract with numerous payors, all of which have their own systems and processes for authorizing payment. Worse, payor systems don't communicate with provider EMRs, so providers are forced to do a lot of manual work between them to get paid. This results in providers spending $300 Billion a year to get paid, and ultimately collect less money than what they are owed.\r\n\r\nCoreCare aggregates administrative patient data from all systems providers work with (EHR, Gov, Payer), standardizes it in our Enterprise Data Warehouse and creates a single net view of administrative patient data for the provider. Then we add workflow automations (according to client specifications) to eliminate the manual work providers are forced to do to get paid. ",
-    "one_liner": "Making it easy for healthcare providers to collect payments ",
+    "one_liner": "We help healthcare providers reduce administrative costs using AI.",
     "team_size": 10,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1599762607,
     "tags": [
-      "Fintech",
-      "Health Tech",
-      "B2B"
+      "B2B",
+      "Workflow Automation",
+      "Enterprise Software",
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S20",
     "status": "Active",
@@ -23658,18 +23660,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c71984e3c90e232ebbf75967edf3df1a6a22f4e9.png",
     "website": "https://www.workflow86.com",
     "all_locations": "Sydney, NSW, Australia",
-    "long_description": "Workflow86 turns any description of a business process or procedure into an automated workflow with fully configured forms, tasks, integrations, notifications, document generation and more. Deploy highly customized business processes and workflows that work with your existing systems in minutes, and just as easily edit and iterate on them with no-code, code or AI assistance.",
-    "one_liner": "Build custom automated business processes in minutes",
+    "long_description": "Workflow86 is your on-demand AI workflow engineer that designs, builds and edits complete end-to-end automated workflows and business processes based on your instructions. \r\n\r\nWorkflow86 turns any description of a business process or procedure into an automated workflow with fully configured forms, tasks, integrations, notifications, document generation and more. Deploy highly customized business processes and workflows that work with your existing systems in minutes, and just as easily edit and iterate on them with no-code, code or AI assistance.",
+    "one_liner": "AI Workflow Engineer for automating your business operations",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1642126076,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Enterprise",
-      "No-code",
-      "AI"
+      "No-code"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -30226,52 +30228,6 @@
     "api": "https://yc-oss.github.io/api/batches/w23/cloudchipr.json"
   },
   {
-    "id": 27845,
-    "name": "Bayes HQ",
-    "slug": "bayes-hq",
-    "former_names": [
-      "Bayes Today",
-      "Bayes"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3d924f50da5292471cce9c24c81c6f7baeeb5b7.png",
-    "website": "https://bayes-hq.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bayes HQ automates filing Sales Tax for SaaS companies both inside and outside of the US.\r\n\r\nWe create a streamlined experience that not only lowers the filing cost but also removes any manual entry. By leveraging state-of-the-art ML, we ensure that our SaaS customers are always compliant both in the USA and international markets.\r\n\r\nSaaS companies must file sales tax to all jurisdictions where they make sales and for any business they need to file where the buyer resides. So you can imagine what a nightmare this is.\r\n\r\nThis is currently being done by expensive tax experts for most businesses, whereas Bayes can do it significantly cheaper as the team is experienced in ML/Al and can automate the process.\r\nWe've honed in on solving sales tax issues for SaaS companies and have strong momentum there.\r\n\r\nWe offer plugins for most CRMs and are constantly adding more integrations. We also offer an online portal where SaaS businesses simply upload any relevant documents and we take care of the rest! \r\n\r\nWe just need an Excel sheet containing just three simple columns: revenue generated from the customer, zip code of the customer, and date of the transaction. We handle the rest!",
-    "one_liner": "Automated sales tax for SaaS companies inside and outside of the US",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1677795884,
-    "tags": [
-      "Fintech",
-      "Machine Learning",
-      "SaaS",
-      "B2B",
-      "Analytics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Acquired",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bayes-hq",
-    "api": "https://yc-oss.github.io/api/batches/w23/bayes-hq.json"
-  },
-  {
     "id": 27846,
     "name": "Polo",
     "slug": "polo",
@@ -30493,48 +30449,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/haven-2",
     "api": "https://yc-oss.github.io/api/batches/w23/haven-2.json"
-  },
-  {
-    "id": 27856,
-    "name": "Barn",
-    "slug": "barn",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6138cb65e08501e8c87353e7395e039d8380b564.png",
-    "website": "https://www.meetbarn.com/",
-    "all_locations": "San Francisco, CA, USA; New York, NY, USA",
-    "long_description": "First B2B platform that automates parts procurement for the Automotive Aftermarket industry",
-    "one_liner": "Digitizing the Automotive Aftermarket Industry",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1667608687,
-    "tags": [
-      "Auto Commerce",
-      "Marketplace",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Acquired",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/barn",
-    "api": "https://yc-oss.github.io/api/batches/w23/barn.json"
   },
   {
     "id": 27859,
@@ -32459,49 +32373,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fabius",
     "api": "https://yc-oss.github.io/api/batches/w23/fabius.json"
-  },
-  {
-    "id": 28120,
-    "name": "Choreography Cloud",
-    "slug": "choreography-cloud",
-    "former_names": [
-      "Choreography"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b669dea32d7c73a3c6cc43be32249eb6420cc9d8.png",
-    "website": "https://choreography.cloud",
-    "all_locations": "Menlo Park, CA, USA",
-    "long_description": "Key features in any application involve async, stateful, or long-running behaviors - aka \"workflows\" (think Uber rides, mortgage origination, subscriptions, code deployments, ML model training, etc). \r\n\r\nToday, reliably coordinating such flows usually requires implementing several functions, using queues and scheduled jobs to orchestrate calls to these functions, and relying on storage to track intermediate progress. This set of steps is so ubiquitous in software engineering that there’s a term for it - ‘plumbing’. Arguably, plumbing takes up about a quarter of all coding hours.\r\n\r\nOur product lets an engineer implement a workflow as one coherent block of code, instead of several disjoint pieces of code stitched together. And unlike other workflow orchestrators, we are 100% managed - we take care of provisioning and scaling the infrastructure to support your workflows, so the developer can only worry about coding business logic. Moreover, we offer CI/CD, dynamic configuration, and observability features out of the box, making us the perfect home for all your backend logic, asynchronous or otherwise.",
-    "one_liner": "ship workflows with zero devops",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1672303138,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Acquired",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/choreography-cloud",
-    "api": "https://yc-oss.github.io/api/batches/w23/choreography-cloud.json"
   },
   {
     "id": 28141,
@@ -35860,93 +35731,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/scritch.json"
   },
   {
-    "id": 29248,
-    "name": "ScaleConvo",
-    "slug": "scaleconvo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53e41526266dccddacb7ef26077036080cb11399.png",
-    "website": "https://scaleconvo.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "ScaleConvo is your business phone number enhanced with an AI agent that can automate conversations over call, text, and email.\r\n\r\nWe save businesses time by engaging customers for them and handling tasks like answering inquiries, scheduling appointments, and placing orders.",
-    "one_liner": "All-in-one Intelligent Business Phone Number and AI Agent",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1706225242,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "API",
-      "Automation",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Acquired",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/scaleconvo",
-    "api": "https://yc-oss.github.io/api/batches/w24/scaleconvo.json"
-  },
-  {
-    "id": 29250,
-    "name": "Tatara",
-    "slug": "tatara",
-    "former_names": [
-      "Synapse"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4319ff9506d71118ed7d064b079992e42b7d51e.png",
-    "website": "https://tatara.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Tatara is the developer platform for multimodal AI applications. We give developers a single place to debug, evaluate, and monitor their generative text, image, audio, and video products.",
-    "one_liner": "Developer platform for multimodal AI applications",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1706577374,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Acquired",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tatara",
-    "api": "https://yc-oss.github.io/api/batches/w24/tatara.json"
-  },
-  {
     "id": 29256,
     "name": "Momentic",
     "slug": "momentic",
@@ -38131,49 +37915,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/commodityai",
     "api": "https://yc-oss.github.io/api/batches/w24/commodityai.json"
-  },
-  {
-    "id": 29458,
-    "name": "Fern",
-    "slug": "fern-2",
-    "former_names": [
-      "Snyper Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50e2d8f55204a85f767bbe0de703aa9c51dc0c5c.png",
-    "website": "https://fern.fi/",
-    "all_locations": "Remote",
-    "long_description": "We are building a multi-layered, automated defense system against chargebacks and compliance violations for banks and merchants. The system focuses on preventing chargebacks, optimizing team efficiency, and removing the human cost of chargebacks and compliance.",
-    "one_liner": "Assisting fintechs simplify compliance through automated workflows",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Banking and Exchange",
-    "launched_at": 1707166829,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "Compliance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Acquired",
-    "industries": [
-      "Fintech",
-      "Banking and Exchange"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fern-2",
-    "api": "https://yc-oss.github.io/api/batches/w24/fern-2.json"
   },
   {
     "id": 29460,
@@ -41657,48 +41398,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/keet",
     "api": "https://yc-oss.github.io/api/batches/s24/keet.json"
-  },
-  {
-    "id": 29855,
-    "name": "Affix API",
-    "slug": "affix-api",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c76c601ea50281a701f1abc772f83bbb37ce9327.png",
-    "website": "https://www.affixapi.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Today, onboarding teams at HR/Payroll companies spend hours to weeks migrating customers' data from their former provider, using CSVs— a slow, unreliable, and costly process. Affix API is an API for data migrations for HR/Payroll companies. With Affix API, HR/Payroll companies can migrate new customers' data from their former HR/Payroll system, in seconds.",
-    "one_liner": "API for data migrations for HR/Payroll companies",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1722807727,
-    "tags": [
-      "B2B",
-      "HR Tech",
-      "Payroll",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Acquired",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/affix-api",
-    "api": "https://yc-oss.github.io/api/batches/s24/affix-api.json"
   },
   {
     "id": 29858,

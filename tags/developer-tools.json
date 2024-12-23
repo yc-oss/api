@@ -1352,7 +1352,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14920,49 +14920,6 @@
     "api": "https://yc-oss.github.io/api/batches/w23/vocode.json"
   },
   {
-    "id": 28120,
-    "name": "Choreography Cloud",
-    "slug": "choreography-cloud",
-    "former_names": [
-      "Choreography"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b669dea32d7c73a3c6cc43be32249eb6420cc9d8.png",
-    "website": "https://choreography.cloud",
-    "all_locations": "Menlo Park, CA, USA",
-    "long_description": "Key features in any application involve async, stateful, or long-running behaviors - aka \"workflows\" (think Uber rides, mortgage origination, subscriptions, code deployments, ML model training, etc). \r\n\r\nToday, reliably coordinating such flows usually requires implementing several functions, using queues and scheduled jobs to orchestrate calls to these functions, and relying on storage to track intermediate progress. This set of steps is so ubiquitous in software engineering that there’s a term for it - ‘plumbing’. Arguably, plumbing takes up about a quarter of all coding hours.\r\n\r\nOur product lets an engineer implement a workflow as one coherent block of code, instead of several disjoint pieces of code stitched together. And unlike other workflow orchestrators, we are 100% managed - we take care of provisioning and scaling the infrastructure to support your workflows, so the developer can only worry about coding business logic. Moreover, we offer CI/CD, dynamic configuration, and observability features out of the box, making us the perfect home for all your backend logic, asynchronous or otherwise.",
-    "one_liner": "ship workflows with zero devops",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1672303138,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Acquired",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/choreography-cloud",
-    "api": "https://yc-oss.github.io/api/batches/w23/choreography-cloud.json"
-  },
-  {
     "id": 28141,
     "name": "highlight.io",
     "slug": "highlight-io",
@@ -17303,50 +17260,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/ion-design.json"
   },
   {
-    "id": 29250,
-    "name": "Tatara",
-    "slug": "tatara",
-    "former_names": [
-      "Synapse"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4319ff9506d71118ed7d064b079992e42b7d51e.png",
-    "website": "https://tatara.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Tatara is the developer platform for multimodal AI applications. We give developers a single place to debug, evaluate, and monitor their generative text, image, audio, and video products.",
-    "one_liner": "Developer platform for multimodal AI applications",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1706577374,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Acquired",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tatara",
-    "api": "https://yc-oss.github.io/api/batches/w24/tatara.json"
-  },
-  {
     "id": 29256,
     "name": "Momentic",
     "slug": "momentic",
@@ -18169,46 +18082,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/titan-2",
     "api": "https://yc-oss.github.io/api/batches/w24/titan-2.json"
-  },
-  {
-    "id": 29437,
-    "name": "Stackwise",
-    "slug": "stackwise",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d086a70968364d3b0aab7bd857adee6398a816c3.png",
-    "website": "https://stackwise.ai/stacks",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The open source AI app boilerplate collection, ranging from music and audio generation, to streaming and image descriptions.\r\n\r\nWe are fully open source - star us at https://github.com/stackwiseai/stackwise. If you're interesting in contributing, we'd be happy to help you get started!\r\n\r\nWe have backgrounds working on agentic behaviour and generative AI. We met through AutoGPT where we were both lead maintainers and then founding ai engineers. Here, we built the go-to benchmark in the agent space, and published a NeurIPS paper together.",
-    "one_liner": "The open source AI app collection",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1701714892,
-    "tags": [
-      "Developer Tools",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Acquired",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stackwise",
-    "api": "https://yc-oss.github.io/api/batches/w24/stackwise.json"
   },
   {
     "id": 29442,
