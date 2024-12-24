@@ -1634,7 +1634,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2953,7 +2953,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3179,7 +3179,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": true,
@@ -17970,8 +17970,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc99723b9a442d33cb7e09f56859c099b60616c8.png",
     "website": "http://getmentum.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Backed by Gradient Ventures (Google’s AI Fund), Y Combinator, and other leading investors, Mentum harness the power of Generative AI to streamline and automate complex workflows for global supply chain teams at hardware manufacturing companies.\r\n\r\n",
-    "one_liner": "Automate supply chain workflows with Gen AI",
+    "long_description": "Mentum helps procurement and supply chain teams streamline strategic sourcing with AI, transforming unstructured data into actionable insights for faster decisions and cost savings. Backed by Google’s Gradient Ventures and Y Combinator, we serve industries like CPG, energy, automotive, and aerospace.",
+    "one_liner": "AI-Powered Assistant for Procurement and Strategic Sourcing",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Fintech -> Asset Management",
@@ -23698,6 +23698,48 @@
     "api": "https://yc-oss.github.io/api/batches/w22/workflow86.json"
   },
   {
+    "id": 26015,
+    "name": "Splendor",
+    "slug": "splendor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e35afc4adce26c946a199e62ef3f7b7faa5c9a66.png",
+    "website": "https://trysplendor.com",
+    "all_locations": "Cambridge, MA, USA; Remote",
+    "long_description": "Powered by thousands of successful proposals, Splendor's AI platform helps nonprofits write winning grant narratives and find the best funders. Our proposals capture every funder priority and maximize success rates.",
+    "one_liner": "Splendor helps nonprofits find and win grants.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1711477333,
+    "tags": [
+      "Nonprofit",
+      "B2B",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/splendor",
+    "api": "https://yc-oss.github.io/api/batches/w22/splendor.json"
+  },
+  {
     "id": 26034,
     "name": "Verdn",
     "slug": "verdn",
@@ -28454,7 +28496,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -37266,18 +37308,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a192e9ed03a7a8ac3d8044e52da7d6e1bda15b2a.png",
     "website": "https://edgetrace.ai",
     "all_locations": "",
-    "long_description": "High-precision video search",
+    "long_description": "High-precision video search for real-world applications",
     "one_liner": "Find the moments that matter",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1710460608,
     "tags": [
+      "Artificial Intelligence",
       "Computer Vision",
       "B2B",
       "Video",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
