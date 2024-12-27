@@ -767,7 +767,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S16",
     "status": "Active",
@@ -1834,53 +1834,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bunkerhill-health",
     "api": "https://yc-oss.github.io/api/batches/w19/bunkerhill-health.json"
-  },
-  {
-    "id": 12043,
-    "name": "Handle.com",
-    "slug": "handle-com",
-    "former_names": [
-      "Handle"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e635e21a9de56891c70f767bf4b79d54351abc4.png",
-    "website": "https://www.handle.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Handle builds software that helps simplify construction financial management by automating manual and repetitive tasks throughout the life cycle of construction payments.",
-    "one_liner": "Simplifying Payments and Compliance for Construction Suppliers",
-    "team_size": 46,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1541563431,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Payments",
-      "Construction",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W19",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/handle-com",
-    "api": "https://yc-oss.github.io/api/batches/w19/handle-com.json"
   },
   {
     "id": 12271,
@@ -14909,6 +14862,49 @@
     "api": "https://yc-oss.github.io/api/batches/s24/cracked.json"
   },
   {
+    "id": 29396,
+    "name": "edgetrace",
+    "slug": "edgetrace",
+    "former_names": [
+      "EdgeTrace AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a192e9ed03a7a8ac3d8044e52da7d6e1bda15b2a.png",
+    "website": "https://edgetrace.ai",
+    "all_locations": "",
+    "long_description": "High-precision video search for mission critical applications",
+    "one_liner": "Find the moments that matter",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1710460608,
+    "tags": [
+      "Computer Vision",
+      "B2B",
+      "Video",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/edgetrace",
+    "api": "https://yc-oss.github.io/api/batches/w24/edgetrace.json"
+  },
+  {
     "id": 29397,
     "name": "Manifold Freight",
     "slug": "manifold-freight",
@@ -18019,6 +18015,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/brighterway",
     "api": "https://yc-oss.github.io/api/batches/s24/brighterway.json"
+  },
+  {
+    "id": 29777,
+    "name": "Exa Laboratories",
+    "slug": "exa-laboratories",
+    "former_names": [
+      "Exa Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a856b1c6b22cb0117e3f843abca70d239c77524.png",
+    "website": "https://exalaboratories.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Exa is making reconfigurable chips for AI, offering superior speed and energy efficiency compared to traditional GPUs/TPUs/LPUs.\r\n\r\nOur chips automatically adapt themselves to each specific AI model, overcoming the von Neumann bottleneck, (a common limitation in standard systems). By optimizing for each AI architecture, we significantly boost both inference and training speeds while reducing energy consumption.\r\n\r\nImagine having hardware tailored to your AI model, whilst still maintaining the flexibility of a GPU. This way, you won't need to re-manufacture your hardware each time you change your model architecture, all while still benefiting from the speed and efficiency of specialized hardware, saving data centers and compute clusters hundreds of millions of dollars every year!",
+    "one_liner": "Energy efficient chips for AI",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1722631140,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Machine Learning",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/exa-laboratories",
+    "api": "https://yc-oss.github.io/api/batches/s24/exa-laboratories.json"
   },
   {
     "id": 29779,
@@ -21195,6 +21235,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/promptless",
     "api": "https://yc-oss.github.io/api/batches/w25/promptless.json"
+  },
+  {
+    "id": 30288,
+    "name": "Harper",
+    "slug": "harper",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/495786be55a8096954bf6c729585830c95a705b3.png",
+    "website": "https://www.tatchinsurance.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Harper (fka Tatch) are building an infinitely scalable commercial insurance brokerage using proprietary software, AI agents, and expert human training operators. Our initial focus is surplus lines insurance.",
+    "one_liner": "Harper is an AI-native commercial insurance brokerage.",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1735235398,
+    "tags": [
+      "Fintech",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/harper",
+    "api": "https://yc-oss.github.io/api/batches/w25/harper.json"
   },
   {
     "id": 30338,
