@@ -21664,51 +21664,6 @@
     "api": "https://yc-oss.github.io/api/batches/w21/zealth.json"
   },
   {
-    "id": 23280,
-    "name": "Infracost",
-    "slug": "infracost",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe6b97eef16a2d22e437f6cf663c11b64b223fc8.png",
-    "website": "https://infracost.io",
-    "all_locations": "Edinburgh, Scotland, United Kingdom; Remote",
-    "long_description": "Infracost shifts cloud costs left and makes FinOps proactive. It sits in the engineering workflow (CI/CD), and shows the cost impact of code changes (IaC) before the code is shipped to production. This catches costly mistakes before any money has been spent. It also checks to make sure all resources are tagged with your set tagging policy, and runs checks on the code against our FinOps policy packs, ensuring best practices are followed (e.g. GP2 volumes should be GP3).\r\n\r\nThis creates a cost-aware engineering culture.",
-    "one_liner": "Shift FinOps Left: tell engineers how much code changes will cost…",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1613727779,
-    "tags": [
-      "Developer Tools",
-      "DevSecOps",
-      "FinOps",
-      "B2B",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W21",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/infracost",
-    "api": "https://yc-oss.github.io/api/batches/w21/infracost.json"
-  },
-  {
     "id": 23301,
     "name": "FlutterFlow",
     "slug": "flutterflow",
@@ -23243,6 +23198,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/baraka",
     "api": "https://yc-oss.github.io/api/batches/s21/baraka.json"
+  },
+  {
+    "id": 23973,
+    "name": "Jestor",
+    "slug": "jestor",
+    "former_names": [
+      "jestor"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed71eb78590220cc6aa2f5441853b5ee33591ba5.png",
+    "website": "https://jestor.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Build internal tools for your business with just a few clicks. No developers are required to create custom workflows, Kanban boards, tables, apps, forms, dashboards, and more. Leverage AI to eliminate manual work.",
+    "one_liner": "Jestor is a no-code platform for creating custom business tools.",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1626482465,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Productivity",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/jestor",
+    "api": "https://yc-oss.github.io/api/batches/s21/jestor.json"
   },
   {
     "id": 23978,
@@ -27716,6 +27717,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sieve",
     "api": "https://yc-oss.github.io/api/batches/w22/sieve.json"
+  },
+  {
+    "id": 25317,
+    "name": "Peakflo",
+    "slug": "peakflo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f59b4fa6c1b83c6d1b9ccf4e02733f3f60a7a727.png",
+    "website": "https://peakflo.co",
+    "all_locations": "Singapore, Singapore",
+    "long_description": "Peakflo with its simple API and one-click ERP integrations, allows businesses to streamline their invoice-to-cash and procure-to-pay processes. 100+ companies, from scale-ups to enterprises, use Peakflo each to: \r\n\r\n - Save 2000 man-hours/month on finance ops  \r\n - Get paid faster on customer invoices by 15-25 days \r\n - Cut vendor bill payment time by 50% \r\n - Automate three-way matching",
+    "one_liner": "Bill.com for SE Asia",
+    "team_size": 45,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1644787148,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "Singapore",
+      "Southeast Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/peakflo",
+    "api": "https://yc-oss.github.io/api/batches/w22/peakflo.json"
   },
   {
     "id": 25322,
@@ -45827,48 +45871,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/pathpilot.json"
   },
   {
-    "id": 30044,
-    "name": "Sandra AI",
-    "slug": "sandra-ai",
-    "former_names": [
-      "Sandra.AI",
-      "Sandra.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0cbbb79a074c37ef2a992bb2acea7bb3e6eb8af.png",
-    "website": "https://www.sandra-ai.com",
-    "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Sandra AI builds AI employees for car dealerships and auto repair shops, starting with AI receptionists. Dealerships miss 30% of customer calls, leading to 45% of customers switching dealerships and up to $2M in annual lost revenue per dealership. Sandra AI operates 24/7, handling calls, emails, and texts, and directly schedules appointments, ensuring no opportunity is lost.\r\n \r\nAs the first voice AI fully integrated with key dealership systems, Sandra AI is uniquely positioned to capture a significant market.\r\n \r\nWithin two weeks of launch, Sandra AI signed 22 dealerships. The founding team is composed of ex-McKinsey who graduated from Ecole Polytechnique, MIT, and HEC Paris.",
-    "one_liner": "Building AI employees for car dealers, starting with AI receptionists",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1727911106,
-    "tags": [
-      "Automotive",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "France",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sandra-ai",
-    "api": "https://yc-oss.github.io/api/batches/f24/sandra-ai.json"
-  },
-  {
     "id": 30056,
     "name": "Keye",
     "slug": "keye",
@@ -46189,7 +46191,7 @@
     "slug": "harper",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/495786be55a8096954bf6c729585830c95a705b3.png",
-    "website": "https://www.tatchinsurance.com/",
+    "website": "https://www.harperinsure.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Harper (fka Tatch) are building an infinitely scalable commercial insurance brokerage using proprietary software, AI agents, and expert human training operators. Our initial focus is surplus lines insurance.",
     "one_liner": "Harper is an AI-native commercial insurance brokerage.",
@@ -46198,9 +46200,9 @@
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1735235398,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
