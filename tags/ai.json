@@ -9412,49 +9412,6 @@
     "api": "https://yc-oss.github.io/api/batches/w23/222.json"
   },
   {
-    "id": 27927,
-    "name": "Fintool",
-    "slug": "fintool",
-    "former_names": [
-      "Blocktool"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c360d1b8e58091ade4276c8d336e096e6a0c34b.png",
-    "website": "https://www.fintool.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fintool.com is a financial copilot for institutional investors. It’s ChatGPT on top of financial documents. Fintool is engineered to discover financial insights that are beyond the reach of human analysis or search software.",
-    "one_liner": "Financial copilot for institutional investors",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1668708140,
-    "tags": [
-      "Finance",
-      "Trading",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fintool",
-    "api": "https://yc-oss.github.io/api/batches/w23/fintool.json"
-  },
-  {
     "id": 27935,
     "name": "FiddleCube",
     "slug": "fiddlecube",
@@ -10933,16 +10890,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e253b8344133fe4ca5b396057dd1384ef5081503.png",
     "website": "https://supercraft.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "SuperCraft is a generative design software for physical products\r\n\r\nIt is currently the only tool that generates NURBS based 3D CAD models from product descriptions\r\n\r\nJoin thousands of designers using SuperCraft to make apparel, packaging, home appliances, gadgets, furniture and more",
+    "long_description": "SuperCraft lets anyone design great physical products\r\n\r\nJoin thousands of designers using SuperCraft to make apparel, packaging, home appliances, gadgets, furniture and more",
     "one_liner": "Figma for designing physical products",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1688534176,
     "tags": [
+      "Generative AI",
       "Productivity",
       "Design Tools",
-      "Manufacturing",
       "AI"
     ],
     "tags_highlighted": [],
@@ -13429,6 +13386,48 @@
     "api": "https://yc-oss.github.io/api/batches/w24/precip.json"
   },
   {
+    "id": 29249,
+    "name": "Nuanced, Inc.",
+    "slug": "nuanced-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e32c6998abbf4d751d319bc88878eb3cf0bc4bf7.png",
+    "website": "https://www.nuanced.dev/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "We're building tools that combine static analysis with AI to obtain a deeper understanding of code behavior. By doing so, we help both humans and machines understand code behavior at a fundamental level.",
+    "one_liner": "Nuanced makes AI coding tools smarter with static analysis.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1705703098,
+    "tags": [
+      "Developer Tools",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nuanced-inc",
+    "api": "https://yc-oss.github.io/api/batches/w24/nuanced-inc.json"
+  },
+  {
     "id": 29251,
     "name": "Poka Labs",
     "slug": "poka-labs",
@@ -13725,6 +13724,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/artisan",
     "api": "https://yc-oss.github.io/api/batches/w24/artisan.json"
+  },
+  {
+    "id": 29296,
+    "name": "Simplex",
+    "slug": "simplex",
+    "former_names": [
+      "Simplex",
+      "Pansimulate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fd9d06940eb3b2825ac2017a3e3f2c14d9a3252.png",
+    "website": "https://simplex.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Simplex enables developers to automate repetitive browser workflows using code and natural language. Developers use our low-level SDK functions to create reliable automations that are robust to website changes.",
+    "one_liner": "Automate browser workflows using code + natural language",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1723709594,
+    "tags": [
+      "Machine Learning",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/simplex",
+    "api": "https://yc-oss.github.io/api/batches/s24/simplex.json"
   },
   {
     "id": 29301,
@@ -15778,6 +15821,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inspectmind-ai",
     "api": "https://yc-oss.github.io/api/batches/w24/inspectmind-ai.json"
+  },
+  {
+    "id": 29515,
+    "name": "NowHouse",
+    "slug": "nowhouse",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a46937fb560137c8e2a3bbcfcaf475423a4d2fc.png",
+    "website": "https://www.nowhouse.io",
+    "all_locations": "",
+    "long_description": "NowHouse helps stock brokerages settle trades instantly.",
+    "one_liner": "NowHouse helps stock brokerages settle trades instantly.",
+    "team_size": 0,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1709826722,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Enterprise",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nowhouse",
+    "api": "https://yc-oss.github.io/api/batches/w24/nowhouse.json"
   },
   {
     "id": 29523,
@@ -18057,53 +18141,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/cartage.json"
   },
   {
-    "id": 29792,
-    "name": "Winford AI",
-    "slug": "winford-ai",
-    "former_names": [
-      "FundAImental",
-      "fundaimental",
-      "Fundaimental"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bdcf01f892f2f6cf5a47d68818067a5d316eb12a.png",
-    "website": "https://winford.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Winford AI helps financial services professionals streamline manual tasks. Our AI automatically extracts relevant data, helping save 10+ hours per week.",
-    "one_liner": "Automating Financial Workflows",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1722879025,
-    "tags": [
-      "Finance",
-      "Workflow Automation",
-      "Productivity",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/winford-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/winford-ai.json"
-  },
-  {
     "id": 29797,
     "name": "Haystack Software",
     "slug": "haystack-software",
@@ -18622,48 +18659,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tradeflow",
     "api": "https://yc-oss.github.io/api/batches/s24/tradeflow.json"
-  },
-  {
-    "id": 29848,
-    "name": "Saldor",
-    "slug": "saldor",
-    "former_names": [
-      "Ovation"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a075f23bbd8f7661151fbd5110d6e48d39a3b3a.png",
-    "website": "https://saldor.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Software engineers that don't sleep.",
-    "one_liner": "AI Software Engineers",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1722921255,
-    "tags": [
-      "Generative AI",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/saldor",
-    "api": "https://yc-oss.github.io/api/batches/s24/saldor.json"
   },
   {
     "id": 29849,

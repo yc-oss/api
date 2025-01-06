@@ -21975,6 +21975,47 @@
     "api": "https://yc-oss.github.io/api/batches/w21/prospa.json"
   },
   {
+    "id": 23429,
+    "name": "UPchieve",
+    "slug": "upchieve",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb3330791457fb73115f10b2b4141634154715a6.png",
+    "website": "https://www.upchieve.org",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "UPchieve is an edtech nonprofit that provides free, 24/7 online tutoring to low-income HS students. Using our app, students can request and get paired with a live volunteer in under 5 minutes. We’ve matched 100,000+ requests so far.\r\n\r\nRight now in the US, there are 8 million low-income HS students who don’t have anyone in their home who can help them with schoolwork. UPchieve is working to change that. Our vision is simple: we want to democratize access to academic support, so that every student has an equal opportunity to attend college and achieve upward mobility.",
+    "one_liner": "Connecting low-income HS students with free, 24/7 online tutoring",
+    "team_size": 15,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1613154543,
+    "tags": [
+      "Education",
+      "Nonprofit"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": true,
+    "batch": "W21",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/upchieve",
+    "api": "https://yc-oss.github.io/api/batches/w21/upchieve.json"
+  },
+  {
     "id": 23432,
     "name": "Recover",
     "slug": "recover",
@@ -25699,7 +25740,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Coast is the operating system for API sales. Coast integrates with a company’s API to set up live web apps for every customer and their use case, creating API demos to be used throughout the sales cycle. \r\n\r\nLeading API-first companies across verticals utilize Coast demos to enable their customer facing teams to easily show the value of their software to prospects.",
     "one_liner": "Sales Demos for API-First Companies",
-    "team_size": 10,
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1647531815,
@@ -34232,7 +34273,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ad200a24281fdd6a8a1c278067a5acc87ff1dab.png",
     "website": "https://www.landeed.com/",
-    "all_locations": "Hyderabad, Telangana, India; TS, India",
+    "all_locations": "Hyderabad, Telangana, India",
     "long_description": "Landeed is building India's (then for rest of the world)  fastest and most comprehensive property title search engine. More than 84% of Indian household wealth is stored in real estate, property and land. However, with 2/3rds of all court cases in India dealing with land-related disputes, it is essential that people have accessible public records to both protect themselves against litigation and provide appropriate documentation for facilitating transactions.",
     "one_liner": "Landeed is India's fastest property title search engine ",
     "team_size": 35,
@@ -34700,53 +34741,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stack-ai",
     "api": "https://yc-oss.github.io/api/batches/w23/stack-ai.json"
-  },
-  {
-    "id": 27673,
-    "name": "Reflex",
-    "slug": "reflex",
-    "former_names": [
-      "Pynecone"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/677513c7f80f22199de3136c5024581799a126f2.png",
-    "website": "https://reflex.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reflex is the open-source framework empowering Python developers to build web apps faster. Build both your frontend and backend in a single language, Python (pip install reflex), with no JavaScript or web development experience required.\r\n\r\nBuild anything from internal data and AI apps to large public-facing web apps and deploy with a single command (reflex deploy).\r\n\r\nReflex provides high-level UI components, easy deployment and AI agents to create, edit, and deploy apps 10x faster than traditional web development while also remaining extensible through custom components that can fully leverage JavaScript's expressivity.\r\n\r\nOur mission is to simplify web development by creating an ecosystem of open-source tools and hosted services that enable Python developers to build web apps faster without compromising on customizability, flexibility, or performance.\r\n\r\nhttps://github.com/reflex-dev/reflex",
-    "one_liner": "Web apps in pure Python. Deploy with a single command.",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1674447011,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
-      "Web Development",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reflex",
-    "api": "https://yc-oss.github.io/api/batches/w23/reflex.json"
   },
   {
     "id": 27674,
@@ -36532,14 +36526,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fintool.com is a financial copilot for institutional investors. It’s ChatGPT on top of financial documents. Fintool is engineered to discover financial insights that are beyond the reach of human analysis or search software.",
     "one_liner": "Financial copilot for institutional investors",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1668708140,
     "tags": [
+      "Artificial Intelligence",
       "Finance",
-      "Trading",
-      "AI"
+      "Trading"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43738,7 +43732,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4bc553e9eb10d4c49558bf19ed0f8c9bf7411984.png",
     "website": "https://www.healiahealth.com/",
     "all_locations": "Columbus, OH, USA",
-    "long_description": "Our product allows employers to pay for the out of pocket costs for any employee that enrolls in their spouse's health insurance plan. This saves our customers $10k per enrollee while providing an incredible employee perk: 100% coverage of a family's health costs.\r\n\r\nWe handle setup, employee education, and claims reimbursement. Our technology can even help employees who don't have a spouse understand their insurance options.",
+    "long_description": "Healia is reinventing health insurance for dual income families. Our product enables companies to pay for the out of pocket costs of any employee that enrolls in their spouse's health insurance plan. This saves customers $10k per enrollee while providing an incredible employee perk: 100% coverage of a family's health costs.\r\n\r\nWe’re now up to 50+ customers coast-to-coast with over 40k employees using our product!",
     "one_liner": "Modern health insurance for dual income families",
     "team_size": 5,
     "industry": "Fintech",
@@ -43765,7 +43759,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/healia",
     "api": "https://yc-oss.github.io/api/batches/w24/healia.json"
   },
@@ -45330,10 +45324,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7ba643e872dfb236016ba560ace56c12e3baf83.png",
     "website": "https://intryc.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Consumer enterprises have millions of customer support tickets annually. They need to constantly evaluate support agents’ performance and compliance. Typically they evaluate less than 5% of those interactions manually which is slow, expensive and not scalable. Intryc's AI can evaluate 100% of all customer interactions, in real time, at half the cost.\r\n",
     "one_liner": "Intryc uses AI to automate quality assurance for customer support",
-    "team_size": 7,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1721158274,
@@ -45357,7 +45351,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
