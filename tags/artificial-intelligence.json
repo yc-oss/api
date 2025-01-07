@@ -4130,50 +4130,6 @@
     "api": "https://yc-oss.github.io/api/batches/s19/superorder.json"
   },
   {
-    "id": 12062,
-    "name": "In The Room, Inc.",
-    "slug": "in-the-room-inc",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c2f0f7aef758fd23a921bc800b8b194b2b049cb.png",
-    "website": "https://www.intheroom.social",
-    "all_locations": "Miami, FL, USA; Remote",
-    "long_description": "In The Room is a hyper-local geospatial social network for IRL real-time connections in shared spaces. Designed to help you vibe with people literally in the same room, it answers the question, \"Who’s here?\" by seamlessly connecting you with others nearby. \r\n\r\nCurrently focused on dating and expanding to friendships and professional networking, it’s perfect for meeting people wherever they gather—restaurants, bars, clubs, lounges, events, or public spaces like Miami Beach. Go outside, vibe, and connect with others in the places you already love to visit.",
-    "one_liner": "Real-time connections in shared physical spaces",
-    "team_size": 1,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Travel, Leisure and Tourism",
-    "launched_at": 1541644230,
-    "tags": [
-      "Artificial Intelligence",
-      "Dating",
-      "Social",
-      "Social Network",
-      "Location-based"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W19",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/in-the-room-inc",
-    "api": "https://yc-oss.github.io/api/batches/w19/in-the-room-inc.json"
-  },
-  {
     "id": 12265,
     "name": "Sublime Black",
     "slug": "sublime-black",
@@ -12362,6 +12318,50 @@
     "api": "https://yc-oss.github.io/api/batches/s22/phind.json"
   },
   {
+    "id": 26825,
+    "name": "Flair Labs",
+    "slug": "flair-labs",
+    "former_names": [
+      "Flair"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68f3311e2d59c0bf19e2638c4f3839aaeaa6ff9d.png",
+    "website": "https://www.flairlabs.ai/",
+    "all_locations": "Palo Alto, CA, USA; Remote",
+    "long_description": "Flair Labs is the leading AI communications platform for real estate and lending, empowering teams to build autonomous agents that execute complex workflows across voice and text. We believe the next generation of top real estate teams will be responsible for managing swarms of agents that execute tasks on their behalf – Flair Agent platform is the foundation enabling this future.",
+    "one_liner": "The world's first digital concierge for real estate and lending",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1679982577,
+    "tags": [
+      "Artificial Intelligence",
+      "Real Estate",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/flair-labs",
+    "api": "https://yc-oss.github.io/api/batches/s22/flair-labs.json"
+  },
+  {
     "id": 26837,
     "name": "Unify",
     "slug": "unify",
@@ -12438,7 +12438,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -12645,15 +12645,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2c5063acaca8254ce02340b8663c47624a60972.png",
     "website": "https://www.aurelian.io/",
     "all_locations": "Seattle, WA, USA",
-    "long_description": "Aurelian automates non-emergency calls to police departments. Our AI-powered operator instantly routes, triages, and resolves calls so citizens get exactly what they need and 9-1-1 dispatchers get to focus on emergencies.\r\n\r\nUpwards of 80% of total call volume faced by public safety agencies are administrative calls e.g., citizens trying to pay parking tickets or reporting a power outage. Aurelian lessens this burden and lets 9-1-1 dispatchers deal with actual emergencies.",
-    "one_liner": "Automating non-emergency police calls",
-    "team_size": 2,
+    "long_description": "Aurelian automates non-emergency calls for 911 centers. Our AI-powered operator instantly routes, triages, and resolves calls so citizens get exactly what they need and 911 dispatchers get to focus on emergencies.\r\n\r\nUpwards of 80% of total call volume faced by public safety agencies are administrative calls e.g., citizens trying to pay parking tickets or reporting a power outage. Aurelian lessens this burden and lets 9-1-1 dispatchers deal with actual emergencies.\r\n\r\nTo date, Aurelian has automated hundreds of thousands of calls and sent over 10,000 emergent calls (that typically would've sat on hold) to the 911 line to be handled immediately.",
+    "one_liner": "Automating non-emergency for 911 centers",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1658420852,
     "tags": [
       "Artificial Intelligence",
-      "SaaS"
+      "SaaS",
+      "GovTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17282,6 +17283,50 @@
     "api": "https://yc-oss.github.io/api/batches/s23/vectorshift.json"
   },
   {
+    "id": 29002,
+    "name": "Envelope",
+    "slug": "envelope",
+    "former_names": [
+      "Envelope Money"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2e740f2179bdee63c6c4fcdf1727acdeb9510d9.png",
+    "website": "https://envelopebudgeting.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Envelope is a banking app with built-in budgeting. It's similar to Mint, Copilot, or Rocket Money, but our app issues you a checking account during onboarding so there's no syncing or flaky bank connections. We are structured to be the primary checking and savings account for our users.\r\n\r\n\r\n\r\nWe (Josh and Katelyn) are married cofounders who previously worked on Apple Card and the Robinhood iOS app. We started Envelope because we were using clunky tools like the Chase app, spreadsheets, and Mint to run our family finances and realized we could do it better.\r\n\r\n\r\n\r\nIn the future, you could go set up a Chase account for checking, E-Trade for investing, SoFi for savings, Ally for money market, Greenlight for kid cards, PLUS the Mint/YNAB/Rocket Money to glue it all together + budgeting, or you could just use Envelope.\r\n\r\n\r\n\r\n\r\n_Envelope is a financial technology company and is not a bank. Banking services provided by Pacific West Bank, Member FDIC. Your funds are FDIC insured up to $250,000 through Pacific West Bank, Member FDIC. The Envelope Visa® Debit Card is issued by Pacific West Bank, N.A. pursuant to a license from Visa U.S.A. Inc. and may be used anywhere Visa cards are accepted._",
+    "one_liner": "Banking with built-in budgeting",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1691448232,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Consumer",
+      "Neobank"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/envelope",
+    "api": "https://yc-oss.github.io/api/batches/s23/envelope.json"
+  },
+  {
     "id": 29006,
     "name": "Inari",
     "slug": "inari",
@@ -17521,7 +17566,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
