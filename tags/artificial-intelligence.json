@@ -8257,7 +8257,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -10402,6 +10402,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dart",
     "api": "https://yc-oss.github.io/api/batches/w22/dart.json"
+  },
+  {
+    "id": 25603,
+    "name": "Reforged Labs",
+    "slug": "reforged-labs",
+    "former_names": [
+      "Nook"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42624b47fffc5d9d7f83077c9c444743511d6eb9.png",
+    "website": "https://reforgedlabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reforged Labs empowers game studios to supercharge their performance marketing. Our AI copilot, the first platform built for mobile game marketing, enables UA managers to achieve results 5x faster and 10x cheaper.\r\n\r\nBy analyzing thousands of top-performing ads, our platform uncovers what makes an ad effective. Backed by real-world data, it transforms how UA managers brainstorm ideas, create video ads, and launch high-performing campaigns - delivering a competitive edge in the evolving gaming industry.\r\n\r\nWith Reforged Labs, you don’t just keep up with trends - you set them.",
+    "one_liner": "The world's first AI copilot built for mobile game marketers",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1644566628,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "B2B",
+      "Gaming",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reforged-labs",
+    "api": "https://yc-oss.github.io/api/batches/w22/reforged-labs.json"
   },
   {
     "id": 25608,
@@ -12791,7 +12838,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -16508,7 +16555,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -18285,49 +18332,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/orbio-earth",
     "api": "https://yc-oss.github.io/api/batches/s23/orbio-earth.json"
-  },
-  {
-    "id": 29158,
-    "name": "Feanix Biotechnologies",
-    "slug": "feanix-biotechnologies",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ebea1f97b9fb9414d0775e2f2eff98efacb7b81.png",
-    "website": "https://www.feanixbio.com/",
-    "all_locations": "Asheville, NC, USA",
-    "long_description": "Feanix is a trailblazing force in the trillion-dollar animal breeding industry. Feanix leverages proprietary genetic testing advancements to provide genetics and breeding as a service. \r\n",
-    "one_liner": "Farm Genetics Made Easy - Using DNA and Software",
-    "team_size": 5,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Agriculture",
-    "launched_at": 1691628578,
-    "tags": [
-      "Artificial Intelligence",
-      "Sustainability",
-      "Climate",
-      "Genomics",
-      "Agriculture"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Agriculture"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/feanix-biotechnologies",
-    "api": "https://yc-oss.github.io/api/batches/s23/feanix-biotechnologies.json"
   },
   {
     "id": 29160,
@@ -24416,10 +24420,10 @@
       "Modern Realtor"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2af2b5c47fb7082d55355cc9c8ad07af8fb99ae7.png",
-    "website": "https://raffiisanians.com",
+    "website": "https://modernrealty.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We provide end-to-end tools for transaction management using AI. ",
-    "one_liner": "AI Tools for Real Estate Support",
+    "long_description": "Tech enabled B2C Realtor representation for home buying",
+    "one_liner": "Tech forward Real Estate brokerage",
     "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
@@ -25830,8 +25834,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b04f0fee59f28a3fa66d41bb63e4aef150ce2812.png",
     "website": "https://outerport.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outerport lets companies use their GPUs more efficiently by making it easy for them to be swapped from task to task. Just like how VMWare made it easy to put multiple users on a single server machine, we make it easy to put multiple AI models on a single GPU. Rather than having separate sets of GPUs for each task, you can buy less GPUs and make better use of it.\r\n\r\nHot swap foundation model weights instantly, minimize cold starts, scale horizontally, maintain version control, secure your models on a central registry, perform A/B tests, and save 40% on GPU costs. ",
-    "one_liner": "VMware for GPUs",
+    "long_description": "Outerport helps AI read documents the way humans do - building up understanding section by section and checking facts along the way, instead of just matching similar phrases. For example, when a team needs to confirm a specific requirement in a 200-page compliance policy document, Outerport pinpoints the right section, provides the reasoning, and presents a fact-based summary.\r\n\r\nOuterport is built for performance- run thousands of queries against your critical documents, with reasoning behind every retrieval. No more faulty vector RAG.",
+    "one_liner": "Chain-of-memory reasoning for document understanding",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -27186,24 +27190,65 @@
     "api": "https://yc-oss.github.io/api/batches/f24/fabricate.json"
   },
   {
-    "id": 30165,
-    "name": "Edexia",
-    "slug": "edexia",
+    "id": 30241,
+    "name": "ZeroEntropy",
+    "slug": "zeroentropy",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c47809acef827e8266fe22b15646d39f5911391.png",
-    "website": "https://www.edexia.ai/",
-    "all_locations": "Capalaba, QLD, Australia",
-    "long_description": "Edexia is an AI teaching assistant that grades papers for teachers. It learns the style of each individual teacher, so it can grade just like they do, saving up to 100% of grading time.  \r\nEdexia can grade assignments from any curriculum, year level, subject, or format. Learning like a teacher, it visually breaks down its understanding of the rubric, and updates this as a teacher corrects its grading on the fly. \r\nOur vision is to transform education by facilitating the safe and effective integration of AI across all institutions and applications. Not using AI to replace teachers but rather to empower them—providing them with all the time and resources they need to develop their students.",
-    "one_liner": "AI Teaching Assistant for Grading Papers",
-    "team_size": 3,
-    "industry": "Education",
-    "subindustry": "Education",
-    "launched_at": 1733896630,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b2774c0442b4c923fff05f20dbced23d34ad02f.png",
+    "website": "https://www.zeroentropy.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are on a mission to build the world’s most accurate search engine over complex and unstructured documents, behind a simple API.\r\n\r\nMost AI products - whether Q&A bots or AI agents - depend on retrieval systems to provide relevant context from knowledge bases.\r\n\r\nYet, the vast majority of these systems rely on basic semantic or hybrid search methods, which still frequently fail. \r\n\r\nThese mistakes lead to inaccurate responses and hallucinations by LLMs, frustrating developers and end users alike. \r\n\r\nThat is why we’re building ZeroEntropy: to add intelligence to retrieval and empower developers to create AI products that are more reliable and accurate. ",
+    "one_liner": "High accuracy search API over unstructured data.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1734458813,
     "tags": [
-      "AI-Enhanced Learning",
       "Artificial Intelligence",
-      "Education",
+      "Developer Tools",
+      "API",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zeroentropy",
+    "api": "https://yc-oss.github.io/api/batches/w25/zeroentropy.json"
+  },
+  {
+    "id": 30252,
+    "name": "Cuckoo Labs",
+    "slug": "cuckoo-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b101bcbe3aa299f4c858e25eded7583252ab9ab6.png",
+    "website": "https://www.cuckoo.so/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cuckoo is an in-house AI interpreter for global teams. Cuckoo instantly learns your technical details of your conversation from your keywords and documents, and translates into over 20 languages, customized for your specific industry and organization. Global teams like Snowflake, PagerDuty, Weights & Biases, dbt Labs, and SeAH rely on Cuckoo for multilingual meetings, events, business trips, and more.",
+    "one_liner": "AI interpreter for global teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1736479622,
+    "tags": [
+      "Artificial Intelligence",
       "SaaS",
+      "B2B",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -27213,19 +27258,19 @@
     "batch": "W25",
     "status": "Active",
     "industries": [
-      "Education"
+      "B2B"
     ],
     "regions": [
-      "Australia",
-      "Oceania"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/edexia",
-    "api": "https://yc-oss.github.io/api/batches/w25/edexia.json"
+    "url": "https://www.ycombinator.com/companies/cuckoo-labs",
+    "api": "https://yc-oss.github.io/api/batches/w25/cuckoo-labs.json"
   },
   {
     "id": 30275,

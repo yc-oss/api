@@ -13767,10 +13767,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5dbb79988f18a52e0b199ca7f510d224c687729f.png",
     "website": "https://www.getontop.com/",
-    "all_locations": "Miami, FL, USA; Bogotá, Bogota, Colombia; Remote",
+    "all_locations": "Miami, FL, USA; Remote",
     "long_description": "Ontop allows companies to hire international workers, and we enable those workers to save in USD.\r\n",
-    "one_liner": "International payroll for global teams",
-    "team_size": 300,
+    "one_liner": "Simplifying hiring and payments for the global workforce",
+    "team_size": 192,
     "industry": "B2B",
     "subindustry": "Fintech",
     "launched_at": 1614618716,
@@ -13791,9 +13791,7 @@
     ],
     "regions": [
       "United States of America",
-      "Colombia",
       "America / Canada",
-      "Latin America",
       "Remote",
       "Fully Remote"
     ],
@@ -21133,17 +21131,17 @@
     "website": "https://reforgedlabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Reforged Labs empowers game studios to supercharge their performance marketing. Our AI copilot, the first platform built for mobile game marketing, enables UA managers to achieve results 5x faster and 10x cheaper.\r\n\r\nBy analyzing thousands of top-performing ads, our platform uncovers what makes an ad effective. Backed by real-world data, it transforms how UA managers brainstorm ideas, create video ads, and launch high-performing campaigns - delivering a competitive edge in the evolving gaming industry.\r\n\r\nWith Reforged Labs, you don’t just keep up with trends - you set them.",
-    "one_liner": "The world's first AI co-pilot built for mobile game marketers",
+    "one_liner": "The world's first AI copilot built for mobile game marketers",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1644566628,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Gaming",
-      "Advertising",
-      "AI"
+      "Advertising"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27365,7 +27363,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -27587,7 +27585,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -42128,49 +42126,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/upshift.json"
   },
   {
-    "id": 30027,
-    "name": "Durate",
-    "slug": "durate",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f297967dbc384b91670f354813f35bf8d63b37a8.png",
-    "website": "https://www.durate.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We make software to automate call shift scheduling for hospital residents/faculty and generally help hospital administrators keep track of their departments. Hospitals have long lists of requirements and rules they must follow, leading administrators to spend hundreds of hours a month ensuring their departments adhere to guidelines.",
-    "one_liner": "We build automated scheduling software for hospitals",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1728392131,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Scheduling",
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/durate",
-    "api": "https://yc-oss.github.io/api/batches/f24/durate.json"
-  },
-  {
     "id": 30029,
     "name": "Summed AI",
     "slug": "summed-ai",
@@ -43068,6 +43023,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/promptless",
     "api": "https://yc-oss.github.io/api/batches/w25/promptless.json"
+  },
+  {
+    "id": 30252,
+    "name": "Cuckoo Labs",
+    "slug": "cuckoo-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b101bcbe3aa299f4c858e25eded7583252ab9ab6.png",
+    "website": "https://www.cuckoo.so/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cuckoo is an in-house AI interpreter for global teams. Cuckoo instantly learns your technical details of your conversation from your keywords and documents, and translates into over 20 languages, customized for your specific industry and organization. Global teams like Snowflake, PagerDuty, Weights & Biases, dbt Labs, and SeAH rely on Cuckoo for multilingual meetings, events, business trips, and more.",
+    "one_liner": "AI interpreter for global teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1736479622,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cuckoo-labs",
+    "api": "https://yc-oss.github.io/api/batches/w25/cuckoo-labs.json"
   },
   {
     "id": 30338,

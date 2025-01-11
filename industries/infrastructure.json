@@ -8943,8 +8943,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b04f0fee59f28a3fa66d41bb63e4aef150ce2812.png",
     "website": "https://outerport.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outerport lets companies use their GPUs more efficiently by making it easy for them to be swapped from task to task. Just like how VMWare made it easy to put multiple users on a single server machine, we make it easy to put multiple AI models on a single GPU. Rather than having separate sets of GPUs for each task, you can buy less GPUs and make better use of it.\r\n\r\nHot swap foundation model weights instantly, minimize cold starts, scale horizontally, maintain version control, secure your models on a central registry, perform A/B tests, and save 40% on GPU costs. ",
-    "one_liner": "VMware for GPUs",
+    "long_description": "Outerport helps AI read documents the way humans do - building up understanding section by section and checking facts along the way, instead of just matching similar phrases. For example, when a team needs to confirm a specific requirement in a 200-page compliance policy document, Outerport pinpoints the right section, provides the reasoning, and presents a fact-based summary.\r\n\r\nOuterport is built for performance- run thousands of queries against your critical documents, with reasoning behind every retrieval. No more faulty vector RAG.",
+    "one_liner": "Chain-of-memory reasoning for document understanding",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -9324,5 +9324,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/synth-3",
     "api": "https://yc-oss.github.io/api/batches/f24/synth-3.json"
+  },
+  {
+    "id": 30241,
+    "name": "ZeroEntropy",
+    "slug": "zeroentropy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b2774c0442b4c923fff05f20dbced23d34ad02f.png",
+    "website": "https://www.zeroentropy.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are on a mission to build the world’s most accurate search engine over complex and unstructured documents, behind a simple API.\r\n\r\nMost AI products - whether Q&A bots or AI agents - depend on retrieval systems to provide relevant context from knowledge bases.\r\n\r\nYet, the vast majority of these systems rely on basic semantic or hybrid search methods, which still frequently fail. \r\n\r\nThese mistakes lead to inaccurate responses and hallucinations by LLMs, frustrating developers and end users alike. \r\n\r\nThat is why we’re building ZeroEntropy: to add intelligence to retrieval and empower developers to create AI products that are more reliable and accurate. ",
+    "one_liner": "High accuracy search API over unstructured data.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1734458813,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "API",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zeroentropy",
+    "api": "https://yc-oss.github.io/api/batches/w25/zeroentropy.json"
   }
 ]

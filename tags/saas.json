@@ -20577,10 +20577,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5dbb79988f18a52e0b199ca7f510d224c687729f.png",
     "website": "https://www.getontop.com/",
-    "all_locations": "Miami, FL, USA; Bogotá, Bogota, Colombia; Remote",
+    "all_locations": "Miami, FL, USA; Remote",
     "long_description": "Ontop allows companies to hire international workers, and we enable those workers to save in USD.\r\n",
-    "one_liner": "International payroll for global teams",
-    "team_size": 300,
+    "one_liner": "Simplifying hiring and payments for the global workforce",
+    "team_size": 192,
     "industry": "B2B",
     "subindustry": "Fintech",
     "launched_at": 1614618716,
@@ -20601,9 +20601,7 @@
     ],
     "regions": [
       "United States of America",
-      "Colombia",
       "America / Canada",
-      "Latin America",
       "Remote",
       "Fully Remote"
     ],
@@ -35000,7 +34998,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -35263,7 +35261,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -45893,8 +45891,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b04f0fee59f28a3fa66d41bb63e4aef150ce2812.png",
     "website": "https://outerport.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outerport lets companies use their GPUs more efficiently by making it easy for them to be swapped from task to task. Just like how VMWare made it easy to put multiple users on a single server machine, we make it easy to put multiple AI models on a single GPU. Rather than having separate sets of GPUs for each task, you can buy less GPUs and make better use of it.\r\n\r\nHot swap foundation model weights instantly, minimize cold starts, scale horizontally, maintain version control, secure your models on a central registry, perform A/B tests, and save 40% on GPU costs. ",
-    "one_liner": "VMware for GPUs",
+    "long_description": "Outerport helps AI read documents the way humans do - building up understanding section by section and checking facts along the way, instead of just matching similar phrases. For example, when a team needs to confirm a specific requirement in a 200-page compliance policy document, Outerport pinpoints the right section, provides the reasoning, and presents a fact-based summary.\r\n\r\nOuterport is built for performance- run thousands of queries against your critical documents, with reasoning behind every retrieval. No more faulty vector RAG.",
+    "one_liner": "Chain-of-memory reasoning for document understanding",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -46097,49 +46095,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/upshift",
     "api": "https://yc-oss.github.io/api/batches/f24/upshift.json"
-  },
-  {
-    "id": 30027,
-    "name": "Durate",
-    "slug": "durate",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f297967dbc384b91670f354813f35bf8d63b37a8.png",
-    "website": "https://www.durate.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We make software to automate call shift scheduling for hospital residents/faculty and generally help hospital administrators keep track of their departments. Hospitals have long lists of requirements and rules they must follow, leading administrators to spend hundreds of hours a month ensuring their departments adhere to guidelines.",
-    "one_liner": "We build automated scheduling software for hospitals",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1728392131,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Scheduling",
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/durate",
-    "api": "https://yc-oss.github.io/api/batches/f24/durate.json"
   },
   {
     "id": 30031,
@@ -46965,18 +46920,18 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c47809acef827e8266fe22b15646d39f5911391.png",
     "website": "https://www.edexia.ai/",
-    "all_locations": "Capalaba, QLD, Australia",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Edexia is an AI teaching assistant that grades papers for teachers. It learns the style of each individual teacher, so it can grade just like they do, saving up to 100% of grading time.  \r\nEdexia can grade assignments from any curriculum, year level, subject, or format. Learning like a teacher, it visually breaks down its understanding of the rubric, and updates this as a teacher corrects its grading on the fly. \r\nOur vision is to transform education by facilitating the safe and effective integration of AI across all institutions and applications. Not using AI to replace teachers but rather to empower them—providing them with all the time and resources they need to develop their students.",
     "one_liner": "AI Teaching Assistant for Grading Papers",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1733896630,
     "tags": [
       "AI-Enhanced Learning",
-      "Artificial Intelligence",
       "Education",
       "SaaS",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -46989,8 +46944,8 @@
       "Education"
     ],
     "regions": [
-      "Australia",
-      "Oceania"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -47042,6 +46997,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/promptless",
     "api": "https://yc-oss.github.io/api/batches/w25/promptless.json"
+  },
+  {
+    "id": 30252,
+    "name": "Cuckoo Labs",
+    "slug": "cuckoo-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b101bcbe3aa299f4c858e25eded7583252ab9ab6.png",
+    "website": "https://www.cuckoo.so/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cuckoo is an in-house AI interpreter for global teams. Cuckoo instantly learns your technical details of your conversation from your keywords and documents, and translates into over 20 languages, customized for your specific industry and organization. Global teams like Snowflake, PagerDuty, Weights & Biases, dbt Labs, and SeAH rely on Cuckoo for multilingual meetings, events, business trips, and more.",
+    "one_liner": "AI interpreter for global teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1736479622,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cuckoo-labs",
+    "api": "https://yc-oss.github.io/api/batches/w25/cuckoo-labs.json"
   },
   {
     "id": 30275,
