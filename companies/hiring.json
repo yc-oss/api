@@ -20221,7 +20221,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Popl is the leading digital business card platform for teams and individuals. Professionals use our software platforms and smart devices to make instant digital connections with potential clients.",
     "one_liner": "The #1 Digital Business Card for Lead Capture",
-    "team_size": 38,
+    "team_size": 45,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1610523196,
@@ -20245,7 +20245,7 @@
       "Partly Remote"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
@@ -27251,11 +27251,11 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1624955795,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "B2B",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27275,7 +27275,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": true,
+    "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sully-ai",
@@ -39509,6 +39509,52 @@
     "api": "https://yc-oss.github.io/api/batches/s23/vetrec.json"
   },
   {
+    "id": 28923,
+    "name": "Maven Bio",
+    "slug": "maven-bio",
+    "former_names": [
+      "RightPage"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fb59a2d458d4e1bae717254c4cb57243a45f0b6.png",
+    "website": "https://mavenbio.io",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "At Maven Bio, we’re transforming BioPharma knowledge work by pairing domain-specific AI with curated industry data—letting consultants, investors, and corporate teams move from question to decision with less manual work. Our integrated BioPharma-specific platform features four flagship modules:\r\n\r\n• Maven Workflows: Monitor Maven's domain-specific AI through structured research tasks—step by step—and finalize results with confidence.\r\n• Maven Atlas: Access hundreds of pre-built indication landscapes, or generate custom ones on demand for in-depth insights.\r\n• Maven Compass: Build precise lists of companies, drugs, trials, or documents with advanced filters—move faster with AI-driven filter suggestions.\r\n• Maven Assistant: Get instant answers to your BioPharma questions, complete with direct links to primary sources.\r\n\r\nStop burning hours on manual data hunts. Maven Bio’s continuously updated database and collaborative AI features empower you to focus on strategic decisions. We offer usage-based pricing and usage-restricted trials, plus custom solutions for unique data sources or specialized workflows. Trusted by life science consultants, BD teams, and investors worldwide, Maven Bio delivers faster, deeper insights.\r\n\r\nBook a call to learn how our purpose-built AI can transform your research and accelerate your success.",
+    "one_liner": "The AI Platform for BioPharma Knowledge Work",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1689099430,
+    "tags": [
+      "Generative AI",
+      "Biotech",
+      "Healthcare",
+      "Enterprise",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maven-bio",
+    "api": "https://yc-oss.github.io/api/batches/s23/maven-bio.json"
+  },
+  {
     "id": 28927,
     "name": "Metalware",
     "slug": "metalware",
@@ -42513,45 +42559,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/sync-2.json"
   },
   {
-    "id": 29362,
-    "name": "Pythagora (GPT Pilot)",
-    "slug": "pythagora-gpt-pilot",
-    "former_names": [
-      "GPT Pilot"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f15d72d917073403267f26755fdcbce74d0dfee3.png",
-    "website": "https://pythagora.ai/",
-    "all_locations": "",
-    "long_description": "Pythagora is an open source tool that builds apps from scratch by talking to users. It uses LLMs to automate developer workflows (debugging, refactoring, etc.) and ask user questions whenever it needs feedback.\r\n\r\nIt is an IDE extension built on top of our open-source tool, GPT Pilot, which has over 22k Github stars.\r\n\r\nYou start by describing an app you want to build; then, it asks you questions about the details of the app to write the full app specifications. Once the specs are done, it starts coding. When it finishes a task, it asks you to test the app and tell it if something is incorrect. It iterates with you by changing the code and asking you for feedback until the task is finished. Finally, it commits the code it has written and proceeds to the next task until the entire app is finished.\r\n",
-    "one_liner": "OSS dev tool that builds entire apps from scratch by talking to you",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1709274350,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/pythagora-gpt-pilot",
-    "api": "https://yc-oss.github.io/api/batches/w24/pythagora-gpt-pilot.json"
-  },
-  {
     "id": 29367,
     "name": "Draftaid",
     "slug": "draftaid",
@@ -44548,47 +44555,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/cardlift.json"
   },
   {
-    "id": 29573,
-    "name": "Undermind",
-    "slug": "undermind",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e44c4453098a5caed0988fdf2dff5b898cdcac4.png",
-    "website": "https://www.undermind.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Undermind, we're building a search engine that can handle extremely complex questions. It’s geared at experts, like research scientists and doctors, who need to find very specific resources to solve high-stakes problems. \r\n\r\nWe’ve rebuilt search from the ground up to address this. Our new approach employs high-quality LLMs to adaptively explore a database, mimicking how a human researcher carefully discovers information. This approach dramatically outperforms (by 10-50x) traditional keyword search and other modern AI-based retrieval methods.\r\n\r\nOur first target users are the 50 million researchers searching for scientific literature on PubMed and Google Scholar every month. We’ve have users paying us $200-$500 per seat per year, from fields like medicine, ML, biotech, finance, and more.",
-    "one_liner": "An AI agent for scientific research",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Education",
-    "launched_at": 1718632251,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Biotech",
-      "Search"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/undermind",
-    "api": "https://yc-oss.github.io/api/batches/s24/undermind.json"
-  },
-  {
     "id": 29579,
     "name": "Ply Health",
     "slug": "ply-health",
@@ -45547,9 +45513,9 @@
     "subindustry": "B2B",
     "launched_at": 1715615655,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
