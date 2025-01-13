@@ -5595,7 +5595,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W20",
     "status": "Active",
@@ -16735,6 +16735,49 @@
     "api": "https://yc-oss.github.io/api/batches/s23/flowiseai.json"
   },
   {
+    "id": 29118,
+    "name": "Structured",
+    "slug": "structured",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/452e48c0e0c4bddca55b269be9dafcb249e368f0.png",
+    "website": "https://www.structuredlabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Structured is a full-stack platform for building, deploying, and managing interactive data applications. It brings ingestion, storage, transformation, and visualization into a simple SDK, minimizing complexity while maintaining flexibility for both prototyping and production-grade use cases.",
+    "one_liner": "Build data apps with AI",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1686619959,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Analytics",
+      "Open Source",
+      "Data Visualization"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/structured",
+    "api": "https://yc-oss.github.io/api/batches/s23/structured.json"
+  },
+  {
     "id": 29123,
     "name": "Glide",
     "slug": "glide-2",
@@ -20939,6 +20982,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/relvy-ai",
     "api": "https://yc-oss.github.io/api/batches/f24/relvy-ai.json"
+  },
+  {
+    "id": 30160,
+    "name": "Quantstruct",
+    "slug": "quantstruct",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64b5db172bf1cde01b3812d4221d26658881fead.png",
+    "website": "https://quantstruct.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses a team of AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.",
+    "one_liner": "Auto-improve & publish technical docs with AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1736668232,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "API",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/quantstruct",
+    "api": "https://yc-oss.github.io/api/batches/w25/quantstruct.json"
   },
   {
     "id": 30204,
