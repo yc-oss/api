@@ -7961,12 +7961,12 @@
     "name": "Titan",
     "slug": "titan",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de26262abf4718d6e7675de4856992155ef62ab1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19f24c2787f58320fe1255e16516516512e17575.png",
     "website": "http://www.titan.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "We're aiming to build the default wealth advisor for our generation, one akin to the brands that McKinsey and CAA have established in their domains. And with over 1 billion in assets under management and notable investors including Andreessen Horowitz, Kevin Durant, Odell Beckham Jr., and Will Smith, we’re building a team to win. We want you to come here and do the best work of your life with us.",
-    "one_liner": "Building a Members-Only Wealth Community",
-    "team_size": 100,
+    "long_description": "We're aiming to build a modern wealth manager. There are many solutions out there for how one can invest by themselves (e.g., brokerages, like Robinhood). But for those who want to have their money managed , they must turn to high fee, high minimum advisors (e.g., RIAs, like Edward Jones). Also with LLMs, we can do this more cheaply, with faster/better service, and better financial outcomes on average. ",
+    "one_liner": "We manage people's wealth",
+    "team_size": 50,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1524711767,
@@ -15134,7 +15134,7 @@
     "slug": "volopay",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2969762f324adcf3509c5854bebc199ecc587cb.png",
-    "website": "https://www.volopay.co/",
+    "website": "https://www.volopay.com/",
     "all_locations": "Singapore, Singapore; Remote",
     "long_description": "Volopay is a modern spend management platform that saves companies time and money by giving visibility & control to every aspect of business spending. With Volopay, finance and accounting teams can control expense requests and approvals, make bill payments (domestic/cross-border), manage company cards, and reconcile all accounting on one platform.\r\n\r\nVolopay completely eliminates the need for expense reports and reimbursements while giving everyone in the company a card to use. We worked in an offshore dev centre in the past and it took 2 months to get our reimbursements and 4 weeks to make any purchase as there was just one corporate card for the entire company and clunky bill payments solutions offered by the banks. \r\n\r\nAmong our customers are Reddoorz (OYO of South East Asia), Dathena (biggest data security co in Singapore) and Beam (APAC’s leading micro-mobility player). ",
     "one_liner": "Brex for South East Asia - Corporate cards & automated payments.",
@@ -39456,7 +39456,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -40937,6 +40937,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aglide",
     "api": "https://yc-oss.github.io/api/batches/s23/aglide.json"
+  },
+  {
+    "id": 28958,
+    "name": "Sourcepulse",
+    "slug": "sourcepulse",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ada46f5d9855ae56a146e944a9293897a7f0c38f.png",
+    "website": "https://www.sourcepulse.io/",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "Sourcepulse is the internal status page for software delivery, alerting teams before costly delays. We collect anonymous feedback from project members to identify exactly what to fix, just like how Sentry captures system details for production errors.",
+    "one_liner": "Fix your biggest software delays with real developer feedback",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1691807496,
+    "tags": [
+      "Machine Learning",
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sourcepulse",
+    "api": "https://yc-oss.github.io/api/batches/s23/sourcepulse.json"
   },
   {
     "id": 28967,
@@ -43362,6 +43407,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openmart",
     "api": "https://yc-oss.github.io/api/batches/w24/openmart.json"
+  },
+  {
+    "id": 29436,
+    "name": "Downlink",
+    "slug": "downlink",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0c8280f2401497830f9750a73fe67fc73e1344b.png",
+    "website": "https://downlink.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Downlink is the turbo button for AI.\r\n\r\nWith a few lines of code, Downlink improves the performance of your cloud LLMs. Our tool continuously trains expert models to handle your prompts faster than gpt-4o.",
+    "one_liner": "Downlink is an API that speeds up LLM workloads by up to 90%",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1708740244,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/downlink",
+    "api": "https://yc-oss.github.io/api/batches/w24/downlink.json"
   },
   {
     "id": 29439,
@@ -46095,6 +46182,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/upshift",
     "api": "https://yc-oss.github.io/api/batches/f24/upshift.json"
+  },
+  {
+    "id": 30027,
+    "name": "Durate",
+    "slug": "durate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/935870ad311d37ea8459ff250f2038a181f03d8c.png",
+    "website": "https://www.durate.com/",
+    "all_locations": "",
+    "long_description": "We make software to automate call shift scheduling for hospital residents/faculty and generally help hospital administrators keep track of their departments. Hospitals have long lists of requirements and rules they must follow, leading administrators to spend hundreds of hours a month ensuring their departments adhere to guidelines.",
+    "one_liner": "We build automated scheduling software for hospitals",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1728392131,
+    "tags": [
+      "SaaS",
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/durate",
+    "api": "https://yc-oss.github.io/api/batches/f24/durate.json"
   },
   {
     "id": 30031,

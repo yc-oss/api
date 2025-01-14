@@ -7,18 +7,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64b5db172bf1cde01b3812d4221d26658881fead.png",
     "website": "https://quantstruct.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses a team of AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.",
+    "long_description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses multiple AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.\r\n\r\nTraditional generative AI tools risk hallucinating critical API & SDK fields, even with RAG based approaches. Purely agent-based approaches risk providing unpredictable output that can diverge from desired documentation processes. Finally, no company’s review and publishing workflow is the same. Quantstruct is the easiest way to onboard and customize AI agents to continuously improve your documentation based on your customer needs and product evolution. https://quantstruct.com",
     "one_liner": "Auto-improve & publish technical docs with AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736668232,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -82,6 +82,89 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/edexia",
     "api": "https://yc-oss.github.io/api/batches/w25/edexia.json"
+  },
+  {
+    "id": 30181,
+    "name": "Leaping AI",
+    "slug": "leaping-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cf89546e97aa00342fd94e13a639b43add977d5.png",
+    "website": "https://leapingai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "With our platform, you can create and deploy voice AI agents, automating complex use cases and high call volume.\r\n\r\nWe automated contact centers employing >100 human agents and now handle 70% of their incoming customer support and sales calls end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nFor another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.",
+    "one_liner": "Voice AI agents that are human-like and self-improve",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1736780951,
+    "tags": [
+      "Generative AI",
+      "Customer Service",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/leaping-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/leaping-ai.json"
+  },
+  {
+    "id": 30189,
+    "name": "SubImage",
+    "slug": "subimage",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b42d30fcf2efbb0bfe113b07b366491f53e57d04.png",
+    "website": "https://subimage.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "SubImage builds maps of your cloud environment to give you visibility on what assets you have and how they relate to each other. This enables any security team to deeply understand their environments and reduce risk.\r\n\r\nSubImage is a managed offering built around the Cartography open-source project, and is founded by members of Cartography's original team.",
+    "one_liner": "Clear maps for complex cloud environments",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1736799545,
+    "tags": [
+      "Artificial Intelligence",
+      "Security",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/subimage",
+    "api": "https://yc-oss.github.io/api/batches/w25/subimage.json"
   },
   {
     "id": 30204,
@@ -346,17 +429,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b2774c0442b4c923fff05f20dbced23d34ad02f.png",
     "website": "https://www.zeroentropy.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are on a mission to build the world’s most accurate search engine over complex and unstructured documents, behind a simple API.\r\n\r\nMost AI products - whether Q&A bots or AI agents - depend on retrieval systems to provide relevant context from knowledge bases.\r\n\r\nYet, the vast majority of these systems rely on basic semantic or hybrid search methods, which still frequently fail. \r\n\r\nThese mistakes lead to inaccurate responses and hallucinations by LLMs, frustrating developers and end users alike. \r\n\r\nThat is why we’re building ZeroEntropy: to add intelligence to retrieval and empower developers to create AI products that are more reliable and accurate. ",
+    "long_description": "We are on a mission to build the world’s most accurate search engine over complex and unstructured documents.\r\n\r\nMost AI products - whether Q&A bots or AI agents - depend on retrieval systems to provide relevant context from knowledge bases.\r\n\r\nYet, the vast majority of these systems rely on basic semantic or hybrid search methods, which still frequently fail. \r\n\r\nThese mistakes lead to inaccurate responses and hallucinations by LLMs, frustrating developers and end users alike. \r\n\r\nThat is why we’re building ZeroEntropy: to add intelligence to retrieval and empower developers to create AI products that are more reliable and accurate. ",
     "one_liner": "High accuracy search API over unstructured data.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1734458813,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Search"
+      "Search",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -586,6 +669,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/solidroad",
     "api": "https://yc-oss.github.io/api/batches/w25/solidroad.json"
+  },
+  {
+    "id": 30283,
+    "name": "Confident AI",
+    "slug": "confident-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e739bf439400b44a89bc15e023cbe6bca3f9e00.png",
+    "website": "https://confident-ai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (4.3k stars, >400k monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
+    "one_liner": "The Leading LLM Evaluation Platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1736794966,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/confident-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/confident-ai.json"
   },
   {
     "id": 30288,
@@ -836,5 +961,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/browser-use",
     "api": "https://yc-oss.github.io/api/batches/w25/browser-use.json"
+  },
+  {
+    "id": 30356,
+    "name": "Fira",
+    "slug": "fira",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8180359e4edaaddd169f88aafc0eb2338fe0116f.png",
+    "website": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fira is a financial research assistant that helps analysts at investment firms instantly extract and analyse data from unstructured reports of public and private companies. It reads thousands of integrated unstructured financial reports (often 300 pages) to provide source-cited answers, verifiable financial calculations, and Excel-ready tables — tasks that typically take hours.\r\n\r\nWe're initially focusing on boutique investment banks and small private equity firms, covering annual reports of international companies and allowing to upload custom documents. As we develop our product and build clients' trust, we'll eventually integrate directly into clouds.\r\n\r\nUsing accurate extraction and analysis as single unit of work LLMs do, our vision is to scale it with agents to allow deeper and more thoughtful research, report generation and task execution — allowing financial teams to focus on ideas and decisions.",
+    "one_liner": "Financial research assistant for investment firms",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1736800806,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Market Research",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fira",
+    "api": "https://yc-oss.github.io/api/batches/w25/fira.json"
   }
 ]

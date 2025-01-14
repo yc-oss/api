@@ -273,7 +273,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S12",
     "status": "Active",
@@ -1139,7 +1139,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W19",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -5288,7 +5288,7 @@
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Terminal is Plaid for telematics data in commercial trucking. Companies building next generation insurance products, financial services and fleet software for trucking use our Universal API to access GPS data, speeding data and vehicle stats.\r\n\r\n\r\nRaghav (CEO) and Connor (CTO) led product and engineering at a series b-funded neobank where they spent 2.5 years integrating middleware APIs like Plaid & Stripe. Before that, Connor spent 3 years building software for his family-owned logistics company which was acquired by a private equity firm. Raghav’s family is in fleet operations and owns an HVAC company in San Francisco where they operate a fleet of 13 commercial vehicles.",
     "one_liner": "Plaid for Telematics Data in Commercial Trucking",
-    "team_size": 7,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1686875365,
@@ -5933,6 +5933,48 @@
     "api": "https://yc-oss.github.io/api/batches/w24/lumina-2.json"
   },
   {
+    "id": 29436,
+    "name": "Downlink",
+    "slug": "downlink",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0c8280f2401497830f9750a73fe67fc73e1344b.png",
+    "website": "https://downlink.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Downlink is the turbo button for AI.\r\n\r\nWith a few lines of code, Downlink improves the performance of your cloud LLMs. Our tool continuously trains expert models to handle your prompts faster than gpt-4o.",
+    "one_liner": "Downlink is an API that speeds up LLM workloads by up to 90%",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1708740244,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/downlink",
+    "api": "https://yc-oss.github.io/api/batches/w24/downlink.json"
+  },
+  {
     "id": 29449,
     "name": "Fileforge",
     "slug": "fileforge",
@@ -6336,18 +6378,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64b5db172bf1cde01b3812d4221d26658881fead.png",
     "website": "https://quantstruct.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses a team of AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.",
+    "long_description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses multiple AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.\r\n\r\nTraditional generative AI tools risk hallucinating critical API & SDK fields, even with RAG based approaches. Purely agent-based approaches risk providing unpredictable output that can diverge from desired documentation processes. Finally, no company’s review and publishing workflow is the same. Quantstruct is the easiest way to onboard and customize AI agents to continuously improve your documentation based on your customer needs and product evolution. https://quantstruct.com",
     "one_liner": "Auto-improve & publish technical docs with AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736668232,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6378,17 +6420,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b2774c0442b4c923fff05f20dbced23d34ad02f.png",
     "website": "https://www.zeroentropy.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are on a mission to build the world’s most accurate search engine over complex and unstructured documents, behind a simple API.\r\n\r\nMost AI products - whether Q&A bots or AI agents - depend on retrieval systems to provide relevant context from knowledge bases.\r\n\r\nYet, the vast majority of these systems rely on basic semantic or hybrid search methods, which still frequently fail. \r\n\r\nThese mistakes lead to inaccurate responses and hallucinations by LLMs, frustrating developers and end users alike. \r\n\r\nThat is why we’re building ZeroEntropy: to add intelligence to retrieval and empower developers to create AI products that are more reliable and accurate. ",
+    "long_description": "We are on a mission to build the world’s most accurate search engine over complex and unstructured documents.\r\n\r\nMost AI products - whether Q&A bots or AI agents - depend on retrieval systems to provide relevant context from knowledge bases.\r\n\r\nYet, the vast majority of these systems rely on basic semantic or hybrid search methods, which still frequently fail. \r\n\r\nThese mistakes lead to inaccurate responses and hallucinations by LLMs, frustrating developers and end users alike. \r\n\r\nThat is why we’re building ZeroEntropy: to add intelligence to retrieval and empower developers to create AI products that are more reliable and accurate. ",
     "one_liner": "High accuracy search API over unstructured data.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1734458813,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Search"
+      "Search",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

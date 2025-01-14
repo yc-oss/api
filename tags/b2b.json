@@ -5842,10 +5842,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W19",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Operations"
@@ -9519,7 +9519,7 @@
     "slug": "volopay",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2969762f324adcf3509c5854bebc199ecc587cb.png",
-    "website": "https://www.volopay.co/",
+    "website": "https://www.volopay.com/",
     "all_locations": "Singapore, Singapore; Remote",
     "long_description": "Volopay is a modern spend management platform that saves companies time and money by giving visibility & control to every aspect of business spending. With Volopay, finance and accounting teams can control expense requests and approvals, make bill payments (domestic/cross-border), manage company cards, and reconcile all accounting on one platform.\r\n\r\nVolopay completely eliminates the need for expense reports and reimbursements while giving everyone in the company a card to use. We worked in an offshore dev centre in the past and it took 2 months to get our reimbursements and 4 weeks to make any purchase as there was just one corporate card for the entire company and clunky bill payments solutions offered by the banks. \r\n\r\nAmong our customers are Reddoorz (OYO of South East Asia), Dathena (biggest data security co in Singapore) and Beam (APAC’s leading micro-mobility player). ",
     "one_liner": "Brex for South East Asia - Corporate cards & automated payments.",
@@ -26505,7 +26505,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -34447,24 +34447,24 @@
   },
   {
     "id": 28958,
-    "name": "Quack AI",
-    "slug": "quack-ai",
+    "name": "Sourcepulse",
+    "slug": "sourcepulse",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2c3f2837dc176702758d040e25f93d7f3c70b32.png",
-    "website": "https://www.quackai.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ada46f5d9855ae56a146e944a9293897a7f0c38f.png",
+    "website": "https://www.sourcepulse.io/",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Quack AI tackles the slowdown in project delivery often faced by expanding dev teams. We bring development teams into sync, effortlessly aligning code with project expectations.\r\n\r\nTake the example of the backend team now adopting the syntax of Python 3.11 for asynchronous tasks. Our deep learning model swiftly interprets these updates and embeds them into every developer's keystroke with our VSCode extension, significantly reducing code review iterations and shaping a cohesive & adaptable coding identity.",
-    "one_liner": "Make collaborative software development scale efficiently",
+    "long_description": "Sourcepulse is the internal status page for software delivery, alerting teams before costly delays. We collect anonymous feedback from project members to identify exactly what to fix, just like how Sentry captures system details for production errors.",
+    "one_liner": "Fix your biggest software delays with real developer feedback",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1691807496,
     "tags": [
-      "Developer Tools",
       "Machine Learning",
+      "SaaS",
       "B2B",
-      "Productivity",
-      "Open Source"
+      "Analytics",
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34487,8 +34487,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/quack-ai",
-    "api": "https://yc-oss.github.io/api/batches/s23/quack-ai.json"
+    "url": "https://www.ycombinator.com/companies/sourcepulse",
+    "api": "https://yc-oss.github.io/api/batches/s23/sourcepulse.json"
   },
   {
     "id": 28960,
@@ -38985,6 +38985,52 @@
     "api": "https://yc-oss.github.io/api/batches/s24/deepsim-inc.json"
   },
   {
+    "id": 29676,
+    "name": "Elevate",
+    "slug": "elevate-2",
+    "former_names": [
+      "Elev4te"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de959e87a5bda5b32dabf7dc904953d947ff5842.png",
+    "website": "https://www.useelevate.dev/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "We use AI to streamline data integrations for mergers & acquisitions (M&A), with a focus on private equity (PE)-backed roll-ups. We take messy data (e.g., customer, financial, operational) that sits across disparate systems in different formats and use LLMs to unify, clean, and enrich it. Our approach expedites speed to value capture post-acquisition without distracting management teams or requiring expensive data engineering resources. \r\n\r\nOur experience is at the intersection of finance x tech. With an increasingly competitive M&A marketplace driven by $0.5T+ of dry powder, clean, usable data is a massive competitive advantage throughout the investment cycle – in diligence, to make informed investment decisions; in value creation, to execute the strategic plan quickly and confidently; and in exit, where better data leads to better outcomes.  We’re on a mission to make AI useful for any company with messy data. ",
+    "one_liner": "AI-powered data transformations for roll-ups",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1718146562,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/elevate-2",
+    "api": "https://yc-oss.github.io/api/batches/s24/elevate-2.json"
+  },
+  {
     "id": 29684,
     "name": "Parahelp",
     "slug": "parahelp",
@@ -42947,18 +42993,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64b5db172bf1cde01b3812d4221d26658881fead.png",
     "website": "https://quantstruct.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses a team of AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.",
+    "long_description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses multiple AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.\r\n\r\nTraditional generative AI tools risk hallucinating critical API & SDK fields, even with RAG based approaches. Purely agent-based approaches risk providing unpredictable output that can diverge from desired documentation processes. Finally, no company’s review and publishing workflow is the same. Quantstruct is the easiest way to onboard and customize AI agents to continuously improve your documentation based on your customer needs and product evolution. https://quantstruct.com",
     "one_liner": "Auto-improve & publish technical docs with AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736668232,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43148,5 +43194,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/copycat",
     "api": "https://yc-oss.github.io/api/batches/w25/copycat.json"
+  },
+  {
+    "id": 30356,
+    "name": "Fira",
+    "slug": "fira",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8180359e4edaaddd169f88aafc0eb2338fe0116f.png",
+    "website": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fira is a financial research assistant that helps analysts at investment firms instantly extract and analyse data from unstructured reports of public and private companies. It reads thousands of integrated unstructured financial reports (often 300 pages) to provide source-cited answers, verifiable financial calculations, and Excel-ready tables — tasks that typically take hours.\r\n\r\nWe're initially focusing on boutique investment banks and small private equity firms, covering annual reports of international companies and allowing to upload custom documents. As we develop our product and build clients' trust, we'll eventually integrate directly into clouds.\r\n\r\nUsing accurate extraction and analysis as single unit of work LLMs do, our vision is to scale it with agents to allow deeper and more thoughtful research, report generation and task execution — allowing financial teams to focus on ideas and decisions.",
+    "one_liner": "Financial research assistant for investment firms",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1736800806,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Market Research",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fira",
+    "api": "https://yc-oss.github.io/api/batches/w25/fira.json"
   }
 ]

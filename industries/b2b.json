@@ -8414,7 +8414,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S12",
     "status": "Active",
@@ -29281,7 +29281,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W19",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -30587,10 +30587,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W19",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Operations"
@@ -62203,7 +62203,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The best developer companies (think Stripe, Twilio, MongoDB) have effective and user-centric documentation at their backbone. Mintlify helps any company achieve the documentation they need effortlessly, so that they can focus on building what they do best.",
     "one_liner": "The modern standard for documentation",
-    "team_size": 14,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1641800191,
@@ -79098,7 +79098,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -82229,7 +82229,7 @@
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Terminal is Plaid for telematics data in commercial trucking. Companies building next generation insurance products, financial services and fleet software for trucking use our Universal API to access GPS data, speeding data and vehicle stats.\r\n\r\n\r\nRaghav (CEO) and Connor (CTO) led product and engineering at a series b-funded neobank where they spent 2.5 years integrating middleware APIs like Plaid & Stripe. Before that, Connor spent 3 years building software for his family-owned logistics company which was acquired by a private equity firm. Raghav’s family is in fleet operations and owns an HVAC company in San Francisco where they operate a fleet of 13 commercial vehicles.",
     "one_liner": "Plaid for Telematics Data in Commercial Trucking",
-    "team_size": 7,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1686875365,
@@ -83471,24 +83471,24 @@
   },
   {
     "id": 28958,
-    "name": "Quack AI",
-    "slug": "quack-ai",
+    "name": "Sourcepulse",
+    "slug": "sourcepulse",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2c3f2837dc176702758d040e25f93d7f3c70b32.png",
-    "website": "https://www.quackai.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ada46f5d9855ae56a146e944a9293897a7f0c38f.png",
+    "website": "https://www.sourcepulse.io/",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Quack AI tackles the slowdown in project delivery often faced by expanding dev teams. We bring development teams into sync, effortlessly aligning code with project expectations.\r\n\r\nTake the example of the backend team now adopting the syntax of Python 3.11 for asynchronous tasks. Our deep learning model swiftly interprets these updates and embeds them into every developer's keystroke with our VSCode extension, significantly reducing code review iterations and shaping a cohesive & adaptable coding identity.",
-    "one_liner": "Make collaborative software development scale efficiently",
+    "long_description": "Sourcepulse is the internal status page for software delivery, alerting teams before costly delays. We collect anonymous feedback from project members to identify exactly what to fix, just like how Sentry captures system details for production errors.",
+    "one_liner": "Fix your biggest software delays with real developer feedback",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1691807496,
     "tags": [
-      "Developer Tools",
       "Machine Learning",
+      "SaaS",
       "B2B",
-      "Productivity",
-      "Open Source"
+      "Analytics",
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -83511,8 +83511,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/quack-ai",
-    "api": "https://yc-oss.github.io/api/batches/s23/quack-ai.json"
+    "url": "https://www.ycombinator.com/companies/sourcepulse",
+    "api": "https://yc-oss.github.io/api/batches/s23/sourcepulse.json"
   },
   {
     "id": 28959,
@@ -88522,22 +88522,23 @@
   },
   {
     "id": 29311,
-    "name": "Parasale",
-    "slug": "parasale",
+    "name": "Engines",
+    "slug": "engines",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cf2b39b58435727998dac5282c0aad5bd95915b.png",
-    "website": "https://parasale.io",
+    "website": "https://engines.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Parasale is an AI recruiter. It can find, engage and schedule candidates for you. We're empowering founders and recruiters to automate their candidate outbound to reach quality candidates faster. We’re building Parasale based on our deep experience in recruiting as early engineers at Gem (S17), a recruiting tech unicorn.",
-    "one_liner": "AI Recruiter: Find and Engage Candidates on Autopilot",
+    "long_description": "Engines is the best platform for AI software engineering agents. AI SWEs will become a fundamental part of every engineering organization. We are building the foundational building blocks to make that a reality.",
+    "one_liner": "Tools, context and sandboxes for AI SWEs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709590695,
     "tags": [
       "Artificial Intelligence",
-      "Recruiting",
-      "HR Tech"
+      "Developer Tools",
+      "DevOps",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -88558,8 +88559,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parasale",
-    "api": "https://yc-oss.github.io/api/batches/w24/parasale.json"
+    "url": "https://www.ycombinator.com/companies/engines",
+    "api": "https://yc-oss.github.io/api/batches/w24/engines.json"
   },
   {
     "id": 29312,
@@ -91785,23 +91786,23 @@
   },
   {
     "id": 29436,
-    "name": "Titan",
-    "slug": "titan-2",
+    "name": "Downlink",
+    "slug": "downlink",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41277ebff741f6a983cbe3c4f4dd5a45ed0a5c5a.png",
-    "website": "https://applytitan.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0c8280f2401497830f9750a73fe67fc73e1344b.png",
+    "website": "https://downlink.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Titan is an open-source toolkit for data compliance. Data engineering teams trust Titan to simplify access management, ensure compliance, and minimize risk.",
-    "one_liner": "Open-source toolkit for data compliance",
+    "long_description": "Downlink is the turbo button for AI.\r\n\r\nWith a few lines of code, Downlink improves the performance of your cloud LLMs. Our tool continuously trains expert models to handle your prompts faster than gpt-4o.",
+    "one_liner": "Downlink is an API that speeds up LLM workloads by up to 90%",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1708740244,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "Cybersecurity",
-      "Data Engineering"
+      "SaaS",
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -91822,8 +91823,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/titan-2",
-    "api": "https://yc-oss.github.io/api/batches/w24/titan-2.json"
+    "url": "https://www.ycombinator.com/companies/downlink",
+    "api": "https://yc-oss.github.io/api/batches/w24/downlink.json"
   },
   {
     "id": 29438,
@@ -95124,6 +95125,52 @@
     "api": "https://yc-oss.github.io/api/batches/s24/offstream.json"
   },
   {
+    "id": 29676,
+    "name": "Elevate",
+    "slug": "elevate-2",
+    "former_names": [
+      "Elev4te"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de959e87a5bda5b32dabf7dc904953d947ff5842.png",
+    "website": "https://www.useelevate.dev/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "We use AI to streamline data integrations for mergers & acquisitions (M&A), with a focus on private equity (PE)-backed roll-ups. We take messy data (e.g., customer, financial, operational) that sits across disparate systems in different formats and use LLMs to unify, clean, and enrich it. Our approach expedites speed to value capture post-acquisition without distracting management teams or requiring expensive data engineering resources. \r\n\r\nOur experience is at the intersection of finance x tech. With an increasingly competitive M&A marketplace driven by $0.5T+ of dry powder, clean, usable data is a massive competitive advantage throughout the investment cycle – in diligence, to make informed investment decisions; in value creation, to execute the strategic plan quickly and confidently; and in exit, where better data leads to better outcomes.  We’re on a mission to make AI useful for any company with messy data. ",
+    "one_liner": "AI-powered data transformations for roll-ups",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1718146562,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/elevate-2",
+    "api": "https://yc-oss.github.io/api/batches/s24/elevate-2.json"
+  },
+  {
     "id": 29678,
     "name": "Lucible",
     "slug": "lucible",
@@ -97830,7 +97877,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -101920,7 +101967,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "F24",
     "status": "Active",
@@ -102185,8 +102232,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b36be9d458851b00e9309610a54bf963da83472.png",
     "website": "https://www.thefoundryai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Foundry is the Retool for AI agents, empowering companies to build and manage agents that automate entire workflows—like customer support, recruiting, and sales—in minutes, no AI expertise required.\r\n\r\nWith Foundry, teams can quickly create agents that actually work, track performance, and scale their impact across the business.\r\n\r\nPranav and I built AI systems at Scale AI for companies like OpenAI. Now, we’re bringing that experience to teams everywhere to make AI agents accessible and practical for every business.",
-    "one_liner": "Retool for AI Agents",
+    "long_description": "Foundry is the world model for your AI agent, empowering companies to build and productionize agents that automate entire workflows—like customer support, recruiting, and sales—and productionize them in minutes/hours, not weeks/months. \r\n\r\nWith Foundry, teams can quickly create agents that actually work, track performance, and scale their impact across the business.\r\n\r\nPranav and I built AI systems at Scale AI for companies like OpenAI. Now, we’re bringing that experience to teams everywhere to make AI agents accessible and practical for every business.",
+    "one_liner": "World Model for your AI Agent",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -102604,18 +102651,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64b5db172bf1cde01b3812d4221d26658881fead.png",
     "website": "https://quantstruct.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses a team of AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.",
+    "long_description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses multiple AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.\r\n\r\nTraditional generative AI tools risk hallucinating critical API & SDK fields, even with RAG based approaches. Purely agent-based approaches risk providing unpredictable output that can diverge from desired documentation processes. Finally, no company’s review and publishing workflow is the same. Quantstruct is the easiest way to onboard and customize AI agents to continuously improve your documentation based on your customer needs and product evolution. https://quantstruct.com",
     "one_liner": "Auto-improve & publish technical docs with AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736668232,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -102637,6 +102684,89 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/quantstruct",
     "api": "https://yc-oss.github.io/api/batches/w25/quantstruct.json"
+  },
+  {
+    "id": 30181,
+    "name": "Leaping AI",
+    "slug": "leaping-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cf89546e97aa00342fd94e13a639b43add977d5.png",
+    "website": "https://leapingai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "With our platform, you can create and deploy voice AI agents, automating complex use cases and high call volume.\r\n\r\nWe automated contact centers employing >100 human agents and now handle 70% of their incoming customer support and sales calls end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nFor another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.",
+    "one_liner": "Voice AI agents that are human-like and self-improve",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1736780951,
+    "tags": [
+      "Generative AI",
+      "Customer Service",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/leaping-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/leaping-ai.json"
+  },
+  {
+    "id": 30189,
+    "name": "SubImage",
+    "slug": "subimage",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b42d30fcf2efbb0bfe113b07b366491f53e57d04.png",
+    "website": "https://subimage.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "SubImage builds maps of your cloud environment to give you visibility on what assets you have and how they relate to each other. This enables any security team to deeply understand their environments and reduce risk.\r\n\r\nSubImage is a managed offering built around the Cartography open-source project, and is founded by members of Cartography's original team.",
+    "one_liner": "Clear maps for complex cloud environments",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1736799545,
+    "tags": [
+      "Artificial Intelligence",
+      "Security",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/subimage",
+    "api": "https://yc-oss.github.io/api/batches/w25/subimage.json"
   },
   {
     "id": 30204,
@@ -102854,17 +102984,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b2774c0442b4c923fff05f20dbced23d34ad02f.png",
     "website": "https://www.zeroentropy.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are on a mission to build the world’s most accurate search engine over complex and unstructured documents, behind a simple API.\r\n\r\nMost AI products - whether Q&A bots or AI agents - depend on retrieval systems to provide relevant context from knowledge bases.\r\n\r\nYet, the vast majority of these systems rely on basic semantic or hybrid search methods, which still frequently fail. \r\n\r\nThese mistakes lead to inaccurate responses and hallucinations by LLMs, frustrating developers and end users alike. \r\n\r\nThat is why we’re building ZeroEntropy: to add intelligence to retrieval and empower developers to create AI products that are more reliable and accurate. ",
+    "long_description": "We are on a mission to build the world’s most accurate search engine over complex and unstructured documents.\r\n\r\nMost AI products - whether Q&A bots or AI agents - depend on retrieval systems to provide relevant context from knowledge bases.\r\n\r\nYet, the vast majority of these systems rely on basic semantic or hybrid search methods, which still frequently fail. \r\n\r\nThese mistakes lead to inaccurate responses and hallucinations by LLMs, frustrating developers and end users alike. \r\n\r\nThat is why we’re building ZeroEntropy: to add intelligence to retrieval and empower developers to create AI products that are more reliable and accurate. ",
     "one_liner": "High accuracy search API over unstructured data.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1734458813,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Search"
+      "Search",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -103011,6 +103141,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/solidroad.json"
   },
   {
+    "id": 30283,
+    "name": "Confident AI",
+    "slug": "confident-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e739bf439400b44a89bc15e023cbe6bca3f9e00.png",
+    "website": "https://confident-ai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (4.3k stars, >400k monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
+    "one_liner": "The Leading LLM Evaluation Platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1736794966,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/confident-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/confident-ai.json"
+  },
+  {
     "id": 30291,
     "name": "Outlit",
     "slug": "outlit",
@@ -103134,5 +103306,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/browser-use",
     "api": "https://yc-oss.github.io/api/batches/w25/browser-use.json"
+  },
+  {
+    "id": 30356,
+    "name": "Fira",
+    "slug": "fira",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8180359e4edaaddd169f88aafc0eb2338fe0116f.png",
+    "website": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fira is a financial research assistant that helps analysts at investment firms instantly extract and analyse data from unstructured reports of public and private companies. It reads thousands of integrated unstructured financial reports (often 300 pages) to provide source-cited answers, verifiable financial calculations, and Excel-ready tables — tasks that typically take hours.\r\n\r\nWe're initially focusing on boutique investment banks and small private equity firms, covering annual reports of international companies and allowing to upload custom documents. As we develop our product and build clients' trust, we'll eventually integrate directly into clouds.\r\n\r\nUsing accurate extraction and analysis as single unit of work LLMs do, our vision is to scale it with agents to allow deeper and more thoughtful research, report generation and task execution — allowing financial teams to focus on ideas and decisions.",
+    "one_liner": "Financial research assistant for investment firms",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1736800806,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Market Research",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fira",
+    "api": "https://yc-oss.github.io/api/batches/w25/fira.json"
   }
 ]

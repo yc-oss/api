@@ -5964,7 +5964,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -10904,6 +10904,48 @@
     "api": "https://yc-oss.github.io/api/batches/f24/melder.json"
   },
   {
+    "id": 30181,
+    "name": "Leaping AI",
+    "slug": "leaping-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cf89546e97aa00342fd94e13a639b43add977d5.png",
+    "website": "https://leapingai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "With our platform, you can create and deploy voice AI agents, automating complex use cases and high call volume.\r\n\r\nWe automated contact centers employing >100 human agents and now handle 70% of their incoming customer support and sales calls end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nFor another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.",
+    "one_liner": "Voice AI agents that are human-like and self-improve",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1736780951,
+    "tags": [
+      "Generative AI",
+      "Customer Service",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/leaping-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/leaping-ai.json"
+  },
+  {
     "id": 30207,
     "name": "Promptless",
     "slug": "promptless",
@@ -10987,5 +11029,90 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/asteroid",
     "api": "https://yc-oss.github.io/api/batches/w25/asteroid.json"
+  },
+  {
+    "id": 30283,
+    "name": "Confident AI",
+    "slug": "confident-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e739bf439400b44a89bc15e023cbe6bca3f9e00.png",
+    "website": "https://confident-ai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (4.3k stars, >400k monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
+    "one_liner": "The Leading LLM Evaluation Platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1736794966,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/confident-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/confident-ai.json"
+  },
+  {
+    "id": 30356,
+    "name": "Fira",
+    "slug": "fira",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8180359e4edaaddd169f88aafc0eb2338fe0116f.png",
+    "website": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fira is a financial research assistant that helps analysts at investment firms instantly extract and analyse data from unstructured reports of public and private companies. It reads thousands of integrated unstructured financial reports (often 300 pages) to provide source-cited answers, verifiable financial calculations, and Excel-ready tables — tasks that typically take hours.\r\n\r\nWe're initially focusing on boutique investment banks and small private equity firms, covering annual reports of international companies and allowing to upload custom documents. As we develop our product and build clients' trust, we'll eventually integrate directly into clouds.\r\n\r\nUsing accurate extraction and analysis as single unit of work LLMs do, our vision is to scale it with agents to allow deeper and more thoughtful research, report generation and task execution — allowing financial teams to focus on ideas and decisions.",
+    "one_liner": "Financial research assistant for investment firms",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1736800806,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Market Research",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fira",
+    "api": "https://yc-oss.github.io/api/batches/w25/fira.json"
   }
 ]

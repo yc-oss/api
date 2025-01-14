@@ -12529,7 +12529,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -19666,22 +19666,23 @@
   },
   {
     "id": 29311,
-    "name": "Parasale",
-    "slug": "parasale",
+    "name": "Engines",
+    "slug": "engines",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cf2b39b58435727998dac5282c0aad5bd95915b.png",
-    "website": "https://parasale.io",
+    "website": "https://engines.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Parasale is an AI recruiter. It can find, engage and schedule candidates for you. We're empowering founders and recruiters to automate their candidate outbound to reach quality candidates faster. We’re building Parasale based on our deep experience in recruiting as early engineers at Gem (S17), a recruiting tech unicorn.",
-    "one_liner": "AI Recruiter: Find and Engage Candidates on Autopilot",
+    "long_description": "Engines is the best platform for AI software engineering agents. AI SWEs will become a fundamental part of every engineering organization. We are building the foundational building blocks to make that a reality.",
+    "one_liner": "Tools, context and sandboxes for AI SWEs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709590695,
     "tags": [
       "Artificial Intelligence",
-      "Recruiting",
-      "HR Tech"
+      "Developer Tools",
+      "DevOps",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19702,8 +19703,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parasale",
-    "api": "https://yc-oss.github.io/api/batches/w24/parasale.json"
+    "url": "https://www.ycombinator.com/companies/engines",
+    "api": "https://yc-oss.github.io/api/batches/w24/engines.json"
   },
   {
     "id": 29315,
@@ -21439,6 +21440,48 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/shepherd-2",
     "api": "https://yc-oss.github.io/api/batches/w24/shepherd-2.json"
+  },
+  {
+    "id": 29436,
+    "name": "Downlink",
+    "slug": "downlink",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0c8280f2401497830f9750a73fe67fc73e1344b.png",
+    "website": "https://downlink.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Downlink is the turbo button for AI.\r\n\r\nWith a few lines of code, Downlink improves the performance of your cloud LLMs. Our tool continuously trains expert models to handle your prompts faster than gpt-4o.",
+    "one_liner": "Downlink is an API that speeds up LLM workloads by up to 90%",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1708740244,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/downlink",
+    "api": "https://yc-oss.github.io/api/batches/w24/downlink.json"
   },
   {
     "id": 29442,
@@ -23675,6 +23718,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/storia-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/storia-ai.json"
+  },
+  {
+    "id": 29676,
+    "name": "Elevate",
+    "slug": "elevate-2",
+    "former_names": [
+      "Elev4te"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de959e87a5bda5b32dabf7dc904953d947ff5842.png",
+    "website": "https://www.useelevate.dev/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "We use AI to streamline data integrations for mergers & acquisitions (M&A), with a focus on private equity (PE)-backed roll-ups. We take messy data (e.g., customer, financial, operational) that sits across disparate systems in different formats and use LLMs to unify, clean, and enrich it. Our approach expedites speed to value capture post-acquisition without distracting management teams or requiring expensive data engineering resources. \r\n\r\nOur experience is at the intersection of finance x tech. With an increasingly competitive M&A marketplace driven by $0.5T+ of dry powder, clean, usable data is a massive competitive advantage throughout the investment cycle – in diligence, to make informed investment decisions; in value creation, to execute the strategic plan quickly and confidently; and in exit, where better data leads to better outcomes.  We’re on a mission to make AI useful for any company with messy data. ",
+    "one_liner": "AI-powered data transformations for roll-ups",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1718146562,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/elevate-2",
+    "api": "https://yc-oss.github.io/api/batches/s24/elevate-2.json"
   },
   {
     "id": 29682,
@@ -27317,66 +27406,23 @@
     "api": "https://yc-oss.github.io/api/batches/f24/fabricate.json"
   },
   {
-    "id": 30160,
-    "name": "Quantstruct",
-    "slug": "quantstruct",
+    "id": 30189,
+    "name": "SubImage",
+    "slug": "subimage",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64b5db172bf1cde01b3812d4221d26658881fead.png",
-    "website": "https://quantstruct.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b42d30fcf2efbb0bfe113b07b366491f53e57d04.png",
+    "website": "https://subimage.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses a team of AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.",
-    "one_liner": "Auto-improve & publish technical docs with AI",
+    "long_description": "SubImage builds maps of your cloud environment to give you visibility on what assets you have and how they relate to each other. This enables any security team to deeply understand their environments and reduce risk.\r\n\r\nSubImage is a managed offering built around the Cartography open-source project, and is founded by members of Cartography's original team.",
+    "one_liner": "Clear maps for complex cloud environments",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1736668232,
+    "subindustry": "B2B -> Security",
+    "launched_at": 1736799545,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "API",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/quantstruct",
-    "api": "https://yc-oss.github.io/api/batches/w25/quantstruct.json"
-  },
-  {
-    "id": 30241,
-    "name": "ZeroEntropy",
-    "slug": "zeroentropy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b2774c0442b4c923fff05f20dbced23d34ad02f.png",
-    "website": "https://www.zeroentropy.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are on a mission to build the world’s most accurate search engine over complex and unstructured documents, behind a simple API.\r\n\r\nMost AI products - whether Q&A bots or AI agents - depend on retrieval systems to provide relevant context from knowledge bases.\r\n\r\nYet, the vast majority of these systems rely on basic semantic or hybrid search methods, which still frequently fail. \r\n\r\nThese mistakes lead to inaccurate responses and hallucinations by LLMs, frustrating developers and end users alike. \r\n\r\nThat is why we’re building ZeroEntropy: to add intelligence to retrieval and empower developers to create AI products that are more reliable and accurate. ",
-    "one_liner": "High accuracy search API over unstructured data.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1734458813,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "API",
-      "Search"
+      "Security",
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27386,19 +27432,19 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Security"
     ],
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zeroentropy",
-    "api": "https://yc-oss.github.io/api/batches/w25/zeroentropy.json"
+    "url": "https://www.ycombinator.com/companies/subimage",
+    "api": "https://yc-oss.github.io/api/batches/w25/subimage.json"
   },
   {
     "id": 30275,
@@ -27438,6 +27484,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/solidroad",
     "api": "https://yc-oss.github.io/api/batches/w25/solidroad.json"
+  },
+  {
+    "id": 30283,
+    "name": "Confident AI",
+    "slug": "confident-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e739bf439400b44a89bc15e023cbe6bca3f9e00.png",
+    "website": "https://confident-ai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (4.3k stars, >400k monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
+    "one_liner": "The Leading LLM Evaluation Platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1736794966,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/confident-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/confident-ai.json"
   },
   {
     "id": 30288,
