@@ -5565,7 +5565,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W19",
     "status": "Active",
@@ -13110,10 +13110,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -16800,7 +16800,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb8d37a891f8bcff52ba067cc273aab648732435.png",
     "website": "https://gigaml.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Giga ML is an applied AI lab focused on building end-to-end customer care agents, co-founded by Varun Vummadi and Esha Manideep. Varun left the Stanford PhD program in AI (2023) and Esha was ranked third at IIT KGP in 2023 to work on Giga ML. We raised $3.7 million in seed funding, led by Nexus, and are part of Y Combinator's S23 Batch. Garry Tan, CEO of YC, personally invested in us.\r\n",
+    "long_description": "Giga ML is an applied AI lab focused on building end-to-end customer care agents.\r\n",
     "one_liner": "AI customer service agent for B2C  Companies",
     "team_size": 2,
     "industry": "B2B",
@@ -19015,7 +19015,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -21594,5 +21594,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/confident-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/confident-ai.json"
+  },
+  {
+    "id": 30353,
+    "name": "Axal",
+    "slug": "axal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82e9354c307a1bd5e3bca2ede62b3b0bdfbdba15.png",
+    "website": "https://www.axal.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Axal decreases the risk of modernization by automating the identification of architectural technical debt in monolithic codebases and prioritizing refactoring opportunities based on business goals.\r\n\r\nWe provide observability into your codebase, finding anti-patterns that stop your team from reaching their goals. By identifying domains (logical areas of functionality) within the monolith, Axal quantifies areas of technical debt into KPIs, helping executives pinpoint where modernization efforts will be most effective so your team can focus on the important work first.\r\n",
+    "one_liner": "Untangle Your Legacy Monolith",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1736891737,
+    "tags": [
+      "Developer Tools",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/axal",
+    "api": "https://yc-oss.github.io/api/batches/w25/axal.json"
   }
 ]

@@ -9935,7 +9935,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S20",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Fintech",
       "Consumer Finance"
@@ -10589,7 +10589,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
-    "status": "Inactive",
+    "status": "Active",
     "industries": [
       "Fintech",
       "Insurance"
@@ -15998,7 +15998,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Fintech",
       "Banking and Exchange"
@@ -19772,12 +19772,12 @@
     "name": "Bitstack",
     "slug": "bitstack",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3f7ad78885731dcd12795dbf1a19309aca01fb5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6506d6d40e0fefed9444b740b5be015ee0d8f5a3.png",
     "website": "https://www.bitstack-app.com",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Bitstack's mission is to empower people to participate in a more open financial system.\r\n\r\nBitstack has gone from a simple product that invests your spare change in bitcoin to a bitcoin-native neobank that is bringing a better way to buy, sell, send, and receive bitcoin.\r\n\r\nBitstack is powered by Bitcoin - the first open, global, and permissionless monetary network that allows users to send and receive money anywhere, instantly, with almost no fees, and with no central issuer that can debase its currency.",
-    "one_liner": "The easiest way to buy, sell, send, and receive bitcoin in Europe",
-    "team_size": 14,
+    "long_description": "Bitstack is building a new neobank powered by crypto. Bitstack has gone from a simple product that turns your spare change into bitcoin to a bitcoin-native neobank that is bringing a better way to manage all things money, with better money. We believe getting started with Bitcoin should be simple, fun and accessible to everyone.\r\n\r\nBitcoin is an unparalleled financial alternative: a radically new way to transact and store value all around the world. It is a new kind of currency that isn't centrally controlled by any business, government or bank and that cannot be debased. Bitcoin will redefine the future of finance, from payments to savings, and wealth preservation. It is the first open and borderless monetary network with a fixed supply of 21 million, making bitcoin the most scarce financial asset ever.",
+    "one_liner": "All things money, with better money",
+    "team_size": 20,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1657049685,
@@ -23855,14 +23855,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Corgi is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We’re taking it all.",
     "one_liner": "Corgi is building an AI insurance company",
-    "team_size": 8,
+    "team_size": 13,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1720644316,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24552,6 +24552,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sunset",
     "api": "https://yc-oss.github.io/api/batches/f24/sunset.json"
+  },
+  {
+    "id": 30200,
+    "name": "Karoo",
+    "slug": "karoo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0325dd0445e6e32c47cab4c3ffeb0610307557e0.png",
+    "website": "https://www.karoo.ca",
+    "all_locations": "Toronto, ON, Canada",
+    "long_description": "Canadians have not benefitted from fintech innovations in the last 10 years. They are stuck with a banking oligopoly and limited access to tech-first financial offerings (a lot of products still require you going to a branch in person!). We're fixing this.",
+    "one_liner": "Canadian neobank focused on lending",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1736890224,
+    "tags": [
+      "Fintech",
+      "Consumer",
+      "Neobank"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/karoo",
+    "api": "https://yc-oss.github.io/api/batches/w25/karoo.json"
   },
   {
     "id": 30253,
