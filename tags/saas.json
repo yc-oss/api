@@ -30817,7 +30817,9 @@
     "name": "Convore",
     "slug": "convore-2",
     "former_names": [
-      "Quick Power, inc"
+      "Quick Power",
+      "inc",
+      "Forest"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ec4a3b44762173293c2b29c9abdeaa81463d965.png",
     "website": "https://www.convore.dev",
@@ -30826,7 +30828,7 @@
     "one_liner": "Universal conversation API for developers",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1645836609,
     "tags": [
       "Artificial Intelligence",
@@ -30840,7 +30842,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -33918,7 +33920,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -41340,11 +41342,11 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1687811406,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Sales"
+      "Sales",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41508,16 +41510,16 @@
     "website": "https://www.getstrada.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Strada's AI voice agents handle calls 24/7 for insurance brokers, agencies, and MGAs.",
-    "one_liner": "AI agents for workflow automation",
+    "one_liner": "Phone AI agents for insurance",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1690570692,
     "tags": [
       "Artificial Intelligence",
-      "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42337,9 +42339,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb011897f099f9342d33ca8a6bad3b4388ee0a54.png",
     "website": "https://usetusk.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tusk is an AI-powered tool that helps developers generate unit and integration tests with codebase context. Tusk runs on your PRs as a non-blocking check and suggests happy path and edge case tests that are not covered by existing tests. Engineering teams use Tusk to merge PRs 2x faster with increased feature coverage.",
-    "one_liner": "Generate unit and integration tests with AI",
-    "team_size": 3,
+    "long_description": "Tusk is an AI agent that helps developers generate unit and integration tests with codebase context. Tusk runs on your PRs as a non-blocking check and suggests happy path and edge case tests that are not covered by existing tests. Engineering teams use Tusk to merge PRs 25% faster with increased feature coverage.",
+    "one_liner": "AI agent that generates unit and integration tests",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1700257117,
@@ -47040,6 +47042,47 @@
     "api": "https://yc-oss.github.io/api/batches/w25/edexia.json"
   },
   {
+    "id": 30197,
+    "name": "Alice.tech",
+    "slug": "alice-tech",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d58e9c6646fcf2c8783dc4e02f6ae0189039d29d.png",
+    "website": "https://www.alice.tech/",
+    "all_locations": "Copenhagen, Denmark",
+    "long_description": "Alice.tech makes learning and exam prep simple by turning course materials into personalized notes, exercises and exam simulations. As students interact with Alice.tech, we spot their study gaps for targeted learning.\r\n\r\nOver 1,000 students have already paid us to prepare for their exams and we are growing MRR +30% MoM for B2C alone, while gaining first traction in B2B on top. ",
+    "one_liner": "Alice.tech turns course materials into personalized exam prep using AI",
+    "team_size": 6,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1736959747,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Education",
+      "Generative AI",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "Denmark",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/alice-tech",
+    "api": "https://yc-oss.github.io/api/batches/w25/alice-tech.json"
+  },
+  {
     "id": 30207,
     "name": "Promptless",
     "slug": "promptless",
@@ -47122,6 +47165,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cuckoo-labs",
     "api": "https://yc-oss.github.io/api/batches/w25/cuckoo-labs.json"
+  },
+  {
+    "id": 30272,
+    "name": "Lucidic AI",
+    "slug": "lucidic-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/070d8df8755a600f5ecf800f273f60a2cfa54bb0.png",
+    "website": "https://lucidic.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "As AI models grow in complexity, ensuring safety, trust, and reliability becomes critical. Lucidic AI provides advanced tools, such as human-interpretable semantic features, to explain and interpret complex AI models by identifying why specific decisions or outputs occur. Our platform enhances model transparency, helps detect failure modes, and ensures AI systems behave as intended, reducing risks in critical applications.",
+    "one_liner": "Explaining Your AI Model's Decisions",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1736904770,
+    "tags": [
+      "Deep Learning",
+      "Machine Learning",
+      "SaaS",
+      "Computer Vision",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lucidic-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/lucidic-ai.json"
   },
   {
     "id": 30275,

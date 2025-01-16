@@ -12059,7 +12059,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b175061a073988c7d7a903c9e5517ba9daf8a8b3.png",
     "website": "https://sendo.dev",
-    "all_locations": "New York, NY, USA; San Francisco, CA, USA; Remote",
+    "all_locations": "New York, NY, USA; Remote",
     "long_description": "We're making it easy, cheap and fun for startups to build on SMS again. Sendo is the most developer-friendly SMS API, with great documentation, a fast dashboard, helpful monitoring features, easier 10DLC compliance and much more.\r\n\r\nSave 40%+ compared to Twilio and other options, and get started sending messages in 1-2 days instead of waiting weeks for your 10DLC campaigns to get approved.",
     "one_liner": "The best SMS/RCS API for startups",
     "team_size": 1,
@@ -13346,7 +13346,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -16382,19 +16382,19 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6146717f3a538ddcc342da7a54a025ac6b894c0d.png",
     "website": "https://useinari.com",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Inari surfaces customer insights and revenue generating product opportunities from your customer data auto-magically using AI.\r\n\r\nInstead of sifting through 100’s of user interviews or 1000’s of pieces of customer feedback manually, Inari automates the process of highlighting interesting quotes, identifying trends, uncovering impactful feature requests, and tying helpful prioritization metrics with features so your team can spend less time analyzing and more time building products that customers love.",
-    "one_liner": "AI-powered product discovery, feedback analytics, and backlog",
+    "one_liner": "Your junior AI product manager",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1691035994,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Analytics",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16639,16 +16639,16 @@
     "website": "https://www.getstrada.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Strada's AI voice agents handle calls 24/7 for insurance brokers, agencies, and MGAs.",
-    "one_liner": "AI agents for workflow automation",
+    "one_liner": "Phone AI agents for insurance",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1690570692,
     "tags": [
       "Artificial Intelligence",
-      "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17607,9 +17607,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb011897f099f9342d33ca8a6bad3b4388ee0a54.png",
     "website": "https://usetusk.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tusk is an AI-powered tool that helps developers generate unit and integration tests with codebase context. Tusk runs on your PRs as a non-blocking check and suggests happy path and edge case tests that are not covered by existing tests. Engineering teams use Tusk to merge PRs 2x faster with increased feature coverage.",
-    "one_liner": "Generate unit and integration tests with AI",
-    "team_size": 3,
+    "long_description": "Tusk is an AI agent that helps developers generate unit and integration tests with codebase context. Tusk runs on your PRs as a non-blocking check and suggests happy path and edge case tests that are not covered by existing tests. Engineering teams use Tusk to merge PRs 25% faster with increased feature coverage.",
+    "one_liner": "AI agent that generates unit and integration tests",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1700257117,
@@ -18756,19 +18756,25 @@
   },
   {
     "id": 29498,
-    "name": "Taiki",
-    "slug": "taiki",
+    "name": "Integuru",
+    "slug": "integuru",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28333543424f2e5753fd39fd195e354af322187.png",
-    "website": "https://www.taiki.ai",
-    "all_locations": "",
-    "long_description": "Taiki is Plaid for tax documents, a universal API that auto-extracts tax forms from payroll and financial providers. We help companies like Keeper Tax get rid of their manual document upload process.",
-    "one_liner": "Universal API for tax data",
+    "website": "https://www.integuru.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Integuru builds low-latency integrations with platforms lacking official APIs. We developed the first AI agent that automates the creation of permissionless integrations. Our services include authentication management, building integrations, and hosting.",
+    "one_liner": "Integrations without official APIs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1709153976,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Open Source",
+      "API",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -18780,15 +18786,16 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/taiki",
-    "api": "https://yc-oss.github.io/api/batches/w24/taiki.json"
+    "url": "https://www.ycombinator.com/companies/integuru",
+    "api": "https://yc-oss.github.io/api/batches/w24/integuru.json"
   },
   {
     "id": 29501,

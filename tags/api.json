@@ -3574,7 +3574,9 @@
     "name": "Convore",
     "slug": "convore-2",
     "former_names": [
-      "Quick Power, inc"
+      "Quick Power",
+      "inc",
+      "Forest"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ec4a3b44762173293c2b29c9abdeaa81463d965.png",
     "website": "https://www.convore.dev",
@@ -3583,7 +3585,7 @@
     "one_liner": "Universal conversation API for developers",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1645836609,
     "tags": [
       "Artificial Intelligence",
@@ -3597,7 +3599,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -3623,7 +3625,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b175061a073988c7d7a903c9e5517ba9daf8a8b3.png",
     "website": "https://sendo.dev",
-    "all_locations": "New York, NY, USA; San Francisco, CA, USA; Remote",
+    "all_locations": "New York, NY, USA; Remote",
     "long_description": "We're making it easy, cheap and fun for startups to build on SMS again. Sendo is the most developer-friendly SMS API, with great documentation, a fast dashboard, helpful monitoring features, easier 10DLC compliance and much more.\r\n\r\nSave 40%+ compared to Twilio and other options, and get started sending messages in 1-2 days instead of waiting weeks for your 10DLC campaigns to get approved.",
     "one_liner": "The best SMS/RCS API for startups",
     "team_size": 1,
@@ -4211,7 +4213,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Metriport helps healthcare organizations access and manage comprehensive patient medical data.\r\n\r\nThrough a single integration, Metriport ensures clinical accuracy and completeness of medical information to providers, delivering comprehensive consolidated patient clinical data at the point-of-care. By standardizing, de-duplicating, consolidating, and hydrating the data with medical code crosswalking, providers get a rich understanding of their patients' medical histories through Metriport.\r\n\r\nMetriport is the only open-source solution of its kind that offers all these integrations in a single platform, and standardizes complex data formats into industry standards such as FHIR and C-CDA.\r\n\r\nAs a developer-first, HIPAA and SOC 2 Type II compliant interoperability solution, Metriport is powering the next wave of innovators in healthcare, creating an internet for healthcare data.",
     "one_liner": "Open-Source Universal API for Healthcare Data",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1654554081,
@@ -6067,6 +6069,49 @@
     "api": "https://yc-oss.github.io/api/batches/w24/goldenbasis.json"
   },
   {
+    "id": 29498,
+    "name": "Integuru",
+    "slug": "integuru",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28333543424f2e5753fd39fd195e354af322187.png",
+    "website": "https://www.integuru.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Integuru builds low-latency integrations with platforms lacking official APIs. We developed the first AI agent that automates the creation of permissionless integrations. Our services include authentication management, building integrations, and hosting.",
+    "one_liner": "Integrations without official APIs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1709153976,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Open Source",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/integuru",
+    "api": "https://yc-oss.github.io/api/batches/w24/integuru.json"
+  },
+  {
     "id": 29596,
     "name": "Comfy Deploy",
     "slug": "comfy-deploy",
@@ -6285,47 +6330,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rowboat-labs",
     "api": "https://yc-oss.github.io/api/batches/s24/rowboat-labs.json"
-  },
-  {
-    "id": 30096,
-    "name": "Scrapybara",
-    "slug": "scrapybara",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9ad486292e2ee10cb4cccf0d676cfb2e2ac571f.png",
-    "website": "https://scrapybara.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Scrapybara provides virtual computer environments for AI agents. We deploy, scale, and maintain remote desktop instances that agents like Claude Computer Use can interact with via an API.",
-    "one_liner": "Virtual Desktops for AI Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1730261485,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "API",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/scrapybara",
-    "api": "https://yc-oss.github.io/api/batches/f24/scrapybara.json"
   },
   {
     "id": 30107,
