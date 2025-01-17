@@ -3214,7 +3214,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W12",
     "status": "Active",
@@ -8012,7 +8012,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W20",
     "status": "Active",
@@ -16339,7 +16339,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -20536,10 +20536,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b037e35a133963bb97d49605d21978ac44ac4f83.png",
     "website": "https://atlas.so",
-    "all_locations": "San Francisco, CA, USA; Dublin, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Atlas is a modern, all-in-one customer support platform that is built with AI first. We help you solve your customers problems faster by understanding them more completely with a suite of customer tools like session recording, bug tracking, and event feeds. You can think of us as the next generation Zendesk / Intercom combined with Log Rocket and Linear.\r\n\r\nLearn More: https://atlas.so/\r\n\r\nProducts:\r\n- Chat Widget\r\n- Ticketing\r\n- Omni channel Support (chat, email, WhatsApp, Slack Connect, and SMS)\r\n- Customer Timeline\r\n- Session Recording\r\n- Help Center\r\n- AI Chatbot\r\n- Customer Insights \r\n",
     "one_liner": "Modern customer support platform replacement for Intercom and Zendesk",
-    "team_size": 11,
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1645918305,
@@ -26851,17 +26851,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b13f527f06758f86586073aa13a82654d971cca.png",
     "website": "https://unthread.io",
     "all_locations": "New York, NY, USA",
-    "long_description": "Unthread is a Slack-native support platform. We help companies to automate the creation and resolution of tickets right from a Slack channel. \r\n\r\nWe work with IT, HR, and CX teams at some of the world's largest companies to instantly resolve tickets instantly using AI.",
-    "one_liner": "Automatically Resolve Support Tickets in Slack",
+    "long_description": "Unthread is an AI-powered helpdesk built natively into Slack. We help companies to automate the creation and resolution of tickets right from a Slack channel.\r\n\r\nWe work with IT, HR, and CX teams at some of the world's largest companies to resolve tickets instantly using AI.",
+    "one_liner": "Agentic service management in Slack",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1656512918,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32101,10 +32101,10 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df3d86b035914304a42a234eb7e38ebfaeb324d3.png",
     "website": "https://rivet.gg",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Build stateful, realtime applications using Rivet Actors. Open-Source & Self-Hostable",
-    "one_liner": "Open-source serverless platform for realtime applications",
-    "team_size": 7,
-    "industry": "Consumer",
+    "long_description": "Rivet is the platform to build realtime, edge, or agent applications. Open-source & self-hostable.",
+    "one_liner": "Open-source serverless platform for stateful backends",
+    "team_size": 5,
+    "industry": "B2B",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1675129787,
     "tags": [
@@ -32120,8 +32120,8 @@
     "batch": "W23",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Gaming"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -32741,7 +32741,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -32860,17 +32860,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e8880a43b4d78bdcd9007972307a7188143b601c.png",
     "website": "https://vaero.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vaero is AI software to help patent lawyers work 5x faster. It drafts an entire patent application with AI based on invention information. The software includes a complete platform for patent lawyers to use AI for reviewing patent applications, responding to office actions, and enhancing invention disclosures.\r\n",
-    "one_liner": "AI for Patent Lawyers",
-    "team_size": 2,
-    "industry": "B2B",
+    "long_description": "Vaero is AI software that produces the most human sounding writing in the world. User's input their own writing, and Vaero automatically trains custom models to write exactly like the user. It writes emails, reports, brand content, and anything else. Vaero bolts on to any existing foundation model, such as GPT-4o and Claude Sonnet 3.5, so you can always use the latest model in your writing style.",
+    "one_liner": "AI for Human Writing",
+    "team_size": 1,
+    "industry": "Consumer",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1677696705,
     "tags": [
       "SaaS",
+      "Consumer",
       "B2B",
-      "Legal",
-      "LegalTech"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32879,8 +32879,7 @@
     "batch": "W23",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Legal"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -36170,14 +36169,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fd9d06940eb3b2825ac2017a3e3f2c14d9a3252.png",
     "website": "https://simplex.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simplex enables developers to automate repetitive browser workflows using code and natural language. Developers use our low-level SDK functions to create reliable automations that are robust to website changes.",
-    "one_liner": "Automate browser workflows using code + natural language",
+    "long_description": "Simplex enables developers to automate repetitive browser workflows using code and natural language. Developers use our SDK to create reliable automations that scale across websites.",
+    "one_liner": "Build browser automations using code + natural language",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723709594,
     "tags": [
       "Machine Learning",
+      "Robotic Process Automation",
       "B2B",
       "AI"
     ],
@@ -36898,49 +36898,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/salvy",
     "api": "https://yc-oss.github.io/api/batches/w24/salvy.json"
-  },
-  {
-    "id": 29358,
-    "name": "Aedilic",
-    "slug": "aedilic",
-    "former_names": [
-      "speak&find"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d861dcd5def19dfb527cefbf426050375df3a992.png",
-    "website": "https://www.gpudeploy.com",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "GPUDeploy is a marketplace for compute. Launch high-performance GPU instances at the best prices online or rent out your idle compute for high return on investment. https://gpudeploy.com",
-    "one_liner": "Aedilic is building gpudeploy.com",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1710792793,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aedilic",
-    "api": "https://yc-oss.github.io/api/batches/w24/aedilic.json"
   },
   {
     "id": 29373,
@@ -38942,49 +38899,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/willow.json"
   },
   {
-    "id": 29667,
-    "name": "Rewbi",
-    "slug": "rewbi",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05452330a078be465b5353a9b54ad87966552d0b.png",
-    "website": "https://www.rewbi.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rewbi uses AI to optimize grid-connected battery storage. We generate revenue by charging when electricity is cheap and discharging when electricity is expensive.\r\n\r\nWe rent battery storage for a fixed fee per month, and we earn 2x that fee in monthly revenue by dispatching the battery optimally.\r\n\r\nToday, power companies use human traders to manually track grid conditions and update the battery’s dispatch schedule. However batteries can adjust their power output 100x faster than traditional power generation (e.g. hydro, coal, nuclear, gas), with the ability to go from full-speed charging to to full speed discharging in under a minute. Electricity prices change every 5 minutes, often by 300% or more. Our AI better tracks 100s of live inputs, and it makes decisions faster than a human operator (with lower overhead!), improving revenue 2x.",
-    "one_liner": "Rewbi uses AI to increase grid-connected battery storage revenue 2x",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
-    "launched_at": 1724874761,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Climate",
-      "Energy",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Energy"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rewbi",
-    "api": "https://yc-oss.github.io/api/batches/s24/rewbi.json"
-  },
-  {
     "id": 29672,
     "name": "DeepSim, Inc.",
     "slug": "deepsim-inc",
@@ -39083,17 +38997,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a523691020b3333cc7ac91fb850235d2d4a0441.png",
     "website": "https://parahelp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Parahelp is an AI support agent that resolves support tickets end-to-end.\r\n\r\nLike a teammate, Parahelp works directly in your support system, uses your existing tools (e.g., Stripe, Linear, Retool), and continuously adapts to your knowledge, policies, and procedures.",
-    "one_liner": "The AI support agent for the fastest-growing software companies",
+    "long_description": "Parahelp is an AI support agent for software companies.\r\n\r\nUnlike other chatbots, Parahelp can resolve complex support tickets end-to-end, such as troubleshooting product issues and managing subscriptions, by following your policies and using your existing knowledge base, tools (like Stripe, Slack, and Linear), and API endpoints.",
+    "one_liner": "The AI support agent for fast-growing software companies",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1720219864,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Customer Service",
       "Customer Support",
-      "AI",
       "Ticketing"
     ],
     "tags_highlighted": [],
@@ -41443,16 +41357,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e0caa2cad35d6f34cdbfbf4ac96d85d2f1a09ca.png",
     "website": "https://trykeet.com",
     "all_locations": "",
-    "long_description": "Keet provides APIs for any website. Developers use us to connect their customers accounts and perform actions on their behalf. \r\n\r\nWhether it be legacy software or consumer sites, Keet manages your users authenticated sessions and provides stable integrations on any web platform. Now your AI Agent can access healthcare data or send automated messages on LinkedIn via Keet’s API or SDK.",
+    "long_description": "Keet provides authentication for AI agents. Developers use us to connect their customers accounts and perform actions on their behalf. \r\n\r\nWhether it be legacy software or consumer sites, Keet manages your users authenticated sessions and provides stable integrations on any web platform. Now your AI Agent can access healthcare data or send automated messages on LinkedIn via Keet’s API or SDK.",
     "one_liner": "Authentication for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1724878024,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43196,6 +43110,50 @@
     "api": "https://yc-oss.github.io/api/batches/w25/outlit.json"
   },
   {
+    "id": 30328,
+    "name": "Dalus",
+    "slug": "dalus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7076b7fa11f6e99d25bfd27695c8c6125132b882.png",
+    "website": "https://dalus.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dalus is an AI-powered systems engineering software to model/validate complex systems for aerospace/defense/robotics and other mission-critical industries. \r\n\r\nWith Dalus, engineers can seamlessly trace requirements, perform analyses, and update information in real-time. This ensures that every team member stays aligned and informed, reducing inefficiencies and enabling faster iterations. \r\n\r\nWith AI at our core, users can analyze hundreds of pages of existing engineering documentation and requirements to generate or retrieve information about the system model they are building in Dalus.\r\n\r\nWe started working together on Dalus in spring 2024 after Eliot quit his job at Aerojet Rocketdyne (L3Harris) where he worked as a test/systems engineer. He experienced first-hand how silos and poor communication reduced the productivity and efficiencies in the teams he worked at.\r\n\r\nWe love working with companies tackling complex engineering systems, whether they be startups just getting their feet wet or large organizations like Israel Aerospace Industries (Our design partner and biggest aerospace/defense company from Israel)",
+    "one_liner": "Dalus is building software to design and validate complex systems",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1736994368,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Aerospace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dalus",
+    "api": "https://yc-oss.github.io/api/batches/w25/dalus.json"
+  },
+  {
     "id": 30338,
     "name": "CopyCat",
     "slug": "copycat",
@@ -43205,16 +43163,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f0788a922bb389578b23e8ccb111b965944878a.png",
     "website": "https://runcopycat.com",
     "all_locations": "Seattle, WA, USA",
-    "long_description": "CopyCat allows teams to describe their workflows in natural language and transforms them into a visual interface of actionable steps that can be executed as a workflow. ",
-    "one_liner": "Turn Words Into AI Workflows",
+    "long_description": "CopyCat allows you to record your screen and turn that task into an automation using AI.",
+    "one_liner": "Screen recordings to automated workflows.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1734580429,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Workflow Automation"
+      "Workflow Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

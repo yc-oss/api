@@ -126,6 +126,46 @@
     "api": "https://yc-oss.github.io/api/batches/w25/edexia.json"
   },
   {
+    "id": 30174,
+    "name": "Revise Robotics",
+    "slug": "revise-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4e9ac60aa5b0583ce914c6dee2848e5b72c4b4f.png",
+    "website": "https://www.reviserobotics.com/",
+    "all_locations": "",
+    "long_description": "E-waste recycling facilities spend most of their time and effort sifting through discarded electronics, searching for valuable devices, refurbishing them, and reselling them in second-hand markets.\r\n\r\nOur first product is an AI-enabled robotic system that integrates with these facilities to assess and refurbish hundreds of laptops a day without any human intervention. The system tests laptops, wipes their hard drives, photographs them, and posts them on online marketplaces for resale, regardless of model, manufacturer, or operating system.",
+    "one_liner": "AI-enabled robots that refurbish hundreds of laptops a day",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1737068200,
+    "tags": [
+      "Robotic Process Automation",
+      "ClimateTech",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/revise-robotics",
+    "api": "https://yc-oss.github.io/api/batches/w25/revise-robotics.json"
+  },
+  {
     "id": 30181,
     "name": "Leaping AI",
     "slug": "leaping-ai",
@@ -182,9 +222,9 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1736799545,
     "tags": [
-      "Artificial Intelligence",
       "Security",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -201,7 +241,7 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -544,6 +584,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/caseflood-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/caseflood-ai.json"
+  },
+  {
+    "id": 30234,
+    "name": "Adam",
+    "slug": "adam",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfc860ae54b7e3a7f3fdaf19550aa06087041ede.png",
+    "website": "https://www.adamcad.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Adam is an AI CAD co-pilot for hardware design. It transforms plain text descriptions into parametric 3D models in seconds so engineering teams can ship 10x faster. Our mission is to eliminate the gap between engineering and reality so more great ideas come into existence.",
+    "one_liner": "AI Powered CAD Design",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1737056992,
+    "tags": [
+      "Generative AI",
+      "Hardware",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/adam",
+    "api": "https://yc-oss.github.io/api/batches/w25/adam.json"
   },
   {
     "id": 30241,
@@ -970,7 +1051,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ccdc4419907ee05321c76c632bbd5270cb8764.png",
     "website": "http://www.usemesh.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Currently, there's a shortage of 340,000 accountants in the US. This number is only projected to grow as 75% of certified public accountants (CPAs) reach retirement within the next 15 years, and the number of new grads entering the industry hit an all time low.\r\n\r\nTo combat the shortage and rising labor costs in the US, accounting firms are increasingly outsourcing labor offshores (i.e. Manila, Philippines). We've seen this firsthand while running fund accounting teams at Carta, as well as at our competitors.\r\n\r\nAt Mesh, we're leveraging domain-specific AI to automate key workflows that are currently being outsourced. This includes activities like reconciling cash transactions, queuing up expense wires, handling inter-company transactions, and more. We provide significantly more accuracy, require minimal onboarding and training, and come at a fraction of the cost. Not to forget, we perfect our recall with more data and only get better with usage. Sounds like the opposite effect that more information and longer hours have on humans.\r\n\r\nMesh's AI agents work long hours, so accountants don't need to.",
+    "long_description": "Mesh builds domain-specific AI agents to automate repetitive accounting tasks like cash reconciliation, expense wires, and inter-company transactions. Whatever tasks accounting firms are currently outsourcing abroad for reduced labor costs, we automate entirely.\r\n\r\nAt Carta, we spent 5+ years working together to automate accounting. We helped grow Carta's fund accounting business from $20M to $100M, transformed offline excel tasks into automated workflows, and increased customer satisfaction score by over 50% by creating an internal workspace for task coordination. \r\n\r\nUntil now, the only way to scale accounting firms was to hire more employees and outsource more work. With Mesh, accountants can save time on each task, save money on hiring additional resources, and use their extra capacity to exponentially grow their business.\r\n\r\nWith a current shortage of 340,000 accountants in the US, along with the alarming statistic that 75% of certified public accountants (CPAs) will reach retirement within the next 15 years, AI has a critical role to play. And we want to be the ones to automate this $63bn outsourced accounting and finance industry.\r\n\r\nOur AI agents work long hours, so accountants don't need to.",
     "one_liner": "Automate outsourced accounting work with AI",
     "team_size": 2,
     "industry": "B2B",
@@ -989,7 +1070,8 @@
     "batch": "W25",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Finance and Accounting"
     ],
     "regions": [
       "United States of America",
@@ -1088,6 +1170,50 @@
     "api": "https://yc-oss.github.io/api/batches/w25/forge-automation.json"
   },
   {
+    "id": 30328,
+    "name": "Dalus",
+    "slug": "dalus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7076b7fa11f6e99d25bfd27695c8c6125132b882.png",
+    "website": "https://dalus.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dalus is an AI-powered systems engineering software to model/validate complex systems for aerospace/defense/robotics and other mission-critical industries. \r\n\r\nWith Dalus, engineers can seamlessly trace requirements, perform analyses, and update information in real-time. This ensures that every team member stays aligned and informed, reducing inefficiencies and enabling faster iterations. \r\n\r\nWith AI at our core, users can analyze hundreds of pages of existing engineering documentation and requirements to generate or retrieve information about the system model they are building in Dalus.\r\n\r\nWe started working together on Dalus in spring 2024 after Eliot quit his job at Aerojet Rocketdyne (L3Harris) where he worked as a test/systems engineer. He experienced first-hand how silos and poor communication reduced the productivity and efficiencies in the teams he worked at.\r\n\r\nWe love working with companies tackling complex engineering systems, whether they be startups just getting their feet wet or large organizations like Israel Aerospace Industries (Our design partner and biggest aerospace/defense company from Israel)",
+    "one_liner": "Dalus is building software to design and validate complex systems",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1736994368,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Aerospace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dalus",
+    "api": "https://yc-oss.github.io/api/batches/w25/dalus.json"
+  },
+  {
     "id": 30338,
     "name": "CopyCat",
     "slug": "copycat",
@@ -1097,16 +1223,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f0788a922bb389578b23e8ccb111b965944878a.png",
     "website": "https://runcopycat.com",
     "all_locations": "Seattle, WA, USA",
-    "long_description": "CopyCat allows teams to describe their workflows in natural language and transforms them into a visual interface of actionable steps that can be executed as a workflow. ",
-    "one_liner": "Turn Words Into AI Workflows",
+    "long_description": "CopyCat allows you to record your screen and turn that task into an automation using AI.",
+    "one_liner": "Screen recordings to automated workflows.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1734580429,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Workflow Automation"
+      "Workflow Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

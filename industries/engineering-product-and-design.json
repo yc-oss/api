@@ -12909,47 +12909,6 @@
     "api": "https://yc-oss.github.io/api/batches/s22/payload.json"
   },
   {
-    "id": 26861,
-    "name": "Unlogged",
-    "slug": "unlogged",
-    "former_names": [
-      "Videobug"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/89f6eb49c32b83acbc9d84ce8ecc5f61fcf21d30.png",
-    "website": "https://unlogged.io",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "Unlogged is an open-source platform that supercharges Java development by offering:\r\n\r\nOne-Click Mocking: Instantly mock databases, APIs, and downstream services, simplifying isolated environment testing.\r\n\r\nReal-Time Performance Tracking: Monitors method performance in real-time, identifying bottlenecks quickly.\r\n\r\nAuto-Generated Unit Tests: Automatically creates unit tests from API traffic, boosting test suite maintenance and promoting a robust testing culture.\r\n\r\nCI Integration & Code Coverage: Integrates with CI systems for replay runs, providing code coverage statistics for thorough testing insight.",
-    "one_liner": "Replay Production Traffic Locally and Ensure 0 Production bugs",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1656204103,
-    "tags": [
-      "Developer Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/unlogged",
-    "api": "https://yc-oss.github.io/api/batches/s22/unlogged.json"
-  },
-  {
     "id": 26898,
     "name": "Diversion",
     "slug": "diversion",
@@ -14180,7 +14139,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -17524,14 +17483,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fd9d06940eb3b2825ac2017a3e3f2c14d9a3252.png",
     "website": "https://simplex.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simplex enables developers to automate repetitive browser workflows using code and natural language. Developers use our low-level SDK functions to create reliable automations that are robust to website changes.",
-    "one_liner": "Automate browser workflows using code + natural language",
+    "long_description": "Simplex enables developers to automate repetitive browser workflows using code and natural language. Developers use our SDK to create reliable automations that scale across websites.",
+    "one_liner": "Build browser automations using code + natural language",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723709594,
     "tags": [
       "Machine Learning",
+      "Robotic Process Automation",
       "B2B",
       "AI"
     ],
@@ -21282,20 +21242,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f55889b876077192ae88368c48e83468f24487c.png",
     "website": "https://surgemsg.com",
-    "all_locations": "Lehi, UT, USA",
+    "all_locations": "",
     "long_description": "Surge is Stripe for telephony. Our team has experience building telephony software at billion dollar scale. Because of increased regulation, Twilio and other SMS APIs take weeks to onboard new customers, but we can get startups onboarded same day. Surge will win the market by enabling easy carrier registration and keeping customers with our higher level APIs and no code UI components. We have 11 paying customers so far, and our revenue is growing 58% month over month.",
     "one_liner": "Stripe for telephony",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1731622401,
-    "tags": [
-      "SaaS",
-      "API",
-      "No-code",
-      "SMS",
-      "Telecommunications"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -21307,8 +21261,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -21561,6 +21514,47 @@
     "api": "https://yc-oss.github.io/api/batches/w25/promptless.json"
   },
   {
+    "id": 30234,
+    "name": "Adam",
+    "slug": "adam",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfc860ae54b7e3a7f3fdaf19550aa06087041ede.png",
+    "website": "https://www.adamcad.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Adam is an AI CAD co-pilot for hardware design. It transforms plain text descriptions into parametric 3D models in seconds so engineering teams can ship 10x faster. Our mission is to eliminate the gap between engineering and reality so more great ideas come into existence.",
+    "one_liner": "AI Powered CAD Design",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1737056992,
+    "tags": [
+      "Generative AI",
+      "Hardware",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/adam",
+    "api": "https://yc-oss.github.io/api/batches/w25/adam.json"
+  },
+  {
     "id": 30283,
     "name": "Confident AI",
     "slug": "confident-ai",
@@ -21601,6 +21595,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/confident-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/confident-ai.json"
+  },
+  {
+    "id": 30328,
+    "name": "Dalus",
+    "slug": "dalus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7076b7fa11f6e99d25bfd27695c8c6125132b882.png",
+    "website": "https://dalus.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dalus is an AI-powered systems engineering software to model/validate complex systems for aerospace/defense/robotics and other mission-critical industries. \r\n\r\nWith Dalus, engineers can seamlessly trace requirements, perform analyses, and update information in real-time. This ensures that every team member stays aligned and informed, reducing inefficiencies and enabling faster iterations. \r\n\r\nWith AI at our core, users can analyze hundreds of pages of existing engineering documentation and requirements to generate or retrieve information about the system model they are building in Dalus.\r\n\r\nWe started working together on Dalus in spring 2024 after Eliot quit his job at Aerojet Rocketdyne (L3Harris) where he worked as a test/systems engineer. He experienced first-hand how silos and poor communication reduced the productivity and efficiencies in the teams he worked at.\r\n\r\nWe love working with companies tackling complex engineering systems, whether they be startups just getting their feet wet or large organizations like Israel Aerospace Industries (Our design partner and biggest aerospace/defense company from Israel)",
+    "one_liner": "Dalus is building software to design and validate complex systems",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1736994368,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Aerospace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dalus",
+    "api": "https://yc-oss.github.io/api/batches/w25/dalus.json"
   },
   {
     "id": 30353,

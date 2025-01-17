@@ -18310,7 +18310,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S18",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Consumer",
       "Food and Beverage"
@@ -23137,7 +23137,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S20",
     "status": "Active",
@@ -29961,7 +29961,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec438e698fe378d73b12fb8fad3344d0c4fe2d3f.png",
     "website": "https://tangia.co",
-    "all_locations": "Wilmington, DE, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Everything sucks in the streaming industry. We're making it not suck.",
     "one_liner": "Defragging the streaming industry.",
     "team_size": 4,
@@ -30983,50 +30983,6 @@
     "api": "https://yc-oss.github.io/api/batches/w23/clearspace.json"
   },
   {
-    "id": 28087,
-    "name": "Rivet",
-    "slug": "rivet",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df3d86b035914304a42a234eb7e38ebfaeb324d3.png",
-    "website": "https://rivet.gg",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Build stateful, realtime applications using Rivet Actors. Open-Source & Self-Hostable",
-    "one_liner": "Open-source serverless platform for realtime applications",
-    "team_size": 7,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1675129787,
-    "tags": [
-      "B2B",
-      "Gaming",
-      "Open Source",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rivet",
-    "api": "https://yc-oss.github.io/api/batches/w23/rivet.json"
-  },
-  {
     "id": 28097,
     "name": "Decohere",
     "slug": "decohere",
@@ -31203,6 +31159,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/upfront",
     "api": "https://yc-oss.github.io/api/batches/w23/upfront.json"
+  },
+  {
+    "id": 28418,
+    "name": "Vaero",
+    "slug": "vaero",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e8880a43b4d78bdcd9007972307a7188143b601c.png",
+    "website": "https://vaero.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Vaero is AI software that produces the most human sounding writing in the world. User's input their own writing, and Vaero automatically trains custom models to write exactly like the user. It writes emails, reports, brand content, and anything else. Vaero bolts on to any existing foundation model, such as GPT-4o and Claude Sonnet 3.5, so you can always use the latest model in your writing style.",
+    "one_liner": "AI for Human Writing",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1677696705,
+    "tags": [
+      "SaaS",
+      "Consumer",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vaero",
+    "api": "https://yc-oss.github.io/api/batches/w23/vaero.json"
   },
   {
     "id": 28486,
@@ -32100,6 +32097,48 @@
     "api": "https://yc-oss.github.io/api/batches/w24/infinity-ai.json"
   },
   {
+    "id": 29358,
+    "name": "Aedilic",
+    "slug": "aedilic",
+    "former_names": [
+      "speak&find"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d861dcd5def19dfb527cefbf426050375df3a992.png",
+    "website": "https://www.gpudeploy.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI-assisted language learning.",
+    "one_liner": "AI-assisted language learning",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "B2B",
+    "launched_at": 1710792793,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aedilic",
+    "api": "https://yc-oss.github.io/api/batches/w24/aedilic.json"
+  },
+  {
     "id": 29361,
     "name": "Wuri",
     "slug": "wuri",
@@ -32219,45 +32258,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/soundry-ai",
     "api": "https://yc-oss.github.io/api/batches/w24/soundry-ai.json"
-  },
-  {
-    "id": 29392,
-    "name": "Petra Security",
-    "slug": "petra-security",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0efe474a80ca89da27c322f980096eb81602efc9.png",
-    "website": "https://petrasecurity.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stealth cybersecurity",
-    "one_liner": "Cybersecurity",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Social",
-    "launched_at": 1707862827,
-    "tags": [
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Social"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/petra-security",
-    "api": "https://yc-oss.github.io/api/batches/w24/petra-security.json"
   },
   {
     "id": 29400,

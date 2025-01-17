@@ -3367,7 +3367,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W18",
     "status": "Active",
@@ -5562,7 +5562,7 @@
   },
   {
     "id": 13167,
-    "name": "Farcast (formerly UTVATE)",
+    "name": "Farcast",
     "slug": "farcast",
     "former_names": [
       "UTVATE Corporation",
@@ -9886,7 +9886,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -10790,20 +10790,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05452330a078be465b5353a9b54ad87966552d0b.png",
     "website": "https://www.rewbi.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Rewbi uses AI to optimize grid-connected battery storage. We generate revenue by charging when electricity is cheap and discharging when electricity is expensive.\r\n\r\nWe rent battery storage for a fixed fee per month, and we earn 2x that fee in monthly revenue by dispatching the battery optimally.\r\n\r\nToday, power companies use human traders to manually track grid conditions and update the battery’s dispatch schedule. However batteries can adjust their power output 100x faster than traditional power generation (e.g. hydro, coal, nuclear, gas), with the ability to go from full-speed charging to to full speed discharging in under a minute. Electricity prices change every 5 minutes, often by 300% or more. Our AI better tracks 100s of live inputs, and it makes decisions faster than a human operator (with lower overhead!), improving revenue 2x.",
     "one_liner": "Rewbi uses AI to increase grid-connected battery storage revenue 2x",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1724874761,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Climate",
-      "Energy",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -10815,8 +10809,7 @@
       "Energy"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11745,6 +11738,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bifrost-orbital",
     "api": "https://yc-oss.github.io/api/batches/f24/bifrost-orbital.json"
+  },
+  {
+    "id": 30174,
+    "name": "Revise Robotics",
+    "slug": "revise-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4e9ac60aa5b0583ce914c6dee2848e5b72c4b4f.png",
+    "website": "https://www.reviserobotics.com/",
+    "all_locations": "",
+    "long_description": "E-waste recycling facilities spend most of their time and effort sifting through discarded electronics, searching for valuable devices, refurbishing them, and reselling them in second-hand markets.\r\n\r\nOur first product is an AI-enabled robotic system that integrates with these facilities to assess and refurbish hundreds of laptops a day without any human intervention. The system tests laptops, wipes their hard drives, photographs them, and posts them on online marketplaces for resale, regardless of model, manufacturer, or operating system.",
+    "one_liner": "AI-enabled robots that refurbish hundreds of laptops a day",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1737068200,
+    "tags": [
+      "Robotic Process Automation",
+      "ClimateTech",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/revise-robotics",
+    "api": "https://yc-oss.github.io/api/batches/w25/revise-robotics.json"
   },
   {
     "id": 30293,

@@ -5273,7 +5273,7 @@
     "all_locations": "Palo Alto, CA, USA; Remote",
     "long_description": "",
     "one_liner": "BuildBuddy provides enterprise features for Bazel — the open source…",
-    "team_size": 12,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1583889441,
@@ -8800,7 +8800,7 @@
     "all_locations": "Bengaluru, KA, India; Remote",
     "long_description": "Jovian is an online university for software development and data science. We offer practical and industry-focused programs that help professionals learn technical skills, build real-world projects, and advance their careers.\r\n\r\nStudents learn practical skills, build real-world portfolio projects, and undergo job readiness training. Our tutors offer 24x7 guidance & mentorship over Slack & Zoom. Students also get access to jobs with 200+ hiring partners.",
     "one_liner": "Online University for Tech Professionals",
-    "team_size": 6,
+    "team_size": null,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1625134988,
@@ -12031,47 +12031,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/slauth-io",
     "api": "https://yc-oss.github.io/api/batches/s22/slauth-io.json"
-  },
-  {
-    "id": 26861,
-    "name": "Unlogged",
-    "slug": "unlogged",
-    "former_names": [
-      "Videobug"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/89f6eb49c32b83acbc9d84ce8ecc5f61fcf21d30.png",
-    "website": "https://unlogged.io",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "Unlogged is an open-source platform that supercharges Java development by offering:\r\n\r\nOne-Click Mocking: Instantly mock databases, APIs, and downstream services, simplifying isolated environment testing.\r\n\r\nReal-Time Performance Tracking: Monitors method performance in real-time, identifying bottlenecks quickly.\r\n\r\nAuto-Generated Unit Tests: Automatically creates unit tests from API traffic, boosting test suite maintenance and promoting a robust testing culture.\r\n\r\nCI Integration & Code Coverage: Integrates with CI systems for replay runs, providing code coverage statistics for thorough testing insight.",
-    "one_liner": "Replay Production Traffic Locally and Ensure 0 Production bugs",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1656204103,
-    "tags": [
-      "Developer Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/unlogged",
-    "api": "https://yc-oss.github.io/api/batches/s22/unlogged.json"
   },
   {
     "id": 26872,
@@ -17966,7 +17925,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -20053,16 +20012,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e0caa2cad35d6f34cdbfbf4ac96d85d2f1a09ca.png",
     "website": "https://trykeet.com",
     "all_locations": "",
-    "long_description": "Keet provides APIs for any website. Developers use us to connect their customers accounts and perform actions on their behalf. \r\n\r\nWhether it be legacy software or consumer sites, Keet manages your users authenticated sessions and provides stable integrations on any web platform. Now your AI Agent can access healthcare data or send automated messages on LinkedIn via Keet’s API or SDK.",
+    "long_description": "Keet provides authentication for AI agents. Developers use us to connect their customers accounts and perform actions on their behalf. \r\n\r\nWhether it be legacy software or consumer sites, Keet manages your users authenticated sessions and provides stable integrations on any web platform. Now your AI Agent can access healthcare data or send automated messages on LinkedIn via Keet’s API or SDK.",
     "one_liner": "Authentication for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1724878024,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

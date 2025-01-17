@@ -21928,7 +21928,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W12",
     "status": "Active",
@@ -22358,7 +22358,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S17",
     "status": "Active",
@@ -36902,7 +36902,7 @@
     "all_locations": "Palo Alto, CA, USA; Remote",
     "long_description": "",
     "one_liner": "BuildBuddy provides enterprise features for Bazel — the open source…",
-    "team_size": 12,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1583889441,
@@ -37312,7 +37312,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W20",
     "status": "Active",
@@ -57629,7 +57629,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -60265,10 +60265,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b037e35a133963bb97d49605d21978ac44ac4f83.png",
     "website": "https://atlas.so",
-    "all_locations": "San Francisco, CA, USA; Dublin, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Atlas is a modern, all-in-one customer support platform that is built with AI first. We help you solve your customers problems faster by understanding them more completely with a suite of customer tools like session recording, bug tracking, and event feeds. You can think of us as the next generation Zendesk / Intercom combined with Log Rocket and Linear.\r\n\r\nLearn More: https://atlas.so/\r\n\r\nProducts:\r\n- Chat Widget\r\n- Ticketing\r\n- Omni channel Support (chat, email, WhatsApp, Slack Connect, and SMS)\r\n- Customer Timeline\r\n- Session Recording\r\n- Help Center\r\n- AI Chatbot\r\n- Customer Insights \r\n",
     "one_liner": "Modern customer support platform replacement for Intercom and Zendesk",
-    "team_size": 11,
+    "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1645918305,
@@ -69254,22 +69254,24 @@
   },
   {
     "id": 26861,
-    "name": "Unlogged",
-    "slug": "unlogged",
+    "name": "100x",
+    "slug": "100x",
     "former_names": [
       "Videobug"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/89f6eb49c32b83acbc9d84ce8ecc5f61fcf21d30.png",
-    "website": "https://unlogged.io",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e57695e93f2c0c4bd59ac6e3b1a1d55dfeb43099.png",
+    "website": "https://100x.bot?utm_source=inbound&utm_medium=bookface&utm_campaign=yc&utm_id=122",
     "all_locations": "Bengaluru, KA, India",
-    "long_description": "Unlogged is an open-source platform that supercharges Java development by offering:\r\n\r\nOne-Click Mocking: Instantly mock databases, APIs, and downstream services, simplifying isolated environment testing.\r\n\r\nReal-Time Performance Tracking: Monitors method performance in real-time, identifying bottlenecks quickly.\r\n\r\nAuto-Generated Unit Tests: Automatically creates unit tests from API traffic, boosting test suite maintenance and promoting a robust testing culture.\r\n\r\nCI Integration & Code Coverage: Integrates with CI systems for replay runs, providing code coverage statistics for thorough testing insight.",
-    "one_liner": "Replay Production Traffic Locally and Ensure 0 Production bugs",
-    "team_size": 4,
+    "long_description": "",
+    "one_liner": "Create, Share, and Monetize AI Agents",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1656204103,
     "tags": [
-      "Developer Tools"
+      "Artificial Intelligence",
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -69279,7 +69281,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Productivity"
     ],
     "regions": [
       "India",
@@ -69290,8 +69292,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/unlogged",
-    "api": "https://yc-oss.github.io/api/batches/s22/unlogged.json"
+    "url": "https://www.ycombinator.com/companies/100x",
+    "api": "https://yc-oss.github.io/api/batches/s22/100x.json"
   },
   {
     "id": 26863,
@@ -70184,17 +70186,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b13f527f06758f86586073aa13a82654d971cca.png",
     "website": "https://unthread.io",
     "all_locations": "New York, NY, USA",
-    "long_description": "Unthread is a Slack-native support platform. We help companies to automate the creation and resolution of tickets right from a Slack channel. \r\n\r\nWe work with IT, HR, and CX teams at some of the world's largest companies to instantly resolve tickets instantly using AI.",
-    "one_liner": "Automatically Resolve Support Tickets in Slack",
+    "long_description": "Unthread is an AI-powered helpdesk built natively into Slack. We help companies to automate the creation and resolution of tickets right from a Slack channel.\r\n\r\nWe work with IT, HR, and CX teams at some of the world's largest companies to resolve tickets instantly using AI.",
+    "one_liner": "Agentic service management in Slack",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1656512918,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -75194,7 +75196,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -77906,6 +77908,50 @@
     "api": "https://yc-oss.github.io/api/batches/w23/sorted.json"
   },
   {
+    "id": 28087,
+    "name": "Rivet",
+    "slug": "rivet",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df3d86b035914304a42a234eb7e38ebfaeb324d3.png",
+    "website": "https://rivet.gg",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Rivet is the platform to build realtime, edge, or agent applications. Open-source & self-hostable.",
+    "one_liner": "Open-source serverless platform for stateful backends",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1675129787,
+    "tags": [
+      "B2B",
+      "Gaming",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rivet",
+    "api": "https://yc-oss.github.io/api/batches/w23/rivet.json"
+  },
+  {
     "id": 28089,
     "name": "Thread",
     "slug": "thread-2",
@@ -79480,7 +79526,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -79886,48 +79932,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/yuma-ai",
     "api": "https://yc-oss.github.io/api/batches/w23/yuma-ai.json"
-  },
-  {
-    "id": 28418,
-    "name": "Vaero",
-    "slug": "vaero",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e8880a43b4d78bdcd9007972307a7188143b601c.png",
-    "website": "https://vaero.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vaero is AI software to help patent lawyers work 5x faster. It drafts an entire patent application with AI based on invention information. The software includes a complete platform for patent lawyers to use AI for reviewing patent applications, responding to office actions, and enhancing invention disclosures.\r\n",
-    "one_liner": "AI for Patent Lawyers",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1677696705,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Legal",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vaero",
-    "api": "https://yc-oss.github.io/api/batches/w23/vaero.json"
   },
   {
     "id": 28421,
@@ -84581,22 +84585,18 @@
       "Round One"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c34e2e7cee5cb8a890e2123c1f9f8621bd9f7e45.png",
-    "website": "https://www.sendbue.com",
+    "website": "https://www.sendblue.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Sendblue provides businesses with virtual iMessage lines to text prospects and nurture leads. Our clients on average see a 60% increase in response rate. The company is founded by Rob Haber, former ML Engineer at Scale AI, and Alex Luis, former PM at PwC's telecom practice.",
+    "long_description": "Sendblue provides businesses with virtual iMessage lines to text prospects and nurture leads. Our users on average see a 60% increase in response rate. The company is founded by Rob Haber, former ML Engineer at Scale AI, and Alex Luis, former PM at PwC's telecom practice.",
     "one_liner": "iMessage for Sales",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1691623440,
-    "tags": [
-      "Messaging",
-      "Chat",
-      "SMS"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -88201,14 +88201,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fd9d06940eb3b2825ac2017a3e3f2c14d9a3252.png",
     "website": "https://simplex.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simplex enables developers to automate repetitive browser workflows using code and natural language. Developers use our low-level SDK functions to create reliable automations that are robust to website changes.",
-    "one_liner": "Automate browser workflows using code + natural language",
+    "long_description": "Simplex enables developers to automate repetitive browser workflows using code and natural language. Developers use our SDK to create reliable automations that scale across websites.",
+    "one_liner": "Build browser automations using code + natural language",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723709594,
     "tags": [
       "Machine Learning",
+      "Robotic Process Automation",
       "B2B",
       "AI"
     ],
@@ -89579,18 +89580,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d18a60c353c24c8c090f2237dd2281d68b7155ba.png",
     "website": "https://www.useresonance.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Resonance optimizes conversion rates by intelligently delivering marketing messages across owned channels such as push, in-product, and email.",
-    "one_liner": "Omni-channel marketing agent",
+    "long_description": "Resonance enables companies to seamlessly access a curated set of AI marketing models that they can rapidly deploy within their marketing stack to optimize use cases such as email subject lines, SMS copy, etc.",
+    "one_liner": "Marketing Model Curation Platform",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709332105,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "SaaS",
       "Subscriptions",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -89792,49 +89793,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/salvy",
     "api": "https://yc-oss.github.io/api/batches/w24/salvy.json"
-  },
-  {
-    "id": 29358,
-    "name": "Aedilic",
-    "slug": "aedilic",
-    "former_names": [
-      "speak&find"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d861dcd5def19dfb527cefbf426050375df3a992.png",
-    "website": "https://www.gpudeploy.com",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "GPUDeploy is a marketplace for compute. Launch high-performance GPU instances at the best prices online or rent out your idle compute for high return on investment. https://gpudeploy.com",
-    "one_liner": "Aedilic is building gpudeploy.com",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1710792793,
-    "tags": [
-      "Artificial Intelligence",
-      "Marketplace",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aedilic",
-    "api": "https://yc-oss.github.io/api/batches/w24/aedilic.json"
   },
   {
     "id": 29360,
@@ -90493,7 +90451,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -90809,6 +90767,45 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/abel",
     "api": "https://yc-oss.github.io/api/batches/w24/abel.json"
+  },
+  {
+    "id": 29392,
+    "name": "Petra Security",
+    "slug": "petra-security",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e34e5b1f5d057063a1dbaea0a96ceeca38273484.png",
+    "website": "https://petrasecurity.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Stealth cybersecurity",
+    "one_liner": "Cybersecurity",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1707862827,
+    "tags": [
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/petra-security",
+    "api": "https://yc-oss.github.io/api/batches/w24/petra-security.json"
   },
   {
     "id": 29393,
@@ -95310,17 +95307,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a523691020b3333cc7ac91fb850235d2d4a0441.png",
     "website": "https://parahelp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Parahelp is an AI support agent that resolves support tickets end-to-end.\r\n\r\nLike a teammate, Parahelp works directly in your support system, uses your existing tools (e.g., Stripe, Linear, Retool), and continuously adapts to your knowledge, policies, and procedures.",
-    "one_liner": "The AI support agent for the fastest-growing software companies",
+    "long_description": "Parahelp is an AI support agent for software companies.\r\n\r\nUnlike other chatbots, Parahelp can resolve complex support tickets end-to-end, such as troubleshooting product issues and managing subscriptions, by following your policies and using your existing knowledge base, tools (like Stripe, Slack, and Linear), and API endpoints.",
+    "one_liner": "The AI support agent for fast-growing software companies",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1720219864,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Customer Service",
       "Customer Support",
-      "AI",
       "Ticketing"
     ],
     "tags_highlighted": [],
@@ -95756,17 +95753,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff6c2cd737d27675ee462a56fa75e3fd28c7f81f.png",
     "website": "https://ledgerup.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "LedgerUp is revolutionizing the way small to medium-sized businesses manage their finances. Our AI-driven platform simplifies bookkeeping, automating tedious tasks and providing accurate, real-time financial insights. By leveraging advanced machine learning algorithms, LedgerUp ensures that every transaction is categorized correctly, making financial reporting effortless and precise.\r\n\r\nOur mission is to scale up financial operations for businesses without the need for extensive accounting knowledge. From automated transaction entries to instant financial reports, LedgerUp empowers business owners to focus on growth while maintaining complete control over their finances. We're proud to support a growing community of entrepreneurs and business owners who rely on our platform to streamline their accounting processes and enhance their operational efficiency.",
-    "one_liner": "Your first and only finance hire",
+    "long_description": "LedgerUp is your AI billing teammate for B2B SaaS, transforming contract-based billing from a chore into a frictionless, revenue-accelerating process. We parse contracts, issue invoices, and collect payments in real-time, all while surfacing actionable analytics—allowing your finance team to escape spreadsheet chaos and focus on strategic growth. Just close deals and let us handle your RevOps for you.",
+    "one_liner": "Your AI billing teammate that automating contracts to invoices",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1722618064,
     "tags": [
-      "Artificial Intelligence",
       "FinOps",
       "Workflow Automation",
-      "SMB"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -99209,16 +99205,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e0caa2cad35d6f34cdbfbf4ac96d85d2f1a09ca.png",
     "website": "https://trykeet.com",
     "all_locations": "",
-    "long_description": "Keet provides APIs for any website. Developers use us to connect their customers accounts and perform actions on their behalf. \r\n\r\nWhether it be legacy software or consumer sites, Keet manages your users authenticated sessions and provides stable integrations on any web platform. Now your AI Agent can access healthcare data or send automated messages on LinkedIn via Keet’s API or SDK.",
+    "long_description": "Keet provides authentication for AI agents. Developers use us to connect their customers accounts and perform actions on their behalf. \r\n\r\nWhether it be legacy software or consumer sites, Keet manages your users authenticated sessions and provides stable integrations on any web platform. Now your AI Agent can access healthcare data or send automated messages on LinkedIn via Keet’s API or SDK.",
     "one_liner": "Authentication for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1724878024,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -102187,20 +102183,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f55889b876077192ae88368c48e83468f24487c.png",
     "website": "https://surgemsg.com",
-    "all_locations": "Lehi, UT, USA",
+    "all_locations": "",
     "long_description": "Surge is Stripe for telephony. Our team has experience building telephony software at billion dollar scale. Because of increased regulation, Twilio and other SMS APIs take weeks to onboard new customers, but we can get startups onboarded same day. Surge will win the market by enabling easy carrier registration and keeping customers with our higher level APIs and no code UI components. We have 11 paying customers so far, and our revenue is growing 58% month over month.",
     "one_liner": "Stripe for telephony",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1731622401,
-    "tags": [
-      "SaaS",
-      "API",
-      "No-code",
-      "SMS",
-      "Telecommunications"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -102212,8 +102202,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -102741,9 +102730,9 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1736799545,
     "tags": [
-      "Artificial Intelligence",
       "Security",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -102760,7 +102749,7 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -102974,6 +102963,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/caseflood-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/caseflood-ai.json"
+  },
+  {
+    "id": 30234,
+    "name": "Adam",
+    "slug": "adam",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfc860ae54b7e3a7f3fdaf19550aa06087041ede.png",
+    "website": "https://www.adamcad.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Adam is an AI CAD co-pilot for hardware design. It transforms plain text descriptions into parametric 3D models in seconds so engineering teams can ship 10x faster. Our mission is to eliminate the gap between engineering and reality so more great ideas come into existence.",
+    "one_liner": "AI Powered CAD Design",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1737056992,
+    "tags": [
+      "Generative AI",
+      "Hardware",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/adam",
+    "api": "https://yc-oss.github.io/api/batches/w25/adam.json"
   },
   {
     "id": 30241,
@@ -103274,7 +103304,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ccdc4419907ee05321c76c632bbd5270cb8764.png",
     "website": "http://www.usemesh.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Currently, there's a shortage of 340,000 accountants in the US. This number is only projected to grow as 75% of certified public accountants (CPAs) reach retirement within the next 15 years, and the number of new grads entering the industry hit an all time low.\r\n\r\nTo combat the shortage and rising labor costs in the US, accounting firms are increasingly outsourcing labor offshores (i.e. Manila, Philippines). We've seen this firsthand while running fund accounting teams at Carta, as well as at our competitors.\r\n\r\nAt Mesh, we're leveraging domain-specific AI to automate key workflows that are currently being outsourced. This includes activities like reconciling cash transactions, queuing up expense wires, handling inter-company transactions, and more. We provide significantly more accuracy, require minimal onboarding and training, and come at a fraction of the cost. Not to forget, we perfect our recall with more data and only get better with usage. Sounds like the opposite effect that more information and longer hours have on humans.\r\n\r\nMesh's AI agents work long hours, so accountants don't need to.",
+    "long_description": "Mesh builds domain-specific AI agents to automate repetitive accounting tasks like cash reconciliation, expense wires, and inter-company transactions. Whatever tasks accounting firms are currently outsourcing abroad for reduced labor costs, we automate entirely.\r\n\r\nAt Carta, we spent 5+ years working together to automate accounting. We helped grow Carta's fund accounting business from $20M to $100M, transformed offline excel tasks into automated workflows, and increased customer satisfaction score by over 50% by creating an internal workspace for task coordination. \r\n\r\nUntil now, the only way to scale accounting firms was to hire more employees and outsource more work. With Mesh, accountants can save time on each task, save money on hiring additional resources, and use their extra capacity to exponentially grow their business.\r\n\r\nWith a current shortage of 340,000 accountants in the US, along with the alarming statistic that 75% of certified public accountants (CPAs) will reach retirement within the next 15 years, AI has a critical role to play. And we want to be the ones to automate this $63bn outsourced accounting and finance industry.\r\n\r\nOur AI agents work long hours, so accountants don't need to.",
     "one_liner": "Automate outsourced accounting work with AI",
     "team_size": 2,
     "industry": "B2B",
@@ -103293,7 +103323,8 @@
     "batch": "W25",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Finance and Accounting"
     ],
     "regions": [
       "United States of America",
@@ -103308,6 +103339,50 @@
     "api": "https://yc-oss.github.io/api/batches/w25/mesh-2.json"
   },
   {
+    "id": 30328,
+    "name": "Dalus",
+    "slug": "dalus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7076b7fa11f6e99d25bfd27695c8c6125132b882.png",
+    "website": "https://dalus.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dalus is an AI-powered systems engineering software to model/validate complex systems for aerospace/defense/robotics and other mission-critical industries. \r\n\r\nWith Dalus, engineers can seamlessly trace requirements, perform analyses, and update information in real-time. This ensures that every team member stays aligned and informed, reducing inefficiencies and enabling faster iterations. \r\n\r\nWith AI at our core, users can analyze hundreds of pages of existing engineering documentation and requirements to generate or retrieve information about the system model they are building in Dalus.\r\n\r\nWe started working together on Dalus in spring 2024 after Eliot quit his job at Aerojet Rocketdyne (L3Harris) where he worked as a test/systems engineer. He experienced first-hand how silos and poor communication reduced the productivity and efficiencies in the teams he worked at.\r\n\r\nWe love working with companies tackling complex engineering systems, whether they be startups just getting their feet wet or large organizations like Israel Aerospace Industries (Our design partner and biggest aerospace/defense company from Israel)",
+    "one_liner": "Dalus is building software to design and validate complex systems",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1736994368,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Aerospace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dalus",
+    "api": "https://yc-oss.github.io/api/batches/w25/dalus.json"
+  },
+  {
     "id": 30338,
     "name": "CopyCat",
     "slug": "copycat",
@@ -103317,16 +103392,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f0788a922bb389578b23e8ccb111b965944878a.png",
     "website": "https://runcopycat.com",
     "all_locations": "Seattle, WA, USA",
-    "long_description": "CopyCat allows teams to describe their workflows in natural language and transforms them into a visual interface of actionable steps that can be executed as a workflow. ",
-    "one_liner": "Turn Words Into AI Workflows",
+    "long_description": "CopyCat allows you to record your screen and turn that task into an automation using AI.",
+    "one_liner": "Screen recordings to automated workflows.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1734580429,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Workflow Automation"
+      "Workflow Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
