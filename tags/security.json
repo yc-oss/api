@@ -1817,54 +1817,6 @@
     "api": "https://yc-oss.github.io/api/batches/s21/vansec.json"
   },
   {
-    "id": 24206,
-    "name": "Metlo",
-    "slug": "metlo",
-    "former_names": [
-      "Supernote",
-      "MetricFlow"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f8c6e1ae8ff09e83bc02ec02d823eadebd7c73e.png",
-    "website": "https://metlo.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "- Create an Inventory of all your API Endpoints.\r\n- Proactively test your APIs before they go into production.\r\n- Detect API attacks in real time.\r\n",
-    "one_liner": "Open-source API security platform.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1628188883,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Security",
-      "Open Source",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S21",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/metlo",
-    "api": "https://yc-oss.github.io/api/batches/s21/metlo.json"
-  },
-  {
     "id": 24207,
     "name": "Keyri",
     "slug": "keyri",
@@ -2945,9 +2897,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/129c0d512b87fa767fbbc001172d26269d9a0ab0.png",
     "website": "https://edgebit.io",
-    "all_locations": "Remote",
-    "long_description": "Dependencies for software products are exploding in number and with that comes a sprawling supply chain. A supply chain isn't just a build-time check, it's highly dynamic. EdgeBit watches in real time – we cross-reference your build pipelines and server fleet with multiple data sources to communicate your live inventory and actual risk.\r\n\r\nSecurity teams aren’t experts at their company’s apps, so they are forced to distract the most skilled engineers with a firehose of vulnerabilities to investigate. We founded EdgeBit because we believe that we can solve this problem — to empower security teams to prioritize investigation of true risks without wasting engineers time.",
-    "one_liner": "Security platform to prevent useless supply chain investigation",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "EdgeBit enables engineering teams to ship security updates 10x faster with confidence by automating dependency update analysis. Our platform turns weeks of manual review into minutes, helping teams find and fix security vulnerabilities while maintaining a secure, up-to-date software supply chain without compromising productivity.",
+    "one_liner": "Autofix your software dependencies",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -2959,7 +2911,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -2968,8 +2920,10 @@
       "Security"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
