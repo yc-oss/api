@@ -56,11 +56,11 @@
     "subindustry": "B2B",
     "launched_at": 1736668232,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -968,16 +968,16 @@
     "website": "https://confident-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (4.3k stars, >400k monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
-    "one_liner": "The Leading LLM Evaluation Platform",
+    "one_liner": "The DeepEval LLM Evaluation Platform",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736794966,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1169,6 +1169,47 @@
     "api": "https://yc-oss.github.io/api/batches/w25/orbital-operations.json"
   },
   {
+    "id": 30302,
+    "name": "Misprint",
+    "slug": "misprint",
+    "former_names": [
+      "CardBubble"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a1c3f9a7b61db8b3dcf3a8453340dd7f22bb529.png",
+    "website": "https://www.misprint.com",
+    "all_locations": "",
+    "long_description": "Misprint is an all-in-one marketplace that solves the biggest pain point in the collectibles world: opaque pricing. Collectors, investors, and hobbyists currently rely on scattered data from auction houses, online forums, and reseller platforms, making it difficult to know the true value of their items. Misprint streamlines the process by combining accurate pricing analytics with a seamless buy/sell marketplace, making it easier than ever to understand and monetize collectible assets.\r\n\r\nExisting marketplaces lack robust, real-time analytics because accurate valuations require deep expertise in both the collectibles domain and advanced pricing algorithms. Misprint’s unique blend of insider trading card knowledge and machine learning allows us to fill this gap.\r\n\r\nBuilding these pricing models requires extensive data infrastructure, deep domain expertise, and cutting-edge ML. Recent surges in the trading card market show that collectors crave transparent valuations.\r\n\r\nThe global collectibles market is worth tens of billions of dollars. Eva has experienced the scale of this industry firsthand, generating $500k ARR within three months of taking her Pokemon card-selling side hustle full-time. With additional segments like sports cards, comics, and emerging collectible categories, the growth runway is immense.\r\n\r\nCo-founders Eva and Jon have been best friends since Exeter, combining finance expertise, a passion for collectibles, and mathematical rigor. By merging Goldman Sachs-level financial analytics with top-tier mathematical talent, Misprint is uniquely positioned to become the go-to platform for fair, transparent pricing in the collectibles space.",
+    "one_liner": "Misprint is a data-driven marketplace for graded collectibles ",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1737236774,
+    "tags": [
+      "Marketplace",
+      "Consumer",
+      "E-commerce"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/misprint",
+    "api": "https://yc-oss.github.io/api/batches/w25/misprint.json"
+  },
+  {
     "id": 30304,
     "name": "Mastra",
     "slug": "mastra",
@@ -1252,6 +1293,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/forge-automation",
     "api": "https://yc-oss.github.io/api/batches/w25/forge-automation.json"
+  },
+  {
+    "id": 30322,
+    "name": "Spott",
+    "slug": "spott",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
+    "website": "https://spott.io",
+    "all_locations": "Leuven, Flanders, Belgium",
+    "long_description": "Spott is building the next generation ATS & CRM for executive search firms. Today, headhunters use our software to produce detailed candidate presentation reports in minutes instead of hours.\r\n\r\n",
+    "one_liner": "AI for Executive Search",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1737184010,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "Belgium",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spott",
+    "api": "https://yc-oss.github.io/api/batches/w25/spott.json"
   },
   {
     "id": 30328,
@@ -1380,6 +1462,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/browser-use",
     "api": "https://yc-oss.github.io/api/batches/w25/browser-use.json"
+  },
+  {
+    "id": 30351,
+    "name": "Dexterity",
+    "slug": "dexterity",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d792766ccb75816bfcb17f32a8e56f0173f5b4d.png",
+    "website": "https://getdexterity.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dex is the adaptive layer for self-improving feedback systems that scale with your business. Imagine a 24/7 team of digital researchers embedded across every touchpoint—segmenting users, analyzing insights, and optimizing research around the clock—all while delivering a tailored user experience. \r\n\r\nWe’re reimagining surveys through a dev-first approach.",
+    "one_liner": "Gather smarter feedback from Day One.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1737217789,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Customer Success",
+      "Analytics",
+      "Market Research"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dexterity",
+    "api": "https://yc-oss.github.io/api/batches/w25/dexterity.json"
   },
   {
     "id": 30353,

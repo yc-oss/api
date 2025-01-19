@@ -1319,7 +1319,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W18",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Healthcare",
       "Healthcare IT"
@@ -12793,7 +12793,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Giga ML is an applied AI lab focused on building end-to-end customer care agents.\r\n",
     "one_liner": "AI customer service agent for B2C  Companies",
-    "team_size": 2,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689858919,
@@ -14471,8 +14471,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d18a60c353c24c8c090f2237dd2281d68b7155ba.png",
     "website": "https://www.useresonance.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Resonance enables companies to seamlessly access a curated set of AI marketing models trained on their proprietary data that they can rapidly deploy within their MarTech stack to optimize use cases such as email subject lines, SMS copy, etc.",
-    "one_liner": "Marketing Model Curation Platform",
+    "long_description": "Resonance enables companies to access a set of AI marketing models trained on their proprietary data that they can rapidly deploy within their MarTech stack to optimize use cases such as email subject lines, SMS copy, etc.",
+    "one_liner": "Deploy finetuned AI models within your existing MarTech stack ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -18409,52 +18409,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/rastro.json"
   },
   {
-    "id": 29835,
-    "name": "Voker",
-    "slug": "voker",
-    "former_names": [
-      "Invoke AI",
-      "Invoke Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a88e92cf25d0e0f2a176b614b7fca633db69671e.png",
-    "website": "https://voker.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Voker is a no-code platform that empowers product teams to build AI features in minutes without involving engineers. Companies like Lull.com and Dutch.com are using our platform to improve their consumer experience and retention.\r\n\r\nAlex and Tyler met at a high-growth E-Commerce startup where Tyler was running Technology & Data. Together, they built AI products that bootstrapped the company profitably to $100MM in Revenue.\r\n\r\nAlex experienced firsthand the broken developer experience in AI while building enterprise infrastructure at Yardi. Even with a dedicated ML team, it took too much time to build simple AI features. It was clear that if large companies were struggling with this, SMBs would definitely be left behind. We went directly to our network of SMB operators and found our hunch was correct. Within a week we had two paying customers even before launching our first prototype.\r\n\r\nVoker is built for product specialists who know they can delight their users with AI but can't spend engineering bandwidth on building those features. By making AI accessible and practical, Voker helps these businesses profit from this new wave of innovation. ",
-    "one_liner": "No-Code AI Builder",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1722887304,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/voker",
-    "api": "https://yc-oss.github.io/api/batches/s24/voker.json"
-  },
-  {
     "id": 29836,
     "name": "TradeFlow",
     "slug": "tradeflow",
@@ -20638,48 +20592,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/asha-health.json"
   },
   {
-    "id": 30160,
-    "name": "Quantstruct",
-    "slug": "quantstruct",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64b5db172bf1cde01b3812d4221d26658881fead.png",
-    "website": "https://quantstruct.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses multiple AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.\r\n\r\nTraditional generative AI tools risk hallucinating critical API & SDK fields, even with RAG based approaches. Purely agent-based approaches risk providing unpredictable output that can diverge from desired documentation processes. Finally, no company’s review and publishing workflow is the same. Quantstruct is the easiest way to onboard and customize AI agents to continuously improve your documentation based on your customer needs and product evolution. https://quantstruct.com",
-    "one_liner": "Auto-improve & publish technical docs with AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1736668232,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "API",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/quantstruct",
-    "api": "https://yc-oss.github.io/api/batches/w25/quantstruct.json"
-  },
-  {
     "id": 30165,
     "name": "Edexia",
     "slug": "edexia",
@@ -21020,6 +20932,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lucidic-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/lucidic-ai.json"
+  },
+  {
+    "id": 30283,
+    "name": "Confident AI",
+    "slug": "confident-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e739bf439400b44a89bc15e023cbe6bca3f9e00.png",
+    "website": "https://confident-ai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (4.3k stars, >400k monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
+    "one_liner": "The DeepEval LLM Evaluation Platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1736794966,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/confident-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/confident-ai.json"
   },
   {
     "id": 30304,

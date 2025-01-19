@@ -7812,8 +7812,8 @@
   },
   {
     "id": 23629,
-    "name": "Tackle",
-    "slug": "tackle",
+    "name": "AXAR AI",
+    "slug": "axar-ai",
     "former_names": [
       "TimeTackle",
       "Tackle",
@@ -7821,19 +7821,19 @@
       "Hightime AI",
       "Tackle"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f6ceb8eb91813b3fd2aab91f44fd2d5346ecaa4.png",
-    "website": "https://timetackle.com",
-    "all_locations": "Mountain View, CA, USA; Santa Clara, CA, USA",
-    "long_description": "Tackle is a time tracking & auditing tool designed for high-performing founders and top executives. It automatically tracks and analyzes calendar activities, giving insights to keep day-to-day work aligned with big-picture goals. Tackle helps leaders focus on what truly matters and drive impactful results.",
-    "one_liner": "AI-powered time insights to keep your focus on what matters most",
-    "team_size": 4,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d90c9a9fbdf9daad87106980488ddc7338f0da35.png",
+    "website": "https://axar.ai/",
+    "all_locations": "Mountain View, CA, USA",
+    "long_description": "At AXAR, we help developers build reliable AI products without the overhead. We build practical, developer-friendly tools that provide the precision and control needed to ship production-grade LLM agents with confidence.",
+    "one_liner": "Runtime for building reliable LLM agents",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1616475313,
     "tags": [
       "Artificial Intelligence",
-      "SaaS",
-      "B2B"
+      "Developer Tools",
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7843,7 +7843,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -7856,8 +7856,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tackle",
-    "api": "https://yc-oss.github.io/api/batches/w21/tackle.json"
+    "url": "https://www.ycombinator.com/companies/axar-ai",
+    "api": "https://yc-oss.github.io/api/batches/w21/axar-ai.json"
   },
   {
     "id": 23796,
@@ -17853,7 +17853,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Giga ML is an applied AI lab focused on building end-to-end customer care agents.\r\n",
     "one_liner": "AI customer service agent for B2C  Companies",
-    "team_size": 2,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689858919,
@@ -27260,6 +27260,48 @@
     "api": "https://yc-oss.github.io/api/batches/f24/fabricate.json"
   },
   {
+    "id": 30160,
+    "name": "Quantstruct",
+    "slug": "quantstruct",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64b5db172bf1cde01b3812d4221d26658881fead.png",
+    "website": "https://quantstruct.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses multiple AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.\r\n\r\nTraditional generative AI tools risk hallucinating critical API & SDK fields, even with RAG based approaches. Purely agent-based approaches risk providing unpredictable output that can diverge from desired documentation processes. Finally, no company’s review and publishing workflow is the same. Quantstruct is the easiest way to onboard and customize AI agents to continuously improve your documentation based on your customer needs and product evolution. https://quantstruct.com",
+    "one_liner": "Auto-improve & publish technical docs with AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1736668232,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "API",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/quantstruct",
+    "api": "https://yc-oss.github.io/api/batches/w25/quantstruct.json"
+  },
+  {
     "id": 30252,
     "name": "Cuckoo Labs",
     "slug": "cuckoo-labs",
@@ -27338,48 +27380,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/solidroad",
     "api": "https://yc-oss.github.io/api/batches/w25/solidroad.json"
-  },
-  {
-    "id": 30283,
-    "name": "Confident AI",
-    "slug": "confident-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e739bf439400b44a89bc15e023cbe6bca3f9e00.png",
-    "website": "https://confident-ai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (4.3k stars, >400k monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
-    "one_liner": "The Leading LLM Evaluation Platform",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1736794966,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": true,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/confident-ai",
-    "api": "https://yc-oss.github.io/api/batches/w25/confident-ai.json"
   },
   {
     "id": 30288,

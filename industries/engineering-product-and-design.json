@@ -6370,7 +6370,7 @@
     "all_locations": "St. John's, NL, Canada",
     "long_description": "CoLab is on a mission to accelerate the pace of innovation by helping engineering teams deliver better products faster. CoLab’s Design Engagement System (DES) enables engineering teams to have more effective design conversations, and ultimately make better engineering decisions. CoLab is trusted by Fortune 500 organizations like Komatsu, Polaris, Johnson Controls, Hyundai Mobis, Schneider Electric and Lockheed Martin.",
     "one_liner": "Build better hardware products, faster.",
-    "team_size": 81,
+    "team_size": 120,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1556898611,
@@ -9915,6 +9915,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/magicbell",
     "api": "https://yc-oss.github.io/api/batches/w21/magicbell.json"
+  },
+  {
+    "id": 23629,
+    "name": "AXAR AI",
+    "slug": "axar-ai",
+    "former_names": [
+      "TimeTackle",
+      "Tackle",
+      "Hightime",
+      "Hightime AI",
+      "Tackle"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d90c9a9fbdf9daad87106980488ddc7338f0da35.png",
+    "website": "https://axar.ai/",
+    "all_locations": "Mountain View, CA, USA",
+    "long_description": "At AXAR, we help developers build reliable AI products without the overhead. We build practical, developer-friendly tools that provide the precision and control needed to ship production-grade LLM agents with confidence.",
+    "one_liner": "Runtime for building reliable LLM agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1616475313,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W21",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/axar-ai",
+    "api": "https://yc-oss.github.io/api/batches/w21/axar-ai.json"
   },
   {
     "id": 23781,
@@ -16761,7 +16810,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Giga ML is an applied AI lab focused on building end-to-end customer care agents.\r\n",
     "one_liner": "AI customer service agent for B2C  Companies",
-    "team_size": 2,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689858919,
@@ -20522,23 +20571,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a88e92cf25d0e0f2a176b614b7fca633db69671e.png",
     "website": "https://voker.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Voker is a no-code platform that empowers product teams to build AI features in minutes without involving engineers. Companies like Lull.com and Dutch.com are using our platform to improve their consumer experience and retention.\r\n\r\nAlex and Tyler met at a high-growth E-Commerce startup where Tyler was running Technology & Data. Together, they built AI products that bootstrapped the company profitably to $100MM in Revenue.\r\n\r\nAlex experienced firsthand the broken developer experience in AI while building enterprise infrastructure at Yardi. Even with a dedicated ML team, it took too much time to build simple AI features. It was clear that if large companies were struggling with this, SMBs would definitely be left behind. We went directly to our network of SMB operators and found our hunch was correct. Within a week we had two paying customers even before launching our first prototype.\r\n\r\nVoker is built for product specialists who know they can delight their users with AI but can't spend engineering bandwidth on building those features. By making AI accessible and practical, Voker helps these businesses profit from this new wave of innovation. ",
     "one_liner": "No-Code AI Builder",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722887304,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -20547,8 +20590,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -21563,16 +21605,16 @@
     "website": "https://confident-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (4.3k stars, >400k monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
-    "one_liner": "The Leading LLM Evaluation Platform",
+    "one_liner": "The DeepEval LLM Evaluation Platform",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736794966,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
