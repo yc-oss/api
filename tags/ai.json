@@ -7040,54 +7040,6 @@
     "api": "https://yc-oss.github.io/api/batches/s22/overwatch.json"
   },
   {
-    "id": 26800,
-    "name": "Juicebox",
-    "slug": "juicebox",
-    "former_names": [
-      "Juicebox App",
-      "Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a2858087cb4a0409dfdf9550fd470d4f1798ec6.png",
-    "website": "https://juicebox.ai/",
-    "all_locations": "San Francisco, CA, USA; New York, NY, USA",
-    "long_description": "In the past decade, the recruiting industry has not had any innovation. AI has created an opportunity to disrupt it through software that can reason and take actions.\r\n\r\nJuicebox is an AI-powered recruiting platform. We build agentic workflows to identify, assess, and engage the best talent.\r\n\r\nWe’ve grown to 7 figures in revenue with 20% monthly growth. We have 500+ customers including Patreon, Replit, and leading AI labs.",
-    "one_liner": "AI-powered talent sourcing for recruiters",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "launched_at": 1659905940,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Recruiting",
-      "HR Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/juicebox",
-    "api": "https://yc-oss.github.io/api/batches/s22/juicebox.json"
-  },
-  {
     "id": 26825,
     "name": "Flair Labs",
     "slug": "flair-labs",
@@ -17118,7 +17070,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff6c2cd737d27675ee462a56fa75e3fd28c7f81f.png",
     "website": "https://ledgerup.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "LedgerUp is your AI billing teammate for B2B SaaS, transforming contract-based billing from a chore into a frictionless, revenue-accelerating process. We parse contracts, issue invoices, and collect payments in real-time, all while surfacing actionable analytics—allowing your finance team to escape spreadsheet chaos and focus on strategic growth. Just close deals and let us handle your RevOps for you.",
+    "long_description": "LedgerUp is your AI RevOps teammate for B2B SaaS, transforming contract-based billing from a chore into a frictionless, revenue-accelerating process. We parse contracts, issue invoices, and collect payments in real-time, all while surfacing actionable analytics—allowing your finance team to escape spreadsheet chaos and focus on strategic growth. Just close deals and let us handle your RevOps for you.",
     "one_liner": "Your AI billing teammate that automating contracts to invoices",
     "team_size": 3,
     "industry": "B2B",
@@ -17467,14 +17419,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/becd07dd532d02d7faf201baa5f85e3101cc6f42.png",
     "website": "https://lumenary.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumenary accelerates financial research with advanced AI. Our software automates multi-step AI workflows and over complex financial documents. \r\n\r\nLumenary was founded by four best friends who met at Dartmouth College, with engineering and financial expertise from Jane Street Capital, IMC Trading, Palantir Technologies, and Blackstone. \r\n\r\nThey've published high impact machine learning research in venues like NeurIPS, in addition to deploying secure enterprise software managing billions of dollars and petabytes of data.",
-    "one_liner": "AI-powered research for financial service professionals.",
+    "long_description": "Lumenary is a code-generation platform and IDE that makes designing rigorous, data-intensive applications feel like whiteboarding. We provide a canvas-based UI that helps users and LLMs work off the same code and infrastructure context, while programmatically generating full-stack apps from high-level specifications.\r\n\r\n\r\nLumenary was founded by four best friends who met at Dartmouth College, with engineering expertise from Jane Street Capital, IMC Trading, and Palantir Technologies. They've published high impact machine learning research in venues like NeurIPS, in addition to deploying secure enterprise software managing billions of dollars and petabytes of data.",
+    "one_liner": "Build production-worthy software quickly with AI.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "Healthcare",
     "launched_at": 1722638950,
     "tags": [
-      "Finance",
+      "Developer Tools",
       "Automation",
       "AI"
     ],
@@ -17486,7 +17438,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Finance and Accounting"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -18196,6 +18148,50 @@
     "api": "https://yc-oss.github.io/api/batches/s24/lumen-orbit.json"
   },
   {
+    "id": 29810,
+    "name": "Pumpkin",
+    "slug": "pumpkin",
+    "former_names": [
+      "OpenIndex",
+      "Actionbase",
+      "actionbase"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a99a3156b2a1bfc215b678dfe41d9aa9707c4dcc.png",
+    "website": "https://www.browsewithpumpkin.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pumpkin is a new type of web browser built for daily collaboration with AI.",
+    "one_liner": "A web browser built for human and AI collaboration",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1723408013,
+    "tags": [
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Home and Personal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pumpkin",
+    "api": "https://yc-oss.github.io/api/batches/s24/pumpkin.json"
+  },
+  {
     "id": 29812,
     "name": "ZeroPath",
     "slug": "zeropath",
@@ -18280,6 +18276,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vendra",
     "api": "https://yc-oss.github.io/api/batches/s24/vendra.json"
+  },
+  {
+    "id": 29825,
+    "name": "Sepal AI",
+    "slug": "sepal-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78c48b77fe0ad236d148f827dd2ba0b86450afd3.png",
+    "website": "https://www.sepalai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sepal AI works with the world’s leading experts for developing advanced capability training data, expert annotations, and bespoke model evaluations. \r\n\r\nOur team comes from Turing, Vercel, McKinsey, and Bain. At Turing, we built the LLM training business and products to support $100+M revenue for companies like OpenAI, Google, and Anthropic.\r\n\r\nWe learned that data development for advanced AI use cases is more complex and has unique needs different from traditional label generation \r\n\r\nFoundational AI companies and large enterprises that we worked with, like OpenAI, PepsiCo, and Johnson &Johnson, don't have the data they need to train models to produce value for highly technical use cases. Which means they’re not going to unlock the value from AI without a partner.\r\n\r\nWe are working with the most influential companies of our time to develop models and systems that extend human knowledge and capabilities.\r\n",
+    "one_liner": "Data Development for Advanced AI",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1722966351,
+    "tags": [
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sepal-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/sepal-ai.json"
   },
   {
     "id": 29826,
@@ -20806,6 +20841,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tessa",
     "api": "https://yc-oss.github.io/api/batches/w25/tessa.json"
+  },
+  {
+    "id": 30223,
+    "name": "a0.dev",
+    "slug": "a0-dev",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41a8c58ca0735e6b0eeef8bb621ed0bb2edf8b3d.png",
+    "website": "https://a0.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "a0.dev is a platform that helps mobile developers build high quality apps in days instead of weeks by generating custom react native projects. We've launched top ranking apps that have been used by hundreds of thousands, and now we're creating the tools we wish we had to build faster.",
+    "one_liner": "We make apps with AI.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1737327618,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Design",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/a0-dev",
+    "api": "https://yc-oss.github.io/api/batches/w25/a0-dev.json"
   },
   {
     "id": 30241,

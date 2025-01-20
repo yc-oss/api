@@ -11302,8 +11302,8 @@
     "website": "https://www.stably.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Stably helps product teams ship fast without breaking things. Our AI analyzes your web apps, generates comprehensive test scripts, and adapts to changes on the fly. ",
-    "one_liner": "Stably AI automates all your web E2E tests with zero-flake guarantee",
-    "team_size": 5,
+    "one_liner": "AI agent that automates web testing. Runnable in your CI.",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1645204142,
@@ -15146,7 +15146,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f48c426b67826bae7fd3fded6bfc3e891fd72d2.png",
     "website": "https://www.buildwithfern.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "APIs underpin the internet but are still painful to work with. They are often untyped, unstandardized, and out-of-sync across multiple sources of truth.\r\n\r\nFern enables businesses to offer “Stripe-level” SDKs (client libraries) and Docs for their REST API. Inspired by internal tooling we saw at AWS and Palantir, we’re building Fern to let every engineering team offer easy-to-use and well-documented APIs.\r\n\r\nFounded in 2022, we’re less than 10 people, building open source, and backed by YCombinator. We work together in our office in the Williamsburg neighborhood of Brooklyn, NY. Our customers include Cohere, ElevenLabs, Pinecone, Webflow, and Merge.dev.",
+    "long_description": "APIs underpin the internet but are still painful to work with. They are often untyped, unstandardized, and out-of-sync across multiple sources of truth.\r\n\r\nFern enables businesses to instantly generate SDKs and Docs for their APIs.Inspired by internal tooling we saw at AWS and Palantir, we’re building Fern to let every engineering team offer easy-to-use and well-documented APIs.\r\n\r\nFounded in 2022, we’re less than 20 people, building open source, and backed by YCombinator. We work together in our office in the Williamsburg neighborhood of Brooklyn, NY. Our customers include Square, ElevenLabs, Pinecone, Webflow, and Intercom.",
     "one_liner": "Input OpenAPI. Output SDKs and API documentation.",
     "team_size": 12,
     "industry": "B2B",
@@ -20130,6 +20130,49 @@
     "api": "https://yc-oss.github.io/api/batches/s24/hestus-inc.json"
   },
   {
+    "id": 29745,
+    "name": "Lumenary",
+    "slug": "lumenary",
+    "former_names": [
+      "January"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/becd07dd532d02d7faf201baa5f85e3101cc6f42.png",
+    "website": "https://lumenary.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lumenary is a code-generation platform and IDE that makes designing rigorous, data-intensive applications feel like whiteboarding. We provide a canvas-based UI that helps users and LLMs work off the same code and infrastructure context, while programmatically generating full-stack apps from high-level specifications.\r\n\r\n\r\nLumenary was founded by four best friends who met at Dartmouth College, with engineering expertise from Jane Street Capital, IMC Trading, and Palantir Technologies. They've published high impact machine learning research in venues like NeurIPS, in addition to deploying secure enterprise software managing billions of dollars and petabytes of data.",
+    "one_liner": "Build production-worthy software quickly with AI.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "Healthcare",
+    "launched_at": 1722638950,
+    "tags": [
+      "Developer Tools",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lumenary",
+    "api": "https://yc-oss.github.io/api/batches/s24/lumenary.json"
+  },
+  {
     "id": 29769,
     "name": "Pinnacle",
     "slug": "pinnacle",
@@ -21554,6 +21597,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/promptless",
     "api": "https://yc-oss.github.io/api/batches/w25/promptless.json"
+  },
+  {
+    "id": 30223,
+    "name": "a0.dev",
+    "slug": "a0-dev",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41a8c58ca0735e6b0eeef8bb621ed0bb2edf8b3d.png",
+    "website": "https://a0.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "a0.dev is a platform that helps mobile developers build high quality apps in days instead of weeks by generating custom react native projects. We've launched top ranking apps that have been used by hundreds of thousands, and now we're creating the tools we wish we had to build faster.",
+    "one_liner": "We make apps with AI.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1737327618,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Design",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/a0-dev",
+    "api": "https://yc-oss.github.io/api/batches/w25/a0-dev.json"
   },
   {
     "id": 30234,

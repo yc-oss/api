@@ -27894,8 +27894,8 @@
     "website": "https://www.stably.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Stably helps product teams ship fast without breaking things. Our AI analyzes your web apps, generates comprehensive test scripts, and adapts to changes on the fly. ",
-    "one_liner": "Stably AI automates all your web E2E tests with zero-flake guarantee",
-    "team_size": 5,
+    "one_liner": "AI agent that automates web testing. Runnable in your CI.",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1645204142,
@@ -38953,7 +38953,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f48c426b67826bae7fd3fded6bfc3e891fd72d2.png",
     "website": "https://www.buildwithfern.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "APIs underpin the internet but are still painful to work with. They are often untyped, unstandardized, and out-of-sync across multiple sources of truth.\r\n\r\nFern enables businesses to offer “Stripe-level” SDKs (client libraries) and Docs for their REST API. Inspired by internal tooling we saw at AWS and Palantir, we’re building Fern to let every engineering team offer easy-to-use and well-documented APIs.\r\n\r\nFounded in 2022, we’re less than 10 people, building open source, and backed by YCombinator. We work together in our office in the Williamsburg neighborhood of Brooklyn, NY. Our customers include Cohere, ElevenLabs, Pinecone, Webflow, and Merge.dev.",
+    "long_description": "APIs underpin the internet but are still painful to work with. They are often untyped, unstandardized, and out-of-sync across multiple sources of truth.\r\n\r\nFern enables businesses to instantly generate SDKs and Docs for their APIs.Inspired by internal tooling we saw at AWS and Palantir, we’re building Fern to let every engineering team offer easy-to-use and well-documented APIs.\r\n\r\nFounded in 2022, we’re less than 20 people, building open source, and backed by YCombinator. We work together in our office in the Williamsburg neighborhood of Brooklyn, NY. Our customers include Square, ElevenLabs, Pinecone, Webflow, and Intercom.",
     "one_liner": "Input OpenAPI. Output SDKs and API documentation.",
     "team_size": 12,
     "industry": "B2B",
@@ -46987,6 +46987,49 @@
     "api": "https://yc-oss.github.io/api/batches/w25/promptless.json"
   },
   {
+    "id": 30249,
+    "name": "HealthKey",
+    "slug": "healthkey",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/14cc72d6ca40878dcd3c31c8c3be26dc9565e64f.png",
+    "website": "https://gethealthkey.com/",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "HealthKey is an AI-powered Patient Identification service for Clinical Trial Research Teams. Big Pharma pays Research Sites a lot of money for each patient they enroll, but finding patients who qualify is an entirely manual process today. We help Sites make more money by matching patient's EHR data with trials' eligibility criteria using AI.",
+    "one_liner": "AI-powered Patient Identification for Clinical Trial Research Sites",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1737252261,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Health Tech",
+      "B2B",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/healthkey",
+    "api": "https://yc-oss.github.io/api/batches/w25/healthkey.json"
+  },
+  {
     "id": 30252,
     "name": "Cuckoo Labs",
     "slug": "cuckoo-labs",
@@ -47107,6 +47150,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/solidroad",
     "api": "https://yc-oss.github.io/api/batches/w25/solidroad.json"
+  },
+  {
+    "id": 30282,
+    "name": "Riviera",
+    "slug": "riviera",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/790dbe46b89475fab7c527c1403f9dcbd5c92c33.png",
+    "website": "https://www.withriviera.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Riviera builds AI voice agents that let hotels spend less time answering phone calls and more time helping guests. Our system handles front-desk operator calls, in-room dining orders, and reservations. It answers every question instantly and in any language, 24/7. \r\n\r\n\r\nWe’re solving a problem that older phone systems and IVR (Interactive Voice Recordings) can't: guests hate not being able to talk to someone immediately, but hotels can’t dedicate additional staff to manage phone lines. Voice AI has always seemed out of reach for hotels because their technology infrastructure is often fragmented, with reservation systems, loyalty programs, and in-house operations software that weren’t designed with voice AI in mind. Riviera addresses this by integrating seamlessly with existing hotel software providers and using human-sounding voice models that are highly trained on data specific to each hotel and department.\r\n\r\n\r\nHotels spend over $100 billion annually on staffing and lose potential revenue when phone lines are overwhelmed or callers hang up. By enabling hotels to handle unlimited calls, day or night, Riviera unlocks additional revenue and eases labor challenges.",
+    "one_liner": "AI Voice Agents for Hotels",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Consumer -> Travel, Leisure and Tourism",
+    "launched_at": 1737322900,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Travel",
+      "Analytics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/riviera",
+    "api": "https://yc-oss.github.io/api/batches/w25/riviera.json"
   },
   {
     "id": 30322,
