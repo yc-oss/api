@@ -10780,7 +10780,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S19",
     "status": "Active",
@@ -34853,10 +34853,10 @@
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1657200498,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41029,18 +41029,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a6d3f0c8afa88cbacfb092cfdf786243c3f8519.png",
     "website": "https://www.slickerhq.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Slicker is an AI-powered modular payments infrastructure for companies with a large number of payment processors. Merchants use Slicker to increase the number of successful transactions, reduce acquirer fees, and provide a better payment customer experience.",
-    "one_liner": "AI-powered payments platform",
+    "long_description": "Slicker eliminates involuntary churn through AI-powered retries, tailored for your business. Our proprietary engine automatically monitors, detects, and recovers failed recurring payments, so you can convert past due invoices into revenue.",
+    "one_liner": "Recover payment failures and maximize subscription Revenue",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1687798337,
     "tags": [
+      "Artificial Intelligence",
+      "FinOps",
       "SaaS",
       "Payments",
-      "Analytics",
-      "Enterprise",
-      "AI"
+      "Subscriptions"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43608,7 +43608,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -47192,6 +47192,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/riviera",
     "api": "https://yc-oss.github.io/api/batches/w25/riviera.json"
+  },
+  {
+    "id": 30321,
+    "name": "Woz",
+    "slug": "woz",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c0c9ada6111e7b8097807a72d2e056755c4323f.png",
+    "website": "https://withwoz.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Woz is an AI platform that enables anyone to build and scale software businesses - no coding required.\r\n\r\nHistorically, the ability to write code and architect software served as a massive barrier to business building. Woz eliminates this barrier with a team of AI agents that enable anyone, regardless of technical ability, to build products, go to market and grow a business all on one platform without a technical cofounder or inhouse engineering team. \r\n\r\nOur first customers include a personal trainer building a fitness app for his clients, a property manager building a tool for managing security deposits, a doctor launching a coaching program to augment GLP1s and more. Ultimately, Woz aims to be the default platform where millions of AI-enabled entrepreneurs launch and scale businesses.\r\n\r\nWoz is built by a team of engineers and ML scientists who've worked together building complex AI systems for the last decade. We're backed by YC, Untapped Ventures, MGV and more. \r\n",
+    "one_liner": "AI platform enabling anyone to build and scale software businesses -…",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1737406523,
+    "tags": [
+      "SaaS",
+      "Design",
+      "No-code",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/woz",
+    "api": "https://yc-oss.github.io/api/batches/w25/woz.json"
   },
   {
     "id": 30322,

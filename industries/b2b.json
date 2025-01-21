@@ -2624,7 +2624,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W11",
     "status": "Active",
@@ -21194,7 +21194,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W17",
     "status": "Active",
@@ -51490,7 +51490,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -63777,19 +63777,22 @@
   },
   {
     "id": 25819,
-    "name": "Telematica",
-    "slug": "telematica",
+    "name": "Broccoli AI",
+    "slug": "broccoli-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a481543a3e004f34c1986a41d9352073b9b22a58.png",
-    "website": "https://telematica.so",
-    "all_locations": "San Francisco, CA, USA; Bengaluru, KA, India",
-    "long_description": "",
-    "one_liner": "",
-    "team_size": 5,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4af19eaef182970dcf0225cba17bed637d7b49f.png",
+    "website": "https://www.broccoli.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Broccoli AI, we help plumbing, HVAC, and electrical businesses work more efficiently with AI assistants. Our AI handles customer calls, books jobs, and integrates with tools like ServiceTitan.",
+    "one_liner": "AI voice agents for home service businesses",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1646292663,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Home Services"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -63802,19 +63805,15 @@
     ],
     "regions": [
       "United States of America",
-      "India",
-      "America / Canada",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/telematica",
-    "api": "https://yc-oss.github.io/api/batches/w22/telematica.json"
+    "url": "https://www.ycombinator.com/companies/broccoli-ai",
+    "api": "https://yc-oss.github.io/api/batches/w22/broccoli-ai.json"
   },
   {
     "id": 25822,
@@ -78487,14 +78486,20 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59005c33d3a0d40259f58fdc4a12bc21a5d29d73.png",
     "website": "https://berryai.com/",
-    "all_locations": "Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Berry offers an AI CSM that scales customer success for SaaS companies.\r\n\r\nEvery post-sales organization faces the challenge of scaling customer success without having to hire more. Berry combines the best of the two worlds - taking the white-glove onboarding experience and offering it at scale. \r\n\r\nOur AI CSM onboards, trains and grows accounts for you non-stop. It’s a 10x hire to your team - at a fraction of the cost.",
     "one_liner": "Scale customer success and onboarding with AI ",
-    "team_size": 3,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1673362428,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Customer Success",
+      "AI",
+      "Conversational AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -78506,6 +78511,8 @@
       "Operations"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -83989,17 +83996,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25e62f89ae4f3fef57571a6c9170c93f95eb4d80.png",
     "website": "https://getinlet.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Inlet gets customer data into your system.\r\n\r\nB2B companies use Inlet to sync data from ERPs and other sources, connecting to any API and transforming the data quickly with our AI tools.\r\n\r\nReach out:\r\n\r\nfounders@getinlet.ai",
+    "long_description": "Inlet gets customer data into your system.\r\n\r\nB2B companies use Inlet to sync data from ERPs and other sources, connect to any API, and transform data quickly with our AI tools.\r\n\r\nReach out:\r\n\r\nfounders@getinlet.ai",
     "one_liner": "AI-powered ETL for complex data",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1687479544,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -84834,24 +84841,24 @@
   },
   {
     "id": 29045,
-    "name": "OpsNinja",
-    "slug": "opsninja",
+    "name": "Movley",
+    "slug": "movley",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/914afd5a1a7983e7aa09f46591973f0e77f098c0.png",
-    "website": "https://opsninja.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79242638b23a78d632224e08f484f02f5318f098.png",
+    "website": "https://movley.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "OpsNinja is your e-commerce brand's product quality control department. Built by sellers, and trusted by 800+ brands. Are you a Shopify or Amazon seller? Sign up in 30 seconds to start monitoring your product quality for free!",
+    "long_description": "Movley is your e-commerce brand's product quality control department. Built by sellers, and trusted by 800+ brands. Are you a Shopify or Amazon seller? Sign up in 30 seconds to start monitoring your product quality for free!",
     "one_liner": "Your e-commerce brand's product quality control department.",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1686948871,
     "tags": [
-      "Artificial Intelligence",
       "Logistics",
       "Manufacturing",
       "E-commerce",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -84874,20 +84881,20 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/opsninja",
-    "api": "https://yc-oss.github.io/api/batches/s23/opsninja.json"
+    "url": "https://www.ycombinator.com/companies/movley",
+    "api": "https://yc-oss.github.io/api/batches/s23/movley.json"
   },
   {
     "id": 29069,
-    "name": "Happyrobot",
+    "name": "HappyRobot",
     "slug": "happyrobot",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd3e59db650540efed4a5b4af9e1693188ca3a4d.png",
     "website": "https://happyrobot.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Happyrobot's voice AI agents automate inbound and outbound phone calls in the logistics industry.\r\n\r\nFreight brokers, 3PLs, carriers and other enterprises connect their information systems to our AI agents to handle check calls, load updates, payment status, appointment scheduling or even sales negotiations.",
-    "one_liner": "AI agents to automate phone calls in the logistics industry",
-    "team_size": 7,
+    "one_liner": "AI Communication. Built for Logistics.",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1687482573,
@@ -86184,7 +86191,7 @@
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Tempo is a visual editor for react that gives PMs, designers, and engineers the ability to collaborate visually on code. It offers the familiar UX of a design tool but functions like an IDE under the hood. Tempo is optimized for Vite and Tailwind.",
     "one_liner": "Visual Editor for React, powered by AI",
-    "team_size": 2,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689887097,
@@ -86851,7 +86858,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -87384,8 +87391,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c86d4825b7d8c9d007a9e647ba90224508747fa.png",
     "website": "https://joinnewton.com",
     "all_locations": "",
-    "long_description": "Newton is an AI-powered phone (VoIP) system for dentists and dental groups.",
-    "one_liner": "AI-powered VoIP for Dentists",
+    "long_description": "Newton is an AI-powered phone system (VoIP) system for dentists and dental groups.",
+    "one_liner": "AI-powered phone platform for dentists",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -89661,26 +89668,26 @@
   },
   {
     "id": 29354,
-    "name": "Quantic",
-    "slug": "quantic",
+    "name": "Quantic Labs",
+    "slug": "quantic-labs",
     "former_names": [
       "Timecard",
       "quantic"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02f4a19b9735850eaeb0024f298765e228fb036a.png",
-    "website": "https://www.quanticresearch.com?utm_source=yc",
+    "website": "https://www.quanticlabs.ai?utm_source=yc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quantic helps salespeople generate better pipeline. Quantic researches your book of business and presents buying signals, insights, and pipeline opportunities. This helps reps target the right people, at the right time, with the right messaging. ",
-    "one_liner": "Next generation data for Sales teams.",
+    "long_description": "Everyone hates their CRM, but why? Data entry is monotonous, distracting, and error-prone. CRMs are great in theory but are only as good as their data. Enter Quantic, Quantic takes your unstructured data (customer activities, like calls, emails, meetings, & documents) and automatically updates your CRM. Saving you time, covering your ass, and improving your data.",
+    "one_liner": "Automated data entry for CRM ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1709006335,
     "tags": [
-      "Artificial Intelligence",
       "Sales",
       "Sales Enablement",
       "Automation",
+      "AI",
       "Databases"
     ],
     "tags_highlighted": [],
@@ -89704,8 +89711,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/quantic",
-    "api": "https://yc-oss.github.io/api/batches/w24/quantic.json"
+    "url": "https://www.ycombinator.com/companies/quantic-labs",
+    "api": "https://yc-oss.github.io/api/batches/w24/quantic-labs.json"
   },
   {
     "id": 29355,
@@ -92620,7 +92627,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -96474,17 +96481,18 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86e94aed080f088f5400aed5835385a94c15f844.png",
     "website": "https://overstandlabs.com",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Imagine that your company had an extremely knowledgeable employee who’d been at your company since its inception. This employee would have perfect awareness of all of the product features and workflows, and they know all of your customers. They’ve attended every meeting with every customer and read every single support ticket. They’ve read every word of product documentation and listened to every meeting in which any use case for your products have been described.\r\n\r\nSenta and Mihir are building Overstand: the AI manifestation of this omniscient employee. With Overstand, no revenue is left on the table due to “not knowing” about an opportunity. Overstand is able to match any expressed customer interest to its entire product understanding, ensuring that opportunities for upsell or cross-sell are clearly identified and surfaced to those responsible for account expansion.\r\n\r\nIf you are trying to upsell your existing customer accounts, email founders@overstandlabs.com to schedule a demo.",
-    "one_liner": "The cross-selling engine for enterprise software companies",
+    "one_liner": "Leverage your customer comms to engage Founder Mode",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1724369845,
     "tags": [
-      "Sales",
-      "Sales Enablement",
-      "AI"
+      "Artificial Intelligence",
+      "Customer Success",
+      "API",
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -96494,10 +96502,11 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Sales"
+      "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -96884,9 +96893,9 @@
       "Kalo"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3c0ebb7e9cc188d3721bc8e308ed808091559dc.png",
-    "website": "https://dimely.co/",
+    "website": "https://dimely.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dimely builds AI agents for B2B SaaS finance teams. Our agents automate time-consuming finance workflows so teams can stay lean and realize revenue faster.\r\n\r\nWe do this by doing the data work, including converting contracts to invoices, calculating overages, reconciling payments, and streamlining revenue recognition\r\n\r\nWe pride ourselves in our fast time to value. Dimely seamlessly slots into your existing workflows without requiring a rip and replace, meaning you'll immediately see results from Day 1. Stop spending hours on billing today! ",
+    "long_description": "Dimely builds AI agents for B2B SaaS finance teams. Our agents automate and bring visibility to time-consuming and error-prone finance workflows so teams can stay lean and audit-ready.\r\n\r\nWe do this by completing, logging, and reconciling the data work, including converting contracts to invoices, calculating overages, reconciling payments, and streamlining revenue recognition.\r\n\r\nWe pride ourselves in our fast time to value. Dimely seamlessly slots into your existing workflows without requiring a rip and replace, meaning you'll immediately see results from Day 1. Stop spending hours on billing today! ",
     "one_liner": "AI agents for B2B SaaS Finance Teams",
     "team_size": 2,
     "industry": "B2B",
@@ -97694,7 +97703,7 @@
     "former_names": [
       "The Forecasting Co"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/983383728c2382109365d3629889d96ec8743656.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53275d8cc1a5e29fff729e2218b324e461af730f.png",
     "website": "https://www.theforecastingcompany.com",
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "The Forecasting Company builds planning systems based on our in-house foundation models for time series. ",
@@ -97922,7 +97931,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -101405,20 +101414,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83dd749cad6b076cbdf0353e077cb0a959d224a4.png",
     "website": "https://codebuff.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Chat with Codebuff to edit your codebase. It's a coding agent that can iterate and run terminal commands, just like a real engineer! We are going up-market from Cursor, starting at a $99/mo price point.\r\n\r\nCodebuff chooses files to read automatically on each message, which improves its awareness of your codebase and saves you time. It has full access to your terminal — Codebuff can run terminal commands to install packages, run tests, check for type errors, etc. It's the most powerful coding agent on the market that also happens to be the easiest to use.\r\n\r\nCodebuff is an engineer working for you. Run `npm install -g codebuff` to get started.",
+    "all_locations": "",
+    "long_description": "Chat with Codebuff to edit your codebase. It's a coding agent that can iterate and run terminal commands, just like a real engineer! We are going up-market from Cursor, starting at a $49/mo price point.\r\n\r\nCodebuff chooses files to read automatically on each message, which improves its awareness of your codebase and saves you time. It has full access to your terminal — Codebuff can run terminal commands to install packages, run tests, check for type errors, etc. It's the most powerful coding agent on the market that also happens to be the easiest to use.\r\n\r\nCodebuff is an engineer working for you. Run `npm install -g codebuff` to get started.",
     "one_liner": "The CLI tool that writes code for you",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1728685475,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "Enterprise Software",
-      "AI",
-      "AI Assistant"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -101430,8 +101433,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -102193,7 +102195,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "F24",
     "status": "Active",
@@ -103182,11 +103184,11 @@
     "subindustry": "B2B",
     "launched_at": 1737265835,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Legal",
       "HR Tech",
-      "Immigration"
+      "Immigration",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -103542,6 +103544,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mastra",
     "api": "https://yc-oss.github.io/api/batches/w25/mastra.json"
+  },
+  {
+    "id": 30321,
+    "name": "Woz",
+    "slug": "woz",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c0c9ada6111e7b8097807a72d2e056755c4323f.png",
+    "website": "https://withwoz.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Woz is an AI platform that enables anyone to build and scale software businesses - no coding required.\r\n\r\nHistorically, the ability to write code and architect software served as a massive barrier to business building. Woz eliminates this barrier with a team of AI agents that enable anyone, regardless of technical ability, to build products, go to market and grow a business all on one platform without a technical cofounder or inhouse engineering team. \r\n\r\nOur first customers include a personal trainer building a fitness app for his clients, a property manager building a tool for managing security deposits, a doctor launching a coaching program to augment GLP1s and more. Ultimately, Woz aims to be the default platform where millions of AI-enabled entrepreneurs launch and scale businesses.\r\n\r\nWoz is built by a team of engineers and ML scientists who've worked together building complex AI systems for the last decade. We're backed by YC, Untapped Ventures, MGV and more. \r\n",
+    "one_liner": "AI platform enabling anyone to build and scale software businesses -…",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1737406523,
+    "tags": [
+      "SaaS",
+      "Design",
+      "No-code",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/woz",
+    "api": "https://yc-oss.github.io/api/batches/w25/woz.json"
   },
   {
     "id": 30322,

@@ -11749,19 +11749,22 @@
   },
   {
     "id": 25819,
-    "name": "Telematica",
-    "slug": "telematica",
+    "name": "Broccoli AI",
+    "slug": "broccoli-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a481543a3e004f34c1986a41d9352073b9b22a58.png",
-    "website": "https://telematica.so",
-    "all_locations": "San Francisco, CA, USA; Bengaluru, KA, India",
-    "long_description": "",
-    "one_liner": "",
-    "team_size": 5,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4af19eaef182970dcf0225cba17bed637d7b49f.png",
+    "website": "https://www.broccoli.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Broccoli AI, we help plumbing, HVAC, and electrical businesses work more efficiently with AI assistants. Our AI handles customer calls, books jobs, and integrates with tools like ServiceTitan.",
+    "one_liner": "AI voice agents for home service businesses",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1646292663,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Home Services"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -11774,19 +11777,15 @@
     ],
     "regions": [
       "United States of America",
-      "India",
-      "America / Canada",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/telematica",
-    "api": "https://yc-oss.github.io/api/batches/w22/telematica.json"
+    "url": "https://www.ycombinator.com/companies/broccoli-ai",
+    "api": "https://yc-oss.github.io/api/batches/w22/broccoli-ai.json"
   },
   {
     "id": 25849,
@@ -16250,17 +16249,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25e62f89ae4f3fef57571a6c9170c93f95eb4d80.png",
     "website": "https://getinlet.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Inlet gets customer data into your system.\r\n\r\nB2B companies use Inlet to sync data from ERPs and other sources, connecting to any API and transforming the data quickly with our AI tools.\r\n\r\nReach out:\r\n\r\nfounders@getinlet.ai",
+    "long_description": "Inlet gets customer data into your system.\r\n\r\nB2B companies use Inlet to sync data from ERPs and other sources, connect to any API, and transform data quickly with our AI tools.\r\n\r\nReach out:\r\n\r\nfounders@getinlet.ai",
     "one_liner": "AI-powered ETL for complex data",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1687479544,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16895,7 +16894,7 @@
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Tempo is a visual editor for react that gives PMs, designers, and engineers the ability to collaborate visually on code. It offers the familiar UX of a design tool but functions like an IDE under the hood. Tempo is optimized for Vite and Tailwind.",
     "one_liner": "Visual Editor for React, powered by AI",
-    "team_size": 2,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689887097,
@@ -17162,7 +17161,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -21206,20 +21205,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83dd749cad6b076cbdf0353e077cb0a959d224a4.png",
     "website": "https://codebuff.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Chat with Codebuff to edit your codebase. It's a coding agent that can iterate and run terminal commands, just like a real engineer! We are going up-market from Cursor, starting at a $99/mo price point.\r\n\r\nCodebuff chooses files to read automatically on each message, which improves its awareness of your codebase and saves you time. It has full access to your terminal — Codebuff can run terminal commands to install packages, run tests, check for type errors, etc. It's the most powerful coding agent on the market that also happens to be the easiest to use.\r\n\r\nCodebuff is an engineer working for you. Run `npm install -g codebuff` to get started.",
+    "all_locations": "",
+    "long_description": "Chat with Codebuff to edit your codebase. It's a coding agent that can iterate and run terminal commands, just like a real engineer! We are going up-market from Cursor, starting at a $49/mo price point.\r\n\r\nCodebuff chooses files to read automatically on each message, which improves its awareness of your codebase and saves you time. It has full access to your terminal — Codebuff can run terminal commands to install packages, run tests, check for type errors, etc. It's the most powerful coding agent on the market that also happens to be the easiest to use.\r\n\r\nCodebuff is an engineer working for you. Run `npm install -g codebuff` to get started.",
     "one_liner": "The CLI tool that writes code for you",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1728685475,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "Enterprise Software",
-      "AI",
-      "AI Assistant"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -21231,8 +21224,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": true,
