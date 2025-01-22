@@ -1048,7 +1048,7 @@
     "website": "https://glasskube.dev/",
     "all_locations": "Vienna, Vienna, Austria",
     "long_description": "Managing enterprise software deployments shouldn’t feel like a balancing act. At Glasskube, we make deploying, managing, and updating software in on-premises, VPC, and air-gapped environments easier than ever.\r\n\r\nOur Mission:\r\nWe empower software vendors to deliver exceptional customer experiences with less complexity. Whether you’re onboarding new clients, rolling out updates, or troubleshooting issues, our Software Distribution Platform streamlines every step.\r\n\r\nThe founders have been best friends for over 15 years, lived together in college, and even had a startup together. Philip was the CTO of a European Kubernetes-based company that was acquired in 2022.",
-    "one_liner": "Software Distribution Platform for on-prem and air-gapped customers",
+    "one_liner": "Software Distribution Platform for on-prem, VPC and BYOC",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -1976,7 +1976,7 @@
     "all_locations": "",
     "long_description": "Stack is the open-source authN, authZ, and user management platform.\r\n\r\nWe build for devs who want to iterate quickly, offering both managed auth and self-hosting. You can set it up in one minute and scale with the project as it grows.\r\n\r\nStack was built by repeat founders with strong technical backgrounds. Check out our GitHub: https://github.com/stack-auth/stack",
     "one_liner": "The open-source Auth0 alternative",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716295686,
@@ -4956,48 +4956,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/promi.json"
   },
   {
-    "id": 29727,
-    "name": "Overstand Labs",
-    "slug": "overstand-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86e94aed080f088f5400aed5835385a94c15f844.png",
-    "website": "https://overstandlabs.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Imagine that your company had an extremely knowledgeable employee who’d been at your company since its inception. This employee would have perfect awareness of all of the product features and workflows, and they know all of your customers. They’ve attended every meeting with every customer and read every single support ticket. They’ve read every word of product documentation and listened to every meeting in which any use case for your products have been described.\r\n\r\nSenta and Mihir are building Overstand: the AI manifestation of this omniscient employee. With Overstand, no revenue is left on the table due to “not knowing” about an opportunity. Overstand is able to match any expressed customer interest to its entire product understanding, ensuring that opportunities for upsell or cross-sell are clearly identified and surfaced to those responsible for account expansion.\r\n\r\nIf you are trying to upsell your existing customer accounts, email founders@overstandlabs.com to schedule a demo.",
-    "one_liner": "Leverage your customer comms to engage Founder Mode",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1724369845,
-    "tags": [
-      "Artificial Intelligence",
-      "Customer Success",
-      "API",
-      "Customer Support"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/overstand-labs",
-    "api": "https://yc-oss.github.io/api/batches/s24/overstand-labs.json"
-  },
-  {
     "id": 29728,
     "name": "expand.ai",
     "slug": "expand-ai",
@@ -7635,9 +7593,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cbfdae4cf4aa88ab7c284441ae3c8e0ff382717.png",
     "website": "https://www.tryandai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "&AI is a patent due diligence and management platform for attorneys and inventors. Streamline tasks like prior art search and claim chart drafting for prosecution, litigation, and discovery in one secure workspace.",
-    "one_liner": "Accelerate patent due diligence with AI",
-    "team_size": 5,
+    "long_description": "&AI is a secure workspace engineered for patent attorneys, leveraging AI to accelerate end-to-end prosecution and litigation workflows.",
+    "one_liner": "AI for Patent Attorneys",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1719938647,
@@ -9930,25 +9888,25 @@
   },
   {
     "id": 29962,
-    "name": "Kart AI",
-    "slug": "kart-ai",
+    "name": "General Analysis",
+    "slug": "general-analysis",
     "former_names": [
       "Omni",
       "Omni Research"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4acd5d0bb79e87c45784030bcd7ca19409eea8cb.png",
-    "website": "https://kart.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad4e9323d0b345b07ab2d18cb012014c12ea80e4.png",
+    "website": "https://generalanalysis.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "You might have seen that Amazon recently launched Rufus, an AI conversational shopping assistant that’s everywhere on their online store. Every retailer now wants the same technology on their site - and that’s what we enable.",
-    "one_liner": "The AI shopping assistant for all e-commerce brands",
+    "long_description": "General Analysis provides a comprehensive suite of AI safety tools, including red-teaming frameworks, interpretability techniques, and more. As AI systems become increasingly capable, their deployment in high-stakes environments poses significant risks—financial, ethical, and otherwise—where errors can lead to substantial consequences. To address these challenges, we offer access to novel tools and methodologies designed to systematically find model failure-modes and enhance model robustness.",
+    "one_liner": "Automated AI Safety and Red Teaming Tools",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722983007,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Sales",
-      "E-commerce"
+      "Trust & Safety"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9957,8 +9915,7 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -9969,8 +9926,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kart-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/kart-ai.json"
+    "url": "https://www.ycombinator.com/companies/general-analysis",
+    "api": "https://yc-oss.github.io/api/batches/s24/general-analysis.json"
   },
   {
     "id": 29963,

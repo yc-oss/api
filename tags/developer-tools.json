@@ -5596,7 +5596,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W20",
     "status": "Active",
@@ -6306,7 +6306,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S20",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -6884,7 +6884,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -8177,16 +8177,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d90c9a9fbdf9daad87106980488ddc7338f0da35.png",
     "website": "https://axar.ai/",
     "all_locations": "Mountain View, CA, USA",
-    "long_description": "At AXAR, we help developers build reliable AI products without the overhead. We build practical, developer-friendly tools that provide the precision and control needed to ship production-grade LLM agents with confidence.",
-    "one_liner": "Runtime for building reliable LLM agents",
+    "long_description": "",
+    "one_liner": "Runtime for building reliable LLM apps",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1616475313,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12349,53 +12349,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/grai",
     "api": "https://yc-oss.github.io/api/batches/s22/grai.json"
-  },
-  {
-    "id": 27041,
-    "name": "Oneloop",
-    "slug": "oneloop",
-    "former_names": [
-      "Feather Inc",
-      "Feather"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bab1bedbd71c2554a6ab39bb7bfe18fcf99d5df7.png",
-    "website": "https://oneloop.ai",
-    "all_locations": "Seattle, WA, USA; Remote",
-    "long_description": "Oneloop is a modern API key management and authentication platform. What this means is that with a single line of code, you can start issuing API keys, authenticate them, add rate limits, and track usage limits to your API product\r\n\r\nIf you have an API product or building your own AI models, we can help you add API key authentication and management to your product, with our sdk and pre-built UI. ",
-    "one_liner": "Easiest way to issue API Keys",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1656542977,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oneloop",
-    "api": "https://yc-oss.github.io/api/batches/s22/oneloop.json"
   },
   {
     "id": 27092,
@@ -17032,7 +16985,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -18791,7 +18744,7 @@
     "website": "https://glasskube.dev/",
     "all_locations": "Vienna, Vienna, Austria",
     "long_description": "Managing enterprise software deployments shouldn’t feel like a balancing act. At Glasskube, we make deploying, managing, and updating software in on-premises, VPC, and air-gapped environments easier than ever.\r\n\r\nOur Mission:\r\nWe empower software vendors to deliver exceptional customer experiences with less complexity. Whether you’re onboarding new clients, rolling out updates, or troubleshooting issues, our Software Distribution Platform streamlines every step.\r\n\r\nThe founders have been best friends for over 15 years, lived together in college, and even had a startup together. Philip was the CTO of a European Kubernetes-based company that was acquired in 2022.",
-    "one_liner": "Software Distribution Platform for on-prem and air-gapped customers",
+    "one_liner": "Software Distribution Platform for on-prem, VPC and BYOC",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -20525,7 +20478,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8071a4dd821b17c48fe53b21be58c8dd37534c31.png",
     "website": "https://vespper.com",
-    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "all_locations": "",
     "long_description": "Vespper is an AI agent running 24/7 to troubleshoot your alerts by surfacing the right data at the right time. It helps teams reduce downtime and alert fatigue by making sure no alert falls through the cracks again. \r\n",
     "one_liner": "AI agent that troubleshoots production alerts for software engineers,…",
     "team_size": 2,
@@ -20550,8 +20503,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Israel",
-      "Middle East and North Africa"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

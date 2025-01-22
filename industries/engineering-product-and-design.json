@@ -8784,7 +8784,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -9930,16 +9930,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d90c9a9fbdf9daad87106980488ddc7338f0da35.png",
     "website": "https://axar.ai/",
     "all_locations": "Mountain View, CA, USA",
-    "long_description": "At AXAR, we help developers build reliable AI products without the overhead. We build practical, developer-friendly tools that provide the precision and control needed to ship production-grade LLM agents with confidence.",
-    "one_liner": "Runtime for building reliable LLM agents",
+    "long_description": "",
+    "one_liner": "Runtime for building reliable LLM apps",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1616475313,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13042,53 +13042,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fini",
     "api": "https://yc-oss.github.io/api/batches/s22/fini.json"
-  },
-  {
-    "id": 27041,
-    "name": "Oneloop",
-    "slug": "oneloop",
-    "former_names": [
-      "Feather Inc",
-      "Feather"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bab1bedbd71c2554a6ab39bb7bfe18fcf99d5df7.png",
-    "website": "https://oneloop.ai",
-    "all_locations": "Seattle, WA, USA; Remote",
-    "long_description": "Oneloop is a modern API key management and authentication platform. What this means is that with a single line of code, you can start issuing API keys, authenticate them, add rate limits, and track usage limits to your API product\r\n\r\nIf you have an API product or building your own AI models, we can help you add API key authentication and management to your product, with our sdk and pre-built UI. ",
-    "one_liner": "Easiest way to issue API Keys",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1656542977,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oneloop",
-    "api": "https://yc-oss.github.io/api/batches/s22/oneloop.json"
   },
   {
     "id": 27174,
@@ -19399,7 +19352,7 @@
     "all_locations": "",
     "long_description": "Stack is the open-source authN, authZ, and user management platform.\r\n\r\nWe build for devs who want to iterate quickly, offering both managed auth and self-hosting. You can set it up in one minute and scale with the project as it grows.\r\n\r\nStack was built by repeat founders with strong technical backgrounds. Check out our GitHub: https://github.com/stack-auth/stack",
     "one_liner": "The open-source Auth0 alternative",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716295686,
@@ -20773,50 +20726,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/void.json"
   },
   {
-    "id": 29962,
-    "name": "Kart AI",
-    "slug": "kart-ai",
-    "former_names": [
-      "Omni",
-      "Omni Research"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4acd5d0bb79e87c45784030bcd7ca19409eea8cb.png",
-    "website": "https://kart.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "You might have seen that Amazon recently launched Rufus, an AI conversational shopping assistant that’s everywhere on their online store. Every retailer now wants the same technology on their site - and that’s what we enable.",
-    "one_liner": "The AI shopping assistant for all e-commerce brands",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1722983007,
-    "tags": [
-      "SaaS",
-      "Sales",
-      "E-commerce"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kart-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/kart-ai.json"
-  },
-  {
     "id": 29989,
     "name": "Melty",
     "slug": "melty",
@@ -21037,7 +20946,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8071a4dd821b17c48fe53b21be58c8dd37534c31.png",
     "website": "https://vespper.com",
-    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "all_locations": "",
     "long_description": "Vespper is an AI agent running 24/7 to troubleshoot your alerts by surfacing the right data at the right time. It helps teams reduce downtime and alert fatigue by making sure no alert falls through the cracks again. \r\n",
     "one_liner": "AI agent that troubleshoots production alerts for software engineers,…",
     "team_size": 2,
@@ -21062,8 +20971,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Israel",
-      "Middle East and North Africa"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

@@ -4741,49 +4741,6 @@
     "api": "https://yc-oss.github.io/api/batches/s16/miso.json"
   },
   {
-    "id": 1272,
-    "name": "Athelas",
-    "slug": "athelas",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9cccd2e88dc540efd8579f8a5c13f14c6551ea07.png",
-    "website": "http://athelas.com",
-    "all_locations": "Mountain View, CA, USA",
-    "long_description": "At Athelas, we're bringing simple, life-changing health care products to people around the globe.\r\n\r\nThe future of healthcare is at the home - we are a team of technologists building the next generation of medical products at the intersection of hardware and software. We won’t stop until we’ve brought the world class tools of a hospital to your home. \r\n\r\nAthelas Remote Patient Monitoring (RPM) allows healthcare providers to monitor patient vitals like blood pressure, weight, and blood glucose without the patient ever having to enter a clinic, improving patient health and engagement, and reducing hospitalizations. We do this all through a beautifully integrated suite of devices and software tools that provides access to state-of-the-art technologies and groundbreaking AI powered analysis.",
-    "one_liner": "Digital tools for healthcare providers",
-    "team_size": 160,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1461732015,
-    "tags": [
-      "Health Tech",
-      "Medical Devices",
-      "Biotech",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S16",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/athelas",
-    "api": "https://yc-oss.github.io/api/batches/s16/athelas.json"
-  },
-  {
     "id": 1284,
     "name": "Flutterwave",
     "slug": "flutterwave",
@@ -10657,6 +10614,49 @@
     "api": "https://yc-oss.github.io/api/batches/w19/pnoe.json"
   },
   {
+    "id": 12074,
+    "name": "Caribou",
+    "slug": "caribou",
+    "former_names": [
+      "Rebank"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6babda5ff95102983cef278d4efd8b7a1d06c10b.png",
+    "website": "https://usecaribou.com",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Caribou is the alternative to endless email chains with lawyers and accountants.\r\n\r\nMore companies are now global: they have to navigate complex cross-border tax issues from day one. Their only option is to hire traditional firms whose siloed approach overcomplicates work and distracts finance teams.\r\n\r\nCaribou is an alternative that sets Transfer Pricing policies by collecting unstructured company data, saving companies from drawn-out manual projects.",
+    "one_liner": "Transfer Pricing & Intragroup agreements for global companies",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1541646249,
+    "tags": [
+      "Fintech",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W19",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/caribou",
+    "api": "https://yc-oss.github.io/api/batches/w19/caribou.json"
+  },
+  {
     "id": 12082,
     "name": "Wanderlog",
     "slug": "wanderlog",
@@ -14804,9 +14804,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b751b6367e4bf6fedf38c26f0d15cb4a4c675eb.png",
     "website": "https://www.posthog.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "PostHog helps engineers build better products. We provide everything they need to make sure they are building something that people want. This means - product analytics, session replays, feedback tools, feature flags, experimentation, and a datawarehouse (with SQL) with one click data imports from the places you use.\r\n\r\nPostHog can be deployed to the cloud, or self-hosted on existing infrastructure, removing the need to send data externally.\r\n\r\nPostHog was created as an open source project during Y Combinator's W20 cohort and had the most successful B2B software launch on HackerNews since 2012 - with a product that was just 4 weeks old. Since then, more than 40,000 companies have installed the platform, we're doing $MMs in revenue, and have a community of 120K developers - 97% driven by word of mouth.\r\n\r\nDespite the  tech market, we're default alive and doing better than ever!\r\n\r\nWe've been averaging ~10% monthly revenue growth, we are [default alive](http://www.paulgraham.com/aord.html), and we didn't raised a huge / now-overpriced round in 2021. While others are focused on layoffs and struggling to grow into huge valuations, we're focusing on an awesome product for end users, hiring (a handful of) exceptional team members and seeing fantastic increases in revenue as a result.\r\n\r\nCheck out posthog.com/careers if you want to be part of this journey.",
-    "one_liner": "Open source product operating system",
-    "team_size": 55,
+    "long_description": "PostHog helps engineers build better products. We provide everything they need to make sure they are building something that people want. This means - product analytics, session replays, feedback tools, feature flags, experimentation, LLM observability, and a datawarehouse (with SQL) with one click data imports from the places you use.\r\n\r\nWe've been averaging ~10% monthly revenue growth, we are [default alive](http://www.paulgraham.com/aord.html), and we didn't raised a huge / now-overpriced round in 2021. While others are focused on layoffs and struggling to grow into huge valuations, we're focusing on an awesome product for end users, hiring (a handful of) exceptional team members and seeing fantastic increases in revenue as a result.\r\n\r\nCheck out posthog.com/careers if you want to be part of this journey.",
+    "one_liner": "The single platform to analyze, test, observe, and deploy new features",
+    "team_size": 85,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1583901228,
@@ -15508,50 +15508,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/living-carbon",
     "api": "https://yc-oss.github.io/api/batches/w20/living-carbon.json"
-  },
-  {
-    "id": 13579,
-    "name": "Tasker AI",
-    "slug": "tasker-ai",
-    "former_names": [
-      "DAPI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab0f6f3b7f550864435009079aaabbc0721a377f.png",
-    "website": "http://www.tasker.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Building the best AI agent co-worker by giving agents access to tools & the internet\r\n",
-    "one_liner": "Building AI agent automation layer of the internet",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1598041442,
-    "tags": [
-      "Developer Tools",
-      "Consumer",
-      "Workflow Automation",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W20",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tasker-ai",
-    "api": "https://yc-oss.github.io/api/batches/w20/tasker-ai.json"
   },
   {
     "id": 13610,
@@ -19342,6 +19298,49 @@
     "api": "https://yc-oss.github.io/api/batches/w21/axiom-ai.json"
   },
   {
+    "id": 22743,
+    "name": "Segments.ai",
+    "slug": "segments-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac88c08aefaf0753bc9d29d8d7ced656148b852c.png",
+    "website": "https://segments.ai",
+    "all_locations": "Brussels, Brussels, Belgium; Remote",
+    "long_description": "[Segments.ai](http://segments.ai/) is helping robotics and automotive companies label their multi-sensor data for AI training and validation. Our platform enables customers to efficiently annotate their point cloud and image data, accelerating their path to autonomy.\r\n\r\nWe're a fast-growing, remote-first YC startup with a lean team and healthy runway. [Segments.ai](http://segments.ai/) is used by large organizations as well as innovative startups building the next generation of autonomous drones, delivery robots, self-driving cars, and more.",
+    "one_liner": "Build better computer vision models by building better datasets",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1615300374,
+    "tags": [
+      "Deep Learning",
+      "Developer Tools",
+      "Computer Vision"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W21",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Belgium",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/segments-ai",
+    "api": "https://yc-oss.github.io/api/batches/w21/segments-ai.json"
+  },
+  {
     "id": 22744,
     "name": "Encord",
     "slug": "encord",
@@ -21632,49 +21631,6 @@
     "api": "https://yc-oss.github.io/api/batches/w21/haystack.json"
   },
   {
-    "id": 23268,
-    "name": "Zealth",
-    "slug": "zealth",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18c9dca3fe4fe586ecc86e321177f271f61a4ffb.png",
-    "website": "https://zealth-ai.com/",
-    "all_locations": "Bengaluru, KA, India; Remote",
-    "long_description": "Zealth is building remote monitoring software to help hospitals provide automated continuous round-the-clock support to their cancer patients post-discharge. \r\n\r\nHospitals are overburdened with no resources to provide care to their chronic patients once they leave the hospital. For instance, in India, there are only 2200 oncologists for 1.38 billion people. Patients travel 100 miles waiting for hours to get few minutes with the doctors. They have no easy means to manage all the toxicities and symptoms they get once they are back home. This leads to 6X lower patient retention, 4X high emergency readmissions, and poor patient outcomes. \r\n\r\nZealth bridges this gap through its digital health intervention platform.    ",
-    "one_liner": "Software for remote monitoring of cancer patients",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1615816186,
-    "tags": [
-      "Health Tech",
-      "Remote",
-      "Oncology"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W21",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zealth",
-    "api": "https://yc-oss.github.io/api/batches/w21/zealth.json"
-  },
-  {
     "id": 23301,
     "name": "FlutterFlow",
     "slug": "flutterflow",
@@ -22027,47 +21983,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/prospa",
     "api": "https://yc-oss.github.io/api/batches/w21/prospa.json"
-  },
-  {
-    "id": 23429,
-    "name": "UPchieve",
-    "slug": "upchieve",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb3330791457fb73115f10b2b4141634154715a6.png",
-    "website": "https://www.upchieve.org",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "UPchieve is an edtech nonprofit that provides free, 24/7 online tutoring to low-income HS students. Using our app, students can request and get paired with a live volunteer in under 5 minutes. We’ve matched 100,000+ requests so far.\r\n\r\nRight now in the US, there are 8 million low-income HS students who don’t have anyone in their home who can help them with schoolwork. UPchieve is working to change that. Our vision is simple: we want to democratize access to academic support, so that every student has an equal opportunity to attend college and achieve upward mobility.",
-    "one_liner": "Connecting low-income HS students with free, 24/7 online tutoring",
-    "team_size": 15,
-    "industry": "Education",
-    "subindustry": "Education",
-    "launched_at": 1613154543,
-    "tags": [
-      "Education",
-      "Nonprofit"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": true,
-    "batch": "W21",
-    "status": "Active",
-    "industries": [
-      "Education"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/upchieve",
-    "api": "https://yc-oss.github.io/api/batches/w21/upchieve.json"
   },
   {
     "id": 23432,
@@ -25498,16 +25413,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01f2ed9f6b2573e18e28f42a8c260ee15a0a777a.png",
     "website": "https://www.zensors.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zensors will convert every camera in your building into an AI powered supersensor. The AI platform does this by connecting to your existing cameras and can watches a space to track multiple workflows around capacity management, staffing, cleaning, customer experience and business asset tracking. The AI learns activity patterns to streamline facilities management or business processes and provides real time anomaly alerts, forecasts and rich data analytics. \r\n",
-    "one_liner": "Google Analytics for the physical world",
-    "team_size": 8,
+    "long_description": "",
+    "one_liner": "AI to understand and automates the physical world",
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1630100572,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
-      "Computer Vision"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33191,6 +33105,52 @@
     "api": "https://yc-oss.github.io/api/batches/s22/metriport.json"
   },
   {
+    "id": 27041,
+    "name": "Feather",
+    "slug": "feather-2",
+    "former_names": [
+      "Feather Inc",
+      "Feather"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fab8bda1ee44f2a2c3a9dfe9f460492cf30a820.png",
+    "website": "https://featherhq.com",
+    "all_locations": "Seattle, WA, USA; Remote",
+    "long_description": "Feather is a building a suite of AI employees for the mortgage industry. We are automating most manual human tasks with the use of AI.",
+    "one_liner": "AI Employees for the Mortgage Industry",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1656542977,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Lending"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/feather-2",
+    "api": "https://yc-oss.github.io/api/batches/s22/feather-2.json"
+  },
+  {
     "id": 27050,
     "name": "Kombo",
     "slug": "kombo",
@@ -36047,14 +36007,19 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/184d30d91903380caada7f52cd7cd7992759e07b.png",
     "website": "https://www.extend.app/",
-    "all_locations": "",
-    "long_description": "We're helping companies train, deploy, and monitor in-house AI agents for processing unstructured data. Our customers use Extend to turn their mountains of unstructured data (documents, PDFs, emails, images) → insights, customer NPS, operational efficiency, or new product initiatives.  We're growing quickly and hiring!",
-    "one_liner": "AI Agents for Unstructured Data",
-    "team_size": 5,
+    "all_locations": "New York, NY, USA",
+    "long_description": "We’re helping companies transform their documents into high quality data, achieve unmatched accuracy, and ship custom document automation in days, not months.",
+    "one_liner": "Document processing reimagined with LLMs",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1679062598,
-    "tags": [],
+    "tags": [
+      "Documents",
+      "Artificial Intelligence",
+      "B2B",
+      "Data Science"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -36065,7 +36030,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -39762,45 +39728,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/pincites.json"
   },
   {
-    "id": 28976,
-    "name": "Crew",
-    "slug": "crew-2",
-    "former_names": [
-      "Social Inc.",
-      "Pampas Inc.",
-      "Pampas"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d212d1d469884e8e337c874f85c3da9682d9d59.png",
-    "website": "https://www.trycrew.ai",
-    "all_locations": "",
-    "long_description": "AI-powered recruiting and HR platform. Find and hire the best pre-vetted global software talent and simplify onboarding, payroll, and compliance. ",
-    "one_liner": "AI platform to hire and onboard your global team",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1691417670,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/crew-2",
-    "api": "https://yc-oss.github.io/api/batches/s23/crew-2.json"
-  },
-  {
     "id": 28980,
     "name": "Osium AI",
     "slug": "osium-ai",
@@ -40761,50 +40688,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/nowadays.json"
   },
   {
-    "id": 29125,
-    "name": "truemetrics",
-    "slug": "truemetrics",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6cd7b0f7663e8989ac828e2eeebe6e1968813d3.png",
-    "website": "https://www.truemetrics.io/",
-    "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "truemetrics helps logistics companies to find their customer's faster. By detecting and mapping entrances, we help GLS, a key logistics company in Europe, save 2-10 minutes on each delivery.\r\n\r\nThe way couriers navigate is broken.\r\n\r\n“You Have Arrived At Your Destination!” — or so Google Maps thinks. In reality, the way couriers navigate is broken: No parking, hard-to-find entrances, and labyrinth-like apartment and office complexes can turn the last meters of delivery into a time-consuming puzzle.\r\n\r\ntruemetrics provides parking positions and entrance locations to enable faster drop-offs. Our data is generated by analyzing sensor data from drivers' smartphones, allowing truemetrics to identify precise parking and entrance locations, thereby simplifying the last meters of delivery.\r\n",
-    "one_liner": "Helping logistics companies to deliver to their customer’s doorstep.",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1688493255,
-    "tags": [
-      "Artificial Intelligence",
-      "Delivery",
-      "Logistics",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "Germany",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/truemetrics",
-    "api": "https://yc-oss.github.io/api/batches/s23/truemetrics.json"
-  },
-  {
     "id": 29128,
     "name": "Olio Labs",
     "slug": "olio-labs",
@@ -41099,6 +40982,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/onyx",
     "api": "https://yc-oss.github.io/api/batches/w24/onyx.json"
+  },
+  {
+    "id": 29182,
+    "name": "Upsolve AI",
+    "slug": "upsolve-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/584af51898d885eead8c1806789fece6d7acaff0.png",
+    "website": "https://upsolve.ai/",
+    "all_locations": "",
+    "long_description": "Upsolve AI is a customer-facing analytics as a service platform. We are building a full data stack that enables businesses to build and offer analytics to their customers at lightning speed and gives their customers the superpower to answer any data questions via AI. The company is founded by Ka Ling Wu and Serguei Balanovich, who built a similar product at Palantir before (featured in Palantir's S-1), growing it to 50+ enterprise customers and 8-figures of annual revenue in 2 years.",
+    "one_liner": "Customer-facing analytics as a service, powered by AI.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1699320905,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Analytics",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/upsolve-ai",
+    "api": "https://yc-oss.github.io/api/batches/w24/upsolve-ai.json"
   },
   {
     "id": 29184,
@@ -42513,19 +42439,19 @@
     "name": "Toma",
     "slug": "toma",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36511c34d99fbf72c05effaf820426cfd6fc6ed8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2df8c8ad6f610abbbdfce01b8d7e85f32173807d.png",
     "website": "http://www.toma.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Toma, we aim to become the Microsoft/OpenAI of the Automotive industry by supplying a fully integrated AI + software suite to tens of thousands of profitable automotive dealers in America, and then worldwide.\r\n\r\nStep 1 is to provide the world’s best voice AI solution for the automotive industry, serving departments from service to sales to finance to information technology. Toma’s voice agents do thousands of AI calls every day and generate millions of dollars worth of revenue for auto dealerships.\r\n\r\nThe automotive industry is a sleeping giant contributing trillions of dollars to the GDP. The industry and its processes are ready for disruption. Toma is bringing AI to all operations in the industry while working hand-in-hand with some of the biggest names such as the Car Dealership Guy, and public companies like Lithia Motors and Cox Automotive. Toma is backed best investors in Silicon Valley and the Automotive industry.",
-    "one_liner": "AI for auto dealerships",
-    "team_size": 2,
+    "one_liner": "AI Workforce for Automotive Dealerships",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1702419018,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Operations",
-      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -46828,7 +46754,7 @@
     "slug": "consus",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbe9d08b52107f4ba06be791e9808aa96113cd5f.png",
-    "website": "https://www.consusindustries.co/",
+    "website": "https://www.consus.io",
     "all_locations": "Remote",
     "long_description": "Consus is your single source of truth for government specifications, standards, or handbooks. We verify the active revision of documents, notify you when documents are updated, and make it easy to extract the relevant information. Win new business or execute existing contracts faster with Consus.",
     "one_liner": "Your single source of truth for government documents",
@@ -47099,14 +47025,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Harper (fka Tatch) are building an infinitely scalable commercial insurance brokerage using proprietary software, AI agents, and expert human training operators. Our initial focus is surplus lines insurance.",
     "one_liner": "Harper is an AI-native commercial insurance brokerage.",
-    "team_size": 4,
+    "team_size": 8,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1735235398,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
