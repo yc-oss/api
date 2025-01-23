@@ -2026,7 +2026,7 @@
     "one_liner": "World's fastest and most optimal route optimization engine",
     "team_size": 6,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1610906188,
     "tags": [
       "SaaS",
@@ -2099,7 +2099,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2755,7 +2755,9 @@
     "id": 24615,
     "name": "Infer",
     "slug": "infer",
-    "former_names": [],
+    "former_names": [
+      "Synth"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f093ce23ca35f332213eeee11dee08581cefba9d.png",
     "website": "https://www.infer.so/",
     "all_locations": "San Mateo, CA, USA; Bengaluru, KA, India",
@@ -2763,7 +2765,7 @@
     "one_liner": "Personalized AI Voice Agents for lead qualification for insurance &…",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Sales",
     "launched_at": 1627633217,
     "tags": [
       "Artificial Intelligence",
@@ -3163,7 +3165,8 @@
     "name": "Emobi",
     "slug": "emobi",
     "former_names": [
-      "Laegacy Inc."
+      "Laegacy Inc.",
+      "AeonCharge"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d33f8249b3bdf459257e46d019d4e6687e56a9c0.png",
     "website": "https://www.emobi.ai",
@@ -3251,7 +3254,9 @@
     "slug": "velt",
     "former_names": [
       "Snippyly Inc.",
-      "Snippyly"
+      "Snippyly",
+      "Velt",
+      "Velt: Collaboration SDK"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36bc77538c7b2b901965b5e1ff49fe05b84cc1f1.png",
     "website": "https://velt.dev",
@@ -5716,49 +5721,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/keywords-ai.json"
   },
   {
-    "id": 29328,
-    "name": "Guide Labs",
-    "slug": "guide-labs",
-    "former_names": [
-      "Guide Labs Inc"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
-    "website": "https://www.guidelabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Guide labs, we build Interpretable foundation models and AI systems that can reliably explain their reasoning, and are easy to audit, steer and understand. We provide access to these models via our API. ",
-    "one_liner": "Interpretable AI systems",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1709806941,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Machine Learning",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/guide-labs",
-    "api": "https://yc-oss.github.io/api/batches/w24/guide-labs.json"
-  },
-  {
     "id": 29379,
     "name": "Trieve",
     "slug": "trieve",
@@ -6366,6 +6328,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zeroentropy",
     "api": "https://yc-oss.github.io/api/batches/w25/zeroentropy.json"
+  },
+  {
+    "id": 30327,
+    "name": "Overstand Labs",
+    "slug": "overstand-labs-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c0284a0fcd58ff8f1dd3c58a63ce51432c47e43.png",
+    "website": "https://overstandlabs.com",
+    "all_locations": "",
+    "long_description": "If you’re a founder and feel like you—or your exec team—are too far removed from the customer, Overstand is here to help. We’re the platform (and API) for your customer communications, turning Slack, emails, WhatsApp, call recordings, and more into actionable insights. For example, we can help you discover feature requests hidden in customer emails, spot upsell opportunities from a casual Slack message, or identify a critical support issue buried in a call transcript -- all without having to depend on others in your company to fill out a form or write meeting notes.\r\n\r\nGet back to Founder Mode by spotting trends, uncovering growth opportunities, and staying deeply connected to your customers. Overstand makes it easy to understand where you’re needed most and take action that drives impact. 🚀",
+    "one_liner": "Leverage your customer comms to engage Founder Mode",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1737568627,
+    "tags": [
+      "Customer Success",
+      "API",
+      "Customer Support",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/overstand-labs-2",
+    "api": "https://yc-oss.github.io/api/batches/w25/overstand-labs-2.json"
   },
   {
     "id": 30363,

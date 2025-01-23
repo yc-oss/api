@@ -3978,7 +3978,9 @@
     "id": 22294,
     "name": "Clau",
     "slug": "clau",
-    "former_names": [],
+    "former_names": [
+      "Flat"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27f510d61e3fb71a7cb032342d796e9d330fa8a5.png",
     "website": "https://clau.com",
     "all_locations": "Mexico City, CDMX, Mexico",
@@ -4217,7 +4219,7 @@
     "one_liner": "The data development platform for AI teams",
     "team_size": 70,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1613768381,
     "tags": [
       "Artificial Intelligence",
@@ -5364,7 +5366,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5612,7 +5614,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -5818,7 +5820,9 @@
     "id": 25398,
     "name": "Dynamo AI",
     "slug": "dynamo-ai",
-    "former_names": [],
+    "former_names": [
+      "DynamoFL"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3304eb7be6e1ef3c98fcc797f946b15b44191759.png",
     "website": "https://dynamo.ai",
     "all_locations": "San Francisco, CA, USA",
@@ -6533,7 +6537,7 @@
     "all_locations": "Atlanta, GA, USA",
     "long_description": "IoTFlows provides comprehensive visibility and valuable insights into manufacturing shop floors. Leveraging artificial intelligence to monitor and analyze the performance of machines based on their vibration and acoustics data, we help manufacturers to identify issues and inefficiencies in the production process and make data-driven decisions to improve performance.",
     "one_liner": "AI-Powered Machine Performance Monitoring",
-    "team_size": 2,
+    "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1643385384,
@@ -8659,49 +8663,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/simplex.json"
   },
   {
-    "id": 29328,
-    "name": "Guide Labs",
-    "slug": "guide-labs",
-    "former_names": [
-      "Guide Labs Inc"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
-    "website": "https://www.guidelabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Guide labs, we build Interpretable foundation models and AI systems that can reliably explain their reasoning, and are easy to audit, steer and understand. We provide access to these models via our API. ",
-    "one_liner": "Interpretable AI systems",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1709806941,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Machine Learning",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/guide-labs",
-    "api": "https://yc-oss.github.io/api/batches/w24/guide-labs.json"
-  },
-  {
     "id": 29375,
     "name": "Preloop",
     "slug": "preloop",
@@ -8754,17 +8715,17 @@
     "website": "https://useocular.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ocular AI is the data annotation engine for Generative AI, Computer Vision, and Enterprise AI models.\r\n\r\nWe help you transform unstructured, multi-modal data into golden datasets to power generative AI, frontier models, and computer vision.   \r\n\r\nOcular Foundry is the most intuitive, data-centric, and fastest platform that lets you label, annotate, version, and deploy your data for training models. It also orchestrates your annotation jobs, improving collaboration with members and annotators.   \r\n\r\nWith Ocular Bolt, shift from humans in the loop to experts in the loop to supercharge your data labeling and annotation projects. Our global expert workforce ensures fast, accurate results—no matter the scale or complexity of your data.  \r\n\r\nCompanies spend huge amounts on training data, but Foundry and Bolt are AI-native tools that lower costs, reduce manual effort, and accelerate high-quality data collection. We’re replacing outdated, clunky, and expensive data software!",
-    "one_liner": "Data engine for Generative AI, Computer Vision, and Enterprise AI.",
-    "team_size": 3,
+    "one_liner": "AI-Native Data Engine for LLMs, Computer Vision, & Enterprise AI",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1706216304,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
       "Computer Vision",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9547,17 +9508,17 @@
     "website": "https://www.anglera.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Anglera, we're developing a suite of AI agents to help e-commerce companies run their operations more efficiently. Our flagship agent helps our customers onboard, enrich, and manage their product data, reducing time per product from 15 mins down to 5 seconds.\r\n\r\nWe previously developed ML to automatically enrich millions of products at Uber Eats, and we're now on a mission to automate the most common manual workflows for every e-commerce business.",
-    "one_liner": "AI-native operating system for e-commerce",
+    "one_liner": "AI Copilot for Merchandising",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1719875304,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "B2B",
-      "E-commerce",
-      "AI"
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,

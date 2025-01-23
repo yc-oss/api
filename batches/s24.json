@@ -416,7 +416,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -697,7 +697,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fba5782492516410e226be3162e29ac3095f17be.png",
     "website": "https://www.apten.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Apten is an AI SMS agent that automates sales and marketing for consumer services businesses. We help businesses build customized agentic conversation flows to drive higher lead conversion and personalized messaging.",
+    "long_description": "Apten is an AI SMS agent that automates sales and marketing for B2C service businesses. We help businesses build custom agents that drive higher lead conversion and deliver personalized messaging at scale.",
     "one_liner": "Customizable AI SMS agents for businesses",
     "team_size": 2,
     "industry": "B2B",
@@ -864,26 +864,25 @@
   },
   {
     "id": 29575,
-    "name": "Ceejay",
-    "slug": "ceejay",
+    "name": "Doublezero",
+    "slug": "doublezero",
     "former_names": [
       "SuperFilter",
       "Superfilter"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f41108b3f3eb59def7dbea39c258d0e287bd911c.png",
-    "website": "https://tryceejay.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea427a37dc1568cb8c8a1e8aa0b5bda3a77baac1.png",
+    "website": "https://doublezero.tech",
     "all_locations": "Remote",
-    "long_description": "Meet Ceejay, your AI executive assistant that works 24/7 to keep you organized and informed. By securely connecting to your email and calendar, Ceejay intelligently:\r\n\r\n- Alerts you to important messages you can't miss\r\n- Finds exactly what you need in your inbox and schedule\r\n- Manages your time thoughtfully, always with your approval\r\n- Learns your preferences to serve you better\r\n\r\nUnlike a traditional assistant, Ceejay is always available and dedicated solely to you. Stay on top of what matters while maintaining your focus and peace of mind.",
-    "one_liner": "Intelligent assistant for knowledge workers",
-    "team_size": 3,
+    "long_description": "Doublezero is a platform that provides developers with everything they need to build, operate, and monetize autonomous agents. Developers can focus on creating tools while Doublezero handles reasoning frameworks, state management, analytics, monetization, and a runner UI.\r\n\r\nUsers can interact with agents through a powerful UI that allows play, pause, rewind, and human intervention, and discover or share agents and tools through an integrated marketplace.",
+    "one_liner": "Platform to build, use, and monetize fully autonomous agents",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1724163637,
     "tags": [
-      "Artificial Intelligence",
-      "Productivity",
-      "Email",
-      "AI Assistant"
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -893,7 +892,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "Remote",
@@ -904,8 +903,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ceejay",
-    "api": "https://yc-oss.github.io/api/batches/s24/ceejay.json"
+    "url": "https://www.ycombinator.com/companies/doublezero",
+    "api": "https://yc-oss.github.io/api/batches/s24/doublezero.json"
   },
   {
     "id": 29579,
@@ -1385,25 +1384,25 @@
   },
   {
     "id": 29608,
-    "name": "Genie",
-    "slug": "genie",
+    "name": "Rides",
+    "slug": "rides",
     "former_names": [
       "Genie Online, Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df7ecf05b173d6c5f110965b03c57b5f45b89a53.png",
-    "website": "http://www.genie.gg",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b68ef08d4daa50bfcd561221fc24c0ae6e268d0.png",
+    "website": "http://www.RidesApp.com",
     "all_locations": "Lake Oswego, OR, USA; Remote",
-    "long_description": "Genie unlocks a new level of personalized play that's never been possible before.  More than 10k kids have made friends with Genie in our iOS app, and our most engaged kids spend 2hrs a day creating adventurous stories, playing games and having fun talking to their AI friend... always in a safe & age appropriate way.",
-    "one_liner": "Conversational AI Sidekick for Kids.",
-    "team_size": 4,
+    "long_description": "Rides is a car community platform built for and by enthusiasts. We want to give people a purpose built way to connect with other people that share their love of cars & motorcycles and creates showcases that give every vehicle a page that let's its design, performance, modifications & story take center stage. A social network where the cars shine and the community connects exactly how we do offline and on the road... around a shared passion.",
+    "one_liner": "The car community built for & by enthusiasts.",
+    "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Social",
     "launched_at": 1722007649,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
-      "Kids",
-      "Edtech"
+      "Community",
+      "Social",
+      "Automotive"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1426,8 +1425,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/genie",
-    "api": "https://yc-oss.github.io/api/batches/s24/genie.json"
+    "url": "https://www.ycombinator.com/companies/rides",
+    "api": "https://yc-oss.github.io/api/batches/s24/rides.json"
   },
   {
     "id": 29610,
@@ -2853,7 +2852,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/986238fcd885c5d40b8767f600f089dc3fcdeeaf.png",
     "website": "https://www.proxis.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Proxis is the first dedicated platform for LLM distillation and serving, unlocking production ready models at 1/10th the cost.\r\n\r\nJackson (CTO) optimized the Gemini model at Google for efficient deployment at massive scale. Liam (CEO) built zero-to-one systems as a software engineer.\r\n\r\nFine-tuning frontier models like GPT-4 on proprietary data is expensive, and locks customers into one external closed source model provider. \r\n\r\nTo solve this, enterprise AI teams can use Proxis to distill state-of-the-art Llama 405b into an efficient model tuned on their own data, which is 5x faster and 10x cheaper than closed source alternatives.",
+    "long_description": "Proxis is the first dedicated platform for LLM distillation and serving, unlocking production ready models at 1/10th the cost.\r\n\r\nFine-tuning frontier models like GPT-4 on proprietary data is expensive, and locks customers into one external closed source model provider. \r\n\r\nTo solve this, enterprise AI teams can use Proxis to distill state-of-the-art Llama 405b into an efficient model tuned on their own data, which is 5x faster and 10x cheaper than closed source alternatives.",
     "one_liner": "The developer platform for LLM distillation and serving.",
     "team_size": 1,
     "industry": "B2B",
@@ -4291,14 +4290,14 @@
     "website": "https://taxo.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Taxo integrates with electronic health records (EHRs) to automate medical billing and coding. Its AI-powered solution reduces the time and cost of claims processing by >90%, enabling providers to focus on patient care rather than administrative tasks.",
-    "one_liner": "Automated medical billing and coding",
+    "one_liner": "Automated healthcare administration ",
     "team_size": 8,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1724873194,
     "tags": [
-      "Artificial Intelligence",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7373,11 +7372,11 @@
       "Zephr",
       "Zephr (Flyte AI, Inc)"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97f65d84796a7dda7da0321a7b98d8c70eff14eb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54a02285653f46a282f6b715527aa06ce8d9cd0d.png",
     "website": "https://www.riskangle.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskAngle delivers fast, accurate summaries of complex medical records, speeding up insurance underwriting decisions, streamlining claims processing, and enabling lawyers to build stronger injury cases.",
-    "one_liner": "Medical record summary in minutes",
+    "long_description": "RiskAngle delivers fast, accurate summaries of unstructured medical records for insurance companies and law firms. Our AI-powered platform enables users to streamline underwriting, expedite claims processing, and prepare cases with confidence.",
+    "one_liner": "AI medical summaries in minutes",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -7386,8 +7385,8 @@
       "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Insurance",
-      "Enterprise"
+      "Legal",
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9773,14 +9772,14 @@
     "all_locations": "",
     "long_description": "XTraffic is at the intersection of advancements in sensor technology and affordability. This means entire cities can affordably upgrade their infrastructure - and some already are. We are live in multiple cities, with both ongoing and successful pilots, corridors of multiple intersections, and soon to be entire cities. Our customers enjoy less traffic, better safety, and data on which to build their future.",
     "one_liner": "Technology for cities to automate and manage their traffic lights.",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "Government",
     "subindustry": "Government",
     "launched_at": 1724363826,
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -9788,7 +9787,8 @@
       "Government"
     ],
     "regions": [
-      "Unspecified"
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9809,17 +9809,17 @@
     "website": "https://www.anglera.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Anglera, we're developing a suite of AI agents to help e-commerce companies run their operations more efficiently. Our flagship agent helps our customers onboard, enrich, and manage their product data, reducing time per product from 15 mins down to 5 seconds.\r\n\r\nWe previously developed ML to automatically enrich millions of products at Uber Eats, and we're now on a mission to automate the most common manual workflows for every e-commerce business.",
-    "one_liner": "AI-native operating system for e-commerce",
+    "one_liner": "AI Copilot for Merchandising",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1719875304,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "B2B",
-      "E-commerce",
-      "AI"
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10191,7 +10191,7 @@
     "slug": "orgorg",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fb29e15efef66c7b44bb861d2b14c2d4cc13ca4.png",
-    "website": "https://orgorg.us",
+    "website": "https://orgorg.com",
     "all_locations": "Los Altos, CA, USA; Remote",
     "long_description": "OrgOrg is a suite of apps that keeps teams productive and healthy regardless of the size of your organization. Founded by the creator of Zenter (YC 07, acquired by Google and became Google Slides), OrgOrg is designed to be a natural extension of Google Workspace Apps to help run organizations collaborate better leading to higher productivity.\r\n\r\nToday the suite includes apps like:\r\n  \r\n• Go links: Go links allows anyone in the org to easily name any link so team members can jump directly to the information that matters most: go/sales, go/production, go/anything-you-want.\r\n• Profiles with Personality: OrgOrg profiles are as insightful as they are delightful. They not only show you the expected org chart data, but also highlight accomplishments, how you like to work, and who you are as a person.\r\n• Goal tracking: Track, share, and collaborate on \"big rock\" goals on the cadence that makes sense for your team from daily to annually.\r\n• Branded New Tab: Keep the team focused the next major milestone, broadcast announcements, and keep important links top of mind every time a new browser tab is opened.\r\n• All Hands Q&A: Crowdsource questions, anonymously if desired, for large team meetings to make sure everyone's voice is heard, and the most top of mind questions are answered and recorded.\r\n• Smart Groups: Create rules based groups of people and use them to make sure the right people are in the right conversations and have the right access. For example, anyone with the title of \"Software Engineer\" should be in the #eng slack channel and eng@ google group.\r\n• On-call: Schedule smart rotations that take into account balancing the load and using signals from calendar schedules to make sure you don't waste time figuring out who can cover what in a fair way. Easily page the on-call from slack, API, or OrgOrg directly.\r\n• And more...\r\n\r\nAll the tools you need so you can spend more time focusing on your core business, and less time focusing on the complexity that comes from running an organization.",
     "one_liner": "Organizational productivity suite for companies",
