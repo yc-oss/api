@@ -1490,16 +1490,16 @@
     "all_locations": "",
     "long_description": "VectorShift is an AI automations platform. Teams leverage AI through VectorShift’s no-code or SDK interfaces to search through knowledge bases, generate documents, and deploy chatbots and assistants.\r\n\r\nThe no-code platform gives end-users an interface to access pre-built workflows for end use cases (e.g., responding to RFPs, writing proposals, writing account plans) while letting them customize and build new ones with drag and drop components. \r\n\r\n",
     "one_liner": "No-Code Generative AI Automations Platform",
-    "team_size": 8,
+    "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1690889498,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "No-code",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2551,8 +2551,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/290c0065a5ffe07236a3cc433e4c722863914784.png",
     "website": "https://pipeshift.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pipeshift is the \"Vercel for open-source LLMs\", offering a platform for finetuning, distilling, and inferencing open-source LLMs for engineering teams to get to production with their LLMs 10x faster. With Pipeshift, companies making >1000 calls/day on frontier LLMs can use their data and logs to replace GPT/Claude in production with specialized LLMs that offer higher accuracy, lower latencies, and model ownership.\r\n\r\nWe are experts in LLMs, having scaled LLMs to 1000s of users in 2023. That's when we saw the massive drawbacks of closed-source LLMs in production, making us start Pipeshift. We met 6 years back as roommates during undergrad, and before starting Pipeshift, we led a defense robotics non-profit backed by NVIDIA and built a health-tech startup.\r\n\r\nThe shift to AI is like the shift to the cloud, every company is going to implement AI. And, open-source AI will be as good as closed-source AI. Meta's Llama 3.1 models prove that. But, the open-source AI stack is a complete mess, with companies needing a team of engineers to set up 10+ different tools just to get started and every optimization needs countless engineering hours.\r\n\r\nPipeshift offers this stack out of the box. With our fine-tuning + distilling platform and one-click deployment stack for hosting these LLMs, we ensure 10x faster experimentation cycles and time-to-production. Think \"Vercel for open-source LLMs\".",
-    "one_liner": "Platform for Fine-tuning, Distilling and Inferencing Open-source LLMs.",
+    "long_description": "Pipeshift is a modular orchestration platform for building with open-source AI components — embeddings, vector databases, LLMs, vision models and audio models — across any cloud or on-prem. Enterprises get to deploy their AI workloads in production faster and more reliably. Additionally, as we see more model and hardware architectures coming in the market, Pipeshift future-proofs the infrastructure investments by offering flexibility through their modular MLOps stack that allows enterprises to bring down their GPU infrastructure costs without any additional engineering efforts on their end.",
+    "one_liner": "Modular Orchestration Platform for Open Source AI",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -2602,6 +2602,7 @@
     "launched_at": 1722468998,
     "tags": [
       "Artificial Intelligence",
+      "Generative AI",
       "Infrastructure",
       "AI"
     ],
@@ -2977,5 +2978,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/subtrace",
     "api": "https://yc-oss.github.io/api/batches/w25/subtrace.json"
+  },
+  {
+    "id": 30247,
+    "name": "Gulp",
+    "slug": "gulp",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/954a6f122415e9fc2c5797e73f4d4a44309e83d8.png",
+    "website": "https://gulp.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building a platform that streamlines the process of building, testing, and deploying real-time data pipelines. Engineers have a hard time building real-time/streaming data pipelines (i.e. Apache Spark, Flink, Beam) due to the unique challenges that come with unbounded data - Gulp abstracts away the complexities and turns work that takes days into just minutes. ",
+    "one_liner": "Automating generation + deployment for real-time data pipelines ",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1737656598,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Big Data",
+      "Data Engineering",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gulp",
+    "api": "https://yc-oss.github.io/api/batches/w25/gulp.json"
   }
 ]

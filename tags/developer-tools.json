@@ -9970,18 +9970,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7522b24d3853d0b79cebe72798f4a3a33c54ac27.png",
     "website": "https://www.stably.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stably helps product teams ship fast without breaking things. Our AI analyzes your web apps, generates comprehensive test scripts, and adapts to changes on the fly. ",
-    "one_liner": "AI agent that automates web testing. Runnable in your CI.",
-    "team_size": 6,
+    "long_description": "Stably helps product teams ship fast without breaking things. Our AI analyzes your web apps, generates comprehensive test scripts, and adapts to changes on the fly. \r\n\r\nTesting for mobile is coming soon. ",
+    "one_liner": "AI agent that does QA testing. Runnable in your CI.",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1645204142,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "DevOps",
-      "Web Development"
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11861,49 +11861,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/codecrafters",
     "api": "https://yc-oss.github.io/api/batches/s22/codecrafters.json"
-  },
-  {
-    "id": 26783,
-    "name": "Raven",
-    "slug": "raven",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fb50438182aeb488057a1788d0a93f79ae1c8ec.png",
-    "website": "https://raven.dev",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "Raven gives businesses a central platform to manage product notifications across SMS, Email, Push, WhatsApp, Slack & more. We do this by connecting 40+ providers like Twilio, SendGrid, Firebase with a single API and giving a central dashboard on top to design & monitor all notifications.",
-    "one_liner": "API to manage notifications across SMS, Email, Push, Slack, WA & more ",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1657470086,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/raven",
-    "api": "https://yc-oss.github.io/api/batches/s22/raven.json"
   },
   {
     "id": 26793,
@@ -16367,16 +16324,16 @@
     "all_locations": "",
     "long_description": "VectorShift is an AI automations platform. Teams leverage AI through VectorShift’s no-code or SDK interfaces to search through knowledge bases, generate documents, and deploy chatbots and assistants.\r\n\r\nThe no-code platform gives end-users an interface to access pre-built workflows for end use cases (e.g., responding to RFPs, writing proposals, writing account plans) while letting them customize and build new ones with drag and drop components. \r\n\r\n",
     "one_liner": "No-Code Generative AI Automations Platform",
-    "team_size": 8,
+    "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1690889498,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "No-code",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20835,18 +20792,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b36be9d458851b00e9309610a54bf963da83472.png",
     "website": "https://www.thefoundryai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Foundry is the world model for your AI agent, empowering companies to build and productionize agents that automate entire workflows—like customer support, recruiting, and sales—and productionize them in minutes/hours, not weeks/months. \r\n\r\nWith Foundry, teams can quickly create agents that actually work, track performance, and scale their impact across the business.\r\n\r\nPranav and I built AI systems at Scale AI for companies like OpenAI. Now, we’re bringing that experience to teams everywhere to make AI agents accessible and practical for every business.",
-    "one_liner": "Synthetic Users for your AI Agent",
+    "long_description": "Foundry is the testing and observability platform for browser agents, empowering teams to evaluate, optimize, and productionize agents that automate entire workflows—like customer support, recruiting, and compliance.\r\n\r\nWith Foundry, teams can quickly create browser agents that actually work, simulate real-world scenarios, track performance, and ensure reliability across their business-critical workflows.\r\n\r\nPranav and I built AI systems at Scale AI for companies like OpenAI. Now, we’re bringing that expertise to teams everywhere to make browser agents reliable, scalable, and accessible for every business.",
+    "one_liner": "Pre-Production Testing and Observability for Browser Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1731963387,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation",
       "No-code",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21249,6 +21206,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zeroentropy",
     "api": "https://yc-oss.github.io/api/batches/w25/zeroentropy.json"
+  },
+  {
+    "id": 30247,
+    "name": "Gulp",
+    "slug": "gulp",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/954a6f122415e9fc2c5797e73f4d4a44309e83d8.png",
+    "website": "https://gulp.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building a platform that streamlines the process of building, testing, and deploying real-time data pipelines. Engineers have a hard time building real-time/streaming data pipelines (i.e. Apache Spark, Flink, Beam) due to the unique challenges that come with unbounded data - Gulp abstracts away the complexities and turns work that takes days into just minutes. ",
+    "one_liner": "Automating generation + deployment for real-time data pipelines ",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1737656598,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Big Data",
+      "Data Engineering",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gulp",
+    "api": "https://yc-oss.github.io/api/batches/w25/gulp.json"
   },
   {
     "id": 30259,
