@@ -2987,8 +2987,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/954a6f122415e9fc2c5797e73f4d4a44309e83d8.png",
     "website": "https://gulp.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building a platform that streamlines the process of building, testing, and deploying real-time data pipelines. Engineers have a hard time building real-time/streaming data pipelines (i.e. Apache Spark, Flink, Beam) due to the unique challenges that come with unbounded data - Gulp abstracts away the complexities and turns work that takes days into just minutes. ",
-    "one_liner": "Automating generation + deployment for real-time data pipelines ",
+    "long_description": "Gulp is a developer platform that makes it easy for engineers to build, test, and deploy real-time data pipelines. With Gulp, engineers can create real-time recommendation, fraud, and data syncing pipelines in just minutes! ",
+    "one_liner": "Automating build, test, and deploy for real-time data pipelines ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3020,5 +3020,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gulp",
     "api": "https://yc-oss.github.io/api/batches/w25/gulp.json"
+  },
+  {
+    "id": 30277,
+    "name": "ReJot",
+    "slug": "rejot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f75ba97279846098d21850986cc1298a5b21d9a0.png",
+    "website": "https://rejot.dev",
+    "all_locations": "Amsterdam, NH, Netherlands",
+    "long_description": "At ReJot, we're building a synchronization engine to modernize sharing data between backend services within larger organizations. Traditional approaches for internal data transfer such as HTTP requests and event streaming require significant effort to implement and maintain. The biggest hurdle however, is the coordination required to get teams to start the actual integration work.\r\n\r\nOur approach is based on synchronization, teams define what data their backend publishes and requires, and we'll make sure everything is reactively up-to-date. By being declarative about integrations, project management overhead as well as technical integration burdens are avoided. ReJot uses your existing infrastructure such as Postgres and Kafka.\r\n",
+    "one_liner": "Sync engine to enable reactive backends for cross-team integrations",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1737760830,
+    "tags": [
+      "Developer Tools",
+      "Enterprise Software",
+      "Infrastructure",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Netherlands",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rejot",
+    "api": "https://yc-oss.github.io/api/batches/w25/rejot.json"
   }
 ]

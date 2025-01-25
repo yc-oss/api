@@ -17713,9 +17713,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1709606147,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Generative AI",
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18754,7 +18755,7 @@
     "website": "https://glasskube.dev/",
     "all_locations": "Vienna, Vienna, Austria",
     "long_description": "Managing enterprise software deployments shouldn’t feel like a balancing act. At Glasskube, we make deploying, managing, and updating software in on-premises, VPC, and air-gapped environments easier than ever.\r\n\r\nOur Mission:\r\nWe empower software vendors to deliver exceptional customer experiences with less complexity. Whether you’re onboarding new clients, rolling out updates, or troubleshooting issues, our Software Distribution Platform streamlines every step.\r\n\r\nThe founders have been best friends for over 15 years, lived together in college, and even had a startup together. Philip was the CTO of a European Kubernetes-based company that was acquired in 2022.",
-    "one_liner": "Software Distribution Platform for on-prem, VPC and BYOC",
+    "one_liner": "Software Distribution Platform for On-Prem, Kubernetes, Docker & BYOC",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -21215,8 +21216,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/954a6f122415e9fc2c5797e73f4d4a44309e83d8.png",
     "website": "https://gulp.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building a platform that streamlines the process of building, testing, and deploying real-time data pipelines. Engineers have a hard time building real-time/streaming data pipelines (i.e. Apache Spark, Flink, Beam) due to the unique challenges that come with unbounded data - Gulp abstracts away the complexities and turns work that takes days into just minutes. ",
-    "one_liner": "Automating generation + deployment for real-time data pipelines ",
+    "long_description": "Gulp is a developer platform that makes it easy for engineers to build, test, and deploy real-time data pipelines. With Gulp, engineers can create real-time recommendation, fraud, and data syncing pipelines in just minutes! ",
+    "one_liner": "Automating build, test, and deploy for real-time data pipelines ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -21290,6 +21291,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/asteroid",
     "api": "https://yc-oss.github.io/api/batches/w25/asteroid.json"
+  },
+  {
+    "id": 30277,
+    "name": "ReJot",
+    "slug": "rejot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f75ba97279846098d21850986cc1298a5b21d9a0.png",
+    "website": "https://rejot.dev",
+    "all_locations": "Amsterdam, NH, Netherlands",
+    "long_description": "At ReJot, we're building a synchronization engine to modernize sharing data between backend services within larger organizations. Traditional approaches for internal data transfer such as HTTP requests and event streaming require significant effort to implement and maintain. The biggest hurdle however, is the coordination required to get teams to start the actual integration work.\r\n\r\nOur approach is based on synchronization, teams define what data their backend publishes and requires, and we'll make sure everything is reactively up-to-date. By being declarative about integrations, project management overhead as well as technical integration burdens are avoided. ReJot uses your existing infrastructure such as Postgres and Kafka.\r\n",
+    "one_liner": "Sync engine to enable reactive backends for cross-team integrations",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1737760830,
+    "tags": [
+      "Developer Tools",
+      "Enterprise Software",
+      "Infrastructure",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Netherlands",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rejot",
+    "api": "https://yc-oss.github.io/api/batches/w25/rejot.json"
   },
   {
     "id": 30283,
@@ -21374,6 +21417,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mastra",
     "api": "https://yc-oss.github.io/api/batches/w25/mastra.json"
+  },
+  {
+    "id": 30335,
+    "name": "Pig",
+    "slug": "pig",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3437c7f4ad304476128a2d8a0ca87303aae00169.png",
+    "website": "https://pig.dev",
+    "all_locations": "",
+    "long_description": "Pig is an API to launch and automate Windows desktops. Pig's SDK tools plug into your agent loops to allow them to navigate UIs and integrate with software that doesn't have an API.\r\n",
+    "one_liner": "An API for automating Windows apps with AI",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1737747738,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pig",
+    "api": "https://yc-oss.github.io/api/batches/w25/pig.json"
   },
   {
     "id": 30351,
