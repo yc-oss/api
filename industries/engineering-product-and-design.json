@@ -16775,7 +16775,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Giga ML is an applied AI lab focused on building end-to-end customer care agents.\r\n",
     "one_liner": "AI customer service agent for B2C  Companies",
-    "team_size": 8,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689858919,
@@ -16795,9 +16795,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -16979,51 +16977,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/codestory",
     "api": "https://yc-oss.github.io/api/batches/s23/codestory.json"
-  },
-  {
-    "id": 29181,
-    "name": "SciPhi",
-    "slug": "sciphi",
-    "former_names": [
-      "EmergentAGI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/416a4b56b3a358d056c7d553e2532b8b4573fb2f.png",
-    "website": "https://www.sciphi.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Use R2R to start your AI application with auth, document management, hybrid vector search, advanced/agentic RAG, and more.\r\n",
-    "one_liner": "SciPhi is building R2R, the all-in-one solution for RAG.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1710132587,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Search",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sciphi",
-    "api": "https://yc-oss.github.io/api/batches/w24/sciphi.json"
   },
   {
     "id": 29187,
@@ -21120,14 +21073,14 @@
   },
   {
     "id": 30060,
-    "name": "Replexica",
-    "slug": "replexica",
+    "name": "Lingo.dev",
+    "slug": "lingo-dev",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5faeb3f5f19fc832ab39e5ce0996a16b9cf0247.png",
-    "website": "https://replexica.com/",
+    "website": "https://lingo.dev",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Replexica automates the localization process end-to-end. It produces authentic translations instantly and eliminates translation management and manual work. Our AI generates pull requests with translations when developers commit UI code changes, avoiding the typical back-and-forth with translation agencies. This helps teams do localization 100x faster, ship to production more often, without bottlenecks.",
-    "one_liner": "Automated AI localization for dev teams",
+    "long_description": "Lingo.dev (formerly Replexica) automates the localization process end-to-end. It produces authentic translations instantly and eliminates translation management and manual work. Our AI generates pull requests with translations when developers commit UI code changes, avoiding the typical back-and-forth with translation agencies. This helps teams do localization 100x faster, ship to production more often, without bottlenecks.",
+    "one_liner": "Automated AI localization for dev teams. (formerly Replexica)",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21160,8 +21113,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/replexica",
-    "api": "https://yc-oss.github.io/api/batches/f24/replexica.json"
+    "url": "https://www.ycombinator.com/companies/lingo-dev",
+    "api": "https://yc-oss.github.io/api/batches/f24/lingo-dev.json"
   },
   {
     "id": 30063,
@@ -21554,6 +21507,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/promptless",
     "api": "https://yc-oss.github.io/api/batches/w25/promptless.json"
+  },
+  {
+    "id": 30212,
+    "name": "superglue",
+    "slug": "superglue",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d8702327beeb6c4e9700c883d54481531ce4f3b.png",
+    "website": "https://superglue.cloud/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "superglue is an open-source tool that sits as a proxy in front of your API calls, automatically transforming data into exactly the format your system needs. Instead of writing custom code to map fields, handle different data structures, failure states, and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
+    "one_liner": "a proxy server for automated data transformation",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1737761136,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superglue",
+    "api": "https://yc-oss.github.io/api/batches/w25/superglue.json"
   },
   {
     "id": 30223,

@@ -4731,7 +4731,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14392,7 +14392,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -26036,8 +26036,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48474c1b0337163fd12462fb6b72ee336a4ad010.png",
     "website": "https://www.adni.co/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "With Adni, healthcare workers can apply to jobs, buy their gear, store credentials, and trade advice all-in-one. Employers recruit healthcare talent from Adni’s app, and white-label Adni to power their own gamified clinician portal (including their jobs, candidate referrals, and loyalty perks) that improves time-to-hire and retention.",
-    "one_liner": "Super App for Healthcare Workers",
+    "long_description": "Adni is the first all-in-one digital platform for frontline healthcare workers. With Adni, healthcare employers hire 2x faster and retain 2x longer through our AI-powered professional network and talent experience software. What Doximity (IPO 2021) did for physicians, Adni is doing for nurses and allied healthcare workers.",
+    "one_liner": "All-in-one digital platform for frontline healthcare workers",
     "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -40596,7 +40596,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Giga ML is an applied AI lab focused on building end-to-end customer care agents.\r\n",
     "one_liner": "AI customer service agent for B2C  Companies",
-    "team_size": 8,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689858919,
@@ -40616,9 +40616,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -41053,6 +41051,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/onyx",
     "api": "https://yc-oss.github.io/api/batches/w24/onyx.json"
+  },
+  {
+    "id": 29181,
+    "name": "SciPhi",
+    "slug": "sciphi",
+    "former_names": [
+      "EmergentAGI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/952b6381b227fe13913d082e7f9bdec4731e8adb.png",
+    "website": "https://www.sciphi.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Start your AI application with agentic RAG, ingestion, document management, and more.",
+    "one_liner": "SciPhi is building R2R, the most advanced retrieval system.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1710132587,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Search",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sciphi",
+    "api": "https://yc-oss.github.io/api/batches/w24/sciphi.json"
   },
   {
     "id": 29182,
@@ -44209,7 +44252,7 @@
     "all_locations": "NY, USA",
     "long_description": "CrowdVolt is a two-sided, bid-ask style live event marketplace similar to StockX. We’ve created the only secondary ticket exchange that supports fully automated order fulfillment.\r\n\r\nContact us at founders@crowdvolt.com",
     "one_liner": "Bid/ask style ticket exchange powered by automated order fulfillment",
-    "team_size": 5,
+    "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Unspecified",
     "launched_at": 1708402036,
@@ -44692,50 +44735,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spaceium-inc",
     "api": "https://yc-oss.github.io/api/batches/s24/spaceium-inc.json"
-  },
-  {
-    "id": 29605,
-    "name": "Educato AI",
-    "slug": "educato-ai",
-    "former_names": [
-      "ASTAR Learning"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/959f8b12f65c728c10162e5fc682b6a3dae63f4f.png",
-    "website": "https://www.educato.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Educato builds exam prep platforms worldwide using AI.\r\n\r\nOnline exam prep has existed for decades, yet the big players all target the same top 10 exams in the US. The reality is that most exams around the world still have little to no quality online prep material, including many taken by hundreds of thousands of students each year. Educato uses AI to generate high-quality prep content for these exams. LLMs allow us to target the profitable fat middle in the distribution of exams, historically overlooked by education companies.",
-    "one_liner": "AI-Powered Worldwide exam-prep platform",
-    "team_size": 3,
-    "industry": "Education",
-    "subindustry": "Education",
-    "launched_at": 1722269199,
-    "tags": [
-      "Artificial Intelligence",
-      "Education",
-      "Edtech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Education"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/educato-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/educato-ai.json"
   },
   {
     "id": 29607,
@@ -46496,6 +46495,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/elayne",
     "api": "https://yc-oss.github.io/api/batches/s24/elayne.json"
+  },
+  {
+    "id": 29847,
+    "name": "Bucket Robotics",
+    "slug": "bucket-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55cc697d9f14eca5a5d45772ac14d97a83df16ae.png",
+    "website": "https://bucket.bot",
+    "all_locations": "",
+    "long_description": "250M lbs of plastic is wasted annually in US manufacturing. Bucket Robotics is making defect detection faster and easier to deploy to prevent that.\r\n\r\nOur products are designed to be easy to integrate into existing automation and technology stacks, flexible enough to bring retooling costs down, and reliable enough to make you forget that it's a robot.\r\n\r\nMatt and Steph are leveraging their experience from the self-driving industry, where we've integrated high-performance computing and quality sensing into complex, noise-filled environments. We focus on robust hardware and user-friendly software for a new generation of end-users, ensuring ease of use and rapid deployment.\r\n\r\nSecure and efficient handling of user data can make customers in the manufacturing space nervous to invest in sensing — our team's extensive experience handling self-driving car data in these regulated environments positions us uniquely to tackle these challenges. Companies like Keyence, National Instruments, and FLIR offer either outdated hardware or prohibitively expensive systems, along with software that hasn’t evolved to meet modern user needs.\r\n\r\nUS manufacturing is undergoing a significant transformation, with construction spending hitting a record annualized pace of over $200 billion. The need for a more reliable supply chain has seen over $700 billion in manufacturing megaprojects across North America since 2021, and this growth requires heavy automation. Bucket Robotics is at the forefront of this shift, offering a scalable, cost-effective solution that enhances automation and positions manufacturers closer to their end customers.",
+    "one_liner": "Defect detection for manufacturing built from CAD and synthetic data.",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1719001491,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bucket-robotics",
+    "api": "https://yc-oss.github.io/api/batches/s24/bucket-robotics.json"
   },
   {
     "id": 29956,

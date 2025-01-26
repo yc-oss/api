@@ -2189,7 +2189,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5209,7 +5209,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -16890,12 +16890,12 @@
     "former_names": [
       "EmergentAGI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/416a4b56b3a358d056c7d553e2532b8b4573fb2f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/952b6381b227fe13913d082e7f9bdec4731e8adb.png",
     "website": "https://www.sciphi.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Use R2R to start your AI application with auth, document management, hybrid vector search, advanced/agentic RAG, and more.\r\n",
-    "one_liner": "SciPhi is building R2R, the all-in-one solution for RAG.",
-    "team_size": 3,
+    "long_description": "Start your AI application with agentic RAG, ingestion, document management, and more.",
+    "one_liner": "SciPhi is building R2R, the most advanced retrieval system.",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1710132587,
@@ -16908,13 +16908,13 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -18058,17 +18058,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0c8280f2401497830f9750a73fe67fc73e1344b.png",
     "website": "https://downlink.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Downlink is the turbo button for AI.\r\n\r\nWith a few lines of code, Downlink improves the performance of your cloud LLMs. Our tool continuously trains expert models to handle your prompts faster than gpt-4o.",
-    "one_liner": "Downlink is an API that speeds up LLM workloads by up to 90%",
+    "long_description": "Downlink is the turbo button for AI. We make LLMs 70%+ faster with a few lines of code.\r\n\r\nDownlink learns which prompts are easy or hard. We train fast models to handle simple prompts, your existing LLM takes the complex ones.",
+    "one_liner": "Downlink makes LLMs 70%+ faster with a few lines of code",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1708740244,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20698,14 +20698,14 @@
   },
   {
     "id": 30060,
-    "name": "Replexica",
-    "slug": "replexica",
+    "name": "Lingo.dev",
+    "slug": "lingo-dev",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5faeb3f5f19fc832ab39e5ce0996a16b9cf0247.png",
-    "website": "https://replexica.com/",
+    "website": "https://lingo.dev",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Replexica automates the localization process end-to-end. It produces authentic translations instantly and eliminates translation management and manual work. Our AI generates pull requests with translations when developers commit UI code changes, avoiding the typical back-and-forth with translation agencies. This helps teams do localization 100x faster, ship to production more often, without bottlenecks.",
-    "one_liner": "Automated AI localization for dev teams",
+    "long_description": "Lingo.dev (formerly Replexica) automates the localization process end-to-end. It produces authentic translations instantly and eliminates translation management and manual work. Our AI generates pull requests with translations when developers commit UI code changes, avoiding the typical back-and-forth with translation agencies. This helps teams do localization 100x faster, ship to production more often, without bottlenecks.",
+    "one_liner": "Automated AI localization for dev teams. (formerly Replexica)",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -20738,8 +20738,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/replexica",
-    "api": "https://yc-oss.github.io/api/batches/f24/replexica.json"
+    "url": "https://www.ycombinator.com/companies/lingo-dev",
+    "api": "https://yc-oss.github.io/api/batches/f24/lingo-dev.json"
   },
   {
     "id": 30078,
@@ -21125,6 +21125,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/promptless.json"
   },
   {
+    "id": 30212,
+    "name": "superglue",
+    "slug": "superglue",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d8702327beeb6c4e9700c883d54481531ce4f3b.png",
+    "website": "https://superglue.cloud/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "superglue is an open-source tool that sits as a proxy in front of your API calls, automatically transforming data into exactly the format your system needs. Instead of writing custom code to map fields, handle different data structures, failure states, and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
+    "one_liner": "a proxy server for automated data transformation",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1737761136,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superglue",
+    "api": "https://yc-oss.github.io/api/batches/w25/superglue.json"
+  },
+  {
     "id": 30223,
     "name": "a0.dev",
     "slug": "a0-dev",
@@ -21260,8 +21302,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc8fcf7c25638bdf4248c3b5676e9d2c18135e4.png",
     "website": "https://asteroid.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Asteroid provides runtime supervision for AI agents — delivering human-level oversight for every critical action before execution. We combine automated guardrails, human oversight, and continuous evaluation to help companies deploy AI safely and confidently in any domain.",
-    "one_liner": "Supervising AI agents to make them safe and reliable.",
+    "long_description": "Asteroid builds and host browser AI agents for complex tasks. With built-in guardrails, evaluations and human oversight, we ensure enterprise-grade reliability across millions of operations. ",
+    "one_liner": "Mission Critical Browser Agents at Scale",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -21466,7 +21508,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d792766ccb75816bfcb17f32a8e56f0173f5b4d.png",
     "website": "https://getdexterity.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dex is the adaptive layer for self-improving feedback systems that scale with your business. Imagine a 24/7 team of digital researchers embedded across every touchpoint—segmenting users, analyzing insights, and optimizing research around the clock—all while delivering a tailored user experience. \r\n\r\nLet's reimagine surveys through a dev-first approach.",
+    "long_description": "Dex is the adaptive layer for intelligent data collection in an agentic world. Static forms can no longer keep up—they must evolve to empower agents to act on behalf of users, dynamically adapting to optimize processes and provide seamless, flexible touchpoints for personalized interactions.\r\n\r\nLet’s reimagine forms as the foundation for AI-driven, user-first systems.",
     "one_liner": "Gather smarter feedback from day one.",
     "team_size": 2,
     "industry": "B2B",

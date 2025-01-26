@@ -4,7 +4,8 @@
     "name": "Overstand Labs",
     "slug": "overstand-labs",
     "former_names": [
-      "Overstand Labs"
+      "Overstand Labs",
+      "Overstand Labs Inc."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba8fe4b3624204a7b3bc56958a375d20f9fa1b2d.png",
     "website": "https://overstandlabs.com",
@@ -16,10 +17,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1724369845,
     "tags": [
-      "Artificial Intelligence",
       "Customer Success",
       "API",
-      "Customer Support"
+      "Customer Support",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -387,7 +388,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d58e9c6646fcf2c8783dc4e02f6ae0189039d29d.png",
     "website": "https://www.alice.tech/",
     "all_locations": "Copenhagen, Denmark",
-    "long_description": "Alice.tech makes learning and exam prep simple by turning course materials into personalized notes, exercises and exam simulations. As students interact with Alice.tech, we spot their study gaps for targeted learning.\r\n\r\nOver 1,000 students have already paid us to prepare for their exams and we are growing MRR +30% MoM for B2C alone, while gaining first traction in B2B on top. ",
+    "long_description": "Alice turns generic course materials into personalized learning and exam prep using AI. \r\n\r\nStudents simply upload what they want to study and instantly get access to:\r\n(1) Better understanding: Key topic overviews and explanations with personalized support through an AI chat that knows their context.\r\n(2) Effective practicing: Exercises tailored to their needs (level, format, curriculum, etc.), including flashcards, multiple-choice questions, and full exam simulations.\r\n(3) Targeted improvement: Identification of weaknesses across topics to enable more targeted and complete learning.\r\n\r\nPlus, learning becomes more engaging with Alice—students can study with friends and challenge each other, making the experience both fun and effective.\r\n\r\nOver 2,000 students have already used Alice, and we are growing MRR +30% MoM for B2C alone, while gaining first traction in B2B on top. ",
     "one_liner": "Alice.tech turns course materials into personalized exam prep using AI",
     "team_size": 6,
     "industry": "Education",
@@ -395,6 +396,7 @@
     "launched_at": 1736959747,
     "tags": [
       "AI-Enhanced Learning",
+      "Artificial Intelligence",
       "Education",
       "Generative AI",
       "SaaS"
@@ -584,6 +586,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hyphen",
     "api": "https://yc-oss.github.io/api/batches/w25/hyphen.json"
+  },
+  {
+    "id": 30212,
+    "name": "superglue",
+    "slug": "superglue",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d8702327beeb6c4e9700c883d54481531ce4f3b.png",
+    "website": "https://superglue.cloud/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "superglue is an open-source tool that sits as a proxy in front of your API calls, automatically transforming data into exactly the format your system needs. Instead of writing custom code to map fields, handle different data structures, failure states, and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
+    "one_liner": "a proxy server for automated data transformation",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1737761136,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superglue",
+    "api": "https://yc-oss.github.io/api/batches/w25/superglue.json"
   },
   {
     "id": 30217,
@@ -1233,8 +1277,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc8fcf7c25638bdf4248c3b5676e9d2c18135e4.png",
     "website": "https://asteroid.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Asteroid provides runtime supervision for AI agents — delivering human-level oversight for every critical action before execution. We combine automated guardrails, human oversight, and continuous evaluation to help companies deploy AI safely and confidently in any domain.",
-    "one_liner": "Supervising AI agents to make them safe and reliable.",
+    "long_description": "Asteroid builds and host browser AI agents for complex tasks. With built-in guardrails, evaluations and human oversight, we ensure enterprise-grade reliability across millions of operations. ",
+    "one_liner": "Mission Critical Browser Agents at Scale",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -2143,28 +2187,25 @@
     "api": "https://yc-oss.github.io/api/batches/w25/spott.json"
   },
   {
-    "id": 30327,
-    "name": "Overstand Labs",
-    "slug": "overstand-labs-2",
+    "id": 30325,
+    "name": "Roark",
+    "slug": "roark",
     "former_names": [
-      "Harbinger Technologies",
-      "Overstand Labs",
-      "Overstand Labz"
+      "Roark AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c0284a0fcd58ff8f1dd3c58a63ce51432c47e43.png",
-    "website": "https://overstandlabs.com",
-    "all_locations": "",
-    "long_description": "If you’re a founder and feel like you—or your exec team—are too far removed from the customer, Overstand is here to help. We’re the platform (and API) for your customer communications, turning Slack, emails, WhatsApp, call recordings, and more into actionable insights. For example, we can help you discover feature requests hidden in customer emails, spot upsell opportunities from a casual Slack message, or identify a critical support issue buried in a call transcript -- all without having to depend on others in your company to fill out a form or write meeting notes.\r\n\r\nGet back to Founder Mode by spotting trends, uncovering growth opportunities, and staying deeply connected to your customers. Overstand makes it easy to understand where you’re needed most and take action that drives impact. 🚀",
-    "one_liner": "Leverage your customer comms to engage Founder Mode",
-    "team_size": 4,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7eeed88cf20d9f39f503ec2708b6bf85e2e7e652.png",
+    "website": "https://roark.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Roark makes it painless to monitor, evaluate, and continuously improve your voice AI agents. We go beyond transcripts to show if your agent actually achieves its goals, where callers get frustrated, and why certain conversations fail. Plus, you can replay past calls against updated agents to confirm that your fixes work.",
+    "one_liner": "Real-Time Analytics & Testing for Voice AI Agents",
+    "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1737568627,
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1737797905,
     "tags": [
-      "Customer Success",
-      "API",
-      "Customer Support",
-      "AI"
+      "Analytics",
+      "AI",
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2174,18 +2215,21 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Analytics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/overstand-labs-2",
-    "api": "https://yc-oss.github.io/api/batches/w25/overstand-labs-2.json"
+    "url": "https://www.ycombinator.com/companies/roark",
+    "api": "https://yc-oss.github.io/api/batches/w25/roark.json"
   },
   {
     "id": 30328,
@@ -2405,7 +2449,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d792766ccb75816bfcb17f32a8e56f0173f5b4d.png",
     "website": "https://getdexterity.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dex is the adaptive layer for self-improving feedback systems that scale with your business. Imagine a 24/7 team of digital researchers embedded across every touchpoint—segmenting users, analyzing insights, and optimizing research around the clock—all while delivering a tailored user experience. \r\n\r\nLet's reimagine surveys through a dev-first approach.",
+    "long_description": "Dex is the adaptive layer for intelligent data collection in an agentic world. Static forms can no longer keep up—they must evolve to empower agents to act on behalf of users, dynamically adapting to optimize processes and provide seamless, flexible touchpoints for personalized interactions.\r\n\r\nLet’s reimagine forms as the foundation for AI-driven, user-first systems.",
     "one_liner": "Gather smarter feedback from day one.",
     "team_size": 2,
     "industry": "B2B",

@@ -5786,6 +5786,53 @@
     "api": "https://yc-oss.github.io/api/batches/w22/emobi.json"
   },
   {
+    "id": 25603,
+    "name": "Reforged Labs",
+    "slug": "reforged-labs",
+    "former_names": [
+      "Nook"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42624b47fffc5d9d7f83077c9c444743511d6eb9.png",
+    "website": "https://reforgedlabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reforged Labs empowers game studios to supercharge their performance marketing. Our AI copilot, the first platform built for mobile game marketing, enables UA managers to achieve results 5x faster and 10x cheaper.\r\n\r\nBy analyzing thousands of top-performing ads, our platform uncovers what makes an ad effective. Backed by real-world data, it transforms how UA managers brainstorm ideas, create video ads, and launch high-performing campaigns - delivering a competitive edge in the evolving gaming industry.\r\n\r\nWith Reforged Labs, you don’t just keep up with trends - you set them.",
+    "one_liner": "The world's first AI copilot built for mobile game marketers",
+    "team_size": 10,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1644566628,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Gaming",
+      "Advertising",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reforged-labs",
+    "api": "https://yc-oss.github.io/api/batches/w22/reforged-labs.json"
+  },
+  {
     "id": 25618,
     "name": "Sphere",
     "slug": "sphere",
@@ -12942,7 +12989,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Giga ML is an applied AI lab focused on building end-to-end customer care agents.\r\n",
     "one_liner": "AI customer service agent for B2C  Companies",
-    "team_size": 8,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689858919,
@@ -12962,9 +13009,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -13469,12 +13514,12 @@
     "former_names": [
       "EmergentAGI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/416a4b56b3a358d056c7d553e2532b8b4573fb2f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/952b6381b227fe13913d082e7f9bdec4731e8adb.png",
     "website": "https://www.sciphi.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Use R2R to start your AI application with auth, document management, hybrid vector search, advanced/agentic RAG, and more.\r\n",
-    "one_liner": "SciPhi is building R2R, the all-in-one solution for RAG.",
-    "team_size": 3,
+    "long_description": "Start your AI application with agentic RAG, ingestion, document management, and more.",
+    "one_liner": "SciPhi is building R2R, the most advanced retrieval system.",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1710132587,
@@ -13487,13 +13532,13 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -15545,6 +15590,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zep-ai",
     "api": "https://yc-oss.github.io/api/batches/w24/zep-ai.json"
+  },
+  {
+    "id": 29436,
+    "name": "Downlink",
+    "slug": "downlink",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0c8280f2401497830f9750a73fe67fc73e1344b.png",
+    "website": "https://downlink.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Downlink is the turbo button for AI. We make LLMs 70%+ faster with a few lines of code.\r\n\r\nDownlink learns which prompts are easy or hard. We train fast models to handle simple prompts, your existing LLM takes the complex ones.",
+    "one_liner": "Downlink makes LLMs 70%+ faster with a few lines of code",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1708740244,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/downlink",
+    "api": "https://yc-oss.github.io/api/batches/w24/downlink.json"
   },
   {
     "id": 29439,
@@ -17792,6 +17879,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/panora",
     "api": "https://yc-oss.github.io/api/batches/s24/panora.json"
+  },
+  {
+    "id": 29727,
+    "name": "Overstand Labs",
+    "slug": "overstand-labs",
+    "former_names": [
+      "Overstand Labs",
+      "Overstand Labs Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba8fe4b3624204a7b3bc56958a375d20f9fa1b2d.png",
+    "website": "https://overstandlabs.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "If you’re a founder and feel like you—or your exec team—are too far removed from the customer, Overstand is here to help. We’re the platform (and API) for your customer communications, turning Slack, emails, WhatsApp, call recordings, and more into actionable insights. For example, we can help you discover feature requests hidden in customer emails, spot upsell opportunities from a casual Slack message, or identify a critical support issue buried in a call transcript -- all without having to depend on others in your company to fill out a form or write meeting notes.\r\n\r\nGet back to Founder Mode by spotting trends, uncovering growth opportunities, and staying deeply connected to your customers. Overstand makes it easy to understand where you’re needed most and take action that drives impact. 🚀",
+    "one_liner": "Leverage your customer comms to get into Founder Mode",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1724369845,
+    "tags": [
+      "Customer Success",
+      "API",
+      "Customer Support",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/overstand-labs",
+    "api": "https://yc-oss.github.io/api/batches/w25/overstand-labs.json"
   },
   {
     "id": 29740,
@@ -20242,14 +20374,14 @@
   },
   {
     "id": 30060,
-    "name": "Replexica",
-    "slug": "replexica",
+    "name": "Lingo.dev",
+    "slug": "lingo-dev",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5faeb3f5f19fc832ab39e5ce0996a16b9cf0247.png",
-    "website": "https://replexica.com/",
+    "website": "https://lingo.dev",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Replexica automates the localization process end-to-end. It produces authentic translations instantly and eliminates translation management and manual work. Our AI generates pull requests with translations when developers commit UI code changes, avoiding the typical back-and-forth with translation agencies. This helps teams do localization 100x faster, ship to production more often, without bottlenecks.",
-    "one_liner": "Automated AI localization for dev teams",
+    "long_description": "Lingo.dev (formerly Replexica) automates the localization process end-to-end. It produces authentic translations instantly and eliminates translation management and manual work. Our AI generates pull requests with translations when developers commit UI code changes, avoiding the typical back-and-forth with translation agencies. This helps teams do localization 100x faster, ship to production more often, without bottlenecks.",
+    "one_liner": "Automated AI localization for dev teams. (formerly Replexica)",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -20282,8 +20414,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/replexica",
-    "api": "https://yc-oss.github.io/api/batches/f24/replexica.json"
+    "url": "https://www.ycombinator.com/companies/lingo-dev",
+    "api": "https://yc-oss.github.io/api/batches/f24/lingo-dev.json"
   },
   {
     "id": 30064,
@@ -21688,28 +21820,25 @@
     "api": "https://yc-oss.github.io/api/batches/w25/woz.json"
   },
   {
-    "id": 30327,
-    "name": "Overstand Labs",
-    "slug": "overstand-labs-2",
+    "id": 30325,
+    "name": "Roark",
+    "slug": "roark",
     "former_names": [
-      "Harbinger Technologies",
-      "Overstand Labs",
-      "Overstand Labz"
+      "Roark AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c0284a0fcd58ff8f1dd3c58a63ce51432c47e43.png",
-    "website": "https://overstandlabs.com",
-    "all_locations": "",
-    "long_description": "If you’re a founder and feel like you—or your exec team—are too far removed from the customer, Overstand is here to help. We’re the platform (and API) for your customer communications, turning Slack, emails, WhatsApp, call recordings, and more into actionable insights. For example, we can help you discover feature requests hidden in customer emails, spot upsell opportunities from a casual Slack message, or identify a critical support issue buried in a call transcript -- all without having to depend on others in your company to fill out a form or write meeting notes.\r\n\r\nGet back to Founder Mode by spotting trends, uncovering growth opportunities, and staying deeply connected to your customers. Overstand makes it easy to understand where you’re needed most and take action that drives impact. 🚀",
-    "one_liner": "Leverage your customer comms to engage Founder Mode",
-    "team_size": 4,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7eeed88cf20d9f39f503ec2708b6bf85e2e7e652.png",
+    "website": "https://roark.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Roark makes it painless to monitor, evaluate, and continuously improve your voice AI agents. We go beyond transcripts to show if your agent actually achieves its goals, where callers get frustrated, and why certain conversations fail. Plus, you can replay past calls against updated agents to confirm that your fixes work.",
+    "one_liner": "Real-Time Analytics & Testing for Voice AI Agents",
+    "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1737568627,
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1737797905,
     "tags": [
-      "Customer Success",
-      "API",
-      "Customer Support",
-      "AI"
+      "Analytics",
+      "AI",
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21719,18 +21848,21 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Analytics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/overstand-labs-2",
-    "api": "https://yc-oss.github.io/api/batches/w25/overstand-labs-2.json"
+    "url": "https://www.ycombinator.com/companies/roark",
+    "api": "https://yc-oss.github.io/api/batches/w25/roark.json"
   },
   {
     "id": 30328,
