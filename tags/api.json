@@ -2154,26 +2154,28 @@
   },
   {
     "id": 23105,
-    "name": "Reclaim Protocol, Questbook",
-    "slug": "reclaim-protocol-questbook",
+    "name": "CreatorOS",
+    "slug": "creatoros",
     "former_names": [
       "Socionity",
       "CreatorOS",
       "CreatorOS - Questbook"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0469029cef5c1c34beaed3dd9b69264c60c4ecd.png",
-    "website": "https://reclaimprotocol.org",
-    "all_locations": "Hyderabad, Telangana, India; Bengaluru, KA, India; Remote",
-    "long_description": "Customers integrate Reclaim Protocol to get information about their users - like their identity, credentials and reputation from various websites across the internet. \r\n\r\nWhen integrated, the users can tap a button to connect their data from any website - even ones that don't have an API. \r\n\r\nFor example, users can connect data from Uber like the number number of rides they've taken even though Uber doesn't have an API.\r\n\r\nWe support connecting over 200 websites including Uber, Tinder, Streak, IRS, Aadhaar, Amazon. If the website you want to connect doesn't exist, we have a simple tool to add support.\r\n\r\nReach out to us if you'd want to integrate :)",
-    "one_liner": "SDK to learn about your users' identity, credentials and reputation ",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b512ecb3301ab8d683bbd5d94982b605acc6da8.png",
+    "website": "https://creatoros.co",
+    "all_locations": "Hyderabad, Telangana, India; Remote",
+    "long_description": "We build tools that allows enterprises verify information about a user *before* processing it - whether it is processed by a human or an AI agent.\r\n\r\nTraditionally, these verifications including but not limited to background checks cost ~$10. Using our advancements in AI and Cryptography, we're able to send that cost to a few cents. \r\n\r\nThis enables enterprises to do verification at scale, earlier in their work-flows, and enables new kinds of businesses - which were not performing these verifications because of prohibitively high costs.\r\n\r\nFor example, it makes no sense that a recruiter does a candidate's document verification and background checks AFTER the candidate has cleared all the interviews. That's because that verification is cumbersome and expensive. They can't afford to verify all the candidates at the top of the funnel. Many such workflows are ripe for disruption. \r\n\r\nAnother example of a product that was not possible before. A dating app uses our tools to verify the users' information - including their employment, education and financial background. This was something that would have been too expensive to verify at a $10 pricepoint where the ARPU is only $8. \r\n\r\nNot only that, we're designing the tools ground up - so that AI agents can utilize these verifications before ingesting information, so that they take action basis truthful information.\r\n\r\nWe have 3 tools\r\n1. BlueCheck : our flagship product for background verification. The cheapest option to verify users' employment, education and financial background. A few cents instead of a few tens of dollars. Several Billion Dollar+ revenue companies are customers. A solution designed for enterprises that works out of the box!\r\n2. Reclaim Protocol : our underlying infrastructure that makes BlueCheck possible. With advancements in cryptography, specifically zero knowledge proofs - our research over the last 3 years have resulted in inventing a new cryptographic primitive called zkTLS, which allows us to verify information from any website using the cryptography of the existing internet pipes (TLS). This is our secret sauce!\r\n3. Questbook : our dog-fooding tool. Questbook is a tool to give out research and open source software development grants. These grants are reviewed by AI agents that we built inhouse. The biggest scam people try is to fake who they are when they are applying for grants. We dog-food our own tools to make sure we verify all the claims the users are making when they apply for grants. Our tools secure more than $10M of grants being given out on the platform. So it's high stakes, and it works!",
+    "one_liner": "Building tools for verifying information consumed by AI agents",
     "team_size": 26,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1616635998,
     "tags": [
+      "AIOps",
       "Crypto / Web3",
       "Identity",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -2198,8 +2200,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reclaim-protocol-questbook",
-    "api": "https://yc-oss.github.io/api/batches/w21/reclaim-protocol-questbook.json"
+    "url": "https://www.ycombinator.com/companies/creatoros",
+    "api": "https://yc-oss.github.io/api/batches/w21/creatoros.json"
   },
   {
     "id": 23316,
@@ -6209,7 +6211,7 @@
       "Overstand Labs",
       "Overstand Labs Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba8fe4b3624204a7b3bc56958a375d20f9fa1b2d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png",
     "website": "https://overstandlabs.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "If you’re a founder and feel like you—or your exec team—are too far removed from the customer, Overstand is here to help. We’re the platform (and API) for your customer communications, turning Slack, emails, WhatsApp, call recordings, and more into actionable insights. For example, we can help you discover feature requests hidden in customer emails, spot upsell opportunities from a casual Slack message, or identify a critical support issue buried in a call transcript -- all without having to depend on others in your company to fill out a form or write meeting notes.\r\n\r\nGet back to Founder Mode by spotting trends, uncovering growth opportunities, and staying deeply connected to your customers. Overstand makes it easy to understand where you’re needed most and take action that drives impact. 🚀",
