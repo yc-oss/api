@@ -421,15 +421,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Reworkd, we're working on multimodal LLM agents that serve as the simplest way to extract web data at scale. Customers come to us with lists of 100s to 1000s of websites along with a data schema. Our agents traverse these websites, understand their structure, and generate code to extract data from them.\r\n\r\nWe've been working on LLM agents since their inception and have received over 30k stars on GitHub and 1M+ users across previous agent products. If you're interested in our pilot program, shoot us an email!",
     "one_liner": "The simplest way to extract web data at scale",
-    "team_size": 8,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1686444973,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1775,9 +1775,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7e8e61ea6d3f763043392069ac87464fc6db2af.png",
     "website": "https://www.atla-ai.com/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Atla helps developers find AI mistakes at scale, so they can build more reliable GenAI applications. LLMs only reach their full potential when they consistently produce safe and useful results. We train models to catch mistakes, monitor AI performance, and understand critical failure modes so devs can fix them.",
+    "long_description": "Atla helps developers find AI mistakes at scale, so they can build more reliable GenAI applications. Generative AI can only reach its full potential when it consistently produces safe and useful outputs. We train models to catch mistakes, monitor AI performance, and understand critical failure modes.",
     "one_liner": "We train frontier models to evaluate generative AI",
-    "team_size": 8,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1687465633,
@@ -2365,18 +2365,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef940e88fb60e59b177570256531952d8e4b1322.png",
     "website": "https://www.subsets.com",
     "all_locations": "Copenhagen, Denmark",
-    "long_description": "Subsets uses AI to automate retention in subscription media. We help increase life-time value by enabling commercial teams to create AI-driven experiments and automations, without engineering support. ",
-    "one_liner": "AI-driven retention automation for subscription media.",
-    "team_size": 5,
+    "long_description": "Subsets is the leading AI-driven retention automation platform purpose-built for commercial teams in subscription businesses.\r\n\r\nSubscription media companies like The Atlantic, TuneIn, Daily Mail, McClatchy, and The Athletic use Subsets to predict churn, experiment with retention strategies, and confidently automate what works to drive engagement and retention.\r\n\r\nLaunched out of Y Combinator’s 2023 Summer batch in San Francisco, Subsets is building the AI-driven retention platform for subscription businesses focused on sustainable growth and profitability.",
+    "one_liner": "AI-driven Retention Automation for subscription media businesses.",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1689562154,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "B2B",
-      "Enterprise",
-      "CRM",
-      "Automation"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2401,16 +2400,16 @@
   },
   {
     "id": 28838,
-    "name": "Empower",
-    "slug": "empower",
+    "name": "GreenTally",
+    "slug": "greentally",
     "former_names": [
       "LogUnify"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd668074abcb19600f6bd7bcd86f50a603e99349.png",
-    "website": "https://www.empower.dev",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/673f3845b8ea0c788142227e93c082ac8e4ff91c.png",
+    "website": "https://www.greentally.ai",
     "all_locations": "San Mateo, CA, USA",
-    "long_description": "Empower is a developer platform for fine-tuned LLMs. It aims to provide best-in-class infrastructure and prebuilt, task-specific base models as building blocks, enabling developers to cost-effectively build and deploy fine-tuned LLMs for their specific use cases, offering an alternative to expensive and slow general-purpose LLMs without compromising on response quality.\r\n",
-    "one_liner": "Developer platform for fine-tuned LLMs",
+    "long_description": "GreenTally is a carbon accounting platform built for all businesses that transforms environmental reporting from a complex, expensive ordeal into a streamlined, affordable process. Using LLM, we help companies measure their carbon footprint in hours instead of months.\r\n\r\nGreenTally automates emissions calculations and reporting, enabling businesses to meet regulatory requirements and track reduction targets without the overhead of consultants or dedicated sustainability teams. By making enterprise-grade carbon accounting accessible and practical, GreenTally empowers growing businesses to take control of their sustainability journey.",
+    "one_liner": "Affordable carbon tracking solution for all businesses",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -2429,20 +2428,21 @@
     "batch": "S23",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "B2B"
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/empower",
-    "api": "https://yc-oss.github.io/api/batches/s23/empower.json"
+    "url": "https://www.ycombinator.com/companies/greentally",
+    "api": "https://yc-oss.github.io/api/batches/s23/greentally.json"
   },
   {
     "id": 28839,
@@ -3287,7 +3287,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -7736,18 +7736,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e3d6113350c5ed7a87a126595afad97016a9baa7.png",
     "website": "https://useremy.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Find the best video clips on anything with Remy. Remy searches over billions of videos to build you custom playlists on any topic, finding exactly what you want to watch - and nothing you don't.\r\n",
-    "one_liner": "The chatbot that's seen every video on YouTube",
+    "long_description": "Remy is a free AI-powered video answer engine that changes the way you consume the world’s videos. Unlike traditional video search engines that provide a list of full-length videos, Remy finds the exact moments within these videos that answer your questions.",
+    "one_liner": "Ask any question and get answers from the world’s videos",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1689818569,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Consumer",
       "Entertainment",
-      "Search",
-      "AI"
+      "Search"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8009,6 +8009,8 @@
     "launched_at": 1690946743,
     "tags": [
       "SaaS",
+      "B2B",
+      "API",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -8485,7 +8487,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",

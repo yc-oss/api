@@ -4822,52 +4822,6 @@
     "api": "https://yc-oss.github.io/api/batches/w20/replicate.json"
   },
   {
-    "id": 13150,
-    "name": "Basedash",
-    "slug": "basedash",
-    "former_names": [
-      "BaseDash"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48f6d28478b682735ea1bdc6850d0c8963a10687.png",
-    "website": "https://www.basedash.com",
-    "all_locations": "Montreal, QC, Canada; Remote",
-    "long_description": "Basedash lets product teams ship admin panels without having to build anything. Forget the UI frameworks, technical knowledge, and dev time it takes to build and support internal apps. Just connect your database and generate your perfect admin panel.",
-    "one_liner": "The admin panel you don't have to build.",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1596147758,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "No-code"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S20",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Canada",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/basedash",
-    "api": "https://yc-oss.github.io/api/batches/s20/basedash.json"
-  },
-  {
     "id": 13159,
     "name": "Openbase",
     "slug": "openbase",
@@ -14044,9 +13998,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7373c1adcb59518de3f0525b2829a0ed7943e0a3.png",
     "website": "https://icepanel.io",
-    "all_locations": "Vancouver, BC, Canada",
+    "all_locations": "North Vancouver, BC, Canada",
     "long_description": "IcePanel is a collaborative diagramming tool that helps software engineering and product teams align on technical decisions. Teams use IcePanel to create a map of their software systems, giving them full context about how it works.",
-    "one_liner": "Explain complex software systems to engineering and product teams",
+    "one_liner": "Design complex software systems to engineering and product teams",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -16686,7 +16640,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -17185,8 +17139,8 @@
   },
   {
     "id": 29249,
-    "name": "Nuanced, Inc.",
-    "slug": "nuanced-inc",
+    "name": "Nuanced",
+    "slug": "nuanced",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e32c6998abbf4d751d319bc88878eb3cf0bc4bf7.png",
     "website": "https://www.nuanced.dev/",
@@ -17198,8 +17152,8 @@
     "subindustry": "B2B",
     "launched_at": 1705703098,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -17222,8 +17176,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nuanced-inc",
-    "api": "https://yc-oss.github.io/api/batches/w24/nuanced-inc.json"
+    "url": "https://www.ycombinator.com/companies/nuanced",
+    "api": "https://yc-oss.github.io/api/batches/w24/nuanced.json"
   },
   {
     "id": 29256,
@@ -21207,6 +21161,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/a0-dev",
     "api": "https://yc-oss.github.io/api/batches/w25/a0-dev.json"
+  },
+  {
+    "id": 30231,
+    "name": "Sift Dev",
+    "slug": "sift-dev",
+    "former_names": [
+      "Sift"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28a3996c7e06e1964a512462e50a8e047fb37484.png",
+    "website": "https://www.runsift.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're an intelligent pipeline for your logs. Reduce your logging volume and take back control in just a few clicks.",
+    "one_liner": "Your Logs, Finally Free",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1737662674,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Analytics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sift-dev",
+    "api": "https://yc-oss.github.io/api/batches/w25/sift-dev.json"
   },
   {
     "id": 30241,
