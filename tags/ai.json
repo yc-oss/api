@@ -4903,7 +4903,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -8237,8 +8237,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cc8fcc2c764149dce612c787678bf2b0acdcd7c.png",
     "website": "https://www.cambio.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Cambio is software that helps commercial real estate companies and their corporate tenants achieve their climate goals. The need to achieve net zero emissions in commercial real estate has never been greater as 60% of the Fortune 500 have issued climate pledges and 50 municipalities have mandated building emissions reductions. We help our customers measure the carbon footprint of their buildings and identify high-impact retrofits that drive both cost savings and decarbonization.\r\n\r\nWe are building the solution we wished we had while working as real estate investors at firms like KKR, Goldman Sachs, JPMorgan and Oxford Properties.\r\n",
-    "one_liner": "Real estate sustainability compliance and capital planning made simple",
+    "long_description": "Cambio is the AI-powered commercial real estate operations platform, built by real estate investors for real estate investors. Cambio automatically collects building data via LLMs to empower mission critical workflows like capital planning and compliance. For instance, Cambio's AI models ingest building data (age, asset class, size, location, etc.) to generate retrofit recommendations and predict ROI. We're working with the largest commercial real estate private equity firms globally like Beacon Capital Partners and Madison International Realty, with a 100% RFP win rate. Our founding team collectively has two decades of commercial real estate experience across KKR, Oxford Properties Group, JPMorgan and Goldman Sachs. We are building the solution we wished we had while working at these funds.",
+    "one_liner": "Real estate capital planning and compliance made simple",
     "team_size": 16,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
@@ -8246,8 +8246,6 @@
     "tags": [
       "Real Estate",
       "B2B",
-      "Climate",
-      "ClimateTech",
       "AI"
     ],
     "tags_highlighted": [],
@@ -10673,53 +10671,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/second",
     "api": "https://yc-oss.github.io/api/batches/w23/second.json"
-  },
-  {
-    "id": 28371,
-    "name": "Fetchr",
-    "slug": "fetchr",
-    "former_names": [
-      "Captivated",
-      "Market"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7974482d81e92fc67ff3b20c0ab1c939e6c54864.png",
-    "website": "https://www.fetchr.so",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fetchr is a personal shopping assistant for clothes. Let Fetchr buy you clothes unqiuely tailored to you - without any guesswork.",
-    "one_liner": "The Personal Stylist in Your Pocket",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Apparel and Cosmetics",
-    "launched_at": 1708846007,
-    "tags": [
-      "Consumer",
-      "E-commerce",
-      "Fashion",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Apparel and Cosmetics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fetchr",
-    "api": "https://yc-oss.github.io/api/batches/w23/fetchr.json"
   },
   {
     "id": 28414,
@@ -16000,8 +15951,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d72c3d83183445e4992cb58763a5f76c303afd5.png",
     "website": "https://www.lumona.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumona is an AI-enabled search engine featuring perspectives from social media to help you understand your search results. When you’re looking to buy a new phone, instead of Googling iPhone 16 reviews and opening multiple reddit threads, blog reviews, and YouTube videos to know if you want to buy it, you can search once on Lumona to get all of that info on one page.",
-    "one_liner": "AI-enabled search engine featuring perspectives from social media.",
+    "long_description": "Lumona is an AI-enabled search engine featuring insights from social media. When you’re looking to buy a new phone, instead of adding reddit to the end of your search and opening tabs of threads that take forever to get through, you can search on Lumona to get all of that processed for you on one page so you can make the best decision while saving time.",
+    "one_liner": "AI-enabled search engine featuring insights from social media.",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -19223,6 +19174,53 @@
     "api": "https://yc-oss.github.io/api/batches/s24/usul.json"
   },
   {
+    "id": 29850,
+    "name": "SureBright",
+    "slug": "surebright",
+    "former_names": [
+      "SureBright Technologies, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/637e029a9dd28023684af2fb257e1a2adbe4db31.png",
+    "website": "https://surebright.com/",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "SureBright lets e-commerce merchants embed \"Apple Care” like product warranties into their checkout flows in less than 10 minutes. Our AI-powered warranty platform generates incremental revenue and boosts customer loyalty at zero cost to the merchant.\r\n\r\nSanket led engineering at PolicyBazar, an insurance tech company that IPOed and is valued at over $8B. Manish worked at Amazon and has built $100M ARR products, handling over 180B requests per day.\r\n\r\nUntil now, finding the right policy for any product and pricing it at the right price wasn’t possible at scale. We automated this process using LLM and have unlocked a $50B+ opportunity. Each month, over 5 million consumers view SureBright warranty offers.",
+    "one_liner": "Apple Care-like warranty program for every retailer ",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1720298517,
+    "tags": [
+      "Fintech",
+      "E-commerce",
+      "Insurance",
+      "Retail",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/surebright",
+    "api": "https://yc-oss.github.io/api/batches/s24/surebright.json"
+  },
+  {
     "id": 29852,
     "name": "AI Sell",
     "slug": "ai-sell",
@@ -21321,6 +21319,90 @@
     "api": "https://yc-oss.github.io/api/batches/w25/edexia.json"
   },
   {
+    "id": 30179,
+    "name": "Vetnio",
+    "slug": "vetnio",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5005981ef0d73a35ad3b8810eead978401e6e5e.png",
+    "website": "https://vetnio.com/",
+    "all_locations": "",
+    "long_description": "Veterinarians are more overworked than ever. As a result, pets, pet owners, and veterinarians suffer.\r\n\r\nBy recording veterinary meetings we automate clinical note and email writing. And by leveraging AI in every aspect of admin work we will remove the burden of admin work for veterinarians once and for all.",
+    "one_liner": "Veterinarians spend 40% of their time on admin work, >20% on note…",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1738187804,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vetnio",
+    "api": "https://yc-oss.github.io/api/batches/w25/vetnio.json"
+  },
+  {
+    "id": 30182,
+    "name": "Casixty",
+    "slug": "casixty",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5111523c1cc63f651baca2a49f9b8fb984cf067.png",
+    "website": "https://casixty.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Casixty automates Reddit engagement for technical companies, helping them connect authentically with their target audiences. Using AI, we identify relevant discussions, generate brand-accurate responses, and provide detailed analytics to track engagement impact.",
+    "one_liner": "Personalized community engagement on Reddit",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1738111851,
+    "tags": [
+      "Analytics",
+      "Sales",
+      "Marketing",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/casixty",
+    "api": "https://yc-oss.github.io/api/batches/w25/casixty.json"
+  },
+  {
     "id": 30189,
     "name": "SubImage",
     "slug": "subimage",
@@ -22003,50 +22085,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/mastra.json"
   },
   {
-    "id": 30307,
-    "name": "Archon",
-    "slug": "archon",
-    "former_names": [
-      "NEXUS"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a035400f6acd84a35dea2f9fb7832b054c02ed12.png",
-    "website": "https://archon.inc",
-    "all_locations": "Washington, DC, USA",
-    "long_description": "We help SaaS companies sell to the government. Our SDK cuts the federal compliance timeline (called FedRAMP) down from 16 to 6 months.\r\n\r\nWe improve government efficiency and increase competition in this traditionally restrictive market by making compliance cheaper and more accessible for small tech companies.",
-    "one_liner": "Get SaaS to the government in months.",
-    "team_size": 2,
-    "industry": "Government",
-    "subindustry": "Government",
-    "launched_at": 1738095676,
-    "tags": [
-      "GovTech",
-      "B2B",
-      "Compliance",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "Government"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/archon",
-    "api": "https://yc-oss.github.io/api/batches/w25/archon.json"
-  },
-  {
     "id": 30312,
     "name": "Retrofit",
     "slug": "retrofit",
@@ -22218,50 +22256,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/roark",
     "api": "https://yc-oss.github.io/api/batches/w25/roark.json"
-  },
-  {
-    "id": 30328,
-    "name": "Dalus",
-    "slug": "dalus",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7076b7fa11f6e99d25bfd27695c8c6125132b882.png",
-    "website": "https://dalus.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dalus is an AI-powered systems engineering software to model/validate complex systems for aerospace/defense/robotics and other mission-critical industries. \r\n\r\nWith Dalus, engineers can seamlessly trace requirements, perform analyses, and update information in real-time. This ensures that every team member stays aligned and informed, reducing inefficiencies and enabling faster iterations. \r\n\r\nWith AI at our core, users can analyze hundreds of pages of existing engineering documentation and requirements to generate or retrieve information about the system model they are building in Dalus.\r\n\r\nWe started working together on Dalus in spring 2024 after Eliot quit his job at Aerojet Rocketdyne (L3Harris) where he worked as a test/systems engineer. He experienced first-hand how silos and poor communication reduced the productivity and efficiencies in the teams he worked at.\r\n\r\nWe love working with companies tackling complex engineering systems, whether they be startups just getting their feet wet or large organizations like Israel Aerospace Industries (Our design partner and biggest aerospace/defense company from Israel)",
-    "one_liner": "Software to model and validate complex hardware systems with AI",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1736994368,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Aerospace",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dalus",
-    "api": "https://yc-oss.github.io/api/batches/w25/dalus.json"
   },
   {
     "id": 30338,
