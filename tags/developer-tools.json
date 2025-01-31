@@ -8038,48 +8038,6 @@
     "api": "https://yc-oss.github.io/api/batches/w21/hoop-dev.json"
   },
   {
-    "id": 23531,
-    "name": "Authologic",
-    "slug": "authologic",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea3165d7a1fc364f352004d5212bcb4b87c515b6.png",
-    "website": "https://authologic.com",
-    "all_locations": "Warsaw, Masovian Voivodeship, Poland; Remote",
-    "long_description": "Authologic is an orchestration and aggregation layer for local KYC & AML methods. We allow businesses to check the identity of their clients online using video/biometrics, banking data, and government issued digital IDs. Our API  allows a flexible definition of verification scenarios based on the risk profile of the client or risk involved in the given process.",
-    "one_liner": "Stripe for online identity verification",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1616831029,
-    "tags": [
-      "Developer Tools",
-      "Fintech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W21",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Poland",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/authologic",
-    "api": "https://yc-oss.github.io/api/batches/w21/authologic.json"
-  },
-  {
     "id": 23613,
     "name": "MagicBell",
     "slug": "magicbell",
@@ -13209,7 +13167,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -13376,8 +13334,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
     "website": "https://www.launchflow.com/",
     "all_locations": "Remote",
-    "long_description": "LaunchFlow is an open source command line tool that can deploy any application to AWS or GCP with a single command.\r\n\r\nThe CLI configures cloud environments, permissions, release pipelines, and other infrastructure that distracts startups from their core product.\r\n\r\nThe CLI pairs with a high-level Python SDK that lets users customize their cloud environments with minimal configuration—our users only maintain an average of 4 lines of configuration per application.\r\n\r\nLaunch anything with 3 commands:\r\n1. $ pip install launchflow\r\n2. $ lf init\r\n3. $ lf deploy",
-    "one_liner": "Launch your app to AWS or GCP in minutes",
+    "long_description": "Our AI Copilot helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!",
+    "one_liner": "Launch your app to any cloud in seconds: infra.new",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -16574,6 +16532,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/paradedb",
     "api": "https://yc-oss.github.io/api/batches/s23/paradedb.json"
+  },
+  {
+    "id": 29103,
+    "name": "Inconvo",
+    "slug": "inconvo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42126d50fed615bc74167d22b4985b25e9d25fad.png",
+    "website": "https://inconvo.ai",
+    "all_locations": "Limerick, County Limerick, Ireland",
+    "long_description": "Inconvo makes it easy for developers to add Ask AI for customer-facing analytics so that users can ask questions on their data in natural language.\r\n\r\nWith Inconvo shipping AI-first analytics is easy, simply send a user question to our API which will respond with a chart, table or text. \r\n\r\nInconvo connects to your database to automatically retrieve the right data to answer your users’ questions. Then, you’re in charge of presenting the responses to your users in a way that fits your design.\r\n\r\nInconvo is purpose-built to overcome the challenges of AI for customer-facing analytics, providing tools that handle multi-tenancy, database access control, AI evaluation, and a semantic layer that maps business terms to database labels.",
+    "one_liner": "The \"Ask AI\" API for customer-facing analytics",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1690946743,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Analytics",
+      "API",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Ireland",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inconvo",
+    "api": "https://yc-oss.github.io/api/batches/s23/inconvo.json"
   },
   {
     "id": 29105,

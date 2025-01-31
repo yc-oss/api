@@ -2259,18 +2259,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2b82979e8cd1a007de394d4f1a3a8e665968d02.png",
     "website": "https://www.cleancard.bio",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are combining synthetic biology and artificial intelligence to make cancer detection as easy as a pregnancy test. Cleancard is bringing lab-grade diagnostics into the comfort of your home. Our novel method enables robust diagnostics and biomarker tracking from the urine in just 30 minutes. Our rapid at-home screens can identify prostate, bladder and ovarian cancers. We are constantly expanding the number of conditions we can detect from a single sample using our platform technology.",
+    "long_description": "We are combining synthetic biology and artificial intelligence to make cancer detection as easy as a pregnancy test. Cleancard's mission is to bring lab-grade diagnostics into the comfort of your home. Our novel method enables robust diagnostics and biomarker tracking from the urine. We are currently developing fully at-home, 30-minute tests for cancer using this methodology. We are constantly expanding the number of conditions we can detect from a single sample with our platform technology.",
     "one_liner": "Making cancer detection as easy as a pregnancy test",
     "team_size": 8,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1691571179,
     "tags": [
-      "Artificial Intelligence",
       "Computer Vision",
       "Biotech",
       "Healthcare",
-      "Diagnostics"
+      "Diagnostics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2595,6 +2595,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/roundabout-technologies",
     "api": "https://yc-oss.github.io/api/batches/f24/roundabout-technologies.json"
+  },
+  {
+    "id": 30210,
+    "name": "Conntour",
+    "slug": "conntour",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e13662a45aaad5a75d32c886f95fbfe0a3d0af5a.png",
+    "website": "https://www.conntour.com/",
+    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "long_description": "Conntour lets governments and corporates query their security cameras. Users can search past footage (“Find a man with a blue backpack”), set alerts (“Alert me if someone climbs over the wall”), and extract data (“How many vehicles entered yesterday?”).\r\n\r\nWe recently secured our first paying customer - the Singapore government - paying $80K for a 3-month trial. If successful, this trial will lead to a contract worth ~$2M/year.\r\n\r\nMatan (CEO) led a military video surveillance unit, leveraging security cameras to save lives. Tomer (CTO) is a second-time founder and former director of engineering.\r\n\r\nThe problem with existing solutions is that they offer low customization, as they’re limited to pre-defined parameters (like shirt color or license plate number). This lack of flexibility causes missed critical events, too many false alarms, and countless hours wasted on manual footage review. Conntour solves this by offering unlimited flexibility through natural language queries - just ask anything.",
+    "one_liner": "Monitor & search security camera footage with natural language.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1738284252,
+    "tags": [
+      "GovTech",
+      "Computer Vision",
+      "B2B",
+      "Security",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "Israel",
+      "Middle East and North Africa"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/conntour",
+    "api": "https://yc-oss.github.io/api/batches/w25/conntour.json"
   },
   {
     "id": 30251,

@@ -29792,8 +29792,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
     "website": "https://www.launchflow.com/",
     "all_locations": "Remote",
-    "long_description": "LaunchFlow is an open source command line tool that can deploy any application to AWS or GCP with a single command.\r\n\r\nThe CLI configures cloud environments, permissions, release pipelines, and other infrastructure that distracts startups from their core product.\r\n\r\nThe CLI pairs with a high-level Python SDK that lets users customize their cloud environments with minimal configuration—our users only maintain an average of 4 lines of configuration per application.\r\n\r\nLaunch anything with 3 commands:\r\n1. $ pip install launchflow\r\n2. $ lf init\r\n3. $ lf deploy",
-    "one_liner": "Launch your app to AWS or GCP in minutes",
+    "long_description": "Our AI Copilot helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!",
+    "one_liner": "Launch your app to any cloud in seconds: infra.new",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -35156,48 +35156,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/dili.json"
   },
   {
-    "id": 29103,
-    "name": "Inconvo",
-    "slug": "inconvo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42126d50fed615bc74167d22b4985b25e9d25fad.png",
-    "website": "https://inconvo.ai",
-    "all_locations": "Limerick, County Limerick, Ireland",
-    "long_description": "Inconvo makes it a breeze for developers to give users a conversational AI interface for application data analysis. \r\n\r\nThe API accepts users' questions, queries your database and returns answers in text, chart or table format.\r\n\r\nInconvo is not just another text-to-SQL tool! It is purpose built to remove the challenges of building user-facing conversational data analysis.",
-    "one_liner": "The API that answers users’ questions on SaaS application data.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1690946743,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "API",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Ireland",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inconvo",
-    "api": "https://yc-oss.github.io/api/batches/s23/inconvo.json"
-  },
-  {
     "id": 29110,
     "name": "AiSDR",
     "slug": "aisdr",
@@ -36740,9 +36698,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8410f1b40522f461a5e5bb56266f4f053b29bffa.png",
     "website": "https://www.usecentralize.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Centralize is the AI-powered relationship intelligence platform for enterprise sales. We provide dynamic org charts that proactively identify key players, making cross-department multithreading effortless. Contact priorities update in real-time using AI-generated conversation insights from emails and calls. In-depth account planning becomes scalable and pipeline reviews now take minutes, giving the entire org a top-down view of the deal, hierarchy penetration, and the true state of conversations.\r\n\r\nThe result? Deals qualified in half the time and win rates boosted by up to 56%.",
-    "one_liner": "The AI-powered relationship intelligence platform for enterprise sales",
-    "team_size": 3,
+    "long_description": "Centralize helps revenue teams operationalize multithreading and drive warm pipeline. Reps at companies like Sendoso, mParticle, and Navattic use us to automatically map stakeholders, track evolving account priorities, and fill contact gaps by leveraging their networks for warm intros.",
+    "one_liner": "The all-in-one deal workspace for high ACV revenue teams",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1699493825,
@@ -36755,7 +36713,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -40252,7 +40210,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -41192,18 +41150,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b29fc94915cb31662bedfaa8eda5297b0c9e5bb.png",
     "website": "https://www.usul.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Usul helps companies win defense contracts with AI. Recent conflicts have forced the DoD to demand the next-generation of military technology. So we built software for US companies and our allies to collaborate and sell to the government. ",
-    "one_liner": "Win Defense Contracts with AI.",
+    "long_description": "Usul is the all-in-one platform to win defense contracts.\r\n\r\nWe help governments adopt defense technologies faster than ever before.\r\n\r\nGet started at https://www.usul.com/",
+    "one_liner": "Win defense contracts with AI",
     "team_size": 3,
-    "industry": "B2B",
+    "industry": "Government",
     "subindustry": "B2B",
     "launched_at": 1722274635,
     "tags": [
+      "Artificial Intelligence",
       "GovTech",
       "B2B",
       "Procurement",
-      "Big Data",
-      "AI"
+      "Big Data"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41212,7 +41170,7 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Government"
     ],
     "regions": [
       "United States of America",
@@ -42782,8 +42740,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5005981ef0d73a35ad3b8810eead978401e6e5e.png",
     "website": "https://vetnio.com/",
     "all_locations": "",
-    "long_description": "Veterinarians are more overworked than ever. As a result, pets, pet owners, and veterinarians suffer.\r\n\r\nBy recording veterinary meetings we automate clinical note and email writing. And by leveraging AI in every aspect of admin work we will remove the burden of admin work for veterinarians once and for all.",
-    "one_liner": "Veterinarians spend 40% of their time on admin work, >20% on note…",
+    "long_description": "Veterinarians spend 40% of their time on admin work, >20% on note taking alone. We're here to change that so they can focus on what really matters - providing the best care possible for animals.",
+    "one_liner": "Streamlining admin work for veterinary professionals",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -42901,6 +42859,49 @@
     "api": "https://yc-oss.github.io/api/batches/w25/promptless.json"
   },
   {
+    "id": 30210,
+    "name": "Conntour",
+    "slug": "conntour",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e13662a45aaad5a75d32c886f95fbfe0a3d0af5a.png",
+    "website": "https://www.conntour.com/",
+    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "long_description": "Conntour lets governments and corporates query their security cameras. Users can search past footage (“Find a man with a blue backpack”), set alerts (“Alert me if someone climbs over the wall”), and extract data (“How many vehicles entered yesterday?”).\r\n\r\nWe recently secured our first paying customer - the Singapore government - paying $80K for a 3-month trial. If successful, this trial will lead to a contract worth ~$2M/year.\r\n\r\nMatan (CEO) led a military video surveillance unit, leveraging security cameras to save lives. Tomer (CTO) is a second-time founder and former director of engineering.\r\n\r\nThe problem with existing solutions is that they offer low customization, as they’re limited to pre-defined parameters (like shirt color or license plate number). This lack of flexibility causes missed critical events, too many false alarms, and countless hours wasted on manual footage review. Conntour solves this by offering unlimited flexibility through natural language queries - just ask anything.",
+    "one_liner": "Monitor & search security camera footage with natural language.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1738284252,
+    "tags": [
+      "GovTech",
+      "Computer Vision",
+      "B2B",
+      "Security",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "Israel",
+      "Middle East and North Africa"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/conntour",
+    "api": "https://yc-oss.github.io/api/batches/w25/conntour.json"
+  },
+  {
     "id": 30217,
     "name": "Rocketable",
     "slug": "rocketable",
@@ -42984,6 +42985,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vora-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/vora-ai.json"
+  },
+  {
+    "id": 30248,
+    "name": "Operand",
+    "slug": "operand",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87e36d9c531e8bea073d0ff4ca8ceaced1c215a5.png",
+    "website": "https://www.tryoperand.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "An AI Data Team for E-Commerce Brands",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1738206906,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "E-commerce",
+      "Retail"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/operand",
+    "api": "https://yc-oss.github.io/api/batches/w25/operand.json"
   },
   {
     "id": 30249,
@@ -43155,6 +43198,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/cenote.json"
   },
   {
+    "id": 30274,
+    "name": "Trata",
+    "slug": "trata",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/508cd0aa179903aea336ffc42458a82d33d548ac.png",
+    "website": "https://www.trytrata.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Trata is a crowdsourced database of stock analysis, written by anonymous hedge fund analysts. We compress the “first cut” of research from 3 hours to 3 minutes with 1-2 page notes. ",
+    "one_liner": "Database of investment research from anonymous hedge fund analysts",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1738274242,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Finance",
+      "B2B",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trata",
+    "api": "https://yc-oss.github.io/api/batches/w25/trata.json"
+  },
+  {
     "id": 30282,
     "name": "Riviera",
     "slug": "riviera",
@@ -43236,6 +43321,92 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/outlit",
     "api": "https://yc-oss.github.io/api/batches/w25/outlit.json"
+  },
+  {
+    "id": 30301,
+    "name": "FuseAI",
+    "slug": "fuseai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d488feeded612915b232f0150073815825ea3aa.png",
+    "website": "https://tryfuse.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building a new agentic operating system to enable enterprises to automate their entire go-to-market (GTM) organizations with vertical AI agents. You can think of the platform as Salesforce meets OpenAI Operator, specifically for GTM teams. We enable you to run your entire sales deal cycle through a simple AI-powered conversational interface, built on-top of an E2E product suite - use natural language to manage customer relationships, enrich B2B contacts, find high-intent leads, and engage with clients in seconds.",
+    "one_liner": "The world's first Customer General Intelligence platform.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1738217807,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Sales",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/fuseai",
+    "api": "https://yc-oss.github.io/api/batches/w25/fuseai.json"
+  },
+  {
+    "id": 30303,
+    "name": "AfterQuery",
+    "slug": "afterquery",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76da7482464e997589bdd7af778cc8f800c3d13.png",
+    "website": "https://afterquery.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We empower foundational AI labs, enterprises, and startups by providing high-quality human-generated datasets that are essential for fine-tuning more capable, refined, and reliable AI systems. \r\n\r\nOur thesis is that truly exceptional model performance requires the highest quality human training data.\r\n \r\nTo solve for this, we are building a platform to onboard experts in various fields to work on custom datasets. Think of the working professionals at top firms and the smartest students in various subjects (PhDs). Then, whenever our clients have a request for a certain type of data, we will construct and lead a team to produce: fine-tuning data, RLHF data, benchmarks, etc.\r\n\r\nWe’ve already started in finance, illustrating the importance of high-quality data in our paper posted here: https://github.com/AfterQuery/FinanceQA\r\n",
+    "one_liner": "High-quality AI starts with high-quality human data",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1738219847,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Data Labeling",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/afterquery",
+    "api": "https://yc-oss.github.io/api/batches/w25/afterquery.json"
   },
   {
     "id": 30307,

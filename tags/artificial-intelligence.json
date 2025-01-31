@@ -6136,7 +6136,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/baf85db6a93c2d943a393a2221fe8de866e38afb.png",
     "website": "https://tryglimpse.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Glimpse helps retail-first CPG brands automate their cash reconciliation process & fight invalid fees from their retailers & distributors using AI. Imagine a beverage company sold $100k worth of goods to Whole Foods & only got paid $60k. The deducted $40k comes in hundreds of long PDF’s with obscure codes that a team has to manually review every single one of to ensure the fees are valid. A % of these fees are always invalid and brands have to go through a lengthy process to get back money owed to them. We automate this whole process - saving a brand dozens of hours a week & recouping them money back. ",
+    "long_description": "Glimpse helps retail-first CPG brands automate their cash reconciliation process & fight invalid fees from their retailers & distributors using AI. Imagine a beverage company sold $100k worth of goods to Whole Foods & only got paid $60k. The deducted $40k comes in hundreds of long PDF’s with obscure codes that a team has to manually review every single one of to ensure the fees are valid. A % of these fees are always invalid and brands have to go through a lengthy process to get back money owed to them. We automate this whole process - saving a brand dozens of hours a week & recouping them 2-3% of their topline sales.",
     "one_liner": "Glimpse is a suite of AI services for brands that sell in retail",
     "team_size": 3,
     "industry": "B2B",
@@ -11930,6 +11930,51 @@
     "api": "https://yc-oss.github.io/api/batches/s22/layerup.json"
   },
   {
+    "id": 26662,
+    "name": "Paces",
+    "slug": "paces",
+    "former_names": [
+      "Paces AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a92cafe33d123a85f38886d7af1f5aa33cbfd033.png",
+    "website": "https://paces.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "In the next 30 years, the world will transform every part of the built environment to be climate positive green infrastructure. Knowing what, where, and how to build infrastructure like solar farms and data centers is one of the great opportunities of our time.\r\n\r\nPaces is software for green infrastructure developers to identify the best places to build and manage their projects. Our software supports renewable energy, EV charging, carbon sequestration and data center customers with interconnection, permitting and siting of their projects.",
+    "one_liner": "Siting and Due Diligence of Green Projects",
+    "team_size": 30,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Climate",
+    "launched_at": 1654191081,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Proptech",
+      "Climate",
+      "Energy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Climate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/paces",
+    "api": "https://yc-oss.github.io/api/batches/s22/paces.json"
+  },
+  {
     "id": 26668,
     "name": "Elessar",
     "slug": "elessar",
@@ -16941,51 +16986,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/cardinal-gray.json"
   },
   {
-    "id": 28891,
-    "name": "Cleancard",
-    "slug": "cleancard",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2b82979e8cd1a007de394d4f1a3a8e665968d02.png",
-    "website": "https://www.cleancard.bio",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are combining synthetic biology and artificial intelligence to make cancer detection as easy as a pregnancy test. Cleancard is bringing lab-grade diagnostics into the comfort of your home. Our novel method enables robust diagnostics and biomarker tracking from the urine in just 30 minutes. Our rapid at-home screens can identify prostate, bladder and ovarian cancers. We are constantly expanding the number of conditions we can detect from a single sample using our platform technology.",
-    "one_liner": "Making cancer detection as easy as a pregnancy test",
-    "team_size": 8,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Diagnostics",
-    "launched_at": 1691571179,
-    "tags": [
-      "Artificial Intelligence",
-      "Computer Vision",
-      "Biotech",
-      "Healthcare",
-      "Diagnostics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Diagnostics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cleancard",
-    "api": "https://yc-oss.github.io/api/batches/s23/cleancard.json"
-  },
-  {
     "id": 28894,
     "name": "Lysto AI",
     "slug": "lysto-ai",
@@ -20483,9 +20483,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8410f1b40522f461a5e5bb56266f4f053b29bffa.png",
     "website": "https://www.usecentralize.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Centralize is the AI-powered relationship intelligence platform for enterprise sales. We provide dynamic org charts that proactively identify key players, making cross-department multithreading effortless. Contact priorities update in real-time using AI-generated conversation insights from emails and calls. In-depth account planning becomes scalable and pipeline reviews now take minutes, giving the entire org a top-down view of the deal, hierarchy penetration, and the true state of conversations.\r\n\r\nThe result? Deals qualified in half the time and win rates boosted by up to 56%.",
-    "one_liner": "The AI-powered relationship intelligence platform for enterprise sales",
-    "team_size": 3,
+    "long_description": "Centralize helps revenue teams operationalize multithreading and drive warm pipeline. Reps at companies like Sendoso, mParticle, and Navattic use us to automatically map stakeholders, track evolving account priorities, and fill contact gaps by leveraging their networks for warm intros.",
+    "one_liner": "The all-in-one deal workspace for high ACV revenue teams",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1699493825,
@@ -20498,7 +20498,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -21775,53 +21775,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arcane",
     "api": "https://yc-oss.github.io/api/batches/w24/arcane.json"
-  },
-  {
-    "id": 29471,
-    "name": "Senso",
-    "slug": "senso",
-    "former_names": [
-      "Senso AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34625866c8af1f2232deac55af64546b4e1026b2.png",
-    "website": "http://www.senso.ai",
-    "all_locations": "Toronto, ON, Canada",
-    "long_description": "Senso is building an AI-powered knowledge base for customer support, starting in the Credit Union space.  Our product reduces contact time by over 10x by enabling support teams to make decisions about customer requests in seconds.  Bringing service automation to the financial services industry is a $6B opportunity, and we’re building for all regulated industries where Senso's founders have spent over a decade building enterprise software.  ",
-    "one_liner": "AI-Powered Knowledge Base for Customer Support",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1704454195,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "SaaS",
-      "Enterprise Software",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Canada",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/senso",
-    "api": "https://yc-oss.github.io/api/batches/w24/senso.json"
   },
   {
     "id": 29472,
@@ -24691,7 +24644,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -25333,24 +25286,25 @@
     "api": "https://yc-oss.github.io/api/batches/s24/quetzal.json"
   },
   {
-    "id": 29848,
-    "name": "Saldor",
-    "slug": "saldor",
-    "former_names": [
-      "Ovation"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a075f23bbd8f7661151fbd5110d6e48d39a3b3a.png",
-    "website": "https://saldor.com/",
+    "id": 29849,
+    "name": "Usul",
+    "slug": "usul",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b29fc94915cb31662bedfaa8eda5297b0c9e5bb.png",
+    "website": "https://www.usul.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Asynchronous software engineering assistants.",
-    "one_liner": "AI Software Engineers",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1722921255,
+    "long_description": "Usul is the all-in-one platform to win defense contracts.\r\n\r\nWe help governments adopt defense technologies faster than ever before.\r\n\r\nGet started at https://www.usul.com/",
+    "one_liner": "Win defense contracts with AI",
+    "team_size": 3,
+    "industry": "Government",
+    "subindustry": "B2B",
+    "launched_at": 1722274635,
     "tags": [
       "Artificial Intelligence",
-      "Generative AI"
+      "GovTech",
+      "B2B",
+      "Procurement",
+      "Big Data"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25359,8 +25313,7 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Government"
     ],
     "regions": [
       "United States of America",
@@ -25371,8 +25324,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/saldor",
-    "api": "https://yc-oss.github.io/api/batches/s24/saldor.json"
+    "url": "https://www.ycombinator.com/companies/usul",
+    "api": "https://yc-oss.github.io/api/batches/s24/usul.json"
   },
   {
     "id": 29854,
@@ -27052,8 +27005,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5005981ef0d73a35ad3b8810eead978401e6e5e.png",
     "website": "https://vetnio.com/",
     "all_locations": "",
-    "long_description": "Veterinarians are more overworked than ever. As a result, pets, pet owners, and veterinarians suffer.\r\n\r\nBy recording veterinary meetings we automate clinical note and email writing. And by leveraging AI in every aspect of admin work we will remove the burden of admin work for veterinarians once and for all.",
-    "one_liner": "Veterinarians spend 40% of their time on admin work, >20% on note…",
+    "long_description": "Veterinarians spend 40% of their time on admin work, >20% on note taking alone. We're here to change that so they can focus on what really matters - providing the best care possible for animals.",
+    "one_liner": "Streamlining admin work for veterinary professionals",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -27338,6 +27291,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/macadamia.json"
   },
   {
+    "id": 30274,
+    "name": "Trata",
+    "slug": "trata",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/508cd0aa179903aea336ffc42458a82d33d548ac.png",
+    "website": "https://www.trytrata.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Trata is a crowdsourced database of stock analysis, written by anonymous hedge fund analysts. We compress the “first cut” of research from 3 hours to 3 minutes with 1-2 page notes. ",
+    "one_liner": "Database of investment research from anonymous hedge fund analysts",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1738274242,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Finance",
+      "B2B",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trata",
+    "api": "https://yc-oss.github.io/api/batches/w25/trata.json"
+  },
+  {
     "id": 30275,
     "name": "Solidroad",
     "slug": "solidroad",
@@ -27549,6 +27544,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sennu-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/sennu-ai.json"
+  },
+  {
+    "id": 30303,
+    "name": "AfterQuery",
+    "slug": "afterquery",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76da7482464e997589bdd7af778cc8f800c3d13.png",
+    "website": "https://afterquery.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We empower foundational AI labs, enterprises, and startups by providing high-quality human-generated datasets that are essential for fine-tuning more capable, refined, and reliable AI systems. \r\n\r\nOur thesis is that truly exceptional model performance requires the highest quality human training data.\r\n \r\nTo solve for this, we are building a platform to onboard experts in various fields to work on custom datasets. Think of the working professionals at top firms and the smartest students in various subjects (PhDs). Then, whenever our clients have a request for a certain type of data, we will construct and lead a team to produce: fine-tuning data, RLHF data, benchmarks, etc.\r\n\r\nWe’ve already started in finance, illustrating the importance of high-quality data in our paper posted here: https://github.com/AfterQuery/FinanceQA\r\n",
+    "one_liner": "High-quality AI starts with high-quality human data",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1738219847,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Data Labeling",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/afterquery",
+    "api": "https://yc-oss.github.io/api/batches/w25/afterquery.json"
   },
   {
     "id": 30304,
