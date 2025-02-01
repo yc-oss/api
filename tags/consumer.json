@@ -501,7 +501,7 @@
     "top_company": false,
     "isHiring": true,
     "nonprofit": false,
-    "batch": "IK12",
+    "batch": "S12",
     "status": "Active",
     "industries": [
       "Education"
@@ -518,7 +518,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/classdojo",
-    "api": "https://yc-oss.github.io/api/batches/ik12/classdojo.json"
+    "api": "https://yc-oss.github.io/api/batches/s12/classdojo.json"
   },
   {
     "id": 1461,
@@ -1912,7 +1912,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W20",
     "status": "Active",
@@ -6054,20 +6054,20 @@
       "Captivated",
       "Market"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7974482d81e92fc67ff3b20c0ab1c939e6c54864.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a3711a46cd77a69710a4297505d609c4c20e5a2.png",
     "website": "https://www.fetchr.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fetchr is the first personalized shopping app for clothes. Let Fetchr buy you clothes uniquely tailored to you — without any work.",
-    "one_liner": "The Personal Stylist in Your Pocket",
+    "one_liner": "The Personal Shopper  in Your Pocket",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer -> Apparel and Cosmetics",
     "launched_at": 1708846007,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "E-commerce",
-      "Fashion"
+      "Fashion",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7562,8 +7562,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2af2b5c47fb7082d55355cc9c8ad07af8fb99ae7.png",
     "website": "https://modernrealty.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tech enabled B2C Realtor representation for home buying",
-    "one_liner": "Tech forward Real Estate brokerage",
+    "long_description": "The future of homebuying. ",
+    "one_liner": "AI Real Estate Brokerage",
     "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
@@ -8379,11 +8379,11 @@
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1738144366,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Consumer",
-      "Gaming"
+      "Gaming",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8494,5 +8494,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/retrofit",
     "api": "https://yc-oss.github.io/api/batches/w25/retrofit.json"
+  },
+  {
+    "id": 30365,
+    "name": "Mentra",
+    "slug": "mentra",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/955a5d07c2eb3ac4b3e6ec10e2dc182009e35f9b.png",
+    "website": "https://mentra.glass",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mentra is building AugmentOS, the open source OS for smart glasses, like Android for smart glasses. Smart glasses hardware is finally ready, and we're building the software ecosystem to unlock the next personal computer. ",
+    "one_liner": "Building the open source smart glasses operating system.",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Virtual and Augmented Reality",
+    "launched_at": 1738358223,
+    "tags": [
+      "Hardware",
+      "Consumer",
+      "Open Source",
+      "AI",
+      "AR"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Virtual and Augmented Reality"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mentra",
+    "api": "https://yc-oss.github.io/api/batches/w25/mentra.json"
   }
 ]

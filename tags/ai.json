@@ -4903,7 +4903,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -6015,10 +6015,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61153d83e47c1914a8eed2b2b8b7f1813bf43dca.png",
     "website": "https://cogram.com",
-    "all_locations": "Berlin, Berlin, Germany; London, England, United Kingdom",
-    "long_description": "Cogram takes notes in meetings, tracks actions, and automates post-meeting tasks, while keeping your data private and secure.",
-    "one_liner": "Drive productivity with an AI for your team",
-    "team_size": 5,
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "Cogram is an LLM-based productivity platform for the architecture, engineering, and construction (AEC) industry. Our product automates a growing number of AEC workflows such as meeting notes, site visits, project administration, and RFP bidding.",
+    "one_liner": "AI for the AEC industry—online and in the field.",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1641830467,
@@ -6038,7 +6038,6 @@
     ],
     "regions": [
       "Germany",
-      "United Kingdom",
       "Europe",
       "Remote",
       "Partly Remote"
@@ -7187,6 +7186,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/overwatch",
     "api": "https://yc-oss.github.io/api/batches/s22/overwatch.json"
+  },
+  {
+    "id": 26808,
+    "name": "Phind",
+    "slug": "phind",
+    "former_names": [
+      "Hello Cognition",
+      "Hello",
+      "Phind",
+      "phind.com"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8151bfb74b7fe2072291d1efc343fcf50f977bec.png",
+    "website": "https://phind.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Phind is an AI search engine. It uses multi-step reasoning to find the best answer for your question and generative UI to present it in the most beautiful and interactive way.",
+    "one_liner": "AI search engine",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1654731943,
+    "tags": [
+      "Generative AI",
+      "Search",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/phind",
+    "api": "https://yc-oss.github.io/api/batches/s22/phind.json"
   },
   {
     "id": 26825,
@@ -9341,46 +9386,6 @@
     "api": "https://yc-oss.github.io/api/batches/w23/floworks.json"
   },
   {
-    "id": 27875,
-    "name": "Iliad",
-    "slug": "iliad",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/704cabf9ad75f0fbbf74aa11aa3372df14b27ea1.png",
-    "website": "https://iliad.ai",
-    "all_locations": "Pittsburgh, PA, USA",
-    "long_description": "Iliad is a creative tool for generating and editing concept art, 2D, and 3D assets using AI.\r\n\r\nThe Canvas (Iliad's primary workspace) is laid out like a traditional editor, with the asset you're working on as the central focus, and tools and settings around the sides. It is designed from the ground-up for diffusion model workflows which require fine control over generating and editing.",
-    "one_liner": "Expressive and controllable visual art generation",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1674524413,
-    "tags": [
-      "Generative AI",
-      "Design Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/iliad",
-    "api": "https://yc-oss.github.io/api/batches/w23/iliad.json"
-  },
-  {
     "id": 27881,
     "name": "Inkeep",
     "slug": "inkeep",
@@ -10626,6 +10631,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/second",
     "api": "https://yc-oss.github.io/api/batches/w23/second.json"
+  },
+  {
+    "id": 28371,
+    "name": "Fetchr",
+    "slug": "fetchr",
+    "former_names": [
+      "Captivated",
+      "Market"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a3711a46cd77a69710a4297505d609c4c20e5a2.png",
+    "website": "https://www.fetchr.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fetchr is the first personalized shopping app for clothes. Let Fetchr buy you clothes uniquely tailored to you — without any work.",
+    "one_liner": "The Personal Shopper  in Your Pocket",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Apparel and Cosmetics",
+    "launched_at": 1708846007,
+    "tags": [
+      "Consumer",
+      "E-commerce",
+      "Fashion",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Apparel and Cosmetics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fetchr",
+    "api": "https://yc-oss.github.io/api/batches/w23/fetchr.json"
   },
   {
     "id": 28414,
@@ -13377,52 +13429,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/truemetrics.json"
   },
   {
-    "id": 29134,
-    "name": "Flair Health",
-    "slug": "flair-health",
-    "former_names": [
-      "Flair Technology Services Inc.",
-      "Flair"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48282aa61f2203958955e7297f595a6fc48a2288.png",
-    "website": "https://www.flairhealth.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Platform to address the unique challenges of specialty medication…",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1690407835,
-    "tags": [
-      "Health Tech",
-      "B2B",
-      "Data Science",
-      "Healthcare IT",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flair-health",
-    "api": "https://yc-oss.github.io/api/batches/s23/flair-health.json"
-  },
-  {
     "id": 29150,
     "name": "Tempo Labs",
     "slug": "tempo-labs",
@@ -13606,13 +13612,12 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Start your AI application with agentic RAG, ingestion, document management, and more.",
     "one_liner": "SciPhi is building R2R, the most advanced retrieval system.",
-    "team_size": 6,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1710132587,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
       "Search",
       "Infrastructure",
       "AI"
@@ -13830,7 +13835,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -18236,8 +18241,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2af2b5c47fb7082d55355cc9c8ad07af8fb99ae7.png",
     "website": "https://modernrealty.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tech enabled B2C Realtor representation for home buying",
-    "one_liner": "Tech forward Real Estate brokerage",
+    "long_description": "The future of homebuying. ",
+    "one_liner": "AI Real Estate Brokerage",
     "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
@@ -20916,7 +20921,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "F24",
     "status": "Active",
@@ -22047,6 +22052,93 @@
     "api": "https://yc-oss.github.io/api/batches/w25/confident-ai.json"
   },
   {
+    "id": 30286,
+    "name": "Nitrode",
+    "slug": "nitrode",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/514545bed169ad1eb626571d7e0d77375b33f656.png",
+    "website": "http://nitrode.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nitrode is an AI-assisted gaming platform designed to transform your gaming experience. Whether you're an aspiring game developer or a passionate gamer, Nitrode empowers you to effortlessly build, launch, and play your favorite games. Leveraging AI, Nitrode streamlines the game creation and launching process, allowing creators to focus on their vision without getting bogged down by mechanics or technical complexities.",
+    "one_liner": "AI-assisted game development platform",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1738144366,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Consumer",
+      "Gaming",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nitrode",
+    "api": "https://yc-oss.github.io/api/batches/w25/nitrode.json"
+  },
+  {
+    "id": 30287,
+    "name": "Calltree AI",
+    "slug": "calltree-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/faffbf74e034071386a917c3afe0260f950ac8e6.png",
+    "website": "https://calltree.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Calltree helps enterprises' VP of Operations understand how to make their call center more efficient. Our AI agent analyzes millions of minutes of call center recordings to find inefficiencies in workflows and quantifies the cost of each action. For example, when a rep is handling a credit card dispute, Calltree can identify that reps spend 30 seconds per call on manual data gathering and data entry, propose a solution, and measure the opex savings. Calltree surfaces these insights in an analytics tool and generates reports, making it easy for operation leaders to build business cases to prioritize improvements, realizing millions in opex savings.\r\n\r\nSee us at https://calltree.ai",
+    "one_liner": "AI operations analyst for call center workflows",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1738270018,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "Customer Service",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/calltree-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/calltree-ai.json"
+  },
+  {
     "id": 30288,
     "name": "Harper",
     "slug": "harper",
@@ -22346,6 +22438,49 @@
     "api": "https://yc-oss.github.io/api/batches/w25/pinch.json"
   },
   {
+    "id": 30318,
+    "name": "Wildcard",
+    "slug": "wildcard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6dd000652c5e77966ee483897c0ffed9dac2d80.png",
+    "website": "https://wild-card.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Connect agents to any API in the world with LLM-native interfaces. Wildcard is a developer platform that combines powerful API integrations with intelligent tool orchestration for AI agents. \r\n\r\nOur vision is to be the bridge between AI agents and the world’s APIs.",
+    "one_liner": "Making APIs 'just work' for AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1738308751,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wildcard",
+    "api": "https://yc-oss.github.io/api/batches/w25/wildcard.json"
+  },
+  {
     "id": 30321,
     "name": "Woz",
     "slug": "woz",
@@ -22558,5 +22693,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vantel",
     "api": "https://yc-oss.github.io/api/batches/w25/vantel.json"
+  },
+  {
+    "id": 30365,
+    "name": "Mentra",
+    "slug": "mentra",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/955a5d07c2eb3ac4b3e6ec10e2dc182009e35f9b.png",
+    "website": "https://mentra.glass",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mentra is building AugmentOS, the open source OS for smart glasses, like Android for smart glasses. Smart glasses hardware is finally ready, and we're building the software ecosystem to unlock the next personal computer. ",
+    "one_liner": "Building the open source smart glasses operating system.",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Virtual and Augmented Reality",
+    "launched_at": 1738358223,
+    "tags": [
+      "Hardware",
+      "Consumer",
+      "Open Source",
+      "AI",
+      "AR"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Virtual and Augmented Reality"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mentra",
+    "api": "https://yc-oss.github.io/api/batches/w25/mentra.json"
   }
 ]

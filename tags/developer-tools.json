@@ -5550,7 +5550,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W20",
     "status": "Active",
@@ -11868,53 +11868,6 @@
     "api": "https://yc-oss.github.io/api/batches/s22/popsy.json"
   },
   {
-    "id": 26808,
-    "name": "Phind",
-    "slug": "phind",
-    "former_names": [
-      "Hello Cognition",
-      "Hello",
-      "Phind",
-      "phind.com"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8151bfb74b7fe2072291d1efc343fcf50f977bec.png",
-    "website": "https://phind.com",
-    "all_locations": "San Francisco, CA, USA; New York, NY, USA",
-    "long_description": "Phind is an intelligent answer engine for developers. Focused on helping you solve challenging problems, Phind uses generative AI to get you from an idea to a working product. Connected to the internet and your codebase, Phind has the context it needs to get you the right answer.",
-    "one_liner": "AI answer engine for developers",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1654731943,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "Search",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/phind",
-    "api": "https://yc-oss.github.io/api/batches/s22/phind.json"
-  },
-  {
     "id": 26811,
     "name": "Payload",
     "slug": "payload",
@@ -16541,7 +16494,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42126d50fed615bc74167d22b4985b25e9d25fad.png",
     "website": "https://inconvo.ai",
     "all_locations": "Limerick, County Limerick, Ireland",
-    "long_description": "Inconvo makes it easy for developers to add Ask AI for customer-facing analytics so that users can ask questions on their data in natural language.\r\n\r\nWith Inconvo shipping AI-first analytics is easy, simply send a user question to our API which will respond with a chart, table or text. \r\n\r\nInconvo connects to your database to automatically retrieve the right data to answer your users’ questions. Then, you’re in charge of presenting the responses to your users in a way that fits your design.\r\n\r\nInconvo is purpose-built to overcome the challenges of AI for customer-facing analytics, providing tools that handle multi-tenancy, database access control, AI evaluation, and a semantic layer that maps business terms to database labels.",
+    "long_description": "Inconvo makes it easy for developers to add Ask AI for customer-facing analytics so that users can ask questions on their data in natural language.\r\n\r\nWith Inconvo shipping AI-first analytics is easy, simply send a user question to our API which responds with a chart, table or text. \r\n\r\nInconvo connects to your database to automatically retrieve the right data to answer your users’ questions. Then, you’re in charge of presenting the responses to your users in a way that fits your design.\r\n\r\nInconvo is purpose-built to overcome the challenges of AI for customer-facing analytics, providing tools that handle multi-tenancy, database access control, AI evaluation, and a semantic layer that maps business terms to database labels.",
     "one_liner": "The \"Ask AI\" API for customer-facing analytics",
     "team_size": 2,
     "industry": "B2B",
@@ -16839,51 +16792,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/codestory.json"
   },
   {
-    "id": 29181,
-    "name": "SciPhi",
-    "slug": "sciphi",
-    "former_names": [
-      "EmergentAGI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/952b6381b227fe13913d082e7f9bdec4731e8adb.png",
-    "website": "https://www.sciphi.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Start your AI application with agentic RAG, ingestion, document management, and more.",
-    "one_liner": "SciPhi is building R2R, the most advanced retrieval system.",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1710132587,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Search",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sciphi",
-    "api": "https://yc-oss.github.io/api/batches/w24/sciphi.json"
-  },
-  {
     "id": 29182,
     "name": "Upsolve AI",
     "slug": "upsolve-ai",
@@ -17031,7 +16939,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -21432,11 +21340,11 @@
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1738144366,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Consumer",
-      "Gaming"
+      "Gaming",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21503,6 +21411,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mastra",
     "api": "https://yc-oss.github.io/api/batches/w25/mastra.json"
+  },
+  {
+    "id": 30318,
+    "name": "Wildcard",
+    "slug": "wildcard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6dd000652c5e77966ee483897c0ffed9dac2d80.png",
+    "website": "https://wild-card.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Connect agents to any API in the world with LLM-native interfaces. Wildcard is a developer platform that combines powerful API integrations with intelligent tool orchestration for AI agents. \r\n\r\nOur vision is to be the bridge between AI agents and the world’s APIs.",
+    "one_liner": "Making APIs 'just work' for AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1738308751,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wildcard",
+    "api": "https://yc-oss.github.io/api/batches/w25/wildcard.json"
   },
   {
     "id": 30335,
