@@ -2053,7 +2053,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S11",
     "status": "Active",
@@ -31323,7 +31323,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W19",
     "status": "Active",
@@ -31339,7 +31339,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/first",
@@ -69077,22 +69077,23 @@
   },
   {
     "id": 26851,
-    "name": "Ajourney",
-    "slug": "ajourney",
+    "name": "Zapi",
+    "slug": "zapi",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55a168dc9d0d52d0eb97853219e01ea7ada26951.png",
-    "website": "https://ajourney.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/352d3694a794205cea0864fc8282616d78061180.png",
+    "website": "https://heyzapi.com",
     "all_locations": "Singapore, Singapore; Remote",
-    "long_description": "Ajourney helps businesses save time on repetitive and manual tasks.\r\n\r\nUsing a workflow builder, businesses can automate complex workflows and repetitive tasks.",
-    "one_liner": "Automate work with AI",
-    "team_size": 3,
+    "long_description": "Build stunning content sites in seconds with no-code using AI",
+    "one_liner": "No Code AI Site Builder",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1654527668,
     "tags": [
+      "Generative AI",
       "SaaS",
       "B2B",
-      "HR Tech"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -69114,8 +69115,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ajourney",
-    "api": "https://yc-oss.github.io/api/batches/s22/ajourney.json"
+    "url": "https://www.ycombinator.com/companies/zapi",
+    "api": "https://yc-oss.github.io/api/batches/s22/zapi.json"
   },
   {
     "id": 26852,
@@ -84875,7 +84876,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -89591,18 +89592,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d18a60c353c24c8c090f2237dd2281d68b7155ba.png",
     "website": "https://www.useresonance.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Resonance enables companies to access a set of AI marketing models trained on their proprietary data that they can rapidly deploy within their MarTech stack to optimize use cases such as email subject lines, SMS copy, etc.",
-    "one_liner": "Deploy finetuned AI models within your existing MarTech stack ",
+    "long_description": "Resonance enables companies to personalize marketing campaign content that they can rapidly deploy within their MarTech stack to optimize omni-channel marketing.",
+    "one_liner": "Universal API For Content Personalization",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709332105,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "SaaS",
       "Subscriptions",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -96554,44 +96555,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/clearly-ai.json"
   },
   {
-    "id": 29731,
-    "name": "Olive Legal",
-    "slug": "olive-legal",
-    "former_names": [
-      "Pastel Health"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f7baf06a18eb95e118fcef8277af5190afda01b.png",
-    "website": "https://olive.legal",
-    "all_locations": "",
-    "long_description": "Olive uses AI to summarize client medical records for personal injury lawyers. We're at $13k MRR after launching eight weeks ago, and law firms choose us because we double paralegal efficiency. As we take over more legal workflow, Olive will serve victims of medical malpractice directly. \r\n\r\nSam's ex-girlfriend introduced him to Greg back at CMU in 2017, and while that relationship didn't last, their friendship has. After undergrad, Greg went to Harvard Law School, while Sam worked for three years at Jane Street, building & leading a satellite dev team.\r\n\r\nGreg graduated, Sam quit, and we founded Olive with a big idea: use AI to make the law more accessible. We started with AI in corporate law given Greg's background, but quickly realized the space was crowded, and turned our attention to the under-competed $65B personal injury market.\r\n\r\nAI disruption makes a lot of sense in personal injury because the incentives are aligned—plaintiff lawyers are paid on contingency, and therefore love time-saving tools. We have competitors who have proven substantial demand for medical summaries, but they operate at best on hybrid human/AI approaches with multi-day turnarounds. We think there's space for an AI solution that cuts humans out of the loop entirely, and we think we're the right team to do it.\r\n\r\nWe're focusing on the medical malpractice niche within personal injury, because there's a massive access to justice problem: medical malpractice lawyers decline most cases under $500k since they're too expensive to litigate. An estimated 80% of medical malpractice victims can't secure representation right now. We estimate this latent demand at $48bn/year.\r\n\r\nWe are on a mission to unlock this value.",
-    "one_liner": "AI medical summaries for injury lawyers",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1724859181,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/olive-legal",
-    "api": "https://yc-oss.github.io/api/batches/s24/olive-legal.json"
-  },
-  {
     "id": 29732,
     "name": "ReactWise",
     "slug": "reactwise",
@@ -98134,12 +98097,12 @@
     "former_names": [
       "AndAI, Inc. (informally, &AI)"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cbfdae4cf4aa88ab7c284441ae3c8e0ff382717.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6201e0f110b5d799fb6f60dac497e43db2f7736d.png",
     "website": "https://www.tryandai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "&AI is a secure workspace engineered for patent attorneys, leveraging AI to accelerate end-to-end prosecution and litigation workflows.",
-    "one_liner": "AI for Patent Attorneys",
-    "team_size": 7,
+    "long_description": "&AI is an AI-powered workspace designed for patent attorneys. Leverage agentic AI to accelerate entire prosecution & litigation workflows in one secure, collaborative workspace.",
+    "one_liner": "Professional-Grade AI for Patent Attorneys",
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1719938647,
@@ -102959,47 +102922,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/promptless.json"
   },
   {
-    "id": 30208,
-    "name": "Hyphen",
-    "slug": "hyphen",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7895a461242ef2ca60469f6f46d26def9dd88819.png",
-    "website": "https://www.hyphenbox.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hyphen enables Medical AI research teams and decision support solutions prepare high quality training datasets from CT Scans, X Rays and MRIs. With Hyphen, you can collect radiology data from hospitals/labs and create workflows for annotation & reviews. Hyphen also allows monitoring the skill levels of the labelling workforce. We equip labelers with AI-assists for annotations, 3D tools to view and make pixel-perfect markings while enabling reviewers to set up automated error-checking using consensus mechanisms.",
-    "one_liner": "Medical Data Annotation Software",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1732603808,
-    "tags": [
-      "AIOps",
-      "Machine Learning",
-      "Crowdsourcing",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hyphen",
-    "api": "https://yc-oss.github.io/api/batches/w25/hyphen.json"
-  },
-  {
     "id": 30210,
     "name": "Conntour",
     "slug": "conntour",
@@ -103176,7 +103098,7 @@
     "name": "a0.dev",
     "slug": "a0-dev",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41a8c58ca0735e6b0eeef8bb621ed0bb2edf8b3d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eed1f4cfbc94ee7934ad288bea413225964237fe.png",
     "website": "https://a0.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "a0.dev is a platform that helps mobile developers build high quality apps in days instead of weeks by generating custom react native projects. We've launched top ranking apps that have been used by hundreds of thousands, and now we're creating the tools we wish we had to build faster.",
@@ -103186,10 +103108,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1737327618,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Design",
-      "AI"
+      "Design"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -104315,16 +104237,16 @@
     "website": "https://withwoz.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Woz is an AI platform that enables anyone to build and scale software businesses - no coding required.\r\n\r\nHistorically, the ability to write code and architect software served as a massive barrier to business building. Woz eliminates this barrier with a team of AI agents that enable anyone, regardless of technical ability, to build products, go to market and grow a business all on one platform without a technical cofounder or inhouse engineering team. \r\n\r\nOur first customers include a personal trainer building a fitness app for his clients, a property manager building a tool for managing security deposits, a doctor launching a coaching program to augment GLP1s and more. Ultimately, Woz aims to be the default platform where millions of AI-enabled entrepreneurs launch and scale businesses.\r\n\r\nWoz is built by a team of engineers and ML scientists who've worked together building complex AI systems for the last decade. We're backed by YC, Untapped Ventures, MGV and more. \r\n",
-    "one_liner": "AI platform enabling anyone to build and scale software businesses -…",
+    "one_liner": "AI platform enabling anyone to build and scale software businesses",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1737406523,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Design",
-      "No-code",
-      "AI"
+      "No-code"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -104354,21 +104276,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
     "website": "https://spott.io",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Spott is building the next generation ATS & CRM for executive search firms. Today, headhunters use our software to produce detailed candidate presentation reports in minutes instead of hours.\r\n\r\n",
     "one_liner": "AI for Executive Search",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1737184010,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "HR Tech"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W25",
     "status": "Active",
@@ -104377,8 +104295,7 @@
       "Recruiting and Talent"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

@@ -479,6 +479,47 @@
     "api": "https://yc-oss.github.io/api/batches/s11/sift.json"
   },
   {
+    "id": 110,
+    "name": "MixRank",
+    "slug": "mixrank",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98189b51f5b6f25d164e611f2ea6a3c5f972de3f.png",
+    "website": "https://mixrank.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "MixRank processes petabytes of data every month from web crawls, Google Play Store, Apple App Store, social media, and dozens of other sources. We have hundreds of customers using our data products including Google, Amazon, Facebook, Intel, and Adobe, across industries Sales, Marketing, Finance, and Security.",
+    "one_liner": "Data products for sales, marketing, finance, recruiting, and more.",
+    "team_size": 31,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1326789427,
+    "tags": [
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S11",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mixrank",
+    "api": "https://yc-oss.github.io/api/batches/s11/mixrank.json"
+  },
+  {
     "id": 138,
     "name": "Talkable",
     "slug": "talkable",
@@ -2387,47 +2428,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/mashgin",
     "api": "https://yc-oss.github.io/api/batches/w15/mashgin.json"
-  },
-  {
-    "id": 861,
-    "name": "Lugg",
-    "slug": "lugg",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/175d327b10d198af9d6946ff8e8cd89695e9fabc.png",
-    "website": "http://lugg.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lugg is building the best way for you to get anything moved. With the push of a button, you are connected to movers and a truck. They make it dead simple to get your new furniture home, your craigslist purchases delivered to you, and moving all of your stuff into your new apartment.\r\n\r\nThey are located in San Francisco and well-funded by some of the greatest investors in the world, like A-Capital, Sequoia Capital, SV Angel, and Y Combinator.\r\n\r\nThey are a small team with incredibly hard problems to solve. They are hiring and would love to hear from you! hello@Lugg.com\r\n\r\nDownload Lugg and let them be your friend with a truck! http://lugg.com",
-    "one_liner": "Move anything, anytime, anywhere",
-    "team_size": 50,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Home and Personal",
-    "launched_at": 1423123527,
-    "tags": [
-      "Logistics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S15",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Home and Personal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lugg",
-    "api": "https://yc-oss.github.io/api/batches/s15/lugg.json"
   },
   {
     "id": 866,
@@ -11054,6 +11054,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/verto",
     "api": "https://yc-oss.github.io/api/batches/w19/verto.json"
+  },
+  {
+    "id": 12279,
+    "name": "FIRST",
+    "slug": "first",
+    "former_names": [
+      "Habitat Logistics",
+      "First Delivery"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb7fe1b3f89d693041018270e2cb671fb9b106d6.png",
+    "website": "https://firstdelivery.com/",
+    "all_locations": "Philadelphia, PA, USA; Remote",
+    "long_description": "We are building the Marketplace for On Demand Delivery. \r\n\r\nWe provide an all-in-one Delivery OS that brings all orders into one place, dispatches these orders to the best available delivery service, and provides the tools to manage the post-purchase experience.\r\n\r\nThe founding team started Habitat Logistics, where we powered delivery for restaurants, and delivered over 1M orders all on our own software.",
+    "one_liner": "The best way for any business to offer delivery. ",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1544068971,
+    "tags": [
+      "SaaS",
+      "Delivery",
+      "Logistics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W19",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/first",
+    "api": "https://yc-oss.github.io/api/batches/w19/first.json"
   },
   {
     "id": 12283,
@@ -40452,48 +40498,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/sante.json"
   },
   {
-    "id": 29069,
-    "name": "HappyRobot",
-    "slug": "happyrobot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd3e59db650540efed4a5b4af9e1693188ca3a4d.png",
-    "website": "https://happyrobot.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Happyrobot's voice AI agents automate inbound and outbound phone calls in the logistics industry.\r\n\r\nFreight brokers, 3PLs, carriers and other enterprises connect their information systems to our AI agents to handle check calls, load updates, payment status, appointment scheduling or even sales negotiations.",
-    "one_liner": "AI Communication. Built for Logistics.",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1687482573,
-    "tags": [
-      "Logistics",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/happyrobot",
-    "api": "https://yc-oss.github.io/api/batches/s23/happyrobot.json"
-  },
-  {
     "id": 29079,
     "name": "Tiptap",
     "slug": "tiptap",
@@ -47665,6 +47669,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/harper",
     "api": "https://yc-oss.github.io/api/batches/w25/harper.json"
+  },
+  {
+    "id": 30322,
+    "name": "Spott",
+    "slug": "spott",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
+    "website": "https://spott.io",
+    "all_locations": "",
+    "long_description": "Spott is building the next generation ATS & CRM for executive search firms. Today, headhunters use our software to produce detailed candidate presentation reports in minutes instead of hours.\r\n\r\n",
+    "one_liner": "AI for Executive Search",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1737184010,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spott",
+    "api": "https://yc-oss.github.io/api/batches/w25/spott.json"
   },
   {
     "id": 30365,

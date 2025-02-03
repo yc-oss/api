@@ -9752,47 +9752,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/metreecs.json"
   },
   {
-    "id": 30208,
-    "name": "Hyphen",
-    "slug": "hyphen",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7895a461242ef2ca60469f6f46d26def9dd88819.png",
-    "website": "https://www.hyphenbox.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hyphen enables Medical AI research teams and decision support solutions prepare high quality training datasets from CT Scans, X Rays and MRIs. With Hyphen, you can collect radiology data from hospitals/labs and create workflows for annotation & reviews. Hyphen also allows monitoring the skill levels of the labelling workforce. We equip labelers with AI-assists for annotations, 3D tools to view and make pixel-perfect markings while enabling reviewers to set up automated error-checking using consensus mechanisms.",
-    "one_liner": "Medical Data Annotation Software",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1732603808,
-    "tags": [
-      "AIOps",
-      "Machine Learning",
-      "Crowdsourcing",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hyphen",
-    "api": "https://yc-oss.github.io/api/batches/w25/hyphen.json"
-  },
-  {
     "id": 30251,
     "name": "Mecha Health",
     "slug": "mecha-health",
@@ -9833,6 +9792,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mecha-health",
     "api": "https://yc-oss.github.io/api/batches/w25/mecha-health.json"
+  },
+  {
+    "id": 30261,
+    "name": "Lucid",
+    "slug": "lucid",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d7946ea974cf7a753814028e684ac774c9c4073.png",
+    "website": "https://lucidsim.co/",
+    "all_locations": "Berkeley, CA, USA",
+    "long_description": "We are building generative simulations of the world powered by fast world models.\r\n\r\nInstead of using a physics or game engine with hard-coded rules to render each frame and decide how the environment reacts, this is done end-to-end through a neural network.\r\n\r\nUnlike text-to-video models, our world models generate frames conditioned on actions, enabling real-time interaction with any environment. Users can explore, manipulate objects, and shape their experience through natural gameplay.\r\n\r\nWe trained a model to emulate Minecraft that runs smoothly on consumer hardware (1B param model runs at 25fps on an nvidia 4090 gaming gpu while other Minecraft world models run at <3fps). Our advantage in speed comes from aggressive latent compression (128x) that allows us to encode every frame into only 15 tokens while others traditionally use 256.\r\n\r\nWe are now training on real-world footage and are building a general-purpose universe simulator.",
+    "one_liner": "Fast world models for generative simulations",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1738541860,
+    "tags": [
+      "Deep Learning",
+      "Generative AI",
+      "Machine Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lucid",
+    "api": "https://yc-oss.github.io/api/batches/w25/lucid.json"
   },
   {
     "id": 30272,

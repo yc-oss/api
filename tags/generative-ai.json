@@ -3431,6 +3431,49 @@
     "api": "https://yc-oss.github.io/api/batches/w23/unify.json"
   },
   {
+    "id": 26851,
+    "name": "Zapi",
+    "slug": "zapi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/352d3694a794205cea0864fc8282616d78061180.png",
+    "website": "https://heyzapi.com",
+    "all_locations": "Singapore, Singapore; Remote",
+    "long_description": "Build stunning content sites in seconds with no-code using AI",
+    "one_liner": "No Code AI Site Builder",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1654527668,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Singapore",
+      "Southeast Asia",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zapi",
+    "api": "https://yc-oss.github.io/api/batches/s22/zapi.json"
+  },
+  {
     "id": 26884,
     "name": "AlphaWatch AI",
     "slug": "alphawatch-ai",
@@ -11123,7 +11166,7 @@
     "name": "a0.dev",
     "slug": "a0-dev",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41a8c58ca0735e6b0eeef8bb621ed0bb2edf8b3d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eed1f4cfbc94ee7934ad288bea413225964237fe.png",
     "website": "https://a0.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "a0.dev is a platform that helps mobile developers build high quality apps in days instead of weeks by generating custom react native projects. We've launched top ranking apps that have been used by hundreds of thousands, and now we're creating the tools we wish we had to build faster.",
@@ -11133,10 +11176,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1737327618,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Design",
-      "AI"
+      "Design"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11325,6 +11368,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/asteroid",
     "api": "https://yc-oss.github.io/api/batches/w25/asteroid.json"
+  },
+  {
+    "id": 30261,
+    "name": "Lucid",
+    "slug": "lucid",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d7946ea974cf7a753814028e684ac774c9c4073.png",
+    "website": "https://lucidsim.co/",
+    "all_locations": "Berkeley, CA, USA",
+    "long_description": "We are building generative simulations of the world powered by fast world models.\r\n\r\nInstead of using a physics or game engine with hard-coded rules to render each frame and decide how the environment reacts, this is done end-to-end through a neural network.\r\n\r\nUnlike text-to-video models, our world models generate frames conditioned on actions, enabling real-time interaction with any environment. Users can explore, manipulate objects, and shape their experience through natural gameplay.\r\n\r\nWe trained a model to emulate Minecraft that runs smoothly on consumer hardware (1B param model runs at 25fps on an nvidia 4090 gaming gpu while other Minecraft world models run at <3fps). Our advantage in speed comes from aggressive latent compression (128x) that allows us to encode every frame into only 15 tokens while others traditionally use 256.\r\n\r\nWe are now training on real-world footage and are building a general-purpose universe simulator.",
+    "one_liner": "Fast world models for generative simulations",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1738541860,
+    "tags": [
+      "Deep Learning",
+      "Generative AI",
+      "Machine Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lucid",
+    "api": "https://yc-oss.github.io/api/batches/w25/lucid.json"
   },
   {
     "id": 30283,
@@ -11536,47 +11621,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wildcard",
     "api": "https://yc-oss.github.io/api/batches/w25/wildcard.json"
-  },
-  {
-    "id": 30322,
-    "name": "Spott",
-    "slug": "spott",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
-    "website": "https://spott.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Spott is building the next generation ATS & CRM for executive search firms. Today, headhunters use our software to produce detailed candidate presentation reports in minutes instead of hours.\r\n\r\n",
-    "one_liner": "AI for Executive Search",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "launched_at": 1737184010,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "HR Tech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/spott",
-    "api": "https://yc-oss.github.io/api/batches/w25/spott.json"
   },
   {
     "id": 30335,
