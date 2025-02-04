@@ -1522,6 +1522,46 @@
     "api": "https://yc-oss.github.io/api/batches/w25/finbar.json"
   },
   {
+    "id": 30256,
+    "name": "PAX Markets, Inc.",
+    "slug": "pax-markets-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05c8cff591b86d49ecb387cae532233ca6d248ee.png",
+    "website": "https://pax.markets/",
+    "all_locations": "",
+    "long_description": "PAX is a new exchange that brings the power of HFT to the people. If you’re an algorithmic trader, you can get “instant” order placement made possible with our \"co-lo on a chip\" technology. If you don’t care about speed, you pay zero fees and get cash back on your trades. We are launching in crypto first with BTC & ETH spot trading.",
+    "one_liner": "First \"co-lo on a chip\" crypto exchange for ultra-fast trading.",
+    "team_size": null,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1738613936,
+    "tags": [
+      "Fintech",
+      "Trading",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pax-markets-inc",
+    "api": "https://yc-oss.github.io/api/batches/w25/pax-markets-inc.json"
+  },
+  {
     "id": 30258,
     "name": "Gale",
     "slug": "gale",
@@ -1900,6 +1940,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/solidroad",
     "api": "https://yc-oss.github.io/api/batches/w25/solidroad.json"
+  },
+  {
+    "id": 30276,
+    "name": "General Trajectory",
+    "slug": "general-trajectory",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39af9ebada08269c20a6c0cbdecb740d7018d9bc.png",
+    "website": "https://www.generaltrajectory.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "General Trajectory is building AI for the physical world. We believe that physical AI can create a future with an abundance of goods and services for all of humanity.\r\n\r\nWe are training vision-language-action (VLA) models across different embodiments to automate tasks such as palletization, sorting, and picking.",
+    "one_liner": "Physical AI for industrial robots.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1738545890,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Supply Chain",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/general-trajectory",
+    "api": "https://yc-oss.github.io/api/batches/w25/general-trajectory.json"
   },
   {
     "id": 30277,
@@ -2456,7 +2538,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76da7482464e997589bdd7af778cc8f800c3d13.png",
     "website": "https://afterquery.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We empower foundational AI labs, enterprises, and startups by providing high-quality human-generated datasets that are essential for fine-tuning more capable, refined, and reliable AI systems. \r\n\r\nOur thesis is that truly exceptional model performance requires the highest quality human training data.\r\n \r\nTo solve for this, we are building a platform to onboard experts in various fields to work on custom datasets. Think of the working professionals at top firms and the smartest students in various subjects (PhDs). Then, whenever our clients have a request for a certain type of data, we will construct and lead a team to produce: fine-tuning data, RLHF data, benchmarks, etc.\r\n\r\nWe’ve already started in finance, illustrating the importance of high-quality data in our paper posted here: https://github.com/AfterQuery/FinanceQA\r\n",
+    "long_description": "We empower foundational AI labs, enterprises, and startups by providing high-quality human-generated datasets that are essential for fine-tuning more capable, refined, and reliable AI systems. \r\n\r\nOur thesis is that truly exceptional model performance requires the highest quality human training data.\r\n \r\nTo solve for this, we are building a platform to onboard experts in various fields to work on custom datasets. Think of the working professionals at top firms and the smartest students in various subjects (PhDs). Then, whenever our clients have a request for a certain type of data, we will construct and lead a team to produce: fine-tuning data, RLHF data, benchmarks, etc.\r\n\r\nWe’ve already started in finance, illustrating the importance of high-quality data in our paper posted here: https://arxiv.org/abs/2501.18062.\r\n",
     "one_liner": "High-quality AI starts with high-quality human data",
     "team_size": 3,
     "industry": "B2B",
@@ -2586,18 +2668,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a035400f6acd84a35dea2f9fb7832b054c02ed12.png",
     "website": "https://archon.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Government IT purchases account for 20% of the U.S. software market. Archon's SDK helps software companies sell to the government by cutting the federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible for small tech companies.",
+    "long_description": "Government IT purchases account for 20% of the U.S. software market. Archon's SDK helps software companies sell to the government by cutting the federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible for small tech companies.\r\n\r\nEmail us at inquiries@archon.inc",
     "one_liner": "We help software companies sell to government.",
     "team_size": 2,
     "industry": "Government",
     "subindustry": "Government",
     "launched_at": 1738095676,
     "tags": [
-      "Artificial Intelligence",
       "GovTech",
       "B2B",
       "Compliance",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2844,7 +2926,13 @@
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1737184010,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "HR Tech",
+      "Enterprise Software"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -2954,6 +3042,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dalus",
     "api": "https://yc-oss.github.io/api/batches/w25/dalus.json"
+  },
+  {
+    "id": 30333,
+    "name": "TensorPool",
+    "slug": "tensorpool",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/763279bd7972155212775a6262b5e32885395cb7.png",
+    "website": "https://tensorpool.dev",
+    "all_locations": "",
+    "long_description": "Our CLI makes ML model training effortless - just describe your job, and we handle GPU orchestration and execution at half the cost of major cloud providers.",
+    "one_liner": "The easiest way to execute ML jobs on the cloud",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1738629191,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "SaaS",
+      "DevOps",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tensorpool",
+    "api": "https://yc-oss.github.io/api/batches/w25/tensorpool.json"
   },
   {
     "id": 30335,

@@ -6761,7 +6761,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S17",
     "status": "Active",
@@ -10417,7 +10417,7 @@
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Targeting companies with 500+ employees, Together helps Learning and Development teams run a best-practice mentoring program for employees. It captures everyone's areas for development and goals, matches them with the most relevant mentor within their company, and guides and tracks relationships. Integrating with Outlook, Gsuite and other enterprise tools, it is designed for the professional user. ",
     "one_liner": "Learn from the experts at your company. ",
-    "team_size": 30,
+    "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1549579106,
@@ -10436,7 +10436,9 @@
     ],
     "regions": [
       "Canada",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -19156,11 +19158,11 @@
     "name": "Popl",
     "slug": "popl",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b02946f8a599da0094eef2036b683183f2d0ac89.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38d405f6de14f8d3d7f5c8feb80ff7911ac69ec2.png",
     "website": "https://popl.co/",
     "all_locations": "New York, NY, USA",
     "long_description": "Popl is the leading digital business card platform for teams and individuals. Professionals use our software platforms and smart devices to make instant digital connections with potential clients.",
-    "one_liner": "The #1 Digital Business Card for Lead Capture",
+    "one_liner": "AI-powered Lead capture & digital business cards for teams",
     "team_size": 45,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -19185,7 +19187,7 @@
       "Partly Remote"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
@@ -24219,7 +24221,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -37150,7 +37152,7 @@
     "all_locations": "Sydney, NSW, Australia",
     "long_description": "Index is the new product planning and discovery tool for Product Managers, built specifically for Linear. Collect ideas, manage feedback, and build product plans.",
     "one_liner": "Powerful planning for Product Management",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1677116260,
@@ -38947,7 +38949,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -40738,51 +40740,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/unhaze",
     "api": "https://yc-oss.github.io/api/batches/s23/unhaze.json"
-  },
-  {
-    "id": 28926,
-    "name": "Upstream",
-    "slug": "upstream",
-    "former_names": [
-      "Snik"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7baf1d932735ae26f5f56e89dbefd702516201c7.png",
-    "website": "https://www.upstream.do/",
-    "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Upstream is an email client designed for team collaboration. We add features like channels and task-tracking functionality on top of a typical email client, so that teams can have full context and transparency on all of their conversations, and make decisions more efficiently.",
-    "one_liner": "An email client designed for team collaboration",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1690426716,
-    "tags": [
-      "SaaS",
-      "Productivity",
-      "Messaging",
-      "Team Collaboration",
-      "Email"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "France",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/upstream",
-    "api": "https://yc-oss.github.io/api/batches/s23/upstream.json"
   },
   {
     "id": 28958,
@@ -47471,6 +47428,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/woz.json"
   },
   {
+    "id": 30322,
+    "name": "Spott",
+    "slug": "spott",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
+    "website": "https://spott.io",
+    "all_locations": "",
+    "long_description": "Spott is building the next generation ATS & CRM for executive search firms. Today, headhunters use our software to produce detailed candidate presentation reports in minutes instead of hours.\r\n\r\n",
+    "one_liner": "AI for Executive Search",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1737184010,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "HR Tech",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spott",
+    "api": "https://yc-oss.github.io/api/batches/w25/spott.json"
+  },
+  {
     "id": 30328,
     "name": "Dalus",
     "slug": "dalus",
@@ -47513,6 +47512,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dalus",
     "api": "https://yc-oss.github.io/api/batches/w25/dalus.json"
+  },
+  {
+    "id": 30333,
+    "name": "TensorPool",
+    "slug": "tensorpool",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/763279bd7972155212775a6262b5e32885395cb7.png",
+    "website": "https://tensorpool.dev",
+    "all_locations": "",
+    "long_description": "Our CLI makes ML model training effortless - just describe your job, and we handle GPU orchestration and execution at half the cost of major cloud providers.",
+    "one_liner": "The easiest way to execute ML jobs on the cloud",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1738629191,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "SaaS",
+      "DevOps",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tensorpool",
+    "api": "https://yc-oss.github.io/api/batches/w25/tensorpool.json"
   },
   {
     "id": 30339,
