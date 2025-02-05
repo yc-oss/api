@@ -4226,7 +4226,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W19",
     "status": "Active",
@@ -8828,23 +8828,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c372268dde1c1e5ed3e639d9cb8603d8cf3639ea.png",
     "website": "https://www.beyond-aero.com/",
-    "all_locations": "Toulouse, Occitanie, France",
+    "all_locations": "",
     "long_description": "Beyond Aero was founded to meet the challenges of climate change and is developing the first hydrogen-powered electric business aircraft. \r\nThe company is on a mission to make aviation electric, starting with business aviation since private jet are the most emissions-intensive segment per passenger, producing ten times more CO2 per person than commercial flights. \r\nBeyond Aero has hit significant technical milestones, achieving France's first manned fully hydrogen-electric flight earlier this year and appointing Luiz Oliveira, former advisor on Embraer’s hybrid hydrogen program, as Chief Engineer. Beyond Aero has secured $914 million in Letters of Intent (LOIs) for 108 aircraft and earned multiple awards, including Brilliant Minds and the Sustainable Aviation Challenge by the World Economic Forum, joining the First Movers Coalition.",
     "one_liner": "First electric business aircraft designed for hydrogen propulsion",
     "team_size": 50,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1639500772,
-    "tags": [
-      "Hydrogen Energy",
-      "Airplanes",
-      "Climate",
-      "Electric Vehicles",
-      "Aerospace"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -8853,8 +8847,6 @@
       "Aviation and Space"
     ],
     "regions": [
-      "France",
-      "Europe",
       "Remote",
       "Partly Remote"
     ],
@@ -10589,10 +10581,11 @@
     "subindustry": "Industrials -> Climate",
     "launched_at": 1720630564,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
+      "Hardware",
       "Climate",
-      "Aerospace",
-      "AI"
+      "Aerospace"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11632,7 +11625,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "F24",
     "status": "Active",
@@ -11773,6 +11766,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/revise-robotics",
     "api": "https://yc-oss.github.io/api/batches/w25/revise-robotics.json"
+  },
+  {
+    "id": 30257,
+    "name": "Pave Robotics",
+    "slug": "pave-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/928589de1c658eafaba5d1b3f60eee04d58ffa36.png",
+    "website": "https://pave-robotics.com",
+    "all_locations": "San Jose, CA, USA",
+    "long_description": "Pave Robotics builds robots that seal cracks in asphalt, helping paving companies save time and money. Our robots work 24/7 and deliver higher-quality results than humans.",
+    "one_liner": "Robots that repair roads.",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1738630910,
+    "tags": [
+      "Hardware",
+      "Construction",
+      "Self-Driving Vehicles"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pave-robotics",
+    "api": "https://yc-oss.github.io/api/batches/w25/pave-robotics.json"
   },
   {
     "id": 30293,

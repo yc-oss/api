@@ -1489,7 +1489,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W19",
     "status": "Active",
@@ -4886,51 +4886,6 @@
     "api": "https://yc-oss.github.io/api/batches/w22/airmyne.json"
   },
   {
-    "id": 26134,
-    "name": "Beyond Aero",
-    "slug": "beyond-aero",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c372268dde1c1e5ed3e639d9cb8603d8cf3639ea.png",
-    "website": "https://www.beyond-aero.com/",
-    "all_locations": "Toulouse, Occitanie, France",
-    "long_description": "Beyond Aero was founded to meet the challenges of climate change and is developing the first hydrogen-powered electric business aircraft. \r\nThe company is on a mission to make aviation electric, starting with business aviation since private jet are the most emissions-intensive segment per passenger, producing ten times more CO2 per person than commercial flights. \r\nBeyond Aero has hit significant technical milestones, achieving France's first manned fully hydrogen-electric flight earlier this year and appointing Luiz Oliveira, former advisor on Embraer’s hybrid hydrogen program, as Chief Engineer. Beyond Aero has secured $914 million in Letters of Intent (LOIs) for 108 aircraft and earned multiple awards, including Brilliant Minds and the Sustainable Aviation Challenge by the World Economic Forum, joining the First Movers Coalition.",
-    "one_liner": "First electric business aircraft designed for hydrogen propulsion",
-    "team_size": 50,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1639500772,
-    "tags": [
-      "Hydrogen Energy",
-      "Airplanes",
-      "Climate",
-      "Electric Vehicles",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "France",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/beyond-aero",
-    "api": "https://yc-oss.github.io/api/batches/w22/beyond-aero.json"
-  },
-  {
     "id": 26137,
     "name": "Pina Earth",
     "slug": "pina-earth",
@@ -6528,10 +6483,11 @@
     "subindustry": "Industrials -> Climate",
     "launched_at": 1720630564,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
+      "Hardware",
       "Climate",
-      "Aerospace",
-      "AI"
+      "Aerospace"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6650,9 +6606,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
     "website": "https://www.aminoanalytica.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Biotechs use proteins found in nature, such as enzymes in bacteria or peptides in lizards, in a wide range of applications from chemical manufacturing to therapeutics. However, these naturally occurring proteins aren't optimized for industry.\r\n\r\nAt AminoAnalytica, we specialize in AI-powered protein optimization. Using our proprietary computational tools, we can improve the properties of a target protein sequence, from the stability of therapeutic peptides to the activity of industrial enzymes. When we optimize a protein, it’s not just a theoretical suggestion—we work with labs to ensure that it’s functional, stable, and ready to change the world.",
-    "one_liner": "AI for improved protein production and performance",
-    "team_size": 3,
+    "long_description": "At AminoAnalytica, we specialize in AI-powered protein optimization. We’re developing the world's first dedicated AI agent for protein engineering (or AI protein engineer, if you will) that integrates with 'human' bioengineering teams. Common protein engineering challenges like protein property enhancement – whether it's the stability of therapeutic peptides or the activity of industrial enzymes at high temperatures – can now be done semi-autonomously, at a fraction of the cost. ",
+    "one_liner": "Your biotech's first AI protein engineer",
+    "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Industrial Bio",
     "launched_at": 1715962434,
@@ -6661,7 +6617,7 @@
       "Biotech",
       "Manufacturing",
       "Climate",
-      "Industrial"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
