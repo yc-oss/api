@@ -1044,7 +1044,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S19",
     "status": "Active",
@@ -4196,53 +4196,6 @@
     "api": "https://yc-oss.github.io/api/batches/w23/nango.json"
   },
   {
-    "id": 27820,
-    "name": "LaunchFlow",
-    "slug": "launchflow",
-    "former_names": [
-      "FlowState",
-      "Inlet",
-      "launchflow"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
-    "website": "https://www.launchflow.com/",
-    "all_locations": "Remote",
-    "long_description": "Our AI Copilot helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!",
-    "one_liner": "AI DevOps Engineer: infra.new",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1675872738,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Open Source",
-      "Cloud Computing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/launchflow",
-    "api": "https://yc-oss.github.io/api/batches/w23/launchflow.json"
-  },
-  {
     "id": 27870,
     "name": "Langfuse",
     "slug": "langfuse",
@@ -5767,10 +5720,10 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1704382841,
     "tags": [
-      "Artificial Intelligence",
       "Workflow Automation",
       "Open Source",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

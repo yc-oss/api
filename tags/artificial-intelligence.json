@@ -10172,7 +10172,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Sales"
@@ -13237,50 +13237,6 @@
     "api": "https://yc-oss.github.io/api/batches/s22/monterey-ai.json"
   },
   {
-    "id": 27178,
-    "name": "Pump.co",
-    "slug": "pump-co",
-    "former_names": [
-      "Pump"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd441b185f1d0725ac8c35281774ba67b3fdc86.png",
-    "website": "https://www.pump.co/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pump saves up to 60% off AWS for early stage startups, and for free (yes, that's right). Using group buying and AI, Pump automates cost savings that require no engineering effort. #GetPumped ",
-    "one_liner": "The Costco for cloud is here 🔥🔥",
-    "team_size": 30,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1681178261,
-    "tags": [
-      "Artificial Intelligence",
-      "FinOps",
-      "Fintech",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pump-co",
-    "api": "https://yc-oss.github.io/api/batches/s22/pump-co.json"
-  },
-  {
     "id": 27221,
     "name": "CAPSULE",
     "slug": "capsule",
@@ -14326,6 +14282,53 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/gluetrail",
     "api": "https://yc-oss.github.io/api/batches/w23/gluetrail.json"
+  },
+  {
+    "id": 27820,
+    "name": "LaunchFlow",
+    "slug": "launchflow",
+    "former_names": [
+      "FlowState",
+      "Inlet",
+      "launchflow"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
+    "website": "https://www.launchflow.com/",
+    "all_locations": "Remote",
+    "long_description": "Our AI Copilot helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!",
+    "one_liner": "AI DevOps Engineer: infra.new",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1675872738,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/launchflow",
+    "api": "https://yc-oss.github.io/api/batches/w23/launchflow.json"
   },
   {
     "id": 27821,
@@ -18970,51 +18973,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/ion-design.json"
   },
   {
-    "id": 29246,
-    "name": "Tracecat",
-    "slug": "tracecat",
-    "former_names": [
-      "neometrics.ai",
-      "Neometrics"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bc35dc5fca68051b65f9b77d4198acae677418.png",
-    "website": "https://tracecat.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tracecat is the open source Tines / Splunk SOAR alternative.\r\n\r\nSecurity engineers use our platform to build AI-assisted workflows that automate investigations and incident response. We're building the easiest way for security teams to fight burnout and reduce mean time to respond.",
-    "one_liner": "Open source Tines / Splunk SOAR alternative for security engineers.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1704382841,
-    "tags": [
-      "Artificial Intelligence",
-      "Workflow Automation",
-      "Open Source",
-      "Cybersecurity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tracecat",
-    "api": "https://yc-oss.github.io/api/batches/w24/tracecat.json"
-  },
-  {
     "id": 29249,
     "name": "Nuanced",
     "slug": "nuanced",
@@ -21849,47 +21807,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/silogy.json"
   },
   {
-    "id": 29474,
-    "name": "Spur",
-    "slug": "spur",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b63801706e3874e4f1017433f3c6a3ce0dddbca.png",
-    "website": "https://www.spurtest.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Never code up another test or hire an external QA team. We handle and automate all functional and E2E testing. ",
-    "one_liner": "Spur is your AI QA Engineer. Test your websites with natural language.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1724126992,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/spur",
-    "api": "https://yc-oss.github.io/api/batches/s24/spur.json"
-  },
-  {
     "id": 29475,
     "name": "Evolvere BioSciences",
     "slug": "evolvere-biosciences",
@@ -24078,47 +23995,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/overstand-labs.json"
   },
   {
-    "id": 29731,
-    "name": "Paradome",
-    "slug": "paradome",
-    "former_names": [
-      "Pastel Health"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f01205bdd5ddd62484a7c2a3506b6076cdf85af1.png",
-    "website": "https://paradome.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Paradome delivers rapid prototyping, deployment, and optimization of AI automations for government agencies. \r\n\r\nGovernment AI procurement mirrors outdated IT practices—pay millions, wait years. The high cost and long timelines stem from (1) building data integrations, labeling operations, and compliance mechanisms from scratch, (2) lack of AI expertise among traditional contractors,  (3) minimal input from end-users during development, and (4) the ongoing expense of monitoring, maintaining, and updating bespoke systems. \r\n\r\nParadome brings the time and cost of deploying compliant AI to near-zero, enabling agencies to spend time and money on iteration rather than development.\r\n\r\nAgencies need a single, versatile environment that combines agile low-code tools with full-code extensibility. Paradome’s NOVA modularizes data integration, pipeline optimization, accuracy testing, federal compliance, and real-time monitoring, eliminating bottlenecks and accelerating AI deployment.\r\n\r\nSam's ex-girlfriend introduced him to Greg back at Carnegie Mellon in 2017, and while that relationship didn't last, their friendship has. After college, Greg went to Harvard Law School, while Sam worked for three years at Jane Street, building & leading a satellite dev team.\r\n\r\nAgencies provide public services and enforce the law. With AI, their work can be consistent, impartial, and efficient. Making government work is not a political choice—it’s a civic duty.",
-    "one_liner": "Rapid AI development & deployment for government",
-    "team_size": 4,
-    "industry": "Government",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1724859181,
-    "tags": [
-      "Artificial Intelligence",
-      "GovTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Government"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/paradome",
-    "api": "https://yc-oss.github.io/api/batches/s24/paradome.json"
-  },
-  {
     "id": 29734,
     "name": "Focal",
     "slug": "focal-2",
@@ -25393,6 +25269,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/assembly-hoa",
     "api": "https://yc-oss.github.io/api/batches/s24/assembly-hoa.json"
+  },
+  {
+    "id": 29826,
+    "name": "Simplifine",
+    "slug": "simplifine",
+    "former_names": [
+      "Titan"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28bfd5603abc1cad782c0769498ab77e4c72242d.png",
+    "website": "https://www.simplifine.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Research workflows are broken, forcing researchers to cobble together disconnected tools for literature review, writing, data analysis, and more—tools not designed for their needs.\r\n\r\nSimplifine changes everything. Built by researchers, for researchers, it equips you with AI agents that act like JARVIS from Iron Man, capable not only of connecting and analyzing information but also running computational experiments and simulations. Our specialized LLM Agents can design and execute complex research experiments with PhD-level expertise, compressing weeks of work into minutes. With Simplifine, you no longer need to juggle fragmented tools—everything from advanced simulations to data analysis happens in one place.",
+    "one_liner": "AI-Powered Workspace for Research",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1723501563,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
+      "Productivity",
+      "Consumer Products",
+      "Note-taking"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/simplifine",
+    "api": "https://yc-oss.github.io/api/batches/s24/simplifine.json"
   },
   {
     "id": 29828,
@@ -27407,7 +27327,7 @@
     "slug": "macadamia",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0377edd4b8aee93dc8c83a5daadde4c74ebf0871.png",
-    "website": "https://macadamia.sh",
+    "website": "https://macadamialab.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re building autonomous AI agents that take over the role of engineers in running simulations with advanced physics-based solvers, like Ansys. Engineers submit their CAD designs and simulation requests, and Oswald automates the entire process - from model setup to interpreting results. It’s integrated with Ansys, the industry leader in engineering simulations.",
     "one_liner": "AI Copilot for Mechanical Engineers",
