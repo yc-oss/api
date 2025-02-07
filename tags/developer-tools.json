@@ -15786,11 +15786,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688142176,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "DevSecOps",
       "Machine Learning",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19608,51 +19608,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/pinnacle.json"
   },
   {
-    "id": 29781,
-    "name": "Cerulion",
-    "slug": "cerulion",
-    "former_names": [
-      "RenardOS"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/336383ad58869871ce591b4e1b31dd374319435c.png",
-    "website": "https://www.cerulion.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cerulion is an open source operating system for robots built by 2 MIT robotics PhDs. Companies like Amazon Robotics and Boston Dynamics AI Institute are using us to develop faster and ship more reliable robots than with ROS. With up to 1000x improvements in communications performance over state of the art, Cerulion is enabling the next generation of embodied AI.",
-    "one_liner": "Open source operating system for robots",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1720480188,
-    "tags": [
-      "Developer Tools",
-      "Hard Tech",
-      "Robotics",
-      "B2B",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cerulion",
-    "api": "https://yc-oss.github.io/api/batches/s24/cerulion.json"
-  },
-  {
     "id": 29782,
     "name": "Laminar",
     "slug": "laminar",
@@ -21701,5 +21656,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/artifact-2",
     "api": "https://yc-oss.github.io/api/batches/w25/artifact-2.json"
+  },
+  {
+    "id": 30355,
+    "name": "assistant-ui",
+    "slug": "assistant-ui",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/11f41b527f94c63e7d0ee1e19db038344f713a8f.png",
+    "website": "https://assistant-ui.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "assistant-ui helps frontend developers add AI chat to their apps. Our product is used by several dozen companies, like LangChain, Stack AI, Browser Use, and Athena Intelligence. We're building an open source Typescript/React library and a backend as a service, with first class integrations into popular agent frameworks like LangGraph and Vercel AI SDK.",
+    "one_liner": "Open Source Typescript/React library for building AI Chat",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1738873528,
+    "tags": [
+      "Developer Tools",
+      "Generative AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/assistant-ui",
+    "api": "https://yc-oss.github.io/api/batches/w25/assistant-ui.json"
   }
 ]
