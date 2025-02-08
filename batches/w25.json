@@ -767,11 +767,11 @@
     "name": "Subtrace",
     "slug": "subtrace",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4695455b866792efbea7a77ffcd942f140ee2274.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e806fda08a2985d5611237545c62cc046d58b489.png",
     "website": "https://subtrace.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We make it easy to watch everything happening in your servers by tracking the API requests coming in / going out and storing this data in ClickHouse. Later, when you're solving a problem in production, you can filter for the requests you care about using simple SQL queries and dig into the details. You'll never have to print() a HTTP request again.",
-    "one_liner": "Chrome DevTools for backend infra",
+    "long_description": "Subtrace is an observability platform that gives backend teams full visibility into every request. We bring all the critical details—payload, latency, status, headers, logs—into one clear, Chrome DevTools-like interface so that you can resolve production issues fast.",
+    "one_liner": "Resolve production issues in minutes, not months",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1659,16 +1659,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b101bcbe3aa299f4c858e25eded7583252ab9ab6.png",
     "website": "https://www.cuckoo.so/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cuckoo is a real-time AI translator for global teams. Companies like Snowflake and PagerDuty use Cuckoo in Zoom and in-person meetings instead of human interpreters for even the most technical discussions.\r\n\r\nCuckoo instantly learns the technical details of your conversation from your keywords and documents and interprets into over 20 languages—customized for your specific industry and organization. ",
+    "long_description": "Cuckoo is a real-time AI translator for global sales, marketing, and support. Companies like Snowflake and PagerDuty use Cuckoo in Zoom and in-person meetings for even the most technical discussions.\r\n\r\nCuckoo instantly learns the technical details of your conversation from your keywords and documents and interprets into over 20 languages—customized for your specific industry and organization. ",
     "one_liner": "AI interpreter for global sales, marketing, and sales.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736479622,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -2070,6 +2070,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cenote",
     "api": "https://yc-oss.github.io/api/batches/w25/cenote.json"
+  },
+  {
+    "id": 30270,
+    "name": "G LNK",
+    "slug": "g-lnk",
+    "former_names": [
+      "G LNK Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30e81e807267eac09097c7b4e6fc47510c7e0c54.png",
+    "website": "https://glnkco.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "G LNK is an AI-powered platform simplifying how healthcare companies connect with the relevant medical professionals. Our proprietary matching and ranking models instantly identify the most qualified experts, accelerating drug development and commercialization. Designed with compliance at its core, G LNK ensures every connection meets strict regulatory and ethical standards—empowering companies to innovate faster with confidence.",
+    "one_liner": "Simplifying Collaboration for Healthcare Organizations & Professionals",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1738929097,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Health Tech",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/g-lnk",
+    "api": "https://yc-oss.github.io/api/batches/w25/g-lnk.json"
   },
   {
     "id": 30272,
@@ -2756,11 +2800,11 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1738217807,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Sales",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
