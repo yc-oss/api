@@ -18297,6 +18297,49 @@
     "api": "https://yc-oss.github.io/api/batches/w24/tensorfuse.json"
   },
   {
+    "id": 29400,
+    "name": "Chunkr",
+    "slug": "chunkr",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffe9932f4d6740487e7b3320b9175eda342b80a4.png",
+    "website": "https://chunkr.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Battle-tested + highly modular vision infrastructure to convert PDFs, PPTs, Word, Excel, PNG, and JPEGs into LLM-ready data. \r\n\r\nWe started by building lumina.sh - where we needed to parse ~600M pages of scientific literature. The researchers didn't care - but devs wanted our ingestion pipeline. So we built chunkr instead. \r\n\r\nWe offer high quality layout analysis, OCR, bounding boxes, granular VLM controls, semantic chunking, and all the last mile engineering that goes into building standout AI applications. Common use-cases include RAG, and automating document workflows like invoices/medical reports -> database.\r\n\r\n\r\n\r\n",
+    "one_liner": "Open source API service to parse complex documents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1704780983,
+    "tags": [
+      "Computer Vision",
+      "Open Source",
+      "Data Engineering",
+      "Enterprise Software",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chunkr",
+    "api": "https://yc-oss.github.io/api/batches/w24/chunkr.json"
+  },
+  {
     "id": 29401,
     "name": "dawn",
     "slug": "dawn",
@@ -21847,17 +21890,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7076b7fa11f6e99d25bfd27695c8c6125132b882.png",
     "website": "https://dalus.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dalus is an AI-powered systems engineering software to model/validate complex systems for aerospace/defense/robotics and other mission-critical industries. \r\n\r\nWith Dalus, engineers can seamlessly trace requirements, perform analyses, and update information in real-time. This ensures that every team member stays aligned and informed, reducing inefficiencies and enabling faster iterations. \r\n\r\nWith AI at our core, users can analyze hundreds of pages of existing engineering documentation and requirements to generate or retrieve information about the system model they are building in Dalus.\r\n\r\nWe started working together on Dalus in spring 2024 after Eliot quit his job at Aerojet Rocketdyne (L3Harris) where he worked as a test/systems engineer. He experienced first-hand how silos and poor communication reduced the productivity and efficiencies in the teams he worked at.\r\n\r\nWe love working with companies tackling complex engineering systems, whether they be startups just getting their feet wet or large organizations like Israel Aerospace Industries (Our design partner and biggest aerospace/defense company from Israel)",
+    "long_description": "Dalus is an AI-powered systems engineering software to model/validate complex systems for aerospace/defense/robotics and other mission-critical industries. \r\n\r\nWith Dalus, engineers can seamlessly trace requirements, perform analyses, and update information in real-time. This ensures that every team member stays aligned and informed, reducing inefficiencies and enabling faster iterations. \r\n\r\nWith AI at our core, users can analyze hundreds of pages of existing engineering documentation and requirements to generate or retrieve information about the system model they are building in Dalus.\r\n\r\nWe started working together on Dalus in spring 2024 after Eliot quit his job at Aerojet Rocketdyne (L3Harris) where he worked as a test/systems engineer. He experienced first-hand how silos and poor communication reduced the productivity and efficiencies in the teams he worked at.\r\n\r\nWe love working with companies tackling complex engineering systems, whether they be startups just getting their feet wet or large organizations like Israel Aerospace Industries (Our design partner and biggest aerospace/defense company from Israel)\r\n\r\nRead why we started Dalus: https://dalus.io/articles/why-dalus",
     "one_liner": "AI-powered hardware system design software",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736994368,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Aerospace"
+      "Aerospace",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

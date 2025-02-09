@@ -3664,6 +3664,49 @@
     "api": "https://yc-oss.github.io/api/batches/w24/trellis.json"
   },
   {
+    "id": 29400,
+    "name": "Chunkr",
+    "slug": "chunkr",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffe9932f4d6740487e7b3320b9175eda342b80a4.png",
+    "website": "https://chunkr.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Battle-tested + highly modular vision infrastructure to convert PDFs, PPTs, Word, Excel, PNG, and JPEGs into LLM-ready data. \r\n\r\nWe started by building lumina.sh - where we needed to parse ~600M pages of scientific literature. The researchers didn't care - but devs wanted our ingestion pipeline. So we built chunkr instead. \r\n\r\nWe offer high quality layout analysis, OCR, bounding boxes, granular VLM controls, semantic chunking, and all the last mile engineering that goes into building standout AI applications. Common use-cases include RAG, and automating document workflows like invoices/medical reports -> database.\r\n\r\n\r\n\r\n",
+    "one_liner": "Open source API service to parse complex documents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1704780983,
+    "tags": [
+      "Computer Vision",
+      "Open Source",
+      "Data Engineering",
+      "Enterprise Software",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chunkr",
+    "api": "https://yc-oss.github.io/api/batches/w24/chunkr.json"
+  },
+  {
     "id": 29442,
     "name": "Ocular AI",
     "slug": "ocular-ai",
@@ -3976,18 +4019,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/954a6f122415e9fc2c5797e73f4d4a44309e83d8.png",
     "website": "https://gulp.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gulp is a developer platform that makes it easy for engineers to build, test, and deploy real-time data pipelines. With Gulp, engineers can create real-time recommendation, fraud, and data syncing pipelines in just minutes! ",
+    "long_description": "Gulp is a developer platform that makes it easy for engineers to build, test, and deploy real-time data pipelines. Our first release is Osmosis: a framework that helps AI agents learn in real-time. | https://gulp.ai/responsive-software.html",
     "one_liner": "Automating build, test, and deploy for real-time data pipelines ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1737656598,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Big Data",
       "Data Engineering",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

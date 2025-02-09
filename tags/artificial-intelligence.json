@@ -12632,7 +12632,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -21080,48 +21080,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/clarum.json"
   },
   {
-    "id": 29400,
-    "name": "Lumina",
-    "slug": "lumina-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/416b05b0ec225cbdc9e0ec736a2203175d71469e.png",
-    "website": "https://lumina.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI Search Engine + API\r\n\r\nWe've built search that returns 5x more relevant results compared to Google Scholar. Our search engine is free to use, and we offer an API for LLM focused applications. \r\n\r\nDatabase: Over 100M research objects - covering 16 sources types, ~12.5K journals & repositories, and ~65K concepts. ",
-    "one_liner": "AI Search Engine for Research",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "B2B",
-    "launched_at": 1704780983,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "API",
-      "Search",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumina-2",
-    "api": "https://yc-oss.github.io/api/batches/w24/lumina-2.json"
-  },
-  {
     "id": 29402,
     "name": "Yondu",
     "slug": "yondu",
@@ -25134,6 +25092,51 @@
     "api": "https://yc-oss.github.io/api/batches/s24/thyme.json"
   },
   {
+    "id": 29808,
+    "name": "Star Cloud",
+    "slug": "star-cloud",
+    "former_names": [
+      "Lumen Orbit, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9c9b9996bb500ee171134f1e1a0a83f5d48bec3.png",
+    "website": "https://www.starcloud.com/",
+    "all_locations": "Redmond, WA, USA",
+    "long_description": "(Formerly known as Lumen Orbit) \r\nStar Cloud is building a network of megawatt-scale data centers in space, scaleable to gigawatt capacity, to be able to train large models like GPT6. Falling launch costs give us access to abundant energy, passive cooling, and the ability to rapidly scale in space.\r\n\r\nIn Partnership with NVIDIA's Inception Program, we are launching our demonstrator satellite in July 2025, which will have 100x more powerful GPUs than have ever been operated in space. ",
+    "one_liner": "Data centers in space",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1718841179,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Satellites",
+      "Climate",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/star-cloud",
+    "api": "https://yc-oss.github.io/api/batches/s24/star-cloud.json"
+  },
+  {
     "id": 29815,
     "name": "Propaya",
     "slug": "propaya",
@@ -26268,6 +26271,51 @@
     "api": "https://yc-oss.github.io/api/batches/f24/praxis-ai.json"
   },
   {
+    "id": 30045,
+    "name": "Regatta Storage",
+    "slug": "regatta-storage",
+    "former_names": [
+      "Neptune Storage"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0397434e0b6d2ed128ce064a791b8816ac83bf09.png",
+    "website": "https://regattastorage.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Regatta transforms S3 buckets into a 30x faster, unlimited, local disk. Regatta enables AI, analytics, and serverless applications to instantly access massive data sets without waiting for data transfer. Researchers use Regatta for shareable, local storage of data set and model versions that never runs out of capacity.",
+    "one_liner": "Transform S3 in an unlimited, local file system",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1727196277,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Big Data",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/regatta-storage",
+    "api": "https://yc-oss.github.io/api/batches/f24/regatta-storage.json"
+  },
+  {
     "id": 30048,
     "name": "Astrix Health",
     "slug": "astrix-health",
@@ -27329,48 +27377,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/a0-dev.json"
   },
   {
-    "id": 30247,
-    "name": "Gulp",
-    "slug": "gulp",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/954a6f122415e9fc2c5797e73f4d4a44309e83d8.png",
-    "website": "https://gulp.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gulp is a developer platform that makes it easy for engineers to build, test, and deploy real-time data pipelines. With Gulp, engineers can create real-time recommendation, fraud, and data syncing pipelines in just minutes! ",
-    "one_liner": "Automating build, test, and deploy for real-time data pipelines ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1737656598,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Big Data",
-      "Data Engineering",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gulp",
-    "api": "https://yc-oss.github.io/api/batches/w25/gulp.json"
-  },
-  {
     "id": 30252,
     "name": "Cuckoo Labs",
     "slug": "cuckoo-labs",
@@ -27920,50 +27926,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/spott.json"
   },
   {
-    "id": 30328,
-    "name": "Dalus",
-    "slug": "dalus",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7076b7fa11f6e99d25bfd27695c8c6125132b882.png",
-    "website": "https://dalus.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dalus is an AI-powered systems engineering software to model/validate complex systems for aerospace/defense/robotics and other mission-critical industries. \r\n\r\nWith Dalus, engineers can seamlessly trace requirements, perform analyses, and update information in real-time. This ensures that every team member stays aligned and informed, reducing inefficiencies and enabling faster iterations. \r\n\r\nWith AI at our core, users can analyze hundreds of pages of existing engineering documentation and requirements to generate or retrieve information about the system model they are building in Dalus.\r\n\r\nWe started working together on Dalus in spring 2024 after Eliot quit his job at Aerojet Rocketdyne (L3Harris) where he worked as a test/systems engineer. He experienced first-hand how silos and poor communication reduced the productivity and efficiencies in the teams he worked at.\r\n\r\nWe love working with companies tackling complex engineering systems, whether they be startups just getting their feet wet or large organizations like Israel Aerospace Industries (Our design partner and biggest aerospace/defense company from Israel)",
-    "one_liner": "AI-powered hardware system design software",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1736994368,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dalus",
-    "api": "https://yc-oss.github.io/api/batches/w25/dalus.json"
-  },
-  {
     "id": 30356,
     "name": "Fira",
     "slug": "fira",
@@ -28005,5 +27967,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fira",
     "api": "https://yc-oss.github.io/api/batches/w25/fira.json"
+  },
+  {
+    "id": 30365,
+    "name": "Mentra",
+    "slug": "mentra",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7244027171670b7caf312b35e16b9e5cfdd49164.png",
+    "website": "https://mentra.glass",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mentra is building AugmentOS, the open source OS for smart glasses, like Android for smart glasses. Smart glasses hardware is finally ready, and we're building the software ecosystem to unlock the next personal computer. ",
+    "one_liner": "Building the open source smart glasses operating system.",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Virtual and Augmented Reality",
+    "launched_at": 1738358223,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Consumer",
+      "Open Source",
+      "AR"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Virtual and Augmented Reality"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mentra",
+    "api": "https://yc-oss.github.io/api/batches/w25/mentra.json"
   }
 ]
