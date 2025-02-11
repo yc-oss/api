@@ -36787,7 +36787,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W20",
     "status": "Active",
@@ -50060,7 +50060,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Operations"
@@ -52340,11 +52340,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1628867687,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "B2B",
-      "No-code",
-      "AI"
+      "No-code"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54841,9 +54841,9 @@
     "subindustry": "B2B",
     "launched_at": 1626771804,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
-      "NLP",
-      "AI"
+      "NLP"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -66682,8 +66682,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b29418be152187b38ccc249652bf446728ba67bc.png",
     "website": "https://chordio.com",
     "all_locations": "Issaquah, WA, USA; Remote",
-    "long_description": "Chordio is an AI product designer that learns about products and generates designs based on requirements provided through a chat interface. For example, a product manager uses Chordio to visualize a new user flow in their product in minutes instead of days.  ",
-    "one_liner": "AI product designer for product teams",
+    "long_description": "Chordio is an AI design companion that reviews your designs for UX copy, best practices, and design system compliance. It also helps you ideate and compose solid product briefs in minutes, including flow charts and lo-fi wireframes. \r\n\r\nIt goes beyond generic advice and learns the nuances of your product, design system, and best practices. This means every suggestion is fine tuned to help you thoughtfully enhance your existing product. \r\n\r\nFinally, it works where you do - in Figma, Slack, and web, so it's easy to incorporate into your existing workflow. \r\n",
+    "one_liner": "UX design copilot",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -74785,19 +74785,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15ded26a70d663737350577a2ac909adb9410c1b.png",
     "website": "https://index.inc",
-    "all_locations": "Sydney, NSW, Australia",
+    "all_locations": "",
     "long_description": "Index is the new product planning and discovery tool for Product Managers, built specifically for Linear. Collect ideas, manage feedback, and build product plans.",
     "one_liner": "Powerful planning for Product Management",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1677116260,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Productivity",
-      "Collaboration"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -74809,8 +74804,7 @@
       "Productivity"
     ],
     "regions": [
-      "Australia",
-      "Oceania"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -75791,24 +75785,24 @@
   },
   {
     "id": 27882,
-    "name": "GradientJ",
-    "slug": "gradientj",
+    "name": "Velos",
+    "slug": "velos",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a6b0f17aadd2a20eb86b61654dbf7ea57230f64.png",
-    "website": "https://www.gradientj.com",
-    "all_locations": "Austin, TX, USA; New York, NY, USA; Miami, FL, USA",
-    "long_description": "GradientJ helps teams deploy large language models at scale. Companies use us to build GPT-4 powered APIs that process millions of job applications per year.\r\n\r\nOur app provides tools to build and compare prompts, track live performance, and continuously improve models from human feedback, including automated model comparison across LLM providers and open source alternatives.",
-    "one_liner": "Platform to build large language model applications",
-    "team_size": 2,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea18b8898b03249e01295dac0dccb51928c38c2e.png",
+    "website": "https://www.tryvelos.com",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "Velos helps non-technical operations teams automate complex, manual back-office tasks with AI workers instead of overseas teams.\r\n\r\nUnlike traditional robotic process automation (RPA) platforms like UiPath, Velos automations use machine learning to reliably handle ambiguities in their tasks, eliminating the need for an army of maintenance engineers and consultants to build and maintain your automations.\r\n\r\nWe're automating the repetitive work people hate to do.",
+    "one_liner": "Platform to automate manual back-office work",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1674503496,
     "tags": [
-      "AIOps",
+      "Artificial Intelligence",
       "Generative AI",
       "Reinforcement Learning",
-      "NLP",
-      "AI"
+      "Robotic Process Automation",
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -75818,7 +75812,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -75829,8 +75823,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gradientj",
-    "api": "https://yc-oss.github.io/api/batches/w23/gradientj.json"
+    "url": "https://www.ycombinator.com/companies/velos",
+    "api": "https://yc-oss.github.io/api/batches/w23/velos.json"
   },
   {
     "id": 27890,
@@ -76999,52 +76993,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/odigos-technologies-inc",
     "api": "https://yc-oss.github.io/api/batches/w23/odigos-technologies-inc.json"
-  },
-  {
-    "id": 27966,
-    "name": "UpTrain AI",
-    "slug": "uptrain-ai",
-    "former_names": [
-      "Oodles.ai",
-      "upTrain AI",
-      "UpTrain"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6fe4363deaa3a9def52952648a2848b95aa5dbd.png",
-    "website": "https://uptrain.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "UpTrain provides the most advanced LLMOps platform to ship AI confidently. It provides enterprise-grade tooling to easily evaluate, experiment, monitor, and test LLM changes, all while seamlessly collaborating with your team. Being OSS, UpTrain is readily customizable and can be hosted on your secure cloud environment, satisfying your data governance needs.\r\n\r\n1. UpTrain provides high-quality scores over a variety of metrics (both LLM-based and classical NLP ones) as well as allows you to define custom ones to evaluate your full LLM pipeline comprehensively. \r\n\r\n2. UpTrain runs root cause analysis to identify if it is a retrieval issue, if your context requires reranking, if the LLM is unable to utilize the context or if certain instructions are not being followed.\r\n\r\n3. UpTrain leverages state-of-the-art techniques for automatic prompt optimization, automatic eval generation, finding common topics among failure cases, etc., to act as your LLMOps co-pilot.",
-    "one_liner": "Full-stack LLMOps platform for all your production needs",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1675744580,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "Machine Learning",
-      "SaaS",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/uptrain-ai",
-    "api": "https://yc-oss.github.io/api/batches/w23/uptrain-ai.json"
   },
   {
     "id": 27967,
@@ -79408,9 +79356,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/46c0ccd59cd9c61a81c3d502e48025e0dea1e604.png",
     "website": "https://www.lightski.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lightski is an AI-powered writing experience for engineers to write technical docs 50% faster. Incorporating Github and Jira into the editor allows Lightski to provide contextual suggestions, starting drafts, and AI rewrites, for faster, better technical communication. ",
-    "one_liner": "An AI-powered Writing Interface for Engineers ",
-    "team_size": 2,
+    "long_description": "Lightski is an AI rich-text editor specifically built for software engineers. We take the grunt work out of drafting technical docs by marrying an AI Assistant with your Github, allowing it to write for you.\r\n\r\nLightski connects to your Github and comes with an AI agent that automatically searches your codebase to write for you. Afterwards, continue refining the doc in our Notion-like editor, where you can collaborate, iterate, and comment on the doc.\r\n",
+    "one_liner": "Cursor for Engineering Docs",
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1678895856,
@@ -82035,7 +81983,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7205b3549162efdab32a6366db7e49992589fca3.png",
     "website": "https://www.goagentive.com",
-    "all_locations": "",
+    "all_locations": "Provo, UT, USA",
     "long_description": "Auditors use Agentive to detect accounting errors by uploading transaction details like bank statements, contracts, and invoices to generate audit reports ready for review in seconds. \r\n\r\nEnabling auditors to transition efficiently from strategy to judgement by automating the repetitive testing and documentation work they used to do manually.\r\n\r\nWe audited Fortune 500 companies at EY and Deloitte and built AI-powered fraud detection systems at Google.",
     "one_liner": "AI-powered auditing platform",
     "team_size": 6,
@@ -82043,9 +81991,9 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1687833550,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -82058,7 +82006,8 @@
       "Finance and Accounting"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -83244,18 +83193,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a2d106f9cdebdba12fd6e7d00d9e948e77f5be.png",
     "website": "https://www.metalware.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Metalware develops advanced firmware security solutions for real-time embedded systems, protecting critical industries like aerospace, automotive, industrial control, telecom, medical devices, and IoT from cyber threats. With our roots from SpaceX, L3Harris, Amazon Robotics, and JHU APL, we are deeply mission-driven and bring cutting edge firmware and cybersecurity expertise to the table.\r\n‍\r\nOur product is an automated, intelligent binary fuzzer that enables organizations to efficiently discover and remediate security weaknesses in embedded software before release or deployment.\r\n‍\r\nMetalware’s mission is to protect the foundation of modern technology by providing cutting-edge firmware security tools that safeguard embedded systems from cyber threats, zero-day vulnerabilities, and supply chain risks across critical industries.",
+    "long_description": "Metalware develops advanced firmware security solutions for real-time embedded systems, protecting critical industries like aerospace, automotive, industrial control, telecom, medical devices, and IoT from cyber threats.\r\n\r\nOur product is an automated, intelligent binary fuzzer that enables organizations to efficiently discover and remediate security weaknesses in embedded software before release or deployment.",
     "one_liner": "Cybersecurity for firmware",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689732876,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Cybersecurity",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -87318,15 +87267,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Momentic is the most advanced AI platform for testing. We're accelerating engineering teams at companies like Retool, Podium, Chegg, Runway, and many more.",
     "one_liner": "The modern standard for software testing ",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1700355696,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -89640,18 +89589,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d18a60c353c24c8c090f2237dd2281d68b7155ba.png",
     "website": "https://www.useresonance.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Resonance enables companies to personalize omni-channel marketing campaign content within their existing tools.",
-    "one_liner": "Universal API For Marketing Content Personalization",
+    "long_description": "Resonance enables companies to personalize omni-channel marketing campaign content within their existing tools with minimal to no engineering involvement.",
+    "one_liner": "Universal Add-On For Marketing Content Personalization",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709332105,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "SaaS",
       "Subscriptions",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -91807,7 +91756,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1ba092cd9748f3108933638ddb6bec186691eb6.png",
     "website": "https://www.stacksync.cloud/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Stacksync powers real-time and bidirectional data synchronization between CRMs (e.g. Salesforce, Hubspot or SAP) and databases (e.g. Postgres, Google BigQuery,...). Edits made in your CRM will instantly update in your Database, and vice-versa. To set up a sync, users simply have to connect the two chosen apps in one click and select the tables they want to sync, no-code!\r\nStacksync reduces implementation delays from months to minutes for CRM integration projects and removes all the complexity behind CRM new feature development. We show a 90% improvement on delivery time and budget.",
     "one_liner": "Real-time and two-way sync between CRMs and Databases",
     "team_size": 4,
@@ -91826,6 +91775,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -94804,18 +94755,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7782bd4ff8b915f629867117b0ee24a39f15ab9.png",
     "website": "https://moonglow.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moonglow is a no-code platform for building browser agents. Users record their workflow once, and then our platform builds and deploys browser agents that automate their repetitive workflows.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at NeurIPS, ICLR and ACL.\r\n\r\nhttps://moonglow.ai",
+    "long_description": "Moonglow is a fully-managed platform for building browser agents. Users record their workflow once, and then our platform builds, deploys and scales browser agents that automate their repetitive workflows.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at NeurIPS, ICLR and ACL.\r\n\r\nhttps://moonglow.ai",
     "one_liner": "No-code platform for building browser agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721868567,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
       "Robotic Process Automation",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -103876,6 +103827,47 @@
     "api": "https://yc-oss.github.io/api/batches/w25/macadamia.json"
   },
   {
+    "id": 30268,
+    "name": "AthenaHQ",
+    "slug": "athenahq",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56b3629a079e4b454de983d631cc68773f3b5b42.png",
+    "website": "https://athenahq.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Get your brand discovered on generative engines like ChatGPT, Perplexity, Claude, Gemini, and more.",
+    "one_liner": "Get Your Brand Discovered on ChatGPT.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1739175359,
+    "tags": [
+      "Analytics",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/athenahq",
+    "api": "https://yc-oss.github.io/api/batches/w25/athenahq.json"
+  },
+  {
     "id": 30270,
     "name": "G LNK",
     "slug": "g-lnk",
@@ -104592,6 +104584,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/wildcard.json"
   },
   {
+    "id": 30319,
+    "name": "Demeter",
+    "slug": "demeter",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6f337d7edbcc9a9c931383385d78e6f6cf6e401.png",
+    "website": "https://www.joindemeter.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Demeter is an AI back-office solution for private investors. Starting with portfolio management, Demeter automates performance tracking, benchmarking, and return analysis, providing insights in minutes instead of weeks.",
+    "one_liner": "AI Back Office Solution for Private Investment Firms",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1739227592,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Workflow Automation",
+      "Investments"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/demeter",
+    "api": "https://yc-oss.github.io/api/batches/w25/demeter.json"
+  },
+  {
     "id": 30321,
     "name": "Woz",
     "slug": "woz",
@@ -105195,10 +105229,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1736800806,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Market Research",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

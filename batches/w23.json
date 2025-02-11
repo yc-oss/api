@@ -4030,19 +4030,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15ded26a70d663737350577a2ac909adb9410c1b.png",
     "website": "https://index.inc",
-    "all_locations": "Sydney, NSW, Australia",
+    "all_locations": "",
     "long_description": "Index is the new product planning and discovery tool for Product Managers, built specifically for Linear. Collect ideas, manage feedback, and build product plans.",
     "one_liner": "Powerful planning for Product Management",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1677116260,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Productivity",
-      "Collaboration"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -4054,8 +4049,7 @@
       "Productivity"
     ],
     "regions": [
-      "Australia",
-      "Oceania"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5337,24 +5331,24 @@
   },
   {
     "id": 27882,
-    "name": "GradientJ",
-    "slug": "gradientj",
+    "name": "Velos",
+    "slug": "velos",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a6b0f17aadd2a20eb86b61654dbf7ea57230f64.png",
-    "website": "https://www.gradientj.com",
-    "all_locations": "Austin, TX, USA; New York, NY, USA; Miami, FL, USA",
-    "long_description": "GradientJ helps teams deploy large language models at scale. Companies use us to build GPT-4 powered APIs that process millions of job applications per year.\r\n\r\nOur app provides tools to build and compare prompts, track live performance, and continuously improve models from human feedback, including automated model comparison across LLM providers and open source alternatives.",
-    "one_liner": "Platform to build large language model applications",
-    "team_size": 2,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea18b8898b03249e01295dac0dccb51928c38c2e.png",
+    "website": "https://www.tryvelos.com",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "Velos helps non-technical operations teams automate complex, manual back-office tasks with AI workers instead of overseas teams.\r\n\r\nUnlike traditional robotic process automation (RPA) platforms like UiPath, Velos automations use machine learning to reliably handle ambiguities in their tasks, eliminating the need for an army of maintenance engineers and consultants to build and maintain your automations.\r\n\r\nWe're automating the repetitive work people hate to do.",
+    "one_liner": "Platform to automate manual back-office work",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1674503496,
     "tags": [
-      "AIOps",
+      "Artificial Intelligence",
       "Generative AI",
       "Reinforcement Learning",
-      "NLP",
-      "AI"
+      "Robotic Process Automation",
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5364,7 +5358,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -5375,8 +5369,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gradientj",
-    "api": "https://yc-oss.github.io/api/batches/w23/gradientj.json"
+    "url": "https://www.ycombinator.com/companies/velos",
+    "api": "https://yc-oss.github.io/api/batches/w23/velos.json"
   },
   {
     "id": 27883,
@@ -7442,37 +7436,36 @@
   },
   {
     "id": 27966,
-    "name": "UpTrain AI",
-    "slug": "uptrain-ai",
+    "name": "CombineHealth",
+    "slug": "combinehealth",
     "former_names": [
       "Oodles.ai",
       "upTrain AI",
       "UpTrain"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6fe4363deaa3a9def52952648a2848b95aa5dbd.png",
-    "website": "https://uptrain.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3300df884c68b249e62977103a165c1536ec5e0e.png",
+    "website": "https://www.combinehealth.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "UpTrain provides the most advanced LLMOps platform to ship AI confidently. It provides enterprise-grade tooling to easily evaluate, experiment, monitor, and test LLM changes, all while seamlessly collaborating with your team. Being OSS, UpTrain is readily customizable and can be hosted on your secure cloud environment, satisfying your data governance needs.\r\n\r\n1. UpTrain provides high-quality scores over a variety of metrics (both LLM-based and classical NLP ones) as well as allows you to define custom ones to evaluate your full LLM pipeline comprehensively. \r\n\r\n2. UpTrain runs root cause analysis to identify if it is a retrieval issue, if your context requires reranking, if the LLM is unable to utilize the context or if certain instructions are not being followed.\r\n\r\n3. UpTrain leverages state-of-the-art techniques for automatic prompt optimization, automatic eval generation, finding common topics among failure cases, etc., to act as your LLMOps co-pilot.",
-    "one_liner": "Full-stack LLMOps platform for all your production needs",
+    "long_description": "Preventing revenue leakage in health systems using AI",
+    "one_liner": "Automating Healthcare Revenue Cycle Management with AI Workforce",
     "team_size": 6,
-    "industry": "B2B",
+    "industry": "Healthcare",
     "subindustry": "B2B",
     "launched_at": 1675744580,
     "tags": [
-      "Developer Tools",
-      "Generative AI",
       "Machine Learning",
-      "SaaS",
-      "Open Source"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Healthcare",
+      "Healthcare IT"
     ],
     "regions": [
       "United States of America",
@@ -7483,8 +7476,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/uptrain-ai",
-    "api": "https://yc-oss.github.io/api/batches/w23/uptrain-ai.json"
+    "url": "https://www.ycombinator.com/companies/combinehealth",
+    "api": "https://yc-oss.github.io/api/batches/w23/combinehealth.json"
   },
   {
     "id": 27967,
@@ -11160,9 +11153,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/46c0ccd59cd9c61a81c3d502e48025e0dea1e604.png",
     "website": "https://www.lightski.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lightski is an AI-powered writing experience for engineers to write technical docs 50% faster. Incorporating Github and Jira into the editor allows Lightski to provide contextual suggestions, starting drafts, and AI rewrites, for faster, better technical communication. ",
-    "one_liner": "An AI-powered Writing Interface for Engineers ",
-    "team_size": 2,
+    "long_description": "Lightski is an AI rich-text editor specifically built for software engineers. We take the grunt work out of drafting technical docs by marrying an AI Assistant with your Github, allowing it to write for you.\r\n\r\nLightski connects to your Github and comes with an AI agent that automatically searches your codebase to write for you. Afterwards, continue refining the doc in our Notion-like editor, where you can collaborate, iterate, and comment on the doc.\r\n",
+    "one_liner": "Cursor for Engineering Docs",
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1678895856,

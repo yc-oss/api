@@ -3803,7 +3803,7 @@
     "all_locations": "Denver, CO, USA",
     "long_description": "",
     "one_liner": "The tolling industry’s prime tech infrastructure",
-    "team_size": 17,
+    "team_size": 18,
     "industry": "Government",
     "subindustry": "Government",
     "launched_at": 1597711066,
@@ -7960,37 +7960,36 @@
   },
   {
     "id": 27966,
-    "name": "UpTrain AI",
-    "slug": "uptrain-ai",
+    "name": "CombineHealth",
+    "slug": "combinehealth",
     "former_names": [
       "Oodles.ai",
       "upTrain AI",
       "UpTrain"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6fe4363deaa3a9def52952648a2848b95aa5dbd.png",
-    "website": "https://uptrain.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3300df884c68b249e62977103a165c1536ec5e0e.png",
+    "website": "https://www.combinehealth.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "UpTrain provides the most advanced LLMOps platform to ship AI confidently. It provides enterprise-grade tooling to easily evaluate, experiment, monitor, and test LLM changes, all while seamlessly collaborating with your team. Being OSS, UpTrain is readily customizable and can be hosted on your secure cloud environment, satisfying your data governance needs.\r\n\r\n1. UpTrain provides high-quality scores over a variety of metrics (both LLM-based and classical NLP ones) as well as allows you to define custom ones to evaluate your full LLM pipeline comprehensively. \r\n\r\n2. UpTrain runs root cause analysis to identify if it is a retrieval issue, if your context requires reranking, if the LLM is unable to utilize the context or if certain instructions are not being followed.\r\n\r\n3. UpTrain leverages state-of-the-art techniques for automatic prompt optimization, automatic eval generation, finding common topics among failure cases, etc., to act as your LLMOps co-pilot.",
-    "one_liner": "Full-stack LLMOps platform for all your production needs",
+    "long_description": "Preventing revenue leakage in health systems using AI",
+    "one_liner": "Automating Healthcare Revenue Cycle Management with AI Workforce",
     "team_size": 6,
-    "industry": "B2B",
+    "industry": "Healthcare",
     "subindustry": "B2B",
     "launched_at": 1675744580,
     "tags": [
-      "Developer Tools",
-      "Generative AI",
       "Machine Learning",
-      "SaaS",
-      "Open Source"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Healthcare",
+      "Healthcare IT"
     ],
     "regions": [
       "United States of America",
@@ -8001,8 +8000,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/uptrain-ai",
-    "api": "https://yc-oss.github.io/api/batches/w23/uptrain-ai.json"
+    "url": "https://www.ycombinator.com/companies/combinehealth",
+    "api": "https://yc-oss.github.io/api/batches/w23/combinehealth.json"
   },
   {
     "id": 28037,
@@ -8978,18 +8977,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7782bd4ff8b915f629867117b0ee24a39f15ab9.png",
     "website": "https://moonglow.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moonglow is a no-code platform for building browser agents. Users record their workflow once, and then our platform builds and deploys browser agents that automate their repetitive workflows.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at NeurIPS, ICLR and ACL.\r\n\r\nhttps://moonglow.ai",
+    "long_description": "Moonglow is a fully-managed platform for building browser agents. Users record their workflow once, and then our platform builds, deploys and scales browser agents that automate their repetitive workflows.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at NeurIPS, ICLR and ACL.\r\n\r\nhttps://moonglow.ai",
     "one_liner": "No-code platform for building browser agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721868567,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
       "Robotic Process Automation",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
