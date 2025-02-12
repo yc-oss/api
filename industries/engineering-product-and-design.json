@@ -9948,7 +9948,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -13656,11 +13656,11 @@
     "subindustry": "B2B",
     "launched_at": 1675974530,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Data Engineering",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16517,48 +16517,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/tiptap.json"
   },
   {
-    "id": 29082,
-    "name": "Strada",
-    "slug": "strada",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b9226bd2c56b8a4b99aa2de655898ae8f45ff9e.png",
-    "website": "https://www.getstrada.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Strada's AI voice agents handle calls 24/7 for insurance brokers, agencies, and MGAs.",
-    "one_liner": "Phone AI agents for insurance",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1690570692,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Insurance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/strada",
-    "api": "https://yc-oss.github.io/api/batches/s23/strada.json"
-  },
-  {
     "id": 29103,
     "name": "Inconvo",
     "slug": "inconvo",
@@ -19028,23 +18986,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50fee2cba3e02a1824e08a39a9224adb0d2098b5.png",
     "website": "https://saphira.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Saphira is the easiest way for hardware products to get safety certified and reach market faster, such as industrial robots and heavy machinery.",
     "one_liner": "Vanta for Hardware",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1717266827,
-    "tags": [
-      "Robotics",
-      "Aerospace",
-      "Enterprise Software",
-      "AI",
-      "Automotive"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -19053,8 +19005,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -20404,7 +20355,7 @@
     "name": "Vendra",
     "slug": "vendra",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1bed1ef41abdcfa8093bce09a2bf9679884e218.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8045f80c2b2b1a1fc2929fceeae73b968063f35d.png",
     "website": "https://vendra.io/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Vendra uses AI to automate project management and information lookup when working with vendors and suppliers - all with no change to existing workflows - letting hardware teams focus on building and shipping amazing products",
@@ -20414,11 +20365,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724084407,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
       "SaaS",
       "B2B",
-      "Collaboration",
-      "AI"
+      "Collaboration"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20688,6 +20639,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/void",
     "api": "https://yc-oss.github.io/api/batches/s24/void.json"
+  },
+  {
+    "id": 29988,
+    "name": "Delineate",
+    "slug": "delineate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/157ef705774b4b91cf62de3244f82d80101e257a.png",
+    "website": "https://delineate.pro/",
+    "all_locations": "Boston, MA, USA; Remote",
+    "long_description": "90% of drug candidates fail despite billions in pharmaceutical R&D. \r\n\r\nDelineate extracts and analyzes data from biopharma research papers and patents at scale, including data trapped in figures and plots. \r\n\r\nLed by Emily (MIT PhD, former Pfizer/AstraZeneca computational researcher) and Jawad (ex-Lockheed Skunkworks AI lead), Delineate has developed custom LLM and computer vision models paired with rigorous QC processes to deliver extremely high quality datasets in a fraction of the time.\r\n\r\nBy processing 15x more studies than industry standard and reducing months of research into weeks, we're transforming how pharmaceutical companies make evidence based development decisions. \r\n\r\nDelineate has generated $160K in revenue through data contracts with Sanofi and Roche, conducting some of the largest aggregated research studies to date.",
+    "one_liner": "Extract meaningful data from research literature and patents at…",
+    "team_size": 20,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1739310156,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/delineate",
+    "api": "https://yc-oss.github.io/api/batches/w25/delineate.json"
   },
   {
     "id": 29989,
@@ -21628,6 +21622,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/adam",
     "api": "https://yc-oss.github.io/api/batches/w25/adam.json"
+  },
+  {
+    "id": 30242,
+    "name": "Oki",
+    "slug": "oki",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a80f26794f39a5699d91f7551f1b29f686e1b0b.png",
+    "website": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Oki unifies Slack, Github, and every engineering workflow into an AI-driven dashboard, so leaders can track progress, optimize resources, and boost productivity. ",
+    "one_liner": "AI Insights to auto track projects and boost engineering productivity",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1739303977,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/oki",
+    "api": "https://yc-oss.github.io/api/batches/w25/oki.json"
   },
   {
     "id": 30260,

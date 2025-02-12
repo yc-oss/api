@@ -8151,7 +8151,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -21058,6 +21058,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/asteroid.json"
   },
   {
+    "id": 30272,
+    "name": "Lucidic AI",
+    "slug": "lucidic-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/070d8df8755a600f5ecf800f273f60a2cfa54bb0.png",
+    "website": "https://lucidic.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic's Agentlytics provides tools for developers and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
+    "one_liner": "See Your Agent's Mind at Work",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1736904770,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lucidic-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/lucidic-ai.json"
+  },
+  {
     "id": 30277,
     "name": "ReJot",
     "slug": "rejot",
@@ -21531,7 +21573,7 @@
     "website": "https://assistant-ui.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "assistant-ui helps frontend developers add AI chat to their apps. Our product is used by several dozen companies, like LangChain, Stack AI, Browser Use, and Athena Intelligence. We're building an open source Typescript/React library and a backend as a service, with first class integrations into popular agent frameworks like LangGraph and Vercel AI SDK.",
-    "one_liner": "Open Source Typescript/React library for building AI Chat",
+    "one_liner": "Open Source Typescript/React Library for AI Chat",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

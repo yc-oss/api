@@ -955,21 +955,21 @@
   {
     "id": 29582,
     "name": "Cheers",
-    "slug": "cheers-2",
+    "slug": "cheers",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67c33e0e1229416643c3c04c56495e10ccaea0a.png",
     "website": "https://www.cheers.tech",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cheers is building the super-app for in-person work. Our NFC-enabled badges turn every field service interaction into a frictionless moment—easily capturing reviews, payments, and insights. Backed by YC and industry experts, we’ve proven demand and are now scaling beyond reviews to transform how millions of field employees connect with their customers.",
-    "one_liner": "The super-app for field service work",
+    "long_description": "Cheers is the first Frontline Experience Management platform that transforms every in-person service moment into a genuine human connection. By unifying onsite payments, digital tips, real-time reviews, and new-customer referrals in one frictionless flow, Cheers helps companies 10x their online 5‑star ratings, reduce churn, and drive more revenue. Already, 8,500+ frontline employees use Cheers daily to feel valued, delight customers, and give businesses the insights to keep raising the bar.",
+    "one_liner": "Frontline reviews, payments, & referrals in a tap",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1721413814,
     "tags": [
-      "Artificial Intelligence",
       "Analytics",
       "Feedback",
+      "AI",
       "Reviews"
     ],
     "tags_highlighted": [],
@@ -990,8 +990,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cheers-2",
-    "api": "https://yc-oss.github.io/api/batches/s24/cheers-2.json"
+    "url": "https://www.ycombinator.com/companies/cheers",
+    "api": "https://yc-oss.github.io/api/batches/s24/cheers.json"
   },
   {
     "id": 29585,
@@ -1094,23 +1094,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50fee2cba3e02a1824e08a39a9224adb0d2098b5.png",
     "website": "https://saphira.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Saphira is the easiest way for hardware products to get safety certified and reach market faster, such as industrial robots and heavy machinery.",
     "one_liner": "Vanta for Hardware",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1717266827,
-    "tags": [
-      "Robotics",
-      "Aerospace",
-      "Enterprise Software",
-      "AI",
-      "Automotive"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -1119,8 +1113,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": true,
@@ -1138,7 +1131,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05b004a38c0a5df5a4e151b258151cd9a38f08c8.png",
     "website": "https://theseus.us",
     "all_locations": "",
-    "long_description": "We've built a Micro Visual Positioning System (VPS) that can be retrofit onto any drone that simulates a GPS. Our VPS uses cameras and an accelerometer/gyroscope as well as reference satellite imagery for positioning. The system is entirely self contained, can't be jammed and has no RF signature. ",
+    "long_description": "We're building a Micro Visual Positioning System (VPS) that can be retrofit onto any drone that simulates a GPS. Our VPS uses cameras and an accelerometer/gyroscope as well as reference satellite imagery for positioning. The system is entirely self contained, can't be jammed and has no RF signature. ",
     "one_liner": "GPS Denied Navigation for Drones",
     "team_size": 3,
     "industry": "Industrials",
@@ -3678,7 +3671,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The pandemic reduced office use nationwide by 50%, and tenants have been left to deal with highly inflexible, long term lease agreements that don’t fit today’s office use patterns.\r\n\r\nThe traditional brokerage model works great for big spaces and long terms. But when you want to talk smaller units, short term lengths, shared and common areas, you’re out of luck. \r\n\r\nTandem is an AI-enabled office leasing platform. We’re using technology to unlock flexible, month-to-month agreements in quality, ready-to-go spaces.   Our AI co-pilot enables a white-glove-quality B2B office search experience, with a fraction of the human labor typically required.\r\n\r\nToday we’re serving two primary markets — NY & SF, with hundreds of active Hosts in each.  We’ve helped match more than 100 companies and have seen double-digit month-over-month growth.",
     "one_liner": "Marketplace to help companies lease and share office space",
-    "team_size": 9,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Office Management",
     "launched_at": 1717027194,
@@ -8105,7 +8098,7 @@
     "name": "Vendra",
     "slug": "vendra",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1bed1ef41abdcfa8093bce09a2bf9679884e218.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8045f80c2b2b1a1fc2929fceeae73b968063f35d.png",
     "website": "https://vendra.io/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Vendra uses AI to automate project management and information lookup when working with vendors and suppliers - all with no change to existing workflows - letting hardware teams focus on building and shipping amazing products",
@@ -8115,11 +8108,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724084407,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
       "SaaS",
       "B2B",
-      "Collaboration",
-      "AI"
+      "Collaboration"
     ],
     "tags_highlighted": [],
     "top_company": false,

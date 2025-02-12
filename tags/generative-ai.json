@@ -1497,7 +1497,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -3751,11 +3751,11 @@
       "Polymer"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7aadf99efc36d06092a505cb38a1a4b1b68750a.png",
-    "website": "https://sonnetai.com",
+    "website": "",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sonnet is an end-to-end meeting assistant, combining a human-quality notetaker with an auto-updating CRM.\r\n\r\nOur AI notetaker uses the most powerful AI models to transcribe, summarize, and generate notes for your meeting recordings. With Sonnet, collaboration and recollection is both faster and better. \r\n\r\nSonnet CRM updates itself automatically using conversation data, so you'll never have to wrangle with CRM fields again. Get up to speed on the context of an entire relationship, in seconds. ",
     "one_liner": "Meeting notes and CRM, automated",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1655427470,
@@ -10781,7 +10781,7 @@
     "name": "Melder",
     "slug": "melder",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a53f5e5359151706b4d27ad1fdc4d1ebf5bb81f6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5832049d683d7ac2b36d197af04433cc3bf4bb4d.png",
     "website": "https://melder.io",
     "all_locations": "New York, NY, USA",
     "long_description": "Melder is a spreadsheet tool that has AI functions and data representations at its core. Upload files directly to cells, use functions like =GEN, and build automations directly from the workbook.\r\n\r\nWe make it easy for business users to uncover insights in their documents, automate away their emails, and even deploy simple AI chatbots.\r\n\r\n'Excel' is the backbone that codifies structured data business logic today, we're taking that UX to the unstructured data world.",
@@ -10791,9 +10791,9 @@
     "subindustry": "Unspecified",
     "launched_at": 1731437113,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10858,6 +10858,45 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/leaping-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/leaping-ai.json"
+  },
+  {
+    "id": 30196,
+    "name": "Stamp",
+    "slug": "stamp",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f93517536a65281340c08a8073541f0a180b531b.png",
+    "website": "https://www.stampmail.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Stamp is the first AI Native inbox. It's more than an email client, though -- it's like your second brain.\r\n\r\nStamp can respond to emails in your voice, organize your inbox to filter out the noise, keep track of action items, and automate essentially every task you're doing manually in your inbox today.",
+    "one_liner": "The AI Inbox",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1739302465,
+    "tags": [
+      "Generative AI",
+      "Machine Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stamp",
+    "api": "https://yc-oss.github.io/api/batches/w25/stamp.json"
   },
   {
     "id": 30197,
@@ -11627,7 +11666,7 @@
     "website": "https://assistant-ui.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "assistant-ui helps frontend developers add AI chat to their apps. Our product is used by several dozen companies, like LangChain, Stack AI, Browser Use, and Athena Intelligence. We're building an open source Typescript/React library and a backend as a service, with first class integrations into popular agent frameworks like LangGraph and Vercel AI SDK.",
-    "one_liner": "Open Source Typescript/React library for building AI Chat",
+    "one_liner": "Open Source Typescript/React Library for AI Chat",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
