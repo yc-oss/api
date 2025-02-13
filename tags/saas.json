@@ -1086,7 +1086,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S08",
     "status": "Active",
@@ -8152,7 +8152,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S18",
     "status": "Active",
@@ -9793,9 +9793,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b5c8a17f0ab4fa9a72447d94bc3194dc17fce9b.png",
     "website": "https://www.deel.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Deel is the all-in-one HR platform for global teams. It helps companies simplify every aspect of managing an international workforce, from culture and onboarding, to local payroll and compliance. Deel works for independent contractors and full-time employees in more than 150 countries, compliantly. And getting set up takes just a few minutes. For more information, visit Deel.com.",
+    "long_description": "Deel is the all-in-one payroll and HR platform for global teams. Built for the way the world works today, Deel combines HRIS, payroll, compliance, benefits, performance, and equipment management into one seamless platform. With AI-powered tools and a fully owned payroll infrastructure, Deel supports every worker type in 120+ countries—helping businesses scale smarter, faster, and more compliantly. Discover how Deel makes global work simple at deel.com.",
     "one_liner": "The all-in-one HR and payroll platform for global teams",
-    "team_size": 3500,
+    "team_size": 5000,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1541644458,
@@ -9803,8 +9803,8 @@
       "Fintech",
       "SaaS",
       "B2B",
-      "Compliance",
-      "HR Tech"
+      "HR Tech",
+      "Payroll"
     ],
     "tags_highlighted": [],
     "top_company": true,
@@ -24305,7 +24305,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -25525,8 +25525,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65cb3b99fd44f8b43727970a9cb034fbeee5d0df.png",
     "website": "https://trycoast.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Coast is the operating system for API sales. Coast integrates with a company’s API to set up live web apps for every customer and their use case, creating API demos to be used throughout the sales cycle. \r\n\r\nLeading API-first companies across verticals utilize Coast demos to enable their customer facing teams to easily show the value of their software to prospects.",
-    "one_liner": "Sales Demos for API-First Companies",
+    "long_description": "Coast transforms APIs into business value. Product-led teams use Coast to build interactive user journeys powered by one or multiple APIs, creating fully functional web apps with live API connectivity.\r\n\r\nOur visual platform makes APIs more accessible and accelerates commercialization, enabling high-impact digital transformation for the world’s largest enterprises.",
+    "one_liner": "Solution Gateway for API-First Companies",
     "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -25545,14 +25545,11 @@
     "batch": "S21",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Sales"
+      "B2B"
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -37768,11 +37765,11 @@
   },
   {
     "id": 27942,
-    "name": "Technician",
-    "slug": "technician",
+    "name": "SensorSurf",
+    "slug": "sensorsurf",
     "former_names": [
       "Woeden",
-      "SensorSurf"
+      "Technician"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af65fb5b7bd34202e33bb69a39d61b60824c0343.png",
     "website": "https://www.technician.dev",
@@ -37807,8 +37804,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/technician",
-    "api": "https://yc-oss.github.io/api/batches/w23/technician.json"
+    "url": "https://www.ycombinator.com/companies/sensorsurf",
+    "api": "https://yc-oss.github.io/api/batches/w23/sensorsurf.json"
   },
   {
     "id": 27943,
@@ -39409,7 +39406,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e416218a9e904f407106d424cd8e3c822f799c0a.png",
     "website": "https://www.finta.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Finta lets you easily manage your startup's bookkeeping and financial metrics, while our experts file your taxes and claim tax credits — all in one place.",
+    "long_description": "Finta lets you manage bookkeeping and track finances, while our experts file your taxes and claim tax credits. All in one place.",
     "one_liner": "Magically simplify accounting and taxes",
     "team_size": 2,
     "industry": "B2B",
@@ -41260,18 +41257,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f2575793e5340c7b238109e6ddb277c072e9469.png",
     "website": "https://roame.travel/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Roame is Google flights using credit card points and miles. Our flight search engine is the only one that searches across 16 loyalty programs and over 200 airlines, delivering real-time results in seconds.\r\n\r\nAt Roame, we are on a mission to revolutionize travel and consumer finance. We stand at the intersection of travel tech and fintech.",
-    "one_liner": "Google flights using credit card points and miles",
-    "team_size": 3,
+    "long_description": "Roame is flight search engine design for credit card points and miles. We help travelers redeem their points for dream vacations in seconds rather than days.\r\n\r\nAt Roame, we are on a mission to revolutionize travel and consumer finance. We stand at the intersection of travel tech and fintech.",
+    "one_liner": "Flight search engine using credit card points and miles",
+    "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1685728226,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Travel",
       "Airlines",
-      "Consumer Finance",
-      "AI"
+      "Consumer Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42388,46 +42385,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/salvy",
     "api": "https://yc-oss.github.io/api/batches/w24/salvy.json"
-  },
-  {
-    "id": 29364,
-    "name": "Dime",
-    "slug": "dime-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba59fee391a212ffb1361e4bb1298bed4655cbb6.png",
-    "website": "https://www.dimemanufacturing.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Dime enables manufacturers to utilize their telemetry data to anticipate and prevent equipment and hardware product failures. Our AI agent identifies patterns of key failure modes and builds ML models to prevent them.",
-    "one_liner": "AI Data Engineer for Hardware Manufacturers",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1709929195,
-    "tags": [
-      "SaaS",
-      "Manufacturing",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dime-2",
-    "api": "https://yc-oss.github.io/api/batches/w24/dime-2.json"
   },
   {
     "id": 29365,
@@ -47118,51 +47075,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cuckoo-labs",
     "api": "https://yc-oss.github.io/api/batches/w25/cuckoo-labs.json"
-  },
-  {
-    "id": 30262,
-    "name": "Pickle",
-    "slug": "pickle-2",
-    "former_names": [
-      "Pickle Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67e4c31625bf9f9be89bda1272989243e742e3d0.png",
-    "website": "https://getpickle.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Over 300 million people join Zoom calls every day, but looking professional in every situation isn’t always easy. Pickle uses an AI body double to replace your live video feed in real time, so you can join meetings without ever turning on your camera. Simply speak, and the AI body double will lip-sync perfectly to your voice—letting you participate in Zoom calls while walking or driving and still appear polished and professional.",
-    "one_liner": "Your AI body double for Zoom calls",
-    "team_size": 7,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Social",
-    "launched_at": 1738265099,
-    "tags": [
-      "SaaS",
-      "Consumer",
-      "Video",
-      "AI",
-      "AR"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Social"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pickle-2",
-    "api": "https://yc-oss.github.io/api/batches/w25/pickle-2.json"
   },
   {
     "id": 30272,

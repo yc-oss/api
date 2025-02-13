@@ -2201,16 +2201,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Over 300 million people join Zoom calls every day, but looking professional in every situation isn’t always easy. Pickle uses an AI body double to replace your live video feed in real time, so you can join meetings without ever turning on your camera. Simply speak, and the AI body double will lip-sync perfectly to your voice—letting you participate in Zoom calls while walking or driving and still appear polished and professional.",
     "one_liner": "Your AI body double for Zoom calls",
-    "team_size": 7,
+    "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer -> Social",
     "launched_at": 1738265099,
     "tags": [
-      "SaaS",
       "Consumer",
       "Video",
-      "AI",
-      "AR"
+      "Remote Work",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2283,18 +2282,18 @@
     "slug": "athenahq",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56b3629a079e4b454de983d631cc68773f3b5b42.png",
-    "website": "https://athenahq.ai",
+    "website": "https://www.athenahq.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Get your brand discovered on generative engines like ChatGPT, Perplexity, Claude, Gemini, and more.",
+    "long_description": "Make sure your brand doesn't get left behind by the paradigm shift from traditional search to generative search.\r\n\r\nAthenaHQ helps your brand get discovered on generative engines like ChatGPT, Perplexity, Claude, Gemini, and more.\r\n\r\nGenerative engine search is expected to overtake traditional search in the next 3 years. Currently, there is no de facto solution for managing a brand's perception on these generative engines. We are building AthenaHQ to fill that gap.\r\n\r\nTeam of former product manager on Google Search's information acquisition team, Deepmind Generative Media team, and ChatGPT superusers.",
     "one_liner": "Get Your Brand Discovered on ChatGPT.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Consumer -> Content",
     "launched_at": 1739175359,
     "tags": [
+      "Artificial Intelligence",
       "Analytics",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3416,6 +3415,47 @@
     "api": "https://yc-oss.github.io/api/batches/w25/pinch.json"
   },
   {
+    "id": 30316,
+    "name": "Reditus Space",
+    "slug": "reditus-space",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6fe3367102fb3c122ffe0222d63055c3502fa6b.png",
+    "website": "https://www.reditus.space/",
+    "all_locations": "Atlanta, GA, USA",
+    "long_description": "We are making reusable satellites for zero-g manufacturing. \r\nThe next wave of pharmaceutical & semiconductor manufacturing will occur in orbit, and we already have $130M+ in LOI's from companies who want to get to space faster. ",
+    "one_liner": "Reusable Satellites for zero-g manufacturing",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1739340612,
+    "tags": [
+      "Hard Tech",
+      "Manufacturing",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/reditus-space",
+    "api": "https://yc-oss.github.io/api/batches/w25/reditus-space.json"
+  },
+  {
     "id": 30317,
     "name": "Permitify",
     "slug": "permitify",
@@ -3540,6 +3580,46 @@
     "api": "https://yc-oss.github.io/api/batches/w25/demeter.json"
   },
   {
+    "id": 30320,
+    "name": "Proception Inc",
+    "slug": "proception-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f61a620104d762fb5251d86b6311e0d747652b45.png",
+    "website": "https://proception.ai/",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "",
+    "one_liner": "Our mission is to advance humanoid robotics dexterity through…",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1739402915,
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/proception-inc",
+    "api": "https://yc-oss.github.io/api/batches/w25/proception-inc.json"
+  },
+  {
     "id": 30321,
     "name": "Woz",
     "slug": "woz",
@@ -3632,8 +3712,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7eeed88cf20d9f39f503ec2708b6bf85e2e7e652.png",
     "website": "https://roark.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Roark is an observability and testing platform for voice AI that shows whether your agent meets its goals, tracks caller sentiment, and replays real calls to test changes before deploying them. We already process hundreds of calls per week for healthcare and legal teams, saving hours of manual QA and helping them fix issues faster.",
-    "one_liner": "Observability & Testing for Voice AI—using real call replays.",
+    "long_description": "Roark is an observability and testing platform for voice AI that shows whether your agent met its goals, tracks caller sentiment, and replays real calls to test changes before deploying them. We already process hundreds of calls per week for healthcare and legal teams, saving hours of manual QA and helping them fix issues faster.",
+    "one_liner": "Replay, Analyze, and Improve Your Voice AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -3803,13 +3883,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f0788a922bb389578b23e8ccb111b965944878a.png",
     "website": "https://runcopycat.com",
     "all_locations": "Seattle, WA, USA",
-    "long_description": "CopyCat allows you to record your screen and turn that task into an automation using AI.",
-    "one_liner": "Screen recordings to automated workflows.",
+    "long_description": "CopyCat lets businesses create browser agents to automate their manual and repetitive processes.",
+    "one_liner": "Browser agents for repetitive business processes.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1734580429,
     "tags": [
+      "Artificial Intelligence",
+      "Robotic Process Automation",
       "B2B",
       "Workflow Automation",
       "AI"
@@ -3981,8 +4063,8 @@
     "subindustry": "Unspecified",
     "launched_at": 1739308183,
     "tags": [
-      "B2B",
-      "AI"
+      "Artificial Intelligence",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4136,7 +4218,7 @@
     "name": "Artifact",
     "slug": "artifact-2",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1fe3804a0149861592ad0132ef357815ad7a9e9d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/764b72bcc2fa5b82a346ca5ceda62d50887b6537.png",
     "website": "https://www.artifact.engineer/",
     "all_locations": "Atlanta, GA, USA",
     "long_description": "Artifact is a 2D electrical system CAD tool leveraging AI to automate tedious, error-prone tasks: datasheet ingestion, multi-fidelity system design, and manufacturing documentation",

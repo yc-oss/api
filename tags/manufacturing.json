@@ -1639,11 +1639,11 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1686948871,
     "tags": [
+      "Artificial Intelligence",
       "Logistics",
       "Manufacturing",
       "E-commerce",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1668,46 +1668,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/movley",
     "api": "https://yc-oss.github.io/api/batches/s23/movley.json"
-  },
-  {
-    "id": 29364,
-    "name": "Dime",
-    "slug": "dime-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ba59fee391a212ffb1361e4bb1298bed4655cbb6.png",
-    "website": "https://www.dimemanufacturing.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Dime enables manufacturers to utilize their telemetry data to anticipate and prevent equipment and hardware product failures. Our AI agent identifies patterns of key failure modes and builds ML models to prevent them.",
-    "one_liner": "AI Data Engineer for Hardware Manufacturers",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1709929195,
-    "tags": [
-      "SaaS",
-      "Manufacturing",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dime-2",
-    "api": "https://yc-oss.github.io/api/batches/w24/dime-2.json"
   },
   {
     "id": 29367,
@@ -2362,5 +2322,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/forge-automation",
     "api": "https://yc-oss.github.io/api/batches/w25/forge-automation.json"
+  },
+  {
+    "id": 30316,
+    "name": "Reditus Space",
+    "slug": "reditus-space",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6fe3367102fb3c122ffe0222d63055c3502fa6b.png",
+    "website": "https://www.reditus.space/",
+    "all_locations": "Atlanta, GA, USA",
+    "long_description": "We are making reusable satellites for zero-g manufacturing. \r\nThe next wave of pharmaceutical & semiconductor manufacturing will occur in orbit, and we already have $130M+ in LOI's from companies who want to get to space faster. ",
+    "one_liner": "Reusable Satellites for zero-g manufacturing",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1739340612,
+    "tags": [
+      "Hard Tech",
+      "Manufacturing",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/reditus-space",
+    "api": "https://yc-oss.github.io/api/batches/w25/reditus-space.json"
   }
 ]

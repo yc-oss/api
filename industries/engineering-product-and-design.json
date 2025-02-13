@@ -3862,12 +3862,14 @@
   },
   {
     "id": 1671,
-    "name": "Imbue",
-    "slug": "imbue",
+    "name": "Sourceress",
+    "slug": "sourceress",
     "former_names": [
       "Sourceress",
       "Generally Intelligent",
-      "Imbue (formerly Generally Intelligent, YC17)"
+      "Imbue (formerly Generally Intelligent",
+      "YC17)",
+      "Imbue (formerly Generally Intelligent)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd298ab7cc0e50b44f16100129fb3d4a93dcabc0.png",
     "website": "http://imbue.com",
@@ -3885,7 +3887,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S17",
     "status": "Active",
@@ -3899,13 +3901,13 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/imbue",
-    "api": "https://yc-oss.github.io/api/batches/s17/imbue.json"
+    "url": "https://www.ycombinator.com/companies/sourceress",
+    "api": "https://yc-oss.github.io/api/batches/s17/sourceress.json"
   },
   {
     "id": 1689,
@@ -10562,7 +10564,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -14619,11 +14621,11 @@
   },
   {
     "id": 27942,
-    "name": "Technician",
-    "slug": "technician",
+    "name": "SensorSurf",
+    "slug": "sensorsurf",
     "former_names": [
       "Woeden",
-      "SensorSurf"
+      "Technician"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af65fb5b7bd34202e33bb69a39d61b60824c0343.png",
     "website": "https://www.technician.dev",
@@ -14658,8 +14660,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/technician",
-    "api": "https://yc-oss.github.io/api/batches/w23/technician.json"
+    "url": "https://www.ycombinator.com/companies/sensorsurf",
+    "api": "https://yc-oss.github.io/api/batches/w23/sensorsurf.json"
   },
   {
     "id": 27958,
@@ -20266,19 +20268,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/743b9f85db08e7b8a93c6c78302038fa26e34292.png",
     "website": "https://tryhelium.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Helium is building self-improving software — AI that continuously experiments on key moments in the user funnel to boost revenue. Our first customer, a social app with 20M MAU, uses Helium to test new in-app paywalls to get more users to subscribe. \r\n\r\nZach previously made $100M+ in growth experiments at Uber, Shishir led the first LLM features for Alexa, and Anish worked at Meta building ML to automatically experiment on ads, increasing Instagram ads conversion by 10%. ",
     "one_liner": "Self Improving Software",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722968896,
-    "tags": [
-      "Developer Tools",
-      "Machine Learning",
-      "B2B",
-      "Subscriptions"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -20290,8 +20287,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -22009,7 +22005,7 @@
     "name": "Artifact",
     "slug": "artifact-2",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1fe3804a0149861592ad0132ef357815ad7a9e9d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/764b72bcc2fa5b82a346ca5ceda62d50887b6537.png",
     "website": "https://www.artifact.engineer/",
     "all_locations": "Atlanta, GA, USA",
     "long_description": "Artifact is a 2D electrical system CAD tool leveraging AI to automate tedious, error-prone tasks: datasheet ingestion, multi-fidelity system design, and manufacturing documentation",
