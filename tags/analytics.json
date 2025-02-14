@@ -3982,7 +3982,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -5105,7 +5105,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Fintech"
     ],
@@ -6434,7 +6434,7 @@
     "website": "https://inconvo.ai",
     "all_locations": "Limerick, County Limerick, Ireland",
     "long_description": "Inconvo makes it easy for developers to add Ask AI for customer-facing analytics so that users can ask questions on their data in natural language.\r\n\r\nWith Inconvo shipping AI-first analytics is easy, simply send a user question to our API which responds with a chart, table or text. \r\n\r\nInconvo connects to your database to automatically retrieve the right data to answer your users’ questions. Then, you’re in charge of presenting the responses to your users in a way that fits your design.\r\n\r\nInconvo is purpose-built to overcome the challenges of AI for customer-facing analytics, providing tools that handle multi-tenancy, database access control, AI evaluation, and a semantic layer that maps business terms to database labels.",
-    "one_liner": "The \"Ask AI\" API for customer-facing analytics",
+    "one_liner": "The Ask-AI API for customer-facing analytics",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -7572,26 +7572,24 @@
     "api": "https://yc-oss.github.io/api/batches/w25/casixty.json"
   },
   {
-    "id": 30231,
-    "name": "Sift Dev",
-    "slug": "sift-dev",
-    "former_names": [
-      "Sift"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28a3996c7e06e1964a512462e50a8e047fb37484.png",
-    "website": "https://www.yc.trysift.dev/",
+    "id": 30201,
+    "name": "Dartboard Energy",
+    "slug": "dartboard-energy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da8574389e1b618977a4c248ea7c02e6d8d5dc9b.png",
+    "website": "https://dartboardenergy.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're an intelligent pipeline for your logs. Reduce your logging volume and take back control in just a few clicks.",
-    "one_liner": "Your Logs, Finally Free",
+    "long_description": "Dartboard is an AI Analyst for Electricity Markets, starting with the owners of grid-connected battery projects.",
+    "one_liner": "AI Analyst for Electricity Markets",
     "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1737662674,
+    "industry": "Industrials",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1739492408,
     "tags": [
-      "Developer Tools",
-      "SaaS",
-      "Analytics",
-      "AI"
+      "Artificial Intelligence",
+      "Energy Storage",
+      "B2B",
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7600,8 +7598,8 @@
     "batch": "W25",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Industrials",
+      "Energy"
     ],
     "regions": [
       "United States of America",
@@ -7612,8 +7610,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sift-dev",
-    "api": "https://yc-oss.github.io/api/batches/w25/sift-dev.json"
+    "url": "https://www.ycombinator.com/companies/dartboard-energy",
+    "api": "https://yc-oss.github.io/api/batches/w25/dartboard-energy.json"
   },
   {
     "id": 30268,
@@ -7630,9 +7628,9 @@
     "subindustry": "Consumer -> Content",
     "launched_at": 1739175359,
     "tags": [
-      "Artificial Intelligence",
       "Analytics",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7742,48 +7740,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/roark",
     "api": "https://yc-oss.github.io/api/batches/w25/roark.json"
-  },
-  {
-    "id": 30351,
-    "name": "Dexterity",
-    "slug": "dexterity",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8d577798c503859a7083997ce9e799cc7d899da.png",
-    "website": "https://getdexterity.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dex is the intelligent layer for flexible data collection. Static touchpoints can’t keep up—surveys and forms must evolve into dynamic systems that optimize processes, adapt to interactions, and deliver tailored insights 24/7.\r\n\r\nLet’s build the foundation for AI-driven, user-first experiences.",
-    "one_liner": "Intelligent data collection.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1737217789,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "Customer Success",
-      "Analytics",
-      "Market Research"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dexterity",
-    "api": "https://yc-oss.github.io/api/batches/w25/dexterity.json"
   }
 ]

@@ -3881,13 +3881,13 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1493860914,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S17",
     "status": "Active",
@@ -4169,13 +4169,13 @@
   },
   {
     "id": 1786,
-    "name": "Plandex",
-    "slug": "plandex",
+    "name": "EnvKey",
+    "slug": "envkey",
     "former_names": [
       "EnvKey"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e132ca0e6ddbcae5090360eedff8684f41d05ef.png",
-    "website": "https://plandex.ai/",
+    "website": "https://envkey.com",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "EnvKey is a developer-friendly, cross-platform, end-to-end encrypted configuration and secrets manager. It can be used to store API keys, database credentials, and other application config securely. \r\n\r\nEnvKey makes it easy to grant least-privilege access to the developers and servers that need it from a user-friendly UI. Integration takes minutes.\r\n\r\nUsing EnvKey ensures that no 3rd party, including EnvKey itself, ever has access to your secrets. \r\n\r\nIt takes a part of your system that used to be error-prone and insecure and makes it just work.",
     "one_liner": "End-to-end encrypted configuration and secrets management",
@@ -4207,8 +4207,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/plandex",
-    "api": "https://yc-oss.github.io/api/batches/w18/plandex.json"
+    "url": "https://www.ycombinator.com/companies/envkey",
+    "api": "https://yc-oss.github.io/api/batches/w18/envkey.json"
   },
   {
     "id": 1801,
@@ -9800,7 +9800,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97a6c134a2281fc0b76fb07a0fe0c197e4948543.png",
     "website": "http://tryterra.co",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Terra is an API that makes it easy for apps to connect to wearables",
+    "long_description": "Terra makes it easy to transfer health data.\r\n\r\nThe unified API makes it easy to access data from health apps, wearables, sensors, and medical equipment through one source",
     "one_liner": "API for developers to connect to health data from wearables and…",
     "team_size": 25,
     "industry": "B2B",
@@ -16527,7 +16527,7 @@
     "website": "https://inconvo.ai",
     "all_locations": "Limerick, County Limerick, Ireland",
     "long_description": "Inconvo makes it easy for developers to add Ask AI for customer-facing analytics so that users can ask questions on their data in natural language.\r\n\r\nWith Inconvo shipping AI-first analytics is easy, simply send a user question to our API which responds with a chart, table or text. \r\n\r\nInconvo connects to your database to automatically retrieve the right data to answer your users’ questions. Then, you’re in charge of presenting the responses to your users in a way that fits your design.\r\n\r\nInconvo is purpose-built to overcome the challenges of AI for customer-facing analytics, providing tools that handle multi-tenancy, database access control, AI evaluation, and a semantic layer that maps business terms to database labels.",
-    "one_liner": "The \"Ask AI\" API for customer-facing analytics",
+    "one_liner": "The Ask-AI API for customer-facing analytics",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -17497,17 +17497,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f60a49b454abcbf399c1110eb888b6aa3b0627f.png",
     "website": "https://keywordsai.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The only platform you need to launch and optimize your LLM application. \r\n\r\nWe built a unified interface for any model with built-in infrastructure, so you can focus on building a product people love. Integration is dead simple - everything comes with 2 lines of code:\r\n\r\n- Playground and prompt management for testing models and improving prompts\r\n- Beautiful pre-built dashboards to monitor every LLM metric and user log\r\n- Production performance monitoring with auto-evaluations\r\n... and a lot more!\r\n\r\nReach out to team@keywordsai.co if you have any questions. Excited to see what you'll build with us!",
-    "one_liner": "LLM monitoring platform for AI startups",
+    "long_description": "Keywords AI is used by 40+ fastest growing YC startups to ship reliable AI features really fast.\r\n\r\nMonitor and debug:\r\n- Request logging with full text search to monitor AI in prod\r\n- LLM agent tracing to debug workflows with ease\r\n- Metrics dashboard to understand usage, cost, latency, and get product growth metrics\r\n- User analytics to learn how every user is using your product\r\n\r\nBuild and iterate:\r\n- Collaborative prompt management\r\n- Playground for 350+ models\r\n- Model gateway with OpenAI/Anthropic API interface\r\n- Eval & experiments",
+    "one_liner": "LLM observability, prompt management, evals.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1711136962,
     "tags": [
+      "AIOps",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "API",
+      "Monitoring",
       "AI"
     ],
     "tags_highlighted": [],
@@ -18610,18 +18610,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28333543424f2e5753fd39fd195e354af322187.png",
     "website": "https://www.integuru.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Integuru builds low-latency integrations with platforms lacking official APIs. We developed the first AI agent that automates the creation of permissionless integrations. Our services include authentication management, building integrations, and hosting.",
+    "long_description": "Integuru builds low-latency integrations with platforms lacking official APIs. We developed the first AI agent that creates permissionless integrations by reverse-engineering internal APIs. Our services include authentication management, building integrations, and hosting.",
     "one_liner": "Integrations without official APIs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1709153976,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21377,7 +21377,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e806fda08a2985d5611237545c62cc046d58b489.png",
     "website": "https://subtrace.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Subtrace is an observability platform that gives backend teams full visibility into every request. We bring all the critical details—payload, latency, status, headers, logs—into one clear, Chrome DevTools-like interface so that you can resolve production issues fast.",
+    "long_description": "Subtrace is Wireshark for containers. It lets developers resolve production issues faster making it easy to track all backend requests coming in and going out of their backend server.",
     "one_liner": "Resolve production issues in minutes, not months",
     "team_size": 2,
     "industry": "B2B",
@@ -21787,6 +21787,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/confident-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/confident-ai.json"
+  },
+  {
+    "id": 30296,
+    "name": "Peppr AI",
+    "slug": "peppr-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5845a68f41f0b45b919c6d9f64f83b2da23349a.png",
+    "website": "https://www.usepeppr.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We turn scattered company data into a dynamic, self-improving knowledge hub to fuel faster decisions across your organization",
+    "one_liner": "The world's first AI-powered knowledge capture platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1739485399,
+    "tags": [
+      "Machine Learning",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/peppr-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/peppr-ai.json"
   },
   {
     "id": 30304,

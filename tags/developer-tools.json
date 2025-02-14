@@ -16398,7 +16398,7 @@
     "website": "https://inconvo.ai",
     "all_locations": "Limerick, County Limerick, Ireland",
     "long_description": "Inconvo makes it easy for developers to add Ask AI for customer-facing analytics so that users can ask questions on their data in natural language.\r\n\r\nWith Inconvo shipping AI-first analytics is easy, simply send a user question to our API which responds with a chart, table or text. \r\n\r\nInconvo connects to your database to automatically retrieve the right data to answer your users’ questions. Then, you’re in charge of presenting the responses to your users in a way that fits your design.\r\n\r\nInconvo is purpose-built to overcome the challenges of AI for customer-facing analytics, providing tools that handle multi-tenancy, database access control, AI evaluation, and a semantic layer that maps business terms to database labels.",
-    "one_liner": "The \"Ask AI\" API for customer-facing analytics",
+    "one_liner": "The Ask-AI API for customer-facing analytics",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -17255,17 +17255,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f60a49b454abcbf399c1110eb888b6aa3b0627f.png",
     "website": "https://keywordsai.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The only platform you need to launch and optimize your LLM application. \r\n\r\nWe built a unified interface for any model with built-in infrastructure, so you can focus on building a product people love. Integration is dead simple - everything comes with 2 lines of code:\r\n\r\n- Playground and prompt management for testing models and improving prompts\r\n- Beautiful pre-built dashboards to monitor every LLM metric and user log\r\n- Production performance monitoring with auto-evaluations\r\n... and a lot more!\r\n\r\nReach out to team@keywordsai.co if you have any questions. Excited to see what you'll build with us!",
-    "one_liner": "LLM monitoring platform for AI startups",
+    "long_description": "Keywords AI is used by 40+ fastest growing YC startups to ship reliable AI features really fast.\r\n\r\nMonitor and debug:\r\n- Request logging with full text search to monitor AI in prod\r\n- LLM agent tracing to debug workflows with ease\r\n- Metrics dashboard to understand usage, cost, latency, and get product growth metrics\r\n- User analytics to learn how every user is using your product\r\n\r\nBuild and iterate:\r\n- Collaborative prompt management\r\n- Playground for 350+ models\r\n- Model gateway with OpenAI/Anthropic API interface\r\n- Eval & experiments",
+    "one_liner": "LLM observability, prompt management, evals.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1711136962,
     "tags": [
+      "AIOps",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "API",
+      "Monitoring",
       "AI"
     ],
     "tags_highlighted": [],
@@ -18128,18 +18128,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28333543424f2e5753fd39fd195e354af322187.png",
     "website": "https://www.integuru.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Integuru builds low-latency integrations with platforms lacking official APIs. We developed the first AI agent that automates the creation of permissionless integrations. Our services include authentication management, building integrations, and hosting.",
+    "long_description": "Integuru builds low-latency integrations with platforms lacking official APIs. We developed the first AI agent that creates permissionless integrations by reverse-engineering internal APIs. Our services include authentication management, building integrations, and hosting.",
     "one_liner": "Integrations without official APIs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1709153976,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20642,7 +20642,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e806fda08a2985d5611237545c62cc046d58b489.png",
     "website": "https://subtrace.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Subtrace is an observability platform that gives backend teams full visibility into every request. We bring all the critical details—payload, latency, status, headers, logs—into one clear, Chrome DevTools-like interface so that you can resolve production issues fast.",
+    "long_description": "Subtrace is Wireshark for containers. It lets developers resolve production issues faster making it easy to track all backend requests coming in and going out of their backend server.",
     "one_liner": "Resolve production issues in minutes, not months",
     "team_size": 2,
     "industry": "B2B",
@@ -20850,7 +20850,7 @@
     "former_names": [
       "Sift"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28a3996c7e06e1964a512462e50a8e047fb37484.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d00fe727e32957a1207328fc67938587038c996.png",
     "website": "https://www.yc.trysift.dev/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're an intelligent pipeline for your logs. Reduce your logging volume and take back control in just a few clicks.",
@@ -20860,10 +20860,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1737662674,
     "tags": [
+      "AIOps",
       "Developer Tools",
-      "SaaS",
-      "Analytics",
-      "AI"
+      "Generative AI",
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21393,49 +21393,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trainloop",
     "api": "https://yc-oss.github.io/api/batches/w25/trainloop.json"
-  },
-  {
-    "id": 30351,
-    "name": "Dexterity",
-    "slug": "dexterity",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8d577798c503859a7083997ce9e799cc7d899da.png",
-    "website": "https://getdexterity.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dex is the intelligent layer for flexible data collection. Static touchpoints can’t keep up—surveys and forms must evolve into dynamic systems that optimize processes, adapt to interactions, and deliver tailored insights 24/7.\r\n\r\nLet’s build the foundation for AI-driven, user-first experiences.",
-    "one_liner": "Intelligent data collection.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1737217789,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "Customer Success",
-      "Analytics",
-      "Market Research"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dexterity",
-    "api": "https://yc-oss.github.io/api/batches/w25/dexterity.json"
   },
   {
     "id": 30353,

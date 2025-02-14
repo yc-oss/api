@@ -2814,10 +2814,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W17",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Fintech",
       "Banking and Exchange"
@@ -14758,7 +14758,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97a6c134a2281fc0b76fb07a0fe0c197e4948543.png",
     "website": "http://tryterra.co",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Terra is an API that makes it easy for apps to connect to wearables",
+    "long_description": "Terra makes it easy to transfer health data.\r\n\r\nThe unified API makes it easy to access data from health apps, wearables, sensors, and medical equipment through one source",
     "one_liner": "API for developers to connect to health data from wearables and…",
     "team_size": 25,
     "industry": "B2B",
@@ -17506,7 +17506,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -18101,17 +18101,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c3627a012cbd2927f9d0157663c3668b458fe3e.png",
     "website": "https://writesonic.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Writesonic is an AI writing and image generation platform with a mission to empower everyone in the world to create any form of content 10X faster. It's like Canva for writing, with tools that simplify the process of creating, editing, and publishing SEO-optimized articles, blog posts, ads, landing pages, eCommerce product descriptions, social media posts, and many other forms of content.\r\n\r\nOur customers love us, as evidenced by the 10,000+ 5-star reviews on G2, TrustPilot, and Capterra.\r\n\r\nBacked by Y Combinator, HOF Capital (investors in Uber, Stripe, Alibaba, UiPath, Klarna), Rebel Fund (team includes founders of Instacart, Reddit, and Cruise), Soma Capital (investors in Deel, Rippling, Razorpay, Lattice, coda, Rappi), Broom Ventures, Amino Capital (investors in Zoom, Webflow, Rippling) and some of the best angels from different industries.",
+    "long_description": "Writesonic is the first AI agent that connects to your marketing tools (Ahrefs, Search Console, Reddit, SERP) to automate your entire SEO and content workflows - from research to rankings. While others give generic AI responses, we work with real data to grow your traffic.\r\n\r\nJust chat with your AI agent:\r\n\"Research this topic\" → Instant insights from 100+ sources, cited and verified\r\n\"Write about X\" → SEO-optimized content that targets ranking gaps\r\n\"Help me rank for Y\" → Complete strategies built on live SERP data\r\n\"Find quick wins\" → Easy opportunities from positions 11-20\r\n\r\nYour complete SEO workflow, automated:\r\n- Research: Deep-dive competitor analysis that used to take days\r\n- Create: Content that ranks, backed by real data from Ahrefs & SERP\r\n- Optimize: Implementation plans that normally cost $5000+/month\r\n- Track: Real-time monitoring with actionable recommendations\r\n\r\nUsed by 10M+ marketers. 15,000+ five-star reviews across G2, Trustpilot, and Capterra.",
     "one_liner": "AI Agent for SEO and Marketing",
     "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1628672374,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36392,49 +36392,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/celest.json"
   },
   {
-    "id": 29325,
-    "name": "Keywords AI",
-    "slug": "keywords-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f60a49b454abcbf399c1110eb888b6aa3b0627f.png",
-    "website": "https://keywordsai.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The only platform you need to launch and optimize your LLM application. \r\n\r\nWe built a unified interface for any model with built-in infrastructure, so you can focus on building a product people love. Integration is dead simple - everything comes with 2 lines of code:\r\n\r\n- Playground and prompt management for testing models and improving prompts\r\n- Beautiful pre-built dashboards to monitor every LLM metric and user log\r\n- Production performance monitoring with auto-evaluations\r\n... and a lot more!\r\n\r\nReach out to team@keywordsai.co if you have any questions. Excited to see what you'll build with us!",
-    "one_liner": "LLM monitoring platform for AI startups",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1711136962,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": true,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keywords-ai",
-    "api": "https://yc-oss.github.io/api/batches/w24/keywords-ai.json"
-  },
-  {
     "id": 29327,
     "name": "Central",
     "slug": "central",
@@ -37582,8 +37539,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/200c92ec7689cca5def8c23c08741030c6d28f97.png",
     "website": "https://vistapower.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vista installs energy storage and solar at commercial and industrial properties for $0 upfront, helping businesses save up to 30% on their energy bills. The founding team previously worked at SpaceX, Rocket Lab, NASA and Firefly.",
-    "one_liner": "Modular battery energy storage for businesses",
+    "long_description": "Vista designs, finances, installs, and manages energy storage and solar at commercial, industrial, and multifamily properties for $0 upfront, helping businesses save up to 30% on their energy bills. The founding team previously worked at SpaceX, Rocket Lab, NASA and Firefly.",
+    "one_liner": "Batteries and solar for $0 upfront to help businesses save money",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
@@ -38063,18 +38020,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28333543424f2e5753fd39fd195e354af322187.png",
     "website": "https://www.integuru.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Integuru builds low-latency integrations with platforms lacking official APIs. We developed the first AI agent that automates the creation of permissionless integrations. Our services include authentication management, building integrations, and hosting.",
+    "long_description": "Integuru builds low-latency integrations with platforms lacking official APIs. We developed the first AI agent that creates permissionless integrations by reverse-engineering internal APIs. Our services include authentication management, building integrations, and hosting.",
     "one_liner": "Integrations without official APIs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1709153976,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Open Source",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39713,10 +39670,10 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19d33a41f68a666de360151afdcdd82f92471a13.png",
     "website": "https://www.unriddle.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Unriddle is a web app that helps industry and academic researchers read, write and find research papers really quickly. In just one year we've grown to 1.6M users including teams at Stanford University, GSK and Johns Hopkins.\r\n\r\nWe're using language models to help researchers quickly and deeply understand papers, write literature reviews, prepare citations and keep the whole research team on the same page.\r\n\r\nAnalyzing the key themes and gaps in a field usually means going through hundreds of papers, which is both time-consuming and disorganized. Researchers also might struggle to understand a paper's importance when working across different disciplines without the necessary context.\r\n\r\nUnriddle understands the context behind your research. It synthesizes relevant findings, highlights connections between papers and suggests related studies you might have missed.\r\n\r\nWe’re starting with software to read, write and find papers, but our ultimate goal is to build the researcher of the future: a human-AI hybrid that’s an order of magnitude more effective than any individual researcher.",
+    "long_description": "We build tools to help people think and work better.\r\n\r\nToday, Unriddle helps researchers and students quickly find insights in documents, video and audio so they can learn and write faster. \r\n\r\nWe started working on Unriddle 18 months ago. In that time:\r\n- we’ve grown to 3M users spanning hundreds of major colleges and research-led companies,\r\n- we hit $1.5M in yearly revenue and are fast approaching our next milestone of $2M,\r\n- 100M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised a $2.4M seed with checks from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we're expanding beyond just summarization and writing assistance to address the broader challenges of information overload faced by researchers and students.\r\n\r\nWe're a small, tight-knit team with huge ambitions. As a founding member of the team, you'll be instrumental in helping us scale revenue from $1M to $10M and then $10M to $100M+.\r\n\r\nIf you’re excited by the idea of being a part of that, definitely apply.",
     "one_liner": "AI for researchers, students and scientists",
     "team_size": 5,
-    "industry": "B2B",
+    "industry": "Consumer",
     "subindustry": "B2B",
     "launched_at": 1715615655,
     "tags": [
@@ -39731,7 +39688,7 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -42356,11 +42313,11 @@
     "name": "Autumn",
     "slug": "autumn",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3afba7107af675a74603453de784d45704467e6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png",
     "website": "https://useautumn.com",
     "all_locations": "",
     "long_description": "Autumn is an abstraction layer between your database and Stripe that lets you build any pricing plan and control feature entitlement.",
-    "one_liner": "Control your pricing plans & feature access",
+    "one_liner": "Implement any pricing plan in minutes",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -42949,6 +42906,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/guse.json"
   },
   {
+    "id": 30201,
+    "name": "Dartboard Energy",
+    "slug": "dartboard-energy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da8574389e1b618977a4c248ea7c02e6d8d5dc9b.png",
+    "website": "https://dartboardenergy.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dartboard is an AI Analyst for Electricity Markets, starting with the owners of grid-connected battery projects.",
+    "one_liner": "AI Analyst for Electricity Markets",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1739492408,
+    "tags": [
+      "Artificial Intelligence",
+      "Energy Storage",
+      "B2B",
+      "Analytics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dartboard-energy",
+    "api": "https://yc-oss.github.io/api/batches/w25/dartboard-energy.json"
+  },
+  {
     "id": 30207,
     "name": "Promptless",
     "slug": "promptless",
@@ -43286,6 +43285,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cuckoo-labs",
     "api": "https://yc-oss.github.io/api/batches/w25/cuckoo-labs.json"
+  },
+  {
+    "id": 30256,
+    "name": "PAX Markets, Inc.",
+    "slug": "pax-markets-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05c8cff591b86d49ecb387cae532233ca6d248ee.png",
+    "website": "https://pax.markets/",
+    "all_locations": "",
+    "long_description": "PAX is a new crypto exchange and is the first – in all capital markets – to operate from a single chip rather than an entire datacenter. Today, high frequency traders (\"HFTs\") pay handsomely to co-locate (\"co-lo\") their algorithms near to the exchange. PAX moves traders to within nanometers of the exchange – closer than ever before possible.\r\n\r\nSuch proximity unlocks unprecedented value to high frequency customers and PAX shares this value by offering zero-fee with cash-back to every other market participant on every trade. PAX is to exchange as Robinhood was to retail brokerage: the first in the industry to “go to zero” and a complete game changer across every asset and geography.\r\n\r\nPAX founders, Pete and Ben have spent years working as high-frequency traders, from crypto to traditional markets. Having directly experienced the benefit of electronic trading, they share a belief in its potential to further evolve and create better global markets.",
+    "one_liner": "A new crypto exchange, on a chip: faster & smaller than a datacenter.",
+    "team_size": null,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1738613936,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Marketplace",
+      "B2B",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pax-markets-inc",
+    "api": "https://yc-oss.github.io/api/batches/w25/pax-markets-inc.json"
   },
   {
     "id": 30258,
@@ -43840,6 +43881,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dalus",
     "api": "https://yc-oss.github.io/api/batches/w25/dalus.json"
+  },
+  {
+    "id": 30334,
+    "name": "Bluebook",
+    "slug": "bluebook",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab67c5f36b05352c3fb1a5fa4f7fc41d1908c664.png",
+    "website": "https://getbluebook.com",
+    "all_locations": "",
+    "long_description": "Bluebook is building AI agents for accounting firms to accelerate research, reconciliations and monthly closings. We allow professionals to serve 200 clients instead of just 20. With research time cut by 30% accountants can provide more strategic advice to help their clients thrive. The 30 leading firms in the Nordics already use Bluebook.\r\n\r\nThe accounting industry faces a perfect storm: a massive CPA retirement wave (75% in the coming 15 years), increasing complexity from globalization and new regulations, and private equity consolidation driving productivity demands. Traditional rule-based software falls short in addressing these dynamic challenges.",
+    "one_liner": "Helping accountants cut repetitive tasks to focus on client growth",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1739450063,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bluebook",
+    "api": "https://yc-oss.github.io/api/batches/w25/bluebook.json"
   },
   {
     "id": 30338,
