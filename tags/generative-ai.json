@@ -2571,11 +2571,11 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df25027fdb67a180a98afb2eb5f767346fefc28f.png",
     "website": "https://toproad.ai",
-    "all_locations": "Sydney, NSW, Australia; San Francisco, CA, USA",
-    "long_description": "We build tools for custom GPT builders in the Open AI GPT Store to track user analytics and accept payments directly from users through a Stripe integration. ",
-    "one_liner": "Third party tools for custom GPT builders in the Open AI Store",
+    "all_locations": "Sydney, NSW, Australia",
+    "long_description": "Our no code tools enable developers to monetise their apps in the OpenAI GPT Store with in-chat payments, affiliate links and user analytics. ",
+    "one_liner": "Payments & analytics for apps in the OpenAI GPT Store",
     "team_size": 2,
-    "industry": "B2B",
+    "industry": "Fintech",
     "subindustry": "B2B -> Retail",
     "launched_at": 1644389361,
     "tags": [
@@ -2592,13 +2592,12 @@
     "batch": "W22",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Fintech",
+      "Payments"
     ],
     "regions": [
       "Australia",
-      "United States of America",
       "Oceania",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -8188,15 +8187,15 @@
     "all_locations": "",
     "long_description": "",
     "one_liner": "LLM Security and Compliance",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1702083397,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Security",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8916,49 +8915,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mem0",
     "api": "https://yc-oss.github.io/api/batches/s24/mem0.json"
-  },
-  {
-    "id": 29633,
-    "name": "Unsloth AI",
-    "slug": "unsloth-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/821f8850dee6e9f14ef87d19a86abcd55976c80c.png",
-    "website": "https://unsloth.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Unsloth helps builders create custom models better & faster. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 15 million monthly model downloads and 15K GitHub stars, our mission is to make fine-tuning and open-source the best it can be!",
-    "one_liner": "Open Source Fine-tuning & Training of LLMs",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1725425996,
-    "tags": [
-      "Generative AI",
-      "Open Source",
-      "No-code",
-      "Cloud Computing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/unsloth-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/unsloth-ai.json"
   },
   {
     "id": 29644,
@@ -11658,49 +11614,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/dexterity.json"
   },
   {
-    "id": 30354,
-    "name": "Artifact",
-    "slug": "artifact-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/764b72bcc2fa5b82a346ca5ceda62d50887b6537.png",
-    "website": "https://www.artifact.engineer/",
-    "all_locations": "Atlanta, GA, USA",
-    "long_description": "Artifact is a 2D electrical system CAD tool leveraging AI to automate tedious, error-prone tasks: datasheet ingestion, multi-fidelity system design, and manufacturing documentation",
-    "one_liner": "A modern workspace for electrical design",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1738654022,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "B2B",
-      "Design Tools",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/artifact-2",
-    "api": "https://yc-oss.github.io/api/batches/w25/artifact-2.json"
-  },
-  {
     "id": 30355,
     "name": "assistant-ui",
     "slug": "assistant-ui",
@@ -11755,10 +11668,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1736800806,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Market Research",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

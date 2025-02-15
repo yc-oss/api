@@ -1392,6 +1392,45 @@
     "api": "https://yc-oss.github.io/api/batches/w25/a0-dev.json"
   },
   {
+    "id": 30224,
+    "name": "Maritime Fusion",
+    "slug": "maritime-fusion",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2af0192d25e843e5333e635fa35115413fbca155.png",
+    "website": "https://maritimefusion.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Maritime Fusion is building HTS (high-temperature superconducting) fusion reactors for defense and commercial shipping applications. Breakeven fusion is coming soon, but the first-of-a-kind (FOAK) reactors will be costly, high maintenance, and have low capacity factors, leading to 5–10x higher electricity cost on the grid. Maritime Fusion is pursuing the most widely accepted approach to fusion, the tokamak, but specifically designed for the marine environment where the challenges that arise between breakeven and a commercially viable energy source are alleviated. The market we're targeting requires 15x less power, lower up-time, and costs the same as alternative fuels but without any emissions. Since fusion does not use highly radioactive fuels or materials – unlike fission – we sidestep the vast majority of regulatory challenges and safety risks associated with nuclear energy. Our team brings over a decade of industry and research experience in plasma physics, nuclear engineering, and electrical engineering with backgrounds at SpaceX, Tesla, Columbia University, and University of Pennsylvania.",
+    "one_liner": "Fusion reactors for ships",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1739572830,
+    "tags": [
+      "Fusion Energy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maritime-fusion",
+    "api": "https://yc-oss.github.io/api/batches/w25/maritime-fusion.json"
+  },
+  {
     "id": 30225,
     "name": "Vora AI",
     "slug": "vora-ai",
@@ -3547,8 +3586,8 @@
     "slug": "pinch",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8fc55da81404361696fb3defe5eea397248e4225.png",
-    "website": "",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "website": "https://startpinch.com",
+    "all_locations": "Remote",
     "long_description": "Pinch is a video conferencing platform that delivers split-second translation with synchronized lip movements and natural expressions, so you can conduct calls and webinars in 20+ languages and appear as a native speaker.  Pinch creates an AI version of you in real-time, with a focus on presenting you accurately and professionally.  Unlock new markets and authentic connections — join Pinch!",
     "one_liner": "Take video calls and host webinars in any language",
     "team_size": 3,
@@ -3570,8 +3609,6 @@
       "Productivity"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -4010,16 +4047,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab67c5f36b05352c3fb1a5fa4f7fc41d1908c664.png",
     "website": "https://getbluebook.com",
     "all_locations": "",
-    "long_description": "Bluebook is building AI agents for accounting firms to accelerate research, reconciliations and monthly closings. We allow professionals to serve 200 clients instead of just 20. With research time cut by 30% accountants can provide more strategic advice to help their clients thrive. The 30 leading firms in the Nordics already use Bluebook.\r\n\r\nThe accounting industry faces a perfect storm: a massive CPA retirement wave (75% in the coming 15 years), increasing complexity from globalization and new regulations, and private equity consolidation driving productivity demands. Traditional rule-based software falls short in addressing these dynamic challenges.",
-    "one_liner": "Helping accountants cut repetitive tasks to focus on client growth",
+    "long_description": "Bluebook is building AI agents for accounting firms to accelerate research, reconciliations and monthly closings. We allow professionals to serve 200 clients instead of just 20. With research time cut by 30% accountants can provide more strategic advice to help their clients thrive. The 30 leading firms in the Nordics already use Bluebook.\r\n\r\nThe accounting industry faces a perfect storm: a massive CPA retirement wave (75% in the coming 15 years), increasing complexity from globalization and new regulations, and private equity consolidation driving productivity demands. LLMs enables software that can understand context, adapt to new scenarios, and handle complex accounting tasks with human-like reasoning - capabilities that traditional rule-based software lacks.",
+    "one_liner": "Self-driving accounting",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1739450063,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4223,15 +4260,15 @@
     "website": "https://www.cedar.law/home",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Law practice is intellectual work trapped in a mesh of administrative tasks. We’re building AI agents that automate pre-litigation workflows for personal injury law firms. \r\n\r\nFrom AI voice agents that take the initial client intake call to drafting discovery requests and analyzing responses for motions to compel, new workflows can now be automated with the advent of voice and reasoning models.\r\n\r\nPersonal injury is a $57 billion market in the U.S. alone, with a contingency fee billing model that incentivizes efficiency (unlike other practices of law billed hourly). In high-quality firms, each attorney can make upwards of 3.5 million per year– saving even 1% of their time is significant. We're working on saving >30% of their time. \r\n\r\nThe founders, Jesse and Isabelle, met at Georgia Tech, where they graduated with degrees in Computer Science. They’ve worked on projects together for 4 years, while gaining industry experience as software engineers at LinkedIn, Intuit, Notion, and Figma.",
-    "one_liner": "AI automating intake calls and pre-litigation workflows for law firms.",
+    "one_liner": "AI automating intake calls and litigation workflows for law firms.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1739293549,
     "tags": [
+      "Artificial Intelligence",
       "Legal",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4254,6 +4291,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cedar",
     "api": "https://yc-oss.github.io/api/batches/w25/cedar.json"
+  },
+  {
+    "id": 30348,
+    "name": "SAMMY Labs",
+    "slug": "sammy-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d1b25deab159af3f02ba906ec516f86f2c3ac17.png",
+    "website": "https://www.sammylabs.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "SAMMY is an Al that explores your app like a real user, mapping every possible click to generate content, onboard users and spot issues. It updates automatically with every product change, keeping everything running smoothly. It may feel like magic, but it’s just powerful technology at work.",
+    "one_liner": "Automate onboarding, support & training with AI that mimics your users",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1739574667,
+    "tags": [
+      "SaaS",
+      "Computer Vision",
+      "Customer Support",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sammy-labs",
+    "api": "https://yc-oss.github.io/api/batches/w25/sammy-labs.json"
   },
   {
     "id": 30349,
@@ -4437,7 +4515,7 @@
     "launched_at": 1738654022,
     "tags": [
       "Developer Tools",
-      "Generative AI",
+      "Hardware",
       "B2B",
       "Design Tools",
       "Aerospace"
@@ -4519,10 +4597,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1736800806,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Market Research",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
