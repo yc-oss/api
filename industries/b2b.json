@@ -62862,11 +62862,11 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1643292732,
     "tags": [
-      "Artificial Intelligence",
       "Finance",
       "B2B",
       "Workflow Automation",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -62888,7 +62888,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/finnt",
     "api": "https://yc-oss.github.io/api/batches/w22/finnt.json"
   },
@@ -81670,16 +81670,16 @@
     "website": "https://supercraft.ai",
     "all_locations": "New York, NY, USA",
     "long_description": "SuperCraft lets anyone create professional designs with natural language\r\n\r\nJoin thousands of designers using SuperCraft to craft compelling visual narratives via on-brand creatives, packaging, product design, architectural design, gaming and more",
-    "one_liner": "The AI Design Suite",
+    "one_liner": "Figma for designing physical products",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1688534176,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Productivity",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -91187,7 +91187,7 @@
   },
   {
     "id": 29407,
-    "name": "just words",
+    "name": "Just Words",
     "slug": "just-words",
     "former_names": [
       "Choice",
@@ -91198,7 +91198,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AI-first marketing platform that puts companies in a state of continuous experimentation. We let you test 100+ variations within a month, across segments without the need to setup an 'octopus' on your favorite CRM tool. We also automate reporting which takes the grunt work of baby sitting every A/B test out of the way.",
     "one_liner": "Scale hyper-personalized messaging with AI",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1704840202,
@@ -94104,7 +94104,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/821f8850dee6e9f14ef87d19a86abcd55976c80c.png",
     "website": "https://unsloth.ai/",
     "all_locations": "",
-    "long_description": "Unsloth helps builders create custom models better & faster. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 15 million monthly model downloads and 15K GitHub stars, our mission is to make fine-tuning and open-source the best it can be!",
+    "long_description": "Unsloth helps builders create custom models better & faster. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 8 million monthly model downloads and 15K GitHub stars, our mission is to make fine-tuning and open-source the best it can be!",
     "one_liner": "Open Source Fine-tuning & Training of LLMs",
     "team_size": 2,
     "industry": "B2B",
@@ -94113,7 +94113,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -104263,10 +104263,10 @@
     "subindustry": "B2B",
     "launched_at": 1736927502,
     "tags": [
-      "Artificial Intelligence",
       "Finance",
       "Productivity",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -104931,7 +104931,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f0788a922bb389578b23e8ccb111b965944878a.png",
     "website": "https://runcopycat.com",
     "all_locations": "Seattle, WA, USA",
-    "long_description": "CopyCat lets businesses create browser agents to automate their manual and repetitive processes.",
+    "long_description": "CopyCat lets businesses create browser agents to automate their manual and repetitive processes. We created a browser agent builder that lets businesses describe their processes in natural language and instantly get them automated.",
     "one_liner": "Browser agents for repetitive business processes.",
     "team_size": 3,
     "industry": "B2B",
@@ -105093,6 +105093,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cedar",
     "api": "https://yc-oss.github.io/api/batches/w25/cedar.json"
+  },
+  {
+    "id": 30346,
+    "name": "Mercura",
+    "slug": "mercura",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84ad3ef04aef30c103f98a1ef15865998e62738e.png",
+    "website": "https://www.mercura.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mercura automates sales quotation for building material suppliers. Our software lets sales teams process requests for quotations in seconds instead of days. By eliminating repetitive back-office tasks, we help sales reps focus on winning more deals and driving revenue.",
+    "one_liner": "AI Quoting for Wholesale Distribution and Manufacturers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1739583996,
+    "tags": [
+      "Generative AI",
+      "Construction",
+      "B2B",
+      "Sales Enablement"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mercura",
+    "api": "https://yc-oss.github.io/api/batches/w25/mercura.json"
   },
   {
     "id": 30348,
