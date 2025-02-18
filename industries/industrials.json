@@ -11484,26 +11484,26 @@
   },
   {
     "id": 29808,
-    "name": "Star Cloud",
-    "slug": "star-cloud",
+    "name": "Starcloud",
+    "slug": "starcloud",
     "former_names": [
       "Lumen Orbit, Inc."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9c9b9996bb500ee171134f1e1a0a83f5d48bec3.png",
     "website": "https://www.starcloud.com/",
     "all_locations": "Redmond, WA, USA",
-    "long_description": "(Formerly known as Lumen Orbit) \r\nStar Cloud is building a network of megawatt-scale data centers in space, scaleable to gigawatt capacity, to be able to train large models like GPT6. Falling launch costs give us access to abundant energy, passive cooling, and the ability to rapidly scale in space.\r\n\r\nIn Partnership with NVIDIA's Inception Program, we are launching our demonstrator satellite in July 2025, which will have 100x more powerful GPUs than have ever been operated in space. ",
+    "long_description": "(Formerly known as Lumen Orbit) \r\nStarcloud is building a network of megawatt-scale data centers in space, scaleable to gigawatt capacity, to be able to train large models like GPT6. Falling launch costs give us access to abundant energy, passive cooling, and the ability to rapidly scale in space.\r\n\r\nIn Partnership with NVIDIA's Inception Program, we are launching our demonstrator satellite in July 2025, which will have 100x more powerful GPUs than have ever been operated in space. ",
     "one_liner": "Data centers in space",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1718841179,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Satellites",
       "Climate",
-      "Cloud Computing"
+      "Cloud Computing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11524,8 +11524,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/star-cloud",
-    "api": "https://yc-oss.github.io/api/batches/s24/star-cloud.json"
+    "url": "https://www.ycombinator.com/companies/starcloud",
+    "api": "https://yc-oss.github.io/api/batches/s24/starcloud.json"
   },
   {
     "id": 29847,
@@ -11811,6 +11811,49 @@
     "api": "https://yc-oss.github.io/api/batches/w25/revise-robotics.json"
   },
   {
+    "id": 30194,
+    "name": "Splash Inc.",
+    "slug": "splash-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d27e6c39170346215eab6057844b44c4a3fe089.png",
+    "website": "https://splash9.com/",
+    "all_locations": "Los Angeles, CA, USA",
+    "long_description": "Splash is developing the next generation of autonomous surface vessels (ASVs) to provide National Security and defend critical assets such as oil rigs and shipping terminals. Our long-term vision is to make traditional naval vessels obsolete by creating a fleet of low-cost and versatile boats which will be able to dominate the seas. Our expertise in mass manufacturing, engineering and quickly scaling operations will make this vision a reality. ",
+    "one_liner": "Self-driving patrol boats for National Security ",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Unspecified",
+    "launched_at": 1739822625,
+    "tags": [
+      "Artificial Intelligence",
+      "Autonomous Delivery",
+      "Drones",
+      "GovTech",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/splash-inc",
+    "api": "https://yc-oss.github.io/api/batches/w25/splash-inc.json"
+  },
+  {
     "id": 30201,
     "name": "Dartboard Energy",
     "slug": "dartboard-energy",
@@ -11851,6 +11894,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dartboard-energy",
     "api": "https://yc-oss.github.io/api/batches/w25/dartboard-energy.json"
+  },
+  {
+    "id": 30202,
+    "name": "Astro",
+    "slug": "astro",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/274ac22c30bd825b88e1dcfc3f005ade9b21767d.png",
+    "website": "https://www.astroenergy.ai/",
+    "all_locations": "",
+    "long_description": "Astro uses predictive models to identify and secure the best renewable energy sites, focusing on locations with minimal grid upgrade costs and high interconnection success rates. We streamline early-stage development to create shovel-ready projects for larger developers.",
+    "one_liner": "The world’s first AI-driven energy developer",
+    "team_size": 1,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1739813505,
+    "tags": [
+      "Solar Power",
+      "Climate",
+      "Energy",
+      "Renewable Energy",
+      "ClimateTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/astro",
+    "api": "https://yc-oss.github.io/api/batches/w25/astro.json"
   },
   {
     "id": 30224,
@@ -12096,5 +12181,88 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/proception-inc",
     "api": "https://yc-oss.github.io/api/batches/w25/proception-inc.json"
+  },
+  {
+    "id": 30347,
+    "name": "Instinct",
+    "slug": "instinct",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/755313167313a2de3bd2cc31183948d26996bb07.png",
+    "website": "https://www.instinct-space.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Instinct is making satellites to provide GPS navigation to companies landing on or orbiting the moon. By downsizing the current navigation architecture into a cubesat format we can drastically lower both manufacturing and launch costs, allowing for quicker deployments and more resiliency within the system.",
+    "one_liner": "GPS satellites for lunar navigation",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1739754908,
+    "tags": [
+      "Commercial Space Launch",
+      "Space Exploration",
+      "Satellites",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/instinct",
+    "api": "https://yc-oss.github.io/api/batches/w25/instinct.json"
+  },
+  {
+    "id": 30368,
+    "name": "Red Barn Robotics",
+    "slug": "red-barn-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9fea0321812586f595ebfa63ebe19d45c322ad2.png",
+    "website": "https://www.redbarnrobotics.com",
+    "all_locations": "Seattle, WA, USA",
+    "long_description": "We are building an autonomous robot to precisely eliminate weeds and leave crops untouched. Despite $100 billion being spent annually on weed control, weeds still cost the US economy $46B/year. Weeds steal sunlight and nutrients from crops, forcing farmers to choose between higher costs and lower yields. Moreover, many farms still rely on hand labor to control weed growth. The process is slow, expensive, and increasingly difficult due to constant labor shortages (1 out of every 5 US farm positions go unfilled each year). Our robot nicknamed the Field Hand is able to automate one of the worst jobs on a farm and will help healthily feed the world. ",
+    "one_liner": "A Roomba for weeds on a farm. ",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Agriculture",
+    "launched_at": 1739827651,
+    "tags": [
+      "Robotics",
+      "Agriculture",
+      "Sustainable Agriculture"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Agriculture"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/red-barn-robotics",
+    "api": "https://yc-oss.github.io/api/batches/w25/red-barn-robotics.json"
   }
 ]
