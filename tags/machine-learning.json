@@ -9756,17 +9756,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/983cb16d6906fc1a691557bf84b21313870ce3d0.png",
     "website": "https://workweave.dev",
-    "all_locations": "",
-    "long_description": "Weave deeply understands code to quantify engineering work. \r\n\r\nWe show teams how much time they spend on new features vs. bugs and which teams and individuals perform best. \r\n\r\nThen, you can dive in further without in-depth analytics like code review quality and estimation accuracy so you can start replicating best practices.",
-    "one_liner": "Weave uses ML to quantify engineering work.",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Weave solves the age-old problem of engineering measurement. \r\n\r\nWe use AI agents to build metrics like how much work is getting done,  how good the work is, how much time they spend on new features vs. bugs, and which teams and individuals perform best. ",
+    "one_liner": "Weave is an AI agent to measure engineering work.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738683202,
     "tags": [
-      "Developer Tools",
       "Machine Learning",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9779,7 +9779,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9839,8 +9840,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d7946ea974cf7a753814028e684ac774c9c4073.png",
     "website": "https://lucidsim.co/",
     "all_locations": "Berkeley, CA, USA",
-    "long_description": "We are building generative simulations of the world powered by fast world models.\r\n\r\nInstead of using a physics or game engine with hard-coded rules to render each frame and decide how the environment reacts, this is done end-to-end through a neural network.\r\n\r\nUnlike text-to-video models, our world models generate frames conditioned on actions, enabling real-time interaction with any environment. Users can explore, manipulate objects, and shape their experience through natural gameplay.\r\n\r\nWe trained a model to emulate Minecraft that runs smoothly on consumer hardware (1B param model runs at 25fps on an nvidia 4090 gaming gpu while other Minecraft world models run at <3fps). Our advantage in speed comes from aggressive latent compression (128x) that allows us to encode every frame into only 15 tokens while others traditionally use 256.\r\n\r\nWe are now training on real-world footage and are building a general-purpose universe simulator.",
-    "one_liner": "Fast world models for generative simulations",
+    "long_description": "We are building generative simulations of the world powered by fast world models.\r\n\r\nInstead of using a physics or game engine with hard-coded rules to render each frame and decide how the environment reacts, this is done end-to-end through a neural network.\r\n\r\nUnlike text-to-video models, our world models generate frames conditioned on actions, enabling real-time interaction with any environment. Users can explore, manipulate objects, and shape their experience through natural gameplay.\r\n\r\nWe trained a model to emulate Minecraft that runs smoothly on consumer hardware (1B param model runs at 25fps on an nvidia 4090 gaming gpu while other Minecraft world models run at <3fps). Our advantage in speed comes from aggressive latent compression (128x) that allows us to encode every frame into only 15 tokens while others traditionally use 256.\r\n\r\nWe are now training on real-world footage and are building a general-purpose universe simulator to power the next generation of video games and reinforcement learning gyms for robotics.",
+    "one_liner": "Generative simulations powered by fast world models",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -9918,6 +9919,49 @@
     "api": "https://yc-oss.github.io/api/batches/w25/g-lnk.json"
   },
   {
+    "id": 30271,
+    "name": "Mundo AI",
+    "slug": "mundo-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/481df3fb069e9cdc3f77fcb47d799162fd2fd127.png",
+    "website": "https://mundoai.world",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI models are terrible in non-English languages because it's nearly impossible to find training data in other languages. So, we're building the world's largest and highest-quality multilingual data library.",
+    "one_liner": "High Quality Multilingual Training Data for AI Models",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1739847539,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mundo-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/mundo-ai.json"
+  },
+  {
     "id": 30296,
     "name": "Peppr AI",
     "slug": "peppr-ai",
@@ -9957,5 +10001,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/peppr-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/peppr-ai.json"
+  },
+  {
+    "id": 30298,
+    "name": "Artificial Societies",
+    "slug": "artificial-societies",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bd6ba915d4b288901694ddd2ae32010844f2ff6.png",
+    "website": "https://societies.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Artificial Societies uses AI to simulate human societies. Companies like Anthropic are using Artificial Societies to predict how their marketing and content will perform in a simulation of their target customers, before launching in the real world. \r\n\r\nThis is a cracked team: James left rural China at age 14, got into Cambridge, turned down a CS PhD to do startups, and - in his spare time - lead the largest ever study of an LLM society. James is joined by Patrick, an applied behavioural scientist who has run over 200 real-world experiments for businesses including Fortune 500 companies. \r\n\r\nWe joined forces through a shared frustration that no one really understands large scale human behaviours: traditional market research is not only slow and expensive, but fundamentally flawed - it misses how people influence each other. Humans are not isolated individuals, we are social animals.\r\n\r\nWe began by simulating 1,000 investors to test startup pitches, which we used ourselves to get into YC and secure pre-seed investment. Since releasing this publicly as “Wave”, startup founders have run over 3000 simulations, deploying over 2.6bn LLM tokens in the process. \r\n\r\nWe have since released \"Reach\", where anyone can simulate their own LinkedIn audience and test how their posts will perform before posting for real. Artificial Societies is doing for simulations what ChatGPT did for LLMs - making them accessible to everyone.\r\n\r\nAs AI advances, we will create representative models of entire human societies. Our vision is a world where all content, products, and policies are first simulated in an Artificial Society. We are on a mission to create Artificial Collective Intelligence - humans innovate in collectives, we want to scale collective innovation with ACI.",
+    "one_liner": "We use AI to simulate large groups of people and how they interact",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1739843143,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "SaaS",
+      "B2B",
+      "Market Research"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/artificial-societies",
+    "api": "https://yc-oss.github.io/api/batches/w25/artificial-societies.json"
   }
 ]
