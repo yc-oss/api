@@ -1464,11 +1464,11 @@
       "Clover Intelligence",
       "Voice Ops"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44ac30bb614305ce52fa98fc517bb853eae8d2ab.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e326734ce45c54c41f0c6a0f3e7509a5edb06d56.png",
     "website": "https://voiceops.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York, NY, USA",
     "long_description": "The richest data source about customers — their conversations — is the least accessible. Their mission is to provide easy access to customer conversations, and make voice data queryable. Their product analyzes the content of sales and support conversations and generates insights on phrases that maximize successful outcomes.",
-    "one_liner": "VoiceOps is a platform for analyzing enterprise voice. Our mission is…",
+    "one_liner": "AI that accurately captures the full depth of customer interactions —…",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -1479,7 +1479,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W17",
     "status": "Active",
@@ -1489,7 +1489,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -3408,7 +3410,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11010,6 +11012,49 @@
     "api": "https://yc-oss.github.io/api/batches/w22/curacel.json"
   },
   {
+    "id": 25712,
+    "name": "Finnt",
+    "slug": "finnt",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb6bd1190f4287a4028c8822c8ac5cf6da24fcd9.png",
+    "website": "https://finnt.com",
+    "all_locations": "",
+    "long_description": "Finnt AI Agents improve and accelerate Corporate Finance procedures in FP&A, Controllership, Accounting, Tax etc. \r\n",
+    "one_liner": "AI Agents for CFO and Finance teams",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1643292732,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Workflow Automation",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/finnt",
+    "api": "https://yc-oss.github.io/api/batches/w22/finnt.json"
+  },
+  {
     "id": 25714,
     "name": "Strong Compute",
     "slug": "strong-compute",
@@ -18302,7 +18347,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -23859,51 +23904,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/answergrid.json"
   },
   {
-    "id": 29695,
-    "name": "Dench",
-    "slug": "dench",
-    "former_names": [
-      "Merse",
-      "Merse Originals, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6569a817093d3fdfbb7ca4de921df904bb15d59.png",
-    "website": "https://dench.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our Voice AI Agent streamlines lead qualification for high-volume law firms, efficiently handling initial client screening.",
-    "one_liner": "AI Secretary to pre-qualify leads for law firms",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1720334032,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Legal",
-      "LegalTech",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dench",
-    "api": "https://yc-oss.github.io/api/batches/s24/dench.json"
-  },
-  {
     "id": 29704,
     "name": "Modus",
     "slug": "modus",
@@ -24846,7 +24846,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -25265,20 +25265,19 @@
     "slug": "vendra",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8045f80c2b2b1a1fc2929fceeae73b968063f35d.png",
-    "website": "https://vendra.io/",
+    "website": "https://vendra-marketplace.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vendra uses AI to automate project management and information lookup when working with vendors and suppliers - all with no change to existing workflows - letting hardware teams focus on building and shipping amazing products",
-    "one_liner": "AI copilot for hardware teams working with vendors",
+    "long_description": "Vendra Marketplace makes sourcing custom parts from US manufacturers effortless. Submit one RFQ and Vendra automates the entire sourcing process - matching you with the right suppliers, handling outreach, and collecting competitive quotes. Full transparency and no middleman markups - just smarter sourcing. \r\n\r\nVisit www.vendra-marketplace.io and submit an RFQ today!",
+    "one_liner": "Custom Parts, Manufactured in America 🇺🇸",
     "team_size": 2,
-    "industry": "B2B",
+    "industry": "Industrials",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724084407,
     "tags": [
       "Artificial Intelligence",
       "Hardware",
-      "SaaS",
-      "B2B",
-      "Collaboration"
+      "Manufacturing",
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25287,8 +25286,7 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Industrials"
     ],
     "regions": [
       "United States of America",
@@ -27332,47 +27330,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/quantstruct.json"
   },
   {
-    "id": 30176,
-    "name": "Trace",
-    "slug": "trace",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b378729fd84fc23dc6a2bc2f3d8add67f2d6c815.png",
-    "website": "http://tracetec.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We started Trace because we believe AI should wow customers, not frustrate them. As a result, we prioritize reliability and seamless customer interactions. \r\n\r\nTrace AI agents resolve calls end-to-end, securely integrating with bank systems and external APIs. So far, our agents handle quoting, application, and transaction tracking calls for our partners — but we’re still searching for new exciting use cases.\r\n\r\nQuestion to all fintechs/banks: Which customer requests keep coming back to you? We’d love to learn how you handle them now and if they are ripe for automation. ",
-    "one_liner": "Voice AI Customer Support for Financial Services",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1738662568,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Finance",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trace",
-    "api": "https://yc-oss.github.io/api/batches/w25/trace.json"
-  },
-  {
     "id": 30178,
     "name": "Candor",
     "slug": "candor",
@@ -27665,48 +27622,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/dartboard-energy.json"
   },
   {
-    "id": 30212,
-    "name": "superglue",
-    "slug": "superglue",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d8702327beeb6c4e9700c883d54481531ce4f3b.png",
-    "website": "https://superglue.cloud/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "superglue is an open-source tool that sits as a proxy in front of your API calls, automatically transforming data into exactly the format your system needs. Instead of writing custom code to map fields, handle different data structures, failure states and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
-    "one_liner": "a proxy server for automated data transformation",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1737761136,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/superglue",
-    "api": "https://yc-oss.github.io/api/batches/w25/superglue.json"
-  },
-  {
     "id": 30223,
     "name": "a0.dev",
     "slug": "a0-dev",
@@ -27789,6 +27704,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rally-3",
     "api": "https://yc-oss.github.io/api/batches/w25/rally-3.json"
+  },
+  {
+    "id": 30239,
+    "name": "Cardamon",
+    "slug": "cardamon",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3e4d26d964f7e9e8a081b6c3ec2ddad6bb65119.png",
+    "website": "https://cardamon.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cardamon is an AI powered platform that ingests relevant regulation, understands what applies to each regulated financial firm, and gets compliance officers from regulation, to obligations, to product requirements in minutes - not weeks.\r\n\r\nFinancial firms face a host of complex regulations that make it incredibly painful to launch and maintain products in a compliant way. As a Product team at Revolut, we felt this pain deeply ourselves - we had products ready to launch but stuck in compliance limbo, often for weeks. Turns out, getting compliant took as long as building the product itself. \r\n\r\nFrustrated, we dug in and were shocked by how manual and inefficient the processes were. That’s when it clicked: there’s a huge opportunity to automate the boring stuff (and solve our own problem!). Compliance teams win because they ditch the tedious tasks. Product teams win because they ship faster. Everyone’s happy.",
+    "one_liner": "Launch regulated products 10X faster by automating compliance",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1740009565,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Compliance",
+      "Regtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cardamon",
+    "api": "https://yc-oss.github.io/api/batches/w25/cardamon.json"
   },
   {
     "id": 30249,
@@ -28054,7 +28011,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/070d8df8755a600f5ecf800f273f60a2cfa54bb0.png",
     "website": "https://lucidic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic's Agentlytics provides tools for developers and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
+    "long_description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic AI provides tools for developers and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
     "one_liner": "See Your Agent's Mind at Work",
     "team_size": 3,
     "industry": "B2B",

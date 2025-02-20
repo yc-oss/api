@@ -394,10 +394,10 @@
     "subindustry": "B2B",
     "launched_at": 1738662568,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1102,17 +1102,17 @@
     "website": "https://www.astroenergy.ai/",
     "all_locations": "",
     "long_description": "Astro uses predictive models to identify and secure the best renewable energy sites, focusing on locations with minimal grid upgrade costs and high interconnection success rates. We streamline early-stage development to create shovel-ready projects for larger developers.",
-    "one_liner": "The world’s first AI-driven energy developer",
+    "one_liner": "The world’s first AI energy developer",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1739813505,
     "tags": [
       "Solar Power",
-      "Climate",
       "Energy",
       "Renewable Energy",
-      "ClimateTech"
+      "ClimateTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1346,17 +1346,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d8702327beeb6c4e9700c883d54481531ce4f3b.png",
     "website": "https://superglue.cloud/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "superglue is an open-source tool that sits as a proxy in front of your API calls, automatically transforming data into exactly the format your system needs. Instead of writing custom code to map fields, handle different data structures, failure states and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
-    "one_liner": "a proxy server for automated data transformation",
+    "long_description": "superglue is an open source data transformation tool. It sits in front of horrible legacy APIs and returns only the data you need in the format you expect. Instead of writing custom code to map fields, handle different data structures, failure states and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
+    "one_liner": "automated data transformation for APIs and CSVs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1737761136,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1891,6 +1891,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/amby-health.json"
   },
   {
+    "id": 30239,
+    "name": "Cardamon",
+    "slug": "cardamon",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3e4d26d964f7e9e8a081b6c3ec2ddad6bb65119.png",
+    "website": "https://cardamon.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cardamon is an AI powered platform that ingests relevant regulation, understands what applies to each regulated financial firm, and gets compliance officers from regulation, to obligations, to product requirements in minutes - not weeks.\r\n\r\nFinancial firms face a host of complex regulations that make it incredibly painful to launch and maintain products in a compliant way. As a Product team at Revolut, we felt this pain deeply ourselves - we had products ready to launch but stuck in compliance limbo, often for weeks. Turns out, getting compliant took as long as building the product itself. \r\n\r\nFrustrated, we dug in and were shocked by how manual and inefficient the processes were. That’s when it clicked: there’s a huge opportunity to automate the boring stuff (and solve our own problem!). Compliance teams win because they ditch the tedious tasks. Product teams win because they ship faster. Everyone’s happy.",
+    "one_liner": "Launch regulated products 10X faster by automating compliance",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1740009565,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Compliance",
+      "Regtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cardamon",
+    "api": "https://yc-oss.github.io/api/batches/w25/cardamon.json"
+  },
+  {
     "id": 30241,
     "name": "ZeroEntropy",
     "slug": "zeroentropy",
@@ -2236,7 +2278,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d697aae325b438e8efe22fac813dd20cbfeba514.png",
     "website": "https://finbar.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Global financial data, available seconds after release. Cleaned tabular & time series data from 1000s of companies, maintained by proprietary ML, NLP, and OCR techniques. Seamless integration: update your model in 3 clicks, within 5 minutes of publication.",
+    "long_description": "AI-powered financial data analysis. Used by several top-30 AUM hedge funds.",
     "one_liner": "AI-powered financial data & analysis",
     "team_size": 2,
     "industry": "Fintech",
@@ -2787,7 +2829,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/070d8df8755a600f5ecf800f273f60a2cfa54bb0.png",
     "website": "https://lucidic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic's Agentlytics provides tools for developers and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
+    "long_description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic AI provides tools for developers and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
     "one_liner": "See Your Agent's Mind at Work",
     "team_size": 3,
     "industry": "B2B",
@@ -3111,6 +3153,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/confident-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/confident-ai.json"
+  },
+  {
+    "id": 30284,
+    "name": "Exla",
+    "slug": "exla",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94cd00784e37842fc455ee2fd7b22d487b0693cf.png",
+    "website": "https://exla.ai/",
+    "all_locations": "",
+    "long_description": "Exla aggressively quantizes AI models to minimize memory usage and maximize inference speed. Whether you're deploying LLMs, VLMs, VLAs, or custom models, Exla reduces memory footprint by up to 80% and accelerates inference by 3–20x - all with just a few lines of code.",
+    "one_liner": "Bring data center models to the edge",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1740012412,
+    "tags": [
+      "Edge Computing Semiconductors",
+      "Computer Vision",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/exla",
+    "api": "https://yc-oss.github.io/api/batches/w25/exla.json"
   },
   {
     "id": 30285,
@@ -3457,7 +3539,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb918a1c2da0e7143351dc449810630e78b19bed.png",
     "website": "https://infinite.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Infinite is a stablecoin payment processor. We offer businesses turnkey APIs and SDKs to move money cross-border same-day with low fees, all without crypto complexity.",
+    "long_description": "Infinite is a stablecoin payment processor. We offer businesses turnkey APIs and SDKs to move money cross-border same-day and with low fees to over 150+ countries.",
     "one_liner": "Fast, affordable global B2B payments",
     "team_size": 3,
     "industry": "Fintech",
@@ -3999,6 +4081,45 @@
     "api": "https://yc-oss.github.io/api/batches/w25/pinch.json"
   },
   {
+    "id": 30315,
+    "name": "Optifye.ai",
+    "slug": "optifye-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d86ffdce2296389239f29bc23023bc7867815208.png",
+    "website": "https://www.optifye.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Optifye.ai is an AI powered performance monitoring system for factory workers. \r\n\r\nWe place cameras in assembly lines and use computer vision to tell supervisors who's working and who's not, in real-time.\r\n\r\nThe shop floor has historically been a blackbox. With Optifye, manufacturing companies can now accurately measure worker performance and boost assembly line efficiency.",
+    "one_liner": "AI Performance Monitoring For Factory Workers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1739567184,
+    "tags": [
+      "Computer Vision",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/optifye-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/optifye-ai.json"
+  },
+  {
     "id": 30316,
     "name": "Reditus Space",
     "slug": "reditus-space",
@@ -4497,6 +4618,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pig",
     "api": "https://yc-oss.github.io/api/batches/w25/pig.json"
+  },
+  {
+    "id": 30337,
+    "name": "Paratus Health",
+    "slug": "paratus-health",
+    "former_names": [
+      "Paratus"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcaf4d4e89631a63bee94c1af531a630ac0f1858.png",
+    "website": "https://paratushealth.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Paratus Health is an AI-powered intake nurse that automates pre-appointment patient interviews, saving doctors time and improving diagnostic accuracy. By conducting dynamic symptom assessments before the visit, it delivers a structured summary—helping doctors walk in prepared, reducing missed diagnoses, and increasing clinic efficiency. Designed to replace inefficient forms and costly triage calls, Paratus Health turns wasted waiting time into better care and higher ROI for providers.",
+    "one_liner": "Smarter than forms, cheaper than nurses—your AI-powered intake expert.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "B2B",
+    "launched_at": 1739954707,
+    "tags": [
+      "Health Tech",
+      "Digital Health"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/paratus-health",
+    "api": "https://yc-oss.github.io/api/batches/w25/paratus-health.json"
   },
   {
     "id": 30338,

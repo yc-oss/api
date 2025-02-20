@@ -563,14 +563,14 @@
   },
   {
     "id": 29568,
-    "name": "Augment Inc.",
-    "slug": "augment-inc",
+    "name": "Roger",
+    "slug": "roger-2",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2dd29ffe2522e7800121bcb01f33912523eb727.png",
     "website": "https://hireroger.com",
     "all_locations": "",
     "long_description": "💼 Augment builds AI-powered tools to automate company operations, starting with Roger—an intelligent CRM that acts as your AI-powered sales team. 💼\r\n\r\n🚀 Built by experienced founders and backed by Y Combinator, Augment is redefining sales automation with AI-driven workflows that handle prospecting, outreach, and deal management—so businesses can scale effortlessly.\r\n\r\nHow it Works – \r\n\r\nRoger, Your AI-Powered CRM\r\n\r\n📊 A CRM That Works for You\r\n\r\nUnlike traditional CRMs that require constant manual updates, Roger actively manages your sales pipeline. It tracks interactions, follows up with leads, and keeps your team focused on closing deals instead of admin work.\r\n\r\n🤖 AI-Powered Outreach & Engagement\r\n\r\nRoger automates lead generation and crafts personalized outreach messages across email, LinkedIn, and other channels. It continuously refines its approach based on engagement data to increase conversions.\r\n\r\n🎯 Smart Deal Management\r\n\r\nRoger qualifies leads, schedules follow-ups, and moves deals through your pipeline automatically. It ensures your team never drops the ball on a potential customer.\r\n\r\n📈 Seamless Integration & Insights\r\n\r\nRoger syncs with your existing tools, updating your sales data in real-time. AI-powered analytics provide actionable insights, helping teams optimize sales strategies. By automating tedious sales tasks and making CRM proactive instead of passive, Roger turns AI into your most efficient sales teammate—helping businesses close more deals, faster.",
-    "one_liner": "Augment automates business roles like sales and accounting with AI.",
+    "one_liner": "Roger is an AI SDR that automates outbound sales and follows up 24/7.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Fintech",
@@ -594,8 +594,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/augment-inc",
-    "api": "https://yc-oss.github.io/api/batches/s24/augment-inc.json"
+    "url": "https://www.ycombinator.com/companies/roger-2",
+    "api": "https://yc-oss.github.io/api/batches/s24/roger-2.json"
   },
   {
     "id": 29569,
@@ -3821,8 +3821,8 @@
   },
   {
     "id": 29695,
-    "name": "Dench",
-    "slug": "dench",
+    "name": "Dench.com",
+    "slug": "dench-com",
     "former_names": [
       "Merse",
       "Merse Originals, Inc."
@@ -3837,10 +3837,10 @@
     "subindustry": "Consumer",
     "launched_at": 1720334032,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Legal",
       "LegalTech",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -3861,8 +3861,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dench",
-    "api": "https://yc-oss.github.io/api/batches/s24/dench.json"
+    "url": "https://www.ycombinator.com/companies/dench-com",
+    "api": "https://yc-oss.github.io/api/batches/s24/dench-com.json"
   },
   {
     "id": 29697,
@@ -3966,7 +3966,7 @@
     "website": "https://www.runpulse.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pulse converts complex information into LLM-ready inputs. Our API supports all document formats, from PDFs to Word, Excel, etc. Pulse integrates seamlessly with any existing data pipeline in minutes without any training or complexity. ",
-    "one_liner": "Production-Grade Unstructured Document Extraction",
+    "one_liner": "Production-grade unstructured document extraction",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -6863,7 +6863,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -8127,20 +8127,19 @@
     "slug": "vendra",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8045f80c2b2b1a1fc2929fceeae73b968063f35d.png",
-    "website": "https://vendra.io/",
+    "website": "https://vendra-marketplace.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vendra uses AI to automate project management and information lookup when working with vendors and suppliers - all with no change to existing workflows - letting hardware teams focus on building and shipping amazing products",
-    "one_liner": "AI copilot for hardware teams working with vendors",
+    "long_description": "Vendra Marketplace makes sourcing custom parts from US manufacturers effortless. Submit one RFQ and Vendra automates the entire sourcing process - matching you with the right suppliers, handling outreach, and collecting competitive quotes. Full transparency and no middleman markups - just smarter sourcing. \r\n\r\nVisit www.vendra-marketplace.io and submit an RFQ today!",
+    "one_liner": "Custom Parts, Manufactured in America 🇺🇸",
     "team_size": 2,
-    "industry": "B2B",
+    "industry": "Industrials",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1724084407,
     "tags": [
       "Artificial Intelligence",
       "Hardware",
-      "SaaS",
-      "B2B",
-      "Collaboration"
+      "Manufacturing",
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8149,8 +8148,7 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Industrials"
     ],
     "regions": [
       "United States of America",
@@ -8331,20 +8329,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5fa8b0b52753fce8ae0550cd99d622ad6ab9496.png",
     "website": "https://www.omnidock.com",
-    "all_locations": "Berlin, Berlin, Germany",
+    "all_locations": "",
     "long_description": "Expanding to other geographies and marketplaces is a massive growth lever for brands and manufacturers, but it’s complex and resource-intensive.\r\n\r\nOmnidock makes it effortless for merchants to sell on multiple marketplaces by acting as their merchant of record. \r\n\r\nBrands simply plug into our operating system, which reads their catalog, assesses marketplace eligibility, and auto-launches their products through our pre-vetted marketplace accounts. We handle all transactions on their behalf, removing the challenges and complexities of multi-marketplace selling",
     "one_liner": "OS for global e-commerce expansion of brands & manufacturers",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1723790505,
-    "tags": [
-      "B2B",
-      "E-commerce"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -8353,8 +8348,7 @@
       "Operations"
     ],
     "regions": [
-      "Germany",
-      "Europe"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
