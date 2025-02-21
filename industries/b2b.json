@@ -5195,7 +5195,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S08",
     "status": "Active",
@@ -22704,9 +22704,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1493860914,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36652,7 +36652,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W20",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Operations"
@@ -36663,7 +36663,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -61533,7 +61533,8 @@
     "name": "Castled.io",
     "slug": "castled-io",
     "former_names": [
-      "Castled"
+      "Castled",
+      "Castled Data"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a415f42fd3d3ae124e10f5ef086446cbfc36c4ec.png",
     "website": "https://castled.io/",
@@ -61542,7 +61543,7 @@
     "one_liner": "Customer Engagement software on top of BigQuery/Snowflake",
     "team_size": 8,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1639493587,
     "tags": [
       "SaaS"
@@ -61552,7 +61553,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Marketing"
@@ -61625,7 +61626,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d33f8249b3bdf459257e46d019d4e6687e56a9c0.png",
     "website": "https://www.emobi.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Emobi is the leading EV charging digital infrastructure that offers a single point of legal, financial, and technical integration, empowering EV automakers and fleets with secure, reliable, and seamless charging across networks, while maximizing charger utilization. The company also enables JustPlug and Plug & Charge: secure and fully-automated charging technology.\r\n\r\nTo learn more, visit www.emobi.ai.\r\n",
+    "long_description": "Emobi is a unified legal, financial, and technical infrastructure that delivers seamless, secure, and reliable EV charging across networks—powering apps, fleets, and automakers while maximizing charger utilization. Our secure, fully automated charging technology, JustPlug, works instantly with no special hardware, software, or setup, making EV charging effortless.\r\n\r\nWith 122,000+ EV chargers integrated across the U.S. and Canada, Emobi is recognized as the largest EV charging ecosystem in North America. Backed by two provisional patents and 15+ enterprise customers, Emobi's technology is also trusted by the Department of Energy (DoE) and the Department of Transportation (DoT). To learn more, visit www.emobi.ai.",
     "one_liner": "A single point integration for secure and automated EV charging.",
     "team_size": 9,
     "industry": "B2B",
@@ -75319,11 +75320,12 @@
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -79632,14 +79634,14 @@
   },
   {
     "id": 28412,
-    "name": "SpeedyBrand",
-    "slug": "speedybrand",
+    "name": "Speedy Labs",
+    "slug": "speedy-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0411b685c297834944f38c4af4578bf836b3e82e.png",
-    "website": "https://speedybrand.io",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/621b935d9e98b45293833804f8d64d9f43348ad6.png",
+    "website": "https://speedylabs.ai/",
     "all_locations": "Remote",
-    "long_description": "SpeedyBrand provides SMBs with generative-AI powered marketing content that is effective and affordable. We achieve this by training custom AI models for individual businesses to create hyper-personalized marketing content that gets them more business leads.\r\n\r\nWe are 3 AI engineers who've shipped AI products at companies like Apple, Microsoft and Nextdoor. We previously founded Vetan — an SMB payroll company where we served over 30k SMBs.",
-    "one_liner": "Generative-AI powered Marketing Content for SMBs",
+    "long_description": "Speedy Labs helps manufacturers and distributors ditch error-prone spreadsheets that cost them millions in missed rebate opportunities for an AI-powered solution that not only tracks rebate payments and their performance but also unlocks insights from their financial data silos that uplifts their bottom-line profit margins.\r\n\r\n$1 trillion worth of rebates are exchanged every year in North America alone.",
+    "one_liner": "Maximize profits with AI-powered rebate management.",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -79653,7 +79655,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Marketing"
+      "Finance and Accounting"
     ],
     "regions": [
       "Remote",
@@ -79664,8 +79666,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/speedybrand",
-    "api": "https://yc-oss.github.io/api/batches/w23/speedybrand.json"
+    "url": "https://www.ycombinator.com/companies/speedy-labs",
+    "api": "https://yc-oss.github.io/api/batches/w23/speedy-labs.json"
   },
   {
     "id": 28413,
@@ -84932,11 +84934,11 @@
     "subindustry": "B2B",
     "launched_at": 1689840885,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Sales"
+      "Sales",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -86636,7 +86638,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -86658,15 +86660,15 @@
   },
   {
     "id": 29201,
-    "name": "Leya",
-    "slug": "leya",
+    "name": "Legora (formerly Leya)",
+    "slug": "legora",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c032b59ff3abc91c5c4d56d6a49ada79fc68de09.png",
-    "website": "https://www.leya.law/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c07116a743e8d35ce903cd8f6eb5d04b07833e7.png",
+    "website": "https://www.legora.com/",
     "all_locations": "Stockholm, Stockholm County, Sweden",
-    "long_description": "Leya is an AI-powered workspace for law firms and legal professionals. \r\n\r\nLeya lets lawyers automate their repetitive tasks and access public sources and their own data on one single platform.\r\n\r\nLearn more at https://www.leya.law/",
+    "long_description": "Legora is an AI-powered workspace for law firms and legal professionals. \r\n\r\nLegora lets lawyers automate their repetitive tasks and access public sources and their own data on one single platform.\r\n\r\nLearn more at https://www.legora.com/",
     "one_liner": "The AI workspace for lawyers",
-    "team_size": 12,
+    "team_size": 65,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1695641655,
@@ -86696,8 +86698,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/leya",
-    "api": "https://yc-oss.github.io/api/batches/w24/leya.json"
+    "url": "https://www.ycombinator.com/companies/legora",
+    "api": "https://yc-oss.github.io/api/batches/w24/legora.json"
   },
   {
     "id": 29206,
@@ -87166,8 +87168,8 @@
     "website": "https://reducto.ai",
     "all_locations": "",
     "long_description": "Reducto offers robust and reliable document ingestion for any workflow. Our API allows you to convert complex, unstructured documents into structured outputs that are perfect for RAG, process automation, and more. ",
-    "one_liner": "The most accurate way to parse complex documents",
-    "team_size": 8,
+    "one_liner": "The most accurate way to parse documents",
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1704664395,
@@ -90763,8 +90765,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8778b22211636a64dbe5a5a1808ef49e63ed7613.png",
     "website": "https://voicepanel.com",
     "all_locations": "",
-    "long_description": "We use AI to help product teams gather customer feedback over chat, voice, or video.",
-    "one_liner": "Customer research on autopilot",
+    "long_description": "Effortlessly collect feedback on your products over chat, voice, or video.",
+    "one_liner": "Product feedback on autopilot",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -93335,7 +93337,7 @@
     "name": "Roger",
     "slug": "roger-2",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2dd29ffe2522e7800121bcb01f33912523eb727.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed7adf2496c4443a8cb1ccf4a4aba4e346b8d33c.png",
     "website": "https://hireroger.com",
     "all_locations": "",
     "long_description": "💼 Augment builds AI-powered tools to automate company operations, starting with Roger—an intelligent CRM that acts as your AI-powered sales team. 💼\r\n\r\n🚀 Built by experienced founders and backed by Y Combinator, Augment is redefining sales automation with AI-driven workflows that handle prospecting, outreach, and deal management—so businesses can scale effortlessly.\r\n\r\nHow it Works – \r\n\r\nRoger, Your AI-Powered CRM\r\n\r\n📊 A CRM That Works for You\r\n\r\nUnlike traditional CRMs that require constant manual updates, Roger actively manages your sales pipeline. It tracks interactions, follows up with leads, and keeps your team focused on closing deals instead of admin work.\r\n\r\n🤖 AI-Powered Outreach & Engagement\r\n\r\nRoger automates lead generation and crafts personalized outreach messages across email, LinkedIn, and other channels. It continuously refines its approach based on engagement data to increase conversions.\r\n\r\n🎯 Smart Deal Management\r\n\r\nRoger qualifies leads, schedules follow-ups, and moves deals through your pipeline automatically. It ensures your team never drops the ball on a potential customer.\r\n\r\n📈 Seamless Integration & Insights\r\n\r\nRoger syncs with your existing tools, updating your sales data in real-time. AI-powered analytics provide actionable insights, helping teams optimize sales strategies. By automating tedious sales tasks and making CRM proactive instead of passive, Roger turns AI into your most efficient sales teammate—helping businesses close more deals, faster.",
@@ -95657,6 +95659,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gauge",
     "api": "https://yc-oss.github.io/api/batches/s24/gauge.json"
+  },
+  {
+    "id": 29695,
+    "name": "Dench.com",
+    "slug": "dench-com",
+    "former_names": [
+      "Merse",
+      "Merse Originals, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6569a817093d3fdfbb7ca4de921df904bb15d59.png",
+    "website": "https://dench.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dench.com is an AI Intake Specialist Platform that take calls from prospective clients, talks to them, vets them, conflict checks, does follow-ups and books an appointment, or it forwards the call to a human after client pre-qualification.\r\n\r\nWe convert rejected cases into paid referrals through our referral network, to land law firms  huge profits over “wasted” leads.\r\n\r\nFor a simple demo, try calling (415) 997-2939 as someone with any legal dispute, property or other variety of issues you can possibly imagine.",
+    "one_liner": "AI Secretary to pre-qualify leads for law firms",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1720334032,
+    "tags": [
+      "B2B",
+      "Legal",
+      "LegalTech",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dench-com",
+    "api": "https://yc-oss.github.io/api/batches/s24/dench-com.json"
   },
   {
     "id": 29697,
@@ -98598,13 +98646,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sepal AI works with the world’s leading experts for developing advanced capability training data, expert annotations, and bespoke model evaluations. \r\n\r\nOur team comes from Turing, Vercel, McKinsey, and Bain. At Turing, we built the LLM training business and products to support $100+M revenue for companies like OpenAI, Google, and Anthropic.\r\n\r\nWe learned that data development for advanced AI use cases is more complex and has unique needs different from traditional label generation \r\n\r\nFoundational AI companies and large enterprises that we worked with, like OpenAI, PepsiCo, and Johnson &Johnson, don't have the data they need to train models to produce value for highly technical use cases. Which means they’re not going to unlock the value from AI without a partner.\r\n\r\nWe are working with the most influential companies of our time to develop models and systems that extend human knowledge and capabilities.\r\n",
     "one_liner": "Data Development for Advanced AI",
-    "team_size": 3,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1722966351,
     "tags": [
-      "Data Labeling",
-      "AI"
+      "Artificial Intelligence",
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -101145,21 +101193,21 @@
   },
   {
     "id": 30047,
-    "name": "Lune AI",
-    "slug": "lune-ai",
+    "name": "Lune",
+    "slug": "lune",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc91afadd07f2a2caade9c12e1a24853766b16b.png",
     "website": "https://www.lune.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "A replacement to standard LLMs for coding tasks - eliminate hallucinations with a marketplace of expert LLMs trained on hundreds of technical topics.",
-    "one_liner": "Better GPT and Claude for coding",
+    "long_description": "A modern agent-human hybrid developer platform. Ask a technical question, get instant answers from both humans and AI agents that read docs, code bases, and more.",
+    "one_liner": "Where devs go to get instant answers from agents and humans.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1731874326,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -101180,8 +101228,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lune-ai",
-    "api": "https://yc-oss.github.io/api/batches/f24/lune-ai.json"
+    "url": "https://www.ycombinator.com/companies/lune",
+    "api": "https://yc-oss.github.io/api/batches/f24/lune.json"
   },
   {
     "id": 30050,
@@ -102870,8 +102918,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b42d30fcf2efbb0bfe113b07b366491f53e57d04.png",
     "website": "https://subimage.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "SubImage builds maps of your cloud environment to give you visibility on what assets you have and how they relate to each other. This enables any security team to deeply understand their environments and reduce risk.\r\n\r\nSubImage is a managed offering built around the Cartography open-source project, and is founded by members of Cartography's original team.",
-    "one_liner": "See your infra from an attacker's perspective",
+    "long_description": "SubImage builds maps of your infrastructure to give you visibility on what assets you have and how they relate to each other. This enables any security team to deeply understand their environments and reduce risk.\r\n\r\nSubImage is a managed offering built around the Cartography open-source project, and is founded by members of Cartography's original team.",
+    "one_liner": "Software that maps your infrastructure. Open core alternative to Wiz",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -103112,6 +103160,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/superglue",
     "api": "https://yc-oss.github.io/api/batches/w25/superglue.json"
+  },
+  {
+    "id": 30215,
+    "name": "Contrario",
+    "slug": "contrario",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d28f487260593082101d049c62573937f376006a.png",
+    "website": "https://contrario.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Contrario helps companies hire top engineers faster by identifying and screening high-quality candidates. Their platform leverages proprietary AI to identify job seekers from an elite talent pool (Stanford, MIT, Palantir, OpenAI, etc.) who match your hiring needs. Their voice agents conduct customized interviews that evaluate your candidates’ abilities to use AI in real-world coding challenges. With Contrario, your company only interviews pre-vetted engineers that will 10x your company’s growth.",
+    "one_liner": "Contrario: AI to source and screen 10x engineers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1740035301,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "Recruiting",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/contrario",
+    "api": "https://yc-oss.github.io/api/batches/w25/contrario.json"
   },
   {
     "id": 30217,
@@ -103704,6 +103794,47 @@
     "api": "https://yc-oss.github.io/api/batches/w25/cuckoo-labs.json"
   },
   {
+    "id": 30255,
+    "name": "Olive",
+    "slug": "olive",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/544faf85c3fb3b0e5acf3a985a6a1ce535df4377.png",
+    "website": "https://fromolive.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Olive connects to your database & third party services to help you build admin dashboards and support tools in minutes.",
+    "one_liner": "Build internal tools for your database with natural language.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1740018718,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/olive",
+    "api": "https://yc-oss.github.io/api/batches/w25/olive.json"
+  },
+  {
     "id": 30258,
     "name": "Gale",
     "slug": "gale",
@@ -104001,6 +104132,49 @@
     "api": "https://yc-oss.github.io/api/batches/w25/lucidic-ai.json"
   },
   {
+    "id": 30273,
+    "name": "Sophris",
+    "slug": "sophris",
+    "former_names": [
+      "Physion Works"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccbd10e35f28216ba78163cf07bc50fb82f1e0cf.png",
+    "website": "https://sophris.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sophris is your AI “engineer” for circuit board schematics, checking for errors—pin mismatches, connectivity gaps, or voltage conflicts—long before they derail your design. By flagging potential issues early, you can fix them ahead of production and avoid the frustrating re-spins that drive up costs and delay schedules.\r\n\r\nWhile traditional EDA tools offer basic ERC and DRC checks—like net connectivity and spacing—they don't dig deeply into component datasheets. Sophris takes it further, analyzing specs and cross-referencing design requirements from multiple sources. As a result, subtle pin misconfigurations, voltage mismatches, and datasheet-specific quirks that typical rule checks might miss are brought to light.\r\n\r\nBy identifying design flaws during the schematic phase, Sophris helps you iterate confidently and deliver more reliable products. Faster turnarounds, fewer production surprises, and a smoother path from concept to manufacturing. With Sophris, design more confidently and ship more reliably.",
+    "one_liner": "AI Engineer for Circuit Board Schematic Reviews",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1740017526,
+    "tags": [
+      "Artificial Intelligence",
+      "Design Tools",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sophris",
+    "api": "https://yc-oss.github.io/api/batches/w25/sophris.json"
+  },
+  {
     "id": 30274,
     "name": "Trata",
     "slug": "trata",
@@ -104164,6 +104338,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rejot",
     "api": "https://yc-oss.github.io/api/batches/w25/rejot.json"
+  },
+  {
+    "id": 30278,
+    "name": "Agentin AI",
+    "slug": "agentin-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da9bdd65896a691965e96e56efdfaa0880fcac0e.png",
+    "website": "https://www.agentin.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Agentin AI, we build Agents that move data and take actions across enterprise systems, like Salesforce and SAP. These agents are difficult to build because each enterprise heavily customizes their systems but we solved that by training our Agents to learn and adapt from failures, applying reinforcement learning techniques we developed.",
+    "one_liner": "AI Agents to automate Order to Cash",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1740032946,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agentin-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/agentin-ai.json"
   },
   {
     "id": 30282,
@@ -104719,9 +104933,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d86ffdce2296389239f29bc23023bc7867815208.png",
     "website": "https://www.optifye.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Optifye.ai is an AI powered performance monitoring system for factory workers. \r\n\r\nWe place cameras in assembly lines and use computer vision to tell supervisors who's working and who's not, in real-time.\r\n\r\nThe shop floor has historically been a blackbox. With Optifye, manufacturing companies can now accurately measure worker performance and boost assembly line efficiency.",
+    "long_description": "Optifye.ai is an AI powered performance monitoring system for factory workers. \r\n\r\nWe place cameras in assembly lines and use computer vision to tell supervisors who's working and who's not, in real-time.\r\n\r\nThe shop floor has historically been a blackbox. With Optifye, manufacturing companies can now accurately measure worker output and take decisions that boost line efficiency up to 30%.",
     "one_liner": "AI Performance Monitoring For Factory Workers",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1739567184,
@@ -104740,7 +104954,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -104973,16 +105189,16 @@
     "website": "https://dalus.io",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dalus is an AI-powered systems engineering software to model/validate complex systems for aerospace/defense/robotics and other mission-critical industries. \r\n\r\nWith Dalus, engineers can seamlessly trace requirements, perform analyses, and update information in real-time. This ensures that every team member stays aligned and informed, reducing inefficiencies and enabling faster iterations. \r\n\r\nWith AI at our core, users can analyze hundreds of pages of existing engineering documentation and requirements to generate or retrieve information about the system model they are building in Dalus.\r\n\r\nWe started working together on Dalus in spring 2024 after Eliot quit his job at Aerojet Rocketdyne (L3Harris) where he worked as a test/systems engineer. He experienced first-hand how silos and poor communication reduced the productivity and efficiencies in the teams he worked at.\r\n\r\nWe love working with companies tackling complex engineering systems, whether they be startups just getting their feet wet or large organizations like Israel Aerospace Industries (Our design partner and biggest aerospace/defense company from Israel)\r\n\r\nRead why we started Dalus: https://dalus.io/articles/why-dalus",
-    "one_liner": "AI-powered hardware system design software",
+    "one_liner": "AI-powered design software for mission critical hardware",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736994368,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Aerospace",
-      "AI"
+      "Aerospace"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -105350,7 +105566,7 @@
     "name": "SAMMY Labs",
     "slug": "sammy-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d1b25deab159af3f02ba906ec516f86f2c3ac17.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bdb570c43e3c58161a904790b035ac6647153c9.png",
     "website": "https://www.sammylabs.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SAMMY is an Al that explores your app like a real user, mapping every possible click to generate content, onboard users and spot issues. It updates automatically with every product change, keeping everything running smoothly. It may feel like magic, but it’s just powerful technology at work.",

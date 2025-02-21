@@ -566,7 +566,7 @@
     "name": "Roger",
     "slug": "roger-2",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2dd29ffe2522e7800121bcb01f33912523eb727.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed7adf2496c4443a8cb1ccf4a4aba4e346b8d33c.png",
     "website": "https://hireroger.com",
     "all_locations": "",
     "long_description": "💼 Augment builds AI-powered tools to automate company operations, starting with Roger—an intelligent CRM that acts as your AI-powered sales team. 💼\r\n\r\n🚀 Built by experienced founders and backed by Y Combinator, Augment is redefining sales automation with AI-driven workflows that handle prospecting, outreach, and deal management—so businesses can scale effortlessly.\r\n\r\nHow it Works – \r\n\r\nRoger, Your AI-Powered CRM\r\n\r\n📊 A CRM That Works for You\r\n\r\nUnlike traditional CRMs that require constant manual updates, Roger actively manages your sales pipeline. It tracks interactions, follows up with leads, and keeps your team focused on closing deals instead of admin work.\r\n\r\n🤖 AI-Powered Outreach & Engagement\r\n\r\nRoger automates lead generation and crafts personalized outreach messages across email, LinkedIn, and other channels. It continuously refines its approach based on engagement data to increase conversions.\r\n\r\n🎯 Smart Deal Management\r\n\r\nRoger qualifies leads, schedules follow-ups, and moves deals through your pipeline automatically. It ensures your team never drops the ball on a potential customer.\r\n\r\n📈 Seamless Integration & Insights\r\n\r\nRoger syncs with your existing tools, updating your sales data in real-time. AI-powered analytics provide actionable insights, helping teams optimize sales strategies. By automating tedious sales tasks and making CRM proactive instead of passive, Roger turns AI into your most efficient sales teammate—helping businesses close more deals, faster.",
@@ -3830,10 +3830,10 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6569a817093d3fdfbb7ca4de921df904bb15d59.png",
     "website": "https://dench.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our Voice AI Agent streamlines lead qualification for high-volume law firms, efficiently handling initial client screening.",
+    "long_description": "Dench.com is an AI Intake Specialist Platform that take calls from prospective clients, talks to them, vets them, conflict checks, does follow-ups and books an appointment, or it forwards the call to a human after client pre-qualification.\r\n\r\nWe convert rejected cases into paid referrals through our referral network, to land law firms  huge profits over “wasted” leads.\r\n\r\nFor a simple demo, try calling (415) 997-2939 as someone with any legal dispute, property or other variety of issues you can possibly imagine.",
     "one_liner": "AI Secretary to pre-qualify leads for law firms",
     "team_size": 2,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1720334032,
     "tags": [
@@ -3850,7 +3850,8 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Legal"
     ],
     "regions": [
       "United States of America",
@@ -6755,25 +6756,19 @@
     "former_names": [
       "Exa Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a856b1c6b22cb0117e3f843abca70d239c77524.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5fd53eea76198c06d20822dbe619ea2c841e00c.png",
     "website": "https://exalaboratories.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Exa is making reconfigurable chips for AI, offering superior speed and energy efficiency compared to traditional GPUs/TPUs/LPUs.\r\n\r\nOur chips automatically adapt themselves to each specific AI model, overcoming the von Neumann bottleneck, (a common limitation in standard systems). By optimizing for each AI architecture, we significantly boost both inference and training speeds while reducing energy consumption.\r\n\r\nImagine having hardware tailored to your AI model, whilst still maintaining the flexibility of a GPU. This way, you won't need to re-manufacture your hardware each time you change your model architecture, all while still benefiting from the speed and efficiency of specialized hardware, saving data centers and compute clusters hundreds of millions of dollars every year!",
+    "all_locations": "",
+    "long_description": "Exa is building energy-efficient chips (\"XPUs\") for AI training and inference, offering superior speed and energy efficiency compared to traditional GPUs and TPUs.\r\n\r\nOur XPUs are reconfigurable, capable of optimizing the dataflow of each model, making them faster and more energy-efficient than the current SOTA chips on the market. This saves data centers *billions* in cooling and energy costs.",
     "one_liner": "Energy efficient chips for AI",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1722631140,
-    "tags": [
-      "Hard Tech",
-      "Hardware",
-      "Machine Learning",
-      "Semiconductors",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -6781,8 +6776,7 @@
       "Industrials"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -8461,13 +8455,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sepal AI works with the world’s leading experts for developing advanced capability training data, expert annotations, and bespoke model evaluations. \r\n\r\nOur team comes from Turing, Vercel, McKinsey, and Bain. At Turing, we built the LLM training business and products to support $100+M revenue for companies like OpenAI, Google, and Anthropic.\r\n\r\nWe learned that data development for advanced AI use cases is more complex and has unique needs different from traditional label generation \r\n\r\nFoundational AI companies and large enterprises that we worked with, like OpenAI, PepsiCo, and Johnson &Johnson, don't have the data they need to train models to produce value for highly technical use cases. Which means they’re not going to unlock the value from AI without a partner.\r\n\r\nWe are working with the most influential companies of our time to develop models and systems that extend human knowledge and capabilities.\r\n",
     "one_liner": "Data Development for Advanced AI",
-    "team_size": 3,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1722966351,
     "tags": [
-      "Data Labeling",
-      "AI"
+      "Artificial Intelligence",
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10625,16 +10619,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
     "website": "https://www.syntra.com",
     "all_locations": "",
-    "long_description": "Syntra is the all-in-one solution for private practice doctors. Our operating system includes a personalized EHR that automates administrative tasks for doctors, such as patient intake, scribing, billing, and inventory management. \r\n\r\nPractices are switching off of solutions they have used for over a decade, calling Syntra \"the only solution that doesn’t need to be managed.”",
-    "one_liner": "AI OS for Private Practice Doctors",
-    "team_size": 2,
+    "long_description": "We store patient charts and automate back office operations like billing, patient intake, prior auths, and scribing for our clinics. We sell our solutions independently or as a fully-integrated EHR and practice management system.",
+    "one_liner": "Automate back-office operations for outpatient clinics and ASCs.",
+    "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",

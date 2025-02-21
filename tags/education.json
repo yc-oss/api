@@ -2421,7 +2421,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W17",
     "status": "Active",
@@ -4160,8 +4160,8 @@
   },
   {
     "id": 19888,
-    "name": "Altro",
-    "slug": "perch-credit",
+    "name": "Altro (Acquired)",
+    "slug": "altro-acquired",
     "former_names": [
       "Hatch Credit",
       "Perch (Formerly Hatch Credit)",
@@ -4199,12 +4199,12 @@
       "Fully Remote"
     ],
     "stage": "Growth",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": null,
+    "app_answers": true,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/perch-credit",
-    "api": "https://yc-oss.github.io/api/batches/s20/perch-credit.json"
+    "url": "https://www.ycombinator.com/companies/altro-acquired",
+    "api": "https://yc-oss.github.io/api/batches/s20/altro-acquired.json"
   },
   {
     "id": 21827,
@@ -7351,11 +7351,11 @@
     "subindustry": "Education",
     "launched_at": 1739904496,
     "tags": [
+      "AI-Enhanced Learning",
       "Education",
       "Generative AI",
       "SaaS",
-      "Video",
-      "Edtech"
+      "Video"
     ],
     "tags_highlighted": [],
     "top_company": false,

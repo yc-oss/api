@@ -259,36 +259,35 @@
     "api": "https://yc-oss.github.io/api/batches/s24/conductor-quantum.json"
   },
   {
-    "id": 29777,
-    "name": "Exa Laboratories",
-    "slug": "exa-laboratories",
+    "id": 30233,
+    "name": "Inversion Semiconductor",
+    "slug": "inversion-semiconductor",
     "former_names": [
-      "Exa Labs"
+      "Axiom Semiconductor Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a856b1c6b22cb0117e3f843abca70d239c77524.png",
-    "website": "https://exalaboratories.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8f65cc20ede5375e5fb2b79c8dcf6d37b04f4c2.png",
+    "website": "https://www.inversionsemi.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Exa is making reconfigurable chips for AI, offering superior speed and energy efficiency compared to traditional GPUs/TPUs/LPUs.\r\n\r\nOur chips automatically adapt themselves to each specific AI model, overcoming the von Neumann bottleneck, (a common limitation in standard systems). By optimizing for each AI architecture, we significantly boost both inference and training speeds while reducing energy consumption.\r\n\r\nImagine having hardware tailored to your AI model, whilst still maintaining the flexibility of a GPU. This way, you won't need to re-manufacture your hardware each time you change your model architecture, all while still benefiting from the speed and efficiency of specialized hardware, saving data centers and compute clusters hundreds of millions of dollars every year!",
-    "one_liner": "Energy efficient chips for AI",
+    "long_description": "Inversion Semiconductor is developing the next-generation chip fabrication machine, to create the most powerful chips 15x faster. Our vision is to reshore advanced chip fabrication capabilities in the West.\r\n\r\nWe're building a lithography machine. Lithography uses light to pattern circuit features on silicon. We're scaling transistors to their physical limits by shrinking particle accelerators 1000x, to create a high power light source. \r\n\r\nUsing our light source we will double transistor density for a given numerical aperture and 3x throughput.",
+    "one_liner": "Manufacturing the most powerful chips, 15x faster",
     "team_size": 2,
     "industry": "Industrials",
-    "subindustry": "Industrials",
-    "launched_at": 1722631140,
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1740019402,
     "tags": [
-      "Hard Tech",
       "Hardware",
-      "Machine Learning",
-      "Semiconductors",
-      "AI"
+      "Manufacturing",
+      "Semiconductors"
     ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "S24",
+    "batch": "W25",
     "status": "Active",
     "industries": [
-      "Industrials"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -298,8 +297,8 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/exa-laboratories",
-    "api": "https://yc-oss.github.io/api/batches/s24/exa-laboratories.json"
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inversion-semiconductor",
+    "api": "https://yc-oss.github.io/api/batches/w25/inversion-semiconductor.json"
   }
 ]

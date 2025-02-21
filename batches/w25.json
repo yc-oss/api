@@ -766,8 +766,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b42d30fcf2efbb0bfe113b07b366491f53e57d04.png",
     "website": "https://subimage.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "SubImage builds maps of your cloud environment to give you visibility on what assets you have and how they relate to each other. This enables any security team to deeply understand their environments and reduce risk.\r\n\r\nSubImage is a managed offering built around the Cartography open-source project, and is founded by members of Cartography's original team.",
-    "one_liner": "See your infra from an attacker's perspective",
+    "long_description": "SubImage builds maps of your infrastructure to give you visibility on what assets you have and how they relate to each other. This enables any security team to deeply understand their environments and reduce risk.\r\n\r\nSubImage is a managed offering built around the Cartography open-source project, and is founded by members of Cartography's original team.",
+    "one_liner": "Software that maps your infrastructure. Open core alternative to Wiz",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -1381,6 +1381,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/superglue.json"
   },
   {
+    "id": 30215,
+    "name": "Contrario",
+    "slug": "contrario",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d28f487260593082101d049c62573937f376006a.png",
+    "website": "https://contrario.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Contrario helps companies hire top engineers faster by identifying and screening high-quality candidates. Their platform leverages proprietary AI to identify job seekers from an elite talent pool (Stanford, MIT, Palantir, OpenAI, etc.) who match your hiring needs. Their voice agents conduct customized interviews that evaluate your candidates’ abilities to use AI in real-world coding challenges. With Contrario, your company only interviews pre-vetted engineers that will 10x your company’s growth.",
+    "one_liner": "Contrario: AI to source and screen 10x engineers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1740035301,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "Recruiting",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/contrario",
+    "api": "https://yc-oss.github.io/api/batches/w25/contrario.json"
+  },
+  {
     "id": 30217,
     "name": "Rocketable",
     "slug": "rocketable",
@@ -1765,6 +1807,49 @@
     "api": "https://yc-oss.github.io/api/batches/w25/sift-dev.json"
   },
   {
+    "id": 30233,
+    "name": "Inversion Semiconductor",
+    "slug": "inversion-semiconductor",
+    "former_names": [
+      "Axiom Semiconductor Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8f65cc20ede5375e5fb2b79c8dcf6d37b04f4c2.png",
+    "website": "https://www.inversionsemi.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Inversion Semiconductor is developing the next-generation chip fabrication machine, to create the most powerful chips 15x faster. Our vision is to reshore advanced chip fabrication capabilities in the West.\r\n\r\nWe're building a lithography machine. Lithography uses light to pattern circuit features on silicon. We're scaling transistors to their physical limits by shrinking particle accelerators 1000x, to create a high power light source. \r\n\r\nUsing our light source we will double transistor density for a given numerical aperture and 3x throughput.",
+    "one_liner": "Manufacturing the most powerful chips, 15x faster",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1740019402,
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inversion-semiconductor",
+    "api": "https://yc-oss.github.io/api/batches/w25/inversion-semiconductor.json"
+  },
+  {
     "id": 30234,
     "name": "Adam",
     "slug": "adam",
@@ -1814,7 +1899,7 @@
     "website": "https://www.getrally.com/",
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "Rally is a financial platform designed for fleets in Europe. We help blue-collar businesses like drivers, tradesmen and others, track all their vehicle and driver costs in one place with real-time data and AI-powered workflows for accounting and sustainability reporting. Our flagship product is a universal fleet card that covers fuel, EV charging, parking, tolls and more, with dynamic spend controls and fraud protection. At Rally, we’re building the financial backbone for transportation, enabling payments, credit, invoicing, tax rebates, driver payroll and beyond.",
-    "one_liner": "Financial OS for European supply chain",
+    "one_liner": "Financial OS for European Fleets",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
@@ -1823,7 +1908,6 @@
       "Artificial Intelligence",
       "Fintech",
       "Logistics",
-      "Supply Chain",
       "Transportation"
     ],
     "tags_highlighted": [],
@@ -2310,6 +2394,47 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/finbar",
     "api": "https://yc-oss.github.io/api/batches/w25/finbar.json"
+  },
+  {
+    "id": 30255,
+    "name": "Olive",
+    "slug": "olive",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/544faf85c3fb3b0e5acf3a985a6a1ce535df4377.png",
+    "website": "https://fromolive.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Olive connects to your database & third party services to help you build admin dashboards and support tools in minutes.",
+    "one_liner": "Build internal tools for your database with natural language.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1740018718,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/olive",
+    "api": "https://yc-oss.github.io/api/batches/w25/olive.json"
   },
   {
     "id": 30256,
@@ -2864,6 +2989,49 @@
     "api": "https://yc-oss.github.io/api/batches/w25/lucidic-ai.json"
   },
   {
+    "id": 30273,
+    "name": "Sophris",
+    "slug": "sophris",
+    "former_names": [
+      "Physion Works"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccbd10e35f28216ba78163cf07bc50fb82f1e0cf.png",
+    "website": "https://sophris.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sophris is your AI “engineer” for circuit board schematics, checking for errors—pin mismatches, connectivity gaps, or voltage conflicts—long before they derail your design. By flagging potential issues early, you can fix them ahead of production and avoid the frustrating re-spins that drive up costs and delay schedules.\r\n\r\nWhile traditional EDA tools offer basic ERC and DRC checks—like net connectivity and spacing—they don't dig deeply into component datasheets. Sophris takes it further, analyzing specs and cross-referencing design requirements from multiple sources. As a result, subtle pin misconfigurations, voltage mismatches, and datasheet-specific quirks that typical rule checks might miss are brought to light.\r\n\r\nBy identifying design flaws during the schematic phase, Sophris helps you iterate confidently and deliver more reliable products. Faster turnarounds, fewer production surprises, and a smoother path from concept to manufacturing. With Sophris, design more confidently and ship more reliably.",
+    "one_liner": "AI Engineer for Circuit Board Schematic Reviews",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1740017526,
+    "tags": [
+      "Artificial Intelligence",
+      "Design Tools",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sophris",
+    "api": "https://yc-oss.github.io/api/batches/w25/sophris.json"
+  },
+  {
     "id": 30274,
     "name": "Trata",
     "slug": "trata",
@@ -3027,6 +3195,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rejot",
     "api": "https://yc-oss.github.io/api/batches/w25/rejot.json"
+  },
+  {
+    "id": 30278,
+    "name": "Agentin AI",
+    "slug": "agentin-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da9bdd65896a691965e96e56efdfaa0880fcac0e.png",
+    "website": "https://www.agentin.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Agentin AI, we build Agents that move data and take actions across enterprise systems, like Salesforce and SAP. These agents are difficult to build because each enterprise heavily customizes their systems but we solved that by training our Agents to learn and adapt from failures, applying reinforcement learning techniques we developed.",
+    "one_liner": "AI Agents to automate Order to Cash",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1740032946,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agentin-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/agentin-ai.json"
   },
   {
     "id": 30281,
@@ -3456,7 +3664,7 @@
     "website": "https://www.orbitalops.tech/",
     "all_locations": "Huntington Beach, CA, USA",
     "long_description": "Orbital Operations is developing a high thrust space vehicle that is refuellable and stays in orbit to ferry customers beyond low earth orbit (LEO). This allows satellite customers to take advantage of the low cost, low lead time, and low effort launches to LEO and have us rendezvous with them in space to transport them to their final destination.\r\n\r\nOur high thrust and high efficiency is made possible by a unique cryogenic fuel management system being implemented on the vehicle to keep propellants cold so they don't boil. This allows us to use the same propulsion systems that have been developed by launch vehicles over the last few decades (NASA, SpaceX, Blue Origin, Relativity Space, ect.).\r\n\r\nBen and Ross met while working together at Relativity Space, where they qualified the cryogenic flight termination valves for the Terran 1 rocket and continued working together on the heat exchangers and turbomachinery for the AeonR engine.\r\n\r\nWe are currently working on the first demo of our unique cryo management system and intend to launch an operational vehicle by 2027. ",
-    "one_liner": "Moving customers in space with a reusable, high thrust vehicle",
+    "one_liner": "High Thrust, Reusable Vehicles in Space",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
@@ -3712,11 +3920,11 @@
     "subindustry": "Education",
     "launched_at": 1739904496,
     "tags": [
+      "AI-Enhanced Learning",
       "Education",
       "Generative AI",
       "SaaS",
-      "Video",
-      "Edtech"
+      "Video"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3961,7 +4169,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a035400f6acd84a35dea2f9fb7832b054c02ed12.png",
     "website": "https://archon.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Government IT purchases account for 20% of the U.S. software market. Archon's SDK helps software companies sell to the government by cutting the federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible for small tech companies.\r\n\r\nEmail us at inquiries@archon.inc",
+    "long_description": "Government IT purchases account for 20% of the U.S. software market. Archon helps software companies sell to the government by cutting the federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible. We want to enable every small tech company to build a lasting government partnership, and bring real solutions to our federal agencies.\r\n\r\nEmail us at inquiries@archon.inc",
     "one_liner": "We help software companies sell to government.",
     "team_size": 3,
     "industry": "Government",
@@ -4088,9 +4296,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d86ffdce2296389239f29bc23023bc7867815208.png",
     "website": "https://www.optifye.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Optifye.ai is an AI powered performance monitoring system for factory workers. \r\n\r\nWe place cameras in assembly lines and use computer vision to tell supervisors who's working and who's not, in real-time.\r\n\r\nThe shop floor has historically been a blackbox. With Optifye, manufacturing companies can now accurately measure worker performance and boost assembly line efficiency.",
+    "long_description": "Optifye.ai is an AI powered performance monitoring system for factory workers. \r\n\r\nWe place cameras in assembly lines and use computer vision to tell supervisors who's working and who's not, in real-time.\r\n\r\nThe shop floor has historically been a blackbox. With Optifye, manufacturing companies can now accurately measure worker output and take decisions that boost line efficiency up to 30%.",
     "one_liner": "AI Performance Monitoring For Factory Workers",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1739567184,
@@ -4109,7 +4317,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4166,7 +4376,7 @@
     "slug": "permitify",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0fb1e449f45c8f9ca33c6947992cac6af3e8c0f.png",
-    "website": "https://permitify.co/",
+    "website": "https://permitify.com",
     "all_locations": "",
     "long_description": "City building departments are understaffed and overworked. Meanwhile, builders lobby to remove power from building departments. Because building departments are usually the only profitable/self-sustaining branch of a local government, this is problematic. Permitify allows city build-plan reviewers to 10x their productivity covering the labor shortage, reducing the time required to issue a building permit, and allowing the city government's only profitable branch to stay intact.",
     "one_liner": "AI co-pilot for building plan review and building code compliance",
@@ -4176,7 +4386,9 @@
     "launched_at": 1737593819,
     "tags": [
       "Generative AI",
-      "Computer Vision"
+      "GovTech",
+      "Computer Vision",
+      "Construction"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4304,7 +4516,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W25",
     "status": "Active",
@@ -4462,16 +4674,16 @@
     "website": "https://dalus.io",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dalus is an AI-powered systems engineering software to model/validate complex systems for aerospace/defense/robotics and other mission-critical industries. \r\n\r\nWith Dalus, engineers can seamlessly trace requirements, perform analyses, and update information in real-time. This ensures that every team member stays aligned and informed, reducing inefficiencies and enabling faster iterations. \r\n\r\nWith AI at our core, users can analyze hundreds of pages of existing engineering documentation and requirements to generate or retrieve information about the system model they are building in Dalus.\r\n\r\nWe started working together on Dalus in spring 2024 after Eliot quit his job at Aerojet Rocketdyne (L3Harris) where he worked as a test/systems engineer. He experienced first-hand how silos and poor communication reduced the productivity and efficiencies in the teams he worked at.\r\n\r\nWe love working with companies tackling complex engineering systems, whether they be startups just getting their feet wet or large organizations like Israel Aerospace Industries (Our design partner and biggest aerospace/defense company from Israel)\r\n\r\nRead why we started Dalus: https://dalus.io/articles/why-dalus",
-    "one_liner": "AI-powered hardware system design software",
+    "one_liner": "AI-powered design software for mission critical hardware",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736994368,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Aerospace",
-      "AI"
+      "Aerospace"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4922,7 +5134,7 @@
     "name": "SAMMY Labs",
     "slug": "sammy-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d1b25deab159af3f02ba906ec516f86f2c3ac17.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bdb570c43e3c58161a904790b035ac6647153c9.png",
     "website": "https://www.sammylabs.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SAMMY is an Al that explores your app like a real user, mapping every possible click to generate content, onboard users and spot issues. It updates automatically with every product change, keeping everything running smoothly. It may feel like magic, but it’s just powerful technology at work.",
@@ -5050,8 +5262,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588b96acab2b06d3a6d0c0dc1df4ed1a4bf0d80.png",
     "website": "https://getdexterity.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The productivity tool built for co-working with AI, right on top of your browser. Dex intelligently interacts across web apps using simple voice and text to 10x your workflows.",
-    "one_liner": "Turn your browser into an AI interface that works alongside you. ",
+    "long_description": "Dex is the intelligent interface built for coworking with AI—right on top of your browser.\r\n\r\nMost AI agents today are designed for set-and-forget tasks—you hand them off and check back later. But what about the workflows you'd want to drive? Jumping between tabs, browsing sites, filling forms, and searching across apps—these experiences demand instant, context-aware models that work with you, not just for you.\r\n\r\nDex turns your browser into an intelligent workspace that understands your intent. With simple voice and text, it enhances familiar interfaces, automates mundane actions, and helps you do everything 10x faster.\r\n\r\nNo more slow handoffs. No more context-switching. Just AI that moves at your speed.",
+    "one_liner": "Turn your browser into an AI interface that works alongside you.",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "B2B -> Analytics",

@@ -3881,9 +3881,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1493860914,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -14190,11 +14190,12 @@
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -16875,7 +16876,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -17113,8 +17114,8 @@
     "website": "https://reducto.ai",
     "all_locations": "",
     "long_description": "Reducto offers robust and reliable document ingestion for any workflow. Our API allows you to convert complex, unstructured documents into structured outputs that are perfect for RAG, process automation, and more. ",
-    "one_liner": "The most accurate way to parse complex documents",
-    "team_size": 8,
+    "one_liner": "The most accurate way to parse documents",
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1704664395,
@@ -21659,6 +21660,47 @@
     "api": "https://yc-oss.github.io/api/batches/w25/oki.json"
   },
   {
+    "id": 30255,
+    "name": "Olive",
+    "slug": "olive",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/544faf85c3fb3b0e5acf3a985a6a1ce535df4377.png",
+    "website": "https://fromolive.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Olive connects to your database & third party services to help you build admin dashboards and support tools in minutes.",
+    "one_liner": "Build internal tools for your database with natural language.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1740018718,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/olive",
+    "api": "https://yc-oss.github.io/api/batches/w25/olive.json"
+  },
+  {
     "id": 30260,
     "name": "Macadamia",
     "slug": "macadamia",
@@ -21700,6 +21742,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/macadamia",
     "api": "https://yc-oss.github.io/api/batches/w25/macadamia.json"
+  },
+  {
+    "id": 30273,
+    "name": "Sophris",
+    "slug": "sophris",
+    "former_names": [
+      "Physion Works"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccbd10e35f28216ba78163cf07bc50fb82f1e0cf.png",
+    "website": "https://sophris.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sophris is your AI “engineer” for circuit board schematics, checking for errors—pin mismatches, connectivity gaps, or voltage conflicts—long before they derail your design. By flagging potential issues early, you can fix them ahead of production and avoid the frustrating re-spins that drive up costs and delay schedules.\r\n\r\nWhile traditional EDA tools offer basic ERC and DRC checks—like net connectivity and spacing—they don't dig deeply into component datasheets. Sophris takes it further, analyzing specs and cross-referencing design requirements from multiple sources. As a result, subtle pin misconfigurations, voltage mismatches, and datasheet-specific quirks that typical rule checks might miss are brought to light.\r\n\r\nBy identifying design flaws during the schematic phase, Sophris helps you iterate confidently and deliver more reliable products. Faster turnarounds, fewer production surprises, and a smoother path from concept to manufacturing. With Sophris, design more confidently and ship more reliably.",
+    "one_liner": "AI Engineer for Circuit Board Schematic Reviews",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1740017526,
+    "tags": [
+      "Artificial Intelligence",
+      "Design Tools",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sophris",
+    "api": "https://yc-oss.github.io/api/batches/w25/sophris.json"
   },
   {
     "id": 30277,
@@ -21960,16 +22045,16 @@
     "website": "https://dalus.io",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dalus is an AI-powered systems engineering software to model/validate complex systems for aerospace/defense/robotics and other mission-critical industries. \r\n\r\nWith Dalus, engineers can seamlessly trace requirements, perform analyses, and update information in real-time. This ensures that every team member stays aligned and informed, reducing inefficiencies and enabling faster iterations. \r\n\r\nWith AI at our core, users can analyze hundreds of pages of existing engineering documentation and requirements to generate or retrieve information about the system model they are building in Dalus.\r\n\r\nWe started working together on Dalus in spring 2024 after Eliot quit his job at Aerojet Rocketdyne (L3Harris) where he worked as a test/systems engineer. He experienced first-hand how silos and poor communication reduced the productivity and efficiencies in the teams he worked at.\r\n\r\nWe love working with companies tackling complex engineering systems, whether they be startups just getting their feet wet or large organizations like Israel Aerospace Industries (Our design partner and biggest aerospace/defense company from Israel)\r\n\r\nRead why we started Dalus: https://dalus.io/articles/why-dalus",
-    "one_liner": "AI-powered hardware system design software",
+    "one_liner": "AI-powered design software for mission critical hardware",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736994368,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Aerospace",
-      "AI"
+      "Aerospace"
     ],
     "tags_highlighted": [],
     "top_company": false,

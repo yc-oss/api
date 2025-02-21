@@ -35000,11 +35000,11 @@
     "subindustry": "B2B",
     "launched_at": 1689840885,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Sales"
+      "Sales",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39147,10 +39147,10 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6569a817093d3fdfbb7ca4de921df904bb15d59.png",
     "website": "https://dench.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our Voice AI Agent streamlines lead qualification for high-volume law firms, efficiently handling initial client screening.",
+    "long_description": "Dench.com is an AI Intake Specialist Platform that take calls from prospective clients, talks to them, vets them, conflict checks, does follow-ups and books an appointment, or it forwards the call to a human after client pre-qualification.\r\n\r\nWe convert rejected cases into paid referrals through our referral network, to land law firms  huge profits over “wasted” leads.\r\n\r\nFor a simple demo, try calling (415) 997-2939 as someone with any legal dispute, property or other variety of issues you can possibly imagine.",
     "one_liner": "AI Secretary to pre-qualify leads for law firms",
     "team_size": 2,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1720334032,
     "tags": [
@@ -39167,7 +39167,8 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Legal"
     ],
     "regions": [
       "United States of America",
@@ -43203,6 +43204,47 @@
     "api": "https://yc-oss.github.io/api/batches/w25/cuckoo-labs.json"
   },
   {
+    "id": 30255,
+    "name": "Olive",
+    "slug": "olive",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/544faf85c3fb3b0e5acf3a985a6a1ce535df4377.png",
+    "website": "https://fromolive.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Olive connects to your database & third party services to help you build admin dashboards and support tools in minutes.",
+    "one_liner": "Build internal tools for your database with natural language.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1740018718,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/olive",
+    "api": "https://yc-oss.github.io/api/batches/w25/olive.json"
+  },
+  {
     "id": 30256,
     "name": "PAX Markets, Inc.",
     "slug": "pax-markets-inc",
@@ -43721,7 +43763,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a035400f6acd84a35dea2f9fb7832b054c02ed12.png",
     "website": "https://archon.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Government IT purchases account for 20% of the U.S. software market. Archon's SDK helps software companies sell to the government by cutting the federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible for small tech companies.\r\n\r\nEmail us at inquiries@archon.inc",
+    "long_description": "Government IT purchases account for 20% of the U.S. software market. Archon helps software companies sell to the government by cutting the federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible. We want to enable every small tech company to build a lasting government partnership, and bring real solutions to our federal agencies.\r\n\r\nEmail us at inquiries@archon.inc",
     "one_liner": "We help software companies sell to government.",
     "team_size": 3,
     "industry": "Government",
@@ -43848,16 +43890,16 @@
     "website": "https://dalus.io",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dalus is an AI-powered systems engineering software to model/validate complex systems for aerospace/defense/robotics and other mission-critical industries. \r\n\r\nWith Dalus, engineers can seamlessly trace requirements, perform analyses, and update information in real-time. This ensures that every team member stays aligned and informed, reducing inefficiencies and enabling faster iterations. \r\n\r\nWith AI at our core, users can analyze hundreds of pages of existing engineering documentation and requirements to generate or retrieve information about the system model they are building in Dalus.\r\n\r\nWe started working together on Dalus in spring 2024 after Eliot quit his job at Aerojet Rocketdyne (L3Harris) where he worked as a test/systems engineer. He experienced first-hand how silos and poor communication reduced the productivity and efficiencies in the teams he worked at.\r\n\r\nWe love working with companies tackling complex engineering systems, whether they be startups just getting their feet wet or large organizations like Israel Aerospace Industries (Our design partner and biggest aerospace/defense company from Israel)\r\n\r\nRead why we started Dalus: https://dalus.io/articles/why-dalus",
-    "one_liner": "AI-powered hardware system design software",
+    "one_liner": "AI-powered design software for mission critical hardware",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736994368,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Aerospace",
-      "AI"
+      "Aerospace"
     ],
     "tags_highlighted": [],
     "top_company": false,
