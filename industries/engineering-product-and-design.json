@@ -3872,18 +3872,18 @@
       "Imbue (formerly Generally Intelligent)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd298ab7cc0e50b44f16100129fb3d4a93dcabc0.png",
-    "website": "http://imbue.com",
+    "website": "http://sourceress.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Imbue builds AI systems that reason and code, enabling AI agents to accomplish larger goals and safely work in the real world. We train our own foundation models optimized for reasoning and prototype agents on top of these models. By using these agents extensively, we gain insights into improving both the capabilities of the underlying models and the interaction design for agents.\r\n\r\nWe aim to rekindle the dream of the *personal* computer, where computers become truly intelligent tools that empower us, giving us freedom, dignity, and agency to pursue the things we love.",
+    "long_description": "Sourceress is an AI recruiter that is reinventing how people find jobs. With tailor-made machine learning models, we rigorously define what a company is looking for in a role, identify great candidates, and engage candidates with highly personalized introductions. Our process creates a stream of interested candidates that hiring managers are excited about more than 85% of the time.",
     "one_liner": "",
     "team_size": 35,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1493860914,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8060,9 +8060,9 @@
     "former_names": [
       "humanlupe"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/364a02bb6e0092111a4c8bbb119301d2264c7ace.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36780ef46af5eeec8e865ac191d6d27af56ff936.png",
     "website": "https://humanloop.com",
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Humanloop is the LLM evals platform for enterprises. Teams at Gusto, Vanta and Duolingo use Humanloop to ship reliable AI products. We enable you to adopt best practices for prompt management, evaluation and observability.",
     "one_liner": "Humanloop is the LLM evals platform for enterprises. ",
     "team_size": 14,
@@ -8086,8 +8086,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -17114,17 +17114,17 @@
     "website": "https://reducto.ai",
     "all_locations": "",
     "long_description": "Reducto offers robust and reliable document ingestion for any workflow. Our API allows you to convert complex, unstructured documents into structured outputs that are perfect for RAG, process automation, and more. ",
-    "one_liner": "The most accurate way to parse documents",
+    "one_liner": "The most accurate API to parse documents",
     "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1704664395,
     "tags": [
       "Documents",
+      "Artificial Intelligence",
       "Data Engineering",
       "Enterprise Software",
-      "Search",
-      "AI"
+      "Search"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21492,6 +21492,47 @@
     "api": "https://yc-oss.github.io/api/batches/w25/superglue.json"
   },
   {
+    "id": 30221,
+    "name": "A1Base",
+    "slug": "a1base",
+    "former_names": [
+      "A101"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/73b9a429892a10e92d901a7d903dc0dbcd131ee5.png",
+    "website": "https://www.a1base.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A1Base gives your AI agents a phone number & email address. This effectively acts as an online identity for them. We then provide developers with an easy to use API to interface your AI agent with humans/coworkers/users where they are (in this case in Whatsapp, Slack, Teams, SMS and more).\r\n",
+    "one_liner": "How AI products chat and work with their users",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1740109834,
+    "tags": [
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/a1base",
+    "api": "https://yc-oss.github.io/api/batches/w25/a1base.json"
+  },
+  {
     "id": 30223,
     "name": "a0.dev",
     "slug": "a0-dev",
@@ -22079,6 +22120,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dalus",
     "api": "https://yc-oss.github.io/api/batches/w25/dalus.json"
+  },
+  {
+    "id": 30343,
+    "name": "Cedar",
+    "slug": "cedar",
+    "former_names": [
+      "ByteBelli",
+      "lawyai (name in progress)",
+      "GraphIQal"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d689d59276a36e33100281dbe98a74bcaf59a06.png",
+    "website": "https://www.cedar.law/home",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cedar is an AI copilot for any app. Imagine the founder themselves being behind every user’s screen: actively guiding them, answering questions, and upselling. \r\n\r\nJesse worked at Intuit, writing software for TurboTax designed for customers of all tech literacy levels. Isabelle worked at Figma and Notion, learning about the struggles of getting users to effectively use powerful yet complex products as well as GTM strategies to reach them.\r\n\r\nAt every step of the conversion funnel, users and companies struggle with knowledge gaps. Users not knowing how a product helps them reduces conversion, activation and retention. Companies not knowing what users want misleads messaging, product, and re-engaging churned leads. \r\n\r\nAI can do more than just replace a single job or industry. With Cedar at the center, we reimagine growth marketing and customer support entirely, provide qualitative analytics of the user’s story and using them to improve user’s experiences live. \r\n\r\nAs we enter the age of AI agents, they too will need an understanding of what software does and how to execute it. We plan to be the front door for all of them.",
+    "one_liner": "In-product AI copilot & PMF analytics for any app",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1739293549,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Customer Success",
+      "Customer Support",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cedar",
+    "api": "https://yc-oss.github.io/api/batches/w25/cedar.json"
   },
   {
     "id": 30350,
