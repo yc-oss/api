@@ -472,7 +472,7 @@
       "Bilds AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e9f3a32db39a8212bb016c786d67f53ed0bf27c.png",
-    "website": "https://www.bilds.ai",
+    "website": "https://www.bild.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Bild AI reads construction blueprints and extracts material and cost data for builders. Our software automates the $50B/year spent on manual blueprint processing and material cost estimation.",
     "one_liner": "AI that understands construction blueprints",
@@ -481,11 +481,11 @@
     "subindustry": "B2B",
     "launched_at": 1738874630,
     "tags": [
+      "Artificial Intelligence",
       "Computer Vision",
       "Construction",
       "B2B",
-      "Architecture",
-      "AI"
+      "Architecture"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1654,10 +1654,10 @@
     "subindustry": "Consumer",
     "launched_at": 1736185270,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Reinforcement Learning",
       "Automation",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -1976,6 +1976,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sift-dev",
     "api": "https://yc-oss.github.io/api/batches/w25/sift-dev.json"
+  },
+  {
+    "id": 30232,
+    "name": "careCycle",
+    "slug": "carecycle",
+    "former_names": [
+      "Nodable Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae12c3844d775842d148b76a4550d6984b0af3ca.png",
+    "website": "https://www.careCycle.ai",
+    "all_locations": "San Mateo, CA, USA",
+    "long_description": "careCycle is an AI workforce for medicare agencies and FMOs - helping leading agencies achieve 5x higher conversions, 37% better retention, and saving thousands of agent hours.\r\n\r\nWe're transforming how Medicare agencies handle member relationships with teams of voice AI agents. We're solving the industry's biggest challenge: 50% annual member churn caused by poor post-enrollment engagement.\r\n\r\nOur multi-agent AI teams work together to handle the entire customer journey - from initial contact through enrollment and ongoing care. When a lead comes in after hours, one AI agent answers and schedules a callback, another calls at the perfect time, a third captures qualifying information, and a fourth handles the warm transfer to a licensed agent. This approach helped a leading FMO write over $2M in renewals during AEP 2024 while reducing agent talk time by 20% per sale.\r\n\r\nWe've pioneered a purpose-built solution for Medicare's unique compliance requirements. Unlike generic AI platforms, our system features built-in HIPAA/CMS compliance, real-time data structuring, and seamless CRM integration. This enables agencies of all sizes to deliver enterprise-grade member care without massive infrastructure investments.\r\n\r\nEarly metrics show the power of our approach:\r\n\r\n- 5x increase in after-hours conversion rates\r\n- 37% improvement in 90-day retention\r\n- 3,000+ agent hours saved in a single AEP\r\n- $2M+ in additional renewals during AEP 2024\r\n\r\nThe Medicare Advantage market represents a massive opportunity, with over $360B in annual premiums and growing 10% year over year. By solving the member retention challenge, we're positioning ourselves to capture significant value by transforming the member care experience for beneficiaries.",
+    "one_liner": "Voice AI teams for medicare and ACA distributors.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1740261060,
+    "tags": [
+      "Health Insurance",
+      "Telecommunications",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/carecycle",
+    "api": "https://yc-oss.github.io/api/batches/w25/carecycle.json"
   },
   {
     "id": 30233,
@@ -2581,9 +2623,9 @@
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1740018718,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3833,8 +3875,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ccdc4419907ee05321c76c632bbd5270cb8764.png",
     "website": "http://www.usemesh.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mesh builds domain-specific AI agents to automate repetitive accounting tasks like cash reconciliation, expense wires, and inter-company transactions. Whatever tasks accounting firms are currently outsourcing abroad for reduced labor costs, we automate entirely.\r\n\r\nAt Carta, we spent 5+ years working together to automate accounting. We helped grow Carta's fund accounting business from $20M to $100M, transformed offline excel tasks into automated workflows, and increased customer satisfaction score by over 50% by creating an internal workspace for task coordination. \r\n\r\nUntil now, the only way to scale accounting firms was to hire more employees and outsource more work. With Mesh, accountants can save time on each task, save money on hiring additional resources, and use their extra capacity to exponentially grow their business.\r\n\r\nWith a current shortage of 340,000 accountants in the US, along with the alarming statistic that 75% of certified public accountants (CPAs) will reach retirement within the next 15 years, AI has a critical role to play. And we want to be the ones to automate this $63bn outsourced accounting and finance industry.\r\n\r\nOur AI agents work long hours, so accountants don't need to.",
-    "one_liner": "Automate outsourced accounting work with AI",
+    "long_description": "Mesh is an AI bookkeeper that gives startups instant financial clarity. We automatically connect and reconcile data across your entire financial stack in real-time, so founders can make informed decisions in real time—not 10+ days after the month-end. \r\n\r\nCurrent solutions force startups to either do bookkeeping themselves or outsource to accountants who lack context. While existing solutions can handle rule-based transaction categorization, they still require manual reconciliation across scattered data in various platforms at month-end. Mesh solves this by integrating with your existing tech stack to centralize data and write directly to your general ledger—meeting founders where they are.\r\n\r\nErin and Nandini are leveraging their combined 10+ years of building accounting automation at Carta to redefine how accounting gets done at startups. From scaling Carta's fund administration business from $20M to $100M, building their in-house general ledger, and doubling margins by automating offline tasks, we know what it takes to build a modern accounting firm.\r\n\r\nWith 5.5 million new businesses created annually in the US, with each spending an average of $20,000 per year on bookkeeping services, this translates into a $110B opportunity. Companies currently waste 10-15 hours each month on financial administration—time that could be better spent growing their businesses.\r\n\r\nWe balance the books, so founders can get back to building.",
+    "one_liner": "AI bookkeeper for startups",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4833,6 +4875,46 @@
     "api": "https://yc-oss.github.io/api/batches/w25/spott.json"
   },
   {
+    "id": 30324,
+    "name": "Rebolt",
+    "slug": "rebolt",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/654a21f45dce497441358874046d40b5a0f0fe5f.png",
+    "website": "https://rebolt.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Rebolt is AI to replace traditional restaurant managers - by automating tasks from delivery refund management to staff screening, inventory checks, and supplier communications.\r\n\r\nWe started with delivery app management for takeout restaurants - Rebolt automates order verification and refund management to prevent mistakes and save restaurants time and money.",
+    "one_liner": "Your AI restaurant manager",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1740196480,
+    "tags": [
+      "Artificial Intelligence",
+      "Food Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rebolt",
+    "api": "https://yc-oss.github.io/api/batches/w25/rebolt.json"
+  },
+  {
     "id": 30325,
     "name": "Roark",
     "slug": "roark",
@@ -5308,7 +5390,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d689d59276a36e33100281dbe98a74bcaf59a06.png",
     "website": "https://www.cedar.law/home",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cedar is an AI copilot for any app. Imagine the founder themselves being behind every user’s screen: actively guiding them, answering questions, and upselling. \r\n\r\nJesse worked at Intuit, writing software for TurboTax designed for customers of all tech literacy levels. Isabelle worked at Figma and Notion, learning about the struggles of getting users to effectively use powerful yet complex products as well as GTM strategies to reach them.\r\n\r\nAt every step of the conversion funnel, users and companies struggle with knowledge gaps. Users not knowing how a product helps them reduces conversion, activation and retention. Companies not knowing what users want misleads messaging, product, and re-engaging churned leads. \r\n\r\nAI can do more than just replace a single job or industry. With Cedar at the center, we reimagine growth marketing and customer support entirely, provide qualitative analytics of the user’s story and using them to improve user’s experiences live. \r\n\r\nAs we enter the age of AI agents, they too will need an understanding of what software does and how to execute it. We plan to be the front door for all of them.",
+    "long_description": "Cedar is an AI copilot for any app. Imagine the founder themselves being behind every user’s screen: actively converting them, answering product questions, and upselling. \r\n\r\nJesse worked at Intuit, writing software for TurboTax designed for customers of all tech literacy levels. Isabelle worked at Figma and Notion, learning about the struggles of getting users to effectively use powerful yet complex products as well as GTM strategies to reach them.\r\n\r\nAt every step of the conversion funnel, users and companies struggle with knowledge gaps. Users not knowing how a product helps them reduces conversion, activation and retention. Companies not knowing what users want misleads messaging, product, and re-engaging churned leads. \r\n\r\nAI can do more than just replace a single job or industry. With Cedar at the center, we reimagine growth and customer support entirely, provide qualitative analytics of the user’s story and using them to improve user’s experiences live. \r\n\r\nAs we enter the age of AI agents, they too will need an understanding of what software does and how to execute it. We plan to be the front door for all of them.",
     "one_liner": "In-product AI copilot & PMF analytics for any app",
     "team_size": 2,
     "industry": "B2B",
