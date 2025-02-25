@@ -8788,7 +8788,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -14195,7 +14195,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -16684,8 +16684,8 @@
   },
   {
     "id": 29118,
-    "name": "Structured",
-    "slug": "structured",
+    "name": "Structured Labs",
+    "slug": "structured-labs",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/452e48c0e0c4bddca55b269be9dafcb249e368f0.png",
     "website": "https://www.structuredlabs.com/",
@@ -16697,11 +16697,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1686619959,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
       "Open Source",
-      "Data Visualization",
-      "AI"
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16722,8 +16722,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/structured",
-    "api": "https://yc-oss.github.io/api/batches/s23/structured.json"
+    "url": "https://www.ycombinator.com/companies/structured-labs",
+    "api": "https://yc-oss.github.io/api/batches/s23/structured-labs.json"
   },
   {
     "id": 29150,
@@ -17506,14 +17506,14 @@
     "launched_at": 1711136962,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Monitoring",
-      "AI"
+      "Monitoring"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -17523,7 +17523,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -18099,7 +18101,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d7390c9fddfe9a6cf41b3b323ffc04d09432fa0.png",
     "website": "https://www.bilanc.co",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "An AI-Powered Engineering Management Platform. Track engineering velocity, summarise every PR and Release, and draft performance reviews & team briefings.",
+    "long_description": "Bilanc uses LLMs to understand your engineers' output, and delivers insights that help you increase productivity. AI-powered metrics, team summaries, and performance reviews.",
     "one_liner": "AI-powered Engineering Management",
     "team_size": 2,
     "industry": "B2B",
@@ -19100,10 +19102,10 @@
     "slug": "entangl",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a2d6e23cb178ee58476a31290945343d8a31a48.png",
-    "website": "https://www.entangl.ai/",
+    "website": "https://www.entangl.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Entangl uses AI to detect and automatically resolve issues in data center engineering and operations, ensuring efficiency and uptime. ",
-    "one_liner": "Find and resolving issues in data center engineering & operations",
+    "one_liner": "Find & resolve issues in data center engineering & operations using AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -20481,7 +20483,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -20597,14 +20599,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ab88e3a4fc8224ae094d26b68f966408fe4cf3f.png",
     "website": "https://voideditor.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Void is an open source code editor with AI features similar to Cursor and GitHub Copilot. Unlike other tools, Void lets developers connect directly to open source LLM models without sending their private data through an external backend.",
+    "long_description": "Void is an open source code editor with features similar to Cursor and GitHub Copilot. Unlike other tools, Void lets developers keep their data completely private by connecting directly to any LLM.",
     "one_liner": "The open source Cursor alternative",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1726250392,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "AI"
     ],
@@ -21783,6 +21784,47 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/macadamia",
     "api": "https://yc-oss.github.io/api/batches/w25/macadamia.json"
+  },
+  {
+    "id": 30264,
+    "name": "Augento",
+    "slug": "augento",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5361a9e0824d4289d6c92ba83bf87c9b7c4654e.png",
+    "website": "https://augento.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We do DeepSeek R1 (like) fine tuning as a service. A user gives us an Agent and where it went wrong and we'll improve it.\r\nWe provide a turn key solution to customers to act on poorly performing agents, by providing feedback in our UI to the agent and we'll take care of improving the model with reinforcement learning.\r\nImagine a startup developing a tool for law firms, enhanced with an AI to assist lawyers in selecting clients. Currently, this startup would face significant challenges in building such a tool, as it’s crucial to provide accurate and consistent responses every time. With our technology, the startup can enhance the initial model by incorporating its own experience and feedback from beta users, eventually surpassing the initial model and delivering reliable results on every query.",
+    "one_liner": "Improving Agents through Reinforcement Learning",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1740421634,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/augento",
+    "api": "https://yc-oss.github.io/api/batches/w25/augento.json"
   },
   {
     "id": 30273,

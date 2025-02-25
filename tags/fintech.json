@@ -23504,9 +23504,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2790b307969e113fe655dd576fbc316e90c13310.png",
     "website": "http://capix.ai/",
-    "all_locations": "",
-    "long_description": "Capix helps private equity and investment banking professionals discover and enhance company and people profiles. Whether building reach out lists for deal sourcing or creating buyer lists for investment banking, Capix integrates data from multiple sources into a single, customizable platform with advanced filtering.",
-    "one_liner": "Capix automates deal sourcing for IB and PE",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Capix makes finding private equity firms fast and accurate by aggregating and enriching data from multiple sources into one customizable platform.",
+    "one_liner": "AI-powered private equity intelligence.",
     "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
@@ -23526,7 +23526,8 @@
       "Fintech"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -29147,6 +29148,51 @@
     "api": "https://yc-oss.github.io/api/batches/s24/tradeflow.json"
   },
   {
+    "id": 29837,
+    "name": "RentFlow",
+    "slug": "rentflow",
+    "former_names": [
+      "Pastelle.",
+      "Mindley"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/886e679b5cbd64c33306564aa7caabb0748574d5.png",
+    "website": "https://www.therentflow.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RentFlow is the first ‘Buy Now Pay Later’ rent collection platform.\r\n\r\nIn the US alone, ~ 50% of small & medium businesses, and ~ 15% of residents are behind on their rent. RentFlow’s mission is to decrease the financial and administrative burden of late rent for everyone.\r\n\r\nThanks to our partner bank, we automatically pay property managers upfront for their rent & fees on the 1st of the month. Meanwhile, business owners and residents have the possibility to pay their rent in flexible installments that adapt to their cash flow needs.\r\nWe also report timely installments to all major credit bureaus to help renters build their credit score fast while paying on their own schedule.\r\n\r\nRentFlow leverages Generative AI to provide a built-in rent collection agent and to unlock installment plans on an ongoing basis based on each tenant’s risk profile.\r\n\r\nWith RentFlow, say goodbye to late rent once and for all.\r\n",
+    "one_liner": "The first 'Buy Now Pay Later' solution for Rents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1722719636,
+    "tags": [
+      "Fintech",
+      "Generative AI",
+      "SaaS",
+      "Payments",
+      "Proptech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rentflow",
+    "api": "https://yc-oss.github.io/api/batches/s24/rentflow.json"
+  },
+  {
     "id": 29839,
     "name": "pap!",
     "slug": "pap",
@@ -29490,51 +29536,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/sunset.json"
   },
   {
-    "id": 30192,
-    "name": "Axiom",
-    "slug": "axiom",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca97be4c73cbbbea0761efc4535c53aaa102f5a4.png",
-    "website": "https://axiom.trade",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the first platform that centralizes all of DeFi trading. Trade any asset on any chain without all the complications in between.",
-    "one_liner": "The Gateway to DeFi",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Unspecified",
-    "launched_at": 1738295687,
-    "tags": [
-      "Fintech",
-      "Crypto / Web3",
-      "Consumer Finance",
-      "Trading",
-      "Cryptocurrency"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Consumer Finance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/axiom",
-    "api": "https://yc-oss.github.io/api/batches/w25/axiom.json"
-  },
-  {
     "id": 30200,
     "name": "Karoo",
     "slug": "karoo",
@@ -29708,16 +29709,16 @@
     "website": "https://pax.markets/",
     "all_locations": "",
     "long_description": "PAX is a new crypto exchange and is the first – in all capital markets – to operate from a single chip rather than an entire datacenter. Today, high frequency traders (\"HFTs\") pay handsomely to co-locate (\"co-lo\") their algorithms near to the exchange. PAX moves traders to within nanometers of the exchange – closer than ever before possible.\r\n\r\nSuch proximity unlocks unprecedented value to high frequency customers and PAX shares this value by offering zero-fee with cash-back to every other market participant on every trade. PAX is to exchange as Robinhood was to retail brokerage: the first in the industry to “go to zero” and a complete game changer across every asset and geography.\r\n\r\nPAX founders, Pete and Ben have spent years working as high-frequency traders, from crypto to traditional markets. Having directly experienced the benefit of electronic trading, they share a belief in its potential to further evolve and create better global markets.",
-    "one_liner": "A new crypto exchange, on a chip: faster & smaller than a datacenter.",
+    "one_liner": "A crypto exchange on a chip: faster and smaller than a datacenter.",
     "team_size": null,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1738613936,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Marketplace",
       "B2B",
+      "AI",
       "Cryptocurrency"
     ],
     "tags_highlighted": [],
@@ -29871,15 +29872,15 @@
     "website": "https://getbluebook.com",
     "all_locations": "",
     "long_description": "Bluebook is building AI agents for accounting firms to accelerate research, reconciliations and monthly closings. We allow professionals to serve 200 clients instead of just 20. With research time cut by 30% accountants can provide more strategic advice to help their clients thrive. The 30 leading firms in the Nordics already use Bluebook.\r\n\r\nThe accounting industry faces a perfect storm: a massive CPA retirement wave (75% in the coming 15 years), increasing complexity from globalization and new regulations, and private equity consolidation driving productivity demands. LLMs enables software that can understand context, adapt to new scenarios, and handle complex accounting tasks with human-like reasoning - capabilities that traditional rule-based software lacks.",
-    "one_liner": "Self-driving accounting",
+    "one_liner": "AI for accounting firms",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1739450063,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

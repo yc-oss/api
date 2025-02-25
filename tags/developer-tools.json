@@ -6972,7 +6972,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -8624,7 +8624,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a4562eea5bec9eaf52ff9e3598861ff6e24fdf0.png",
     "website": "https://www.dailybot.com/",
-    "all_locations": "Pereira, Risaralda, Colombia; Remote, OR, USA; Remote",
+    "all_locations": "Remote, OR, USA; Remote",
     "long_description": "DailyBot is a chat AI Assistant and Workflow Automation platform. It takes chat to a new level by providing automation and chat use-cases that are underserved by the current messaging platforms. It helps users get more things done within the chat to be more efficient and save time.\r\n\r\nThe new generation lives in chat. Remote/hybrid teams use DailyBot to automate daily workflows like stand-ups, team check-ins, give kudos to teammates or even to create their own chat-automation for their back-office with no-code/low-code in an environment similar to Amazon Alexa. DailyBot offers numerous add-ons to make the work experience better.\r\n\r\nDailyBot provides a ChatGPT assistant and a unique AI Workflows tool. Users can build multi-step workflows that use AI to generate content, process information and run actions.\r\n\r\nDailyBot is cross platform and already available for Slack, Microsoft Teams, Google Chat and Discord.\r\n\r\nKeywords: chatops chat-ops async nocode assistant workflow automation developer",
     "one_liner": "AI Assistant and Chat Add-ons for Work",
     "team_size": 12,
@@ -8632,10 +8632,10 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1625092395,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Collaboration",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -8649,9 +8649,7 @@
       "Productivity"
     ],
     "regions": [
-      "Colombia",
       "United States of America",
-      "Latin America",
       "America / Canada",
       "Remote",
       "Fully Remote"
@@ -11339,7 +11337,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -13389,7 +13387,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -16477,8 +16475,8 @@
   },
   {
     "id": 29118,
-    "name": "Structured",
-    "slug": "structured",
+    "name": "Structured Labs",
+    "slug": "structured-labs",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/452e48c0e0c4bddca55b269be9dafcb249e368f0.png",
     "website": "https://www.structuredlabs.com/",
@@ -16490,11 +16488,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1686619959,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
       "Open Source",
-      "Data Visualization",
-      "AI"
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16515,8 +16513,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/structured",
-    "api": "https://yc-oss.github.io/api/batches/s23/structured.json"
+    "url": "https://www.ycombinator.com/companies/structured-labs",
+    "api": "https://yc-oss.github.io/api/batches/s23/structured-labs.json"
   },
   {
     "id": 29123,
@@ -17264,14 +17262,14 @@
     "launched_at": 1711136962,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Monitoring",
-      "AI"
+      "Monitoring"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -17281,7 +17279,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -19829,14 +19829,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ab88e3a4fc8224ae094d26b68f966408fe4cf3f.png",
     "website": "https://voideditor.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Void is an open source code editor with AI features similar to Cursor and GitHub Copilot. Unlike other tools, Void lets developers connect directly to open source LLM models without sending their private data through an external backend.",
+    "long_description": "Void is an open source code editor with features similar to Cursor and GitHub Copilot. Unlike other tools, Void lets developers keep their data completely private by connecting directly to any LLM.",
     "one_liner": "The open source Cursor alternative",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1726250392,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "AI"
     ],
@@ -21096,6 +21095,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/asteroid",
     "api": "https://yc-oss.github.io/api/batches/w25/asteroid.json"
+  },
+  {
+    "id": 30264,
+    "name": "Augento",
+    "slug": "augento",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5361a9e0824d4289d6c92ba83bf87c9b7c4654e.png",
+    "website": "https://augento.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We do DeepSeek R1 (like) fine tuning as a service. A user gives us an Agent and where it went wrong and we'll improve it.\r\nWe provide a turn key solution to customers to act on poorly performing agents, by providing feedback in our UI to the agent and we'll take care of improving the model with reinforcement learning.\r\nImagine a startup developing a tool for law firms, enhanced with an AI to assist lawyers in selecting clients. Currently, this startup would face significant challenges in building such a tool, as it’s crucial to provide accurate and consistent responses every time. With our technology, the startup can enhance the initial model by incorporating its own experience and feedback from beta users, eventually surpassing the initial model and delivering reliable results on every query.",
+    "one_liner": "Improving Agents through Reinforcement Learning",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1740421634,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/augento",
+    "api": "https://yc-oss.github.io/api/batches/w25/augento.json"
   },
   {
     "id": 30272,
