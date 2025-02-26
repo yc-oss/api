@@ -16687,7 +16687,7 @@
     "name": "Structured Labs",
     "slug": "structured-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/452e48c0e0c4bddca55b269be9dafcb249e368f0.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c6c75f571e43a6721ba7f7a597f1e9cb4c662b8.png",
     "website": "https://www.structuredlabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Structured is a full-stack platform for building, deploying, and managing interactive data applications. It brings ingestion, storage, transformation, and visualization into a simple SDK, minimizing complexity while maintaining flexibility for both prototyping and production-grade use cases.",
@@ -16697,11 +16697,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1686619959,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
       "Open Source",
-      "Data Visualization"
+      "Data Visualization",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17899,13 +17899,12 @@
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "Generative AI",
-      "SaaS",
+      "Machine Learning",
       "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -20483,7 +20482,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -21375,8 +21374,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e806fda08a2985d5611237545c62cc046d58b489.png",
     "website": "https://subtrace.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Subtrace is Wireshark for containers. It lets developers resolve production issues faster making it easy to track all backend requests coming in and going out of their backend server.",
-    "one_liner": "Resolve production issues in minutes, not months",
+    "long_description": "Subtrace shows developers every incoming and outgoing request in Docker containers so that they can resolve prod issues faster.",
+    "one_liner": "Wireshark for Docker containers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21491,6 +21490,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/superglue",
     "api": "https://yc-oss.github.io/api/batches/w25/superglue.json"
+  },
+  {
+    "id": 30213,
+    "name": "Truffle AI",
+    "slug": "truffle-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17f1a1e21672fa03c69b669feef31d2a59b2c849.png",
+    "website": "https://www.trytruffle.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Truffle AI makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Truffle to add customer support agents into WhatsApp and analytics agents into Slack.",
+    "one_liner": "AI Agents that work in any software",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1740509470,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Infrastructure",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/truffle-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/truffle-ai.json"
   },
   {
     "id": 30221,
@@ -21658,6 +21702,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/adam",
     "api": "https://yc-oss.github.io/api/batches/w25/adam.json"
+  },
+  {
+    "id": 30237,
+    "name": "Nuclear Software",
+    "slug": "nuclear-software",
+    "former_names": [
+      "Nuclear Software Solutions"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d753a7f42527d220d04f733e0e8c2179891fa0e1.png",
+    "website": "https://www.nuclearsoftware.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nuclear Software is the first continuous integration platform built for engineering simulations, designed for complex industries like nuclear, aerospace, automotive, and advanced manufacturing. It connects CAD models directly to simulation tools—neutronics, CFD, structural analysis, thermal simulations, and more—without manual data preparation. By automating geometry conversions and meshing, Nuclear Software eliminates bottlenecks and streamlines workflows, allowing engineers to focus on building better products.\r\n\r\nEvery design change automatically triggers simulations through a unified pipeline, ensuring real-time validation, version control, and traceability. Teams can customize workflows for individual components or run full system simulations, all within the same platform. Nuclear Software securely stores both designs and simulation results in a centralized repository, maintaining a complete version history linked to each design change. This single source of truth makes it easy to track progress, troubleshoot issues, and maintain accountability, reducing the risk of costly mistakes.\r\n\r\nNuclear Software’s robust access control system protects proprietary and regulated simulation codes, ensuring compliance and data security. By automating simulation workflows and connecting design iterations to real-time validation, Nuclear Software accelerates development cycles and empowers engineers to innovate faster and with greater precision.",
+    "one_liner": "Continuous integration engineering simulation platform.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1740465052,
+    "tags": [
+      "Climate",
+      "Energy",
+      "Aerospace",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nuclear-software",
+    "api": "https://yc-oss.github.io/api/batches/w25/nuclear-software.json"
   },
   {
     "id": 30242,
@@ -21837,15 +21925,15 @@
     "website": "https://sophris.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sophris is your AI “engineer” for circuit board schematics, checking for errors—pin mismatches, connectivity gaps, or voltage conflicts—long before they derail your design. By flagging potential issues early, you can fix them ahead of production and avoid the frustrating re-spins that drive up costs and delay schedules.\r\n\r\nWhile traditional EDA tools offer basic ERC and DRC checks—like net connectivity and spacing—they don't dig deeply into component datasheets. Sophris takes it further, analyzing specs and cross-referencing design requirements from multiple sources. As a result, subtle pin misconfigurations, voltage mismatches, and datasheet-specific quirks that typical rule checks might miss are brought to light.\r\n\r\nBy identifying design flaws during the schematic phase, Sophris helps you iterate confidently and deliver more reliable products. Faster turnarounds, fewer production surprises, and a smoother path from concept to manufacturing. With Sophris, design more confidently and ship more reliably.",
-    "one_liner": "AI Engineer for Circuit Board Schematic Reviews",
+    "one_liner": "AI Engineer that Validates Circuit Board Schematics",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740017526,
     "tags": [
-      "Artificial Intelligence",
       "Design Tools",
-      "Electronics"
+      "Electronics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21878,7 +21966,7 @@
     "website": "https://rejot.dev",
     "all_locations": "Amsterdam, NH, Netherlands",
     "long_description": "At ReJot, we're building a synchronization engine to modernize sharing data between backend services within larger organizations. Traditional approaches for internal data transfer such as HTTP requests and event streaming require significant effort to implement and maintain. The biggest hurdle however, is the coordination required to get teams to start the actual integration work.\r\n\r\nOur approach is based on synchronization, teams define what data their backend publishes and requires, and we'll make sure everything is reactively up-to-date. By being declarative about integrations, project management overhead as well as technical integration burdens are avoided. ReJot uses your existing infrastructure such as Postgres and Kafka.\r\n",
-    "one_liner": "Sync engine to enable reactive backends for cross-team integrations",
+    "one_liner": "Sync engine to share data across engineering teams in enterprises",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -22175,17 +22263,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d689d59276a36e33100281dbe98a74bcaf59a06.png",
     "website": "https://www.cedar.law/home",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cedar is an AI copilot for any app. Imagine the founder themselves being behind every user’s screen: actively converting them, answering product questions, and upselling. \r\n\r\nJesse worked at Intuit, writing software for TurboTax designed for customers of all tech literacy levels. Isabelle worked at Figma and Notion, learning about the struggles of getting users to effectively use powerful yet complex products as well as GTM strategies to reach them.\r\n\r\nAt every step of the conversion funnel, users and companies struggle with knowledge gaps. Users not knowing how a product helps them reduces conversion, activation and retention. Companies not knowing what users want misleads messaging, product, and re-engaging churned leads. \r\n\r\nAI can do more than just replace a single job or industry. With Cedar at the center, we reimagine growth and customer support entirely, provide qualitative analytics of the user’s story and using them to improve user’s experiences live. As we enter the age of AI agents, they too will need an understanding of what software does and how to execute it. We plan to be the front door for all of them.",
-    "one_liner": "In-product AI copilot & PMF analytics for any app",
+    "long_description": "Cedar is an AI copilot for any app. Imagine the founders themselves being behind every user’s screen: actively converting them, answering product questions, and upselling. \r\n\r\nJesse worked at Intuit, writing software for TurboTax designed for customers of all tech literacy levels. Isabelle worked at Figma and Notion, learning about the struggles of getting users to effectively use powerful yet complex products as well as GTM strategies to reach them.\r\n\r\nAt every step of the conversion funnel, users and companies struggle with knowledge gaps. Users not knowing how a product helps them reduces conversion, activation and retention. Companies not knowing what users want misleads messaging, product, and re-engaging churned leads. \r\n\r\nAI can do more than just replace a single job or industry. With Cedar at the center, we reimagine growth and customer support entirely, provide qualitative analytics of the user’s story and using them to improve user’s experiences live. As we enter the age of AI agents, they too will need an understanding of what software does and how to execute it. We plan to be the front door for all of them.",
+    "one_liner": "In-product AI copilot & for any app",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1739293549,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Customer Success",
       "Customer Support",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

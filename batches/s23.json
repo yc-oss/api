@@ -1249,20 +1249,19 @@
     "slug": "remy",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b0f6a6d9697c73c56e4ffd40933940d124fb99.png",
-    "website": "https://www.remysec.com/",
+    "website": "https://www.startremy.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Use Remy to discover upcoming engineering work, perform automatic triage and speed up your design reviews. ",
-    "one_liner": "Resolve product security risks early with AI",
+    "long_description": "Remy automates insurance-related tasks for practices, starting with phone calls to verify patient benefits and check on claims.",
+    "one_liner": "Making it simpler for medical clinics to work with insurance",
     "team_size": 4,
-    "industry": "B2B",
+    "industry": "Healthcare",
     "subindustry": "B2B -> Security",
     "launched_at": 1687066070,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
-      "B2B",
-      "Productivity",
-      "Security"
+      "Health Insurance",
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1271,8 +1270,8 @@
     "batch": "S23",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Security"
+      "Healthcare",
+      "Healthcare Services"
     ],
     "regions": [
       "United States of America",
@@ -3871,21 +3870,21 @@
     "former_names": [
       "Heal Financial"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44b30610ec99e457814992f47e2a2b6dee186f0b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f3b1efd47e85f38279cafba940ec0988913d113.png",
     "website": "https://decodahealth.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decoda Health centralizes communications between healthcare clinics and patients along with a comprehensive payments platform. Our platform makes it easy for patients to communicate with their healthcare providers and pay for services all in one place.",
-    "one_liner": "Patient Billing Made Simple",
+    "long_description": "Imagine a bustling medical practice where the front desk is overwhelmed by endless phone calls, scheduling mishaps, and tedious payment processing. In the midst of the chaos, Decoda Health emerges like a trusted partner.\r\n\r\nOur complete AI platform handles calls, manage appointments, process payments, and even communicate with patients—all in one seamless flow. With its multi-language support, Decoda Health ensures every patient feels heard, no matter where they're from. The result? Healthcare providers reclaim precious time, reduce costs, and devote their energy to what truly matters: delivering exceptional care.",
+    "one_liner": "AI-powered platform automating medical practice operations",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1689972321,
     "tags": [
+      "Artificial Intelligence",
       "Messaging",
       "Digital Health",
       "Healthcare IT",
-      "Billing",
-      "AI"
+      "Billing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4905,20 +4904,19 @@
       "EasyPani",
       "CaseHopper"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2627c6e6e4169631a004eb006b854552c50615f6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41c546d110edb0abbcb65c260715243f88b4c3cd.png",
     "website": "https://thecareoasis.com",
     "all_locations": "Dover, DE, USA; Remote",
     "long_description": "",
-    "one_liner": "Helping family caregivers get paid through government programs",
+    "one_liner": "Helping family caregivers get paid",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "B2B -> Legal",
     "launched_at": 1688331487,
     "tags": [
-      "Fintech",
       "Consumer Health Services",
       "Healthcare",
-      "Healthcare IT"
+      "Health Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6403,48 +6401,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/inari.json"
   },
   {
-    "id": 29007,
-    "name": "Smoothspeak",
-    "slug": "smoothspeak",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5eb7784065a8156fe021cef815b7ee7e46418cef.png",
-    "website": "https://www.smoothspeak.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Smoothspeak is an AI dating coach that you can text. We help you land more dates by improving how you text and speak in romantic scenarios through customized text suggestions and voice role play challenges.",
-    "one_liner": "Your personal AI dating coach",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1689495664,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Gaming",
-      "Dating",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/smoothspeak",
-    "api": "https://yc-oss.github.io/api/batches/s23/smoothspeak.json"
-  },
-  {
     "id": 29008,
     "name": "Andromeda Surgical",
     "slug": "andromeda-surgical",
@@ -6707,13 +6663,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SyntheticFi offers a low cost and low hassle solution for independent financial advisors (RIAs) to meet the liquidity needs of their clients.",
     "one_liner": "Cheapest way to get liquidity from your stock investments",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688426619,
     "tags": [
       "Fintech",
-      "Consumer",
+      "Proptech",
       "Lending"
     ],
     "tags_highlighted": [],
@@ -8468,7 +8424,7 @@
     "name": "Structured Labs",
     "slug": "structured-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/452e48c0e0c4bddca55b269be9dafcb249e368f0.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c6c75f571e43a6721ba7f7a597f1e9cb4c662b8.png",
     "website": "https://www.structuredlabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Structured is a full-stack platform for building, deploying, and managing interactive data applications. It brings ingestion, storage, transformation, and visualization into a simple SDK, minimizing complexity while maintaining flexibility for both prototyping and production-grade use cases.",
@@ -8478,11 +8434,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1686619959,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
       "Open Source",
-      "Data Visualization"
+      "Data Visualization",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

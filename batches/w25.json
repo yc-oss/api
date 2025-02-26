@@ -727,8 +727,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e153fb91aba9399d441f6364476829f360fb0a5.png",
     "website": "https://excellence-ai.com/",
     "all_locations": "Stanford, CA, USA",
-    "long_description": "A passionate team of ex-quants, mathematicians and physics champions devoted to education, bringing AI tutoring to high school and college students. We sell B2C and B2B2C in the US and France and already work for the most prestigious institutions in France (Ecole polytechnique, college Stanislas...).\r\n\r\nAiming at complementing/replacing private tutoring and long-term study programs such as Kumon (over 30B TAM).\r\n\r\nExcellence is a web platform where students can understand their school materials and interact with handcrafted courses and exercises, always guided by their personal AI tutor. They get detailed text, voice and graphical explanations, craft study plans, access adaptative courses and exercices, revise and memorize, and received human mentorship if needed.",
-    "one_liner": "Premium AI tutor starting with maths and science",
+    "long_description": "Aiming at complementing/replacing private tutoring and long-term study programs such as Kumon (over 30B TAM).\r\n\r\nExcellence is a web app for both ambitious and struggling students to learn math. As we believe each student is unique, we adapt our high quality courses and exercices to their knowledge and learning style in a very granular way. To facilitate learning, they get detailed text, voice and graphical explanations, can craft study plans, revise and memorize, and received human mentorship if needed.\r\n\r\nIn addition, we offer a program with daily courses and exercices, detailed feedback on their worksheets and more (super Kumon).\r\n\r\nFinally we sell the AI tutoring and exercise databases to schools in a B2B and B2B2C model and already work for the most prestigious institutions in France (Ecole polytechnique, college Stanislas...).\r\n\r\nWe're a passionate team of ex-quants, mathematicians and physics champions devoted to improving science education.",
+    "one_liner": "AI tutor starting with maths and science for 4th-12th grade",
     "team_size": 4,
     "industry": "Education",
     "subindustry": "Unspecified",
@@ -926,14 +926,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/836ac1a5479beec4034fd9b4728c997edac713b4.png",
     "website": "https://www.guse.io/",
     "all_locations": "",
-    "long_description": "Guse is the first fully multiplayer AI canvas for individuals and teams to work on research, writing, reports, and decks.\r\n\r\nA chat interface excels at straightforward, single-answer tasks, but falls short for more complex, iterative tasks such as compiling reports. \r\n\r\nExisting AI canvas tools offer a slightly better interface but lack any rich doc editor tooling, multiplayer functionality, or a truly great AI copilot experience. This prevents tangible, collaborative work from actually being done. \r\n\r\nA Guse canvas has a rich docs editor built in, full multiplayer, and an AI copilot capable of autonomously web searching, writing, and editing any content on the canvas. Individuals or teams can work, iterate, and collaborate on research, reports, etc. - then instantly export any canvas out to any format (yes, even fully fleshed out slides!). \r\n\r\nIf chat was the conversational interface for AI, Guse is the collaborative interface and we look forward to seeing what you use it for. Start your first canvas today at guse.io.",
-    "one_liner": "The first multiplayer AI canvas",
+    "long_description": "Guse is a simple spreadsheet that enables anyone to automate workflows with AI. Building a workflow is as easy as adding columns to a sheet and deploying just takes a single click. No new interfaces to learn, design paradigms to wrestle with, or code needed.",
+    "one_liner": "AI native spreadsheet to automate any workflow",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1737490708,
     "tags": [
-      "Documents",
       "Artificial Intelligence",
       "B2B",
       "AI Assistant"
@@ -1215,8 +1214,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e806fda08a2985d5611237545c62cc046d58b489.png",
     "website": "https://subtrace.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Subtrace is Wireshark for containers. It lets developers resolve production issues faster making it easy to track all backend requests coming in and going out of their backend server.",
-    "one_liner": "Resolve production issues in minutes, not months",
+    "long_description": "Subtrace shows developers every incoming and outgoing request in Docker containers so that they can resolve prod issues faster.",
+    "one_liner": "Wireshark for Docker containers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1453,6 +1452,51 @@
     "api": "https://yc-oss.github.io/api/batches/w25/superglue.json"
   },
   {
+    "id": 30213,
+    "name": "Truffle AI",
+    "slug": "truffle-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17f1a1e21672fa03c69b669feef31d2a59b2c849.png",
+    "website": "https://www.trytruffle.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Truffle AI makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Truffle to add customer support agents into WhatsApp and analytics agents into Slack.",
+    "one_liner": "AI Agents that work in any software",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1740509470,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Infrastructure",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/truffle-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/truffle-ai.json"
+  },
+  {
     "id": 30215,
     "name": "Contrario",
     "slug": "contrario",
@@ -1461,15 +1505,15 @@
     "website": "https://contrario.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Contrario helps companies hire top engineers faster by identifying and screening high-quality candidates. Their platform leverages proprietary AI to identify job seekers from an elite talent pool (Stanford, MIT, Palantir, OpenAI, etc.) who match your hiring needs. Their voice agents conduct customized interviews that evaluate your candidates’ abilities to use AI in real-world coding challenges. With Contrario, your company only interviews pre-vetted engineers that will 10x your company’s growth.",
-    "one_liner": "Contrario: AI to source and screen 10x engineers",
+    "one_liner": "World’s 1st AI Recruiting Agency",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1740035301,
     "tags": [
-      "Artificial Intelligence",
       "Marketplace",
       "Recruiting",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -1970,7 +2014,7 @@
       "Sift"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d00fe727e32957a1207328fc67938587038c996.png",
-    "website": "https://www.yc.trysift.dev/",
+    "website": "https://www.runsift.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're an intelligent pipeline for your logs. Reduce your logging volume and take back control in just a few clicks.",
     "one_liner": "Your Logs, Finally Free",
@@ -2140,17 +2184,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87405c9a329d17eef5b3fb8df2d9e2d8b30484d5.png",
     "website": "https://www.getrally.com/",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "Rally is a financial platform designed for fleets in Europe. We help blue-collar businesses like drivers, tradesmen and others, track all their vehicle and driver costs in one place with real-time data and AI-powered workflows for accounting and sustainability reporting. Our flagship product is a universal fleet card that covers fuel, EV charging, parking, tolls and more, with dynamic spend controls and fraud protection. At Rally, we’re building the financial backbone for transportation, enabling payments, credit, invoicing, tax rebates, driver payroll and beyond.",
+    "long_description": "We're building the financial platform for the future of mobility. Businesses across Europe spend more than €1 trillion on fuel, charging, and other fleet expenses each year, but the payment infrastructure they rely on hasn't changed since the 1980s. Rally sets a new standard for fleet finance, automating everything from payments to bookkeeping, credit, taxes, driver payroll, and more - helping businesses on the move like delivery services, construction crews, and service technicians stay in control and operate more efficiently.",
     "one_liner": "Financial OS for European Fleets",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1739666420,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Logistics",
-      "Transportation"
+      "Transportation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2172,6 +2216,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rally-3",
     "api": "https://yc-oss.github.io/api/batches/w25/rally-3.json"
+  },
+  {
+    "id": 30237,
+    "name": "Nuclear Software",
+    "slug": "nuclear-software",
+    "former_names": [
+      "Nuclear Software Solutions"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d753a7f42527d220d04f733e0e8c2179891fa0e1.png",
+    "website": "https://www.nuclearsoftware.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nuclear Software is the first continuous integration platform built for engineering simulations, designed for complex industries like nuclear, aerospace, automotive, and advanced manufacturing. It connects CAD models directly to simulation tools—neutronics, CFD, structural analysis, thermal simulations, and more—without manual data preparation. By automating geometry conversions and meshing, Nuclear Software eliminates bottlenecks and streamlines workflows, allowing engineers to focus on building better products.\r\n\r\nEvery design change automatically triggers simulations through a unified pipeline, ensuring real-time validation, version control, and traceability. Teams can customize workflows for individual components or run full system simulations, all within the same platform. Nuclear Software securely stores both designs and simulation results in a centralized repository, maintaining a complete version history linked to each design change. This single source of truth makes it easy to track progress, troubleshoot issues, and maintain accountability, reducing the risk of costly mistakes.\r\n\r\nNuclear Software’s robust access control system protects proprietary and regulated simulation codes, ensuring compliance and data security. By automating simulation workflows and connecting design iterations to real-time validation, Nuclear Software accelerates development cycles and empowers engineers to innovate faster and with greater precision.",
+    "one_liner": "Continuous integration engineering simulation platform.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1740465052,
+    "tags": [
+      "Climate",
+      "Energy",
+      "Aerospace",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nuclear-software",
+    "api": "https://yc-oss.github.io/api/batches/w25/nuclear-software.json"
   },
   {
     "id": 30238,
@@ -2980,17 +3068,18 @@
     "slug": "bindwell",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27909408e945386b5dab99b0a68f5cede01bee40.png",
-    "website": "https://www.bindwell.org/",
+    "website": "https://www.bindwell.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building AI models to develop better, safer pesticides in-house. Our latest model, Foldwell, is the AlphaFold killer—it's four times faster than AlphaFold 3.",
-    "one_liner": "AI platform for pesticide R&D",
+    "long_description": "We're developing better, safer pesticides in-house using custom AI models. \r\n\r\nOur latest model, Foldwell, is the AlphaFold killer—it's four times faster than AlphaFold 3.",
+    "one_liner": "Building better pesticides with AI",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740392812,
     "tags": [
       "AI-powered Drug Discovery",
-      "Agriculture"
+      "Agriculture",
+      "Sustainable Agriculture"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3226,6 +3315,50 @@
     "api": "https://yc-oss.github.io/api/batches/w25/athenahq.json"
   },
   {
+    "id": 30269,
+    "name": "Strike",
+    "slug": "strike",
+    "former_names": [
+      "PowerPlay"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e3212b214ed79ac19b611c2453947f4caaa6755d.png",
+    "website": "http://strikebet.app",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Strike is a daily fantasy sports platform that leverages options-style contracts to reward user conviction. By offering continuous payouts instead of binary outcomes, we aim to help transform daily fantasy sports and ultimately all event contracts from a casual pastime into a sophisticated asset class.\r\n",
+    "one_liner": "Transforming betting into a viable asset calss",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1740523068,
+    "tags": [
+      "Marketplace",
+      "Sports Tech",
+      "Gaming",
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/strike",
+    "api": "https://yc-oss.github.io/api/batches/w25/strike.json"
+  },
+  {
     "id": 30270,
     "name": "G LNK",
     "slug": "g-lnk",
@@ -3365,15 +3498,15 @@
     "website": "https://sophris.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sophris is your AI “engineer” for circuit board schematics, checking for errors—pin mismatches, connectivity gaps, or voltage conflicts—long before they derail your design. By flagging potential issues early, you can fix them ahead of production and avoid the frustrating re-spins that drive up costs and delay schedules.\r\n\r\nWhile traditional EDA tools offer basic ERC and DRC checks—like net connectivity and spacing—they don't dig deeply into component datasheets. Sophris takes it further, analyzing specs and cross-referencing design requirements from multiple sources. As a result, subtle pin misconfigurations, voltage mismatches, and datasheet-specific quirks that typical rule checks might miss are brought to light.\r\n\r\nBy identifying design flaws during the schematic phase, Sophris helps you iterate confidently and deliver more reliable products. Faster turnarounds, fewer production surprises, and a smoother path from concept to manufacturing. With Sophris, design more confidently and ship more reliably.",
-    "one_liner": "AI Engineer for Circuit Board Schematic Reviews",
+    "one_liner": "AI Engineer that Validates Circuit Board Schematics",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740017526,
     "tags": [
-      "Artificial Intelligence",
       "Design Tools",
-      "Electronics"
+      "Electronics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3529,7 +3662,7 @@
     "website": "https://rejot.dev",
     "all_locations": "Amsterdam, NH, Netherlands",
     "long_description": "At ReJot, we're building a synchronization engine to modernize sharing data between backend services within larger organizations. Traditional approaches for internal data transfer such as HTTP requests and event streaming require significant effort to implement and maintain. The biggest hurdle however, is the coordination required to get teams to start the actual integration work.\r\n\r\nOur approach is based on synchronization, teams define what data their backend publishes and requires, and we'll make sure everything is reactively up-to-date. By being declarative about integrations, project management overhead as well as technical integration burdens are avoided. ReJot uses your existing infrastructure such as Postgres and Kafka.\r\n",
-    "one_liner": "Sync engine to enable reactive backends for cross-team integrations",
+    "one_liner": "Sync engine to share data across engineering teams in enterprises",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -3857,18 +3990,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/514545bed169ad1eb626571d7e0d77375b33f656.png",
     "website": "http://nitrode.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nitrode is an AI-assisted gaming platform designed to transform your gaming experience. Whether you're an aspiring game developer or a passionate gamer, Nitrode empowers you to effortlessly build, launch, and play your favorite games. Leveraging AI, Nitrode streamlines the game creation and launching process, allowing creators to focus on their vision without getting bogged down by mechanics or technical complexities.",
-    "one_liner": "AI-assisted game development platform",
+    "long_description": "Nitrode is an AI game development engine designed to transform your gaming experience. Whether you're an aspiring game developer or a passionate gamer, Nitrode empowers you to effortlessly build, launch, and play your favorite games. Leveraging AI, Nitrode streamlines the game creation and launching process, allowing creators to focus on their vision without getting bogged down by mechanics or technical complexities.",
+    "one_liner": "AI game development engine",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1738144366,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Consumer",
-      "Gaming",
-      "AI"
+      "Gaming"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3976,6 +4109,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/harper",
     "api": "https://yc-oss.github.io/api/batches/w25/harper.json"
+  },
+  {
+    "id": 30290,
+    "name": "Tire Swing",
+    "slug": "tire-swing",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/954a6e03dc3be9737df64c792b63e036b1c580cf.png",
+    "website": "https://gettireswing.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Tire Swing saves health care companies hours on routine regulatory compliance tasks.\r\n\r\nOur AI platform enables compliance teams to search across thousands of regulations, prepare for audits, and find gaps in their policies and procedures. As regulatory changes occur we suggest corresponding updates to your documents.\r\n\r\nTire Swing takes the headache out of compliance so healthcare organizations can focus on their mission.\r\n\r\n\r\n",
+    "one_liner": "AI regulatory research and compliance for health care ",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1740473580,
+    "tags": [
+      "Health Tech",
+      "Compliance",
+      "Legal",
+      "Healthcare",
+      "Health Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tire-swing",
+    "api": "https://yc-oss.github.io/api/batches/w25/tire-swing.json"
   },
   {
     "id": 30291,
@@ -4363,17 +4539,17 @@
     "website": "https://tryfuse.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're building a new agentic operating system to enable enterprises to automate their entire go-to-market (GTM) organizations with vertical AI agents. You can think of the platform as Salesforce meets OpenAI Operator, specifically for GTM teams. We enable you to run your entire sales deal cycle through a simple AI-powered conversational interface, built on-top of an E2E product suite - use natural language to manage customer relationships, enrich B2B contacts, find high-intent leads, and engage with clients in seconds.",
-    "one_liner": "The world's first Customer General Intelligence platform.",
+    "one_liner": "The world's first Agent Sales platform.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1738217807,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Sales",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4703,8 +4879,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d86ffdce2296389239f29bc23023bc7867815208.png",
     "website": "https://www.optifye.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Optifye.ai is an AI performance monitoring system for factory workers. \r\n\r\nWe place cameras in assembly lines and use computer vision to tell supervisors who's working and who's not in real-time.\r\n\r\nThe shop floor has historically been a black box. With Optifye, manufacturing companies can now accurately measure worker output and make decisions that boost line efficiency by up to 30%.",
-    "one_liner": "AI Performance Monitoring For Factory Workers",
+    "long_description": "Optifye.ai is an AI line Optimization system for manual assembly.\r\n\r\nWe place cameras in assembly lines and use computer vision to help supervisors solve shop-floor inefficiencies in real-time. \r\n\r\nThe shop floor has historically been a black box. With Optifye, manufacturing companies can now accurately measure workspace output and make decisions that boost line efficiency by up to 30%.",
+    "one_liner": "AI line optimization for manual assembly",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4910,7 +5086,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f61a620104d762fb5251d86b6311e0d747652b45.png",
     "website": "https://proception.ai/",
-    "all_locations": "Palo Alto, CA, USA",
+    "all_locations": "",
     "long_description": "",
     "one_liner": "Making humanoids dexterous enough to thread a needle",
     "team_size": 5,
@@ -4918,8 +5094,8 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1739402915,
     "tags": [
-      "Artificial Intelligence",
-      "Robotics"
+      "Robotics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4932,8 +5108,7 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5077,15 +5252,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7eeed88cf20d9f39f503ec2708b6bf85e2e7e652.png",
     "website": "https://roark.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Roark is an observability and testing platform for voice AI that shows whether your agent met its goals, tracks caller sentiment, and replays real calls to test changes before deploying them. We already process hundreds of calls per week for healthcare and legal teams, saving hours of manual QA and helping them fix issues faster.",
+    "long_description": "Roark is an observability and testing platform for voice AI that shows whether your agent met its goals, tracks caller sentiment, and simulates replays of real calls to test changes before deploying them. We already process thousands of calls per week for healthcare and legal teams, saving hours of manual QA and helping them fix issues faster.",
     "one_liner": "Replay, Analyze, and Improve Your Voice AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1737797905,
     "tags": [
+      "Artificial Intelligence",
       "Analytics",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -5500,7 +5675,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c098c79c1154d878f59439428e54fe98a83295a2.png",
     "website": "https://browser-use.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Browser Use allows developers to create state of the art web agents with a few lines of code.\r\n\r\nWe currently stand at 89% on Web Voyager dataset, which is the best web agent you can actually use.\r\n\r\nFastest growing repository on Github in January 2025",
+    "long_description": "Browser Use allows developers to create state of the art web agents with a few lines of code.\r\n\r\nWe currently stand at 89% on Web Voyager dataset, which is the best web agent you can actually use.\r\n\r\nFastest growing repository on Github in January 2025. 40k combined ⭐ on Github ",
     "one_liner": "Open Source Web Agents",
     "team_size": 2,
     "industry": "B2B",
@@ -5543,17 +5718,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d689d59276a36e33100281dbe98a74bcaf59a06.png",
     "website": "https://www.cedar.law/home",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cedar is an AI copilot for any app. Imagine the founder themselves being behind every user’s screen: actively converting them, answering product questions, and upselling. \r\n\r\nJesse worked at Intuit, writing software for TurboTax designed for customers of all tech literacy levels. Isabelle worked at Figma and Notion, learning about the struggles of getting users to effectively use powerful yet complex products as well as GTM strategies to reach them.\r\n\r\nAt every step of the conversion funnel, users and companies struggle with knowledge gaps. Users not knowing how a product helps them reduces conversion, activation and retention. Companies not knowing what users want misleads messaging, product, and re-engaging churned leads. \r\n\r\nAI can do more than just replace a single job or industry. With Cedar at the center, we reimagine growth and customer support entirely, provide qualitative analytics of the user’s story and using them to improve user’s experiences live. As we enter the age of AI agents, they too will need an understanding of what software does and how to execute it. We plan to be the front door for all of them.",
-    "one_liner": "In-product AI copilot & PMF analytics for any app",
+    "long_description": "Cedar is an AI copilot for any app. Imagine the founders themselves being behind every user’s screen: actively converting them, answering product questions, and upselling. \r\n\r\nJesse worked at Intuit, writing software for TurboTax designed for customers of all tech literacy levels. Isabelle worked at Figma and Notion, learning about the struggles of getting users to effectively use powerful yet complex products as well as GTM strategies to reach them.\r\n\r\nAt every step of the conversion funnel, users and companies struggle with knowledge gaps. Users not knowing how a product helps them reduces conversion, activation and retention. Companies not knowing what users want misleads messaging, product, and re-engaging churned leads. \r\n\r\nAI can do more than just replace a single job or industry. With Cedar at the center, we reimagine growth and customer support entirely, provide qualitative analytics of the user’s story and using them to improve user’s experiences live. As we enter the age of AI agents, they too will need an understanding of what software does and how to execute it. We plan to be the front door for all of them.",
+    "one_liner": "In-product AI copilot & for any app",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1739293549,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Customer Success",
       "Customer Support",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -5710,7 +5885,7 @@
     "former_names": [
       "Trestle"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80402789fd0af92a9c900feb4b8e94bcff9e5525.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e88e78c0dea08f3aafaca4fcf9f07a5ef200e54.png",
     "website": "https://tallyhq.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tally is building AI agents for accounting firms. Tally agents operate autonomously in a firm’s existing systems, automating repetitive work across accounting, tax, and audit, helping teams be more efficient and focus their efforts on higher risk, more complex work.",
@@ -5720,8 +5895,8 @@
     "subindustry": "Unspecified",
     "launched_at": 1739308183,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -821,6 +821,50 @@
     "api": "https://yc-oss.github.io/api/batches/s21/scispot-io.json"
   },
   {
+    "id": 24408,
+    "name": "Forage Mail",
+    "slug": "forage-mail",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5dfe444e94f2a9695e6a03a3323c5bdcc0068d24.png",
+    "website": "https://foragemail.com",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Forage filters low-priority emails from your Gmail. It sends you a clean, daily summary of the emails it filtered out, including a TLDR for every newsletter. It learns your preferences and gives you full control with custom rules. Works with any email app.",
+    "one_liner": "AI that solves email overwhelm. Not another mail app.",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1630040488,
+    "tags": [
+      "Consumer",
+      "Productivity",
+      "Email",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/forage-mail",
+    "api": "https://yc-oss.github.io/api/batches/s21/forage-mail.json"
+  },
+  {
     "id": 25279,
     "name": "Moots AI",
     "slug": "moots-ai",
@@ -4838,14 +4882,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/836ac1a5479beec4034fd9b4728c997edac713b4.png",
     "website": "https://www.guse.io/",
     "all_locations": "",
-    "long_description": "Guse is the first fully multiplayer AI canvas for individuals and teams to work on research, writing, reports, and decks.\r\n\r\nA chat interface excels at straightforward, single-answer tasks, but falls short for more complex, iterative tasks such as compiling reports. \r\n\r\nExisting AI canvas tools offer a slightly better interface but lack any rich doc editor tooling, multiplayer functionality, or a truly great AI copilot experience. This prevents tangible, collaborative work from actually being done. \r\n\r\nA Guse canvas has a rich docs editor built in, full multiplayer, and an AI copilot capable of autonomously web searching, writing, and editing any content on the canvas. Individuals or teams can work, iterate, and collaborate on research, reports, etc. - then instantly export any canvas out to any format (yes, even fully fleshed out slides!). \r\n\r\nIf chat was the conversational interface for AI, Guse is the collaborative interface and we look forward to seeing what you use it for. Start your first canvas today at guse.io.",
-    "one_liner": "The first multiplayer AI canvas",
+    "long_description": "Guse is a simple spreadsheet that enables anyone to automate workflows with AI. Building a workflow is as easy as adding columns to a sheet and deploying just takes a single click. No new interfaces to learn, design paradigms to wrestle with, or code needed.",
+    "one_liner": "AI native spreadsheet to automate any workflow",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1737490708,
     "tags": [
-      "Documents",
       "Artificial Intelligence",
       "B2B",
       "AI Assistant"
@@ -4869,6 +4912,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/guse",
     "api": "https://yc-oss.github.io/api/batches/w25/guse.json"
+  },
+  {
+    "id": 30213,
+    "name": "Truffle AI",
+    "slug": "truffle-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17f1a1e21672fa03c69b669feef31d2a59b2c849.png",
+    "website": "https://www.trytruffle.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Truffle AI makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Truffle to add customer support agents into WhatsApp and analytics agents into Slack.",
+    "one_liner": "AI Agents that work in any software",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1740509470,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Infrastructure",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/truffle-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/truffle-ai.json"
   },
   {
     "id": 30222,
@@ -5091,17 +5179,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d689d59276a36e33100281dbe98a74bcaf59a06.png",
     "website": "https://www.cedar.law/home",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cedar is an AI copilot for any app. Imagine the founder themselves being behind every user’s screen: actively converting them, answering product questions, and upselling. \r\n\r\nJesse worked at Intuit, writing software for TurboTax designed for customers of all tech literacy levels. Isabelle worked at Figma and Notion, learning about the struggles of getting users to effectively use powerful yet complex products as well as GTM strategies to reach them.\r\n\r\nAt every step of the conversion funnel, users and companies struggle with knowledge gaps. Users not knowing how a product helps them reduces conversion, activation and retention. Companies not knowing what users want misleads messaging, product, and re-engaging churned leads. \r\n\r\nAI can do more than just replace a single job or industry. With Cedar at the center, we reimagine growth and customer support entirely, provide qualitative analytics of the user’s story and using them to improve user’s experiences live. As we enter the age of AI agents, they too will need an understanding of what software does and how to execute it. We plan to be the front door for all of them.",
-    "one_liner": "In-product AI copilot & PMF analytics for any app",
+    "long_description": "Cedar is an AI copilot for any app. Imagine the founders themselves being behind every user’s screen: actively converting them, answering product questions, and upselling. \r\n\r\nJesse worked at Intuit, writing software for TurboTax designed for customers of all tech literacy levels. Isabelle worked at Figma and Notion, learning about the struggles of getting users to effectively use powerful yet complex products as well as GTM strategies to reach them.\r\n\r\nAt every step of the conversion funnel, users and companies struggle with knowledge gaps. Users not knowing how a product helps them reduces conversion, activation and retention. Companies not knowing what users want misleads messaging, product, and re-engaging churned leads. \r\n\r\nAI can do more than just replace a single job or industry. With Cedar at the center, we reimagine growth and customer support entirely, provide qualitative analytics of the user’s story and using them to improve user’s experiences live. As we enter the age of AI agents, they too will need an understanding of what software does and how to execute it. We plan to be the front door for all of them.",
+    "one_liner": "In-product AI copilot & for any app",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1739293549,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Customer Success",
       "Customer Support",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

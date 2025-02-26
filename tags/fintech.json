@@ -7733,7 +7733,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S19",
     "status": "Active",
@@ -15191,7 +15191,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -26112,7 +26112,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1201a58c5de47a287ab4ea6a262a2598a1e6f3af.png",
     "website": "http://peeba.com/",
-    "all_locations": "Hong Kong, Hong Kong",
+    "all_locations": "Jakarta, Jakarta, Indonesia",
     "long_description": "Peeba is a one-stop B2B wholesale marketplace that is changing the way retailers across Asia purchase inventory. We’ve streamlined the buying process, making it easier than ever for independent retailers to buy top-selling products from unique brands for their stores.",
     "one_liner": "Risk-free wholesale for retailers across Southeast Asia",
     "team_size": 30,
@@ -26135,8 +26135,8 @@
       "B2B"
     ],
     "regions": [
-      "Hong Kong",
-      "East Asia",
+      "Indonesia",
+      "Southeast Asia",
       "Remote",
       "Partly Remote"
     ],
@@ -26890,53 +26890,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/respaid.json"
   },
   {
-    "id": 28939,
-    "name": "CareOasis",
-    "slug": "careoasis",
-    "former_names": [
-      "EasyPani",
-      "CaseHopper"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2627c6e6e4169631a004eb006b854552c50615f6.png",
-    "website": "https://thecareoasis.com",
-    "all_locations": "Dover, DE, USA; Remote",
-    "long_description": "",
-    "one_liner": "Helping family caregivers get paid through government programs",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1688331487,
-    "tags": [
-      "Fintech",
-      "Consumer Health Services",
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/careoasis",
-    "api": "https://yc-oss.github.io/api/batches/s23/careoasis.json"
-  },
-  {
     "id": 28965,
     "name": "Yenmo",
     "slug": "yenmo",
@@ -27157,13 +27110,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SyntheticFi offers a low cost and low hassle solution for independent financial advisors (RIAs) to meet the liquidity needs of their clients.",
     "one_liner": "Cheapest way to get liquidity from your stock investments",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Fintech",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688426619,
     "tags": [
       "Fintech",
-      "Consumer",
+      "Proptech",
       "Lending"
     ],
     "tags_highlighted": [],
@@ -29584,17 +29537,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87405c9a329d17eef5b3fb8df2d9e2d8b30484d5.png",
     "website": "https://www.getrally.com/",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "Rally is a financial platform designed for fleets in Europe. We help blue-collar businesses like drivers, tradesmen and others, track all their vehicle and driver costs in one place with real-time data and AI-powered workflows for accounting and sustainability reporting. Our flagship product is a universal fleet card that covers fuel, EV charging, parking, tolls and more, with dynamic spend controls and fraud protection. At Rally, we’re building the financial backbone for transportation, enabling payments, credit, invoicing, tax rebates, driver payroll and beyond.",
+    "long_description": "We're building the financial platform for the future of mobility. Businesses across Europe spend more than €1 trillion on fuel, charging, and other fleet expenses each year, but the payment infrastructure they rely on hasn't changed since the 1980s. Rally sets a new standard for fleet finance, automating everything from payments to bookkeeping, credit, taxes, driver payroll, and more - helping businesses on the move like delivery services, construction crews, and service technicians stay in control and operate more efficiently.",
     "one_liner": "Financial OS for European Fleets",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1739666420,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Logistics",
-      "Transportation"
+      "Transportation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

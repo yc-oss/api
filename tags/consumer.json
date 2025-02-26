@@ -3098,8 +3098,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5dfe444e94f2a9695e6a03a3323c5bdcc0068d24.png",
     "website": "https://foragemail.com",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Forage filters out the noise in your inbox, summarizes your newsletters, and sends you a beautiful daily summary. It works right inside your existing mail app, learns your preferences, and keeps you in control.",
-    "one_liner": "AI the solves email overwhelm without changing your workflow",
+    "long_description": "Forage filters low-priority emails from your Gmail. It sends you a clean, daily summary of the emails it filtered out, including a TLDR for every newsletter. It learns your preferences and gives you full control with custom rules. Works with any email app.",
+    "one_liner": "AI that solves email overwhelm. Not another mail app.",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "B2B -> Productivity",
@@ -3107,7 +3107,9 @@
     "tags": [
       "Consumer",
       "Productivity",
-      "Email"
+      "Email",
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6615,89 +6617,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/envelope.json"
   },
   {
-    "id": 29007,
-    "name": "Smoothspeak",
-    "slug": "smoothspeak",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5eb7784065a8156fe021cef815b7ee7e46418cef.png",
-    "website": "https://www.smoothspeak.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Smoothspeak is an AI dating coach that you can text. We help you land more dates by improving how you text and speak in romantic scenarios through customized text suggestions and voice role play challenges.",
-    "one_liner": "Your personal AI dating coach",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1689495664,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Gaming",
-      "Dating",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/smoothspeak",
-    "api": "https://yc-oss.github.io/api/batches/s23/smoothspeak.json"
-  },
-  {
-    "id": 29026,
-    "name": "SyntheticFi",
-    "slug": "syntheticfi",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f0607c6fc319d3fd282b4fdce4a69626c418c6e.png",
-    "website": "https://www.syntheticfi.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "SyntheticFi offers a low cost and low hassle solution for independent financial advisors (RIAs) to meet the liquidity needs of their clients.",
-    "one_liner": "Cheapest way to get liquidity from your stock investments",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1688426619,
-    "tags": [
-      "Fintech",
-      "Consumer",
-      "Lending"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Asset Management"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/syntheticfi",
-    "api": "https://yc-oss.github.io/api/batches/s23/syntheticfi.json"
-  },
-  {
     "id": 29091,
     "name": "Remy",
     "slug": "remy-2",
@@ -8328,18 +8247,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/514545bed169ad1eb626571d7e0d77375b33f656.png",
     "website": "http://nitrode.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nitrode is an AI-assisted gaming platform designed to transform your gaming experience. Whether you're an aspiring game developer or a passionate gamer, Nitrode empowers you to effortlessly build, launch, and play your favorite games. Leveraging AI, Nitrode streamlines the game creation and launching process, allowing creators to focus on their vision without getting bogged down by mechanics or technical complexities.",
-    "one_liner": "AI-assisted game development platform",
+    "long_description": "Nitrode is an AI game development engine designed to transform your gaming experience. Whether you're an aspiring game developer or a passionate gamer, Nitrode empowers you to effortlessly build, launch, and play your favorite games. Leveraging AI, Nitrode streamlines the game creation and launching process, allowing creators to focus on their vision without getting bogged down by mechanics or technical complexities.",
+    "one_liner": "AI game development engine",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1738144366,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Consumer",
-      "Gaming",
-      "AI"
+      "Gaming"
     ],
     "tags_highlighted": [],
     "top_company": false,

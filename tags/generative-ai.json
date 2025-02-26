@@ -6434,20 +6434,19 @@
     "slug": "remy",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b0f6a6d9697c73c56e4ffd40933940d124fb99.png",
-    "website": "https://www.remysec.com/",
+    "website": "https://www.startremy.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Use Remy to discover upcoming engineering work, perform automatic triage and speed up your design reviews. ",
-    "one_liner": "Resolve product security risks early with AI",
+    "long_description": "Remy automates insurance-related tasks for practices, starting with phone calls to verify patient benefits and check on claims.",
+    "one_liner": "Making it simpler for medical clinics to work with insurance",
     "team_size": 4,
-    "industry": "B2B",
+    "industry": "Healthcare",
     "subindustry": "B2B -> Security",
     "launched_at": 1687066070,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
-      "B2B",
-      "Productivity",
-      "Security"
+      "Health Insurance",
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6456,8 +6455,8 @@
     "batch": "S23",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Security"
+      "Healthcare",
+      "Healthcare Services"
     ],
     "regions": [
       "United States of America",
@@ -8305,52 +8304,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/open",
     "api": "https://yc-oss.github.io/api/batches/w24/open.json"
-  },
-  {
-    "id": 29365,
-    "name": "Ellipsis",
-    "slug": "ellipsis",
-    "former_names": [
-      "BitBuilder",
-      "Ellipsis",
-      "ellipsis"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/825caa6d8502745ed1854595552f4f7f1091bb3e.png",
-    "website": "https://ellipsis.dev",
-    "all_locations": "",
-    "long_description": "Ellipsis will help your team merge code 13% faster.\r\n\r\nEllipsis is an AI developer tool that automatically reviews code and fixes bugs on pull requests. It uses LLM agents to catch logical errors, security issues, and can even enforce a team's style guide.\r\n\r\nThe coolest part is that after Ellipsis identifies an issue, developers can tag @ellipsis-dev to have Ellipsis implement the fix. Internally, Ellipsis actually executes the code it generates, just like a human does.\r\n\r\nAs a result, we allow developers to generate working, tested code directly from GitHub/GitLab. ",
-    "one_liner": "AI code reviews & bug fixes",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1706288452,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "SaaS",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ellipsis",
-    "api": "https://yc-oss.github.io/api/batches/w24/ellipsis.json"
   },
   {
     "id": 29372,
@@ -10979,6 +10932,51 @@
     "api": "https://yc-oss.github.io/api/batches/w25/promptless.json"
   },
   {
+    "id": 30213,
+    "name": "Truffle AI",
+    "slug": "truffle-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17f1a1e21672fa03c69b669feef31d2a59b2c849.png",
+    "website": "https://www.trytruffle.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Truffle AI makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Truffle to add customer support agents into WhatsApp and analytics agents into Slack.",
+    "one_liner": "AI Agents that work in any software",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1740509470,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Infrastructure",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/truffle-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/truffle-ai.json"
+  },
+  {
     "id": 30217,
     "name": "Rocketable",
     "slug": "rocketable",
@@ -11113,7 +11111,7 @@
       "Sift"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d00fe727e32957a1207328fc67938587038c996.png",
-    "website": "https://www.yc.trysift.dev/",
+    "website": "https://www.runsift.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're an intelligent pipeline for your logs. Reduce your logging volume and take back control in just a few clicks.",
     "one_liner": "Your Logs, Finally Free",
@@ -11366,18 +11364,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/514545bed169ad1eb626571d7e0d77375b33f656.png",
     "website": "http://nitrode.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nitrode is an AI-assisted gaming platform designed to transform your gaming experience. Whether you're an aspiring game developer or a passionate gamer, Nitrode empowers you to effortlessly build, launch, and play your favorite games. Leveraging AI, Nitrode streamlines the game creation and launching process, allowing creators to focus on their vision without getting bogged down by mechanics or technical complexities.",
-    "one_liner": "AI-assisted game development platform",
+    "long_description": "Nitrode is an AI game development engine designed to transform your gaming experience. Whether you're an aspiring game developer or a passionate gamer, Nitrode empowers you to effortlessly build, launch, and play your favorite games. Leveraging AI, Nitrode streamlines the game creation and launching process, allowing creators to focus on their vision without getting bogged down by mechanics or technical complexities.",
+    "one_liner": "AI game development engine",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1738144366,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Consumer",
-      "Gaming",
-      "AI"
+      "Gaming"
     ],
     "tags_highlighted": [],
     "top_company": false,
