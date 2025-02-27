@@ -35879,11 +35879,11 @@
       "Devstore"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc87029e5a78d6cc28d8d10fc173581df6c2afa6.png",
-    "website": "https://openbase.com",
+    "website": "",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "There are millions of open-source packages out there, and developers often spend hours researching and evaluating competing packages to find the right one.\r\nOpenbase is the first platform to offer user reviews for packages, powerful insights and categorization for open-source packages - so developers can choose the right package every time.",
-    "one_liner": "We help developers choose among millions of open-source packages",
-    "team_size": 8,
+    "long_description": "Openbase was the leading platform for developers to discover and choose open-source libraries. It offered countless reviews, metrics, and insights enjoyed by millions of developers worldwide. Discontinued in 2023.",
+    "one_liner": "Open-source library discovery",
+    "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1594854533,
@@ -57222,7 +57222,10 @@
     "former_names": [
       "Codex",
       "CODEOWNERS",
-      "CODEOWNERS (fka Codex)"
+      "CODEOWNERS (fka Codex)",
+      "EchoLayer",
+      "EchoLayer (fka Codex)",
+      "Squire.ai (fka EchoLayer)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8972703d81fdbb75413d24021353cf5ed0937ec2.png",
     "website": "https://squire.ai",
@@ -57242,10 +57245,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -60958,7 +60961,7 @@
       "Vista"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27cef04a2b2af454d42923ab9d77113e9f198884.png",
-    "website": "https://www.versable.ai/",
+    "website": "https://www.versableai.com/",
     "all_locations": "Los Angeles, CA, USA; Remote",
     "long_description": "Auto parts retailers get product data from hundreds of manufacturers that is inaccurate and inconsistent, often with big gaps in key values. They currently have a team of \"catalog managers\" who are required to process and enhance this data line by line, resulting in a week to months long lag between receiving product data and actually being able to start generating revenue from those products. \r\n\r\nVersable leverages AI to scan the web for tens of millions of auto parts listings, and uses a fine-tuned LLM with RAG to instantly process, enhance, and transform data. With just a part number, Versable is able to generate market-ready titles, product descriptions, and specs, in any format that's needed. ",
     "one_liner": "AI powered product description enhancement for the auto parts industry",
@@ -60967,9 +60970,9 @@
     "subindustry": "B2B -> Retail",
     "launched_at": 1642519106,
     "tags": [
-      "Artificial Intelligence",
       "Manufacturing",
       "Data Engineering",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -69225,7 +69228,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -79489,7 +79492,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -83343,8 +83346,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea071d17d03a0effc12bac914da21cd9bee66060.png",
     "website": "https://continue.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside the IDE",
-    "one_liner": "The leading open-source AI code assistant",
+    "long_description": "Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks",
+    "one_liner": "Create, share, and use custom AI code assistants",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -91355,11 +91358,11 @@
     "subindustry": "B2B",
     "launched_at": 1707350817,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Workflow Automation"
+      "Workflow Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -91375,7 +91378,7 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -93514,10 +93517,10 @@
     "subindustry": "Education",
     "launched_at": 1718632251,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Biotech",
-      "Search"
+      "Search",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -97914,16 +97917,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a22f1efd256331a2e5ea299a5c6ecd931817254.png",
     "website": "https://www.you-shift.com/",
     "all_locations": "",
-    "long_description": "We make scheduling for doctors fast, easy, and stress-free. By blending complex hospital rules with personal preferences, our algorithm generates smart, conflict-free schedules that save time and improve work-life balance. With seamless shift swaps and real-time updates, schedules remain flexible and always up-to-date.",
-    "one_liner": "We automate doctor shift scheduling to save time and reduce burnout.",
+    "long_description": "YouShift uses AI to automate hospital shift scheduling, eliminating the need for full-time schedulers and outdated, manual processes. And scheduling is just the beginning — we're building the future of healthcare workforce management.",
+    "one_liner": "AI-powered shift scheduling for healthcare, to save time and money.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1738883676,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Scheduling",
-      "Healthcare"
+      "Healthcare",
+      "HR Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -98845,7 +98850,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/743c785c35b25f87660bedbb70b1a2667dbe9c7e.png",
     "website": "https://www.shipoway.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Oway is a rideshare freight platform that uses machine learning to automatically coordinate and sell unused space in trucks to SMBs at a 50% discount for lightning-fast shipping. \r\n\r\nEvery year, nearly 50% all truck space goes unused annually in the almost $1T US trucking industry. On the other hand, SMBs represent 44% of the US GDP and are historically forced to deal with high freight rates and friction due to their small size compared to enterprise businesses. \r\n\r\nWith trucking being a hyper-fragmented market (90%+ of US trucking companies are small family businesses), we decided to build an ecosystem that takes all of this inefficiency and turns it into something that could fundamentally transform the livelihoods of businesses and drivers alike.\r\n\r\nOway is designed to be simple (you can place an order in 30 seconds) and scale with your business. Our ML rideshare protocol now allows businesses to ship freight affordably and faster than ever before. We also improve the survivability of independent truckers by maximizing their revenue when they’re already on the road - and it’s great for the environment too. 🍃",
+    "long_description": "Oway is a rideshare freight platform that uses machine learning to automatically coordinate and sell unused space in trucks to businesses from enterprise to SMB at a 50% discount for lightning-fast shipping. \r\n\r\nEvery year, nearly 50% all truck space goes unused annually in the almost $1T US trucking industry. On the other hand, SMBs represent 44% of the US GDP and are historically forced to deal with high freight rates and friction due to their small size compared to enterprise businesses. \r\n\r\nWith trucking being a hyper-fragmented market (90%+ of US trucking companies are small family businesses), we decided to build an ecosystem that takes all of this inefficiency and turns it into something that could fundamentally transform the livelihoods of businesses and drivers alike.\r\n\r\nOway is designed to be simple (you can place an order in 15 seconds) and scale with your business. Our ML rideshare protocol now allows businesses to ship freight affordably and faster than ever before. We also improve the survivability of independent truckers by maximizing their revenue when they’re already on the road - and it’s great for the environment too. 🍃",
     "one_liner": "Ridesharing freight with ML to cut pallet shipping costs by 50%",
     "team_size": 12,
     "industry": "B2B",
@@ -101563,7 +101568,7 @@
     "name": "vly.ai",
     "slug": "vly-ai-2",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f1f18d8b47e8fea70cee789ba9bf7d88a9f5e2b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f249e7f55bb4c8e776f8301261399d2847928f9c.png",
     "website": "https://vly.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "vly.ai completely replaces the full-stack developer for companies. We combine the highest-ranking swe-bench agent with a no-code platform to eliminate the developer layer and automate the deployment, hosting, & scaling of production applications.",
@@ -101573,10 +101578,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1730684290,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Enterprise Software",
-      "Web Development"
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -103158,6 +103163,49 @@
     "api": "https://yc-oss.github.io/api/batches/w25/truffle-ai.json"
   },
   {
+    "id": 30214,
+    "name": "Ovlo",
+    "slug": "ovlo",
+    "former_names": [
+      "Melly AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d304cbd06b3802a658affb94ae4692a4af27ab10.png",
+    "website": "https://ovlo.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ovlo is an AI shopping assistant that revolutionizes e-commerce discovery and conversion. Up to 68% of online shoppers abandon sites due to poor search experiences, leading to an estimated $2 trillion in lost sales annually.\r\n\r\nOvlo addresses this by offering natural, conversational search capabilities, bridging the gap between in-store personal assistance and online shopping. Unlike traditional search functions that often fail with simple queries, Ovlo understands and processes nuanced user requests, ensuring they find exactly what they need.\r\n\r\nOur solution integrates seamlessly within minutes, eliminating the need for complex setups or extensive developer resources. Founded by a team of experts from Meta, Google, and Amazon, Ovlo delivers enterprise-grade technology to merchants without the typical six-figure implementation costs.",
+    "one_liner": "AI Shopping Assistant for Ecommerce ",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1740586280,
+    "tags": [
+      "Artificial Intelligence",
+      "Retail",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ovlo",
+    "api": "https://yc-oss.github.io/api/batches/w25/ovlo.json"
+  },
+  {
     "id": 30215,
     "name": "Contrario",
     "slug": "contrario",
@@ -103198,6 +103246,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/contrario",
     "api": "https://yc-oss.github.io/api/batches/w25/contrario.json"
+  },
+  {
+    "id": 30216,
+    "name": "Sublingual",
+    "slug": "sublingual",
+    "former_names": [
+      "Khipu"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffaa07742bdd32e6b3e7d2318a753289e334055.png",
+    "website": "https://sublingual.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Open source tool which helps you log and analyze all of your LLM calls, including the prompt template, call parameters, responses, tool calls, and more. The coolest thing? You don't have to change any of your code!",
+    "one_liner": "LLM Observability with zero changes to your code",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1740613527,
+    "tags": [
+      "Artificial Intelligence",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sublingual",
+    "api": "https://yc-oss.github.io/api/batches/w25/sublingual.json"
   },
   {
     "id": 30217,
@@ -103664,6 +103754,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/adam.json"
   },
   {
+    "id": 30236,
+    "name": "Tergle",
+    "slug": "tergle",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/441b34e3b91d1925fe09d25d993360b31f740df4.png",
+    "website": "https://tergle.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tergle builds AI agents for auditing.",
+    "one_liner": "AI agents for auditing",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1740611994,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Compliance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tergle",
+    "api": "https://yc-oss.github.io/api/batches/w25/tergle.json"
+  },
+  {
     "id": 30237,
     "name": "Nuclear Software",
     "slug": "nuclear-software",
@@ -103674,7 +103806,7 @@
     "website": "https://www.nuclearsoftware.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nuclear Software is the first continuous integration platform built for engineering simulations, designed for complex industries like nuclear, aerospace, automotive, and advanced manufacturing. It connects CAD models directly to simulation tools—neutronics, CFD, structural analysis, thermal simulations, and more—without manual data preparation. By automating geometry conversions and meshing, Nuclear Software eliminates bottlenecks and streamlines workflows, allowing engineers to focus on building better products.\r\n\r\nEvery design change automatically triggers simulations through a unified pipeline, ensuring real-time validation, version control, and traceability. Teams can customize workflows for individual components or run full system simulations, all within the same platform. Nuclear Software securely stores both designs and simulation results in a centralized repository, maintaining a complete version history linked to each design change. This single source of truth makes it easy to track progress, troubleshoot issues, and maintain accountability, reducing the risk of costly mistakes.\r\n\r\nNuclear Software’s robust access control system protects proprietary and regulated simulation codes, ensuring compliance and data security. By automating simulation workflows and connecting design iterations to real-time validation, Nuclear Software accelerates development cycles and empowers engineers to innovate faster and with greater precision.",
-    "one_liner": "Continuous integration engineering simulation platform.",
+    "one_liner": "GitLab for Hard Tech.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Industrials -> Energy",
@@ -103884,7 +104016,7 @@
     "website": "https://www.tryoperand.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Operand is building an AI to replace traditional consulting. We help businesses make better decisions by deeply analyzing their data across all sources—something consultants can’t do at scale.\r\n\r\nWe’re starting in e-commerce and retail, where the businesses’ high data density and real-time feedback loops allow us to show impact fast. Our first capability is pricing and discount strategy. Operand considers everything—competitor pricing, ad strategy, inventory, and more—to ensure businesses maximize profit.\r\n\r\nAnd unlike other AI solutions, every Operand result is verified by human experts, including ex-MBB consultants, so you get actual impact, not just AI hype.\r\n\r\nWe’re already generating 6-figure P&L improvements for early customers.",
-    "one_liner": "AI that Runs E-Commerce Brands",
+    "one_liner": "AI Consultant for Consumer Brands",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -104088,11 +104220,11 @@
     "name": "Macadamia",
     "slug": "macadamia",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0377edd4b8aee93dc8c83a5daadde4c74ebf0871.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7080dfa822287673ec2a18eb24c6bb89b856ef3.png",
     "website": "https://macadamialab.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building autonomous AI agents that take over the role of engineers in running simulations with advanced physics-based solvers, like Ansys. Engineers submit their CAD designs and simulation requests, and Oswald automates the entire process - from model setup to interpreting results. It’s integrated with Ansys, the industry leader in engineering simulations.",
-    "one_liner": "AI Copilot for Mechanical Engineers",
+    "long_description": "Macadamia builds AI agents that detect and fix design errors early in large engineering teams. Our primary users are engineering teams in civil and aerospace industry - tackling the toughest technical challenges.  The agents scan through all your technical datasheets, drawings and reports to detect errors early before they escalate. By integrating with the leading engineering software like Ansys CAE, our agents fix design issues automatically. ",
+    "one_liner": "AI Agents that fix design errors in large engineering teams",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -104512,17 +104644,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39af9ebada08269c20a6c0cbdecb740d7018d9bc.png",
     "website": "https://www.generaltrajectory.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "General Trajectory is building AI for the physical world.\r\n\r\nWe are training vision-language-action (VLA) models across different embodiments to automate tasks such as palletization, sorting, picking, and packing.",
-    "one_liner": "Physical AI for industrial robots.",
+    "long_description": "General Trajectory is building AI for the physical world.\r\n\r\nWe are training vision-language-action (VLA) models across different embodiments to automate valuable labor starting with palletization, sorting, picking, and packing.",
+    "one_liner": "Reasoning models for robotics",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1738545890,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
       "Supply Chain",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -105350,18 +105482,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6f337d7edbcc9a9c931383385d78e6f6cf6e401.png",
     "website": "https://www.joindemeter.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Demeter is an AI back-office solution for private investors. Starting with portfolio management, Demeter automates performance tracking, benchmarking, and return analysis, providing insights in minutes instead of weeks.",
-    "one_liner": "AI Back Office Solution for Private Investment Firms",
+    "long_description": "Demeter is an AI fund administration for private investors. Starting with portfolio management, Demeter automates performance tracking, benchmarking, and return analysis, providing insights in minutes instead of weeks.",
+    "one_liner": "AI fund administration for Private Investment Firms",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1739227592,
     "tags": [
+      "Artificial Intelligence",
       "Finance",
       "B2B",
       "Workflow Automation",
-      "Investments",
-      "AI"
+      "Investments"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -105859,7 +105991,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c098c79c1154d878f59439428e54fe98a83295a2.png",
     "website": "https://browser-use.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Browser Use allows developers to create state of the art web agents with a few lines of code.\r\n\r\nWe currently stand at 89% on Web Voyager dataset, which is the best web agent you can actually use.\r\n\r\nFastest growing repository on Github in January 2025. 40k combined ⭐ on Github ",
+    "long_description": "We enable AI to control the browser. \r\nBrowser-use is the biggest open-source web agent project. \r\nWe got 40k stars in the last 3 months.",
     "one_liner": "Open Source Web Agents",
     "team_size": 2,
     "industry": "B2B",
@@ -105945,8 +106077,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84ad3ef04aef30c103f98a1ef15865998e62738e.png",
     "website": "https://www.mercura.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mercura automates sales quotation for building material suppliers. Our software lets sales teams process requests for quotations in seconds instead of days. By eliminating repetitive back-office tasks, we help sales reps focus on winning more deals and driving revenue.",
-    "one_liner": "AI Quoting for Wholesale Distribution and Manufacturers",
+    "long_description": "Mercura automates sales quotations for HVAC, electrical and plumbing distributors & manufacturers. Our software lets sales teams process requests for quotations in minutes instead of days. By eliminating repetitive back-office tasks, we help sales reps focus on winning more deals and driving revenue.",
+    "one_liner": "AI Quoting for distributors and manufacturers",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -106153,7 +106285,7 @@
     "website": "https://www.artifact.engineer/",
     "all_locations": "Atlanta, GA, USA",
     "long_description": "Artifact is a 2D electrical system CAD tool leveraging AI to automate tedious, error-prone tasks: datasheet ingestion, multi-fidelity system design, and manufacturing documentation",
-    "one_liner": "A modern workspace for electrical design",
+    "one_liner": "AI copilot for electrical system design",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -106235,17 +106367,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8180359e4edaaddd169f88aafc0eb2338fe0116f.png",
     "website": "https://firaresearch.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fira is a financial research assistant that helps analysts at investment firms instantly extract and analyse data from unstructured reports of public and private companies. It reads thousands of integrated unstructured financial reports (often 300 pages) to provide source-cited answers, verifiable financial calculations, and Excel-ready tables — tasks that typically take hours.\r\n\r\nWe're initially focusing on boutique investment banks and small private equity firms, covering annual reports of international companies and allowing to upload custom documents. As we develop our product and build clients' trust, we'll eventually integrate directly into clouds.\r\n\r\nUsing accurate extraction and analysis as single unit of work LLMs do, our vision is to scale it with agents to allow deeper and more thoughtful research, report generation and task execution — allowing financial teams to focus on ideas and decisions.",
-    "one_liner": "Financial research assistant for investment firms",
+    "long_description": "Fira is a financial research assistant that helps analysts at investment firms instantly extract and analyse data from unstructured reports of public and private companies. It reads thousands of integrated unstructured financial reports (often 300 pages) to provide source-cited answers and verifiable calculations\r\n\r\nWe're initially focusing on boutique investment banks and M&A advisory firms, covering annual reports of international companies and allowing to upload custom documents. As we develop our product and build clients' trust, we'll eventually integrate directly into clouds.\r\n\r\nUsing accurate extraction and analysis as single unit of work LLMs do, our vision is to scale it with agents to allow deeper and more thoughtful research, report generation and task execution — allowing financial teams to focus on ideas and decisions.",
+    "one_liner": "Agentic AI analyst for financial research and automation",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1736800806,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Market Research",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

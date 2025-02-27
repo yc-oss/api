@@ -17922,50 +17922,6 @@
     "api": "https://yc-oss.github.io/api/batches/s21/vogent.json"
   },
   {
-    "id": 22702,
-    "name": "Gerald Technologies, Inc",
-    "slug": "gerald-technologies-inc",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d57c1e081948682acc0498a4a994ff60dd63f2a.png",
-    "website": "https://www.joingerald.com",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Gerald is on a mission to eliminate stress about paying bills. We are transforming bill payments by providing consumers with an application for linking and automatically paying their household bills while offering overdraft and late fee protection for all their biller accounts. Our app tracks and pays bills so our users don’t have to. We offer banking services; direct deposits, credit building, cash advance and rewards to simplify bill payments for both billers accounts and consumers. ",
-    "one_liner": " Autopay household bills without fear of overdraft or late fees",
-    "team_size": 12,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1614620835,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Payments",
-      "Consumer",
-      "Neobank"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W21",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gerald-technologies-inc",
-    "api": "https://yc-oss.github.io/api/batches/w21/gerald-technologies-inc.json"
-  },
-  {
     "id": 22703,
     "name": "Bluelight",
     "slug": "bluelight",
@@ -24175,7 +24131,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -26317,7 +26273,10 @@
     "former_names": [
       "Codex",
       "CODEOWNERS",
-      "CODEOWNERS (fka Codex)"
+      "CODEOWNERS (fka Codex)",
+      "EchoLayer",
+      "EchoLayer (fka Codex)",
+      "Squire.ai (fka EchoLayer)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8972703d81fdbb75413d24021353cf5ed0937ec2.png",
     "website": "https://squire.ai",
@@ -26337,10 +26296,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -33850,7 +33809,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -42744,11 +42703,11 @@
     "subindustry": "B2B",
     "launched_at": 1707350817,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Workflow Automation"
+      "Workflow Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42764,7 +42723,7 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -43741,20 +43700,20 @@
     "former_names": [
       "Happy Auth"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8683a6910cbae3f3685ce14ef2036fc99cfab7c2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c195f1e4be073ff23e0e95a7e8dd2dbdc94e086e.png",
     "website": "https://tivara.com",
     "all_locations": "",
     "long_description": "",
-    "one_liner": "Using LLMs to automate insurance approval for healthcare clinics",
+    "one_liner": "The AI workforce for medical groups",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1722295529,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44628,16 +44587,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a22f1efd256331a2e5ea299a5c6ecd931817254.png",
     "website": "https://www.you-shift.com/",
     "all_locations": "",
-    "long_description": "We make scheduling for doctors fast, easy, and stress-free. By blending complex hospital rules with personal preferences, our algorithm generates smart, conflict-free schedules that save time and improve work-life balance. With seamless shift swaps and real-time updates, schedules remain flexible and always up-to-date.",
-    "one_liner": "We automate doctor shift scheduling to save time and reduce burnout.",
+    "long_description": "YouShift uses AI to automate hospital shift scheduling, eliminating the need for full-time schedulers and outdated, manual processes. And scheduling is just the beginning — we're building the future of healthcare workforce management.",
+    "one_liner": "AI-powered shift scheduling for healthcare, to save time and money.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1738883676,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Scheduling",
-      "Healthcare"
+      "Healthcare",
+      "HR Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45925,7 +45886,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e55e38ad260d4702bf3f8928801e1f5372f997b.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube is software for insurance brokers and agents with a dedicated focus on property & casualty risks. We start with risk software for business property to help brokers generate more revenue and stay competitive. Our AI-powered automation platform streamlines operations by automating data entry, compliance, quoting, and policy management. This reduces contract processing from weeks to days, allowing brokers to focus on their business and clients rather than backend operations.",
+    "long_description": "RiskCube is AI for commercial insurance brokerage and offers:\r\n✅ AI Policy Analysis – Instantly analyze and compare commercial insurance policies.\r\n✅ Custom AI Solutions – Tailored AI to automate workflows and enhance brokerage operations.\r\n✅ Natural Disaster Software – Climate risk analytics, live event tracking, and predictive modeling for wildfires, floods, hurricanes, etc.",
     "one_liner": "We help insurance broker & agents scale their business with AI. ",
     "team_size": 2,
     "industry": "Fintech",
@@ -45964,7 +45925,7 @@
     "name": "vly.ai",
     "slug": "vly-ai-2",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f1f18d8b47e8fea70cee789ba9bf7d88a9f5e2b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f249e7f55bb4c8e776f8301261399d2847928f9c.png",
     "website": "https://vly.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "vly.ai completely replaces the full-stack developer for companies. We combine the highest-ranking swe-bench agent with a no-code platform to eliminate the developer layer and automate the deployment, hosting, & scaling of production applications.",
@@ -45974,10 +45935,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1730684290,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Enterprise Software",
-      "Web Development"
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46817,6 +46778,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sift-dev",
     "api": "https://yc-oss.github.io/api/batches/w25/sift-dev.json"
+  },
+  {
+    "id": 30236,
+    "name": "Tergle",
+    "slug": "tergle",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/441b34e3b91d1925fe09d25d993360b31f740df4.png",
+    "website": "https://tergle.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tergle builds AI agents for auditing.",
+    "one_liner": "AI agents for auditing",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1740611994,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Compliance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tergle",
+    "api": "https://yc-oss.github.io/api/batches/w25/tergle.json"
   },
   {
     "id": 30238,

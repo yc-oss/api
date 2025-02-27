@@ -1255,11 +1255,11 @@
       "Devstore"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc87029e5a78d6cc28d8d10fc173581df6c2afa6.png",
-    "website": "https://openbase.com",
+    "website": "",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "There are millions of open-source packages out there, and developers often spend hours researching and evaluating competing packages to find the right one.\r\nOpenbase is the first platform to offer user reviews for packages, powerful insights and categorization for open-source packages - so developers can choose the right package every time.",
-    "one_liner": "We help developers choose among millions of open-source packages",
-    "team_size": 8,
+    "long_description": "Openbase was the leading platform for developers to discover and choose open-source libraries. It offered countless reviews, metrics, and insights enjoyed by millions of developers worldwide. Discontinued in 2023.",
+    "one_liner": "Open-source library discovery",
+    "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1594854533,
@@ -5140,8 +5140,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea071d17d03a0effc12bac914da21cd9bee66060.png",
     "website": "https://continue.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside the IDE",
-    "one_liner": "The leading open-source AI code assistant",
+    "long_description": "Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks",
+    "one_liner": "Create, share, and use custom AI code assistants",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -6623,6 +6623,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/superglue.json"
   },
   {
+    "id": 30216,
+    "name": "Sublingual",
+    "slug": "sublingual",
+    "former_names": [
+      "Khipu"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffaa07742bdd32e6b3e7d2318a753289e334055.png",
+    "website": "https://sublingual.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Open source tool which helps you log and analyze all of your LLM calls, including the prompt template, call parameters, responses, tool calls, and more. The coolest thing? You don't have to change any of your code!",
+    "one_liner": "LLM Observability with zero changes to your code",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1740613527,
+    "tags": [
+      "Artificial Intelligence",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sublingual",
+    "api": "https://yc-oss.github.io/api/batches/w25/sublingual.json"
+  },
+  {
     "id": 30283,
     "name": "Confident AI",
     "slug": "confident-ai",
@@ -6716,7 +6758,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c098c79c1154d878f59439428e54fe98a83295a2.png",
     "website": "https://browser-use.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Browser Use allows developers to create state of the art web agents with a few lines of code.\r\n\r\nWe currently stand at 89% on Web Voyager dataset, which is the best web agent you can actually use.\r\n\r\nFastest growing repository on Github in January 2025. 40k combined ⭐ on Github ",
+    "long_description": "We enable AI to control the browser. \r\nBrowser-use is the biggest open-source web agent project. \r\nWe got 40k stars in the last 3 months.",
     "one_liner": "Open Source Web Agents",
     "team_size": 2,
     "industry": "B2B",
