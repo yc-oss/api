@@ -7108,7 +7108,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -8136,22 +8136,22 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35b3b987d05aeeeea2e5ed41eb9bc474ea3d6529.png",
     "website": "https://openlayer.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Openlayer helps you test and monitor high-quality AI systems.",
+    "long_description": "Openlayer is the governance platform for AI applications.",
     "one_liner": "The fastest way to ship airtight AI",
-    "team_size": 6,
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1625008531,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Machine Learning",
-      "AI"
+      "Machine Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -10761,53 +10761,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/brainboard",
     "api": "https://yc-oss.github.io/api/batches/w22/brainboard.json"
-  },
-  {
-    "id": 25923,
-    "name": "Convore",
-    "slug": "convore-2",
-    "former_names": [
-      "Quick Power",
-      "inc",
-      "Forest"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ec4a3b44762173293c2b29c9abdeaa81463d965.png",
-    "website": "https://www.convore.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Universal conversation API for developers",
-    "one_liner": "Universal conversation API for developers",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1645836609,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "API",
-      "Email"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Acquired",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/convore-2",
-    "api": "https://yc-oss.github.io/api/batches/w22/convore-2.json"
   },
   {
     "id": 25946,
@@ -14287,7 +14240,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
-    "status": "Inactive",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -16751,7 +16704,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Large contracts with large companies usually require software companies to offer SAML SSO and SCIM. \r\n\r\nImplementing SAML SSO and SCIM yourself is pretty hard and not a good use of your time. \r\n\r\nWe make it really easy to implement SAML SSO and SCIM in your product. ",
     "one_liner": "Open source developer tools for enterprise single sign-on",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1708399745,
@@ -19692,28 +19645,28 @@
   },
   {
     "id": 29800,
-    "name": "Frontio - by NextUI",
-    "slug": "frontio-by-nextui",
+    "name": "HeroUI",
+    "slug": "heroui",
     "former_names": [
       "NextUI Inc.",
       "NextUI",
       "Zigma (By NextUI)",
       "Zigma - By NextUI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d994f85650ec0d33948010d665ddeff6476ab6a.png",
-    "website": "https://frontio.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f324d3272a9c106015bc04587fbb6b150b6e6b1e.png",
+    "website": "https://heroui.chat",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "We began with an open-source library for React developers that enables them to create beautiful and accessible interfaces (NextUI). We are now building Frontio a complete frontend-as-a-service platform to make building the frontend part of products easier, allowing teams to focus more on their product and less on design systems and frontend complexities (frontio.ai).",
-    "one_liner": "Frontio simplifies frontend creation by automating design systems and…",
+    "long_description": "We started with HeroUI, an open-source library that provides React developers with a set of 44 components to create beautiful and accessible interfaces. Now, we’re expanding our vision with HeroUI Chat (heroui.chat), an AI-powered platform that helps developers and teams build beautiful frontends in minutes",
+    "one_liner": "Helping developers build beautiful UIs with AI and open source",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716301435,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19736,8 +19689,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/frontio-by-nextui",
-    "api": "https://yc-oss.github.io/api/batches/s24/frontio-by-nextui.json"
+    "url": "https://www.ycombinator.com/companies/heroui",
+    "api": "https://yc-oss.github.io/api/batches/s24/heroui.json"
   },
   {
     "id": 29812,
@@ -20850,6 +20803,49 @@
     "api": "https://yc-oss.github.io/api/batches/w25/truffle-ai.json"
   },
   {
+    "id": 30216,
+    "name": "Sublingual",
+    "slug": "sublingual",
+    "former_names": [
+      "Khipu"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffaa07742bdd32e6b3e7d2318a753289e334055.png",
+    "website": "https://sublingual.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Open source tool which helps you log and analyze all of your LLM calls, including the prompt template, call parameters, responses, tool calls, and more. The coolest thing? You don't have to change any of your code!",
+    "one_liner": "LLM Observability with zero changes to your code",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1740613527,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sublingual",
+    "api": "https://yc-oss.github.io/api/batches/w25/sublingual.json"
+  },
+  {
     "id": 30221,
     "name": "A1Base",
     "slug": "a1base",
@@ -20859,8 +20855,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/73b9a429892a10e92d901a7d903dc0dbcd131ee5.png",
     "website": "https://www.a1base.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "A1Base gives your AI agents a phone number & email address. This effectively acts as an online identity for them. We then provide developers with an easy to use API to interface your AI agent with humans/coworkers/users where they are (in this case in Whatsapp, Slack, Teams, SMS and more).\r\n",
-    "one_liner": "How AI products chat and work with their users",
+    "long_description": "Twilio for AI agents. We help AI products talk and work to their users through email, Slack, SMS, WhatsApp and more.",
+    "one_liner": "Twilio for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21193,17 +21189,17 @@
     "website": "https://lucidic.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic AI provides tools for developers and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
-    "one_liner": "See Your Agent's Mind at Work",
+    "one_liner": "Weights & Biases for AI Agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736904770,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21614,7 +21610,7 @@
     "website": "https://www.artifact.engineer/",
     "all_locations": "Atlanta, GA, USA",
     "long_description": "Artifact is a 2D electrical system CAD tool leveraging AI to automate tedious, error-prone tasks: datasheet ingestion, multi-fidelity system design, and manufacturing documentation",
-    "one_liner": "AI copilot for electrical system design",
+    "one_liner": "Cursor for hardware design, starting with electrical systems",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
