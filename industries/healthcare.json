@@ -12846,12 +12846,13 @@
     "all_locations": "Bengaluru, KA, India",
     "long_description": "Orange Health Labs offers at-home collection of samples on-demand within 60 minutes and delivers test results twice as fast as the industry norm, across the top cities in India.\r\n\r\nWith an on-demand service, patients can now avoid visiting crowded and potentially infectious collection centers. At the same time, they can get diagnosed much faster and get better treatment remotely from their own doctor",
     "one_liner": "India's Fastest Diagnostics Service",
-    "team_size": 900,
+    "team_size": 1,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1599762607,
     "tags": [
       "Consumer Health Services",
+      "Health Tech",
       "Healthcare",
       "Diagnostics"
     ],
@@ -17194,7 +17195,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48474c1b0337163fd12462fb6b72ee336a4ad010.png",
     "website": "https://www.adni.co/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Adni is the first AI-powered nurse recruiting and retention platform. With our professional network of nurses and talent experience software, employers who use Adni hire nurses 2x faster and retain them 2x longer – all 4x cheaper than alternatives. What Doximity (IPO 2021) did for doctors, Adni is doing for nurses.",
+    "long_description": "Adni is the first AI-powered nurse recruiting and retention platform. With our professional network of nurses and talent experience software, leading healthcare organizations, like UT Medical Center and PRN Healthcare, use Adni to hire nurses 2x faster and retain them 2x longer, all at 4x lower cost than alternatives. What Doximity (IPO 2021) did for doctors, Adni is doing for nurses.",
     "one_liner": "AI-powered OS for nurse recruiting & retention",
     "team_size": 5,
     "industry": "Healthcare",
@@ -22444,15 +22445,17 @@
     "id": 28922,
     "name": "Egress Health",
     "slug": "egress-health",
-    "former_names": [],
+    "former_names": [
+      "Egress"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png",
     "website": "https://tryegress.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "\r\n",
-    "one_liner": "End-To-End Revenue Cycle Automation",
+    "long_description": "Egress Health builds AI agents to automate revenue cycle management, starting with dental offices. Our workflows span eligibility checks, claims scrubbing, payment posting, and denial management. On average, our customers eliminate 1-2 full time employees and collect 5-15% more revenue each month. Interested in learning more? Shoot us a note at founders@tryegress.com",
+    "one_liner": "Automated revenue cycle management, starting with dentists",
     "team_size": 2,
     "industry": "Healthcare",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "Healthcare",
     "launched_at": 1690905553,
     "tags": [
       "Workflow Automation",
@@ -22463,7 +22466,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "S23",
+    "batch": "W25",
     "status": "Active",
     "industries": [
       "Healthcare"
@@ -22478,7 +22481,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/egress-health",
-    "api": "https://yc-oss.github.io/api/batches/s23/egress-health.json"
+    "api": "https://yc-oss.github.io/api/batches/w25/egress-health.json"
   },
   {
     "id": 28928,
@@ -24874,49 +24877,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mito-health",
     "api": "https://yc-oss.github.io/api/batches/s24/mito-health.json"
-  },
-  {
-    "id": 29707,
-    "name": "Taxo",
-    "slug": "taxo",
-    "former_names": [
-      "Taxomatica",
-      "taxo.ai",
-      "taxo"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f975b562ddf2a304a569ae2a7dc2814672828062.png",
-    "website": "https://taxo.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Taxo integrates with electronic health records (EHRs) to automate medical billing and coding. Its AI-powered solution reduces the time and cost of claims processing by >90%, enabling providers to focus on patient care rather than administrative tasks.",
-    "one_liner": "Automated healthcare administration ",
-    "team_size": 8,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1724873194,
-    "tags": [
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/taxo",
-    "api": "https://yc-oss.github.io/api/batches/s24/taxo.json"
   },
   {
     "id": 29714,

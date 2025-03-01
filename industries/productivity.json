@@ -5981,14 +5981,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/437f8a6e2847546f303d55acd48f2ca6050b4e54.png",
     "website": "https://voize.de/",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "voize is the digital voice assistant for non-desk workers. Professionals like physicians, nurses, test engineers, and scientists spend over 2.5 hours on documentation every day. voize helps them finish it in minutes. The user speaks freely into a smartphone and the voize AI automatically generates structured documentation records. We transfer these documentation records into the existing enterprise software systems of the organization.",
+    "long_description": "At voize, we’re revolutionizing the healthcare industry with AI: Nurses simply speak their documentation into their smartphones, and our AI automatically generates the correct entries. This saves each nurse an average of 39 minutes per day, improves the quality of documentation, and makes their daily work much more rewarding.\r\n\r\nvoize is YCombinator-funded, already in use at over 600 senior care homes, and has grown by 100% in the last 90 days. Our customers save over 3.5 million hours annually – time spent on people instead of paperwork.\r\n\r\nBut this is just the beginning. With our self-developed voize AI, we’re transforming not only the healthcare industry, but also have the potential to create value in many other sectors – from healthcare to inspections.",
     "one_liner": "App for healthcare workers to fill out forms using speech",
-    "team_size": 4,
+    "team_size": 38,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1648233375,
     "tags": [
-      "Healthcare"
+      "Machine Learning",
+      "Healthcare",
+      "NLP"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6010,7 +6012,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/voize",
     "api": "https://yc-oss.github.io/api/batches/w22/voize.json"
   },
@@ -7735,16 +7737,16 @@
     "website": "https://overstandlabs.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "If you’re a founder and feel like you—or your exec team—are too far removed from the customer, Overstand is here to help. We’re the platform (and API) for your customer communications, turning Slack, emails, WhatsApp, call recordings, and more into actionable insights. For example, we can help you discover feature requests hidden in customer emails, spot upsell opportunities from a casual Slack message, or identify a critical support issue buried in a call transcript -- all without having to depend on others in your company to fill out a form or write meeting notes.\r\n\r\nGet back to Founder Mode by spotting trends, uncovering growth opportunities, and staying deeply connected to your customers. Overstand makes it easy to understand where you’re needed most and take action that drives impact. 🚀",
-    "one_liner": "Leverage your customer comms to get into Founder Mode",
+    "one_liner": "We help business leaders get back into Founder Mode",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1724369845,
     "tags": [
-      "Artificial Intelligence",
       "Customer Success",
       "API",
-      "Customer Support"
+      "Customer Support",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8068,6 +8070,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/vetnio.json"
   },
   {
+    "id": 30187,
+    "name": "Praxim",
+    "slug": "praxim",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be59095cc480f86c19c6f83b000c574f9e8e3cd0.png",
+    "website": "https://www.praxim.ai/",
+    "all_locations": "",
+    "long_description": "Praxim is an AI-native workspace that organizes all your communications and documents into one unified platform. Praxim is the first such platform that can AI edit formatted files and documents like DOCX and PDF directly, reply to emails and text, and answer queries, all with company and user specific knowledge in mind.",
+    "one_liner": "AI-native email and office file editing on one platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1740746196,
+    "tags": [
+      "SaaS",
+      "Consumer",
+      "B2B",
+      "AI",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/praxim",
+    "api": "https://yc-oss.github.io/api/batches/w25/praxim.json"
+  },
+  {
     "id": 30222,
     "name": "General Agency",
     "slug": "general-agency",
@@ -8109,6 +8153,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/general-agency",
     "api": "https://yc-oss.github.io/api/batches/w25/general-agency.json"
+  },
+  {
+    "id": 30289,
+    "name": "Sherpa Labs",
+    "slug": "sherpa-labs",
+    "former_names": [
+      "DagHub.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
+    "website": "https://www.sherpalabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sherpa Labs is building an agentic data scientist to automate modeling, operations, and communication via a swarm of agents. Their initial product is an agentic data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes — similar to Glean but for enterprise data systems.",
+    "one_liner": "The AI Data Scientist",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1737526775,
+    "tags": [
+      "Generative AI",
+      "Big Data",
+      "Data Engineering",
+      "Data Visualization",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sherpa-labs",
+    "api": "https://yc-oss.github.io/api/batches/w25/sherpa-labs.json"
   },
   {
     "id": 30314,

@@ -1,5 +1,47 @@
 [
   {
+    "id": 28922,
+    "name": "Egress Health",
+    "slug": "egress-health",
+    "former_names": [
+      "Egress"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png",
+    "website": "https://tryegress.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Egress Health builds AI agents to automate revenue cycle management, starting with dental offices. Our workflows span eligibility checks, claims scrubbing, payment posting, and denial management. On average, our customers eliminate 1-2 full time employees and collect 5-15% more revenue each month. Interested in learning more? Shoot us a note at founders@tryegress.com",
+    "one_liner": "Automated revenue cycle management, starting with dentists",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1690905553,
+    "tags": [
+      "Workflow Automation",
+      "Healthcare",
+      "Health Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/egress-health",
+    "api": "https://yc-oss.github.io/api/batches/w25/egress-health.json"
+  },
+  {
     "id": 29727,
     "name": "Overstand Labs",
     "slug": "overstand-labs",
@@ -11,16 +53,16 @@
     "website": "https://overstandlabs.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "If you’re a founder and feel like you—or your exec team—are too far removed from the customer, Overstand is here to help. We’re the platform (and API) for your customer communications, turning Slack, emails, WhatsApp, call recordings, and more into actionable insights. For example, we can help you discover feature requests hidden in customer emails, spot upsell opportunities from a casual Slack message, or identify a critical support issue buried in a call transcript -- all without having to depend on others in your company to fill out a form or write meeting notes.\r\n\r\nGet back to Founder Mode by spotting trends, uncovering growth opportunities, and staying deeply connected to your customers. Overstand makes it easy to understand where you’re needed most and take action that drives impact. 🚀",
-    "one_liner": "Leverage your customer comms to get into Founder Mode",
+    "one_liner": "We help business leaders get back into Founder Mode",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1724369845,
     "tags": [
-      "Artificial Intelligence",
       "Customer Success",
       "API",
-      "Customer Support"
+      "Customer Support",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -803,6 +845,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/excellence-learning.json"
   },
   {
+    "id": 30187,
+    "name": "Praxim",
+    "slug": "praxim",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be59095cc480f86c19c6f83b000c574f9e8e3cd0.png",
+    "website": "https://www.praxim.ai/",
+    "all_locations": "",
+    "long_description": "Praxim is an AI-native workspace that organizes all your communications and documents into one unified platform. Praxim is the first such platform that can AI edit formatted files and documents like DOCX and PDF directly, reply to emails and text, and answer queries, all with company and user specific knowledge in mind.",
+    "one_liner": "AI-native email and office file editing on one platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1740746196,
+    "tags": [
+      "SaaS",
+      "Consumer",
+      "B2B",
+      "AI",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/praxim",
+    "api": "https://yc-oss.github.io/api/batches/w25/praxim.json"
+  },
+  {
     "id": 30188,
     "name": "Admyral",
     "slug": "admyral",
@@ -810,17 +894,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f504aecdfdb8e4acd4c08466c158b750a3ffe3d1.png",
     "website": "https://www.admyral.ai",
     "all_locations": "",
-    "long_description": "Admyral builds AI Agents to automate operations for the 143,000 commercial real estate brokers in the US.\r\nOur first product is an agentic lead generation tool for commercial real estate brokers. We take a property address and use AI Agents to find the owner's contact details. Our deep agentic search beats the industry standard of 40% and is improving daily.",
-    "one_liner": "AI Agents to Automate Operations for Commercial Real Estate",
+    "long_description": "Admyral is building AI Agents for commercial real estate brokers. Our deep research agents save 30% of the work of a broker by automating finding contact details from property addresses.",
+    "one_liner": "AI Agents for Commercial Real Estate",
     "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "B2B",
     "launched_at": 1739171711,
     "tags": [
+      "Artificial Intelligence",
       "Real Estate",
       "B2B",
-      "Sales",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -848,7 +931,7 @@
     "name": "SubImage",
     "slug": "subimage",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b42d30fcf2efbb0bfe113b07b366491f53e57d04.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/85fc2e3ee1b407fdf958403fc2fbd25fff6a7cac.png",
     "website": "https://subimage.io",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SubImage builds maps of your infrastructure to give you visibility on what assets you have and how they relate to each other. This enables any security team to deeply understand their environments and reduce risk.\r\n\r\nSubImage is a managed offering built around the Cartography open-source project, and is founded by members of Cartography's original team.",
@@ -1089,18 +1172,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d58e9c6646fcf2c8783dc4e02f6ae0189039d29d.png",
     "website": "https://www.alice.tech/",
     "all_locations": "Copenhagen, Denmark",
-    "long_description": "Alice turns generic course materials into personalized learning and exam prep using AI. \r\n\r\nStudents simply upload what they want to study and instantly get access to:\r\n(1) Better understanding: Key topic overviews and explanations with personalized support through an AI chat that knows their context.\r\n(2) Effective practicing: Exercises tailored to their needs (level, format, curriculum, etc.), including flashcards, multiple-choice questions, and full exam simulations.\r\n(3) Targeted improvement: Identification of weaknesses across topics to enable more targeted and complete learning.\r\n\r\nPlus, learning becomes more engaging with Alice—students can study with friends and challenge each other, making the experience both fun and effective.\r\n\r\nOver 2,000 students have already used Alice, and we are growing MRR +30% MoM for B2C alone, while gaining first traction in B2B on top. ",
-    "one_liner": "Alice.tech turns course materials into personalized exam prep using AI",
-    "team_size": 6,
+    "long_description": "Alice turns generic course materials into personalized learning and exam prep using AI. \r\n\r\nStudents simply upload what they want to study and instantly get access to:\r\n(1) Better understanding: Key topic overviews and explanations with personalized support through an AI chat that knows their context.\r\n(2) Effective practicing: Exercises tailored to their needs (level, format, curriculum, etc.), including flashcards, multiple-choice questions, and full exam simulations.\r\n(3) Targeted improvement: Identification of weaknesses across topics to enable more targeted and complete learning.\r\n\r\nPlus, learning becomes more engaging with Alice—students can study with friends and challenge each other, making the experience both fun and effective.\r\n\r\nOver 7,000 students have already used Alice, and we are growing MRR +60% MoM.",
+    "one_liner": "AI-driven exam prep",
+    "team_size": 5,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1736959747,
     "tags": [
       "AI-Enhanced Learning",
-      "Artificial Intelligence",
       "Education",
       "Generative AI",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1122,6 +1205,46 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/alice-tech",
     "api": "https://yc-oss.github.io/api/batches/w25/alice-tech.json"
+  },
+  {
+    "id": 30199,
+    "name": "awen",
+    "slug": "awen",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1f3190ee23bef18e805a06ab238214a0db50d11.png",
+    "website": "https://www.awen.ai/",
+    "all_locations": "Remote",
+    "long_description": "Instead of navigating complex menus or learning new tools, creatives can simply describe their vision in natural language—“Draw me a Swiss mountain lake. Now make it sunset. Add a boat. Now animate it.”\r\n\r\nAwen leverages AI reasoning to understand creative intent through voice. Our goal is to redefine how creatives engage with AI technology, balancing power and ease of use for both professionals and newcomers.",
+    "one_liner": "We are rebuilding photoshop with an AI-voice interface.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1740711023,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "Creator Economy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/awen",
+    "api": "https://yc-oss.github.io/api/batches/w25/awen.json"
   },
   {
     "id": 30200,
@@ -1214,18 +1337,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/274ac22c30bd825b88e1dcfc3f005ade9b21767d.png",
     "website": "https://www.astroenergy.ai/",
     "all_locations": "",
-    "long_description": "Astro uses predictive models to identify and secure the best renewable energy sites, focusing on locations with minimal grid upgrade costs and high interconnection success rates. We streamline early-stage development to create shovel-ready projects for larger developers.",
+    "long_description": "Astro finds and buys land for new renewable energy projects, secures grid connections at minimal cost, and sells these development-ready projects to larger energy companies. Founded by Alex Fuster, a former Citadel energy trader, Astro's AI models identify profitable grid connections that eliminate the surprise costs causing 80-90% of renewable projects to fail. With the U.S. needing 2,000 gigawatts of new power generation by 2035 for AI data centers and electrification, Astro unlocks development opportunities that traditional methods consistently miss.",
     "one_liner": "The world’s first AI energy developer",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1739813505,
     "tags": [
+      "Artificial Intelligence",
       "Solar Power",
       "Energy",
       "Renewable Energy",
-      "ClimateTech",
-      "AI"
+      "ClimateTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2142,17 +2265,17 @@
     "website": "",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Maive automates aerospace compliance paperwork required on the manufacturing shop floor. We use cameras and AI to automatically fill federally-required paperwork, reducing the risk of companies being unable to sell their products and increasing factory throughput.\r\n\r\nUsers have told us the paperwork required for the F-35 fighter jet weighs more than the jet itself! The government requires a record for each of the 1.5 million parts in the jet, including what shop-floor workers do to each part and when they do it.\r\n\r\nAutomating paperwork by interpreting human actions with cameras is hard. Doing this at the edge and inside secure aerospace environments is harder. We fine-tune the latest vision language models to solve what was previously impossible.\r\n\r\nManufacturers lose millions when compliance paperwork has errors because it can freeze their ability to sell the product for months. Leaving this task to shop floor workers is both incredibly risky to the company and tedious for the employees. \r\n\r\nCompliance paperwork is just the beginning. We want to propel American manufacturing into the AI era. America is facing a serious problem: there’s $400B being invested to onshore manufacturing, but there’s simultaneously a projected 15% gap in workers needed due to an aging workforce. We’re on a mission to solve this by building the first AI native software for the shop floor. Our vision is to intelligently connect people, robots, and data to 10x today’s manufacturing capacity.",
-    "one_liner": "AI for aerospace shop floor compliance",
+    "one_liner": "AI-native factory operations platform",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1740103642,
     "tags": [
-      "Artificial Intelligence",
       "Warehouse Management Tech",
       "Computer Vision",
       "Compliance",
-      "Aerospace"
+      "Aerospace",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2695,18 +2818,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/954a6f122415e9fc2c5797e73f4d4a44309e83d8.png",
     "website": "https://gulp.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gulp is a developer platform that makes it easy for engineers to build, test, and deploy real-time data pipelines. Our first release is Osmosis: a framework that helps AI agents learn in real-time. | https://gulp.ai/responsive-software.html",
-    "one_liner": "Automating build, test, and deploy for real-time data pipelines ",
+    "long_description": "We're building Osmosis: an API that helps AI agents learn from experience, in real-time. | https://gulp.ai/responsive-software.html",
+    "one_liner": "Real-Time Self-Improvement for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1737656598,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Big Data",
-      "Data Engineering",
-      "Infrastructure",
-      "AI"
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3331,7 +3454,7 @@
     "one_liner": "Building better pesticides with AI",
     "team_size": 3,
     "industry": "Industrials",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "Industrials -> Agriculture",
     "launched_at": 1740392812,
     "tags": [
       "AI-powered Drug Discovery",
@@ -3718,10 +3841,10 @@
     "launched_at": 1736904770,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3795,7 +3918,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/508cd0aa179903aea336ffc42458a82d33d548ac.png",
     "website": "https://www.trytrata.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Trata is a crowdsourced database of stock analysis, written by anonymous hedge fund analysts. We compress the “first cut” of research from 3 hours to 3 minutes with 1-2 page notes. ",
+    "long_description": "Trata is a crowdsourced database of stock analysis, written by anonymous hedge fund analysts. We compress the “first cut” of research from 3 hours to 3 minutes with 1-2 page notes. \r\nhttps://calendly.com/eric-trytrata",
     "one_liner": "Database of investment research from anonymous hedge fund analysts",
     "team_size": 3,
     "industry": "B2B",
@@ -4368,6 +4491,51 @@
     "api": "https://yc-oss.github.io/api/batches/w25/harper.json"
   },
   {
+    "id": 30289,
+    "name": "Sherpa Labs",
+    "slug": "sherpa-labs",
+    "former_names": [
+      "DagHub.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
+    "website": "https://www.sherpalabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sherpa Labs is building an agentic data scientist to automate modeling, operations, and communication via a swarm of agents. Their initial product is an agentic data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes — similar to Glean but for enterprise data systems.",
+    "one_liner": "The AI Data Scientist",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1737526775,
+    "tags": [
+      "Generative AI",
+      "Big Data",
+      "Data Engineering",
+      "Data Visualization",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sherpa-labs",
+    "api": "https://yc-oss.github.io/api/batches/w25/sherpa-labs.json"
+  },
+  {
     "id": 30290,
     "name": "Tire Swing",
     "slug": "tire-swing",
@@ -4376,7 +4544,7 @@
     "website": "https://gettireswing.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Tire Swing saves health care companies thousands of hours on routine regulatory compliance tasks.\r\n\r\nOur AI platform enables compliance teams to search across thousands of regulations, prepare for audits, and find gaps in their policies and procedures. As regulatory changes occur we suggest corresponding updates to your documents.\r\n\r\nTire Swing takes the headache out of compliance so healthcare organizations can focus on their mission.\r\n\r\n\r\n",
-    "one_liner": "AI regulatory research and compliance for health care ",
+    "one_liner": "AI for Health Care Compliance",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -4609,9 +4777,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4710,7 +4876,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bd6ba915d4b288901694ddd2ae32010844f2ff6.png",
     "website": "https://societies.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Artificial Societies uses AI to simulate human societies. Companies like Anthropic are using Artificial Societies to predict how their marketing and content will perform in a simulation of their target customers, before launching in the real world. \r\n\r\nThis is a cracked team: James left rural China at age 14, got into Cambridge, turned down a CS PhD to do startups, and - in his spare time - lead the largest ever study of an LLM society. James is joined by Patrick, an applied behavioural scientist who has run over 200 real-world experiments for businesses including Fortune 500 companies. \r\n\r\nWe joined forces through a shared frustration that no one really understands large scale human behaviours: traditional market research is not only slow and expensive, but fundamentally flawed - it misses how people influence each other. Humans are not isolated individuals, we are social animals.\r\n\r\nWe began by simulating 1,000 investors to test startup pitches, which we used ourselves to get into YC and secure pre-seed investment. Since releasing this publicly as “Wave”, startup founders have run over 3000 simulations, deploying over 2.6bn LLM tokens in the process. \r\n\r\nWe have since released \"Reach\", where anyone can simulate their own LinkedIn audience and test how their posts will perform before posting for real. Artificial Societies is doing for simulations what ChatGPT did for LLMs - making them accessible to everyone.\r\n\r\nAs AI advances, we will create representative models of entire human societies. Our vision is a world where all content, products, and policies are first simulated in an Artificial Society. We are on a mission to create Artificial Collective Intelligence - humans innovate in collectives, we want to scale collective innovation with ACI.",
+    "long_description": "Artificial Societies uses AI to simulate human societies. Companies like Anthropic are using Artificial Societies to predict how their marketing and content will perform in a simulation of their target customers, before launching in the real world. \r\n\r\nThis is a cracked team: James left rural China at age 14, got into Cambridge, turned down a CS PhD to do startups, and - in his spare time - lead the largest ever study of an LLM society. James is joined by Patrick, an applied behavioural scientist who has run over 200 real-world experiments for businesses including Fortune 500 companies. \r\n\r\nWe joined forces through a shared frustration that no one really understands large scale human behaviours: traditional market research is not only slow and expensive, but fundamentally flawed - it misses how people influence each other. Humans are not isolated individuals, we are social animals.\r\n\r\nWe began by simulating a network of 1,000 investors, and used it to raise a pre-seed and get into YC. Since releasing this publicly as “Wave”, startup founders have run over 3000 simulations. \r\n\r\nWe have since released \"Reach\", where anyone can simulate their own LinkedIn audience and test how their posts will perform before posting for real. Artificial Societies is doing for simulations what ChatGPT did for LLMs - making them accessible to everyone.\r\n\r\nAs AI advances, we will create representative models of entire human societies. Our vision is a world where all content, products, and policies are first simulated in an Artificial Society. We are on a mission to create Artificial Collective Intelligence - humans innovate in collectives, we want to scale collective innovation with ACI.",
     "one_liner": "We use AI to simulate large groups of people and how they interact",
     "team_size": 3,
     "industry": "B2B",
@@ -5259,8 +5425,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6dd000652c5e77966ee483897c0ffed9dac2d80.png",
     "website": "https://wild-card.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Connect agents to any API in the world with LLM-native interfaces. Wildcard is a developer platform that combines powerful API integrations with intelligent tool orchestration for AI agents. \r\n\r\nOur vision is to be the bridge between AI agents and the world’s APIs.",
-    "one_liner": "Making APIs 'just work' for AI Agents",
+    "long_description": "Wildcard is the gateway for AI agents to find and use APIs with natural language. We have four official partnerships with API providers like Resend and Alpaca on our open standard to make their APIs ready for agentic traffic.\r\nOur API integrations include: Google Sheets, Stripe, Resend, Slack, Alpaca, Rootly, ...\r\n\r\n\r\n",
+    "one_liner": "Make APIs work for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -5594,10 +5760,10 @@
     "slug": "opine",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9abc1921cbbcabe29e9ae51f4bef4f9a56970eb.png",
-    "website": "https://opine.chat",
+    "website": "https://opine.cool",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Opine is an AI native social media app. Users can create characters with a custom face, voice, and outfit. They can overlay these characters onto any videos of themselves and share them on our platform.",
-    "one_liner": "Social Media for AI Influencers",
+    "one_liner": "AI-Native Social Media App",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
@@ -6022,16 +6188,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1236709ac67214a66dd801da6ae0f26da66749eb.png",
     "website": "https://emojis.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We allow small businesses to easily create brand assets, like logos and icons, with AI. Our users have generated over 5 million assets on our platform.",
+    "long_description": "Our mission is to give small businesses an AI Graphic Designer to help them create a brand and identity without having to pay 💰💰💰 of dollars hire someone.",
     "one_liner": "AI Copilot for Graphic Design",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1740542821,
     "tags": [
+      "Artificial Intelligence",
       "Design",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6190,14 +6356,14 @@
     "website": "https://tallyhq.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tally is building AI agents for accounting firms. Tally agents operate autonomously in a firm’s existing systems, automating repetitive work across accounting, tax, and audit, helping teams be more efficient and focus their efforts on higher risk, more complex work.",
-    "one_liner": "AI agents for accounting firms",
+    "one_liner": "AI associate for large accounting firms",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1739308183,
     "tags": [
-      "B2B",
-      "AI"
+      "Artificial Intelligence",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -5864,53 +5864,6 @@
     "api": "https://yc-oss.github.io/api/batches/w22/dart.json"
   },
   {
-    "id": 25603,
-    "name": "Reforged Labs",
-    "slug": "reforged-labs",
-    "former_names": [
-      "Nook"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42624b47fffc5d9d7f83077c9c444743511d6eb9.png",
-    "website": "https://reforgedlabs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reforged Labs empowers game studios to supercharge their performance marketing. Our AI copilot, the first platform built for mobile game marketing, enables UA managers to achieve results 5x faster and 10x cheaper.\r\n\r\nBy analyzing thousands of top-performing ads, our platform uncovers what makes an ad effective. Backed by real-world data, it transforms how UA managers brainstorm ideas, create video ads, and launch high-performing campaigns - delivering a competitive edge in the evolving gaming industry.\r\n\r\nWith Reforged Labs, you don’t just keep up with trends - you set them.",
-    "one_liner": "The world's first AI copilot built for mobile game marketers",
-    "team_size": 10,
-    "industry": "Consumer",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1644566628,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Gaming",
-      "Advertising",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reforged-labs",
-    "api": "https://yc-oss.github.io/api/batches/w22/reforged-labs.json"
-  },
-  {
     "id": 25635,
     "name": "SkyLink",
     "slug": "skylink",
@@ -14660,7 +14613,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb011897f099f9342d33ca8a6bad3b4388ee0a54.png",
     "website": "https://usetusk.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tusk is an AI agent that helps developers generate unit and integration tests with codebase context. Tusk runs on your PRs as a non-blocking check and suggests happy path and edge case tests that are not covered by existing tests. Engineering teams use Tusk to merge PRs 25% faster with increased feature coverage.",
+    "long_description": "Tusk (YC W24) is an AI agent that helps developers generate unit and integration tests with codebase context. Tusk sits in CI and provides automatic coverage whenever software engineers raise a PR. Engineering teams use Tusk to prevent critical regressions while increasing test coverage.",
     "one_liner": "AI agent that generates unit and integration tests",
     "team_size": 4,
     "industry": "B2B",
@@ -15120,6 +15073,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kiosk",
     "api": "https://yc-oss.github.io/api/batches/w24/kiosk.json"
+  },
+  {
+    "id": 29353,
+    "name": "Resonance",
+    "slug": "resonance",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f32584f82882e696b3984dfcf4bd700cce69fd5f.png",
+    "website": "https://www.useresonance.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Resonance enables companies to personalize omni-channel marketing campaign conversion rates within their existing tools with minimal to no engineering involvement.",
+    "one_liner": "Universal add-on for marketing campaign optimization",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1709332105,
+    "tags": [
+      "Reinforcement Learning",
+      "SaaS",
+      "Subscriptions",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/resonance",
+    "api": "https://yc-oss.github.io/api/batches/w24/resonance.json"
   },
   {
     "id": 29354,
@@ -16964,48 +16960,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/doublezero.json"
   },
   {
-    "id": 29577,
-    "name": "Variant",
-    "slug": "variant",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cdc6224947dca521498180f254e7e668f62f04b.png",
-    "website": "https://variant.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Variant is building the state-of-the-art model for software design. Our first milestone, icon generation, already surpasses existing approaches. The company is founded by Ben South Lee, former VP of Product Design at unicorn companies Postmates ($5B exit) and Avara ($2.5B market cap), and Daniel Bulhosa Solórzano, Staff ML engineer at Square and Cruise.",
-    "one_liner": "Building the state-of-the-art model for software design",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1732310413,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Design Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/variant",
-    "api": "https://yc-oss.github.io/api/batches/f24/variant.json"
-  },
-  {
     "id": 29579,
     "name": "Ply Health",
     "slug": "ply-health",
@@ -18067,49 +18021,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/lighthouz-ai.json"
   },
   {
-    "id": 29707,
-    "name": "Taxo",
-    "slug": "taxo",
-    "former_names": [
-      "Taxomatica",
-      "taxo.ai",
-      "taxo"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f975b562ddf2a304a569ae2a7dc2814672828062.png",
-    "website": "https://taxo.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Taxo integrates with electronic health records (EHRs) to automate medical billing and coding. Its AI-powered solution reduces the time and cost of claims processing by >90%, enabling providers to focus on patient care rather than administrative tasks.",
-    "one_liner": "Automated healthcare administration ",
-    "team_size": 8,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1724873194,
-    "tags": [
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/taxo",
-    "api": "https://yc-oss.github.io/api/batches/s24/taxo.json"
-  },
-  {
     "id": 29708,
     "name": "Zenbase AI",
     "slug": "zenbase-ai",
@@ -18285,6 +18196,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/panora",
     "api": "https://yc-oss.github.io/api/batches/s24/panora.json"
+  },
+  {
+    "id": 29727,
+    "name": "Overstand Labs",
+    "slug": "overstand-labs",
+    "former_names": [
+      "Overstand Labs",
+      "Overstand Labs Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png",
+    "website": "https://overstandlabs.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "If you’re a founder and feel like you—or your exec team—are too far removed from the customer, Overstand is here to help. We’re the platform (and API) for your customer communications, turning Slack, emails, WhatsApp, call recordings, and more into actionable insights. For example, we can help you discover feature requests hidden in customer emails, spot upsell opportunities from a casual Slack message, or identify a critical support issue buried in a call transcript -- all without having to depend on others in your company to fill out a form or write meeting notes.\r\n\r\nGet back to Founder Mode by spotting trends, uncovering growth opportunities, and staying deeply connected to your customers. Overstand makes it easy to understand where you’re needed most and take action that drives impact. 🚀",
+    "one_liner": "We help business leaders get back into Founder Mode",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1724369845,
+    "tags": [
+      "Customer Success",
+      "API",
+      "Customer Support",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/overstand-labs",
+    "api": "https://yc-oss.github.io/api/batches/w25/overstand-labs.json"
   },
   {
     "id": 29729,
@@ -20902,50 +20858,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/autocomputer.json"
   },
   {
-    "id": 30078,
-    "name": "Abundant",
-    "slug": "abundant",
-    "former_names": [
-      "Abundant (prev. Scorecard)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac0261264b03915325cd897f5bcb7484eec48903.png",
-    "website": "https://www.abundant.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Abundant powers reliable and safe AI deployment with real-time human expertise. Our network of specialized operators works alongside AI agents to:\r\n\r\n(1) Handle complex edge cases with precision.\r\n(2) Maintain rigorous safety standards.\r\n(3) Generate high-quality training data that continuously improves AI performance.\r\n\r\nCompanies can meet stringent quality requirements at a fraction of the cost of in-house teams, while accelerating their AI initiatives.",
-    "one_liner": "On-demand human workforce for AI agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1731958841,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "Recruiting",
-      "Collaboration",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/abundant",
-    "api": "https://yc-oss.github.io/api/batches/f24/abundant.json"
-  },
-  {
     "id": 30088,
     "name": "PermitPortal",
     "slug": "permitportal",
@@ -21617,25 +21529,25 @@
     "api": "https://yc-oss.github.io/api/batches/w25/nextbyte.json"
   },
   {
-    "id": 30188,
-    "name": "Admyral",
-    "slug": "admyral",
+    "id": 30187,
+    "name": "Praxim",
+    "slug": "praxim",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f504aecdfdb8e4acd4c08466c158b750a3ffe3d1.png",
-    "website": "https://www.admyral.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be59095cc480f86c19c6f83b000c574f9e8e3cd0.png",
+    "website": "https://www.praxim.ai/",
     "all_locations": "",
-    "long_description": "Admyral builds AI Agents to automate operations for the 143,000 commercial real estate brokers in the US.\r\nOur first product is an agentic lead generation tool for commercial real estate brokers. We take a property address and use AI Agents to find the owner's contact details. Our deep agentic search beats the industry standard of 40% and is improving daily.",
-    "one_liner": "AI Agents to Automate Operations for Commercial Real Estate",
+    "long_description": "Praxim is an AI-native workspace that organizes all your communications and documents into one unified platform. Praxim is the first such platform that can AI edit formatted files and documents like DOCX and PDF directly, reply to emails and text, and answer queries, all with company and user specific knowledge in mind.",
+    "one_liner": "AI-native email and office file editing on one platform",
     "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "B2B",
-    "launched_at": 1739171711,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1740746196,
     "tags": [
-      "Real Estate",
+      "SaaS",
+      "Consumer",
       "B2B",
-      "Sales",
       "AI",
-      "AI Assistant"
+      "Databases"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21644,7 +21556,8 @@
     "batch": "W25",
     "status": "Active",
     "industries": [
-      "Real Estate and Construction"
+      "B2B",
+      "Productivity"
     ],
     "regions": [
       "Unspecified"
@@ -21654,28 +21567,28 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/admyral",
-    "api": "https://yc-oss.github.io/api/batches/w25/admyral.json"
+    "url": "https://www.ycombinator.com/companies/praxim",
+    "api": "https://yc-oss.github.io/api/batches/w25/praxim.json"
   },
   {
-    "id": 30202,
-    "name": "Astro",
-    "slug": "astro",
+    "id": 30197,
+    "name": "Alice.tech",
+    "slug": "alice-tech",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/274ac22c30bd825b88e1dcfc3f005ade9b21767d.png",
-    "website": "https://www.astroenergy.ai/",
-    "all_locations": "",
-    "long_description": "Astro uses predictive models to identify and secure the best renewable energy sites, focusing on locations with minimal grid upgrade costs and high interconnection success rates. We streamline early-stage development to create shovel-ready projects for larger developers.",
-    "one_liner": "The world’s first AI energy developer",
-    "team_size": 1,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
-    "launched_at": 1739813505,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d58e9c6646fcf2c8783dc4e02f6ae0189039d29d.png",
+    "website": "https://www.alice.tech/",
+    "all_locations": "Copenhagen, Denmark",
+    "long_description": "Alice turns generic course materials into personalized learning and exam prep using AI. \r\n\r\nStudents simply upload what they want to study and instantly get access to:\r\n(1) Better understanding: Key topic overviews and explanations with personalized support through an AI chat that knows their context.\r\n(2) Effective practicing: Exercises tailored to their needs (level, format, curriculum, etc.), including flashcards, multiple-choice questions, and full exam simulations.\r\n(3) Targeted improvement: Identification of weaknesses across topics to enable more targeted and complete learning.\r\n\r\nPlus, learning becomes more engaging with Alice—students can study with friends and challenge each other, making the experience both fun and effective.\r\n\r\nOver 7,000 students have already used Alice, and we are growing MRR +60% MoM.",
+    "one_liner": "AI-driven exam prep",
+    "team_size": 5,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1736959747,
     "tags": [
-      "Solar Power",
-      "Energy",
-      "Renewable Energy",
-      "ClimateTech",
+      "AI-Enhanced Learning",
+      "Education",
+      "Generative AI",
+      "SaaS",
       "AI"
     ],
     "tags_highlighted": [],
@@ -21685,19 +21598,19 @@
     "batch": "W25",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Energy"
+      "Education"
     ],
     "regions": [
-      "Unspecified"
+      "Denmark",
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/astro",
-    "api": "https://yc-oss.github.io/api/batches/w25/astro.json"
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/alice-tech",
+    "api": "https://yc-oss.github.io/api/batches/w25/alice-tech.json"
   },
   {
     "id": 30203,
@@ -22172,6 +22085,51 @@
     "api": "https://yc-oss.github.io/api/batches/w25/general-agency.json"
   },
   {
+    "id": 30229,
+    "name": "Maive",
+    "slug": "maive",
+    "former_names": [
+      "MAIVE (Manufacturing AI Vision Engine)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4dc0216f8ee3fe5abb3ad9f3157d5befe0d616fd.png",
+    "website": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Maive automates aerospace compliance paperwork required on the manufacturing shop floor. We use cameras and AI to automatically fill federally-required paperwork, reducing the risk of companies being unable to sell their products and increasing factory throughput.\r\n\r\nUsers have told us the paperwork required for the F-35 fighter jet weighs more than the jet itself! The government requires a record for each of the 1.5 million parts in the jet, including what shop-floor workers do to each part and when they do it.\r\n\r\nAutomating paperwork by interpreting human actions with cameras is hard. Doing this at the edge and inside secure aerospace environments is harder. We fine-tune the latest vision language models to solve what was previously impossible.\r\n\r\nManufacturers lose millions when compliance paperwork has errors because it can freeze their ability to sell the product for months. Leaving this task to shop floor workers is both incredibly risky to the company and tedious for the employees. \r\n\r\nCompliance paperwork is just the beginning. We want to propel American manufacturing into the AI era. America is facing a serious problem: there’s $400B being invested to onshore manufacturing, but there’s simultaneously a projected 15% gap in workers needed due to an aging workforce. We’re on a mission to solve this by building the first AI native software for the shop floor. Our vision is to intelligently connect people, robots, and data to 10x today’s manufacturing capacity.",
+    "one_liner": "AI-native factory operations platform",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1740103642,
+    "tags": [
+      "Warehouse Management Tech",
+      "Computer Vision",
+      "Compliance",
+      "Aerospace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maive",
+    "api": "https://yc-oss.github.io/api/batches/w25/maive.json"
+  },
+  {
     "id": 30236,
     "name": "Tergle",
     "slug": "tergle",
@@ -22340,48 +22298,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/oki",
     "api": "https://yc-oss.github.io/api/batches/w25/oki.json"
-  },
-  {
-    "id": 30247,
-    "name": "Gulp",
-    "slug": "gulp",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/954a6f122415e9fc2c5797e73f4d4a44309e83d8.png",
-    "website": "https://gulp.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gulp is a developer platform that makes it easy for engineers to build, test, and deploy real-time data pipelines. Our first release is Osmosis: a framework that helps AI agents learn in real-time. | https://gulp.ai/responsive-software.html",
-    "one_liner": "Automating build, test, and deploy for real-time data pipelines ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1737656598,
-    "tags": [
-      "Developer Tools",
-      "Big Data",
-      "Data Engineering",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gulp",
-    "api": "https://yc-oss.github.io/api/batches/w25/gulp.json"
   },
   {
     "id": 30249,
@@ -22809,48 +22725,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mundo-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/mundo-ai.json"
-  },
-  {
-    "id": 30272,
-    "name": "Lucidic AI",
-    "slug": "lucidic-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/070d8df8755a600f5ecf800f273f60a2cfa54bb0.png",
-    "website": "https://lucidic.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic AI provides tools for developers and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
-    "one_liner": "Weights & Biases for AI Agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1736904770,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "SaaS",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lucidic-ai",
-    "api": "https://yc-oss.github.io/api/batches/w25/lucidic-ai.json"
   },
   {
     "id": 30273,
@@ -23281,8 +23155,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6dd000652c5e77966ee483897c0ffed9dac2d80.png",
     "website": "https://wild-card.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Connect agents to any API in the world with LLM-native interfaces. Wildcard is a developer platform that combines powerful API integrations with intelligent tool orchestration for AI agents. \r\n\r\nOur vision is to be the bridge between AI agents and the world’s APIs.",
-    "one_liner": "Making APIs 'just work' for AI Agents",
+    "long_description": "Wildcard is the gateway for AI agents to find and use APIs with natural language. We have four official partnerships with API providers like Resend and Alpaca on our open standard to make their APIs ready for agentic traffic.\r\nOur API integrations include: Google Sheets, Stripe, Resend, Slack, Alpaca, Rootly, ...\r\n\r\n\r\n",
+    "one_liner": "Make APIs work for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23487,50 +23361,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/tamlabs.json"
   },
   {
-    "id": 30345,
-    "name": "emojis.com",
-    "slug": "emojis-com",
-    "former_names": [
-      "851 Inc.",
-      "851",
-      "AI Emojis"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1236709ac67214a66dd801da6ae0f26da66749eb.png",
-    "website": "https://emojis.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We allow small businesses to easily create brand assets, like logos and icons, with AI. Our users have generated over 5 million assets on our platform.",
-    "one_liner": "AI Copilot for Graphic Design",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1740542821,
-    "tags": [
-      "Design",
-      "Design Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/emojis-com",
-    "api": "https://yc-oss.github.io/api/batches/w25/emojis-com.json"
-  },
-  {
     "id": 30348,
     "name": "SAMMY Labs",
     "slug": "sammy-labs",
@@ -23570,47 +23400,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sammy-labs",
     "api": "https://yc-oss.github.io/api/batches/w25/sammy-labs.json"
-  },
-  {
-    "id": 30349,
-    "name": "Tally",
-    "slug": "tally-2",
-    "former_names": [
-      "Trestle"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e88e78c0dea08f3aafaca4fcf9f07a5ef200e54.png",
-    "website": "https://tallyhq.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tally is building AI agents for accounting firms. Tally agents operate autonomously in a firm’s existing systems, automating repetitive work across accounting, tax, and audit, helping teams be more efficient and focus their efforts on higher risk, more complex work.",
-    "one_liner": "AI agents for accounting firms",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1739308183,
-    "tags": [
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tally-2",
-    "api": "https://yc-oss.github.io/api/batches/w25/tally-2.json"
   },
   {
     "id": 30356,

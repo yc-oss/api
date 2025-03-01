@@ -2833,12 +2833,13 @@
     "all_locations": "Bengaluru, KA, India",
     "long_description": "Orange Health Labs offers at-home collection of samples on-demand within 60 minutes and delivers test results twice as fast as the industry norm, across the top cities in India.\r\n\r\nWith an on-demand service, patients can now avoid visiting crowded and potentially infectious collection centers. At the same time, they can get diagnosed much faster and get better treatment remotely from their own doctor",
     "one_liner": "India's Fastest Diagnostics Service",
-    "team_size": 900,
+    "team_size": 1,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1599762607,
     "tags": [
       "Consumer Health Services",
+      "Health Tech",
       "Healthcare",
       "Diagnostics"
     ],
@@ -3876,7 +3877,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48474c1b0337163fd12462fb6b72ee336a4ad010.png",
     "website": "https://www.adni.co/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Adni is the first AI-powered nurse recruiting and retention platform. With our professional network of nurses and talent experience software, employers who use Adni hire nurses 2x faster and retain them 2x longer – all 4x cheaper than alternatives. What Doximity (IPO 2021) did for doctors, Adni is doing for nurses.",
+    "long_description": "Adni is the first AI-powered nurse recruiting and retention platform. With our professional network of nurses and talent experience software, leading healthcare organizations, like UT Medical Center and PRN Healthcare, use Adni to hire nurses 2x faster and retain them 2x longer, all at 4x lower cost than alternatives. What Doximity (IPO 2021) did for doctors, Adni is doing for nurses.",
     "one_liner": "AI-powered OS for nurse recruiting & retention",
     "team_size": 5,
     "industry": "Healthcare",
@@ -4595,14 +4596,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/437f8a6e2847546f303d55acd48f2ca6050b4e54.png",
     "website": "https://voize.de/",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "voize is the digital voice assistant for non-desk workers. Professionals like physicians, nurses, test engineers, and scientists spend over 2.5 hours on documentation every day. voize helps them finish it in minutes. The user speaks freely into a smartphone and the voize AI automatically generates structured documentation records. We transfer these documentation records into the existing enterprise software systems of the organization.",
+    "long_description": "At voize, we’re revolutionizing the healthcare industry with AI: Nurses simply speak their documentation into their smartphones, and our AI automatically generates the correct entries. This saves each nurse an average of 39 minutes per day, improves the quality of documentation, and makes their daily work much more rewarding.\r\n\r\nvoize is YCombinator-funded, already in use at over 600 senior care homes, and has grown by 100% in the last 90 days. Our customers save over 3.5 million hours annually – time spent on people instead of paperwork.\r\n\r\nBut this is just the beginning. With our self-developed voize AI, we’re transforming not only the healthcare industry, but also have the potential to create value in many other sectors – from healthcare to inspections.",
     "one_liner": "App for healthcare workers to fill out forms using speech",
-    "team_size": 4,
+    "team_size": 38,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1648233375,
     "tags": [
-      "Healthcare"
+      "Machine Learning",
+      "Healthcare",
+      "NLP"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4624,7 +4627,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/voize",
     "api": "https://yc-oss.github.io/api/batches/w22/voize.json"
   },
@@ -6239,15 +6242,17 @@
     "id": 28922,
     "name": "Egress Health",
     "slug": "egress-health",
-    "former_names": [],
+    "former_names": [
+      "Egress"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png",
     "website": "https://tryegress.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "\r\n",
-    "one_liner": "End-To-End Revenue Cycle Automation",
+    "long_description": "Egress Health builds AI agents to automate revenue cycle management, starting with dental offices. Our workflows span eligibility checks, claims scrubbing, payment posting, and denial management. On average, our customers eliminate 1-2 full time employees and collect 5-15% more revenue each month. Interested in learning more? Shoot us a note at founders@tryegress.com",
+    "one_liner": "Automated revenue cycle management, starting with dentists",
     "team_size": 2,
     "industry": "Healthcare",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "Healthcare",
     "launched_at": 1690905553,
     "tags": [
       "Workflow Automation",
@@ -6258,7 +6263,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "S23",
+    "batch": "W25",
     "status": "Active",
     "industries": [
       "Healthcare"
@@ -6273,7 +6278,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/egress-health",
-    "api": "https://yc-oss.github.io/api/batches/s23/egress-health.json"
+    "api": "https://yc-oss.github.io/api/batches/w25/egress-health.json"
   },
   {
     "id": 28923,
@@ -7446,49 +7451,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/tivara.json"
   },
   {
-    "id": 29707,
-    "name": "Taxo",
-    "slug": "taxo",
-    "former_names": [
-      "Taxomatica",
-      "taxo.ai",
-      "taxo"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f975b562ddf2a304a569ae2a7dc2814672828062.png",
-    "website": "https://taxo.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Taxo integrates with electronic health records (EHRs) to automate medical billing and coding. Its AI-powered solution reduces the time and cost of claims processing by >90%, enabling providers to focus on patient care rather than administrative tasks.",
-    "one_liner": "Automated healthcare administration ",
-    "team_size": 8,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1724873194,
-    "tags": [
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/taxo",
-    "api": "https://yc-oss.github.io/api/batches/s24/taxo.json"
-  },
-  {
     "id": 29775,
     "name": "Brighterway",
     "slug": "brighterway",
@@ -8312,7 +8274,7 @@
     "website": "https://gettireswing.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Tire Swing saves health care companies thousands of hours on routine regulatory compliance tasks.\r\n\r\nOur AI platform enables compliance teams to search across thousands of regulations, prepare for audits, and find gaps in their policies and procedures. As regulatory changes occur we suggest corresponding updates to your documents.\r\n\r\nTire Swing takes the headache out of compliance so healthcare organizations can focus on their mission.\r\n\r\n\r\n",
-    "one_liner": "AI regulatory research and compliance for health care ",
+    "one_liner": "AI for Health Care Compliance",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
