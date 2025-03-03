@@ -8062,7 +8062,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S18",
     "status": "Active",
@@ -10397,7 +10397,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23374,7 +23374,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -30882,7 +30882,7 @@
     "name": "PropelAuth",
     "slug": "propelauth",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/970b6c37812c0813bdd1f859adb13accb17bcdf4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72dfbc62d781eba9b77e867d8e40fdab0d7efbf8.png",
     "website": "https://www.propelauth.com",
     "all_locations": "CA, USA; Remote",
     "long_description": "PropelAuth provides the right level of authentication for all stages of a company. New startups can use our hosted pre-built UIs which provide the simplest possible integration. Out of the box, our customers immediately have the same auth experience as large tech companies like Slack. As those startups grow, they can use our APIs and component libraries to pull aspects of the experience into their product.\r\n\r\nMore than just authentication, we will also provide useful functions tied to a \"user\" or \"organization\", like analytics, billing/subscriptions, referral programs, etc.",
@@ -42994,50 +42994,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/fluently.json"
   },
   {
-    "id": 29478,
-    "name": "Reform",
-    "slug": "reform",
-    "former_names": [
-      "Knowstory"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1dc8f5914cad7c44e1fba45da40ae265dd9bfe2.png",
-    "website": "https://www.reformhq.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Automate your repetitive tasks, interface directly with your own transport management system, and create dashboards in one single platform.",
-    "one_liner": "The AI-powered workspace for freight forwarding",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1706556384,
-    "tags": [
-      "SaaS",
-      "Logistics",
-      "Supply Chain",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reform",
-    "api": "https://yc-oss.github.io/api/batches/w24/reform.json"
-  },
-  {
     "id": 29496,
     "name": "Konstructly",
     "slug": "konstructly",
@@ -47580,18 +47536,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
     "website": "https://spott.io",
     "all_locations": "",
-    "long_description": "Spott is building the next generation ATS & CRM for executive search firms. Today, headhunters use our software to produce detailed candidate presentation reports in minutes instead of hours.\r\n\r\n",
-    "one_liner": "AI for Executive Search",
-    "team_size": 5,
+    "long_description": "Spott is the AI-native ATS & CRM built for recruiting and executive search firms. Our platform gets rid of manual data entry, automates repetitive workflows with AI agents, and accelerates recruiters' decision-making.",
+    "one_liner": "AI-Native Recruitment platform",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1737184010,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "HR Tech",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

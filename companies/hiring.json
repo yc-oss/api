@@ -8215,51 +8215,6 @@
     "api": "https://yc-oss.github.io/api/batches/s18/openphone.json"
   },
   {
-    "id": 1934,
-    "name": "Paladin",
-    "slug": "paladin",
-    "former_names": [
-      "Paladin Drones"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d5942ba09555d929f556c3c20d281485efbde5d.png",
-    "website": "http://paladindrones.io",
-    "all_locations": "Houston, TX, USA",
-    "long_description": "When a 911 call is received, our drone is autonomously dispatched from a fire station and flies to the scene. It streams a live video feed back to the first responders, providing them with key situational details, such as the size and exact location of a fire. ",
-    "one_liner": "We deploy autonomous drones to 911 calls. Our software gives first…",
-    "team_size": 12,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Drones",
-    "launched_at": 1525133083,
-    "tags": [
-      "SaaS",
-      "Drones",
-      "GovTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S18",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Drones"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/paladin",
-    "api": "https://yc-oss.github.io/api/batches/s18/paladin.json"
-  },
-  {
     "id": 1935,
     "name": "Meru Health",
     "slug": "meru-health",
@@ -10877,7 +10832,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -23494,6 +23449,49 @@
     "api": "https://yc-oss.github.io/api/batches/s21/union54.json"
   },
   {
+    "id": 24150,
+    "name": "Hypercore",
+    "slug": "hypercore",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b990f248fafbfb15158a00efa981170b5e2bad41.png",
+    "website": "https://www.hypercore.ai/",
+    "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "long_description": "Hypercore is a loan management software for small lenders. We help lenders automate workflows and provide them with real-time analytics and KPIs on their portfolios.\r\nSince June we are running paid pilots ($3.5K MRR), 1 LOI ($1.5K MRR). The founding team met while serving together as officers in technological units in the Israeli Defence Forces. We then established together a software development company specialized in fintech projects such as e-wallets and open-banking projects. That’s where we discovered how archaic are the tools lenders use that are ready for disruption.\r\nHypercore is building the tools for private lenders who currently do everything in Excel, culminating in a 'Nasdaq of private loan books' - utilizing the platform to securitize loan books.",
+    "one_liner": "Loan management software for private lenders",
+    "team_size": 7,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1628254783,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "Israel",
+      "Middle East and North Africa",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hypercore",
+    "api": "https://yc-oss.github.io/api/batches/s21/hypercore.json"
+  },
+  {
     "id": 24151,
     "name": "Lago",
     "slug": "lago",
@@ -30072,7 +30070,7 @@
     "name": "PropelAuth",
     "slug": "propelauth",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/970b6c37812c0813bdd1f859adb13accb17bcdf4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72dfbc62d781eba9b77e867d8e40fdab0d7efbf8.png",
     "website": "https://www.propelauth.com",
     "all_locations": "CA, USA; Remote",
     "long_description": "PropelAuth provides the right level of authentication for all stages of a company. New startups can use our hosted pre-built UIs which provide the simplest possible integration. Out of the box, our customers immediately have the same auth experience as large tech companies like Slack. As those startups grow, they can use our APIs and component libraries to pull aspects of the experience into their product.\r\n\r\nMore than just authentication, we will also provide useful functions tied to a \"user\" or \"organization\", like analytics, billing/subscriptions, referral programs, etc.",
@@ -31390,16 +31388,16 @@
     "website": "https://www.uselayerup.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Layerup's mission is to boost innovation in industries that lack it, starting by bringing AI securely to enterprises.",
-    "one_liner": "AI Agents for Banks and Credit Unions",
+    "one_liner": "Human-like Voice AI agents for Financial Institutions",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1645952902,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34789,6 +34787,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rollstack-2",
     "api": "https://yc-oss.github.io/api/batches/w23/rollstack-2.json"
+  },
+  {
+    "id": 27693,
+    "name": "Depot",
+    "slug": "depot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4bc0c4958bdeddfb5cee7883f042a17f65e1bd00.png",
+    "website": "https://depot.dev",
+    "all_locations": "Remote",
+    "long_description": "Depot is a build acceleration platform making builds up to 40x faster for Docker containers and GitHub Actions. Companies like PostHog, Wistia, Appsmith, and Secoda use Depot to save tens of hours of build time every day.\r\n\r\nWe offer a remote container build service for building Intel & Arm Docker images, from your CI or local machine, up to 40x faster. Our container builds come with in-depth build insights, ephemeral registries, and instant cache sharing across your team.\r\n\r\nFinally, we also offer our own Depot GitHub Actions Runners that brings all the speed of Depot to your entire GitHub Actions workflow at half the cost of GitHub-hosted runners, and up to 10x faster builds. Simply change the runs-on label of your existing workflow to route jobs to Depot runners.\r\n\r\nKyle and Jacob worked together as staff engineers for 4.5 years at Thorn and Era Software, before founding Depot. Depot is their solution to the wildly inefficient container build tooling and non-performant CI systems they encountered throughout their careers. \r\n",
+    "one_liner": "Build faster. Waste less time.",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1669037258,
+    "tags": [
+      "Developer Tools",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/depot",
+    "api": "https://yc-oss.github.io/api/batches/w23/depot.json"
   },
   {
     "id": 27697,
@@ -44495,6 +44533,44 @@
     "api": "https://yc-oss.github.io/api/batches/s24/spur.json"
   },
   {
+    "id": 29478,
+    "name": "Reform",
+    "slug": "reform",
+    "former_names": [
+      "Knowstory"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1dc8f5914cad7c44e1fba45da40ae265dd9bfe2.png",
+    "website": "https://www.reformhq.com",
+    "all_locations": "",
+    "long_description": "Automate your repetitive tasks, interface directly with your own transport management system, and create dashboards in one single platform.",
+    "one_liner": "The AI-powered workspace for freight forwarding",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1706556384,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reform",
+    "api": "https://yc-oss.github.io/api/batches/w24/reform.json"
+  },
+  {
     "id": 29482,
     "name": "TrueClaim",
     "slug": "trueclaim",
@@ -46116,16 +46192,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19d33a41f68a666de360151afdcdd82f92471a13.png",
     "website": "https://www.unriddle.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build tools to help people think and work better.\r\n\r\nToday, Unriddle helps researchers and students quickly find insights in documents, video and audio so they can learn and write faster. \r\n\r\nWe started working on Unriddle 18 months ago. In that time:\r\n- we’ve grown to 3M users spanning hundreds of major colleges and research-led companies,\r\n- we hit $1.5M in yearly revenue and are fast approaching our next milestone of $2M,\r\n- 100M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised a $2.4M seed with checks from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we're expanding beyond just summarization and writing assistance to address the broader challenges of information overload faced by researchers and students.\r\n\r\nWe're a small, tight-knit team with huge ambitions. As a founding member of the team, you'll be instrumental in helping us scale revenue from $1M to $10M and then $10M to $100M+.\r\n\r\nIf you’re excited by the idea of being a part of that, definitely apply.",
+    "long_description": "We're building tools to help people think and work better.\r\n\r\nToday, Unriddle helps researchers and students quickly find insights in documents, video and audio so they can learn and write faster.\r\n\r\nWe started working on Unriddle 18 months ago. In that time:\r\n- we’ve grown to 3M users spanning hundreds of major colleges and research-led companies, \r\n- we reached $1.5M in yearly revenue and are about to hit $2M, \r\n- 100M+ people have seen our content across Instagram, TikTok and YouTube,  \r\n- and we raised $2.4M from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we're expanding beyond just summarization and writing assistance to address the broader challenges of information overload faced by researchers and students.\r\n\r\nWe're a small, tight-knit team with huge ambitions. As a founding member of the team, you'll be instrumental in helping us scale revenue from $1M to $10M and then $10M to $100M+.\r\n\r\nIf you’re excited by the idea of being a part of that, definitely reach out.",
     "one_liner": "AI for researchers, students and scientists",
     "team_size": 5,
     "industry": "Consumer",
     "subindustry": "B2B",
     "launched_at": 1715615655,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -11941,7 +11941,7 @@
     "name": "PropelAuth",
     "slug": "propelauth",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/970b6c37812c0813bdd1f859adb13accb17bcdf4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72dfbc62d781eba9b77e867d8e40fdab0d7efbf8.png",
     "website": "https://www.propelauth.com",
     "all_locations": "CA, USA; Remote",
     "long_description": "PropelAuth provides the right level of authentication for all stages of a company. New startups can use our hosted pre-built UIs which provide the simplest possible integration. Out of the box, our customers immediately have the same auth experience as large tech companies like Slack. As those startups grow, they can use our APIs and component libraries to pull aspects of the experience into their product.\r\n\r\nMore than just authentication, we will also provide useful functions tied to a \"user\" or \"organization\", like analytics, billing/subscriptions, referral programs, etc.",
@@ -13610,14 +13610,17 @@
     "all_locations": "Remote",
     "long_description": "Depot is a build acceleration platform making builds up to 40x faster for Docker containers and GitHub Actions. Companies like PostHog, Wistia, Appsmith, and Secoda use Depot to save tens of hours of build time every day.\r\n\r\nWe offer a remote container build service for building Intel & Arm Docker images, from your CI or local machine, up to 40x faster. Our container builds come with in-depth build insights, ephemeral registries, and instant cache sharing across your team.\r\n\r\nFinally, we also offer our own Depot GitHub Actions Runners that brings all the speed of Depot to your entire GitHub Actions workflow at half the cost of GitHub-hosted runners, and up to 10x faster builds. Simply change the runs-on label of your existing workflow to route jobs to Depot runners.\r\n\r\nKyle and Jacob worked together as staff engineers for 4.5 years at Thorn and Era Software, before founding Depot. Depot is their solution to the wildly inefficient container build tooling and non-performant CI systems they encountered throughout their careers. \r\n",
     "one_liner": "Build faster. Waste less time.",
-    "team_size": 5,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1669037258,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "DevOps"
+    ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -13827,14 +13830,18 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80d1f55be06d00fd52db1ea9553e87aa6f8ac9d1.png",
     "website": "https://www.rubberduckylabs.io/",
-    "all_locations": "Remote",
-    "long_description": "Do you want to optimize revenue, engagement, or both? Our team of experts will get you great results, quickly. ",
-    "one_liner": "We know recommender systems.",
-    "team_size": 1,
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "We built Rubber Ducky Labs to help e-commerce teams effortlessly improve product discovery through better metadata. Our tool enables non-technical users to leverage multi-modal AI on product catalogs—just upload a CSV and start tagging metadata in minutes.",
+    "one_liner": "Better product metadata in minutes.",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1671139016,
-    "tags": [],
+    "tags": [
+      "E-commerce",
+      "AI",
+      "Recommendation System"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -13846,6 +13853,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -21783,6 +21792,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/oki",
     "api": "https://yc-oss.github.io/api/batches/w25/oki.json"
+  },
+  {
+    "id": 30254,
+    "name": "hud",
+    "slug": "hud",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72ba1775f18d84d7a5c6d25f0e693dc75df8d544.png",
+    "website": "https://hud.so",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Evals for Computer Use agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1740930546,
+    "tags": [
+      "Developer Tools",
+      "Data Labeling",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hud",
+    "api": "https://yc-oss.github.io/api/batches/w25/hud.json"
   },
   {
     "id": 30255,

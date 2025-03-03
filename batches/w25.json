@@ -2302,7 +2302,7 @@
     "former_names": [
       "MAIVE (Manufacturing AI Vision Engine)"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4dc0216f8ee3fe5abb3ad9f3157d5befe0d616fd.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8c2773604bbaf5a32094fbcb757b92f9d29a32e.png",
     "website": "",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Maive automates aerospace compliance paperwork required on the manufacturing shop floor. We use cameras and AI to automatically fill federally-required paperwork, reducing the risk of companies being unable to sell their products and increasing factory throughput.\r\n\r\nUsers have told us the paperwork required for the F-35 fighter jet weighs more than the jet itself! The government requires a record for each of the 1.5 million parts in the jet, including what shop-floor workers do to each part and when they do it.\r\n\r\nAutomating paperwork by interpreting human actions with cameras is hard. Doing this at the edge and inside secure aerospace environments is harder. We fine-tune the latest vision language models to solve what was previously impossible.\r\n\r\nManufacturers lose millions when compliance paperwork has errors because it can freeze their ability to sell the product for months. Leaving this task to shop floor workers is both incredibly risky to the company and tedious for the employees. \r\n\r\nCompliance paperwork is just the beginning. We want to propel American manufacturing into the AI era. America is facing a serious problem: there’s $400B being invested to onshore manufacturing, but there’s simultaneously a projected 15% gap in workers needed due to an aging workforce. We’re on a mission to solve this by building the first AI native software for the shop floor. Our vision is to intelligently connect people, robots, and data to 10x today’s manufacturing capacity.",
@@ -2312,11 +2312,11 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1740103642,
     "tags": [
+      "Artificial Intelligence",
       "Warehouse Management Tech",
       "Computer Vision",
       "Compliance",
-      "Aerospace",
-      "AI"
+      "Aerospace"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3114,7 +3114,7 @@
     "website": "https://finbar.com",
     "all_locations": "London, England, United Kingdom",
     "long_description": "AI-powered financial data analysis. Used by several top-30 AUM hedge funds.",
-    "one_liner": "AI-powered financial data & analysis",
+    "one_liner": "The AI Financial Analyst",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -3145,6 +3145,47 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/finbar",
     "api": "https://yc-oss.github.io/api/batches/w25/finbar.json"
+  },
+  {
+    "id": 30254,
+    "name": "hud",
+    "slug": "hud",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72ba1775f18d84d7a5c6d25f0e693dc75df8d544.png",
+    "website": "https://hud.so",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Evals for Computer Use agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1740930546,
+    "tags": [
+      "Developer Tools",
+      "Data Labeling",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hud",
+    "api": "https://yc-oss.github.io/api/batches/w25/hud.json"
   },
   {
     "id": 30255,
@@ -4124,16 +4165,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da9bdd65896a691965e96e56efdfaa0880fcac0e.png",
     "website": "https://www.agentin.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Agentin AI, we build Agents that move data and take actions across enterprise systems, like Salesforce and SAP. These agents are difficult to build because each enterprise heavily customizes their systems but we solved that by training our Agents to learn and adapt from failures, applying reinforcement learning techniques we developed.",
+    "long_description": "At Agentin AI, we build Agents that move data and take actions across enterprise systems, like Salesforce, NetSuite and SAP. These agents are difficult to build because each enterprise heavily customizes their systems but we solved that by training our Agents to learn and adapt from failures, applying reinforcement learning techniques we developed.",
     "one_liner": "AI Agents to automate Order to Cash",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1740032946,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5632,18 +5673,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
     "website": "https://spott.io",
     "all_locations": "",
-    "long_description": "Spott is building the next generation ATS & CRM for executive search firms. Today, headhunters use our software to produce detailed candidate presentation reports in minutes instead of hours.\r\n\r\n",
-    "one_liner": "AI for Executive Search",
-    "team_size": 5,
+    "long_description": "Spott is the AI-native ATS & CRM built for recruiting and executive search firms. Our platform gets rid of manual data entry, automates repetitive workflows with AI agents, and accelerates recruiters' decision-making.",
+    "one_liner": "AI-Native Recruitment platform",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1737184010,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "HR Tech",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
