@@ -27228,16 +27228,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb773861a8ee7d9c8f9ea1ad72eeeb3cc4a2283e.png",
     "website": "http://tigereye.com/",
     "all_locations": "Remote",
-    "long_description": "As experts in machine learning and mobile enterprise, TigerEye is uniquely qualified to reimagine what smart sales software is capable of delivering to a multigenerational workforce. At our last startup, PlanGrid, we saw firsthand what using legacy software did to our team — it slowed us down. We have the necessary skills and unwavering desire to build better tools for sales leaders. TigerEye is the solution to make faster strategic decisions.\r\n",
-    "one_liner": "Modern enterprise software for sales leaders",
-    "team_size": 16,
+    "long_description": "Think Snowflake + Looker + Perplexity.  We take care of your data lake and data modeling, providing one-click access to pipeline, revenue, funnel, and financial metrics with AI-driven insights. We also have out of the box tools for territories and segmentation.  Whether you need your first RevOps or Financial Analyst hire or want to supercharge your existing team, we've got you covered.\r\n",
+    "one_liner": "AI analytics for GTM",
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1662668055,
     "tags": [
       "SaaS",
+      "Finance",
       "Sales",
-      "Sales Enablement"
+      "Sales Enablement",
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33308,7 +33310,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -45286,16 +45288,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/157ef705774b4b91cf62de3244f82d80101e257a.png",
     "website": "https://delineate.pro/",
     "all_locations": "Boston, MA, USA; Remote",
-    "long_description": "90% of drug candidates fail despite billions in pharmaceutical R&D. \r\n\r\nDelineate extracts and analyzes data from biopharma research papers and patents at scale, including data trapped in figures and plots. \r\n\r\nLed by Emily (MIT PhD, former Pfizer/AstraZeneca computational researcher) and Jawad (ex-Lockheed Skunkworks AI lead), Delineate has developed custom LLM and computer vision models paired with rigorous QC processes to deliver extremely high quality datasets in a fraction of the time.\r\n\r\nBy processing 15x more studies than industry standard and reducing months of research into weeks, we're transforming how pharmaceutical companies make evidence based development decisions. \r\n\r\nDelineate has generated $160K in revenue through data contracts with Sanofi and Roche, conducting some of the largest aggregated research studies to date.",
+    "long_description": "90% of drug candidates fail despite billions in pharmaceutical R&D. \r\n\r\nDelineate extracts and analyzes data from biopharma research papers and patents at scale, including data trapped in figures and plots. \r\n\r\nLed by Emily (MIT PhD, former Pfizer/AstraZeneca computational researcher) and Jawad (ex-Lockheed Skunkworks AI lead), Delineate has developed custom LLM and computer vision models paired with rigorous QC processes to deliver extremely high quality datasets in a fraction of the time.\r\n\r\nBy processing 15x more studies than industry standard and reducing months of research into weeks, we're transforming how pharmaceutical companies make evidence based development decisions. \r\n\r\nDelineate has worked with two top-10 pharma companies and conducted some of the largest aggregated research studies to date.",
     "one_liner": "Extract meaningful data from research literature and patents at scale.",
     "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1739310156,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Biotech",
-      "AI"
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45798,8 +45800,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e55e38ad260d4702bf3f8928801e1f5372f997b.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube is building an AI-powered platform for insurance agents offering:\r\n✅ AI Policy Analysis – Instantly analyze and compare commercial insurance policies.\r\n✅ Custom AI Solutions – Tailored AI to automate workflows and enhance brokerage operations.\r\n✅ Natural Disaster Software – Climate risk analytics, live event tracking, and predictive modeling for wildfires, floods, hurricanes, etc.\r\n\r\nRiskCube for businesses\r\n✅ Get Matched with the Right Brokers – We connect you with expert insurance agencies that leverage AI to find the best coverage for your business.\r\n✅ Faster, More Efficient Process – Save time with a streamlined, data-driven insurance experience.",
-    "one_liner": "We help insurance agents scale their business with AI. ",
+    "long_description": "RiskCube is building an AI-powered platform offering:\r\n✅ AI Policy Analysis – Instantly analyze and compare commercial insurance policies.\r\n✅ Custom AI Solutions – Tailored AI to automate workflows and enhance brokerage operations.\r\n✅ Natural Disaster Software – Climate risk analytics, live event tracking, and predictive modeling for wildfires, floods, hurricanes, etc.",
+    "one_liner": "AI-driven commercial insurance broker for P&C risks.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -46179,6 +46181,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/archilabs",
     "api": "https://yc-oss.github.io/api/batches/f24/archilabs.json"
+  },
+  {
+    "id": 30107,
+    "name": "Surge",
+    "slug": "surge",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f55889b876077192ae88368c48e83468f24487c.png",
+    "website": "https://surge.app",
+    "all_locations": "Lehi, UT, USA",
+    "long_description": "Surge is Stripe for telephony. Our team has experience building telephony software at billion dollar scale. Because of increased regulation, Twilio and other SMS APIs take weeks to onboard new customers, but we can get startups onboarded same day. Surge will win the market by enabling easy carrier registration and keeping customers with our higher level APIs and no code UI components. We have 11 paying customers so far, and our revenue is growing 58% month over month.",
+    "one_liner": "Stripe for telephony",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1731622401,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "API",
+      "Telecommunications",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/surge",
+    "api": "https://yc-oss.github.io/api/batches/f24/surge.json"
   },
   {
     "id": 30114,
@@ -46734,7 +46779,8 @@
     "name": "Sift Dev",
     "slug": "sift-dev",
     "former_names": [
-      "Sift"
+      "Sift",
+      "Serix"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d00fe727e32957a1207328fc67938587038c996.png",
     "website": "https://www.runsift.com",
@@ -46864,7 +46910,7 @@
     "slug": "oki",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a80f26794f39a5699d91f7551f1b29f686e1b0b.png",
-    "website": "",
+    "website": "https://www.okiapplications.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Oki unifies Slack, Github, and every engineering workflow into an AI-driven dashboard, so leaders can track progress, optimize resources, and boost productivity. ",
     "one_liner": "AI Insights to auto track projects and boost engineering productivity",
@@ -46873,10 +46919,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1739303977,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,

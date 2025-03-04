@@ -2495,7 +2495,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -8315,16 +8315,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d78b1369b828cc303a6a77f59f19df0f4b21c51c.png",
     "website": "http://pyspur.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "AI engineers use PySpur to build, debug, and deploy AI agents.",
     "one_liner": "Open Source AI Agents Builder",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1703955205,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8864,6 +8864,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mem0",
     "api": "https://yc-oss.github.io/api/batches/s24/mem0.json"
+  },
+  {
+    "id": 29633,
+    "name": "Unsloth AI",
+    "slug": "unsloth-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/821f8850dee6e9f14ef87d19a86abcd55976c80c.png",
+    "website": "https://unsloth.ai/",
+    "all_locations": "",
+    "long_description": "Unsloth helps builders create custom models better & faster. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 8 million monthly model downloads and 15K GitHub stars, our mission is to make fine-tuning and open-source the best it can be!",
+    "one_liner": "Open Source Fine-tuning & Training of LLMs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1725425996,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unsloth-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/unsloth-ai.json"
   },
   {
     "id": 29644,
@@ -11110,8 +11152,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ca271404aea28bec6896687dbf74ab6cba8ed84.png",
     "website": "https://www.usevora.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vora is building AI digital workers for hiring teams. We enable companies to cut time-to-hire for the top candidates by 50%.\r\n\r\nRachel - our AI recruiter - sources candidates, screens inbound applications (with resume and voice screens) and shortlists the top candidates so hiring teams can focus on closing the best talent faster.",
-    "one_liner": "AI agents for hiring teams",
+    "long_description": "Vora gives every hiring manager an AI recruiter. Our AI agent, Rachel, automates talent sourcing by handling everything from identifying top talent, to writing personalized outreach to scheduling interviews directly on the hiring manager's calendar. This allows teams to focus on what matters most - talking to and closing the best candidates.\r\n\r\nWe believe that selling the work, not software, is the best way to unlock the true productivity gains of GenAI.",
+    "one_liner": "AI recruiter for hiring managers",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
@@ -11148,7 +11190,8 @@
     "name": "Sift Dev",
     "slug": "sift-dev",
     "former_names": [
-      "Sift"
+      "Sift",
+      "Serix"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d00fe727e32957a1207328fc67938587038c996.png",
     "website": "https://www.runsift.com",
@@ -11746,8 +11789,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2becf67c5cc7db1253713a370845eaacd136b86.png",
     "website": "http://trainloop.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "TrainLoop makes it effortless for developers to improve reasoning models like deepseek-r1 for their task.",
-    "one_liner": "Fine-tune reasoning models",
+    "long_description": "TrainLoop makes it effortless for developers to supercharge LLM performance through reinforcement learning..",
+    "one_liner": "Reasoning Fine-Tuning",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",

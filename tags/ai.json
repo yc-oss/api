@@ -2228,7 +2228,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S19",
     "status": "Active",
@@ -14004,6 +14004,48 @@
     "api": "https://yc-oss.github.io/api/batches/w24/greptile.json"
   },
   {
+    "id": 29239,
+    "name": "ion design",
+    "slug": "ion-design",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19ac79a5dd7e79b8d3e0a7794a401a7673116ee9.png",
+    "website": "https://www.ion.design/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "ion is an AI-powered front-end editor that lets designers and PMs ship real code changes—without engineers.\r\n\r\nWe streamline product iteration and collaboration so your team can move faster and stay focused on what matters most: building great experiences.",
+    "one_liner": "The AI visual editor for your codebase, built for collaboration",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1698787268,
+    "tags": [
+      "Developer Tools",
+      "Design Tools",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ion-design",
+    "api": "https://yc-oss.github.io/api/batches/w24/ion-design.json"
+  },
+  {
     "id": 29245,
     "name": "Kabilah",
     "slug": "kabilah",
@@ -14514,51 +14556,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/artisan",
     "api": "https://yc-oss.github.io/api/batches/w24/artisan.json"
-  },
-  {
-    "id": 29296,
-    "name": "Simplex",
-    "slug": "simplex",
-    "former_names": [
-      "Simplex",
-      "Pansimulate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fd9d06940eb3b2825ac2017a3e3f2c14d9a3252.png",
-    "website": "https://simplex.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simplex is an API that allows developers to easily take actions on the web. Customers across real estate, healthcare, and finance use us to reliably fill out forms, upload/download files, and extract data, often as part of a larger AI agent workflow.",
-    "one_liner": "Web automation for developers",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1723709594,
-    "tags": [
-      "Machine Learning",
-      "Robotic Process Automation",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/simplex",
-    "api": "https://yc-oss.github.io/api/batches/s24/simplex.json"
   },
   {
     "id": 29301,
@@ -15474,49 +15471,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ellipsis",
     "api": "https://yc-oss.github.io/api/batches/w24/ellipsis.json"
-  },
-  {
-    "id": 29372,
-    "name": "PySpur.dev",
-    "slug": "pyspur-dev",
-    "former_names": [
-      "Sevn.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d78b1369b828cc303a6a77f59f19df0f4b21c51c.png",
-    "website": "http://pyspur.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Open Source AI Agents Builder",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1703955205,
-    "tags": [
-      "Generative AI",
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pyspur-dev",
-    "api": "https://yc-oss.github.io/api/batches/w24/pyspur-dev.json"
   },
   {
     "id": 29374,
@@ -17219,6 +17173,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/codes-health",
     "api": "https://yc-oss.github.io/api/batches/s24/codes-health.json"
+  },
+  {
+    "id": 29633,
+    "name": "Unsloth AI",
+    "slug": "unsloth-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/821f8850dee6e9f14ef87d19a86abcd55976c80c.png",
+    "website": "https://unsloth.ai/",
+    "all_locations": "",
+    "long_description": "Unsloth helps builders create custom models better & faster. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 8 million monthly model downloads and 15K GitHub stars, our mission is to make fine-tuning and open-source the best it can be!",
+    "one_liner": "Open Source Fine-tuning & Training of LLMs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1725425996,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unsloth-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/unsloth-ai.json"
   },
   {
     "id": 29635,
@@ -20051,49 +20047,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/kairo-health.json"
   },
   {
-    "id": 29988,
-    "name": "Delineate",
-    "slug": "delineate",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/157ef705774b4b91cf62de3244f82d80101e257a.png",
-    "website": "https://delineate.pro/",
-    "all_locations": "Boston, MA, USA; Remote",
-    "long_description": "90% of drug candidates fail despite billions in pharmaceutical R&D. \r\n\r\nDelineate extracts and analyzes data from biopharma research papers and patents at scale, including data trapped in figures and plots. \r\n\r\nLed by Emily (MIT PhD, former Pfizer/AstraZeneca computational researcher) and Jawad (ex-Lockheed Skunkworks AI lead), Delineate has developed custom LLM and computer vision models paired with rigorous QC processes to deliver extremely high quality datasets in a fraction of the time.\r\n\r\nBy processing 15x more studies than industry standard and reducing months of research into weeks, we're transforming how pharmaceutical companies make evidence based development decisions. \r\n\r\nDelineate has generated $160K in revenue through data contracts with Sanofi and Roche, conducting some of the largest aggregated research studies to date.",
-    "one_liner": "Extract meaningful data from research literature and patents at scale.",
-    "team_size": 20,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1739310156,
-    "tags": [
-      "SaaS",
-      "Biotech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/delineate",
-    "api": "https://yc-oss.github.io/api/batches/w25/delineate.json"
-  },
-  {
     "id": 29989,
     "name": "Melty",
     "slug": "melty",
@@ -22302,48 +22255,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/zeroentropy.json"
   },
   {
-    "id": 30242,
-    "name": "Oki",
-    "slug": "oki",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a80f26794f39a5699d91f7551f1b29f686e1b0b.png",
-    "website": "",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Oki unifies Slack, Github, and every engineering workflow into an AI-driven dashboard, so leaders can track progress, optimize resources, and boost productivity. ",
-    "one_liner": "AI Insights to auto track projects and boost engineering productivity",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1739303977,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oki",
-    "api": "https://yc-oss.github.io/api/batches/w25/oki.json"
-  },
-  {
     "id": 30249,
     "name": "HealthKey",
     "slug": "healthkey",
@@ -23019,6 +22930,50 @@
     "api": "https://yc-oss.github.io/api/batches/w25/calltree-ai.json"
   },
   {
+    "id": 30292,
+    "name": "Mesh",
+    "slug": "mesh-2",
+    "former_names": [
+      "Cart"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ccdc4419907ee05321c76c632bbd5270cb8764.png",
+    "website": "http://www.usemesh.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mesh is an AI bookkeeper for startups. Our chat interface lets founders instantly ask questions about their financials, while our system autonomously reconciles transactions daily. Founders can now make informed decisions in real time—not 10+ days after the month-end close.\r\n\r\nCurrently, founders have to choose between doing their own bookkeeping or using outsourced accountants who lack context. Despite basic automation tools, companies waste 40-80 hours monthly reconciling scattered data. Mesh connects data across your tech stack and then writes to your general ledger, allowing founders to quickly answer questions like, what are my top spend areas this month?\r\n\r\nThe founders bring combined 10+ years of experience building accounting automation at Carta, where they scaled the fund administration business from $20M to $100M ARR and built their general ledger. Across SMB, MM, and ENT spending an average of $12K to ~1-2% of their revenue on accounting, this is a $125B opportunity. ",
+    "one_liner": "AI bookkeeper for startups",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1736927502,
+    "tags": [
+      "Finance",
+      "Productivity",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mesh-2",
+    "api": "https://yc-oss.github.io/api/batches/w25/mesh-2.json"
+  },
+  {
     "id": 30294,
     "name": "Sennu AI",
     "slug": "sennu-ai",
@@ -23481,6 +23436,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rebolt",
     "api": "https://yc-oss.github.io/api/batches/w25/rebolt.json"
+  },
+  {
+    "id": 30325,
+    "name": "Roark",
+    "slug": "roark",
+    "former_names": [
+      "Roark AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7eeed88cf20d9f39f503ec2708b6bf85e2e7e652.png",
+    "website": "https://roark.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Roark monitors, evaluates and simulates real customer calls for Voice AI developers. Instead of spending hours manually calling their agent to test changes, teams can instantly simulate real scenarios and catch failures before customers do.",
+    "one_liner": "Observability and Testing for Voice AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1737797905,
+    "tags": [
+      "Analytics",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/roark",
+    "api": "https://yc-oss.github.io/api/batches/w25/roark.json"
   },
   {
     "id": 30338,
