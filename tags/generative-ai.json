@@ -1194,7 +1194,9 @@
     "id": 22151,
     "name": "AI.Fashion",
     "slug": "ai-fashion",
-    "former_names": [],
+    "former_names": [
+      "Backlot"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/287995687a9786c7778f274e8e79316c0534ed44.png",
     "website": "https://www.ai.fashion",
     "all_locations": "Los Angeles, CA, USA",
@@ -1202,7 +1204,7 @@
     "one_liner": "AI.Fashion is the AI creative suite for the fashion industry.",
     "team_size": 11,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1599762607,
     "tags": [
       "Artificial Intelligence",
@@ -1215,7 +1217,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S20",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Marketing"
@@ -3482,9 +3484,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4cb8ecbcc76362cae5a0f5edc86c8e5e98a1b70.png",
     "website": "https://alphawatch.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "AlphaWatch AI is a research and analysis platform designed for hedge funds and private equity firms. By using custom LLMs, specialized embedding models, and integrating with both trusted external data sources and secure private data, AlphaWatch AI offers a reliable chat interface that cites its sources, saving financial professionals time on research. \r\n\r\nWe aim to solve a very real pain point: data is currently disjointed, and hedge funds spend anywhere from 250k to 1M on data costs. While LLMs should solve a research problem, their results are prone to hallucinations and don't include internal information.\r\n\r\nWith efficient data integration and valuable insights, AlphaWatch AI is enhancing the way financial institutions access essential information and make informed decisions while maintaining data privacy",
-    "one_liner": "AI copilot for hedge funds with trusted data",
-    "team_size": 4,
+    "long_description": "AlphaWatch AI is an agentic search platform designed for finance and industrial firms. By using custom LLMs, specialized embedding models, and integrating with both trusted external data sources and secure private data, AlphaWatch AI offers a reliable chat interface that cites its sources, saving financial professionals time on research. \r\n\r\nWe aim to solve a very real pain point: data is currently disjointed, and knowledge workers lose several hours a day finding and searching for answers in their data. While LLMs should solve this research problem, their results are prone to hallucinations and don't include internal information.\r\n\r\nWith efficient data integration and valuable insights, AlphaWatch AI is enhancing the way financial institutions and industrial firms access essential information and make informed decisions while maintaining data privacy",
+    "one_liner": "Agentic search for enterprises with trusted data",
+    "team_size": 7,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1675123352,
@@ -3497,7 +3499,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -8276,8 +8278,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1701287911,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
+      "Customer Service",
+      "Customer Support",
       "Conversational AI",
       "AI Assistant"
     ],
@@ -10808,48 +10811,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/melder.json"
   },
   {
-    "id": 30181,
-    "name": "Leaping AI",
-    "slug": "leaping-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cf89546e97aa00342fd94e13a639b43add977d5.png",
-    "website": "https://www.leapingai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "With our platform, you can create and deploy voice AI agents, automating complex use cases and high call volume.\r\n\r\nWe automated contact centers employing >100 human agents and now handle 70% of their incoming customer support and sales calls end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nFor another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.",
-    "one_liner": "Voice AI agents that are human-like and self-improve",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1736780951,
-    "tags": [
-      "Generative AI",
-      "Customer Service",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/leaping-ai",
-    "api": "https://yc-oss.github.io/api/batches/w25/leaping-ai.json"
-  },
-  {
     "id": 30196,
     "name": "Stamp",
     "slug": "stamp",
@@ -11363,7 +11324,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d7946ea974cf7a753814028e684ac774c9c4073.png",
     "website": "https://lucidsim.co/",
     "all_locations": "Berkeley, CA, USA",
-    "long_description": "We are building generative simulations of the world powered by fast world models.\r\n\r\nInstead of using a physics or game engine with hard-coded rules to render each frame and decide how the environment reacts, this is done end-to-end through a neural network.\r\n\r\nUnlike text-to-video models, our world models generate frames conditioned on actions, enabling real-time interaction with any environment. Users can explore, manipulate objects, and shape their experience through natural gameplay.\r\n\r\nWe trained a model to emulate Minecraft that runs smoothly on consumer hardware (1B param model runs at 25fps on an nvidia 4090 gaming gpu while other Minecraft world models run at <3fps). Our advantage in speed comes from aggressive latent compression (128x) that allows us to encode every frame into only 15 tokens while others traditionally use 256.\r\n\r\nWe are now training on real-world footage and are building a general-purpose universe simulator to power the next generation of video games and reinforcement learning gyms for robotics.",
+    "long_description": "We are building generative simulations powered by fast world models.\r\n\r\nWe train world models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model  (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nAlberto (CEO) was researching world models at Berkeley AI Research (BAIR) and previously worked on earth modelling at Rainmaker. Rami (a highschool dropout from Ethiopia) previously founded a telecom services company and was the CTO of the largest govtech contractor in Ethiopia.\r\n\r\nOur first minecraft model got 3,000 users in a few days, and now we’re training a hyper realistic world model!",
     "one_liner": "Generative simulations powered by fast world models",
     "team_size": 4,
     "industry": "Consumer",

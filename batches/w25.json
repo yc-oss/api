@@ -682,21 +682,21 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cf89546e97aa00342fd94e13a639b43add977d5.png",
     "website": "https://www.leapingai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "With our platform, you can create and deploy voice AI agents, automating complex use cases and high call volume.\r\n\r\nWe automated contact centers employing >100 human agents and now handle 70% of their incoming customer support and sales calls end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nFor another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.",
-    "one_liner": "Voice AI agents that are human-like and self-improve",
+    "all_locations": "",
+    "long_description": "Leaping AI is the only platform for self-improving voice AI agents.\r\n\r\nWe automated contact centers employing >100 human agents and now handle their incoming customer support and sales calls, end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nFor another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.\r\n",
+    "one_liner": "The only self-improving voice AI",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736780951,
     "tags": [
-      "Generative AI",
-      "Customer Service",
+      "Artificial Intelligence",
+      "B2B",
       "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W25",
     "status": "Active",
@@ -704,8 +704,6 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -2303,7 +2301,7 @@
       "MAIVE (Manufacturing AI Vision Engine)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8c2773604bbaf5a32094fbcb757b92f9d29a32e.png",
-    "website": "",
+    "website": "https://maive.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Maive automates aerospace compliance paperwork required on the manufacturing shop floor. We use cameras and AI to automatically fill federally-required paperwork, reducing the risk of companies being unable to sell their products and increasing factory throughput.\r\n\r\nUsers have told us the paperwork required for the F-35 fighter jet weighs more than the jet itself! The government requires a record for each of the 1.5 million parts in the jet, including what shop-floor workers do to each part and when they do it.\r\n\r\nAutomating paperwork by interpreting human actions with cameras is hard. Doing this at the edge and inside secure aerospace environments is harder. We fine-tune the latest vision language models to solve what was previously impossible.\r\n\r\nManufacturers lose millions when compliance paperwork has errors because it can freeze their ability to sell the product for months. Leaving this task to shop floor workers is both incredibly risky to the company and tedious for the employees. \r\n\r\nCompliance paperwork is just the beginning. We want to propel American manufacturing into the AI era. America is facing a serious problem: there’s $400B being invested to onshore manufacturing, but there’s simultaneously a projected 15% gap in workers needed due to an aging workforce. We’re on a mission to solve this by building the first AI native software for the shop floor. Our vision is to intelligently connect people, robots, and data to 10x today’s manufacturing capacity.",
     "one_liner": "AI-native factory operations platform",
@@ -3161,12 +3159,7 @@
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1740930546,
-    "tags": [
-      "Developer Tools",
-      "Data Labeling",
-      "Infrastructure",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -3447,7 +3440,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d7946ea974cf7a753814028e684ac774c9c4073.png",
     "website": "https://lucidsim.co/",
     "all_locations": "Berkeley, CA, USA",
-    "long_description": "We are building generative simulations of the world powered by fast world models.\r\n\r\nInstead of using a physics or game engine with hard-coded rules to render each frame and decide how the environment reacts, this is done end-to-end through a neural network.\r\n\r\nUnlike text-to-video models, our world models generate frames conditioned on actions, enabling real-time interaction with any environment. Users can explore, manipulate objects, and shape their experience through natural gameplay.\r\n\r\nWe trained a model to emulate Minecraft that runs smoothly on consumer hardware (1B param model runs at 25fps on an nvidia 4090 gaming gpu while other Minecraft world models run at <3fps). Our advantage in speed comes from aggressive latent compression (128x) that allows us to encode every frame into only 15 tokens while others traditionally use 256.\r\n\r\nWe are now training on real-world footage and are building a general-purpose universe simulator to power the next generation of video games and reinforcement learning gyms for robotics.",
+    "long_description": "We are building generative simulations powered by fast world models.\r\n\r\nWe train world models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model  (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nAlberto (CEO) was researching world models at Berkeley AI Research (BAIR) and previously worked on earth modelling at Rainmaker. Rami (a highschool dropout from Ethiopia) previously founded a telecom services company and was the CTO of the largest govtech contractor in Ethiopia.\r\n\r\nOur first minecraft model got 3,000 users in a few days, and now we’re training a hyper realistic world model!",
     "one_liner": "Generative simulations powered by fast world models",
     "team_size": 4,
     "industry": "Consumer",
@@ -4712,17 +4705,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ccdc4419907ee05321c76c632bbd5270cb8764.png",
     "website": "http://www.usemesh.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mesh is an AI bookkeeper for startups. Our chat interface lets founders instantly ask questions about their financials, while our system autonomously reconciles transactions daily. Founders can now make informed decisions in real time—not 10+ days after the month-end close.\r\n\r\nCurrently, founders have to choose between doing their own bookkeeping or using outsourced accountants who lack context. Despite basic automation tools, companies waste 40-80 hours monthly reconciling scattered data. Mesh connects data across your tech stack and then writes to your general ledger, allowing founders to quickly answer questions like, what are my top spend areas this month?\r\n\r\nThe founders bring combined 10+ years of experience building accounting automation at Carta, where they scaled the fund administration business from $20M to $100M ARR and built their general ledger. Across SMB, MM, and ENT spending an average of $12K to ~1-2% of their revenue on accounting, this is a $125B opportunity. ",
+    "long_description": "Mesh is building a fully agentic, AI finance team for companies. Mesh agents build and retain context by connecting to the company's entire financial stack, and automate entire functions within finance ranging from bank reconciliation, accounts receivable / payable, financial reporting, and budgeting / forecasting.  \r\n\r\nNandini and Erin met at Carta where they helped grow the fund accounting business from $20M to $100M ARR. They worked together for 5+ years as engineering and product counterparts. Nandini graduated with BS / MS degrees in Electrical and Computer Engineering at CMU, and Erin graduated from WashU on a full-ride scholarship.\r\n\r\nAfter talking to 50+ companies, they realized that what companies needed was a better finance partner instead of another financial dashboard. Because agents keep the books updated in real-time, non-finance teams (i.e. product, sales, operations) are able to make informed decisions faster. \r\n\r\nIn 4 weeks since inception of this idea, they have taken 5 customers live, have $1.6K MRR, and have 60+ customers in the pipeline. \r\n\r\nIn the US, there are 220,000 mid-market and enterprise companies. On average, we can charge $100K, presenting a $22B market opportunity in US alone.",
     "one_liner": "AI bookkeeper for startups",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736927502,
     "tags": [
+      "Artificial Intelligence",
       "Finance",
       "Productivity",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4840,7 +4833,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Infinite is a stablecoin payment processor. We offer businesses turnkey APIs and SDKs to instantly move money anywhere in the world at a fraction of the cost of traditional solutions.",
     "one_liner": "Global B2B Stablecoin Processor",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1739870082,
@@ -6279,9 +6272,9 @@
     "subindustry": "Consumer",
     "launched_at": 1740542821,
     "tags": [
-      "Artificial Intelligence",
       "Design",
-      "Design Tools"
+      "Design Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

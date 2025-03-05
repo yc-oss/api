@@ -21913,8 +21913,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/387bbc46ef24e2458068251a26e8567f41af9908.png",
     "website": "https://blixo.com",
     "all_locations": "Miami, FL, USA; Remote",
-    "long_description": "Blixo offers fast, scalable, and more accessible short-term (3 months) supply chain financing in Southeast Asia (SEA). Blixo specializes in providing smaller loans (<$50k) with an AI-driven underwriting process (approval in <1 week). These loans have higher repayment rates and lower per customer risk. Blixo uses AI credit scoring based on real-time data such as cash flow and inventory, further reducing risk and streamlining repayment. Unlike traditional banks and recent FinTech entrants, Blixo can profitably finance the 74% of suppliers and retailers in SEA that otherwise would be overlooked by traditional lenders because they either lack a traditional credit score or need a loan under $100k.",
-    "one_liner": "B2B BNPL for SEA",
+    "long_description": "Blixo is an all-in-one replacement for things like subscription management, invoicing, collections, and cash application software.\r\n\r\nBlixo improves conversion rates, increases average order size, drives subscriber loyalty, collects unpaid bills, speeds up cashflow, and is the single source of truth for reconciled real time revenue data.",
+    "one_liner": "Accounts receivable automation to help companies get paid faster ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -24047,7 +24047,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Marketing"
@@ -24439,7 +24439,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Fintech",
       "Payments"
@@ -26813,6 +26813,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/payflow",
     "api": "https://yc-oss.github.io/api/batches/s21/payflow.json"
+  },
+  {
+    "id": 24876,
+    "name": "Nash",
+    "slug": "nash",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/85d1c8b167dc541ab5c546bde5eef2173f5264c6.png",
+    "website": "https://www.usenash.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Last mile is a $500B industry powering digital commerce but managed largely with self managed API integrations. Nash approaches last mile orchestration with information completeness solutions from checkout, courier management, customer engagement, and post-purchase experience. Doing this enables merchants and customers to capture immense efficiencies, drive better customer experience, reliability and business outcomes.\r\nWe are working towards a mission of processing a double digit percentage of every physical last-mile transaction. We achieve this by providing top of the market modules for each step of the customer journey and leveraging the network effects from having more information that allows traditional competitors to collaborate. It’s a big mission, but we are already seeing strong market pull as we are already serving some of the largest retailers in the world like Walmart, 7-Eleven and Woolworths.\r\nNash was founded in 2021 by Mahmoud Ghulman (2x Founder, MIT) and Aziz Alghunaim (2x Founder, 2x YC, Ex-Palantir, MIT) and has raised funding from top investors, including Y-Combinator and a16z, to build the world’s best logistics infrastructure platform. We are based in SF.",
+    "one_liner": "Nash is building the logistics infrastructure for the internet",
+    "team_size": 40,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1625087366,
+    "tags": [
+      "Marketplace",
+      "SaaS",
+      "B2B",
+      "Delivery",
+      "Logistics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nash",
+    "api": "https://yc-oss.github.io/api/batches/s21/nash.json"
   },
   {
     "id": 24882,
@@ -29864,18 +29909,18 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efe7334aa351791d82bb37028b9f9bc229817771.png",
     "website": "https://www.dojah.io",
-    "all_locations": "San Francisco, CA, USA; Lagos, LA, Nigeria; Remote",
-    "long_description": "Dojah is an end-to-end AI Powered Fraud Prevention and KYC Platform. From onboarding to ongoing monitoring, we are helping businesses fight financial crime and onboard customers faster.",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Dojah is the anti-fraud infrastructure for the internet, helping businesses verify identities, detect fraud, and stay compliant with powerful APIs and no-code tools. Fintechs, banks, and digital businesses rely on Dojah’s solutions for seamless user onboarding, AI-driven fraud detection, KYC & KYB verification, and transaction monitoring.\r\n\r\nBy leveraging government data lookups, biometric authentication, and real-time risk analysis, Dojah ensures businesses can mitigate fraud risks, improve user trust, and scale efficiently while staying compliant with regulatory standards.",
     "one_liner": "Prevent Fraud and Onboard Users Faster",
     "team_size": 22,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1642673389,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "Identity"
+      "Identity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -29889,9 +29934,7 @@
     ],
     "regions": [
       "United States of America",
-      "Nigeria",
       "America / Canada",
-      "Africa",
       "Remote",
       "Fully Remote"
     ],
@@ -37553,7 +37596,7 @@
     "website": "https://icepanel.io",
     "all_locations": "North Vancouver, BC, Canada",
     "long_description": "IcePanel is a collaborative diagramming tool that helps software engineering and product teams align on technical decisions. Teams use IcePanel to create a map of their software systems, giving them full context about how it works.",
-    "one_liner": "Design complex software systems to engineering and product teams",
+    "one_liner": "Design and explain complex software architecture.",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -39744,7 +39787,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",

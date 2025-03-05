@@ -9968,8 +9968,8 @@
     "website": "https://www.gotlanded.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Marketplace for businesses to hire fast with video.",
-    "team_size": 4,
+    "one_liner": "Generative AI for frontline worker hiring",
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1541617440,
@@ -26697,6 +26697,51 @@
     "api": "https://yc-oss.github.io/api/batches/s21/payflow.json"
   },
   {
+    "id": 24876,
+    "name": "Nash",
+    "slug": "nash",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/85d1c8b167dc541ab5c546bde5eef2173f5264c6.png",
+    "website": "https://www.usenash.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Last mile is a $500B industry powering digital commerce but managed largely with self managed API integrations. Nash approaches last mile orchestration with information completeness solutions from checkout, courier management, customer engagement, and post-purchase experience. Doing this enables merchants and customers to capture immense efficiencies, drive better customer experience, reliability and business outcomes.\r\nWe are working towards a mission of processing a double digit percentage of every physical last-mile transaction. We achieve this by providing top of the market modules for each step of the customer journey and leveraging the network effects from having more information that allows traditional competitors to collaborate. It’s a big mission, but we are already seeing strong market pull as we are already serving some of the largest retailers in the world like Walmart, 7-Eleven and Woolworths.\r\nNash was founded in 2021 by Mahmoud Ghulman (2x Founder, MIT) and Aziz Alghunaim (2x Founder, 2x YC, Ex-Palantir, MIT) and has raised funding from top investors, including Y-Combinator and a16z, to build the world’s best logistics infrastructure platform. We are based in SF.",
+    "one_liner": "Nash is building the logistics infrastructure for the internet",
+    "team_size": 40,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1625087366,
+    "tags": [
+      "Marketplace",
+      "SaaS",
+      "B2B",
+      "Delivery",
+      "Logistics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nash",
+    "api": "https://yc-oss.github.io/api/batches/s21/nash.json"
+  },
+  {
     "id": 24879,
     "name": "Lightly",
     "slug": "lightly",
@@ -29639,8 +29684,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87c0954c151aa7067e034d8de33b3174d43f5ff0.png",
     "website": "https://hydra.so",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Hydra is an open source, analytics database that makes it easy to build apps, analytics, and ML on real-time data. It operates 100-1000X faster than traditional analytics databases (OLAP) that require data ingestion and transformation from external data source like Postgres and Amazon S3. With Hydra, high performance analytical processing runs directly on live transactions and real-time event data with zero-ETL.\r\n\r\nEvery Hydra project includes a fully managed Postgres database, integrated analytical processing, and bottomless, globally distributed object storage so you can ship sub-second analytics with any application in an afternoon.",
-    "one_liner": "We make it easier to build apps and analytics on real-time data",
+    "long_description": "Hydra is Postgres with serverless online analytical processing (OLAP). It is designed for low-latency applications built on time series and event data.\r\n\r\nHydra is available for both local development and a cloud offering which provides every project a managed Postgres database, serverless analytical processing, and bottomless storage.",
+    "one_liner": "Serverless realtime analytics on Postgres",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -32395,7 +32440,7 @@
     "all_locations": "Remote",
     "long_description": "Build your own Git, Docker, Redis, SQLite — in Go, Rust, Python, etc.",
     "one_liner": "Programming courses for experienced engineers",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "Consumer",
     "subindustry": "Consumer -> Job and Career Services",
     "launched_at": 1656483075,
@@ -33010,52 +33055,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/peoplebox",
     "api": "https://yc-oss.github.io/api/batches/s22/peoplebox.json"
-  },
-  {
-    "id": 26884,
-    "name": "AlphaWatch AI",
-    "slug": "alphawatch-ai",
-    "former_names": [
-      "StableBank"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4cb8ecbcc76362cae5a0f5edc86c8e5e98a1b70.png",
-    "website": "https://alphawatch.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "AlphaWatch AI is a research and analysis platform designed for hedge funds and private equity firms. By using custom LLMs, specialized embedding models, and integrating with both trusted external data sources and secure private data, AlphaWatch AI offers a reliable chat interface that cites its sources, saving financial professionals time on research. \r\n\r\nWe aim to solve a very real pain point: data is currently disjointed, and hedge funds spend anywhere from 250k to 1M on data costs. While LLMs should solve a research problem, their results are prone to hallucinations and don't include internal information.\r\n\r\nWith efficient data integration and valuable insights, AlphaWatch AI is enhancing the way financial institutions access essential information and make informed decisions while maintaining data privacy",
-    "one_liner": "AI copilot for hedge funds with trusted data",
-    "team_size": 4,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1675123352,
-    "tags": [
-      "Generative AI",
-      "Finance",
-      "Workflow Automation",
-      "Enterprise",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alphawatch-ai",
-    "api": "https://yc-oss.github.io/api/batches/w23/alphawatch-ai.json"
   },
   {
     "id": 26897,
@@ -36306,7 +36305,7 @@
     "website": "https://icepanel.io",
     "all_locations": "North Vancouver, BC, Canada",
     "long_description": "IcePanel is a collaborative diagramming tool that helps software engineering and product teams align on technical decisions. Teams use IcePanel to create a map of their software systems, giving them full context about how it works.",
-    "one_liner": "Design complex software systems to engineering and product teams",
+    "one_liner": "Design and explain complex software architecture.",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -38802,53 +38801,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/pointhound.json"
   },
   {
-    "id": 28808,
-    "name": "PropRise",
-    "slug": "proprise",
-    "former_names": [
-      "River AI",
-      "River",
-      "Introscopic",
-      "River AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/157ebdb745b65bc27b9db92ffd3d33a03418bcaf.png",
-    "website": "https://www.proprise.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "PropRise is an AI-powered investment analyst for commercial real estate, transforming how firms discover and evaluate opportunities. Our platform acts as a 24/7 analyst that finds hidden deals others miss by analyzing vast amounts of data beyond traditional listings - from local council meetings and permits to community sentiment and market trends. While most firms only see surface-level data like basic financials and broker listings, PropRise connects complex patterns across tech company expansions, local market shifts, and city development plans to identify overlooked opportunities.",
-    "one_liner": "AI Investment Analyst for Commercial Real Estate",
-    "team_size": 3,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction",
-    "launched_at": 1690588132,
-    "tags": [
-      "Machine Learning",
-      "SaaS",
-      "Real Estate",
-      "B2B",
-      "Analytics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/proprise",
-    "api": "https://yc-oss.github.io/api/batches/s23/proprise.json"
-  },
-  {
     "id": 28811,
     "name": "Casca",
     "slug": "casca",
@@ -41198,11 +41150,11 @@
   },
   {
     "id": 29150,
-    "name": "Tempo Labs",
-    "slug": "tempo-labs",
+    "name": "Tempo",
+    "slug": "tempo-2",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
-    "website": "https://www.tempolabs.ai/",
+    "website": "https://www.tempo.new",
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Tempo is a visual editor for react that gives PMs, designers, and engineers the ability to collaborate visually on code. It offers the familiar UX of a design tool but functions like an IDE under the hood. Tempo is optimized for Vite and Tailwind.",
     "one_liner": "Visual Editor for React, powered by AI",
@@ -41236,8 +41188,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tempo-labs",
-    "api": "https://yc-oss.github.io/api/batches/s23/tempo-labs.json"
+    "url": "https://www.ycombinator.com/companies/tempo-2",
+    "api": "https://yc-oss.github.io/api/batches/s23/tempo-2.json"
   },
   {
     "id": 29153,
@@ -48134,6 +48086,46 @@
     "api": "https://yc-oss.github.io/api/batches/f24/humanlayer.json"
   },
   {
+    "id": 30181,
+    "name": "Leaping AI",
+    "slug": "leaping-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cf89546e97aa00342fd94e13a639b43add977d5.png",
+    "website": "https://www.leapingai.com",
+    "all_locations": "",
+    "long_description": "Leaping AI is the only platform for self-improving voice AI agents.\r\n\r\nWe automated contact centers employing >100 human agents and now handle their incoming customer support and sales calls, end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nFor another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.\r\n",
+    "one_liner": "The only self-improving voice AI",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1736780951,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/leaping-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/leaping-ai.json"
+  },
+  {
     "id": 30192,
     "name": "Axiom",
     "slug": "axiom",
@@ -48220,7 +48212,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Infinite is a stablecoin payment processor. We offer businesses turnkey APIs and SDKs to instantly move money anywhere in the world at a fraction of the cost of traditional solutions.",
     "one_liner": "Global B2B Stablecoin Processor",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1739870082,

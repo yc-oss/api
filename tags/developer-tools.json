@@ -10455,8 +10455,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87c0954c151aa7067e034d8de33b3174d43f5ff0.png",
     "website": "https://hydra.so",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Hydra is an open source, analytics database that makes it easy to build apps, analytics, and ML on real-time data. It operates 100-1000X faster than traditional analytics databases (OLAP) that require data ingestion and transformation from external data source like Postgres and Amazon S3. With Hydra, high performance analytical processing runs directly on live transactions and real-time event data with zero-ETL.\r\n\r\nEvery Hydra project includes a fully managed Postgres database, integrated analytical processing, and bottomless, globally distributed object storage so you can ship sub-second analytics with any application in an afternoon.",
-    "one_liner": "We make it easier to build apps and analytics on real-time data",
+    "long_description": "Hydra is Postgres with serverless online analytical processing (OLAP). It is designed for low-latency applications built on time series and event data.\r\n\r\nHydra is available for both local development and a cloud offering which provides every project a managed Postgres database, serverless analytical processing, and bottomless storage.",
+    "one_liner": "Serverless realtime analytics on Postgres",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -11649,7 +11649,7 @@
     "all_locations": "Remote",
     "long_description": "Build your own Git, Docker, Redis, SQLite — in Go, Rust, Python, etc.",
     "one_liner": "Programming courses for experienced engineers",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "Consumer",
     "subindustry": "Consumer -> Job and Career Services",
     "launched_at": 1656483075,
@@ -13812,7 +13812,7 @@
     "website": "https://icepanel.io",
     "all_locations": "North Vancouver, BC, Canada",
     "long_description": "IcePanel is a collaborative diagramming tool that helps software engineering and product teams align on technical decisions. Teams use IcePanel to create a map of their software systems, giving them full context about how it works.",
-    "one_liner": "Design complex software systems to engineering and product teams",
+    "one_liner": "Design and explain complex software architecture.",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -16517,11 +16517,11 @@
   },
   {
     "id": 29150,
-    "name": "Tempo Labs",
-    "slug": "tempo-labs",
+    "name": "Tempo",
+    "slug": "tempo-2",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/860f478b7cd2ea33eefb86e90c9c693abef2997f.png",
-    "website": "https://www.tempolabs.ai/",
+    "website": "https://www.tempo.new",
     "all_locations": "Toronto, ON, Canada",
     "long_description": "Tempo is a visual editor for react that gives PMs, designers, and engineers the ability to collaborate visually on code. It offers the familiar UX of a design tool but functions like an IDE under the hood. Tempo is optimized for Vite and Tailwind.",
     "one_liner": "Visual Editor for React, powered by AI",
@@ -16555,8 +16555,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tempo-labs",
-    "api": "https://yc-oss.github.io/api/batches/s23/tempo-labs.json"
+    "url": "https://www.ycombinator.com/companies/tempo-2",
+    "api": "https://yc-oss.github.io/api/batches/s23/tempo-2.json"
   },
   {
     "id": 29152,
@@ -20458,47 +20458,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/surge.json"
   },
   {
-    "id": 30112,
-    "name": "Fix AI",
-    "slug": "fix-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d311ca85e929dc8b5d194b696d6bb373eee2633a.png",
-    "website": "https://tryfix.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fix AI automates frontend QA testing using AI agents that simulate real users on websites. With simple natural language prompts, e.g. \"make sure the onboarding flow works\", our agents walk through flows and visually interact with the site to ensure critical bugs never reach users.",
-    "one_liner": "AI agents that navigate websites like real users to find bugs",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1730227120,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fix-ai",
-    "api": "https://yc-oss.github.io/api/batches/f24/fix-ai.json"
-  },
-  {
     "id": 30114,
     "name": "Ryvn",
     "slug": "ryvn",
@@ -21094,47 +21053,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gulp",
     "api": "https://yc-oss.github.io/api/batches/w25/gulp.json"
-  },
-  {
-    "id": 30254,
-    "name": "hud",
-    "slug": "hud",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72ba1775f18d84d7a5c6d25f0e693dc75df8d544.png",
-    "website": "https://hud.so",
-    "all_locations": "",
-    "long_description": "",
-    "one_liner": "Evals for Computer Use agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1740930546,
-    "tags": [
-      "Developer Tools",
-      "Data Labeling",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hud",
-    "api": "https://yc-oss.github.io/api/batches/w25/hud.json"
   },
   {
     "id": 30255,
