@@ -557,7 +557,7 @@
     "website": "https://inconvo.ai",
     "all_locations": "Limerick, County Limerick, Ireland",
     "long_description": "Inconvo makes it easy for developers to add Ask AI for customer-facing analytics so that users can ask questions on their data in natural language.\r\n\r\nWith Inconvo shipping AI-first analytics is easy, simply send a user question to our API which responds with a chart, table or text. \r\n\r\nInconvo connects to your database to automatically retrieve the right data to answer your users’ questions. Then, you’re in charge of presenting the responses to your users in a way that fits your design.\r\n\r\nInconvo is purpose-built to overcome the challenges of AI for customer-facing analytics, providing tools that handle multi-tenancy, database access control, AI evaluation, and a semantic layer that maps business terms to database labels.",
-    "one_liner": "The Ask-AI API for customer-facing analytics",
+    "one_liner": "Ask-AI for customer-facing analytics",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -1207,6 +1207,47 @@
     "api": "https://yc-oss.github.io/api/batches/w25/nextbyte.json"
   },
   {
+    "id": 30198,
+    "name": "Dollyglot",
+    "slug": "dollyglot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/897f8bc5186131522d7f3d3073cf9181df4bae7b.png",
+    "website": "https://www.dollyglot.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dollyglot is like Character.ai but with real time video avatars.\r\nTurn a photo and a voice into a real friend. Speak with Harry Potter about Hogwarts or brainstorm ideas with Elon Musk! ",
+    "one_liner": "Character.AI with real time video avatars",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "B2B",
+    "launched_at": 1741300119,
+    "tags": [
+      "Generative AI",
+      "Consumer",
+      "Social",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dollyglot",
+    "api": "https://yc-oss.github.io/api/batches/w25/dollyglot.json"
+  },
+  {
     "id": 30214,
     "name": "Ovlo",
     "slug": "ovlo",
@@ -1432,14 +1473,14 @@
     "website": "https://roark.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Roark monitors, evaluates and simulates real customer calls for Voice AI developers. Instead of spending hours manually calling their agent to test changes, teams can instantly simulate real scenarios and catch failures before customers do.",
-    "one_liner": "Observability and Testing for Voice AI",
+    "one_liner": "Datadog for Voice AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1737797905,
     "tags": [
+      "Artificial Intelligence",
       "Analytics",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],

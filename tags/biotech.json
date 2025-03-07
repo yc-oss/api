@@ -3914,52 +3914,6 @@
     "api": "https://yc-oss.github.io/api/batches/s22/alt-tex.json"
   },
   {
-    "id": 26807,
-    "name": "Maverick BioMetals",
-    "slug": "maverick-biometals",
-    "former_names": [
-      "Maverick Bioworks"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3df7df875d112a24029795eafef9ee0a707b1cad.png",
-    "website": "https://www.MaverickBioMetals.com",
-    "all_locations": "San Antonio, TX, USA; San Francisco, CA, USA",
-    "long_description": "Maverick BioMetals is a biotechnology company advancing lithium processing. The company was founded by Eric Herrera, former Department of Defense scientist,  and Jesse Evans, former startup operations manager. \r\n\r\nWe've developed a biological process to efficiently extract lithium from hard rock deposits. Our custom process is greener, more energy efficient, and cost effective compared to the current methods of extracting lithium. We're currently developing partnerships with mining companies to further the commercialization of our technology. \r\n",
-    "one_liner": "Expanding Metal Production with Biology",
-    "team_size": 9,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
-    "launched_at": 1654465495,
-    "tags": [
-      "Biotech",
-      "Climate",
-      "Genomics",
-      "Genetic Engineering"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Energy"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/maverick-biometals",
-    "api": "https://yc-oss.github.io/api/batches/s22/maverick-biometals.json"
-  },
-  {
     "id": 26912,
     "name": "iollo",
     "slug": "iollo",
@@ -5381,14 +5335,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61d9c34b51f9b98cbfdb92bc0014e3569c29b36c.png",
     "website": "https://www.exintherapeutics.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building a precision genetic therapy platform that targets neurological and neuropsychiatric disorders from a circuit-level perspective. Current approaches pursue single-gene fixes that only help small subsets of patients, leaving a multi-million patient population without effective treatment options.\r\n\r\n\r\nGene therapy opens the door to precisely modifying brain circuits. The problem is the elevated risk in neuroscience drug discovery. To solve this, we use a pre-clinical screening platform, multiple gene therapy candidates, and ML analytics to develop gene therapies capable of controlling neural activity and addressing neurological conditions such as autism spectrum disorder, epilepsy, and Parkinson’s disease.\r\n\r\n",
-    "one_liner": "Precision genetic therapies targeting neural activity across disorders",
+    "long_description": "We use AI and high-throughput mouse studies to discover therapeutics that modify neural activity in the brain. The initial focus is on epilepsies associated with autism and Parkinson’s disease with the potential to expand to any neurological disorder underlined by a dysfunction in neural activity. Our R&D is guided by AI models trained on high-density multimodal mouse data generated in-house.\r\n\r\nWe are 3 Oxford-trained neuroscientists supported by an experienced SAB from Harvard, ex-Neuralink, EPFL, Meta, and UCL.\r\n\r\nIn 1.5 months since landing in SF, we went from nothing to (1) opening and operating an animal lab in South SF, (2) obtaining a proof-of-concept in mice, (3) building a multimodal AI model that directs our screening approach and (4) submitting two provisional patents; all while utilizing less than 50% of our YC funding. \r\n",
+    "one_liner": "An AI discovery platform for neurotherapeutics",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Therapeutics",
     "launched_at": 1736839155,
     "tags": [
-      "Gene Therapy",
       "Neurotechnology",
       "Biotech",
       "Therapeutics"
@@ -5457,6 +5410,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/delineate",
     "api": "https://yc-oss.github.io/api/batches/w25/delineate.json"
+  },
+  {
+    "id": 30039,
+    "name": "Raycaster",
+    "slug": "raycaster",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9792a6e3d48255a53bbf6af175652a0f22302159.png",
+    "website": "https://raycaster.ai",
+    "all_locations": "",
+    "long_description": "Raycaster helps companies sell complex technical products by surfacing hidden insights about their prospects. Our customers use us to automatically uncover everything from lab equipment specifications to API performance metrics - research that traditionally took weeks of manual digging.\r\n\r\nWhat's exciting is how these insights naturally spread. Teams start with BD, then realize their marketing or product teams need this deep customer understanding too. We're building the intelligence layer that helps technical teams make better decisions.",
+    "one_liner": "Research agents for life sciences",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1729820914,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Biotech",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/raycaster",
+    "api": "https://yc-oss.github.io/api/batches/f24/raycaster.json"
   },
   {
     "id": 30049,

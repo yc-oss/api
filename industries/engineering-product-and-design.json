@@ -15281,8 +15281,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/46c0ccd59cd9c61a81c3d502e48025e0dea1e604.png",
     "website": "https://www.lightski.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lightski is an AI rich-text editor specifically built for software engineers. We take the grunt work out of drafting technical docs by marrying an AI Assistant with your Github, allowing it to write for you.\r\n\r\nLightski connects to your Github and comes with an AI agent that automatically searches your codebase to write for you. Afterwards, continue refining the doc in our Notion-like editor, where you can collaborate, iterate, and comment on the doc.\r\n",
-    "one_liner": "Cursor for Engineering Docs",
+    "long_description": "Lightski is the Cursor for Engineering Docs: a rich-text editor and AI assistant specifically built for engineering managers and tech leads. Whether you’re writing a technical design doc, internal documentation, PRD, or peer review, Lightski helps you write higher quality documents faster with the help of AI.\r\n\r\nLightski connects to your Github and comes with an AI agent that pulls relevant context from your codebase to help you draft. Afterwards, continue refining in our Notion-like editor, where you can collaborate, iterate, and comment on the doc.",
+    "one_liner": "Cursor for Technical Design Docs and PRDs",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -16486,7 +16486,7 @@
     "website": "https://inconvo.ai",
     "all_locations": "Limerick, County Limerick, Ireland",
     "long_description": "Inconvo makes it easy for developers to add Ask AI for customer-facing analytics so that users can ask questions on their data in natural language.\r\n\r\nWith Inconvo shipping AI-first analytics is easy, simply send a user question to our API which responds with a chart, table or text. \r\n\r\nInconvo connects to your database to automatically retrieve the right data to answer your users’ questions. Then, you’re in charge of presenting the responses to your users in a way that fits your design.\r\n\r\nInconvo is purpose-built to overcome the challenges of AI for customer-facing analytics, providing tools that handle multi-tenancy, database access control, AI evaluation, and a semantic layer that maps business terms to database labels.",
-    "one_liner": "The Ask-AI API for customer-facing analytics",
+    "one_liner": "Ask-AI for customer-facing analytics",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -18230,10 +18230,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b1479ad49376ddb3209cbb61b6c76e1112a85f6.png",
     "website": "https://www.dawnai.com/",
-    "all_locations": "",
-    "long_description": "Make meaning out of billions of tokens.\r\n\r\nDawn is the analytics platform for AI products.\r\nWe transform user requests and model outputs into metrics you'll actually care about.",
-    "one_liner": "Analytics for AI products.",
-    "team_size": 5,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Monitor your AI app the right way. \r\n\r\nAI engineers use Dawn to discover anomalies, set up tracking, and curate datasets from real user interactions.",
+    "one_liner": "Sentry for AI products.",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1710985617,
@@ -18249,7 +18249,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -19798,28 +19799,27 @@
   },
   {
     "id": 29723,
-    "name": "Fortress",
-    "slug": "fortress",
+    "name": "Nerve",
+    "slug": "nerve",
     "former_names": [
       "Fetchlab",
       "Floc",
       "FetchFlow",
       "Fetchflow"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3fc1e4f30614dc5a29df7ff2e4742770fdf5b9a0.png",
-    "website": "https://fortress.build",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/965dc71f2d57fb650275cf456f24cf94304e13d5.png",
+    "website": "https://nerve.run",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fortress is a Postgres developer platform that makes it simple to globally distribute data (replication and sharding) in a cost-effective manner.  \r\n\r\nDevelopers use Fortress to reduce network latency for their global users, comply with data sovereignty regulations, and for the peace of mind of a platform that manages horizontal scalability. ",
-    "one_liner": "Globally replicated and sharded Postgres",
+    "long_description": "Nerve is a unified API that connects developers building in healthcare to health data stored in electronic health records (Epic, eClinicalWorks, Cerner, etc.). Instead of building custom integration solutions for each of their customers, developers use Nerve as the single entry point to access and maint ... see more",
+    "one_liner": "Healthcare integrations for developers",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723763454,
     "tags": [
       "Developer Tools",
-      "B2B",
-      "Security",
-      "Databases"
+      "Health Tech",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19840,8 +19840,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fortress",
-    "api": "https://yc-oss.github.io/api/batches/s24/fortress.json"
+    "url": "https://www.ycombinator.com/companies/nerve",
+    "api": "https://yc-oss.github.io/api/batches/s24/nerve.json"
   },
   {
     "id": 29732,
@@ -21343,18 +21343,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b841846a6a116e07034a08b5b57b9bfb7b3d183.png",
     "website": "https://gopromptless.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Promptless automatically updates your customer-facing documentation, including tutorials, how-to guides, API specs, knowledge bases, support articles, and blog posts. This content is often one of the first points of contact between your product and its users. Clear, accurate, and up-to-date docs are critical, influencing buying decisions, reducing support overhead, and increasing LTV. \r\n\r\nProviders like Readme and Mintlify effectively host your docs, but keeping them updated remains a serious challenge. Working alongside your hosting provider, Promptless lets you configure triggers so that your docs get automatically updated upon new feature releases, developer support questions, or internal use-case discussions. \r\n\r\nPromptless integrates directly with your organization’s entire knowledge ecosystem – issue trackers, internal knowledge bases, support ticket systems, and more – leading to holistic doc updates without expensive coordination between product, engineering, and support teams. \r\n\r\nWith Promptless, documentation becomes a strategic advantage for growth, not a bottleneck or a liability. ",
-    "one_liner": "Automatic updates for your customer-facing docs",
+    "long_description": "Docs are integral to a great customer experience, but managing them is a challenging, multi-team effort. The most successful companies recognize that fantastic docs drive adoption and bad ones cause customers to churn. Promptless is used by fast-growing startups and Fortune 500 enterprises alike to automatically update docs based on feature releases, support tickets, internal Slack conversations, and more.\r\n\r\nPromptless is designed to be flexible—it can integrate with any docs platform, be triggered automatically from many workflows, and can pull in context from any internal knowledge source.\r\n\r\nWith Promptless, documentation becomes a strategic advantage for growth, not a bottleneck or a liability. ",
+    "one_liner": "An AI teammate that automatically updates your customer-facing docs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1734445501,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21846,7 +21846,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5361a9e0824d4289d6c92ba83bf87c9b7c4654e.png",
     "website": "https://augento.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We do DeepSeek R1 (like) fine tuning as a service. A user gives us an Agent and where it went wrong and we'll improve it.\r\nWe provide a turn key solution to customers to act on poorly performing agents, by providing feedback in our UI to the agent and we'll take care of improving the model with reinforcement learning.\r\nImagine a startup developing a tool for law firms, enhanced with an AI to assist lawyers in selecting clients. Currently, this startup would face significant challenges in building such a tool, as it’s crucial to provide accurate and consistent responses every time. With our technology, the startup can enhance the initial model by incorporating its own experience and feedback from beta users, eventually surpassing the initial model and delivering reliable results on every query.",
+    "long_description": "Augento is the platform for DeepSeek R1 (like) fine tuning as a service. A user gives us an Agent and where it went wrong and we'll improve it.\r\nWe provide a turn key solution to customers to act on poorly performing agents, by providing feedback in our UI to the agent and we'll take care of improving the model with reinforcement learning.\r\nImagine a startup developing a tool for law firms, enhanced with an AI to assist lawyers in selecting clients. Currently, this startup would face significant challenges in building such a tool, as it’s crucial to provide accurate and consistent responses every time. With our technology, the startup can enhance the initial model by incorporating its own experience and feedback from beta users, eventually surpassing the initial model and delivering reliable results on every query.",
     "one_liner": "Improving Agents through Reinforcement Learning",
     "team_size": 4,
     "industry": "B2B",
@@ -21854,8 +21854,8 @@
     "launched_at": 1740421634,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

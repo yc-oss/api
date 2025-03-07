@@ -179,14 +179,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61d9c34b51f9b98cbfdb92bc0014e3569c29b36c.png",
     "website": "https://www.exintherapeutics.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building a precision genetic therapy platform that targets neurological and neuropsychiatric disorders from a circuit-level perspective. Current approaches pursue single-gene fixes that only help small subsets of patients, leaving a multi-million patient population without effective treatment options.\r\n\r\n\r\nGene therapy opens the door to precisely modifying brain circuits. The problem is the elevated risk in neuroscience drug discovery. To solve this, we use a pre-clinical screening platform, multiple gene therapy candidates, and ML analytics to develop gene therapies capable of controlling neural activity and addressing neurological conditions such as autism spectrum disorder, epilepsy, and Parkinson’s disease.\r\n\r\n",
-    "one_liner": "Precision genetic therapies targeting neural activity across disorders",
+    "long_description": "We use AI and high-throughput mouse studies to discover therapeutics that modify neural activity in the brain. The initial focus is on epilepsies associated with autism and Parkinson’s disease with the potential to expand to any neurological disorder underlined by a dysfunction in neural activity. Our R&D is guided by AI models trained on high-density multimodal mouse data generated in-house.\r\n\r\nWe are 3 Oxford-trained neuroscientists supported by an experienced SAB from Harvard, ex-Neuralink, EPFL, Meta, and UCL.\r\n\r\nIn 1.5 months since landing in SF, we went from nothing to (1) opening and operating an animal lab in South SF, (2) obtaining a proof-of-concept in mice, (3) building a multimodal AI model that directs our screening approach and (4) submitting two provisional patents; all while utilizing less than 50% of our YC funding. \r\n",
+    "one_liner": "An AI discovery platform for neurotherapeutics",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Therapeutics",
     "launched_at": 1736839155,
     "tags": [
-      "Gene Therapy",
       "Neurotechnology",
       "Biotech",
       "Therapeutics"
@@ -1133,7 +1132,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Stamp is the first AI Native inbox. It's more than an email client, though -- it's like your second brain.\r\n\r\nStamp can respond to emails in your voice, organize your inbox to filter out the noise, keep track of action items, and automate essentially every task you're doing manually in your inbox today.",
     "one_liner": "The First AI Native Email Client",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1739302465,
@@ -1174,7 +1173,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d58e9c6646fcf2c8783dc4e02f6ae0189039d29d.png",
     "website": "https://www.alice.tech/",
     "all_locations": "Copenhagen, Denmark",
-    "long_description": "Alice turns generic course materials into personalized learning and exam prep using AI. \r\n\r\nStudents simply upload what they want to study and instantly get access to:\r\n(1) Better understanding: Key topic overviews and explanations with personalized support through an AI chat that knows their context.\r\n(2) Effective practicing: Exercises tailored to their needs (level, format, curriculum, etc.), including flashcards, multiple-choice questions, and full exam simulations.\r\n(3) Targeted improvement: Identification of weaknesses across topics to enable more targeted and complete learning.\r\n\r\nPlus, learning becomes more engaging with Alice—students can study with friends and challenge each other, making the experience both fun and effective.\r\n\r\nOver 7,000 students have already used Alice, and we are growing MRR +60% MoM.",
+    "long_description": "Alice turns generic course materials into personalized learning and exam prep using AI. We’re Duolingo  for exams, and more than 10k college students have already used Alice. \r\n\r\nKim and Patrick are both technical, with computer science degrees from Oxford and Imperial. Kim, the CEO, is a domain expert in education with more than 10+ years of university teaching experience \r\n\r\nMRR is $20k, growing +10% week-over-week the last 8 weeks\r\n\r\nAlice's core market opportunity is +$10b, with the global education market being almost $10trillion. As AI starts to disrupt education, Alice will use in-built network effects and virality in its product to create a global winner. \r\n\r\nGo Alice. Thank you!",
     "one_liner": "AI-driven exam prep",
     "team_size": 5,
     "industry": "Education",
@@ -1207,6 +1206,47 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/alice-tech",
     "api": "https://yc-oss.github.io/api/batches/w25/alice-tech.json"
+  },
+  {
+    "id": 30198,
+    "name": "Dollyglot",
+    "slug": "dollyglot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/897f8bc5186131522d7f3d3073cf9181df4bae7b.png",
+    "website": "https://www.dollyglot.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dollyglot is like Character.ai but with real time video avatars.\r\nTurn a photo and a voice into a real friend. Speak with Harry Potter about Hogwarts or brainstorm ideas with Elon Musk! ",
+    "one_liner": "Character.AI with real time video avatars",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "B2B",
+    "launched_at": 1741300119,
+    "tags": [
+      "Generative AI",
+      "Consumer",
+      "Social",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dollyglot",
+    "api": "https://yc-oss.github.io/api/batches/w25/dollyglot.json"
   },
   {
     "id": 30199,
@@ -1501,18 +1541,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b841846a6a116e07034a08b5b57b9bfb7b3d183.png",
     "website": "https://gopromptless.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Promptless automatically updates your customer-facing documentation, including tutorials, how-to guides, API specs, knowledge bases, support articles, and blog posts. This content is often one of the first points of contact between your product and its users. Clear, accurate, and up-to-date docs are critical, influencing buying decisions, reducing support overhead, and increasing LTV. \r\n\r\nProviders like Readme and Mintlify effectively host your docs, but keeping them updated remains a serious challenge. Working alongside your hosting provider, Promptless lets you configure triggers so that your docs get automatically updated upon new feature releases, developer support questions, or internal use-case discussions. \r\n\r\nPromptless integrates directly with your organization’s entire knowledge ecosystem – issue trackers, internal knowledge bases, support ticket systems, and more – leading to holistic doc updates without expensive coordination between product, engineering, and support teams. \r\n\r\nWith Promptless, documentation becomes a strategic advantage for growth, not a bottleneck or a liability. ",
-    "one_liner": "Automatic updates for your customer-facing docs",
+    "long_description": "Docs are integral to a great customer experience, but managing them is a challenging, multi-team effort. The most successful companies recognize that fantastic docs drive adoption and bad ones cause customers to churn. Promptless is used by fast-growing startups and Fortune 500 enterprises alike to automatically update docs based on feature releases, support tickets, internal Slack conversations, and more.\r\n\r\nPromptless is designed to be flexible—it can integrate with any docs platform, be triggered automatically from many workflows, and can pull in context from any internal knowledge source.\r\n\r\nWith Promptless, documentation becomes a strategic advantage for growth, not a bottleneck or a liability. ",
+    "one_liner": "An AI teammate that automatically updates your customer-facing docs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1734445501,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2528,10 +2568,10 @@
     "subindustry": "Fintech -> Payments",
     "launched_at": 1739666420,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Logistics",
-      "Transportation"
+      "Transportation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2828,8 +2868,8 @@
     "subindustry": "Consumer -> Content",
     "launched_at": 1740665933,
     "tags": [
-      "Artificial Intelligence",
       "Video",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -3002,8 +3042,8 @@
     "launched_at": 1736138044,
     "tags": [
       "AI-Enhanced Learning",
-      "Artificial Intelligence",
-      "Edtech"
+      "Edtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3077,15 +3117,15 @@
     "website": "https://www.cuckoo.so/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Cuckoo is a real-time AI translator for global sales, marketing, and support. Companies like Snowflake and PagerDuty use Cuckoo in Zoom and in-person meetings for even the most technical discussions.\r\n\r\nCuckoo instantly learns the technical details of your conversation from your keywords and documents and interprets into over 20 languages—customized for your specific industry and organization. ",
-    "one_liner": "AI interpreter for global sales, marketing, and sales.",
+    "one_liner": "Real-time AI translator for global sales and marketing",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736479622,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -3572,7 +3612,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5361a9e0824d4289d6c92ba83bf87c9b7c4654e.png",
     "website": "https://augento.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We do DeepSeek R1 (like) fine tuning as a service. A user gives us an Agent and where it went wrong and we'll improve it.\r\nWe provide a turn key solution to customers to act on poorly performing agents, by providing feedback in our UI to the agent and we'll take care of improving the model with reinforcement learning.\r\nImagine a startup developing a tool for law firms, enhanced with an AI to assist lawyers in selecting clients. Currently, this startup would face significant challenges in building such a tool, as it’s crucial to provide accurate and consistent responses every time. With our technology, the startup can enhance the initial model by incorporating its own experience and feedback from beta users, eventually surpassing the initial model and delivering reliable results on every query.",
+    "long_description": "Augento is the platform for DeepSeek R1 (like) fine tuning as a service. A user gives us an Agent and where it went wrong and we'll improve it.\r\nWe provide a turn key solution to customers to act on poorly performing agents, by providing feedback in our UI to the agent and we'll take care of improving the model with reinforcement learning.\r\nImagine a startup developing a tool for law firms, enhanced with an AI to assist lawyers in selecting clients. Currently, this startup would face significant challenges in building such a tool, as it’s crucial to provide accurate and consistent responses every time. With our technology, the startup can enhance the initial model by incorporating its own experience and feedback from beta users, eventually surpassing the initial model and delivering reliable results on every query.",
     "one_liner": "Improving Agents through Reinforcement Learning",
     "team_size": 4,
     "industry": "B2B",
@@ -3580,8 +3620,8 @@
     "launched_at": 1740421634,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4624,8 +4664,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/954a6e03dc3be9737df64c792b63e036b1c580cf.png",
     "website": "https://gettireswing.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Tire Swing saves health care companies thousands of hours on routine regulatory compliance tasks.\r\n\r\nOur AI platform enables compliance teams to search across thousands of regulations, prepare for audits, and find gaps in their policies and procedures. As regulatory changes occur we suggest corresponding updates to your documents.\r\n\r\nTire Swing takes the headache out of compliance so healthcare organizations can focus on their mission.\r\n\r\n\r\n",
-    "one_liner": "AI for Health Care Compliance",
+    "long_description": "Tire Swing saves healthcare organizations thousands of hours on routine regulatory compliance tasks.\r\n\r\nOur AI platform enables compliance teams to search across thousands of regulations, prepare for audits, and find gaps in their policies and procedures. As regulatory changes occur we suggest corresponding updates to your documents.\r\n\r\nTire Swing takes the headache out of compliance so healthcare organizations can focus on their mission.\r\n\r\n\r\n",
+    "one_liner": "AI for Healthcare Compliance",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -5008,11 +5048,11 @@
     "subindustry": "Education",
     "launched_at": 1739904496,
     "tags": [
-      "AI-Enhanced Learning",
       "Education",
       "Generative AI",
       "SaaS",
-      "Video"
+      "Video",
+      "Media"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5257,18 +5297,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a035400f6acd84a35dea2f9fb7832b054c02ed12.png",
     "website": "https://archon.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Government IT purchases account for 20% of the U.S. software market. Archon helps software companies sell to the government by cutting the federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible. We want to enable every small tech company to build a lasting government partnership, and bring real solutions to our federal agencies.\r\n\r\nEmail us at inquiries@archon.inc",
+    "long_description": "Government IT purchases account for 20% of the U.S. software market. Archon helps software companies sell to the government by cutting the required federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible. We want to enable every small tech company to build a lasting government partnership, and bring real solutions to our federal agencies.\r\n\r\nEmail us at inquiries@archon.inc",
     "one_liner": "We help software companies sell to government.",
     "team_size": 3,
     "industry": "Government",
     "subindustry": "Government",
     "launched_at": 1738095676,
     "tags": [
-      "Artificial Intelligence",
       "GovTech",
       "B2B",
       "Compliance",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5425,7 +5465,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6fe3367102fb3c122ffe0222d63055c3502fa6b.png",
     "website": "https://www.reditus.space/",
     "all_locations": "Atlanta, GA, USA",
-    "long_description": "We are making reusable satellites for zero-g manufacturing. \r\nThe next wave of pharmaceutical & semiconductor manufacturing will occur in orbit, and we already have $130M+ in LOI's from companies who want to get to space faster. ",
+    "long_description": "We are making reusable satellites for zero-g manufacturing. \r\nThe next wave of pharmaceutical & semiconductor manufacturing will occur in orbit, and we already have $2000M+ in LOI's from companies who want to get to space faster. ",
     "one_liner": "Reusable Satellites for zero-g manufacturing",
     "team_size": 2,
     "industry": "Industrials",
@@ -5758,14 +5798,14 @@
     "website": "https://roark.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Roark monitors, evaluates and simulates real customer calls for Voice AI developers. Instead of spending hours manually calling their agent to test changes, teams can instantly simulate real scenarios and catch failures before customers do.",
-    "one_liner": "Observability and Testing for Voice AI",
+    "one_liner": "Datadog for Voice AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1737797905,
     "tags": [
+      "Artificial Intelligence",
       "Analytics",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
