@@ -7369,6 +7369,57 @@
     "api": "https://yc-oss.github.io/api/batches/w21/tint.json"
   },
   {
+    "id": 23105,
+    "name": "CreatorOS",
+    "slug": "creatoros",
+    "former_names": [
+      "Socionity",
+      "CreatorOS",
+      "CreatorOS - Questbook"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b512ecb3301ab8d683bbd5d94982b605acc6da8.png",
+    "website": "https://creatoros.co",
+    "all_locations": "Hyderabad, Telangana, India; Remote",
+    "long_description": "We build tools that allows enterprises verify information about a user *before* processing it - whether it is processed by a human or an AI agent.\r\n\r\nTraditionally, these verifications including but not limited to background checks cost ~$10. Using our advancements in AI and Cryptography, we're able to send that cost to a few cents. \r\n\r\nThis enables enterprises to do verification at scale, earlier in their work-flows, and enables new kinds of businesses - which were not performing these verifications because of prohibitively high costs.\r\n\r\nFor example, it makes no sense that a recruiter does a candidate's document verification and background checks AFTER the candidate has cleared all the interviews. That's because that verification is cumbersome and expensive. They can't afford to verify all the candidates at the top of the funnel. Many such workflows are ripe for disruption. \r\n\r\nAnother example of a product that was not possible before. A dating app uses our tools to verify the users' information - including their employment, education and financial background. This was something that would have been too expensive to verify at a $10 pricepoint where the ARPU is only $8. \r\n\r\nNot only that, we're designing the tools ground up - so that AI agents can utilize these verifications before ingesting information, so that they take action basis truthful information.\r\n\r\nWe have 3 tools\r\n1. BlueCheck : our flagship product for background verification. The cheapest option to verify users' employment, education and financial background. A few cents instead of a few tens of dollars. Several Billion Dollar+ revenue companies are customers. A solution designed for enterprises that works out of the box!\r\n2. Reclaim Protocol : our underlying infrastructure that makes BlueCheck possible. With advancements in cryptography, specifically zero knowledge proofs - our research over the last 3 years have resulted in inventing a new cryptographic primitive called zkTLS, which allows us to verify information from any website using the cryptography of the existing internet pipes (TLS). This is our secret sauce!\r\n3. Questbook : our dog-fooding tool. Questbook is a tool to give out research and open source software development grants. These grants are reviewed by AI agents that we built inhouse. The biggest scam people try is to fake who they are when they are applying for grants. We dog-food our own tools to make sure we verify all the claims the users are making when they apply for grants. Our tools secure more than $10M of grants being given out on the platform. So it's high stakes, and it works!",
+    "one_liner": "Building tools for verifying information consumed by AI agents",
+    "team_size": 26,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1616635998,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Crypto / Web3",
+      "Identity",
+      "API"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W21",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "India",
+      "South Asia",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/creatoros",
+    "api": "https://yc-oss.github.io/api/batches/w21/creatoros.json"
+  },
+  {
     "id": 23190,
     "name": "Biodock",
     "slug": "biodock",
@@ -17892,6 +17943,48 @@
     "api": "https://yc-oss.github.io/api/batches/s23/inari.json"
   },
   {
+    "id": 29007,
+    "name": "Smoothspeak",
+    "slug": "smoothspeak",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5eb7784065a8156fe021cef815b7ee7e46418cef.png",
+    "website": "https://www.smoothspeak.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Smoothspeak is an AI dating coach that you can text. We help you land more dates by improving how you text and speak in romantic scenarios through customized text suggestions and voice role play challenges.",
+    "one_liner": "Your personal AI dating coach",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1689495664,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Gaming",
+      "Dating",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/smoothspeak",
+    "api": "https://yc-oss.github.io/api/batches/s23/smoothspeak.json"
+  },
+  {
     "id": 29008,
     "name": "Andromeda Surgical",
     "slug": "andromeda-surgical",
@@ -18460,49 +18553,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aisdr",
     "api": "https://yc-oss.github.io/api/batches/s23/aisdr.json"
-  },
-  {
-    "id": 29118,
-    "name": "Structured Labs",
-    "slug": "structured-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c6c75f571e43a6721ba7f7a597f1e9cb4c662b8.png",
-    "website": "https://www.structuredlabs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Structured is a full-stack platform for building, deploying, and managing interactive data applications. It brings ingestion, storage, transformation, and visualization into a simple SDK, minimizing complexity while maintaining flexibility for both prototyping and production-grade use cases.",
-    "one_liner": "Build data apps with AI",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1686619959,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Analytics",
-      "Open Source",
-      "Data Visualization"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/structured-labs",
-    "api": "https://yc-oss.github.io/api/batches/s23/structured-labs.json"
   },
   {
     "id": 29119,
@@ -20141,9 +20191,9 @@
       "Glance"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3abedd30ff50727e295918adde3c699b0ec0c114.png",
-    "website": "https://paige.sh",
+    "website": "https://speck.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're the makers of Paige. Paige is an AI frontend engineer that helps developers iterate faster on websites. Our customers use us to save hours on slow frontend development.\r\n\r\nLucas built Sweep, an AI developer. Raghav won 9 hackathons with LLM agents.\r\n‎\r\nJoin our community: https://discord.gg/speck",
+    "long_description": "Speck is an AI frontend engineer that helps developers iterate faster on websites. Our customers use us to save hours on slow frontend development.\r\n\r\nRaghav won 9 hackathons with LLM agents.",
     "one_liner": "Paige, an AI Frontend Engineer",
     "team_size": 2,
     "industry": "B2B",
@@ -22968,43 +23018,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/decisional-ai.json"
   },
   {
-    "id": 29656,
-    "name": "Leeroo",
-    "slug": "leeroo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/644f6f8eed670754fc9f1750f0c4590b675d4d20.png",
-    "website": "https://www.leeroo.com/",
-    "all_locations": "",
-    "long_description": "Leeroo empowers developers and organizations to turn complex workflows and ideas into production-ready AI systems. Our platform enables the creation of end-to-end trainable Compound Models that combine pre-trained models, tools, and data seamlessly. Not only do we automate model building but also automate the integration of tools and data sources, accelerating the journey from concept to deployment. By abstracting complexity, we allow users to focus on solving problems, not building infrastructure, and deliver scalable, customizable, and fully private solutions.",
-    "one_liner": "Turning workflows to production-ready, e2e trainable Compound Models.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1732293207,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "X25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/leeroo",
-    "api": "https://yc-oss.github.io/api/batches/x25/leeroo.json"
-  },
-  {
     "id": 29658,
     "name": "RetroFix AI",
     "slug": "retrofix-ai",
@@ -25807,7 +25820,11 @@
     "id": 30020,
     "name": "Rada",
     "slug": "rada",
-    "former_names": [],
+    "former_names": [
+      "Radah",
+      "Rada",
+      "rada"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/07fc37096aaa1a6f98a85e1344b7d50af0ed985d.png",
     "website": "https://tryrada.com",
     "all_locations": "San Francisco, CA, USA",
@@ -25815,7 +25832,7 @@
     "one_liner": "Insurance calls automation for healthcare clinics.",
     "team_size": 2,
     "industry": "Healthcare",
-    "subindustry": "Consumer",
+    "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1739468184,
     "tags": [
       "Artificial Intelligence",
@@ -27036,52 +27053,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/quantstruct.json"
   },
   {
-    "id": 30177,
-    "name": "Bild AI",
-    "slug": "bild-ai",
-    "former_names": [
-      "Comply AI",
-      "Bilds AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e9f3a32db39a8212bb016c786d67f53ed0bf27c.png",
-    "website": "https://www.bild.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bild AI reads construction blueprints and extracts material and cost data for builders. Our software automates the $50B/year spent on manual blueprint processing and material cost estimation.",
-    "one_liner": "AI that understands construction blueprints",
-    "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "B2B",
-    "launched_at": 1738874630,
-    "tags": [
-      "Artificial Intelligence",
-      "Computer Vision",
-      "Construction",
-      "B2B",
-      "Architecture"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bild-ai",
-    "api": "https://yc-oss.github.io/api/batches/w25/bild-ai.json"
-  },
-  {
     "id": 30178,
     "name": "Candor",
     "slug": "candor",
@@ -27132,7 +27103,7 @@
     "all_locations": "",
     "long_description": "Veterinarians spend 40% of their time on admin work, >20% on note taking alone. We're here to change that so they can focus on what really matters - providing the best care possible for animals.",
     "one_liner": "Streamlining admin work for veterinary professionals",
-    "team_size": 8,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1738187804,
@@ -27204,6 +27175,49 @@
     "api": "https://yc-oss.github.io/api/batches/w25/leaping-ai.json"
   },
   {
+    "id": 30182,
+    "name": "Casixty",
+    "slug": "casixty",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5111523c1cc63f651baca2a49f9b8fb984cf067.png",
+    "website": "https://casixty.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Casixty automates Reddit engagement for technical companies, helping them connect authentically with their target audiences. Using AI, we identify relevant discussions, generate brand-accurate responses, and provide detailed analytics to track engagement impact.",
+    "one_liner": "Reddit Marketing Agent for technical audiences",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1738111851,
+    "tags": [
+      "Artificial Intelligence",
+      "Analytics",
+      "Sales",
+      "Marketing",
+      "Big Data"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/casixty",
+    "api": "https://yc-oss.github.io/api/batches/w25/casixty.json"
+  },
+  {
     "id": 30187,
     "name": "Praxim",
     "slug": "praxim",
@@ -27244,6 +27258,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/praxim",
     "api": "https://yc-oss.github.io/api/batches/w25/praxim.json"
+  },
+  {
+    "id": 30188,
+    "name": "Admyral",
+    "slug": "admyral",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f504aecdfdb8e4acd4c08466c158b750a3ffe3d1.png",
+    "website": "https://www.admyral.ai",
+    "all_locations": "",
+    "long_description": "Admyral is the first AI-native Commercial Real Estate Brokerage. Real estate brokers use our first product, deep research agents, to discover hard-to-find contact details of property owners.",
+    "one_liner": "The First AI-Native Commercial Real Estate Brokerage",
+    "team_size": 2,
+    "industry": "Real Estate and Construction",
+    "subindustry": "B2B",
+    "launched_at": 1739171711,
+    "tags": [
+      "Artificial Intelligence",
+      "Real Estate",
+      "B2B",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/admyral",
+    "api": "https://yc-oss.github.io/api/batches/w25/admyral.json"
   },
   {
     "id": 30189,
@@ -27336,7 +27391,7 @@
     "website": "https://splash9.com/",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Splash is developing the next generation of autonomous surface vessels (ASVs) to provide National Security and defend critical assets such as oil rigs and shipping terminals. Our long-term vision is to make traditional naval vessels obsolete by creating a fleet of low-cost and versatile boats which will be able to dominate the seas. Our expertise in mass manufacturing, engineering and quickly scaling operations will make this vision a reality. ",
-    "one_liner": "Self-driving patrol boats for National Security ",
+    "one_liner": "Autonomous patrol-boats for National Security ",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Unspecified",
@@ -27411,48 +27466,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/alice-tech",
     "api": "https://yc-oss.github.io/api/batches/w25/alice-tech.json"
-  },
-  {
-    "id": 30201,
-    "name": "Dartboard Energy",
-    "slug": "dartboard-energy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da8574389e1b618977a4c248ea7c02e6d8d5dc9b.png",
-    "website": "https://dartboardenergy.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dartboard is an AI Analyst for Electricity Markets, starting with the owners of grid-connected battery projects.",
-    "one_liner": "AI Analyst for Electricity Markets",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1739492408,
-    "tags": [
-      "Artificial Intelligence",
-      "Energy Storage",
-      "B2B",
-      "Analytics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Energy"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dartboard-energy",
-    "api": "https://yc-oss.github.io/api/batches/w25/dartboard-energy.json"
   },
   {
     "id": 30202,
@@ -27540,6 +27553,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/promptless.json"
   },
   {
+    "id": 30212,
+    "name": "superglue",
+    "slug": "superglue",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d8702327beeb6c4e9700c883d54481531ce4f3b.png",
+    "website": "https://superglue.cloud/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "superglue is an open source data transformation tool. It sits in front of horrible legacy APIs and returns only the data you need in the format you expect. Instead of writing custom code to map fields, handle different data structures, failure states and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
+    "one_liner": "Open source data  transformation with AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1737761136,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superglue",
+    "api": "https://yc-oss.github.io/api/batches/w25/superglue.json"
+  },
+  {
     "id": 30215,
     "name": "Contrario",
     "slug": "contrario",
@@ -27590,7 +27645,7 @@
     "website": "https://verbiflow.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Verbiflow is the all-in-one platform for sales teams to capture, manage, and automate their entire process. Capture leads with intelligent prospecting that identifies high-potential prospects based on real-time events and smart scheduling & routing that instantly assigns those leads to the best-suited sales rep. Manage your pipeline with complete flexibility, defining and tracking custom KPIs across all your sales interactions. Automate reminders and workflows to keep deals moving forward, all within a single, unified platform.",
-    "one_liner": "The Swiss Army Knife For Your Sales Team",
+    "one_liner": "AI-powered CRM that finds leads and closes deals for you.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -27711,6 +27766,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/maive.json"
   },
   {
+    "id": 30236,
+    "name": "Tergle",
+    "slug": "tergle",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/441b34e3b91d1925fe09d25d993360b31f740df4.png",
+    "website": "https://tergle.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tergle builds AI agents for auditing.",
+    "one_liner": "AI agents for auditing",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1740611994,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Compliance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tergle",
+    "api": "https://yc-oss.github.io/api/batches/w25/tergle.json"
+  },
+  {
     "id": 30242,
     "name": "Oki",
     "slug": "oki",
@@ -27795,6 +27892,136 @@
     "api": "https://yc-oss.github.io/api/batches/w25/gulp.json"
   },
   {
+    "id": 30249,
+    "name": "HealthKey",
+    "slug": "healthkey",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1861589f70a31b85bd0f644259f89e147516204.png",
+    "website": "https://gethealthkey.com/",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "HealthKey helps doctors offices generate more revenue by identifying patients who are eligible for clinical trials, and matches at-risk patients with cutting-edge treatments. Big Pharma pays a lot of money to clinics for each patient they enroll, but finding patients who qualify is an entirely manual process today. We use AI to prescreen doctors’ existing patients against Clinical Trials’ eligibility criteria, making enrollment fast and easy.\r\n\r\nMeet with Josh (CEO) 👉 https://cal.com/healthkey/15-min-meeting\r\nInvestors 👉 https://cal.com/healthkey/30-min-seed-investors",
+    "one_liner": "AI-powered Patient Identification for Clinical Trial Research Sites",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1737252261,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Health Tech",
+      "B2B",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/healthkey",
+    "api": "https://yc-oss.github.io/api/batches/w25/healthkey.json"
+  },
+  {
+    "id": 30250,
+    "name": "GradeWiz",
+    "slug": "gradewiz",
+    "former_names": [
+      "GradeWIz",
+      "Gradewiz",
+      "GradeWiz",
+      "GradeWIz"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/457b05762957fe3db28fe1457bc145653e7ee436.png",
+    "website": "https://www.gradewiz.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "GradeWiz is an AI teaching assistant that helps educators create rubrics, grade student work and give feedback. Like a human TA, professors teach it to grade just like them. Used to grade over 2,500 students at 8 Colleges, reducing grading time by 60% on average.",
+    "one_liner": "AI Grading for Colleges",
+    "team_size": 2,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1736138044,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
+      "Edtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gradewiz",
+    "api": "https://yc-oss.github.io/api/batches/w25/gradewiz.json"
+  },
+  {
+    "id": 30251,
+    "name": "Mecha Health",
+    "slug": "mecha-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e851087b2c25e5bd175d39d8631791d74e04ebb1.png",
+    "website": "https://www.mecha-health.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mecha Health builds foundation models to automate x-ray analysis for radiologists. We take medical images and process them using proprietary models to produce accurate draft medical reports. Our first model was built in less than two months, and beat Microsoft, Google, and OpenAI on clinical accuracy metrics. On top of that, it’s two orders of magnitude smaller and trained with a quarter of the data.\r\n\r\nWe are partnering with the largest privately owned radiology practice in the US and a multinational tele-radiology company to provide them with their own foundation model, enabling their radiologists to go from reading 1 scan per hour to 1 scan every 5 minutes. By charging on a per scan basis, x-ray report generation represents a 40B+ market opportunity. ",
+    "one_liner": "We build foundation models to automate x-ray analysis for radiologists",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1737153298,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Vision",
+      "Health Tech",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mecha-health",
+    "api": "https://yc-oss.github.io/api/batches/w25/mecha-health.json"
+  },
+  {
     "id": 30255,
     "name": "Olive",
     "slug": "olive",
@@ -27836,25 +28063,27 @@
     "api": "https://yc-oss.github.io/api/batches/w25/olive.json"
   },
   {
-    "id": 30260,
-    "name": "Macadamia",
-    "slug": "macadamia",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7080dfa822287673ec2a18eb24c6bb89b856ef3.png",
-    "website": "https://macadamialabs.com",
+    "id": 30259,
+    "name": "Asteroid",
+    "slug": "asteroid",
+    "former_names": [
+      "Entropy Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc8fcf7c25638bdf4248c3b5676e9d2c18135e4.png",
+    "website": "https://asteroid.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Macadamia is building an AI mechanical engineer that fixes technical issues in complex projects. It monitors your technical documents and detects issues early before they escalate. By integrating with engineering software, our AI agent fixes design issues automatically in complex workflows. ",
-    "one_liner": "AI Mechanical Engineer that fixes technical issues in complex projects",
+    "long_description": "Asteroid builds and hosts browser AI agents for complex tasks. With built-in guardrails, evaluations and human oversight, we ensure enterprise-grade reliability across millions of operations across regulated industries.",
+    "one_liner": "Browser Agents for Regulated Industries",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1737733063,
+    "subindustry": "B2B",
+    "launched_at": 1734639467,
     "tags": [
       "Artificial Intelligence",
-      "Hardware",
-      "Construction",
-      "Design",
-      "Automation"
+      "Robotic Process Automation",
+      "B2B",
+      "Workflow Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27863,8 +28092,7 @@
     "batch": "W25",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -27874,9 +28102,9 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/macadamia",
-    "api": "https://yc-oss.github.io/api/batches/w25/macadamia.json"
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/asteroid",
+    "api": "https://yc-oss.github.io/api/batches/w25/asteroid.json"
   },
   {
     "id": 30265,
@@ -27922,25 +28150,23 @@
     "api": "https://yc-oss.github.io/api/batches/w25/harbera.json"
   },
   {
-    "id": 30267,
-    "name": "Lopus AI",
-    "slug": "lopus-ai",
+    "id": 30268,
+    "name": "AthenaHQ",
+    "slug": "athenahq",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bf383d00d833f8ead69445747af5777b0e0a0a6.png",
-    "website": "https://lopus.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56b3629a079e4b454de983d631cc68773f3b5b42.png",
+    "website": "https://www.athenahq.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sales teams blast emails, spam LinkedIn, and chase leads who were never interested in the first place. Conversion rates are dropping, and buyers are tuning out. The problem isn’t a lack of prospects—it’s that most businesses are looking in the wrong places.\r\n\r\nPeople and businesses talk about their pain points online every day—struggling with problems your product solves. We track these high-intent conversations, surface the right buyers, and deliver them straight to you. Just 20 minutes a day, and you’re engaging with people ready to buy, with conversion rates as high as 50%.\r\n\r\nPeople are looking for your solution - you're just not seeing them. Let's change that.",
-    "one_liner": "Finding customers who are ready to buy your product — on autopilot.",
+    "long_description": "Make sure your brand doesn't get left behind by the paradigm shift from traditional search to generative search.\r\n\r\nAthenaHQ helps your brand get discovered on generative engines like ChatGPT, Perplexity, Claude, Gemini, and more.\r\n\r\nGenerative engine search is expected to overtake traditional search in the next 3 years. We are building AthenaHQ to fill that gap.\r\n\r\nTeam of former product manager on Google Search's information acquisition team, Deepmind Generative Media team, and ChatGPT superusers.",
+    "one_liner": "Get Your Brand Discovered on ChatGPT.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1740443352,
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1739175359,
     "tags": [
       "Artificial Intelligence",
-      "B2B",
-      "Sales",
-      "Social Media",
-      "Market Research"
+      "Analytics",
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27950,7 +28176,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Sales"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -27961,8 +28187,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lopus-ai",
-    "api": "https://yc-oss.github.io/api/batches/w25/lopus-ai.json"
+    "url": "https://www.ycombinator.com/companies/athenahq",
+    "api": "https://yc-oss.github.io/api/batches/w25/athenahq.json"
   },
   {
     "id": 30270,
@@ -28217,6 +28443,46 @@
     "api": "https://yc-oss.github.io/api/batches/w25/general-trajectory.json"
   },
   {
+    "id": 30278,
+    "name": "Agentin AI",
+    "slug": "agentin-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da9bdd65896a691965e96e56efdfaa0880fcac0e.png",
+    "website": "https://www.agentin.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Agentin AI, we build Agents that move data and take actions across enterprise systems, like Salesforce, NetSuite and SAP. These agents are difficult to build because each enterprise heavily customizes their systems but we solved that by training our Agents to learn and adapt from failures, applying reinforcement learning techniques we developed.",
+    "one_liner": "AI Agents that automate enterprise software processes",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1740032946,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agentin-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/agentin-ai.json"
+  },
+  {
     "id": 30281,
     "name": "Waypoint Transit",
     "slug": "waypoint-transit",
@@ -28346,6 +28612,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/nitrode.json"
   },
   {
+    "id": 30287,
+    "name": "Calltree AI",
+    "slug": "calltree-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/faffbf74e034071386a917c3afe0260f950ac8e6.png",
+    "website": "https://calltree.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Calltree makes enterprise-grade AI support reps for call centers. Our AI reps take voice calls and chats like other AI support agents but can also use internal enterprise tools like a homegrown CRM or internal dashboards, like the highly trained humans working there today.",
+    "one_liner": "Enterprise-grade AI support reps for call centers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1738270018,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "Customer Service"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/calltree-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/calltree-ai.json"
+  },
+  {
     "id": 30288,
     "name": "Harper",
     "slug": "harper",
@@ -28387,26 +28695,27 @@
     "api": "https://yc-oss.github.io/api/batches/w25/harper.json"
   },
   {
-    "id": 30292,
-    "name": "Mesh",
-    "slug": "mesh-2",
+    "id": 30289,
+    "name": "Sherpa Labs",
+    "slug": "sherpa-labs",
     "former_names": [
-      "Cart"
+      "DagHub.ai"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ccdc4419907ee05321c76c632bbd5270cb8764.png",
-    "website": "http://www.usemesh.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
+    "website": "https://www.sherpalabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mesh is building a fully agentic, AI finance team for companies. Mesh agents build and retain context by connecting to the company's entire financial stack, and automate entire functions within finance ranging from bank reconciliation, accounts receivable / payable, financial reporting, and budgeting / forecasting.  \r\n\r\nNandini and Erin met at Carta where they helped grow the fund accounting business from $20M to $100M ARR. They worked together for 5+ years as engineering and product counterparts. Nandini graduated with BS / MS degrees in Electrical and Computer Engineering at CMU, and Erin graduated from WashU on a full-ride scholarship.\r\n\r\nAfter talking to 50+ companies, they realized that what companies needed was a better finance partner instead of another financial dashboard. Because agents keep the books updated in real-time, non-finance teams (i.e. product, sales, operations) are able to make informed decisions faster. \r\n\r\nIn 4 weeks since inception of this idea, they have taken 5 customers live, have $1.6K MRR, and have 60+ customers in the pipeline. \r\n\r\nIn the US, there are 220,000 mid-market and enterprise companies. On average, we can charge $100K, presenting a $22B market opportunity in US alone.",
-    "one_liner": "AI bookkeeper for startups",
+    "long_description": "Sherpa Labs is building an agentic data team that automates modeling, operations, and discovery via a swarm of agents. Their initial product is a data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes — similar to Glean but for enterprise data systems.",
+    "one_liner": "The AI Data Team",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1736927502,
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1737526775,
     "tags": [
       "Artificial Intelligence",
-      "Finance",
-      "Productivity",
-      "Enterprise Software"
+      "Generative AI",
+      "Data Science",
+      "Data Engineering",
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28415,8 +28724,7 @@
     "batch": "W25",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Finance and Accounting"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -28427,8 +28735,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mesh-2",
-    "api": "https://yc-oss.github.io/api/batches/w25/mesh-2.json"
+    "url": "https://www.ycombinator.com/companies/sherpa-labs",
+    "api": "https://yc-oss.github.io/api/batches/w25/sherpa-labs.json"
   },
   {
     "id": 30294,
@@ -28602,25 +28910,27 @@
     "api": "https://yc-oss.github.io/api/batches/w25/mastra.json"
   },
   {
-    "id": 30319,
-    "name": "Demeter",
-    "slug": "demeter",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6f337d7edbcc9a9c931383385d78e6f6cf6e401.png",
-    "website": "https://www.joindemeter.com/",
+    "id": 30307,
+    "name": "Archon",
+    "slug": "archon",
+    "former_names": [
+      "NEXUS"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a035400f6acd84a35dea2f9fb7832b054c02ed12.png",
+    "website": "https://archon.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Demeter provides AI fund administration for private investment firms. Starting with portfolio management, Demeter automates performance tracking, benchmarking, and valuation, providing insights in minutes instead of weeks.",
-    "one_liner": "AI Fund Administration for Private Investment Firms",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1739227592,
+    "long_description": "Government IT purchases account for 20% of the U.S. software market. Archon helps software companies sell to the government by cutting the required federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible. We want to enable every small tech company to build a lasting government partnership, and bring real solutions to our federal agencies.\r\n\r\nEmail us at inquiries@archon.inc",
+    "one_liner": "We help software companies sell to government.",
+    "team_size": 3,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1738095676,
     "tags": [
       "Artificial Intelligence",
-      "Finance",
+      "GovTech",
       "B2B",
-      "Workflow Automation",
-      "Investments"
+      "Compliance",
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28629,7 +28939,7 @@
     "batch": "W25",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Government"
     ],
     "regions": [
       "United States of America",
@@ -28639,9 +28949,9 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/demeter",
-    "api": "https://yc-oss.github.io/api/batches/w25/demeter.json"
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/archon",
+    "api": "https://yc-oss.github.io/api/batches/w25/archon.json"
   },
   {
     "id": 30320,
@@ -28723,6 +29033,48 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/woz",
     "api": "https://yc-oss.github.io/api/batches/w25/woz.json"
+  },
+  {
+    "id": 30322,
+    "name": "Spott",
+    "slug": "spott",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
+    "website": "https://spott.io",
+    "all_locations": "",
+    "long_description": "Spott builds AI agents for recruiting firms. Our agents get rid of manual data entry, automate repetitive workflows and accelerate decision-making. We help recruiters focus on human interactions, significantly increasing placements per employee.",
+    "one_liner": "AI agents for recruiting firms",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1737184010,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "HR Tech",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spott",
+    "api": "https://yc-oss.github.io/api/batches/w25/spott.json"
   },
   {
     "id": 30324,
@@ -29022,53 +29374,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/ergo.json"
   },
   {
-    "id": 30343,
-    "name": "Cedar",
-    "slug": "cedar",
-    "former_names": [
-      "ByteBelli",
-      "lawyai (name in progress)",
-      "GraphIQal"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d689d59276a36e33100281dbe98a74bcaf59a06.png",
-    "website": "https://www.cedar.law/home",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cedar is an AI copilot for any app. Imagine the founders themselves being behind every user’s screen: actively converting them, answering product questions, and upselling. \r\n\r\nJesse worked at Intuit, writing software for TurboTax designed for customers of all tech literacy levels. Isabelle worked at Figma and Notion, learning about the struggles of getting users to effectively use powerful yet complex products as well as GTM strategies to reach them.\r\n\r\nAt every step of the conversion funnel, users and companies struggle with knowledge gaps. Users not knowing how a product helps them reduces conversion, activation and retention. Companies not knowing what users want misleads messaging, product, and re-engaging churned leads. \r\n\r\nAI can do more than just replace a single job or industry. With Cedar at the center, we reimagine growth and customer support entirely, provide qualitative analytics of the user’s story and using them to improve user’s experiences live. As we enter the age of AI agents, they too will need an understanding of what software does and how to execute it. We plan to be the front door for all of them.",
-    "one_liner": "In-product AI copilot & for any app",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1739293549,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Customer Success",
-      "Customer Support",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cedar",
-    "api": "https://yc-oss.github.io/api/batches/w25/cedar.json"
-  },
-  {
     "id": 30349,
     "name": "Tally",
     "slug": "tally-2",
@@ -29108,6 +29413,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tally-2",
     "api": "https://yc-oss.github.io/api/batches/w25/tally-2.json"
+  },
+  {
+    "id": 30356,
+    "name": "Fira",
+    "slug": "fira",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8180359e4edaaddd169f88aafc0eb2338fe0116f.png",
+    "website": "https://firaresearch.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fira is a financial research assistant that helps analysts at investment firms instantly extract and analyse data from unstructured reports of public and private companies. It reads thousands of integrated unstructured financial reports (often 300 pages) to provide source-cited answers and verifiable calculations\r\n\r\nWe're initially focusing on boutique investment banks and M&A advisory firms, covering annual reports of international companies and allowing to upload custom documents. As we develop our product and build clients' trust, we'll eventually integrate directly into clouds.\r\n\r\nUsing accurate extraction and analysis as single unit of work LLMs do, our vision is to scale it with agents to allow deeper and more thoughtful research, report generation and task execution — allowing financial teams to focus on ideas and decisions.",
+    "one_liner": "Agentic AI analyst for investment firms",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1736800806,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "B2B",
+      "Market Research",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fira",
+    "api": "https://yc-oss.github.io/api/batches/w25/fira.json"
   },
   {
     "id": 30365,

@@ -10778,7 +10778,7 @@
     "website": "https://www.stampmail.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Stamp is the first AI Native inbox. It's more than an email client, though -- it's like your second brain.\r\n\r\nStamp can respond to emails in your voice, organize your inbox to filter out the noise, keep track of action items, and automate essentially every task you're doing manually in your inbox today.",
-    "one_liner": "The First AI Native Email Client",
+    "one_liner": "The AI Native Email Client",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "Consumer",
@@ -11162,7 +11162,7 @@
     "website": "https://www.runsift.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're an intelligent pipeline for your logs. Reduce your logging volume and take back control in just a few clicks.",
-    "one_liner": "Your Logs, Finally Free",
+    "one_liner": "Never Look at a Log Again",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -11279,48 +11279,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/operand.json"
   },
   {
-    "id": 30259,
-    "name": "Asteroid",
-    "slug": "asteroid",
-    "former_names": [
-      "Entropy Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc8fcf7c25638bdf4248c3b5676e9d2c18135e4.png",
-    "website": "https://asteroid.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Asteroid builds and host browser AI agents for complex tasks. With built-in guardrails, evaluations and human oversight, we ensure enterprise-grade reliability across millions of operations. ",
-    "one_liner": "Mission Critical Browser Agents at Scale",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1734639467,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "Generative AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/asteroid",
-    "api": "https://yc-oss.github.io/api/batches/w25/asteroid.json"
-  },
-  {
     "id": 30261,
     "name": "Lucid",
     "slug": "lucid",
@@ -11328,7 +11286,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d7946ea974cf7a753814028e684ac774c9c4073.png",
     "website": "https://lucidsim.co/",
     "all_locations": "Berkeley, CA, USA",
-    "long_description": "We are building generative simulations powered by fast world models.\r\n\r\nWe train world models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model  (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nAlberto (CEO) was researching world models at Berkeley AI Research (BAIR) and previously worked on earth modelling at Rainmaker. Rami (a highschool dropout from Ethiopia) previously founded a telecom services company and was the CTO of the largest govtech contractor in Ethiopia.\r\n\r\nOur first minecraft model got 3,000 users in a few days, and now we’re training a hyper realistic world model!",
+    "long_description": "We are building generative simulations powered by fast world models.\r\n\r\nWe train world models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model  (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nAlberto (CEO) was researching world models at Berkeley AI Research (BAIR) and previously worked on earth modelling at Rainmaker. Rami previously founded a telecom services company and was the CTO of the govtech contractor.\r\n\r\nOur first minecraft model got 3,000 users in a few days, and now we’re training a hyper realistic world model!",
     "one_liner": "Generative simulations powered by fast world models",
     "team_size": 4,
     "industry": "Consumer",
@@ -11457,18 +11415,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/faffbf74e034071386a917c3afe0260f950ac8e6.png",
     "website": "https://calltree.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Calltree helps enterprises' VP of Operations understand how to make their call center more efficient. Our AI agent analyzes millions of minutes of call center recordings to find inefficiencies in workflows and quantifies the cost of each action. For example, when a rep is handling a credit card dispute, Calltree can identify that reps spend 30 seconds per call on manual data gathering and data entry, propose a solution, and measure the opex savings. Calltree surfaces these insights in an analytics tool and generates reports, making it easy for operation leaders to build business cases to prioritize improvements, realizing millions in opex savings.\r\n\r\nSee us at https://calltree.ai",
-    "one_liner": "AI operations analyst for call center workflows",
+    "long_description": "Calltree makes enterprise-grade AI support reps for call centers. Our AI reps take voice calls and chats like other AI support agents but can also use internal enterprise tools like a homegrown CRM or internal dashboards, like the highly trained humans working there today.",
+    "one_liner": "Enterprise-grade AI support reps for call centers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1738270018,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Customer Service",
-      "AI"
+      "Customer Service"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11501,18 +11459,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
     "website": "https://www.sherpalabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sherpa Labs is building an agentic data scientist to automate modeling, operations, and communication via a swarm of agents. Their initial product is an agentic data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes — similar to Glean but for enterprise data systems.",
-    "one_liner": "The AI Data Scientist",
+    "long_description": "Sherpa Labs is building an agentic data team that automates modeling, operations, and discovery via a swarm of agents. Their initial product is a data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes — similar to Glean but for enterprise data systems.",
+    "one_liner": "The AI Data Team",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1737526775,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
-      "Big Data",
+      "Data Science",
       "Data Engineering",
-      "Data Visualization",
-      "Search"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11521,8 +11479,7 @@
     "batch": "W25",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Productivity"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -11541,7 +11498,7 @@
     "name": "Miyagi Labs",
     "slug": "miyagi-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc3666aa0017e92dc70ab1dda907834893e171f7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f656fe93af8521f8540070b96eba6728fbb8794.png",
     "website": "https://miyagilabs.ai",
     "all_locations": "New York, NY, USA",
     "long_description": "Miyagi Labs is an AI-powered platform that transforms videos from content creators and professors into complete, interactive courses.\r\n\r\nYouTube is one of the best educational resources in the world, but it lacks the tools to turn passive watching into active learning. By making course creation as simple as uploading a video, we’re building Shopify for online education, empowering content creators and educators to transform their knowledge into engaging, interactive learning experiences.\r\n\r\nWe automatically generate high-quality courses—in under an hour—that people actually complete. On our platform, learners engage with short-answer and multiple-choice questions, as well as quizzes, receiving instant feedback and support from an AI voice tutor if they need more help.",
@@ -11838,7 +11795,7 @@
     "website": "https://assistant-ui.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "assistant-ui helps frontend developers add AI chat to their apps. Our product is used by several dozen companies, like LangChain, Stack AI, Browser Use, and Athena Intelligence. We're building an open source Typescript/React library and a backend as a service, with first class integrations into popular agent frameworks like LangGraph and Vercel AI SDK.",
-    "one_liner": "Open Source Typescript/React Library for AI Chat",
+    "one_liner": "Open Source React.js Library for AI Chat",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -11878,16 +11835,16 @@
     "website": "https://firaresearch.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fira is a financial research assistant that helps analysts at investment firms instantly extract and analyse data from unstructured reports of public and private companies. It reads thousands of integrated unstructured financial reports (often 300 pages) to provide source-cited answers and verifiable calculations\r\n\r\nWe're initially focusing on boutique investment banks and M&A advisory firms, covering annual reports of international companies and allowing to upload custom documents. As we develop our product and build clients' trust, we'll eventually integrate directly into clouds.\r\n\r\nUsing accurate extraction and analysis as single unit of work LLMs do, our vision is to scale it with agents to allow deeper and more thoughtful research, report generation and task execution — allowing financial teams to focus on ideas and decisions.",
-    "one_liner": "Agentic AI analyst for financial research and automation",
+    "one_liner": "Agentic AI analyst for investment firms",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1736800806,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Market Research",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

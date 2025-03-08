@@ -2613,11 +2613,11 @@
     "subindustry": "B2B",
     "launched_at": 1738874630,
     "tags": [
-      "Artificial Intelligence",
       "Computer Vision",
       "Construction",
       "B2B",
-      "Architecture"
+      "Architecture",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2737,18 +2737,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e851087b2c25e5bd175d39d8631791d74e04ebb1.png",
     "website": "https://www.mecha-health.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mecha Health is pioneering the future of radiology report generation through advanced AI technology. Our mission is to streamline the reporting process, enhance accuracy, and improve patient care. Unlike black-box solutions, our AI technology is built with transparency at its core. Every decision and suggestion made by our system can be traced and understood, giving clinicians complete confidence in their AI-assisted reporting workflow.",
-    "one_liner": "Trustworthy medical image reporting with AI.",
+    "long_description": "Mecha Health builds foundation models to automate x-ray analysis for radiologists. We take medical images and process them using proprietary models to produce accurate draft medical reports. Our first model was built in less than two months, and beat Microsoft, Google, and OpenAI on clinical accuracy metrics. On top of that, it’s two orders of magnitude smaller and trained with a quarter of the data.\r\n\r\nWe are partnering with the largest privately owned radiology practice in the US and a multinational tele-radiology company to provide them with their own foundation model, enabling their radiologists to go from reading 1 scan per hour to 1 scan every 5 minutes. By charging on a per scan basis, x-ray report generation represents a 40B+ market opportunity. ",
+    "one_liner": "We build foundation models to automate x-ray analysis for radiologists",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1737153298,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Computer Vision",
       "Health Tech",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2892,46 +2892,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/permitify",
     "api": "https://yc-oss.github.io/api/batches/w25/permitify.json"
-  },
-  {
-    "id": 30348,
-    "name": "SAMMY Labs",
-    "slug": "sammy-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bdb570c43e3c58161a904790b035ac6647153c9.png",
-    "website": "https://www.sammylabs.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "SAMMY is an Al that explores your app like a real user, mapping every possible click to generate content, onboard users and spot issues. It updates automatically with every product change, keeping everything running smoothly. It may feel like magic, but it’s just powerful technology at work.",
-    "one_liner": "Automate onboarding, support & training with AI that mimics your users",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1739574667,
-    "tags": [
-      "SaaS",
-      "Computer Vision",
-      "Customer Support",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sammy-labs",
-    "api": "https://yc-oss.github.io/api/batches/w25/sammy-labs.json"
   }
 ]

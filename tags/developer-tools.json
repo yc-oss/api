@@ -16319,7 +16319,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -16430,21 +16430,21 @@
     "name": "Structured Labs",
     "slug": "structured-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c6c75f571e43a6721ba7f7a597f1e9cb4c662b8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94938375d10d953e4638ce20e0fd062ea671dbba.png",
     "website": "https://www.structuredlabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Structured is a full-stack platform for building, deploying, and managing interactive data applications. It brings ingestion, storage, transformation, and visualization into a simple SDK, minimizing complexity while maintaining flexibility for both prototyping and production-grade use cases.",
+    "long_description": "Structured Labs is creating smarter ways for humans to explore and reason with data. We are the makers of Preswald, a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, turning Python scripts into powerful shareable apps.\r\n\r\n",
     "one_liner": "Build data apps with AI",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1686619959,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
       "Open Source",
-      "Data Visualization"
+      "Data Visualization",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17251,9 +17251,9 @@
       "Glance"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3abedd30ff50727e295918adde3c699b0ec0c114.png",
-    "website": "https://paige.sh",
+    "website": "https://speck.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're the makers of Paige. Paige is an AI frontend engineer that helps developers iterate faster on websites. Our customers use us to save hours on slow frontend development.\r\n\r\nLucas built Sweep, an AI developer. Raghav won 9 hackathons with LLM agents.\r\n‎\r\nJoin our community: https://discord.gg/speck",
+    "long_description": "Speck is an AI frontend engineer that helps developers iterate faster on websites. Our customers use us to save hours on slow frontend development.\r\n\r\nRaghav won 9 hackathons with LLM agents.",
     "one_liner": "Paige, an AI Frontend Engineer",
     "team_size": 2,
     "industry": "B2B",
@@ -20762,16 +20762,16 @@
     "website": "https://superglue.cloud/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "superglue is an open source data transformation tool. It sits in front of horrible legacy APIs and returns only the data you need in the format you expect. Instead of writing custom code to map fields, handle different data structures, failure states and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
-    "one_liner": "automated data transformation for APIs and CSVs",
+    "one_liner": "Open source data  transformation with AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1737761136,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20978,7 +20978,7 @@
     "website": "https://www.runsift.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're an intelligent pipeline for your logs. Reduce your logging volume and take back control in just a few clicks.",
-    "one_liner": "Your Logs, Finally Free",
+    "one_liner": "Never Look at a Log Again",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -21135,48 +21135,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/olive",
     "api": "https://yc-oss.github.io/api/batches/w25/olive.json"
-  },
-  {
-    "id": 30259,
-    "name": "Asteroid",
-    "slug": "asteroid",
-    "former_names": [
-      "Entropy Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc8fcf7c25638bdf4248c3b5676e9d2c18135e4.png",
-    "website": "https://asteroid.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Asteroid builds and host browser AI agents for complex tasks. With built-in guardrails, evaluations and human oversight, we ensure enterprise-grade reliability across millions of operations. ",
-    "one_liner": "Mission Critical Browser Agents at Scale",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1734639467,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "Generative AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/asteroid",
-    "api": "https://yc-oss.github.io/api/batches/w25/asteroid.json"
   },
   {
     "id": 30264,
@@ -21692,7 +21650,7 @@
     "website": "https://assistant-ui.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "assistant-ui helps frontend developers add AI chat to their apps. Our product is used by several dozen companies, like LangChain, Stack AI, Browser Use, and Athena Intelligence. We're building an open source Typescript/React library and a backend as a service, with first class integrations into popular agent frameworks like LangGraph and Vercel AI SDK.",
-    "one_liner": "Open Source Typescript/React Library for AI Chat",
+    "one_liner": "Open Source React.js Library for AI Chat",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

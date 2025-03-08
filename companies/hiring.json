@@ -6914,54 +6914,6 @@
     "api": "https://yc-oss.github.io/api/batches/w18/copilot.json"
   },
   {
-    "id": 1744,
-    "name": "Fondo",
-    "slug": "fondo",
-    "former_names": [
-      "BloomJoy",
-      "Fondo",
-      "Fondo (was BloomJoy)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f0b5fe4e91dafcccff1f484b17acd3b14006850.png",
-    "website": "http://tryfondo.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fondo is the easy way for startups to get their bookkeeping done, taxes filed, and cash back from the IRS (average startup gets $21k). We’ll optimize and file your taxes, and you’ll get cash back — up to $500k per year. Need more help? We’ll also do your bookkeeping, so you don’t have to worry about a thing.",
-    "one_liner": "Bookkeeping, tax, & tax credits on autopilot for 1,000+ startups",
-    "team_size": 53,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1580421990,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "B2B",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W18",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fondo",
-    "api": "https://yc-oss.github.io/api/batches/w18/fondo.json"
-  },
-  {
     "id": 1749,
     "name": "CoinTracker",
     "slug": "cointracker",
@@ -12237,6 +12189,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ramen-vr",
     "api": "https://yc-oss.github.io/api/batches/s19/ramen-vr.json"
+  },
+  {
+    "id": 12797,
+    "name": "Spice Data",
+    "slug": "spice-data",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2213fd0cfdbe92c34932156b9d5ff26fa895ea73.png",
+    "website": "https://spicedata.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Restaurant Data for the Enterprise",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1558665919,
+    "tags": [
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S19",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spice-data",
+    "api": "https://yc-oss.github.io/api/batches/s19/spice-data.json"
   },
   {
     "id": 12821,
@@ -20431,10 +20421,10 @@
     "launched_at": 1616635998,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Crypto / Web3",
       "Identity",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -25701,8 +25691,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48474c1b0337163fd12462fb6b72ee336a4ad010.png",
     "website": "https://www.adni.co/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Adni is the first AI-powered nurse recruiting and retention platform. With our professional network of nurses and talent experience software, leading healthcare organizations, like UT Medical Center and PRN Healthcare, use Adni to hire nurses 2x faster and retain them 2x longer, all at 4x lower cost than alternatives. What Doximity (IPO 2021) did for doctors, Adni is doing for nurses.",
-    "one_liner": "AI-powered OS for nurse recruiting & retention",
+    "long_description": "Adni is solving the healthcare workforce crisis with our AI-powered healthcare recruiting and retention platform. Through our professional network of 100,000+ healthcare workers and AI-powered talent experience software, employers who use Adni hire healthcare workers 2x faster and retain them 2x longer – all 4x cheaper than alternatives. In short, Adni is Rippling for healthcare recruiting & retention.",
+    "one_liner": "AI-powered OS for healthcare recruiting & retention",
     "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -37789,15 +37779,15 @@
   },
   {
     "id": 28409,
-    "name": "BerriAI",
-    "slug": "berriai",
+    "name": "LiteLLM",
+    "slug": "litellm",
     "former_names": [
       "Clerkie"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fb5f79659d32f2b48bdbb1e9541b4c58361bae.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34f2cd4e65f065f81d234d6cfb21f911860e50cc.png",
     "website": "https://github.com/BerriAI/litellm",
     "all_locations": "",
-    "long_description": "An open-source library to simplify LLM completion + embedding calls: https://github.com/BerriAI/litellm ",
+    "long_description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
     "one_liner": "Call every LLM API like it's OpenAI [100+ LLMs]",
     "team_size": 2,
     "industry": "B2B",
@@ -37821,8 +37811,8 @@
     "demo_day_video_public": false,
     "app_answers": true,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/berriai",
-    "api": "https://yc-oss.github.io/api/batches/w23/berriai.json"
+    "url": "https://www.ycombinator.com/companies/litellm",
+    "api": "https://yc-oss.github.io/api/batches/w23/litellm.json"
   },
   {
     "id": 28410,
@@ -40497,6 +40487,52 @@
     "api": "https://yc-oss.github.io/api/batches/s23/strada.json"
   },
   {
+    "id": 29087,
+    "name": "ParadeDB",
+    "slug": "paradedb",
+    "former_names": [
+      "Retake"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6668d68dbb65664dcc7f40eff60e4ee586f09132.png",
+    "website": "https://paradedb.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "ParadeDB is an Elasticsearch alternative built on Postgres. We're modernizing the features of Elasticsearch's product suite, starting with real-time search and analytics.",
+    "one_liner": "Postgres for Search and Analytics",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1689280457,
+    "tags": [
+      "Developer Tools",
+      "Analytics",
+      "Open Source",
+      "Infrastructure",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/paradedb",
+    "api": "https://yc-oss.github.io/api/batches/s23/paradedb.json"
+  },
+  {
     "id": 29088,
     "name": "Cair Health",
     "slug": "cair-health",
@@ -40881,21 +40917,21 @@
     "name": "Structured Labs",
     "slug": "structured-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c6c75f571e43a6721ba7f7a597f1e9cb4c662b8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94938375d10d953e4638ce20e0fd062ea671dbba.png",
     "website": "https://www.structuredlabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Structured is a full-stack platform for building, deploying, and managing interactive data applications. It brings ingestion, storage, transformation, and visualization into a simple SDK, minimizing complexity while maintaining flexibility for both prototyping and production-grade use cases.",
+    "long_description": "Structured Labs is creating smarter ways for humans to explore and reason with data. We are the makers of Preswald, a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, turning Python scripts into powerful shareable apps.\r\n\r\n",
     "one_liner": "Build data apps with AI",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1686619959,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
       "Open Source",
-      "Data Visualization"
+      "Data Visualization",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47942,14 +47978,21 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ffbe7a826e30d31bb15e11d521be0059beb3f81.png",
     "website": "https://axiom.trade",
     "all_locations": "",
-    "long_description": "We're building the first platform that centralizes all of DeFi trading. Trade any asset on any chain without all the complications in between.",
-    "one_liner": "The Gateway to DeFi",
+    "long_description": "Axiom is the trading platform for decentralized finance and currently offers memecoins, perpetuals, and yield. Since launch we've hit 10M MRR and 5M monthly net profit.",
+    "one_liner": "Trade memecoins, perpetuals, and earn yield.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1738295687,
-    "tags": [],
-    "tags_highlighted": [],
+    "tags": [
+      "Fintech",
+      "Crypto / Web3",
+      "Consumer Finance",
+      "Trading"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
     "top_company": false,
     "isHiring": true,
     "nonprofit": false,
@@ -48053,6 +48096,43 @@
     "api": "https://yc-oss.github.io/api/batches/w25/infinite.json"
   },
   {
+    "id": 30302,
+    "name": "Misprint",
+    "slug": "misprint",
+    "former_names": [
+      "CardBubble"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a1c3f9a7b61db8b3dcf3a8453340dd7f22bb529.png",
+    "website": "https://www.misprint.com",
+    "all_locations": "",
+    "long_description": "Misprint is an all-in-one marketplace that solves the biggest pain point in the collectibles world: opaque pricing. Collectors, investors, and hobbyists currently rely on scattered data from auction houses, online forums, and reseller platforms, making it difficult to know the true value of their items. Misprint streamlines the process by combining accurate pricing analytics with a seamless buy/sell marketplace, making it easier than ever to understand and monetize collectible assets.\r\n\r\nExisting marketplaces lack robust, real-time analytics because accurate valuations require deep expertise in both the collectibles domain and advanced pricing algorithms. Misprint’s unique blend of insider trading card knowledge and machine learning allows us to fill this gap.\r\n\r\nBuilding these pricing models requires extensive data infrastructure, deep domain expertise, and cutting-edge ML. Recent surges in the trading card market show that collectors crave transparent valuations.\r\n\r\nThe global collectibles market is worth tens of billions of dollars. Eva has experienced the scale of this industry firsthand, generating $500k ARR within three months of taking her Pokemon card-selling side hustle full-time. With additional segments like sports cards, comics, and emerging collectible categories, the growth runway is immense.\r\n\r\nCo-founders Eva and Jon have been best friends since Exeter, combining finance expertise, a passion for collectibles, and mathematical rigor. By merging Goldman Sachs-level financial analytics with top-tier mathematical talent, Misprint is uniquely positioned to become the go-to platform for fair, transparent pricing in the collectibles space.",
+    "one_liner": "Misprint is building Robinhood for Pokemon cards",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1737236774,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/misprint",
+    "api": "https://yc-oss.github.io/api/batches/w25/misprint.json"
+  },
+  {
     "id": 30316,
     "name": "Reditus Space",
     "slug": "reditus-space",
@@ -48060,7 +48140,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6fe3367102fb3c122ffe0222d63055c3502fa6b.png",
     "website": "https://www.reditus.space/",
     "all_locations": "Atlanta, GA, USA",
-    "long_description": "We are making reusable satellites for zero-g manufacturing. \r\nThe next wave of pharmaceutical & semiconductor manufacturing will occur in orbit, and we already have $2000M+ in LOI's from companies who want to get to space faster. ",
+    "long_description": "We are making reusable satellites for zero-g manufacturing. \r\nThe next wave of pharmaceutical & semiconductor manufacturing will occur in orbit, and we already have $200M+ in LOI's from companies who want to get to space faster. ",
     "one_liner": "Reusable Satellites for zero-g manufacturing",
     "team_size": 2,
     "industry": "Industrials",
