@@ -1810,53 +1810,6 @@
     "api": "https://yc-oss.github.io/api/batches/s21/tenyks.json"
   },
   {
-    "id": 25777,
-    "name": "BotCity",
-    "slug": "botcity",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c9d51d01f280768899d76eff8f510583a2e1614.png",
-    "website": "https://botcity.dev",
-    "all_locations": "San Francisco, CA, USA; São Paulo, SP, Brazil; Remote",
-    "long_description": "The rise of Robotic Process Automation offered a promise that any business user can build automations. We were skeptical about that and decided to talk to users of platforms such as UiPath, Automation Anywhere, and Blueprism, all of them low-code.\r\n\r\nTalking to users, we discovered that unique automations incorporating exclusive company processes and intelligence that have the potential to transform the business must be implemented by tech teams. It's not about mimicking employees performing isolated tasks. It's about designing a new workflow, integrated with the company's technological stack and systems. There are just 100.000 RPA skilled users compared to 22M developers globally that can become RPA coders on Day 1 with BotCity.\r\n\r\nWe believe that all automation efforts in a single platform is more efficient. We started delivering the best RPA experience for tech teams, but we envision creating the perfect place to also manage crawlers, integrations, scrappers, data operations. Every company automation in a single place.\r\n\r\nAs companies are becoming tech first and automation will be a basic KPI, we are building to be the all-in-one automation ops management.",
-    "one_liner": "Open Source Python RPA + orchestration for tech teams.",
-    "team_size": 18,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1644846609,
-    "tags": [
-      "Developer Tools",
-      "Robotic Process Automation",
-      "Computer Vision",
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "Brazil",
-      "America / Canada",
-      "Latin America",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/botcity",
-    "api": "https://yc-oss.github.io/api/batches/w22/botcity.json"
-  },
-  {
     "id": 26254,
     "name": "Eventual",
     "slug": "eventual",
@@ -2613,11 +2566,11 @@
     "subindustry": "B2B",
     "launched_at": 1738874630,
     "tags": [
+      "Artificial Intelligence",
       "Computer Vision",
       "Construction",
       "B2B",
-      "Architecture",
-      "AI"
+      "Architecture"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2649,18 +2602,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e13662a45aaad5a75d32c886f95fbfe0a3d0af5a.png",
     "website": "https://www.conntour.com/",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-    "long_description": "Conntour lets governments and corporates query their security cameras. Users can search past footage (“Find a man with a blue backpack”), set alerts (“Alert me if someone climbs over the wall”), and extract data (“How many vehicles entered yesterday?”).\r\n\r\nWe recently secured our first paying customer - the Singapore government - paying $80K for a 3-month trial. If successful, this trial will lead to a contract worth ~$2M/year.\r\n\r\nMatan (CEO) led a military video surveillance unit, leveraging security cameras to save lives. Tomer (CTO) is a second-time founder and former director of engineering.\r\n\r\nThe problem with existing solutions is that they offer low customization, as they’re limited to pre-defined parameters (like shirt color or license plate number). This lack of flexibility causes missed critical events, too many false alarms, and countless hours wasted on manual footage review. Conntour solves this by offering unlimited flexibility through natural language queries - just ask anything.",
-    "one_liner": "Monitor & search security camera footage with natural language.",
-    "team_size": 4,
+    "long_description": "Conntour lets governments and corporates query their security cameras. Users can search past footage (“Find a man with a blue backpack”), set alerts (“Alert me if someone climbs over the wall”), and extract data (“How many vehicles entered yesterday?”).\r\n\r\nWe just completed an $80K POC with the Singapore government, which was a great success, leading us toward a $2M/year contract. That’s only one of five huge customers we’re set to close in the next few months.\r\n\r\nMatan (CEO) worked with security cameras for years, leading video surveillance in the Israel Defense Forces. Tomer (CTO) is a second-time founder and former director of engineering.\r\n\r\nThe problem with existing solutions is that they offer low customization, as they’re limited to pre-defined parameters (like shirt color or license plate number). This lack of flexibility causes missed critical events, too many false alarms, and countless hours wasted on manual footage review. Conntour solves this by offering unlimited customization through natural language queries - just ask anything.",
+    "one_liner": "AI for monitoring thousands of security cameras.",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1738284252,
     "tags": [
+      "Artificial Intelligence",
       "GovTech",
       "Computer Vision",
       "B2B",
-      "Security",
-      "AI"
+      "Security"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2780,15 +2733,15 @@
     "website": "https://exla.ai/",
     "all_locations": "",
     "long_description": "Exla aggressively quantizes AI models to minimize memory usage and maximize inference speed. Whether you're deploying LLMs, VLMs, VLAs, or custom models, Exla reduces memory footprint by up to 80% and accelerates inference by 3–20x - all with just a few lines of code.",
-    "one_liner": "Bring data center models to the edge",
+    "one_liner": "An SDK to run transformer models anywhere",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740012412,
     "tags": [
+      "Artificial Intelligence",
       "Edge Computing Semiconductors",
-      "Computer Vision",
-      "AI"
+      "Computer Vision"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2819,8 +2772,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d86ffdce2296389239f29bc23023bc7867815208.png",
     "website": "https://www.optifye.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Optifye.ai is an AI line Optimization system for manual assembly.\r\n\r\nWe place cameras in assembly lines and use computer vision to help supervisors solve shop-floor inefficiencies in real-time. \r\n\r\nThe shop floor has historically been a black box. With Optifye, manufacturing companies can now accurately measure workspace output and make decisions that boost line efficiency by up to 30%.",
-    "one_liner": "AI line optimization for manual assembly",
+    "long_description": "Optifye.ai does AI performance monitoring for factory workers\r\n\r\nWe place cameras in assembly lines and use computer vision to help supervisors solve shop-floor inefficiencies in real-time. This has lead to a 12% boost in line efficiency for our first customers!\r\n\r\nThe shop floor has historically been a black box. With Optifye, manufacturing companies are now able to accurately measure worker output and boost efficiency!",
+    "one_liner": "AI Performance monitoring for factory workers",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",

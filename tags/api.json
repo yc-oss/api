@@ -6157,6 +6157,49 @@
     "api": "https://yc-oss.github.io/api/batches/s24/rowboat-labs.json"
   },
   {
+    "id": 30078,
+    "name": "Abundant",
+    "slug": "abundant",
+    "former_names": [
+      "Abundant (prev. Scorecard)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac0261264b03915325cd897f5bcb7484eec48903.png",
+    "website": "https://www.abundant.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Abundant powers reliable and safe AI deployment with real-time human expertise. Our network of specialized operators works alongside AI agents to:\r\n\r\n(1) Handle complex edge cases with precision.\r\n(2) Maintain rigorous safety standards.\r\n(3) Generate high-quality training data that continuously improves AI performance.\r\n\r\nCompanies can meet stringent quality requirements at a fraction of the cost of in-house teams, while accelerating their AI initiatives.",
+    "one_liner": "Human Operators via API",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1731958841,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/abundant",
+    "api": "https://yc-oss.github.io/api/batches/f24/abundant.json"
+  },
+  {
     "id": 30107,
     "name": "Surge",
     "slug": "surge",
@@ -6208,17 +6251,17 @@
     "website": "https://quantstruct.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses multiple AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.\r\n\r\nTraditional generative AI tools risk hallucinating critical API & SDK fields, even with RAG based approaches. Purely agent-based approaches risk providing unpredictable output that can diverge from desired documentation processes. Finally, no company’s review and publishing workflow is the same. Quantstruct is the easiest way to onboard and customize AI agents to continuously improve your documentation based on your customer needs and product evolution. https://quantstruct.com",
-    "one_liner": "Auto-improve & publish technical docs with AI",
+    "one_liner": "AI documentation engineer – test & autoimprove stale product docs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736668232,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6340,11 +6383,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738308751,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,

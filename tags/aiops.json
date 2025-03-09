@@ -1003,6 +1003,49 @@
     "api": "https://yc-oss.github.io/api/batches/w23/dagworks-inc.json"
   },
   {
+    "id": 28409,
+    "name": "LiteLLM",
+    "slug": "litellm",
+    "former_names": [
+      "Clerkie"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34f2cd4e65f065f81d234d6cfb21f911860e50cc.png",
+    "website": "https://www.litellm.ai/",
+    "all_locations": "",
+    "long_description": "LiteLLM is an open-source LLM Gateway with 18K+ stars on GitHub and trusted by companies like Rocket Money, Samsara, Lemonade, and Adobe. LiteLLM provides an open source Python SDK and Python FastAPI Server that allows calling 100+ LLM APIs (Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic) in the OpenAI format\r\n\r\nWe have raised a $1.6M seed round from Y Combinator, Gravity Fund and Pioneer Fund",
+    "one_liner": "Call every LLM API like it's OpenAI [100+ LLMs]",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1675814900,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/litellm",
+    "api": "https://yc-oss.github.io/api/batches/w23/litellm.json"
+  },
+  {
     "id": 28959,
     "name": "sizeless",
     "slug": "sizeless",
@@ -1681,7 +1724,7 @@
     "website": "https://www.abundant.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Abundant powers reliable and safe AI deployment with real-time human expertise. Our network of specialized operators works alongside AI agents to:\r\n\r\n(1) Handle complex edge cases with precision.\r\n(2) Maintain rigorous safety standards.\r\n(3) Generate high-quality training data that continuously improves AI performance.\r\n\r\nCompanies can meet stringent quality requirements at a fraction of the cost of in-house teams, while accelerating their AI initiatives.",
-    "one_liner": "On-demand human workforce for AI agents",
+    "one_liner": "Human Operators via API",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -1689,9 +1732,8 @@
     "tags": [
       "AIOps",
       "Artificial Intelligence",
-      "Developer Tools",
-      "Recruiting",
-      "Collaboration"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1770,7 +1812,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d00fe727e32957a1207328fc67938587038c996.png",
     "website": "https://www.runsift.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're an intelligent pipeline for your logs. Reduce your logging volume and take back control in just a few clicks.",
+    "long_description": "Logging is broken. Engineers waste hours in endless data.\r\nSift Dev is building a future where you never read another log - starting with an AI pipeline to identify what matters and silence the noise.",
     "one_liner": "Never Look at a Log Again",
     "team_size": 2,
     "industry": "B2B",
@@ -1853,7 +1895,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/070d8df8755a600f5ecf800f273f60a2cfa54bb0.png",
     "website": "https://lucidic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic AI provides tools for developers and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
+    "long_description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic AI provides tools for AI agent devs, specifically visualizations and simulations, and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
     "one_liner": "Weights & Biases for AI Agents",
     "team_size": 3,
     "industry": "B2B",
@@ -1896,7 +1938,7 @@
     "website": "https://tensorpool.dev",
     "all_locations": "",
     "long_description": "Our CLI makes ML model training effortless - just describe your job, and we handle GPU orchestration and execution at half the cost of major cloud providers.",
-    "one_liner": "The easiest way to use GPUs",
+    "one_liner": "Vercel For GPUs",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",

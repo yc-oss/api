@@ -10498,19 +10498,18 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c9d51d01f280768899d76eff8f510583a2e1614.png",
     "website": "https://botcity.dev",
-    "all_locations": "San Francisco, CA, USA; São Paulo, SP, Brazil; Remote",
-    "long_description": "The rise of Robotic Process Automation offered a promise that any business user can build automations. We were skeptical about that and decided to talk to users of platforms such as UiPath, Automation Anywhere, and Blueprism, all of them low-code.\r\n\r\nTalking to users, we discovered that unique automations incorporating exclusive company processes and intelligence that have the potential to transform the business must be implemented by tech teams. It's not about mimicking employees performing isolated tasks. It's about designing a new workflow, integrated with the company's technological stack and systems. There are just 100.000 RPA skilled users compared to 22M developers globally that can become RPA coders on Day 1 with BotCity.\r\n\r\nWe believe that all automation efforts in a single platform is more efficient. We started delivering the best RPA experience for tech teams, but we envision creating the perfect place to also manage crawlers, integrations, scrappers, data operations. Every company automation in a single place.\r\n\r\nAs companies are becoming tech first and automation will be a basic KPI, we are building to be the all-in-one automation ops management.",
-    "one_liner": "Open Source Python RPA + orchestration for tech teams.",
-    "team_size": 18,
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "BotCity is a centralized platform that unifies RPA and AI under a single governance framework, enabling organizations to rapidly build, orchestrate, and scale intelligent automations with secure oversight and clear ROI.",
+    "one_liner": "Centralized governance for Intelligent Automation.",
+    "team_size": 28,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1644846609,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Robotic Process Automation",
-      "Computer Vision",
       "Open Source",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10524,9 +10523,7 @@
     ],
     "regions": [
       "United States of America",
-      "Brazil",
       "America / Canada",
-      "Latin America",
       "Remote",
       "Fully Remote"
     ],
@@ -14835,6 +14832,49 @@
     "api": "https://yc-oss.github.io/api/batches/w23/second.json"
   },
   {
+    "id": 28409,
+    "name": "LiteLLM",
+    "slug": "litellm",
+    "former_names": [
+      "Clerkie"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34f2cd4e65f065f81d234d6cfb21f911860e50cc.png",
+    "website": "https://www.litellm.ai/",
+    "all_locations": "",
+    "long_description": "LiteLLM is an open-source LLM Gateway with 18K+ stars on GitHub and trusted by companies like Rocket Money, Samsara, Lemonade, and Adobe. LiteLLM provides an open source Python SDK and Python FastAPI Server that allows calling 100+ LLM APIs (Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic) in the OpenAI format\r\n\r\nWe have raised a $1.6M seed round from Y Combinator, Gravity Fund and Pioneer Fund",
+    "one_liner": "Call every LLM API like it's OpenAI [100+ LLMs]",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1675814900,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/litellm",
+    "api": "https://yc-oss.github.io/api/batches/w23/litellm.json"
+  },
+  {
     "id": 28414,
     "name": "Automat",
     "slug": "automat",
@@ -16430,7 +16470,7 @@
     "name": "Structured Labs",
     "slug": "structured-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94938375d10d953e4638ce20e0fd062ea671dbba.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc7f703050df45f91e260a0b78df2f248c3e76db.png",
     "website": "https://www.structuredlabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Structured Labs is creating smarter ways for humans to explore and reason with data. We are the makers of Preswald, a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, turning Python scripts into powerful shareable apps.\r\n\r\n",
@@ -16440,11 +16480,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1686619959,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
       "Open Source",
-      "Data Visualization",
-      "AI"
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19993,18 +20033,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c023f9010fb3a7f3e550c56a9283c477e6ca096.png",
     "website": "https://onlook.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Onlook is the open source Cursor for Designers – Making it easy for anyone to design directly in a live website and instantly write their changes in code.\r\n\r\nOnlook is the best way for designers, non-technical team members, and developers to collaborate, empowering teams to create incredible products and websites incredibly fast.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
+    "long_description": "Onlook is the fastest way for anyone to build, deploy, and iterate on websites and web apps. We built an open-source, visual editor for code that merges design, development, and AI.\r\n\r\nSince launching, Onlook hit #1 on Hacker News, was the #1 trending repo on GitHub—above DeepSeek—and has earned over 8,500 GitHub stars.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
     "one_liner": "Cursor for Designers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737572736,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Design",
       "Design Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20018,9 +20058,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -20369,50 +20407,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/lingodotdev.json"
   },
   {
-    "id": 30078,
-    "name": "Abundant",
-    "slug": "abundant",
-    "former_names": [
-      "Abundant (prev. Scorecard)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac0261264b03915325cd897f5bcb7484eec48903.png",
-    "website": "https://www.abundant.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Abundant powers reliable and safe AI deployment with real-time human expertise. Our network of specialized operators works alongside AI agents to:\r\n\r\n(1) Handle complex edge cases with precision.\r\n(2) Maintain rigorous safety standards.\r\n(3) Generate high-quality training data that continuously improves AI performance.\r\n\r\nCompanies can meet stringent quality requirements at a fraction of the cost of in-house teams, while accelerating their AI initiatives.",
-    "one_liner": "On-demand human workforce for AI agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1731958841,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Recruiting",
-      "Collaboration"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/abundant",
-    "api": "https://yc-oss.github.io/api/batches/f24/abundant.json"
-  },
-  {
     "id": 30107,
     "name": "Surge",
     "slug": "surge",
@@ -20637,17 +20631,17 @@
     "website": "https://quantstruct.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses multiple AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.\r\n\r\nTraditional generative AI tools risk hallucinating critical API & SDK fields, even with RAG based approaches. Purely agent-based approaches risk providing unpredictable output that can diverge from desired documentation processes. Finally, no company’s review and publishing workflow is the same. Quantstruct is the easiest way to onboard and customize AI agents to continuously improve your documentation based on your customer needs and product evolution. https://quantstruct.com",
-    "one_liner": "Auto-improve & publish technical docs with AI",
+    "one_liner": "AI documentation engineer – test & autoimprove stale product docs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736668232,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20678,8 +20672,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e806fda08a2985d5611237545c62cc046d58b489.png",
     "website": "https://subtrace.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Subtrace shows developers every incoming and outgoing request in Docker containers so that they can resolve prod issues faster.",
-    "one_liner": "Wireshark for Docker containers",
+    "long_description": "Subtrace lets developers see every request in their production backend with a single command so that they can root cause issues faster.",
+    "one_liner": "Wireshark for Production Backends",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -20804,7 +20798,7 @@
     "website": "https://www.trytruffle.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Truffle AI makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Truffle to add customer support agents into WhatsApp and analytics agents into Slack.",
-    "one_liner": "AI Agents that work in any software",
+    "one_liner": "AWS for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -20933,7 +20927,7 @@
     "website": "https://a0.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "a0.dev is a platform that helps mobile developers build high quality apps in days instead of weeks by generating custom react native projects. We've launched top ranking apps that have been used by hundreds of thousands, and now we're creating the tools we wish we had to build faster.",
-    "one_liner": "We make apps with AI.",
+    "one_liner": "We make mobile apps using AI.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
@@ -20977,7 +20971,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d00fe727e32957a1207328fc67938587038c996.png",
     "website": "https://www.runsift.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're an intelligent pipeline for your logs. Reduce your logging volume and take back control in just a few clicks.",
+    "long_description": "Logging is broken. Engineers waste hours in endless data.\r\nSift Dev is building a future where you never read another log - starting with an AI pipeline to identify what matters and silence the noise.",
     "one_liner": "Never Look at a Log Again",
     "team_size": 2,
     "industry": "B2B",
@@ -21104,15 +21098,15 @@
     "website": "https://fromolive.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Olive connects to your database & third party services to help you build admin dashboards and support tools in minutes.",
-    "one_liner": "Build internal tools for your database with natural language.",
+    "one_liner": "Build internal tools for your data with natural language.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1740018718,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21185,7 +21179,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/070d8df8755a600f5ecf800f273f60a2cfa54bb0.png",
     "website": "https://lucidic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic AI provides tools for developers and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
+    "long_description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic AI provides tools for AI agent devs, specifically visualizations and simulations, and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
     "one_liner": "Weights & Biases for AI Agents",
     "team_size": 3,
     "industry": "B2B",
@@ -21227,7 +21221,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f75ba97279846098d21850986cc1298a5b21d9a0.png",
     "website": "https://rejot.dev",
     "all_locations": "Amsterdam, NH, Netherlands",
-    "long_description": "At ReJot, we're building a synchronization engine to modernize sharing data between backend services within larger organizations. Traditional approaches for internal data transfer such as HTTP requests and event streaming require significant effort to implement and maintain. The biggest hurdle however, is the coordination required to get teams to start the actual integration work.\r\n\r\nOur approach is based on synchronization, teams define what data their backend publishes and requires, and we'll make sure everything is reactively up-to-date. By being declarative about integrations, project management overhead as well as technical integration burdens are avoided. ReJot uses your existing infrastructure such as Postgres and Kafka.\r\n",
+    "long_description": "At ReJot, we're building a synchronization engine to greatly reduce the complexity of data sharing between backend services within enterprises. The traditional approach is Event Streaming, where events are published to a platform like Kafka. Kafka not only requires significant effort to operate, it also forces engineers to use events. Events come with inherent complexity—they encode something happening rather than something being (i.e., state).\r\n\r\nOur approach is based on replication, where state is transferred directly instead of requiring a back-and-forth conversion to events. We provide primitives to enable teams to break data silos, while keeping in mind data ownership and provenance. Teams define what data their backend publishes and requires, and we'll make sure everything is reactively up-to-date. ReJot works on top of existing infrastructure such as Postgres.\r\n",
     "one_liner": "Sync engine to share data across engineering teams in enterprises",
     "team_size": 2,
     "industry": "B2B",
@@ -21349,6 +21343,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/nitrode.json"
   },
   {
+    "id": 30295,
+    "name": "Infinite",
+    "slug": "infinite",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb918a1c2da0e7143351dc449810630e78b19bed.png",
+    "website": "https://infinite.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Infinite is a stablecoin payment processor. We offer businesses turnkey APIs and SDKs to instantly move money anywhere in the world at a fraction of the cost of traditional solutions.",
+    "one_liner": "Global B2B Stablecoin Processor",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1739870082,
+    "tags": [
+      "Developer Tools",
+      "Payments",
+      "B2B",
+      "Compliance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/infinite",
+    "api": "https://yc-oss.github.io/api/batches/w25/infinite.json"
+  },
+  {
     "id": 30304,
     "name": "Mastra",
     "slug": "mastra",
@@ -21405,11 +21441,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738308751,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21442,7 +21478,7 @@
     "website": "https://tensorpool.dev",
     "all_locations": "",
     "long_description": "Our CLI makes ML model training effortless - just describe your job, and we handle GPU orchestration and execution at half the cost of major cloud providers.",
-    "one_liner": "The easiest way to use GPUs",
+    "one_liner": "Vercel For GPUs",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -21566,8 +21602,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82e9354c307a1bd5e3bca2ede62b3b0bdfbdba15.png",
     "website": "https://www.axal.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Axal decreases the risk of modernization by automating the identification of architectural technical debt in monolithic codebases and prioritizing refactoring opportunities based on business goals.\r\n\r\nWe provide observability into your codebase, finding anti-patterns that stop your team from reaching their goals. By identifying domains (logical areas of functionality) within the monolith, Axal quantifies areas of technical debt into KPIs, helping executives pinpoint where modernization efforts will be most effective so your team can focus on the important work first.\r\n",
-    "one_liner": "Re-architect your code in 30 days.",
+    "long_description": "Axal analyzes legacy applications to reveal what they do and identifies architectural issues slowing development and increasing maintenance costs. It provides observability into these problem areas in under 10 hours and then can fix it with AI.\r\n",
+    "one_liner": "Fix software architecture with AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

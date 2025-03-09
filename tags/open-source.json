@@ -3195,19 +3195,18 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c9d51d01f280768899d76eff8f510583a2e1614.png",
     "website": "https://botcity.dev",
-    "all_locations": "San Francisco, CA, USA; São Paulo, SP, Brazil; Remote",
-    "long_description": "The rise of Robotic Process Automation offered a promise that any business user can build automations. We were skeptical about that and decided to talk to users of platforms such as UiPath, Automation Anywhere, and Blueprism, all of them low-code.\r\n\r\nTalking to users, we discovered that unique automations incorporating exclusive company processes and intelligence that have the potential to transform the business must be implemented by tech teams. It's not about mimicking employees performing isolated tasks. It's about designing a new workflow, integrated with the company's technological stack and systems. There are just 100.000 RPA skilled users compared to 22M developers globally that can become RPA coders on Day 1 with BotCity.\r\n\r\nWe believe that all automation efforts in a single platform is more efficient. We started delivering the best RPA experience for tech teams, but we envision creating the perfect place to also manage crawlers, integrations, scrappers, data operations. Every company automation in a single place.\r\n\r\nAs companies are becoming tech first and automation will be a basic KPI, we are building to be the all-in-one automation ops management.",
-    "one_liner": "Open Source Python RPA + orchestration for tech teams.",
-    "team_size": 18,
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "BotCity is a centralized platform that unifies RPA and AI under a single governance framework, enabling organizations to rapidly build, orchestrate, and scale intelligent automations with secure oversight and clear ROI.",
+    "one_liner": "Centralized governance for Intelligent Automation.",
+    "team_size": 28,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1644846609,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Robotic Process Automation",
-      "Computer Vision",
       "Open Source",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3221,9 +3220,7 @@
     ],
     "regions": [
       "United States of America",
-      "Brazil",
       "America / Canada",
-      "Latin America",
       "Remote",
       "Fully Remote"
     ],
@@ -4778,6 +4775,49 @@
     "api": "https://yc-oss.github.io/api/batches/w23/highlight-io.json"
   },
   {
+    "id": 28409,
+    "name": "LiteLLM",
+    "slug": "litellm",
+    "former_names": [
+      "Clerkie"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34f2cd4e65f065f81d234d6cfb21f911860e50cc.png",
+    "website": "https://www.litellm.ai/",
+    "all_locations": "",
+    "long_description": "LiteLLM is an open-source LLM Gateway with 18K+ stars on GitHub and trusted by companies like Rocket Money, Samsara, Lemonade, and Adobe. LiteLLM provides an open source Python SDK and Python FastAPI Server that allows calling 100+ LLM APIs (Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic) in the OpenAI format\r\n\r\nWe have raised a $1.6M seed round from Y Combinator, Gravity Fund and Pioneer Fund",
+    "one_liner": "Call every LLM API like it's OpenAI [100+ LLMs]",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1675814900,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": true,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/litellm",
+    "api": "https://yc-oss.github.io/api/batches/w23/litellm.json"
+  },
+  {
     "id": 28415,
     "name": "moonrepo",
     "slug": "moonrepo",
@@ -5403,7 +5443,7 @@
     "name": "Structured Labs",
     "slug": "structured-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94938375d10d953e4638ce20e0fd062ea671dbba.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc7f703050df45f91e260a0b78df2f248c3e76db.png",
     "website": "https://www.structuredlabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Structured Labs is creating smarter ways for humans to explore and reason with data. We are the makers of Preswald, a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, turning Python scripts into powerful shareable apps.\r\n\r\n",
@@ -5413,11 +5453,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1686619959,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
       "Open Source",
-      "Data Visualization",
-      "AI"
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6500,18 +6540,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c023f9010fb3a7f3e550c56a9283c477e6ca096.png",
     "website": "https://onlook.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Onlook is the open source Cursor for Designers – Making it easy for anyone to design directly in a live website and instantly write their changes in code.\r\n\r\nOnlook is the best way for designers, non-technical team members, and developers to collaborate, empowering teams to create incredible products and websites incredibly fast.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
+    "long_description": "Onlook is the fastest way for anyone to build, deploy, and iterate on websites and web apps. We built an open-source, visual editor for code that merges design, development, and AI.\r\n\r\nSince launching, Onlook hit #1 on Hacker News, was the #1 trending repo on GitHub—above DeepSeek—and has earned over 8,500 GitHub stars.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
     "one_liner": "Cursor for Designers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737572736,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Design",
       "Design Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6525,9 +6565,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6803,7 +6841,7 @@
     "website": "https://browser-use.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We enable AI to control the browser. \r\nBrowser-use is the biggest open-source web agent project. \r\nWe got 40k stars in the last 3 months.",
-    "one_liner": "Open Source Web Agents",
+    "one_liner": "Biggest Open Source Web Agents repository with 40k stars in 3 months",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -6848,10 +6886,10 @@
     "subindustry": "Consumer -> Virtual and Augmented Reality",
     "launched_at": 1738358223,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Consumer",
       "Open Source",
+      "AI",
       "AR"
     ],
     "tags_highlighted": [],

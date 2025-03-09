@@ -4324,7 +4324,7 @@
     "website": "https://steinmetzmotors.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Steinmetz is an electric vehicle platform company based in San Francisco. We use new power electronics techniques to significantly improve power densities (kW/kg, kW/L) bringing down vehicle system costs and even unit costs.\r\n\r\nOur first products are Inverters/motor controllers with industry-leading power densities while remaining cost competitive.",
-    "one_liner": "Steinmetz is developing the engine of electric vehicles.",
+    "one_liner": "Hardware for Electric Vehicles.",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
@@ -4405,7 +4405,7 @@
     "website": "https://www.adamcad.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Adam is an AI CAD co-pilot for hardware design. It transforms plain text descriptions into parametric 3D models in seconds so engineering teams can ship 10x faster. Our mission is to eliminate the gap between engineering and reality so more great ideas come into existence.",
-    "one_liner": "AI Powered CAD Design",
+    "one_liner": "AI Powered CAD",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4438,47 +4438,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/adam.json"
   },
   {
-    "id": 30257,
-    "name": "Pave Robotics",
-    "slug": "pave-robotics",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/928589de1c658eafaba5d1b3f60eee04d58ffa36.png",
-    "website": "https://pave-robotics.com",
-    "all_locations": "San Jose, CA, USA",
-    "long_description": "Pave Robotics builds robots that seal cracks in asphalt, helping paving companies save time and money. Our robots work 24/7 and deliver higher-quality results than humans.",
-    "one_liner": "Robots that repair roads",
-    "team_size": 3,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1738630910,
-    "tags": [
-      "Hardware",
-      "Construction",
-      "Self-Driving Vehicles"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pave-robotics",
-    "api": "https://yc-oss.github.io/api/batches/w25/pave-robotics.json"
-  },
-  {
     "id": 30260,
     "name": "Macadamia",
     "slug": "macadamia",
@@ -4486,18 +4445,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7080dfa822287673ec2a18eb24c6bb89b856ef3.png",
     "website": "https://macadamialabs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Macadamia is building an AI mechanical engineer that fixes technical issues in complex projects. It monitors your technical documents and detects issues early before they escalate. By integrating with engineering software, our AI agent fixes design issues automatically in complex workflows. Think of Glean.com specialized for Mechanical / Civil engineering firms. ",
-    "one_liner": "AI Mechanical Engineer that fixes technical issues in complex projects",
+    "long_description": "Macadamia is building an AI mechanical engineer that fixes technical issues in complex engineering projects. It monitors your technical documents and detects issues early before they escalate. By integrating with engineering software, our AI agent implements solutions automatically in complex workflows. Think of Glean.com specialized for Mechanical / Civil engineering firms. ",
+    "one_liner": "AI Mechanical Engineer to fix technical issues",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737733063,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
       "Construction",
       "Design",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4622,10 +4581,10 @@
     "subindustry": "Consumer -> Virtual and Augmented Reality",
     "launched_at": 1738358223,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Consumer",
       "Open Source",
+      "AI",
       "AR"
     ],
     "tags_highlighted": [],
