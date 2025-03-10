@@ -8033,55 +8033,6 @@
     "api": "https://yc-oss.github.io/api/batches/w21/magicbell.json"
   },
   {
-    "id": 23629,
-    "name": "AXAR AI",
-    "slug": "axar-ai",
-    "former_names": [
-      "TimeTackle",
-      "Tackle",
-      "Hightime",
-      "Hightime AI",
-      "Tackle"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e99fec24fca9e331fe77ed41ecbae4bb040c741.png",
-    "website": "https://axar.ai/",
-    "all_locations": "Mountain View, CA, USA",
-    "long_description": "",
-    "one_liner": "Runtime for building reliable LLM apps",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1616475313,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W21",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/axar-ai",
-    "api": "https://yc-oss.github.io/api/batches/w21/axar-ai.json"
-  },
-  {
     "id": 23634,
     "name": "Ollama",
     "slug": "ollama",
@@ -11869,7 +11820,7 @@
     "website": "https://diversion.dev",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "long_description": "Diversion is a cloud-native, scalable Git alternative. We allow software development teams to effectively collaborate on code bases of any size, while improving security, devops and developer experience.",
-    "one_liner": "A scalable, cloud-native Git alternative",
+    "one_liner": "A scalable, cloud-native Perforce and Git alternative",
     "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -13141,8 +13092,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
     "website": "https://www.launchflow.com/",
     "all_locations": "Remote",
-    "long_description": "Our AI Copilot helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!",
-    "one_liner": "AI DevOps Engineer: infra.new",
+    "long_description": "Our AI agent helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!\r\n\r\n- Generate reliable cloud configuration\r\n- View detailed cost estimates and system diagrams\r\n- Optimize everything with AI",
+    "one_liner": "AI Agent for Terraform: infra.new",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -16470,7 +16421,7 @@
     "name": "Structured Labs",
     "slug": "structured-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc7f703050df45f91e260a0b78df2f248c3e76db.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b11711692c995b4c3d9646dcb7a2bff687011f2.png",
     "website": "https://www.structuredlabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Structured Labs is creating smarter ways for humans to explore and reason with data. We are the makers of Preswald, a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, turning Python scripts into powerful shareable apps.\r\n\r\n",
@@ -18338,17 +18289,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f8c54103232ce6ad4a91f33685eeaecbcd4d224.png",
     "website": "https://www.miruml.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Miru provides developers with the infrastructure to easily deploy updates over-the-air to fleets of robots and IoT devices by simply pushing new changes to GitHub.\r\n\r\nWe’re on a mission to accelerate the automation of the physical world by enabling developers to move atoms with bits. Our vision is simple—robots everywhere, doing everything.",
-    "one_liner": "Deployment infrastructure for robotics and IoT",
+    "long_description": "Miru makes it easy for robotics teams to manage, version, and deploy robot configurations. Developers use our well-documented APIs and UI components to automate configuration updates for both engineers and operators.\r\n\r\nWe’re on a mission to accelerate the automation of the physical world.",
+    "one_liner": "DevOps for robotics",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1722117145,
     "tags": [
-      "AIOps",
       "Developer Tools",
       "Robotics",
-      "IoT"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20637,11 +20587,11 @@
     "subindustry": "B2B",
     "launched_at": 1736668232,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20756,7 +20706,7 @@
     "website": "https://superglue.cloud/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "superglue is an open source data transformation tool. It sits in front of horrible legacy APIs and returns only the data you need in the format you expect. Instead of writing custom code to map fields, handle different data structures, failure states and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
-    "one_liner": "Open source data  transformation with AI",
+    "one_liner": "Open source data transformation with AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
@@ -21146,8 +21096,8 @@
     "launched_at": 1740421634,
     "tags": [
       "AIOps",
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21187,10 +21137,10 @@
     "launched_at": 1736904770,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21264,16 +21214,16 @@
     "website": "https://confident-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (4.3k stars, >400k monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
-    "one_liner": "The DeepEval LLM Evaluation Platform",
+    "one_liner": "Open-Source Unit Testing for LLM Applications",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736794966,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21292,7 +21242,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/confident-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/confident-ai.json"
@@ -21306,17 +21256,17 @@
     "website": "http://nitrode.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nitrode is an AI game development engine designed to transform your gaming experience. Whether you're an aspiring game developer or a passionate gamer, Nitrode empowers you to effortlessly build, launch, and play your favorite games. Leveraging AI, Nitrode streamlines the game creation and launching process, allowing creators to focus on their vision without getting bogged down by mechanics or technical complexities.",
-    "one_liner": "AI game development engine",
+    "one_liner": "AI Game Development Engine & Platform",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1738144366,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Consumer",
-      "Gaming"
+      "Gaming",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21330,9 +21280,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -21379,7 +21327,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/infinite",
     "api": "https://yc-oss.github.io/api/batches/w25/infinite.json"
@@ -21393,7 +21341,7 @@
     "website": "https://mastra.ai",
     "all_locations": "Remote",
     "long_description": "Mastra is the easiest way to build a production AI application, built by the team that brought you Gatsby. We provide a complete set of AI primitives: workflows for complex operations, agents for autonomous decisions, RAG for knowledge integration, and evals for quality & accuracy. Mastra is open-source, modular, and built in Typescript for product developers. You can deploy Mastra on any cloud, and it gives you a straightforward syntax to solve the hardest problems building with AI: human-in-the-loop workflows, agent memory and tool selection, and output quality. ",
-    "one_liner": "The Typescript agent framework, by the developers of Gatsby",
+    "one_liner": "The Javascript framework for building AI agents, from the Gatsby devs",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21441,11 +21389,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738308751,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21547,7 +21495,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/pig",
     "api": "https://yc-oss.github.io/api/batches/w25/pig.json"
   },

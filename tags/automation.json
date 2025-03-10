@@ -2303,11 +2303,11 @@
     "subindustry": "B2B",
     "launched_at": 1736668232,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2413,7 +2413,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/rocketable",
     "api": "https://yc-oss.github.io/api/batches/w25/rocketable.json"
   },
@@ -2432,10 +2432,10 @@
     "subindustry": "Consumer",
     "launched_at": 1736185270,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Reinforcement Learning",
       "Automation",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -2475,11 +2475,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737733063,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Construction",
       "Design",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2519,10 +2519,10 @@
     "launched_at": 1736904770,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2588,50 +2588,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/general-trajectory.json"
   },
   {
-    "id": 30289,
-    "name": "Sherpa Labs",
-    "slug": "sherpa-labs",
-    "former_names": [
-      "DagHub.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
-    "website": "https://www.sherpalabs.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sherpa Labs is building an agentic data team that automates modeling, operations, and discovery via a swarm of agents. Their initial product is a data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes — similar to Glean but for enterprise data systems.",
-    "one_liner": "The AI Data Team",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1737526775,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Data Science",
-      "Data Engineering",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sherpa-labs",
-    "api": "https://yc-oss.github.io/api/batches/w25/sherpa-labs.json"
-  },
-  {
     "id": 30307,
     "name": "Archon",
     "slug": "archon",
@@ -2641,18 +2597,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a035400f6acd84a35dea2f9fb7832b054c02ed12.png",
     "website": "https://archon.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Government IT purchases account for 20% of the U.S. software market. Archon helps software companies sell to the government by cutting the required federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible. We want to enable every small tech company to build a lasting government partnership, and bring real solutions to our federal agencies.\r\n\r\nEmail us at inquiries@archon.inc",
+    "long_description": "Archon helps software companies sell to the government by cutting the required federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible. We want to enable every small tech company to build a lasting government partnership, and bring real solutions to our federal agencies.\r\n\r\nEmail us at inquiries@archon.inc",
     "one_liner": "We help software companies sell to government.",
     "team_size": 3,
     "industry": "Government",
     "subindustry": "Government",
     "launched_at": 1738095676,
     "tags": [
-      "Artificial Intelligence",
       "GovTech",
       "B2B",
       "Compliance",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2718,14 +2674,14 @@
   },
   {
     "id": 30351,
-    "name": "Dexterity",
-    "slug": "dexterity",
+    "name": "Dex",
+    "slug": "dex-2",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588b96acab2b06d3a6d0c0dc1df4ed1a4bf0d80.png",
-    "website": "https://getdexterity.com/",
+    "website": "https://joindex.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dex is the intelligent interface built for coworking with AI—right on top of your browser.\r\n\r\nMost AI agents today are designed for set-and-forget tasks—you hand them off and check back later. But what about the workflows you'd want to drive? Jumping between tabs, browsing sites, filling forms, and searching across apps—these experiences demand instant, context-aware models that work with you, not just for you.\r\n\r\nDex turns your browser into an intelligent workspace that understands your intent. With simple voice and text, it enhances familiar interfaces, automates mundane actions, and helps you do everything 10x faster.\r\n\r\nNo more slow handoffs. No more context-switching. Just AI that moves at your speed.",
-    "one_liner": "AI Browser Assistant for Power Users",
+    "long_description": "Dex is the AI copilot built for the browser.\r\n\r\nMost web agents are optimized for \"set-and-forget\" tasks—you hand them off and check back later. But what about the workflows you'd want to drive? Jumping between tabs, browsing sites, filling forms, and searching across apps—these experiences demand instant, context-aware models that work with you, not just for you.\r\n\r\nDex turns your browser into an intelligent workspace that understands your intent. With simple voice and text, it enhances familiar interfaces, automates mundane actions, and helps 10x your productivity on the browser.\r\n\r\nNo more slow handoffs. No more context-switching. Just AI that moves at your speed.",
+    "one_liner": "The AI Browser Copilot",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "B2B -> Analytics",
@@ -2755,7 +2711,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dexterity",
-    "api": "https://yc-oss.github.io/api/batches/w25/dexterity.json"
+    "url": "https://www.ycombinator.com/companies/dex-2",
+    "api": "https://yc-oss.github.io/api/batches/w25/dex-2.json"
   }
 ]

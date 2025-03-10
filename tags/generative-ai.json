@@ -11106,7 +11106,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/rocketable",
     "api": "https://yc-oss.github.io/api/batches/w25/rocketable.json"
   },
@@ -11288,7 +11288,7 @@
     "website": "https://www.tryoperand.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Operand is building an AI to replace traditional consulting. We help businesses make better decisions by deeply analyzing their data across all sources—something consultants can’t do at scale.\r\n\r\nWe’re starting in e-commerce and retail, where the businesses’ high data density and real-time feedback loops allow us to show impact fast. Our first capability is pricing and discount strategy. Operand considers everything—competitor pricing, ad strategy, inventory, and more—to ensure businesses maximize profit.\r\n\r\nAnd unlike other AI solutions, every Operand result is verified by human experts, including ex-MBB consultants, so you get actual impact, not just AI hype.\r\n\r\nWe’re already generating 6-figure P&L improvements for early customers.",
-    "one_liner": "AI Consultant for Consumer Brands",
+    "one_liner": "AI to Replace Management Consulting",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -11372,16 +11372,16 @@
     "website": "https://confident-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (4.3k stars, >400k monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
-    "one_liner": "The DeepEval LLM Evaluation Platform",
+    "one_liner": "Open-Source Unit Testing for LLM Applications",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736794966,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11400,7 +11400,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/confident-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/confident-ai.json"
@@ -11414,17 +11414,17 @@
     "website": "http://nitrode.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nitrode is an AI game development engine designed to transform your gaming experience. Whether you're an aspiring game developer or a passionate gamer, Nitrode empowers you to effortlessly build, launch, and play your favorite games. Leveraging AI, Nitrode streamlines the game creation and launching process, allowing creators to focus on their vision without getting bogged down by mechanics or technical complexities.",
-    "one_liner": "AI game development engine",
+    "one_liner": "AI Game Development Engine & Platform",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1738144366,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Consumer",
-      "Gaming"
+      "Gaming",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11438,9 +11438,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -11491,50 +11489,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/calltree-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/calltree-ai.json"
-  },
-  {
-    "id": 30289,
-    "name": "Sherpa Labs",
-    "slug": "sherpa-labs",
-    "former_names": [
-      "DagHub.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
-    "website": "https://www.sherpalabs.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sherpa Labs is building an agentic data team that automates modeling, operations, and discovery via a swarm of agents. Their initial product is a data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes — similar to Glean but for enterprise data systems.",
-    "one_liner": "The AI Data Team",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1737526775,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Data Science",
-      "Data Engineering",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sherpa-labs",
-    "api": "https://yc-oss.github.io/api/batches/w25/sherpa-labs.json"
   },
   {
     "id": 30299,
@@ -11634,11 +11588,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738308751,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11698,7 +11652,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/pig",
     "api": "https://yc-oss.github.io/api/batches/w25/pig.json"
   },
@@ -11789,14 +11743,14 @@
   },
   {
     "id": 30351,
-    "name": "Dexterity",
-    "slug": "dexterity",
+    "name": "Dex",
+    "slug": "dex-2",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588b96acab2b06d3a6d0c0dc1df4ed1a4bf0d80.png",
-    "website": "https://getdexterity.com/",
+    "website": "https://joindex.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dex is the intelligent interface built for coworking with AI—right on top of your browser.\r\n\r\nMost AI agents today are designed for set-and-forget tasks—you hand them off and check back later. But what about the workflows you'd want to drive? Jumping between tabs, browsing sites, filling forms, and searching across apps—these experiences demand instant, context-aware models that work with you, not just for you.\r\n\r\nDex turns your browser into an intelligent workspace that understands your intent. With simple voice and text, it enhances familiar interfaces, automates mundane actions, and helps you do everything 10x faster.\r\n\r\nNo more slow handoffs. No more context-switching. Just AI that moves at your speed.",
-    "one_liner": "AI Browser Assistant for Power Users",
+    "long_description": "Dex is the AI copilot built for the browser.\r\n\r\nMost web agents are optimized for \"set-and-forget\" tasks—you hand them off and check back later. But what about the workflows you'd want to drive? Jumping between tabs, browsing sites, filling forms, and searching across apps—these experiences demand instant, context-aware models that work with you, not just for you.\r\n\r\nDex turns your browser into an intelligent workspace that understands your intent. With simple voice and text, it enhances familiar interfaces, automates mundane actions, and helps 10x your productivity on the browser.\r\n\r\nNo more slow handoffs. No more context-switching. Just AI that moves at your speed.",
+    "one_liner": "The AI Browser Copilot",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "B2B -> Analytics",
@@ -11826,8 +11780,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dexterity",
-    "api": "https://yc-oss.github.io/api/batches/w25/dexterity.json"
+    "url": "https://www.ycombinator.com/companies/dex-2",
+    "api": "https://yc-oss.github.io/api/batches/w25/dex-2.json"
   },
   {
     "id": 30355,
@@ -11877,8 +11831,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8180359e4edaaddd169f88aafc0eb2338fe0116f.png",
     "website": "https://firaresearch.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fira is a financial research assistant that helps analysts at investment firms instantly extract and analyse data from unstructured reports of public and private companies. It reads thousands of integrated unstructured financial reports (often 300 pages) to provide source-cited answers and verifiable calculations\r\n\r\nWe're initially focusing on boutique investment banks and M&A advisory firms, covering annual reports of international companies and allowing to upload custom documents. As we develop our product and build clients' trust, we'll eventually integrate directly into clouds.\r\n\r\nUsing accurate extraction and analysis as single unit of work LLMs do, our vision is to scale it with agents to allow deeper and more thoughtful research, report generation and task execution — allowing financial teams to focus on ideas and decisions.",
-    "one_liner": "Agentic AI analyst for investment firms",
+    "long_description": "Fira is a financial research assistant that helps investment analysts spend less time on company research. It instantly searches and analyzes thousands of pages of unstructured company filings and earnings reports to provide source-cited answers and verifiable financial calculations.\r\n\r\nOur mission is to create a financial AI co-worker deeply integrated into both internal and external data source. It will help with research and analysis, generating investment documents, and workflow automation. This will eventually allow investment professionals to spend less time on manual tasks and focus more on building relationships and making decisions.",
+    "one_liner": "Agentic AI platform for investment firms",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",

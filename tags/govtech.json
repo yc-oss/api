@@ -1686,7 +1686,7 @@
     "website": "https://www.conntour.com/",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "long_description": "Conntour lets governments and corporates query their security cameras. Users can search past footage (“Find a man with a blue backpack”), set alerts (“Alert me if someone climbs over the wall”), and extract data (“How many vehicles entered yesterday?”).\r\n\r\nWe just completed an $80K POC with the Singapore government, which was a great success, leading us toward a $2M/year contract. That’s only one of five huge customers we’re set to close in the next few months.\r\n\r\nMatan (CEO) worked with security cameras for years, leading video surveillance in the Israel Defense Forces. Tomer (CTO) is a second-time founder and former director of engineering.\r\n\r\nThe problem with existing solutions is that they offer low customization, as they’re limited to pre-defined parameters (like shirt color or license plate number). This lack of flexibility causes missed critical events, too many false alarms, and countless hours wasted on manual footage review. Conntour solves this by offering unlimited customization through natural language queries - just ask anything.",
-    "one_liner": "AI for monitoring thousands of security cameras.",
+    "one_liner": "AI to monitor thousands of security cameras.",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -1719,6 +1719,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/conntour",
     "api": "https://yc-oss.github.io/api/batches/w25/conntour.json"
+  },
+  {
+    "id": 30230,
+    "name": "SalesPatriot",
+    "slug": "salespatriot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c55eb595eb8712daeb02c69afcc09007bcb63c4f.png",
+    "website": "https://www.salespatriot.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "SalesPatriot is a back-office operating system for defense firms. It helps you find, review, and bid on RFQ solicitations, both directly with the Pentagon and as a subcontractor.\r\n\r\nUS Government procures billions of dollars worth of parts and products every year, yet the procedure is riddled with red tape and repetitive, manual work.\r\n\r\nNelson worked at a manufacturing firm during his gap year prior to attending Berkeley. As the Chief of Staff, he witnessed first-hand the tedious process of finding great contract opportunities, the lengthy solicitation preparation process, and paper-based communication between departments.\r\n\r\nHe teamed up with Ben and Maciej, whom he met during Berkeley's M.E.T. admit day. Both of them had extensive experience in AI research and applications, which they applied to creating a powerful framework for humans and AI agents to collaborate during the lifecycle of a contract.\r\n\r\nWith SalesPatriot, your firm can run on autopilot - we find suitable contracts automatically, ingest RFQs from primes, streamline the communication between the departments, and provide analytics to improve your win rate.\r\n\r\nWether you are a manufacturer, reseller, or distributor, SalesPatriot can reduce your manual tasks, increase throughput, and boost your revenue. ",
+    "one_liner": "We help defense firms win more contracts with the Pentagon",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1741557589,
+    "tags": [
+      "SaaS",
+      "GovTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/salespatriot",
+    "api": "https://yc-oss.github.io/api/batches/w25/salespatriot.json"
   },
   {
     "id": 30281,
@@ -1772,18 +1812,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a035400f6acd84a35dea2f9fb7832b054c02ed12.png",
     "website": "https://archon.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Government IT purchases account for 20% of the U.S. software market. Archon helps software companies sell to the government by cutting the required federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible. We want to enable every small tech company to build a lasting government partnership, and bring real solutions to our federal agencies.\r\n\r\nEmail us at inquiries@archon.inc",
+    "long_description": "Archon helps software companies sell to the government by cutting the required federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible. We want to enable every small tech company to build a lasting government partnership, and bring real solutions to our federal agencies.\r\n\r\nEmail us at inquiries@archon.inc",
     "one_liner": "We help software companies sell to government.",
     "team_size": 3,
     "industry": "Government",
     "subindustry": "Government",
     "launched_at": 1738095676,
     "tags": [
-      "Artificial Intelligence",
       "GovTech",
       "B2B",
       "Compliance",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

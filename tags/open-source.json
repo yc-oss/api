@@ -2427,55 +2427,6 @@
     "api": "https://yc-oss.github.io/api/batches/w21/wasp.json"
   },
   {
-    "id": 23629,
-    "name": "AXAR AI",
-    "slug": "axar-ai",
-    "former_names": [
-      "TimeTackle",
-      "Tackle",
-      "Hightime",
-      "Hightime AI",
-      "Tackle"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e99fec24fca9e331fe77ed41ecbae4bb040c741.png",
-    "website": "https://axar.ai/",
-    "all_locations": "Mountain View, CA, USA",
-    "long_description": "",
-    "one_liner": "Runtime for building reliable LLM apps",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1616475313,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W21",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/axar-ai",
-    "api": "https://yc-oss.github.io/api/batches/w21/axar-ai.json"
-  },
-  {
     "id": 23634,
     "name": "Ollama",
     "slug": "ollama",
@@ -5443,7 +5394,7 @@
     "name": "Structured Labs",
     "slug": "structured-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc7f703050df45f91e260a0b78df2f248c3e76db.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b11711692c995b4c3d9646dcb7a2bff687011f2.png",
     "website": "https://www.structuredlabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Structured Labs is creating smarter ways for humans to explore and reason with data. We are the makers of Preswald, a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, turning Python scripts into powerful shareable apps.\r\n\r\n",
@@ -6635,9 +6586,9 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1736799545,
     "tags": [
-      "Artificial Intelligence",
       "Security",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6670,7 +6621,7 @@
     "website": "https://superglue.cloud/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "superglue is an open source data transformation tool. It sits in front of horrible legacy APIs and returns only the data you need in the format you expect. Instead of writing custom code to map fields, handle different data structures, failure states and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
-    "one_liner": "Open source data  transformation with AI",
+    "one_liner": "Open source data transformation with AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
@@ -6755,16 +6706,16 @@
     "website": "https://confident-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (4.3k stars, >400k monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
-    "one_liner": "The DeepEval LLM Evaluation Platform",
+    "one_liner": "Open-Source Unit Testing for LLM Applications",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736794966,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6783,7 +6734,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/confident-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/confident-ai.json"
@@ -6797,7 +6748,7 @@
     "website": "https://mastra.ai",
     "all_locations": "Remote",
     "long_description": "Mastra is the easiest way to build a production AI application, built by the team that brought you Gatsby. We provide a complete set of AI primitives: workflows for complex operations, agents for autonomous decisions, RAG for knowledge integration, and evals for quality & accuracy. Mastra is open-source, modular, and built in Typescript for product developers. You can deploy Mastra on any cloud, and it gives you a straightforward syntax to solve the hardest problems building with AI: human-in-the-loop workflows, agent memory and tool selection, and output quality. ",
-    "one_liner": "The Typescript agent framework, by the developers of Gatsby",
+    "one_liner": "The Javascript framework for building AI agents, from the Gatsby devs",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -6879,17 +6830,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7244027171670b7caf312b35e16b9e5cfdd49164.png",
     "website": "https://mentra.glass",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mentra is building AugmentOS, the open source operating system for smart glasses. The hardware has finally arrived, so we're building the software layer to power the next computing platform.",
+    "long_description": "Mentra is building the open source operating system for smart glasses. The smart glasses hardware is finally ready, so we're building the OS and app store to power the next computing platform.",
     "one_liner": "Building the open source smart glasses operating system.",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer -> Virtual and Augmented Reality",
     "launched_at": 1738358223,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
       "Consumer",
       "Open Source",
-      "AI",
       "AR"
     ],
     "tags_highlighted": [],
