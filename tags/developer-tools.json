@@ -8500,7 +8500,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -13093,18 +13093,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e00745e7a3c3ee63862572e35ef2d37f8197af5.png",
     "website": "http://www.cosine.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cosine understands your codebase better than you do. It supports 50+ coding languages, allowing developers to ask any question about their codebase, get explanations about any feature and get suggestions about how to write new code.",
-    "one_liner": "Your AI Co-developer",
-    "team_size": 6,
+    "long_description": "Cosine is a fully agentic SWE that allows you to instantly work on every single ticket at once, asynchronously. ",
+    "one_liner": "Fully Agentic SWE",
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1670878872,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Machine Learning",
-      "NLP"
+      "NLP",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18764,6 +18764,49 @@
     "api": "https://yc-oss.github.io/api/batches/s24/kura.json"
   },
   {
+    "id": 29665,
+    "name": "Aviary",
+    "slug": "aviary",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fc325e402d4fb47f73cacaa5afa2b1d0606622e.png",
+    "website": "https://aviary.video",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Aviary is an AI video understanding company. Our developer APIs makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nCheck us out: https://aviary.video",
+    "one_liner": "AI Video Intelligence",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1723146818,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "Video"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aviary",
+    "api": "https://yc-oss.github.io/api/batches/s24/aviary.json"
+  },
+  {
     "id": 29673,
     "name": "Storia AI",
     "slug": "storia-ai",
@@ -20629,11 +20672,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1734445501,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20666,16 +20709,16 @@
     "website": "https://superglue.cloud/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "superglue is an open source data transformation tool. It sits in front of horrible legacy APIs and returns only the data you need in the format you expect. Instead of writing custom code to map fields, handle different data structures, failure states and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
-    "one_liner": "Open source data transformation with AI",
+    "one_liner": "Self-healing data connector",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1737761136,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20714,10 +20757,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740509470,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Infrastructure",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -20843,10 +20886,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1737327618,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Design"
+      "Design",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21056,8 +21099,8 @@
     "launched_at": 1740421634,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21180,10 +21223,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736794966,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21510,8 +21553,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82e9354c307a1bd5e3bca2ede62b3b0bdfbdba15.png",
     "website": "https://www.axal.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Axal analyzes legacy applications to reveal what they do and identifies architectural issues slowing development and increasing maintenance costs. It provides observability into these problem areas in under 10 hours and then can fix it with AI.\r\n",
-    "one_liner": "The Palantir for Rearchitecting Software.",
+    "long_description": "Axal is the Palantir for teams looking to re-architect their legacy software. Our team works with companies to re-architect any Java or C# codebase in less than 30 days using our in-house AI tools.\r\n",
+    "one_liner": "The Palantir for re-architecting legacy software.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21527,8 +21570,7 @@
     "batch": "W25",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "B2B"
     ],
     "regions": [
       "United States of America",

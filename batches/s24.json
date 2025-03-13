@@ -2117,7 +2117,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Corgi is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We’re taking it all.",
     "one_liner": "Corgi is building an AI insurance company",
-    "team_size": 13,
+    "team_size": 15,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1720644316,
@@ -2717,18 +2717,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fc325e402d4fb47f73cacaa5afa2b1d0606622e.png",
     "website": "https://aviary.video",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aviary Notebook is an AI-powered video notebook that helps you learn faster from videos, and to share and collaborate with video notes.",
+    "long_description": "Aviary is an AI video understanding company. Our developer APIs makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nCheck us out: https://aviary.video",
     "one_liner": "AI Video Intelligence",
     "team_size": 3,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723146818,
     "tags": [
-      "AI-Enhanced Learning",
       "Artificial Intelligence",
+      "Developer Tools",
       "Machine Learning",
-      "Video",
-      "Search"
+      "Video"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2737,7 +2736,7 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -2758,21 +2757,20 @@
     "name": "Willow",
     "slug": "willow",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84cdb997c972cbab78ec7c78db702d1e6fb071bf.png",
-    "website": "https://seewillow.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94106b76700753194cc06e2146cf9eec9e1ceb6a.png",
+    "website": "https://willowvoice.com/",
     "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Willow is an AI-powered revenue cycle management software. Starting with the intake and coding process for skilled nursing facilities, we maximize reimbursement by converting complex clinical paperwork into accurate diagnoses and ICD codes.\r\n \r\nWe built Willow after seeing how nursing homes struggle with revenue cycle challenges that result in lost revenue and claim denials. Traditional processes are outdated and prone to errors, with no solution tailored to the complexities of long-term care. Our AI-driven platform addresses this gap, simplifying operations and reducing costly mistakes so staff can focus on delivering quality patient care.\r\n \r\nOver $490 billion is spent annually on long-term care in the US. With the growing demand and increasing complexity of insurance billing, Willow ensures long-term care providers capture the full value of their services. ",
-    "one_liner": "AI-powered Revenue Cycle Management for Long-term Care",
-    "team_size": 4,
-    "industry": "B2B",
+    "long_description": "Willow is an AI-powered dictation software that can be used anywhere on your computer. It uses AI to auto-format, correct mistakes, and cut filler words, making your writing faster and cleaner.\r\n\r\nWe’re Mac-only for now. You can try it free at WillowVoice.com",
+    "one_liner": "Write 3x faster with voice dictation, powered by AI",
+    "team_size": 2,
+    "industry": "Consumer",
     "subindustry": "B2B",
     "launched_at": 1724580560,
     "tags": [
       "Artificial Intelligence",
-      "Health Tech",
-      "B2B",
-      "Healthcare",
-      "Health Insurance"
+      "Consumer",
+      "Productivity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2781,7 +2779,7 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -6157,18 +6155,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54349afe229386963a0d97273557dd9db8219ab7.png",
     "website": "https://www.remade.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Remade uses AI to scale hyper-personalized video generation for marketplaces. Our first customer, Scentbird, a midmarket fragrance marketplace uses Remade to create engaging TikTok ad hooks. We are a team of 4 Cambridge AI hackers with publications in CVPR, the largest Computer Vision conference, and the Lancet Journal, the most respected medical journal globally. Our ARR grew 83% last week from 18k to 33k with an additional 17k pilot revenue with Rappi and eFood, which will take us to a 650k contracted ARR by EoQ. We are building out a research-arm to develop proprietary tech, fusing recommendation algorithms with video models to deliver hyper-personalised videos that increase conversion.",
-    "one_liner": "Using AI to hyper-personalize videos for marketplaces",
+    "long_description": "Join the Discord: https://discord.com/invite/7tsKMCbNFC",
+    "one_liner": "Discord bot to generate AI videos",
     "team_size": 4,
-    "industry": "B2B",
+    "industry": "Consumer",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1721201298,
     "tags": [
-      "Artificial Intelligence",
+      "Generative AI",
       "SaaS",
-      "B2B",
+      "Consumer",
       "Social Media",
-      "Marketing"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6177,8 +6175,8 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Marketing"
+      "Consumer",
+      "Content"
     ],
     "regions": [
       "United States of America",
@@ -6707,13 +6705,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5fd53eea76198c06d20822dbe619ea2c841e00c.png",
     "website": "https://exalaboratories.com",
     "all_locations": "",
-    "long_description": "Exa is building energy-efficient chips (\"XPUs\") for AI training and inference, offering superior speed and energy efficiency compared to traditional GPUs and TPUs.\r\n\r\nOur XPUs are reconfigurable, capable of optimizing the dataflow of each model, making them faster and more energy-efficient than the current SOTA chips on the market. This saves data centers *billions* in cooling and energy costs.",
+    "long_description": "Exa is building the next NVIDIA, energy-efficient chips (\"XPUs\") for AI training and inference, offering superior speed and energy efficiency compared to traditional GPUs and TPUs.\r\n\r\nOur XPUs are reconfigurable, capable of optimizing the dataflow of each model, making them faster and more energy-efficient than the current SOTA chips on the market. This saves data centers *billions* in cooling and energy costs.",
     "one_liner": "Energy efficient chips for AI",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1722631140,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Semiconductors"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -7137,7 +7139,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -8190,6 +8192,53 @@
     "api": "https://yc-oss.github.io/api/batches/s24/remo.json"
   },
   {
+    "id": 29819,
+    "name": "Weel",
+    "slug": "weel",
+    "former_names": [
+      "Vizia"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22dac63897681e1a31dc26b877ee786266ae0bff.png",
+    "website": "",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Weel is the next-generation all-in-one driver co-pilot that redefines your driving experience by turning your smartphone into a complete safety and navigation hub. Our free app offers a built-in dashcam with easy video sharing, a smart navigation system, and advanced AI features—such as augmented reality navigation and ADAS—that reduce your risk by up to 30%. Say goodbye to expensive dashcams and complex setups – with Weel, you get complete driving safety and guidance in one free smartphone app.",
+    "one_liner": "Free AI dashcam & navigation smartphone app",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1741795332,
+    "tags": [
+      "Augmented Reality",
+      "Computer Vision",
+      "Navigation",
+      "Mobility",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Transportation Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/weel",
+    "api": "https://yc-oss.github.io/api/batches/s24/weel.json"
+  },
+  {
     "id": 29820,
     "name": "Kontigo",
     "slug": "kontigo",
@@ -8910,16 +8959,21 @@
     "former_names": [
       "Elayne AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8e7accc7b8fd46709776c7eeeddc94c78493149.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a98fa9035236422ae40e39daab0354f2090e797e.png",
     "website": "https://www.elayne.com/",
-    "all_locations": "",
-    "long_description": "Elayne empowers families to build generational wealth by automating estate planning and settlements on a single, unified platform. As the AI Executor, we manage the entire estate transfer process, facilitating $3 trillion in wealth transfers annually, with a ~3% take rate.\r\n\r\nAdria experienced this challenge firsthand after her mom passed away, leaving her to settle the estate while balancing her career. The process is currently entirely manual and takes an average of 400 hours over 18 months. Adria eventually burned out and resigned, which is when she realized that bereavement costs businesses $100 billion annually in lost productivity, absenteeism, and attrition.\r\n\r\nBy addressing this problem through businesses, Elayne generates recurring revenue in an industry traditionally reliant on 1x transactions, while maintaining a lasting presence in the end user’s life. We directly alleviate the 43% increase in attrition following the death of a family member, while reducing overall costs for grieving families, democratizing estate support, and saving users hundreds of hours in financial, legal, and administrative tasks per loss.",
-    "one_liner": "AI family estate planning & settlements after death",
-    "team_size": 2,
+    "all_locations": "New York, NY, USA",
+    "long_description": "Elayne is redefining estate management with AI-powered solutions that simplify planning, execution, and net worth optimization. Whether you're securing your legacy or navigating the complexities of settling a loved one's affairs & estate, Elayne bridges the gap between financial wellness and estate management—disrupting a $260bn legacy industry, reducing administrative burdens, and ensuring families have guidance and clarity through every life milestone.\r\n\r\nWe partner with employers, financial institutions, and insurers to deliver a modern solution that transforms how people manage wealth, transitions, and legacies.\r\n\r\n🔹 AI-driven estate management\r\n🔹 Proactive financial insights\r\n🔹 Automated post-loss settlements\r\n\r\nLearn how Elayne is setting a new standard in estate and legacy management. Visit elayne.com.",
+    "one_liner": "AI estate management & automated settlements after death",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1718839098,
-    "tags": [],
+    "tags": [
+      "Fintech",
+      "B2B",
+      "LegalTech",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -8927,10 +8981,11 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Human Resources"
+      "B2B"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],

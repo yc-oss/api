@@ -722,7 +722,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": false,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/socialcam",
     "api": "https://yc-oss.github.io/api/batches/w12/socialcam.json"
@@ -20811,7 +20811,7 @@
     "website": "http://hypeandvice.com",
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "",
-    "one_liner": "Fashionable college branded apparel for women.",
+    "one_liner": "Fashionable college, NBA and MLS apparel.",
     "team_size": 30,
     "industry": "Consumer",
     "subindustry": "Consumer -> Apparel and Cosmetics",
@@ -32833,25 +32833,24 @@
     "api": "https://yc-oss.github.io/api/batches/s24/rides.json"
   },
   {
-    "id": 29665,
-    "name": "Aviary",
-    "slug": "aviary",
+    "id": 29666,
+    "name": "Willow",
+    "slug": "willow",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fc325e402d4fb47f73cacaa5afa2b1d0606622e.png",
-    "website": "https://aviary.video",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aviary Notebook is an AI-powered video notebook that helps you learn faster from videos, and to share and collaborate with video notes.",
-    "one_liner": "AI Video Intelligence",
-    "team_size": 3,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94106b76700753194cc06e2146cf9eec9e1ceb6a.png",
+    "website": "https://willowvoice.com/",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "Willow is an AI-powered dictation software that can be used anywhere on your computer. It uses AI to auto-format, correct mistakes, and cut filler words, making your writing faster and cleaner.\r\n\r\nWe’re Mac-only for now. You can try it free at WillowVoice.com",
+    "one_liner": "Write 3x faster with voice dictation, powered by AI",
+    "team_size": 2,
     "industry": "Consumer",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1723146818,
+    "subindustry": "B2B",
+    "launched_at": 1724580560,
     "tags": [
-      "AI-Enhanced Learning",
       "Artificial Intelligence",
-      "Machine Learning",
-      "Video",
-      "Search"
+      "Consumer",
+      "Productivity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32864,17 +32863,15 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aviary",
-    "api": "https://yc-oss.github.io/api/batches/s24/aviary.json"
+    "url": "https://www.ycombinator.com/companies/willow",
+    "api": "https://yc-oss.github.io/api/batches/s24/willow.json"
   },
   {
     "id": 29738,
@@ -32953,6 +32950,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/beebettor",
     "api": "https://yc-oss.github.io/api/batches/s24/beebettor.json"
+  },
+  {
+    "id": 29762,
+    "name": "Remade",
+    "slug": "remade",
+    "former_names": [
+      "Pheat AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54349afe229386963a0d97273557dd9db8219ab7.png",
+    "website": "https://www.remade.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Join the Discord: https://discord.com/invite/7tsKMCbNFC",
+    "one_liner": "Discord bot to generate AI videos",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1721201298,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "Consumer",
+      "Social Media",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/remade",
+    "api": "https://yc-oss.github.io/api/batches/s24/remade.json"
   },
   {
     "id": 29785,
@@ -33081,6 +33123,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/argil",
     "api": "https://yc-oss.github.io/api/batches/s24/argil.json"
+  },
+  {
+    "id": 29819,
+    "name": "Weel",
+    "slug": "weel",
+    "former_names": [
+      "Vizia"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22dac63897681e1a31dc26b877ee786266ae0bff.png",
+    "website": "",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Weel is the next-generation all-in-one driver co-pilot that redefines your driving experience by turning your smartphone into a complete safety and navigation hub. Our free app offers a built-in dashcam with easy video sharing, a smart navigation system, and advanced AI features—such as augmented reality navigation and ADAS—that reduce your risk by up to 30%. Say goodbye to expensive dashcams and complex setups – with Weel, you get complete driving safety and guidance in one free smartphone app.",
+    "one_liner": "Free AI dashcam & navigation smartphone app",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1741795332,
+    "tags": [
+      "Augmented Reality",
+      "Computer Vision",
+      "Navigation",
+      "Mobility",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Transportation Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/weel",
+    "api": "https://yc-oss.github.io/api/batches/s24/weel.json"
   },
   {
     "id": 29826,
@@ -33850,8 +33939,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67e4c31625bf9f9be89bda1272989243e742e3d0.png",
     "website": "https://getpickle.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pickle is an AI body double that lip-syncs to your voice in real time. It replaces your camera feed and makes you look great—even if you’re calling in from bed, the couch, or while walking around.",
-    "one_liner": "AI body double for Zoom calls",
+    "long_description": "Pickle is an AI clone that lip-syncs to your voice in real time. It replaces your camera feed and makes you look great—even if you’re calling in from bed, the couch, or while walking around.",
+    "one_liner": "AI clone for Zoom calls",
     "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer -> Social",
@@ -34025,11 +34114,11 @@
     "subindustry": "Consumer",
     "launched_at": 1737499627,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "E-commerce",
       "Retail Tech",
-      "Fashion"
+      "Fashion",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

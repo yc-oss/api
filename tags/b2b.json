@@ -16088,7 +16088,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -19802,7 +19802,7 @@
     "website": "https://www.agaveapi.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\nOur core product is Agave Sync, which helps General and Trade Contractors keep financial data in sync between their field teams on jobsites and their accounting teams in a central back office.",
-    "one_liner": "Financial data infrastructure for Construction",
+    "one_liner": "Data infrastructure for Construction finance",
     "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -32894,7 +32894,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -38058,8 +38058,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/380201f9cadb6a3d51cb0328080b2378d425269f.png",
     "website": "https://www.inspectmind.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "InspectMind AI is changing the game for people who build and design buildings by making it super easy to do their paperwork. Our tool uses AI to quickly turn videos and photos from construction sites into detailed, accurate and well formatted reports. What used to take days of typing and organizing now takes just minutes. With our app, workers can spend less time at their desks and more time doing the important stuff on site.",
-    "one_liner": "Write Building Inspections Reports using AI, up to 100x faster",
+    "long_description": "InspectMind AI is transforming how construction, engineering, and real estate professionals conduct field inspections. Our AI-driven platform automates report writing, reducing manual effort by up to 80%. InspectMind AI enables users to generate high-quality inspection reports in minutes instead of hours.\r\n\r\nWe provide industry-specific report templates for job site observations, forensic evaluations, structural assessments, mold inspections, and more. Our platform streamlines the entire inspection workflow, ensuring faster project delivery, improved accuracy, and seamless collaboration.\r\n",
+    "one_liner": "AI-powered site inspections and automated field reports.",
     "team_size": 10,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
@@ -38612,48 +38612,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/decisional-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/decisional-ai.json"
-  },
-  {
-    "id": 29666,
-    "name": "Willow",
-    "slug": "willow",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84cdb997c972cbab78ec7c78db702d1e6fb071bf.png",
-    "website": "https://seewillow.com/",
-    "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Willow is an AI-powered revenue cycle management software. Starting with the intake and coding process for skilled nursing facilities, we maximize reimbursement by converting complex clinical paperwork into accurate diagnoses and ICD codes.\r\n \r\nWe built Willow after seeing how nursing homes struggle with revenue cycle challenges that result in lost revenue and claim denials. Traditional processes are outdated and prone to errors, with no solution tailored to the complexities of long-term care. Our AI-driven platform addresses this gap, simplifying operations and reducing costly mistakes so staff can focus on delivering quality patient care.\r\n \r\nOver $490 billion is spent annually on long-term care in the US. With the growing demand and increasing complexity of insurance billing, Willow ensures long-term care providers capture the full value of their services. ",
-    "one_liner": "AI-powered Revenue Cycle Management for Long-term Care",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1724580560,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "B2B",
-      "Healthcare",
-      "Health Insurance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/willow",
-    "api": "https://yc-oss.github.io/api/batches/s24/willow.json"
   },
   {
     "id": 29672,
@@ -39840,51 +39798,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/distro.json"
   },
   {
-    "id": 29762,
-    "name": "Remade",
-    "slug": "remade",
-    "former_names": [
-      "Pheat AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54349afe229386963a0d97273557dd9db8219ab7.png",
-    "website": "https://www.remade.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Remade uses AI to scale hyper-personalized video generation for marketplaces. Our first customer, Scentbird, a midmarket fragrance marketplace uses Remade to create engaging TikTok ad hooks. We are a team of 4 Cambridge AI hackers with publications in CVPR, the largest Computer Vision conference, and the Lancet Journal, the most respected medical journal globally. Our ARR grew 83% last week from 18k to 33k with an additional 17k pilot revenue with Rappi and eFood, which will take us to a 650k contracted ARR by EoQ. We are building out a research-arm to develop proprietary tech, fusing recommendation algorithms with video models to deliver hyper-personalised videos that increase conversion.",
-    "one_liner": "Using AI to hyper-personalize videos for marketplaces",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1721201298,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Social Media",
-      "Marketing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/remade",
-    "api": "https://yc-oss.github.io/api/batches/s24/remade.json"
-  },
-  {
     "id": 29768,
     "name": "Ember Robotics",
     "slug": "ember-robotics",
@@ -40796,6 +40709,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tradeflow",
     "api": "https://yc-oss.github.io/api/batches/s24/tradeflow.json"
+  },
+  {
+    "id": 29841,
+    "name": "Elayne",
+    "slug": "elayne",
+    "former_names": [
+      "Elayne AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a98fa9035236422ae40e39daab0354f2090e797e.png",
+    "website": "https://www.elayne.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Elayne is redefining estate management with AI-powered solutions that simplify planning, execution, and net worth optimization. Whether you're securing your legacy or navigating the complexities of settling a loved one's affairs & estate, Elayne bridges the gap between financial wellness and estate management—disrupting a $260bn legacy industry, reducing administrative burdens, and ensuring families have guidance and clarity through every life milestone.\r\n\r\nWe partner with employers, financial institutions, and insurers to deliver a modern solution that transforms how people manage wealth, transitions, and legacies.\r\n\r\n🔹 AI-driven estate management\r\n🔹 Proactive financial insights\r\n🔹 Automated post-loss settlements\r\n\r\nLearn how Elayne is setting a new standard in estate and legacy management. Visit elayne.com.",
+    "one_liner": "AI estate management & automated settlements after death",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1718839098,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "LegalTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/elayne",
+    "api": "https://yc-oss.github.io/api/batches/s24/elayne.json"
   },
   {
     "id": 29844,
@@ -42579,10 +42537,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1738808449,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Recruiting",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -42790,11 +42748,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1734445501,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42833,11 +42791,11 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1738284252,
     "tags": [
-      "Artificial Intelligence",
       "GovTech",
       "Computer Vision",
       "B2B",
-      "Security"
+      "Security",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43337,11 +43295,11 @@
     "subindustry": "B2B",
     "launched_at": 1737265835,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Legal",
       "HR Tech",
-      "Immigration",
-      "AI"
+      "Immigration"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43424,11 +43382,11 @@
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1737428048,
     "tags": [
-      "Artificial Intelligence",
       "Robotic Process Automation",
       "Health Tech",
       "B2B",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43467,11 +43425,11 @@
     "subindustry": "B2B",
     "launched_at": 1740443352,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Sales",
       "Social Media",
-      "Market Research"
+      "Market Research",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43516,7 +43474,7 @@
       "Machine Learning",
       "Health Tech",
       "B2B",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43675,8 +43633,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/790dbe46b89475fab7c527c1403f9dcbd5c92c33.png",
     "website": "https://www.withriviera.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riviera builds AI voice agents that let hotels spend less time answering phone calls and more time helping customers. Our system handles front-desk inquiries, in-room dining orders, and reservations. It answers every question instantly and in any language, 24/7.\r\n\r\nWe are solving a problem that older phone systems and IVRs can't: customers hate not being able to talk to someone immediately, but most travel businesses can’t dedicate additional staff to manage phone lines. Voice AI has always seemed out of reach because the technology infrastructure in the travel industry is often fragmented, with reservation systems, loyalty programs, and in-house operations software that weren’t designed with voice AI in mind. Riviera addresses this by integrating seamlessly with existing software providers and using human-sounding voice models that are highly trained on data specific to each business type and department.\r\n\r\nHotels spend hundreds of billions annually on staffing and risk losing potential revenue when phone lines are overwhelmed or callers hang up. By enabling them to handle unlimited calls, day or night, Riviera unlocks additional revenue and eases labor challenges.\r\n",
-    "one_liner": "AI Voice Agents for Hotels",
+    "long_description": "Riviera builds AI Employees for Hotels. Our first agent is a hotel phone receptionist that lets hotels spend less time answering phone calls and more time helping customers. Our system handles front-desk inquiries, in-room dining orders, and reservations. It answers every question instantly and in any language, 24/7.\r\n\r\nWe are solving a problem that older phone systems and IVRs can't: customers hate not being able to talk to someone immediately, but most travel businesses can’t dedicate additional staff to manage phone lines. Voice AI has always seemed out of reach because the technology infrastructure in the travel industry is often fragmented, with reservation systems, loyalty programs, and in-house operations software that weren’t designed with voice AI in mind. Riviera addresses this by integrating seamlessly with existing software providers and using human-sounding voice models that are highly trained on data specific to each business type and department.\r\n\r\nHotels spend hundreds of billions annually on staffing and risk losing potential revenue when phone lines are overwhelmed or callers hang up. By enabling them to handle unlimited calls, day or night, Riviera unlocks additional revenue and eases labor challenges.\r\n",
+    "one_liner": "AI Employees for Hotels",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
@@ -43803,8 +43761,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/955d29f6fe86baf7c724d6dcd2933cef074c1171.png",
     "website": "https://outlit.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outlit is building AI for enterprise sales.\r\n\r\nWe help revenue teams increase margins and deal velocity by automating tasks like creating, pricing, and reviewing—ensuring every deal is optimized and executed faster.\r\n\r\nWe’ve created the largest Deal Desk community on Slack, with decision-makers from companies like Stripe, Uber, LinkedIn, Rev.com, and more.\r\n\r\nWe believe community-led growth is the future of GTM for enterprise SaaS sales—and Outlit is already a step ahead.",
-    "one_liner": "AI Agents for Enterprise Sales",
+    "long_description": "Outlit is building AI for enterprise deal creation.\r\n\r\nWe help revenue teams increase margins and deal velocity by automating tasks like creating, pricing, and reviewing—ensuring every deal is executed faster.\r\n\r\nWe’ve created the largest Deal Desk community on Slack, with decision-makers from companies like Stripe, Uber, LinkedIn, Rev.com, and more.\r\n\r\nWe believe community-led growth is the future of GTM for enterprise SaaS sales—and Outlit is already a step ahead.",
+    "one_liner": "AI Agents for Enterprise Deal Creation",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -43979,11 +43937,11 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1738217807,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Sales",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44067,11 +44025,11 @@
     "subindustry": "Government",
     "launched_at": 1738095676,
     "tags": [
+      "Artificial Intelligence",
       "GovTech",
       "B2B",
       "Compliance",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44102,8 +44060,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6f337d7edbcc9a9c931383385d78e6f6cf6e401.png",
     "website": "https://www.joindemeter.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Demeter is AI Fund Administration for private investment firms. It enriches portfolio data with deep research to automate performance tracking and benchmarking for M&A insights.",
-    "one_liner": "AI Fund Administration for Private Investment Firms",
+    "long_description": "Demeter is the AI platform to maximize private investment returns. It enriches portfolio data with deep research to automate performance tracking and benchmarking for value creation.",
+    "one_liner": "AI Value Creation Team for Private Equity",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -44370,10 +44328,10 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1739293549,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Customer Success",
       "Customer Support",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

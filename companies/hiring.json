@@ -15651,7 +15651,9 @@
     ],
     "regions": [
       "Singapore",
-      "Southeast Asia"
+      "Southeast Asia",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -18729,6 +18731,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/avenue",
     "api": "https://yc-oss.github.io/api/batches/w21/avenue.json"
+  },
+  {
+    "id": 22772,
+    "name": "Prequel",
+    "slug": "prequel",
+    "former_names": [
+      "Vigo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adf6a0c470e58a697fb3d5dfb5dbbe734d9aa0fd.png",
+    "website": "https://prequel.co",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Prequel makes it easy for companies to share data with their customers. It helps you export data directly to your customer's Snowflake, Redshift, BigQuery, Databricks, or other data warehouse on an ongoing basis.",
+    "one_liner": "Helping B2B co's sync data to their customers",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1614619481,
+    "tags": [
+      "SaaS",
+      "Analytics",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W21",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prequel",
+    "api": "https://yc-oss.github.io/api/batches/w21/prequel.json"
   },
   {
     "id": 22777,
@@ -23088,6 +23133,53 @@
     "api": "https://yc-oss.github.io/api/batches/s21/neodocs.json"
   },
   {
+    "id": 24100,
+    "name": "MobileBoost",
+    "slug": "mobileboost",
+    "former_names": [
+      "Kitchenful"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fdfe6ee3e3551142b62a5144a0c5d6494e9c0ac.png",
+    "website": "https://www.mobileboost.io/yc",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "*Achieve Mobile App Test Coverage 10x Faster with AI-Powered Automation*\r\n\r\nStruggling with low E2E test coverage for your mobile app? Short on QA resources? \r\n\r\nOur GPT Driver uses AI to automate your mobile app testing, freeing up your team and providing reliable, consistent results. Eliminate tedious maintenance, accelerate release cycles, and ship higher-quality apps with GPT Driver. \r\n\r\nTrusted by mobile industry leaders like Duolingo, Spotify, Netflix, Etsy and Wise.\r\n\r\nCheck out Duolingo's case study about their partnership with GPT Driver and how they reduced manual regression testing by 70%: https://blog.duolingo.com/reduced-regression-testing/\r\n",
+    "one_liner": "AI native mobile testing.",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1628867687,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "B2B",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mobileboost",
+    "api": "https://yc-oss.github.io/api/batches/s21/mobileboost.json"
+  },
+  {
     "id": 24131,
     "name": "Strive Math",
     "slug": "strive-math",
@@ -24311,53 +24403,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/truss",
     "api": "https://yc-oss.github.io/api/batches/s21/truss.json"
-  },
-  {
-    "id": 24352,
-    "name": "Nira Energy",
-    "slug": "nira-energy",
-    "former_names": [
-      "Net Zero Labs",
-      "Nira Energy",
-      "Nira"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e59de748140c2abe4901df495b402acb929dfbf0.png",
-    "website": "https://www.niraenergy.com/",
-    "all_locations": "Remote",
-    "long_description": "Nira is a map tool, built for renewable energy developers, that shows available capacity at every interconnection point on the electrical grid. Customers like AES and Cypress Creek use Nira to find the most profitable points on the grid to site new projects.",
-    "one_liner": "Software to find the best sites for renewables on the electrical grid",
-    "team_size": 20,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Climate",
-    "launched_at": 1664395372,
-    "tags": [
-      "Solar Power",
-      "Climate",
-      "Energy",
-      "Renewable Energy",
-      "ClimateTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Climate"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nira-energy",
-    "api": "https://yc-oss.github.io/api/batches/w22/nira-energy.json"
   },
   {
     "id": 24355,
@@ -26919,7 +26964,7 @@
     "website": "https://www.agaveapi.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\nOur core product is Agave Sync, which helps General and Trade Contractors keep financial data in sync between their field teams on jobsites and their accounting teams in a central back office.",
-    "one_liner": "Financial data infrastructure for Construction",
+    "one_liner": "Data infrastructure for Construction finance",
     "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -35354,18 +35399,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e00745e7a3c3ee63862572e35ef2d37f8197af5.png",
     "website": "http://www.cosine.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cosine understands your codebase better than you do. It supports 50+ coding languages, allowing developers to ask any question about their codebase, get explanations about any feature and get suggestions about how to write new code.",
-    "one_liner": "Your AI Co-developer",
-    "team_size": 6,
+    "long_description": "Cosine is a fully agentic SWE that allows you to instantly work on every single ticket at once, asynchronously. ",
+    "one_liner": "Fully Agentic SWE",
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1670878872,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Machine Learning",
-      "NLP"
+      "NLP",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37891,6 +37936,49 @@
     "api": "https://yc-oss.github.io/api/batches/s23/hockeystack.json"
   },
   {
+    "id": 28593,
+    "name": "HyLight",
+    "slug": "hylight",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17e115f6387d31c268302079d59ab1981c37d8ca.png",
+    "website": "https://www.hylight.aero/",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "HyLight builds and operates autonomous airships for long range monitoring. We focus on detecting methane leaks on pipelines and defects on power lines.\r\n\r\nOur innovation, the HyLighter, is a crossover between drone and airship technology. Like a drone, it is easily controllable and transportable. And, like an airship, it is extremely energy-efficient, enabling it to fly for up to 10 hours at slow speed (22mph) for optimal data collection which represents a range of 220miles. \r\n\r\nToday, energy infrastructure operators struggle with conducting inspections that are simultaneously: massive and precise. HyLight offers a solution to precisely detect issues on the infrastructure at an industrial scale, and all of this without emitting GHGs.\r\n\r\nWe are 3 co-founders experienced in hardware and energy companies with Masters in Mechanical Engineering, Computer Science and Business from the best Engineering and Business School in France.\r\n\r\nWe have developed 5 different flying aircrafts and signed 5 pilots programs with major energy infrastructure operators. We also have LOIs worth over $3.5M.",
+    "one_liner": "Small unmanned hydrogen airships for long range monitoring",
+    "team_size": 9,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Climate",
+    "launched_at": 1687803555,
+    "tags": [
+      "Hydrogen Energy",
+      "B2B",
+      "Climate",
+      "Energy",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Climate"
+    ],
+    "regions": [
+      "France",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hylight",
+    "api": "https://yc-oss.github.io/api/batches/s23/hylight.json"
+  },
+  {
     "id": 28650,
     "name": "Artie",
     "slug": "artie",
@@ -38424,48 +38512,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bland-ai",
     "api": "https://yc-oss.github.io/api/batches/s23/bland-ai.json"
-  },
-  {
-    "id": 28805,
-    "name": "Diligent",
-    "slug": "diligent",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/306eaffa9ae52c97e7f7fd8c9161b13409115596.png",
-    "website": "https://godiligent.ai",
-    "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "We help fintech risk and AML compliance teams automate and strengthen routine customer due diligence tasks with LLMs. Our AI assistants slash cost-to-comply, improve risk detection and free up capacity for investigations that require human expertise and decision making. \r\n\r\nFintechs and banks use us to automate workflows like running thorough due diligence on a legal entity, reviewing customer documents like registry extracts, proofs of address etc and remediating false positive alerts from their AML systems.",
-    "one_liner": "GenAI assistants for fintech risk and compliance operations",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1706799734,
-    "tags": [
-      "Fintech",
-      "Compliance",
-      "Fraud Prevention",
-      "Regtech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "Germany",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/diligent",
-    "api": "https://yc-oss.github.io/api/batches/s23/diligent.json"
   },
   {
     "id": 28807,
@@ -44551,8 +44597,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/380201f9cadb6a3d51cb0328080b2378d425269f.png",
     "website": "https://www.inspectmind.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "InspectMind AI is changing the game for people who build and design buildings by making it super easy to do their paperwork. Our tool uses AI to quickly turn videos and photos from construction sites into detailed, accurate and well formatted reports. What used to take days of typing and organizing now takes just minutes. With our app, workers can spend less time at their desks and more time doing the important stuff on site.",
-    "one_liner": "Write Building Inspections Reports using AI, up to 100x faster",
+    "long_description": "InspectMind AI is transforming how construction, engineering, and real estate professionals conduct field inspections. Our AI-driven platform automates report writing, reducing manual effort by up to 80%. InspectMind AI enables users to generate high-quality inspection reports in minutes instead of hours.\r\n\r\nWe provide industry-specific report templates for job site observations, forensic evaluations, structural assessments, mold inspections, and more. Our platform streamlines the entire inspection workflow, ensuring faster project delivery, improved accuracy, and seamless collaboration.\r\n",
+    "one_liner": "AI-powered site inspections and automated field reports.",
     "team_size": 10,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
@@ -45246,7 +45292,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Corgi is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We’re taking it all.",
     "one_liner": "Corgi is building an AI insurance company",
-    "team_size": 13,
+    "team_size": 15,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1720644316,
@@ -46475,13 +46521,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5fd53eea76198c06d20822dbe619ea2c841e00c.png",
     "website": "https://exalaboratories.com",
     "all_locations": "",
-    "long_description": "Exa is building energy-efficient chips (\"XPUs\") for AI training and inference, offering superior speed and energy efficiency compared to traditional GPUs and TPUs.\r\n\r\nOur XPUs are reconfigurable, capable of optimizing the dataflow of each model, making them faster and more energy-efficient than the current SOTA chips on the market. This saves data centers *billions* in cooling and energy costs.",
+    "long_description": "Exa is building the next NVIDIA, energy-efficient chips (\"XPUs\") for AI training and inference, offering superior speed and energy efficiency compared to traditional GPUs and TPUs.\r\n\r\nOur XPUs are reconfigurable, capable of optimizing the dataflow of each model, making them faster and more energy-efficient than the current SOTA chips on the market. This saves data centers *billions* in cooling and energy costs.",
     "one_liner": "Energy efficient chips for AI",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1722631140,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Semiconductors"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -46627,41 +46677,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/cerulion.json"
   },
   {
-    "id": 29787,
-    "name": "Lilac Labs",
-    "slug": "lilac-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf6d969f27356db2fc06ab6ccaa28ee3d3ec43ef.png",
-    "website": "https://www.drive-thru.ai/",
-    "all_locations": "",
-    "long_description": "At Lilac, we automate the person taking order at the drive thru with a voice AI. We're building this for Quick Service Restaurants (QSRs) dealing with an historical labor shortage and rising wages.\r\n\r\nPrevious attempts at drive-thru voice ordering are costly to implement and have failed to deliver the accuracy and latency needed. It's now possible to build a voice interface that passes the threshold for a great customer experience.\r\n\r\nIn the United States, there are 200,000 Drive-Thrus handling 6 Billion visits a year. At 3 minutes per order, that's 34,000 human years spent on taking orders annually. Per location, on average we can deliver around $100,000 of value in terms of labor savings, upsell revenue lift, and training costs.",
-    "one_liner": "We automate the person taking orders at drive-thrus with a voice AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1721698216,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lilac-labs",
-    "api": "https://yc-oss.github.io/api/batches/s24/lilac-labs.json"
-  },
-  {
     "id": 29818,
     "name": "Remo",
     "slug": "remo",
@@ -46698,6 +46713,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/remo",
     "api": "https://yc-oss.github.io/api/batches/s24/remo.json"
+  },
+  {
+    "id": 29819,
+    "name": "Weel",
+    "slug": "weel",
+    "former_names": [
+      "Vizia"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22dac63897681e1a31dc26b877ee786266ae0bff.png",
+    "website": "",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Weel is the next-generation all-in-one driver co-pilot that redefines your driving experience by turning your smartphone into a complete safety and navigation hub. Our free app offers a built-in dashcam with easy video sharing, a smart navigation system, and advanced AI features—such as augmented reality navigation and ADAS—that reduce your risk by up to 30%. Say goodbye to expensive dashcams and complex setups – with Weel, you get complete driving safety and guidance in one free smartphone app.",
+    "one_liner": "Free AI dashcam & navigation smartphone app",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1741795332,
+    "tags": [
+      "Augmented Reality",
+      "Computer Vision",
+      "Navigation",
+      "Mobility",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Transportation Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/weel",
+    "api": "https://yc-oss.github.io/api/batches/s24/weel.json"
   },
   {
     "id": 29820,
@@ -46913,16 +46975,21 @@
     "former_names": [
       "Elayne AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8e7accc7b8fd46709776c7eeeddc94c78493149.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a98fa9035236422ae40e39daab0354f2090e797e.png",
     "website": "https://www.elayne.com/",
-    "all_locations": "",
-    "long_description": "Elayne empowers families to build generational wealth by automating estate planning and settlements on a single, unified platform. As the AI Executor, we manage the entire estate transfer process, facilitating $3 trillion in wealth transfers annually, with a ~3% take rate.\r\n\r\nAdria experienced this challenge firsthand after her mom passed away, leaving her to settle the estate while balancing her career. The process is currently entirely manual and takes an average of 400 hours over 18 months. Adria eventually burned out and resigned, which is when she realized that bereavement costs businesses $100 billion annually in lost productivity, absenteeism, and attrition.\r\n\r\nBy addressing this problem through businesses, Elayne generates recurring revenue in an industry traditionally reliant on 1x transactions, while maintaining a lasting presence in the end user’s life. We directly alleviate the 43% increase in attrition following the death of a family member, while reducing overall costs for grieving families, democratizing estate support, and saving users hundreds of hours in financial, legal, and administrative tasks per loss.",
-    "one_liner": "AI family estate planning & settlements after death",
-    "team_size": 2,
+    "all_locations": "New York, NY, USA",
+    "long_description": "Elayne is redefining estate management with AI-powered solutions that simplify planning, execution, and net worth optimization. Whether you're securing your legacy or navigating the complexities of settling a loved one's affairs & estate, Elayne bridges the gap between financial wellness and estate management—disrupting a $260bn legacy industry, reducing administrative burdens, and ensuring families have guidance and clarity through every life milestone.\r\n\r\nWe partner with employers, financial institutions, and insurers to deliver a modern solution that transforms how people manage wealth, transitions, and legacies.\r\n\r\n🔹 AI-driven estate management\r\n🔹 Proactive financial insights\r\n🔹 Automated post-loss settlements\r\n\r\nLearn how Elayne is setting a new standard in estate and legacy management. Visit elayne.com.",
+    "one_liner": "AI estate management & automated settlements after death",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1718839098,
-    "tags": [],
+    "tags": [
+      "Fintech",
+      "B2B",
+      "LegalTech",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -46930,10 +46997,11 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Human Resources"
+      "B2B"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -47937,10 +48005,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736794966,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,

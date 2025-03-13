@@ -76,7 +76,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": false,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/socialcam",
     "api": "https://yc-oss.github.io/api/batches/w12/socialcam.json"
@@ -3113,18 +3113,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fc325e402d4fb47f73cacaa5afa2b1d0606622e.png",
     "website": "https://aviary.video",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aviary Notebook is an AI-powered video notebook that helps you learn faster from videos, and to share and collaborate with video notes.",
+    "long_description": "Aviary is an AI video understanding company. Our developer APIs makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nCheck us out: https://aviary.video",
     "one_liner": "AI Video Intelligence",
     "team_size": 3,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723146818,
     "tags": [
-      "AI-Enhanced Learning",
       "Artificial Intelligence",
+      "Developer Tools",
       "Machine Learning",
-      "Video",
-      "Search"
+      "Video"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3133,7 +3132,7 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -3289,8 +3288,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67e4c31625bf9f9be89bda1272989243e742e3d0.png",
     "website": "https://getpickle.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pickle is an AI body double that lip-syncs to your voice in real time. It replaces your camera feed and makes you look great—even if you’re calling in from bed, the couch, or while walking around.",
-    "one_liner": "AI body double for Zoom calls",
+    "long_description": "Pickle is an AI clone that lip-syncs to your voice in real time. It replaces your camera feed and makes you look great—even if you’re calling in from bed, the couch, or while walking around.",
+    "one_liner": "AI clone for Zoom calls",
     "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer -> Social",

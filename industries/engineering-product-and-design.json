@@ -10300,7 +10300,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -20844,15 +20844,15 @@
   },
   {
     "id": 30046,
-    "name": "Vocera",
-    "slug": "vocera",
+    "name": "Cekura (formerly Vocera)",
+    "slug": "cekura-2",
     "former_names": [
       "Lex"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d27c1f82fbc4e1e5864fe20574139df89773eab.png",
-    "website": "https://www.vocera.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e614d24f652dc1e194f172153c3b7036c9c30b2f.png",
+    "website": "https://www.cekura.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Are you building AI voice agents like receptionists, customer support, or sales reps? Do you find yourself manually testing your bot by calling it? We faced similar challenges, especially being in a regulated industry. That's why we developed Vocera - a solution that automates the testing process for your voice agents. With Vocera, you can prove your reliability before going live, test every update seamlessly, and scale your operations efficiently.\r\n\r\nReplicating a real world conversation is hard. Our AI simulates these scenarios using workflows, personas and past conversations.\r\n\r\nWe are already talking to AI for ordering food, getting appointments and even interviews. The market is aptly getting flooded with AI voice agents built by thousands of companies. We make them dependable.",
+    "long_description": "Are you building AI voice agents like receptionists, customer support, or sales reps? Do you find yourself manually testing your bot by calling it? We faced similar challenges, especially being in a regulated industry. That's why we developed Cekura - a solution that automates the testing process for your voice agents. With Cekura, you can prove your reliability before going live, test every update seamlessly, and scale your operations efficiently.\r\n\r\nReplicating a real world conversation is hard. Our AI simulates these scenarios using workflows, personas and past conversations.\r\n\r\nWe are already talking to AI for ordering food, getting appointments and even interviews. The market is aptly getting flooded with AI voice agents built by thousands of companies. We make them dependable.",
     "one_liner": "Testing & Observability for AI voice agents",
     "team_size": 5,
     "industry": "B2B",
@@ -20880,8 +20880,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vocera",
-    "api": "https://yc-oss.github.io/api/batches/f24/vocera.json"
+    "url": "https://www.ycombinator.com/companies/cekura-2",
+    "api": "https://yc-oss.github.io/api/batches/f24/cekura-2.json"
   },
   {
     "id": 30050,
@@ -21301,11 +21301,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1734445501,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21338,16 +21338,16 @@
     "website": "https://superglue.cloud/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "superglue is an open source data transformation tool. It sits in front of horrible legacy APIs and returns only the data you need in the format you expect. Instead of writing custom code to map fields, handle different data structures, failure states and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
-    "one_liner": "Open source data transformation with AI",
+    "one_liner": "Self-healing data connector",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1737761136,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21386,10 +21386,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740509470,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Infrastructure",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -21472,10 +21472,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1737327618,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Design"
+      "Design",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21677,7 +21677,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72ba1775f18d84d7a5c6d25f0e693dc75df8d544.png",
     "website": "https://hud.so",
     "all_locations": "",
-    "long_description": "Sam Altman and Dario Amodei have both said that we’ll have virtual coworkers by the end of the year.\r\n\r\nThe issue is, current agents aren’t reliable enough to perform at a human-level at these tasks. We solve this by making it easy to build evals and run them at scale for top agent developers like OpenAI, Browser Use and Silverstream.\r\n\r\nOur platform works by making it easy for domain-specific experts to create evals for their area of expertise. We're working with experts from every occupation from PMs to Accountants to Financial Analysts to make evals that the labs can then be used to evaluate and eventually train computer agents using RL.\r\n\r\nDuring the batch, we grew from 0 to 240k ARR.\r\n\r\nToday our customers are foundation labs and startups building computer use and browser agents, but we want to expand to any company building or adopting a vertical AI agent that replaces an occupation. We want to be the Palantir of domain-specific agents. Soon, we will go into any organization, create evals for a specific job function, and then deploy an AI agent on our tooling that can automate a job function. Ultimately, we will become the platform that creates drop-in workers that can automate any white collar task. We want to free people from bullshit laptop jobs. ",
+    "long_description": "Sam Altman and Dario Amodei have both said that we’ll have virtual coworkers by the end of the year.\r\n\r\nThe issue is, current agents aren’t reliable enough to perform at a human-level at these tasks. We solve this by making it easy to build evals and run them at scale for top agent developers like OAI, Browser Use and Silverstream.\r\n\r\nOur platform works by making it easy for domain-specific experts to create evals for their area of expertise. We're working with experts from every occupation from PMs to Accountants to Financial Analysts to make evals that the labs can then be used to evaluate and eventually train computer agents using RL.\r\n\r\nDuring the batch, we grew from 0 to $240k ARR.\r\n\r\nToday our customers are foundation labs and startups building computer use and browser agents, but we want to expand to any company building or adopting a vertical AI agent that replaces an occupation. \r\n\r\nWe want to be the Palantir of domain-specific agents. Soon, we will go into any organization, create evals for a specific job function, and then deploy an AI agent on our tooling that can automate a job function. Ultimately, we will become the platform that creates drop-in workers that can automate any white collar task. We want to free people from bullshit laptop jobs. ",
     "one_liner": "Hud is building evals for the drop-in worker",
     "team_size": 3,
     "industry": "B2B",
@@ -21761,11 +21761,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737733063,
     "tags": [
+      "Artificial Intelligence",
       "Hardware",
       "Construction",
       "Design",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21805,8 +21805,8 @@
     "launched_at": 1740421634,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21931,10 +21931,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736794966,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22013,8 +22013,8 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1739485399,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -22187,10 +22187,10 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1739293549,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Customer Success",
       "Customer Support",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -22257,46 +22257,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trainloop",
     "api": "https://yc-oss.github.io/api/batches/w25/trainloop.json"
-  },
-  {
-    "id": 30353,
-    "name": "Axal",
-    "slug": "axal",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82e9354c307a1bd5e3bca2ede62b3b0bdfbdba15.png",
-    "website": "https://www.axal.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Axal analyzes legacy applications to reveal what they do and identifies architectural issues slowing development and increasing maintenance costs. It provides observability into these problem areas in under 10 hours and then can fix it with AI.\r\n",
-    "one_liner": "The Palantir for Rearchitecting Software.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1736891737,
-    "tags": [
-      "Developer Tools",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/axal",
-    "api": "https://yc-oss.github.io/api/batches/w25/axal.json"
   },
   {
     "id": 30354,

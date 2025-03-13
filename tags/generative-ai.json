@@ -1045,7 +1045,9 @@
     ],
     "regions": [
       "Singapore",
-      "Southeast Asia"
+      "Southeast Asia",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1679,7 +1681,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -4608,18 +4610,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e00745e7a3c3ee63862572e35ef2d37f8197af5.png",
     "website": "http://www.cosine.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cosine understands your codebase better than you do. It supports 50+ coding languages, allowing developers to ask any question about their codebase, get explanations about any feature and get suggestions about how to write new code.",
-    "one_liner": "Your AI Co-developer",
-    "team_size": 6,
+    "long_description": "Cosine is a fully agentic SWE that allows you to instantly work on every single ticket at once, asynchronously. ",
+    "one_liner": "Fully Agentic SWE",
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1670878872,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Machine Learning",
-      "NLP"
+      "NLP",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9619,6 +9621,51 @@
     "api": "https://yc-oss.github.io/api/batches/s24/redouble-ai.json"
   },
   {
+    "id": 29762,
+    "name": "Remade",
+    "slug": "remade",
+    "former_names": [
+      "Pheat AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54349afe229386963a0d97273557dd9db8219ab7.png",
+    "website": "https://www.remade.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Join the Discord: https://discord.com/invite/7tsKMCbNFC",
+    "one_liner": "Discord bot to generate AI videos",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1721201298,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "Consumer",
+      "Social Media",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/remade",
+    "api": "https://yc-oss.github.io/api/batches/s24/remade.json"
+  },
+  {
     "id": 29765,
     "name": "Emergent",
     "slug": "emergent",
@@ -10993,11 +11040,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1734445501,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11036,10 +11083,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740509470,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Infrastructure",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -11125,10 +11172,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1737327618,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Design"
+      "Design",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11378,10 +11425,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1736794966,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
