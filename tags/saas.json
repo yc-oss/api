@@ -7922,15 +7922,15 @@
     "website": "https://www.searchlight.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Talent Intelligence improving quality of hire",
+    "one_liner": "Talent AI improving quality of hire",
     "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1524621947,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8152,7 +8152,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S18",
     "status": "Active",
@@ -25671,7 +25671,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -39066,7 +39066,7 @@
     "all_locations": "Boston, MA, USA; Remote",
     "long_description": "The world’s first and only intent platform that tells you exactly which contacts are in-market before they land on your site.\r\n",
     "one_liner": "Find your prospects who are most likely to buy.",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1675694302,
@@ -39584,7 +39584,7 @@
     "former_names": [
       "Artie Technologies"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8a9843a01f34ae528c06b3e6504fbd98199d0a1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973d2f0c6c4d07505113e974a08d18864eb95d54.png",
     "website": "https://www.artie.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Artie is software that streams data from databases to data warehouses in real-time. Today, most companies run their ETL process every few hours or overnight, so their data warehouse is always out of date; with Artie, the warehouse always has live production data.",
@@ -39617,7 +39617,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/artie",
     "api": "https://yc-oss.github.io/api/batches/s23/artie.json"
@@ -42572,18 +42572,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe5544e1b1b961aace9e8e6d50ba3a3f37c9ca2d.png",
     "website": "https://delve.co/?utm_source=yc&utm_medium=bio&utm_campaign=delve",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Delve helps fast-growing teams get compliant with an AI-automated platform.\r\n\r\nServing 100+ companies on frameworks like SOC 2, HIPAA, ISO 27001, GDPR, PCI DSS, and more.",
+    "long_description": "Delve helps fast-growing teams get compliant with an AI-automated platform.\r\n\r\nServing hundreds of companies on frameworks like SOC 2, HIPAA, ISO 27001, GDPR, PCI DSS, and more.",
     "one_liner": "AI that makes compliance effortless",
-    "team_size": 8,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1704449902,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Compliance",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42597,7 +42597,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -45382,8 +45384,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b04f0fee59f28a3fa66d41bb63e4aef150ce2812.png",
     "website": "https://outerport.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outerport helps AI read documents the way a researcher would - building up understanding section by section and checking facts along the way, instead of just matching similar phrases. For example, when a team needs to confirm a specific requirement in a 200-page compliance policy document, Outerport pinpoints the right section, provides the reasoning, and presents a fact-based summary.\r\n\r\nOuterport is built for performance- run thousands of queries against your critical documents, with reasoning behind every retrieval. No more faulty vector RAG.",
-    "one_liner": "Chain-of-memory reasoning for document understanding",
+    "long_description": "Outerport helps AI read documents the way a researcher would - building up understanding section by section and checking facts along the way, instead of just matching similar phrases. For example, when a team needs to confirm a specific requirement in a 200-page compliance policy document, Outerport pinpoints the right section, provides the reasoning, and presents a fact-based summary. It can leverage this deep understanding to perform more complex tasks over documents, like comparative gap analysis and change tracking.\r\n\r\nOuterport is built for performance- run thousands of queries against your critical documents, with reasoning behind every retrieval. No more faulty vector RAG.",
+    "one_liner": "Compare documents and clarify business processes with AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
