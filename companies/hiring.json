@@ -11805,18 +11805,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0669f9afff20bf775d9b001b89480415cdb33109.png",
     "website": "http://rosebud.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rosebud is building the AI Roblox. We will make it 1000X easier for a community of game devs to create and enjoy the games of their dreams.\r\n‍\r\nWe’re a team of PhD researchers, creatives and engineers building the generative AI platform to enable game creation at the speed of thought. We believe all media creation will be done via generative methods in a few years. We're building that future.",
-    "one_liner": "Make games at the speed of thought. ",
+    "long_description": "Rosebud lets anyone vibe code games. No coding skills required. \r\n",
+    "one_liner": "Vibe code games. ",
     "team_size": 10,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1584125566,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Machine Learning",
-      "Gaming"
+      "Gaming",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13435,6 +13435,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/haven",
     "api": "https://yc-oss.github.io/api/batches/w20/haven.json"
+  },
+  {
+    "id": 13168,
+    "name": "Infield",
+    "slug": "infield",
+    "former_names": [
+      "Syndetic"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53d5d9e38ab8a46ebb1ab80cd604e30e429fb341.png",
+    "website": "https://www.infield.ai",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Infield helps software teams keep their open source dependencies up to date. We’re automating away the toilsome work of reading changelogs, assessing risk, and upgrading packages so that software teams can focus on shipping features.  We’re a small team of repeat founders passionate about making open source easier to use.",
+    "one_liner": "Safer, faster dependency upgrades",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1582587421,
+    "tags": [
+      "Developer Tools",
+      "DevSecOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W20",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/infield",
+    "api": "https://yc-oss.github.io/api/batches/w20/infield.json"
   },
   {
     "id": 13169,
@@ -41491,7 +41535,7 @@
     "website": "https://ego.live",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re building the first generative ai-powered simulation engine, where non-technical creators can generate realistic characters powered by LLMs, 3D worlds, and interaction code/scripts with just prompts. The future of user-generated simulations, games, and interactive media will be powered by our engine.\r\n\r\nWe used our engine to build TownWorld - a 3D interactive Twitch live stream of the Stanford generative agents paper (https://www.twitch.tv/townworld). To the best of our knowledge, it's the first ever AI 3D simulation of a small town in real time\r\n\r\nYC Launch - https://www.ycombinator.com/launches/KeD-ego-an-ai-native-3d-simulation-engine-getting-us-closer-to-the-matrix-one-pixel-at-a-time\r\n\r\nDemo video: https://docsend.com/view/mzf6i7kiwkkgg669\r\n\r\nAI 3D TownWorld video: https://docsend.com/view/ig6t2shuz26z7wha",
-    "one_liner": "imbuing sentience in games",
+    "one_liner": "in-game sentience",
     "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -41645,42 +41689,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maihem",
     "api": "https://yc-oss.github.io/api/batches/w24/maihem.json"
-  },
-  {
-    "id": 29244,
-    "name": "Sonia",
-    "slug": "sonia",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2ebe3a96b869e171b1cbaa036e9ce93ec57799d.png",
-    "website": "https://soniahealth.com",
-    "all_locations": "",
-    "long_description": "Sonia is a conversational AI that conducts entire therapy-like sessions both by voice and text via a phone app. 70 million Americans who struggle with their mental health can now access therapy for $200 per year instead of $200 per session. Founded by a team of MIT researchers who published 9 papers on AI at conferences like NeurIPS.",
-    "one_liner": "Conversational AI for Mental Health",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1706473568,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sonia",
-    "api": "https://yc-oss.github.io/api/batches/w24/sonia.json"
   },
   {
     "id": 29245,
@@ -42447,43 +42455,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/omniai",
     "api": "https://yc-oss.github.io/api/batches/w24/omniai.json"
-  },
-  {
-    "id": 29328,
-    "name": "Guide Labs",
-    "slug": "guide-labs",
-    "former_names": [
-      "Guide Labs Inc"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
-    "website": "https://www.guidelabs.ai/",
-    "all_locations": "",
-    "long_description": "At Guide labs, we build Interpretable foundation models and AI systems that can reliably explain their reasoning, and are easy to audit, steer and understand. We provide access to these models via our API. ",
-    "one_liner": "Interpretable AI systems",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1709806941,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/guide-labs",
-    "api": "https://yc-oss.github.io/api/batches/w24/guide-labs.json"
   },
   {
     "id": 29333,
@@ -45531,16 +45502,16 @@
     "all_locations": "Kirkland, WA, USA",
     "long_description": "Silurian is building foundation models for simulating Earth, starting with weather. From assessing the risk of wildfires to predicting the energy grid load, we provide an infrastructure layer for our planet. Our frontier models push the boundaries of what can be simulated on Earth and improve decision making across vital sectors including energy, insurance, agriculture, and logistics. \r\n",
     "one_liner": "Foundation models to simulate Earth, starting with weather.",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1723594839,
     "tags": [
+      "Artificial Intelligence",
       "Climate",
       "Insurance",
       "Agriculture",
-      "Energy",
-      "AI"
+      "Energy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47466,6 +47437,42 @@
     "api": "https://yc-oss.github.io/api/batches/s24/syntra.json"
   },
   {
+    "id": 29999,
+    "name": "Onlook",
+    "slug": "onlook",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c023f9010fb3a7f3e550c56a9283c477e6ca096.png",
+    "website": "https://onlook.com/",
+    "all_locations": "",
+    "long_description": "Onlook is the fastest way for anyone to build, deploy, and iterate on websites and web apps. We built an open-source, visual editor for code that merges design, development, and AI.\r\n\r\nSince launching, Onlook hit #1 on Hacker News, was the #1 trending repo on GitHub—above DeepSeek—and has earned over 8,500 GitHub stars.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
+    "one_liner": "Cursor for Designers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1737572736,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/onlook",
+    "api": "https://yc-oss.github.io/api/batches/w25/onlook.json"
+  },
+  {
     "id": 30021,
     "name": "telli",
     "slug": "telli",
@@ -47766,6 +47773,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/scrapybara",
     "api": "https://yc-oss.github.io/api/batches/f24/scrapybara.json"
+  },
+  {
+    "id": 30099,
+    "name": "Gander",
+    "slug": "gander",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/103e5e968261b6e0f5f380738a8663b4974fa3c8.png",
+    "website": "https://usegander.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Gander builds products for aviation businesses looking to streamline their operations",
+    "one_liner": "Automation System for Global Aviation",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1731944906,
+    "tags": [
+      "SaaS",
+      "Customer Support",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gander",
+    "api": "https://yc-oss.github.io/api/batches/f24/gander.json"
   },
   {
     "id": 30100,
@@ -48113,6 +48161,47 @@
     "api": "https://yc-oss.github.io/api/batches/w25/scout-4.json"
   },
   {
+    "id": 30227,
+    "name": "Caseflood.ai",
+    "slug": "caseflood-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d31f3f49a5edce794bad2e27245bc567169b4853.png",
+    "website": "https://caseflood.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Caseflood.ai helps law firms cut costs by a third and increase average case value by 20% by replacing their entire admin/operations staff with AI agents. It takes care of all admin tasks - from client intake to case analysis to engaging clients - allowing for firms to be run more profitably and wildly more efficient. Caseflood.ai is on a mission to fundamentally change the unit economics of the legal industry.",
+    "one_liner": "the AI inbound sales team for law firms",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1736487685,
+    "tags": [
+      "Legal",
+      "Conversational AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/caseflood-ai",
+    "api": "https://yc-oss.github.io/api/batches/w25/caseflood-ai.json"
+  },
+  {
     "id": 30257,
     "name": "Pave Robotics",
     "slug": "pave-robotics",
@@ -48436,48 +48525,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spott",
     "api": "https://yc-oss.github.io/api/batches/w25/spott.json"
-  },
-  {
-    "id": 30365,
-    "name": "Mentra",
-    "slug": "mentra",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7244027171670b7caf312b35e16b9e5cfdd49164.png",
-    "website": "https://mentra.glass",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mentra is building the open source operating system for smart glasses. The smart glasses hardware is finally ready, so we're building the OS and app store to power the next computing platform.",
-    "one_liner": "Building the open source smart glasses operating system.",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Virtual and Augmented Reality",
-    "launched_at": 1738358223,
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Consumer",
-      "Open Source",
-      "AR"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Virtual and Augmented Reality"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mentra",
-    "api": "https://yc-oss.github.io/api/batches/w25/mentra.json"
   }
 ]
