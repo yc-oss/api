@@ -1391,19 +1391,24 @@
   },
   {
     "id": 29257,
-    "name": "Adagy Robotics",
-    "slug": "adagy-robotics",
+    "name": "Tuesday Lab",
+    "slug": "tuesday-lab",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7a680d1493fa7b391bcafe94d3b16c9bb0af090.png",
-    "website": "https://www.adagyrobotics.com/",
-    "all_locations": "",
-    "long_description": "Adagy is a remote intervention service that rescues robots when they fail. For example, when a tractor robot gets lost in a field, instead of calling the farmer for help, it can now call Adagy, whose operators will take control of the robot and remotely drive it back to safety. \r\n\r\nWe’re starting with trained human operators assisted by generative AI, and as we collect more data, our model will learn to handle more of the edge cases. \r\n\r\nWe want to see a world with more robots, so we’re addressing the biggest problem in robot deployment: reliability. ",
-    "one_liner": "Rescuing robots",
-    "team_size": 2,
-    "industry": "Industrials",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/133f27769085a4d8d20b1f989ff2737c643c9935.png",
+    "website": "https://www.tuesdaylab.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Tuesday makes delightful robots for your everyday life",
+    "one_liner": "Delightful robots",
+    "team_size": 1,
+    "industry": "Consumer",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1706678921,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Consumer",
+      "Gaming"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -1411,20 +1416,20 @@
     "batch": "W24",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
+      "Consumer",
+      "Consumer Electronics"
     ],
     "regions": [
-      "Remote",
-      "Partly Remote"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/adagy-robotics",
-    "api": "https://yc-oss.github.io/api/batches/w24/adagy-robotics.json"
+    "url": "https://www.ycombinator.com/companies/tuesday-lab",
+    "api": "https://yc-oss.github.io/api/batches/w24/tuesday-lab.json"
   },
   {
     "id": 29258,
@@ -3871,7 +3876,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -9106,7 +9111,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3630d8d42df7b955f72674a1836830d42cbab30.png",
     "website": "https://piramidal.ai",
     "all_locations": "",
-    "long_description": "Get instant diagnosis for the vast majority of neurological conditions using our Foundational AI.",
+    "long_description": "Understand & control neural syntax.",
     "one_liner": "Foundation Model for the Brain",
     "team_size": 2,
     "industry": "Healthcare",
@@ -9128,7 +9133,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/piramidal",
