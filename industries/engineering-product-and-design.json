@@ -2059,7 +2059,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W14",
     "status": "Active",
@@ -11618,13 +11618,17 @@
     "id": 25819,
     "name": "Broccoli AI",
     "slug": "broccoli-ai",
-    "former_names": [],
+    "former_names": [
+      "Telematica",
+      "Broccoli",
+      "Telematica"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4af19eaef182970dcf0225cba17bed637d7b49f.png",
     "website": "https://www.broccoli.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Broccoli AI, we help plumbing, HVAC, and electrical businesses work more efficiently with AI assistants. Our AI handles customer calls, books jobs, and integrates with tools like ServiceTitan.",
     "one_liner": "AI voice agents for home service businesses",
-    "team_size": 8,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1646292663,
@@ -21082,7 +21086,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tired of switching tabs to cursor every time you're building your iOS app in Xcode?\r\n\r\nWorry not!\r\n\r\nAlex is a sidebar app that works directly with Xcode, and has the same Cmd+L, Cmd+K, and Apply Code commands as Cursor. And, it's super fast.\r\n\r\nCheck it out: https://alexcodes.app",
     "one_liner": "The Cursor for Xcode",
-    "team_size": 5,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1728718432,
@@ -22324,5 +22328,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/artifact-2",
     "api": "https://yc-oss.github.io/api/batches/w25/artifact-2.json"
+  },
+  {
+    "id": 30431,
+    "name": "Chonkie",
+    "slug": "chonkie",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b17534ba287037ccdd64190ce407624696f30a.png",
+    "website": "https://www.chonkie.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Chonkie breaks down large documents into smaller, meaningful chunks, making it easier for AI to process information. By ensuring that models receive only relevant and well-structured context within their token limits, Chonkie improves response accuracy and speed. Our tools are built to integrate seamlessly with any tech stack, so you can focus on leveraging your AI's full potential easily.",
+    "one_liner": "Make Documents AI Ready",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1741421145,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chonkie",
+    "api": "https://yc-oss.github.io/api/batches/x25/chonkie.json"
   }
 ]

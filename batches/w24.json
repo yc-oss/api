@@ -4525,21 +4525,20 @@
   },
   {
     "id": 29348,
-    "name": "Kiosk",
-    "slug": "kiosk",
+    "name": "Parallel",
+    "slug": "parallel",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7b8da61a468644beaadb1f98361270cd5fafb99.png",
-    "website": "https://www.kiosk.so/?utm_source=ycombinator&utm_medium=directory",
+    "website": "https://www.kiosk-medical.com/?utm_source=ycombinator&utm_medium=directory",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "At Kiosk, we help companies engage with their customers on their preferred app, WhatsApp.\r\n\r\nIn short, we blend AI agents and traditional marketing tools (Campaigns, Workflows) to generate personalised conversations at scale. Think of us like the MailChimp for WhatsApp, with a conversational AI twist 💬\r\n\r\nWhile WhatsApp is a key revenue driver in markets like India, its vast potential in Europe and Emerging Markets is still largely untapped!",
-    "one_liner": "WhatsApp Marketing for E-commerce",
-    "team_size": 5,
-    "industry": "B2B",
+    "long_description": "We build AI agents that automate healthcare admin workflows.\r\n\r\nOur agents navigate legacy hospital software like humans and automate end-to-end workflows, freeing medical professionals from manual tasks.\r\n\r\nOur first agent tackles medical coding, laying the foundation for AI-driven automation across healthcare.",
+    "one_liner": "AI agents for healthcare admin",
+    "team_size": 6,
+    "industry": "Healthcare",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1707957478,
     "tags": [
-      "Messaging",
-      "Marketing",
+      "Healthcare",
       "Automation",
       "AI"
     ],
@@ -4550,8 +4549,8 @@
     "batch": "W24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Marketing"
+      "Healthcare",
+      "Healthcare IT"
     ],
     "regions": [
       "France",
@@ -4562,8 +4561,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kiosk",
-    "api": "https://yc-oss.github.io/api/batches/w24/kiosk.json"
+    "url": "https://www.ycombinator.com/companies/parallel",
+    "api": "https://yc-oss.github.io/api/batches/w24/parallel.json"
   },
   {
     "id": 29350,
@@ -4792,9 +4791,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8410f1b40522f461a5e5bb56266f4f053b29bffa.png",
     "website": "https://www.usecentralize.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Centralize helps revenue teams operationalize multithreading and drive warm pipeline. Reps at companies like Sendoso, mParticle, and Navattic use us to automatically map stakeholders, track evolving account priorities, and fill contact gaps by leveraging their networks for warm intros.",
-    "one_liner": "The all-in-one deal workspace for high ACV revenue teams",
-    "team_size": 4,
+    "long_description": "Centralize helps revenue teams operationalize multi-threading and drive warm pipeline. Reps at companies like Sendoso, Ethena, and Navattic use us to automatically map stakeholders, track evolving account priorities, and fill contact gaps by leveraging their networks for warm intros.",
+    "one_liner": "The AI-powered deal collaboration platform for high ACV revenue teams",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1699493825,
@@ -7219,14 +7218,14 @@
     "all_locations": "",
     "long_description": "Alai  helps tech professionals create high quality presentations faster using AI. For example, a product manager can enter their proposal in plaintext and get polished slide options without spending hours on design.",
     "one_liner": "Create high quality presentations faster using AI",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1706649959,
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -10169,47 +10168,42 @@
   },
   {
     "id": 29516,
-    "name": "Million",
-    "slug": "million",
+    "name": "Same",
+    "slug": "same",
     "former_names": [
       "Million.js"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de72603799ff903b1f1699daa838508bf9f0b32a.png",
-    "website": "https://million.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Million is an APM that makes websites fast, automatically. We use AI to automatically find performance issues and write code to fix them.",
-    "one_liner": "Make websites fast, automatically",
-    "team_size": 3,
-    "industry": "B2B",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54be5942506ceca0e5c954b2d14f532650487611.png",
+    "website": "https://same.new",
+    "all_locations": "",
+    "long_description": "Same is an programming agent in the browser (Imagine Cursor but with a VM on the web)",
+    "one_liner": "Copy any UI and make it yours",
+    "team_size": 5,
+    "industry": "Consumer",
     "subindustry": "B2B",
     "launched_at": 1703896590,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "Web Development",
-      "AI Assistant",
-      "ML"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Consumer",
+      "Content"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/million",
-    "api": "https://yc-oss.github.io/api/batches/w24/million.json"
+    "url": "https://www.ycombinator.com/companies/same",
+    "api": "https://yc-oss.github.io/api/batches/w24/same.json"
   },
   {
     "id": 29517,

@@ -11029,7 +11029,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W14",
     "status": "Active",
@@ -22145,7 +22145,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W17",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Human Resources"
@@ -63869,13 +63869,17 @@
     "id": 25819,
     "name": "Broccoli AI",
     "slug": "broccoli-ai",
-    "former_names": [],
+    "former_names": [
+      "Telematica",
+      "Broccoli",
+      "Telematica"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4af19eaef182970dcf0225cba17bed637d7b49f.png",
     "website": "https://www.broccoli.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Broccoli AI, we help plumbing, HVAC, and electrical businesses work more efficiently with AI assistants. Our AI handles customer calls, books jobs, and integrates with tools like ServiceTitan.",
     "one_liner": "AI voice agents for home service businesses",
-    "team_size": 8,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1646292663,
@@ -85945,7 +85949,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -89364,48 +89368,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/ragas.json"
   },
   {
-    "id": 29348,
-    "name": "Kiosk",
-    "slug": "kiosk",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7b8da61a468644beaadb1f98361270cd5fafb99.png",
-    "website": "https://www.kiosk.so/?utm_source=ycombinator&utm_medium=directory",
-    "all_locations": "Paris, Île-de-France, France",
-    "long_description": "At Kiosk, we help companies engage with their customers on their preferred app, WhatsApp.\r\n\r\nIn short, we blend AI agents and traditional marketing tools (Campaigns, Workflows) to generate personalised conversations at scale. Think of us like the MailChimp for WhatsApp, with a conversational AI twist 💬\r\n\r\nWhile WhatsApp is a key revenue driver in markets like India, its vast potential in Europe and Emerging Markets is still largely untapped!",
-    "one_liner": "WhatsApp Marketing for E-commerce",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1707957478,
-    "tags": [
-      "Messaging",
-      "Marketing",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "France",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kiosk",
-    "api": "https://yc-oss.github.io/api/batches/w24/kiosk.json"
-  },
-  {
     "id": 29350,
     "name": "Aether Energy",
     "slug": "aether-energy",
@@ -89632,9 +89594,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8410f1b40522f461a5e5bb56266f4f053b29bffa.png",
     "website": "https://www.usecentralize.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Centralize helps revenue teams operationalize multithreading and drive warm pipeline. Reps at companies like Sendoso, mParticle, and Navattic use us to automatically map stakeholders, track evolving account priorities, and fill contact gaps by leveraging their networks for warm intros.",
-    "one_liner": "The all-in-one deal workspace for high ACV revenue teams",
-    "team_size": 4,
+    "long_description": "Centralize helps revenue teams operationalize multi-threading and drive warm pipeline. Reps at companies like Sendoso, Ethena, and Navattic use us to automatically map stakeholders, track evolving account priorities, and fill contact gaps by leveraging their networks for warm intros.",
+    "one_liner": "The AI-powered deal collaboration platform for high ACV revenue teams",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1699493825,
@@ -91409,14 +91371,14 @@
     "all_locations": "",
     "long_description": "Alai  helps tech professionals create high quality presentations faster using AI. For example, a product manager can enter their proposal in plaintext and get polished slide options without spending hours on design.",
     "one_liner": "Create high quality presentations faster using AI",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1706649959,
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -93038,50 +93000,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/getcrux.json"
   },
   {
-    "id": 29516,
-    "name": "Million",
-    "slug": "million",
-    "former_names": [
-      "Million.js"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de72603799ff903b1f1699daa838508bf9f0b32a.png",
-    "website": "https://million.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Million is an APM that makes websites fast, automatically. We use AI to automatically find performance issues and write code to fix them.",
-    "one_liner": "Make websites fast, automatically",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1703896590,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "Web Development",
-      "AI Assistant",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/million",
-    "api": "https://yc-oss.github.io/api/batches/w24/million.json"
-  },
-  {
     "id": 29517,
     "name": "RetailReady",
     "slug": "retailready",
@@ -93513,9 +93431,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e44c4453098a5caed0988fdf2dff5b898cdcac4.png",
     "website": "https://www.undermind.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Undermind, we're building a search engine that can handle extremely complex questions. It’s geared at experts, like research scientists and doctors, who need to find very specific resources to solve high-stakes problems. \r\n\r\nWe’ve rebuilt search from the ground up to address this. Our new approach employs high-quality LLMs to adaptively explore a database, mimicking how a human researcher carefully discovers information. This approach dramatically outperforms (by 10-50x) traditional keyword search and other modern AI-based retrieval methods.\r\n\r\nOur first target users are the 50 million researchers searching for scientific literature on PubMed and Google Scholar every month. We’ve have users paying us $200-$500 per seat per year, from fields like medicine, ML, biotech, finance, and more.",
+    "long_description": "At Undermind, we're building a search engine that can handle extremely complex questions. It’s geared at experts, like research scientists and doctors, who need to find very specific resources to solve high-stakes problems. \r\n\r\nWe’ve rebuilt search from the ground up to address this. Our new approach employs high-quality LLMs to adaptively explore a database, mimicking how a human researcher carefully discovers information. This approach dramatically outperforms (by 10-50x) traditional keyword search and other modern AI-based retrieval methods.\r\n\r\nOur first target users are the 50 million researchers searching for scientific literature on PubMed and Google Scholar every month. We’ve have paying users across fields like medicine, ML, biotech, finance, and more.",
     "one_liner": "An AI agent for scientific research",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "Education",
     "launched_at": 1718632251,
@@ -93684,16 +93602,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67c33e0e1229416643c3c04c56495e10ccaea0a.png",
     "website": "https://www.cheers.tech",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cheers is the category leader in Frontline Experience Management. Thousands of frontline employees with NFC badges use Cheers to unify payments, tips, reviews, and referrals in one frictionless flow. By removing friction, Cheers drives 5–10x more reviews, referrals, and tips, boosting 5-star ratings and revenue. With enterprise customers already on board and strong traction, Cheers is redefining how frontline teams deliver bottom-line impact.",
+    "long_description": "Cheers is the category leader in Frontline Experience Management. Thousands of frontline employees use Cheers to unify payments, tips, reviews, and referrals in one frictionless flow. By removing friction using NFC, Cheers drives 5–10x more reviews, referrals, and tips, boosting 5-star ratings and revenue. With enterprise customers already on board and strong traction, Cheers is redefining how frontline teams deliver bottom-line impact.",
     "one_liner": "The super-app for frontline employees",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1721413814,
     "tags": [
-      "Artificial Intelligence",
       "Analytics",
       "Feedback",
+      "AI",
       "Reviews"
     ],
     "tags_highlighted": [],
@@ -97040,11 +96958,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1721925789,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "Enterprise",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -97058,9 +96976,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -101948,16 +101864,20 @@
     "name": "Origami Agents",
     "slug": "origami-agents",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/044cfd68ccbe05f3075927ce91603fe06ca17b98.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90a150650f55581e2db5d27ee09895ea19f1d1a7.png",
     "website": "https://www.origamiagents.com",
-    "all_locations": "",
-    "long_description": "Every Origami Agent works like a dedicated human sales rep, analyzing websites, press releases, and product pages to bring you the top 1% of your customers every day.\r\n\r\nUse millions of Origami Agents to make sense of the other 99% of data that's not in structured databases.\r\n‎ \r\nPreviously, Finn built custom outbound solutions for over 20 startups, while Kenson was the CTO at an enterprise sales startup. We found ourselves building this tool for our customers over and over again, and that it worked 10x better than all other outbound strategies.\r\n‎ \r\nThere’s enough information on the internet to know exactly who your perfect customers are.",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Every Origami Agent works like a dedicated human sales rep, analyzing websites, press releases, and product pages to bring you the top 1% of your customers every day.\r\n\r\nUse thousands of Origami Agents to make sense of the other 99% of data that's not in structured databases.\r\n‎ \r\nPreviously, Finn built custom outbound solutions, while Kenson was the CTO at an enterprise sales startup. We found ourselves building this tool for our customers over and over again, and that it worked 10x better than all other outbound strategies.\r\n‎ \r\nThere’s enough information on the internet to know exactly who your perfect customers are.",
     "one_liner": "Agents that find your perfect customers",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1731183180,
-    "tags": [],
+    "tags": [
+      "Workflow Automation",
+      "Sales",
+      "Search"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -101969,7 +101889,8 @@
       "Sales"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -102065,7 +101986,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tired of switching tabs to cursor every time you're building your iOS app in Xcode?\r\n\r\nWorry not!\r\n\r\nAlex is a sidebar app that works directly with Xcode, and has the same Cmd+L, Cmd+K, and Apply Code commands as Cursor. And, it's super fast.\r\n\r\nCheck it out: https://alexcodes.app",
     "one_liner": "The Cursor for Xcode",
-    "team_size": 5,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1728718432,
@@ -105869,16 +105790,16 @@
     "all_locations": "",
     "long_description": "Spott builds AI agents for recruiting firms. When recruiters receive a new assignment, Spott will look for relevant candidates in your database, reach out to them, and present relevant matches to the client for you.\r\n",
     "one_liner": "AI agents for recruiting firms",
-    "team_size": 6,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1737184010,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "HR Tech",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -106691,5 +106612,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fira",
     "api": "https://yc-oss.github.io/api/batches/w25/fira.json"
+  },
+  {
+    "id": 30431,
+    "name": "Chonkie",
+    "slug": "chonkie",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b17534ba287037ccdd64190ce407624696f30a.png",
+    "website": "https://www.chonkie.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Chonkie breaks down large documents into smaller, meaningful chunks, making it easier for AI to process information. By ensuring that models receive only relevant and well-structured context within their token limits, Chonkie improves response accuracy and speed. Our tools are built to integrate seamlessly with any tech stack, so you can focus on leveraging your AI's full potential easily.",
+    "one_liner": "Make Documents AI Ready",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1741421145,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chonkie",
+    "api": "https://yc-oss.github.io/api/batches/x25/chonkie.json"
   }
 ]

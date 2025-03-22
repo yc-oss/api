@@ -18149,50 +18149,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/dragoneye.json"
   },
   {
-    "id": 29516,
-    "name": "Million",
-    "slug": "million",
-    "former_names": [
-      "Million.js"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de72603799ff903b1f1699daa838508bf9f0b32a.png",
-    "website": "https://million.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Million is an APM that makes websites fast, automatically. We use AI to automatically find performance issues and write code to fix them.",
-    "one_liner": "Make websites fast, automatically",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1703896590,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "Web Development",
-      "AI Assistant",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/million",
-    "api": "https://yc-oss.github.io/api/batches/w24/million.json"
-  },
-  {
     "id": 29569,
     "name": "Miru",
     "slug": "miru-ml",
@@ -19251,11 +19207,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1721925789,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "Enterprise",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19269,9 +19225,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -21538,5 +21492,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/assistant-ui",
     "api": "https://yc-oss.github.io/api/batches/w25/assistant-ui.json"
+  },
+  {
+    "id": 30431,
+    "name": "Chonkie",
+    "slug": "chonkie",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b17534ba287037ccdd64190ce407624696f30a.png",
+    "website": "https://www.chonkie.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Chonkie breaks down large documents into smaller, meaningful chunks, making it easier for AI to process information. By ensuring that models receive only relevant and well-structured context within their token limits, Chonkie improves response accuracy and speed. Our tools are built to integrate seamlessly with any tech stack, so you can focus on leveraging your AI's full potential easily.",
+    "one_liner": "Make Documents AI Ready",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1741421145,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chonkie",
+    "api": "https://yc-oss.github.io/api/batches/x25/chonkie.json"
   }
 ]

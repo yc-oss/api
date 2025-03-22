@@ -11317,13 +11317,17 @@
     "id": 25819,
     "name": "Broccoli AI",
     "slug": "broccoli-ai",
-    "former_names": [],
+    "former_names": [
+      "Telematica",
+      "Broccoli",
+      "Telematica"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4af19eaef182970dcf0225cba17bed637d7b49f.png",
     "website": "https://www.broccoli.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Broccoli AI, we help plumbing, HVAC, and electrical businesses work more efficiently with AI assistants. Our AI handles customer calls, books jobs, and integrates with tools like ServiceTitan.",
     "one_liner": "AI voice agents for home service businesses",
-    "team_size": 8,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1646292663,
@@ -20345,9 +20349,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8410f1b40522f461a5e5bb56266f4f053b29bffa.png",
     "website": "https://www.usecentralize.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Centralize helps revenue teams operationalize multithreading and drive warm pipeline. Reps at companies like Sendoso, mParticle, and Navattic use us to automatically map stakeholders, track evolving account priorities, and fill contact gaps by leveraging their networks for warm intros.",
-    "one_liner": "The all-in-one deal workspace for high ACV revenue teams",
-    "team_size": 4,
+    "long_description": "Centralize helps revenue teams operationalize multi-threading and drive warm pipeline. Reps at companies like Sendoso, Ethena, and Navattic use us to automatically map stakeholders, track evolving account priorities, and fill contact gaps by leveraging their networks for warm intros.",
+    "one_liner": "The AI-powered deal collaboration platform for high ACV revenue teams",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1699493825,
@@ -22226,47 +22230,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/variant.json"
   },
   {
-    "id": 29582,
-    "name": "Cheers",
-    "slug": "cheers",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67c33e0e1229416643c3c04c56495e10ccaea0a.png",
-    "website": "https://www.cheers.tech",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cheers is the category leader in Frontline Experience Management. Thousands of frontline employees with NFC badges use Cheers to unify payments, tips, reviews, and referrals in one frictionless flow. By removing friction, Cheers drives 5–10x more reviews, referrals, and tips, boosting 5-star ratings and revenue. With enterprise customers already on board and strong traction, Cheers is redefining how frontline teams deliver bottom-line impact.",
-    "one_liner": "The super-app for frontline employees",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1721413814,
-    "tags": [
-      "Artificial Intelligence",
-      "Analytics",
-      "Feedback",
-      "Reviews"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cheers",
-    "api": "https://yc-oss.github.io/api/batches/s24/cheers.json"
-  },
-  {
     "id": 29596,
     "name": "Comfy Deploy",
     "slug": "comfy-deploy",
@@ -23731,53 +23694,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/asterisk",
     "api": "https://yc-oss.github.io/api/batches/s24/asterisk.json"
-  },
-  {
-    "id": 29751,
-    "name": "Opslane",
-    "slug": "opslane",
-    "former_names": [
-      "TBD"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb6bdec6d811fcf222549436bd6be5f9214dd6c4.png",
-    "website": "https://opslane.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Opslane speeds up incident resolution by automating work that is performed by short staffed SRE teams. \r\n\r\nWe do this by stitching together relevant context (logs, metrics, traces, code changes and runbooks) to help on-call engineers figure out what's going on.",
-    "one_liner": "AI SRE to speed up incident response",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1721925789,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
-      "Enterprise",
-      "DevOps"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/opslane",
-    "api": "https://yc-oss.github.io/api/batches/s24/opslane.json"
   },
   {
     "id": 29757,
@@ -26392,7 +26308,7 @@
     "name": "Diffusion Studio",
     "slug": "diffusion-studio",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/018de82a1215c62a9cb659b6b4986e1b651dc62b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6f433de4b4c642c9311574e0d72dda2296ffd27.png",
     "website": "https://diffusion.studio/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Diffusion Studio is Canva for video editing, we allow anyone to import video footage they have taken and our AI will generate a publish-ready video. We have achieved this only now because we replace heavyweight desktop apps with the newly released WebCodecs and WebGPU web APIs, that enable hardware-accelerated encoding in the Browser.",
@@ -28474,48 +28390,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/woz.json"
   },
   {
-    "id": 30322,
-    "name": "Spott",
-    "slug": "spott",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
-    "website": "https://spott.io",
-    "all_locations": "",
-    "long_description": "Spott builds AI agents for recruiting firms. When recruiters receive a new assignment, Spott will look for relevant candidates in your database, reach out to them, and present relevant matches to the client for you.\r\n",
-    "one_liner": "AI agents for recruiting firms",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "launched_at": 1737184010,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "HR Tech",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/spott",
-    "api": "https://yc-oss.github.io/api/batches/w25/spott.json"
-  },
-  {
     "id": 30324,
     "name": "Rebolt",
     "slug": "rebolt",
@@ -28816,5 +28690,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mentra",
     "api": "https://yc-oss.github.io/api/batches/w25/mentra.json"
+  },
+  {
+    "id": 30431,
+    "name": "Chonkie",
+    "slug": "chonkie",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b17534ba287037ccdd64190ce407624696f30a.png",
+    "website": "https://www.chonkie.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Chonkie breaks down large documents into smaller, meaningful chunks, making it easier for AI to process information. By ensuring that models receive only relevant and well-structured context within their token limits, Chonkie improves response accuracy and speed. Our tools are built to integrate seamlessly with any tech stack, so you can focus on leveraging your AI's full potential easily.",
+    "one_liner": "Make Documents AI Ready",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1741421145,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chonkie",
+    "api": "https://yc-oss.github.io/api/batches/x25/chonkie.json"
   }
 ]

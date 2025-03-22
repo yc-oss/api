@@ -3141,7 +3141,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -3212,15 +3212,15 @@
   },
   {
     "id": 24819,
-    "name": "Adra",
-    "slug": "adra",
+    "name": "Adravision",
+    "slug": "adravision",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0af36732c31f9de500d8cee39a790da8b6870407.png",
     "website": "https://www.adra.ai",
     "all_locations": "Singapore, Singapore",
-    "long_description": "Adra is a software that helps dental clinics find cavities and other problems in x-rays faster and more accurately so they can book more procedures and increase their revenue. We started our pilot with 20 dentists 2 months ago and have already increased their clinic revenue by 12%. \r\nAdra is founded by a dentist and clinic owner, a machine learning expert, and a bioscientist.\r\nWhen every dentist uses Adra, they will bill patients an extra $52B per year. We will capture a quarter of that, making our addressable market $13B.\r\nhttps://www.adra.ai/\r\n",
-    "one_liner": "Driving dental clinic revenue by finding more cavities",
-    "team_size": 10,
+    "long_description": "We build automation solutions powered by AI to improve the efficiency of diagnostics, documentation, and patient education for dental clinics. Our technology is also used by dental insurance companies to process large volumes of claims by analyzing unstructured data like X-rays, narratives, and documents.\r\n\r\nWe're a dentist and clinic owner, a computer vision expert, and a bioscientist.\r\n\r\nhttps://www.adra.ai/\r\n",
+    "one_liner": "Automation for dental clinics and insurance companies.",
+    "team_size": 8,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1625793079,
@@ -3249,8 +3249,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/adra",
-    "api": "https://yc-oss.github.io/api/batches/s21/adra.json"
+    "url": "https://www.ycombinator.com/companies/adravision",
+    "api": "https://yc-oss.github.io/api/batches/s21/adravision.json"
   },
   {
     "id": 25350,
@@ -4625,6 +4625,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inquery-2",
     "api": "https://yc-oss.github.io/api/batches/w24/inquery-2.json"
+  },
+  {
+    "id": 29348,
+    "name": "Parallel",
+    "slug": "parallel",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7b8da61a468644beaadb1f98361270cd5fafb99.png",
+    "website": "https://www.kiosk-medical.com/?utm_source=ycombinator&utm_medium=directory",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "We build AI agents that automate healthcare admin workflows.\r\n\r\nOur agents navigate legacy hospital software like humans and automate end-to-end workflows, freeing medical professionals from manual tasks.\r\n\r\nOur first agent tackles medical coding, laying the foundation for AI-driven automation across healthcare.",
+    "one_liner": "AI agents for healthcare admin",
+    "team_size": 6,
+    "industry": "Healthcare",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1707957478,
+    "tags": [
+      "Healthcare",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "France",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/parallel",
+    "api": "https://yc-oss.github.io/api/batches/w24/parallel.json"
   },
   {
     "id": 29386,

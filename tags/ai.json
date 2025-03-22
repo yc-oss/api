@@ -14003,7 +14003,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -15779,21 +15779,20 @@
   },
   {
     "id": 29348,
-    "name": "Kiosk",
-    "slug": "kiosk",
+    "name": "Parallel",
+    "slug": "parallel",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7b8da61a468644beaadb1f98361270cd5fafb99.png",
-    "website": "https://www.kiosk.so/?utm_source=ycombinator&utm_medium=directory",
+    "website": "https://www.kiosk-medical.com/?utm_source=ycombinator&utm_medium=directory",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "At Kiosk, we help companies engage with their customers on their preferred app, WhatsApp.\r\n\r\nIn short, we blend AI agents and traditional marketing tools (Campaigns, Workflows) to generate personalised conversations at scale. Think of us like the MailChimp for WhatsApp, with a conversational AI twist 💬\r\n\r\nWhile WhatsApp is a key revenue driver in markets like India, its vast potential in Europe and Emerging Markets is still largely untapped!",
-    "one_liner": "WhatsApp Marketing for E-commerce",
-    "team_size": 5,
-    "industry": "B2B",
+    "long_description": "We build AI agents that automate healthcare admin workflows.\r\n\r\nOur agents navigate legacy hospital software like humans and automate end-to-end workflows, freeing medical professionals from manual tasks.\r\n\r\nOur first agent tackles medical coding, laying the foundation for AI-driven automation across healthcare.",
+    "one_liner": "AI agents for healthcare admin",
+    "team_size": 6,
+    "industry": "Healthcare",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1707957478,
     "tags": [
-      "Messaging",
-      "Marketing",
+      "Healthcare",
       "Automation",
       "AI"
     ],
@@ -15804,8 +15803,8 @@
     "batch": "W24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Marketing"
+      "Healthcare",
+      "Healthcare IT"
     ],
     "regions": [
       "France",
@@ -15816,8 +15815,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kiosk",
-    "api": "https://yc-oss.github.io/api/batches/w24/kiosk.json"
+    "url": "https://www.ycombinator.com/companies/parallel",
+    "api": "https://yc-oss.github.io/api/batches/w24/parallel.json"
   },
   {
     "id": 29353,
@@ -15920,9 +15919,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8410f1b40522f461a5e5bb56266f4f053b29bffa.png",
     "website": "https://www.usecentralize.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Centralize helps revenue teams operationalize multithreading and drive warm pipeline. Reps at companies like Sendoso, mParticle, and Navattic use us to automatically map stakeholders, track evolving account priorities, and fill contact gaps by leveraging their networks for warm intros.",
-    "one_liner": "The all-in-one deal workspace for high ACV revenue teams",
-    "team_size": 4,
+    "long_description": "Centralize helps revenue teams operationalize multi-threading and drive warm pipeline. Reps at companies like Sendoso, Ethena, and Navattic use us to automatically map stakeholders, track evolving account priorities, and fill contact gaps by leveraging their networks for warm intros.",
+    "one_liner": "The AI-powered deal collaboration platform for high ACV revenue teams",
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1699493825,
@@ -17502,9 +17501,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e44c4453098a5caed0988fdf2dff5b898cdcac4.png",
     "website": "https://www.undermind.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Undermind, we're building a search engine that can handle extremely complex questions. It’s geared at experts, like research scientists and doctors, who need to find very specific resources to solve high-stakes problems. \r\n\r\nWe’ve rebuilt search from the ground up to address this. Our new approach employs high-quality LLMs to adaptively explore a database, mimicking how a human researcher carefully discovers information. This approach dramatically outperforms (by 10-50x) traditional keyword search and other modern AI-based retrieval methods.\r\n\r\nOur first target users are the 50 million researchers searching for scientific literature on PubMed and Google Scholar every month. We’ve have users paying us $200-$500 per seat per year, from fields like medicine, ML, biotech, finance, and more.",
+    "long_description": "At Undermind, we're building a search engine that can handle extremely complex questions. It’s geared at experts, like research scientists and doctors, who need to find very specific resources to solve high-stakes problems. \r\n\r\nWe’ve rebuilt search from the ground up to address this. Our new approach employs high-quality LLMs to adaptively explore a database, mimicking how a human researcher carefully discovers information. This approach dramatically outperforms (by 10-50x) traditional keyword search and other modern AI-based retrieval methods.\r\n\r\nOur first target users are the 50 million researchers searching for scientific literature on PubMed and Google Scholar every month. We’ve have paying users across fields like medicine, ML, biotech, finance, and more.",
     "one_liner": "An AI agent for scientific research",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "Education",
     "launched_at": 1718632251,
@@ -17668,6 +17667,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ply-health",
     "api": "https://yc-oss.github.io/api/batches/s24/ply-health.json"
+  },
+  {
+    "id": 29582,
+    "name": "Cheers",
+    "slug": "cheers",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67c33e0e1229416643c3c04c56495e10ccaea0a.png",
+    "website": "https://www.cheers.tech",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cheers is the category leader in Frontline Experience Management. Thousands of frontline employees use Cheers to unify payments, tips, reviews, and referrals in one frictionless flow. By removing friction using NFC, Cheers drives 5–10x more reviews, referrals, and tips, boosting 5-star ratings and revenue. With enterprise customers already on board and strong traction, Cheers is redefining how frontline teams deliver bottom-line impact.",
+    "one_liner": "The super-app for frontline employees",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1721413814,
+    "tags": [
+      "Analytics",
+      "Feedback",
+      "AI",
+      "Reviews"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cheers",
+    "api": "https://yc-oss.github.io/api/batches/s24/cheers.json"
   },
   {
     "id": 29585,
@@ -19155,6 +19195,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/asterisk",
     "api": "https://yc-oss.github.io/api/batches/s24/asterisk.json"
+  },
+  {
+    "id": 29751,
+    "name": "Opslane",
+    "slug": "opslane",
+    "former_names": [
+      "TBD"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb6bdec6d811fcf222549436bd6be5f9214dd6c4.png",
+    "website": "https://opslane.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Opslane speeds up incident resolution by automating work that is performed by short staffed SRE teams. \r\n\r\nWe do this by stitching together relevant context (logs, metrics, traces, code changes and runbooks) to help on-call engineers figure out what's going on.",
+    "one_liner": "AI SRE to speed up incident response",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1721925789,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Enterprise",
+      "DevOps",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/opslane",
+    "api": "https://yc-oss.github.io/api/batches/s24/opslane.json"
   },
   {
     "id": 29754,
@@ -21785,7 +21870,7 @@
     "name": "Diffusion Studio",
     "slug": "diffusion-studio",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/018de82a1215c62a9cb659b6b4986e1b651dc62b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6f433de4b4c642c9311574e0d72dda2296ffd27.png",
     "website": "https://diffusion.studio/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Diffusion Studio is Canva for video editing, we allow anyone to import video footage they have taken and our AI will generate a publish-ready video. We have achieved this only now because we replace heavyweight desktop apps with the newly released WebCodecs and WebGPU web APIs, that enable hardware-accelerated encoding in the Browser.",
@@ -24230,6 +24315,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/woz.json"
   },
   {
+    "id": 30322,
+    "name": "Spott",
+    "slug": "spott",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
+    "website": "https://spott.io",
+    "all_locations": "",
+    "long_description": "Spott builds AI agents for recruiting firms. When recruiters receive a new assignment, Spott will look for relevant candidates in your database, reach out to them, and present relevant matches to the client for you.\r\n",
+    "one_liner": "AI agents for recruiting firms",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1737184010,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "HR Tech",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spott",
+    "api": "https://yc-oss.github.io/api/batches/w25/spott.json"
+  },
+  {
     "id": 30324,
     "name": "Rebolt",
     "slug": "rebolt",
@@ -24570,5 +24697,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fira",
     "api": "https://yc-oss.github.io/api/batches/w25/fira.json"
+  },
+  {
+    "id": 30431,
+    "name": "Chonkie",
+    "slug": "chonkie",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b17534ba287037ccdd64190ce407624696f30a.png",
+    "website": "https://www.chonkie.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Chonkie breaks down large documents into smaller, meaningful chunks, making it easier for AI to process information. By ensuring that models receive only relevant and well-structured context within their token limits, Chonkie improves response accuracy and speed. Our tools are built to integrate seamlessly with any tech stack, so you can focus on leveraging your AI's full potential easily.",
+    "one_liner": "Make Documents AI Ready",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1741421145,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chonkie",
+    "api": "https://yc-oss.github.io/api/batches/x25/chonkie.json"
   }
 ]
