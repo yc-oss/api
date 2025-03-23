@@ -11486,7 +11486,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -17450,50 +17450,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/ultra.json"
   },
   {
-    "id": 29572,
-    "name": "Domu Technology Inc.",
-    "slug": "domu-technology-inc",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40c600d4dd6ad3b3cd6921951d261d9713464bc1.png",
-    "website": "https://www.domu.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Domu automates debt collection calls for the banks using generative AI. We have $870k in ARR with clients like BBVA, BNP Paribas and Skandia.",
-    "one_liner": "Automating debt collection calls for banks.",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1719086771,
-    "tags": [
-      "AIOps",
-      "Call Center",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/domu-technology-inc",
-    "api": "https://yc-oss.github.io/api/batches/s24/domu-technology-inc.json"
-  },
-  {
     "id": 29573,
     "name": "Undermind",
     "slug": "undermind",
@@ -17966,6 +17922,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/corgi",
     "api": "https://yc-oss.github.io/api/batches/s24/corgi.json"
+  },
+  {
+    "id": 29647,
+    "name": "Maitai",
+    "slug": "maitai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3c6b9b422d6e861a26fcf29a7acd2c4eae136af.png",
+    "website": "https://trymaitai.ai",
+    "all_locations": "",
+    "long_description": "Maitai makes building reliable AI applications easy. We autocorrect faulty model output in real-time and automatically fine-tune models that learn from their mistakes. This means our customers get more reliable results immediately, and over time, they gain custom models built specifically for their application that only get better and faster. You wouldn’t hire an employee who doesn’t learn from their mistakes—so why use a model that doesn’t? Maitai is here to deliver the next generation of reliable AI inference.",
+    "one_liner": "Reliable, self-improving enterprise AI",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1716914094,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maitai",
+    "api": "https://yc-oss.github.io/api/batches/s24/maitai.json"
   },
   {
     "id": 29649,
@@ -19197,51 +19195,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/asterisk.json"
   },
   {
-    "id": 29751,
-    "name": "Opslane",
-    "slug": "opslane",
-    "former_names": [
-      "TBD"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb6bdec6d811fcf222549436bd6be5f9214dd6c4.png",
-    "website": "https://opslane.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Opslane speeds up incident resolution by automating work that is performed by short staffed SRE teams. \r\n\r\nWe do this by stitching together relevant context (logs, metrics, traces, code changes and runbooks) to help on-call engineers figure out what's going on.",
-    "one_liner": "AI SRE to speed up incident response",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1721925789,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "Enterprise",
-      "DevOps",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/opslane",
-    "api": "https://yc-oss.github.io/api/batches/s24/opslane.json"
-  },
-  {
     "id": 29754,
     "name": "Conductor Quantum",
     "slug": "conductor-quantum",
@@ -19294,7 +19247,7 @@
     "website": "https://modernrealty.io",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The future of homebuying.",
-    "one_liner": "AI Real Estate Brokerage.",
+    "one_liner": "The AI powered Real Estate Brokerage.",
     "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
@@ -23764,6 +23717,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/exla",
     "api": "https://yc-oss.github.io/api/batches/w25/exla.json"
+  },
+  {
+    "id": 30286,
+    "name": "Nitrode",
+    "slug": "nitrode",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/514545bed169ad1eb626571d7e0d77375b33f656.png",
+    "website": "http://nitrode.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nitrode is an AI game development engine designed to transform your gaming experience. Whether you're an aspiring game developer or a passionate gamer, Nitrode empowers you to effortlessly build, launch, and play your favorite games. Leveraging AI, Nitrode streamlines the game creation and launching process, allowing creators to focus on their vision without getting bogged down by mechanics or technical complexities.",
+    "one_liner": "AI game development engine & platform",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1738144366,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Consumer",
+      "Gaming",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nitrode",
+    "api": "https://yc-oss.github.io/api/batches/w25/nitrode.json"
   },
   {
     "id": 30287,
