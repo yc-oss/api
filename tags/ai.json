@@ -4548,9 +4548,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3509dac4b76d442f8f0aa79c2bda0b827e78798.png",
     "website": "http://mindstate.design",
-    "all_locations": "San Francisco, CA, USA; Pittsburgh, PA, USA",
-    "long_description": "Developing the next generation of psychedelic therapeutics for mental health indications. We design novel altered states of consciousness using machine learning, human experiential data, and molecular pharmacology.",
-    "one_liner": "Next-generation psychedelic therapeutics for mental health",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're making every therapeutically valuable emotion available on demand in pharmaceutical form.\r\n\r\nOur Osmanthus platform is an ensemble of AI models that synthesize the world’s largest datasets of psychoactive pharmacology and phenomenology, quantitatively pinpointing the combination of neurotransmitter receptor activity that underlies various emotional as well as cognitive and perceptual states.\r\n\r\nOur lead program MSD-001 is designed to be rapid-acting and produce heightened emotional and cognitive flexibility without hallucinations. MSD-001 is currently in human trials, and will be the base ingredient for multiple drug combination \"emotions in a bottle\" such as empathy, awe, clarity, or beauty.",
+    "one_liner": "Clinical-stage AI neuroengineering platform",
     "team_size": 7,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
@@ -14285,6 +14285,46 @@
     "api": "https://yc-oss.github.io/api/batches/w24/upsolve-ai.json"
   },
   {
+    "id": 29184,
+    "name": "DryMerge",
+    "slug": "drymerge",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1f059f261793064d1e71c446f372bef42ee5e12.png",
+    "website": "https://www.drymerge.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We create AI agents that constantly monitor emails, calendar, calls, or wherever else companies have relationship data and organize it into CRM records as meticulously as a great rep would.\r\n\r\nWe build these agents on top of the DryMerge platform, a tool to build AI agents that integrate with business apps and work in the background.\r\n",
+    "one_liner": "AI that updates your CRM for you",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1701198714,
+    "tags": [
+      "CRM",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/drymerge",
+    "api": "https://yc-oss.github.io/api/batches/w24/drymerge.json"
+  },
+  {
     "id": 29196,
     "name": "Scritch",
     "slug": "scritch",
@@ -14745,6 +14785,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/momentic",
     "api": "https://yc-oss.github.io/api/batches/w24/momentic.json"
+  },
+  {
+    "id": 29257,
+    "name": "Tuesday Lab",
+    "slug": "tuesday-lab",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/133f27769085a4d8d20b1f989ff2737c643c9935.png",
+    "website": "https://www.tuesdaylab.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Tuesday makes delightful robots for your everyday life",
+    "one_liner": "Delightful robots",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1706678921,
+    "tags": [
+      "Robotics",
+      "Consumer",
+      "Gaming",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Consumer Electronics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tuesday-lab",
+    "api": "https://yc-oss.github.io/api/batches/w24/tuesday-lab.json"
   },
   {
     "id": 29260,
@@ -16703,48 +16785,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zep-ai",
     "api": "https://yc-oss.github.io/api/batches/w24/zep-ai.json"
-  },
-  {
-    "id": 29436,
-    "name": "Downlink",
-    "slug": "downlink",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0c8280f2401497830f9750a73fe67fc73e1344b.png",
-    "website": "https://downlink.dev/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Downlink is the turbo button for AI. We make LLMs 70%+ faster with a few lines of code.\r\n\r\nDownlink learns which prompts are easy or hard. We train fast models to handle simple prompts, your existing LLM takes the complex ones.",
-    "one_liner": "Downlink makes LLMs 70%+ faster with a few lines of code",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1708740244,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/downlink",
-    "api": "https://yc-oss.github.io/api/batches/w24/downlink.json"
   },
   {
     "id": 29439,
@@ -19023,6 +19063,49 @@
     "api": "https://yc-oss.github.io/api/batches/s24/vibe.json"
   },
   {
+    "id": 29738,
+    "name": "Anara",
+    "slug": "anara",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b702e275c5d9f7a428a7fe250b337175e2b5e58.png",
+    "website": "https://anara.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Anara helps researchers understand, organize and write scientific documents, together. Formerly known as Unriddle.\r\n\r\nWe started working on Unriddle 18 months ago. In that time:\r\n- we’ve grown to 3M users spanning hundreds of major colleges and research-led companies, \r\n- we reached $1.5M in yearly revenue and are about to hit $2M, \r\n- 100M+ people have seen our content across Instagram, TikTok and YouTube,  \r\n- and we raised $2.4M from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we're expanding beyond just summarization and writing assistance to address the broader challenges of information overload faced by researchers.\r\n\r\nAnd we’re now growing the team. We're a small, tight-knit team with huge ambitions. As a founding member, you'll be instrumental in helping us scale revenue from $2M to $10M and then $10M to $100M+.\r\n\r\nIf you’re excited by the idea of being a part of that, definitely reach out.",
+    "one_liner": "AI for researchers",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1715615655,
+    "tags": [
+      "Consumer",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/anara",
+    "api": "https://yc-oss.github.io/api/batches/s24/anara.json"
+  },
+  {
     "id": 29740,
     "name": "Redouble AI",
     "slug": "redouble-ai",
@@ -19473,7 +19556,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -21949,48 +22032,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/bramble.json"
   },
   {
-    "id": 30112,
-    "name": "Candid",
-    "slug": "candid",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97909abb2be968921b3bb4a410d5f57877a4aeb4.png",
-    "website": "https://usecandid.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Candid automates lead generation by using research agents to surface customers with pain-points. With an ICP in mind, our AI agents research across LinkedIn profiles, blog posts, and social interactions to find warm leads. Candid lead data is live, high-signal, and enriched + validated.",
-    "one_liner": "Warm leads sourced by AI research agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1730227120,
-    "tags": [
-      "Sales",
-      "Sales Enablement",
-      "Email",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "F24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/candid",
-    "api": "https://yc-oss.github.io/api/batches/f24/candid.json"
-  },
-  {
     "id": 30115,
     "name": "SRE.ai",
     "slug": "sre-ai",
@@ -23762,93 +23803,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/calltree-ai.json"
   },
   {
-    "id": 30289,
-    "name": "Sherpa Labs",
-    "slug": "sherpa-labs",
-    "former_names": [
-      "DagHub.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
-    "website": "https://www.sherpalabs.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sherpa Labs is building an agentic data team that automates modeling, operations, and discovery via a swarm of agents. Their initial product is a data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes — similar to Glean but for enterprise data systems.",
-    "one_liner": "The AI Data Team",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1737526775,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Data Science",
-      "Data Engineering",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sherpa-labs",
-    "api": "https://yc-oss.github.io/api/batches/w25/sherpa-labs.json"
-  },
-  {
-    "id": 30294,
-    "name": "Sennu AI",
-    "slug": "sennu-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35cbadbc20698fdbde411ffce51ce8c13ee4beb3.png",
-    "website": "https://www.sennu.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sennu AI is building AI agents for tech consulting firms, starting with sales. We plan to help these firms to automate all parts of their business from sales to project delivery to back office.",
-    "one_liner": "AI Agents Automating the $400B Tech Consulting Market",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1737750089,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Sales",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sennu-ai",
-    "api": "https://yc-oss.github.io/api/batches/w25/sennu-ai.json"
-  },
-  {
     "id": 30296,
     "name": "Peppr AI",
     "slug": "peppr-ai",
@@ -24436,47 +24390,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dalus",
     "api": "https://yc-oss.github.io/api/batches/w25/dalus.json"
-  },
-  {
-    "id": 30329,
-    "name": "Opine",
-    "slug": "opine",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9abc1921cbbcabe29e9ae51f4bef4f9a56970eb.png",
-    "website": "https://opine.cool",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Opine is social media for AI influencers. Instead of watching content on a feed, users chat with an AI influencer, who recommends content to them. The content is created by a human creator, but the chatting is done by an LLM. Together these create a new kind of influencer.",
-    "one_liner": "Social Media for AI Influencers",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Content",
-    "launched_at": 1740162817,
-    "tags": [
-      "Consumer",
-      "Social Media",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Content"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/opine",
-    "api": "https://yc-oss.github.io/api/batches/w25/opine.json"
   },
   {
     "id": 30338,
