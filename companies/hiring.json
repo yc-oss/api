@@ -9105,6 +9105,51 @@
     "api": "https://yc-oss.github.io/api/batches/s18/oxygen.json"
   },
   {
+    "id": 2023,
+    "name": "SPATE",
+    "slug": "spate",
+    "former_names": [
+      "SPATE",
+      "Spate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7577742d36a89182bb27d25c3ad944da530cabbf.png",
+    "website": "https://www.spate.nyc",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Spate is your machine intelligence solution for finding the next big trend in Beauty and Food. For example, we spotted trends such as turmeric, face masks, and cold brew.",
+    "one_liner": "Trends prediction for marketers",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1527062926,
+    "tags": [
+      "Machine Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S18",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spate",
+    "api": "https://yc-oss.github.io/api/batches/s18/spate.json"
+  },
+  {
     "id": 11924,
     "name": "Flockjay",
     "slug": "flockjay",
@@ -9951,6 +9996,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bunkerhill-health",
     "api": "https://yc-oss.github.io/api/batches/w19/bunkerhill-health.json"
+  },
+  {
+    "id": 12043,
+    "name": "Handle.com",
+    "slug": "handle-com",
+    "former_names": [
+      "Handle"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e635e21a9de56891c70f767bf4b79d54351abc4.png",
+    "website": "https://www.handle.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Handle builds software that helps simplify construction financial management by automating manual and repetitive tasks throughout the life cycle of construction payments.",
+    "one_liner": "Simplifying Payments and Compliance for Construction Suppliers",
+    "team_size": 55,
+    "industry": "Real Estate and Construction",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1541563431,
+    "tags": [
+      "Payments",
+      "Construction"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W19",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/handle-com",
+    "api": "https://yc-oss.github.io/api/batches/w19/handle-com.json"
   },
   {
     "id": 12057,
@@ -17880,7 +17969,7 @@
     "website": "https://authzed.com",
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "We build the tools companies need to provide performant and scalable authorization for their applications.\r\n\r\nWe’re founded by 3 successful entrepreneurs with expertise in enterprise software, most recently as leaders at Red Hat. Jake and Joey met on the APIs team at Google in 2010. They went on to found Quay, where Jimmy joined as their first hire. Over the past decade, they’ve changed the landscape for building and deploying software.",
-    "one_liner": "Open Source, Google Zanzibar-inspired permissions database",
+    "one_liner": "Cloud Infrastructure for Authorization",
     "team_size": 24,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -33578,16 +33667,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pump saves up to 60% off AWS for early stage startups, and for free (yes, that's right). Using group buying and AI, Pump automates cost savings that require no engineering effort. #GetPumped ",
     "one_liner": "The Costco for cloud is here 🔥🔥",
-    "team_size": 40,
+    "team_size": 50,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1681178261,
     "tags": [
+      "Artificial Intelligence",
       "FinOps",
       "Fintech",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35444,15 +35533,21 @@
       "Ombord"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ebf166f7f6e8f6d186e2ea4a16a6cf16becaf7b.png",
-    "website": "https://frigade.com",
+    "website": "https://frigade.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Frigade helps growth teams better activate and up-sell customers in-product. We combine React UI components such as <Tour />, <Checklist />, and <Announcement /> with a web app to easily power user targeting, content, orchestration, and more.",
-    "one_liner": "Growth platform for modern software teams",
+    "long_description": "Frigade AI is an in-app assistant that intelligently guides and onboards your users through your product. Our agent learns your product's interface, gives contextual guidance that adapts to each user, and takes actions directly on your users' behalf.\r\n\r\nLearn more at Frigade.ai",
+    "one_liner": "AI-powered product assistance for modern software teams",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1672157010,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Customer Success",
+      "Customer Service",
+      "AI Assistant"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -37170,10 +37265,10 @@
     "subindustry": "Real Estate and Construction",
     "launched_at": 1673633463,
     "tags": [
-      "SaaS",
+      "Artificial Intelligence",
+      "Fintech",
       "Finance",
-      "Investing",
-      "AI"
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37283,8 +37378,8 @@
     "website": "http://www.pier-finance.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re building an API for launching credit products. We enable companies to compliantly offer credit by handling the tech stack for origination, underwriting and loan management with just a few lines of code. We have built-in compliance guardrails to ensure that our customers comply with state and federal regulations and assist with licensing requirements and license management. ",
-    "one_liner": "Stripe for Credit - End-to-end credit infra via API",
-    "team_size": 12,
+    "one_liner": "Stripe for Credit - Trusted Credit Compliance Partner",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1673342537,
@@ -38663,7 +38758,7 @@
     "website": "https://airgoods.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "We connect specialty food stores with their next best selling products.\r\n\r\nAirgoods is a wholesale marketplace that makes it easy for specialty food & beverage stores to buy their inventory in one place. Thousands of small businesses order wholesale on Airgoods from top brands like Fishwife, Athletic Brewing, Ghia, and Truff. ",
-    "one_liner": "The wholesale marketplace for food & beverage",
+    "one_liner": "Wholesale marketplace for food & beverage",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
@@ -40124,16 +40219,16 @@
     "all_locations": "Mountain View, CA, USA",
     "long_description": "Inventive is an AI-powered RFP & questionnaire response management platform that drives 70%+ efficiency in sales response workflows.\r\n\r\n**Core benefits and features:**\r\n\r\n- **10X Faster Drafts With Highly Accurate Responses**: Using Inventive’s proprietary AI-system you can get first drafts 10 times faster, with accurate responses rooted in your knowledge sources, that you and your team can collaborate on to refine.\r\n- **Single Hub for All Your Knowledge Sources:** Inventive offers a centralized hub for all your knowledge sources. You can upload previous RFPs and relevant documents; integrate with your internal data systems such as gDrive. Sharepoint & more; upload Q&A from legacy tools or spreadsheets; and even add information from your websites.\r\n- **Fight Stale Content With AI Content Manager:** Inventive’s AI content manager proactively flags conflicting content by identifying issues within your sources, so you only use fresh and relevant content in your responses.\r\n- **Higher Productivity & Competitive Advantage With AI Agents:** Inventive offers a suite of AI agents designed to boost productivity and give you a competitive advantage. These agents can help with researching competitors, brainstorming ideas, and more.\r\n\r\nBuilt by a customer-obsessed team comprising an ex-exec from a Fortune 500 company and ex-AI team from Google & Stanford. Backed by top Silicon Valley investors including YCombinator.",
     "one_liner": "AI Agents For RFP and Questionnaire Response Automation ",
-    "team_size": 5,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1687811406,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Sales"
+      "Sales",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43616,15 +43711,21 @@
     "slug": "ultra-2",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d85b7456dc7e4c2d7c275cc4d26b2dda52f21bf.png",
-    "website": "https://tryultra.org",
+    "website": "https://useultra.ai",
     "all_locations": "",
-    "long_description": "Ultra helps people navigate the most complex problems in their life: things like how to teach their kids, how to get into college, how to pick and break into a career.\r\n\r\nOur first vertical is college admissions. ",
-    "one_liner": "Everyone's Advisor",
+    "long_description": "Ultra helps ambitious students achieve their wildest dreams. Starting with college admissions, Ultra will become the ultimate career coach to the new AI generation of workers. ",
+    "one_liner": "Advisor for Ambitious Students",
     "team_size": 2,
     "industry": "Education",
     "subindustry": "Consumer -> Content",
     "launched_at": 1709700135,
-    "tags": [],
+    "tags": [
+      "Education",
+      "Recruiting",
+      "Social Media",
+      "Social Network",
+      "AI Assistant"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -44800,6 +44901,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/coval",
     "api": "https://yc-oss.github.io/api/batches/s24/coval.json"
+  },
+  {
+    "id": 29568,
+    "name": "Roger",
+    "slug": "roger-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed7adf2496c4443a8cb1ccf4a4aba4e346b8d33c.png",
+    "website": "https://hireroger.com",
+    "all_locations": "",
+    "long_description": "💼 Augment builds AI-powered tools to automate company operations, starting with Roger—an intelligent CRM that acts as your AI-powered sales team. 💼\r\n\r\n🚀 Built by experienced founders and backed by Y Combinator, Augment is redefining sales automation with AI-driven workflows that handle prospecting, outreach, and deal management—so businesses can scale effortlessly.\r\n\r\nHow it Works – \r\n\r\nRoger, Your AI-Powered CRM\r\n\r\n📊 A CRM That Works for You\r\n\r\nUnlike traditional CRMs that require constant manual updates, Roger actively manages your sales pipeline. It tracks interactions, follows up with leads, and keeps your team focused on closing deals instead of admin work.\r\n\r\n🤖 AI-Powered Outreach & Engagement\r\n\r\nRoger automates lead generation and crafts personalized outreach messages across email, LinkedIn, and other channels. It continuously refines its approach based on engagement data to increase conversions.\r\n\r\n🎯 Smart Deal Management\r\n\r\nRoger qualifies leads, schedules follow-ups, and moves deals through your pipeline automatically. It ensures your team never drops the ball on a potential customer.\r\n\r\n📈 Seamless Integration & Insights\r\n\r\nRoger syncs with your existing tools, updating your sales data in real-time. AI-powered analytics provide actionable insights, helping teams optimize sales strategies. By automating tedious sales tasks and making CRM proactive instead of passive, Roger turns AI into your most efficient sales teammate—helping businesses close more deals, faster.",
+    "one_liner": "Roger is an AI SDR that automates outbound sales and follows up 24/7.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Fintech",
+    "launched_at": 1720822142,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/roger-2",
+    "api": "https://yc-oss.github.io/api/batches/s24/roger-2.json"
   },
   {
     "id": 29572,
@@ -46741,15 +46878,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c50573b45d659501dae827b978a7b3ed03ea460.png",
     "website": "https://www.usesimple.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simple AI places places AI calls to help you find things, call customer support, make reservations, and get things done.",
-    "one_liner": "AI Phone Assistant for Consumers",
+    "long_description": "Simple AI makes it easy for businesses to build hyper-realistic AI phone agents. Businesses use us for customer support, leads qualification, and more.",
+    "one_liner": "AI Phone Agents",
     "team_size": 2,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1723575608,
     "tags": [
       "Artificial Intelligence",
-      "Consumer",
+      "Call Center",
+      "Operations",
       "AI",
       "AI Assistant"
     ],
@@ -46760,7 +46898,8 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -47636,6 +47775,47 @@
     "api": "https://yc-oss.github.io/api/batches/f24/revyl.json"
   },
   {
+    "id": 30046,
+    "name": "Cekura (formerly Vocera)",
+    "slug": "cekura-2",
+    "former_names": [
+      "Lex"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e614d24f652dc1e194f172153c3b7036c9c30b2f.png",
+    "website": "https://www.cekura.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Are you building AI voice agents like receptionists, customer support, or sales reps? Do you find yourself manually testing your bot by calling it? We faced similar challenges, especially being in a regulated industry. That's why we developed Cekura - a solution that automates the testing process for your voice agents. With Cekura, you can prove your reliability before going live, test every update seamlessly, and scale your operations efficiently.\r\n\r\nReplicating a real world conversation is hard. Our AI simulates these scenarios using workflows, personas and past conversations.\r\n\r\nWe are already talking to AI for ordering food, getting appointments and even interviews. The market is aptly getting flooded with AI voice agents built by thousands of companies. We make them dependable.",
+    "one_liner": "Testing & Observability for AI voice agents",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728616885,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cekura-2",
+    "api": "https://yc-oss.github.io/api/batches/f24/cekura-2.json"
+  },
+  {
     "id": 30056,
     "name": "Keye",
     "slug": "keye",
@@ -48016,6 +48196,42 @@
     "api": "https://yc-oss.github.io/api/batches/f24/helpcare-ai.json"
   },
   {
+    "id": 30125,
+    "name": "Synth",
+    "slug": "synth-3",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72c8ca1f80fbcb63a0a616d53bce31153601a954.png",
+    "website": "https://www.usesynth.ai",
+    "all_locations": "",
+    "long_description": "You add a few decorators to your agent code, and run your agent on a dataset of questions you've generated / collected in the wild. We give you back a dataset of message triplets that's ready to be uploaded to your fine-tuning provider of choice (OpenAI, OpenPipe, Anthropic, Gemini, etc) that will give you a language model ready to steer your agent in production more effectively.",
+    "one_liner": "We help AI agents learn from data.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1729021221,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "F24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/synth-3",
+    "api": "https://yc-oss.github.io/api/batches/f24/synth-3.json"
+  },
+  {
     "id": 30129,
     "name": "HumanLayer",
     "slug": "humanlayer",
@@ -48366,6 +48582,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/caseflood-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/caseflood-ai.json"
+  },
+  {
+    "id": 30228,
+    "name": "Weave",
+    "slug": "weave-3",
+    "former_names": [
+      "WorkWeave"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/983cb16d6906fc1a691557bf84b21313870ce3d0.png",
+    "website": "https://workweave.dev",
+    "all_locations": "Oakland, CA, USA",
+    "long_description": "Weave uses AI to measure engineering.\r\n\r\nWe scan every PR and understand how much work people are doing and how good it is.",
+    "one_liner": "AI to measure engineering work",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1738683202,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Analytics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/weave-3",
+    "api": "https://yc-oss.github.io/api/batches/w25/weave-3.json"
   },
   {
     "id": 30241,

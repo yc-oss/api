@@ -17480,7 +17480,7 @@
     "website": "https://authzed.com",
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "We build the tools companies need to provide performant and scalable authorization for their applications.\r\n\r\nWe’re founded by 3 successful entrepreneurs with expertise in enterprise software, most recently as leaders at Red Hat. Jake and Joey met on the APIs team at Google in 2010. They went on to found Quay, where Jimmy joined as their first hire. Over the past decade, they’ve changed the landscape for building and deploying software.",
-    "one_liner": "Open Source, Google Zanzibar-inspired permissions database",
+    "one_liner": "Cloud Infrastructure for Authorization",
     "team_size": 24,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23968,7 +23968,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
-    "status": "Acquired",
+    "status": "Active",
     "industries": [
       "B2B",
       "Marketing"
@@ -31597,7 +31597,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Verdn is a climate-impact API for companies and their end-customers. \r\n\r\nWith Verdn, companies direct a portion of sales towards ecosystem restoration projects (like tree planting, ocean-plastic cleanup, and coral planting), carried out by vetted NGO partners. After each sale, we send the end-customer a tracking dashboard where they can engage with updates about their positive impact.\r\n\r\nOur mission is to Ctrl+Z global ecosystem collapse by making sustainability profitable. We have planted 1,500,000 trees, recovered 400,000 kg of ocean-bound plastic and 150 m2 of coral reef, and have over 100+ paying customers that are seeing a 10x boost in engagement.",
     "one_liner": "An API to bundle trackable climate donations with any transaction.",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1639755149,
@@ -35276,16 +35276,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pump saves up to 60% off AWS for early stage startups, and for free (yes, that's right). Using group buying and AI, Pump automates cost savings that require no engineering effort. #GetPumped ",
     "one_liner": "The Costco for cloud is here 🔥🔥",
-    "team_size": 40,
+    "team_size": 50,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1681178261,
     "tags": [
+      "Artificial Intelligence",
       "FinOps",
       "Fintech",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35767,7 +35767,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Miracle is the control room for clinical trials. Our platform consolidates data from multiple trial systems into real-time dashboards, delivering automated insights that empower clinical-stage biopharmaceutical companies to streamline operations, reduce manual workflows, and accelerate data-driven decision-making. By transforming complex trial data into actionable insights, Miracle helps biopharma teams speed up clinical trials, and ultimately, improve patient outcomes.",
     "one_liner": "Accelerate clinical trials with real-time, actionable insights",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1677015940,
@@ -37232,6 +37232,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/polo",
     "api": "https://yc-oss.github.io/api/batches/w23/polo.json"
+  },
+  {
+    "id": 27852,
+    "name": "Frigade",
+    "slug": "frigade",
+    "former_names": [
+      "Ombord"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ebf166f7f6e8f6d186e2ea4a16a6cf16becaf7b.png",
+    "website": "https://frigade.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Frigade AI is an in-app assistant that intelligently guides and onboards your users through your product. Our agent learns your product's interface, gives contextual guidance that adapts to each user, and takes actions directly on your users' behalf.\r\n\r\nLearn more at Frigade.ai",
+    "one_liner": "AI-powered product assistance for modern software teams",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1672157010,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Customer Success",
+      "Customer Service",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/frigade",
+    "api": "https://yc-oss.github.io/api/batches/w23/frigade.json"
   },
   {
     "id": 27854,
@@ -38881,48 +38926,6 @@
     "api": "https://yc-oss.github.io/api/batches/w23/fabius.json"
   },
   {
-    "id": 28127,
-    "name": "Benchmark",
-    "slug": "benchmark",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0dddc99c1f1c38c90b727d87cc7bb8d59dfad6be.png",
-    "website": "https://withbenchmark.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Benchmark is the trusted AI platform for investment firms. Today, leading firms use Benchmark to screen deals, extract insights from unstructured data, and automate workflows. Our platform combines cutting-edge AI with deep industry expertise to help investment firms make smarter, faster decisions across their entire deal lifecycle.",
-    "one_liner": "The trusted AI platform for investment firms",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "Real Estate and Construction",
-    "launched_at": 1673633463,
-    "tags": [
-      "SaaS",
-      "Finance",
-      "Investing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/benchmark",
-    "api": "https://yc-oss.github.io/api/batches/w23/benchmark.json"
-  },
-  {
     "id": 28129,
     "name": "Luca",
     "slug": "luca",
@@ -39067,8 +39070,8 @@
     "website": "http://www.pier-finance.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re building an API for launching credit products. We enable companies to compliantly offer credit by handling the tech stack for origination, underwriting and loan management with just a few lines of code. We have built-in compliance guardrails to ensure that our customers comply with state and federal regulations and assist with licensing requirements and license management. ",
-    "one_liner": "Stripe for Credit - End-to-end credit infra via API",
-    "team_size": 12,
+    "one_liner": "Stripe for Credit - Trusted Credit Compliance Partner",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1673342537,
@@ -40958,16 +40961,16 @@
     "all_locations": "Mountain View, CA, USA",
     "long_description": "Inventive is an AI-powered RFP & questionnaire response management platform that drives 70%+ efficiency in sales response workflows.\r\n\r\n**Core benefits and features:**\r\n\r\n- **10X Faster Drafts With Highly Accurate Responses**: Using Inventive’s proprietary AI-system you can get first drafts 10 times faster, with accurate responses rooted in your knowledge sources, that you and your team can collaborate on to refine.\r\n- **Single Hub for All Your Knowledge Sources:** Inventive offers a centralized hub for all your knowledge sources. You can upload previous RFPs and relevant documents; integrate with your internal data systems such as gDrive. Sharepoint & more; upload Q&A from legacy tools or spreadsheets; and even add information from your websites.\r\n- **Fight Stale Content With AI Content Manager:** Inventive’s AI content manager proactively flags conflicting content by identifying issues within your sources, so you only use fresh and relevant content in your responses.\r\n- **Higher Productivity & Competitive Advantage With AI Agents:** Inventive offers a suite of AI agents designed to boost productivity and give you a competitive advantage. These agents can help with researching competitors, brainstorming ideas, and more.\r\n\r\nBuilt by a customer-obsessed team comprising an ex-exec from a Fortune 500 company and ex-AI team from Google & Stanford. Backed by top Silicon Valley investors including YCombinator.",
     "one_liner": "AI Agents For RFP and Questionnaire Response Automation ",
-    "team_size": 5,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1687811406,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Sales"
+      "Sales",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46708,14 +46711,14 @@
     "all_locations": "",
     "long_description": "Guse is a simple spreadsheet that enables anyone to automate workflows with AI. Building a workflow is as easy as adding columns to a sheet and deploying just takes a single click. No new interfaces to learn, design paradigms to wrestle with, or code needed.",
     "one_liner": "AI native spreadsheet to automate any workflow",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1737490708,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -48001,5 +48004,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vantel",
     "api": "https://yc-oss.github.io/api/batches/w25/vantel.json"
+  },
+  {
+    "id": 30462,
+    "name": "Linkd",
+    "slug": "linkd",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca320740e24bfef8157d47ca2f7700eff6b263b8.png",
+    "website": "https://linkd.inc",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Linkd was built to increase the amount of serendipity in the world. Every person has hundreds of thousands of valuable connections they never realize exist, opportunities hidden within shared experiences, untapped professional networks, and mutual affiliations. We’re here to surface them.",
+    "one_liner": "Find warm connections you didn’t know you had. ",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1742722403,
+    "tags": [
+      "SaaS",
+      "Consumer",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Social"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/linkd",
+    "api": "https://yc-oss.github.io/api/batches/x25/linkd.json"
   }
 ]

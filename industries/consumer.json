@@ -23099,7 +23099,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S20",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Consumer",
       "Social"
@@ -30883,7 +30883,7 @@
     "website": "https://vendah.com.br/",
     "all_locations": "São Paulo, SP, Brazil",
     "long_description": "Vendah empowers brands in Brazil with an AI-driven WhatsApp sales network, connecting them to a distributed force of sellers who drive revenue through personalized, scalable conversations. By combining technology, data intelligence, and automation, we help brands expand their reach, optimize conversions, and unlock new growth channels in the WhatsApp economy.",
-    "one_liner": "AI-driven WhatsApp sales network in Brazil",
+    "one_liner": "Empowering brands in LATAM with an AI-driven WhatsApp sales network",
     "team_size": 60,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -30909,7 +30909,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vendah",
     "api": "https://yc-oss.github.io/api/batches/w23/vendah.json"
@@ -31521,7 +31521,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pure is the first transparent marketplace for the $11B Rare Coins Sector & $55B Precious Metals sector. We make it easy to buy & sell authenticated rare coins and precious metals such as Gold, Silver, Platinum, Palladium & Rhodium. ",
     "one_liner": "Marketplace for Rare Coins & Precious Metals",
-    "team_size": 7,
+    "team_size": 9,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1687372303,
@@ -33039,49 +33039,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/remade.json"
   },
   {
-    "id": 29785,
-    "name": "Simple AI",
-    "slug": "simple-ai",
-    "former_names": [
-      "TBD"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c50573b45d659501dae827b978a7b3ed03ea460.png",
-    "website": "https://www.usesimple.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simple AI places places AI calls to help you find things, call customer support, make reservations, and get things done.",
-    "one_liner": "AI Phone Assistant for Consumers",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1723575608,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/simple-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/simple-ai.json"
-  },
-  {
     "id": 29810,
     "name": "Pumpkin",
     "slug": "pumpkin",
@@ -34264,8 +34221,8 @@
   },
   {
     "id": 30351,
-    "name": "Dex",
-    "slug": "dex-2",
+    "name": "Dexterity",
+    "slug": "dexterity",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588b96acab2b06d3a6d0c0dc1df4ed1a4bf0d80.png",
     "website": "https://joindex.com/",
@@ -34301,8 +34258,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dex-2",
-    "api": "https://yc-oss.github.io/api/batches/w25/dex-2.json"
+    "url": "https://www.ycombinator.com/companies/dexterity",
+    "api": "https://yc-oss.github.io/api/batches/w25/dexterity.json"
   },
   {
     "id": 30365,
@@ -34346,5 +34303,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mentra",
     "api": "https://yc-oss.github.io/api/batches/w25/mentra.json"
+  },
+  {
+    "id": 30462,
+    "name": "Linkd",
+    "slug": "linkd",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca320740e24bfef8157d47ca2f7700eff6b263b8.png",
+    "website": "https://linkd.inc",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Linkd was built to increase the amount of serendipity in the world. Every person has hundreds of thousands of valuable connections they never realize exist, opportunities hidden within shared experiences, untapped professional networks, and mutual affiliations. We’re here to surface them.",
+    "one_liner": "Find warm connections you didn’t know you had. ",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1742722403,
+    "tags": [
+      "SaaS",
+      "Consumer",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Social"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/linkd",
+    "api": "https://yc-oss.github.io/api/batches/x25/linkd.json"
   }
 ]

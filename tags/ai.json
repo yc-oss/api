@@ -1638,7 +1638,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S18",
     "status": "Active",
@@ -4405,55 +4405,6 @@
     "api": "https://yc-oss.github.io/api/batches/w21/mindportal.json"
   },
   {
-    "id": 23629,
-    "name": "Tackle",
-    "slug": "tackle",
-    "former_names": [
-      "TimeTackle",
-      "Tackle",
-      "Hightime",
-      "Hightime AI",
-      "Tackle"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6d69f6925d4c16dd2a677cb6f9d9c595a18a19b.png",
-    "website": "https://www.timetackle.com/",
-    "all_locations": "Mountain View, CA, USA",
-    "long_description": "",
-    "one_liner": "Time audit on autopilot",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1616475313,
-    "tags": [
-      "B2B",
-      "Operations",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W21",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tackle",
-    "api": "https://yc-oss.github.io/api/batches/w21/tackle.json"
-  },
-  {
     "id": 23634,
     "name": "Ollama",
     "slug": "ollama",
@@ -5991,6 +5942,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/instant-labs",
     "api": "https://yc-oss.github.io/api/batches/w22/instant-labs.json"
+  },
+  {
+    "id": 25491,
+    "name": "Bobidi",
+    "slug": "bobidi",
+    "former_names": [
+      "Bobidi, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f84e00a73b712ac5b6de5e0cec130ff847c1a3e3.png",
+    "website": "http://www.upswell.ai",
+    "all_locations": "Los Gatos, CA, USA",
+    "long_description": "Bobidi runs Upswell, a platform that brings new guests to local restaurants and helps turn them into regulars.\r\n\r\nWe transform restaurants’ promotional videos on social media into engaging quiz campaigns based on the video content. Winners receive cash rewards that can be redeemed at the restaurants.",
+    "one_liner": "Restaurant Loyalty Using Quiz",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1642208334,
+    "tags": [
+      "Generative AI",
+      "Machine Learning",
+      "Human Resources",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bobidi",
+    "api": "https://yc-oss.github.io/api/batches/w22/bobidi.json"
   },
   {
     "id": 25541,
@@ -8699,50 +8696,6 @@
     "api": "https://yc-oss.github.io/api/batches/s22/monterey-ai.json"
   },
   {
-    "id": 27178,
-    "name": "Pump.co",
-    "slug": "pump-co",
-    "former_names": [
-      "Pump"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd441b185f1d0725ac8c35281774ba67b3fdc86.png",
-    "website": "https://www.pump.co/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pump saves up to 60% off AWS for early stage startups, and for free (yes, that's right). Using group buying and AI, Pump automates cost savings that require no engineering effort. #GetPumped ",
-    "one_liner": "The Costco for cloud is here 🔥🔥",
-    "team_size": 40,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1681178261,
-    "tags": [
-      "FinOps",
-      "Fintech",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pump-co",
-    "api": "https://yc-oss.github.io/api/batches/s22/pump-co.json"
-  },
-  {
     "id": 27185,
     "name": "Knowtex",
     "slug": "knowtex",
@@ -11290,48 +11243,6 @@
     "api": "https://yc-oss.github.io/api/batches/w23/fabius.json"
   },
   {
-    "id": 28127,
-    "name": "Benchmark",
-    "slug": "benchmark",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0dddc99c1f1c38c90b727d87cc7bb8d59dfad6be.png",
-    "website": "https://withbenchmark.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Benchmark is the trusted AI platform for investment firms. Today, leading firms use Benchmark to screen deals, extract insights from unstructured data, and automate workflows. Our platform combines cutting-edge AI with deep industry expertise to help investment firms make smarter, faster decisions across their entire deal lifecycle.",
-    "one_liner": "The trusted AI platform for investment firms",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "Real Estate and Construction",
-    "launched_at": 1673633463,
-    "tags": [
-      "SaaS",
-      "Finance",
-      "Investing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/benchmark",
-    "api": "https://yc-oss.github.io/api/batches/w23/benchmark.json"
-  },
-  {
     "id": 28183,
     "name": "Metal",
     "slug": "metal",
@@ -13283,6 +13194,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fragment",
     "api": "https://yc-oss.github.io/api/batches/s23/fragment.json"
+  },
+  {
+    "id": 29040,
+    "name": "Inventive AI",
+    "slug": "inventive-ai",
+    "former_names": [
+      "Inventiv AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ca8dbe5acb1f1a068aec484d7a9083db2e81f55.png",
+    "website": "https://www.inventive.ai/",
+    "all_locations": "Mountain View, CA, USA",
+    "long_description": "Inventive is an AI-powered RFP & questionnaire response management platform that drives 70%+ efficiency in sales response workflows.\r\n\r\n**Core benefits and features:**\r\n\r\n- **10X Faster Drafts With Highly Accurate Responses**: Using Inventive’s proprietary AI-system you can get first drafts 10 times faster, with accurate responses rooted in your knowledge sources, that you and your team can collaborate on to refine.\r\n- **Single Hub for All Your Knowledge Sources:** Inventive offers a centralized hub for all your knowledge sources. You can upload previous RFPs and relevant documents; integrate with your internal data systems such as gDrive. Sharepoint & more; upload Q&A from legacy tools or spreadsheets; and even add information from your websites.\r\n- **Fight Stale Content With AI Content Manager:** Inventive’s AI content manager proactively flags conflicting content by identifying issues within your sources, so you only use fresh and relevant content in your responses.\r\n- **Higher Productivity & Competitive Advantage With AI Agents:** Inventive offers a suite of AI agents designed to boost productivity and give you a competitive advantage. These agents can help with researching competitors, brainstorming ideas, and more.\r\n\r\nBuilt by a customer-obsessed team comprising an ex-exec from a Fortune 500 company and ex-AI team from Google & Stanford. Backed by top Silicon Valley investors including YCombinator.",
+    "one_liner": "AI Agents For RFP and Questionnaire Response Automation ",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1687811406,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "Sales",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inventive-ai",
+    "api": "https://yc-oss.github.io/api/batches/s23/inventive-ai.json"
   },
   {
     "id": 29046,
@@ -15992,6 +15948,45 @@
     "api": "https://yc-oss.github.io/api/batches/w24/quantic-labs.json"
   },
   {
+    "id": 29355,
+    "name": "phospho",
+    "slug": "phospho",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18adb73f19cdc6d40006f80186b22f0d0a3b08ff.png",
+    "website": "https://phospho.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "phospho aims to provide sdks, tutorials and hardware kits for real-world robotics in Python. The goal is to lower the barrier for entry to robotics so that everyone can start building intelligent robots.",
+    "one_liner": "Give brains to robots",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1704472093,
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/phospho",
+    "api": "https://yc-oss.github.io/api/batches/w24/phospho.json"
+  },
+  {
     "id": 29356,
     "name": "Centralize",
     "slug": "centralize",
@@ -17446,48 +17441,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/angstrom-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/angstrom-ai.json"
-  },
-  {
-    "id": 29557,
-    "name": "Ultra",
-    "slug": "ultra",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e0a45197c7d56b15f0976e431a519c2b35929c0.png",
-    "website": "https://ultra.tech",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Ultra builds AI-powered robots that automate the dull, repetitive labor still done by people in American warehouses. We’re starting with e-commerce order packaging in fulfillment centers — where a worker puts items in a box, seals it, and labels it. Traditional automation isn't working for warehouses because it's costly, rigid, and often underutilized. Ultra’s robots are different: they’re easy to deploy, adaptable, and powered by AI that’s trained through examples.",
-    "one_liner": "Robots to package billions of e-commerce orders in warehouses",
-    "team_size": 4,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1723759198,
-    "tags": [
-      "Hard Tech",
-      "Robotics",
-      "Logistics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ultra",
-    "api": "https://yc-oss.github.io/api/batches/s24/ultra.json"
   },
   {
     "id": 29573,
@@ -19586,15 +19539,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c50573b45d659501dae827b978a7b3ed03ea460.png",
     "website": "https://www.usesimple.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simple AI places places AI calls to help you find things, call customer support, make reservations, and get things done.",
-    "one_liner": "AI Phone Assistant for Consumers",
+    "long_description": "Simple AI makes it easy for businesses to build hyper-realistic AI phone agents. Businesses use us for customer support, leads qualification, and more.",
+    "one_liner": "AI Phone Agents",
     "team_size": 2,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1723575608,
     "tags": [
       "Artificial Intelligence",
-      "Consumer",
+      "Call Center",
+      "Operations",
       "AI",
       "AI Assistant"
     ],
@@ -19605,7 +19559,8 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -22494,6 +22449,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/subimage.json"
   },
   {
+    "id": 30193,
+    "name": "Guse",
+    "slug": "guse",
+    "former_names": [
+      "Fin"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/836ac1a5479beec4034fd9b4728c997edac713b4.png",
+    "website": "https://www.guse.io/",
+    "all_locations": "",
+    "long_description": "Guse is a simple spreadsheet that enables anyone to automate workflows with AI. Building a workflow is as easy as adding columns to a sheet and deploying just takes a single click. No new interfaces to learn, design paradigms to wrestle with, or code needed.",
+    "one_liner": "AI native spreadsheet to automate any workflow",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1737490708,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/guse",
+    "api": "https://yc-oss.github.io/api/batches/w25/guse.json"
+  },
+  {
     "id": 30201,
     "name": "Dartboard Energy",
     "slug": "dartboard-energy",
@@ -23468,6 +23465,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lopus-ai",
     "api": "https://yc-oss.github.io/api/batches/w25/lopus-ai.json"
+  },
+  {
+    "id": 30268,
+    "name": "AthenaHQ",
+    "slug": "athenahq",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c559a82e8bccf756d0c26668df5ed8dc95c8bd00.png",
+    "website": "https://www.athenahq.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Make sure your brand doesn't get left behind by the paradigm shift from traditional search to generative search.\r\n\r\nAthenaHQ helps your brand get discovered on generative engines like ChatGPT, Perplexity, Claude, Gemini, and more.\r\n\r\nGenerative engine search is expected to overtake traditional search in the next 3 years. We are building AthenaHQ to fill that gap.\r\n\r\nTeam of former product manager on Google Search's information acquisition team, Deepmind Generative Media team, and ChatGPT superusers.",
+    "one_liner": "Get Your Brand Discovered on ChatGPT.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1739175359,
+    "tags": [
+      "Analytics",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/athenahq",
+    "api": "https://yc-oss.github.io/api/batches/w25/athenahq.json"
   },
   {
     "id": 30271,
@@ -24564,46 +24602,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fira",
     "api": "https://yc-oss.github.io/api/batches/w25/fira.json"
-  },
-  {
-    "id": 30431,
-    "name": "Chonkie",
-    "slug": "chonkie",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b17534ba287037ccdd64190ce407624696f30a.png",
-    "website": "https://www.chonkie.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Chonkie breaks down large documents into smaller, meaningful chunks, making it easier for AI to process information. By ensuring that models receive only relevant and well-structured context within their token limits, Chonkie improves response accuracy and speed. Our tools are built to integrate seamlessly with any tech stack, so you can focus on leveraging your AI's full potential easily.",
-    "one_liner": "Make Documents AI Ready",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1741421145,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "X25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/chonkie",
-    "api": "https://yc-oss.github.io/api/batches/x25/chonkie.json"
   }
 ]

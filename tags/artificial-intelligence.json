@@ -5883,7 +5883,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S20",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Consumer",
       "Social"
@@ -7826,6 +7826,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mindportal",
     "api": "https://yc-oss.github.io/api/batches/w21/mindportal.json"
+  },
+  {
+    "id": 23629,
+    "name": "Tackle",
+    "slug": "tackle",
+    "former_names": [
+      "TimeTackle",
+      "Tackle",
+      "Hightime",
+      "Hightime AI",
+      "Tackle"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6d69f6925d4c16dd2a677cb6f9d9c595a18a19b.png",
+    "website": "https://www.timetackle.com/",
+    "all_locations": "Mountain View, CA, USA",
+    "long_description": "",
+    "one_liner": "Time tracking on autopilot",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1616475313,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W21",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tackle",
+    "api": "https://yc-oss.github.io/api/batches/w21/tackle.json"
   },
   {
     "id": 23781,
@@ -10156,52 +10205,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/coffeeai",
     "api": "https://yc-oss.github.io/api/batches/w22/coffeeai.json"
-  },
-  {
-    "id": 25491,
-    "name": "Bobidi",
-    "slug": "bobidi",
-    "former_names": [
-      "Bobidi, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ad06a2fc0dfb05a71b56e2db5a10bae1d203fbe.png",
-    "website": "http://www.supertalents.ai",
-    "all_locations": "Los Gatos, CA, USA",
-    "long_description": "Bobidi runs SuperTalents AI, a gamified training solution to help restaurants and vendors boost sales by empowering their staff.  ",
-    "one_liner": "Gamified Trainig For Hospitality Workers",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1642208334,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Machine Learning",
-      "Human Resources"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Human Resources"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bobidi",
-    "api": "https://yc-oss.github.io/api/batches/w22/bobidi.json"
   },
   {
     "id": 25511,
@@ -13253,6 +13256,50 @@
     "api": "https://yc-oss.github.io/api/batches/s22/monterey-ai.json"
   },
   {
+    "id": 27178,
+    "name": "Pump.co",
+    "slug": "pump-co",
+    "former_names": [
+      "Pump"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd441b185f1d0725ac8c35281774ba67b3fdc86.png",
+    "website": "https://www.pump.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pump saves up to 60% off AWS for early stage startups, and for free (yes, that's right). Using group buying and AI, Pump automates cost savings that require no engineering effort. #GetPumped ",
+    "one_liner": "The Costco for cloud is here 🔥🔥",
+    "team_size": 50,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1681178261,
+    "tags": [
+      "Artificial Intelligence",
+      "FinOps",
+      "Fintech",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pump-co",
+    "api": "https://yc-oss.github.io/api/batches/s22/pump-co.json"
+  },
+  {
     "id": 27221,
     "name": "CAPSULE",
     "slug": "capsule",
@@ -14529,6 +14576,51 @@
     "api": "https://yc-oss.github.io/api/batches/w23/athina-ai.json"
   },
   {
+    "id": 27852,
+    "name": "Frigade",
+    "slug": "frigade",
+    "former_names": [
+      "Ombord"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ebf166f7f6e8f6d186e2ea4a16a6cf16becaf7b.png",
+    "website": "https://frigade.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Frigade AI is an in-app assistant that intelligently guides and onboards your users through your product. Our agent learns your product's interface, gives contextual guidance that adapts to each user, and takes actions directly on your users' behalf.\r\n\r\nLearn more at Frigade.ai",
+    "one_liner": "AI-powered product assistance for modern software teams",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1672157010,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Customer Success",
+      "Customer Service",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/frigade",
+    "api": "https://yc-oss.github.io/api/batches/w23/frigade.json"
+  },
+  {
     "id": 27867,
     "name": "TruthSuite",
     "slug": "truthsuite",
@@ -15607,6 +15699,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/interlock",
     "api": "https://yc-oss.github.io/api/batches/w23/interlock.json"
+  },
+  {
+    "id": 28127,
+    "name": "Benchmark",
+    "slug": "benchmark",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0dddc99c1f1c38c90b727d87cc7bb8d59dfad6be.png",
+    "website": "https://withbenchmark.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Benchmark is the trusted AI platform for investment firms. Today, leading firms use Benchmark to screen deals, extract insights from unstructured data, and automate workflows. Our platform combines cutting-edge AI with deep industry expertise to help investment firms make smarter, faster decisions across their entire deal lifecycle.",
+    "one_liner": "The trusted AI platform for investment firms",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "Real Estate and Construction",
+    "launched_at": 1673633463,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/benchmark",
+    "api": "https://yc-oss.github.io/api/batches/w23/benchmark.json"
   },
   {
     "id": 28329,
@@ -17923,51 +18057,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/sudocode.json"
   },
   {
-    "id": 29040,
-    "name": "Inventive AI",
-    "slug": "inventive-ai",
-    "former_names": [
-      "Inventiv AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ca8dbe5acb1f1a068aec484d7a9083db2e81f55.png",
-    "website": "https://www.inventive.ai/",
-    "all_locations": "Mountain View, CA, USA",
-    "long_description": "Inventive is an AI-powered RFP & questionnaire response management platform that drives 70%+ efficiency in sales response workflows.\r\n\r\n**Core benefits and features:**\r\n\r\n- **10X Faster Drafts With Highly Accurate Responses**: Using Inventive’s proprietary AI-system you can get first drafts 10 times faster, with accurate responses rooted in your knowledge sources, that you and your team can collaborate on to refine.\r\n- **Single Hub for All Your Knowledge Sources:** Inventive offers a centralized hub for all your knowledge sources. You can upload previous RFPs and relevant documents; integrate with your internal data systems such as gDrive. Sharepoint & more; upload Q&A from legacy tools or spreadsheets; and even add information from your websites.\r\n- **Fight Stale Content With AI Content Manager:** Inventive’s AI content manager proactively flags conflicting content by identifying issues within your sources, so you only use fresh and relevant content in your responses.\r\n- **Higher Productivity & Competitive Advantage With AI Agents:** Inventive offers a suite of AI agents designed to boost productivity and give you a competitive advantage. These agents can help with researching competitors, brainstorming ideas, and more.\r\n\r\nBuilt by a customer-obsessed team comprising an ex-exec from a Fortune 500 company and ex-AI team from Google & Stanford. Backed by top Silicon Valley investors including YCombinator.",
-    "one_liner": "AI Agents For RFP and Questionnaire Response Automation ",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1687811406,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "SaaS",
-      "B2B",
-      "Sales"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inventive-ai",
-    "api": "https://yc-oss.github.io/api/batches/s23/inventive-ai.json"
-  },
-  {
     "id": 29045,
     "name": "Movley",
     "slug": "movley",
@@ -18014,6 +18103,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/movley",
     "api": "https://yc-oss.github.io/api/batches/s23/movley.json"
+  },
+  {
+    "id": 29073,
+    "name": "Terracotta AI",
+    "slug": "terracotta-ai",
+    "former_names": [
+      "Monitaur",
+      "Monitaur (Pivoted)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7901d3a776bcd60d2813e642a8814ea750bb84ef.png",
+    "website": "https://tryterracotta.com",
+    "all_locations": "",
+    "long_description": "Terracotta AI is an AI-powered Infrastructure as Code PR reviewer for Terraform, OpenTofu, and CDK-TF code, making Infrastructure as Code changes more transparent, less risky, and faster.\r\n\r\nTerracotta stops your Infrastructure as Code deployments from becoming ticking time bombs every time you modify your environment with AI-driven, contextual feedback delivered directly to your pull requests.",
+    "one_liner": "AI-powered Infrastructure as Code PR reviews",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1686680826,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "DevOps",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/terracotta-ai",
+    "api": "https://yc-oss.github.io/api/batches/s23/terracotta-ai.json"
   },
   {
     "id": 29081,
@@ -20253,45 +20387,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/firebender",
     "api": "https://yc-oss.github.io/api/batches/w24/firebender.json"
-  },
-  {
-    "id": 29355,
-    "name": "phospho",
-    "slug": "phospho",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18adb73f19cdc6d40006f80186b22f0d0a3b08ff.png",
-    "website": "https://phospho.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "phospho aims to provide sdks, tutorials and hardware kits for real-world robotics in Python. The goal is to lower the barrier for entry to robotics so that everyone can start building intelligent robots.",
-    "one_liner": "The fastest way to get started in AI robotics as an ML engineer",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1704472093,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/phospho",
-    "api": "https://yc-oss.github.io/api/batches/w24/phospho.json"
   },
   {
     "id": 29356,
@@ -24347,15 +24442,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c50573b45d659501dae827b978a7b3ed03ea460.png",
     "website": "https://www.usesimple.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simple AI places places AI calls to help you find things, call customer support, make reservations, and get things done.",
-    "one_liner": "AI Phone Assistant for Consumers",
+    "long_description": "Simple AI makes it easy for businesses to build hyper-realistic AI phone agents. Businesses use us for customer support, leads qualification, and more.",
+    "one_liner": "AI Phone Agents",
     "team_size": 2,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1723575608,
     "tags": [
       "Artificial Intelligence",
-      "Consumer",
+      "Call Center",
+      "Operations",
       "AI",
       "AI Assistant"
     ],
@@ -24366,7 +24462,8 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B",
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -26972,48 +27069,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/admyral.json"
   },
   {
-    "id": 30193,
-    "name": "Guse",
-    "slug": "guse",
-    "former_names": [
-      "Fin"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/836ac1a5479beec4034fd9b4728c997edac713b4.png",
-    "website": "https://www.guse.io/",
-    "all_locations": "",
-    "long_description": "Guse is a simple spreadsheet that enables anyone to automate workflows with AI. Building a workflow is as easy as adding columns to a sheet and deploying just takes a single click. No new interfaces to learn, design paradigms to wrestle with, or code needed.",
-    "one_liner": "AI native spreadsheet to automate any workflow",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1737490708,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/guse",
-    "api": "https://yc-oss.github.io/api/batches/w25/guse.json"
-  },
-  {
     "id": 30197,
     "name": "Alice.tech",
     "slug": "alice-tech",
@@ -27239,21 +27294,21 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/983cb16d6906fc1a691557bf84b21313870ce3d0.png",
     "website": "https://workweave.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Weave uses AI to measure engineering.\r\n\r\nWe scan every PR and tell you how much work people are doing and how good it is.",
-    "one_liner": "AI to measure engineering work.",
+    "all_locations": "Oakland, CA, USA",
+    "long_description": "Weave uses AI to measure engineering.\r\n\r\nWe scan every PR and understand how much work people are doing and how good it is.",
+    "one_liner": "AI to measure engineering work",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738683202,
     "tags": [
       "Artificial Intelligence",
-      "Machine Learning",
-      "Enterprise Software"
+      "B2B",
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W25",
     "status": "Active",
@@ -27788,91 +27843,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/harbera",
     "api": "https://yc-oss.github.io/api/batches/w25/harbera.json"
-  },
-  {
-    "id": 30268,
-    "name": "AthenaHQ",
-    "slug": "athenahq",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c559a82e8bccf756d0c26668df5ed8dc95c8bd00.png",
-    "website": "https://www.athenahq.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Make sure your brand doesn't get left behind by the paradigm shift from traditional search to generative search.\r\n\r\nAthenaHQ helps your brand get discovered on generative engines like ChatGPT, Perplexity, Claude, Gemini, and more.\r\n\r\nGenerative engine search is expected to overtake traditional search in the next 3 years. We are building AthenaHQ to fill that gap.\r\n\r\nTeam of former product manager on Google Search's information acquisition team, Deepmind Generative Media team, and ChatGPT superusers.",
-    "one_liner": "Get Your Brand Discovered on ChatGPT.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Consumer -> Content",
-    "launched_at": 1739175359,
-    "tags": [
-      "Artificial Intelligence",
-      "Analytics",
-      "Marketing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/athenahq",
-    "api": "https://yc-oss.github.io/api/batches/w25/athenahq.json"
-  },
-  {
-    "id": 30270,
-    "name": "G LNK",
-    "slug": "g-lnk",
-    "former_names": [
-      "G LNK Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30e81e807267eac09097c7b4e6fc47510c7e0c54.png",
-    "website": "https://glnkco.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "G LNK is an AI-powered platform simplifying how healthcare companies connect with the relevant medical professionals. Our proprietary matching and ranking models instantly identify the most qualified experts, accelerating drug development and commercialization. Designed with compliance at its core, G LNK ensures every connection meets strict regulatory and ethical standards—empowering companies to innovate faster with confidence.",
-    "one_liner": "Simplifying Collaboration for Healthcare Organizations & Professionals",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1738929097,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Health Tech",
-      "B2B",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/g-lnk",
-    "api": "https://yc-oss.github.io/api/batches/w25/g-lnk.json"
   },
   {
     "id": 30271,
@@ -28681,46 +28651,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mentra",
     "api": "https://yc-oss.github.io/api/batches/w25/mentra.json"
-  },
-  {
-    "id": 30431,
-    "name": "Chonkie",
-    "slug": "chonkie",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b17534ba287037ccdd64190ce407624696f30a.png",
-    "website": "https://www.chonkie.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Chonkie breaks down large documents into smaller, meaningful chunks, making it easier for AI to process information. By ensuring that models receive only relevant and well-structured context within their token limits, Chonkie improves response accuracy and speed. Our tools are built to integrate seamlessly with any tech stack, so you can focus on leveraging your AI's full potential easily.",
-    "one_liner": "Make Documents AI Ready",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1741421145,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "X25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/chonkie",
-    "api": "https://yc-oss.github.io/api/batches/x25/chonkie.json"
   }
 ]
