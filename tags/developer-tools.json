@@ -8783,7 +8783,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/testrigor",
     "api": "https://yc-oss.github.io/api/batches/s21/testrigor.json"
@@ -13284,9 +13284,9 @@
     "launched_at": 1679062598,
     "tags": [
       "Documents",
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15468,11 +15468,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689732876,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Cybersecurity",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16291,49 +16291,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/paradedb",
     "api": "https://yc-oss.github.io/api/batches/s23/paradedb.json"
-  },
-  {
-    "id": 29103,
-    "name": "Inconvo",
-    "slug": "inconvo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42126d50fed615bc74167d22b4985b25e9d25fad.png",
-    "website": "https://inconvo.ai",
-    "all_locations": "Limerick, County Limerick, Ireland",
-    "long_description": "Inconvo makes it easy for developers to add Conversational AI for customer-facing analytics so that users can ask questions on their data in natural language.\r\n\r\nWith Inconvo shipping AI-first analytics is easy, simply send a user question to our API which responds with a chart, table or text. \r\n\r\nInconvo connects to your database to automatically retrieve the right data to answer your users’ questions. Then, you’re in charge of presenting the responses to your users in a way that fits your design.\r\n\r\nInconvo is purpose-built to overcome the challenges of AI for customer-facing analytics, providing tools that handle multi-tenancy, database access control, AI evaluation, and a semantic layer that maps business terms to database labels.",
-    "one_liner": "Conversational AI for customer-facing analytics",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1690946743,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "Analytics",
-      "API",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Ireland",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inconvo",
-    "api": "https://yc-oss.github.io/api/batches/s23/inconvo.json"
   },
   {
     "id": 29105,
@@ -19284,7 +19241,7 @@
     "former_names": [
       "TBD"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb6bdec6d811fcf222549436bd6be5f9214dd6c4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe89d9da806b8a9af0112caeea9a7d059ee090aa.png",
     "website": "https://octopipe.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Octopipe is ETL reimagined powered by AI that changes how companies create, maintain and scale data pipelines.",
@@ -19294,11 +19251,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1721925789,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "Enterprise",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20588,6 +20545,7 @@
     "launched_at": 1733176117,
     "tags": [
       "Developer Tools",
+      "Open Source",
       "Infrastructure"
     ],
     "tags_highlighted": [],

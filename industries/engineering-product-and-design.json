@@ -10487,7 +10487,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/testrigor",
     "api": "https://yc-oss.github.io/api/batches/s21/testrigor.json"
@@ -15876,11 +15876,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689732876,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Cybersecurity",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16454,7 +16454,6 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1690946743,
     "tags": [
-      "Developer Tools",
       "SaaS",
       "Analytics",
       "API",
@@ -20899,7 +20898,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "F24",
     "status": "Active",
@@ -21013,7 +21012,7 @@
     "name": "Codebuff",
     "slug": "codebuff",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83dd749cad6b076cbdf0353e077cb0a959d224a4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c3bd521671ff1018fab1cfec67391e222af6341.png",
     "website": "https://codebuff.com",
     "all_locations": "",
     "long_description": "Chat with Codebuff to edit your codebase. It's a coding agent that can iterate and run terminal commands, just like a real engineer! We are going up-market from Cursor, starting at a $49/mo price point.\r\n\r\nCodebuff chooses files to read automatically on each message, which improves its awareness of your codebase and saves you time. It has full access to your terminal — Codebuff can run terminal commands to install packages, run tests, check for type errors, etc. It's the most powerful coding agent on the market that also happens to be the easiest to use.\r\n\r\nCodebuff is an engineer working for you. Run `npm install -g codebuff` to get started.",
@@ -21039,7 +21038,7 @@
     "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/codebuff",
     "api": "https://yc-oss.github.io/api/batches/f24/codebuff.json"
@@ -21300,6 +21299,7 @@
     "launched_at": 1733176117,
     "tags": [
       "Developer Tools",
+      "Open Source",
       "Infrastructure"
     ],
     "tags_highlighted": [],
