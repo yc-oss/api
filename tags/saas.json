@@ -2238,7 +2238,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2499,7 +2499,7 @@
       "Israel",
       "Middle East and North Africa"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3493,7 +3493,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -3576,7 +3576,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3663,7 +3663,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4325,7 +4325,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4593,7 +4593,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4769,7 +4769,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6464,7 +6464,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6961,7 +6961,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7589,7 +7589,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9679,7 +9679,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10263,7 +10263,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -12942,7 +12942,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13146,7 +13146,7 @@
     "one_liner": "Alloy is a platform for building and managing SaaS integrations",
     "team_size": 40,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1594318518,
     "tags": [
       "SaaS",
@@ -14119,7 +14119,9 @@
     "id": 13557,
     "name": "Workpay",
     "slug": "workpay",
-    "former_names": [],
+    "former_names": [
+      "WorkPay"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09dcfca12373bb214263ff9365e1886ef988ba50.png",
     "website": "https://myworkpay.com",
     "all_locations": "Nairobi, Nairobi County, Kenya",
@@ -14543,7 +14545,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20931,6 +20933,48 @@
     "api": "https://yc-oss.github.io/api/batches/w21/inbalance.json"
   },
   {
+    "id": 23357,
+    "name": "Treinta",
+    "slug": "treinta",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22a2db8472fb087e350b2fb2e013f633f97d013d.png",
+    "website": "https://www.treinta.co",
+    "all_locations": "Bogotá, Bogota, Colombia",
+    "long_description": "Treinta is a digital ledger app for Latin American microbusinesses with over 6 million users across 23 countries. Through Treinta, users can easily record transactions by assigning products from their inventory and see how their business metrics evolve in real time. ",
+    "one_liner": "Digital ledger App for Latam microbusinesses",
+    "team_size": 70,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1611327725,
+    "tags": [
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W21",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Colombia",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/treinta",
+    "api": "https://yc-oss.github.io/api/batches/w21/treinta.json"
+  },
+  {
     "id": 23366,
     "name": "OlaClick",
     "slug": "olaclick",
@@ -22443,7 +22487,7 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "The first apparel & footwear Carbon Management Platform.",
     "one_liner": "Decarbonizing the fashion industry",
-    "team_size": 25,
+    "team_size": 22,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1626882180,
@@ -25714,7 +25758,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -30766,7 +30810,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -38795,7 +38839,10 @@
     "id": 28103,
     "name": "Fern",
     "slug": "fern",
-    "former_names": [],
+    "former_names": [
+      "Fern",
+      "fern"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f48c426b67826bae7fd3fded6bfc3e891fd72d2.png",
     "website": "https://www.buildwithfern.com",
     "all_locations": "New York, NY, USA",
@@ -45328,6 +45375,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/merlin-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/merlin-ai.json"
+  },
+  {
+    "id": 29983,
+    "name": "PathPilot",
+    "slug": "pathpilot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6768364915c3c8551c79d1fe59ba06f2cc7c2a5.png",
+    "website": "https://www.getpathpilot.com/",
+    "all_locations": "San Jose, CA, USA",
+    "long_description": "PathPilot helps PLG SaaS companies understand what drives upgrades and cancellations by transforming session data into actionable insights.\r\n* AI-powered session summaries – Automatically generates second-by-second narrations of user behavior, making it easy to spot friction points and successes.\r\n*  Conversion & churn insights – Identify the key actions that led to an upgrade or drop-off, so you can optimize your product for growth.",
+    "one_liner": "Optimize SaaS revenue by understanding user behavior",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1724891975,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Analytics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pathpilot",
+    "api": "https://yc-oss.github.io/api/batches/s24/pathpilot.json"
   },
   {
     "id": 29988,

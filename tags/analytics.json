@@ -362,7 +362,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1844,7 +1844,10 @@
     "slug": "voiceops",
     "former_names": [
       "Clover Intelligence",
-      "Voice Ops"
+      "Voice Ops",
+      "VoiceOps",
+      "Voiceops",
+      "VoiceOps"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e326734ce45c54c41f0c6a0f3e7509a5edb06d56.png",
     "website": "https://voiceops.com",
@@ -1875,7 +1878,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2272,7 +2275,7 @@
     "all_locations": "Beijing, Beijing, China",
     "long_description": "JuziBot is a startup that provides smart marketing and sales services for customers on WeChat platform, the company helps SMBs build secure and stable key opinion customer (KOC) channels, as well as helps corporate clients with customer acquisition and sales conversion. JuziBot currently serves customers in education, insurance, healthcare, and a few other industries, some of the clients include Meituan Dianping, Digital China, Zuoyebang, etc., and 80% of these existing customers have been acquired through word of mouth. JuziBot's products have been known to improve the sales experience for one million sales professionals on a daily basis. \r\n\r\nThe company is invested by a number of leading VCs including PreAngel, Plug and Play, Y Combinator, TSVC, and Alpha Startups. JuziBot received the CCFA Retail Technology Rising Enterprise Award in 2018. In 2018 and 2019, respectively, the company won the 1st place in both of the task-based human-machine dialogue response naturalness, and the chat-type human-machine dialogue assessment in the SMP Chinese Human-Machine Dialogue Technology Evaluation held by the Chinese Information Processing Society of China (CIPSC).",
     "one_liner": "Intercom for WeChat, help companies to acquire,  engage, retain…",
-    "team_size": 20,
+    "team_size": 34,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1527048483,
@@ -3578,7 +3581,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -7443,6 +7446,49 @@
     "api": "https://yc-oss.github.io/api/batches/s24/capitol-ai.json"
   },
   {
+    "id": 29983,
+    "name": "PathPilot",
+    "slug": "pathpilot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6768364915c3c8551c79d1fe59ba06f2cc7c2a5.png",
+    "website": "https://www.getpathpilot.com/",
+    "all_locations": "San Jose, CA, USA",
+    "long_description": "PathPilot helps PLG SaaS companies understand what drives upgrades and cancellations by transforming session data into actionable insights.\r\n* AI-powered session summaries – Automatically generates second-by-second narrations of user behavior, making it easy to spot friction points and successes.\r\n*  Conversion & churn insights – Identify the key actions that led to an upgrade or drop-off, so you can optimize your product for growth.",
+    "one_liner": "Optimize SaaS revenue by understanding user behavior",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1724891975,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Analytics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pathpilot",
+    "api": "https://yc-oss.github.io/api/batches/s24/pathpilot.json"
+  },
+  {
     "id": 30032,
     "name": "Coblocks",
     "slug": "coblocks",
@@ -7666,7 +7712,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/983cb16d6906fc1a691557bf84b21313870ce3d0.png",
     "website": "https://workweave.dev",
-    "all_locations": "Oakland, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Weave uses AI to measure engineering.\r\n\r\nWe scan every PR and understand how much work people are doing and how good it is.",
     "one_liner": "AI to measure engineering work",
     "team_size": 2,
@@ -7674,9 +7720,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738683202,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Analytics"
+      "Analytics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

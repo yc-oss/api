@@ -620,7 +620,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1344,7 +1344,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": false,
@@ -1585,7 +1585,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W15",
     "status": "Active",
@@ -1599,7 +1599,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2494,7 +2494,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3368,7 +3368,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4113,7 +4113,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": false,
@@ -5134,7 +5134,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5872,7 +5872,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6549,7 +6549,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6591,7 +6591,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6936,7 +6936,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": true,
@@ -7341,7 +7341,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -7745,7 +7745,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9425,7 +9425,7 @@
     "one_liner": "Investment platform for MENA individuals",
     "team_size": 235,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
+    "subindustry": "Fintech",
     "launched_at": 1598346387,
     "tags": [
       "Fintech"
@@ -9933,7 +9933,9 @@
     "id": 13557,
     "name": "Workpay",
     "slug": "workpay",
-    "former_names": [],
+    "former_names": [
+      "WorkPay"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/09dcfca12373bb214263ff9365e1886ef988ba50.png",
     "website": "https://myworkpay.com",
     "all_locations": "Nairobi, Nairobi County, Kenya",
@@ -13580,7 +13582,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13896,48 +13898,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pagaloop",
     "api": "https://yc-oss.github.io/api/batches/w21/pagaloop.json"
-  },
-  {
-    "id": 23357,
-    "name": "Treinta",
-    "slug": "treinta",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22a2db8472fb087e350b2fb2e013f633f97d013d.png",
-    "website": "https://www.treinta.co",
-    "all_locations": "Bogotá, Bogota, Colombia",
-    "long_description": "Treinta is a digital ledger app for Latin American microbusinesses with over 5 million users across 18 countries. Through Treinta, users can easily record transactions by assigning products from their inventory and see how their business metrics evolve in real time. Users can also access a B2B marketplace and digital payment solutions.",
-    "one_liner": "Digital ledger App for Latam microbusinesses",
-    "team_size": 120,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1611327725,
-    "tags": [
-      "Fintech",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W21",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "regions": [
-      "Colombia",
-      "Latin America",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/treinta",
-    "api": "https://yc-oss.github.io/api/batches/w21/treinta.json"
   },
   {
     "id": 23389,
@@ -14998,7 +14958,7 @@
     "all_locations": "Mexico City, CDMX, Mexico; Wilmington, DE, USA; Remote",
     "long_description": "DolarApp lets people in LatAm (currently Mexico, Argentina and Colombia) dollarize their everyday finances. Users can go from peso to dollar USDc (and back) in seconds, save in USDc, send and receive payments in the United States without the hassle, top up their accounts with crypto and pay with an international Mastercard at the best rates.\r\n\r\nDolarApp was started by 3 ex Revolut guys: Fernando and Alvaro led the 2 largest P&Ls in Revolut (Crypto and Subscriptions), and worked in LatAm as consultants for BCG; Zach led the Crypto and Remittances products at Revolut, and started an identity verification startup using crypto years ago.",
     "one_liner": "Latin America's global financial app",
-    "team_size": 26,
+    "team_size": 50,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1663161574,
@@ -21522,7 +21482,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -26680,7 +26640,8 @@
     "name": "Casca",
     "slug": "casca",
     "former_names": [
-      "CORE Ai"
+      "CORE Ai",
+      "Cascading AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b568f1b934922f1671754263d6a8cd377e2b1e9c.png",
     "website": "https://www.cascading.ai/",
@@ -26901,7 +26862,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greenlite builds AI workers for bank and fintech compliance teams. Innovative teams use our AI workers instead of outsourced teams to onboard customers faster with higher compliance standards.\r\n\r\n",
     "one_liner": "AI agents for financial compliance operations",
-    "team_size": 6,
+    "team_size": 14,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1687929703,
