@@ -2706,7 +2706,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -10336,7 +10336,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -11884,7 +11884,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -14458,7 +14458,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -15466,18 +15466,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a2d106f9cdebdba12fd6e7d00d9e948e77f5be.png",
     "website": "https://www.metalware.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Metalware develops advanced firmware security solutions for real-time embedded systems, protecting critical industries like aerospace, automotive, industrial control, telecom, medical devices, and IoT from cyber threats.\r\n\r\nOur product is an automated, intelligent binary fuzzer that enables organizations to efficiently discover and remediate security weaknesses in embedded software before release or deployment.",
+    "long_description": "Metalware develops advanced firmware security solutions for critical infrastructure, protecting industries like aerospace, defense, automotive, telecom, and healthcare from cyber threats.\r\n\r\nOur product is an automated, intelligent binary fuzzer that enables organizations to efficiently discover and remediate security weaknesses in hardware products before deployment.",
     "one_liner": "Cybersecurity for firmware",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689732876,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Cybersecurity",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18472,7 +18472,7 @@
     "all_locations": "",
     "long_description": "Maitai makes building reliable AI applications easy. We autocorrect faulty model output in real-time and automatically fine-tune models that learn from their mistakes. This means our customers get more reliable results immediately, and over time, they gain custom models built specifically for their application that only get better and faster. You wouldn’t hire an employee who doesn’t learn from their mistakes—so why use a model that doesn’t? Maitai is here to deliver the next generation of reliable AI inference.",
     "one_liner": "Reliable, self-improving enterprise AI",
-    "team_size": 3,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716914094,
@@ -20106,26 +20106,26 @@
   },
   {
     "id": 30045,
-    "name": "Regatta Storage",
-    "slug": "regatta-storage",
+    "name": "Archil",
+    "slug": "archil",
     "former_names": [
       "Neptune Storage"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0397434e0b6d2ed128ce064a791b8816ac83bf09.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb1bd9703c3d809fb7bdbffd00ba201b34509caa.png",
     "website": "https://regattastorage.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Regatta transforms S3 buckets into a 30x faster, unlimited, local disk. Regatta enables AI, analytics, and serverless applications to instantly access massive data sets without waiting for data transfer. Researchers use Regatta for shareable, local storage of data set and model versions that never runs out of capacity.",
+    "long_description": "Archil (fka Regatta Storage) transforms S3 buckets into a 30x faster, unlimited, local disk. Archil enables AI, analytics, and serverless applications to instantly access massive data sets without waiting for data transfer. Researchers use Archil for shareable, local storage of data set and model versions that never runs out of capacity.",
     "one_liner": "Transform S3 in an unlimited, local file system",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1727196277,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Big Data",
       "Cloud Computing",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20146,8 +20146,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/regatta-storage",
-    "api": "https://yc-oss.github.io/api/batches/f24/regatta-storage.json"
+    "url": "https://www.ycombinator.com/companies/archil",
+    "api": "https://yc-oss.github.io/api/batches/f24/archil.json"
   },
   {
     "id": 30047,
