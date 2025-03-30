@@ -10849,7 +10849,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aef70b7e83ca76aa0901271d0713dbba0919b30c.png",
     "website": "https://bloop.ai",
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "New York, NY, USA",
     "long_description": "Most of the Fortune 500 still use mainframes for some of their compute, but innovation, skills and cost pressure means that most are looking to reduce their mainframe workloads.\r\n\r\nWe build tools that help teams modernise, write and understand legacy codebases, with the help of generative AI.",
     "one_liner": "Modernising legacy code with AI",
     "team_size": 10,
@@ -10857,9 +10857,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1629492105,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10872,8 +10872,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -15881,11 +15881,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689732876,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Cybersecurity",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16629,7 +16629,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -22390,5 +22390,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/artifact-2",
     "api": "https://yc-oss.github.io/api/batches/w25/artifact-2.json"
+  },
+  {
+    "id": 30411,
+    "name": "mrge",
+    "slug": "mrge",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d4b717bddf685ac3a5f54298f79381c741a52c3.png",
+    "website": "https://mrge.io/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Code review is a major bottleneck for software teams, and the rise of AI-generated code is making the problem worse. Reviewing large volumes of code slows devs down, and increases the chances of bugs slipping through.\r\n\r\nThat's why we're building mrge: an intelligent code review platform that helps devs merge PRs 40% faster.\r\n\r\nHow? \r\n- When you open a PR, mrge automatically reviews it. It learns from your codebase's patterns, points out bugs, suggesting fixes, and frees you from low-level review tasks.\r\n- You then jump into the mrge platform, which is designed to optimize how humans review code. For example, file changes are organized in a logical order instead of alphabetical, and mrge generates diagrams of architecture changes.",
+    "one_liner": "AI-powered code review platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1743248262,
+    "tags": [
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mrge",
+    "api": "https://yc-oss.github.io/api/batches/x25/mrge.json"
   }
 ]

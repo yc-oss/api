@@ -12810,7 +12810,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S14",
     "status": "Active",
@@ -56765,7 +56765,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aef70b7e83ca76aa0901271d0713dbba0919b30c.png",
     "website": "https://bloop.ai",
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "New York, NY, USA",
     "long_description": "Most of the Fortune 500 still use mainframes for some of their compute, but innovation, skills and cost pressure means that most are looking to reduce their mainframe workloads.\r\n\r\nWe build tools that help teams modernise, write and understand legacy codebases, with the help of generative AI.",
     "one_liner": "Modernising legacy code with AI",
     "team_size": 10,
@@ -56773,9 +56773,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1629492105,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -56788,8 +56788,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -59563,7 +59563,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W22",
     "status": "Active",
@@ -83181,11 +83181,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689732876,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Cybersecurity",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -85277,7 +85277,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "ParadeDB is an Elasticsearch alternative built on Postgres. We're modernizing the features of Elasticsearch's product suite, starting with real-time search and analytics.",
     "one_liner": "Postgres for Search and Analytics",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1689280457,
@@ -85845,7 +85845,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -85875,7 +85875,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nowadays is an AI copilot that automates the boring parts of planning corporate events. For example, our AI can contact venues by email and phone to get availability, deal with back-and-forth negotiations, and present the best options.",
     "one_liner": "AI co-pilot for corporate event planning",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1687830204,
@@ -85898,7 +85898,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -105608,17 +105610,17 @@
     "website": "https://tryfuse.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're building a new agentic operating system to enable enterprises to automate their entire go-to-market (GTM) organizations with vertical AI agents. You can think of the platform as Salesforce meets OpenAI Operator, specifically for GTM teams. We enable you to run your entire sales deal cycle through a simple AI-powered interface, built on-top of an E2E product suite - use natural language to manage customer relationships, enrich B2B contacts, find high-intent leads, and engage with clients in seconds.",
-    "one_liner": "The world's first Agentic Sales platform.",
+    "one_liner": "AI Agents to Kill Salesforce.",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1738217807,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Sales",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -106768,6 +106770,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fira",
     "api": "https://yc-oss.github.io/api/batches/w25/fira.json"
+  },
+  {
+    "id": 30411,
+    "name": "mrge",
+    "slug": "mrge",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d4b717bddf685ac3a5f54298f79381c741a52c3.png",
+    "website": "https://mrge.io/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Code review is a major bottleneck for software teams, and the rise of AI-generated code is making the problem worse. Reviewing large volumes of code slows devs down, and increases the chances of bugs slipping through.\r\n\r\nThat's why we're building mrge: an intelligent code review platform that helps devs merge PRs 40% faster.\r\n\r\nHow? \r\n- When you open a PR, mrge automatically reviews it. It learns from your codebase's patterns, points out bugs, suggesting fixes, and frees you from low-level review tasks.\r\n- You then jump into the mrge platform, which is designed to optimize how humans review code. For example, file changes are organized in a logical order instead of alphabetical, and mrge generates diagrams of architecture changes.",
+    "one_liner": "AI-powered code review platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1743248262,
+    "tags": [
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mrge",
+    "api": "https://yc-oss.github.io/api/batches/x25/mrge.json"
   },
   {
     "id": 30542,
