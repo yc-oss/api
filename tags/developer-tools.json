@@ -365,7 +365,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S11",
     "status": "Active",
@@ -9301,7 +9301,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -15062,6 +15062,48 @@
     "api": "https://yc-oss.github.io/api/batches/s23/cedana.json"
   },
   {
+    "id": 28814,
+    "name": "OpenTools",
+    "slug": "opentools",
+    "former_names": [
+      "Odyssey AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3927ff309d52d222fc423bc00c5c7f463f090703.png",
+    "website": "https://opentools.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "The API for LLM tool use",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1688659817,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Marketplace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/opentools",
+    "api": "https://yc-oss.github.io/api/batches/s23/opentools.json"
+  },
+  {
     "id": 28826,
     "name": "Talc",
     "slug": "talc",
@@ -18729,48 +18771,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/storia-ai.json"
   },
   {
-    "id": 29682,
-    "name": "RunLocal",
-    "slug": "runlocal",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f47cbbc26af6f2d783af0166e54e51212101bcc.png",
-    "website": "https://runlocal.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RunLocal helps engineering teams discover, optimize, evaluate and deploy the best on-device AI model for their use case.\r\n",
-    "one_liner": "The On-Device AI Development Platform ",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1722617907,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Machine Learning",
-      "DevOps"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/runlocal",
-    "api": "https://yc-oss.github.io/api/batches/s24/runlocal.json"
-  },
-  {
     "id": 29683,
     "name": "CodeViz",
     "slug": "codeviz",
@@ -19907,8 +19907,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d97ce9291f8a51ec2a48e5fa70be7766b06a04b5.png",
     "website": "https://upshift.dev",
     "all_locations": "Charlotte, NC, USA",
-    "long_description": "Upshift is tooling for plugin systems. We help product companies support extension points, which enable them and their users to build and share additional functionality on top of their core product offerings. Extensibility with Upshift drives more sales, better retention, and compounds value over time.\r\n\r\n\r\nUp until now, only the biggest companies have had the resources to build these types of systems because it can take years and massive upfront engineering investment to ship something. We cut the time-to-production down to weeks. And this will open up previously inaccessible possibilities for mid-sized businesses and fast-growing startups.\r\n\r\n\r\nWe know how to build it. For more than six years, Adam and Thomas have worked together as eng leaders, mastering our system integration expertise from Palantir and Candid Health. Our biggest win included converting an $823 million contract vehicle for the US Army, overhauling their entire data fabric.",
-    "one_liner": "Turn your software product into a platform.",
+    "long_description": "Upshift is a platform for software companies to build their entire developer ecosystem, including things like OAuth delegated access, third-party app management, and more.\r\n\r\nUp until now, only the biggest companies have had the resources to build these types of systems because it can take years and massive upfront engineering investment to ship something. We cut the time-to-production down to weeks. And this will open up previously inaccessible possibilities for mid-sized businesses and fast-growing startups.\r\n\r\n\r\nWe know how to build it. For more than six years, Adam and Thomas have worked together as eng leaders, mastering our system integration expertise from Palantir and Candid Health. Our biggest win included converting an $823 million contract vehicle for the US Army, overhauling their entire data fabric.",
+    "one_liner": "Build your developer ecosystem in minutes instead of months",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -19987,17 +19987,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/711329d9565ffe6020950612deecb8f5845b82f5.png",
     "website": "https://www.revyl.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Revyl is an observability platform that automatically catches and triages bugs before they reach production.",
+    "long_description": "Revyl is a proactive observability platform that automatically catches and triages bugs before they reach production.",
     "one_liner": "Proactive observability",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729643205,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21264,7 +21264,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2becf67c5cc7db1253713a370845eaacd136b86.png",
     "website": "http://trainloop.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "TrainLoop makes it effortless for developers to supercharge LLM performance through reinforcement learning..",
+    "long_description": "TrainLoop makes it effortless for developers to supercharge LLM performance through reinforcement learning.",
     "one_liner": "Reasoning Fine-Tuning",
     "team_size": 2,
     "industry": "B2B",
