@@ -11372,7 +11372,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S20",
     "status": "Active",
@@ -23587,7 +23587,7 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "Rally is a User Research CRM that makes it easy for teams to do research with their users. By automating outreach, scheduling, incentives, and participant management, Rally replaces messy spreadsheets and disjointed tooling, saving teams hours each week.",
     "one_liner": "User Research CRM",
-    "team_size": 13,
+    "team_size": 21,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1645632239,
@@ -30262,7 +30262,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -31911,7 +31911,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Operations"
@@ -37763,28 +37763,26 @@
   },
   {
     "id": 29496,
-    "name": "Konstructly",
-    "slug": "konstructly",
+    "name": "VoxOps AI",
+    "slug": "voxops-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca6582d76c5a16977742eef852bde28001908404.png",
-    "website": "https://konstructly.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5b43dcffa3e71475d3408e71b2080b8a9bd30c6.png",
+    "website": "https://www.voxopsai.com/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Konstructly is the first piece of software for general contractors which ties payments to work approvals. It makes it possible to accurately assess what's been built on site and how much should be paid. \r\n\r\nKonstructly prevents overspend in construction by bridging the gap between those responsible for the payments in construction (back office) and those responsible for completing and managing the build (production). \r\n\r\n\r\nWe digitise invoicing and payment approvals and connect them to the respective quality checks of the works, trade handovers and live progress. All of which are currently managed by unlinked, separate processes and data structures. \r\n\r\nThe visibility we provide not only streamlines manual processes and allows much better schedule and payment management, it also incentivises productivity from subcontractors to ensure they get paid on time, in full. ",
-    "one_liner": "The Modern Operating System for Construction",
+    "long_description": "Regulated industries like banking and insurance not only have huge, expensive and operationally cumbersome call centres, they need to make sure that they stay compliant to avoid huge fines. \r\n\r\nVoxOps uses AI to automate 80% of their inbound and outbound calls, ensure they adhere to relevant regulations and far exceed current industry best practices. All for a fraction of their current cost base. ",
+    "one_liner": "Voice AI for regulated industries",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1703336574,
     "tags": [
-      "Fintech",
-      "SaaS",
-      "Construction",
       "B2B",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -37793,17 +37791,15 @@
     ],
     "regions": [
       "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
+      "Europe"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/konstructly",
-    "api": "https://yc-oss.github.io/api/batches/w24/konstructly.json"
+    "url": "https://www.ycombinator.com/companies/voxops-ai",
+    "api": "https://yc-oss.github.io/api/batches/w24/voxops-ai.json"
   },
   {
     "id": 29498,
@@ -38582,16 +38578,16 @@
   },
   {
     "id": 29685,
-    "name": "Passage",
-    "slug": "passage",
+    "name": "Spongecake",
+    "slug": "spongecake",
     "former_names": [
       "shippd.ai"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc99cdc7705015347bf46d8b9329855cae09ee2.png",
-    "website": "https://www.trypassage.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb0c493c042340cfca56899d9d12bdfe0a3553b6.png",
+    "website": "https://github.com/aditya-nadkarni/spongecake",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Passage is a co-pilot for the customs brokering space. \r\n\r\nToday, companies employ entire teams of customs brokers and entry writers who spend hours keying in data and corresponding with clients. \r\n\r\nWith our co-pilot, we plan to streamline this tedious data entry work, and email correspondence, making compliance teams significantly more efficient",
-    "one_liner": "Clear goods through customs, with AI",
+    "long_description": "Spongecake helps developers build computer use agents\r\n\r\nWith spongecake, developers can build computer use agents for their own applications, automate workflows in desktop applications with poor APIs, and automate workflows in on prem environments",
+    "one_liner": "Helping developers build computer use agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -38599,8 +38595,6 @@
     "tags": [
       "Generative AI",
       "B2B",
-      "Logistics",
-      "Transportation",
       "AI"
     ],
     "tags_highlighted": [],
@@ -38610,8 +38604,7 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -38622,8 +38615,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/passage",
-    "api": "https://yc-oss.github.io/api/batches/s24/passage.json"
+    "url": "https://www.ycombinator.com/companies/spongecake",
+    "api": "https://yc-oss.github.io/api/batches/s24/spongecake.json"
   },
   {
     "id": 29686,
@@ -39294,9 +39287,9 @@
     "subindustry": "B2B",
     "launched_at": 1715615655,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43458,6 +43451,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sophris",
     "api": "https://yc-oss.github.io/api/batches/w25/sophris.json"
+  },
+  {
+    "id": 30274,
+    "name": "Trata",
+    "slug": "trata",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/508cd0aa179903aea336ffc42458a82d33d548ac.png",
+    "website": "https://www.trytrata.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Trata is an AI-powered research desk for hedge funds. We use agents to interview hedge fund analysts, write investment research, and distribute this through a subscription.",
+    "one_liner": "AI-powered research desk for hedge funds",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1738274242,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Community",
+      "Investing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trata",
+    "api": "https://yc-oss.github.io/api/batches/w25/trata.json"
   },
   {
     "id": 30279,
