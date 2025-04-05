@@ -502,7 +502,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13357,9 +13357,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42f387b44ccbfe794a96fd7877c9a7818766a06d.png",
     "website": "https://wondercraft.ai/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Wondercraft makes it easy to create studio-quality audio for all your projects — podcasts, audiobooks, ads, meditations & more — in a collaborative and enjoyable way, by typing.",
+    "long_description": "Wondercraft makes it easy to create studio-quality audio for all your projects — podcasts, audiobooks, ads, meditations & more — in a collaborative and enjoyable way, by using AI voices.",
     "one_liner": "Canva for Audio",
-    "team_size": 8,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1659074281,
@@ -13844,50 +13844,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lazyeditor",
     "api": "https://yc-oss.github.io/api/batches/w23/lazyeditor.json"
-  },
-  {
-    "id": 27667,
-    "name": "Stack AI",
-    "slug": "stack-ai",
-    "former_names": [
-      "Stack"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/56ffdf7e6d54cd05e1b72f0622c42dba01ae7c84.png",
-    "website": "https://www.stack-ai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "With Stack AI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\r\nHundreds of companies use Stack AI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
-    "one_liner": "AI Agents for the Enterprise",
-    "team_size": 16,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1673634480,
-    "tags": [
-      "Artificial Intelligence",
-      "Enterprise",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stack-ai",
-    "api": "https://yc-oss.github.io/api/batches/w23/stack-ai.json"
   },
   {
     "id": 27668,
@@ -16243,7 +16199,7 @@
     "all_locations": "Remote",
     "long_description": "kapa.ai makes it easy for technical companies to build AI support and onboarding bots for their users. Teams at +150 leading startups and enterprises incl. OpenAI, Mixpanel, Mapbox, Docker, Next.js and Prisma use kapa to level up their developer experience and reduce support.\r\n\r\nWe enable companies to use their existing technical knowledge sources incl. docs, tutorials, chat logs, and GitHub issues to generate AI bots that answers developer questions automatically. More than 750k developers have access to kapa.ai via website widgets, Slack/Discord bots, API integrations, or via Zendesk.",
     "one_liner": "Create enterprise-grade AI assistants from your content",
-    "team_size": 9,
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1689019081,
@@ -16454,6 +16410,48 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sohar-health",
     "api": "https://yc-oss.github.io/api/batches/s23/sohar-health.json"
+  },
+  {
+    "id": 28805,
+    "name": "Diligent",
+    "slug": "diligent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/306eaffa9ae52c97e7f7fd8c9161b13409115596.png",
+    "website": "https://godiligent.ai",
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "We help fintech risk and AML compliance teams automate and strengthen routine customer due diligence tasks with LLMs. Our AI assistants slash cost-to-comply, improve risk detection and free up capacity for investigations that require human expertise and decision making. \r\n\r\nFintechs and banks use us to automate workflows like running thorough due diligence on a legal entity, reviewing customer documents like registry extracts, proofs of address etc and remediating false positive alerts from their AML systems.",
+    "one_liner": "AI agents for fintech risk and compliance operations",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1706799734,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Compliance",
+      "Fraud Prevention",
+      "Regtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/diligent",
+    "api": "https://yc-oss.github.io/api/batches/s23/diligent.json"
   },
   {
     "id": 28807,
@@ -18030,6 +18028,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/envelope",
     "api": "https://yc-oss.github.io/api/batches/s23/envelope.json"
+  },
+  {
+    "id": 29003,
+    "name": "DisputeNinja",
+    "slug": "disputeninja",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be80458dcbfc97e8fb3e29817ae9f8981da73858.png",
+    "website": "https://www.disputeninja.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DisputeNinja uses AI to help businesses recover 2x more revenue from chargebacks. ",
+    "one_liner": "AI-powered Chargeback Responses",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1690854655,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Payments",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/disputeninja",
+    "api": "https://yc-oss.github.io/api/batches/s23/disputeninja.json"
   },
   {
     "id": 29005,
@@ -20277,6 +20316,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/starjar",
     "api": "https://yc-oss.github.io/api/batches/w24/starjar.json"
+  },
+  {
+    "id": 29324,
+    "name": "PromptArmor",
+    "slug": "promptarmor",
+    "former_names": [
+      "Board Security Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f85e50382b3869e84b292235c05317d5db4ab8cd.png",
+    "website": "https://promptarmor.com/",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "LLM Security and Compliance",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1702083397,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Security",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/promptarmor",
+    "api": "https://yc-oss.github.io/api/batches/w24/promptarmor.json"
   },
   {
     "id": 29325,
@@ -26861,7 +26943,7 @@
     "website": "https://www.abundant.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Abundant powers reliable and safe AI deployment via our API. Our network of specialized operators works alongside AI agents to:\r\n\r\n(1) Handle complex edge cases with precision.\r\n(2) Maintain rigorous safety standards.\r\n(3) Generate high-quality training data that continuously improves AI performance.\r\n\r\nCompanies can meet stringent quality requirements at a fraction of the cost of in-house teams, while accelerating their AI initiatives.",
-    "one_liner": "API for Agent Teleoperation ",
+    "one_liner": "Human Supervision for AI Agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -28170,6 +28252,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/macadamia",
     "api": "https://yc-oss.github.io/api/batches/w25/macadamia.json"
+  },
+  {
+    "id": 30262,
+    "name": "Pickle",
+    "slug": "pickle-2",
+    "former_names": [
+      "Pickle Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67e4c31625bf9f9be89bda1272989243e742e3d0.png",
+    "website": "https://www.pickle.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pickle is an AI clone that lip-syncs to your voice in real time. It replaces your camera feed and makes you look great—even if you’re calling in from bed, the couch, or while walking around.",
+    "one_liner": "AI clone for Zoom calls",
+    "team_size": 5,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1738265099,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Video",
+      "Remote Work"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Social"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pickle-2",
+    "api": "https://yc-oss.github.io/api/batches/w25/pickle-2.json"
   },
   {
     "id": 30265,
