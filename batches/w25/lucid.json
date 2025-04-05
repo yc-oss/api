@@ -1,0 +1,42 @@
+{
+  "id": 30261,
+  "name": "Lucid",
+  "slug": "lucid",
+  "former_names": [],
+  "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d7946ea974cf7a753814028e684ac774c9c4073.png",
+  "website": "https://lucidsim.co/",
+  "all_locations": "Berkeley, CA, USA",
+  "long_description": "We are building generative simulations powered by fast world models.\r\n\r\nWe train world models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model  (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nAlberto (CEO) was researching world models at Berkeley AI Research (BAIR) and previously worked on earth modelling at Rainmaker. Rami previously founded a telecom services company and was the CTO of the govtech contractor.\r\n\r\nOur first minecraft model got 3,000 users in a few days, and now we’re training a hyper realistic world model!",
+  "one_liner": "Generative simulations powered by fast world models",
+  "team_size": 4,
+  "industry": "Consumer",
+  "subindustry": "Consumer",
+  "launched_at": 1738541860,
+  "tags": [
+    "Deep Learning",
+    "Generative AI",
+    "Machine Learning"
+  ],
+  "tags_highlighted": [],
+  "top_company": false,
+  "isHiring": false,
+  "nonprofit": false,
+  "batch": "W25",
+  "status": "Active",
+  "industries": [
+    "Consumer"
+  ],
+  "regions": [
+    "United States of America",
+    "America / Canada",
+    "Remote",
+    "Partly Remote"
+  ],
+  "stage": "Early",
+  "app_video_public": false,
+  "demo_day_video_public": false,
+  "app_answers": null,
+  "question_answers": false,
+  "url": "https://www.ycombinator.com/companies/lucid",
+  "api": "https://yc-oss.github.io/api/batches/w25/lucid.json"
+}
