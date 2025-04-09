@@ -6143,7 +6143,7 @@
     "website": "https://tryglimpse.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Glimpse helps retail brands automate their identify and fight invalid fees & streamline the cash reconciliation process &  from their retailers & distributors using AI. Imagine a beverage company sold $100k worth of goods to Whole Foods & only got paid $60k. The deducted $40k comes in hundreds of long PDF’s with obscure codes that a team has to manually review every single one of to ensure the fees are valid. A % of these fees are always invalid and brands have to go through a lengthy process to get back money owed to them. We automate this whole process - saving a brand dozens of hours a week & recouping them 2-3% of their topline sales. Our vision is to become an AI BPO for retail brands. ",
-    "one_liner": "Glimpse offers AI services for retail brands starting with deductions",
+    "one_liner": "Glimpse offers AI services for retail brands starting with deductions ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
@@ -9876,53 +9876,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/exa",
     "api": "https://yc-oss.github.io/api/batches/s21/exa.json"
-  },
-  {
-    "id": 24914,
-    "name": "Sully.ai",
-    "slug": "sully-ai",
-    "former_names": [
-      "Odiggo"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/911656ff1b74ea563f6a15aeb96e439e4b168e0e.png",
-    "website": "https://www.sully.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our Mission: \"One Human, One Doctor\".\r\nWhy? Because access to a doctor is a basic human right.\r\n\r\nCustomer: \r\nHealthcare Organizations\r\n\r\nProduct: \r\nAll-in-one solution to save doctors time. \r\n\r\nProblem: \r\nDoctors spend 50% of their time on things other than patient care, and the other 50% is inefficient. \r\n\r\nSolution: \r\nAll-in-one solution for doctors that saves time from pre, post, and during-visit. \r\n\r\nOpportunity: \r\nOver 1 Billion visits patient care visits occur in the US annually, and the current average cost per visit is $300. When future visits are done by an ASI (Artificial Super Intelligence) doctor at a 10x cheaper cost ($29 per visit), it’s $3.9B in revenue in the US only and $25B+ globally.",
-    "one_liner": "AI Medical Employees for Healthcare",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1624955795,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Health Tech",
-      "B2B",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S21",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/sully-ai",
-    "api": "https://yc-oss.github.io/api/batches/s21/sully-ai.json"
   },
   {
     "id": 25075,
@@ -15996,7 +15949,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -17216,7 +17169,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -20384,7 +20337,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -28213,6 +28166,47 @@
     "api": "https://yc-oss.github.io/api/batches/w25/cuckoo-labs.json"
   },
   {
+    "id": 30255,
+    "name": "Olive",
+    "slug": "olive",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/544faf85c3fb3b0e5acf3a985a6a1ce535df4377.png",
+    "website": "https://fromolive.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Olive connects to your database & third party services to help you build admin dashboards and support tools in minutes.",
+    "one_liner": "Build internal tools for your data with natural language.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1740018718,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/olive",
+    "api": "https://yc-oss.github.io/api/batches/w25/olive.json"
+  },
+  {
     "id": 30256,
     "name": "PAX Markets",
     "slug": "pax-markets",
@@ -28309,7 +28303,7 @@
     "website": "https://asteroid.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Asteroid builds and hosts browser AI agents for complex tasks. With built-in guardrails, evaluations and human oversight, we ensure enterprise-grade reliability across millions of operations in regulated industries.",
-    "one_liner": "Browser Agents for High-risk Operations",
+    "one_liner": "Browser Agents for Complex Operations",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -28601,45 +28595,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trata",
     "api": "https://yc-oss.github.io/api/batches/w25/trata.json"
-  },
-  {
-    "id": 30275,
-    "name": "Solidroad",
-    "slug": "solidroad",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f1ca54adf81d62b81a43dd73c7ee1bab8f22a4.png",
-    "website": "https://solidroad.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Solidroad builds AI agents for sales and support teams, starting with training and QA. Solidroad agents train human reps in a simulated environment, and evaluate their performance in live customer channels.\r\n\r\nBy starting with training and QA, our agents learn how humans learn, and their performance can be compared directly with human reps. This enables us to prove the value of the rest of the agents on our roadmap.\r\n\r\nSince launching last summer, we’ve reduced onboarding times by 50% at several of the world’s largest outsourced contact centres/BPOs like PartnerHero and Tech Mahindra, and improved go-live CSAT at Crypto.com by 3% (now above 90% CSAT).",
-    "one_liner": "AI agents for sales and support teams, starting with training and QA.",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1734365180,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/solidroad",
-    "api": "https://yc-oss.github.io/api/batches/w25/solidroad.json"
   },
   {
     "id": 30281,
