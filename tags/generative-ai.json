@@ -2036,7 +2036,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -2055,6 +2055,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/output",
     "api": "https://yc-oss.github.io/api/batches/s21/output.json"
+  },
+  {
+    "id": 24817,
+    "name": "Bytebot",
+    "slug": "bytebot",
+    "former_names": [
+      "tantl",
+      "SaveCmd"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98cd71fc795fe80387da92b38a105f7c275db52d.png",
+    "website": "https://github.com/bytebot-ai/bytebot",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Bytebot simplifies and streamlines the development of computer use agents with a ready made container for desktop automation, including APIs for mouse movements, keyboard input, and screenshot capture. \r\n\r\nThe container enables developers to build robust, dynamic computer use agents that can be configured and run anywhere.",
+    "one_liner": "Computer automations powered by AI.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1628647063,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Robotic Process Automation",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bytebot",
+    "api": "https://yc-oss.github.io/api/batches/s21/bytebot.json"
   },
   {
     "id": 25275,
@@ -5203,7 +5251,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -7152,7 +7200,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -8925,8 +8973,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/742dc8fa59a27c4e2e104cec4505f34b79fbf1bb.png",
     "website": "https://zuni.app",
     "all_locations": "Remote",
-    "long_description": "",
-    "one_liner": "Smarter email for founders",
+    "long_description": "Zuni is a Chrome extension that gives you AI capabilities in the sidebar of your browser. It can use what it sees on any of your tabs as context, and proactively helps you draft messages and emails.",
+    "one_liner": "AI Assistant that works alongside you in your Chrome browser",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -9156,9 +9204,7 @@
     "tags": [
       "Artificial Intelligence",
       "Generative AI",
-      "SaaS",
-      "Compliance",
-      "API"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9449,18 +9495,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54349afe229386963a0d97273557dd9db8219ab7.png",
     "website": "https://www.remade.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Remade is building the largest AI video generation Discord community. Our Discord has been growing 1000% WoW since launch and is currently at 3.5K members. \r\nJoin the Discord: https://discord.com/invite/7tsKMCbNFC",
+    "long_description": "Remade is building the largest AI video generation Discord community. Since launching 8 weeks ago our server has grown to 6000 users.\r\nJoin the Discord: https://discord.com/invite/7tsKMCbNFC",
     "one_liner": "AI video generation Discord community",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1721201298,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "Consumer",
-      "Social Media"
+      "Social Media",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11698,8 +11744,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52b288a75cbc24bbab29ace4752b6453e7db35bf.png",
     "website": "https://www.linewise.io/",
     "all_locations": "",
-    "long_description": "We are building an AI-powered platform to help manufacturers improve operational consistency and boost production efficiency. LineWise is designed to make critical knowledge - often locked in the heads of experienced workers - easy to document, share, and apply in real time.\r\n\r\nOur solution includes tools such as automated documentation from videos and real-time operational and troubleshooting guidance - all designed to build an independent workforce by providing immediate access to the information they need, exactly when and where they need it. This empowers teams to confidently solve problems and avoid repeat issues without compromising safety or focus on the task at hand.",
-    "one_liner": "Help manufacturers capture, scale, and apply tribal knowledge",
+    "long_description": "LineWise is an AI troubleshooting platform that helps manufacturing teams resolve issues faster and reduce internal escalations by leveraging a continuously growing, organization-specific knowledge base.",
+    "one_liner": "Troubleshoot factory line problems faster using AI",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",

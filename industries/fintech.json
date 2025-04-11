@@ -3684,7 +3684,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S17",
     "status": "Active",
@@ -5464,7 +5464,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W19",
     "status": "Active",
@@ -7785,16 +7785,16 @@
   },
   {
     "id": 13165,
-    "name": "Paymobil",
-    "slug": "paymobil",
+    "name": "Peg (formerly Paymobil)",
+    "slug": "peg",
     "former_names": [
       "Epay / Mutiny",
       "Epay"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26401cd3d967d6d4d0c77272b2bdc98bcb4e6bb8.png",
-    "website": "https://www.paymobil.co",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f19f6ca2a209e7675e563efe95a857c23b35dd0d.png",
+    "website": "https://www.peg.money",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Paymobil is a global bank account replacement using stablecoins.\r\nWe make it possible to send money to any email or phone number in the world in seconds.\r\n\r\nWe have taken all the friction out of the current terrible UX with crypto p2p payments and made it better than regular consumer products like Venmo and Square Cash. Unlike those it works across borders and can launch globally due to our non-custodial architecture.\r\n",
+    "long_description": "Peg is a global bank account replacement using stablecoins.\r\nWe make it possible to send money to any email or phone number in the world in seconds.\r\n\r\nWe have taken all the friction out of the current terrible UX with crypto p2p payments and made it better than regular consumer products like Venmo and Square Cash. Unlike those it works across borders and can launch globally due to our non-custodial architecture.\r\n\r\nPeg was the first self-custodial stablecoin focused wallet, launched early 2020.\r\n",
     "one_liner": "The super simple stablecoin wallet with free transactions",
     "team_size": 2,
     "industry": "Fintech",
@@ -7827,8 +7827,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/paymobil",
-    "api": "https://yc-oss.github.io/api/batches/w20/paymobil.json"
+    "url": "https://www.ycombinator.com/companies/peg",
+    "api": "https://yc-oss.github.io/api/batches/w20/peg.json"
   },
   {
     "id": 13174,
@@ -23952,8 +23952,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3dd16f59d0364681bf3111ec38321f6ece68ed50.png",
     "website": "https://www.finosu.com",
     "all_locations": "",
-    "long_description": "Hi - Mark and Gab here!\r\n\r\nWe met while working at Alt, a marketplace for collectibles, where we built a $200 million specialty finance business line. At Alt, we faced the complex challenges that come with servicing consumer loans. We spent countless hours and resources developing internal tools to manage loan payments, communicate with borrowers, and keep track of loan performance—all while ensuring a positive experience for our customers.\r\n\r\nHowever, after dealing with the headaches of manual data entry, fragmented systems, delayed payments, lack of personalized borrower engagement, and the stress of maintaining accurate records, we knew there had to be a better way to service consumer loans.\r\n\r\nSo, we started Finosu to build the servicer we wish we had—an AI-powered consumer loan servicer designed to streamline and enhance every aspect of the loan servicing process. Our mission is to transform loan servicing into a seamless, efficient, and customer-centric experience.\r\nSo, we started Finosu to build the tools that we wish we had.\r\n\r\nFinsou is building software to reduce the barriers to entry in lending, beginning with:  outsourced state licensing, default compliant loan management systems, and automated servicing infrastructure.\r\n\r\nThe operational cost of originating and servicing loans reaches into the tens of billions a year and that is money out of the pocket of lenders, borrowers, investors, and ultimately the consumers as a cost of doing business – we are changing that.",
-    "one_liner": "Workflow automation for the credit industry",
+    "long_description": "Hi - Mark and Gab here!\r\n\r\nWe met while working at Alt, a marketplace for collectibles, where we built a $200 million specialty finance business line. At Alt, we faced the complex challenges that come with servicing consumer loans. We spent countless hours and resources developing internal tools to manage loan payments, communicate with borrowers, and keep track of loan performance—all while ensuring a positive experience for our customers.\r\n\r\nHowever, after dealing with the headaches of manual data entry, fragmented systems, delayed payments, lack of personalized borrower engagement, and the stress of maintaining accurate records, we knew there had to be a better way to service consumer loans.\r\n\r\nSo, we started Finosu to build the servicer we wish we had—an AI-powered consumer loan servicer designed to streamline and enhance every aspect of the loan servicing process. \r\n\r\nOur mission is to transform loan servicing into a seamless, efficient, and customer-centric experience.\r\n\r\nThe operational cost of servicing loans reaches into the tens of billions a year and that is money out of the pocket of lenders, borrowers, investors, and ultimately the consumers as a cost of doing business – we are changing that.",
+    "one_liner": "AI Native Consumer Loan Servicer",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
@@ -24564,8 +24564,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a24ae2dbf8c5f1b06b70c124868d6c9383b535.png",
     "website": "https://finbar.com",
     "all_locations": "",
-    "long_description": "AI-powered financial data analysis. Used by several top-20 (AUM) hedge funds.",
-    "one_liner": "The AI financial analyst",
+    "long_description": "finbar is the AI investment analyst used by several top-20 (AUM) hedge funds. It automates financial modelling, research, and data analysis so multi-million-dollar decisions can be made 100x faster.",
+    "one_liner": "The AI investment analyst",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -24847,5 +24847,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/blindpay",
     "api": "https://yc-oss.github.io/api/batches/w25/blindpay.json"
+  },
+  {
+    "id": 30415,
+    "name": "Avallon AI",
+    "slug": "avallon-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac85a0bca77fe890f3dc1aadd1f0f8a554481659.png",
+    "website": "https://www.avallon.ai/",
+    "all_locations": "",
+    "long_description": "Avallon automates car and freight insurance claims operations from first notice to subrogation. Voice agents handle the claim intake and repair shop outreach, supported by a web app with an AI copilot to handle the rest of the workflow. Adjusters become significantly more productive, resolving claims up to 10x faster at just 10% of the traditional cost.",
+    "one_liner": "Automate car and freight insurance claims with AI agents ",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1744318663,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/avallon-ai",
+    "api": "https://yc-oss.github.io/api/batches/x25/avallon-ai.json"
   }
 ]

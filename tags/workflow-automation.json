@@ -376,7 +376,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W20",
     "status": "Active",
@@ -2211,8 +2211,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a24ae2dbf8c5f1b06b70c124868d6c9383b535.png",
     "website": "https://finbar.com",
     "all_locations": "",
-    "long_description": "AI-powered financial data analysis. Used by several top-20 (AUM) hedge funds.",
-    "one_liner": "The AI financial analyst",
+    "long_description": "finbar is the AI investment analyst used by several top-20 (AUM) hedge funds. It automates financial modelling, research, and data analysis so multi-million-dollar decisions can be made 100x faster.",
+    "one_liner": "The AI investment analyst",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -2284,5 +2284,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/demeter",
     "api": "https://yc-oss.github.io/api/batches/w25/demeter.json"
+  },
+  {
+    "id": 30544,
+    "name": "Wavedash",
+    "slug": "wavedash",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc7b2b59a7a325fcdf566d9120353bab8f1fa91.png",
+    "website": "https://wavedash.gg",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Wavedash is an end-to-end video game development platform that automates expensive R&D workflows, saving studios time and money, helping them create and distribute better games, faster. ",
+    "one_liner": "Automated builds, distribution, and playtesting for game devs",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1744312209,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Workflow Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wavedash",
+    "api": "https://yc-oss.github.io/api/batches/x25/wavedash.json"
   }
 ]

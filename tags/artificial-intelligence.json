@@ -7967,6 +7967,51 @@
     "api": "https://yc-oss.github.io/api/batches/s21/slope.json"
   },
   {
+    "id": 23946,
+    "name": "Legion Health",
+    "slug": "legion-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d3ae3f109ad60ca8a6a5c6055ffa946a4d30cd38.png",
+    "website": "https://legionhealth.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Legion Health is a high-quality, AI-enabled psychiatry network where patients receive care from a provider who takes their insurance. We use LLMs and AI agents to improve care quality, streamline operations, enhance patient communications, and more.",
+    "one_liner": "AI-native psychiatry, built for scale and covered by insurance",
+    "team_size": 11,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1624636729,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer Health Services",
+      "Telehealth",
+      "Healthcare",
+      "Mental Health"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/legion-health",
+    "api": "https://yc-oss.github.io/api/batches/s21/legion-health.json"
+  },
+  {
     "id": 23954,
     "name": "Serif Health",
     "slug": "serif-health",
@@ -9663,20 +9708,20 @@
       "SaveCmd"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98cd71fc795fe80387da92b38a105f7c275db52d.png",
-    "website": "https://www.bytebot.ai",
+    "website": "https://github.com/bytebot-ai/bytebot",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Bytebot simplifies and streamlines web tasks by translating natural language prompts into browser automation, including clicks, form filling, and data extraction. \r\n\r\nThe no-code playground enables users to develop robust, dynamic web automation scripts that adapt alongside changing web environments. \r\n\r\nEffortless to use and easy to integrate, Bytebot helps users boost their workflow efficiency and drive growth, all without the complexity. \r\n",
-    "one_liner": "Browser automations powered by AI.",
-    "team_size": 7,
+    "long_description": "Bytebot simplifies and streamlines the development of computer use agents with a ready made container for desktop automation, including APIs for mouse movements, keyboard input, and screenshot capture. \r\n\r\nThe container enables developers to build robust, dynamic computer use agents that can be configured and run anywhere.",
+    "one_liner": "Computer automations powered by AI.",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1628647063,
     "tags": [
       "Artificial Intelligence",
+      "Generative AI",
       "Robotic Process Automation",
       "SaaS",
-      "API",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15193,7 +15238,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -15485,48 +15530,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/coldreach",
     "api": "https://yc-oss.github.io/api/batches/w23/coldreach.json"
-  },
-  {
-    "id": 28069,
-    "name": "Pylon",
-    "slug": "pylon-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/412a6b3ef532664df77532bc5d7ae3c1233de965.png",
-    "website": "https://usepylon.com/?utm_source=ycdirectory&utm_medium=yc",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pylon is the modern alternative to Zendesk, Intercom, Freshdesk, and Salesforce Service Cloud. We help B2B companies track customer support issues across common B2B channels including shared Slack channels (Slack Connect), Microsoft Teams, email, in-app chat, ticket forms, Slack community, and more.\r\n\r\nHundreds of fast-growing YC companies of all sizes like Vellum, Hightouch, and Deel are customers.\r\n\r\nLearn more at usepylon.com",
-    "one_liner": "The only customer support platform built for B2B.",
-    "team_size": 20,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1676268747,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Customer Success",
-      "Customer Support"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pylon-2",
-    "api": "https://yc-oss.github.io/api/batches/w23/pylon-2.json"
   },
   {
     "id": 28077,
@@ -17435,7 +17438,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -21221,49 +21224,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/overeasy.json"
   },
   {
-    "id": 29390,
-    "name": "OffDeal",
-    "slug": "offdeal",
-    "former_names": [
-      "Sidekick Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23d3f5ab2e3955f14083478510c8a7ab18cb9f8f.png",
-    "website": "https://offdeal.io",
-    "all_locations": "New York, NY, USA",
-    "long_description": "OffDeal is an AI-native investment bank, offering small business owners a faster, cheaper way to sell their companies at premium prices. Our AI technology automates most of the grunt work typically done by analysts at larger Wall Street banks, enabling our in-house M&A advisors to focus more on strategic client interactions, leading to better outcomes for both sellers and buyers.",
-    "one_liner": "AI-native investment bank for small businesses",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1709626394,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "B2B",
-      "SMB"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/offdeal",
-    "api": "https://yc-oss.github.io/api/batches/w24/offdeal.json"
-  },
-  {
     "id": 29391,
     "name": "Abel",
     "slug": "abel",
@@ -21750,8 +21710,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93bffb3ca25d2213455e170b4cfd0c9811d9135.png",
     "website": "https://pernell.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "",
+    "long_description": "Pernell is your AI-powered second phone that records, transcribes, and summarizes calls. When you’re busy, an AI receptionist answers for you — no more missed calls.",
+    "one_liner": "Your AI-Powered Second Phone",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "B2B -> Sales",
@@ -24034,9 +23994,7 @@
     "tags": [
       "Artificial Intelligence",
       "Generative AI",
-      "SaaS",
-      "Compliance",
-      "API"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24101,51 +24059,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/modus",
     "api": "https://yc-oss.github.io/api/batches/s24/modus.json"
-  },
-  {
-    "id": 29716,
-    "name": "Parity",
-    "slug": "parity",
-    "former_names": [
-      "Condor Labs",
-      "Argon"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2100aeea68f6388130749d3d1c91f1bbabe9224c.png",
-    "website": "https://tryparity.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Parity is the AI SRE for Incident Response. We're the first line of defense for on-call engineers working with Kubernetes - Parity autonomously triages, root causes, and heals your cloud infrastructure.",
-    "one_liner": "The AI SRE for Incident Response",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1723073466,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Kubernetes",
-      "DevOps"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parity",
-    "api": "https://yc-oss.github.io/api/batches/s24/parity.json"
   },
   {
     "id": 29719,
@@ -24535,51 +24448,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/modern-realty",
     "api": "https://yc-oss.github.io/api/batches/s24/modern-realty.json"
-  },
-  {
-    "id": 29762,
-    "name": "Remade",
-    "slug": "remade",
-    "former_names": [
-      "Pheat AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54349afe229386963a0d97273557dd9db8219ab7.png",
-    "website": "https://www.remade.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Remade is building the largest AI video generation Discord community. Our Discord has been growing 1000% WoW since launch and is currently at 3.5K members. \r\nJoin the Discord: https://discord.com/invite/7tsKMCbNFC",
-    "one_liner": "AI video generation Discord community",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1721201298,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "SaaS",
-      "Consumer",
-      "Social Media"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Content"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/remade",
-    "api": "https://yc-oss.github.io/api/batches/s24/remade.json"
   },
   {
     "id": 29766,
@@ -25987,12 +25855,12 @@
       "Arva AI",
       "Arva"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae115bd1adf778708c386c8305848868f7e0161e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/637fd6f0b41173fce58a7cc13944c42be5d808ec.png",
     "website": "https://www.arva.ai",
     "all_locations": "",
-    "long_description": "Every time a business onboards onto a bank or fintech a human analyst has to conduct manual document verification. We replace those human KYB (know your business) analysts with AI agents that handle cases in seconds, not days.\r\n\r\nCurrently, 30% of know your business (KYB) cases result in manual review work. With Arva's AI agents the whole end-to-end onboarding experience is automated. Instant onboarding whilst reducing operational costs by 80%.\r\n\r\nOur end goal is to have a whole suite of AI workers that can handle manual compliance work for banks and fintechs. A $24B opportunity in the US alone.",
-    "one_liner": "AI enabled business verification for banks and fintechs",
-    "team_size": 4,
+    "long_description": "Every time a business onboards onto a bank or fintech a human analyst has to conduct manual document verification. We replace those human KYB (know your business) analysts with AI agents that automate 80% of the manual work for faster and more compliant financial crime reviews.\r\n\r\nCurrently, 30% of know your business (KYB) cases result in manual review work. With Arva's AI agents the whole end-to-end onboarding experience is automated. Instant onboarding whilst reducing operational costs by 80%.\r\n\r\nOur end goal is to have a whole suite of AI workers that can handle manual compliance work for banks and fintechs. A $24B opportunity in the US alone.",
+    "one_liner": "AI scale AML and KYB operations",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1721196993,
@@ -27691,6 +27559,48 @@
     "api": "https://yc-oss.github.io/api/batches/x25/partcl.json"
   },
   {
+    "id": 30193,
+    "name": "Guse",
+    "slug": "guse",
+    "former_names": [
+      "Fin"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/836ac1a5479beec4034fd9b4728c997edac713b4.png",
+    "website": "https://www.guse.io/",
+    "all_locations": "",
+    "long_description": "Guse is a simple spreadsheet that enables anyone to automate workflows with AI. Building a workflow is as easy as adding columns to a sheet and deploying just takes a single click. No new interfaces to learn, design paradigms to wrestle with, or code needed.",
+    "one_liner": "Prompt to automation",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1737490708,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/guse",
+    "api": "https://yc-oss.github.io/api/batches/w25/guse.json"
+  },
+  {
     "id": 30197,
     "name": "Alice.tech",
     "slug": "alice-tech",
@@ -27816,6 +27726,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/conntour",
     "api": "https://yc-oss.github.io/api/batches/w25/conntour.json"
+  },
+  {
+    "id": 30216,
+    "name": "Sublingual",
+    "slug": "sublingual",
+    "former_names": [
+      "Khipu"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffaa07742bdd32e6b3e7d2318a753289e334055.png",
+    "website": "https://sublingual.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Open source tool which helps you log and analyze all of your LLM calls, including the prompt template, call parameters, responses, tool calls, and more. The coolest thing? You don't have to change any of your code!",
+    "one_liner": "LLM Observability with zero changes to your code",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1740613527,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sublingual",
+    "api": "https://yc-oss.github.io/api/batches/w25/sublingual.json"
   },
   {
     "id": 30218,
@@ -28385,7 +28338,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e6ffdce0849e290e9af29bb1746cf9441830631.png",
     "website": "https://harbera.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Harbera helps hospitals, DSOs and clinic groups keep their doctors credentialed and compliant. Our AI software continuously monitors and proactively helps admin teams re-credential doctors, preventing denied claims, disruptions in patient care, and tens of billions of lost revenue caused by doctors falling out-of-network.",
+    "long_description": "Harbera helps clinic keep their doctors credentialed and compliant. Our AI software continuously monitors and proactively helps admin teams re-credential doctors, preventing denied claims, disruptions in patient care, and lost revenue caused by doctors falling out-of-network.",
     "one_liner": "AI Healthcare Provider Credentialing Software",
     "team_size": 2,
     "industry": "Healthcare",
@@ -29315,6 +29268,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mentra",
     "api": "https://yc-oss.github.io/api/batches/w25/mentra.json"
+  },
+  {
+    "id": 30415,
+    "name": "Avallon AI",
+    "slug": "avallon-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac85a0bca77fe890f3dc1aadd1f0f8a554481659.png",
+    "website": "https://www.avallon.ai/",
+    "all_locations": "",
+    "long_description": "Avallon automates car and freight insurance claims operations from first notice to subrogation. Voice agents handle the claim intake and repair shop outreach, supported by a web app with an AI copilot to handle the rest of the workflow. Adjusters become significantly more productive, resolving claims up to 10x faster at just 10% of the traditional cost.",
+    "one_liner": "Automate car and freight insurance claims with AI agents ",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1744318663,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/avallon-ai",
+    "api": "https://yc-oss.github.io/api/batches/x25/avallon-ai.json"
   },
   {
     "id": 30431,
