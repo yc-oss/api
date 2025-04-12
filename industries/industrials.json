@@ -10495,7 +10495,9 @@
     "industry": "Industrials",
     "subindustry": "Industrials -> Drones",
     "launched_at": 1725406335,
-    "tags": [],
+    "tags": [
+      "Drones"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -10566,7 +10568,7 @@
     "name": "Sorcerer",
     "slug": "sorcerer",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4081f5a6cb130a37a996dcc47ecab2a47046aa5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/543dab64586e13bb93c11e6012ecd070fb8c8a67.png",
     "website": "https://sorcerer.earth",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sorcerer builds weather balloons that collect 1000x more data than traditional systems. We have $5.5+ of signed LOIs with the US National Weather Service, the Department of Defense, and the government of El Salvador.",
@@ -12483,5 +12485,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/groundcontrol",
     "api": "https://yc-oss.github.io/api/batches/x25/groundcontrol.json"
+  },
+  {
+    "id": 30530,
+    "name": "Rimba",
+    "slug": "rimba",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b68af887ba539134268ac073e1a367094447c416.png",
+    "website": "https://rimba.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Copilot for compliance teams to gather, analyze, and manage data for reporting and audit. ",
+    "one_liner": "AI copilot for sustainability compliance reporting and audit",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1744344066,
+    "tags": [
+      "SaaS",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Climate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rimba",
+    "api": "https://yc-oss.github.io/api/batches/x25/rimba.json"
   }
 ]
