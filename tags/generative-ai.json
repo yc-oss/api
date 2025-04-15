@@ -1562,20 +1562,20 @@
   },
   {
     "id": 24040,
-    "name": "RenderNet",
-    "slug": "rendernet",
+    "name": "Affogato AI",
+    "slug": "affogato-ai",
     "former_names": [
       "Walrus",
       "Defy",
       "roverX",
       "RoverX"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0982d6d00a58ecb3bc95af145fb87d497262073.png",
-    "website": "https://rendernet.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d2b2cf346b1bfcbfe1a030cdc70ea97a72b9f4a.png",
+    "website": "https://affogato.ai",
     "all_locations": "Bengaluru, KA, India",
-    "long_description": "RenderNet is an advanced AI tool designed to transform imaginative concepts into high-quality images. It simplifies the process of creating visuals with consistent characters, while offering detailed control over their poses, composition, and styles.\r\n\r\nKey features of RenderNet include FaceLock, which allows for the generation of multiple images featuring a consistent facial identity, enhancing the coherence of visual storytelling. Additionally, ControlNet provides users with the capability to fine-tune images according to specific poses and compositional guidelines, offering a high level of customization.\r\n\r\nRenderNet is suitable for a wide range of users, from graphic designers and digital artists to marketing professionals and content creators, providing a versatile tool for diverse image generation needs.",
-    "one_liner": "RenderNet creates realistic AI images of virtual human characters.",
-    "team_size": 14,
+    "long_description": "Affogato is an AI media creation platform that helps businesses, marketers, and creators produce high-quality content using hyper-realistic AI characters. With Affogato, you can create talking videos, lifestyle images, and product visuals without the need for costly shoots or editing tools. Whether you’re promoting a product, running ads, or building a brand presence online, Affogato gives you powerful, easy-to-use tools to bring your ideas to life—quickly, affordably, and at scale. It’s the fastest way to turn your product into a story that sells.",
+    "one_liner": "Affogato lets you create marketing content with AI characters.",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1626192507,
@@ -1603,8 +1603,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rendernet",
-    "api": "https://yc-oss.github.io/api/batches/s21/rendernet.json"
+    "url": "https://www.ycombinator.com/companies/affogato-ai",
+    "api": "https://yc-oss.github.io/api/batches/s21/affogato-ai.json"
   },
   {
     "id": 24100,
@@ -11153,7 +11153,7 @@
     "slug": "operand",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87e36d9c531e8bea073d0ff4ca8ceaced1c215a5.png",
-    "website": "https://www.tryoperand.com/",
+    "website": "https://www.operand.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Operand is building an AI to replace traditional consulting. We help businesses make better decisions by deeply analyzing their data across all sources—something consultants can’t do at scale.\r\n\r\nWe’re starting in e-commerce and retail, where the businesses’ high data density and real-time feedback loops allow us to show impact fast. Our first capability is pricing and discount strategy. Operand considers everything—competitor pricing, ad strategy, inventory, and more—to ensure businesses maximize profit.\r\n\r\nAnd unlike other AI solutions, every Operand result is verified by human experts, including ex-MBB consultants, so you get actual impact, not just AI hype.\r\n\r\nWe’re already generating 6-figure P&L improvements for early customers.",
     "one_liner": "AI to Replace Management Consulting",
@@ -11780,7 +11780,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52b288a75cbc24bbab29ace4752b6453e7db35bf.png",
     "website": "https://www.linewise.io/",
     "all_locations": "",
-    "long_description": "LineWise is an AI troubleshooting platform that helps manufacturing teams resolve issues faster and reduce internal escalations by leveraging a continuously growing, organization-specific knowledge base.",
+    "long_description": "LineWise is an AI troubleshooting platform that helps manufacturing teams resolve issues faster and reduce internal escalations by leveraging organization-specific knowledge base that continuously improves. ",
     "one_liner": "Troubleshoot factory line problems faster using AI",
     "team_size": 5,
     "industry": "B2B",
@@ -11812,5 +11812,45 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/linewise",
     "api": "https://yc-oss.github.io/api/batches/x25/linewise.json"
+  },
+  {
+    "id": 30547,
+    "name": "text.ai",
+    "slug": "text-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60879a0f6dde6019410f20e9e28b08cdec162645.png",
+    "website": "https://www.text.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We've built AI search into personal and group chats applications that over 5.5B people use daily, no new apps or sign ups needed.",
+    "one_liner": "Bringing AI to every chat interface",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1744649821,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Generative AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/text-ai",
+    "api": "https://yc-oss.github.io/api/batches/x25/text-ai.json"
   }
 ]

@@ -8190,20 +8190,20 @@
   },
   {
     "id": 24040,
-    "name": "RenderNet",
-    "slug": "rendernet",
+    "name": "Affogato AI",
+    "slug": "affogato-ai",
     "former_names": [
       "Walrus",
       "Defy",
       "roverX",
       "RoverX"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0982d6d00a58ecb3bc95af145fb87d497262073.png",
-    "website": "https://rendernet.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d2b2cf346b1bfcbfe1a030cdc70ea97a72b9f4a.png",
+    "website": "https://affogato.ai",
     "all_locations": "Bengaluru, KA, India",
-    "long_description": "RenderNet is an advanced AI tool designed to transform imaginative concepts into high-quality images. It simplifies the process of creating visuals with consistent characters, while offering detailed control over their poses, composition, and styles.\r\n\r\nKey features of RenderNet include FaceLock, which allows for the generation of multiple images featuring a consistent facial identity, enhancing the coherence of visual storytelling. Additionally, ControlNet provides users with the capability to fine-tune images according to specific poses and compositional guidelines, offering a high level of customization.\r\n\r\nRenderNet is suitable for a wide range of users, from graphic designers and digital artists to marketing professionals and content creators, providing a versatile tool for diverse image generation needs.",
-    "one_liner": "RenderNet creates realistic AI images of virtual human characters.",
-    "team_size": 14,
+    "long_description": "Affogato is an AI media creation platform that helps businesses, marketers, and creators produce high-quality content using hyper-realistic AI characters. With Affogato, you can create talking videos, lifestyle images, and product visuals without the need for costly shoots or editing tools. Whether you’re promoting a product, running ads, or building a brand presence online, Affogato gives you powerful, easy-to-use tools to bring your ideas to life—quickly, affordably, and at scale. It’s the fastest way to turn your product into a story that sells.",
+    "one_liner": "Affogato lets you create marketing content with AI characters.",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1626192507,
@@ -8231,8 +8231,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rendernet",
-    "api": "https://yc-oss.github.io/api/batches/s21/rendernet.json"
+    "url": "https://www.ycombinator.com/companies/affogato-ai",
+    "api": "https://yc-oss.github.io/api/batches/s21/affogato-ai.json"
   },
   {
     "id": 24045,
@@ -15027,7 +15027,9 @@
     "id": 27874,
     "name": "Relace",
     "slug": "relace",
-    "former_names": [],
+    "former_names": [
+      "Squack"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae6bb6ef21e1f714caced7765c4401aa4e4ee438.png",
     "website": "https://relace.ai",
     "all_locations": "San Francisco, CA, USA",
@@ -15196,6 +15198,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/orchid",
     "api": "https://yc-oss.github.io/api/batches/w23/orchid.json"
+  },
+  {
+    "id": 27902,
+    "name": "Teclada",
+    "slug": "teclada",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4701c15bc405d91f89c8c47a8c477c276843a8ab.png",
+    "website": "https://www.teclada.com/",
+    "all_locations": "Sunnyvale, CA, USA",
+    "long_description": "Where Open Models and Open Minds Meet",
+    "one_liner": "AI is for everyone",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1678082739,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Productivity",
+      "Compliance",
+      "Security"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/teclada",
+    "api": "https://yc-oss.github.io/api/batches/w23/teclada.json"
   },
   {
     "id": 27909,
@@ -24965,6 +25009,48 @@
     "api": "https://yc-oss.github.io/api/batches/s24/baseline-ai.json"
   },
   {
+    "id": 29797,
+    "name": "Haystack Software",
+    "slug": "haystack-software",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd48721d6c682c48e30cb675f7793656d5a02a9f.png",
+    "website": "https://haystackeditor.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Haystack helps you review and merge code faster, without sacrificing quality.\r\n\r\nHaystack is a code review platform that breaks down pull requests into digestible chunks and lays them out on an infinite canvas, replacing traditional line-by-line diffs in GitHub with a structured, visual walkthrough.",
+    "one_liner": "Understand any pull request in under a minute",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1722315932,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/haystack-software",
+    "api": "https://yc-oss.github.io/api/batches/s24/haystack-software.json"
+  },
+  {
     "id": 29801,
     "name": "Rescript",
     "slug": "rescript",
@@ -28365,6 +28451,49 @@
     "api": "https://yc-oss.github.io/api/batches/w25/sophris.json"
   },
   {
+    "id": 30274,
+    "name": "Trata",
+    "slug": "trata",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/508cd0aa179903aea336ffc42458a82d33d548ac.png",
+    "website": "https://www.trytrata.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Trata is an AI-powered research desk for hedge funds. We use agents to interview hedge fund analysts, write investment research, and distribute this through a subscription.",
+    "one_liner": "AI-powered research desk for hedge funds",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1738274242,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Community",
+      "Investing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trata",
+    "api": "https://yc-oss.github.io/api/batches/w25/trata.json"
+  },
+  {
     "id": 30281,
     "name": "Waypoint Transit",
     "slug": "waypoint-transit",
@@ -29211,6 +29340,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/avallon-ai",
     "api": "https://yc-oss.github.io/api/batches/x25/avallon-ai.json"
+  },
+  {
+    "id": 30420,
+    "name": "Cua",
+    "slug": "cua",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/482d9c63c12b9cc8259e1f66c9d39433b6cdc003.png",
+    "website": "https://trycua.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cua is an open-source framework that enables AI agents to control full operating systems within high-performance, lightweight virtual containers. It delivers up to 90% native speed on Apple Silicon and works with any language models.",
+    "one_liner": "Docker Container for Computer-Use Agents on macOS",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1744392234,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cua",
+    "api": "https://yc-oss.github.io/api/batches/x25/cua.json"
   },
   {
     "id": 30431,

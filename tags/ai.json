@@ -907,7 +907,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W17",
     "status": "Active",
@@ -1091,7 +1091,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W12",
     "status": "Active",
@@ -4781,20 +4781,20 @@
   },
   {
     "id": 24040,
-    "name": "RenderNet",
-    "slug": "rendernet",
+    "name": "Affogato AI",
+    "slug": "affogato-ai",
     "former_names": [
       "Walrus",
       "Defy",
       "roverX",
       "RoverX"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0982d6d00a58ecb3bc95af145fb87d497262073.png",
-    "website": "https://rendernet.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d2b2cf346b1bfcbfe1a030cdc70ea97a72b9f4a.png",
+    "website": "https://affogato.ai",
     "all_locations": "Bengaluru, KA, India",
-    "long_description": "RenderNet is an advanced AI tool designed to transform imaginative concepts into high-quality images. It simplifies the process of creating visuals with consistent characters, while offering detailed control over their poses, composition, and styles.\r\n\r\nKey features of RenderNet include FaceLock, which allows for the generation of multiple images featuring a consistent facial identity, enhancing the coherence of visual storytelling. Additionally, ControlNet provides users with the capability to fine-tune images according to specific poses and compositional guidelines, offering a high level of customization.\r\n\r\nRenderNet is suitable for a wide range of users, from graphic designers and digital artists to marketing professionals and content creators, providing a versatile tool for diverse image generation needs.",
-    "one_liner": "RenderNet creates realistic AI images of virtual human characters.",
-    "team_size": 14,
+    "long_description": "Affogato is an AI media creation platform that helps businesses, marketers, and creators produce high-quality content using hyper-realistic AI characters. With Affogato, you can create talking videos, lifestyle images, and product visuals without the need for costly shoots or editing tools. Whether you’re promoting a product, running ads, or building a brand presence online, Affogato gives you powerful, easy-to-use tools to bring your ideas to life—quickly, affordably, and at scale. It’s the fastest way to turn your product into a story that sells.",
+    "one_liner": "Affogato lets you create marketing content with AI characters.",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1626192507,
@@ -4822,8 +4822,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rendernet",
-    "api": "https://yc-oss.github.io/api/batches/s21/rendernet.json"
+    "url": "https://www.ycombinator.com/companies/affogato-ai",
+    "api": "https://yc-oss.github.io/api/batches/s21/affogato-ai.json"
   },
   {
     "id": 24064,
@@ -19799,48 +19799,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/cartage.json"
   },
   {
-    "id": 29797,
-    "name": "Haystack Software",
-    "slug": "haystack-software",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb08cd689b8bc726ff34032bcc77b9fe6763467b.png",
-    "website": "https://haystackeditor.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Haystack is a a canvas-based IDE that automates the tedious and mechanical steps of software development -- plumbing, refactoring, and finding code -- so that software engineers can focus on the important parts. \r\n\r\nIn Haystack, users can explore and edit their code on a 2D canvas with a navigational copilot assisting every step of their way.",
-    "one_liner": "Visualize and edit your codebase on an infinite canvas",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1722315932,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Productivity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/haystack-software",
-    "api": "https://yc-oss.github.io/api/batches/s24/haystack-software.json"
-  },
-  {
     "id": 29800,
     "name": "HeroUI",
     "slug": "heroui",
@@ -23435,49 +23393,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/lucidic-ai.json"
   },
   {
-    "id": 30274,
-    "name": "Trata",
-    "slug": "trata",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/508cd0aa179903aea336ffc42458a82d33d548ac.png",
-    "website": "https://www.trytrata.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Trata is an AI-powered research desk for hedge funds. We use agents to interview hedge fund analysts, write investment research, and distribute this through a subscription.",
-    "one_liner": "AI-powered research desk for hedge funds",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1738274242,
-    "tags": [
-      "Finance",
-      "B2B",
-      "Community",
-      "Investing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trata",
-    "api": "https://yc-oss.github.io/api/batches/w25/trata.json"
-  },
-  {
     "id": 30276,
     "name": "General Trajectory",
     "slug": "general-trajectory",
@@ -24356,46 +24271,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/fira.json"
   },
   {
-    "id": 30420,
-    "name": "c/ua",
-    "slug": "c-ua",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/482d9c63c12b9cc8259e1f66c9d39433b6cdc003.png",
-    "website": "https://trycua.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "c/ua is an open-source framework that enables AI agents to control full operating systems within high-performance, lightweight virtual containers. It delivers up to 90% native speed on Apple Silicon and works with any language models.",
-    "one_liner": "Docker Container for Computer-Use Agents on macOS",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1744392234,
-    "tags": [
-      "Developer Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "X25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/c-ua",
-    "api": "https://yc-oss.github.io/api/batches/x25/c-ua.json"
-  },
-  {
     "id": 30431,
     "name": "Chonkie",
     "slug": "chonkie",
@@ -24515,6 +24390,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rimba",
     "api": "https://yc-oss.github.io/api/batches/x25/rimba.json"
+  },
+  {
+    "id": 30549,
+    "name": "Airweave",
+    "slug": "airweave",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973b8e0eeb1c5161841d44605b2c44034a0c5202.png",
+    "website": "https://github.com/airweave-ai/airweave",
+    "all_locations": "",
+    "long_description": "Airweave transforms any app data into searchable knowledge for AI agents. It's open source, supports MCP, handles RBAC, and seamlessly connects any app, database, URL, or API.",
+    "one_liner": "Turn Apps Into Accessible Knowledge For Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1744594621,
+    "tags": [
+      "B2B",
+      "Open Source",
+      "Search",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/airweave",
+    "api": "https://yc-oss.github.io/api/batches/x25/airweave.json"
   },
   {
     "id": 30561,
