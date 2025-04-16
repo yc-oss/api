@@ -5990,7 +5990,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S20",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -19381,6 +19381,49 @@
     "api": "https://yc-oss.github.io/api/batches/s24/pinnacle.json"
   },
   {
+    "id": 29778,
+    "name": "Praxos",
+    "slug": "praxos",
+    "former_names": [
+      "Praxos Intelligence, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d35446ae117ad0a29d2185361444c5985f90b211.png",
+    "website": "https://www.praxos.ai",
+    "all_locations": "Miami, FL, USA; Remote",
+    "long_description": "Developers use Praxos to give their AI agents memory, document processing, and autonomous tool use. Build AI that gets smarter and more personalized over time.",
+    "one_liner": "Data layer for AI agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1723170275,
+    "tags": [
+      "Developer Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/praxos",
+    "api": "https://yc-oss.github.io/api/batches/s24/praxos.json"
+  },
+  {
     "id": 29782,
     "name": "Laminar",
     "slug": "laminar",
@@ -19960,7 +20003,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "F24",
     "status": "Active",
@@ -20382,11 +20425,11 @@
     "subindustry": "B2B",
     "launched_at": 1736668232,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "API",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20587,20 +20630,20 @@
     "former_names": [
       "Khipu"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ffaa07742bdd32e6b3e7d2318a753289e334055.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c536945e04bdc8b405d2bb35c81631f9b7c3c738.png",
     "website": "https://sublingual.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Open source tool which helps you log and analyze all of your LLM calls, including the prompt template, call parameters, responses, tool calls, and more. The coolest thing? You don't have to change any of your code!",
-    "one_liner": "LLM Observability with zero changes to your code",
+    "long_description": "Our desktop app helps teams stay focused on shipping.",
+    "one_liner": "Daily productivity tracker",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1740613527,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21419,7 +21462,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b17534ba287037ccdd64190ce407624696f30a.png",
     "website": "https://www.chonkie.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Chonkie breaks down large documents into smaller, meaningful chunks, making it easier for AI to process information. By ensuring that models receive only relevant and well-structured context within their token limits, Chonkie improves response accuracy and speed. Our tools are built to integrate seamlessly with any tech stack, so you can focus on leveraging your AI's full potential easily.",
     "one_liner": "Make Documents AI Ready",
     "team_size": 2,
@@ -21442,8 +21485,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -21458,7 +21500,7 @@
     "name": "Prophet",
     "slug": "prophet",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c1eac4c88e80f78f94a66ba96e6521c479b8336.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e82c30aef880fc2de0dcc3a8d72fd7f8d8cd03bd.png",
     "website": "https://try-prophet.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're creating an AI agent that orchestrates debugging tools and runs your code to find bugs. It's time to close the loop on vibe coding.",
