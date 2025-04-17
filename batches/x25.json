@@ -403,6 +403,47 @@
     "api": "https://yc-oss.github.io/api/batches/x25/chonkie.json"
   },
   {
+    "id": 30456,
+    "name": "Tinfoil",
+    "slug": "tinfoil",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc74e71b1f792bb7e067be2feda82c554eaef27a.png",
+    "website": "https://tinfoil.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tinfoil makes it easy to make your AI workloads provably private, without changing your code. You get the privacy of on-prem deployments, while running on the cloud.\r\n\r\nWe’ve built a full-stack platform on top of the latest NVIDIA GPUs offering confidential computing capabilities, meaning that you don’t have to tradeoff performance for privacy. \r\n\r\nUnder the hood, we integrate a suite of recent advances in secure hardware technologies, in particular NVIDIA’s confidential compute mode available on Hopper and Blackwell. When combined with Tinfoil’s software stack, companies can prove their security claims rather than relying on unenforceable statements like \"trust us, we don’t log your queries.” Tinfoil guarantees that all data always stays private and cannot be accessed by anyone other than the end user — not even by Tinfoil or the cloud provider it’s processed on. \r\n\r\nThe founding team combines deep academic and industry experience in security and internet protocols. Tanya was previously a systems engineer at Cloudflare, where she built Internet security protocols used by billions, and contributed to the Workers AI platform. Jules and Sacha recently completed their PhDs at MIT where they worked on secure hardware and privacy-preserving technologies. Jules has also worked at NVIDIA on their confidential computing team. Nate has deep infrastructure experience, starting in high school when he built a mini-CDN that got him an internship at Cloudflare. Tinfoil was born from our personal frustration with the false choice between access to powerful AI and data privacy.\r\n\r\nAs AI becomes tightly integrated into our lives and business workflows, it will touch an ever increasing amount of sensitive personal and proprietary data. Right now, the only solutions are DPAs, band-aids like PII redaction, or the nuclear option of running everything on-prem. These solutions are not scalable.  By making it easy to deploy provable privacy, Tinfoil promises to unlock significantly deeper AI adoption and integrations, just as TLS on the Internet enabled e-commerce to flourish by securing credit cards on the network.\r\n\r\nIf OpenAI is creating “God in a box”, we are putting God in a blackbox, so Satan can’t spy.",
+    "one_liner": "Confidential AI with the privacy of on-prem but runs on the cloud",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1744845895,
+    "tags": [
+      "Artificial Intelligence",
+      "Security",
+      "Cryptography"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tinfoil",
+    "api": "https://yc-oss.github.io/api/batches/x25/tinfoil.json"
+  },
+  {
     "id": 30462,
     "name": "Linkd",
     "slug": "linkd",
@@ -483,6 +524,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/runrl",
     "api": "https://yc-oss.github.io/api/batches/x25/runrl.json"
+  },
+  {
+    "id": 30497,
+    "name": "Human Behavior",
+    "slug": "human-behavior",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70ee4a82d8c7b2f47ddbde81a8a5fdf634227e73.png",
+    "website": "https://www.humanbehavior.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Human Behavior uses vision models to watch all sessions, extracting behavior patterns that lead to revenue & retention. We sell to product teams at high growth startups like Delve (W24), and Context.",
+    "one_liner": "We reveal why users stay, leave, or pay",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1744779271,
+    "tags": [
+      "Customer Success",
+      "Market Research",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/human-behavior",
+    "api": "https://yc-oss.github.io/api/batches/x25/human-behavior.json"
   },
   {
     "id": 30501,
@@ -817,7 +899,7 @@
     "slug": "airweave",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973b8e0eeb1c5161841d44605b2c44034a0c5202.png",
-    "website": "https://github.com/airweave-ai/airweave",
+    "website": "https://airweave.ai",
     "all_locations": "",
     "long_description": "Airweave transforms any app data into searchable knowledge for AI agents. It's open source, supports MCP, handles RBAC, and seamlessly connects any app, database, URL, or API.",
     "one_liner": "Turn Apps Into Accessible Knowledge For Agents",
@@ -826,11 +908,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1744594621,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Open Source",
       "Search",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
