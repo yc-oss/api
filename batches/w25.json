@@ -668,13 +668,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Leaping AI is the only platform for self-improving voice AI agents.\r\n\r\nWe automated contact centers employing >100 human agents and now handle their incoming customer support and sales calls, end-to-end. All while maintaining 90% customer satisfaction score.\r\n\r\nFor another company, our voice AI agents were able to convert 30% of contacted leads within a week of the outbound campaign. A similar campaign with humans previously took that same company 5 weeks.\r\n",
     "one_liner": "The only self-improving voice AI",
-    "team_size": 6,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736780951,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -826,49 +826,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/excellence-learning",
     "api": "https://yc-oss.github.io/api/batches/w25/excellence-learning.json"
-  },
-  {
-    "id": 30187,
-    "name": "Praxim",
-    "slug": "praxim",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be59095cc480f86c19c6f83b000c574f9e8e3cd0.png",
-    "website": "https://www.praxim.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Praxim is an AI-native workspace that organizes all your communications and documents into one unified platform. Praxim is the first such platform that can AI edit formatted files and documents like DOCX and PDF directly, reply to emails and text, and answer queries, all with company and user specific knowledge in mind.",
-    "one_liner": "The first AI-native email and office file editing platform",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1740746196,
-    "tags": [
-      "SaaS",
-      "Consumer",
-      "B2B",
-      "AI",
-      "Databases"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/praxim",
-    "api": "https://yc-oss.github.io/api/batches/w25/praxim.json"
   },
   {
     "id": 30188,
@@ -2130,7 +2087,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W25",
     "status": "Active",
@@ -3206,7 +3163,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W25",
     "status": "Active",
@@ -4294,7 +4251,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W25",
     "status": "Active",
@@ -4594,6 +4551,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/harper",
     "api": "https://yc-oss.github.io/api/batches/w25/harper.json"
+  },
+  {
+    "id": 30289,
+    "name": "Sherpa Labs",
+    "slug": "sherpa-labs",
+    "former_names": [
+      "DagHub.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc6e69fe5c9b9ed32dbb15b81f5057c0f2e4abd.png",
+    "website": "https://www.sherpalabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sherpa Labs is building an agentic data team that automates modeling, operations, and discovery via a swarm of agents. Their initial product is a data catalog that enables developers and AI agents to quickly locate the right data sources, effortlessly trace data lineage, and understand messy data lakes — similar to Glean but for enterprise data systems.",
+    "one_liner": "The AI Data Team",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1737526775,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Data Science",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sherpa-labs",
+    "api": "https://yc-oss.github.io/api/batches/w25/sherpa-labs.json"
   },
   {
     "id": 30290,
@@ -6141,7 +6142,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W25",
     "status": "Active",

@@ -168,16 +168,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac85a0bca77fe890f3dc1aadd1f0f8a554481659.png",
     "website": "https://www.avallon.ai/",
     "all_locations": "",
-    "long_description": "Avallon automates car and freight insurance claims operations from first notice to subrogation. Voice agents handle the claim intake and repair shop outreach, supported by a web app with an AI copilot to handle the rest of the workflow. Adjusters become significantly more productive, resolving claims up to 10x faster at just 10% of the traditional cost.",
-    "one_liner": "Automate car and freight insurance claims with AI agents ",
+    "long_description": "Avallon turns complex call operations into automated resolutions, cutting costs and supercharging productivity with agentic workflows.",
+    "one_liner": "Voice agents for auto and freight",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1744318663,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -363,6 +363,47 @@
     "api": "https://yc-oss.github.io/api/batches/x25/auctor.json"
   },
   {
+    "id": 30426,
+    "name": "Approval AI",
+    "slug": "approval-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e03bf91580d0265ba53d615ffca014e6017c8053.png",
+    "website": "https://getapproval.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Approval AI is an AI-powered mortgage co-pilot that automates the most complex parts of getting a mortgage: rate shopping, negotiation, and paperwork, all in one place. We automate what brokers and loan officers do, and hand those tools directly to the buyer.",
+    "one_liner": "AI that shops your mortgage, negotiates it, and wins",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Unspecified",
+    "launched_at": 1744861920,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/approval-ai",
+    "api": "https://yc-oss.github.io/api/batches/x25/approval-ai.json"
+  },
+  {
     "id": 30431,
     "name": "Chonkie",
     "slug": "chonkie",
@@ -401,6 +442,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/chonkie",
     "api": "https://yc-oss.github.io/api/batches/x25/chonkie.json"
+  },
+  {
+    "id": 30452,
+    "name": "Better Auth",
+    "slug": "better-auth",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f768f164c4dd92121e70abbd42713af3118834a.png",
+    "website": "https://better-auth.com/",
+    "all_locations": "Remote",
+    "long_description": "Better Auth is a framework-agnostic authentication framework and infrastructure for TypeScript. It provides a comprehensive set of features out of the box and includes a plugin ecosystem that simplifies adding advanced functionalities. Whether you need 2FA, multi-tenancy, multi-session support, or even enterprise features like SSO, it lets you focus on building your application instead of reinventing the wheel. And when you're ready to scale, Better Auth's infrastructure layer offers built-in solutions for user management, security monitoring, transactional messaging, and abuse prevention.",
+    "one_liner": "The most comprehensive authentication framework for TypeScript.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1744888506,
+    "tags": [
+      "Developer Tools",
+      "Security",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/better-auth",
+    "api": "https://yc-oss.github.io/api/batches/x25/better-auth.json"
   },
   {
     "id": 30456,
@@ -529,7 +611,9 @@
     "id": 30497,
     "name": "Human Behavior",
     "slug": "human-behavior",
-    "former_names": [],
+    "former_names": [
+      "Dough"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70ee4a82d8c7b2f47ddbde81a8a5fdf634227e73.png",
     "website": "https://www.humanbehavior.co/",
     "all_locations": "San Francisco, CA, USA",
@@ -537,7 +621,7 @@
     "one_liner": "We reveal why users stay, leave, or pay",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "Fintech -> Credit and Lending",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1744779271,
     "tags": [
       "Customer Success",
@@ -617,13 +701,13 @@
     "website": "https://www.klavis.ai/",
     "all_locations": "",
     "long_description": "Build an open source Model Context Protocol (MCP) platform & SDK that simplifies using, creating, and scaling MCPs.",
-    "one_liner": "Open source infra making MCPs easy to use, build and scale.",
+    "one_liner": "Open source MCP clients and Servers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1744314522,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -635,7 +719,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
