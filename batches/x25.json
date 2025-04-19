@@ -122,6 +122,48 @@
     "api": "https://yc-oss.github.io/api/batches/x25/frekil.json"
   },
   {
+    "id": 30405,
+    "name": "nao Labs",
+    "slug": "nao-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc383861067e52763d4fc791adef3e3fa4e6164d.png",
+    "website": "https://getnao.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "nao is an AI code editor for data teams. Its AI agent is natively integrated with your data warehouse, and trained on data workflows - so it can write code that actually works on your data and guarantees its quality.",
+    "one_liner": "Cursor for data teams.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1744958361,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Analytics",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nao-labs",
+    "api": "https://yc-oss.github.io/api/batches/x25/nao-labs.json"
+  },
+  {
     "id": 30411,
     "name": "mrge",
     "slug": "mrge",
@@ -444,6 +486,48 @@
     "api": "https://yc-oss.github.io/api/batches/x25/chonkie.json"
   },
   {
+    "id": 30448,
+    "name": "PgDog",
+    "slug": "pgdog",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e611bab66e36c7b14163abfaf0665e260a2ac3e2.png",
+    "website": "https://pgdog.dev",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "PgDog is an application for sharding PostgreSQL. It understands SQL and can distribute queries automatically between databases. It's built for managed databases, like AWS RDS, and doesn't require any changes to application code or schema.\r\n\r\nIn addition to sharding, PgDog is a load balancer and pooler, so it can act as a replacement for PgBouncer, RDS Proxy, and other Postgres scaling products. It brings the simplicity and performance of HTTP load balancing to the database.\r\n\r\nBuilt from the experience of sharding Postgres at Instacart during peak growth in 2020, PgDog is the answer to the old question: does Postgres scale? It does now.",
+    "one_liner": "Scale PostgreSQL with automatic sharding.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1745009582,
+    "tags": [
+      "Database Sharding",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pgdog",
+    "api": "https://yc-oss.github.io/api/batches/x25/pgdog.json"
+  },
+  {
     "id": 30452,
     "name": "Better Auth",
     "slug": "better-auth",
@@ -451,7 +535,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f768f164c4dd92121e70abbd42713af3118834a.png",
     "website": "https://better-auth.com/",
     "all_locations": "Remote",
-    "long_description": "Better Auth is a framework-agnostic authentication framework and infrastructure for TypeScript. It provides a comprehensive set of features out of the box and includes a plugin ecosystem that simplifies adding advanced functionalities. Whether you need 2FA, multi-tenancy, multi-session support, or even enterprise features like SSO, it lets you focus on building your application instead of reinventing the wheel. And when you're ready to scale, Better Auth's infrastructure layer offers built-in solutions for user management, security monitoring, transactional messaging, and abuse prevention.",
+    "long_description": "Better Auth is a framework-agnostic authentication solution for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. It’s loved by developers and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer that includes user management and analytics, bot and fraud detection, transactional email and SMS, global session storage, and tailored support and advisory for your specific Better Auth implementation.",
     "one_liner": "The most comprehensive authentication framework for TypeScript.",
     "team_size": 2,
     "industry": "B2B",
@@ -493,7 +577,7 @@
     "website": "https://tinfoil.sh",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tinfoil makes it easy to make your AI workloads provably private, without changing your code. You get the privacy of on-prem deployments, while running on the cloud.\r\n\r\nWe’ve built a full-stack platform on top of the latest NVIDIA GPUs offering confidential computing capabilities, meaning that you don’t have to tradeoff performance for privacy. \r\n\r\nUnder the hood, we integrate a suite of recent advances in secure hardware technologies, in particular NVIDIA’s confidential compute mode available on Hopper and Blackwell. When combined with Tinfoil’s software stack, companies can prove their security claims rather than relying on unenforceable statements like \"trust us, we don’t log your queries.” Tinfoil guarantees that all data always stays private and cannot be accessed by anyone other than the end user — not even by Tinfoil or the cloud provider it’s processed on. \r\n\r\nThe founding team combines deep academic and industry experience in security and internet protocols. Tanya was previously a systems engineer at Cloudflare, where she built Internet security protocols used by billions, and contributed to the Workers AI platform. Jules and Sacha recently completed their PhDs at MIT where they worked on secure hardware and privacy-preserving technologies. Jules has also worked at NVIDIA on their confidential computing team. Nate has deep infrastructure experience, starting in high school when he built a mini-CDN that got him an internship at Cloudflare. Tinfoil was born from our personal frustration with the false choice between access to powerful AI and data privacy.\r\n\r\nAs AI becomes tightly integrated into our lives and business workflows, it will touch an ever increasing amount of sensitive personal and proprietary data. Right now, the only solutions are DPAs, band-aids like PII redaction, or the nuclear option of running everything on-prem. These solutions are not scalable.  By making it easy to deploy provable privacy, Tinfoil promises to unlock significantly deeper AI adoption and integrations, just as TLS on the Internet enabled e-commerce to flourish by securing credit cards on the network.\r\n\r\nIf OpenAI is creating “God in a box”, we are putting God in a blackbox, so Satan can’t spy.",
-    "one_liner": "Confidential AI with the privacy of on-prem but runs on the cloud",
+    "one_liner": "AI that runs on the cloud with the privacy of on-prem",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -617,7 +701,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70ee4a82d8c7b2f47ddbde81a8a5fdf634227e73.png",
     "website": "https://www.humanbehavior.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Human Behavior uses vision models to watch all sessions, extracting behavior patterns that lead to revenue & retention. We sell to product teams at high growth startups like Delve (W24), and Context.",
+    "long_description": "Human Behavior uses vision models to watch all user web sessions so you know exactly how users use every part of your product. We sell to product teams at high growth startups like Delve (W24), and Context.",
     "one_liner": "We reveal why users stay, leave, or pay",
     "team_size": 3,
     "industry": "B2B",
@@ -729,6 +813,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/klavis-ai-2",
     "api": "https://yc-oss.github.io/api/batches/x25/klavis-ai-2.json"
+  },
+  {
+    "id": 30511,
+    "name": "Vassar Robotics",
+    "slug": "vassar-robotics",
+    "former_names": [
+      "JORCA Robotics"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/298de1df0e98ea832138177668c9cea22705e3fb.png",
+    "website": "https://www.vassarrobotics.com",
+    "all_locations": "Cambridge, MA, USA",
+    "long_description": "",
+    "one_liner": "Adaptive Automation That's Useful Today",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Consumer Electronics",
+    "launched_at": 1745005061,
+    "tags": [
+      "Machine Learning",
+      "Robotics",
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Consumer Electronics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vassar-robotics",
+    "api": "https://yc-oss.github.io/api/batches/x25/vassar-robotics.json"
   },
   {
     "id": 30513,
@@ -983,7 +1110,7 @@
     "name": "Airweave",
     "slug": "airweave",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/973b8e0eeb1c5161841d44605b2c44034a0c5202.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e607d570b51d09a9439774963188f42e98627927.png",
     "website": "https://airweave.ai",
     "all_locations": "",
     "long_description": "Airweave transforms any app data into searchable knowledge for AI agents. It's open source, supports MCP, handles RBAC, and seamlessly connects any app, database, URL, or API.",
@@ -993,11 +1120,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1744594621,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Open Source",
       "Search",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

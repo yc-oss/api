@@ -17758,15 +17758,15 @@
     "all_locations": "New York, NY, USA",
     "long_description": "At Heron, we use the latest advances in AI and LLMs to automate document-heavy workflows. Our software handles emails, analyzes attachments, and takes actions like updating CRMs or requesting more info. We serve businesses from small companies to FDIC-insured banks in sectors like Small Business Finance and Commercial Insurance.",
     "one_liner": "We automate document-heavy workflows in financial services and beyond",
-    "team_size": 17,
+    "team_size": 26,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1597867558,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17834,49 +17834,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/siphox-health",
     "api": "https://yc-oss.github.io/api/batches/s20/siphox-health.json"
-  },
-  {
-    "id": 22322,
-    "name": "Payflow",
-    "slug": "payflow-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a26715d50dea86a98186746ad74932cda51155ed.png",
-    "website": "https://www.payflow.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Building Luca: an AI FP&A analyst providing executives with AI-powered financial insights, analytics, detailed reporting, planning and forecasting. Luca enables companies to save tens of thousands of dollars and 400+ hours per year, while getting critical business value from week one.\r\nLevel-4 autonomy for FP&A. Learn more: https://payflow.ai",
-    "one_liner": "AI FP&A Agent for insights, reports, planning and forecasting.",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1595401779,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S20",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/payflow-2",
-    "api": "https://yc-oss.github.io/api/batches/s20/payflow-2.json"
   },
   {
     "id": 22327,
@@ -22919,7 +22876,7 @@
       "roverX",
       "RoverX"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d2b2cf346b1bfcbfe1a030cdc70ea97a72b9f4a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be16f533fa3c585f372247f4f8cbf40d31f24c27.png",
     "website": "https://affogato.ai",
     "all_locations": "Bengaluru, KA, India",
     "long_description": "Affogato is an AI media creation platform that helps businesses, marketers, and creators produce high-quality content using hyper-realistic AI characters. With Affogato, you can create talking videos, lifestyle images, and product visuals without the need for costly shoots or editing tools. Whether you’re promoting a product, running ads, or building a brand presence online, Affogato gives you powerful, easy-to-use tools to bring your ideas to life—quickly, affordably, and at scale. It’s the fastest way to turn your product into a story that sells.",
@@ -28205,6 +28162,54 @@
     "api": "https://yc-oss.github.io/api/batches/w22/beam.json"
   },
   {
+    "id": 25587,
+    "name": "Dart",
+    "slug": "dart",
+    "former_names": [
+      "Pivot",
+      "Keeple"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83756d8c7862167a3ed5773168260fe15640608c.png",
+    "website": "https://itsdart.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dart is a fully-featured project management tool that uses AI to assist with roadmap planning, report generation, breaking tasks into subtasks, duplicate detection, and executing on writing and design tasks. Teams use Dart in order to chat with their tasks, plan better, and eliminate regular PM chores from their schedule, freeing up seven hours per week to focus on other work.",
+    "one_liner": "The only truly AI-native project management tool",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1646780324,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "B2B",
+      "Productivity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dart",
+    "api": "https://yc-oss.github.io/api/batches/w22/dart.json"
+  },
+  {
     "id": 25590,
     "name": "Emobi",
     "slug": "emobi",
@@ -32804,7 +32809,7 @@
     "all_locations": "Denver, CO, USA; Remote",
     "long_description": "Quindar is a web app used by satellite owners to analyze, test and operate their constellation. For example, Airbus could use Quindar to operate their satellite fleet with minimal human intervention.\r\n  \r\nWe’re six former OneWeb engineers who helped build the software platform that currently operates the second largest satellite constellation in the world.\r\n \r\nThe space industry is shifting from companies launching a handful of satellites over a decade, to launching hundreds of satellites EACH in just a few years. Our SaaS platform automates mission management and for a single engineer to operate hundreds of satellites instead of the traditional model of many engineers operating a single satellite.",
     "one_liner": "The platform to monitor and automate satellite operations",
-    "team_size": 21,
+    "team_size": 28,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1657040679,
@@ -34745,16 +34750,18 @@
     "former_names": [
       "Elegant"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e91e9315abad17e20d9922b02f02927ab3652b4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ce9a2d0eb717408f7a56ad8fd6c76940b02a6a9.png",
     "website": "https://www.tennr.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Tennr is a first-of-its-kind automations platform built to handle the nuances of human-decision making within healthcare operations. ",
-    "one_liner": "Turn your healthcare operations into growth",
-    "team_size": 44,
+    "long_description": "Tennr is solving the black hole problem in healthcare by leveraging models to digitize the flow of paperwork between healthcare providers.\r\n--\r\nToday, when you go to your doctor and need to be referred to a specialist (e.g., for sleep apnea), your doctor sends a fax (yes, in 2024, 90% of provider-provider communication is a 1980s fax). These are often converted into 20+ page PDFs, with handwritten (doctor’s handwriting!) notes, in thousands of different formats. The problem is so complex that a person has to read it, type it up, and manually enter your information. Tennr built RaeLM™ (7B—trained on 3M+ documents) to read these docs, talk to your doc to ensure nothing is missed, and text you to help schedule your appointment so you can get better, faster.\r\n",
+    "one_liner": "Fast, Transparent Patient Experiences",
+    "team_size": 85,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1676577561,
-    "tags": [],
+    "tags": [
+      "Healthcare"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -38575,47 +38582,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alguna",
     "api": "https://yc-oss.github.io/api/batches/s23/alguna.json"
-  },
-  {
-    "id": 28845,
-    "name": "Campfire",
-    "slug": "campfire-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b964d406b730adef7e1ad9fcd6fdf8775ca296fc.png",
-    "website": "https://meetcampfire.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Campfire is the modern accounting platform for startups and mid-size tech companies. Our product includes an accounting general ledger that has multi-entity support and advanced financial reporting such as P&L by department and contribution margin by customer. Migrate from legacy accounting software to Campfire for your accounting and financial reporting to automate manual tasks and streamline workflows to unlock financial insights and accelerate the monthly close process.",
-    "one_liner": "A modern version of NetSuite",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1690778245,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "SaaS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/campfire-2",
-    "api": "https://yc-oss.github.io/api/batches/s23/campfire-2.json"
   },
   {
     "id": 28847,
@@ -45369,14 +45335,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Corgi is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We’re taking it all.",
     "one_liner": "Corgi is building an AI insurance company",
-    "team_size": 15,
+    "team_size": 20,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1720644316,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45522,6 +45488,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/azalea-robotics-corporation",
     "api": "https://yc-oss.github.io/api/batches/s24/azalea-robotics-corporation.json"
+  },
+  {
+    "id": 29659,
+    "name": "Unbound",
+    "slug": "unbound",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36df07c499b1ae5e15e4171c4cc3ef24d462d03c.png",
+    "website": "https://getunbound.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Use AI tools without fear of data leakage",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1715812278,
+    "tags": [
+      "Artificial Intelligence",
+      "Privacy",
+      "Cybersecurity",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unbound",
+    "api": "https://yc-oss.github.io/api/batches/s24/unbound.json"
   },
   {
     "id": 29661,
@@ -49422,8 +49432,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76da7482464e997589bdd7af778cc8f800c3d13.png",
     "website": "https://afterquery.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We empower foundational AI labs, enterprises, and startups by providing high-quality human-generated datasets that are essential for fine-tuning more capable, refined, and reliable AI systems. \r\n\r\nOur thesis is that truly exceptional model performance requires the highest quality human training data.\r\n \r\nTo solve for this, we are building a platform to onboard experts in various fields to work on custom datasets. Think of the working professionals at top firms and the smartest students in various subjects (PhDs). Then, whenever our clients have a request for a certain type of data, we will construct and lead a team to produce: fine-tuning data, RLHF data, benchmarks, etc.\r\n\r\nWe’ve already started in finance, illustrating the importance of high-quality data in our paper posted here: https://arxiv.org/abs/2501.18062.\r\n",
-    "one_liner": "High-quality AI starts with high-quality human data",
+    "long_description": "AfterQuery is a research lab (backed by Y Combinator) investigating the boundaries and capabilities of artificial intelligence through novel datasets and experimentation. We believe that pushing the frontiers of AI requires both rigorous scientific inquiry and exceptional human data.",
+    "one_liner": "Research lab investigating the boundaries of AI capabilities.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
