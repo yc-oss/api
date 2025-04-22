@@ -5836,8 +5836,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87c0954c151aa7067e034d8de33b3174d43f5ff0.png",
     "website": "https://hydra.so",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Hydra is Postgres with serverless online analytical processing (OLAP). It is designed for low-latency applications built on time series and event data.\r\n\r\nHydra is available for both local development and a cloud offering which provides every project a managed Postgres database, serverless analytical processing, and bottomless storage.",
-    "one_liner": "Serverless realtime analytics on Postgres",
+    "long_description": "Hydra is a real-time analytics database management system for Postgres. We seperate compute from storage to offer software engineers serverless analytics with autoscale, write isolation, automatic caching, and more.\r\n\r\nShipping scalable projects on time series and event data has never been easier. Hydra is available for local development, cloud, and bare metal deployment.",
+    "one_liner": "Serverless analytics on Postgres",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -9650,6 +9650,50 @@
     "api": "https://yc-oss.github.io/api/batches/w25/assistant-ui.json"
   },
   {
+    "id": 30407,
+    "name": "Authed",
+    "slug": "authed",
+    "former_names": [
+      "authed",
+      "Authed",
+      "authed"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f019ea3e5b31661f2216e607cfc9e4ec375b482a.png",
+    "website": "https://getauthed.dev/",
+    "all_locations": "",
+    "long_description": "Authed is a managed platform for hosting production-ready MCP servers. We provide authentication, multi-tenancy, monitoring, and infrastructure under your domain. Companies use Authed to deploy MCP servers without managing their own stack.",
+    "one_liner": "Production-ready MCP servers for companies",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1745255607,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/authed",
+    "api": "https://yc-oss.github.io/api/batches/x25/authed.json"
+  },
+  {
     "id": 30448,
     "name": "PgDog",
     "slug": "pgdog",
@@ -9731,6 +9775,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/runrl",
     "api": "https://yc-oss.github.io/api/batches/x25/runrl.json"
+  },
+  {
+    "id": 30475,
+    "name": "Morphik",
+    "slug": "morphik",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a260c523f9c222814023a16c76c6a2b22616cd5.png",
+    "website": "https://morphik.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Morphik is an open-source multimodal end to end RAG service. Developers use Morphik to ingest any data, create knowledge graphs, and retrieve relevant information from private data.",
+    "one_liner": "Open-source RAG alternative for building AI apps over multimodal…",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1745265466,
+    "tags": [
+      "Artificial Intelligence",
+      "Open Source",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/morphik",
+    "api": "https://yc-oss.github.io/api/batches/x25/morphik.json"
   },
   {
     "id": 30549,

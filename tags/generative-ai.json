@@ -4761,7 +4761,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -6855,50 +6855,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spine-ai",
     "api": "https://yc-oss.github.io/api/batches/s23/spine-ai.json"
-  },
-  {
-    "id": 28841,
-    "name": "SuperCraft",
-    "slug": "supercraft",
-    "former_names": [
-      "Neuralyze"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e253b8344133fe4ca5b396057dd1384ef5081503.png",
-    "website": "https://supercraft.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "SuperCraft lets anyone create professional designs with natural language\r\n\r\nJoin thousands of designers using SuperCraft to craft compelling visual narratives via on-brand creatives, packaging, product design, architectural design, gaming and more",
-    "one_liner": "Figma for designing physical products",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1688534176,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Productivity",
-      "Design Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/supercraft",
-    "api": "https://yc-oss.github.io/api/batches/s23/supercraft.json"
   },
   {
     "id": 28846,
@@ -10505,19 +10461,19 @@
     "name": "Melder",
     "slug": "melder",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5832049d683d7ac2b36d197af04433cc3bf4bb4d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78670a3e0cef588e19eb8b9dd11bc151ceac64fa.png",
     "website": "https://melder.io",
     "all_locations": "New York, NY, USA",
-    "long_description": "Melder is a spreadsheet tool that has AI functions and data representations at its core. Upload files directly to cells, use functions like =GEN, and build automations directly from the workbook.\r\n\r\nWe make it easy for business users to uncover insights in their documents, automate away their emails, and even deploy simple AI chatbots.\r\n\r\n'Excel' is the backbone that codifies structured data business logic today, we're taking that UX to the unstructured data world.",
-    "one_liner": "Automate analysis and biz processes w/ an AI native spreadsheet",
+    "long_description": "Melder is an Excel add-in that brings AI functions and document support into your spreadsheets. Upload files directly into cells, use smart formulas like =GEN, and build automations—all without leaving Excel.\r\n\r\nCore features:\r\n- File-to-Sheet: Drop PDFs directly into cells, then reference them in formulas.\r\n- AI-Powered Functions: Write formulas like =GEN() or =EXTRACT() to summarize, classify, and analyze content.\r\n- Chat Assistant: Use our AI assistant to help build your sheets or answer questions from your data, live in the workbook.\r\n\r\nBusiness users use Melder to:\r\n- Accelerate diligence by extracting insights from data rooms\r\n- Review contracts by identifying key terms and clauses instantly\r\n- Run market research by pulling information from competitor websites\r\n- Synthesize transcripts by generating summaries from interviews and calls\r\n\r\nMelder brings the power of structured spreadsheet logic to the messy, unstructured data world—no coding needed.",
+    "one_liner": "AI formulas and document support for Microsoft Excel",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1731437113,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10527,7 +10483,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Productivity"
     ],
     "regions": [
       "United States of America",

@@ -6170,7 +6170,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S20",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -8762,20 +8762,20 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98a18df5d938eeb09cd88bd74384b13a26aa03d5.png",
     "website": "https://hyperbrowser.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hyperbrowser.ai is the internet infrastructure for AI agents. We provide instant, scalable browser infra with built-in CAPTCHA solving, proxy management, and anti-bot detection. \r\n\r\nDevelopers use us to power their AI agents for data collection, testing, and web automation at scale.",
+    "long_description": "Hyperbrowser.ai is the internet infrastructure for AI agents. We provide instant, scalable browser infra with built-in CAPTCHA solving, proxy management, and anti-bot detection. \r\n\r\nDevelopers use us to power their AI agents for data collection, testing, and web automation at scale. We're backed by YC, Accel, SV Angel, and others.",
     "one_liner": "Web infrastructure for AI agents",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1628188883,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -8785,7 +8785,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -10457,8 +10459,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87c0954c151aa7067e034d8de33b3174d43f5ff0.png",
     "website": "https://hydra.so",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Hydra is Postgres with serverless online analytical processing (OLAP). It is designed for low-latency applications built on time series and event data.\r\n\r\nHydra is available for both local development and a cloud offering which provides every project a managed Postgres database, serverless analytical processing, and bottomless storage.",
-    "one_liner": "Serverless realtime analytics on Postgres",
+    "long_description": "Hydra is a real-time analytics database management system for Postgres. We seperate compute from storage to offer software engineers serverless analytics with autoscale, write isolation, automatic caching, and more.\r\n\r\nShipping scalable projects on time series and event data has never been easier. Hydra is available for local development, cloud, and bare metal deployment.",
+    "one_liner": "Serverless analytics on Postgres",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -13208,7 +13210,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W23",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -18691,23 +18693,23 @@
   },
   {
     "id": 29665,
-    "name": "Aviary",
-    "slug": "aviary",
+    "name": "CloudGlue",
+    "slug": "cloudglue",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f547267372801c061053d2cd2d1b95dd34a2670f.png",
-    "website": "https://aviary.video",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cbea025a1fb985cf8f25752f73092b699c52b2.png",
+    "website": "https://cloudglue.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aviary is an AI video understanding company. Our CloudGlue (https://cloudglue.dev) developer APIs makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nCheck us out: https://aviary.video",
-    "one_liner": "Video Understanding for LLMs",
+    "long_description": "CloudGlue APIs (https://cloudglue.dev) makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nOur developer-friendly APIs makes it easy to integrate video chat into your AI assistant with minimal heavy-lifting.",
+    "one_liner": "Developer APIs to let your AI/LLM understand videos and audio.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723146818,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
-      "Video"
+      "Video",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18729,8 +18731,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aviary",
-    "api": "https://yc-oss.github.io/api/batches/s24/aviary.json"
+    "url": "https://www.ycombinator.com/companies/cloudglue",
+    "api": "https://yc-oss.github.io/api/batches/s24/cloudglue.json"
   },
   {
     "id": 29673,
@@ -21463,6 +21465,50 @@
     "api": "https://yc-oss.github.io/api/batches/x25/nao-labs.json"
   },
   {
+    "id": 30407,
+    "name": "Authed",
+    "slug": "authed",
+    "former_names": [
+      "authed",
+      "Authed",
+      "authed"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f019ea3e5b31661f2216e607cfc9e4ec375b482a.png",
+    "website": "https://getauthed.dev/",
+    "all_locations": "",
+    "long_description": "Authed is a managed platform for hosting production-ready MCP servers. We provide authentication, multi-tenancy, monitoring, and infrastructure under your domain. Companies use Authed to deploy MCP servers without managing their own stack.",
+    "one_liner": "Production-ready MCP servers for companies",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1745255607,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/authed",
+    "api": "https://yc-oss.github.io/api/batches/x25/authed.json"
+  },
+  {
     "id": 30411,
     "name": "mrge",
     "slug": "mrge",
@@ -21589,7 +21635,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f768f164c4dd92121e70abbd42713af3118834a.png",
     "website": "https://better-auth.com/",
     "all_locations": "Remote",
-    "long_description": "Better Auth is a framework-agnostic authentication solution for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. It’s loved by developers and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer that includes user management and analytics, bot and fraud detection, transactional email and SMS, global session storage, and tailored support and advisory for your specific Better Auth implementation.",
+    "long_description": "Better Auth is a framework-agnostic authentication solution for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. We’re obsessed with making it ridiculously easy to roll your own auth, so you never have a reason not to. It’s loved by developers and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer for the things that aren’t practical to ship as a library like user management and analytics, bot and fraud detection, transactional email and SMS, global session storage, and tailored support and advisory for your specific Better Auth setup.",
     "one_liner": "The most comprehensive authentication framework for TypeScript.",
     "team_size": 2,
     "industry": "B2B",

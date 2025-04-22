@@ -10000,7 +10000,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "S20",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -10386,7 +10386,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S20",
     "status": "Active",
@@ -16920,20 +16920,20 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98a18df5d938eeb09cd88bd74384b13a26aa03d5.png",
     "website": "https://hyperbrowser.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hyperbrowser.ai is the internet infrastructure for AI agents. We provide instant, scalable browser infra with built-in CAPTCHA solving, proxy management, and anti-bot detection. \r\n\r\nDevelopers use us to power their AI agents for data collection, testing, and web automation at scale.",
+    "long_description": "Hyperbrowser.ai is the internet infrastructure for AI agents. We provide instant, scalable browser infra with built-in CAPTCHA solving, proxy management, and anti-bot detection. \r\n\r\nDevelopers use us to power their AI agents for data collection, testing, and web automation at scale. We're backed by YC, Accel, SV Angel, and others.",
     "one_liner": "Web infrastructure for AI agents",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1628188883,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -16943,7 +16943,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23152,7 +23154,7 @@
     "website": "https://joinattain.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Attain is a one-stop shop for convenience store owners to buy inventory across all their suppliers with higher reliability, price transparency, and product discovery.\r\n\r\nOn average, store owners buy products from over 10-15 different suppliers each week. This painful process involves shopping in massive warehouses or spending hours working with wholesaler’s sales representatives (who sometimes don’t even show up). As a result, stores waste countless hours ordering products through extremely inefficient and tedious processes. These store owners are also severely impacted by inventory shortages and revenue loss which many times results in them downsizing their business or shutting them down completely.\r\n\r\nAttain solves this problem by providing a single app to purchase products across all of their suppliers, resulting in a one-stop shop for inventory. By aggregating inventory across a multitude of suppliers and wholesalers, Attain helps stores save significant time and money while allowing them to focus on what they do best - growing their businesses.\r\n\r\nFeel free to reach out at founders@joinattain.com!",
-    "one_liner": "One-Stop Shop for Convenience Store Inventory",
+    "one_liner": "Operating System for Food Distributors",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -33549,6 +33551,49 @@
     "api": "https://yc-oss.github.io/api/batches/s23/subsets.json"
   },
   {
+    "id": 28841,
+    "name": "Ponder",
+    "slug": "ponder",
+    "former_names": [
+      "Neuralyze"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/981b0bb823fa43aa8363d79f70b0d918a6115294.png",
+    "website": "https://useponder.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Ponder lets users talk with your application just like they would with a human\r\n\r\nIn one line of code, add ultra-realistic voice assistants that can interact with your UI and assist users in getting things done",
+    "one_liner": "Add Voice to your UX in a single line of code",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1688534176,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Productivity",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ponder",
+    "api": "https://yc-oss.github.io/api/batches/s23/ponder.json"
+  },
+  {
     "id": 28844,
     "name": "Alguna",
     "slug": "alguna",
@@ -33617,7 +33662,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S23",
     "status": "Active",
@@ -43170,7 +43215,7 @@
     "website": "https://asteroid.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Asteroid builds and hosts browser AI agents for complex tasks. With built-in guardrails, evaluations and human oversight, we ensure enterprise-grade reliability across millions of operations in regulated industries.",
-    "one_liner": "Browser Agents for Complex Operations",
+    "one_liner": "Browser agents for regulated industries",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",

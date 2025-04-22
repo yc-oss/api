@@ -80,6 +80,47 @@
     "api": "https://yc-oss.github.io/api/batches/x25/partcl.json"
   },
   {
+    "id": 30366,
+    "name": "Blaxel",
+    "slug": "blaxel",
+    "former_names": [
+      "Beamlit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60e390e449209c3c990c56045efeb692cf4ce77a.png",
+    "website": "https://blaxel.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Blaxel is a cloud infrastructure to power AI agents. Our platform gives AI companies the toolbox and infrastructure to build and deploy agents efficiently. \r\n\r\nBillions of agents, tools, and models will transform how we work in the coming years. Traditional cloud providers weren't designed to handle them—their one-size-fits-all architecture holds them back. We fixed that with Blaxel.\r\n\r\nWhat is it? A complete computing platform with:\r\n\r\n- all services for developers to fast-track deploying agents without reinventing the wheel — like framework-agnostic serverless deployments, an AI gateway for model routing and fallback, and custom MCP server hosting.\r\n- a flexible low-level API for builders to ship really performant agentic AI using our backbone infrastructure — using services like sandboxed VMs usable by agents, a programmable global gateway, and a 20ms-latency serverless compute engine.\r\n- and a seamless developper experience that integrates with their CI/CD, and APIs that can even be consumed by agents themselves!",
+    "one_liner": "AWS for AI Agents",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1745276338,
+    "tags": [
+      "AIOps",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blaxel",
+    "api": "https://yc-oss.github.io/api/batches/x25/blaxel.json"
+  },
+  {
     "id": 30399,
     "name": "Frekil",
     "slug": "frekil",
@@ -203,6 +244,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nao-labs",
     "api": "https://yc-oss.github.io/api/batches/x25/nao-labs.json"
+  },
+  {
+    "id": 30407,
+    "name": "Authed",
+    "slug": "authed",
+    "former_names": [
+      "authed",
+      "Authed",
+      "authed"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f019ea3e5b31661f2216e607cfc9e4ec375b482a.png",
+    "website": "https://getauthed.dev/",
+    "all_locations": "",
+    "long_description": "Authed is a managed platform for hosting production-ready MCP servers. We provide authentication, multi-tenancy, monitoring, and infrastructure under your domain. Companies use Authed to deploy MCP servers without managing their own stack.",
+    "one_liner": "Production-ready MCP servers for companies",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1745255607,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/authed",
+    "api": "https://yc-oss.github.io/api/batches/x25/authed.json"
   },
   {
     "id": 30411,
@@ -618,7 +703,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f768f164c4dd92121e70abbd42713af3118834a.png",
     "website": "https://better-auth.com/",
     "all_locations": "Remote",
-    "long_description": "Better Auth is a framework-agnostic authentication solution for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. It’s loved by developers and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer that includes user management and analytics, bot and fraud detection, transactional email and SMS, global session storage, and tailored support and advisory for your specific Better Auth implementation.",
+    "long_description": "Better Auth is a framework-agnostic authentication solution for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. We’re obsessed with making it ridiculously easy to roll your own auth, so you never have a reason not to. It’s loved by developers and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer for the things that aren’t practical to ship as a library like user management and analytics, bot and fraud detection, transactional email and SMS, global session storage, and tailored support and advisory for your specific Better Auth setup.",
     "one_liner": "The most comprehensive authentication framework for TypeScript.",
     "team_size": 2,
     "industry": "B2B",
@@ -812,6 +897,88 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/runrl",
     "api": "https://yc-oss.github.io/api/batches/x25/runrl.json"
+  },
+  {
+    "id": 30475,
+    "name": "Morphik",
+    "slug": "morphik",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a260c523f9c222814023a16c76c6a2b22616cd5.png",
+    "website": "https://morphik.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Morphik is an open-source multimodal end to end RAG service. Developers use Morphik to ingest any data, create knowledge graphs, and retrieve relevant information from private data.",
+    "one_liner": "Open-source RAG alternative for building AI apps over multimodal…",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1745265466,
+    "tags": [
+      "Artificial Intelligence",
+      "Open Source",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/morphik",
+    "api": "https://yc-oss.github.io/api/batches/x25/morphik.json"
+  },
+  {
+    "id": 30492,
+    "name": "Prism AI",
+    "slug": "prism-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e38f7eee6195fcd30d32532805a6f85297a16925.png",
+    "website": "https://prismreplay.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "We use AI to watch your session recordings and tell you what to fix",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1745261196,
+    "tags": [
+      "Artificial Intelligence",
+      "Design",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prism-ai",
+    "api": "https://yc-oss.github.io/api/batches/x25/prism-ai.json"
   },
   {
     "id": 30497,
