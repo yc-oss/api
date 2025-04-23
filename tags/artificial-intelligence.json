@@ -7190,7 +7190,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -16606,49 +16606,6 @@
     "api": "https://yc-oss.github.io/api/batches/s23/greentally.json"
   },
   {
-    "id": 28841,
-    "name": "Ponder",
-    "slug": "ponder",
-    "former_names": [
-      "Neuralyze"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/981b0bb823fa43aa8363d79f70b0d918a6115294.png",
-    "website": "https://useponder.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Ponder lets users talk with your application just like they would with a human\r\n\r\nIn one line of code, add ultra-realistic voice assistants that can interact with your UI and assist users in getting things done",
-    "one_liner": "Add Voice to your UX in a single line of code",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1688534176,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Productivity",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ponder",
-    "api": "https://yc-oss.github.io/api/batches/s23/ponder.json"
-  },
-  {
     "id": 28844,
     "name": "Alguna",
     "slug": "alguna",
@@ -16784,8 +16741,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ba4d7d9449b5030c224432dc10d51461e271d49.png",
     "website": "https://www.arcimus.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arcimus uses LLMs to automate insurance premium audits for high quality, fast, and cheap audits. Today, Insurance premium auditors spend hours a day manually analyzing a company’s records and compiling their data into a final report.",
-    "one_liner": "AI Powered Insurance Premium Audits",
+    "long_description": "Arcimus helps sales teams find more SMB’s with better targeting than Zoominfo/Apollo. \r\n\r\n",
+    "one_liner": "Zoominfo, but for targeting SMB's",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -22983,7 +22940,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -27149,6 +27106,48 @@
     "api": "https://yc-oss.github.io/api/batches/w25/vocality-health.json"
   },
   {
+    "id": 30212,
+    "name": "superglue",
+    "slug": "superglue",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d8702327beeb6c4e9700c883d54481531ce4f3b.png",
+    "website": "https://superglue.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "superglue is an integration agent. It sits in front of horrible legacy APIs and returns only the data you need in the format you expect. Instead of writing custom code to map fields, handle different data structures, failure states and normalizing inconsistent formats, engineers can prompt superglue and let it handle the entire integration process automatically.",
+    "one_liner": "Self-healing integration agent",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1737761136,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superglue",
+    "api": "https://yc-oss.github.io/api/batches/w25/superglue.json"
+  },
+  {
     "id": 30218,
     "name": "Toothy AI",
     "slug": "toothy-ai",
@@ -28472,53 +28471,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/ergo.json"
   },
   {
-    "id": 30343,
-    "name": "Cedar",
-    "slug": "cedar",
-    "former_names": [
-      "ByteBelli",
-      "lawyai (name in progress)",
-      "GraphIQal"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d689d59276a36e33100281dbe98a74bcaf59a06.png",
-    "website": "https://www.cedar.law/home",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cedar is an AI copilot for any app. Imagine the founders themselves being behind every user’s screen: actively converting them, answering product questions, and upselling. \r\n\r\nJesse worked at Intuit, writing software for TurboTax designed for customers of all tech literacy levels. Isabelle worked at Figma and Notion, learning about the struggles of getting users to effectively use powerful yet complex products as well as GTM strategies to reach them.\r\n\r\nAt every step of the conversion funnel, users and companies struggle with knowledge gaps. Users not knowing how a product helps them reduces conversion, activation and retention. Companies not knowing what users want misleads messaging, product, and re-engaging churned leads. \r\n\r\nAI can do more than just replace a single job or industry. With Cedar at the center, we reimagine growth and customer support entirely, provide qualitative analytics of the user’s story and using them to improve user’s experiences live. As we enter the age of AI agents, they too will need an understanding of what software does and how to execute it. We plan to be the front door for all of them.",
-    "one_liner": "In-product AI copilot for any app",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1739293549,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Customer Success",
-      "Customer Support",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/cedar",
-    "api": "https://yc-oss.github.io/api/batches/w25/cedar.json"
-  },
-  {
     "id": 30357,
     "name": "Vantel",
     "slug": "vantel",
@@ -28766,6 +28718,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/chonkie",
     "api": "https://yc-oss.github.io/api/batches/x25/chonkie.json"
+  },
+  {
+    "id": 30453,
+    "name": "Parsewise",
+    "slug": "parsewise",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f1c0c72a7f623d3b80ce3fbde35d6d196e31e5c.png",
+    "website": "https://parsewise.ai",
+    "all_locations": "",
+    "long_description": "Our AI Agents are like your best data analysts. They proactively flag inconsistencies and gaps across documents in diverse formats, enabling you to make better decisions faster.\r\nThink Deep Research, but quick to verify and trust.",
+    "one_liner": "Extract Canonical Data from Complex Documents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1745096268,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/parsewise",
+    "api": "https://yc-oss.github.io/api/batches/x25/parsewise.json"
   },
   {
     "id": 30456,

@@ -11625,49 +11625,6 @@
     "api": "https://yc-oss.github.io/api/batches/w23/fabius.json"
   },
   {
-    "id": 28183,
-    "name": "Metal",
-    "slug": "metal",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77b1dc8d0df53da0491b6010662c1d5905566dbc.png",
-    "website": "https://metal.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Metal is an AI application built for fund deal teams and managers. We accelerate a funds deal flow by reducing the effort needed to collect and parse data, perform diligence, and capture key findings.\r\n\r\n",
-    "one_liner": "AI Accelerated Deal Flow and Portfolio Intelligence",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1674209670,
-    "tags": [
-      "Fintech",
-      "Finance",
-      "B2B",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/metal",
-    "api": "https://yc-oss.github.io/api/batches/w23/metal.json"
-  },
-  {
     "id": 28301,
     "name": "Persana AI",
     "slug": "persana-ai",
@@ -12362,6 +12319,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spine-ai",
     "api": "https://yc-oss.github.io/api/batches/s23/spine-ai.json"
+  },
+  {
+    "id": 28841,
+    "name": "Ponder",
+    "slug": "ponder",
+    "former_names": [
+      "Neuralyze"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/981b0bb823fa43aa8363d79f70b0d918a6115294.png",
+    "website": "https://useponder.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Ponder lets users talk with your application just like they would with a human\r\n\r\nIn one line of code, add ultra-realistic voice assistants that can interact with your UI and assist users in getting things done",
+    "one_liner": "Voice-Powered In-App User Assistance",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1688534176,
+    "tags": [
+      "B2B",
+      "Productivity",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ponder",
+    "api": "https://yc-oss.github.io/api/batches/s23/ponder.json"
   },
   {
     "id": 28849,
@@ -18443,7 +18443,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -18867,7 +18867,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re building the first AI mechanical engineer that collaborates with humans to do design tasks end-to-end. Human engineers can talk to camfer to build, test, and iterate 3D designs natively on CAD platforms.",
     "one_liner": "Building the world’s first AI mechanical engineer.",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1726008426,
@@ -23242,48 +23242,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/conntour.json"
   },
   {
-    "id": 30212,
-    "name": "superglue",
-    "slug": "superglue",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d8702327beeb6c4e9700c883d54481531ce4f3b.png",
-    "website": "https://superglue.cloud/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "superglue is an open source data transformation tool. It sits in front of horrible legacy APIs and returns only the data you need in the format you expect. Instead of writing custom code to map fields, handle different data structures, failure states and normalizing inconsistent formats, integration engineers can now define their desired output format and let superglue handle the entire transformation process automatically.",
-    "one_liner": "Self-healing data connector",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1737761136,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/superglue",
-    "api": "https://yc-oss.github.io/api/batches/w25/superglue.json"
-  },
-  {
     "id": 30213,
     "name": "Truffle AI",
     "slug": "truffle-ai",
@@ -25096,45 +25054,6 @@
     "api": "https://yc-oss.github.io/api/batches/x25/vibegrade.json"
   },
   {
-    "id": 30453,
-    "name": "Parsewise",
-    "slug": "parsewise",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f1c0c72a7f623d3b80ce3fbde35d6d196e31e5c.png",
-    "website": "https://parsewise.ai",
-    "all_locations": "",
-    "long_description": "Our AI Agents are like your best data analysts. They proactively flag inconsistencies and gaps across documents in diverse formats, enabling you to make better decisions faster.\r\nThink Deep Research, but quick to verify and trust.",
-    "one_liner": "Extract Canonical Data from Complex Documents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1745096268,
-    "tags": [
-      "B2B",
-      "Data Engineering",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "X25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parsewise",
-    "api": "https://yc-oss.github.io/api/batches/x25/parsewise.json"
-  },
-  {
     "id": 30497,
     "name": "Human Behavior",
     "slug": "human-behavior",
@@ -25269,7 +25188,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76569fbe505e2260c81baabe36a7512daf19506.png",
     "website": "https://getden.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Den is an AI-native Slack alternative that help teams get more done using general purpose agents. \r\n\r\nWe have 100+ MCP integrations which give agents access to all your tools through a natural language interface. \r\n\r\nDen combines Slack with with Notion-style documents giving agents full context over your organization.",
+    "long_description": "Den is an AI-native Slack alternative that help teams get more done using general-purpose agents. \r\n\r\nWe believe in the future of Work 2.0, where humans work at the speed of though, and alongside their AI counterparts.  \r\n\r\nDen is clean, fast, and blissfully opinionated. ",
     "one_liner": "Cursor for knowledge workers",
     "team_size": 2,
     "industry": "B2B",

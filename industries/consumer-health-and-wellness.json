@@ -1705,7 +1705,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S19",
     "status": "Active",
@@ -3005,7 +3005,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W21",
     "status": "Active",
@@ -3295,6 +3295,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/instalab",
     "api": "https://yc-oss.github.io/api/batches/w22/instalab.json"
+  },
+  {
+    "id": 24130,
+    "name": "Aldermate",
+    "slug": "aldermate",
+    "former_names": [
+      "Superpass"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3587b55b33a72212a09aa768973297af3f0c7422.png",
+    "website": "https://www.aldermate.com",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "AI phone companion for the elderly that calls our loved ones every day, starting with daily check-ins and medication reminders.",
+    "one_liner": "AI phone companion for the elderly",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1628792922,
+    "tags": [
+      "Assistive Tech",
+      "Consumer Health Services",
+      "Health Tech",
+      "Telehealth"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aldermate",
+    "api": "https://yc-oss.github.io/api/batches/s21/aldermate.json"
   },
   {
     "id": 24160,
@@ -4708,5 +4754,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mito-health",
     "api": "https://yc-oss.github.io/api/batches/s24/mito-health.json"
+  },
+  {
+    "id": 30482,
+    "name": "Zero Health",
+    "slug": "zero-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/07e14251aecb79eb8183d6c67466680703e1f59a.png",
+    "website": "https://www.joinzero.co/",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "Zero Health partner with labs across Europe and uses its AI doctor to deliver tailored health recommendations.  Zero already saved 10% of its customers life by detecting early conditions. ",
+    "one_liner": "Regular blood work & personalized insights to extand your healthspan.",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1745363793,
+    "tags": [
+      "Anti-Aging",
+      "Consumer Health Services",
+      "Health & Wellness"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zero-health",
+    "api": "https://yc-oss.github.io/api/batches/x25/zero-health.json"
   }
 ]

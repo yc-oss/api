@@ -37,6 +37,51 @@
     "api": "https://yc-oss.github.io/api/batches/x25/leeroo.json"
   },
   {
+    "id": 29662,
+    "name": "Atum Works",
+    "slug": "atum-works",
+    "former_names": [
+      "phorg",
+      "ATUM WORKS",
+      "ATUM Works"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/919432869b9d7a01cb7d24ccff7380278318f625.png",
+    "website": "https://atum.works/",
+    "all_locations": "Mountain View, CA, USA",
+    "long_description": "Atum Works is building 3D ASML.\r\n\r\nThe world is hooked on chips, thanks to the power of lithography.\r\nBut, 2D lithography resolution has maxed out: Moore's law is dead.\r\nTo move forward, we must transition to a 3D manufacturing process whose cost scales with materials, not layers. \r\n\r\nAtum Works is building the world's most advanced 3D lithography process to 3D print parts >10,000x cheaper in low-volume and 10x cheaper in mass-manufacturing compared to today's 2D lithography. \r\n\r\nSince starting YC, we have built a printer, and partnered with NVIDIA. \r\nWe are shipping products this year. \r\n\r\nFounded by Caltech and NASA engineers, we're starting the next scaling law of semiconductor manufacturing, this time in 3D.",
+    "one_liner": "Gigascale Nanomanufacturing",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1745346268,
+    "tags": [
+      "Hard Tech",
+      "3D Printing",
+      "Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/atum-works",
+    "api": "https://yc-oss.github.io/api/batches/x25/atum-works.json"
+  },
+  {
     "id": 30191,
     "name": "Partcl",
     "slug": "partcl",
@@ -171,7 +216,7 @@
     "website": "https://plexe.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Plexe connects to your data sources, discovers relevant fields and builds task-specific ML models from a problem description. Under the hood, it uses a multi-agent system to research and experiment with several model architectures, evaluate, refine and then deploy the best performing model over an API endpoint. Think of it like your own ML helper helping you go from idea to deployed ML models 10x faster.",
-    "one_liner": "Open-source MLE agent that builds AI from problem description",
+    "one_liner": "Open-source agent that builds AI from problem description",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -215,7 +260,7 @@
     "one_liner": "Cursor for data teams.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Analytics",
     "launched_at": 1744958361,
     "tags": [
       "Developer Tools",
@@ -751,9 +796,9 @@
     "subindustry": "B2B",
     "launched_at": 1745096268,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -938,6 +983,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/morphik",
     "api": "https://yc-oss.github.io/api/batches/x25/morphik.json"
+  },
+  {
+    "id": 30482,
+    "name": "Zero Health",
+    "slug": "zero-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/07e14251aecb79eb8183d6c67466680703e1f59a.png",
+    "website": "https://www.joinzero.co/",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "Zero Health partner with labs across Europe and uses its AI doctor to deliver tailored health recommendations.  Zero already saved 10% of its customers life by detecting early conditions. ",
+    "one_liner": "Regular blood work & personalized insights to extand your healthspan.",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1745363793,
+    "tags": [
+      "Anti-Aging",
+      "Consumer Health Services",
+      "Health & Wellness"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zero-health",
+    "api": "https://yc-oss.github.io/api/batches/x25/zero-health.json"
   },
   {
     "id": 30492,
@@ -1236,7 +1324,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76569fbe505e2260c81baabe36a7512daf19506.png",
     "website": "https://getden.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Den is an AI-native Slack alternative that help teams get more done using general purpose agents. \r\n\r\nWe have 100+ MCP integrations which give agents access to all your tools through a natural language interface. \r\n\r\nDen combines Slack with with Notion-style documents giving agents full context over your organization.",
+    "long_description": "Den is an AI-native Slack alternative that help teams get more done using general-purpose agents. \r\n\r\nWe believe in the future of Work 2.0, where humans work at the speed of though, and alongside their AI counterparts.  \r\n\r\nDen is clean, fast, and blissfully opinionated. ",
     "one_liner": "Cursor for knowledge workers",
     "team_size": 2,
     "industry": "B2B",
