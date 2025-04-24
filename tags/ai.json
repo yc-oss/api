@@ -2605,6 +2605,56 @@
     "api": "https://yc-oss.github.io/api/batches/s19/taskade.json"
   },
   {
+    "id": 12871,
+    "name": "Motion",
+    "slug": "motion",
+    "former_names": [
+      "Betiver",
+      "Betingale",
+      "CareerVC",
+      "Fluttern",
+      "NexusBird",
+      "nexusbird",
+      "Nexusbird",
+      "NexusBird"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25b0dd2e6d40928386efa49045651d24ad82e60b.png",
+    "website": "https://www.usemotion.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Double the world's productivity by automating project management and internal workflows with A.I. We want to bring operational excellence to every organization in the world.",
+    "one_liner": "Automate project management and business workflow with A.I.",
+    "team_size": 30,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1583629488,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W20",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/motion",
+    "api": "https://yc-oss.github.io/api/batches/w20/motion.json"
+  },
+  {
     "id": 13101,
     "name": "Segmed",
     "slug": "segmed",
@@ -6017,8 +6067,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7522b24d3853d0b79cebe72798f4a3a33c54ac27.png",
     "website": "https://www.stably.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stably helps product teams ship fast without breaking things. Our AI analyzes your web apps, generates comprehensive test scripts, and adapts to changes on the fly. \r\n\r\nTesting for mobile is coming soon. ",
-    "one_liner": "AI agent that does QA testing. Runnable in your CI.",
+    "long_description": "Our AI explores your web and mobile apps, generates comprehensive Playwright test scripts, and adapts to changes on the fly. \r\n\r\nStably has helped hundreds of product teams ship fast without breaking things. ",
+    "one_liner": "AI agent for QA testing. Runnable in your CI.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -9281,7 +9331,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S22",
     "status": "Active",
@@ -14614,49 +14664,6 @@
     "api": "https://yc-oss.github.io/api/batches/w24/sciphi.json"
   },
   {
-    "id": 29182,
-    "name": "Upsolve AI",
-    "slug": "upsolve-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/584af51898d885eead8c1806789fece6d7acaff0.png",
-    "website": "https://upsolve.ai/",
-    "all_locations": "",
-    "long_description": "Upsolve AI is a customer-facing analytics as a service platform. We are building a full data stack that enables businesses to build and offer analytics to their customers at lightning speed and gives their customers the superpower to answer any data questions via AI. The company is founded by Ka Ling Wu and Serguei Balanovich, who built a similar product at Palantir before (featured in Palantir's S-1), growing it to 50+ enterprise customers and 8-figures of annual revenue in 2 years.",
-    "one_liner": "Customer-facing analytics as a service, powered by AI.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1699320905,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Analytics",
-      "Big Data",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/upsolve-ai",
-    "api": "https://yc-oss.github.io/api/batches/w24/upsolve-ai.json"
-  },
-  {
     "id": 29184,
     "name": "DryMerge",
     "slug": "drymerge",
@@ -16021,6 +16028,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clarion",
     "api": "https://yc-oss.github.io/api/batches/w24/clarion.json"
+  },
+  {
+    "id": 29341,
+    "name": "Markprompt",
+    "slug": "markprompt",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93868cea387df28baae15a7e6d63968d4621e82d.png",
+    "website": "https://markprompt.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Close customer support tickets faster with AI.\r\n\r\nWe’re building AI infrastructure to power customer support at scale. With Markprompt, companies can automate customer support, scale without increasing headcount, and deliver exceptional user experiences.\r\n \r\nScaling customer support with headcount is expensive, with human resources accounting for 90%+ of customer support expenses. On top of that, customer support agents often burn out leading to turnover and reduced quality. As companies grow, so does their expert knowledge, which is hard to access at scale and makes keeping employees up-to-date nearly impossible.\r\n\r\nMarkprompt addresses the root of the information access problem by indexing all available knowledge within a company, setting the foundation for a robust system of record to feed the AI. Built from the ground up with an API-first approach, Markprompt provides SDKs (such as React hooks and components) and no-code tools to enable integrations at all touchpoints in the customer journey.",
+    "one_liner": "AI for customer support",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1700867535,
+    "tags": [
+      "Developer Tools",
+      "Customer Support",
+      "Infrastructure",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/markprompt",
+    "api": "https://yc-oss.github.io/api/batches/w24/markprompt.json"
   },
   {
     "id": 29342,
@@ -18143,7 +18193,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -18443,7 +18493,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -18463,23 +18513,24 @@
     "api": "https://yc-oss.github.io/api/batches/s24/maitai.json"
   },
   {
-    "id": 29649,
-    "name": "Wordware",
-    "slug": "wordware",
+    "id": 29650,
+    "name": "Sorcerer",
+    "slug": "sorcerer",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c770777f9cd85b3f3274575fc6698227327bddb.png",
-    "website": "https://wordware.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/543dab64586e13bb93c11e6012ecd070fb8c8a67.png",
+    "website": "https://sorcerer.earth",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "1. Collaborative IDE for Building AI Agents \r\n2. At its heart is a new programming language that merges plain English with concepts like loops, conditional statements, and function calling.\r\n3. We also support forking, API deployment and sharing as a hosted app.\r\n\r\nWe have 300,000 users, and many companies paying us between 199 and 10k per month.",
-    "one_liner": "IDE to develop, iterate and deploy AI Agents",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1715713232,
+    "long_description": "Sorcerer builds weather balloons that collect 1000x more data than traditional systems. We have $5.5+ of signed LOIs with the US National Weather Service, the Department of Defense, and the government of El Salvador.",
+    "one_liner": "We build weather balloons that collect 1000x more data",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Climate",
+    "launched_at": 1720630564,
     "tags": [
-      "AIOps",
-      "Developer Tools",
-      "Infrastructure",
+      "Hard Tech",
+      "Hardware",
+      "Climate",
+      "Aerospace",
       "AI"
     ],
     "tags_highlighted": [],
@@ -18489,8 +18540,8 @@
     "batch": "S24",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Industrials",
+      "Climate"
     ],
     "regions": [
       "United States of America",
@@ -18500,9 +18551,9 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wordware",
-    "api": "https://yc-oss.github.io/api/batches/s24/wordware.json"
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/sorcerer",
+    "api": "https://yc-oss.github.io/api/batches/s24/sorcerer.json"
   },
   {
     "id": 29654,
@@ -19208,47 +19259,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/taxgpt",
     "api": "https://yc-oss.github.io/api/batches/s24/taxgpt.json"
-  },
-  {
-    "id": 29711,
-    "name": "Fazeshift",
-    "slug": "fazeshift",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79a704debd59a1fbf8c3e8d8edd73861b4f0054d.png",
-    "website": "https://www.fazeshift.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fazeshift is an AI agent for automating Accounts Receivable. What used to take teams of people and hours of manual work can now be fully automated with Fazeshift. \r\n\r\nCaitlin and Timmy met while getting their MBA at Harvard. After graduating, they started a B2B marketing software startup, which is where they first experienced the pain of this process.\r\n\r\nThe problem stems from fragmented data across software platforms like QuickBooks, Stripe, NetSuite, DocuSign, HubSpot, and Salesforce. Fazeshift’s infrastructure connects the data across these software platforms and uses LLMs to automate the previously manual workflow.",
-    "one_liner": "AI agent for Accounts Receivable",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1716255604,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fazeshift",
-    "api": "https://yc-oss.github.io/api/batches/s24/fazeshift.json"
   },
   {
     "id": 29721,
@@ -23294,15 +23304,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d28f487260593082101d049c62573937f376006a.png",
     "website": "https://contrario.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Contrario is the first autonomous recruiting agency powered entirely by Al. We help companies hire top engineers faster by identifying and screening high-quality candidates. Our platform leverages proprietary AI matching algorithms to identify job seekers from an elite talent pool (Stanford, MIT, Palantir, OpenAI, etc.) who match your hiring needs. Our voice agents then conduct customized interviews that evaluate how candidates use the latest AI developer tools like Cursor and Windsurf in their workflows. With Contrario, your company only interviews pre-vetted engineers that will 10x your company’s growth.",
+    "long_description": "Contrario is the first autonomous recruiting agency powered entirely by Al. We help companies built early-stage teams faster by sourcing and screening high-quality candidates for you. Our platform leverages proprietary AI matching algorithms to identify job seekers and uses an elite network of pre-vetted expert recruiters to fill your hardest roles. We also leverage voice AI to perform behavioral screenings before passing candidates forward. We help Seed to Series C+ companies find the best talent to build their teams. ",
     "one_liner": "The 1st fully autonomous AI recruiting agency",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1740035301,
     "tags": [
+      "Marketplace",
       "SaaS",
-      "B2B",
+      "Recruiting",
       "AI"
     ],
     "tags_highlighted": [],
@@ -23317,7 +23328,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -24714,6 +24727,49 @@
     "api": "https://yc-oss.github.io/api/batches/w25/roark.json"
   },
   {
+    "id": 30334,
+    "name": "Bluebook",
+    "slug": "bluebook",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab67c5f36b05352c3fb1a5fa4f7fc41d1908c664.png",
+    "website": "https://getbluebook.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bluebook is building AI agents for accounting firms to accelerate research, reconciliations and monthly closings. We allow professionals to serve 200 clients instead of just 20. With research time cut by 30% accountants can provide more strategic advice to help their clients thrive. The 30 leading firms in the Nordics already use Bluebook.\r\n\r\nThe accounting industry faces a perfect storm: a massive CPA retirement wave (75% in the coming 15 years), increasing complexity from globalization and new regulations, and private equity consolidation driving productivity demands. LLMs enables software that can understand context, adapt to new scenarios, and handle complex accounting tasks with human-like reasoning - capabilities that traditional rule-based software lacks.",
+    "one_liner": "AI for accounting",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1739450063,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bluebook",
+    "api": "https://yc-oss.github.io/api/batches/w25/bluebook.json"
+  },
+  {
     "id": 30338,
     "name": "CopyCat",
     "slug": "copycat",
@@ -24888,6 +24944,47 @@
     "api": "https://yc-oss.github.io/api/batches/w25/fira.json"
   },
   {
+    "id": 30404,
+    "name": "Vybe",
+    "slug": "vybe",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b67dbb014d87d50e738846ea514837d95fe8c9.png",
+    "website": "https://www.vybe.build",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Vybe turns a simple chat prompt into a production-ready internal app. You connect your systems—Workday, Jira, Github, Salesforce, Snowflake, Slack—and the platform instantly generates the UI, backend, secure data pipelines, and role-based access control, then keeps everything up-to-date as your needs evolve. Built-in AI agents take care of repetitive follow-ups and status pings, so the tools you launch actually stay used.\r\n\r\nBeyond code, Vybe ships proven playbooks. We partner with top engineering, product, and ops leaders—capturing how they run one-on-ones, all-hands, onboarding, and more—then release those workflows as plug-and-play templates you can adopt in a click. The result is a living system of bespoke apps plus best-practice processes that scales with your company from day one.",
+    "one_liner": "Lovable for internal apps",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1745390836,
+    "tags": [
+      "Developer Tools",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vybe",
+    "api": "https://yc-oss.github.io/api/batches/x25/vybe.json"
+  },
+  {
     "id": 30407,
     "name": "Authed",
     "slug": "authed",
@@ -25010,6 +25107,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/chonkie",
     "api": "https://yc-oss.github.io/api/batches/x25/chonkie.json"
+  },
+  {
+    "id": 30434,
+    "name": "Zeon Systems",
+    "slug": "zeon-systems",
+    "former_names": [
+      "Zeon Technologies"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39b20c4ccd69fa61ce8dea7f922cf3381efd5f08.png",
+    "website": "https://www.zeonsystems.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building AI-powered systems that automate manual work in scientific labs using affordable robotics.\r\n\r\nScientists simply type their experiment in plain English. Zeon translates it into code and runs it on robotic arms (no coding required).\r\n\r\nBy controlling robots with natural language, we’re enabling automation for every lab, every experiment.\r\n\r\nZeon is lab-aware. It detects equipment, adapts to protocols, and moves autonomously between instruments to execute full workflows.\r\n\r\nWe’re already working with labs at Stanford and UCSF to accelerate discovery - from running overnight nanoparticle fluorescence measurements to safely disposing of hundreds of bacterial samples. \r\n\r\nZeon reclaims time for what matters most: the science.",
+    "one_liner": "AI-powered robotics for scientific lab automation.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Industrial Bio",
+    "launched_at": 1745428848,
+    "tags": [
+      "Robotic Process Automation",
+      "Robotics",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Industrial Bio"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zeon-systems",
+    "api": "https://yc-oss.github.io/api/batches/x25/zeon-systems.json"
   },
   {
     "id": 30443,
