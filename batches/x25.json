@@ -173,18 +173,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
     "website": "https://www.frekil.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI is transforming healthcare, but the biggest bottleneck remains—procuring and annotating medical images with speed, accuracy, and scale. Frekil eliminates this roadblock.\r\n\r\nFrekil helps healthcare AI teams, medical device companies, and pharmaceutical companies procure and annotate medical images like X-rays, CTs, MRIs, etc., efficiently for AI training, clinical trials, and FDA approvals. Our AI-assisted platform speeds up annotation 5x while maintaining high accuracy through real-time quality control, consensus checks, and advanced 3D visualization.\r\n\r\nWe also provide tools to track annotator performance, build custom workflows, and increase labeling accuracy. By combining efficiency with precision, Frekil enables teams to build high-quality datasets much faster, supporting the development and deployment of reliable medical AI and clinical research solutions.",
+    "long_description": "AI is transforming healthcare, but the biggest bottleneck remains—procuring and annotating medical images with speed, accuracy, and scale. Frekil eliminates this roadblock.\r\n\r\nFrekil helps healthcare AI teams, medical device companies, and pharmaceutical companies procure and annotate medical images like X-rays, CTs, MRIs, etc., efficiently for AI training, clinical trials, and FDA approvals. Our AI-assisted platform speeds up annotation 10x while maintaining high accuracy through real-time quality control, consensus checks, and advanced 3D visualization.\r\n\r\nWe also provide tools to track annotator performance, build custom workflows, and increase labeling accuracy. By combining efficiency with precision, Frekil enables teams to build high-quality datasets much faster, supporting the development and deployment of reliable medical AI and clinical research solutions.",
     "one_liner": "Data Engine for Medical AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1744440110,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Healthcare",
-      "Data Labeling"
+      "Data Labeling",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -253,7 +253,7 @@
     "name": "Vybe",
     "slug": "vybe",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b67dbb014d87d50e738846ea514837d95fe8c9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f69e912e520d1db63a992e52c3cad6edfa5379b.png",
     "website": "https://www.vybe.build",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Vybe turns a simple chat prompt into a production-ready internal app. You connect your systems—Workday, Jira, Github, Salesforce, Snowflake, Slack—and the platform instantly generates the UI, backend, secure data pipelines, and role-based access control, then keeps everything up-to-date as your needs evolve. Built-in AI agents take care of repetitive follow-ups and status pings, so the tools you launch actually stay used.\r\n\r\nBeyond code, Vybe ships proven playbooks. We partner with top engineering, product, and ops leaders—capturing how they run one-on-ones, all-hands, onboarding, and more—then release those workflows as plug-and-play templates you can adopt in a click. The result is a living system of bespoke apps plus best-practice processes that scales with your company from day one.",
@@ -785,6 +785,47 @@
     "api": "https://yc-oss.github.io/api/batches/x25/zeon-systems.json"
   },
   {
+    "id": 30442,
+    "name": "YouLearn",
+    "slug": "youlearn",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6853a397a8c949c1f81a95e63684f2b530461ce0.png",
+    "website": "https://www.youlearn.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "YouLearn is an AI tutor personalized to each student. In the last eight months, we’ve grown from $1K to $65K MRR by providing concise notes, an AI tutor to talk to, and personalized tests based on your learning materials.\r\n\r\nAchyut, Soami, and David have known each other for the past two and a half years, having started building projects in their dorms. Soami interned at Groq, Achyut built six AI apps in one summer, and David grew an audience of over 200M views on Instagram and TikTok.\r\n\r\nAs recent college dropouts, we saw daily how students learn with AI and where current tools fall short. We believe every student will have a personal AI tutor, and we’re building the one you’ll never want to skip class on.",
+    "one_liner": "An AI tutor personalized to each student. ",
+    "team_size": 3,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1745603860,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
+      "Education",
+      "Edtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/youlearn",
+    "api": "https://yc-oss.github.io/api/batches/x25/youlearn.json"
+  },
+  {
     "id": 30443,
     "name": "VibeGrade",
     "slug": "vibegrade",
@@ -1283,10 +1324,10 @@
   },
   {
     "id": 30501,
-    "name": "Prophet",
-    "slug": "prophet",
+    "name": "Jazzberry",
+    "slug": "jazzberry",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e82c30aef880fc2de0dcc3a8d72fd7f8d8cd03bd.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb422923627099431b692c92ce3178789a0f50c0.png",
     "website": "https://try-prophet.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're creating an AI agent that orchestrates debugging tools and runs your code to find bugs. It's time to close the loop on vibe coding.",
@@ -1320,8 +1361,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/prophet",
-    "api": "https://yc-oss.github.io/api/batches/x25/prophet.json"
+    "url": "https://www.ycombinator.com/companies/jazzberry",
+    "api": "https://yc-oss.github.io/api/batches/x25/jazzberry.json"
   },
   {
     "id": 30506,
@@ -1361,6 +1402,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/klavis-ai-2",
     "api": "https://yc-oss.github.io/api/batches/x25/klavis-ai-2.json"
+  },
+  {
+    "id": 30507,
+    "name": "ParaQuery",
+    "slug": "paraquery",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/023b1fec88d11ac0cc00d33e137188a1088f80f1.png",
+    "website": "https://paraquery.com",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "ParaQuery is a fully-managed GPU-accelerated Spark solution providing double the performance at half the cost compared to solutions like Databricks and BigQuery. It is fully Spark-compatible, cloud agnostic, and has seamless integrations everywhere, all without vendor lock-in. ParaQuery makes it trivial to run large SQL and Spark workloads efficiently and serverlessly, without any data migrations.",
+    "one_liner": "Fully-managed Spark + SQL at 2x speed and half the cost",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1745603504,
+    "tags": [
+      "Analytics",
+      "Big Data",
+      "Data Engineering",
+      "Enterprise Software",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/paraquery",
+    "api": "https://yc-oss.github.io/api/batches/x25/paraquery.json"
   },
   {
     "id": 30511,
