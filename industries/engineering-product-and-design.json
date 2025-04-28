@@ -1557,49 +1557,6 @@
     "api": "https://yc-oss.github.io/api/batches/s12/scoutzie.json"
   },
   {
-    "id": 464,
-    "name": "Plivo",
-    "slug": "plivo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5369c189f92d275e96e5521a99dc70b3eb3fff17.png",
-    "website": "https://plivo.com",
-    "all_locations": "Austin, TX, USA; Remote",
-    "long_description": "Plivo is a cloud based API platform that enables businesses to easily build and integrate voice and SMS capabilities into their applications and workflows.  Plivo provides connectivity across 190+ countries and has direct relationships with over 1600 carrier networks globally. Whether you're looking to add voice and SMS capabilities to your website, mobile app, or business workflow, Plivo has the tools and resources you need to get started.",
-    "one_liner": "Plivo enables businesses to add SMS, Voice capability into their apps.",
-    "team_size": 320,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1336694241,
-    "tags": [
-      "API",
-      "SMS",
-      "Telecommunications"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S12",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/plivo",
-    "api": "https://yc-oss.github.io/api/batches/s12/plivo.json"
-  },
-  {
     "id": 466,
     "name": "Light Table/Eve",
     "slug": "light-table-eve",
@@ -11162,8 +11119,8 @@
   },
   {
     "id": 25342,
-    "name": "Stably",
-    "slug": "stably",
+    "name": "Stably AI",
+    "slug": "stably-ai",
     "former_names": [
       "Lovecast",
       "UpArrow",
@@ -11179,11 +11136,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1645204142,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "DevOps",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11206,8 +11163,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stably",
-    "api": "https://yc-oss.github.io/api/batches/w22/stably.json"
+    "url": "https://www.ycombinator.com/companies/stably-ai",
+    "api": "https://yc-oss.github.io/api/batches/w22/stably-ai.json"
   },
   {
     "id": 25351,
@@ -18181,8 +18138,8 @@
   },
   {
     "id": 29401,
-    "name": "dawn",
-    "slug": "dawn",
+    "name": "Raindrop",
+    "slug": "raindrop",
     "former_names": [
       "Sidekick [NOTE",
       "this is a duplicate app per request of Diana Hu. old id: zkoticha]",
@@ -18190,16 +18147,22 @@
       "Invisible Tools",
       "Dawn"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b1479ad49376ddb3209cbb61b6c76e1112a85f6.png",
-    "website": "https://www.dawnai.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca3e2bf71a524fc1733a500d6d8cfd497e6fc9f2.png",
+    "website": "https://www.raindrop.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Monitor your AI app the right way. \r\n\r\nAI engineers use Dawn to discover anomalies, set up tracking, and curate datasets from real user interactions.",
-    "one_liner": "Sentry for AI products.",
+    "long_description": "Monitor your AI app the right way.\r\n\r\nAI engineers use Raindrop to get alerts about hidden issues and successes in their AI products.\r\n\r\nRaindrop sends you alerts when your AI misbehaves and links straight to the events, so you can dig into the conversations or traces, understand the root cause, and fix it, fast.",
+    "one_liner": "Sentry for AI products",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1710985617,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Monitoring",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -18219,8 +18182,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dawn",
-    "api": "https://yc-oss.github.io/api/batches/w24/dawn.json"
+    "url": "https://www.ycombinator.com/companies/raindrop",
+    "api": "https://yc-oss.github.io/api/batches/w24/raindrop.json"
   },
   {
     "id": 29434,
@@ -20806,16 +20769,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e231d5b9221bb861a6f913385a74f69a4763ea0.png",
     "website": "https://andoria.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Andoria is building AI for internal and customer training and onboarding.",
+    "long_description": "Andoria is building AI for enterprise training, enablement, and onboarding.",
     "one_liner": "AI onboarding and training",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1730323819,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

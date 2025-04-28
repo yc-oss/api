@@ -9830,8 +9830,8 @@
   },
   {
     "id": 25342,
-    "name": "Stably",
-    "slug": "stably",
+    "name": "Stably AI",
+    "slug": "stably-ai",
     "former_names": [
       "Lovecast",
       "UpArrow",
@@ -9847,11 +9847,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1645204142,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "DevOps",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9874,8 +9874,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stably",
-    "api": "https://yc-oss.github.io/api/batches/w22/stably.json"
+    "url": "https://www.ycombinator.com/companies/stably-ai",
+    "api": "https://yc-oss.github.io/api/batches/w22/stably-ai.json"
   },
   {
     "id": 25402,
@@ -17642,6 +17642,55 @@
     "api": "https://yc-oss.github.io/api/batches/w24/trieve.json"
   },
   {
+    "id": 29401,
+    "name": "Raindrop",
+    "slug": "raindrop",
+    "former_names": [
+      "Sidekick [NOTE",
+      "this is a duplicate app per request of Diana Hu. old id: zkoticha]",
+      "Sidekick",
+      "Invisible Tools",
+      "Dawn"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca3e2bf71a524fc1733a500d6d8cfd497e6fc9f2.png",
+    "website": "https://www.raindrop.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Monitor your AI app the right way.\r\n\r\nAI engineers use Raindrop to get alerts about hidden issues and successes in their AI products.\r\n\r\nRaindrop sends you alerts when your AI misbehaves and links straight to the events, so you can dig into the conversations or traces, understand the root cause, and fix it, fast.",
+    "one_liner": "Sentry for AI products",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1710985617,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Monitoring",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/raindrop",
+    "api": "https://yc-oss.github.io/api/batches/w24/raindrop.json"
+  },
+  {
     "id": 29425,
     "name": "Zep AI",
     "slug": "zep-ai",
@@ -19257,20 +19306,20 @@
       "Thunder"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/501bda7eaf23c59e167bae838b7a5bc2328b2fdb.png",
-    "website": "https://thundercompute.com",
+    "website": "https://www.thundercompute.com",
     "all_locations": "Atlanta, GA, USA",
-    "long_description": "GPUs are in extremely high demand for AI development. A single GPU server can cost up to $300K. Despite this, GPUs in data centers are only utilized an average of 15-20% of the time. Thunder Compute is building technology to increase GPU utilization from 15-20% to 90%+, meaning that each GPU can be shared by 5x as many developers as in data centers today. Our technology achieves this efficiency gain by allowing all of the servers in a data center to share a single pool of network-attached GPUs rather than physically attaching a GPU to each server. Try Thunder Compute at docs.thundercompute.com/quickstart",
-    "one_liner": "Virtualization software to make GPUs 5x cheaper",
+    "long_description": "Thunder Compute is the world's cheapest GPU cloud platform for researchers, data scientists, and indie devs. The team is building a proprietary virtualization stack to improve GPU utilization by 5x. Try it today.",
+    "one_liner": "The cheapest GPU cloud for developing AI/ML",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21630,11 +21679,11 @@
     "name": "Jazzberry",
     "slug": "jazzberry",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bb422923627099431b692c92ce3178789a0f50c0.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/500608c97fc38d9c97178a407494b3d552eb8b54.png",
     "website": "https://jazzberry.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're creating an AI agent that orchestrates debugging tools and runs your code to find bugs. It's time to close the loop on vibe coding.",
-    "one_liner": "Training LLMs to be expert software testers",
+    "one_liner": "(formerly Prophet) Training LLMs to be expert software testers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
