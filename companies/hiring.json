@@ -6162,6 +6162,46 @@
     "api": "https://yc-oss.github.io/api/batches/s17/standard-ai.json"
   },
   {
+    "id": 1609,
+    "name": "Nimble",
+    "slug": "nimble",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b693002259f2dd2c99c3f0808e254c207525699a.png",
+    "website": "http://www.hirenimble.com",
+    "all_locations": "Remote",
+    "long_description": "Nimble uses predictive analytics to give every K-12 student access to excellent teachers. Our smart applicant tracking system (ATS) leverages a predictive model to help school districts identify and hire the best educators for their classrooms.\r\n",
+    "one_liner": "Data-driven teacher hiring",
+    "team_size": 25,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1493265719,
+    "tags": [
+      "Education",
+      "Machine Learning",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S17",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nimble",
+    "api": "https://yc-oss.github.io/api/batches/s17/nimble.json"
+  },
+  {
     "id": 1611,
     "name": "SafeButler",
     "slug": "safebutler",
@@ -6295,26 +6335,23 @@
     "api": "https://yc-oss.github.io/api/batches/s17/prelim.json"
   },
   {
-    "id": 1638,
-    "name": "Cairns Health",
-    "slug": "cairns-health",
+    "id": 1636,
+    "name": "Rabbet",
+    "slug": "rabbet",
     "former_names": [
-      "Totemic Labs",
-      "Totemic"
+      "Contract Simply"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2571c59aad3d4224dae47b21fb2bc278e88e66c.png",
-    "website": "https://www.cairns.ai",
-    "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "Cairns Health is creating a fundamentally better healthcare experience for people with chronic health conditions and those who care for them. We make healthcare more accessible by simplifying complex care plans, connecting care teams and meeting patients where they live. Through our conversational AI, patients use their voice to interact with our digital care companion, who proactively gives medication reminders, symptom checks, behavioral nudges and even engages in friendly conversation to ease loneliness. Cairns uses a device that includes radar to put the patient in context and passively monitors their activities, including: heart rate, breathing rate and sleep stages, all without a wearable. The result is informed and timely intervention that drives improved clinical outcomes, reduced care delivery costs and a more satisfactory healthcare experience for all.",
-    "one_liner": "Your voice. Your health. We care.",
-    "team_size": 17,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1493693427,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71a94018030f7d7d85f1b0d093981745b4c3715c.png",
+    "website": "http://rabbet.com",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "Rabbet brings efficiency, accuracy and transparency to the complex construction finance industry. The platform uses machine learning to parse documents and connect information for reduced administrative burden, verifiable compliance, and faster decision-making for real estate lenders and developers.\r\n\r\nFormerly Contract Simply. ",
+    "one_liner": "Bringing efficiency, accuracy and transparency to construction finance",
+    "team_size": 23,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1493404227,
     "tags": [
-      "Hardware",
-      "Machine Learning",
-      "Consumer Health Services"
+      "Real Estate"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6323,20 +6360,22 @@
     "batch": "S17",
     "status": "Active",
     "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
+      "Real Estate and Construction",
+      "Construction"
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cairns-health",
-    "api": "https://yc-oss.github.io/api/batches/s17/cairns-health.json"
+    "url": "https://www.ycombinator.com/companies/rabbet",
+    "api": "https://yc-oss.github.io/api/batches/s17/rabbet.json"
   },
   {
     "id": 1639,
@@ -13529,19 +13568,19 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/256be79b4f9ac851425e3bf2a60af5ae33ca72ba.png",
     "website": "https://replicate.com",
-    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Run machine learning models in the cloud",
-    "team_size": 27,
+    "team_size": 36,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1647283616,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
       "Community",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13735,51 +13774,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/whatnot",
     "api": "https://yc-oss.github.io/api/batches/w20/whatnot.json"
-  },
-  {
-    "id": 13211,
-    "name": "Metaplane",
-    "slug": "metaplane",
-    "former_names": [
-      "Quantifai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa2c854ed688cf4ff0f5cf7f48786c533f00b943.png",
-    "website": "https://metaplane.dev",
-    "all_locations": "Boston, MA, USA",
-    "long_description": "Metaplane ensures everyone trusts the data that powers your business. Data teams at Bose, Ramp, and Klaviyo use our data observability platform to prevent and detect data issues — before the CEO pings them about weird revenue numbers.\r\n\r\nWe do this with ML-based anomaly detection, end-to-end column-level lineage, and tools to help prevent incidents before they occur. You can monitor your entire data stack within 30 minutes.\r\n\r\nThe company is backed by Khosla Ventures, Y Combinator, and the founders of Okta, HubSpot, and Vercel.",
-    "one_liner": "Data observability for modern data teams",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1614011784,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W20",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/metaplane",
-    "api": "https://yc-oss.github.io/api/batches/w20/metaplane.json"
   },
   {
     "id": 13215,
@@ -16072,6 +16066,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/humanloop",
     "api": "https://yc-oss.github.io/api/batches/s20/humanloop.json"
+  },
+  {
+    "id": 21897,
+    "name": "Arist",
+    "slug": "arist",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f43a2bc736726658aa01f7d31a95c21a6c0acefd.png",
+    "website": "https://www.arist.co",
+    "all_locations": "New York, NY, USA; Boston, MA, USA; Remote",
+    "long_description": "Arist is the text message learning platform. We help Fortune 500 companies and governments rapidly teach and train employees, entirely via text message.",
+    "one_liner": "Deliver effective learning at scale ",
+    "team_size": 23,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1598251213,
+    "tags": [
+      "Education",
+      "eLearning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S20",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arist",
+    "api": "https://yc-oss.github.io/api/batches/s20/arist.json"
   },
   {
     "id": 21902,
@@ -20768,19 +20803,19 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c457be8f075da33530f9e844d5a01a959451c8d.png",
     "website": "https://www.venu3d.com",
-    "all_locations": "San Jose, CA, USA",
-    "long_description": "Build your community with Venu AI, the community building, B2B connections, and event marketing platform for enterprise.",
-    "one_liner": "Build your community with Venu AI",
+    "all_locations": "San Jose, CA, USA; Remote",
+    "long_description": "Meet qualified leads in person by automating conference production with Venu AI. Host a conference and meet 100 qualified sales leads in person every 3 months fully automated with Venu AI.",
+    "one_liner": "Meet qualified leads in person by automating conference production",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1611803817,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Community",
       "Sales",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20795,7 +20830,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -34400,50 +34435,6 @@
     "api": "https://yc-oss.github.io/api/batches/w23/flexdesk.json"
   },
   {
-    "id": 27728,
-    "name": "Nango",
-    "slug": "nango",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2c91c467d6826fc9888627093516dbe795e1a6f.png",
-    "website": "https://nango.dev",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Customers expect your SaaS to integrate with all the software they use.\r\n\r\nWith Nango, you ship integrations your customers love, fast.\r\n\r\nLeverage hundreds of pre-built integrations and unlimited customization.",
-    "one_liner": "A single API for all your integrations",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1669371609,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "Open Source",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nango",
-    "api": "https://yc-oss.github.io/api/batches/w23/nango.json"
-  },
-  {
     "id": 27735,
     "name": "Numeral",
     "slug": "numeral",
@@ -35350,53 +35341,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/extend",
     "api": "https://yc-oss.github.io/api/batches/w23/extend.json"
-  },
-  {
-    "id": 27881,
-    "name": "Inkeep",
-    "slug": "inkeep",
-    "former_names": [
-      "inkeep"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72bfb13e14b0f43d68d0a7055eec27310d54f3c0.png",
-    "website": "https://inkeep.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Inkeep provides all the AI tools teams need to scale support: an assistant for users, a copilot for support agents, and an AI writer to identify and fix content gaps. \r\n\r\nTeams like Anthropic, Pinecone, and Postman trust Inkeep to help their users find what they need and get high quality human support when they need it.\r\n\r\nInkeep \"just works\" with your existing tools - ingest any source, add to any help center or docs site, integrate with any ticketing platform, and our APIs to create custom experiences and automate workflows.",
-    "one_liner": "AI support you can trust.",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1677660046,
-    "tags": [
-      "Generative AI",
-      "Customer Success",
-      "Customer Service",
-      "Customer Support",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inkeep",
-    "api": "https://yc-oss.github.io/api/batches/w23/inkeep.json"
   },
   {
     "id": 27896,
@@ -43748,7 +43692,7 @@
     "name": "Stacksync",
     "slug": "stacksync",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1ba092cd9748f3108933638ddb6bec186691eb6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86069ba7639f52c1874bb95448db4e4cd2310e5e.png",
     "website": "https://www.stacksync.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Stacksync powers real-time and bidirectional data synchronization between CRMs (e.g. Salesforce, Hubspot or SAP) and databases (e.g. Postgres, Google BigQuery,...). Edits made in your CRM will instantly update in your Database, and vice-versa. To set up a sync, users simply have to connect the two chosen apps in one click and select the tables they want to sync, no-code!\r\nStacksync reduces implementation delays from months to minutes for CRM integration projects and removes all the complexity behind CRM new feature development. We show a 90% improvement on delivery time and budget.",
@@ -46225,16 +46169,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b702e275c5d9f7a428a7fe250b337175e2b5e58.png",
     "website": "https://anara.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Anara helps researchers understand, organize and write scientific documents, together. Formerly known as Unriddle.\r\n\r\nWe started working on Anara 18 months ago. In that time:\r\n- we’ve grown to 3M users spanning hundreds of major colleges and research-led companies, \r\n- we reached $2.5M in yearly revenue and are about to hit $3M, \r\n- 100M+ people have seen our content across Instagram, TikTok and YouTube,  \r\n- and we raised $2.4M from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we're expanding beyond just summarization and writing assistance to address the broader challenges of information overload faced by researchers.\r\n\r\nAnd we’re now growing the team. We're a small, tight-knit team with huge ambitions. As a founding member, you'll be instrumental in helping us scale revenue from $3M to $10M and then $10M to $100M+.\r\n\r\nIf you’re excited by the idea of being a part of that, definitely reach out.",
+    "long_description": "Anara helps researchers understand, organize and write scientific documents, together.\r\n\r\nWe started working on Anara 18 months ago. In that time:\r\n\r\n- we’ve grown to 4M users spanning hundreds of major colleges and research-led companies,\r\n- we reached $3M in yearly revenue and are fast approaching $4M,\r\n- 200M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised $2.4M from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we’re expanding beyond summarization and writing assistance to address the broader challenges of information overload faced by academics and research teams.\r\n\r\nWe're a small, tight-knit team with huge ambitions and we’re hiring across design, engineering and growth. As a founding member of the team, you'll be instrumental in helping us scale revenue from $3M to $10M and then $10M to $100M+.\r\n\r\nIf you’re excited by the idea of being a part of that, definitely reach out.",
     "one_liner": "AI for researchers",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1715615655,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49036,6 +48980,46 @@
     "api": "https://yc-oss.github.io/api/batches/w25/weave-3.json"
   },
   {
+    "id": 30230,
+    "name": "SalesPatriot",
+    "slug": "salespatriot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c55eb595eb8712daeb02c69afcc09007bcb63c4f.png",
+    "website": "https://www.salespatriot.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "SalesPatriot is a back-office operating system for defense firms. It helps you find, review, and bid on RFQ solicitations, both directly with the Pentagon and as a subcontractor.\r\n\r\nUS Government procures billions of dollars worth of parts and products every year, yet the procedure is riddled with red tape and repetitive, manual work.\r\n\r\nNelson worked at a manufacturing firm during his gap year prior to attending Berkeley. As the Chief of Staff, he witnessed first-hand the tedious process of finding great contract opportunities, the lengthy solicitation preparation process, and paper-based communication between departments.\r\n\r\nHe teamed up with Ben and Maciej, whom he met during Berkeley's M.E.T. admit day. Both of them had extensive experience in AI research and applications, which they applied to creating a powerful framework for humans and AI agents to collaborate during the lifecycle of a contract.\r\n\r\nWith SalesPatriot, your firm can run on autopilot - we find suitable contracts automatically, ingest RFQs from primes, streamline the communication between the departments, and provide analytics to improve your win rate.\r\n\r\nWether you are a manufacturer, reseller, or distributor, SalesPatriot can reduce your manual tasks, increase throughput, and boost your revenue. ",
+    "one_liner": "We help defense firms win more contracts with the Pentagon",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1741557589,
+    "tags": [
+      "SaaS",
+      "GovTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/salespatriot",
+    "api": "https://yc-oss.github.io/api/batches/w25/salespatriot.json"
+  },
+  {
     "id": 30232,
     "name": "careCycle",
     "slug": "carecycle",
@@ -49846,7 +49830,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a035400f6acd84a35dea2f9fb7832b054c02ed12.png",
     "website": "https://archon.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Archon helps software companies sell to the government by cutting the required federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nOur product improves government efficiency and increases competition in this traditionally restrictive market by making compliance cheaper and more accessible. We want to enable every small tech company to build a lasting government partnership, and bring real solutions to our federal agencies.\r\n\r\nEmail us at inquiries@archon.inc",
+    "long_description": "Archon helps software companies sell to the government by cutting the required federal compliance timeline (called FedRAMP) down from 16 to 6 months and cuts costs by $1M per company. \r\n\r\nEmail us at inquiries@archon.inc",
     "one_liner": "We help software companies sell to government.",
     "team_size": 3,
     "industry": "Government",
@@ -50340,5 +50324,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/eloquent-ai",
     "api": "https://yc-oss.github.io/api/batches/x25/eloquent-ai.json"
+  },
+  {
+    "id": 30529,
+    "name": "WorkDone",
+    "slug": "workdone",
+    "former_names": [
+      "Wrkdn",
+      "Work Done (WRKDN)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/924734540288bf8cd89e4e3406e3bc65fd236248.png",
+    "website": "https://wrkdn.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "WorkDone is an AI compliance copilot for hospitals. We prevent documentation errors that cause 250 million insurance claim denials every year—before they happen.",
+    "one_liner": "AI compliance copilot for hospitals to maximize insurance payouts",
+    "team_size": 5,
+    "industry": "Healthcare",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1745803962,
+    "tags": [
+      "Health Tech",
+      "Compliance",
+      "Enterprise Software",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/workdone",
+    "api": "https://yc-oss.github.io/api/batches/x25/workdone.json"
   }
 ]
