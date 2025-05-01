@@ -36568,7 +36568,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W20",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -66482,10 +66482,10 @@
     "subindustry": "B2B",
     "launched_at": 1645952902,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -84405,8 +84405,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1684527271,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -88954,7 +88954,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "W24",
     "status": "Active",
@@ -92081,18 +92081,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77d4e7360bfc7fada0197367cdf72bc7dbe92d2f.png",
     "website": "https://commodityai.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build software that supports the movement of millions of tons of raw commodities like sugar, cocoa, and coffee around the world. Our trading and operations management platform serves as a system of record, powered by AI automation that eliminates the friction points in operating a physical trading and distribution business.\r\n \r\nOur team consists of an experienced commodity trader with 8 years of experience and two skilled engineers with a combined 13 years of experience from Samsara and Autodesk.",
-    "one_liner": "AI & Automation Software Powering Physical Commodity Trading",
+    "long_description": "CommodityAI builds intelligent automation agents for the most operationally complex businesses in the world: physical commodity traders.\r\n\r\nIn these environments, critical data is buried in spreadsheets, emails, PDFs, and legacy systems. This makes operations slow, error prone, and heavily reliant on manual work. CommodityAI acts as a digital operator, constantly monitoring and interpreting this unstructured information to keep records accurate and systems up to date.\r\n\r\nOur agents read and validate key details from trade confirmations, contracts, shipping updates, and more. They transform scattered data into clean, structured records that flow directly into CTRMs, ERPs, and other internal tools without requiring human input.\r\n\r\nAt the core is the CommodityAI Platform, a flexible foundation for building and managing agents that integrate with business systems and scale alongside operations.",
+    "one_liner": "AI that automates commodity operations",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1710175582,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "Supply Chain",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -92102,7 +92101,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Supply Chain and Logistics"
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -93540,19 +93539,19 @@
     "name": "Variant",
     "slug": "variant",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cdc6224947dca521498180f254e7e668f62f04b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd64bca7fac097523dd134d6167e96f5fb79ab98.png",
     "website": "https://variant.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Variant is building the state-of-the-art model for software design. The company is founded by Ben South Lee, former VP of Product Design at unicorn companies Postmates ($5B exit) and Avara ($2.5B market cap), and Daniel Bulhosa Solórzano, Staff ML engineer at Square and Cruise.",
-    "one_liner": "Building the state-of-the-art model for software design",
+    "long_description": "Creative intelligence",
+    "one_liner": "Creative intelligence",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1732310413,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Design Tools"
+      "Design Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -94294,23 +94293,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67133b6c1025c9a5557fc657b87ed61ad2b540c5.png",
     "website": "https://videogen.io",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "VideoGen makes it easy for anyone to create professional, copyright-free videos in seconds. Today, we serve thousands of customers, from individuals and small businesses to teams at Google and ByteDance.\r\n\r\nMaking videos is hard, time-consuming, and expensive if you hire someone to do it for you. With VideoGen, it only takes a few clicks!",
     "one_liner": "AI that can create and edit professional videos",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1725431613,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "SaaS",
-      "Video",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -94318,8 +94311,6 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -94341,7 +94332,7 @@
     "all_locations": "",
     "long_description": "Phonely uses existing call recordings to create a 'AI vocal twin' that can answer customer support calls and match or outperform call center agents. On top of that we've built a Zapier like workflow that lets businesses connect to software or transfer calls just like a person would. Our platform sits on proprietary deterministic LLM that is both cheaper and more accurate than gpt-4o for call center inquiries.",
     "one_liner": "AI call centers ",
-    "team_size": 4,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1716572470,
@@ -104814,7 +104805,7 @@
     "name": "Vovana",
     "slug": "vovana",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b4d1ad29df0887a732e1031a563bd8490384307.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01fedb1283e8d7fc6fe77ced54cdc1ddcf4c5194.png",
     "website": "https://www.vovana.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Vovana is an AI recruiter for filling high-volume, high-turnover roles in retail, logistics, restaurants, and hospitality. Our AI posts job ads, then gets on a phone call with candidates and interviews them just like a manager would. \r\n",
@@ -106755,7 +106746,8 @@
     "launched_at": 1744430433,
     "tags": [
       "Generative AI",
-      "SaaS"
+      "SaaS",
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
