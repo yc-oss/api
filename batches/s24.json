@@ -2201,7 +2201,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png",
     "website": "https://wordware.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "we make AI app development as simple as writing a document. if you can explain your application in words then you can build it with wordware.\r\n\r\nour natural language editor is enhanced with powerful features from the world of programming; conditional statements, loops, functions, multi-agent communication. you can build and test AI flows instantly, see results in real-time, iterate fast, deploy in a single click. no code required!\r\n\r\nwith access to every public AI model and thousands of API integrations, you can design truly context-aware AI applications and agents. wordware takes the transformative power of AI, connects it with the tools you already use, and builds it seamlessly into your life and work.",
+    "long_description": "Wordware is an IDE for building AI agents using natural language.\r\n\r\nIt looks and feels like Notion, but lets you design, test, and deploy AI systems in real time - without writing code.\r\n\r\nOur mission is to bring structure and joy to human–AI collaboration.\r\n\r\nWe’re building a generational company that empowers the next billion knowledge workers to create with AI - not by writing code, but by expressing intent.\r\n\r\nWe’re backed by Spark Capital, Felicis, and Y Combinator ($30M seed round - the largest in YC history).\r\n\r\nWe work hard, move fast, and don’t take ourselves too seriously. It’s intense, but it’s also fun - at Wordware, you’ll do the best work of your life alongside people you genuinely like.",
     "one_liner": "bringing structure and joy to human-AI collaboration",
     "team_size": 15,
     "industry": "B2B",
@@ -2209,9 +2209,9 @@
     "launched_at": 1715713232,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2389,11 +2389,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721868567,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
       "Robotic Process Automation",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2761,47 +2761,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cloudglue",
     "api": "https://yc-oss.github.io/api/batches/s24/cloudglue.json"
-  },
-  {
-    "id": 29666,
-    "name": "Willow",
-    "slug": "willow",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/94106b76700753194cc06e2146cf9eec9e1ceb6a.png",
-    "website": "https://willowvoice.com/",
-    "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Willow is an AI-powered dictation software that can be used anywhere on your computer. It uses AI to auto-format, correct mistakes, and cut filler words, making your writing faster and cleaner.\r\n\r\nWe’re Mac-only for now. You can try it free at WillowVoice.com",
-    "one_liner": "Write 3x faster with voice dictation, powered by AI",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "B2B",
-    "launched_at": 1724580560,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Productivity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/willow",
-    "api": "https://yc-oss.github.io/api/batches/s24/willow.json"
   },
   {
     "id": 29667,
@@ -3683,20 +3642,20 @@
       "Bridge"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/532e7e0b454824eb6bc4223cf0ca6c92b2566781.png",
-    "website": "https://gauge.sh",
+    "website": "https://withgauge.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gauge is solving the monolith/microservices dilemma. We’re helping enterprises break large codebases into small pieces.\r\n\r\n\r\nWe first met as roommates in college, and in the decade since we've both worked exclusively at startups, including multiple founding engineering roles. We ran into this problem time and time again as our startups began to scale.\r\n\r\n\r\nWe're now working with a wide range of companies, including a number of multi-billion $ enterprises. Our open source tooling also has ~1k stars on GitHub, over 400k downloads, and is in use by Nvidia.\r\n\r\n\r\nIn the short term, Gauge is building tools to modularize the monolith. Long term, Gauge is building a way to deploy a single codebase as a set of independent services, giving you the scalability of microservices alongside the simplicity of monolithic development.\r\n",
-    "one_liner": "Solving the monolith/microservices dilemma.",
+    "long_description": "Gauge helps you improve your brand's presence in ChatGPT, Google AI Overviews, and more.",
+    "one_liner": "Get your product featured in AI answers.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1717523721,
     "tags": [
-      "Developer Tools",
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Open Source",
-      "Web Development"
+      "Analytics",
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3706,14 +3665,14 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -6471,7 +6430,7 @@
     "name": "Soff",
     "slug": "soff",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44eec6deeefecdab6c1e361246a977ea5179f031.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/945cd6a63e34b65225340445187c65318ee253c8.png",
     "website": "https://soff.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soff is a supply chain OS for manufacturing companies. We unify supply chain data and automate core workflows, such as data entry, requesting quotes, comparing quotes, and issuing purchase orders. Our customers save dozens of hours a week spent on repetitive manual tasks.",
@@ -10506,8 +10465,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6768364915c3c8551c79d1fe59ba06f2cc7c2a5.png",
     "website": "https://www.getpathpilot.com/",
     "all_locations": "San Jose, CA, USA",
-    "long_description": "PathPilot helps PLG SaaS companies understand what drives upgrades and cancellations by transforming session data into actionable insights.\r\n* AI-powered session summaries – Automatically generates second-by-second narrations of user behavior, making it easy to spot friction points and successes.\r\n*  Conversion & churn insights – Identify the key actions that led to an upgrade or drop-off, so you can optimize your product for growth.",
-    "one_liner": "Optimize SaaS revenue by understanding user behavior",
+    "long_description": "We empower CX teams to deploy AI agents, evaluate 100% of conversations for quality, and accelerate automation — all without needing engineering resources. Whether companies are just starting with AI or already using automation, PathPilot improves agent performance, reduces costs, and ensures the quality and compliance required for high-stakes industries like fintech and gaming.",
+    "one_liner": "AI platform helping Customer Experience teams scale efficiently",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -10516,7 +10475,7 @@
       "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Analytics"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10529,9 +10488,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

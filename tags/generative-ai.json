@@ -2033,7 +2033,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S21",
     "status": "Active",
@@ -2563,26 +2563,26 @@
   },
   {
     "id": 25870,
-    "name": "Top Road",
-    "slug": "top-road",
+    "name": "GPT Builder Tools by Top Road",
+    "slug": "gpt-builder-tools-by-top-road",
     "former_names": [
       "RE-MINT"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df25027fdb67a180a98afb2eb5f767346fefc28f.png",
-    "website": "https://toproad.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ed83064b462a62fb60828cb6bf04abbdf4f8d7d.png",
+    "website": "https://gptbuilder.tools",
     "all_locations": "Sydney, NSW, Australia",
-    "long_description": "Our no code tools enable developers to monetise their apps in the OpenAI GPT Store with in-chat payments, affiliate links and user analytics. ",
+    "long_description": "GPT Builder Tools by Top Road is a no code tool enabling developers to monetise their apps in the OpenAI GPT Store with in-chat payments, user authentication and analytics. ",
     "one_liner": "Payments & analytics for apps in the OpenAI GPT Store",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "B2B -> Retail",
     "launched_at": 1644389361,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Generative AI",
       "Payments",
-      "Analytics"
+      "Analytics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2605,8 +2605,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/top-road",
-    "api": "https://yc-oss.github.io/api/batches/w22/top-road.json"
+    "url": "https://www.ycombinator.com/companies/gpt-builder-tools-by-top-road",
+    "api": "https://yc-oss.github.io/api/batches/w22/gpt-builder-tools-by-top-road.json"
   },
   {
     "id": 25921,
@@ -3567,7 +3567,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bd3e4de086fbafd70c63dbae211f55425382f05.png",
     "website": "https://www.hirequinn.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "iollo uses advanced AI to analyze complex biological data (multi-omics, etc.), uncovering new biology in hours, work that often takes teams of scientists years. Our platform translates these discoveries into accelerated development for extending healthspan and finding novel therapeutic strategies.",
+    "long_description": "iollo uses AI to analyze multimodal biological data (multi-omics, imaging, etc.) to discover new biology in hours, work that typically takes teams of scientists years. Our platform translates these discoveries into accelerated development of novel therapeutic strategies and interventions for extending healthspan.",
     "one_liner": "AI platform accelerating therapeutic R&D from years to days.",
     "team_size": 4,
     "industry": "Healthcare",
@@ -11498,6 +11498,47 @@
     "api": "https://yc-oss.github.io/api/batches/x25/auctor.json"
   },
   {
+    "id": 30461,
+    "name": "Combinely",
+    "slug": "combinely",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d60074c98f74b46443d4cb4aaad793b532b48401.png",
+    "website": "https://combinely.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our AI co-worker for accountants helps with everything from answering client queries, to producing & reviewing work. ",
+    "one_liner": "AI coworker for accountants",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1746104417,
+    "tags": [
+      "Fintech",
+      "Generative AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/combinely",
+    "api": "https://yc-oss.github.io/api/batches/x25/combinely.json"
+  },
+  {
     "id": 30474,
     "name": "RunRL",
     "slug": "runrl",
@@ -11621,5 +11662,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/text-ai",
     "api": "https://yc-oss.github.io/api/batches/x25/text-ai.json"
+  },
+  {
+    "id": 30553,
+    "name": "Blueshoe",
+    "slug": "blueshoe",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ff435e9a8349d20737a53d77d98e6b9ef40d649.png",
+    "website": "https://blueshoe.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Blueshoe puts legal financial operations on autopilot starting with fully automated, end-to-end invoice-to-cash for law firms. At any given moment, U.S. law firms have $100B+ of revenue trapped in slow, manual and error-prone decisions and document workflows. Meanwhile, clients and practices are both innovating on dynamic revenue models beyond the billable hour. Blueshoe is building the next-gen financial infrastructure for professionals that's reliable, transparent and free of human bottlenecks.",
+    "one_liner": "The first AI worker for legal financial operations",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1746075411,
+    "tags": [
+      "Fintech",
+      "Generative AI",
+      "Payments",
+      "Legal",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blueshoe",
+    "api": "https://yc-oss.github.io/api/batches/x25/blueshoe.json"
   }
 ]

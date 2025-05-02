@@ -4036,7 +4036,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S19",
     "status": "Active",
@@ -16740,7 +16740,9 @@
     "id": 29226,
     "name": "Greptile",
     "slug": "greptile",
-    "former_names": [],
+    "former_names": [
+      "Onboard AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f71e2192666be11ddc0e606e5c3ac0d905c3b3fa.png",
     "website": "https://www.greptile.com",
     "all_locations": "San Francisco, CA, USA",
@@ -18570,7 +18572,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png",
     "website": "https://wordware.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "we make AI app development as simple as writing a document. if you can explain your application in words then you can build it with wordware.\r\n\r\nour natural language editor is enhanced with powerful features from the world of programming; conditional statements, loops, functions, multi-agent communication. you can build and test AI flows instantly, see results in real-time, iterate fast, deploy in a single click. no code required!\r\n\r\nwith access to every public AI model and thousands of API integrations, you can design truly context-aware AI applications and agents. wordware takes the transformative power of AI, connects it with the tools you already use, and builds it seamlessly into your life and work.",
+    "long_description": "Wordware is an IDE for building AI agents using natural language.\r\n\r\nIt looks and feels like Notion, but lets you design, test, and deploy AI systems in real time - without writing code.\r\n\r\nOur mission is to bring structure and joy to human–AI collaboration.\r\n\r\nWe’re building a generational company that empowers the next billion knowledge workers to create with AI - not by writing code, but by expressing intent.\r\n\r\nWe’re backed by Spark Capital, Felicis, and Y Combinator ($30M seed round - the largest in YC history).\r\n\r\nWe work hard, move fast, and don’t take ourselves too seriously. It’s intense, but it’s also fun - at Wordware, you’ll do the best work of your life alongside people you genuinely like.",
     "one_liner": "bringing structure and joy to human-AI collaboration",
     "team_size": 15,
     "industry": "B2B",
@@ -18578,9 +18580,9 @@
     "launched_at": 1715713232,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18667,11 +18669,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721868567,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
       "Robotic Process Automation",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18867,51 +18869,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/codeviz",
     "api": "https://yc-oss.github.io/api/batches/s24/codeviz.json"
-  },
-  {
-    "id": 29693,
-    "name": "Gauge",
-    "slug": "gauge",
-    "former_names": [
-      "Bridge"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/532e7e0b454824eb6bc4223cf0ca6c92b2566781.png",
-    "website": "https://gauge.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gauge is solving the monolith/microservices dilemma. We’re helping enterprises break large codebases into small pieces.\r\n\r\n\r\nWe first met as roommates in college, and in the decade since we've both worked exclusively at startups, including multiple founding engineering roles. We ran into this problem time and time again as our startups began to scale.\r\n\r\n\r\nWe're now working with a wide range of companies, including a number of multi-billion $ enterprises. Our open source tooling also has ~1k stars on GitHub, over 400k downloads, and is in use by Nvidia.\r\n\r\n\r\nIn the short term, Gauge is building tools to modularize the monolith. Long term, Gauge is building a way to deploy a single codebase as a set of independent services, giving you the scalability of microservices alongside the simplicity of monolithic development.\r\n",
-    "one_liner": "Solving the monolith/microservices dilemma.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1717523721,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Open Source",
-      "Web Development"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gauge",
-    "api": "https://yc-oss.github.io/api/batches/s24/gauge.json"
   },
   {
     "id": 29712,

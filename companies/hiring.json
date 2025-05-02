@@ -1695,7 +1695,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7000,55 +7000,6 @@
     "api": "https://yc-oss.github.io/api/batches/w18/worklytics.json"
   },
   {
-    "id": 1749,
-    "name": "CoinTracker",
-    "slug": "cointracker",
-    "former_names": [
-      "Nino Finance",
-      "Inc.",
-      "Nino Finance"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/097c28935ffe6f2c55f615c50f2a9e6af69ae9d4.png",
-    "website": "https://cointracker.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "[CoinTracker](https://www.cointracker.io) makes cryptocurrency portfolio tracking and tax compliance simple. CoinTracker enables consumers and businesses to seamlessly track their cryptocurrency portfolio, investment performance, taxes, and more. We are a globally distributed team on a mission to enable everyone in the world to use crypto with peace of mind. [Learn more](https://www.notion.so/cointracker/CoinTracker-is-Hiring-7308c712493940a3b6e62257d283dad8) about our mission, culture, and hiring process.",
-    "one_liner": "The gold standard in cryptocurrency portfolio tracking and taxes",
-    "team_size": 70,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1509591796,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Crypto / Web3",
-      "Consumer"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W18",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cointracker",
-    "api": "https://yc-oss.github.io/api/batches/w18/cointracker.json"
-  },
-  {
     "id": 1763,
     "name": "Biobot Analytics",
     "slug": "biobot-analytics",
@@ -10658,6 +10609,47 @@
     "api": "https://yc-oss.github.io/api/batches/s19/zippi.json"
   },
   {
+    "id": 12242,
+    "name": "AccioJob",
+    "slug": "acciojob",
+    "former_names": [
+      "AccioJob Private Limited "
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58884ed5c9a6258e4e36cfa9be1a2a6b30e41858.png",
+    "website": "http://www.acciojob.com",
+    "all_locations": "Gurugram, HR, India",
+    "long_description": "AccioJob is an ed-tech startup run by IIT Delhi Alumni that provides a comprehensive state-of-the-art learning platform for Full Stack Web Development and Data Analytics.\r\n\r\nOur industry-relevant curriculum is taught by top tech instructors and mentors, and our students have gone on to work at leading tech companies like Amazon, Salesforce, and Walmart, among others. With job placement opportunities at 300+ top tech partner companies, we have placed 1000+ students in 2022 itself at an average salary of 8.3 LPA",
+    "one_liner": "Upskilling bootcamp for India",
+    "team_size": 250,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1543948525,
+    "tags": [
+      "Education",
+      "Recruiting"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W19",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/acciojob",
+    "api": "https://yc-oss.github.io/api/batches/w19/acciojob.json"
+  },
+  {
     "id": 12243,
     "name": "Beacons",
     "slug": "beacons",
@@ -12109,48 +12101,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/directshifts",
     "api": "https://yc-oss.github.io/api/batches/s19/directshifts.json"
-  },
-  {
-    "id": 12675,
-    "name": "Wasmer",
-    "slug": "wasmer",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97ea02f8fa3d6250285b27eb9529ebfee68db334.png",
-    "website": "https://wasmer.io",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "We are working on the software that will power the next generation of Cloud Computing (Edge Computing) platforms using WebAssembly.\r\n\r\nYou can see us as a mix between Docker (but 100x more performant in startup time, and with 100x more lightweight containers), npm (we released the first WebAssembly package manager: wapm.io) and the JVM (but more universal).",
-    "one_liner": "The Operating System for Edge Computing",
-    "team_size": 11,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1556823526,
-    "tags": [
-      "Developer Tools",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S19",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wasmer",
-    "api": "https://yc-oss.github.io/api/batches/s19/wasmer.json"
   },
   {
     "id": 12705,
@@ -20224,7 +20174,7 @@
     "website": "https://www.codingal.com",
     "all_locations": "Bengaluru, KA, India",
     "long_description": "Codingal (www.codingal.com) is a leading online after-school where kids & teens learn coding from expert instructors through live, interactive classes. Our mission is to build the world’s largest & most loved programming school for kids & teens, powered by human & AI tutors.\r\n\r\nMany countries have great technical universities but literally zero programming education at the K-12 level. Parents want their kids to get started with programming earlier, and that's why they use Codingal.\r\n\r\nAll our instructors come from Computer Science background, and they are rigorously vetted and trained. Every student gets a personalized learning path and individual attention in 1:1 private classes or small group classes with expert instructors. Students learn by building apps, games, animations, and websites in a fun & engaging way.\r\n\r\nKids find it so fun & engaging that NPS is just outstanding - 86. They have rated teachers at 4.9 out of 5. Curriculum content is rated at 4.8 out of 5.\r\n\r\nCodingal is on a mission to inspire kids to fall in love with coding, and provide the right education to them who will be able to create anything they can imagine and build the future when they grow up to become entrepreneurs, engineers, and scientists.",
-    "one_liner": "Leading online after-school where kids & teens learn coding",
+    "one_liner": "Leading online after-school for kids & teens to learn AI and Coding",
     "team_size": 70,
     "industry": "Education",
     "subindustry": "Education",
@@ -25974,6 +25924,49 @@
     "api": "https://yc-oss.github.io/api/batches/s21/storylane.json"
   },
   {
+    "id": 24727,
+    "name": "Output Biosciences",
+    "slug": "output",
+    "former_names": [
+      "Jingu Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/990074a168ed566a1898edae4ddc84a3de0b15c3.png",
+    "website": "https://www.outputbio.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Output Biosciences is pioneering Biologically-Aware Generative AI to finally understand complex biological systems. Our new generative AI architecture can handle the extremely long, nonlinear, fragmented, and high dimensional data of biological systems. We are building Large Biological Models that can generate breakthrough medicines and transform the way we diagnose, treat and prevent disease. ",
+    "one_liner": "Teaching Generative AI the Language of Biology",
+    "team_size": 5,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Therapeutics",
+    "launched_at": 1628006072,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Generative AI",
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S21",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Therapeutics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/output",
+    "api": "https://yc-oss.github.io/api/batches/s21/output.json"
+  },
+  {
     "id": 24746,
     "name": "Atlas",
     "slug": "atlas",
@@ -30770,6 +30763,49 @@
     "api": "https://yc-oss.github.io/api/batches/w22/eventual.json"
   },
   {
+    "id": 26265,
+    "name": "Seis",
+    "slug": "seis",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd9b86419e3a78adb95e9c2144f9899fa50c0513.png",
+    "website": "https://www.seis.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Today we're the easiest way for our customers to get a bank account. \r\n\r\nTomorrow we'll be the easiest way to get a credit card, auto loan, mortgage, etc. \r\n\r\nOur mission is to treat our customers as 1st class citizens and *end dial #2 for español*",
+    "one_liner": "Banking 100% in Spanish for the 44 million US Spanish speakers",
+    "team_size": 17,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1642531744,
+    "tags": [
+      "Fintech",
+      "Consumer Finance",
+      "Neobank"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W22",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/seis",
+    "api": "https://yc-oss.github.io/api/batches/w22/seis.json"
+  },
+  {
     "id": 26268,
     "name": "Remi",
     "slug": "remi",
@@ -35137,7 +35173,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Kivo Health provides telehealth rehab for chronic lung disease patients. We offer an 8-week clinical program led by a live therapist, which saves payers $6,000 per patient. Only 3% of eligible patients are getting this life-changing therapy right now.",
     "one_liner": "Telehealth lung rehab",
-    "team_size": 5,
+    "team_size": 20,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1675703099,
@@ -35795,7 +35831,7 @@
     "all_locations": "",
     "long_description": "SPRX uses AI to prepare corporate R&D tax credits.\r\n\r\nWith our technology, anyone can prepare an R&D Tax Credit accurately and fast. To provide some background, the R&D Credit is often cited as the most complex and audited tax credit in the United States. With that in mind, we set out to create software to achieve two primary objectives:\r\n\r\n1. Ensure that any credit computed with our software is exactly what the IRS is asking for in terms of quality.\r\n\r\n2. Democratize the ability to perform high quality R&D Credit studies extremely fast.",
     "one_liner": "AI for corporate R&D tax credits",
-    "team_size": 3,
+    "team_size": 28,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1669758881,
@@ -38087,6 +38123,42 @@
     "api": "https://yc-oss.github.io/api/batches/s23/pointhound.json"
   },
   {
+    "id": 28809,
+    "name": "Readily",
+    "slug": "readily",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6ed6b92c1866d1321f5db92edcd357309239ed5.png",
+    "website": "https://readily.co",
+    "all_locations": "",
+    "long_description": "Readily helps healthcare organizations find and close compliance gaps in hours not weeks. We do that by connecting over 100,000 pages of policies, and regulations, enabling staff to conduct research, analysis, and audits faster. This saves them hours of work, boosts readiness, and helps them avoid costly violations.",
+    "one_liner": "Compliance Tools for Healthcare Organizations",
+    "team_size": null,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1684821530,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/readily",
+    "api": "https://yc-oss.github.io/api/batches/s23/readily.json"
+  },
+  {
     "id": 28811,
     "name": "Casca",
     "slug": "casca",
@@ -39443,13 +39515,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c2936168c1d24afabd8456dc03d4a2255c01c1f.png",
     "website": "https://www.cambioml.com/",
     "all_locations": "",
-    "long_description": "CambioML providing ML tools for extracting and reconstruct text and data from PDFs, HTMLs and forms. Join the enterprise data gold mining from your legacy docs.\r\n",
-    "one_liner": "Retrieve and transform data from PDFs and forms",
+    "long_description": "Energent.ai turns every knowledge worker into a top performer by pairing them with an AI teammate. We streamline manual workflows without integrations, democratize automation with zero code, and move beyond passive chatbots to deliver real, visible output — all securely within the enterprise environment.",
+    "one_liner": "AI Teammate to Enable Every Knowledge Worker to Be a Top Performer",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1690762424,
-    "tags": [],
+    "tags": [
+      "Productivity",
+      "Big Data",
+      "Automation",
+      "AI Assistant"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -39806,44 +39883,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inventive-ai",
     "api": "https://yc-oss.github.io/api/batches/s23/inventive-ai.json"
-  },
-  {
-    "id": 29041,
-    "name": "Langdock",
-    "slug": "langdock",
-    "former_names": [
-      "Security"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e209d278473c98c7356a71ec3f7357fa784222a3.png",
-    "website": "https://langdock.com",
-    "all_locations": "",
-    "long_description": "Langdock is a comprehensive and secure platform for deploying AI in companies. From a powerful chat interface for all employees to tools for creating custom workflow automations with AI-driven agents.",
-    "one_liner": "The all-in-one AI platform for companies.",
-    "team_size": 16,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1690080205,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/langdock",
-    "api": "https://yc-oss.github.io/api/batches/s23/langdock.json"
   },
   {
     "id": 29042,
@@ -41080,7 +41119,9 @@
     "id": 29226,
     "name": "Greptile",
     "slug": "greptile",
-    "former_names": [],
+    "former_names": [
+      "Onboard AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f71e2192666be11ddc0e606e5c3ac0d905c3b3fa.png",
     "website": "https://www.greptile.com",
     "all_locations": "San Francisco, CA, USA",
@@ -41691,7 +41732,7 @@
     "all_locations": "",
     "long_description": "FurtherAI is building a workforce of AI Teammates for the insurance industry to handle repetitive manual tasks involving unstructured data processing and data entry across disjointed systems. Our first AI Teammate handles quote generation workflows for insurance brokers & MGAs.\r\n",
     "one_liner": "AI Workforce for the Insurance Industry",
-    "team_size": 2,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1719357150,
@@ -42045,6 +42086,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/omniai",
     "api": "https://yc-oss.github.io/api/batches/w24/omniai.json"
+  },
+  {
+    "id": 29328,
+    "name": "Guide Labs",
+    "slug": "guide-labs",
+    "former_names": [
+      "Guide Labs Inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0fe96eb46b8e36c878f7362b2ef9b57395fe8a11.png",
+    "website": "https://www.guidelabs.ai/",
+    "all_locations": "",
+    "long_description": "At Guide labs, we build Interpretable foundation models and AI systems that can reliably explain their reasoning, and are easy to audit, steer and understand. We provide access to these models via our API. ",
+    "one_liner": "Interpretable AI systems",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1709806941,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/guide-labs",
+    "api": "https://yc-oss.github.io/api/batches/w24/guide-labs.json"
   },
   {
     "id": 29333,
@@ -43809,6 +43887,43 @@
     "api": "https://yc-oss.github.io/api/batches/w24/ocular-ai.json"
   },
   {
+    "id": 29448,
+    "name": "xPay",
+    "slug": "xpay",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3971c15f9f5205a1db5b53fe701e75a30c87c769.png",
+    "website": "https://www.xpaycheckout.com/",
+    "all_locations": "",
+    "long_description": "We're building a commerce solution for SaaS companies globally that have overseas customers. We especially help them with streamlining billing operations like invoicing and reconciliation, managing foreign sales tax and accepting payments.  We abstract out the complexities of compliance, remittance and integration for these merchants by running all that machinery in the background. ",
+    "one_liner": "International Billing Ops, Sales Tax and Payments for SaaS businesses",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Unspecified",
+    "launched_at": 1709922304,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/xpay",
+    "api": "https://yc-oss.github.io/api/batches/w24/xpay.json"
+  },
+  {
     "id": 29455,
     "name": "CommodityAI",
     "slug": "commodityai",
@@ -45425,7 +45540,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff410def03c8c58c3adc7db9615becc8164804e3.png",
     "website": "https://wordware.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "we make AI app development as simple as writing a document. if you can explain your application in words then you can build it with wordware.\r\n\r\nour natural language editor is enhanced with powerful features from the world of programming; conditional statements, loops, functions, multi-agent communication. you can build and test AI flows instantly, see results in real-time, iterate fast, deploy in a single click. no code required!\r\n\r\nwith access to every public AI model and thousands of API integrations, you can design truly context-aware AI applications and agents. wordware takes the transformative power of AI, connects it with the tools you already use, and builds it seamlessly into your life and work.",
+    "long_description": "Wordware is an IDE for building AI agents using natural language.\r\n\r\nIt looks and feels like Notion, but lets you design, test, and deploy AI systems in real time - without writing code.\r\n\r\nOur mission is to bring structure and joy to human–AI collaboration.\r\n\r\nWe’re building a generational company that empowers the next billion knowledge workers to create with AI - not by writing code, but by expressing intent.\r\n\r\nWe’re backed by Spark Capital, Felicis, and Y Combinator ($30M seed round - the largest in YC history).\r\n\r\nWe work hard, move fast, and don’t take ourselves too seriously. It’s intense, but it’s also fun - at Wordware, you’ll do the best work of your life alongside people you genuinely like.",
     "one_liner": "bringing structure and joy to human-AI collaboration",
     "team_size": 15,
     "industry": "B2B",
@@ -45433,9 +45548,9 @@
     "launched_at": 1715713232,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46501,7 +46616,7 @@
     "name": "Soff",
     "slug": "soff",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/44eec6deeefecdab6c1e361246a977ea5179f031.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/945cd6a63e34b65225340445187c65318ee253c8.png",
     "website": "https://soff.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soff is a supply chain OS for manufacturing companies. We unify supply chain data and automate core workflows, such as data entry, requesting quotes, comparing quotes, and issuing purchase orders. Our customers save dozens of hours a week spent on repetitive manual tasks.",
@@ -49259,6 +49374,50 @@
     "api": "https://yc-oss.github.io/api/batches/w25/asteroid.json"
   },
   {
+    "id": 30262,
+    "name": "Pickle",
+    "slug": "pickle-2",
+    "former_names": [
+      "Pickle Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67e4c31625bf9f9be89bda1272989243e742e3d0.png",
+    "website": "https://www.pickle.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pickle is an AI clone that lip-syncs to your voice in real time. It replaces your camera feed and makes you look great—even if you’re calling in from bed, the couch, or while walking around.",
+    "one_liner": "AI clone for Zoom calls",
+    "team_size": 5,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1738265099,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Video",
+      "Remote Work"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Social"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pickle-2",
+    "api": "https://yc-oss.github.io/api/batches/w25/pickle-2.json"
+  },
+  {
     "id": 30269,
     "name": "Strike",
     "slug": "strike",
@@ -50051,6 +50210,41 @@
     "api": "https://yc-oss.github.io/api/batches/w25/mercura.json"
   },
   {
+    "id": 30348,
+    "name": "SAMMY Labs",
+    "slug": "sammy-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bdb570c43e3c58161a904790b035ac6647153c9.png",
+    "website": "https://www.sammylabs.com",
+    "all_locations": "",
+    "long_description": "SAMMY is an Al that explores your app like a real user, mapping every possible click to generate content, onboard users and spot issues. It updates automatically with every product change, keeping everything running smoothly. It may feel like magic, but it’s just powerful technology at work.",
+    "one_liner": "Live, AI-powered graph of every possible click path in your software",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1739574667,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W25",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sammy-labs",
+    "api": "https://yc-oss.github.io/api/batches/w25/sammy-labs.json"
+  },
+  {
     "id": 30349,
     "name": "Tally",
     "slug": "tally-2",
@@ -50174,7 +50368,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5384c6c535d7bcbaf2c4cee7af212ec06f70e79d.png",
     "website": "https://throxy.com/",
     "all_locations": "",
-    "long_description": "Throxy is building AI Sales Agents that book meetings for companies selling into traditional industries like manufacturing, logistics, education, and finance.\r\n\r\nOutbound is broken—generic automation gets ignored, and legacy sectors are hard to crack. Throxy fixes this by running bespoke, fully-managed outbound systems for sales teams. We combine AI Agents with human experts to deliver hyper-personalised campaigns that consistently generate six-figure qualified pipelines.\r\n\r\nToday, Throxy powers outbound for 30+ B2B companies, from industrial manufacturers to fintech providers, replacing the need for internal SDR teams or heaps of tools, with a solution that outperforms in both speed and quality.\r\n\r\nOur founding team has built AI at JP Morgan, scaled businesses from age 14, and led enterprise sales from Seed to Series D. We’re not just automating outbound, we’re redefining what sales execution looks like in traditional industries.\r\n\r\nThroxy is the AI SDR purpose-built for the sectors software forgot.",
+    "long_description": "Throxy is building AI Sales Agents that book meetings for companies selling into traditional industries like manufacturing, logistics, education, and finance.\r\n\r\nOutbound is broken—generic automation gets ignored, and legacy sectors are hard to crack. Throxy fixes this by running bespoke, fully-managed outbound systems for sales teams. We combine AI Agents with human experts to deliver hyper-personalised campaigns that consistently generate six-figure qualified pipelines.\r\n\r\nToday, throxy powers outbound for B2B companies, from industrial manufacturers to fintech providers, replacing the need for internal SDR teams or heaps of tools, with a solution that outperforms in both speed and quality.\r\n\r\nOur founding team has built AI at JP Morgan, scaled businesses from age 14, and led enterprise sales from Seed to Series D. We’re not just automating outbound, we’re redefining what sales execution looks like in traditional industries.\r\n\r\nThroxy is the AI SDR purpose-built for the sectors software forgot.",
     "one_liner": "Book meetings without the busywork. Bespoke fully managed outbound.",
     "team_size": 4,
     "industry": "B2B",

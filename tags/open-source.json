@@ -1044,7 +1044,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "S19",
     "status": "Active",
@@ -6181,51 +6181,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/random-labs.json"
   },
   {
-    "id": 29693,
-    "name": "Gauge",
-    "slug": "gauge",
-    "former_names": [
-      "Bridge"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/532e7e0b454824eb6bc4223cf0ca6c92b2566781.png",
-    "website": "https://gauge.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gauge is solving the monolith/microservices dilemma. We’re helping enterprises break large codebases into small pieces.\r\n\r\n\r\nWe first met as roommates in college, and in the decade since we've both worked exclusively at startups, including multiple founding engineering roles. We ran into this problem time and time again as our startups began to scale.\r\n\r\n\r\nWe're now working with a wide range of companies, including a number of multi-billion $ enterprises. Our open source tooling also has ~1k stars on GitHub, over 400k downloads, and is in use by Nvidia.\r\n\r\n\r\nIn the short term, Gauge is building tools to modularize the monolith. Long term, Gauge is building a way to deploy a single codebase as a set of independent services, giving you the scalability of microservices alongside the simplicity of monolithic development.\r\n",
-    "one_liner": "Solving the monolith/microservices dilemma.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1717523721,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Open Source",
-      "Web Development"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gauge",
-    "api": "https://yc-oss.github.io/api/batches/s24/gauge.json"
-  },
-  {
     "id": 29708,
     "name": "Zenbase AI",
     "slug": "zenbase-ai",
@@ -6953,19 +6908,19 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e607d570b51d09a9439774963188f42e98627927.png",
     "website": "https://airweave.ai",
-    "all_locations": "",
-    "long_description": "Airweave transforms any app data into searchable knowledge for AI agents. It's open source, supports MCP, handles RBAC, and seamlessly connects any app, database, URL, or API.",
-    "one_liner": "Turn Apps Into Accessible Knowledge For Agents",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Airweave is an open-source tool that lets agents search any application or database. It supports MCP, RBAC on data, and seamlessly connects any app, database, URL, or API.",
+    "one_liner": "Open-Source Tool That Lets Agents Search Any App or Database",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1744594621,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Open Source",
       "Search",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6978,7 +6933,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
