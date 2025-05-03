@@ -2913,7 +2913,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W20",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Productivity"
@@ -4393,7 +4393,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -7325,95 +7325,6 @@
     "api": "https://yc-oss.github.io/api/batches/w22/query-vary.json"
   },
   {
-    "id": 26296,
-    "name": "Reality Defender",
-    "slug": "reality-defender",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5de4d57756c747e087b70e720cbfdb09672b0cc7.png",
-    "website": "http://www.realitydefender.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Reality Defender’s deepfake detection platform empowers enterprises to flag fraudulent users and content (audio calls, videos, images, documents). Our API and web app provides real-time risk scoring, reporting, alerts, and forensics review.  \r\n\r\nOur team spent 20+ years at Google, Goldman Sachs, and the Intelligence Community at the intersection of data science and cybersecurity.\r\n \r\nCustomer Use Cases:\r\n\r\n• Voice Voice Fraud (Ie. Realtime detection of AI generated voices for banks and call centers)\r\n\r\n• Onboarding KYC (Ie. Anti-fraud to identify fraudulent users and materials)\r\n\r\n• Content Moderation (Ie. Social media, e-commerce, marketplaces, dating, streaming)\r\n\r\n• Disinformation Detection (Ie. News, defense, government)\r\n \r\nWebsite: www.realitydefender.com\r\n\r\nContact: ask@realitydefender.com\r\n\r\nYC AMA: https://news.ycombinator.com/item?id=30766050",
-    "one_liner": "Enterprise Deepfake Detection",
-    "team_size": 35,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1647888631,
-    "tags": [
-      "SaaS",
-      "Deepfake Detection",
-      "Security",
-      "Privacy",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "W22",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reality-defender",
-    "api": "https://yc-oss.github.io/api/batches/w22/reality-defender.json"
-  },
-  {
-    "id": 26505,
-    "name": "Layerup",
-    "slug": "layerup",
-    "former_names": [
-      "DAOfront",
-      "Coinbooks"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8642dde96f05262417ace24dc6a69378230796d.png",
-    "website": "https://www.uselayerup.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Layerup's mission is to boost innovation in industries that lack it, starting by bringing AI securely to enterprises.",
-    "one_liner": "AI agents for Financial Institutions",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1645952902,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/layerup",
-    "api": "https://yc-oss.github.io/api/batches/s22/layerup.json"
-  },
-  {
     "id": 26666,
     "name": "Airtrain AI",
     "slug": "airtrain-ai",
@@ -7763,6 +7674,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bunting-labs",
     "api": "https://yc-oss.github.io/api/batches/s22/bunting-labs.json"
+  },
+  {
+    "id": 26717,
+    "name": "Blitz",
+    "slug": "blitz",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9319d5ef3419cc17f12a1fb2910035be736adcb4.png",
+    "website": "https://www.blitznocode.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Blitz is a no-code platform to build internal applications and automate manual tasks. Quickly build a database, integrate your logic, and scale your operations. \r\n\r\nAlternative to Google Sheet and Airtable, Blitz is not limited by a number of lines of records or by an API rate. \r\n\r\nCreate your data model and set up data validation rules. Use our interface builder to create dynamic forms, and quickly onboard customer and partners. Leverage our granular permissions to share data to external users (publicly or privately). Add advanced business logic to your forms and portals, without writing any line of code. The experience is similar to creating spreadsheets, but without their limitations in terms of scalability and security. \r\n\r\nYou can use Blitz to build an onboarding flow, an order management system or some validation workflows for compliance purposes. \r\n\r\nStop using developer resources or rigid SaaS software. Start building your own tools, adapted to your needs, with Blitz. ",
+    "one_liner": "Lovable for non-techs: Build internal and customer apps with zero code",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1656995564,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "No-code",
+      "AI",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S22",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blitz",
+    "api": "https://yc-oss.github.io/api/batches/s22/blitz.json"
   },
   {
     "id": 26718,
@@ -11971,6 +11927,51 @@
     "api": "https://yc-oss.github.io/api/batches/s23/remy.json"
   },
   {
+    "id": 28811,
+    "name": "Casca",
+    "slug": "casca",
+    "former_names": [
+      "CORE Ai",
+      "Cascading AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b568f1b934922f1671754263d6a8cd377e2b1e9c.png",
+    "website": "https://www.cascading.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Casca is building AGI for banking.\r\n\r\nWe are replacing 30+ year-old legacy technology with AI-native systems of record that automate 90% of the manual work humans used to have to do. \r\n\r\nOur first product is an AI-native Loan Origination System - with a built-in AI Agent, called Sarah. Sarah communicates with small business loan applicants via email or sms, guides them through the application process and prepares the loan file for a human underwriter.\r\n\r\nWhy? Small businesses are the heart of the American economy and a lot of banks shy away from providing funding because of the manual effort in pursuing those deals. With us, that changes and unlocks affordable, quick bank funding for the 30M+ small businesses in the US as opposed to the high interest rates from online lenders.",
+    "one_liner": "AI Agents for Banking",
+    "team_size": 25,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1691481257,
+    "tags": [
+      "Conversational Banking",
+      "Fintech",
+      "Machine Learning",
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/casca",
+    "api": "https://yc-oss.github.io/api/batches/s23/casca.json"
+  },
+  {
     "id": 28815,
     "name": "Atla",
     "slug": "atla",
@@ -12227,6 +12228,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spine-ai",
     "api": "https://yc-oss.github.io/api/batches/s23/spine-ai.json"
+  },
+  {
+    "id": 28841,
+    "name": "Ponder",
+    "slug": "ponder",
+    "former_names": [
+      "Neuralyze"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/981b0bb823fa43aa8363d79f70b0d918a6115294.png",
+    "website": "https://useponder.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Ponder lets users talk with your application just like they would with a human\r\n\r\nIn one line of code, add ultra-realistic voice agents that can interact with your UI, databases, and third party apis to assist users in getting things done",
+    "one_liner": "Voice-Powered User Assistance for Web Applications",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1688534176,
+    "tags": [
+      "B2B",
+      "Workflow Automation",
+      "Productivity",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S23",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ponder",
+    "api": "https://yc-oss.github.io/api/batches/s23/ponder.json"
   },
   {
     "id": 28849,
@@ -18330,6 +18375,51 @@
     "api": "https://yc-oss.github.io/api/batches/s24/sorcerer.json"
   },
   {
+    "id": 29654,
+    "name": "Moonglow",
+    "slug": "moonglow",
+    "former_names": [
+      "Kopfkino"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7782bd4ff8b915f629867117b0ee24a39f15ab9.png",
+    "website": "https://moonglow.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "https://moonglow.ai",
+    "one_liner": "",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1721868567,
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "Robotic Process Automation",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moonglow",
+    "api": "https://yc-oss.github.io/api/batches/s24/moonglow.json"
+  },
+  {
     "id": 29663,
     "name": "NetworkOcean",
     "slug": "networkocean",
@@ -18426,7 +18516,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d1a38295742d380ffb6bd899dae457066824da5.png",
     "website": "https://willowvoice.com/",
     "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Willow is an AI-powered dictation software that can be used anywhere on your computer. It uses AI to auto-format, correct mistakes, and cut filler words, making your writing faster and cleaner.\r\n\r\nWe’re Mac-only for now. You can try it free at WillowVoice.com",
+    "long_description": "Willow is an AI dictation app that lets you type with your voice. Designed for those who rely on email, messaging, and AI prompting workflows to move faster and work smarter.\r\n\r\nWe’re Mac-only for now. You can try it free at WillowVoice.com",
     "one_liner": "Write 3x faster with voice dictation, powered by AI",
     "team_size": 2,
     "industry": "Consumer",
@@ -18899,53 +18989,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lighthouz-ai",
     "api": "https://yc-oss.github.io/api/batches/s24/lighthouz-ai.json"
-  },
-  {
-    "id": 29708,
-    "name": "Zenbase AI",
-    "slug": "zenbase-ai",
-    "former_names": [
-      "langjit"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd54b637cf4e5d1842d0d06352abde6b7d388b51.png",
-    "website": "https://zenbase.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Zenbase helps developers focus on programming by automating prompt engineering and model selection. We’re core contributors of Stanford NLP’s DSPy, the #1 LLM optimization framework used by Meta, Microsoft, Google, among many others. But it's hard to use outside of academia. We're building the production version.",
-    "one_liner": "Continuous prompt optimization for LLMs from DSPy core contributors",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1720735986,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "Open Source",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/zenbase-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/zenbase-ai.json"
   },
   {
     "id": 29710,
@@ -22346,48 +22389,6 @@
     "api": "https://yc-oss.github.io/api/batches/f24/canvas.json"
   },
   {
-    "id": 30160,
-    "name": "Quantstruct",
-    "slug": "quantstruct",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/64b5db172bf1cde01b3812d4221d26658881fead.png",
-    "website": "https://quantstruct.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.\r\n\r\nQuantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses multiple AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.\r\n\r\nTraditional generative AI tools risk hallucinating critical API & SDK fields, even with RAG based approaches. Purely agent-based approaches risk providing unpredictable output that can diverge from desired documentation processes. Finally, no company’s review and publishing workflow is the same. Quantstruct is the easiest way to onboard and customize AI agents to continuously improve your documentation based on your customer needs and product evolution. https://quantstruct.com",
-    "one_liner": "AI documentation engineer – test & autoimprove stale product docs",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1736668232,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "API",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/quantstruct",
-    "api": "https://yc-oss.github.io/api/batches/w25/quantstruct.json"
-  },
-  {
     "id": 30165,
     "name": "Edexia",
     "slug": "edexia",
@@ -24454,90 +24455,6 @@
     "api": "https://yc-oss.github.io/api/batches/x25/frekil.json"
   },
   {
-    "id": 30407,
-    "name": "Authed",
-    "slug": "authed",
-    "former_names": [
-      "authed",
-      "Authed",
-      "authed"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f019ea3e5b31661f2216e607cfc9e4ec375b482a.png",
-    "website": "https://getauthed.dev/",
-    "all_locations": "",
-    "long_description": "Authed is a managed platform for hosting production-ready MCP servers. We provide authentication, multi-tenancy, monitoring, and infrastructure under your domain. Companies use Authed to deploy MCP servers without managing their own stack.",
-    "one_liner": "Production-ready MCP servers for companies",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1745255607,
-    "tags": [
-      "Developer Tools",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "X25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/authed",
-    "api": "https://yc-oss.github.io/api/batches/x25/authed.json"
-  },
-  {
-    "id": 30429,
-    "name": "Claim Health",
-    "slug": "claim-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c286f38db8cc7695ccbc163189808ca1c0bcb7d3.png",
-    "website": "https://www.claimhealth.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Post-acute agencies lose up to 15% of revenue each year to denials, non-compliant documentation, and delayed payments. Most treat it as a cost of doing business. Instead of waiting weeks for rejections and appealing claims one by one, Claim Health flags issues in real-time and automates claim corrections and appeals—before revenue is lost.\r\n\r\nWhile working with healthcare providers, we found most denials stem from small, preventable documentation errors. As payor requirements grow increasingly complex and fragmented, billing has become a manual, error-prone process. Claim Health closes the loop between documentation and billing outcomes—using AI to detect issues, automate workflows, and recover thousands in missed revenue each week.\r\n\r\nKevin and JJ bring nearly a decade of experience building and scaling healthtech companies. At Dandy, JJ was a founding engineer and Kevin was the first GTM hire; together they helped grow the business from 0 to $150M+ ARR. At Perry (now Jolly), JJ led engineering and Kevin was Head of Sales, driving the company through a $16.5M Series A led by Tesla’s former CFO.\r\n\r\nIn under three weeks since incorporation, we've launched with three agencies and are in early discussions with large U.S. health systems.\r\n\r\nPost-acute care is a $400B market with over $20B in annual revenue leakage due to broken billing workflows. Claim Health is fixing that—starting with denials, and expanding into the full revenue cycle stack.",
-    "one_liner": "AI copilot for healthcare revenue teams",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1745902014,
-    "tags": [
-      "Health Tech",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "X25",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/claim-health",
-    "api": "https://yc-oss.github.io/api/batches/x25/claim-health.json"
-  },
-  {
     "id": 30430,
     "name": "Almond",
     "slug": "almond-2",
@@ -24827,45 +24744,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/human-behavior",
     "api": "https://yc-oss.github.io/api/batches/x25/human-behavior.json"
-  },
-  {
-    "id": 30506,
-    "name": "Klavis AI",
-    "slug": "klavis-ai-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ca0035244a123067c03e5df2d892bbd9cb7d00.png",
-    "website": "https://www.klavis.ai/",
-    "all_locations": "",
-    "long_description": "Build an open source Model Context Protocol (MCP) platform & SDK that simplifies using, creating, and scaling MCPs.",
-    "one_liner": "Open source MCP clients and Servers",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1744314522,
-    "tags": [
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "X25",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/klavis-ai-2",
-    "api": "https://yc-oss.github.io/api/batches/x25/klavis-ai-2.json"
   },
   {
     "id": 30514,

@@ -12570,7 +12570,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W20",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Productivity"
@@ -18055,7 +18055,7 @@
     "former_names": [
       "Aspen Cloud"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/563a40badcae100972f078640d78f3a8d0b39c2c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bad31a4bcc3d6ffc3f0bab1c3e693a7a1134c50c.png",
     "website": "https://www.triplit.dev",
     "all_locations": "Remote",
     "long_description": "Triplit is complete full-stack solution to data persistence, state management, and realtime synchronization for web applications that want to go fast",
@@ -32146,11 +32146,11 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1647888631,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Deepfake Detection",
       "Security",
-      "Privacy",
-      "AI"
+      "Privacy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32719,7 +32719,7 @@
     "website": "https://sigmamind.ai?utm_source=yc&utm_medium=web",
     "all_locations": "Bengaluru, KA, India",
     "long_description": "SigmaMind AI is an AI platform to automate customer support for BPOs and Call-centers. We help brands and call-centers automate their entire customer support lifecycle - replying, tagging, and closing tickets faster than ever before.",
-    "one_liner": "AI to automate customer support for e-commerce brands",
+    "one_liner": "AI agent platform for Call Centers",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -32983,9 +32983,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9319d5ef3419cc17f12a1fb2910035be736adcb4.png",
     "website": "https://www.blitznocode.com/",
-    "all_locations": "Paris, Île-de-France, France",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Blitz is a no-code platform to build internal applications and automate manual tasks. Quickly build a database, integrate your logic, and scale your operations. \r\n\r\nAlternative to Google Sheet and Airtable, Blitz is not limited by a number of lines of records or by an API rate. \r\n\r\nCreate your data model and set up data validation rules. Use our interface builder to create dynamic forms, and quickly onboard customer and partners. Leverage our granular permissions to share data to external users (publicly or privately). Add advanced business logic to your forms and portals, without writing any line of code. The experience is similar to creating spreadsheets, but without their limitations in terms of scalability and security. \r\n\r\nYou can use Blitz to build an onboarding flow, an order management system or some validation workflows for compliance purposes. \r\n\r\nStop using developer resources or rigid SaaS software. Start building your own tools, adapted to your needs, with Blitz. ",
-    "one_liner": "Build apps, automate tasks, and scale operations with zero code.",
+    "one_liner": "Lovable for non-techs: Build internal and customer apps with zero code",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -32993,7 +32993,9 @@
     "tags": [
       "SaaS",
       "B2B",
-      "No-code"
+      "No-code",
+      "AI",
+      "Databases"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33006,10 +33008,10 @@
       "Operations"
     ],
     "regions": [
-      "France",
-      "Europe",
+      "United States of America",
+      "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -34815,49 +34817,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hero",
     "api": "https://yc-oss.github.io/api/batches/s22/hero.json"
-  },
-  {
-    "id": 27151,
-    "name": "Solum Health",
-    "slug": "solum-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b6c81c094d264ef85d463d3f87f8c0a2cf70fe0.png",
-    "website": "https://www.getsolum.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Turning therapy admin chaos into automated calm—VoiceAI for intakes, seamless prior auths, referral and scheduling management.\r\n\r\nBuilt by practice owners, for practice owners (www.getsolum.com).\r\n",
-    "one_liner": "AI Automation for Therapy Practices",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1657200498,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S22",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/solum-health",
-    "api": "https://yc-oss.github.io/api/batches/s22/solum-health.json"
   },
   {
     "id": 27153,
@@ -37363,50 +37322,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/haven-2",
     "api": "https://yc-oss.github.io/api/batches/w23/haven-2.json"
-  },
-  {
-    "id": 27874,
-    "name": "Relace",
-    "slug": "relace",
-    "former_names": [
-      "Squack"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae6bb6ef21e1f714caced7765c4401aa4e4ee438.png",
-    "website": "https://relace.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Relace makes it easy for startups to fine tune and host LLMs for domain-specific tasks. We beat SOTA models on performance and speed by providing an opinionated, all-in-one fine tuning and inference stack.",
-    "one_liner": "End-to-end fine tuning and inference for open source LLMs",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1679954526,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "W23",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/relace",
-    "api": "https://yc-oss.github.io/api/batches/w23/relace.json"
   },
   {
     "id": 27876,
@@ -43705,53 +43620,6 @@
     "api": "https://yc-oss.github.io/api/batches/s24/lighthouz-ai.json"
   },
   {
-    "id": 29708,
-    "name": "Zenbase AI",
-    "slug": "zenbase-ai",
-    "former_names": [
-      "langjit"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd54b637cf4e5d1842d0d06352abde6b7d388b51.png",
-    "website": "https://zenbase.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Zenbase helps developers focus on programming by automating prompt engineering and model selection. We’re core contributors of Stanford NLP’s DSPy, the #1 LLM optimization framework used by Meta, Microsoft, Google, among many others. But it's hard to use outside of academia. We're building the production version.",
-    "one_liner": "Continuous prompt optimization for LLMs from DSPy core contributors",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1720735986,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "Open Source",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "S24",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/zenbase-ai",
-    "api": "https://yc-oss.github.io/api/batches/s24/zenbase-ai.json"
-  },
-  {
     "id": 29717,
     "name": "Conveo",
     "slug": "conveo",
@@ -47533,50 +47401,6 @@
     "api": "https://yc-oss.github.io/api/batches/w25/vantel.json"
   },
   {
-    "id": 30417,
-    "name": "GroundControl",
-    "slug": "groundcontrol",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa0a54f0fef4c64097aee43f99b1b40bf7bda56a.png",
-    "website": "https://rungroundcontrol.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "GroundControl builds mission-critical software for manufacturers in highly-regulated industries (aerospace, defense, medical)\r\n\r\nOur core product automates lengthy, complex, and regulated quality documentation in aerospace manufacturing.\r\n\r\nAs an example, the Boeing 777 is made up of over 3 million parts sourced from manufacturers around the world. These manufacturers must complete quality documentation for every part on this aircraft (machined parts, printed circuit boards, wire harnesses, assemblies, and more).\r\n\r\nGroundControl helps manufacturers complete this required documentation accurately, in minutes instead of days.",
-    "one_liner": "Vertical AI for highly-regulated manufacturing",
-    "team_size": 4,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1744173288,
-    "tags": [
-      "SaaS",
-      "Manufacturing",
-      "Aerospace",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "X25",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/groundcontrol",
-    "api": "https://yc-oss.github.io/api/batches/x25/groundcontrol.json"
-  },
-  {
     "id": 30421,
     "name": "SynthioLabs",
     "slug": "synthiolabs",
@@ -47624,7 +47448,7 @@
     "website": "https://getauctor.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Auctor is used by leading solution engineers, system integrators, and professional services teams. Our AI agents capture requirements, generate aligned artifacts, and streamline discovery to deployment—turning weeks into hours.",
-    "one_liner": "AI for best-in-class  pre-sales and delivery teams.",
+    "one_liner": "AI for best-in-class pre-sales and delivery teams.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",

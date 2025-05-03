@@ -8505,7 +8505,7 @@
     "former_names": [
       "Aspen Cloud"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/563a40badcae100972f078640d78f3a8d0b39c2c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bad31a4bcc3d6ffc3f0bab1c3e693a7a1134c50c.png",
     "website": "https://www.triplit.dev",
     "all_locations": "Remote",
     "long_description": "Triplit is complete full-stack solution to data persistence, state management, and realtime synchronization for web applications that want to go fast",
@@ -8884,7 +8884,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "W21",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -14099,22 +14099,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae6bb6ef21e1f714caced7765c4401aa4e4ee438.png",
     "website": "https://relace.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Relace makes it easy for startups to fine tune and host LLMs for domain-specific tasks. We beat SOTA models on performance and speed by providing an opinionated, all-in-one fine tuning and inference stack.",
-    "one_liner": "End-to-end fine tuning and inference for open source LLMs",
-    "team_size": 2,
+    "all_locations": "",
+    "long_description": "Relace makes it easy for startups to productionize projects that involve coding agents, with specialized LLMs for retrieval and code merging. Our SOTA apply model merges code at 2500+ tok/s, and our code-specific reranker & embedding models can process million-line codebases in <1s.",
+    "one_liner": "LLMs for Code Generation",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1679954526,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "W23",
     "status": "Active",
@@ -14123,8 +14118,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -19245,18 +19239,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7782bd4ff8b915f629867117b0ee24a39f15ab9.png",
     "website": "https://moonglow.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moonglow is a fully-managed platform for building browser agents. Users record their workflow once, and then our platform builds, deploys and scales browser agents that automate their repetitive workflows.\r\n\r\nPreviously, Leila was a software engineer at Jane Street. She led the build-out of its equities clearinghouse connectivity infrastructure and was the technical lead of its front-office SRE team. Trevor was part of Hazy Research Lab at Stanford, and published machine learning research at NeurIPS, ICLR and ACL.\r\n\r\nhttps://moonglow.ai",
-    "one_liner": "No-code platform for building browser agents",
+    "long_description": "https://moonglow.ai",
+    "one_liner": "",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721868567,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
       "Robotic Process Automation",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19585,23 +19579,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd54b637cf4e5d1842d0d06352abde6b7d388b51.png",
     "website": "https://zenbase.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "Remote",
     "long_description": "Zenbase helps developers focus on programming by automating prompt engineering and model selection. We’re core contributors of Stanford NLP’s DSPy, the #1 LLM optimization framework used by Meta, Microsoft, Google, among many others. But it's hard to use outside of academia. We're building the production version.",
     "one_liner": "Continuous prompt optimization for LLMs from DSPy core contributors",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1720735986,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "Open Source",
-      "Infrastructure",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "S24",
     "status": "Active",
@@ -19610,8 +19598,6 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -20849,8 +20835,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e614d24f652dc1e194f172153c3b7036c9c30b2f.png",
     "website": "https://www.cekura.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Are you building AI voice agents like receptionists, customer support, or sales reps? Do you find yourself manually testing your bot by calling it? We faced similar challenges, especially being in a regulated industry. That's why we developed Cekura - a solution that automates the testing process for your voice agents. With Cekura, you can prove your reliability before going live, test every update seamlessly, and scale your operations efficiently.\r\n\r\nReplicating a real world conversation is hard. Our AI simulates these scenarios using workflows, personas and past conversations.\r\n\r\nWe are already talking to AI for ordering food, getting appointments and even interviews. The market is aptly getting flooded with AI voice agents built by thousands of companies. We make them dependable.",
-    "one_liner": "Testing & Observability for AI voice agents",
+    "long_description": "Are you building AI voice agents like receptionists, customer support, or sales reps? Do you find yourself manually testing your AI voice agents by calling it? We faced similar challenges, especially being in a regulated industry. That's why we developed Cekura - a solution that automates the testing process for your AI Voice agents. With Cekura, you can prove your reliability before going live, test every update seamlessly, and scale your operations efficiently.\r\n\r\nReplicating a real-world conversation is hard. Our AI simulates these scenarios using workflows, personas and past conversations.\r\n\r\nWe are already talking to AI for ordering food, getting appointments and even interviews. The market is aptly getting flooded with AI voice agents built by thousands of companies. We make them dependable.",
+    "one_liner": "Testing & Observability for Voice AI agents",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -22520,45 +22506,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/chonkie",
     "api": "https://yc-oss.github.io/api/batches/x25/chonkie.json"
-  },
-  {
-    "id": 30454,
-    "name": "Operative.sh",
-    "slug": "operative-sh",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eb049b24a3b434a45574fe510043fc81b736b2b.png",
-    "website": "https://operative.sh/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "10x your vibe coding with autonomous browser agents that give feedback to cursor agents on whether the code actually works.",
-    "one_liner": "Browser agent tools to vibe-test web apps from within coding agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1745867856,
-    "tags": [
-      "Developer Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "X25",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/operative-sh",
-    "api": "https://yc-oss.github.io/api/batches/x25/operative-sh.json"
   },
   {
     "id": 30492,

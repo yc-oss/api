@@ -4079,48 +4079,6 @@
     "api": "https://yc-oss.github.io/api/batches/w16/rappi.json"
   },
   {
-    "id": 1109,
-    "name": "BillionToOne",
-    "slug": "billiontoone",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7374f48e30f2dabadb3413903af69fcda589d67f.png",
-    "website": "https://www.billiontoone.com",
-    "all_locations": "Menlo Park, CA, USA",
-    "long_description": "BillionToOne has developed a DNA molecular counter that increases the cell-free DNA diagnostics resolution by over 1,000 fold, which unlocks transformative improvements in prenatal screening and liquid biopsy for cancers. Unity Screen, BillionToOne's commercially available non-invasive prenatal test (NIPT), is the only NIPT that can assess fetal risk for both recessive conditions and aneuploidies from maternal blood. UNITY Screen continues to grow exponentially and is on its path to becoming the next standard-of-care, with an increasing number of publications showing its accuracy and advantages over other screening methods. We have also recently used our molecular counting technology to develop liquid biopsy tests, which have the potential to completely transform oncology care.",
-    "one_liner": "The genetic testing platform detecting and measuring disease.",
-    "team_size": 300,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Diagnostics",
-    "launched_at": 1453416611,
-    "tags": [
-      "Diagnostics",
-      "Genomics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "S17",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Diagnostics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/billiontoone",
-    "api": "https://yc-oss.github.io/api/batches/s17/billiontoone.json"
-  },
-  {
     "id": 1184,
     "name": "Vetcove",
     "slug": "vetcove",
@@ -30865,11 +30823,11 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1647888631,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Deepfake Detection",
       "Security",
-      "Privacy",
-      "AI"
+      "Privacy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35340,6 +35298,44 @@
     "api": "https://yc-oss.github.io/api/batches/w23/extend.json"
   },
   {
+    "id": 27874,
+    "name": "Relace",
+    "slug": "relace",
+    "former_names": [
+      "Squack"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae6bb6ef21e1f714caced7765c4401aa4e4ee438.png",
+    "website": "https://relace.ai",
+    "all_locations": "",
+    "long_description": "Relace makes it easy for startups to productionize projects that involve coding agents, with specialized LLMs for retrieval and code merging. Our SOTA apply model merges code at 2500+ tok/s, and our code-specific reranker & embedding models can process million-line codebases in <1s.",
+    "one_liner": "LLMs for Code Generation",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1679954526,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W23",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/relace",
+    "api": "https://yc-oss.github.io/api/batches/w23/relace.json"
+  },
+  {
     "id": 27896,
     "name": "Truewind",
     "slug": "truewind",
@@ -38132,7 +38128,7 @@
     "all_locations": "",
     "long_description": "Readily helps healthcare organizations find and close compliance gaps in hours not weeks. We do that by connecting over 100,000 pages of policies, and regulations, enabling staff to conduct research, analysis, and audits faster. This saves them hours of work, boosts readiness, and helps them avoid costly violations.",
     "one_liner": "Compliance Tools for Healthcare Organizations",
-    "team_size": null,
+    "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1684821530,
@@ -38171,16 +38167,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Casca is building AGI for banking.\r\n\r\nWe are replacing 30+ year-old legacy technology with AI-native systems of record that automate 90% of the manual work humans used to have to do. \r\n\r\nOur first product is an AI-native Loan Origination System - with a built-in AI Agent, called Sarah. Sarah communicates with small business loan applicants via email or sms, guides them through the application process and prepares the loan file for a human underwriter.\r\n\r\nWhy? Small businesses are the heart of the American economy and a lot of banks shy away from providing funding because of the manual effort in pursuing those deals. With us, that changes and unlocks affordable, quick bank funding for the 30M+ small businesses in the US as opposed to the high interest rates from online lenders.",
     "one_liner": "AI Agents for Banking",
-    "team_size": 6,
+    "team_size": 25,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1691481257,
     "tags": [
-      "Artificial Intelligence",
       "Conversational Banking",
       "Fintech",
       "Machine Learning",
-      "Finance"
+      "Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42371,10 +42367,55 @@
     "api": "https://yc-oss.github.io/api/batches/w24/markprompt.json"
   },
   {
+    "id": 29343,
+    "name": "Infinity",
+    "slug": "infinity",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d4375431e4067cbd0c409f02ba66c5924b3c146.png",
+    "website": "https://www.infinityapp.in/",
+    "all_locations": "Bengaluru, KA, India",
+    "long_description": "Infinity is a banking and payments platform for cross-border businesses in India. We help our customers make cross-border payments that are 70% cheaper than traditional methods and earn income on idle cash by investing in government securities.",
+    "one_liner": "Business banking for cross-border SMBs & Startups",
+    "team_size": 7,
+    "industry": "Fintech",
+    "subindustry": "Unspecified",
+    "launched_at": 1706317593,
+    "tags": [
+      "Fintech",
+      "Payments",
+      "B2B",
+      "Investing",
+      "International"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "W24",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/infinity",
+    "api": "https://yc-oss.github.io/api/batches/w24/infinity.json"
+  },
+  {
     "id": 29346,
     "name": "sync.",
     "slug": "sync-2",
-    "former_names": [],
+    "former_names": [
+      "sync labs"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c534b008e7ff085ee7e32e819767b1f82d6d2396.png",
     "website": "https://sync.so/",
     "all_locations": "San Francisco, CA, USA",
@@ -42382,7 +42423,7 @@
     "one_liner": "AI lipsync tool for video content creators",
     "team_size": 13,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B",
     "launched_at": 1709858204,
     "tags": [],
     "tags_highlighted": [],
@@ -45946,6 +45987,45 @@
     "api": "https://yc-oss.github.io/api/batches/s24/lighthouz-ai.json"
   },
   {
+    "id": 29708,
+    "name": "Zenbase AI",
+    "slug": "zenbase-ai",
+    "former_names": [
+      "langjit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd54b637cf4e5d1842d0d06352abde6b7d388b51.png",
+    "website": "https://zenbase.ai",
+    "all_locations": "Remote",
+    "long_description": "Zenbase helps developers focus on programming by automating prompt engineering and model selection. We’re core contributors of Stanford NLP’s DSPy, the #1 LLM optimization framework used by Meta, Microsoft, Google, among many others. But it's hard to use outside of academia. We're building the production version.",
+    "one_liner": "Continuous prompt optimization for LLMs from DSPy core contributors",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1720735986,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "S24",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/zenbase-ai",
+    "api": "https://yc-oss.github.io/api/batches/s24/zenbase-ai.json"
+  },
+  {
     "id": 29710,
     "name": "TaxGPT",
     "slug": "taxgpt",
@@ -48055,8 +48135,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e614d24f652dc1e194f172153c3b7036c9c30b2f.png",
     "website": "https://www.cekura.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Are you building AI voice agents like receptionists, customer support, or sales reps? Do you find yourself manually testing your bot by calling it? We faced similar challenges, especially being in a regulated industry. That's why we developed Cekura - a solution that automates the testing process for your voice agents. With Cekura, you can prove your reliability before going live, test every update seamlessly, and scale your operations efficiently.\r\n\r\nReplicating a real world conversation is hard. Our AI simulates these scenarios using workflows, personas and past conversations.\r\n\r\nWe are already talking to AI for ordering food, getting appointments and even interviews. The market is aptly getting flooded with AI voice agents built by thousands of companies. We make them dependable.",
-    "one_liner": "Testing & Observability for AI voice agents",
+    "long_description": "Are you building AI voice agents like receptionists, customer support, or sales reps? Do you find yourself manually testing your AI voice agents by calling it? We faced similar challenges, especially being in a regulated industry. That's why we developed Cekura - a solution that automates the testing process for your AI Voice agents. With Cekura, you can prove your reliability before going live, test every update seamlessly, and scale your operations efficiently.\r\n\r\nReplicating a real-world conversation is hard. Our AI simulates these scenarios using workflows, personas and past conversations.\r\n\r\nWe are already talking to AI for ordering food, getting appointments and even interviews. The market is aptly getting flooded with AI voice agents built by thousands of companies. We make them dependable.",
+    "one_liner": "Testing & Observability for Voice AI agents",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -50361,6 +50441,43 @@
     "api": "https://yc-oss.github.io/api/batches/w25/red-barn-robotics.json"
   },
   {
+    "id": 30417,
+    "name": "GroundControl",
+    "slug": "groundcontrol",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa0a54f0fef4c64097aee43f99b1b40bf7bda56a.png",
+    "website": "https://rungroundcontrol.com/",
+    "all_locations": "",
+    "long_description": "GroundControl builds mission-critical software for manufacturers in highly-regulated industries (aerospace, defense, medical)\r\n\r\nOur core product automates lengthy, complex, and regulated quality documentation in aerospace manufacturing.\r\n\r\nAs an example, the Boeing 777 is made up of over 3 million parts sourced from manufacturers around the world. These manufacturers must complete quality documentation for every part on this aircraft (machined parts, printed circuit boards, wire harnesses, assemblies, and more).\r\n\r\nGroundControl helps manufacturers complete this required documentation accurately, in minutes instead of days.",
+    "one_liner": "Vertical AI for highly-regulated manufacturing",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1744173288,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/groundcontrol",
+    "api": "https://yc-oss.github.io/api/batches/x25/groundcontrol.json"
+  },
+  {
     "id": 30484,
     "name": "throxy",
     "slug": "throxy",
@@ -50374,7 +50491,12 @@
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1745521572,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Sales",
+      "Automation"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
