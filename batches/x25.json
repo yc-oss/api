@@ -92,7 +92,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d1a38295742d380ffb6bd899dae457066824da5.png",
     "website": "https://willowvoice.com/",
     "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Willow is an AI dictation app that lets you type with your voice. Designed for those who rely on email, messaging, and AI prompting workflows to move faster and work smarter.\r\n\r\nWe’re Mac-only for now. You can try it free at WillowVoice.com",
+    "long_description": "Willow is an AI dictation app that lets you type with your voice. Built to 4x the productivity of anyone spending too much time on email, docs, and AI prompting workflows.\r\n\r\nWe’re Mac-only for now. You can try it free at WillowVoice.com",
     "one_liner": "Write 3x faster with voice dictation, powered by AI",
     "team_size": 2,
     "industry": "Consumer",
@@ -260,7 +260,7 @@
     "website": "https://plexe.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Plexe connects to your data sources, discovers relevant fields and builds task-specific ML models from a problem description. Under the hood, it uses a multi-agent system to research and experiment with several model architectures, evaluate, refine and then deploy the best performing model over an API endpoint. Think of it like your own ML helper helping you go from idea to deployed ML models 10x faster.",
-    "one_liner": "Open-source agent that builds AI from problem description",
+    "one_liner": "Open-source agent that builds ML models from a prompt",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -694,6 +694,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/approval-ai",
     "api": "https://yc-oss.github.io/api/batches/x25/approval-ai.json"
+  },
+  {
+    "id": 30428,
+    "name": "Capacitive",
+    "slug": "capacitive",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5f362b725240ccdfc1c0cc42ebc5700507b2ddb.png",
+    "website": "https://capacitive.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Enterprise AI without your internal data is like a computer without internet. When vital information is scattered across Slack, Notion, and Salesforce, AI tools can't deliver. And connecting dozens of those tools directly to your systems introduces significant security vulnerabilities and maintenance challenges.\r\n\r\nCapacitive offers a better way: connect us once to where your data lives, then create secure data gateways with granular cross-platform permissions, comprehensive monitoring, and robust security filtering. Supercharge tools like Cursor with product and team-level context — or use those access points via our built-in AI chat system, where your team can navigate your organization's knowledge and perform actions across platforms in one place.",
+    "one_liner": "The enterprise data gateway company.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1746399469,
+    "tags": [
+      "Developer Tools",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "X25",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/capacitive",
+    "api": "https://yc-oss.github.io/api/batches/x25/capacitive.json"
   },
   {
     "id": 30429,
@@ -1395,13 +1435,13 @@
   },
   {
     "id": 30482,
-    "name": "Zero Health",
-    "slug": "zero-health",
+    "name": "Lucis (ex-Zero Health)",
+    "slug": "lucis-ex-zero-health",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/07e14251aecb79eb8183d6c67466680703e1f59a.png",
-    "website": "https://www.joinzero.co/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7847e0587da5cca7ab01c5af00a54e10b56b86ba.png",
+    "website": "https://www.lucis.life",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Zero Health partner with labs across Europe and uses its AI doctor to deliver tailored health recommendations.  Zero already saved 10% of its customers life by detecting early conditions. ",
+    "long_description": "Lucis partner with labs across Europe and uses its AI doctor to deliver tailored health recommendations.  Zero already saved 10% of its customers life by detecting early conditions. ",
     "one_liner": "Regular blood work & personalized insights to extand your healthspan.",
     "team_size": 3,
     "industry": "Healthcare",
@@ -1433,8 +1473,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zero-health",
-    "api": "https://yc-oss.github.io/api/batches/x25/zero-health.json"
+    "url": "https://www.ycombinator.com/companies/lucis-ex-zero-health",
+    "api": "https://yc-oss.github.io/api/batches/x25/lucis-ex-zero-health.json"
   },
   {
     "id": 30484,
@@ -2230,7 +2270,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/aegis",
     "api": "https://yc-oss.github.io/api/batches/x25/aegis.json"
   },
