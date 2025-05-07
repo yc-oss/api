@@ -3438,49 +3438,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2016/scale-ai.json"
   },
   {
-    "id": 1426,
-    "name": "Allcancode",
-    "slug": "allcancode",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b355005d27e4e3963f4de7ac76d806fe6df8fa01.png",
-    "website": "https://www.allcancode.com",
-    "all_locations": "Athens, Greece; Remote",
-    "long_description": "From idea-stage startups to established companies, we are transforming your idea into a marketable product fast and efficiently. \r\n\r\nYour product will be in the good hands of a talented team devoted to your success. You will forget all about scarce or overwhelmed developer resources.\r\n\r\nWe accelerate the product development process using our hybrid platform (no-code, low-code and pro-code) which generates high quality code for React, React Native and Next.js",
-    "one_liner": "Get your product idea to market in weeks",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1465149619,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "Web Development"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "IK12",
-    "status": "Inactive",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Greece",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/allcancode",
-    "api": "https://yc-oss.github.io/api/batches/ik12/allcancode.json"
-  },
-  {
     "id": 1433,
     "name": "Bird",
     "slug": "bird",
@@ -8655,7 +8612,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -9542,7 +9499,7 @@
     "all_locations": "São Paulo, SP, Brazil; Remote",
     "long_description": "hoop.dev prevents developers from blocking on Devops tasks. We do this by enabling any engineer do Devops work under the supervision of the Devops team. You can think of us as code review for Devops tasks.",
     "one_liner": "Code review for DevOps tasks",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1614302155,
@@ -9853,7 +9810,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -12391,7 +12348,7 @@
       "Concert"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b29418be152187b38ccc249652bf446728ba67bc.png",
-    "website": "https://chordio.com",
+    "website": "https://prdkit.ai",
     "all_locations": "Issaquah, WA, USA; Remote",
     "long_description": "Chordio is an AI design companion that reviews your designs for UX copy, best practices, and design system compliance. It also helps you ideate and compose solid product briefs in minutes, including flow charts and lo-fi wireframes. \r\n\r\nIt goes beyond generic advice and learns the nuances of your product, design system, and best practices. This means every suggestion is fine tuned to help you thoughtfully enhance your existing product. \r\n\r\nFinally, it works where you do - in Figma, Slack, and web, so it's easy to incorporate into your existing workflow. \r\n",
     "one_liner": "UX design copilot",
@@ -13438,7 +13395,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -15779,16 +15736,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Metalware develops advanced firmware security solutions for critical infrastructure, protecting industries like aerospace, defense, automotive, telecom, and healthcare from cyber threats.\r\n\r\nOur product is an automated, intelligent binary fuzzer that enables organizations to efficiently discover and remediate security weaknesses in hardware products before deployment.",
     "one_liner": "Cybersecurity for firmware",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689732876,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Cybersecurity",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16138,18 +16095,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f4bbb4f45487fb9514316eae7b6e1b1c316a4a.png",
     "website": "https://www.silimate.com",
     "all_locations": "Mountain View, CA, USA",
-    "long_description": "Silimate is the co-pilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging to functional correctness and target PPA (power/performance/area). With Silimate, chip designers write correct, PPA-optimized RTL code from the onset and tape out in less time.",
+    "long_description": "Silimate is the co-pilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging slowly to functional correctness and their targeted PPA (power/performance/area). With Silimate, chip designers write correct, PPA-converged RTL code from the onset and tape out in less time.",
     "one_liner": "The co-pilot for chip designers",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1691095117,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Enterprise Software",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16819,15 +16776,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Duckie lets customer support teams build their own AI agents in minutes! \r\n\r\nWith Duckie, support teams can translate their tasks and processes into predictable and reliable AI workflows that saves them time and money. Folks use Duckie to handle a wide range of use cases, from answers customers technical questions to processing refunds, and everything in between.",
     "one_liner": "Build AI Support Agents in Minutes",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1697309167,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
+      "Generative AI",
       "Customer Support",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17851,7 +17809,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9efd3b7815df44b6aca06023be3c607e3a345ee5.png",
     "website": "https://codeant.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CodeAnt AI is an AI Code Review Platform. It helps you review and merge code 50% faster.\r\n- Gives One-click fixes for code quality and security issues\r\n- Works with all languages, IDEs, and CI/CD tools\r\n- Supports GitHub, GitLab, Bitbucket, Azure DevOps (Cloud & Self-Hosted)\r\n- SOC 2 & HIPAA compliant",
+    "long_description": "CodeAnt AI cuts manual code review time and bugs by over 50%. \r\n- Gives One-click fixes for code quality and security issues\r\n- Works with all languages, IDEs, and CI/CD tools\r\n- Supports GitHub, GitLab, Bitbucket, Azure DevOps (Cloud & Self-Hosted)\r\n- SOC 2 & HIPAA compliant",
     "one_liner": "AI Code Review Platform",
     "team_size": 8,
     "industry": "B2B",
@@ -21866,19 +21824,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccbd10e35f28216ba78163cf07bc50fb82f1e0cf.png",
     "website": "https://sophris.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Sophris is your AI “engineer” for circuit board schematics, checking for errors—pin mismatches, connectivity gaps, or voltage conflicts—long before they derail your design. By flagging potential issues early, you can fix them ahead of production and avoid the frustrating re-spins that drive up costs and delay schedules.\r\n\r\nWhile traditional EDA tools offer basic ERC and DRC checks—like net connectivity and spacing—they don't dig deeply into component datasheets. Sophris takes it further, analyzing specs and cross-referencing design requirements from multiple sources. As a result, subtle pin misconfigurations, voltage mismatches, and datasheet-specific quirks that typical rule checks might miss are brought to light.\r\n\r\nBy identifying design flaws during the schematic phase, Sophris helps you iterate confidently and deliver more reliable products. Faster turnarounds, fewer production surprises, and a smoother path from concept to manufacturing. With Sophris, design more confidently and ship more reliably.",
     "one_liner": "The AI Engineer for Electronic Design",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740017526,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Design Tools",
-      "Electronics"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -21890,8 +21843,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

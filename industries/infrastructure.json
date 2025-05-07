@@ -5881,7 +5881,7 @@
     "website": "https://hydra.so",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Hydra is a real-time analytics database management system for Postgres. We seperate compute from storage to offer software engineers serverless analytics with autoscale, write isolation, automatic caching, and more.\r\n\r\nShipping scalable projects on time series and event data has never been easier. Hydra is available for local development, cloud, and bare metal deployment.",
-    "one_liner": "Serverless analytics on Postgres",
+    "one_liner": "Serverless Analytics on Postgres",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -7741,15 +7741,15 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1687648021,
     "tags": [
+      "Artificial Intelligence",
       "Robotic Process Automation",
       "Workflow Automation",
       "Open Source",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -8551,7 +8551,7 @@
     "website": "https://www.miruml.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Miru makes it easy for robotics teams to manage, version, and deploy robot configurations. Developers use our well-documented APIs and UI components to automate configuration updates for both engineers and operators.\r\n\r\nIn the long term, we're building software infrastructure to accelerate the automation of the physical world.",
-    "one_liner": "DevOps for robotics",
+    "one_liner": "Config Management for Robotics",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -9692,6 +9692,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/assistant-ui",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/assistant-ui.json"
+  },
+  {
+    "id": 30403,
+    "name": "CentralAxis",
+    "slug": "centralaxis",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67ae2b6778bec5eeb96532601f20fbd260ad3dd.png",
+    "website": "https://www.centralaxis.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "CentralAxis provides a single pane of glass software for data centers to increase uptime, reduce costs, and improve performance.\r\n\r\nA single utility node onboards every asset within an hour and detects hardware failures, hotspots, and other issues.\r\n\r\nIt also generates reports on important metrics like Power Usage Effectiveness (PUE), energy metering, resource utilization, and much more. ",
+    "one_liner": "Software to monitor, control, and optimize data centers.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1746569409,
+    "tags": [
+      "Enterprise Software",
+      "Cloud Computing",
+      "Monitoring"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/centralaxis",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/centralaxis.json"
   },
   {
     "id": 30407,
