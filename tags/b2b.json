@@ -20339,9 +20339,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fce95230603b3c8d8102ec0f35d5ff87968d9335.png",
     "website": "https://instant.ca",
-    "all_locations": "Victoria, BC, Canada",
-    "long_description": "Instant Labs started in 2005 by building the fastest domain search engine on the internet: https://instantdomainsearch.com. People have performed over 2.5M searches and purchased 250K domains with our free tool. In 2023, we released Strobe, https://strobe.app, an AI-powered tool to help brands find creators to help them grow.",
-    "one_liner": "Instant builds AI-powered tools to help build your business.",
+    "all_locations": "Victoria, BC, Canada; Remote",
+    "long_description": "Instant Labs started in 2005 by building the fastest domain search engine on the internet: https://instantdomainsearch.com. People have performed over 2.5M searches and purchased 250K domains with our free tool.",
+    "one_liner": "Instant Labs builds modern tools to help you find and buy domain…",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "Consumer -> Social",
@@ -20349,8 +20349,7 @@
     "tags": [
       "SaaS",
       "B2B",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20364,7 +20363,9 @@
     ],
     "regions": [
       "Canada",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -28342,7 +28343,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -32273,7 +32274,7 @@
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "long_description": "We make running services on Kubernetes as easy as Heroku, but on your cloud and with all the flexibility and power of Kubernetes. Companies use Koala so that they don't have to hire dedicated infrastructure engineers.\r\n\r\nAlthough 50-70% of organizations have already adopted Kubernetes, most developers agree that it is too complex and difficult to manage. It is intended to be extremely flexible in order to solve pretty much everyone’s needs, but it can take a ton of work and many auxiliary tools to get there.\r\n\r\nAs companies grow, they spend a lot on DevOps or Platform Engineers that try to reduce the burden on developers by gluing together all the 3p tools via custom internal tools.\r\n\r\nWe are building an “internal developer platform” out of the box, with best practices and golden paths for building and operating services on Kubernetes.\r\n\r\nWe do the research on the latest and greatest tools in the extremely vibrant ecosystem, and automatically integrate for you the tools you want to use.\r\n\r\nWe operate on our customers code and in your Cloud environment, so they never locked in and never restricted, as is common with classic PaaS offerings.\r\n\r\nIf you prefer a fully hosted environment like Heroku, Fly or Vercel, we’ll host a cluster for you and offer you a one-click migration to your own cluster when you want.",
     "one_liner": "A platform for developing microservices on Kubernetes",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1677416596,
@@ -32301,7 +32302,7 @@
     "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/koala-ops",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/koala-ops.json"
@@ -33924,11 +33925,11 @@
     "subindustry": "Fintech",
     "launched_at": 1687929703,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Payments",
       "B2B",
-      "Compliance",
-      "AI"
+      "Compliance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35419,7 +35420,7 @@
     "one_liner": "Your AI recruiter for interviewing and identifying the best talent",
     "team_size": 5,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1703103445,
     "tags": [
       "Artificial Intelligence",
@@ -36073,8 +36074,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/92df358869feb4920733e3073e8f52fec0afe8e8.png",
     "website": "https://speck.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Speck is the first AI-native bug reporting platform. Reported bugs are automatically enriched, reproduced, solved and validated. PMs, QAs and CSMs use Speck to document bugs on websites and automatically fix them.",
-    "one_liner": "Bug ingestion platform to document, reproduce and fix issues with AI.",
+    "long_description": "",
+    "one_liner": "Glean for Sales",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -36094,7 +36095,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Sales"
     ],
     "regions": [
       "United States of America",
@@ -42868,49 +42869,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/olive.json"
   },
   {
-    "id": 30256,
-    "name": "PAX Markets",
-    "slug": "pax-markets",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05c8cff591b86d49ecb387cae532233ca6d248ee.png",
-    "website": "https://pax.markets/",
-    "all_locations": "Menlo Park, CA, USA",
-    "long_description": "PAX is a new crypto exchange and is the first – in all capital markets – to operate from a single chip rather than an entire datacenter. PAX moves traders to within nanometers of the exchange – closer than ever before possible.\r\n\r\nSuch proximity unlocks unprecedented value to high frequency customers and PAX shares this value by offering zero-fee with cash-back to every other market participant on every trade. PAX is to exchange as Robinhood was to retail brokerage: the first in the industry to “go to zero” and a complete game changer across every asset and geography.\r\n\r\nPAX founders, Pete and Ben have spent years working as high-frequency traders, from crypto to traditional markets. Having directly experienced the benefit of electronic trading, they share a belief in its potential to further evolve and create better global markets.",
-    "one_liner": "Crypto exchange on a chip: faster and smaller than a datacenter.",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Banking and Exchange",
-    "launched_at": 1738613936,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Marketplace",
-      "B2B",
-      "Cryptocurrency"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Banking and Exchange"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pax-markets",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/pax-markets.json"
-  },
-  {
     "id": 30258,
     "name": "Gale",
     "slug": "gale",
@@ -43048,18 +43006,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bf383d00d833f8ead69445747af5777b0e0a0a6.png",
     "website": "https://lopus.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sales teams blast emails, spam LinkedIn, and chase leads who were never interested in the first place. Conversion rates are dropping, and buyers are tuning out. The problem isn’t a lack of prospects—it’s that most businesses are looking in the wrong places.\r\n\r\nPeople and businesses talk about their pain points online every day—struggling with problems your product solves. We track these high-intent conversations, surface the right buyers, and deliver them straight to you. Just 20 minutes a day, and you’re engaging with people ready to buy, with conversion rates as high as 50%.\r\n\r\nPeople are looking for your solution - you're just not seeing them. Let's change that.",
-    "one_liner": "Finding customers who are ready to buy your product — on autopilot.",
+    "long_description": "Revenue teams keep losing deals because CRMs and intent data only tell them who will convert after the fact. Your sales team can't decide who to prioritize, and your pipeline is leaking millions.\r\n\r\nWe've built Lopus Recon, a Revenue Intelligence Platform that analyses millions of data points to guide your sales team to decide exactly which accounts to target and when, and enter calls knowing why they'll convert.\r\n\r\nEngineered by Lopus AI, the GTM weapons lab.",
+    "one_liner": "AI agents for Revenue Intelligence",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1740443352,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Sales",
       "Social Media",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43761,49 +43719,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/ergo.json"
   },
   {
-    "id": 30354,
-    "name": "Artifact",
-    "slug": "artifact-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/764b72bcc2fa5b82a346ca5ceda62d50887b6537.png",
-    "website": "https://www.artifact.engineer/",
-    "all_locations": "Atlanta, GA, USA",
-    "long_description": "Artifact is a 2D electrical system CAD tool leveraging AI to automate tedious, error-prone tasks: datasheet ingestion, multi-fidelity system design, and manufacturing documentation",
-    "one_liner": "Cursor for hardware design, starting with electrical systems",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1738654022,
-    "tags": [
-      "Developer Tools",
-      "Hardware",
-      "B2B",
-      "Design Tools",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/artifact-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/artifact-2.json"
-  },
-  {
     "id": 30356,
     "name": "Fira",
     "slug": "fira",
@@ -43970,6 +43885,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/avallon-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/avallon-ai.json"
+  },
+  {
+    "id": 30428,
+    "name": "Capacitive",
+    "slug": "capacitive",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5f362b725240ccdfc1c0cc42ebc5700507b2ddb.png",
+    "website": "https://capacitive.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Enterprise AI without your internal data is like a computer without internet. When vital information is scattered across Slack, Notion, and Salesforce, AI tools can't deliver. And connecting dozens of those tools directly to your systems introduces significant security vulnerabilities and maintenance challenges.\r\n\r\nCapacitive offers a better way: connect us once to where your data lives, then create secure data gateways with granular cross-platform permissions, comprehensive monitoring, and robust security filtering. Supercharge tools like Cursor with product and team-level context — or use those access points via our built-in AI chat system, where your team can navigate your organization's knowledge and perform actions across platforms in one place.",
+    "one_liner": "The enterprise data gateway company.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1746399469,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Workflow Automation",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/capacitive",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/capacitive.json"
   },
   {
     "id": 30453,

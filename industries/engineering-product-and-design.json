@@ -14985,7 +14985,7 @@
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "long_description": "We make running services on Kubernetes as easy as Heroku, but on your cloud and with all the flexibility and power of Kubernetes. Companies use Koala so that they don't have to hire dedicated infrastructure engineers.\r\n\r\nAlthough 50-70% of organizations have already adopted Kubernetes, most developers agree that it is too complex and difficult to manage. It is intended to be extremely flexible in order to solve pretty much everyone’s needs, but it can take a ton of work and many auxiliary tools to get there.\r\n\r\nAs companies grow, they spend a lot on DevOps or Platform Engineers that try to reduce the burden on developers by gluing together all the 3p tools via custom internal tools.\r\n\r\nWe are building an “internal developer platform” out of the box, with best practices and golden paths for building and operating services on Kubernetes.\r\n\r\nWe do the research on the latest and greatest tools in the extremely vibrant ecosystem, and automatically integrate for you the tools you want to use.\r\n\r\nWe operate on our customers code and in your Cloud environment, so they never locked in and never restricted, as is common with classic PaaS offerings.\r\n\r\nIf you prefer a fully hosted environment like Heroku, Fly or Vercel, we’ll host a cluster for you and offer you a one-click migration to your own cluster when you want.",
     "one_liner": "A platform for developing microservices on Kubernetes",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1677416596,
@@ -15013,7 +15013,7 @@
     "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/koala-ops",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/koala-ops.json"
@@ -17322,51 +17322,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/keywords-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/keywords-ai.json"
-  },
-  {
-    "id": 29330,
-    "name": "Speck",
-    "slug": "speck",
-    "former_names": [
-      "Glance"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/92df358869feb4920733e3073e8f52fec0afe8e8.png",
-    "website": "https://speck.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Speck is the first AI-native bug reporting platform. Reported bugs are automatically enriched, reproduced, solved and validated. PMs, QAs and CSMs use Speck to document bugs on websites and automatically fix them.",
-    "one_liner": "Bug ingestion platform to document, reproduce and fix issues with AI.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1705004448,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Web Development",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/speck",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/speck.json"
   },
   {
     "id": 29334,
@@ -22223,23 +22178,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/764b72bcc2fa5b82a346ca5ceda62d50887b6537.png",
     "website": "https://www.artifact.engineer/",
-    "all_locations": "Atlanta, GA, USA",
-    "long_description": "Artifact is a 2D electrical system CAD tool leveraging AI to automate tedious, error-prone tasks: datasheet ingestion, multi-fidelity system design, and manufacturing documentation",
-    "one_liner": "Cursor for hardware design, starting with electrical systems",
+    "all_locations": "",
+    "long_description": "Artifact is a collaborative IDE for hardware engineers - accelerating every step in the engineering lifecycle:\r\n\r\nDesign → Procurement → Manufacturing → Integration → Test → Sustainment\r\n\r\nWe've raised $3.5M to build an integrated, verifiable AI copilot with an intuitive UI that reflects how hardware actually gets built. Every artifact is auto-generated and traceable to a single-source of truth.\r\n\r\nWe believe hardware engineering should be rigorous, deliberate, and system-aware. We work directly with customers solving the world's hardest technical problems to modernize how complex hardware is engineered.\r\n\r\nIf you're interested, send your resume & contact info to: careers@artifact.engineer",
+    "one_liner": "An Collaborative, AI-native IDE for Hardware Engineers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738654022,
-    "tags": [
-      "Developer Tools",
-      "Hardware",
-      "B2B",
-      "Design Tools",
-      "Aerospace"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -22248,8 +22197,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -22435,8 +22383,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1746399469,
     "tags": [
-      "Developer Tools",
-      "SaaS"
+      "SaaS",
+      "B2B",
+      "Workflow Automation",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,

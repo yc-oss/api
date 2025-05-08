@@ -93,7 +93,7 @@
     "website": "https://willowvoice.com/",
     "all_locations": "Palo Alto, CA, USA",
     "long_description": "Willow is an AI dictation app that lets you type with your voice. Built to 4x the productivity of anyone spending too much time on email, docs, and AI prompting workflows.\r\n\r\nWe’re Mac-only for now. You can try it free at WillowVoice.com",
-    "one_liner": "Write 3x faster with voice dictation, powered by AI",
+    "one_liner": "Powering the future of voice-first computing",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -124,6 +124,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/willow",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/willow.json"
+  },
+  {
+    "id": 30173,
+    "name": "Tropir",
+    "slug": "tropir",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac03a28cb503f64a3f8684816a352307a74638e1.png",
+    "website": "https://www.tropir.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke—a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the text flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nWe built Tropir after hand-debugging a broken agent chain for an early customer and realizing that logs alone weren’t enough. We needed a way to see why things failed, not just what failed.\r\n\r\nY Combinator backs us, and we're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
+    "one_liner": "Traceback why your AI failed",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Industrials -> Climate",
+    "launched_at": 1746601065,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tropir",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/tropir.json"
   },
   {
     "id": 30191,
@@ -751,8 +792,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1746399469,
     "tags": [
-      "Developer Tools",
-      "SaaS"
+      "SaaS",
+      "B2B",
+      "Workflow Automation",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -944,16 +987,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/acf0e0243c9094722ec17b982487d43b3cc95416.png",
     "website": "https://www.simstudio.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sim Studio is the fastest way to build AI agents for production. \r\nOur Figma-like canvas lets teams quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).\r\nWe're open-source with 2.5k stars on GitHub in the last month. We have 4,000+ builders on our hosted platform. ",
+    "long_description": "Sim Studio is the fastest way to build AI agents for production. \r\nOur Figma-like canvas lets teams quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).\r\nWe're open-source with over 3k stars on GitHub in the last month. We have 4,000+ builders on our hosted platform. ",
     "one_liner": "The UI to build AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1746478234,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -984,7 +1027,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6853a397a8c949c1f81a95e63684f2b530461ce0.png",
     "website": "https://www.youlearn.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "YouLearn is an AI tutor personalized to each student. It turns your learning materials into concise notes, an AI tutor you can talk to, and personalized tests.\r\n\r\nIn the last eight months, we’ve grown from $1K to $65K MRR, and over 150,000 students use YouLearn each month.\r\n\r\nAchyut, Soami, and David have known each other for the past two and a half years, having started building projects in their dorms. Soami interned at Groq, Achyut built six AI apps in one summer, and David grew an audience of over 200M views on Instagram and TikTok.\r\n\r\nAs recent college dropouts, we saw daily how students learn with AI and where current tools fall short. We believe every student will have a personal AI tutor, and we’re building the one you’ll never want to skip class on.",
+    "long_description": "YouLearn is an AI tutor personalized to each student. It turns your learning materials into concise notes, an AI tutor you can talk to, and personalized tests.\r\n\r\nIn the last eight months, we’ve grown from $1K to $70K MRR, and over 150,000 students use YouLearn each month.\r\n\r\nAchyut, Soami, and David have known each other for the past two and a half years, having started building projects in their dorms. Soami interned at Groq, Achyut built six AI apps in one summer, and David grew an audience of over 200M views on Instagram and TikTok.\r\n\r\nAs recent college dropouts, we saw daily how students learn with AI and where current tools fall short. We believe every student will have a personal AI tutor, and we’re building the one you’ll never want to skip class on.",
     "one_liner": "An AI tutor personalized to each student. ",
     "team_size": 3,
     "industry": "Education",
@@ -992,9 +1035,9 @@
     "launched_at": 1745603860,
     "tags": [
       "AI-Enhanced Learning",
+      "Artificial Intelligence",
       "Education",
-      "Edtech",
-      "AI"
+      "Edtech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1114,8 +1157,8 @@
     "subindustry": "B2B",
     "launched_at": 1745963507,
     "tags": [
-      "Artificial Intelligence",
-      "GovTech"
+      "GovTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1967,7 +2010,9 @@
     "id": 30507,
     "name": "ParaQuery",
     "slug": "paraquery",
-    "former_names": [],
+    "former_names": [
+      "Hypermorphic"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/023b1fec88d11ac0cc00d33e137188a1088f80f1.png",
     "website": "https://paraquery.com",
     "all_locations": "New York, NY, USA; Remote",
@@ -2311,7 +2356,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52b288a75cbc24bbab29ace4752b6453e7db35bf.png",
     "website": "https://www.linewise.io/",
     "all_locations": "",
-    "long_description": "LineWise is an AI troubleshooting platform that helps manufacturing teams resolve issues faster and reduce internal escalations by leveraging organization-specific knowledge base that continuously improves. ",
+    "long_description": "LineWise is building an AI assistant for manufacturing teams to get their line back up and running.\r\n\r\nWhen a line goes down, it can take hours to identify the problem. Engineers and technicians scramble, chasing PLC data and logs, flipping through manuals and troubleshooting guides, while production stalls.\r\n\r\nLineWise connects siloed data from PLCs, maintenance logs, and machine manuals to triage potential causes for the issue at hand. Once the issue is resolved, LineWise will remember everything for the next time and advocate preventative actions.",
     "one_liner": "Troubleshoot factory line problems faster using AI",
     "team_size": 5,
     "industry": "B2B",
@@ -2554,6 +2599,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/blueshoe",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/blueshoe.json"
+  },
+  {
+    "id": 30556,
+    "name": "Cascade Space",
+    "slug": "cascade-space",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b61a9c6976c89879b6647cf5de4a9c135cae19d.png",
+    "website": "https://cascade.space",
+    "all_locations": "San Mateo, CA, USA",
+    "long_description": "Cut through the noise with our software stack and ground station network. Iterate faster, test efficiently, launch with confidence. Our software and ground station network allows deep space companies to slash development time and costs, and dramatically increase confidence in designs prior to launch.",
+    "one_liner": "Deep space communications as a service",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1746647881,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Space Exploration",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cascade-space",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/cascade-space.json"
   },
   {
     "id": 30557,
