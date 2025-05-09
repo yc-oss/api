@@ -7,8 +7,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5967d06c7b101af8570dc47b6eea5cd8567dd32b.png",
     "website": "https://circuithub.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "CircuitHub is on a mission to fix rapid electronics prototyping. We are the first automated electronics factory built around a modern tech stack. We help hardware companies producing self-driving cars, satellites, 3D printers, robotics, & more to rapidly prototype electronics and get to market faster.",
-    "one_liner": "Electronics factory automation",
+    "long_description": "CircuitHub offers on-demand electronics manufacturing powered by our factory-scale robotics platform, The Grid. This platform delivers a 10x improvement in the speed and cost of small-batch electronics production. Leading customers like Tesla, NASA, and Zipline rely on CircuitHub to cut their time to market in half.",
+    "one_liner": "On-Demand Electronics Manufacturing",
     "team_size": 58,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -10883,7 +10883,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbe8a3b1ecda5bf8f0abbf42c5ee7b0942d09160.png",
     "website": "https://www.shef.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "At Shef, we’re rebuilding the food system from scratch, redefining who can participate in the food economy, and returning personal connection to the making, eating, and sharing of food. \r\n\r\nShef is an online marketplace for local, food safety certified cooks to connect with customers in their community and earn a meaningful income selling homemade dishes. \r\n\r\n75% of shefs are women and 80% are people of color. Together, they represent nearly 100 countries around the world, from Algeria to Korea, to India and Venezuela. Shefs are aunties and abuelas, immigrants and refugees, stay-at-home parents and restaurant dreamers. They’re passionate local cooks in your community who are doing what they love most — sharing their food and culture with you. \r\n\r\nShef is also part of a growing movement to build a more inclusive food system for all. We are proud to support and champion advocacy efforts to expand home cooking laws across the country so that talented cooks everywhere can earn a meaningful income from their own kitchens. \r\n\r\nJoin us: https://jobs.lever.co/shef\r\n\r\n",
+    "long_description": "At Shef, we’re bringing humanity back to mealtime by connecting consumers with talented chefs in their community. By introducing the sharing economy to the dinner table, we create meaningful economic opportunities for chefs while making homemade meals more accessible and affordable. Shefs on the platform craft menus inspired by their passion and expertise, preparing meals in small batches and delivering them to your door—so you can enjoy the warmth of a homemade meal without the hassle.\r\n\r\nWe have raised over $100M from investors including Andreessen Horowitz, Y Combinator, Craft Ventures, and M13, as well as founders and executives from Instacart, TaskRabbit, StubHub, AngelList, Lyft, Airbnb, and Yelp.",
     "one_liner": "Shef is a Marketplace for Homemade Food",
     "team_size": 100,
     "industry": "Consumer",
@@ -18720,49 +18720,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gradia-health",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/gradia-health.json"
-  },
-  {
-    "id": 22779,
-    "name": "Axle Health",
-    "slug": "axle-health",
-    "former_names": [
-      "Febris"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48b548fd88ed1c898f2a5e58f8a6edb67f37bd16.png",
-    "website": "https://www.axlehealth.com",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Axle Health provides scheduling and workforce management software for home healthcare providers. The Axle platform includes a mobile app for clinicians, an operations dashboard for office teams, proprietary logistics algorithms to optimize scheduling, and a patient engagement and booking solution. Axle is integrated with a wide range of EMRs, and the entire Axle product can be customized and accessed modularly via API. Some of the biggest home health care providers in the country use Axle’s software to improve the utilization of their clinical teams, and automate the operational burden of scheduling and dispatching.",
-    "one_liner": "Scheduling and workforce management SaaS for home healthcare providers",
-    "team_size": 14,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1611436998,
-    "tags": [
-      "Scheduling",
-      "Logistics",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/axle-health",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/axle-health.json"
   },
   {
     "id": 22780,
@@ -27209,6 +27166,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/cozmox-ai.json"
   },
   {
+    "id": 25340,
+    "name": "Loops",
+    "slug": "loops",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef8d8c9b30ba22bdd91401d412f32c73551f5439.png",
+    "website": "https://loops.so",
+    "all_locations": "Washington, DC, USA; New York, NY, USA; Remote",
+    "long_description": "Loops is a simple and beautiful email sending platform for SaaS companies. We have a Notion-style block editor for email creation, excellent deliverability for transactional mail and pre-built loops for SaaS companies to snap-in to increase their revenue and user engagement.",
+    "one_liner": "Email sending for startups",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1643293654,
+    "tags": [
+      "Email"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/loops",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/loops.json"
+  },
+  {
     "id": 25342,
     "name": "Stably AI",
     "slug": "stably-ai",
@@ -30516,6 +30514,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/olympian-motors.json"
   },
   {
+    "id": 26108,
+    "name": "GoSats",
+    "slug": "gosats",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e6ef13c2cf09acf6a7b852519447061cd749bdf8.png",
+    "website": "https://gosats.io",
+    "all_locations": "Bengaluru, KA, India",
+    "long_description": "GoSats is a bitcoin rewards app. We help people accumulate free bitcoin as cashbacks and rewards every time they shop in India.",
+    "one_liner": "GoSats helps you earn free bitcoin when you shop in India.",
+    "team_size": 8,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1644855955,
+    "tags": [
+      "E-commerce",
+      "India"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "India",
+      "South Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gosats",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/gosats.json"
+  },
+  {
     "id": 26125,
     "name": "GovDash",
     "slug": "govdash",
@@ -31163,51 +31202,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stream",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/stream.json"
-  },
-  {
-    "id": 26662,
-    "name": "Paces",
-    "slug": "paces",
-    "former_names": [
-      "Paces AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a92cafe33d123a85f38886d7af1f5aa33cbfd033.png",
-    "website": "https://paces.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "In the next 30 years, the world will transform every part of the built environment to be climate positive green infrastructure. Knowing what, where, and how to build infrastructure like solar farms and data centers is one of the great opportunities of our time.\r\n\r\nPaces is software for green infrastructure developers to identify the best places to build and manage their projects. Our software supports renewable energy, EV charging, carbon sequestration and data center customers with interconnection, permitting and siting of their projects.",
-    "one_liner": "Siting and Due Diligence of Green Projects",
-    "team_size": 30,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Climate",
-    "launched_at": 1654191081,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Proptech",
-      "Climate",
-      "Energy"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Climate"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/paces",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/paces.json"
   },
   {
     "id": 26670,
@@ -33960,13 +33954,13 @@
   },
   {
     "id": 27667,
-    "name": "Stack AI",
-    "slug": "stack-ai",
+    "name": "StackAI",
+    "slug": "stackai",
     "former_names": [
       "Stack"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b9d2f1eb25d962348f6f1c0be6a78e6f7ce4791.png",
-    "website": "https://www.stack-ai.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0b69f56464fb22aa0805117c2f93c2b32f1c717.png",
+    "website": "https://www.stack.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "With Stack AI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\r\nHundreds of companies use Stack AI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
     "one_liner": "AI Agents for the Enterprise",
@@ -33975,9 +33969,9 @@
     "subindustry": "B2B",
     "launched_at": 1673634480,
     "tags": [
+      "Artificial Intelligence",
       "Enterprise",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33999,8 +33993,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stack-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/stack-ai.json"
+    "url": "https://www.ycombinator.com/companies/stackai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/stackai.json"
   },
   {
     "id": 27674,
@@ -34049,15 +34043,15 @@
   },
   {
     "id": 27686,
-    "name": "Doctor Droid",
-    "slug": "doctor-droid",
+    "name": "DrDroid",
+    "slug": "drdroid",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b6d81dd6d4c4bdc913b702f0bd007e3c36cfe55.png",
     "website": "https://drdroid.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Doctor Droid is an automated diagnosis and troubleshooting assistant for engineering teams.\r\n\r\nDoctor Droid integrates with your existing monitoring stack (10+ tools supported) and assists with automated diagnosis, troubleshooting recommendations and more. \r\n\r\nGet started\r\n\r\nTo get an automated report on the state of alerting & noise in your company, try out our free report generator today -- https://drdroid.io/doctor-droid-slack-integration",
+    "all_locations": "Bengaluru, KA, India",
+    "long_description": "DrDroid is building AI Agents for Platform & Infrastructure teams. \r\nWe help engineering teams fix issues faster and reduce escalations during on-call—automating triage, debugging, and remediation.\r\n\r\nWe’re also the team behind several open-source projects:\r\n🔹 Playbooks – A runbook automation platform\r\n🔹 Kenobi – An event analytics platform for debugging data pipelines\r\n\r\nJoin us in redefining how teams run operations in the post-GPT world.",
     "one_liner": "Your best friend in production.",
-    "team_size": 6,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1668798140,
@@ -34077,16 +34071,16 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "India",
+      "South Asia"
     ],
     "stage": "Early",
     "app_video_public": true,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/doctor-droid",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/doctor-droid.json"
+    "url": "https://www.ycombinator.com/companies/drdroid",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/drdroid.json"
   },
   {
     "id": 27687,
@@ -38540,6 +38534,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/alguna.json"
   },
   {
+    "id": 28845,
+    "name": "Campfire",
+    "slug": "campfire-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b964d406b730adef7e1ad9fcd6fdf8775ca296fc.png",
+    "website": "https://meetcampfire.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Campfire is the modern accounting platform for startups and mid-size tech companies. Our product includes an accounting general ledger that has multi-entity support and advanced financial reporting such as P&L by department and contribution margin by customer. Migrate from legacy accounting software to Campfire for your accounting and financial reporting to automate manual tasks and streamline workflows to unlock financial insights and accelerate the monthly close process.",
+    "one_liner": "A modern version of NetSuite",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1690778245,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/campfire-2",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/campfire-2.json"
+  },
+  {
     "id": 28847,
     "name": "Venta AI",
     "slug": "venta-ai",
@@ -41478,7 +41513,7 @@
     "all_locations": "",
     "long_description": "Garage is a marketplace for pre-owned equipment, starting with firefighting equipment. \r\n\r\nGarage helps fire departments buy and sell used equipment in seconds rather than days. Our marketplace handles payments, freight, and financing – making buying and selling equipment easy & secure.",
     "one_liner": "Marketplace for used firefighting equipment.",
-    "team_size": 4,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709146834,
@@ -41504,49 +41539,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/garage-2",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/garage-2.json"
-  },
-  {
-    "id": 29273,
-    "name": "Pivot Robotics",
-    "slug": "pivot-robotics",
-    "former_names": [
-      "Pivot AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee0d44cf8688258862f3d2457491a3a79d07f53c.png",
-    "website": "https://pivotrobotics.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pivot Robotics makes AI software for robotic arms that helps manufacturers automate their most labor intensive tasks. We are starting out with the dangerous task of metal grinding and are currently deploying our software on 10+ robots in a cast-iron foundry. ",
-    "one_liner": "AI for Robot Arms in Factories",
-    "team_size": 5,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1709584102,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pivot-robotics",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/pivot-robotics.json"
   },
   {
     "id": 29274,
@@ -42700,7 +42692,7 @@
     "one_liner": "AI that makes compliance effortless",
     "team_size": 12,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Security",
     "launched_at": 1704449902,
     "tags": [
       "SaaS",
@@ -46303,9 +46295,9 @@
     "subindustry": "B2B",
     "launched_at": 1715615655,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46372,6 +46364,42 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/conductor-quantum",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/conductor-quantum.json"
+  },
+  {
+    "id": 29755,
+    "name": "Pax",
+    "slug": "pax",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70cdd1fa78c63083ab6a70c63195a46e8f6cad04.png",
+    "website": "https://paxai.com/",
+    "all_locations": "",
+    "long_description": "Pax uses AI to automate tariff refunds (aka duty drawback) for retailers and manufacturers. We launched 4 weeks ago and have ~$200K in contracts.\r\n\r\nEach year, 80% of eligible refunds—equivalent to $15B—go unclaimed. Pax is the first AI-powered broker helping brands under $50M reclaim 3-5% of their revenue. Our algorithms generate 15% more refunds than the industry leader and reduce processing time by 99% with AI.\r\n\r\nWe are two technical founders: Penny got her PhD from MIT and, and was a former research scientist at Amazon & Flexport, where I encountered the problem firsthand. Chris is a second-time founder and former software engineer at Amazon, Brex, and TikTok.",
+    "one_liner": "AI Broker for Tariff Refunds",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1721770612,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pax",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/pax.json"
   },
   {
     "id": 29758,
@@ -46491,51 +46519,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/modern-realty",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/modern-realty.json"
-  },
-  {
-    "id": 29761,
-    "name": "Distro",
-    "slug": "distro",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/499bf69da05f9cd925def17274cd2ef5f91c8a22.png",
-    "website": "https://distro.app",
-    "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Distro is the all-in-one AI-powered sales platform for counter staff and inside sales at industrial wholesale distributors (HVAC/R, plumbing, electrical, and more).",
-    "one_liner": "The AI co-pilot for sales reps at industrial wholesale distributors.",
-    "team_size": 11,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1715554333,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Manufacturing",
-      "Supply Chain",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/distro",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/distro.json"
   },
   {
     "id": 29764,
@@ -47915,42 +47898,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/onlook.json"
   },
   {
-    "id": 30021,
-    "name": "telli",
-    "slug": "telli",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5c87033e7738e58d763e4641c62584a2b0192ab.png",
-    "website": "https://telli.com",
-    "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "telli is building AI voice agents that convert leads into sales opportunities for B2C companies. For example, a leading home-buying platform is using telli to fully automate their pre-qualification.\r\n\r\nWe are serving customers in energy, real estate, medical products, and home services.\r\n\r\nYou might think that these B2C companies want to do more self-serve and less outreach. But the truth is outbound calls are what really drive conversion. Historically, managing these calls has been complex and expensive—costing companies hundreds of thousands of dollars. With telli, for the first time, B2C companies can automate the role of a pre-sales agent, end to end.",
-    "one_liner": "AI phone agents that convert",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1733082630,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Germany",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/telli",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/telli.json"
-  },
-  {
     "id": 30023,
     "name": "PearAI",
     "slug": "pearai",
@@ -48023,48 +47970,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/afternoon-co",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/afternoon-co.json"
-  },
-  {
-    "id": 30044,
-    "name": "Sandra AI",
-    "slug": "sandra-ai",
-    "former_names": [
-      "Sandra.AI",
-      "Sandra.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0cbbb79a074c37ef2a992bb2acea7bb3e6eb8af.png",
-    "website": "https://www.sandra-ai.com",
-    "all_locations": "Miami, FL, USA",
-    "long_description": "Sandra AI builds AI employees for car dealerships and auto repair shops, starting with AI receptionists. Dealerships miss 30% of customer calls, leading to 45% of customers switching dealerships and up to $2M in annual lost revenue per dealership. Sandra AI operates 24/7, handling calls, emails, and texts, and directly schedules appointments, ensuring no opportunity is lost.",
-    "one_liner": "Building AI employees for car dealers, starting with AI receptionists",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1727911106,
-    "tags": [
-      "Automotive",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sandra-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/sandra-ai.json"
   },
   {
     "id": 30045,
@@ -49387,6 +49292,42 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/olive.json"
   },
   {
+    "id": 30256,
+    "name": "PAX Markets",
+    "slug": "pax-markets",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05c8cff591b86d49ecb387cae532233ca6d248ee.png",
+    "website": "https://pax.markets/",
+    "all_locations": "",
+    "long_description": "PAX is a new crypto exchange and is the first – in all capital markets – to operate from a single chip rather than an entire datacenter. PAX moves traders to within nanometers of the exchange – closer than ever before possible.\r\n\r\nSuch proximity unlocks unprecedented value to high frequency customers and PAX shares this value by offering zero-fee with cash-back to every other market participant on every trade. PAX is to exchange as Robinhood was to retail brokerage: the first in the industry to “go to zero” and a complete game changer across every asset and geography.\r\n\r\nPAX founders, Pete and Ben have spent years working as high-frequency traders, from crypto to traditional markets. Having directly experienced the benefit of electronic trading, they share a belief in its potential to further evolve and create better global markets.",
+    "one_liner": "Crypto exchange on a chip: faster and smaller than a datacenter.",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1738613936,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pax-markets",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/pax-markets.json"
+  },
+  {
     "id": 30258,
     "name": "Gale",
     "slug": "gale",
@@ -50315,42 +50256,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/browser-use.json"
   },
   {
-    "id": 30346,
-    "name": "Mercura",
-    "slug": "mercura",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84ad3ef04aef30c103f98a1ef15865998e62738e.png",
-    "website": "https://www.mercura.ai",
-    "all_locations": "",
-    "long_description": "Mercura automates sales quotations for HVAC, electrical and plumbing distributors & manufacturers. Our software lets sales teams process requests for quotations in minutes instead of days. By eliminating repetitive back-office tasks, we help sales reps focus on winning more deals and driving revenue.",
-    "one_liner": "AI Quoting for distributors and manufacturers",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1739583996,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mercura",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/mercura.json"
-  },
-  {
     "id": 30348,
     "name": "SAMMY Labs",
     "slug": "sammy-labs",
@@ -50660,7 +50565,7 @@
       "Work Done (WRKDN)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/924734540288bf8cd89e4e3406e3bc65fd236248.png",
-    "website": "https://wrkdn.com",
+    "website": "https://www.wrkdn.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "WorkDone is an AI compliance copilot for hospitals. We prevent documentation errors that cause 250 million insurance claim denials every year—before they happen.",
     "one_liner": "AI compliance copilot for hospitals to maximize insurance payouts",
@@ -50670,9 +50575,9 @@
     "launched_at": 1745803962,
     "tags": [
       "Health Tech",
+      "B2B",
       "Compliance",
       "Enterprise Software",
-      "Healthcare IT",
       "AI"
     ],
     "tags_highlighted": [],

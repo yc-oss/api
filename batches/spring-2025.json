@@ -133,16 +133,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac03a28cb503f64a3f8684816a352307a74638e1.png",
     "website": "https://www.tropir.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke—a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the text flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nWe built Tropir after hand-debugging a broken agent chain for an early customer and realizing that logs alone weren’t enough. We needed a way to see why things failed, not just what failed.\r\n\r\nY Combinator backs us, and we're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
+    "long_description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke—a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the text flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nY Combinator backs us, and we're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
     "one_liner": "Traceback why your AI failed",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1746601065,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -1676,7 +1676,7 @@
     "name": "Lucis (ex-Zero Health)",
     "slug": "lucis-ex-zero-health",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e466d12d16c41d0fef8cb0f998694104768a30aa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/359d9ca968b446f5bb5893d0fb0178e3c6ce80be.png",
     "website": "https://www.lucis.life",
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Lucis partner with labs across Europe and uses its AI doctor to deliver tailored health recommendations.  Zero already saved 10% of its customers life by detecting early conditions. ",
@@ -1799,6 +1799,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lyrahq",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/lyrahq.json"
+  },
+  {
+    "id": 30488,
+    "name": "Theta Software",
+    "slug": "theta-software",
+    "former_names": [
+      "Handler AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1be14af0b37f539b8416e7befe3bec44038db3b9.png",
+    "website": "https://thetasoftware.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Self-Learning for AI Agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1746731099,
+    "tags": [
+      "Developer Tools",
+      "Reinforcement Learning",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/theta-software",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/theta-software.json"
   },
   {
     "id": 30491,
@@ -1976,13 +2019,15 @@
     "website": "https://www.klavis.ai/",
     "all_locations": "",
     "long_description": "Integrate enterprise-grade MCP servers with your AI application in a minute, and scale to millions of users using our open-source, hosted MCP servers with multi-tenancy auth, and skip MCP client-side development hassle.",
-    "one_liner": "Open source MCP Integration for AI Applications",
+    "one_liner": "Open source MCP Integrations for AI Applications",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1744314522,
     "tags": [
+      "Artificial Intelligence",
       "Open Source",
+      "API",
       "AI"
     ],
     "tags_highlighted": [],
@@ -2097,6 +2142,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/vassar-robotics.json"
   },
   {
+    "id": 30512,
+    "name": "MorphoAI",
+    "slug": "morphoai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6d184a7985bf94fb06fe3645712c7af87070512.png",
+    "website": "https://morpho.ai/",
+    "all_locations": "",
+    "long_description": "We're building an AI powered platform for engineers that are building new robots and machines. \r\n\r\nWe allow users to invent and modify machine designs in a matter of minutes, not years. Ayna and Andy, the co-founders, met during their time at Harvard and started this in 2024 as their programs were wrapping up. We're commercializing 10+ years research done by our team at Harvard and MIT on this space. Our team wrote the very first papers on applying GenAI and optimization algorithms to compose robots from parts and applying computational design to fine tune machine designs. We're bringing in our deep knowledge of modifying equipment and integrating it into factories keenly understanding what makes hardware hard. \r\n\r\nWe take in parts under consideration, constraints and tasks at hand and our algorithm formulates and fine tunes from 100s of possible design options. All in a few clicks, so engineers can push hardware to market faster and companies can benefit from the inventions being done by their R&D teams. We already have two paying customers in the OEM and system integrator spaces. \r\n\r\nWe are venture backed and supported by a GBP 2.5MM grant by ARIA, the UK Government's invention agency. ",
+    "one_liner": "AI powered CAD for robotics and machine engineering",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1746718035,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "B2B",
+      "Manufacturing",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/morphoai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/morphoai.json"
+  },
+  {
     "id": 30513,
     "name": "Eloquent AI",
     "slug": "eloquent-ai",
@@ -2140,7 +2227,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b28fd1bee5f680014678e8985405788a687849f.png",
     "website": "https://www.scalarfield.io/",
     "all_locations": "",
-    "long_description": "Scalar Field is reinventing the trading terminal with intelligent agents. Founded by Aman (ex-Tower, ex-Goldman) and Ramakant (ex-Microsoft), we’re building an agentic trading terminal that lets traders instantly test any market hypothesis — with compute-heavy backtests, real-time signal tracking, and persistent research memory. From reorganizing dashboards to initiating trades, Scalar Field turns fragmented data into intelligent action. Try it at scalarfield.io.",
+    "long_description": "We are Scalar Field, and we are redefining the Bloomberg terminal with AI.\r\n\r\nFounded by Aman (ex-Tower, ex-Goldman) and Ramakant (ex-Microsoft), Scalar Field is already trusted by 800 traders, generating $74,000 per month in revenue.\r\n\r\nOur core hypothesis is simple: whenever an analyst, trader, or quant looks at a Bloomberg or FactSet terminal, they are—consciously or subconsciously—trying to verify a hypothesis. Current terminals make this process cumbersome, requiring users to sift through endless screens of data.\r\n\r\nAt Scalar Field, we are rebuilding the trading terminal from the ground up, enabling users to directly test their hypotheses in real time, cutting through the noise and accelerating decision-making.",
     "one_liner": "Reinventing the trading terminal — one intelligent agent at a time.",
     "team_size": 3,
     "industry": "Fintech",
@@ -2172,6 +2259,52 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/scalar-field.json"
   },
   {
+    "id": 30518,
+    "name": "Zero",
+    "slug": "zero",
+    "former_names": [
+      "Mail0"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a6f23712cebc8751d7d54d0dda9e0fefd595ba2.png",
+    "website": "https://0.email",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zero empowers knowledge workers by transforming the way they manage their email. It intelligently summarizes important messages, helps complete tasks, and even enables users to chat directly with their inbox.",
+    "one_liner": "AI powered email client that manages your email so you don't have to.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1746733443,
+    "tags": [
+      "Open Source",
+      "Email",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zero",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/zero.json"
+  },
+  {
     "id": 30529,
     "name": "WorkDone",
     "slug": "workdone",
@@ -2180,7 +2313,7 @@
       "Work Done (WRKDN)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/924734540288bf8cd89e4e3406e3bc65fd236248.png",
-    "website": "https://wrkdn.com",
+    "website": "https://www.wrkdn.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "WorkDone is an AI compliance copilot for hospitals. We prevent documentation errors that cause 250 million insurance claim denials every year—before they happen.",
     "one_liner": "AI compliance copilot for hospitals to maximize insurance payouts",
@@ -2190,9 +2323,9 @@
     "launched_at": 1745803962,
     "tags": [
       "Health Tech",
+      "B2B",
       "Compliance",
       "Enterprise Software",
-      "Healthcare IT",
       "AI"
     ],
     "tags_highlighted": [],
@@ -2565,8 +2698,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ff435e9a8349d20737a53d77d98e6b9ef40d649.png",
     "website": "https://blueshoe.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Blueshoe puts legal financial operations on autopilot starting with fully automated, end-to-end invoice-to-cash for law firms. At any given moment, U.S. law firms have $100B+ of revenue trapped in slow, manual and error-prone decisions and document workflows. Meanwhile, clients and practices are both innovating on dynamic revenue models beyond the billable hour. Blueshoe is building the next-gen financial infrastructure for professionals that's reliable, transparent and free of human bottlenecks.",
-    "one_liner": "The first AI worker for legal financial operations",
+    "long_description": "Blueshoe puts law firm back office operations on autopilot starting with fully automated, end-to-end invoice-to-cash. At any given moment, U.S. law firms have $100B+ of revenue trapped in slow, manual and error-prone decisions and document workflows. Meanwhile, clients and practices are both innovating on dynamic revenue models beyond the billable hour. Blueshoe is building the next-gen back office infrastructure for professionals that's reliable, transparent and free of human bottlenecks.",
+    "one_liner": "AI worker for law firm financial operations",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
@@ -2691,7 +2824,7 @@
     "website": "https://www.savarobotics.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sava is building robots to operate any existing machine in manufacturing. We're starting with the CNC Press Brake and have bent our first production part. ",
-    "one_liner": "Intelligent Robots for Press Brake Operation",
+    "one_liner": "Intelligent Robots for Sheet Metal",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",

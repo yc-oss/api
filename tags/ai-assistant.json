@@ -3466,7 +3466,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ffd914850938fa6bf113c48744141e940a90a14.png",
     "website": "https://open.cx",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Open is an AI-powered, all-in-one customer support and communication platform — used in production by Print.com, Mollie.com, Viva.com, More.com, Orderchamp.com, OneCarNow.com, and other major enterprise companies.\r\n\r\nWe specialize in solving and automating complex support cases across email, web, phone, SMS, and WhatsApp.\r\n\r\nWe’re a research-based company currently working on releasing Support-Bench, the world’s most comprehensive AI customer support benchmark.\r\n\r\nOur team consists of +3 programming language builders, a nationwide cybersecurity competition winner at age 16, and a dentist.",
+    "long_description": "Open is an AI-powered, all-in-one customer support and communication platform — used in production by:\r\n\r\nPrint.com, Mollie.com, Viva.com, More.com, Orderchamp.com, OneCarNow.com, and other major enterprise companies.\r\n\r\nWe specialize in solving and automating complex support cases across email, web, phone, SMS, and WhatsApp.\r\n\r\nWe’re a research-based company currently working on releasing Support-Bench, the world’s most comprehensive AI customer support benchmark.\r\n\r\nOur team consists of +3 programming language builders, a nationwide cybersecurity competition winner at age 16, and a dentist.",
     "one_liner": "Enterprise AI customer support",
     "team_size": 6,
     "industry": "B2B",
@@ -4606,7 +4606,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -4882,16 +4882,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac03a28cb503f64a3f8684816a352307a74638e1.png",
     "website": "https://www.tropir.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke—a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the text flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nWe built Tropir after hand-debugging a broken agent chain for an early customer and realizing that logs alone weren’t enough. We needed a way to see why things failed, not just what failed.\r\n\r\nY Combinator backs us, and we're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
+    "long_description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke—a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the text flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nY Combinator backs us, and we're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
     "one_liner": "Traceback why your AI failed",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1746601065,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -5343,8 +5343,8 @@
   },
   {
     "id": 30351,
-    "name": "Dexterity",
-    "slug": "dexterity",
+    "name": "Dex",
+    "slug": "dex-2",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588b96acab2b06d3a6d0c0dc1df4ed1a4bf0d80.png",
     "website": "https://joindex.com/",
@@ -5380,8 +5380,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dexterity",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/dexterity.json"
+    "url": "https://www.ycombinator.com/companies/dex-2",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/dex-2.json"
   },
   {
     "id": 30355,
@@ -5594,6 +5594,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jazzberry",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/jazzberry.json"
+  },
+  {
+    "id": 30518,
+    "name": "Zero",
+    "slug": "zero",
+    "former_names": [
+      "Mail0"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0a6f23712cebc8751d7d54d0dda9e0fefd595ba2.png",
+    "website": "https://0.email",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zero empowers knowledge workers by transforming the way they manage their email. It intelligently summarizes important messages, helps complete tasks, and even enables users to chat directly with their inbox.",
+    "one_liner": "AI powered email client that manages your email so you don't have to.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1746733443,
+    "tags": [
+      "Open Source",
+      "Email",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zero",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/zero.json"
   },
   {
     "id": 30541,
