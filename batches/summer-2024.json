@@ -139,18 +139,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cc54fa641b3cb3228721daab125c19f08d117b8.png",
     "website": "http://www.fuseinsight.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "AI-powered intake, eligibility and benefits verification for US healthcare providers to free up admin time, improve the patient billing experience, and reduce denied claims. \r\n\r\nIf you know senior finance execs in health systems, partners in healthcare PE, or senior leaders in medical groups, please do connect us. We won’t waste their time: +1 628 468 3232.",
+    "long_description": "AI-powered intake, eligibility and benefits verification for US healthcare providers to radically improve the patient billing experience. \r\n\r\nIf you know senior execs in medical groups or partners in healthcare PE please do connect us. We won’t waste their time: +1 628 468 3232.",
     "one_liner": "AI helpers for patient intake and benefits checks",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1724162501,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Payments",
       "B2B",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -900,6 +900,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/doublezero",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/doublezero.json"
+  },
+  {
+    "id": 29579,
+    "name": "Understood Care",
+    "slug": "understood-care",
+    "former_names": [
+      "Ply Health, Inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/895bc73d946362c90b0900dbf85005b76c9c34c9.png",
+    "website": "https://understoodcare.com",
+    "all_locations": "Irvine, CA, USA",
+    "long_description": "The American healthcare system is complicated. 88% of US adults cite difficulties navigating the healthcare system. \r\n\r\nThe good news is patient advocacy became a covered benefit by Medicare in 2024. \r\n\r\nUnderstood Care matches Medicare patients with a healthcare personal assistant (known as a Patient Advocate) at little to no cost to the patient. Patient Advocates help patients patients access care - finding resources, helping fill out paperwork, and much more. \r\n\r\nUnderstood Care uses AI and healthcare expertise to deliver the highest quality patient advocacy to the 66 million Medicare patients in the US. ",
+    "one_liner": "Healthcare personal assistants for Medicare patients.",
+    "team_size": 7,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1715876832,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Healthcare",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/understood-care",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/understood-care.json"
   },
   {
     "id": 29582,
@@ -3692,16 +3737,16 @@
     "website": "https://dench.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dench.com is an AI Intake Specialist Platform that take calls from prospective clients, talks to them, vets them, conflict checks, does follow-ups and books an appointment, or it forwards the call to a human after client pre-qualification.\r\n\r\nWe convert rejected cases into paid referrals through our referral network, to land law firms  huge profits over “wasted” leads.\r\n\r\nFor a simple demo, try calling (415) 997-2939 as someone with any legal dispute, property or other variety of issues you can possibly imagine.",
-    "one_liner": "AI Secretary to pre-qualify leads for law firms",
+    "one_liner": "The AI Legal Intake",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1720334032,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Legal",
       "LegalTech",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -5372,10 +5417,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4419cef5f696d4d8b3e4389332b904cebf532d72.png",
     "website": "https://www.drillbit.com",
-    "all_locations": "",
+    "all_locations": "Austin, TX, USA",
     "long_description": "Residential contractors are drowning in office work. Drillbit automates all of it. We use AI receptionists and an LLM based quoting tool on top of our own CRM to entirely manage jobs from lead, to quote, to scheduling, to staffing, and even collecting payment.",
     "one_liner": "Automating Office Work for Residential Contractors.",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1721586663,
@@ -5391,13 +5436,15 @@
       "Operations"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/drillbit",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/drillbit.json"
@@ -10120,17 +10167,17 @@
     "website": "https://www.arva.ai",
     "all_locations": "",
     "long_description": "Every time a business onboards onto a bank or fintech a human analyst has to conduct manual document verification. We replace those human KYB (know your business) analysts with AI agents that automate 80% of the manual work for faster and more compliant financial crime reviews.\r\n\r\nCurrently, 30% of know your business (KYB) cases result in manual review work. With Arva's AI agents the whole end-to-end onboarding experience is automated. Instant onboarding whilst reducing operational costs by 80%.\r\n\r\nOur end goal is to have a whole suite of AI workers that can handle manual compliance work for banks and fintechs. A $24B opportunity in the US alone.",
-    "one_liner": "AI scale AML and KYB operations",
+    "one_liner": "AI to scale AML and KYB operations",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1721196993,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

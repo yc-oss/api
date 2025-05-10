@@ -12418,14 +12418,15 @@
     "small_logo_thumb_url": "/company/thumb/missing.png",
     "website": "http://vizeralabs.com",
     "all_locations": "Sunnyvale, CA, USA",
-    "long_description": "VizeraLabs' current project, Vizera, is a smart projection device that performs accurate projections on physical objects. The current primary application of this technology is fabric simulation for furniture stores. The Vizera Projector has the potential to assist both consumers and retailers in the fabric selection process.",
-    "one_liner": "Fabric projector furniture sales",
+    "long_description": "Vizera was an augmented reality company that used projectors with depth sensors to project an AR layer onto real world objects, rather than using screens/smart glasses. \r\n\r\nOur first application was in retail where we partnered with top furniture retailers to display their selection of different fabrics/patterns by using our projectors in their smaller showrooms to improve their in store revenue. \r\n\r\nOur demo is still live on YouTube: https://www.youtube.com/watch?v=5YV8lo-OxZQ ",
+    "one_liner": "Augmented reality through projectors",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1398907794,
     "tags": [
-      "Furniture"
+      "Augmented Reality",
+      "Computer Vision"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45235,10 +45236,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Operations"
@@ -45860,7 +45861,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -48052,8 +48053,8 @@
   },
   {
     "id": 23105,
-    "name": "CreatorOS",
-    "slug": "creatoros",
+    "name": "Bluecheck",
+    "slug": "bluecheck",
     "former_names": [
       "Socionity",
       "CreatorOS",
@@ -48061,21 +48062,21 @@
       "Questbook",
       "Reclaim Protocol, Questbook"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b512ecb3301ab8d683bbd5d94982b605acc6da8.png",
-    "website": "https://creatoros.co",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa2cd181356c16e43310c40d13e664faf4716d3c.png",
+    "website": "https://thebluecheck.com",
     "all_locations": "Hyderabad, Telangana, India; Remote",
-    "long_description": "We build tools that allows enterprises verify information about a user *before* processing it - whether it is processed by a human or an AI agent.\r\n\r\nTraditionally, these verifications including but not limited to background checks cost ~$10. Using our advancements in AI and Cryptography, we're able to send that cost to a few cents. \r\n\r\nThis enables enterprises to do verification at scale, earlier in their work-flows, and enables new kinds of businesses - which were not performing these verifications because of prohibitively high costs.\r\n\r\nFor example, it makes no sense that a recruiter does a candidate's document verification and background checks AFTER the candidate has cleared all the interviews. That's because that verification is cumbersome and expensive. They can't afford to verify all the candidates at the top of the funnel. Many such workflows are ripe for disruption. \r\n\r\nAnother example of a product that was not possible before. A dating app uses our tools to verify the users' information - including their employment, education and financial background. This was something that would have been too expensive to verify at a $10 pricepoint where the ARPU is only $8. \r\n\r\nNot only that, we're designing the tools ground up - so that AI agents can utilize these verifications before ingesting information, so that they take action basis truthful information.\r\n\r\nWe have 3 tools\r\n1. BlueCheck : our flagship product for background verification. The cheapest option to verify users' employment, education and financial background. A few cents instead of a few tens of dollars. Several Billion Dollar+ revenue companies are customers. A solution designed for enterprises that works out of the box!\r\n2. Reclaim Protocol : our underlying infrastructure that makes BlueCheck possible. With advancements in cryptography, specifically zero knowledge proofs - our research over the last 3 years have resulted in inventing a new cryptographic primitive called zkTLS, which allows us to verify information from any website using the cryptography of the existing internet pipes (TLS). This is our secret sauce!\r\n3. Questbook : our dog-fooding tool. Questbook is a tool to give out research and open source software development grants. These grants are reviewed by AI agents that we built inhouse. The biggest scam people try is to fake who they are when they are applying for grants. We dog-food our own tools to make sure we verify all the claims the users are making when they apply for grants. Our tools secure more than $10M of grants being given out on the platform. So it's high stakes, and it works!",
-    "one_liner": "Building tools for verifying information consumed by AI agents",
+    "long_description": "Bluecheck is a verification company that leverages advances in AI and cryptography to bring you global, instantaneous and compliant verifications at the industry lowest costs.\r\n\r\nUsing Bluecheck, you can verify :\r\n- Education : Which university is this student enrolled in? 20k+ universities globally supported\r\n- Employment : Where is the user employed and what is their designation? Employers in all countries supported\r\n- Finances : What is the Credit Score and Accredited Investor status of the user? Again, all countries supported\r\n- Shopping : Where is the user spending, and what brands are they loyal to? Supporting all major ecommerce and travel services\r\n\r\nOnce you integrate Bluecheck, your users will be presented with a button similar to \"Login with Google\", but for the website from where we need to verify information. e.g. their university portal, their tax portals and so on.\r\nAs soon as they login, Bluecheck extracts the required information and verifies the integrity of it. Particularly, ensures that the user has not tampered with the data that was displayed by the website.\r\n\r\nThe verification is done using zero knowledge proofs using an open sourced library called Reclaim Protocol, that does this verification in a privacy preserving and compliant manner.",
+    "one_liner": "Industry's first sub-dollar user data verification company!",
     "team_size": 26,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1616635998,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Crypto / Web3",
       "Identity",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
@@ -48100,8 +48101,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/creatoros",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/creatoros.json"
+    "url": "https://www.ycombinator.com/companies/bluecheck",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/bluecheck.json"
   },
   {
     "id": 23127,
@@ -55159,7 +55160,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -68515,7 +68516,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -72871,12 +72872,12 @@
     "name": "Rollstack",
     "slug": "rollstack-2",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd99f12f76a266177e14e70e980faa586211bdce.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b9859794f0898e1d5e5d987728f6be874b3f4ee.png",
     "website": "https://www.rollstack.com",
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "Who hasn't spent hours creating or updating slide decks and documents with the latest data? Teams spend between 5h and 12h per week updating slides and docs. And in 75% of the cases, slides are reused.\r\n\r\n• Rollstack allows teams to automatically create and update Google slides and PowerPoint presentations with the latest data from their BI tools, CRMs, and data warehouse. \r\n\r\n• Rollstack helps teams automate their business reviews, financial reporting, and client presentations by scheduling updates, creating decks programmatically, and version control.\r\n\r\n• Rollstack also generates insights automatically from your visualizations and datasets.",
     "one_liner": "Automatically create and update data-driven slide decks and documents",
-    "team_size": 20,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1664774205,
@@ -72884,7 +72885,6 @@
       "Artificial Intelligence",
       "Productivity",
       "Analytics",
-      "Big Data",
       "Data Visualization"
     ],
     "tags_highlighted": [],
@@ -79377,7 +79377,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -81024,7 +81024,10 @@
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1688659817,
-    "tags": [],
+    "tags": [
+      "Marketplace",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -81349,7 +81352,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d261d8dfa76354809d8e5792b2d21ef5d258f8d5.png",
     "website": "https://airgoods.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "We connect specialty food stores with their next best selling products.\r\n\r\nAirgoods is a wholesale marketplace that makes it easy for specialty food & beverage stores to buy their inventory in one place. Thousands of small businesses order wholesale on Airgoods from top brands like Fishwife, Athletic Brewing, Ghia, and Truff. ",
+    "long_description": "Airgoods is building the future of food and beverage distribution. \r\n\r\nToday, we help emerging brands (think Fishwife, Ghia and David Protein) rapidly grow their wholesale business and earn placement into the nation’s best specialty and natural food stores.",
     "one_liner": "Wholesale marketplace for food & beverage",
     "team_size": 7,
     "industry": "B2B",
@@ -83241,9 +83244,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3a2460651e6fcbf7d9ddcbd54822e26944663e9.png",
     "website": "https://aglide.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aglide is the next generation identity. Our pioneering agentic technology can connect any application to our customers' SSOs, without using the standard protocols (SAML, SCIM, etc.). ",
-    "one_liner": "Natively connect any app to your SSO.",
-    "team_size": 4,
+    "long_description": "Our mission is to secure access to every enterprise application.\r\n\r\nAglide SSO lets security and IT teams connect non-standard and legacy apps - from banking portals to social media logins - directly to their existing identity provider (Okta, Entra, OneLogin, Ping, etc.), with no need for app-side integration.\r\n\r\nOnce connected, these apps behave like any other IdP-managed service: policies like MFA, Conditional Access, RBAC, and audit logging just work, and end users access them through SSO only.\r\n\r\nCustomers use Aglide to secure both individual apps (e.g., legacy banking portals, Discord, Squarespace) and sensitive shared accounts (e.g., AWS root, social media). Our agentic identity technology means Aglide works with any app out of the box - no integration catalog, no custom scripting.\r\n\r\nToday, customers from fintech decacorns to global media companies rely on Aglide’s zero-trust, end-to-end encrypted platform to complete their identity stack.",
+    "one_liner": "Extend your identity stack to every application.",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1689277623,
@@ -86007,7 +86010,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -95574,16 +95577,16 @@
     "website": "https://dench.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dench.com is an AI Intake Specialist Platform that take calls from prospective clients, talks to them, vets them, conflict checks, does follow-ups and books an appointment, or it forwards the call to a human after client pre-qualification.\r\n\r\nWe convert rejected cases into paid referrals through our referral network, to land law firms  huge profits over “wasted” leads.\r\n\r\nFor a simple demo, try calling (415) 997-2939 as someone with any legal dispute, property or other variety of issues you can possibly imagine.",
-    "one_liner": "AI Secretary to pre-qualify leads for law firms",
+    "one_liner": "The AI Legal Intake",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1720334032,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Legal",
       "LegalTech",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -96871,10 +96874,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4419cef5f696d4d8b3e4389332b904cebf532d72.png",
     "website": "https://www.drillbit.com",
-    "all_locations": "",
+    "all_locations": "Austin, TX, USA",
     "long_description": "Residential contractors are drowning in office work. Drillbit automates all of it. We use AI receptionists and an LLM based quoting tool on top of our own CRM to entirely manage jobs from lead, to quote, to scheduling, to staffing, and even collecting payment.",
     "one_liner": "Automating Office Work for Residential Contractors.",
-    "team_size": 2,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1721586663,
@@ -96890,13 +96893,15 @@
       "Operations"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/drillbit",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/drillbit.json"
@@ -99813,17 +99818,17 @@
     "website": "https://www.arva.ai",
     "all_locations": "",
     "long_description": "Every time a business onboards onto a bank or fintech a human analyst has to conduct manual document verification. We replace those human KYB (know your business) analysts with AI agents that automate 80% of the manual work for faster and more compliant financial crime reviews.\r\n\r\nCurrently, 30% of know your business (KYB) cases result in manual review work. With Arva's AI agents the whole end-to-end onboarding experience is automated. Instant onboarding whilst reducing operational costs by 80%.\r\n\r\nOur end goal is to have a whole suite of AI workers that can handle manual compliance work for banks and fintechs. A $24B opportunity in the US alone.",
-    "one_liner": "AI scale AML and KYB operations",
+    "one_liner": "AI to scale AML and KYB operations",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1721196993,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -106925,45 +106930,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/cua.json"
   },
   {
-    "id": 30421,
-    "name": "SynthioLabs",
-    "slug": "synthiolabs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd9b3daaa2f20d4718e902822df607c1d01c5514.png",
-    "website": "https://synthiolabs.com/",
-    "all_locations": "",
-    "long_description": "SynthioLabs is building AI-Native teams for pharma. Our first AI teammate, Nexa, is an autonomous Medical Expert that engages physicians with compliant, credible, and personalized conversations — 24/7. It supports field teams, scales scientific exchange, and ensures every HCP gets the right message at the right time.\r\n\r\nNexa understands your brand, your data, and the latest clinical evidence — and turns it into real-time physician engagement.\r\n\r\nOur vision? To reimagine how pharma engages its most important stakeholder — patients and HCPs\r\n\r\nWe’re ex-McKinsey, ex-ZS Life Sciences experts and AI Researchers from AWS. We have worked with 10 of the top 20 pharma companies and bring over a decade of experience in Life Sciences. Our advisors have 30+ years of leadership experience in Pharma.\r\n\r\nWe're synthiolabs.com. Reach out to learn more! \r\n",
-    "one_liner": "World's first AI Medical Rep for Pharma GTM",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1744430433,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/synthiolabs",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/synthiolabs.json"
-  },
-  {
     "id": 30425,
     "name": "Auctor",
     "slug": "auctor",
@@ -107171,17 +107137,17 @@
     "slug": "caucus",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d85ee8e46a07cfba77132afdefaa1146a8d986e.png",
-    "website": "https://www.usecaucus.com/",
+    "website": "https://www.getcaucus.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI agents that are designed for Congressional offices to help staffers. We’re introducing artificial intelligence into the operations of the Senate and House through purpose built agents that perform tasks at scale. ",
-    "one_liner": "AI Agents For Congressional Offices",
+    "long_description": "Caucus is the last piece of software the American government will ever need. We’re building Cursor for government: general purpose AI agents designed to understand workflows, integrate with existing tools, and eliminate the friction of fragmented software, starting with congressional offices. Just as Cursor revolutionizes coding, Caucus empowers government workers to streamline their daily tasks, eliminate fragmentation, and work at the speed of thought, enabling public servants to focus on high impact work and service.",
+    "one_liner": "The Last Piece of Software for the American Government",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1745963507,
     "tags": [
-      "GovTech",
-      "AI"
+      "Artificial Intelligence",
+      "GovTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -107245,6 +107211,86 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pgdog",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/pgdog.json"
+  },
+  {
+    "id": 30450,
+    "name": "Kestral",
+    "slug": "kestral",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2803b99a0f6ad3a6257fd02f86b580fc76eee42e.png",
+    "website": "https://kestral.team",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Kestral makes it clear what your customers want most, prioritizes those tasks for highest leverage, and closes the loop with those customers.\r\n\r\nWe (Brian and Bernard) have been close friends since university, and most recently worked together at Asana, leading AI and Authorization efforts. There we realized AI can completely disrupt the $50B Work Management Market, but it required a fresh start.\r\n\r\nWhat work we even choose to manage in the first place is critical, and the most important insights from customers are silo-ed in sales/CS while R&D gives their best shot at roadmaps meant to deliver impact. Significant requests sit in a backlog, duplicate asks flood the system, months wasted on \"strategic investments\". We want to bridge this gap.\r\n\r\nThis message is resonating with heads of sales, heads of product, CEOs, as well as individuals, all trying to make sure the most important things get done, with less wasted effort and more revenue/retention.\r\n\r\nKestral works by automatically take in customer data like sales call transcripts & feature request messages and a team of agents:\r\n1. analyze them for actionable takeaways, deal blockers, and nice to haves\r\n2. consolidate them and manage all the asks with citations\r\n3. prioritize them by impact and frequency to cut through the noise so you can see the biggest opportunities clearly\r\n4. connect them to your existing strategic roadmap so when the work gets done, we can automatically follow back up with your customers and win them over\r\n\r\nThis is just step one of our mission to revolutionize how work gets done -- starting with what we choose to work on, and hope you follow us along for the ride!",
+    "one_liner": "AI Task Prioritizer that connects customer impact to your work",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1746827982,
+    "tags": [
+      "Productivity",
+      "Team Collaboration",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kestral",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/kestral.json"
+  },
+  {
+    "id": 30451,
+    "name": "Bluejay",
+    "slug": "bluejay",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/684bf3f5cb96fd13c768923e057b6866d809a3a7.png",
+    "website": "https://getbluejay.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "E2E testing platform for AI voice agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1746833867,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Monitoring"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bluejay",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/bluejay.json"
   },
   {
     "id": 30452,
@@ -107405,6 +107451,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tinfoil",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/tinfoil.json"
+  },
+  {
+    "id": 30458,
+    "name": "Jeevy Fabrication",
+    "slug": "jeevy-fabrication",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eac311ec272dd9a9d05d85595f54625e24114fe0.png",
+    "website": "https://www.jeevyfabrication.com/",
+    "all_locations": "Cocoa, FL, USA",
+    "long_description": "Jeevy Fabrication is an AI-powered contractor that connects complex weld jobs to the best-fit shops—fast. We deliver top-tier QA and total transparency, all at better traditional outsourced pricing.\r\n\r\nOur software reduces bid and scheduling time for our in-network shops by over 80%. It converts manufacturing drawings into an accurate bill of materials and a resource-loaded, high-fidelity schedule—eliminating costly errors and rework. Using this our in-network fabricators can bid on more jobs and deliver more reliable results than their competitors. \r\n\r\nWe also offer our clients a streamlined purchasing and project tracking experience. Clients submit purchase requests, track schedules, access key documents, and receive real-time photo updates—all in one place. We provide traceability for easy material review and maintenance of domestic content standards as required. Faster decisions, fewer delays, complete visibility. ",
+    "one_liner": "AI Driven EPC - Weld Fabrication Contractor",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1746772622,
+    "tags": [
+      "Manufacturing",
+      "Aerospace",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/jeevy-fabrication",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/jeevy-fabrication.json"
   },
   {
     "id": 30461,
@@ -108080,6 +108168,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/den",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/den.json"
+  },
+  {
+    "id": 30539,
+    "name": "mlop",
+    "slug": "mlop",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3af9294b241ac810c538d00aea0a921d1229099f.png",
+    "website": "https://mlop.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A fully open sourced, performant and actionable Weights and Biases alternative",
+    "one_liner": "Experiment tracking for training ML models",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1746826132,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Machine Learning",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mlop",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/mlop.json"
   },
   {
     "id": 30541,

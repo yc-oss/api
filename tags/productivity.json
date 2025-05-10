@@ -2768,7 +2768,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -4339,12 +4339,12 @@
     "name": "Rollstack",
     "slug": "rollstack-2",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd99f12f76a266177e14e70e980faa586211bdce.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b9859794f0898e1d5e5d987728f6be874b3f4ee.png",
     "website": "https://www.rollstack.com",
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "Who hasn't spent hours creating or updating slide decks and documents with the latest data? Teams spend between 5h and 12h per week updating slides and docs. And in 75% of the cases, slides are reused.\r\n\r\n• Rollstack allows teams to automatically create and update Google slides and PowerPoint presentations with the latest data from their BI tools, CRMs, and data warehouse. \r\n\r\n• Rollstack helps teams automate their business reviews, financial reporting, and client presentations by scheduling updates, creating decks programmatically, and version control.\r\n\r\n• Rollstack also generates insights automatically from your visualizations and datasets.",
     "one_liner": "Automatically create and update data-driven slide decks and documents",
-    "team_size": 20,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1664774205,
@@ -4352,7 +4352,6 @@
       "Artificial Intelligence",
       "Productivity",
       "Analytics",
-      "Big Data",
       "Data Visualization"
     ],
     "tags_highlighted": [],
@@ -6229,5 +6228,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/auctor",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/auctor.json"
+  },
+  {
+    "id": 30450,
+    "name": "Kestral",
+    "slug": "kestral",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2803b99a0f6ad3a6257fd02f86b580fc76eee42e.png",
+    "website": "https://kestral.team",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Kestral makes it clear what your customers want most, prioritizes those tasks for highest leverage, and closes the loop with those customers.\r\n\r\nWe (Brian and Bernard) have been close friends since university, and most recently worked together at Asana, leading AI and Authorization efforts. There we realized AI can completely disrupt the $50B Work Management Market, but it required a fresh start.\r\n\r\nWhat work we even choose to manage in the first place is critical, and the most important insights from customers are silo-ed in sales/CS while R&D gives their best shot at roadmaps meant to deliver impact. Significant requests sit in a backlog, duplicate asks flood the system, months wasted on \"strategic investments\". We want to bridge this gap.\r\n\r\nThis message is resonating with heads of sales, heads of product, CEOs, as well as individuals, all trying to make sure the most important things get done, with less wasted effort and more revenue/retention.\r\n\r\nKestral works by automatically take in customer data like sales call transcripts & feature request messages and a team of agents:\r\n1. analyze them for actionable takeaways, deal blockers, and nice to haves\r\n2. consolidate them and manage all the asks with citations\r\n3. prioritize them by impact and frequency to cut through the noise so you can see the biggest opportunities clearly\r\n4. connect them to your existing strategic roadmap so when the work gets done, we can automatically follow back up with your customers and win them over\r\n\r\nThis is just step one of our mission to revolutionize how work gets done -- starting with what we choose to work on, and hope you follow us along for the ride!",
+    "one_liner": "AI Task Prioritizer that connects customer impact to your work",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1746827982,
+    "tags": [
+      "Productivity",
+      "Team Collaboration",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kestral",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/kestral.json"
   }
 ]

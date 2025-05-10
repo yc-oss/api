@@ -4413,6 +4413,59 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/unsurvey.json"
   },
   {
+    "id": 23105,
+    "name": "Bluecheck",
+    "slug": "bluecheck",
+    "former_names": [
+      "Socionity",
+      "CreatorOS",
+      "CreatorOS - Questbook",
+      "Questbook",
+      "Reclaim Protocol, Questbook"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa2cd181356c16e43310c40d13e664faf4716d3c.png",
+    "website": "https://thebluecheck.com",
+    "all_locations": "Hyderabad, Telangana, India; Remote",
+    "long_description": "Bluecheck is a verification company that leverages advances in AI and cryptography to bring you global, instantaneous and compliant verifications at the industry lowest costs.\r\n\r\nUsing Bluecheck, you can verify :\r\n- Education : Which university is this student enrolled in? 20k+ universities globally supported\r\n- Employment : Where is the user employed and what is their designation? Employers in all countries supported\r\n- Finances : What is the Credit Score and Accredited Investor status of the user? Again, all countries supported\r\n- Shopping : Where is the user spending, and what brands are they loyal to? Supporting all major ecommerce and travel services\r\n\r\nOnce you integrate Bluecheck, your users will be presented with a button similar to \"Login with Google\", but for the website from where we need to verify information. e.g. their university portal, their tax portals and so on.\r\nAs soon as they login, Bluecheck extracts the required information and verifies the integrity of it. Particularly, ensures that the user has not tampered with the data that was displayed by the website.\r\n\r\nThe verification is done using zero knowledge proofs using an open sourced library called Reclaim Protocol, that does this verification in a privacy preserving and compliant manner.",
+    "one_liner": "Industry's first sub-dollar user data verification company!",
+    "team_size": 26,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1616635998,
+    "tags": [
+      "AIOps",
+      "Crypto / Web3",
+      "Identity",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "India",
+      "South Asia",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bluecheck",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/bluecheck.json"
+  },
+  {
     "id": 23220,
     "name": "Lamar Health",
     "slug": "lamar-health",
@@ -6793,7 +6846,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -12062,6 +12115,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/casca.json"
   },
   {
+    "id": 28814,
+    "name": "OpenTools",
+    "slug": "opentools",
+    "former_names": [
+      "Odyssey AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3927ff309d52d222fc423bc00c5c7f463f090703.png",
+    "website": "https://opentools.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "The API for LLM tool use",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1688659817,
+    "tags": [
+      "Marketplace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/opentools",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/opentools.json"
+  },
+  {
     "id": 28815,
     "name": "Atla",
     "slug": "atla",
@@ -14058,7 +14152,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -15927,50 +16021,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ragas",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ragas.json"
-  },
-  {
-    "id": 29349,
-    "name": "Fuse",
-    "slug": "fuse-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cc54fa641b3cb3228721daab125c19f08d117b8.png",
-    "website": "http://www.fuseinsight.com",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "AI-powered intake, eligibility and benefits verification for US healthcare providers to free up admin time, improve the patient billing experience, and reduce denied claims. \r\n\r\nIf you know senior finance execs in health systems, partners in healthcare PE, or senior leaders in medical groups, please do connect us. We won’t waste their time: +1 628 468 3232.",
-    "one_liner": "AI helpers for patient intake and benefits checks",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1724162501,
-    "tags": [
-      "Fintech",
-      "Payments",
-      "B2B",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fuse-2",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/fuse-2.json"
   },
   {
     "id": 29353,
@@ -18808,6 +18858,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/aminoanalytica.json"
   },
   {
+    "id": 29695,
+    "name": "Dench.com",
+    "slug": "dench-com",
+    "former_names": [
+      "Merse",
+      "Merse Originals, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72652345dd93303f8e5c34c9302bbaeac39647b7.png",
+    "website": "https://dench.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dench.com is an AI Intake Specialist Platform that take calls from prospective clients, talks to them, vets them, conflict checks, does follow-ups and books an appointment, or it forwards the call to a human after client pre-qualification.\r\n\r\nWe convert rejected cases into paid referrals through our referral network, to land law firms  huge profits over “wasted” leads.\r\n\r\nFor a simple demo, try calling (415) 997-2939 as someone with any legal dispute, property or other variety of issues you can possibly imagine.",
+    "one_liner": "The AI Legal Intake",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1720334032,
+    "tags": [
+      "B2B",
+      "Legal",
+      "LegalTech",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dench-com",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/dench-com.json"
+  },
+  {
     "id": 29702,
     "name": "LedgerUp",
     "slug": "ledgerup",
@@ -20846,6 +20942,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/patched",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/patched.json"
+  },
+  {
+    "id": 29973,
+    "name": "Arva AI",
+    "slug": "arva-ai",
+    "former_names": [
+      "Tarit AI",
+      "Arva AI",
+      "Arva"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/637fd6f0b41173fce58a7cc13944c42be5d808ec.png",
+    "website": "https://www.arva.ai",
+    "all_locations": "",
+    "long_description": "Every time a business onboards onto a bank or fintech a human analyst has to conduct manual document verification. We replace those human KYB (know your business) analysts with AI agents that automate 80% of the manual work for faster and more compliant financial crime reviews.\r\n\r\nCurrently, 30% of know your business (KYB) cases result in manual review work. With Arva's AI agents the whole end-to-end onboarding experience is automated. Instant onboarding whilst reducing operational costs by 80%.\r\n\r\nOur end goal is to have a whole suite of AI workers that can handle manual compliance work for banks and fintechs. A $24B opportunity in the US alone.",
+    "one_liner": "AI to scale AML and KYB operations",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1721196993,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Compliance",
+      "Regtech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arva-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/arva-ai.json"
   },
   {
     "id": 29977,
@@ -24572,21 +24714,22 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/vibegrade.json"
   },
   {
-    "id": 30447,
-    "name": "Caucus",
-    "slug": "caucus",
+    "id": 30450,
+    "name": "Kestral",
+    "slug": "kestral",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d85ee8e46a07cfba77132afdefaa1146a8d986e.png",
-    "website": "https://www.usecaucus.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2803b99a0f6ad3a6257fd02f86b580fc76eee42e.png",
+    "website": "https://kestral.team",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI agents that are designed for Congressional offices to help staffers. We’re introducing artificial intelligence into the operations of the Senate and House through purpose built agents that perform tasks at scale. ",
-    "one_liner": "AI Agents For Congressional Offices",
+    "long_description": "Kestral makes it clear what your customers want most, prioritizes those tasks for highest leverage, and closes the loop with those customers.\r\n\r\nWe (Brian and Bernard) have been close friends since university, and most recently worked together at Asana, leading AI and Authorization efforts. There we realized AI can completely disrupt the $50B Work Management Market, but it required a fresh start.\r\n\r\nWhat work we even choose to manage in the first place is critical, and the most important insights from customers are silo-ed in sales/CS while R&D gives their best shot at roadmaps meant to deliver impact. Significant requests sit in a backlog, duplicate asks flood the system, months wasted on \"strategic investments\". We want to bridge this gap.\r\n\r\nThis message is resonating with heads of sales, heads of product, CEOs, as well as individuals, all trying to make sure the most important things get done, with less wasted effort and more revenue/retention.\r\n\r\nKestral works by automatically take in customer data like sales call transcripts & feature request messages and a team of agents:\r\n1. analyze them for actionable takeaways, deal blockers, and nice to haves\r\n2. consolidate them and manage all the asks with citations\r\n3. prioritize them by impact and frequency to cut through the noise so you can see the biggest opportunities clearly\r\n4. connect them to your existing strategic roadmap so when the work gets done, we can automatically follow back up with your customers and win them over\r\n\r\nThis is just step one of our mission to revolutionize how work gets done -- starting with what we choose to work on, and hope you follow us along for the ride!",
+    "one_liner": "AI Task Prioritizer that connects customer impact to your work",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1745963507,
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1746827982,
     "tags": [
-      "GovTech",
+      "Productivity",
+      "Team Collaboration",
       "AI"
     ],
     "tags_highlighted": [],
@@ -24607,8 +24750,50 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/caucus",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/caucus.json"
+    "url": "https://www.ycombinator.com/companies/kestral",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/kestral.json"
+  },
+  {
+    "id": 30458,
+    "name": "Jeevy Fabrication",
+    "slug": "jeevy-fabrication",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eac311ec272dd9a9d05d85595f54625e24114fe0.png",
+    "website": "https://www.jeevyfabrication.com/",
+    "all_locations": "Cocoa, FL, USA",
+    "long_description": "Jeevy Fabrication is an AI-powered contractor that connects complex weld jobs to the best-fit shops—fast. We deliver top-tier QA and total transparency, all at better traditional outsourced pricing.\r\n\r\nOur software reduces bid and scheduling time for our in-network shops by over 80%. It converts manufacturing drawings into an accurate bill of materials and a resource-loaded, high-fidelity schedule—eliminating costly errors and rework. Using this our in-network fabricators can bid on more jobs and deliver more reliable results than their competitors. \r\n\r\nWe also offer our clients a streamlined purchasing and project tracking experience. Clients submit purchase requests, track schedules, access key documents, and receive real-time photo updates—all in one place. We provide traceability for easy material review and maintenance of domestic content standards as required. Faster decisions, fewer delays, complete visibility. ",
+    "one_liner": "AI Driven EPC - Weld Fabrication Contractor",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1746772622,
+    "tags": [
+      "Manufacturing",
+      "Aerospace",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/jeevy-fabrication",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/jeevy-fabrication.json"
   },
   {
     "id": 30479,

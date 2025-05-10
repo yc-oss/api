@@ -7160,59 +7160,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/tint.json"
   },
   {
-    "id": 23105,
-    "name": "CreatorOS",
-    "slug": "creatoros",
-    "former_names": [
-      "Socionity",
-      "CreatorOS",
-      "CreatorOS - Questbook",
-      "Questbook",
-      "Reclaim Protocol, Questbook"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b512ecb3301ab8d683bbd5d94982b605acc6da8.png",
-    "website": "https://creatoros.co",
-    "all_locations": "Hyderabad, Telangana, India; Remote",
-    "long_description": "We build tools that allows enterprises verify information about a user *before* processing it - whether it is processed by a human or an AI agent.\r\n\r\nTraditionally, these verifications including but not limited to background checks cost ~$10. Using our advancements in AI and Cryptography, we're able to send that cost to a few cents. \r\n\r\nThis enables enterprises to do verification at scale, earlier in their work-flows, and enables new kinds of businesses - which were not performing these verifications because of prohibitively high costs.\r\n\r\nFor example, it makes no sense that a recruiter does a candidate's document verification and background checks AFTER the candidate has cleared all the interviews. That's because that verification is cumbersome and expensive. They can't afford to verify all the candidates at the top of the funnel. Many such workflows are ripe for disruption. \r\n\r\nAnother example of a product that was not possible before. A dating app uses our tools to verify the users' information - including their employment, education and financial background. This was something that would have been too expensive to verify at a $10 pricepoint where the ARPU is only $8. \r\n\r\nNot only that, we're designing the tools ground up - so that AI agents can utilize these verifications before ingesting information, so that they take action basis truthful information.\r\n\r\nWe have 3 tools\r\n1. BlueCheck : our flagship product for background verification. The cheapest option to verify users' employment, education and financial background. A few cents instead of a few tens of dollars. Several Billion Dollar+ revenue companies are customers. A solution designed for enterprises that works out of the box!\r\n2. Reclaim Protocol : our underlying infrastructure that makes BlueCheck possible. With advancements in cryptography, specifically zero knowledge proofs - our research over the last 3 years have resulted in inventing a new cryptographic primitive called zkTLS, which allows us to verify information from any website using the cryptography of the existing internet pipes (TLS). This is our secret sauce!\r\n3. Questbook : our dog-fooding tool. Questbook is a tool to give out research and open source software development grants. These grants are reviewed by AI agents that we built inhouse. The biggest scam people try is to fake who they are when they are applying for grants. We dog-food our own tools to make sure we verify all the claims the users are making when they apply for grants. Our tools secure more than $10M of grants being given out on the platform. So it's high stakes, and it works!",
-    "one_liner": "Building tools for verifying information consumed by AI agents",
-    "team_size": 26,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1616635998,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Crypto / Web3",
-      "Identity",
-      "API"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/creatoros",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/creatoros.json"
-  },
-  {
     "id": 23190,
     "name": "Biodock",
     "slug": "biodock",
@@ -11311,7 +11258,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -13774,12 +13721,12 @@
     "name": "Rollstack",
     "slug": "rollstack-2",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd99f12f76a266177e14e70e980faa586211bdce.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b9859794f0898e1d5e5d987728f6be874b3f4ee.png",
     "website": "https://www.rollstack.com",
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "Who hasn't spent hours creating or updating slide decks and documents with the latest data? Teams spend between 5h and 12h per week updating slides and docs. And in 75% of the cases, slides are reused.\r\n\r\n• Rollstack allows teams to automatically create and update Google slides and PowerPoint presentations with the latest data from their BI tools, CRMs, and data warehouse. \r\n\r\n• Rollstack helps teams automate their business reviews, financial reporting, and client presentations by scheduling updates, creating decks programmatically, and version control.\r\n\r\n• Rollstack also generates insights automatically from your visualizations and datasets.",
     "one_liner": "Automatically create and update data-driven slide decks and documents",
-    "team_size": 20,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1664774205,
@@ -13787,7 +13734,6 @@
       "Artificial Intelligence",
       "Productivity",
       "Analytics",
-      "Big Data",
       "Data Visualization"
     ],
     "tags_highlighted": [],
@@ -15829,7 +15775,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -20694,6 +20640,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/parallel.json"
   },
   {
+    "id": 29349,
+    "name": "Fuse",
+    "slug": "fuse-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3cc54fa641b3cb3228721daab125c19f08d117b8.png",
+    "website": "http://www.fuseinsight.com",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "AI-powered intake, eligibility and benefits verification for US healthcare providers to radically improve the patient billing experience. \r\n\r\nIf you know senior execs in medical groups or partners in healthcare PE please do connect us. We won’t waste their time: +1 628 468 3232.",
+    "one_liner": "AI helpers for patient intake and benefits checks",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1724162501,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Payments",
+      "B2B",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fuse-2",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/fuse-2.json"
+  },
+  {
     "id": 29350,
     "name": "Aether Energy",
     "slug": "aether-energy",
@@ -22856,6 +22846,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/superunit.json"
   },
   {
+    "id": 29579,
+    "name": "Understood Care",
+    "slug": "understood-care",
+    "former_names": [
+      "Ply Health, Inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/895bc73d946362c90b0900dbf85005b76c9c34c9.png",
+    "website": "https://understoodcare.com",
+    "all_locations": "Irvine, CA, USA",
+    "long_description": "The American healthcare system is complicated. 88% of US adults cite difficulties navigating the healthcare system. \r\n\r\nThe good news is patient advocacy became a covered benefit by Medicare in 2024. \r\n\r\nUnderstood Care matches Medicare patients with a healthcare personal assistant (known as a Patient Advocate) at little to no cost to the patient. Patient Advocates help patients patients access care - finding resources, helping fill out paperwork, and much more. \r\n\r\nUnderstood Care uses AI and healthcare expertise to deliver the highest quality patient advocacy to the 66 million Medicare patients in the US. ",
+    "one_liner": "Healthcare personal assistants for Medicare patients.",
+    "team_size": 7,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1715876832,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Healthcare",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/understood-care",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/understood-care.json"
+  },
+  {
     "id": 29588,
     "name": "Saphira AI",
     "slug": "saphira-ai",
@@ -23805,52 +23840,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gauge",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/gauge.json"
-  },
-  {
-    "id": 29695,
-    "name": "Dench.com",
-    "slug": "dench-com",
-    "former_names": [
-      "Merse",
-      "Merse Originals, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72652345dd93303f8e5c34c9302bbaeac39647b7.png",
-    "website": "https://dench.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dench.com is an AI Intake Specialist Platform that take calls from prospective clients, talks to them, vets them, conflict checks, does follow-ups and books an appointment, or it forwards the call to a human after client pre-qualification.\r\n\r\nWe convert rejected cases into paid referrals through our referral network, to land law firms  huge profits over “wasted” leads.\r\n\r\nFor a simple demo, try calling (415) 997-2939 as someone with any legal dispute, property or other variety of issues you can possibly imagine.",
-    "one_liner": "AI Secretary to pre-qualify leads for law firms",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Consumer",
-    "launched_at": 1720334032,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Legal",
-      "LegalTech",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dench-com",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/dench-com.json"
   },
   {
     "id": 29697,
@@ -25938,52 +25927,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/affil-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/affil-ai.json"
-  },
-  {
-    "id": 29973,
-    "name": "Arva AI",
-    "slug": "arva-ai",
-    "former_names": [
-      "Tarit AI",
-      "Arva AI",
-      "Arva"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/637fd6f0b41173fce58a7cc13944c42be5d808ec.png",
-    "website": "https://www.arva.ai",
-    "all_locations": "",
-    "long_description": "Every time a business onboards onto a bank or fintech a human analyst has to conduct manual document verification. We replace those human KYB (know your business) analysts with AI agents that automate 80% of the manual work for faster and more compliant financial crime reviews.\r\n\r\nCurrently, 30% of know your business (KYB) cases result in manual review work. With Arva's AI agents the whole end-to-end onboarding experience is automated. Instant onboarding whilst reducing operational costs by 80%.\r\n\r\nOur end goal is to have a whole suite of AI workers that can handle manual compliance work for banks and fintechs. A $24B opportunity in the US alone.",
-    "one_liner": "AI scale AML and KYB operations",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1721196993,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "B2B",
-      "Compliance",
-      "Regtech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arva-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/arva-ai.json"
   },
   {
     "id": 29978,
@@ -29501,6 +29444,85 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/percival",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/percival.json"
+  },
+  {
+    "id": 30447,
+    "name": "Caucus",
+    "slug": "caucus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d85ee8e46a07cfba77132afdefaa1146a8d986e.png",
+    "website": "https://www.getcaucus.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Caucus is the last piece of software the American government will ever need. We’re building Cursor for government: general purpose AI agents designed to understand workflows, integrate with existing tools, and eliminate the friction of fragmented software, starting with congressional offices. Just as Cursor revolutionizes coding, Caucus empowers government workers to streamline their daily tasks, eliminate fragmentation, and work at the speed of thought, enabling public servants to focus on high impact work and service.",
+    "one_liner": "The Last Piece of Software for the American Government",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1745963507,
+    "tags": [
+      "Artificial Intelligence",
+      "GovTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/caucus",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/caucus.json"
+  },
+  {
+    "id": 30451,
+    "name": "Bluejay",
+    "slug": "bluejay",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/684bf3f5cb96fd13c768923e057b6866d809a3a7.png",
+    "website": "https://getbluejay.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "E2E testing platform for AI voice agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1746833867,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Monitoring"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bluejay",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/bluejay.json"
   },
   {
     "id": 30453,
