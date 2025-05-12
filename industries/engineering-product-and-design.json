@@ -11218,6 +11218,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/nyckel.json"
   },
   {
+    "id": 25402,
+    "name": "Rownd",
+    "slug": "rownd",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc98a09682a41887bdb0e02c2a46d451af3432d2.png",
+    "website": "https://rownd.io",
+    "all_locations": "Raleigh, NC, USA",
+    "long_description": "Rownd is the dynamic backbone for tomorrow’s AI-powered apps, unifying authentication, messaging, payments, and and more into one adaptive platform. \r\n\r\nOur AI-driven platform makes setup a breeze while Rownd's code snippets and SDKs replace static login walls, user management, and subscription management with personalized, context-aware journeys that scale effortlessly. \r\n\r\nFree up to 1 M MAUs, Rownd gives startups and enterprises the runway to innovate boldly and seize market leadership.",
+    "one_liner": "One platform for auth, messaging, payments & AI-ready services.",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1643295526,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Security"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rownd",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/rownd.json"
+  },
+  {
     "id": 25418,
     "name": "CUTR",
     "slug": "cutr",
@@ -16137,15 +16180,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/885d2be670d352a8d396403e926005fd75ce210b.png",
     "website": "https://sweep.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sweep is the best enterprise AI coding assistant for JetBrains. No data ever leaves your VPC.",
+    "long_description": "Sweep is the best enterprise AI coding assistant for JetBrains. No data ever leaves your VPC. https://sweep.dev",
     "one_liner": "The best AI coding assistant for JetBrains",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1684527271,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -17932,7 +17975,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bef07502fc1183c53ca01386fbdf17f2db71ba2.png",
     "website": "https://www.tensorfuse.io/",
     "all_locations": "",
-    "long_description": "Tensorfuse makes it easy to deploy and auto-scale AI models on your own infra using the CLI. It’s like using Modal/Replicate/Together with your cloud credits.\r\n\r\nTensorfuse automatically scales in response to the amount of traffic your app receives. Fast cold boots with our optimized container system. Describe container images and hardware specifications in simple Python. No YAML.\r\n\r\nBehind the scenes, we manage custom k8s clusters which run the Tensorfuse Runtime.",
+    "long_description": "Tensorfuse helps companies run fast, scalable AI inference in their **own AWS account**. Just bring:\r\n\r\n1. Your code and env as Dockerfile\r\n2. Your AWS account with GPU capacity\r\n\r\nWe handle the rest—deploying, managing, and autoscaling your GPU containers on production-grade infrastructure. \r\n\r\nRun any model, use any inference server (vLLM, TensorRT, Dynamo) and get ready to scale your AI inference to 1000s of users - all set up in under 60 mins",
     "one_liner": "Run serverless GPUs on your own cloud",
     "team_size": 2,
     "industry": "B2B",
@@ -22613,6 +22656,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/human-behavior",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/human-behavior.json"
+  },
+  {
+    "id": 30533,
+    "name": "Delty",
+    "slug": "delty",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a497a3dd8d97bd1afd47deddea2d641ad655b69.png",
+    "website": "https://delty.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "As software systems grow more complex and teams scale, key engineering work happens outside of code: product specs, docs, and architecture decisions and norms. That’s where a staff software engineer shines.\r\n\r\nLike a seasoned engineer embedded in your team, Delty understands your architecture, code evolution, and constraints. It designs new software systems and grounds your coding agents with real engineering context to help you deliver reliable, scalable systems, fast.",
+    "one_liner": "AI staff engineer that designs systems and guides coding agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1746945144,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/delty",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/delty.json"
   },
   {
     "id": 30544,

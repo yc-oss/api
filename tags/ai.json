@@ -8183,6 +8183,54 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/popsy.json"
   },
   {
+    "id": 26800,
+    "name": "Juicebox",
+    "slug": "juicebox",
+    "former_names": [
+      "Juicebox App",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a2858087cb4a0409dfdf9550fd470d4f1798ec6.png",
+    "website": "https://juicebox.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "In the past decade, the recruiting industry has not had any innovation. AI has created an opportunity to disrupt it through software that can reason and take actions.\r\n\r\nJuicebox is an AI-powered recruiting platform. We build agentic workflows to identify, assess, and engage the best talent.\r\n\r\nWe’ve grown to 7 figures in revenue with 20% monthly growth. We have 500+ customers including Patreon, Replit, and leading AI labs.",
+    "one_liner": "AI-powered talent sourcing for recruiters",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1659905940,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Recruiting",
+      "HR Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/juicebox",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/juicebox.json"
+  },
+  {
     "id": 26825,
     "name": "Flair Labs",
     "slug": "flair-labs",
@@ -9418,7 +9466,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -9688,7 +9736,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -13354,47 +13402,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/silimate.json"
   },
   {
-    "id": 29013,
-    "name": "Sweep",
-    "slug": "sweep",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/885d2be670d352a8d396403e926005fd75ce210b.png",
-    "website": "https://sweep.dev/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sweep is the best enterprise AI coding assistant for JetBrains. No data ever leaves your VPC.",
-    "one_liner": "The best AI coding assistant for JetBrains",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1684527271,
-    "tags": [
-      "Developer Tools",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sweep",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/sweep.json"
-  },
-  {
     "id": 29018,
     "name": "sudocode",
     "slug": "sudocode",
@@ -14129,6 +14136,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nowadays",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/nowadays.json"
+  },
+  {
+    "id": 29120,
+    "name": "Morph",
+    "slug": "morph",
+    "former_names": [
+      "AutoInfra"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bccd87f3418251f26029501fe73c506db3f2695.png",
+    "website": "https://morphllm.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Everything you need to build Cursor for ___\r\n\r\nAPIs for the \"other models\" you need to build coding agents that work and feel like the best. Use alongside Gemini, Claude, or GPT + maintain full control of your agents. \r\n",
+    "one_liner": "Tools for building agents that edit code and files",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1686706939,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "API",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/morph",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/morph.json"
   },
   {
     "id": 29125,
@@ -15244,6 +15297,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mango-health",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/mango-health.json"
+  },
+  {
+    "id": 29273,
+    "name": "Pivot Robotics",
+    "slug": "pivot-robotics",
+    "former_names": [
+      "Pivot AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee0d44cf8688258862f3d2457491a3a79d07f53c.png",
+    "website": "https://pivotrobotics.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pivot Robotics makes AI software for robotic arms that helps manufacturers automate their most labor intensive tasks. We are starting out with the dangerous task of metal grinding and are currently deploying our software on 10+ robots in a cast-iron foundry. ",
+    "one_liner": "AI for Robot Arms in Factories",
+    "team_size": 6,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1709584102,
+    "tags": [
+      "Robotics",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pivot-robotics",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/pivot-robotics.json"
   },
   {
     "id": 29285,
@@ -22540,7 +22636,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -24626,6 +24722,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/frekil.json"
   },
   {
+    "id": 30406,
+    "name": "BitBoard",
+    "slug": "bitboard",
+    "former_names": [
+      "Realm"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f783a2b5cb286e4aab0c053b944fef2a3dede92.png",
+    "website": "https://bitboard.work/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "BitBoard lets healthcare providers hire AI agents for repetitive administrative work within their existing tools and systems.\r\n\r\nBitBoard agents are already recovering thousands of hours previously spent on tedious tasks like reviewing intake forms and updating patient charts.\r\n\r\nThe founders were early employees at Forward, where they delivered primary care across the US with support from thousands of remote contractors handling manual administrative tasks. AI agents are finally capable enough to help.",
+    "one_liner": "The AI workforce for healthcare operations.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "B2B",
+    "launched_at": 1746992332,
+    "tags": [
+      "Healthcare",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bitboard",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/bitboard.json"
+  },
+  {
     "id": 30431,
     "name": "Chonkie",
     "slug": "chonkie",
@@ -25086,45 +25225,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/klavis-ai.json"
   },
   {
-    "id": 30514,
-    "name": "Scalar Field",
-    "slug": "scalar-field",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b28fd1bee5f680014678e8985405788a687849f.png",
-    "website": "https://www.scalarfield.io/",
-    "all_locations": "",
-    "long_description": "We are Scalar Field, and we are redefining the Bloomberg terminal with AI.\r\n\r\nFounded by Aman (ex-Tower, ex-Goldman) and Ramakant (ex-Microsoft), Scalar Field is already trusted by 800 traders, generating $74,000 per month in revenue.\r\n\r\nOur core hypothesis is simple: whenever an analyst, trader, or quant looks at a Bloomberg or FactSet terminal, they are—consciously or subconsciously—trying to verify a hypothesis. Current terminals make this process cumbersome, requiring users to sift through endless screens of data.\r\n\r\nAt Scalar Field, we are rebuilding the trading terminal from the ground up, enabling users to directly test their hypotheses in real time, cutting through the noise and accelerating decision-making.",
-    "one_liner": "Reinventing the trading terminal — one intelligent agent at a time.",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1746086893,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/scalar-field",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/scalar-field.json"
-  },
-  {
     "id": 30518,
     "name": "Zero",
     "slug": "zero",
@@ -25258,6 +25358,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rimba",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/rimba.json"
+  },
+  {
+    "id": 30533,
+    "name": "Delty",
+    "slug": "delty",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a497a3dd8d97bd1afd47deddea2d641ad655b69.png",
+    "website": "https://delty.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "As software systems grow more complex and teams scale, key engineering work happens outside of code: product specs, docs, and architecture decisions and norms. That’s where a staff software engineer shines.\r\n\r\nLike a seasoned engineer embedded in your team, Delty understands your architecture, code evolution, and constraints. It designs new software systems and grounds your coding agents with real engineering context to help you deliver reliable, scalable systems, fast.",
+    "one_liner": "AI staff engineer that designs systems and guides coding agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1746945144,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/delty",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/delty.json"
   },
   {
     "id": 30538,

@@ -2503,13 +2503,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pivot Robotics makes AI software for robotic arms that helps manufacturers automate their most labor intensive tasks. We are starting out with the dangerous task of metal grinding and are currently deploying our software on 10+ robots in a cast-iron foundry. ",
     "one_liner": "AI for Robot Arms in Factories",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1709584102,
     "tags": [
-      "Artificial Intelligence",
       "Robotics",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -3140,6 +3140,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/proception-inc.json"
   },
   {
+    "id": 30409,
+    "name": "Notus Autonomous Systems",
+    "slug": "notus-autonomous-systems",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/150f2e7e6d2a2bd403e6eef32fdfbeff6beca871.png",
+    "website": "http://www.notussystems.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We develop drones and land based autonomous robots that are designed to be controlled as groups and execute autonomous missions instead of requiring skilled operators to pilot or control. Once a critical mass of intelligent devices are deployed on the battlefield, it will fundamentally reshape the command structure of the modern military into something resembling an RTS game (Like Starcraft, Civilization, Command & Conquer, etc), reducing response times from minutes to milliseconds.",
+    "one_liner": "Swarm robotics and full AI-command hierarchy integration",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1746979571,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Drones",
+      "3D Printing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/notus-autonomous-systems",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/notus-autonomous-systems.json"
+  },
+  {
     "id": 30434,
     "name": "Zeon Systems",
     "slug": "zeon-systems",
@@ -3227,48 +3269,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/vassar-robotics.json"
   },
   {
-    "id": 30512,
-    "name": "MorphoAI",
-    "slug": "morphoai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6d184a7985bf94fb06fe3645712c7af87070512.png",
-    "website": "https://morpho.ai/",
-    "all_locations": "",
-    "long_description": "We're building an AI powered platform for engineers that are building new robots and machines. \r\n\r\nWe allow users to invent and modify machine designs in a matter of minutes, not years. Ayna and Andy, the co-founders, met during their time at Harvard and started this in 2024 as their programs were wrapping up. We're commercializing 10+ years research done by our team at Harvard and MIT on this space. Our team wrote the very first papers on applying GenAI and optimization algorithms to compose robots from parts and applying computational design to fine tune machine designs. We're bringing in our deep knowledge of modifying equipment and integrating it into factories keenly understanding what makes hardware hard. \r\n\r\nWe take in parts under consideration, constraints and tasks at hand and our algorithm formulates and fine tunes from 100s of possible design options. All in a few clicks, so engineers can push hardware to market faster and companies can benefit from the inventions being done by their R&D teams. We already have two paying customers in the OEM and system integrator spaces. \r\n\r\nWe are venture backed and supported by a GBP 2.5MM grant by ARIA, the UK Government's invention agency. ",
-    "one_liner": "AI powered CAD for robotics and machine engineering",
-    "team_size": 5,
-    "industry": "Industrials",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1746718035,
-    "tags": [
-      "Artificial Intelligence",
-      "Robotics",
-      "B2B",
-      "Manufacturing",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/morphoai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/morphoai.json"
-  },
-  {
     "id": 30560,
     "name": "Sava Robotics",
     "slug": "sava-robotics",
@@ -3276,8 +3276,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cfd3f761dfc0fcff51a0650948673bd04f8702b.png",
     "website": "https://www.savarobotics.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sava is building robots to operate any existing machine in manufacturing. We're starting with the CNC Press Brake and have bent our first production part. ",
-    "one_liner": "Intelligent Robots for Sheet Metal",
+    "long_description": "Sava is building robots to operate any existing machine in manufacturing. We're starting with the CNC Press Brake and have bent our first production parts.",
+    "one_liner": "Robot Operators for Sheet Metal",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
