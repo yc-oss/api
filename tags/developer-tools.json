@@ -15565,11 +15565,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688142176,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "DevSecOps",
       "Machine Learning",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16310,20 +16310,20 @@
     "name": "FlowiseAI",
     "slug": "flowiseai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6c1c9b6e16de0c6a1de55b81d8dbf0fbf3f3ad1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/430a7c6b91b2b976c63ca3ebab6cfe4e2a6371d4.png",
     "website": "https://flowiseai.com",
     "all_locations": "Remote",
     "long_description": "Flowise uses low-code approach that enable developers to manage the whole lifecycle of building LLMs apps in production. From protoyping, evaluation, to iterations.",
-    "one_liner": "Open source Low-Code LLM development platform",
+    "one_liner": "Open source GenAI development platform",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1688552847,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16342,7 +16342,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/flowiseai",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/flowiseai.json"
@@ -19731,49 +19731,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/freestyle.json"
   },
   {
-    "id": 29989,
-    "name": "Melty",
-    "slug": "melty",
-    "former_names": [
-      "BookMe"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5957c080cba74e8f92840d3baeec2beaae949d4b.png",
-    "website": "https://melty.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building Chorus, a Mac app that lets you chat with O1, Claude, Perplexity, Deepseek, and others on your desktop. Find the right model for each task, get more creativity without copy–pasting prompts, and get more reliability without manually comparing model outputs.",
-    "one_liner": "Chat with a bunch of AIs at once",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1725301012,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/melty",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/melty.json"
-  },
-  {
     "id": 29992,
     "name": "Outerport",
     "slug": "outerport",
@@ -20381,16 +20338,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac03a28cb503f64a3f8684816a352307a74638e1.png",
     "website": "https://www.tropir.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke—a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the text flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nY Combinator backs us, and we're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
+    "long_description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke—a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the information flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
     "one_liner": "Traceback why your AI failed",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1746601065,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -20669,51 +20626,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/a0-dev",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/a0-dev.json"
-  },
-  {
-    "id": 30231,
-    "name": "Sift Dev",
-    "slug": "sift-dev",
-    "former_names": [
-      "Sift",
-      "Serix"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d00fe727e32957a1207328fc67938587038c996.png",
-    "website": "https://www.runsift.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Logging is broken. Engineers waste hours in endless data.\r\nSift Dev is building a future where you never read another log - starting with an AI pipeline to identify what matters and silence the noise.",
-    "one_liner": "Never Look at a Log Again",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1737662674,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "Generative AI",
-      "SaaS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sift-dev",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/sift-dev.json"
   },
   {
     "id": 30255,
@@ -21540,6 +21452,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simstudio",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/simstudio.json"
+  },
+  {
+    "id": 30449,
+    "name": "Attune",
+    "slug": "attune",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8df0ce49cc11e96b09c8980da86ed900b39fe9dc.png",
+    "website": "https://attunehq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Attune makes blazingly fast build tools that require zero migration effort.\r\n\r\nAs AI enables developers to write code faster than ever, slow builds are increasingly becoming the bottleneck in development velocity. Developers regularly lose hours of productivity every day waiting for their builds. Imagine being able to write code in 1 minute, but needing to wait 30 minutes to compile, deploy, and test it.\r\n\r\nExisting solutions either require painful migrations to new tools (e.g. Bazel) or rely on just using bigger servers to run your build. Instead, we do native, first-class integrations into compilers and build systems.\r\n\r\nWith Attune, you don't need to integrate a new tool. Just make a one-line change from `cargo build` to `hurry cargo build` for 20x faster builds.\r\n\r\nEliza (ex-Google) and Xin worked together for 3 years at FOSSA, where Eliza was Head of Engineering and Xin was Head of Product. Eliza brings a decade of programming languages and build systems expertise, while Xin brings a decade of experience building developer tools products, most recently as VP of Product at Teleport (S15). Having experienced the pain of slow builds firsthand across hundreds of production codebases, we're building the solution we've always wanted.",
+    "one_liner": "Faster builds, zero effort.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1747089464,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "DevOps",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/attune",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/attune.json"
   },
   {
     "id": 30452,

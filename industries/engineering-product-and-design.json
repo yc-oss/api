@@ -15867,11 +15867,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688142176,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "DevSecOps",
       "Machine Learning",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16429,20 +16429,20 @@
     "name": "FlowiseAI",
     "slug": "flowiseai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6c1c9b6e16de0c6a1de55b81d8dbf0fbf3f3ad1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/430a7c6b91b2b976c63ca3ebab6cfe4e2a6371d4.png",
     "website": "https://flowiseai.com",
     "all_locations": "Remote",
     "long_description": "Flowise uses low-code approach that enable developers to manage the whole lifecycle of building LLMs apps in production. From protoyping, evaluation, to iterations.",
-    "one_liner": "Open source Low-Code LLM development platform",
+    "one_liner": "Open source GenAI development platform",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1688552847,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16461,7 +16461,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/flowiseai",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/flowiseai.json"
@@ -17975,7 +17975,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bef07502fc1183c53ca01386fbdf17f2db71ba2.png",
     "website": "https://www.tensorfuse.io/",
     "all_locations": "",
-    "long_description": "Tensorfuse helps companies run fast, scalable AI inference in their **own AWS account**. Just bring:\r\n\r\n1. Your code and env as Dockerfile\r\n2. Your AWS account with GPU capacity\r\n\r\nWe handle the rest—deploying, managing, and autoscaling your GPU containers on production-grade infrastructure. \r\n\r\nRun any model, use any inference server (vLLM, TensorRT, Dynamo) and get ready to scale your AI inference to 1000s of users - all set up in under 60 mins",
+    "long_description": "Tensorfuse helps you run fast, scalable AI inference in your own AWS account. Run any model, use any inference server (vLLM, TensorRT, Dynamo) and get ready to scale your AI inference to 1000s of users - all set up in under 60 mins\r\n\r\nJust bring:\r\n1. Your code and env as Dockerfile\r\n2. Your AWS account with GPU capacity\r\n\r\nWe handle the rest—deploying, managing, and autoscaling your GPU containers on production-grade infrastructure. ",
     "one_liner": "Run serverless GPUs on your own cloud",
     "team_size": 2,
     "industry": "B2B",
@@ -17984,7 +17984,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -20500,18 +20500,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5957c080cba74e8f92840d3baeec2beaae949d4b.png",
     "website": "https://melty.sh",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "We're building Chorus, a Mac app that lets you chat with O1, Claude, Perplexity, Deepseek, and others on your desktop. Find the right model for each task, get more creativity without copy–pasting prompts, and get more reliability without manually comparing model outputs.",
     "one_liner": "Chat with a bunch of AIs at once",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725301012,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -20523,8 +20519,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -21196,8 +21191,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3854a114899cbd01548be14b47a9169f22c776a0.png",
     "website": "https://partcl.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Partcl is bringing chip design automation into the 21st century with physics-informed models accelerated using GPUs.\r\nOur tools bring 700x speedups, saving weeks of engineering effort and enabling AI-driven optimization.\r\n\r\nWe have worked directly on some of the most-advanced chips ever designed and are advised by top VLSI researchers. \r\n",
-    "one_liner": "GPU accelerated chip design tools",
+    "long_description": "Partcl modernizes chip design automation with physics-informed models powered by GPU acceleration. \r\nOur tools run up to 700× faster than legacy solutions, cutting weeks off development and unlocking AI-driven optimization.",
+    "one_liner": "Design a chip in minutes",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21528,18 +21523,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfc860ae54b7e3a7f3fdaf19550aa06087041ede.png",
     "website": "https://www.adamcad.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Adam is an AI CAD co-pilot for hardware design. It transforms plain text descriptions into parametric 3D models in seconds so engineering teams can ship 10x faster. Our mission is to eliminate the gap between engineering and reality so more great ideas come into existence.",
     "one_liner": "AI Powered CAD",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737056992,
-    "tags": [
-      "Generative AI",
-      "Hardware",
-      "Design Tools"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -21551,8 +21542,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -22493,6 +22483,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/chonkie.json"
   },
   {
+    "id": 30449,
+    "name": "Attune",
+    "slug": "attune",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8df0ce49cc11e96b09c8980da86ed900b39fe9dc.png",
+    "website": "https://attunehq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Attune makes blazingly fast build tools that require zero migration effort.\r\n\r\nAs AI enables developers to write code faster than ever, slow builds are increasingly becoming the bottleneck in development velocity. Developers regularly lose hours of productivity every day waiting for their builds. Imagine being able to write code in 1 minute, but needing to wait 30 minutes to compile, deploy, and test it.\r\n\r\nExisting solutions either require painful migrations to new tools (e.g. Bazel) or rely on just using bigger servers to run your build. Instead, we do native, first-class integrations into compilers and build systems.\r\n\r\nWith Attune, you don't need to integrate a new tool. Just make a one-line change from `cargo build` to `hurry cargo build` for 20x faster builds.\r\n\r\nEliza (ex-Google) and Xin worked together for 3 years at FOSSA, where Eliza was Head of Engineering and Xin was Head of Product. Eliza brings a decade of programming languages and build systems expertise, while Xin brings a decade of experience building developer tools products, most recently as VP of Product at Teleport (S15). Having experienced the pain of slow builds firsthand across hundreds of production codebases, we're building the solution we've always wanted.",
+    "one_liner": "Faster builds, zero effort.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1747089464,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "DevOps",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/attune",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/attune.json"
+  },
+  {
     "id": 30454,
     "name": "Operative.sh",
     "slug": "operative-sh",
@@ -22658,6 +22690,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/human-behavior.json"
   },
   {
+    "id": 30498,
+    "name": "Alkali",
+    "slug": "alkali",
+    "former_names": [
+      "Alkali",
+      "Alkali Engineering"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/434ebaced47759c6ad84d0780081ce1d2be24afe.png",
+    "website": "https://alkali-eng.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Alkali is building the co-pilot for chemical process design. Spot design errors earlier, get the right equipment sooner, and build chemical projects faster.",
+    "one_liner": "The Co-Pilot for Chemical Process Design",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1747069774,
+    "tags": [
+      "B2B",
+      "Design Tools",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/alkali",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/alkali.json"
+  },
+  {
     "id": 30533,
     "name": "Delty",
     "slug": "delty",
@@ -22672,8 +22748,9 @@
     "subindustry": "B2B",
     "launched_at": 1746945144,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
+      "SaaS",
+      "B2B",
       "Enterprise Software",
       "AI"
     ],

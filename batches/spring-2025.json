@@ -133,16 +133,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac03a28cb503f64a3f8684816a352307a74638e1.png",
     "website": "https://www.tropir.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke—a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the text flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nY Combinator backs us, and we're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
+    "long_description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke—a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the information flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
     "one_liner": "Traceback why your AI failed",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1746601065,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -176,8 +176,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3854a114899cbd01548be14b47a9169f22c776a0.png",
     "website": "https://partcl.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Partcl is bringing chip design automation into the 21st century with physics-informed models accelerated using GPUs.\r\nOur tools bring 700x speedups, saving weeks of engineering effort and enabling AI-driven optimization.\r\n\r\nWe have worked directly on some of the most-advanced chips ever designed and are advised by top VLSI researchers. \r\n",
-    "one_liner": "GPU accelerated chip design tools",
+    "long_description": "Partcl modernizes chip design automation with physics-informed models powered by GPU acceleration. \r\nOur tools run up to 700× faster than legacy solutions, cutting weeks off development and unlocking AI-driven optimization.",
+    "one_liner": "Design a chip in minutes",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -251,6 +251,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/blaxel.json"
   },
   {
+    "id": 30367,
+    "name": "QFEX",
+    "slug": "qfex",
+    "former_names": [
+      "PSEx"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2005304564bb67a368e45e33653755e6f1ff55d.png",
+    "website": "https://qfex.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "QFEX is the 24/7 exchange for traditional financial markets.\r\n\r\nWe let you trade US equities, commodities and FX pairs with (or without) leverages of up to 100x. On QFEX, UX comes first: brokerless market access, seamless integration with traditional payment rails, and ultra-efficient Perpetual Futures offered over all asset classes. Trading has never been simpler or cheaper than with QFEX.\r\n\r\nFounded by Quants and Engineers from Citadel & Tower Research who saw an opportunity to make markets how they always should have been, QFEX will eventually replace the entire $100 billion exchange and clearing industry.",
+    "one_liner": "24/7 Global Stock Exchange",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1747069734,
+    "tags": [
+      "Fintech",
+      "Consumer Finance",
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/qfex",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/qfex.json"
+  },
+  {
     "id": 30399,
     "name": "Frekil",
     "slug": "frekil",
@@ -261,15 +304,15 @@
     "long_description": "AI is transforming healthcare, but the biggest bottleneck remains—procuring and annotating medical images with speed, accuracy, and scale. Frekil eliminates this roadblock.\r\n\r\nFrekil helps healthcare AI teams, medical device companies, and pharmaceutical companies procure and annotate medical images like X-rays, CTs, MRIs, etc., efficiently for AI training, clinical trials, and FDA approvals. Our AI-assisted platform speeds up annotation 10x while maintaining high accuracy through real-time quality control, consensus checks, and advanced 3D visualization.\r\n\r\nWe also provide tools to track annotator performance, build custom workflows, and increase labeling accuracy. By combining efficiency with precision, Frekil enables teams to build high-quality datasets much faster, supporting the development and deployment of reliable medical AI and clinical research solutions.",
     "one_liner": "Data Engine for Medical AI",
     "team_size": 2,
-    "industry": "B2B",
+    "industry": "Healthcare",
     "subindustry": "B2B",
     "launched_at": 1744440110,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Healthcare",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -278,7 +321,7 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Healthcare"
     ],
     "regions": [
       "United States of America",
@@ -1349,6 +1392,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/pgdog.json"
   },
   {
+    "id": 30449,
+    "name": "Attune",
+    "slug": "attune",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8df0ce49cc11e96b09c8980da86ed900b39fe9dc.png",
+    "website": "https://attunehq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Attune makes blazingly fast build tools that require zero migration effort.\r\n\r\nAs AI enables developers to write code faster than ever, slow builds are increasingly becoming the bottleneck in development velocity. Developers regularly lose hours of productivity every day waiting for their builds. Imagine being able to write code in 1 minute, but needing to wait 30 minutes to compile, deploy, and test it.\r\n\r\nExisting solutions either require painful migrations to new tools (e.g. Bazel) or rely on just using bigger servers to run your build. Instead, we do native, first-class integrations into compilers and build systems.\r\n\r\nWith Attune, you don't need to integrate a new tool. Just make a one-line change from `cargo build` to `hurry cargo build` for 20x faster builds.\r\n\r\nEliza (ex-Google) and Xin worked together for 3 years at FOSSA, where Eliza was Head of Engineering and Xin was Head of Product. Eliza brings a decade of programming languages and build systems expertise, while Xin brings a decade of experience building developer tools products, most recently as VP of Product at Teleport (S15). Having experienced the pain of slow builds firsthand across hundreds of production codebases, we're building the solution we've always wanted.",
+    "one_liner": "Faster builds, zero effort.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1747089464,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "DevOps",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/attune",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/attune.json"
+  },
+  {
     "id": 30450,
     "name": "Kestral",
     "slug": "kestral",
@@ -1682,15 +1767,16 @@
     "website": "https://linkd.inc",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Linkd was built to increase the amount of serendipity in the world. Every person has hundreds of thousands of valuable connections they never realize exist, opportunities hidden within shared experiences, untapped professional networks, and mutual affiliations. We’re here to surface them.",
-    "one_liner": "Find warm connections you didn’t know you had. ",
+    "one_liner": "Deep Research for People",
     "team_size": 3,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "Consumer -> Social",
     "launched_at": 1742722403,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Consumer",
-      "B2B"
+      "B2B",
+      "Recruiting"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1699,8 +1785,8 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Social"
+      "B2B",
+      "Recruiting and Talent"
     ],
     "regions": [
       "United States of America",
@@ -1713,6 +1799,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/linkd",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/linkd.json"
+  },
+  {
+    "id": 30466,
+    "name": "Labric",
+    "slug": "labric",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d2328f04b2a69a293a3f3a79d7e648159242574.png",
+    "website": "https://labric.co",
+    "all_locations": "",
+    "long_description": "Labric is building the data layer that makes AI work for science. We capture messy lab data from instruments and tools, clean it, and connect it—so researchers can actually use AI to accelerate discovery.",
+    "one_liner": "Data infrastructure and AI for scientific research labs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1747086610,
+    "tags": [
+      "Biotech",
+      "Nanotechnology",
+      "Advanced Materials",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/labric",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/labric.json"
   },
   {
     "id": 30467,
@@ -2216,6 +2344,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/human-behavior.json"
   },
   {
+    "id": 30498,
+    "name": "Alkali",
+    "slug": "alkali",
+    "former_names": [
+      "Alkali",
+      "Alkali Engineering"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/434ebaced47759c6ad84d0780081ce1d2be24afe.png",
+    "website": "https://alkali-eng.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Alkali is building the co-pilot for chemical process design. Spot design errors earlier, get the right equipment sooner, and build chemical projects faster.",
+    "one_liner": "The Co-Pilot for Chemical Process Design",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1747069774,
+    "tags": [
+      "B2B",
+      "Design Tools",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/alkali",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/alkali.json"
+  },
+  {
     "id": 30501,
     "name": "Jazzberry",
     "slug": "jazzberry",
@@ -2649,8 +2821,9 @@
     "subindustry": "B2B",
     "launched_at": 1746945144,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
+      "SaaS",
+      "B2B",
       "Enterprise Software",
       "AI"
     ],
@@ -2760,6 +2933,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mlop",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/mlop.json"
+  },
+  {
+    "id": 30540,
+    "name": "Lumari",
+    "slug": "lumari",
+    "former_names": [
+      "Rextly"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a939168d94d3c56ad22ffb102cf8d658f02d3fd5.png",
+    "website": "https://www.lumari.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lumari enables non-technical teams to create custom internal apps and agentic workers without writing any code or wasting budget on inflexible off-the-shelf software. Simply describe what you want, and we'll generate and deploy fully integrated apps in minutes.",
+    "one_liner": "AI internal software builder for non-technical teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1747084472,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "No-code",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lumari",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/lumari.json"
   },
   {
     "id": 30541,
@@ -3147,7 +3364,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cfd3f761dfc0fcff51a0650948673bd04f8702b.png",
     "website": "https://www.savarobotics.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sava is building robots to operate any existing machine in manufacturing. We're starting with the CNC Press Brake and have bent our first production parts.",
+    "long_description": "SAVA Robotics is building robot operators for any machine in sheet metal manufacturing. We're starting with the CNC Press Brake and have autonomously bent our first production parts.",
     "one_liner": "Robot Operators for Sheet Metal",
     "team_size": 3,
     "industry": "Industrials",

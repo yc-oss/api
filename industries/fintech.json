@@ -5360,45 +5360,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2018/kinside.json"
   },
   {
-    "id": 4787,
-    "name": "Monzo Bank",
-    "slug": "monzo-bank",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1262acc9e79773337df0be8c8de0cd79a0a813f.png",
-    "website": "http://www.monzo.com",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "YC has written a good overview of our business on their blog: https://blog.ycombinator.com/monzo-makes-money-work-for-everyone/\r\n\r\nOur mission is to make money work for everyone. We are the UK's leading digital bank for individuals and businesses, reinventing the traditional banking industry one customer at a time. We're relentlessly mission driven and always put our customers first - from what products we chose to launch next to our transparency and use of simple language. With a Net Promoter Score of 70+, it shows. \r\n\r\nFrom our founding in 2015, we now have over 7 million customers in the UK (13% of UK adults) and are building out our team in the US. We've seen incredible organic growth, acquiring 150,000 customers / month in 2022, with 80% of this coming from word of mouth. Our weekly active user rate is ~60% and ~40% of our active users use us as their Main Bank account, showing that we are a product that is embedded in our users' daily lives. We've grown to ~2,450 staff (~400 of which make up the product/tech team), and are backed by YC, Stripe, Tencent, Mike Moritz, and others.\r\n\r\nInternally, we encourage an open, collaborative, and inclusive working environment - we were voted the #1 startup where people in the UK want to work for the second year running in 2022. We contribute to open source software, and we continually engage with our wonderful community. We're hiring talented, creative problem-solvers to help us build the bank of the future. Join us!",
-    "one_liner": "A bank as smart as your phone.",
-    "team_size": 2450,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Consumer Finance",
-    "launched_at": 1532804200,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "ycc_only",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Consumer Finance"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/monzo-bank",
-    "api": "https://yc-oss.github.io/api/batches/ycc_only/monzo-bank.json"
-  },
-  {
     "id": 4940,
     "name": "Wave",
     "slug": "wave",
@@ -12330,7 +12291,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20207,7 +20168,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -22616,21 +22577,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/21cd7289472fa982f68b9ab59329eb2acf583e66.png",
     "website": "https://www.syntheticfi.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "SyntheticFi offers a low cost and low hassle solution for independent financial advisors (RIAs) to meet the liquidity needs of their clients.",
     "one_liner": "Low cost securities-backed lending for independent financial advisors",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688426619,
-    "tags": [
-      "Fintech",
-      "Proptech",
-      "Lending"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -22639,8 +22596,7 @@
       "Asset Management"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -24205,7 +24161,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e262c2b2cccbd593ca16b1f5a3e19ea001ca784.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube is building an AI-powered platform where businesses can explore, compare, and purchase commercial insurance policies. We start with: \r\n✅ AI Policy Analysis – Instantly analyze and compare commercial insurance policies.\r\n✅ Natural Disaster Software – Climate risk analytics, live event tracking, and predictive modeling for wildfires, floods, hurricanes, etc.",
+    "long_description": "RiskCube Insurance is building a modern, AI-powered commercial P&C brokerage — designed to help businesses access smarter, faster, and more transparent coverage.\r\nWe’re currently in the licensing process in California and will be live soon.\r\n",
     "one_liner": "AI insurance brokerage",
     "team_size": 2,
     "industry": "Fintech",
@@ -24213,8 +24169,6 @@
     "launched_at": 1731782052,
     "tags": [
       "Fintech",
-      "SaaS",
-      "B2B",
       "Insurance"
     ],
     "tags_highlighted": [],
@@ -24801,6 +24755,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/blindpay",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/blindpay.json"
+  },
+  {
+    "id": 30367,
+    "name": "QFEX",
+    "slug": "qfex",
+    "former_names": [
+      "PSEx"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2005304564bb67a368e45e33653755e6f1ff55d.png",
+    "website": "https://qfex.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "QFEX is the 24/7 exchange for traditional financial markets.\r\n\r\nWe let you trade US equities, commodities and FX pairs with (or without) leverages of up to 100x. On QFEX, UX comes first: brokerless market access, seamless integration with traditional payment rails, and ultra-efficient Perpetual Futures offered over all asset classes. Trading has never been simpler or cheaper than with QFEX.\r\n\r\nFounded by Quants and Engineers from Citadel & Tower Research who saw an opportunity to make markets how they always should have been, QFEX will eventually replace the entire $100 billion exchange and clearing industry.",
+    "one_liner": "24/7 Global Stock Exchange",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "launched_at": 1747069734,
+    "tags": [
+      "Fintech",
+      "Consumer Finance",
+      "Trading"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Banking and Exchange"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/qfex",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/qfex.json"
   },
   {
     "id": 30415,

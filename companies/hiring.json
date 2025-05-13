@@ -4124,49 +4124,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2016/vetcove.json"
   },
   {
-    "id": 1187,
-    "name": "WorkRamp",
-    "slug": "workramp",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f03f4eafb54558705a3d931f287372468b614ff.png",
-    "website": "https://www.workramp.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "WorkRamp is the All-in-One Learning Platform that your executives, employees, and customers will love. WorkRamp advances learning as a growth engine for your business with a flexible platform that empowers teams to develop top talent, exceed revenue targets, and inspire customers to become advocates. With a flexible, All-in-One Learning Platform, WorkRamp redefines the LMS for the modern workplace to help executives recognize learning as a growth engine and one of the most strategic investments an organization can make. See why top learning teams at Box, Outreach, and Reddit trust WorkRamp to drive business outcomes and organizational scale.",
-    "one_liner": "The All-in-One Learning Platform ",
-    "team_size": 106,
-    "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1461182717,
-    "tags": [
-      "SaaS",
-      "Customer Success",
-      "Sales Enablement"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2016",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Human Resources"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/workramp",
-    "api": "https://yc-oss.github.io/api/batches/summer-2016/workramp.json"
-  },
-  {
     "id": 1200,
     "name": "Joy",
     "slug": "joy",
@@ -21919,7 +21876,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -25576,12 +25533,12 @@
       "Slip",
       "Diode"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/478e701c39eeedcf1b544f7adc346ba234c68d4a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da6c23e37cd7338b2276dfacd444e9175c6c2b9c.png",
     "website": "https://www.rmfg.com",
     "all_locations": "Fort Worth, TX, USA",
     "long_description": "We're building autonomous sheet metal factories. Sheet metal is a large ($200b+ in the US) industry heavily reliant on human labor. If you're building something in the real world, it's almost a certainty that you will use sheet metal in some capacity. It's used in automotive manufacturing, aerospace, consumer goods, defense, and many more verticals. The industry mostly operates the same way it has for the last 50+ years.\r\n\r\nWe're making a 10x better experience for people to get sheet metal parts manufactured. We are vertically integrated and build everything from our quoting engine to the physical automation inside of our factory. Factories should own automation as a core in-house skill. \r\n\r\nToday we sell laser cut and bent sheet metal parts. Users can get instant quotes through our website (and eventually through integrations build on top of our API). We build custom internal software to command and control the operations of the factory. \r\n\r\nRight now we are actively working on fully automating the production of laser cut parts including scheduling, material movement, laser configuration, etc. Orders will be able to come in, and our software will control the factory and output parts ready to ship. \r\n\r\n",
     "one_liner": "Autonomous Sheet Metal Factories",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1625587751,
@@ -26416,7 +26373,7 @@
     "website": "https://www.usenash.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Last mile is a $500B industry powering digital commerce but managed largely with self managed API integrations. Nash approaches last mile orchestration with information completeness solutions from checkout, courier management, customer engagement, and post-purchase experience. Doing this enables merchants and customers to capture immense efficiencies, drive better customer experience, reliability and business outcomes.\r\nWe are working towards a mission of processing a double digit percentage of every physical last-mile transaction. We achieve this by providing top of the market modules for each step of the customer journey and leveraging the network effects from having more information that allows traditional competitors to collaborate. It’s a big mission, but we are already seeing strong market pull as we are already serving some of the largest retailers in the world like Walmart, 7-Eleven and Woolworths.\r\nNash was founded in 2021 by Mahmoud Ghulman (2x Founder, MIT) and Aziz Alghunaim (2x Founder, 2x YC, Ex-Palantir, MIT) and has raised funding from top investors, including Y-Combinator and a16z, to build the world’s best logistics infrastructure platform. We are based in SF.",
-    "one_liner": "Nash is building the logistics infrastructure for the internet",
+    "one_liner": "Nash is the digital logistics infrastructure for commerce",
     "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -32229,6 +32186,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/typewise.json"
   },
   {
+    "id": 26860,
+    "name": "NewsCatcher",
+    "slug": "newscatcher",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c1d123b552beeb8e2869bfad1b5ff25b3b6689b.png",
+    "website": "https://newscatcherapi.com/",
+    "all_locations": "Kyiv, Ukraine; Paris, Île-de-France, France; Remote",
+    "long_description": "We help data & risk enterprise teams get instant access to news and events from over 40,000 news sources. \r\n\r\nOur main product is a News API to search through an indexed database of online-published news articles in near real-time.\r\n\r\n“Humans reading the news” is not a scalable way for enterprises to analyse news, and it’s expensive. We help enterprises shift the news consumption from just reading to integrating actionable signals into their internal workflow. ",
+    "one_liner": "News API for risk and data teams",
+    "team_size": 18,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1659698356,
+    "tags": [
+      "SaaS",
+      "Enterprise",
+      "Big Data",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Ukraine",
+      "France",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/newscatcher",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/newscatcher.json"
+  },
+  {
     "id": 26862,
     "name": "Pulppo",
     "slug": "pulppo",
@@ -32970,47 +32973,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/aiprise.json"
   },
   {
-    "id": 27094,
-    "name": "nsave",
-    "slug": "nsave",
-    "former_names": [
-      "Masref"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7bc3b22de4f9bb839b5daa69fa3ee21bb19e5fb.png",
-    "website": "https://www.nsave.com",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "nsave is a fintech that provides trusted $€£ accounts abroad for people from countries where inflation is high and banking is broken.",
-    "one_liner": "Trusted $€£ accounts abroad for people from unstable economies.",
-    "team_size": 15,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1659872123,
-    "tags": [
-      "Fintech",
-      "Neobank"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nsave",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/nsave.json"
-  },
-  {
     "id": 27097,
     "name": "Findly",
     "slug": "findly",
@@ -33155,6 +33117,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/primevault",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/primevault.json"
+  },
+  {
+    "id": 27151,
+    "name": "Solum Health",
+    "slug": "solum-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b6c81c094d264ef85d463d3f87f8c0a2cf70fe0.png",
+    "website": "https://www.getsolum.com/",
+    "all_locations": "",
+    "long_description": "Turning therapy admin chaos into automated calm—VoiceAI for intakes, seamless prior auths, referral and scheduling management.\r\n\r\nBuilt by practice owners, for practice owners (www.getsolum.com).\r\n",
+    "one_liner": "AI Automation for Therapy Practices",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1657200498,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/solum-health",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/solum-health.json"
   },
   {
     "id": 27152,
@@ -33969,7 +33967,7 @@
     "all_locations": "",
     "long_description": "We specialize in voice and can close customers across every channel 24/7. ",
     "one_liner": "AI-powered Sales Agent for Service-Based Industries",
-    "team_size": 2,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1678089361,
@@ -34125,6 +34123,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stackai",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/stackai.json"
+  },
+  {
+    "id": 27671,
+    "name": "Miracle",
+    "slug": "miracle",
+    "former_names": [
+      "Miracle Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/708f104e98cf6195b515828cadc85b8d47cfc8d4.png",
+    "website": "http://www.miracleml.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Miracle is the control room for clinical trials. Our platform consolidates data from multiple trial systems into real-time dashboards, delivering automated insights that empower clinical-stage biopharmaceutical companies to streamline operations, reduce manual workflows, and accelerate data-driven decision-making. By transforming complex trial data into actionable insights, Miracle helps biopharma teams speed up clinical trials, and ultimately, improve patient outcomes.",
+    "one_liner": "Accelerate clinical trials with real-time, actionable insights",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1677015940,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Biotech",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/miracle",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/miracle.json"
   },
   {
     "id": 27674,
@@ -34607,6 +34649,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/mercoa",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/mercoa.json"
+  },
+  {
+    "id": 27762,
+    "name": "Ohm",
+    "slug": "ohm-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b3e2558be3a398339579a5be68b4d4a636ca905.png",
+    "website": "https://www.ohm.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ohm deploys AI agents across battery teams around the world",
+    "one_liner": "AI agents for battery teams",
+    "team_size": null,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1676603508,
+    "tags": [
+      "Artificial Intelligence",
+      "Energy Storage",
+      "Machine Learning",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ohm-2",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/ohm-2.json"
   },
   {
     "id": 27766,
@@ -39530,11 +39615,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688142176,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "DevSecOps",
       "Machine Learning",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40015,6 +40100,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sendblue",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/sendblue.json"
+  },
+  {
+    "id": 29026,
+    "name": "SyntheticFi",
+    "slug": "syntheticfi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/21cd7289472fa982f68b9ab59329eb2acf583e66.png",
+    "website": "https://www.syntheticfi.com/",
+    "all_locations": "",
+    "long_description": "SyntheticFi offers a low cost and low hassle solution for independent financial advisors (RIAs) to meet the liquidity needs of their clients.",
+    "one_liner": "Low cost securities-backed lending for independent financial advisors",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1688426619,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/syntheticfi",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/syntheticfi.json"
   },
   {
     "id": 29040,
@@ -40532,19 +40653,19 @@
     "former_names": [
       "PeerWise Medical"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c0554511472d4b8530371b08cba5abd6f3f6fff.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de3ea440a910c4beb43d2c07c03f4dad65d8030c.png",
     "website": "http://www.simbie.ai",
     "all_locations": "",
     "long_description": "",
-    "one_liner": "Clinically-trained AI Voice Agents for Healthcare",
-    "team_size": 4,
+    "one_liner": "Clinically-intellignet AI Voice Agents for Healthcare",
+    "team_size": 6,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1689114050,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Health Tech",
-      "AI"
+      "Health Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42310,16 +42431,16 @@
     "all_locations": "",
     "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nOur tools are used by thousands researchers in large pharma companies, top biotechs, and academic institutions. We currently focus on models in protein design and engineering, including for antibodies/therapeutics and enzymes.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
     "one_liner": "Easy to use computational biology tools for drug discovery",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1702859345,
     "tags": [
       "AI-powered Drug Discovery",
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Biotech"
+      "Biotech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42721,9 +42842,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/toma.json"
   },
   {
+    "id": 29378,
+    "name": "Tensorfuse",
+    "slug": "tensorfuse",
+    "former_names": [
+      "10K",
+      "TensorFuse"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bef07502fc1183c53ca01386fbdf17f2db71ba2.png",
+    "website": "https://www.tensorfuse.io/",
+    "all_locations": "",
+    "long_description": "Tensorfuse helps you run fast, scalable AI inference in your own AWS account. Run any model, use any inference server (vLLM, TensorRT, Dynamo) and get ready to scale your AI inference to 1000s of users - all set up in under 60 mins\r\n\r\nJust bring:\r\n1. Your code and env as Dockerfile\r\n2. Your AWS account with GPU capacity\r\n\r\nWe handle the rest—deploying, managing, and autoscaling your GPU containers on production-grade infrastructure. ",
+    "one_liner": "Run serverless GPUs on your own cloud",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1708013970,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tensorfuse",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/tensorfuse.json"
+  },
+  {
     "id": 29380,
     "name": "Conduit",
-    "slug": "conduit-2",
+    "slug": "conduit-ai",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a191a8ba3e9f773c150eb657c1104f6d0427aec.png",
     "website": "https://conduit.ai/",
@@ -42755,8 +42915,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/conduit-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/conduit-2.json"
+    "url": "https://www.ycombinator.com/companies/conduit-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/conduit-ai.json"
   },
   {
     "id": 29389,
@@ -43990,17 +44150,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77d4e7360bfc7fada0197367cdf72bc7dbe92d2f.png",
     "website": "https://commodityai.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CommodityAI builds intelligent automation agents for the most operationally complex businesses in the world: physical commodity traders.\r\n\r\nIn these environments, critical data is buried in spreadsheets, emails, PDFs, and legacy systems. This makes operations slow, error prone, and heavily reliant on manual work. CommodityAI acts as a digital operator, constantly monitoring and interpreting this unstructured information to keep records accurate and systems up to date.\r\n\r\nOur agents read and validate key details from trade confirmations, contracts, shipping updates, and more. They transform scattered data into clean, structured records that flow directly into CTRMs, ERPs, and other internal tools without requiring human input.\r\n\r\nAt the core is the CommodityAI Platform, a flexible foundation for building and managing agents that integrate with business systems and scale alongside operations.",
+    "long_description": "CommodityAI builds intelligent automation agents for some of the most operationally complex businesses in the world: physical commodity traders.\r\n\r\nIn trading operations, critical data is often buried in spreadsheets, emails, PDFs, and legacy systems — making workflows slow, error-prone, and overly manual. CommodityAI acts as a digital operator, continuously reading, interpreting, and updating information across the trade lifecycle to keep records accurate and systems in sync.\r\n\r\nOur agents extract and validate key details from trade confirmations, contracts, vessel updates, and more — turning scattered, unstructured data into clean, structured records that flow directly into CTRMs, ERPs, and other core platforms. No manual entry required.\r\n\r\nBy automating what others still do by hand, we help trading teams move faster, reduce risk, and focus on the decisions that matter most.",
     "one_liner": "AI that automates commodity operations",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1710175582,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47676,44 +47836,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/usul",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/usul.json"
-  },
-  {
-    "id": 29953,
-    "name": "Hey Revia",
-    "slug": "hey-revia",
-    "former_names": [
-      "RealChar, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f4ffb580e2b7f9d32ad41f2bca07eed911ae32b.png",
-    "website": "https://heyrevia.ai",
-    "all_locations": "",
-    "long_description": "Hey Revia is a voice AI that handles complex phone calls for healthcare providers. Our software automates complex menus, reduces hold times, and handles tedious phone calls—verifying provider details, updating insurance info, and securing approvals. We offer Revia as web app, mobile app and API.",
-    "one_liner": "Voice AI to automate complex phone calls for healthcare providers",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1725661264,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hey-revia",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/hey-revia.json"
   },
   {
     "id": 29963,

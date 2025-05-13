@@ -4253,16 +4253,16 @@
     "all_locations": "",
     "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nOur tools are used by thousands researchers in large pharma companies, top biotechs, and academic institutions. We currently focus on models in protein design and engineering, including for antibodies/therapeutics and enzymes.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
     "one_liner": "Easy to use computational biology tools for drug discovery",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1702859345,
     "tags": [
       "AI-powered Drug Discovery",
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Biotech"
+      "Biotech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5476,15 +5476,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e5b6595eedce0fbf3857cfdf876dbd2f0d66a78.png",
     "website": "https://superagent.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superagent is a workspace where AI assistants can work together, learn new information, and handle complex tasks on their own. Unlike regular AI tools that can only do basic tasks, Superagent's AI assistants can help teams with ongoing work like compliance, researching markets, and manage R&D - work that usually needs human employees.",
-    "one_liner": "The agent workspace",
+    "long_description": "Superagent helps teams create better prompts for AI coding. It connects to your tools like GitHub and Posthog to turn real context into evolving instructions that improve how coding agents work.\r\n",
+    "one_liner": "Better prompts for vibe coding",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1701445003,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -5650,7 +5650,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bef07502fc1183c53ca01386fbdf17f2db71ba2.png",
     "website": "https://www.tensorfuse.io/",
     "all_locations": "",
-    "long_description": "Tensorfuse helps companies run fast, scalable AI inference in their **own AWS account**. Just bring:\r\n\r\n1. Your code and env as Dockerfile\r\n2. Your AWS account with GPU capacity\r\n\r\nWe handle the rest—deploying, managing, and autoscaling your GPU containers on production-grade infrastructure. \r\n\r\nRun any model, use any inference server (vLLM, TensorRT, Dynamo) and get ready to scale your AI inference to 1000s of users - all set up in under 60 mins",
+    "long_description": "Tensorfuse helps you run fast, scalable AI inference in your own AWS account. Run any model, use any inference server (vLLM, TensorRT, Dynamo) and get ready to scale your AI inference to 1000s of users - all set up in under 60 mins\r\n\r\nJust bring:\r\n1. Your code and env as Dockerfile\r\n2. Your AWS account with GPU capacity\r\n\r\nWe handle the rest—deploying, managing, and autoscaling your GPU containers on production-grade infrastructure. ",
     "one_liner": "Run serverless GPUs on your own cloud",
     "team_size": 2,
     "industry": "B2B",
@@ -5659,7 +5659,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -5724,7 +5724,7 @@
   {
     "id": 29380,
     "name": "Conduit",
-    "slug": "conduit-2",
+    "slug": "conduit-ai",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a191a8ba3e9f773c150eb657c1104f6d0427aec.png",
     "website": "https://conduit.ai/",
@@ -5756,8 +5756,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/conduit-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/conduit-2.json"
+    "url": "https://www.ycombinator.com/companies/conduit-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/conduit-ai.json"
   },
   {
     "id": 29381,
@@ -8451,17 +8451,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77d4e7360bfc7fada0197367cdf72bc7dbe92d2f.png",
     "website": "https://commodityai.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CommodityAI builds intelligent automation agents for the most operationally complex businesses in the world: physical commodity traders.\r\n\r\nIn these environments, critical data is buried in spreadsheets, emails, PDFs, and legacy systems. This makes operations slow, error prone, and heavily reliant on manual work. CommodityAI acts as a digital operator, constantly monitoring and interpreting this unstructured information to keep records accurate and systems up to date.\r\n\r\nOur agents read and validate key details from trade confirmations, contracts, shipping updates, and more. They transform scattered data into clean, structured records that flow directly into CTRMs, ERPs, and other internal tools without requiring human input.\r\n\r\nAt the core is the CommodityAI Platform, a flexible foundation for building and managing agents that integrate with business systems and scale alongside operations.",
+    "long_description": "CommodityAI builds intelligent automation agents for some of the most operationally complex businesses in the world: physical commodity traders.\r\n\r\nIn trading operations, critical data is often buried in spreadsheets, emails, PDFs, and legacy systems — making workflows slow, error-prone, and overly manual. CommodityAI acts as a digital operator, continuously reading, interpreting, and updating information across the trade lifecycle to keep records accurate and systems in sync.\r\n\r\nOur agents extract and validate key details from trade confirmations, contracts, vessel updates, and more — turning scattered, unstructured data into clean, structured records that flow directly into CTRMs, ERPs, and other core platforms. No manual entry required.\r\n\r\nBy automating what others still do by hand, we help trading teams move faster, reduce risk, and focus on the decisions that matter most.",
     "one_liner": "AI that automates commodity operations",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1710175582,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,

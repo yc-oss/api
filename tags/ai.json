@@ -7469,6 +7469,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/query-vary.json"
   },
   {
+    "id": 26094,
+    "name": "Cellbyte",
+    "slug": "cellbyte",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcdb88b3fbed507fd0624712ba4d55c173500ac.png",
+    "website": "https://www.cellbyte.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cellbyte is an AI copilot that helps pharma companies launch new drugs in different countries. We launched 3 months ago, and companies like Lilly and Gilead are already paying us $200k a year to answer questions like “What price can we achieve for our new drug in the U.S. versus Germany?“.\r\n\r\nThe right answer heavily depends on data from national healthcare authorities, which must be accurate and comprehensive. One has to first consolidate gigabytes of fragmented, messy and multi-language data from websites and documents scattered across the internet. Prior to LLMs this was nearly impossible and even today it is still difficult without industry knowledge.\r\n\r\nCellbyte instantly turns this data into charts, analyses and reports. By saving pharma companies +$200/hour in analyst fees, we have won enterprise deals against firms with thousands of employees.\r\n\r\nDaniel has experienced this pain first-hand working for a leading global Life Sciences consultancy for 5+ years. Felix has sold $3m+ ACV enterprise deals for his previous startup. Samuel has built AI applications from scratch as one of Celonis’ first employees.",
+    "one_liner": "Copilot for Pharmaceutical Drug Launches",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1643107083,
+    "tags": [
+      "Data Science",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cellbyte",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/cellbyte.json"
+  },
+  {
     "id": 26666,
     "name": "Airtrain AI",
     "slug": "airtrain-ai",
@@ -8482,7 +8523,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -9867,7 +9908,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -13086,49 +13127,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/glade.json"
   },
   {
-    "id": 28957,
-    "name": "Continue",
-    "slug": "continue",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea071d17d03a0effc12bac914da21cd9bee66060.png",
-    "website": "https://continue.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks",
-    "one_liner": "Create, share, and use custom AI code assistants",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1688142176,
-    "tags": [
-      "Developer Tools",
-      "DevSecOps",
-      "Machine Learning",
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/continue",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/continue.json"
-  },
-  {
     "id": 28959,
     "name": "sizeless",
     "slug": "sizeless",
@@ -13828,48 +13826,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/dili.json"
   },
   {
-    "id": 29105,
-    "name": "FlowiseAI",
-    "slug": "flowiseai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6c1c9b6e16de0c6a1de55b81d8dbf0fbf3f3ad1.png",
-    "website": "https://flowiseai.com",
-    "all_locations": "Remote",
-    "long_description": "Flowise uses low-code approach that enable developers to manage the whole lifecycle of building LLMs apps in production. From protoyping, evaluation, to iterations.",
-    "one_liner": "Open source Low-Code LLM development platform",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1688552847,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": true,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/flowiseai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/flowiseai.json"
-  },
-  {
     "id": 29107,
     "name": "Saatvy",
     "slug": "saatvy",
@@ -14006,48 +13962,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/aisdr.json"
   },
   {
-    "id": 29113,
-    "name": "Simbie AI",
-    "slug": "simbie-ai",
-    "former_names": [
-      "PeerWise Medical"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c0554511472d4b8530371b08cba5abd6f3f6fff.png",
-    "website": "http://www.simbie.ai",
-    "all_locations": "",
-    "long_description": "",
-    "one_liner": "Clinically-trained AI Voice Agents for Healthcare",
-    "team_size": 4,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1689114050,
-    "tags": [
-      "SaaS",
-      "Health Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/simbie-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/simbie-ai.json"
-  },
-  {
     "id": 29115,
     "name": "Mocha",
     "slug": "mocha",
@@ -14147,8 +14061,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bccd87f3418251f26029501fe73c506db3f2695.png",
     "website": "https://morphllm.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Everything you need to build Cursor for ___\r\n\r\nAPIs for the \"other models\" you need to build coding agents that work and feel like the best. Use alongside Gemini, Claude, or GPT + maintain full control of your agents. \r\n",
-    "one_liner": "Tools for building agents that edit code and files",
+    "long_description": "APIs for the \"other models\" you need to build coding agents that work and feel like the best. Use alongside Gemini, Claude, or GPT + maintain full control of your agents. \r\nEverything you need to build Cursor for ___\r\n",
+    "one_liner": "Tools for agents that edit code and files",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -15945,6 +15859,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/clarion.json"
   },
   {
+    "id": 29340,
+    "name": "Tamarind Bio",
+    "slug": "tamarind-bio",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f825e68bedd9d6fae6a9628ae002227d27ab4d2.png",
+    "website": "https://www.tamarind.bio",
+    "all_locations": "",
+    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nOur tools are used by thousands researchers in large pharma companies, top biotechs, and academic institutions. We currently focus on models in protein design and engineering, including for antibodies/therapeutics and enzymes.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
+    "one_liner": "Easy to use computational biology tools for drug discovery",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1702859345,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "SaaS",
+      "B2B",
+      "Biotech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tamarind-bio",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/tamarind-bio.json"
+  },
+  {
     "id": 29341,
     "name": "Markprompt",
     "slug": "markprompt",
@@ -16385,46 +16340,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ellipsis.json"
   },
   {
-    "id": 29374,
-    "name": "Superagent",
-    "slug": "superagent",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e5b6595eedce0fbf3857cfdf876dbd2f0d66a78.png",
-    "website": "https://superagent.sh/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superagent is a workspace where AI assistants can work together, learn new information, and handle complex tasks on their own. Unlike regular AI tools that can only do basic tasks, Superagent's AI assistants can help teams with ongoing work like compliance, researching markets, and manage R&D - work that usually needs human employees.",
-    "one_liner": "The agent workspace",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1701445003,
-    "tags": [
-      "SaaS",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/superagent",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/superagent.json"
-  },
-  {
     "id": 29379,
     "name": "Trieve",
     "slug": "trieve",
@@ -16470,7 +16385,7 @@
   {
     "id": 29380,
     "name": "Conduit",
-    "slug": "conduit-2",
+    "slug": "conduit-ai",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a191a8ba3e9f773c150eb657c1104f6d0427aec.png",
     "website": "https://conduit.ai/",
@@ -16502,8 +16417,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/conduit-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/conduit-2.json"
+    "url": "https://www.ycombinator.com/companies/conduit-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/conduit-ai.json"
   },
   {
     "id": 29387,
@@ -17342,48 +17257,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/veles",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/veles.json"
-  },
-  {
-    "id": 29455,
-    "name": "CommodityAI",
-    "slug": "commodityai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77d4e7360bfc7fada0197367cdf72bc7dbe92d2f.png",
-    "website": "https://commodityai.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "CommodityAI builds intelligent automation agents for the most operationally complex businesses in the world: physical commodity traders.\r\n\r\nIn these environments, critical data is buried in spreadsheets, emails, PDFs, and legacy systems. This makes operations slow, error prone, and heavily reliant on manual work. CommodityAI acts as a digital operator, constantly monitoring and interpreting this unstructured information to keep records accurate and systems up to date.\r\n\r\nOur agents read and validate key details from trade confirmations, contracts, shipping updates, and more. They transform scattered data into clean, structured records that flow directly into CTRMs, ERPs, and other internal tools without requiring human input.\r\n\r\nAt the core is the CommodityAI Platform, a flexible foundation for building and managing agents that integrate with business systems and scale alongside operations.",
-    "one_liner": "AI that automates commodity operations",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1710175582,
-    "tags": [
-      "B2B",
-      "Workflow Automation",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/commodityai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/commodityai.json"
   },
   {
     "id": 29456,
@@ -21296,49 +21169,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/delineate.json"
   },
   {
-    "id": 29989,
-    "name": "Melty",
-    "slug": "melty",
-    "former_names": [
-      "BookMe"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5957c080cba74e8f92840d3baeec2beaae949d4b.png",
-    "website": "https://melty.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building Chorus, a Mac app that lets you chat with O1, Claude, Perplexity, Deepseek, and others on your desktop. Find the right model for each task, get more creativity without copy–pasting prompts, and get more reliability without manually comparing model outputs.",
-    "one_liner": "Chat with a bunch of AIs at once",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1725301012,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/melty",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/melty.json"
-  },
-  {
     "id": 29990,
     "name": "DreamRP",
     "slug": "dreamrp",
@@ -21723,6 +21553,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/healthspark",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/healthspark.json"
+  },
+  {
+    "id": 30048,
+    "name": "Astrix Health",
+    "slug": "astrix-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144a13ceedd1b9645b8478fb7512b3118141ca0b.png",
+    "website": "https://www.astrix.health",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Astrix builds AI purchasing agents for healthcare providers. Astrix agents normalize and aggregate large-scale data on medical supply pricing allowing providers to make informed purchasing decisions.\r\n\r\n",
+    "one_liner": "Astrix builds AI purchasing agents for healthcare providers.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1728327995,
+    "tags": [
+      "Machine Learning",
+      "Collaboration",
+      "Healthcare",
+      "Supply Chain",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/astrix-health",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/astrix-health.json"
   },
   {
     "id": 30052,
@@ -22654,47 +22528,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/edexia",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/edexia.json"
-  },
-  {
-    "id": 30173,
-    "name": "Tropir",
-    "slug": "tropir",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac03a28cb503f64a3f8684816a352307a74638e1.png",
-    "website": "https://www.tropir.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke—a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the text flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nY Combinator backs us, and we're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
-    "one_liner": "Traceback why your AI failed",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Industrials -> Climate",
-    "launched_at": 1746601065,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tropir",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/tropir.json"
   },
   {
     "id": 30179,
@@ -24680,48 +24513,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/fira.json"
   },
   {
-    "id": 30399,
-    "name": "Frekil",
-    "slug": "frekil",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
-    "website": "https://www.frekil.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI is transforming healthcare, but the biggest bottleneck remains—procuring and annotating medical images with speed, accuracy, and scale. Frekil eliminates this roadblock.\r\n\r\nFrekil helps healthcare AI teams, medical device companies, and pharmaceutical companies procure and annotate medical images like X-rays, CTs, MRIs, etc., efficiently for AI training, clinical trials, and FDA approvals. Our AI-assisted platform speeds up annotation 10x while maintaining high accuracy through real-time quality control, consensus checks, and advanced 3D visualization.\r\n\r\nWe also provide tools to track annotator performance, build custom workflows, and increase labeling accuracy. By combining efficiency with precision, Frekil enables teams to build high-quality datasets much faster, supporting the development and deployment of reliable medical AI and clinical research solutions.",
-    "one_liner": "Data Engine for Medical AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1744440110,
-    "tags": [
-      "Health Tech",
-      "B2B",
-      "Healthcare",
-      "Data Labeling",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/frekil",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/frekil.json"
-  },
-  {
     "id": 30406,
     "name": "BitBoard",
     "slug": "bitboard",
@@ -25011,6 +24802,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jeevy-fabrication",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/jeevy-fabrication.json"
+  },
+  {
+    "id": 30466,
+    "name": "Labric",
+    "slug": "labric",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d2328f04b2a69a293a3f3a79d7e648159242574.png",
+    "website": "https://labric.co",
+    "all_locations": "",
+    "long_description": "Labric is building the data layer that makes AI work for science. We capture messy lab data from instruments and tools, clean it, and connect it—so researchers can actually use AI to accelerate discovery.",
+    "one_liner": "Data infrastructure and AI for scientific research labs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1747086610,
+    "tags": [
+      "Biotech",
+      "Nanotechnology",
+      "Advanced Materials",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/labric",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/labric.json"
   },
   {
     "id": 30479,
@@ -25374,8 +25207,9 @@
     "subindustry": "B2B",
     "launched_at": 1746945144,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
+      "SaaS",
+      "B2B",
       "Enterprise Software",
       "AI"
     ],
