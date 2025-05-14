@@ -864,6 +864,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/synthiolabs.json"
   },
   {
+    "id": 30422,
+    "name": "Galen AI",
+    "slug": "galen-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36c68657cdcea22dd2b36aaaacd96e9dc63bddee.png",
+    "website": "https://www.galenai.com/",
+    "all_locations": "",
+    "long_description": "Galen is an AI-powered personal healthcare companion. We enable patients to securely connect their medical records from over 800 healthcare institutions across more than 12,000 locations in the United States, United Kingdom, and Canada. We also connect with over 20 popular wearable devices including Apple Watch, Fitbit, and Dexcom, bringing all your medical records and health data into one unified space. \r\n\r\nWe founded Galen because for over four years, Viraj struggled to navigate several conditions related to chronic low back pain. He often found himself waiting weeks for responses from his care team, received little guidance or education about new diagnoses, and was overwhelmed trying to manage overlapping conditions and medications.\r\n\r\nHis experiences are not unique. Our healthcare system is overloaded and fragmented, and often, patients are left to navigate their care on their own. Everyday there are nearly 1 billion health-related Google searches, but the responses to such queries are generic and impersonalized, because the searches lack any insight into a users personal health background.\r\n\r\nBy leveraging your own data and state-of-the art LLM memory capabilities, Galen delivers personalized insights, proactive health recommendations, and 24/7 on-demand medical support — empowering patients to be an active part of their health team. We are a consumer app in beta testing and will be available on the App Store soon!",
+    "one_liner": "AI agent for healthcare, powered by clinical and wearable data.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1747120968,
+    "tags": [
+      "Consumer Health Services",
+      "Health Tech",
+      "Digital Health",
+      "Healthcare",
+      "Health & Wellness"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/galen-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/galen-ai.json"
+  },
+  {
     "id": 30425,
     "name": "Auctor",
     "slug": "auctor",
@@ -943,6 +985,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/approval-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/approval-ai.json"
+  },
+  {
+    "id": 30427,
+    "name": "Anvil",
+    "slug": "anvil",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3823ab9ff80b25f2f6f8fd1fbd6b07a0c93903a.png",
+    "website": "https://joinanvil.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Anvil is the SEO platform for the AI era.\r\nWe show you how your brand performs in LLMs like ChatGPT — and how to get found more often.",
+    "one_liner": "Optimize your brand's visibility within LLMs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Real Estate and Construction -> Construction",
+    "launched_at": 1747166393,
+    "tags": [
+      "Analytics",
+      "Marketing",
+      "SEO",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/anvil",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/anvil.json"
   },
   {
     "id": 30428,
@@ -1399,7 +1483,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8df0ce49cc11e96b09c8980da86ed900b39fe9dc.png",
     "website": "https://attunehq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Attune makes blazingly fast build tools that require zero migration effort.\r\n\r\nAs AI enables developers to write code faster than ever, slow builds are increasingly becoming the bottleneck in development velocity. Developers regularly lose hours of productivity every day waiting for their builds. Imagine being able to write code in 1 minute, but needing to wait 30 minutes to compile, deploy, and test it.\r\n\r\nExisting solutions either require painful migrations to new tools (e.g. Bazel) or rely on just using bigger servers to run your build. Instead, we do native, first-class integrations into compilers and build systems.\r\n\r\nWith Attune, you don't need to integrate a new tool. Just make a one-line change from `cargo build` to `hurry cargo build` for 20x faster builds.\r\n\r\nEliza (ex-Google) and Xin worked together for 3 years at FOSSA, where Eliza was Head of Engineering and Xin was Head of Product. Eliza brings a decade of programming languages and build systems expertise, while Xin brings a decade of experience building developer tools products, most recently as VP of Product at Teleport (S15). Having experienced the pain of slow builds firsthand across hundreds of production codebases, we're building the solution we've always wanted.",
+    "long_description": "Attune makes blazingly fast build tools that require zero migration effort.\r\n\r\nAs AI enables developers to write code faster than ever, slow builds are increasingly becoming the bottleneck in development velocity. Developers regularly lose hours of productivity every day waiting for their builds. Imagine being able to write code in 1 minute, but needing to wait 30 minutes to compile, deploy, and test it.\r\n\r\nExisting solutions either require painful migrations to new tools (e.g. Bazel) or rely on just using bigger servers to run your builds. Instead, we do native, first-class integrations into compilers and build systems.\r\n\r\nWith Attune, you don't need to integrate a new tool. Just make a one-line change from `cargo build` to `hurry cargo build` for 20x faster builds.\r\n\r\nEliza (ex-Google) and Xin worked together for 3 years at FOSSA, where Eliza was Head of Engineering and Xin was Head of Product. Eliza brings a decade of programming languages and build systems expertise, while Xin brings a decade of experience building developer tools products, most recently as VP of Product at Teleport (S15). Having experienced the pain of slow builds firsthand across hundreds of production codebases, we're building the solution we've always wanted.",
     "one_liner": "Faster builds, zero effort.",
     "team_size": 2,
     "industry": "B2B",
@@ -1445,7 +1529,7 @@
     "one_liner": "AI Task Prioritizer that connects customer impact to your work",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B",
     "launched_at": 1746827982,
     "tags": [
       "Productivity",
@@ -1647,9 +1731,9 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1744845895,
     "tags": [
-      "Artificial Intelligence",
       "Security",
-      "Cryptography"
+      "Cryptography",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1888,10 +1972,10 @@
     "name": "RunRL",
     "slug": "runrl",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/740d5233b8e9c5fd92b633ca18abe0767fee3aac.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97a1186ade1980432028fbe0af8cf6b4d804a4cb.png",
     "website": "https://runrl.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RunRL is the platform that lets you…run RL. Do you have a model that needs to get better at a certain task? Are you tired of messing around with prompts? Do you spend a lot of money on observability, and wish that all this data could let your model self-improve? Well, head on over to RunRL.com, and see what we have to offer! If you give us a model, a prompt, and a reward, we’ll make your model’s reward go up.",
+    "long_description": "RunRL improves LLMs and AI agents with reinforcement learning. Do you have a model that needs to get better at a certain task? Are you tired of messing around with prompts? Do you spend a lot of money on observability, and wish that all this data could let your model self-improve? Well, head on over to RunRL.com, and see what we have to offer! If you give us a model, a prompt, and a reward, we’ll make your model’s reward go up.",
     "one_liner": "Run RL on any LLM, with any reward function. Now with agent support!",
     "team_size": 2,
     "industry": "B2B",
@@ -2010,7 +2094,7 @@
     "name": "Flott HQ",
     "slug": "flott-hq",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/068ef3305c3032de8e91325a83c2e67511616523.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb20e1f29c5b7138851e75459877c74ca0beccf7.png",
     "website": "https://www.flotthq.com",
     "all_locations": "Remote",
     "long_description": "Flott HQ is an all-in-one fleet operations platform that helps transport, logistics and field service teams boost profitability with AI-powered planning, tracking, invoicing, and payments — all in one place.\r\nWe centralize what most teams manage across 5+ tools, helping our clients grow faster while cutting operational costs.",
@@ -2430,6 +2514,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/jazzberry.json"
   },
   {
+    "id": 30503,
+    "name": "Vesence",
+    "slug": "vesence",
+    "former_names": [
+      "Verse Law"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae7f81743afec55a338f8ebe26d07f21e2696ebc.png",
+    "website": "https://vesence.com",
+    "all_locations": "",
+    "long_description": "What Cursor did for VS Code, we are doing for Microsoft Word. Focus on Transactional Law Firms. \r\n\r\nLaunched in February, and we’ve already rolled out the product firm-wide with our first enterprise customer.",
+    "one_liner": "Cursor for Lawyers. Agentic AI in MS Office.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1747133222,
+    "tags": [
+      "Machine Learning",
+      "B2B",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vesence",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/vesence.json"
+  },
+  {
     "id": 30506,
     "name": "Klavis AI",
     "slug": "klavis-ai",
@@ -2603,14 +2729,20 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af87e3855cde7932b789b7149e717ec9f587f704.png",
     "website": "https://www.eloquentai.co/",
-    "all_locations": "",
-    "long_description": "Eloquent AI empowers regulated industries to confidently deploy AI agents for critical, high-stakes conversations.\r\n\r\nWe developed the first Agentic OS that leverages deep evaluations and reinforcement learning to eliminate hallucinations and errors. Our agents autonomously ingest knowledge, measure performance, and self-correct by refining internal reward models.\r\n\r\nAt the core of our technology is the Mission Control Engine, specifically designed for reliability and compliance:\r\n- User simulations for pre-launch assurance of agent performance.\r\n- Contextual compliance, with AI models trained directly on mandated regulations, eliminating liabilities from unauthorized advice or mishandled complaints.\r\n- Comprehensive audit trails that document and clearly explain AI decision-making to regulators.\r\n\r\nBuilt for compliance and trust, Eloquent AI transforms AI from a potential liability into a strategic advantage for financial institutions and healthcare organizations.",
-    "one_liner": "Agentic AI Platform for Financial Services",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Eloquent AI is the first AI Operator built specifically for financial services to automate complex, regulated customer service operations beyond frontline support. \r\n\r\nOur AI Operator learns to securely navigate your existing systems simply by observing your standard operating procedures—automating up to 96% of tasks without any engineering effort.",
+    "one_liner": "The AI Operator for Financial Services",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1743955975,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "Enterprise"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -2621,6 +2753,8 @@
       "B2B"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -2718,6 +2852,90 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/zero.json"
   },
   {
+    "id": 30523,
+    "name": "Mesmer",
+    "slug": "mesmer",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6139ccbb34b49d774e2708fc51e7b70f16db36d5.png",
+    "website": "https://mesmer.co",
+    "all_locations": "",
+    "long_description": "Mesmer gives leaders at scaling startups full context on their product development so that they can lead without drowning in meetings and management. We help founder/CTOs at companies worth over $3B keep their orgs fast, flat, and focused as they scale, including Origin, a $400M fintech cofounded by João.",
+    "one_liner": "Cursor for CTOs to run product development",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1747147618,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Productivity",
+      "Team Collaboration",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mesmer",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/mesmer.json"
+  },
+  {
+    "id": 30526,
+    "name": "chrt",
+    "slug": "chrt",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0bd87983ace16e9a440ec6fe901ff569c1bb997.png",
+    "website": "https://chrt.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "chrt is a platform for Time-Critical Logistics. We enable businesses to deliver their most critical items same-day.\r\n\r\nTime-Critical Logistics is a $30B market growing at a 20% CAGR driven by growth in American healthcare and manufacturing.\r\n\r\nShippers that place time-critical orders with chrt are enterprises who have urgent items they need to deliver ASAP. These orders are critical in nature and often require white glove service -- think therapeutic treatments for healthcare providers or specialized equipment for manufacturers. \r\n\r\nWe have a marketplace of professional couriers who pick up and deliver these orders. We build the software our couriers use to handle these shipments, including a driver app and fleet management tools. This gives us full control of the shipment and allows us to provide our shippers with end-to-end tracking. It also allows us to intervene early if we notice something is going wrong.\r\n\r\nWe’re software engineers that became friends years ago at McKinsey. Kyle is an expert in Time-Critical Logistics, having led strategy at a leading startup in the space. Aaron is an expert at designing and implementing AI systems to handle complex coordination. We were shipping code together on nights and weekends for years before chrt; now we’re also shipping freight.",
+    "one_liner": "chrt is a platform for Time-Critical Logistics",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1747152745,
+    "tags": [
+      "Digital Freight Brokerage",
+      "Marketplace",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chrt",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/chrt.json"
+  },
+  {
     "id": 30529,
     "name": "WorkDone",
     "slug": "workdone",
@@ -2807,6 +3025,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/rimba.json"
   },
   {
+    "id": 30531,
+    "name": "Moby Analytics",
+    "slug": "moby-analytics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2113434e52531a77ccec1fd7bb7d5596dc0b6f6d.png",
+    "website": "https://www.mobyanalytics.com/",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "At Moby Analytics, we provide the first AI agentic platform built for financial auditors. Auditors easily create and deploy AI agents to automate audit workflows. No code, just prompts and domain expertise.",
+    "one_liner": "AI Platform for financial auditors",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1747161163,
+    "tags": [
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "France",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/moby-analytics",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/moby-analytics.json"
+  },
+  {
     "id": 30533,
     "name": "Delty",
     "slug": "delty",
@@ -2814,18 +3072,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a497a3dd8d97bd1afd47deddea2d641ad655b69.png",
     "website": "https://delty.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "As software systems grow more complex and teams scale, key engineering work happens outside of code: product specs, docs, and architecture decisions and norms. That’s where a staff software engineer shines.\r\n\r\nLike a seasoned engineer embedded in your team, Delty understands your architecture, code evolution, and constraints. It designs new software systems and grounds your coding agents with real engineering context to help you deliver reliable, scalable systems, fast.",
+    "long_description": "As software systems grow more complex and teams scale, key engineering work happens outside of code: product specs, docs, and architecture decisions and norms. That’s where a staff software engineer shines.\r\n\r\nDelty is an AI staff engineer.\r\n\r\nLike a seasoned engineer embedded in your team, Delty understands your architecture, code evolution, and constraints. It designs new software systems and grounds your coding agents with real engineering context to help you deliver reliable, scalable systems, fast.",
     "one_liner": "AI staff engineer that designs systems and guides coding agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1746945144,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2848,6 +3106,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/delty",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/delty.json"
+  },
+  {
+    "id": 30535,
+    "name": "Cotool",
+    "slug": "cotool",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/389cfe9769cc2f1446473204037279b6e1215a61.png",
+    "website": "https://cotool.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cotool is an agentic security platform that eliminates manual and repetitive work for security teams.\r\n\r\nToday’s cybersecurity teams remain bogged down by alert fatigue, context switching, and documentation overhead. Security teams don't need more dashboards with \"AI-powered insights\" — they need their time back.\r\n\r\nCotool empowers teams to build security their way. Our platform provides an AI co-pilot that automatically assembles context across tools, a no-code agent builder that transforms successful investigations into reusable automations, and automated report generation, providing comprehensive documentation in seconds.\r\n\r\nUnlike solutions that force teams to adapt to vendor workflows, Cotool puts the power of AI directly in practitioners' hands, letting them shape tools around their unique processes. Early users have already cut time spent on investigation and detection engineering by 70%.",
+    "one_liner": "Free your security team to hunt threats, not handle workflows",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747110142,
+    "tags": [
+      "SaaS",
+      "Compliance",
+      "Security",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cotool",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/cotool.json"
   },
   {
     "id": 30538,
@@ -2951,10 +3251,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1747084472,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "No-code",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3358,13 +3658,13 @@
   },
   {
     "id": 30560,
-    "name": "Sava Robotics",
+    "name": "SAVA Robotics",
     "slug": "sava-robotics",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cfd3f761dfc0fcff51a0650948673bd04f8702b.png",
     "website": "https://www.savarobotics.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "SAVA Robotics is building robot operators for any machine in sheet metal manufacturing. We're starting with the CNC Press Brake and have autonomously bent our first production parts.",
+    "long_description": "SAVA Robotics builds robot operators for sheet metal machines. From Ford Trucks to NASA Space Shuttles, sheet metal is the cornerstone of American Manufacturing.\r\n\r\nAlessio and Vedic competed in high school robotics when they met Jakob at Georgia Tech’s Robotics labs. The team experienced Vedic’s father's 12-hour shifts, operating the machines in his shop because he struggled to find workers. After visiting manufacturers across the US, they have witnessed hundreds of automation cells collect dust while shop owners scramble to find skilled labor.\r\n\r\nSAVA 01 mimics the human operator by reading machine data and manipulating unseen parts. They are starting with the CNC Press Brake and have bent production parts for YC startups. ",
     "one_liner": "Robot Operators for Sheet Metal",
     "team_size": 3,
     "industry": "Industrials",
@@ -3437,5 +3737,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/valora",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/valora.json"
+  },
+  {
+    "id": 30562,
+    "name": "Docket",
+    "slug": "docket",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa849f70a991d46ed789deab2ddee170d952bc14.png",
+    "website": "https://docketqa.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Docket lets you write end-to-end tests in plain English and keeps them up to date automatically—powered by real user sessions.",
+    "one_liner": "AI agents for QA testing",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1747107485,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/docket",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/docket.json"
   }
 ]

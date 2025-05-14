@@ -6599,10 +6599,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf9bf94469ea296eac6cbf6d10f7674c4a8a91ef.png",
     "website": "https://signoz.io",
-    "all_locations": "Bengaluru, KA, India; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. Open source Application Performance Monitoring (APM) & Observability too",
     "one_liner": "Open source alternative to DataDog ",
-    "team_size": 18,
+    "team_size": 26,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1613453474,
@@ -6623,8 +6623,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "India",
-      "South Asia",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -9303,7 +9303,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -17631,7 +17631,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -19039,24 +19039,24 @@
   },
   {
     "id": 29745,
-    "name": "Lumenary",
-    "slug": "lumenary",
+    "name": "Lumenary, Inc.",
+    "slug": "lumenary-inc",
     "former_names": [
       "January"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/becd07dd532d02d7faf201baa5f85e3101cc6f42.png",
-    "website": "https://lumenary.com",
+    "website": "https://try.solar",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumenary is a code-generation platform and IDE that makes designing rigorous, data-intensive applications feel like whiteboarding. We provide a canvas-based UI that helps users and LLMs work off the same code and infrastructure context, while programmatically generating full-stack apps from high-level specifications.\r\n\r\n\r\nLumenary was founded by four best friends who met at Dartmouth College, with engineering expertise from Jane Street Capital, IMC Trading, and Palantir Technologies. They've published high impact machine learning research in venues like NeurIPS, in addition to deploying secure enterprise software managing billions of dollars and petabytes of data.",
-    "one_liner": "Build production-worthy software quickly with AI.",
+    "long_description": "Lumenary develops Solar, a tool to build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.\r\n\r\nLumenary was founded by four best friends who met at Dartmouth, with experience from Jane Street, IMC, and Palantir. They've published research in venues like NeurIPS, and have deployed software managing billions of dollars, petabytes of data, and a lot of LLM tokens.",
+    "one_liner": "Build working software exceedingly fast in Solar",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "Healthcare",
     "launched_at": 1722638950,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19077,8 +19077,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumenary",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/lumenary.json"
+    "url": "https://www.ycombinator.com/companies/lumenary-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/lumenary-inc.json"
   },
   {
     "id": 29751,
@@ -21461,7 +21461,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8df0ce49cc11e96b09c8980da86ed900b39fe9dc.png",
     "website": "https://attunehq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Attune makes blazingly fast build tools that require zero migration effort.\r\n\r\nAs AI enables developers to write code faster than ever, slow builds are increasingly becoming the bottleneck in development velocity. Developers regularly lose hours of productivity every day waiting for their builds. Imagine being able to write code in 1 minute, but needing to wait 30 minutes to compile, deploy, and test it.\r\n\r\nExisting solutions either require painful migrations to new tools (e.g. Bazel) or rely on just using bigger servers to run your build. Instead, we do native, first-class integrations into compilers and build systems.\r\n\r\nWith Attune, you don't need to integrate a new tool. Just make a one-line change from `cargo build` to `hurry cargo build` for 20x faster builds.\r\n\r\nEliza (ex-Google) and Xin worked together for 3 years at FOSSA, where Eliza was Head of Engineering and Xin was Head of Product. Eliza brings a decade of programming languages and build systems expertise, while Xin brings a decade of experience building developer tools products, most recently as VP of Product at Teleport (S15). Having experienced the pain of slow builds firsthand across hundreds of production codebases, we're building the solution we've always wanted.",
+    "long_description": "Attune makes blazingly fast build tools that require zero migration effort.\r\n\r\nAs AI enables developers to write code faster than ever, slow builds are increasingly becoming the bottleneck in development velocity. Developers regularly lose hours of productivity every day waiting for their builds. Imagine being able to write code in 1 minute, but needing to wait 30 minutes to compile, deploy, and test it.\r\n\r\nExisting solutions either require painful migrations to new tools (e.g. Bazel) or rely on just using bigger servers to run your builds. Instead, we do native, first-class integrations into compilers and build systems.\r\n\r\nWith Attune, you don't need to integrate a new tool. Just make a one-line change from `cargo build` to `hurry cargo build` for 20x faster builds.\r\n\r\nEliza (ex-Google) and Xin worked together for 3 years at FOSSA, where Eliza was Head of Engineering and Xin was Head of Product. Eliza brings a decade of programming languages and build systems expertise, while Xin brings a decade of experience building developer tools products, most recently as VP of Product at Teleport (S15). Having experienced the pain of slow builds firsthand across hundreds of production codebases, we're building the solution we've always wanted.",
     "one_liner": "Faster builds, zero effort.",
     "team_size": 2,
     "industry": "B2B",
@@ -21792,5 +21792,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wavedash",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/wavedash.json"
+  },
+  {
+    "id": 30562,
+    "name": "Docket",
+    "slug": "docket",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa849f70a991d46ed789deab2ddee170d952bc14.png",
+    "website": "https://docketqa.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Docket lets you write end-to-end tests in plain English and keeps them up to date automatically—powered by real user sessions.",
+    "one_liner": "AI agents for QA testing",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1747107485,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/docket",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/docket.json"
   }
 ]

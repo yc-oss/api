@@ -2103,55 +2103,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/contour.json"
   },
   {
-    "id": 28818,
-    "name": "Mandel AI",
-    "slug": "mandel-ai",
-    "former_names": [
-      "Enbank",
-      "Fynt",
-      "Fynt AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cf3efb3a17f100893c2b9e11f3f945ba7fbdf04.png",
-    "website": "https://www.mandel.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mandel surfaces supply chain disruptions and supplier updates with email AI. We use AI agents that proactively extract data and email suppliers for order updates, building a real-time self updating supply chain source of truth.",
-    "one_liner": "AI Procurement Agent for Manufacturing",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "Fintech",
-    "launched_at": 1691105932,
-    "tags": [
-      "Artificial Intelligence",
-      "Manufacturing",
-      "Supply Chain",
-      "Procurement",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mandel-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/mandel-ai.json"
-  },
-  {
     "id": 28824,
     "name": "askLio",
     "slug": "asklio",
@@ -2597,7 +2548,7 @@
     "website": "https://usecarousel.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Carousel is an AI assistant for Excel that builds spreadsheets & models in minutes, not hours.\r\n\r\nCarousel can:\r\n\r\n- Create & edit Excel models of any complexity, including but not limited to: multi-statement financial models with several tabs, FP&A templates based on raw revenue and cost data, scientific data analyses, and more\r\n\r\n- Take in data from PDFs, CSVs, presentations, and images, and build the data into your Excel directly\r\n\r\n- Walk you through complex spreadsheet architecture and each cell's precedents and dependents\r\n\r\n- Format your models tastefully & professionally\r\n\r\n- Build chart dashboards to visualize your data\r\n\r\nIt's more useful than the last intern you hired.",
-    "one_liner": "Cursor for Excel",
+    "one_liner": "AI Assistant for Excel",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4099,18 +4050,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a497a3dd8d97bd1afd47deddea2d641ad655b69.png",
     "website": "https://delty.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "As software systems grow more complex and teams scale, key engineering work happens outside of code: product specs, docs, and architecture decisions and norms. That’s where a staff software engineer shines.\r\n\r\nLike a seasoned engineer embedded in your team, Delty understands your architecture, code evolution, and constraints. It designs new software systems and grounds your coding agents with real engineering context to help you deliver reliable, scalable systems, fast.",
+    "long_description": "As software systems grow more complex and teams scale, key engineering work happens outside of code: product specs, docs, and architecture decisions and norms. That’s where a staff software engineer shines.\r\n\r\nDelty is an AI staff engineer.\r\n\r\nLike a seasoned engineer embedded in your team, Delty understands your architecture, code evolution, and constraints. It designs new software systems and grounds your coding agents with real engineering context to help you deliver reliable, scalable systems, fast.",
     "one_liner": "AI staff engineer that designs systems and guides coding agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1746945144,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4133,5 +4084,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/delty",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/delty.json"
+  },
+  {
+    "id": 30562,
+    "name": "Docket",
+    "slug": "docket",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa849f70a991d46ed789deab2ddee170d952bc14.png",
+    "website": "https://docketqa.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Docket lets you write end-to-end tests in plain English and keeps them up to date automatically—powered by real user sessions.",
+    "one_liner": "AI agents for QA testing",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1747107485,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/docket",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/docket.json"
   }
 ]
