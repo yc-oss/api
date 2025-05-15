@@ -2401,7 +2401,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -8220,24 +8220,24 @@
   },
   {
     "id": 29372,
-    "name": "PySpur.dev",
-    "slug": "pyspur-dev",
+    "name": "Rehearsal.so",
+    "slug": "rehearsal-so",
     "former_names": [
       "Sevn.ai"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d78b1369b828cc303a6a77f59f19df0f4b21c51c.png",
-    "website": "http://pyspur.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI engineers use PySpur to build, debug, and deploy AI agents.",
-    "one_liner": "Open Source AI Agents Builder",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/decfb37c0926a5b71b2548fc6985cb482cba2964.png",
+    "website": "https://rehearsal.so/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "",
+    "one_liner": "Voice AI Roleplays",
     "team_size": 2,
-    "industry": "B2B",
+    "industry": "Consumer",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1703955205,
     "tags": [
       "Artificial Intelligence",
       "Generative AI",
-      "Open Source"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8246,20 +8246,22 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Consumer",
+      "Gaming"
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pyspur-dev",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/pyspur-dev.json"
+    "url": "https://www.ycombinator.com/companies/rehearsal-so",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/rehearsal-so.json"
   },
   {
     "id": 29384,
@@ -8533,9 +8535,9 @@
     "launched_at": 1711068147,
     "tags": [
       "Documents",
+      "Artificial Intelligence",
       "Generative AI",
-      "NLP",
-      "AI"
+      "NLP"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10077,15 +10079,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/467a5194c6eed21b3d29ae27af5c92c76d94cdf0.png",
     "website": "https://openfunnel.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OpenFunnel builds personalized AI Agents for GTM teams. These agents understand their product, scour through the internet, and find prospects that have shown intent for their product.\r\n\r\nToday, GTM teams at B2B SaaS companies, burn through cold prospects from intent data providers like Demandbase and Zoominfo using some AI SDR tools and get conversions < 1%.\r\n\r\nOur customers have a steady pipeline of prospects daily and get 20x more meetings booked by reaching out to prospects when they show intent.\r\n",
-    "one_liner": "Personalised Agents for AI-First GTM Teams",
+    "long_description": "OpenFunnel helps you autonomously discover and prioritize prospects by identifying external activities your ICPs are doing — signals that show a company is worth reaching out to and might have a pain point.\r\n\r\nFor example -\r\nAn LLM Ops company that provides tools for self hosting LLMs uses us to\r\nFind companies in their ICP rapidly expanding their AI team for self-hosting Llama Models\r\n\r\nAn HR and Payroll Software company that helps with global payroll uses us to\r\nFind seed funded announcements in real-time and have immigrant founders to the US",
+    "one_liner": "Agents to help find in-market companies via deep researched signals",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1728361776,
     "tags": [
       "Generative AI",
-      "B2B"
+      "B2B",
+      "Sales Enablement"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10379,9 +10382,9 @@
     "subindustry": "Unspecified",
     "launched_at": 1731437113,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11125,15 +11128,17 @@
     "id": 30329,
     "name": "Waffle",
     "slug": "waffle",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55ddda605d9220f980439bd048c8a5e8691cd276.png",
-    "website": "",
+    "former_names": [
+      "Opine"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/559e784175573535ba47ddbd6bfd5176d9c2d49c.png",
+    "website": "https://www.waffle.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Build custom web applications in minutes. Chat to Waffle to built, edit, and publish web applications without writing a line of code. \r\n\r\nComing soon: build web apps with a real backend! That means databases, authentication, email services, file storage, and more.",
+    "long_description": "Build custom web apps in minutes. Use Waffle to built, edit, and publish web apps without writing a line of code. \r\n\r\nComing soon: build web apps with a real backend! That means databases, authentication, email services, file storage, and more.",
     "one_liner": "Vibe code web apps",
     "team_size": 2,
     "industry": "Consumer",
-    "subindustry": "Consumer -> Content",
+    "subindustry": "Consumer",
     "launched_at": 1740162817,
     "tags": [
       "Generative AI",
@@ -11144,7 +11149,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Winter 2025",
+    "batch": "Spring 2025",
     "status": "Active",
     "industries": [
       "Consumer"
@@ -11159,7 +11164,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/waffle",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/waffle.json"
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/waffle.json"
   },
   {
     "id": 30335,
@@ -11746,5 +11751,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/blueshoe",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/blueshoe.json"
+  },
+  {
+    "id": 30565,
+    "name": "Cohesive",
+    "slug": "cohesive",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ae1ace3d66e110a8df626460cadb105a22556d0.png",
+    "website": "https://getcohesiveai.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Cohesive is the agentic CRM for blue collar businesses like janitorial, pressure washing, landscaping, HVAC, and pest control businesses. Cohesive fully automates sales and marketing outreach to local businesses and property owners in the service area, helping local service businesses grow even while servicing clients in the field.",
+    "one_liner": "The agentic CRM for blue collar businesses",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1747185757,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "SaaS",
+      "Sales",
+      "CRM"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cohesive",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/cohesive.json"
   }
 ]

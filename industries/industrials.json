@@ -3418,7 +3418,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2018",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Industrials",
       "Agriculture"
@@ -9693,14 +9693,11 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ohm deploys AI agents across battery teams around the world",
     "one_liner": "AI agents for battery teams",
-    "team_size": null,
+    "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials -> Energy",
     "launched_at": 1676603508,
     "tags": [
-      "Artificial Intelligence",
-      "Energy Storage",
-      "Machine Learning",
       "Data Engineering",
       "AI"
     ],
@@ -10076,7 +10073,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -10980,45 +10977,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/plume.json"
   },
   {
-    "id": 29713,
-    "name": "Anthrogen",
-    "slug": "anthrogen",
-    "former_names": [
-      "Arctic Capture"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b82e4439479abc4af4baa257faf13f88240781b4.png",
-    "website": "https://anthrogen.com",
-    "all_locations": "",
-    "long_description": "Anthrogen uses genetically modified bacteria and optimized enzymes to turn carbon from the air into cheap chemicals. Think Solugen but for more complex molecules/enzyme cascades and using atmospheric carbon instead of sugar as a base. \r\n\r\nWe have engineered the fastest photosynthesizing organism in the world with CRISPR and use generative models to design our enzymatic cascades. We are stating with jet/rocket fuel but will expand to other verticals soon.",
-    "one_liner": "We make molecules like fuels and plastics from the air.",
-    "team_size": 6,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Climate",
-    "launched_at": 1717790065,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Climate"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/anthrogen",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/anthrogen.json"
-  },
-  {
     "id": 29733,
     "name": "1849 bio",
     "slug": "1849-bio",
@@ -11688,16 +11646,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/683490b8ed63456c153999da3c193d23b5d08e78.png",
     "website": "https://tryforerunner.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Forerunner is your aerospace, defense, and hardware engineering copilot, helping you beat tight deadlines by automating critical engineering workflows. Our secure AI agents access data from tools like Atlassian Suite and Microsoft Office, then collaborate with hardware engineers to accelerate design and analysis.",
+    "long_description": "Forerunner is your aerospace, defense, and hardware engineering copilot, helping you beat tight deadlines by automating critical engineering workflows. ",
     "one_liner": "Copilot for aerospace engineers making rockets, munitions, satellites",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1730181783,
     "tags": [
-      "Artificial Intelligence",
       "Manufacturing",
-      "Aerospace"
+      "Aerospace",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -21081,7 +21081,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -25317,7 +25317,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -27151,24 +27151,24 @@
   },
   {
     "id": 27154,
-    "name": "Caddie AI",
-    "slug": "caddie-ai",
+    "name": "Superbar (Formerly Caddie)",
+    "slug": "superbar-formerly-caddie",
     "former_names": [
       "Caddie"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad7658154dd1af4e3c35620787ed7dd818be40ed.png",
-    "website": "http://www.trycaddie.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00fd47f91143cc8393a67e9aa539ee075762df08.png",
+    "website": "http://www.superbar.ai",
     "all_locations": "Toronto, ON, Canada; Remote",
-    "long_description": "Caddie AI is building the future of website conversion. We're currently working in stealth with some incredible customers. Stay tuned!",
-    "one_liner": "The future of website conversion",
-    "team_size": 2,
+    "long_description": "Superbar is the AI-powered search and answer bar built to fix ecommerce conversion. It connects to your product catalog, blogs, videos, and customer reviews to deliver instant, high-converting search results and answers—trained specifically to sell your products. No dev work needed. Just plug it in.\r\n",
+    "one_liner": "Search & Answers Superbar for E-Commerce",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1656364678,
     "tags": [
       "SaaS",
       "B2B",
-      "Sales",
+      "E-commerce",
       "Marketing",
       "Enterprise"
     ],
@@ -27193,8 +27193,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/caddie-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/caddie-ai.json"
+    "url": "https://www.ycombinator.com/companies/superbar-formerly-caddie",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/superbar-formerly-caddie.json"
   },
   {
     "id": 27155,
@@ -32060,7 +32060,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -35733,10 +35733,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723709594,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Robotic Process Automation",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38119,51 +38119,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/superunit.json"
   },
   {
-    "id": 29586,
-    "name": "Glasskube",
-    "slug": "glasskube",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9fd82d6ad8c83a6a8a30a2f1f88b9186d91f977.png",
-    "website": "https://glasskube.dev/",
-    "all_locations": "Vienna, Vienna, Austria",
-    "long_description": "Managing enterprise software deployments shouldn’t feel like a balancing act. At Glasskube, we make deploying, managing, and updating software in on-premises, VPC, and air-gapped environments easier than ever.\r\n\r\nOur Mission:\r\nWe empower software vendors to deliver exceptional customer experiences with less complexity. Whether you’re onboarding new clients, rolling out updates, or troubleshooting issues, our Software Distribution Platform streamlines every step.\r\n\r\nThe founders have been best friends for over 15 years, lived together in college, and even had a startup together. Philip was the CTO of a European Kubernetes-based company that was acquired in 2022.",
-    "one_liner": "Software Distribution Platform for On-Prem, Kubernetes, Docker & BYOC",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1717765543,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Open Source",
-      "Kubernetes",
-      "DevOps"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "Austria",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/glasskube",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/glasskube.json"
-  },
-  {
     "id": 29607,
     "name": "ProhostAI",
     "slug": "prohostai",
@@ -39670,7 +39625,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -41263,15 +41218,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/467a5194c6eed21b3d29ae27af5c92c76d94cdf0.png",
     "website": "https://openfunnel.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "OpenFunnel builds personalized AI Agents for GTM teams. These agents understand their product, scour through the internet, and find prospects that have shown intent for their product.\r\n\r\nToday, GTM teams at B2B SaaS companies, burn through cold prospects from intent data providers like Demandbase and Zoominfo using some AI SDR tools and get conversions < 1%.\r\n\r\nOur customers have a steady pipeline of prospects daily and get 20x more meetings booked by reaching out to prospects when they show intent.\r\n",
-    "one_liner": "Personalised Agents for AI-First GTM Teams",
+    "long_description": "OpenFunnel helps you autonomously discover and prioritize prospects by identifying external activities your ICPs are doing — signals that show a company is worth reaching out to and might have a pain point.\r\n\r\nFor example -\r\nAn LLM Ops company that provides tools for self hosting LLMs uses us to\r\nFind companies in their ICP rapidly expanding their AI team for self-hosting Llama Models\r\n\r\nAn HR and Payroll Software company that helps with global payroll uses us to\r\nFind seed funded announcements in real-time and have immigrant founders to the US",
+    "one_liner": "Agents to help find in-market companies via deep researched signals",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1728361776,
     "tags": [
       "Generative AI",
-      "B2B"
+      "B2B",
+      "Sales Enablement"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43936,16 +43892,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f1c0c72a7f623d3b80ce3fbde35d6d196e31e5c.png",
     "website": "https://parsewise.ai",
     "all_locations": "",
-    "long_description": "Our AI Agents are like your best data analysts. They proactively flag inconsistencies and gaps across documents in diverse formats, enabling you to make better decisions faster.\r\nThink Deep Research, but quick to verify and trust.",
-    "one_liner": "Extract Canonical Data from Complex Documents",
+    "long_description": "Turn complex documents into validation information that business experts can trust and verify. Parsewise saves enterprises hours each day by automating human data tasks in analytics, benchmarking, and reporting workflows.",
+    "one_liner": "Extract Validated Data from Complex Documents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1745096268,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44223,6 +44179,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/theta-software.json"
   },
   {
+    "id": 30496,
+    "name": "QualGent",
+    "slug": "qualgent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e454cf353c971b2d54e61c997bd0585c07acf8c.png",
+    "website": "https://qualgent.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "QualGent is an AI-powered QA tester for mobile apps that mimics a real human, helping teams catch bugs and ship faster—without hiring more QA testers. One customer reached #3 in the Education category on the App Store by improving app quality with QualGent.\r\n\r\nMobile bugs hurt: crashes kill ratings, broken checkouts drive churn. QualGent helps teams scale QA effortlessly and avoid Sonos-level disasters.\r\n\r\nThe idea for QualGent was born from the founders’ experience leading engineering teams at Google across Android XR, Stadia, Quick Share, and foldable devices where shipping to billions of users meant constantly facing the painful trade-off between moving fast and maintaining quality. With prior research experience at Nvidia, Maryland, and Berkeley, the team saw a clear opportunity: use AI to scale QA.\r\n\r\nQualGent’s vision is to close the loop on software creation. As AI enables engineers to code 100x faster, QualGent eliminates the next bottleneck—software verification—unlocking truly scalable, end-to-end software development.",
+    "one_liner": "AI Quality Assurance agent for mobile software testing",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1747257305,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/qualgent",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/qualgent.json"
+  },
+  {
     "id": 30498,
     "name": "Alkali",
     "slug": "alkali",
@@ -44392,6 +44388,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/scalar-field.json"
   },
   {
+    "id": 30527,
+    "name": "MindFort",
+    "slug": "mindfort",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67f8fa73a583138ab0060e99d6a10e8341a0d040.png",
+    "website": "https://www.mindfort.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "MindFort is building fully autonomous AI agents and models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it.\r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
+    "one_liner": "Fully autonomous security agents: find, validate, patch.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1747245373,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Cybersecurity",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mindfort",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/mindfort.json"
+  },
+  {
     "id": 30529,
     "name": "WorkDone",
     "slug": "workdone",
@@ -44541,10 +44580,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1747084472,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "No-code",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44650,6 +44689,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/airweave",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/airweave.json"
+  },
+  {
+    "id": 30555,
+    "name": "DataSci.Pro",
+    "slug": "datasci-pro",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/850871ffbd491df4284de57049e289171e3d3327.png",
+    "website": "https://www.datasci.pro",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DataSci.Pro is building intelligent full-stack data science AI agents that accelerate data engineering, analysis, and reporting/dashboarding for enterprise data teams, allowing them to move from raw data to insights in minutes, not days. Connect your data sources and put the power of data-driven decisions into anyone's hands.",
+    "one_liner": "Full-stack AI agents for data science",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1747195045,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Data Science",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/datasci-pro",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/datasci-pro.json"
   },
   {
     "id": 30561,

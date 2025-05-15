@@ -25414,7 +25414,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -34569,24 +34569,24 @@
   },
   {
     "id": 27154,
-    "name": "Caddie AI",
-    "slug": "caddie-ai",
+    "name": "Superbar (Formerly Caddie)",
+    "slug": "superbar-formerly-caddie",
     "former_names": [
       "Caddie"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad7658154dd1af4e3c35620787ed7dd818be40ed.png",
-    "website": "http://www.trycaddie.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00fd47f91143cc8393a67e9aa539ee075762df08.png",
+    "website": "http://www.superbar.ai",
     "all_locations": "Toronto, ON, Canada; Remote",
-    "long_description": "Caddie AI is building the future of website conversion. We're currently working in stealth with some incredible customers. Stay tuned!",
-    "one_liner": "The future of website conversion",
-    "team_size": 2,
+    "long_description": "Superbar is the AI-powered search and answer bar built to fix ecommerce conversion. It connects to your product catalog, blogs, videos, and customer reviews to deliver instant, high-converting search results and answers—trained specifically to sell your products. No dev work needed. Just plug it in.\r\n",
+    "one_liner": "Search & Answers Superbar for E-Commerce",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1656364678,
     "tags": [
       "SaaS",
       "B2B",
-      "Sales",
+      "E-commerce",
       "Marketing",
       "Enterprise"
     ],
@@ -34611,8 +34611,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/caddie-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/caddie-ai.json"
+    "url": "https://www.ycombinator.com/companies/superbar-formerly-caddie",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/superbar-formerly-caddie.json"
   },
   {
     "id": 27157,
@@ -38478,7 +38478,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -47520,6 +47520,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/eloquent-ai.json"
   },
   {
+    "id": 30519,
+    "name": "Hemut",
+    "slug": "hemut",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0130d4e41d286011dbbf71e01781948525f98d90.png",
+    "website": "https://www.hemut.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Next-generation truck management software to automate back-office operations for trucking companies. Features include AI agents to automate inbound/outbound calls, AI document upload to reduce manual data entry, load sourcing tools, automated accounting, and more.",
+    "one_liner": "AI-powered operating system for trucking companies.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1747261239,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Logistics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hemut",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/hemut.json"
+  },
+  {
     "id": 30523,
     "name": "Mesmer",
     "slug": "mesmer",
@@ -47561,6 +47602,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mesmer",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/mesmer.json"
+  },
+  {
+    "id": 30527,
+    "name": "MindFort",
+    "slug": "mindfort",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67f8fa73a583138ab0060e99d6a10e8341a0d040.png",
+    "website": "https://www.mindfort.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "MindFort is building fully autonomous AI agents and models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it.\r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
+    "one_liner": "Fully autonomous security agents: find, validate, patch.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1747245373,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Cybersecurity",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mindfort",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/mindfort.json"
   },
   {
     "id": 30530,
@@ -47653,7 +47737,7 @@
     "name": "Cotool",
     "slug": "cotool",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/389cfe9769cc2f1446473204037279b6e1215a61.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/206decabd9d62821656d84ac331ecdfb83854063.png",
     "website": "https://cotool.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Cotool is an agentic security platform that eliminates manual and repetitive work for security teams.\r\n\r\nToday’s cybersecurity teams remain bogged down by alert fatigue, context switching, and documentation overhead. Security teams don't need more dashboards with \"AI-powered insights\" — they need their time back.\r\n\r\nCotool empowers teams to build security their way. Our platform provides an AI co-pilot that automatically assembles context across tools, a no-code agent builder that transforms successful investigations into reusable automations, and automated report generation, providing comprehensive documentation in seconds.\r\n\r\nUnlike solutions that force teams to adapt to vendor workflows, Cotool puts the power of AI directly in practitioners' hands, letting them shape tools around their unique processes. Early users have already cut time spent on investigation and detection engineering by 70%.",
@@ -47859,5 +47943,89 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wavedash",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/wavedash.json"
+  },
+  {
+    "id": 30555,
+    "name": "DataSci.Pro",
+    "slug": "datasci-pro",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/850871ffbd491df4284de57049e289171e3d3327.png",
+    "website": "https://www.datasci.pro",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DataSci.Pro is building intelligent full-stack data science AI agents that accelerate data engineering, analysis, and reporting/dashboarding for enterprise data teams, allowing them to move from raw data to insights in minutes, not days. Connect your data sources and put the power of data-driven decisions into anyone's hands.",
+    "one_liner": "Full-stack AI agents for data science",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1747195045,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Data Science",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/datasci-pro",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/datasci-pro.json"
+  },
+  {
+    "id": 30565,
+    "name": "Cohesive",
+    "slug": "cohesive",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ae1ace3d66e110a8df626460cadb105a22556d0.png",
+    "website": "https://getcohesiveai.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Cohesive is the agentic CRM for blue collar businesses like janitorial, pressure washing, landscaping, HVAC, and pest control businesses. Cohesive fully automates sales and marketing outreach to local businesses and property owners in the service area, helping local service businesses grow even while servicing clients in the field.",
+    "one_liner": "The agentic CRM for blue collar businesses",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1747185757,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "SaaS",
+      "Sales",
+      "CRM"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cohesive",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/cohesive.json"
   }
 ]
