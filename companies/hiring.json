@@ -11787,52 +11787,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/milo.json"
   },
   {
-    "id": 12639,
-    "name": "Banner",
-    "slug": "banner",
-    "former_names": [
-      "BitFight",
-      "Banner",
-      "BitFight"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f7894aa9ed686ecf41b4e45c69ea8f7318f0d7e.png",
-    "website": "https://withbanner.com",
-    "all_locations": "New York, NY, USA; San Francisco, CA, USA; Remote",
-    "long_description": "Banner is the operating system for real estate teams. From building acquisition to disposition, Banner moves all communications, workflows, spreadsheets, and file-sharing into one system. With Banner, customers automate away 80%+ of their administrative work, saving up to 10% on project costs.\r\nThe company is founded by Mark Murphy who formerly worked in RE finance, along with Kunal Chaudhary and Eric Gao, both UC Berkeley EECS alums.",
-    "one_liner": "Banner makes software for CRE owners to manage capital spend",
-    "team_size": 35,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction",
-    "launched_at": 1600468489,
-    "tags": [
-      "Marketplace",
-      "SaaS",
-      "Proptech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2019",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/banner",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/banner.json"
-  },
-  {
     "id": 12643,
     "name": "Outtalent",
     "slug": "outtalent",
@@ -14274,6 +14228,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2020/recurrency.json"
   },
   {
+    "id": 13333,
+    "name": "Upflow",
+    "slug": "upflow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cfbbee59804a41493e50bd030cff5d6d1bc8fc97.png",
+    "website": "https://upflow.io/en/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Upflow is building cutting-edge technology to transform how B2B businesses get paid by their customers,  and grow profitably.\r\n\r\nB2B payment remains super painful for both suppliers and customers in 2025. Through a one-click integration with major financial software (Netsuite, Sage Intacct, Quickbooks) it provides finance and business teams with:\r\n1. A better understanding of their cash collection performance through powerful analytics\r\n2. An intuitive platform for all teams (finance, sales, success) to collaborate around cash collection, turning archaic spreadsheet processes into systematic, personalized cash collection processes.\r\n3. A platform to bring modern payment methods to customers and recreate a consumer-like checkout experience with one-click payment. \r\n\r\nOverall, Upflow drastically improves cash collection rates and turns revenues into cash in the bank faster and simpler.\r\n\r\nThe best B2B tech companies, such as Front, Lattice, ProductBoard, rely on Upflow to manage their cash collection. If you're a CFO, Controller, or Finance Ops, check out our free Discover product to run an audit of your cash collection in 5 min: https://insights.upflow.io/en/discover-upflow\r\n",
+    "one_liner": "Cash collection tech for B2B businesses.",
+    "team_size": 50,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1586871998,
+    "tags": [
+      "Fintech",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/upflow",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/upflow.json"
+  },
+  {
     "id": 13351,
     "name": "Morphle Labs",
     "slug": "morphle-labs",
@@ -15047,16 +15043,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/196898f11a9311436ed24d99e2972511f8433f5d.png",
     "website": "https://datafold.com",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Datafold exists to make working with data more enjoyable and productive.\r\n\r\nWe are all about empowering data and analytics engineers. We find the most tedious, error-prone, and repetitive tasks and create tools to automate them. We make the world better by giving superpowers to data professionals who solve hard problems in various domains with data.",
-    "one_liner": "Deal with analytical data quality in the pull request",
-    "team_size": 24,
+    "long_description": "Datafold automates manual work in data engineering. \r\n\r\nWe leverage agentic AI to automate both day-to-day tasks, such as testing and code reviews, and massive one-off projects, such as data platform code migrations. Companies from Perplexity to Disney use Datafold to unlock more value from their data by freeing up their data teams from manual work, accelerating developer velocity, and ensuring data quality.",
+    "one_liner": "Automating manual and repetitive data engineering tasks with AI",
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1599762606,
     "tags": [
       "SaaS",
       "Analytics",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21577,43 +21574,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/waydev.json"
   },
   {
-    "id": 23531,
-    "name": "Authologic",
-    "slug": "authologic",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3450b6c428a44cabbdb63fad99fdd8860317192.png",
-    "website": "https://authologic.com",
-    "all_locations": "Remote",
-    "long_description": "Authologic is an orchestration and aggregation layer for local KYC & AML methods. We allow businesses to check the identity of their clients online using video/biometrics, banking data, and government issued digital IDs. Our API  allows a flexible definition of verification scenarios based on the risk profile of the client or risk involved in the given process.",
-    "one_liner": "Stripe for online identity verification",
-    "team_size": 25,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1616831029,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/authologic",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/authologic.json"
-  },
-  {
     "id": 23539,
     "name": "Triomics",
     "slug": "triomics",
@@ -26187,47 +26147,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/firstignite.json"
   },
   {
-    "id": 24859,
-    "name": "Synder",
-    "slug": "synder",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbfbdd6f698428d00defbe49ae298e9ee23d8d76.png",
-    "website": "https://synder.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Synder is an easy accounting platform focused on e-commerce.  It connects all sales platforms (like Shopify, Stripe, Amazon or Etsy) into one ecosystem, providing businesses with consolidated cash flow, automated accounting, and inventory management making Synder a single source of truth of the correct analytics, accounting and tax filing.",
-    "one_liner": "Easy accounting for e-commerce",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1625691576,
-    "tags": [
-      "E-Commerce"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/synder",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/synder.json"
-  },
-  {
     "id": 24861,
     "name": "Stepful",
     "slug": "stepful",
@@ -28055,6 +27974,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/ankr-health.json"
   },
   {
+    "id": 25537,
+    "name": "Cerebrium",
+    "slug": "cerebrium",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/730897d24e909ee905c210f74fec1b439d21c4a7.png",
+    "website": "https://www.cerebrium.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Cerebrium is a serverless infrastructure platform for AI applications. We make it easier for companies to build and deploy AI based applications. We offer Serverless GPU's with low cold start times, over 12 varieties of GPU chips, allow you to run large scale batch jobs, run realtime voice applications and much more. We are used by the teams at Tavus, CivitAI, Twilio and many more. \r\n\r\nCustomers typically experience 40% in cost savings when compared to using traditional cloud providers and can scale models to more than 10K requests per minute with minimal engineering overhead. ",
+    "one_liner": "Serverless Infrastructure Platform for AI",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1641981854,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cerebrium",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/cerebrium.json"
+  },
+  {
     "id": 25541,
     "name": "Versable",
     "slug": "versable",
@@ -29337,6 +29299,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sprites",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/sprites.json"
+  },
+  {
+    "id": 25745,
+    "name": "goodfin",
+    "slug": "goodfin",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b052c26e0beb63cd2a5aef297f7855da685f8dc.png",
+    "website": "http://www.goodfin.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "GoodFin is reimagining private wealth in the era of AI. Our mission is to empower a new generation to build wealth, starting with their investments in alternative assets. \r\n\r\nOur AI-native platform combines a design-forward experience with a backend powered by a system of intelligent agents. We are building a future where AI unlocks financial hyperpersonalization, automation and optimization for sophisticated financial products, which are typically gated by advisors and reserved for very wealthy clients. This highly fragmented $1.25T global services market will undergo a sea change in the coming years, as trillions pass in the largest intergenerational wealth transfer to date.  \r\n\r\nIn a world where most financial decisions will become automated, we believe the next category-defining wealth company will still be human-driven at its core – powered by a high-value community like our membership base of professionals, founders and investors. The next generation financial giant will be an AI-native platform that makes wealth creation seamless, personalized, and social. That’s what we’re building.",
+    "one_liner": "Building the next generation of wealth",
+    "team_size": 7,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1647606742,
+    "tags": [
+      "Fintech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/goodfin",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/goodfin.json"
   },
   {
     "id": 25763,
@@ -31676,6 +31679,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/devyce.json"
   },
   {
+    "id": 26737,
+    "name": "Fetii",
+    "slug": "fetii",
+    "former_names": [
+      "Fetii Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c73c93a3d2686736e8af41a94ccec32614c6ca81.png",
+    "website": "https://www.fetii.com/",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "Fetii is a group rideshare app that lets both consumers and businesses order 15-passenger vans on-demand. Users pay using a QR check-in system that splits payments seamlessly amongst the group at time of boarding. \r\n\r\nNo longer are groups forced to reserve a charter vehicle weeks in advance, pay a 5 hour minimum for a 15 minute trip, and have no payment flexibility OR split up the group and utilize multiple vehicles...Fetii takes the friction out of group transportation.\r\n\r\nFetii has already transported over 800,000 passengers, removed over 140,000 unnecessary vehicles, and is operating in 7 cities.",
+    "one_liner": "Fetii transports groups and businesses together, on-demand",
+    "team_size": 6,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Transportation Services",
+    "launched_at": 1653410309,
+    "tags": [
+      "Transportation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Transportation Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fetii",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/fetii.json"
+  },
+  {
     "id": 26741,
     "name": "Paragon AI",
     "slug": "paragon-ai",
@@ -33420,6 +33466,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/wondercraft.json"
   },
   {
+    "id": 27172,
+    "name": "Lancey",
+    "slug": "lancey",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b4be6448879f62d812b1d5fa3d238cd1061e335.png",
+    "website": "https://lancey.ai",
+    "all_locations": "Toronto, ON, Canada; Remote",
+    "long_description": "Lancey understands your product feedback, CRM and product analytics data to help product teams build their next big idea.",
+    "one_liner": "AI agents to help product teams operate faster.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1655587130,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "SaaS",
+      "B2B",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lancey",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/lancey.json"
+  },
+  {
     "id": 27173,
     "name": "Jamble",
     "slug": "jamble",
@@ -35034,45 +35124,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/justpaid-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/justpaid-ai.json"
-  },
-  {
-    "id": 27822,
-    "name": "GovEagle",
-    "slug": "goveagle",
-    "former_names": [
-      "Sage (Placeholder)",
-      "Zenfetch",
-      "ZenFetch"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32fff5dc0564409b94cd9ac53a22b0652becf13f.png",
-    "website": "https://www.goveagle.com/",
-    "all_locations": "",
-    "long_description": "GovEagle is building an AI RFP automation platform for medium to large government contractors. Using GovEagle, contractors have been able to submit more proposals without compromising quality. ",
-    "one_liner": "First draft of a government RFP response in 60 min",
-    "team_size": 6,
-    "industry": "Government",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1678919888,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Government"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/goveagle",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/goveagle.json"
   },
   {
     "id": 27824,
@@ -38439,6 +38490,7 @@
     "launched_at": 1688659817,
     "tags": [
       "Marketplace",
+      "API",
       "AI"
     ],
     "tags_highlighted": [],
@@ -38511,7 +38563,7 @@
     "former_names": [
       "Every, Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3015f73175878c54eab97f6a814f0a9d9b0023f8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6d95a7e52c48aa0ca308da9a47334c29fb6c7a4.png",
     "website": "https://every.io/",
     "all_locations": "Remote",
     "long_description": "Setup your entire back-office in one place.\r\n- Banking: Bank Accounts, Corporate Cards, Payments, Treasury\r\n- Bookkeeping & Tax: Keep you books in order and file income taxes at the end of the year\r\n- Payroll and Benefits: US Payroll in 50 states, US Contractors, International Contractors. Health, Vision, Dental, 401k Benefits",
@@ -40355,12 +40407,12 @@
     "name": "Strada",
     "slug": "strada",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b9226bd2c56b8a4b99aa2de655898ae8f45ff9e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1ed3e2a5a9fdba541eb63fd5da473fcbac4b34f.png",
     "website": "https://www.getstrada.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Strada's AI voice agents handle calls 24/7 for insurance brokers, agencies, and MGAs.",
+    "long_description": "Strada helps insurance carriers, MGAs, and brokers run with AI agents that handle sales & service calls 24/7.",
     "one_liner": "Phone AI agents for insurance",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1690570692,
@@ -43590,7 +43642,7 @@
     "website": "https://www.artosai.com/",
     "all_locations": "",
     "long_description": "Artos is an AI-based document-drafting platform that helps life sciences companies turn their data into critical documents in minutes. These submissions currently take months and are the final hurdle before life sciences companies are allowed to sell their product. \r\n",
-    "one_liner": "Authoring drug development documents in minutes, not months.",
+    "one_liner": "Authoring documents for life sciences in minutes, not months.",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "Unspecified",
@@ -46511,6 +46563,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/conveo.json"
   },
   {
+    "id": 29729,
+    "name": "Clearly AI",
+    "slug": "clearly-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/684d445454c310e4251363e84c9c9fc3f0320e84.png",
+    "website": "https://clearly-ai.com",
+    "all_locations": "Seattle, WA, USA",
+    "long_description": "Clearly AI automates security and privacy reviews with AI. We performed hundreds of reviews at Amazon and Moveworks and now we're building the product we wish we had. We launched in August 2024 and secured two paid pilots within a week, including a major electric automaker. Our users complete reviews in minutes instead of days.\r\n\r\nEmily and Joe are technical co-founders and senior engineers. We met in 2019 while working on an Alexa security review.",
+    "one_liner": "Automate security and privacy reviews",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1722269171,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Security",
+      "Privacy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clearly-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/clearly-ai.json"
+  },
+  {
     "id": 29730,
     "name": "Saturn",
     "slug": "saturn",
@@ -47661,6 +47757,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/assembly-hoa",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/assembly-hoa.json"
+  },
+  {
+    "id": 29825,
+    "name": "Sepal AI",
+    "slug": "sepal-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78c48b77fe0ad236d148f827dd2ba0b86450afd3.png",
+    "website": "https://www.sepalai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sepal AI works with the world’s leading experts for developing advanced capability training data, expert annotations, and bespoke model evaluations. \r\n\r\nOur team comes from Turing, Vercel, McKinsey, and Bain. At Turing, we built the LLM training business and products to support $100+M revenue for companies like OpenAI, Google, and Anthropic.\r\n\r\nWe learned that data development for advanced AI use cases is more complex and has unique needs different from traditional label generation \r\n\r\nFoundational AI companies and large enterprises that we worked with, like OpenAI, PepsiCo, and Johnson &Johnson, don't have the data they need to train models to produce value for highly technical use cases. Which means they’re not going to unlock the value from AI without a partner.\r\n\r\nWe are working with the most influential companies of our time to develop models and systems that extend human knowledge and capabilities.\r\n",
+    "one_liner": "Data Development for Advanced AI",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1722966351,
+    "tags": [
+      "Artificial Intelligence",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sepal-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/sepal-ai.json"
   },
   {
     "id": 29835,

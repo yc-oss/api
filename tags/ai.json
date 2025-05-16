@@ -182,13 +182,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c312db8ea593be844305acc22a48eb2b87c24264.png",
     "website": "http://akidolabs.com",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "For the first time in history, technology exists to create a healthcare system that anticipates your needs and responds with precision, and is always accessible to all, regardless of financial means or geography.\r\n\r\nSince 2015, Akido Labs singular focus has been to make this vision a reality.",
-    "one_liner": "Unlocking data to tackle homelessness, chronic disease, and more",
+    "long_description": "For the first time in history, technology exists to create a healthcare system that anticipates your needs, responds with precision and is accessible to everyone -- regardless of financial means or geography.\r\n\r\nSince 2015, Akido Labs singular focus has been to make this vision a reality.",
+    "one_liner": "Rebuilding healthcare with AI at the core",
     "team_size": 1000,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1416218485,
     "tags": [
+      "Artificial Intelligence",
+      "Deep Learning",
       "Healthcare",
       "AI"
     ],
@@ -3588,6 +3590,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2020/infeedo-ai.json"
   },
   {
+    "id": 21781,
+    "name": "Datafold",
+    "slug": "datafold",
+    "former_names": [
+      "Datafold",
+      "datafold"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/196898f11a9311436ed24d99e2972511f8433f5d.png",
+    "website": "https://datafold.com",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Datafold automates manual work in data engineering. \r\n\r\nWe leverage agentic AI to automate both day-to-day tasks, such as testing and code reviews, and massive one-off projects, such as data platform code migrations. Companies from Perplexity to Disney use Datafold to unlock more value from their data by freeing up their data teams from manual work, accelerating developer velocity, and ensuring data quality.",
+    "one_liner": "Automating manual and repetitive data engineering tasks with AI",
+    "team_size": 30,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1599762606,
+    "tags": [
+      "SaaS",
+      "Analytics",
+      "Data Engineering",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/datafold",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/datafold.json"
+  },
+  {
     "id": 21857,
     "name": "Hypotenuse AI",
     "slug": "hypotenuse-ai",
@@ -6800,7 +6849,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -12172,6 +12221,7 @@
     "launched_at": 1688659817,
     "tags": [
       "Marketplace",
+      "API",
       "AI"
     ],
     "tags_highlighted": [],
@@ -13613,12 +13663,12 @@
     "name": "Strada",
     "slug": "strada",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b9226bd2c56b8a4b99aa2de655898ae8f45ff9e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1ed3e2a5a9fdba541eb63fd5da473fcbac4b34f.png",
     "website": "https://www.getstrada.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Strada's AI voice agents handle calls 24/7 for insurance brokers, agencies, and MGAs.",
+    "long_description": "Strada helps insurance carriers, MGAs, and brokers run with AI agents that handle sales & service calls 24/7.",
     "one_liner": "Phone AI agents for insurance",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1690570692,
@@ -18083,6 +18133,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/educato-ai.json"
   },
   {
+    "id": 29611,
+    "name": "mdhub",
+    "slug": "mdhub",
+    "former_names": [
+      "mdhub Inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2f1eb2c1129f64d032a91cee4b0a0b5cbae5b8c.png",
+    "website": "https://www.mdhub.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building AI agents to power the next generation of healthcare clinics - starting with mental health.\r\n\r\nOne year ago, we launched our AI Clinical Assistant to help clinicians reclaim their time by automating clinical documentation, pre-charting, and treatment planning. It's now been used in over 1 million patient sessions.\r\n\r\nNow we’ve launched Sarah, our AI Admissions Coordinator, to help patients access care faster by eliminating missed calls, delays, and administrative friction.\r\n\r\nSarah answers every call instantly, 24/7, no voicemails, no hold music. She qualifies new patients and books intakes, while also managing reschedules, cancellations, med refill requests, and appointment confirmations for existing patients.\r\n\r\nClinics using Sarah have seen up to a 30% increase in new patient bookings, while ensuring that 100% of existing patient inquiries are handled, without adding headcount.",
+    "one_liner": "AI agents for mental health clinics",
+    "team_size": 6,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1720483554,
+    "tags": [
+      "Machine Learning",
+      "Digital Health",
+      "Healthcare",
+      "Mental Health",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mdhub",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/mdhub.json"
+  },
+  {
     "id": 29627,
     "name": "Codes Health",
     "slug": "codes-health",
@@ -18470,13 +18566,13 @@
   },
   {
     "id": 29665,
-    "name": "CloudGlue",
+    "name": "Cloudglue",
     "slug": "cloudglue",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d6cbea025a1fb985cf8f25752f73092b699c52b2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83e6dd01545303c123ca60f1dcf8bdc7566497c5.png",
     "website": "https://cloudglue.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CloudGlue APIs (https://cloudglue.dev) makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nOur developer-friendly APIs makes it easy to integrate video chat into your AI assistant with minimal heavy-lifting.",
+    "long_description": "Cloudglue APIs (https://cloudglue.dev) makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.\r\n\r\nOur developer-friendly APIs makes it easy to integrate video chat into your AI assistant with minimal heavy-lifting.",
     "one_liner": "Developer APIs to let your AI/LLM understand videos and audio.",
     "team_size": 3,
     "industry": "B2B",
@@ -19175,48 +19271,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/overstand-labs",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/overstand-labs.json"
-  },
-  {
-    "id": 29729,
-    "name": "Clearly AI",
-    "slug": "clearly-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/684d445454c310e4251363e84c9c9fc3f0320e84.png",
-    "website": "https://clearly-ai.com",
-    "all_locations": "Seattle, WA, USA",
-    "long_description": "Clearly AI automates security and privacy reviews with AI. We performed hundreds of reviews at Amazon and Moveworks and now we're building the product we wish we had. We launched in August 2024 and secured two paid pilots within a week, including a major electric automaker. Our users complete reviews in minutes instead of days.\r\n\r\nEmily and Joe are technical co-founders and senior engineers. We met in 2019 while working on an Alexa security review.",
-    "one_liner": "Automate security and privacy reviews",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1722269171,
-    "tags": [
-      "Generative AI",
-      "Security",
-      "Privacy",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clearly-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/clearly-ai.json"
   },
   {
     "id": 29734,
@@ -23288,6 +23342,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/rally-3.json"
   },
   {
+    "id": 30242,
+    "name": "Oki",
+    "slug": "oki",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a80f26794f39a5699d91f7551f1b29f686e1b0b.png",
+    "website": "https://www.okiapplications.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Oki is like an AI team member that reads your team's code, slack threads, tickets, docs, and keeps you up to date with new progress.",
+    "one_liner": "Track Company Progress With AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1739303977,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/oki",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/oki.json"
+  },
+  {
     "id": 30249,
     "name": "HealthKey",
     "slug": "healthkey",
@@ -24053,7 +24149,7 @@
     "name": "Pinch",
     "slug": "pinch",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8fc55da81404361696fb3defe5eea397248e4225.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2b1286659e2efa47062a920134725070dce12f1.png",
     "website": "https://startpinch.com",
     "all_locations": "Remote",
     "long_description": "Pinch is a video conferencing platform purpose-built for multilingual meetings.  Our model translates your voice in real-time, allowing the other participants to see and hear you speaking their native language.\r\n\r\nUnlock new markets and authentic connections — join Pinch!",
@@ -24763,6 +24859,47 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/vibegrade",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/vibegrade.json"
+  },
+  {
+    "id": 30446,
+    "name": "Kirana AI",
+    "slug": "kirana-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6bc9cf5c0f4cd5c6141c30f400757b42039051c6.png",
+    "website": "https://www.kirana-ai.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "We are building an AI store manager that prevents theft, monitors for workplace health and safety, and optimizes customer service for grocery stores. Our goal is to build a full-stack AI employee with access to store cameras, POS data, and ordering data, in order to significantly improve gross margins.",
+    "one_liner": "AI store manager for grocery stores.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747354989,
+    "tags": [
+      "Grocery",
+      "Computer Vision",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kirana-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/kirana-ai.json"
   },
   {
     "id": 30447,
@@ -25605,6 +25742,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/moby-analytics.json"
   },
   {
+    "id": 30533,
+    "name": "Delty",
+    "slug": "delty",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a497a3dd8d97bd1afd47deddea2d641ad655b69.png",
+    "website": "https://delty.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "As software systems grow more complex and teams scale, key engineering work happens outside of code: product specs, docs, and architecture decisions and norms. That’s where a staff software engineer shines.\r\n\r\nDelty is an AI staff engineer.\r\n\r\nLike a seasoned engineer embedded in your team, Delty understands your architecture, code evolution, and constraints. It designs new software systems and grounds your coding agents with real engineering context to help you deliver reliable, scalable systems, fast.",
+    "one_liner": "AI staff engineer that designs systems and guides coding agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1746945144,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/delty",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/delty.json"
+  },
+  {
     "id": 30538,
     "name": "Den",
     "slug": "den",
@@ -25689,6 +25869,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/oncactus.json"
   },
   {
+    "id": 30544,
+    "name": "Wavedash",
+    "slug": "wavedash",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc7b2b59a7a325fcdf566d9120353bab8f1fa91.png",
+    "website": "https://wavedash.gg",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Wavedash is a video game platform that automates expensive distribution, research, and development workflows. \r\n\r\nWavedash saves studios time and money, helping them create and distribute better games, faster. ",
+    "one_liner": "Helping game studios rapidly distribute games",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1744312209,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Workflow Automation",
+      "Gaming",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wavedash",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/wavedash.json"
+  },
+  {
     "id": 30555,
     "name": "DataSci.Pro",
     "slug": "datasci-pro",
@@ -25729,46 +25954,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/datasci-pro",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/datasci-pro.json"
-  },
-  {
-    "id": 30561,
-    "name": "Valora",
-    "slug": "valora",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47dda084fea127470ef42cc30ad149ade9ed4f32.png",
-    "website": "https://www.getvalora.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Valora makes it lightning fast to query your company's financial data (from ERPs, CRMS, HR systems, budgets, forecasts, and more) for reporting and insights using AI. Whether you have existing templates for models and reports, or want to start from scratch, Valora makes understanding and working with your company's financial data seamless.",
-    "one_liner": "Easily query your company financials for reporting and insights",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1744274885,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/valora",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/valora.json"
   }
 ]
