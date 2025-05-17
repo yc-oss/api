@@ -1434,53 +1434,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2018/observe-ai.json"
   },
   {
-    "id": 1889,
-    "name": "OWNY",
-    "slug": "owny",
-    "former_names": [
-      "RealtyBits"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b73cfea31b6ff0a32c8d2664edc429dc8262268.png",
-    "website": "https://www.owny.com",
-    "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Owny provides businesses with a turn-key portal to issue Funds, SAFEs and Notes. Your portal is fully equipped to manage investors, treasury, multi-currency accounts and ability to send and request ACH/Wire payments globally. Optional features include seamless crypto custody and solutions through Coinbase Institutional.",
-    "one_liner": "Manage capital, investors & banking in one place.",
-    "team_size": 10,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1524539152,
-    "tags": [
-      "Banking as a Service",
-      "Fintech",
-      "Crypto / Web3",
-      "AI"
-    ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2018",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/owny",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/owny.json"
-  },
-  {
     "id": 1898,
     "name": "Searchlight",
     "slug": "searchlight",
@@ -3635,51 +3588,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/datafold",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/datafold.json"
-  },
-  {
-    "id": 21857,
-    "name": "Hypotenuse AI",
-    "slug": "hypotenuse-ai",
-    "former_names": [
-      "Hypotenuse"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db128807c45c4e66979161cb1469269d81323e67.png",
-    "website": "https://hypotenuse.ai/",
-    "all_locations": "Singapore, Singapore",
-    "long_description": "We’re building a new way for ecommerce brands to manage their product data and create content using AI, unlocking a new wave of creativity and productivity for them. Hypotenuse is an all-in-one AI platform that manages product data, creates product descriptions and marketing content, and edits product images at scale—all in a way that captures a brand’s unique style. We’re reshaping what takes months to do, and turning it into days.",
-    "one_liner": "Manage, create & optimize your ecommerce product content using AI",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1597658049,
-    "tags": [
-      "Generative AI",
-      "Machine Learning",
-      "E-commerce",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Singapore",
-      "Southeast Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hypotenuse-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/hypotenuse-ai.json"
   },
   {
     "id": 21881,
@@ -5873,6 +5781,54 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/contraforce.json"
   },
   {
+    "id": 24817,
+    "name": "Bytebot",
+    "slug": "bytebot",
+    "former_names": [
+      "tantl",
+      "SaveCmd"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98cd71fc795fe80387da92b38a105f7c275db52d.png",
+    "website": "https://github.com/bytebot-ai/bytebot",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Bytebot simplifies and streamlines the development of computer use agents with a ready made container for desktop automation, including APIs for mouse movements, keyboard input, and screenshot capture. \r\n\r\nThe container enables developers to build robust, dynamic computer use agents that can be configured and run anywhere.",
+    "one_liner": "Bytebot is the open source container for AI desktop agents.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1628647063,
+    "tags": [
+      "Generative AI",
+      "Robotic Process Automation",
+      "SaaS",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bytebot",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/bytebot.json"
+  },
+  {
     "id": 24820,
     "name": "Medium Biosciences",
     "slug": "medium-biosciences",
@@ -5962,54 +5918,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sully-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/sully-ai.json"
-  },
-  {
-    "id": 25279,
-    "name": "Moots AI",
-    "slug": "moots-ai",
-    "former_names": [
-      "Take1 Financial",
-      "Muse Card"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd43932fb93afb72d8ee73f542aa4e11c43a2f39.png",
-    "website": "https://www.moots.ai/",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Moots is an AI-powered networking and relationship management app designed to help professionals, super-connectors, and entrepreneurs track, manage, and leverage their relationships efficiently. Moots goes beyond traditional contact management by capturing both online and offline interactions, enabling users to remember key personal details and business contexts. It provides a seamless way to manage introductions, track interactions, and utilize AI to surface important insights, helping users nurture valuable connections over time.",
-    "one_liner": "AI-powered contact app for dealmakers",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1644842544,
-    "tags": [
-      "Collaboration",
-      "Social Media",
-      "Social Network",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/moots-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/moots-ai.json"
   },
   {
     "id": 25329,
@@ -6418,6 +6326,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bobidi",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/bobidi.json"
+  },
+  {
+    "id": 25537,
+    "name": "Cerebrium",
+    "slug": "cerebrium",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/730897d24e909ee905c210f74fec1b439d21c4a7.png",
+    "website": "https://www.cerebrium.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Cerebrium is a serverless infrastructure platform for AI applications. We make it easier for companies to build and deploy AI based applications. We offer Serverless GPU's with low cold start times, over 12 varieties of GPU chips, allow you to run large scale batch jobs, run realtime voice applications and much more. We are used by the teams at Tavus, CivitAI, Twilio and many more. \r\n\r\nCustomers typically experience 40% in cost savings when compared to using traditional cloud providers and can scale models to more than 10K requests per minute with minimal engineering overhead. ",
+    "one_liner": "Serverless Infrastructure Platform for AI",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1641981854,
+    "tags": [
+      "Machine Learning",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cerebrium",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/cerebrium.json"
   },
   {
     "id": 25541,
@@ -10065,51 +10016,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/creatorml.json"
   },
   {
-    "id": 27828,
-    "name": "Scanbase",
-    "slug": "scanbase",
-    "former_names": [
-      "Scanbase, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2982f68c8c82ccb0dcb8909ae50c7cdbbdcd9b70.png",
-    "website": "https://www.scanbase.com",
-    "all_locations": "Los Angeles, CA, USA",
-    "long_description": "Scanbase makes it easy for medical companies to convert photos of rapid diagnostic tests into results. We do this by providing a simple API that any medical company can access.\r\n",
-    "one_liner": "The API for Diagnostic Test Analysis (COVID-19, FLU, RSV, STD,…",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Diagnostics",
-    "launched_at": 1670991822,
-    "tags": [
-      "Machine Learning",
-      "Computer Vision",
-      "Health Tech",
-      "Telemedicine",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Diagnostics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/scanbase",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/scanbase.json"
-  },
-  {
     "id": 27834,
     "name": "Bluebirds",
     "slug": "bluebirds",
@@ -12375,6 +12281,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/talc.json"
   },
   {
+    "id": 28836,
+    "name": "Sigma",
+    "slug": "sigma",
+    "former_names": [
+      "Poozle"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e79b312104fdeeee2f5cf870c7a37a04fa388877.png",
+    "website": "https://mysigma.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sigma is an open-source AI personal assistant inside a todo app.\r\n\r\nSigma learns your style, organizes your day, and sweeps up the busywork—auto-creating tasks, drafting replies, and running routine workflows—so you can focus on what truly matters.",
+    "one_liner": "Your AI Personal Assistant now in a todo app",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1687596955,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sigma",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/sigma.json"
+  },
+  {
     "id": 28837,
     "name": "Subsets",
     "slug": "subsets",
@@ -14079,7 +14029,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -19444,6 +19394,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/redouble-ai.json"
   },
   {
+    "id": 29745,
+    "name": "Lumenary",
+    "slug": "lumenary",
+    "former_names": [
+      "January"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/becd07dd532d02d7faf201baa5f85e3101cc6f42.png",
+    "website": "https://try.solar",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lumenary develops Solar, a tool to build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.\r\n\r\nLumenary was founded by four best friends who met at Dartmouth, with experience from Jane Street, IMC, and Palantir. They've published research in venues like NeurIPS, and have deployed software managing billions of dollars, petabytes of data, and a lot of LLM tokens.",
+    "one_liner": "Build working software exceedingly fast in Solar",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "Healthcare",
+    "launched_at": 1722638950,
+    "tags": [
+      "Developer Tools",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lumenary",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/lumenary.json"
+  },
+  {
     "id": 29747,
     "name": "deepsilicon",
     "slug": "deepsilicon",
@@ -24246,7 +24239,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -24649,6 +24642,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bitboard",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bitboard.json"
+  },
+  {
+    "id": 30419,
+    "name": "Minerva",
+    "slug": "minerva",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a72893a8ced2fe36f593edecbdfff8190562fd6c.png",
+    "website": "https://www.tryminerva.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "From bookkeeping to tax filing—Minerva effortlessly does your business accounting at a fraction of the cost.",
+    "one_liner": "Instant, flawless AI accountant",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1746913900,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/minerva",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/minerva.json"
   },
   {
     "id": 30427,
@@ -25364,7 +25396,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ca0035244a123067c03e5df2d892bbd9cb7d00.png",
     "website": "https://www.klavis.ai/",
     "all_locations": "",
-    "long_description": "Integrate enterprise-grade MCP servers with your AI application in a minute, and scale to millions of users using our open-source, hosted MCP servers with multi-tenancy auth, and skip MCP client-side development hassle.",
+    "long_description": "Klavis AI is open source MCP integrations for AI Applications. Our API provides hosted, secure MCP servers, eliminating auth management and client-side code.",
     "one_liner": "Open source MCP Integrations for AI Applications",
     "team_size": 2,
     "industry": "B2B",
@@ -25912,6 +25944,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wavedash",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/wavedash.json"
+  },
+  {
+    "id": 30549,
+    "name": "Airweave",
+    "slug": "airweave",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e607d570b51d09a9439774963188f42e98627927.png",
+    "website": "https://airweave.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Airweave is an open-source tool that lets agents search any application. It supports MCP, RBAC on data, and seamlessly connects any app, database, URL, or API.",
+    "one_liner": "Open-Source Tool That Lets Agents Search Any App",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1744594621,
+    "tags": [
+      "B2B",
+      "Open Source",
+      "Search",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/airweave",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/airweave.json"
   },
   {
     "id": 30555,
