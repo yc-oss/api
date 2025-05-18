@@ -6650,22 +6650,21 @@
   },
   {
     "id": 25645,
-    "name": "Power to the Brand",
-    "slug": "power-to-the-brand",
+    "name": "RefineTrain AI",
+    "slug": "refinetrain-ai",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/03071ce3a07e973ab68f83899cdb6582b849d58e.png",
-    "website": "https://powertothebrand.com/",
+    "website": "https://www.refinetrain.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "We help Customer Experience & Support leaders get Voice of Customer (VoC) insights by analyzing 100% support tickets, fine-tuned on customized requirements. Dig deep into existing user feedback for Quality Assurance & improvements in product & service, within minutes not weeks.",
-    "one_liner": "AI Co-Pilot for Customer Support Teams",
+    "long_description": "We rewrite and optimise your internal documentation for AI, giving it deep enterprise context. This unlocks substantially better LLM results across all AI workflows.\r\n\r\nPROBLEM:\r\n--------------\r\n• AI teams struggle with LLM accuracy building AI workflows and agents because of messy, conflicting, fragmented internal knowledge.\r\n• Internal knowledge conflicts, uses undefined jargon and rely on unstated company assumptions & context.\r\n• LLMs are like Day 0 fresh hires – they can’t understand this documentation properly without someone explaining context to them.\r\n• Furthermore, vector search suffers from poorer retrieval accuracy when company context and terms are not present in a knowledge article\r\n\r\nWHAT WE DO\r\n-------------------\r\n• Clean & De-Conflict: Our AI agents read every doc, resolve contradictions, and builds content relationships.\r\n\r\n• Context Distillation: Our AI agents read & compare related docs, distills context and rewrites an LLM-optimised version of your internal documentation. Optional human-approval ensures 100% confidence in the output.\r\n\r\nTHE OUTCOME\r\n----------------------\r\n• Agents and chatbots that actually understand your enterprise context.\r\n• Retrieval that delivers precise, policy-aligned answers on the first try.\r\n• A living knowledge base that stays synchronized with every new doc revision.\r\n",
+    "one_liner": "AI agents rewriting & optimising your internal documentation for LLMs",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1643953445,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Customer Service",
-      "Customer Support",
       "AI"
     ],
     "tags_highlighted": [],
@@ -6675,7 +6674,8 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -6688,8 +6688,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/power-to-the-brand",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/power-to-the-brand.json"
+    "url": "https://www.ycombinator.com/companies/refinetrain-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/refinetrain-ai.json"
   },
   {
     "id": 25672,
@@ -17000,53 +17000,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/zep-ai.json"
   },
   {
-    "id": 29439,
-    "name": "camelAI",
-    "slug": "camelai",
-    "former_names": [
-      "qaml (pronounced camel)",
-      "qaml"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7356698f9b3f7a439b9951c6def0617a8421df3.png",
-    "website": "https://camelai.com/",
-    "all_locations": "Austin, TX, USA",
-    "long_description": "CamelAI is an AI-powered data analyst for business intelligence. Connect any data source—CSVs, CRMs, SQL databases, data warehouses—and ask Camel complex questions or request reports and charts, all without needing code or SQL.",
-    "one_liner": "AI Business Intelligence agent. Get actionable insights in minutes.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1701468865,
-    "tags": [
-      "SaaS",
-      "Data Science",
-      "Data Visualization",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": true,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/camelai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/camelai.json"
-  },
-  {
     "id": 29440,
     "name": "Rove",
     "slug": "rove",
@@ -17172,6 +17125,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pernell",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/pernell.json"
+  },
+  {
+    "id": 29450,
+    "name": "Aqua Voice",
+    "slug": "aqua-voice",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f240b96575d5f2121fe0697cadc62a638dcfcb8.png",
+    "website": "https://withaqua.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Super fast AI dictation that lets you talk into any text field -- Cursor, Gmail, Slack, even your terminal. It starts up in under 50ms, inserts text as fast as 450ms, and has state-of-the-art accuracy. Write 4x faster anywhere with Aqua. 🌊",
+    "one_liner": "Talk into any text box",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Unspecified",
+    "launched_at": 1711068147,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Productivity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aqua-voice",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/aqua-voice.json"
   },
   {
     "id": 29452,
@@ -19223,6 +19217,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/overstand-labs.json"
   },
   {
+    "id": 29729,
+    "name": "Clearly AI",
+    "slug": "clearly-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/684d445454c310e4251363e84c9c9fc3f0320e84.png",
+    "website": "https://clearly-ai.com",
+    "all_locations": "Seattle, WA, USA",
+    "long_description": "Clearly AI automates security and privacy reviews with AI. We performed hundreds of reviews at Amazon and Moveworks and now we're building the product we wish we had. Our users complete reviews in minutes instead of days.\r\n\r\nEmily and Joe are technical co-founders and senior engineers. We met in 2019 while working on an Alexa security review.",
+    "one_liner": "Automate security and privacy reviews",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1722269171,
+    "tags": [
+      "Generative AI",
+      "Security",
+      "Privacy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clearly-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/clearly-ai.json"
+  },
+  {
     "id": 29734,
     "name": "Vibe",
     "slug": "vibe",
@@ -19323,6 +19361,7 @@
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723528837,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "B2B",
@@ -22108,6 +22147,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/permitportal",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/permitportal.json"
+  },
+  {
+    "id": 30097,
+    "name": "Innate",
+    "slug": "innate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5874ae5d91c6dc5a32065be587bcdaa98b58d82d.png",
+    "website": "https://innate.bot",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "Robots don't think in real-time well. VLAs are starting to enable good motor skills, but it takes more to make a truly helpful robot.\r\n\r\nWe develop an agent to make robots that understand immediately what is happening in front of them and can be taught how to physically act on the world. ",
+    "one_liner": "Universal brain for general-purpose mobile robots",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1730365227,
+    "tags": [
+      "Developer Tools",
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Consumer Electronics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/innate",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/innate.json"
   },
   {
     "id": 30099,
