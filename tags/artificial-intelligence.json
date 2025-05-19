@@ -16461,11 +16461,11 @@
     "name": "Cedana",
     "slug": "cedana",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b7a7a8af1b3c02f16a5584ed3d7012fa86e5530.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/16f24156219bac0f48e878f7b176d11721bc6958.png",
     "website": "https://cedana.ai",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Cedana (YC S23) enables real-time save, move and restore for compute workloads.  We expand GPU capacity, increase reliability, reduce latency up to 10x and increase CPU/GPU utilization up to 5x resulting in significant cost savings. OpenAI, Meta and Microsoft have flavors of these capabilities internally and we’re bringing them to everyone. \r\n\r\nOur solution applies to AI training and inference, HPC, data analysis, dev tools and infra.  Our vision is to transform cloud compute into a real-time, arbitraged commodity. \r\n\r\nWe are a fully distributed remote company.  \r\n\r\nhttps://www.cedana.ai",
-    "one_liner": "Save, migrate and resume compute jobs in real-time",
+    "long_description": "Cedana (YC S23) brings hyperscaler and frontier-lab orchestration capabilities for AI workflows. Our core capability is live migration for CPUs and GPUs workloads. This increases cost savings up to 80%, accelerates time to first token 2-10x, and enables stateful reliability of training jobs even through catastrophic GPU failures. We've integrated our solution into K8s, and support Kueue and Slurm for training distributed jobs, and Kserve for serving inference.    \r\n\r\nOpenAI, Meta and Microsoft have flavors of these capabilities internally and we’re bringing them to everyone. \r\n\r\nOur vision is to transform cloud compute into a real-time, arbitraged commodity. \r\n\r\nhttps://www.cedana.ai",
+    "one_liner": "Fast, reliable, reproducible AI with GPU live migration",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -17513,50 +17513,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/medisearch",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/medisearch.json"
-  },
-  {
-    "id": 28929,
-    "name": "Greenlite",
-    "slug": "greenlite",
-    "former_names": [
-      "Greenlite AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8959570d3b56e59ac3b3d75780c6060716e2f87.png",
-    "website": "https://www.greenlite.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Greenlite builds AI workers for bank and fintech compliance teams. Innovative teams use our AI workers instead of outsourced teams to onboard customers faster with higher compliance standards.\r\n\r\n",
-    "one_liner": "AI agents for financial compliance operations",
-    "team_size": 14,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1687929703,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Payments",
-      "B2B",
-      "Compliance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/greenlite",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/greenlite.json"
   },
   {
     "id": 28931,
@@ -29168,89 +29124,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/mentra.json"
   },
   {
-    "id": 30399,
-    "name": "Frekil",
-    "slug": "frekil",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
-    "website": "https://www.frekil.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI is transforming healthcare, but the biggest bottleneck remains—procuring and annotating medical images with speed, accuracy, and scale. Frekil eliminates this roadblock.\r\n\r\nFrekil helps healthcare AI teams, medical device companies, and pharmaceutical companies procure and annotate medical images like X-rays, CTs, MRIs, etc., efficiently for AI training, clinical trials, and FDA approvals. Our AI-assisted platform speeds up annotation 10x while maintaining high accuracy through real-time quality control, consensus checks, and advanced 3D visualization.\r\n\r\nWe also provide tools to track annotator performance, build custom workflows, and increase labeling accuracy. By combining efficiency with precision, Frekil enables teams to build high-quality datasets much faster, supporting the development and deployment of reliable medical AI and clinical research solutions.",
-    "one_liner": "Data Engine for Medical AI",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "B2B",
-    "launched_at": 1744440110,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "B2B",
-      "Healthcare",
-      "Data Labeling"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/frekil",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/frekil.json"
-  },
-  {
-    "id": 30404,
-    "name": "Vybe",
-    "slug": "vybe",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8eb872358e4035f2e3c54d4bb9493d9a800616c.png",
-    "website": "https://www.vybe.build",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vybe turns a simple chat prompt into a production-ready internal app. You connect your systems—Workday, Jira, Github, Salesforce, Snowflake, Slack—and the platform instantly generates the UI, backend, secure data pipelines, and role-based access control, then keeps everything up-to-date as your needs evolve. Built-in AI agents take care of repetitive follow-ups and status pings, so the tools you launch actually stay used.\r\n\r\nBeyond code, Vybe ships proven playbooks. We partner with top engineering, product, and ops leaders—capturing how they run one-on-ones, all-hands, onboarding, and more—then release those workflows as plug-and-play templates you can adopt in a click. The result is a living system of bespoke apps plus best-practice processes that scales with your company from day one.",
-    "one_liner": "Lovable for internal apps",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1745390836,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vybe",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/vybe.json"
-  },
-  {
     "id": 30407,
     "name": "Golf",
     "slug": "golf",
@@ -29375,6 +29248,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/avallon-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/avallon-ai.json"
+  },
+  {
+    "id": 30419,
+    "name": "Minerva",
+    "slug": "minerva",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a72893a8ced2fe36f593edecbdfff8190562fd6c.png",
+    "website": "https://www.tryminerva.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "From bookkeeping to tax filing—Minerva effortlessly does your business accounting at a fraction of the cost.",
+    "one_liner": "Instant, flawless AI accountant",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1746913900,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/minerva",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/minerva.json"
   },
   {
     "id": 30420,
@@ -29994,7 +29906,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af87e3855cde7932b789b7149e717ec9f587f704.png",
     "website": "https://www.eloquentai.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Eloquent AI is the first AI Operator built specifically for financial services to automate complex, regulated customer service operations beyond frontline support. \r\n\r\nOur AI Operator learns to securely navigate your existing systems simply by observing your standard operating procedures—automating up to 96% of tasks without any engineering effort.",
+    "long_description": "We automate complex, regulated operations in financial services—no APIs, no engineering required.\r\nWe hit $500K ARR in just four weeks because customers deploy instantly.\r\nOur AI Operator learns by observing existing workflows and SOPs, securely controlling browser and desktop applications to automate up to 96% of tasks.\r\n",
     "one_liner": "The AI Operator for Financial Services",
     "team_size": 5,
     "industry": "B2B",
@@ -30003,7 +29915,6 @@
     "tags": [
       "Artificial Intelligence",
       "Fintech",
-      "SaaS",
       "B2B",
       "Enterprise"
     ],
@@ -30234,50 +30145,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/propolis",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/propolis.json"
-  },
-  {
-    "id": 30540,
-    "name": "Lumari",
-    "slug": "lumari",
-    "former_names": [
-      "Rextly"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a939168d94d3c56ad22ffb102cf8d658f02d3fd5.png",
-    "website": "https://www.lumari.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari enables non-technical teams to create custom internal apps and agentic workers without writing any code or wasting budget on inflexible off-the-shelf software. Simply describe what you want, and we'll generate and deploy fully integrated apps in minutes.",
-    "one_liner": "AI internal software builder for non-technical teams",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1747084472,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "No-code",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumari",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/lumari.json"
   },
   {
     "id": 30559,

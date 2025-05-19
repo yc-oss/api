@@ -344,17 +344,17 @@
     "website": "https://www.frekil.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AI is transforming healthcare, but the biggest bottleneck remains—procuring and annotating medical images with speed, accuracy, and scale. Frekil eliminates this roadblock.\r\n\r\nFrekil helps healthcare AI teams, medical device companies, and pharmaceutical companies procure and annotate medical images like X-rays, CTs, MRIs, etc., efficiently for AI training, clinical trials, and FDA approvals. Our AI-assisted platform speeds up annotation 10x while maintaining high accuracy through real-time quality control, consensus checks, and advanced 3D visualization.\r\n\r\nWe also provide tools to track annotator performance, build custom workflows, and increase labeling accuracy. By combining efficiency with precision, Frekil enables teams to build high-quality datasets much faster, supporting the development and deployment of reliable medical AI and clinical research solutions.",
-    "one_liner": "Data Engine for Medical AI",
+    "one_liner": "Scale AI for Medical Scans",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "B2B",
     "launched_at": 1744440110,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Healthcare",
-      "Data Labeling"
+      "Data Labeling",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -464,7 +464,7 @@
     "name": "Vybe",
     "slug": "vybe",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8eb872358e4035f2e3c54d4bb9493d9a800616c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9296288021b96e5587390cd4f9f96cf4125f4e92.png",
     "website": "https://www.vybe.build",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Vybe turns a simple chat prompt into a production-ready internal app. You connect your systems—Workday, Jira, Github, Salesforce, Snowflake, Slack—and the platform instantly generates the UI, backend, secure data pipelines, and role-based access control, then keeps everything up-to-date as your needs evolve. Built-in AI agents take care of repetitive follow-ups and status pings, so the tools you launch actually stay used.\r\n\r\nBeyond code, Vybe ships proven playbooks. We partner with top engineering, product, and ops leaders—capturing how they run one-on-ones, all-hands, onboarding, and more—then release those workflows as plug-and-play templates you can adopt in a click. The result is a living system of bespoke apps plus best-practice processes that scales with your company from day one.",
@@ -474,9 +474,9 @@
     "subindustry": "Unspecified",
     "launched_at": 1745390836,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -802,7 +802,7 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1746913900,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -880,14 +880,10 @@
     "industry": "Healthcare",
     "subindustry": "B2B",
     "launched_at": 1744430433,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "Healthcare"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -910,7 +906,7 @@
     "name": "Galen AI",
     "slug": "galen-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3c6cafb86cd1b744b5cf0950a869ffb7be926eb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b24d3137bf7c62299e8f3d9d810e612a82db0b1.png",
     "website": "https://www.galenai.com/",
     "all_locations": "",
     "long_description": "Galen is an AI-powered personal healthcare companion. We enable patients to securely connect their medical records from over 800 healthcare institutions across more than 12,000 locations in the United States, United Kingdom, and Canada. We also connect with over 20 popular wearable devices including Apple Watch, Fitbit, and Dexcom, bringing all your medical records and health data into one unified space. \r\n\r\nWe founded Galen because for over four years, Viraj struggled to navigate several conditions related to chronic low back pain. He often found himself waiting weeks for responses from his care team, received little guidance or education about new diagnoses, and was overwhelmed trying to manage overlapping conditions and medications.\r\n\r\nHis experiences are not unique. Our healthcare system is overloaded and fragmented, and often, patients are left to navigate their care on their own. Everyday there are nearly 1 billion health-related Google searches, but the responses to such queries are generic and impersonalized, because the searches lack any insight into a users personal health background.\r\n\r\nBy leveraging your own data and state-of-the art LLM memory capabilities, Galen delivers personalized insights, proactive health recommendations, and 24/7 on-demand medical support — empowering patients to be an active part of their health team. We are a consumer app in beta testing and will be available on the App Store soon!",
@@ -1229,6 +1225,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/chonkie.json"
   },
   {
+    "id": 30433,
+    "name": "The Robot Learning Company",
+    "slug": "the-robot-learning-company",
+    "former_names": [
+      "The Robot Learning Company (TRLC)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe9d24b61e68d5f71ffc72977fe38d21eece7328.png",
+    "website": "https://www.robot-learning.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The Robot Learning Company empowers engineers to build their own intelligent robot applications, no matter their skillset or experience.\r\n\r\nAfter building our own applications, we learned how time-consuming it can be to develop, train, and deploy AI-powered robot control. We want to remove any barriers and give every organization the tools they need to successfully automate physical tasks in-house.",
+    "one_liner": "API to the Physical World",
+    "team_size": 1,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1747554289,
+    "tags": [
+      "Machine Learning",
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/the-robot-learning-company",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/the-robot-learning-company.json"
+  },
+  {
     "id": 30434,
     "name": "Zeon Systems",
     "slug": "zeon-systems",
@@ -1271,6 +1309,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zeon-systems",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/zeon-systems.json"
+  },
+  {
+    "id": 30435,
+    "name": "Zenobia Pay",
+    "slug": "zenobia-pay",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ab4320fe6f29ff596358215bcc176ee03d1d30c.png",
+    "website": "https://zenobiapay.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Zenobia Pay makes payments software for luxury retailers to accept pay-by-bank to avoid fraud, chargebacks, and credit card fees. We're on a mission to make it 3x cheaper to transact online, handling payments for a 1% fee.\r\n\r\nZenobia Pay integrates to your store through our ecommerce plugins (Shopify, BigCommerce, Woocomerce, etc), or through our open-source Javascript packages.\r\n\r\nIt's pay-by-bank with instant clearance, with a bundled fraud chargeback guarantee, for 1%. No need to handle sensitive account details, either. Your customers log into their bank and store access tokens on their own hardware in the secure enclave. ",
+    "one_liner": "Bank transfers as payments for luxury retailers.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1747591533,
+    "tags": [
+      "Fintech",
+      "Payments"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zenobia-pay",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/zenobia-pay.json"
   },
   {
     "id": 30437,
@@ -2937,7 +3015,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af87e3855cde7932b789b7149e717ec9f587f704.png",
     "website": "https://www.eloquentai.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Eloquent AI is the first AI Operator built specifically for financial services to automate complex, regulated customer service operations beyond frontline support. \r\n\r\nOur AI Operator learns to securely navigate your existing systems simply by observing your standard operating procedures—automating up to 96% of tasks without any engineering effort.",
+    "long_description": "We automate complex, regulated operations in financial services—no APIs, no engineering required.\r\nWe hit $500K ARR in just four weeks because customers deploy instantly.\r\nOur AI Operator learns by observing existing workflows and SOPs, securely controlling browser and desktop applications to automate up to 96% of tasks.\r\n",
     "one_liner": "The AI Operator for Financial Services",
     "team_size": 5,
     "industry": "B2B",
@@ -2946,7 +3024,6 @@
     "tags": [
       "Artificial Intelligence",
       "Fintech",
-      "SaaS",
       "B2B",
       "Enterprise"
     ],
@@ -3666,10 +3743,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1747084472,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "No-code",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4122,7 +4199,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36103b40de751e5ec5889840f60eec43dc493e69.png",
     "website": "https://aegishealth.us/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aegis is the all-in-one platform that helps healthcare providers recover lost revenue by automating insurance denial appeals—from intake to resolution. Built for billing teams, heathcare providers and hospitals.",
+    "long_description": "Aegis is the all-in-one platform that helps healthcare providers recover lost revenue by automating insurance denial appeals—from intake to resolution. Built for billing teams, healthcare providers and hospitals.",
     "one_liner": "Faster Revenue Recovery for Healthcare Providers",
     "team_size": 3,
     "industry": "Healthcare",

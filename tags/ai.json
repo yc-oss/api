@@ -6426,8 +6426,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf7324872fe6b37d7579334928f7018d2099483b.png",
     "website": "https://beam.cloud",
     "all_locations": "New York, NY, USA",
-    "long_description": "We help developers deploy web endpoints, task queues, and scheduled jobs on serverless GPUs.",
-    "one_liner": "AI Infrastructure for Developers",
+    "long_description": "We help companies run custom models on serverless GPUs in the cloud.",
+    "one_liner": "Ultrafast Inference for AI Products",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -12946,6 +12946,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/unhaze",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/unhaze.json"
+  },
+  {
+    "id": 28929,
+    "name": "Greenlite",
+    "slug": "greenlite",
+    "former_names": [
+      "Greenlite AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8959570d3b56e59ac3b3d75780c6060716e2f87.png",
+    "website": "https://www.greenlite.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Greenlite is the leading AI agent platform for compliance in financial services. Regulated banks and fintechs — including those overseen by the OCC, FDIC, and SEC — trust Greenlite to automate mission-critical work like sanction reviews and anti-money laundering investigations with speed and accuracy. \r\n",
+    "one_liner": "AI agents for financial compliance",
+    "team_size": 24,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1687929703,
+    "tags": [
+      "Fintech",
+      "Payments",
+      "B2B",
+      "Compliance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/greenlite",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/greenlite.json"
   },
   {
     "id": 28931,
@@ -24681,6 +24725,89 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/fira.json"
   },
   {
+    "id": 30399,
+    "name": "Frekil",
+    "slug": "frekil",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e885d9503dffbb01e24f5bd3a78965979764099.png",
+    "website": "https://www.frekil.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI is transforming healthcare, but the biggest bottleneck remains—procuring and annotating medical images with speed, accuracy, and scale. Frekil eliminates this roadblock.\r\n\r\nFrekil helps healthcare AI teams, medical device companies, and pharmaceutical companies procure and annotate medical images like X-rays, CTs, MRIs, etc., efficiently for AI training, clinical trials, and FDA approvals. Our AI-assisted platform speeds up annotation 10x while maintaining high accuracy through real-time quality control, consensus checks, and advanced 3D visualization.\r\n\r\nWe also provide tools to track annotator performance, build custom workflows, and increase labeling accuracy. By combining efficiency with precision, Frekil enables teams to build high-quality datasets much faster, supporting the development and deployment of reliable medical AI and clinical research solutions.",
+    "one_liner": "Scale AI for Medical Scans",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "B2B",
+    "launched_at": 1744440110,
+    "tags": [
+      "Health Tech",
+      "B2B",
+      "Healthcare",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/frekil",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/frekil.json"
+  },
+  {
+    "id": 30404,
+    "name": "Vybe",
+    "slug": "vybe",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9296288021b96e5587390cd4f9f96cf4125f4e92.png",
+    "website": "https://www.vybe.build",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Vybe turns a simple chat prompt into a production-ready internal app. You connect your systems—Workday, Jira, Github, Salesforce, Snowflake, Slack—and the platform instantly generates the UI, backend, secure data pipelines, and role-based access control, then keeps everything up-to-date as your needs evolve. Built-in AI agents take care of repetitive follow-ups and status pings, so the tools you launch actually stay used.\r\n\r\nBeyond code, Vybe ships proven playbooks. We partner with top engineering, product, and ops leaders—capturing how they run one-on-ones, all-hands, onboarding, and more—then release those workflows as plug-and-play templates you can adopt in a click. The result is a living system of bespoke apps plus best-practice processes that scales with your company from day one.",
+    "one_liner": "Lovable for internal apps",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1745390836,
+    "tags": [
+      "Developer Tools",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vybe",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/vybe.json"
+  },
+  {
     "id": 30406,
     "name": "BitBoard",
     "slug": "bitboard",
@@ -24722,45 +24849,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bitboard",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bitboard.json"
-  },
-  {
-    "id": 30419,
-    "name": "Minerva",
-    "slug": "minerva",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a72893a8ced2fe36f593edecbdfff8190562fd6c.png",
-    "website": "https://www.tryminerva.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "From bookkeeping to tax filing—Minerva effortlessly does your business accounting at a fraction of the cost.",
-    "one_liner": "Instant, flawless AI accountant",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1746913900,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/minerva",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/minerva.json"
   },
   {
     "id": 30427,
@@ -25939,6 +26027,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/den",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/den.json"
+  },
+  {
+    "id": 30540,
+    "name": "Lumari",
+    "slug": "lumari",
+    "former_names": [
+      "Rextly"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a939168d94d3c56ad22ffb102cf8d658f02d3fd5.png",
+    "website": "https://www.lumari.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lumari enables non-technical teams to create custom internal apps and agentic workers without writing any code or wasting budget on inflexible off-the-shelf software. Simply describe what you want, and we'll generate and deploy fully integrated apps in minutes.",
+    "one_liner": "AI internal software builder for non-technical teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1747084472,
+    "tags": [
+      "B2B",
+      "No-code",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lumari",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/lumari.json"
   },
   {
     "id": 30543,
