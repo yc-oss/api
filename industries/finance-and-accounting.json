@@ -2152,11 +2152,11 @@
       "VectorX",
       "Swipe (formerly VectorX)"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9858cc76fba57ade8f38dcfd4726735f88c3531.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/503edcb02d5cc855d205e529939710e731d771cb.png",
     "website": "https://getswipe.in",
     "all_locations": "Hyderabad, Telangana, India",
     "long_description": "Swipe is a simple billing and payments app for small businesses in India. We make it easy for local businesses to invoice their customers over WhatsApp. With Swipe, businesses can send a WhatsApp message with a link that allows their customers to pay instantly with a variety of payment methods.",
-    "one_liner": "Simple invoicing and payments for 75M+ Indian SMBs 🇮🇳",
+    "one_liner": "Super AI Accountant for SMBs",
     "team_size": 65,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -2165,7 +2165,8 @@
       "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4270,7 +4271,9 @@
     "id": 29410,
     "name": "Model ML",
     "slug": "model-ml",
-    "former_names": [],
+    "former_names": [
+      "Model AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8ddf0e7dc8427a9d923647c11b57a6c3f2be032.png",
     "website": "https://www.modelml.com/",
     "all_locations": "London, England, United Kingdom",
@@ -5063,5 +5066,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moby-analytics",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/moby-analytics.json"
+  },
+  {
+    "id": 30552,
+    "name": "sieve",
+    "slug": "usesieve",
+    "former_names": [
+      "Sieve"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/459d63741f9af0815baebb98ab6c243158d589c2.png",
+    "website": "https://usesieve.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "sieve solves data cleaning for hedge funds and investment firms by delivering clean, reliable data wherever they already work - via APIs for devs and Excel for analysts. Currently, many firms rely on manual review steps where engineers literally receive emails containing data they need to review. sieve replaces that with an API that integrates directly into their existing data pipelines. Instead of raising for human review, they can send all the same information to our API and get clean, trustworthy data back. On top of our API, we offer an Excel integration that lets analysts pull data from any source (filings, pdfs, images - even ones in other languages!) into their models with with just a URL.\r\n\r\nAnalysts and data scientists complain that AI alone falls short of their accuracy requirements. They end up needing to check AI outputs against source documents to confirm accuracy. We  solve this last mile problem by integrating expert reviewers to catch and correct the issues that AI alone doesn't get right.",
+    "one_liner": "AI + human review to solve data cleaning - accessible via API or Excel",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1747624073,
+    "tags": [
+      "Investing",
+      "Data Engineering",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/usesieve",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/usesieve.json"
   }
 ]
