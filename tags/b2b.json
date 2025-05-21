@@ -17473,7 +17473,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -25755,7 +25755,7 @@
     "website": "https://www.cashboard.co",
     "all_locations": "New York, NY, USA",
     "long_description": "",
-    "one_liner": "Cashboard is the analytics hub for finance teams",
+    "one_liner": "Inventing the solo CFO.",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -28552,8 +28552,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a43c6cd4040e511134228e1f184c25114b22329.png",
     "website": "https://www.versori.com/",
     "all_locations": "Manchester, England, United Kingdom",
-    "long_description": "From operational automations to embeddable custom connectors. Save 10x of cost and time by building custom connectors and workflow automations in hours.",
-    "one_liner": "Add fully custom native connectors to your SaaS in hours",
+    "long_description": "Orchestrate custom integrations, workflows & agents in hours, not months. Take control of your integration strategy and breathe easy with maintenance on AI Autopilot.\r\n\r\nFor Product Teams: Build better integration libraries. Build a feature-rich integration library, for your users to enjoy. Offer out-of-the-box integrations that work for you and your customers. Embedded IPaaS typically locks you into connector or endpoint limitations. Versori gives you to tools for limitless customisation. Proactive, self healing agents, scan your connected apps for endpoint or schema changes. You get alerted, Versori AI fixes the change. Embed Versori built integrations into your app with the Versori SDK. Flexible to your development approach with advanced user management.\r\n\r\nFor Operations Teams: Get your internal systems speaking the same language. Deliver integrations for new software in days, not months—so you can start unlocking value immediately. Versori’s speed to value reduces typical deployment fees by half—or more. Low code for speed. Full code for control. No more limits from inflexible integration platforms.\r\n\r\nFor GTM & Sales Teams: Say yes to any prospect's integration request. Stop bouncing between teams to get integrations built. With Versori, Sales can go straight to yes. No more escalations or delays. Versori offer fully managed custom-builds, so your customers get exactly what they need, without compromise.",
+    "one_liner": "Agentic integrations & automations for enterprise",
     "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -38647,18 +38647,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/532e7e0b454824eb6bc4223cf0ca6c92b2566781.png",
     "website": "https://withgauge.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gauge helps you improve your brand's presence in ChatGPT, Google AI Overviews, and more.",
+    "long_description": "Gauge helps your company show up in more AI answers.\r\n\r\nWith traffic leaving search, traditional SEO is dying. Our customers are seeing inbound traffic from AI answers double every quarter.\r\n\r\n",
     "one_liner": "Get your product featured in AI answers.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1717523721,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44010,6 +44010,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/linkd.json"
   },
   {
+    "id": 30463,
+    "name": "Odapt",
+    "slug": "odapt",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d2f24b1c7b6bbdf8a99fe8b78b57ddfafeab69d.png",
+    "website": "https://landing.odapt.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Odapt lets anyone build AI-first internal software. We connect all company apps and internal data sources to one place - enabling any employee to build software on top of it - just using natural language. When an operator needs to make effective decisions, instead of spending hours clicking through apps to gather the right data or waiting on dev time, they can now prompt Odapt to design & build the custom software they need.\r\n\r\nWe believe internal software should be developed by those who need it. Going after operators, marketers, and finance leads—the people who wrestle with scattered data every day—gives us grounded insights to shape the product in real time. Odapt plugs into every database and SaaS they touch, giving our AI agents the cross-system knowledge very few tools have. Teams already use it to unify outbound-sales data, automate tech docs, and run recruiting ops from one pane.\r\n\r\nLucas worked on code-gen at OpenAI and has bootstrapped startups to $1M ARR. Ende has deployed AI safety software on 20M phones and was part of Stanford’s NLP group. Madhav was an operator at McKinsey & founding BizOps lead at a recruiting startup. He’s also led and scaled teams of 25. \r\n \r\nWe enable operators to ship, freeing up engineering time to be focused on higher leverage work. With AI changing the way we code, there will be 10x the “AI developers” in companies as there are current engineers in the world. We can bring custom software to the new age of operators and builders.\r\n",
+    "one_liner": "How great teams build AI-powered internal software & agent workflows",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1747781122,
+    "tags": [
+      "Consumer",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/odapt",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/odapt.json"
+  },
+  {
     "id": 30467,
     "name": "Opusense AI",
     "slug": "opusense-ai",
@@ -44562,50 +44602,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/den",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/den.json"
-  },
-  {
-    "id": 30540,
-    "name": "Lumari",
-    "slug": "lumari",
-    "former_names": [
-      "Rextly"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a939168d94d3c56ad22ffb102cf8d658f02d3fd5.png",
-    "website": "https://www.lumari.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari enables non-technical teams to create custom internal apps and agentic workers without writing any code or wasting budget on inflexible off-the-shelf software. Simply describe what you want, and we'll generate and deploy fully integrated apps in minutes.",
-    "one_liner": "AI internal software builder for non-technical teams",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1747084472,
-    "tags": [
-      "B2B",
-      "No-code",
-      "Operations",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumari",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/lumari.json"
   },
   {
     "id": 30543,
