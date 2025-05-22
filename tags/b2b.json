@@ -6214,7 +6214,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -34347,48 +34347,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/disputeninja.json"
   },
   {
-    "id": 29005,
-    "name": "Roundtable",
-    "slug": "roundtable",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e75b3701367f92118dfb24055cc3333d139fe333.png",
-    "website": "https://roundtable.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Roundtable uses behavioral signals to detect bots and fraudulent actors helping platforms safeguard trust",
-    "one_liner": "Invisible bot detection and fraud prevention",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1685540601,
-    "tags": [
-      "B2B",
-      "Security",
-      "API",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/roundtable",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/roundtable.json"
-  },
-  {
     "id": 29006,
     "name": "Inari",
     "slug": "inari",
@@ -34441,18 +34399,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f4bbb4f45487fb9514316eae7b6e1b1c316a4a.png",
     "website": "https://www.silimate.com",
     "all_locations": "Mountain View, CA, USA",
-    "long_description": "Silimate is the co-pilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging slowly to functional correctness and their targeted PPA (power/performance/area). With Silimate, chip designers write correct, PPA-converged RTL code from the onset and tape out in less time.",
-    "one_liner": "The co-pilot for chip designers",
+    "long_description": "Silimate is the copilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging slowly to functional correctness and their targeted PPA (power/performance/area). With Silimate, chip designers write correct, PPA-converged RTL code from the onset and tape out in less time.",
+    "one_liner": "The copilot for chip designers",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1691095117,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Enterprise Software",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37121,6 +37079,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/brainbase",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/brainbase.json"
+  },
+  {
+    "id": 29419,
+    "name": "Tredit IQ",
+    "slug": "tredit-iq",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/565dee3c1911ac59b558d37a3c1be10833af83e6.png",
+    "website": "https://www.treditiq.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "From easily configurable, branded onboarding experiences to advanced AI automation and real-time verification, Tredit IQ allows businesses to easily process, monitor, and scale their trade partnerships with ease.",
+    "one_liner": "Platform to Streamline the B2B Credit Process",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1705627336,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tredit-iq",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/tredit-iq.json"
   },
   {
     "id": 29421,
@@ -41005,8 +41004,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2451f6aef035ff59e0e614d0f60b6f728d45713a.png",
     "website": "https://www.riveterhq.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riveter brings AI web search and data labeling to spreadsheets. Enrich thousands of rows of data in minutes with ChatGPT-like prompts. Riveter saves Product, Ops, and GTM teams hours (or even days) of manual work cleaning, structuring and adding manual research to datasets–no engineers required.\r\n\r\nTeams love Riveter for manual tasks like competitive research, cleaning event and conference attendee data, pricing analysis, and more.",
-    "one_liner": "AI data assistant for spreadsheets ",
+    "long_description": "Riveter empowers non-technical teams to automate data enrichment at scale using AI search agents—no engineers required. With Riveter, you can quickly integrate powerful AI into your existing workflows.\r\n\r\nE-commerce companies save hundreds of hours by using Riveter to streamline critical operations like launching new products, writing SEO-optimized descriptions, analyzing pricing and competitor data, reviewing customer feedback, and more.\r\n\r\nOur founding team brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk.",
+    "one_liner": "Custom data enrichment by AI agents - designed for non-technical teams",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -41014,8 +41013,8 @@
     "tags": [
       "Artificial Intelligence",
       "B2B",
+      "E-commerce",
       "Market Research",
-      "Data Labeling",
       "AI"
     ],
     "tags_highlighted": [],
@@ -43806,7 +43805,7 @@
     "name": "Capacitive",
     "slug": "capacitive",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5f362b725240ccdfc1c0cc42ebc5700507b2ddb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39d26149922b6183936ce0ff8f902f7ca2777b52.png",
     "website": "https://capacitive.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enterprise AI without your internal data is like a computer without internet. When vital information is scattered across Slack, Notion, and Salesforce, AI tools can't deliver. And connecting dozens of those tools directly to your systems introduces significant security vulnerabilities and maintenance challenges.\r\n\r\nCapacitive offers a better way: connect us once to where your data lives, then create secure data gateways with granular cross-platform permissions, comprehensive monitoring, and robust security filtering. Supercharge tools like Cursor with product and team-level context — or use those access points via our built-in AI chat system, where your team can navigate your organization's knowledge and perform actions across platforms in one place.",
@@ -44017,16 +44016,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d2f24b1c7b6bbdf8a99fe8b78b57ddfafeab69d.png",
     "website": "https://landing.odapt.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Odapt lets anyone build AI-first internal software. We connect all company apps and internal data sources to one place - enabling any employee to build software on top of it - just using natural language. When an operator needs to make effective decisions, instead of spending hours clicking through apps to gather the right data or waiting on dev time, they can now prompt Odapt to design & build the custom software they need.\r\n\r\nWe believe internal software should be developed by those who need it. Going after operators, marketers, and finance leads—the people who wrestle with scattered data every day—gives us grounded insights to shape the product in real time. Odapt plugs into every database and SaaS they touch, giving our AI agents the cross-system knowledge very few tools have. Teams already use it to unify outbound-sales data, automate tech docs, and run recruiting ops from one pane.\r\n\r\nLucas worked on code-gen at OpenAI and has bootstrapped startups to $1M ARR. Ende has deployed AI safety software on 20M phones and was part of Stanford’s NLP group. Madhav was an operator at McKinsey & founding BizOps lead at a recruiting startup. He’s also led and scaled teams of 25. \r\n \r\nWe enable operators to ship, freeing up engineering time to be focused on higher leverage work. With AI changing the way we code, there will be 10x the “AI developers” in companies as there are current engineers in the world. We can bring custom software to the new age of operators and builders.\r\n",
-    "one_liner": "How great teams build AI-powered internal software & agent workflows",
+    "long_description": "Odapt lets anyone build AI-powered internal software using plain language. We connect all your apps and internal data into one place - giving our AI agents the cross-system awareness most tools lack. Operators, marketers, and finance leads can now prompt Odapt to design and ship context-specific tools in minutes, without any engineering bottlenecks.\r\n\r\nWe believe software should be built by the people who use it. Teams already use Odapt to unify sales data, automate documentation, and run recruiting ops—all without writing a line of code.\r\n\r\nOur team has deep roots in AI, ops, and product:\r\nLucas worked on code-gen at OpenAI and bootstrapped to $1M ARR.\r\nEnde deployed AI safety across 20M+ devices and was part of Stanford’s NLP lab.\r\nMadhav was an operator at McKinsey and founding BizOps lead at a recruiting startup, and has led & scaled teams of 25 in the past.\r\n\r\nOdapt empowers operators to build, so engineers can go deeper on high-impact work. With AI, we’re unlocking 10x more builders inside companies - and giving them the tools to create what they need, when they need it.",
+    "one_liner": "How great teams build internal software & agent workflows",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1747781122,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44091,6 +44090,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/opusense-ai.json"
   },
   {
+    "id": 30468,
+    "name": "Clidey",
+    "slug": "clidey",
+    "former_names": [
+      "Clidey WhoDB"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f2e58c42a604fd5e1a5fcad5f8c2350c03ca60a.png",
+    "website": "https://clidey.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Clidey is building Docucod (https://docucod.com)\r\n\r\nDocucod auto-generates and maintains always-up-to-date documentation—right from your codebase. Your team can move faster, onboard quicker, and stay focused on building.\r\n\r\nSeamless to set up and built for scale, it fits cleanly into any repo—whether you're shipping solo or leading a growing dev team. Docucod tracks your PRs and understands what changes need to be made to the documentation and then makes them.\r\n\r\nFrom onboarding guides to API references and system diagrams, Docucod creates clear, accurate documentation—without slowing you down.\r\n\r\nIt’s developer-first, fully editable, and always in sync—so you never have to choose between speed and quality again.",
+    "one_liner": "Auto-generated, always-current documentation from your codebase",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747802459,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clidey",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/clidey.json"
+  },
+  {
     "id": 30484,
     "name": "throxy",
     "slug": "throxy",
@@ -44140,17 +44184,17 @@
     "website": "https://lyra.so/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Lyra, we believe B2B sales hasn’t meaningfully evolved in decades — until now. The next industrial revolution is here, and we’re building the platform to power it.\r\n\r\nModern buyers want less talk, faster decisions, and seamless experiences. Lyra helps sales teams close more deals, shorten sales cycles, and operate more efficiently — all with minimal rep involvement.\r\n\r\nWe built our own meeting software from the ground up with a real-time AI agent at its core:\r\n- Surfaces and personalizes relevant sales collateral using live conversation intelligence\r\n- Keeps deals moving by answering buyer questions when reps are offline\r\n- Replaces decks, screen shares, and long email threads with a single interactive workspace — called a Lyra. It hosts your meetings, onboarding, and integrates tools like DocuSign to give buyers a seamless path from first call to signed contract\r\n\r\nHundreds of sales calls are already hosted on Lyra, including several YC companies. We hit $100K ARR in our first two weeks.\r\n\r\nWe’re rethinking the sales stack from first call to signed contract.",
-    "one_liner": "AI native zoom for revenue teams",
+    "one_liner": "AI-native meeting rooms for revenue teams",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1746417759,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Customer Success",
       "Sales",
-      "Telecommunications",
-      "AI"
+      "Telecommunications"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44164,9 +44208,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -44268,7 +44310,7 @@
       "Alkali Engineering"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/434ebaced47759c6ad84d0780081ce1d2be24afe.png",
-    "website": "https://alkali-eng.com/",
+    "website": "https://alkali.engineering",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Alkali is building the co-pilot for chemical process design. Spot design errors earlier, get the right equipment sooner, and build chemical projects faster.",
     "one_liner": "The Co-Pilot for Chemical Process Design",
@@ -44569,17 +44611,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76569fbe505e2260c81baabe36a7512daf19506.png",
     "website": "https://getden.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Den is an AI-native Slack alternative that help teams get more done with general-purpose agents. \r\n\r\nWe believe in a future where humans work at the speed of thought, unbounded by hidden context or inaccessible tools. \r\n\r\nDen is minimalist, fast, and mind-blowingly capable. ",
+    "long_description": "Den is a Slack/Notion-like platform that help teams get more done with general-purpose AI agents. \r\n\r\nWe want to deploy trillions of AI agents into the mainstream workforce and unlock the most productive era in human history.",
     "one_liner": "Cursor for knowledge workers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1745125390,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Team Collaboration",
-      "AI"
+      "Team Collaboration"
     ],
     "tags_highlighted": [],
     "top_company": false,

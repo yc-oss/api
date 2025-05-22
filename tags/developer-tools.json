@@ -16005,18 +16005,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f4bbb4f45487fb9514316eae7b6e1b1c316a4a.png",
     "website": "https://www.silimate.com",
     "all_locations": "Mountain View, CA, USA",
-    "long_description": "Silimate is the co-pilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging slowly to functional correctness and their targeted PPA (power/performance/area). With Silimate, chip designers write correct, PPA-converged RTL code from the onset and tape out in less time.",
-    "one_liner": "The co-pilot for chip designers",
+    "long_description": "Silimate is the copilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging slowly to functional correctness and their targeted PPA (power/performance/area). With Silimate, chip designers write correct, PPA-converged RTL code from the onset and tape out in less time.",
+    "one_liner": "The copilot for chip designers",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1691095117,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Enterprise Software",
-      "Semiconductors"
+      "Semiconductors",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21213,16 +21213,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb627188af8a389c044d02fc9024aae3ea05cdd3.png",
     "website": "https://golf.dev/",
     "all_locations": "",
-    "long_description": "With Golf MCP gateway you can move from local to remote servers, and stay in control over deployment.  Companies use Golf to deploy remote MCP servers, with full observability layer on top.",
-    "one_liner": "Control layer for remote MCP servers",
+    "long_description": "Golf lets you ship a production-ready MCP server without worrying about the plumbing. You just write the tools, prompts, and resources you want agents to call. Golf handles everything else - routing, auth, telemetry, error reporting, and deployment - all managed through our hosted platform.",
+    "one_liner": "Open-source platform for building production MCP servers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1745255607,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21372,16 +21372,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/acf0e0243c9094722ec17b982487d43b3cc95416.png",
     "website": "https://www.simstudio.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sim Studio is the fastest way to build AI agents for production. \r\nOur Figma-like canvas lets teams quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).\r\nWe're open-source with over 3k stars on GitHub in the last month. We have 4,000+ builders on our hosted platform. ",
+    "long_description": "Sim Studio is the fastest way to build AI agents for production. \r\nOur Figma-like canvas lets teams quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).\r\nWe're open-source with over 3.5k stars on GitHub in the last month.",
     "one_liner": "The UI to build AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1746478234,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21525,6 +21525,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/operative-sh",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/operative-sh.json"
+  },
+  {
+    "id": 30468,
+    "name": "Clidey",
+    "slug": "clidey",
+    "former_names": [
+      "Clidey WhoDB"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f2e58c42a604fd5e1a5fcad5f8c2350c03ca60a.png",
+    "website": "https://clidey.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Clidey is building Docucod (https://docucod.com)\r\n\r\nDocucod auto-generates and maintains always-up-to-date documentation—right from your codebase. Your team can move faster, onboard quicker, and stay focused on building.\r\n\r\nSeamless to set up and built for scale, it fits cleanly into any repo—whether you're shipping solo or leading a growing dev team. Docucod tracks your PRs and understands what changes need to be made to the documentation and then makes them.\r\n\r\nFrom onboarding guides to API references and system diagrams, Docucod creates clear, accurate documentation—without slowing you down.\r\n\r\nIt’s developer-first, fully editable, and always in sync—so you never have to choose between speed and quality again.",
+    "one_liner": "Auto-generated, always-current documentation from your codebase",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747802459,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clidey",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/clidey.json"
   },
   {
     "id": 30471,

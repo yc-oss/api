@@ -344,53 +344,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/sepal-ai.json"
   },
   {
-    "id": 30017,
-    "name": "Riveter AI",
-    "slug": "riveter-ai",
-    "former_names": [
-      "Nervy",
-      "Haze AI",
-      "Lassen AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2451f6aef035ff59e0e614d0f60b6f728d45713a.png",
-    "website": "https://www.riveterhq.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riveter brings AI web search and data labeling to spreadsheets. Enrich thousands of rows of data in minutes with ChatGPT-like prompts. Riveter saves Product, Ops, and GTM teams hours (or even days) of manual work cleaning, structuring and adding manual research to datasets–no engineers required.\r\n\r\nTeams love Riveter for manual tasks like competitive research, cleaning event and conference attendee data, pricing analysis, and more.",
-    "one_liner": "AI data assistant for spreadsheets ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1731038423,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Market Research",
-      "Data Labeling",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/riveter-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/riveter-ai.json"
-  },
-  {
     "id": 30111,
     "name": "Foundry",
     "slug": "foundry",
@@ -517,5 +470,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/frekil",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/frekil.json"
+  },
+  {
+    "id": 30500,
+    "name": "Besimple AI",
+    "slug": "besimple-ai",
+    "former_names": [
+      "Simple Annotation"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8305d688995d7c8f184d463f02f3ded6947c12e7.png",
+    "website": "https://besimple.ai",
+    "all_locations": "Redwood City, CA, USA",
+    "long_description": "Spin up your own data annotation platform in 60 seconds!\r\n\r\nHigh-quality, human-reviewed data is essential for improving AI models.  Yet, many teams still use outdated tools or spreadsheets that aren’t built for complex data from LLMs and AI agents. This slows down iteration, drives up costs, and makes model performance unpredictable in real-world use.\r\n\r\nWith Besimple, you can generate your own platform for annotating AI evaluation and training data instantly.  Simply paste or stream any type of raw data—text, chat, audio, video, or LLM outputs—and we'll instantly generate a tailored annotation interface, clear guidelines, and an automated human-in-the-loop workflow.  Our AI Judges quickly learn from human annotations, take over labeling for easy cases, and evaluate live production data, letting your team focus only on critical edge cases.\r\n\r\nKey differentiators\r\n1. Instant custom UI - Automatically generate tailored annotation interfaces just by uploading your data. Adjust easily whenever data or needs change.\r\n2. Tailored guidelines – Import any existing guidelines or we will draft new ones aligned with your business goals, ready for annotation\r\n3. AI Judges for real-time evaluation – AI-powered judges continuously improve by learning human preferences, automatically labeling data and flagging tough cases for expert review.\r\n4. Enterprise-grade deployment – On-prem optional install, and robust user management for internal SMEs, external vendors, or Besimple’s vetted annotators.\r\n5. Lightning-Fast Setup: No code, no plugins—just drop in your data, set guidelines, and you’re good to go.\r\n\r\nToday we power evaluation and training pipelines for leading AI companies in customer support, search, education, and more.  For example, the leading AI grading company Edexia uses besimple to annotate hundreds of decisions and improve their evals.\r\n\r\nBesimple is built by a team that has done this before. Yi Zhong and Bill Wang built the annotation platform for Meta’s Llama models, significantly improving quality of data and shortening model development cycle.\r\n\r\nReach out!\r\n\r\nIf you’re building an AI product and struggle with good eval or training data —or if you have models in prod with no idea why they fail—let’s talk. We’ll show you how to launch a custom annotation flow in a minute, bootstrap an AI Judge in an afternoon, and start shipping better models tomorrow.",
+    "one_liner": "We make data annotation simple",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747861843,
+    "tags": [
+      "AIOps",
+      "Generative AI",
+      "Reinforcement Learning",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/besimple-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/besimple-ai.json"
   }
 ]

@@ -3050,14 +3050,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a1acae554a32ce11687de5ac7b708d914b04c5b.png",
     "website": "http://www.novacredit.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nova Credit is a consumer-permissioned credit bureau with two products that help businesses make more fair and informed decisions on millions of ‘thin file’, no credit history, or new-to-country applicants. The Credit Passport® unlocks cross-border credit bureau data to help businesses underwrite new-to-country newcomer populations. The Cash Atlas™ provides greater insight into the cash flows of any applicant, including verifying their income with greater precision than alternatives. Businesses use these products to approve more applicants without taking on more risk, and consumers are empowered to put their best foot forward in their applications. The company’s differentiated data sources and proprietary analytics are used by leading organizations like American Express, Verizon, HSBC, SoFi, and Yardi. Nova Credit is backed by investors including Kleiner Perkins, General Catalyst, Index Ventures, and Canapi as well as executives from Goldman Sachs, JPMorgan, and Citi. Learn more at www.novacredit.com or reach out to connect@novacredit.com. ",
+    "long_description": "Nova Credit is a credit infrastructure and analytics company that enables businesses to grow responsibly through alternative credit data. As a Consumer Reporting Agency (CRA), Nova Credit leverages its unique data infrastructure, compliance framework, and credit expertise to help lenders fill critical gaps in traditional credit analytics. The company transforms the fragmented universe of consumer financial data into compliant, actionable risk insights through a comprehensive platform designed to increase conversion through expanded coverage, speed, and reliability. Leading organizations, including HSBC, RBC, SoFi, Scotiabank, Appfolio, and Yardi, work with Nova Credit to make smarter credit decisions through cash flow underwriting with Cash Atlas™, quickly verify income with Income Navigator, and reach new-to-country consumers with Credit Passport®. Nova Credit is backed by investors including Kleiner Perkins, General Catalyst, Index Ventures, and Canapi as well as executives from Goldman Sachs, JPMorgan, and Citi. \r\n\r\nLearn more at www.novacredit.com or reach out to connect@novacredit.com. ",
     "one_liner": "Bridging a world of consumer-permissioned credit data",
     "team_size": 100,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1461210619,
     "tags": [
-      "Fintech"
+      "Fintech",
+      "Data Science"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7602,7 +7603,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -27893,6 +27894,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/cleva.json"
   },
   {
+    "id": 29419,
+    "name": "Tredit IQ",
+    "slug": "tredit-iq",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/565dee3c1911ac59b558d37a3c1be10833af83e6.png",
+    "website": "https://www.treditiq.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "From easily configurable, branded onboarding experiences to advanced AI automation and real-time verification, Tredit IQ allows businesses to easily process, monitor, and scale their trade partnerships with ease.",
+    "one_liner": "Platform to Streamline the B2B Credit Process",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1705627336,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tredit-iq",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/tredit-iq.json"
+  },
+  {
     "id": 29423,
     "name": "Triply",
     "slug": "triply",
@@ -29824,7 +29866,11 @@
     "name": "QFEX",
     "slug": "qfex",
     "former_names": [
-      "PSEx"
+      "PSEx",
+      "PFEx",
+      "Entimox",
+      "QFEX",
+      "QFEx"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2005304564bb67a368e45e33653755e6f1ff55d.png",
     "website": "https://qfex.com",
@@ -29879,9 +29925,11 @@
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1747766524,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Real Estate",
-      "Proptech"
+      "Proptech",
+      "Lending"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -30159,7 +30207,7 @@
     "slug": "blueshoe",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ff435e9a8349d20737a53d77d98e6b9ef40d649.png",
-    "website": "https://blueshoe.ai",
+    "website": "https://blueshoe.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Blueshoe puts law firm back office operations on autopilot starting with fully automated, end-to-end invoice-to-cash. At any given moment, U.S. law firms have $100B+ of revenue trapped in slow, manual and error-prone decisions and document workflows. Meanwhile, clients and practices are both innovating on dynamic revenue models beyond the billable hour. Blueshoe is building the next-gen back office infrastructure for professionals that's reliable, transparent and free of human bottlenecks.",
     "one_liner": "AI worker for law firm financial operations",

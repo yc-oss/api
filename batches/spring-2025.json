@@ -297,7 +297,11 @@
     "name": "QFEX",
     "slug": "qfex",
     "former_names": [
-      "PSEx"
+      "PSEx",
+      "PFEx",
+      "Entimox",
+      "QFEX",
+      "QFEx"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2005304564bb67a368e45e33653755e6f1ff55d.png",
     "website": "https://qfex.com",
@@ -352,9 +356,11 @@
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1747766524,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Real Estate",
-      "Proptech"
+      "Proptech",
+      "Lending"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -640,16 +646,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb627188af8a389c044d02fc9024aae3ea05cdd3.png",
     "website": "https://golf.dev/",
     "all_locations": "",
-    "long_description": "With Golf MCP gateway you can move from local to remote servers, and stay in control over deployment.  Companies use Golf to deploy remote MCP servers, with full observability layer on top.",
-    "one_liner": "Control layer for remote MCP servers",
+    "long_description": "Golf lets you ship a production-ready MCP server without worrying about the plumbing. You just write the tools, prompts, and resources you want agents to call. Golf handles everything else - routing, auth, telemetry, error reporting, and deployment - all managed through our hosted platform.",
+    "one_liner": "Open-source platform for building production MCP servers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1745255607,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1157,7 +1163,7 @@
     "name": "Capacitive",
     "slug": "capacitive",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5f362b725240ccdfc1c0cc42ebc5700507b2ddb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39d26149922b6183936ce0ff8f902f7ca2777b52.png",
     "website": "https://capacitive.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Enterprise AI without your internal data is like a computer without internet. When vital information is scattered across Slack, Notion, and Salesforce, AI tools can't deliver. And connecting dozens of those tools directly to your systems introduces significant security vulnerabilities and maintenance challenges.\r\n\r\nCapacitive offers a better way: connect us once to where your data lives, then create secure data gateways with granular cross-platform permissions, comprehensive monitoring, and robust security filtering. Supercharge tools like Cursor with product and team-level context — or use those access points via our built-in AI chat system, where your team can navigate your organization's knowledge and perform actions across platforms in one place.",
@@ -1486,16 +1492,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/acf0e0243c9094722ec17b982487d43b3cc95416.png",
     "website": "https://www.simstudio.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sim Studio is the fastest way to build AI agents for production. \r\nOur Figma-like canvas lets teams quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).\r\nWe're open-source with over 3k stars on GitHub in the last month. We have 4,000+ builders on our hosted platform. ",
+    "long_description": "Sim Studio is the fastest way to build AI agents for production. \r\nOur Figma-like canvas lets teams quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).\r\nWe're open-source with over 3.5k stars on GitHub in the last month.",
     "one_liner": "The UI to build AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1746478234,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2259,16 +2265,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d2f24b1c7b6bbdf8a99fe8b78b57ddfafeab69d.png",
     "website": "https://landing.odapt.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Odapt lets anyone build AI-first internal software. We connect all company apps and internal data sources to one place - enabling any employee to build software on top of it - just using natural language. When an operator needs to make effective decisions, instead of spending hours clicking through apps to gather the right data or waiting on dev time, they can now prompt Odapt to design & build the custom software they need.\r\n\r\nWe believe internal software should be developed by those who need it. Going after operators, marketers, and finance leads—the people who wrestle with scattered data every day—gives us grounded insights to shape the product in real time. Odapt plugs into every database and SaaS they touch, giving our AI agents the cross-system knowledge very few tools have. Teams already use it to unify outbound-sales data, automate tech docs, and run recruiting ops from one pane.\r\n\r\nLucas worked on code-gen at OpenAI and has bootstrapped startups to $1M ARR. Ende has deployed AI safety software on 20M phones and was part of Stanford’s NLP group. Madhav was an operator at McKinsey & founding BizOps lead at a recruiting startup. He’s also led and scaled teams of 25. \r\n \r\nWe enable operators to ship, freeing up engineering time to be focused on higher leverage work. With AI changing the way we code, there will be 10x the “AI developers” in companies as there are current engineers in the world. We can bring custom software to the new age of operators and builders.\r\n",
-    "one_liner": "How great teams build AI-powered internal software & agent workflows",
+    "long_description": "Odapt lets anyone build AI-powered internal software using plain language. We connect all your apps and internal data into one place - giving our AI agents the cross-system awareness most tools lack. Operators, marketers, and finance leads can now prompt Odapt to design and ship context-specific tools in minutes, without any engineering bottlenecks.\r\n\r\nWe believe software should be built by the people who use it. Teams already use Odapt to unify sales data, automate documentation, and run recruiting ops—all without writing a line of code.\r\n\r\nOur team has deep roots in AI, ops, and product:\r\nLucas worked on code-gen at OpenAI and bootstrapped to $1M ARR.\r\nEnde deployed AI safety across 20M+ devices and was part of Stanford’s NLP lab.\r\nMadhav was an operator at McKinsey and founding BizOps lead at a recruiting startup, and has led & scaled teams of 25 in the past.\r\n\r\nOdapt empowers operators to build, so engineers can go deeper on high-impact work. With AI, we’re unlocking 10x more builders inside companies - and giving them the tools to create what they need, when they need it.",
+    "one_liner": "How great teams build internal software & agent workflows",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1747781122,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2417,6 +2423,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/opusense-ai.json"
   },
   {
+    "id": 30468,
+    "name": "Clidey",
+    "slug": "clidey",
+    "former_names": [
+      "Clidey WhoDB"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f2e58c42a604fd5e1a5fcad5f8c2350c03ca60a.png",
+    "website": "https://clidey.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Clidey is building Docucod (https://docucod.com)\r\n\r\nDocucod auto-generates and maintains always-up-to-date documentation—right from your codebase. Your team can move faster, onboard quicker, and stay focused on building.\r\n\r\nSeamless to set up and built for scale, it fits cleanly into any repo—whether you're shipping solo or leading a growing dev team. Docucod tracks your PRs and understands what changes need to be made to the documentation and then makes them.\r\n\r\nFrom onboarding guides to API references and system diagrams, Docucod creates clear, accurate documentation—without slowing you down.\r\n\r\nIt’s developer-first, fully editable, and always in sync—so you never have to choose between speed and quality again.",
+    "one_liner": "Auto-generated, always-current documentation from your codebase",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747802459,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clidey",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/clidey.json"
+  },
+  {
     "id": 30469,
     "name": "HABIT",
     "slug": "habit",
@@ -2501,6 +2552,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/kaizen.json"
   },
   {
+    "id": 30472,
+    "name": "Ticket Wallet",
+    "slug": "ticket-wallet",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aee79884414204273d658fb832b718c73ef9ba82.png",
+    "website": "https://www.ticketwallet.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ticket Wallet is an AI-powered resale platform for season ticket holders and brokers.\r\nWe automate pricing, listing, and distribution across all major marketplaces.\r\n\r\nToday, most tickets are still sold manually: spreadsheets, guessing prices, and listing on one site at a time. The biggest brokers outsource pricing to teams in the Philippines… \r\n\r\nWe built Ticket Wallet because we lived this. Truman has been flipping tickets for the last 5 years. Ryan built pricing software after seeing the mess first-hand. We’ve turned that pain into a product.\r\n\r\nSince launch, we’ve onboarded $3M+ in ticket inventory, signed up 100+ paying sellers, and started working with pro teams. We charge 10% per ticket sold. This is our wedge into the $26B resale market.\r\n\r\nOther platforms cost you money. We make you more of it.",
+    "one_liner": "AI-optimized ticket resale",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747795833,
+    "tags": [
+      "Machine Learning",
+      "SaaS",
+      "Entertainment",
+      "Ticketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ticket-wallet",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/ticket-wallet.json"
+  },
+  {
     "id": 30474,
     "name": "RunRL",
     "slug": "runrl",
@@ -2581,6 +2675,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/morphik",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/morphik.json"
+  },
+  {
+    "id": 30476,
+    "name": "Nomi",
+    "slug": "nomi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd11dae7a652bf143efed034d199e59b84ab4b90.png",
+    "website": "https://heynomi.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nomi provides on-the-spot phrase suggestions, intelligently crafted from your transcribed sales calls and a custom playbook that adapts and grows with you, from founder-led sales to revops mastery. \r\n\r\nPS: We also increase closing rates by 12% on average and free up your sales team's mental energy. ",
+    "one_liner": "Cursor for Sales",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1747841477,
+    "tags": [
+      "Sales",
+      "Sales Enablement",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nomi",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/nomi.json"
   },
   {
     "id": 30477,
@@ -2798,17 +2933,17 @@
     "website": "https://lyra.so/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Lyra, we believe B2B sales hasn’t meaningfully evolved in decades — until now. The next industrial revolution is here, and we’re building the platform to power it.\r\n\r\nModern buyers want less talk, faster decisions, and seamless experiences. Lyra helps sales teams close more deals, shorten sales cycles, and operate more efficiently — all with minimal rep involvement.\r\n\r\nWe built our own meeting software from the ground up with a real-time AI agent at its core:\r\n- Surfaces and personalizes relevant sales collateral using live conversation intelligence\r\n- Keeps deals moving by answering buyer questions when reps are offline\r\n- Replaces decks, screen shares, and long email threads with a single interactive workspace — called a Lyra. It hosts your meetings, onboarding, and integrates tools like DocuSign to give buyers a seamless path from first call to signed contract\r\n\r\nHundreds of sales calls are already hosted on Lyra, including several YC companies. We hit $100K ARR in our first two weeks.\r\n\r\nWe’re rethinking the sales stack from first call to signed contract.",
-    "one_liner": "AI native zoom for revenue teams",
+    "one_liner": "AI-native meeting rooms for revenue teams",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1746417759,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Customer Success",
       "Sales",
-      "Telecommunications",
-      "AI"
+      "Telecommunications"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2822,9 +2957,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3051,7 +3184,7 @@
       "Alkali Engineering"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/434ebaced47759c6ad84d0780081ce1d2be24afe.png",
-    "website": "https://alkali-eng.com/",
+    "website": "https://alkali.engineering",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Alkali is building the co-pilot for chemical process design. Spot design errors earlier, get the right equipment sooner, and build chemical projects faster.",
     "one_liner": "The Co-Pilot for Chemical Process Design",
@@ -3085,6 +3218,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alkali",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/alkali.json"
+  },
+  {
+    "id": 30500,
+    "name": "Besimple AI",
+    "slug": "besimple-ai",
+    "former_names": [
+      "Simple Annotation"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8305d688995d7c8f184d463f02f3ded6947c12e7.png",
+    "website": "https://besimple.ai",
+    "all_locations": "Redwood City, CA, USA",
+    "long_description": "Spin up your own data annotation platform in 60 seconds!\r\n\r\nHigh-quality, human-reviewed data is essential for improving AI models.  Yet, many teams still use outdated tools or spreadsheets that aren’t built for complex data from LLMs and AI agents. This slows down iteration, drives up costs, and makes model performance unpredictable in real-world use.\r\n\r\nWith Besimple, you can generate your own platform for annotating AI evaluation and training data instantly.  Simply paste or stream any type of raw data—text, chat, audio, video, or LLM outputs—and we'll instantly generate a tailored annotation interface, clear guidelines, and an automated human-in-the-loop workflow.  Our AI Judges quickly learn from human annotations, take over labeling for easy cases, and evaluate live production data, letting your team focus only on critical edge cases.\r\n\r\nKey differentiators\r\n1. Instant custom UI - Automatically generate tailored annotation interfaces just by uploading your data. Adjust easily whenever data or needs change.\r\n2. Tailored guidelines – Import any existing guidelines or we will draft new ones aligned with your business goals, ready for annotation\r\n3. AI Judges for real-time evaluation – AI-powered judges continuously improve by learning human preferences, automatically labeling data and flagging tough cases for expert review.\r\n4. Enterprise-grade deployment – On-prem optional install, and robust user management for internal SMEs, external vendors, or Besimple’s vetted annotators.\r\n5. Lightning-Fast Setup: No code, no plugins—just drop in your data, set guidelines, and you’re good to go.\r\n\r\nToday we power evaluation and training pipelines for leading AI companies in customer support, search, education, and more.  For example, the leading AI grading company Edexia uses besimple to annotate hundreds of decisions and improve their evals.\r\n\r\nBesimple is built by a team that has done this before. Yi Zhong and Bill Wang built the annotation platform for Meta’s Llama models, significantly improving quality of data and shortening model development cycle.\r\n\r\nReach out!\r\n\r\nIf you’re building an AI product and struggle with good eval or training data —or if you have models in prod with no idea why they fail—let’s talk. We’ll show you how to launch a custom annotation flow in a minute, bootstrap an AI Judge in an afternoon, and start shipping better models tomorrow.",
+    "one_liner": "We make data annotation simple",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747861843,
+    "tags": [
+      "AIOps",
+      "Generative AI",
+      "Reinforcement Learning",
+      "Data Labeling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/besimple-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/besimple-ai.json"
   },
   {
     "id": 30501,
@@ -3420,6 +3596,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/scalar-field.json"
   },
   {
+    "id": 30516,
+    "name": "Bramante Biologics",
+    "slug": "bramante-biologics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf074dabb28f6a317b41850f4ce802050e1e38af.png",
+    "website": "https://www.bramantebio.com",
+    "all_locations": "Cambridge, MA, USA",
+    "long_description": "Manufacturing pharmaceutical drugs faster and in the USA",
+    "one_liner": "American drug manufacturing",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "B2B",
+    "launched_at": 1747846039,
+    "tags": [
+      "Artificial Intelligence",
+      "Biotech",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bramante-biologics",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/bramante-biologics.json"
+  },
+  {
     "id": 30517,
     "name": "ValueMate",
     "slug": "valuemate",
@@ -3644,7 +3860,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b51923708ddf66171a6468453b53717108db55a3.png",
     "website": "https://lapel.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lapel is a customer operations platform that brings hospitality to the internet: one real-time view of every account and tools for every customer touchpoint.\r\n\r\nToday, most customer relationships are managed through dashboards, funnels, and canned replies—great for metrics, terrible for humans.\r\n\r\nCustomers don’t draw lines between sales, success, and support, and your software shouldn’t either.\r\n\r\nLearn more at lapel.com",
+    "long_description": "Lapel is building a customer operations platform that brings hospitality to the internet: one real-time view of every account + tools to power every touchpoint.\r\n\r\nWe believe online customer relationships should feel personal, not transactional. Today, most teams manage relationships through dashboards, funnels, and canned replies—great for metrics, terrible for humans. Customers don’t see lines between Sales, Success, and Support, and your software shouldn’t either.\r\n\r\nLearn more at lapel.com",
     "one_liner": "Customer operations platform for internet businesses.",
     "team_size": 2,
     "industry": "B2B",
@@ -4024,17 +4240,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76569fbe505e2260c81baabe36a7512daf19506.png",
     "website": "https://getden.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Den is an AI-native Slack alternative that help teams get more done with general-purpose agents. \r\n\r\nWe believe in a future where humans work at the speed of thought, unbounded by hidden context or inaccessible tools. \r\n\r\nDen is minimalist, fast, and mind-blowingly capable. ",
+    "long_description": "Den is a Slack/Notion-like platform that help teams get more done with general-purpose AI agents. \r\n\r\nWe want to deploy trillions of AI agents into the mainstream workforce and unlock the most productive era in human history.",
     "one_liner": "Cursor for knowledge workers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1745125390,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Team Collaboration",
-      "AI"
+      "Team Collaboration"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4527,7 +4743,7 @@
     "slug": "blueshoe",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ff435e9a8349d20737a53d77d98e6b9ef40d649.png",
-    "website": "https://blueshoe.ai",
+    "website": "https://blueshoe.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Blueshoe puts law firm back office operations on autopilot starting with fully automated, end-to-end invoice-to-cash. At any given moment, U.S. law firms have $100B+ of revenue trapped in slow, manual and error-prone decisions and document workflows. Meanwhile, clients and practices are both innovating on dynamic revenue models beyond the billable hour. Blueshoe is building the next-gen back office infrastructure for professionals that's reliable, transparent and free of human bottlenecks.",
     "one_liner": "AI worker for law firm financial operations",
@@ -4734,7 +4950,7 @@
     "name": "Godela",
     "slug": "godela",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/389a13b4de0735b7f19c637530cdb84021717ac0.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe1589548b774d33ca4f20c5020467a9627f9c13.png",
     "website": "http://godela.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "What if every experiment you wanted to run could be modeled using AI? \r\nGodela is an AI-powered physics engine that gives engineers faster, cheaper replacement to simulations and physical prototypes.\r\nNo set up, no wait. Just ask—and get simulation quality result.\r\n",
