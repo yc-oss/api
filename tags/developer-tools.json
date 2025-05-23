@@ -9655,17 +9655,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b247c36fd7cd016d5bb505d32429cd07b9acfcbb.png",
     "website": "https://sievedata.com/",
-    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
-    "long_description": "Sieve is a specialized cloud built for video / audio AI.\r\n\r\nEvery video product today is being overwhelmed by a ton of new use cases that are enabled by AI. Video is unique in that it’s much more compute and data-intensive to process or generate compared to other modalities. This leads to a ton of complexity around the ways models are run, the kinds of extra processing needed to happen around them, and the complexity of pipelines that solve the most valuable use cases in the modality. To this end, Sieve’s strongest and most immediate value proposition comes from being an AI toolkit that solves problems unique to video — unlike generic AI developer tools that might exist today.\r\n\r\nVideo is just the start however. Learn more about our long term vision [here](https://sievedata.com/about/jobs)!",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Video has become a core component to some of the most consequential industries in the world including social, communications, art, robotics, and VR.\r\n\r\nBut the processing of it, especially with AI, is incredibly complex due to the number of use cases that exist and the types of systems that need to be built for each one of them.\r\n\r\nSieve's mission is to supply the infrastructure needed to understand, manipulate, and generate video, so we can accelerate all future applications of it.",
     "one_liner": "Video AI for Developers",
-    "team_size": 8,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1643510053,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Video"
+      "Video",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12568,9 +12568,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/284ee8dcb70cf1539c35db6e20ec3370746244d6.png",
     "website": "https://www.traceloop.com",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-    "long_description": "Traceloop monitors the quality of your LLM application in production. It provides you with alerts, insights and gradual rollout capabilities to confidently deploy changes to your prompts and model configurations.",
-    "one_liner": "OpenTelemetry-based observability for your LLM application",
-    "team_size": 6,
+    "long_description": "Traceloop gives you full visibility into every prompt, response, and failure. Track quality, detect drift, and stop hallucinations before they reach your users. Powered by OpenTelemetry, integrated in one line.",
+    "one_liner": "Know what your LLM is doing — and why it’s failing",
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1675081598,
@@ -17169,7 +17169,9 @@
     "id": 29335,
     "name": "Toolify",
     "slug": "toolify",
-    "former_names": [],
+    "former_names": [
+      "Creo"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dda140ccf9838edcec96e76d3655e00315a0b4a7.png",
     "website": "https://toolify.sh",
     "all_locations": "Bengaluru, KA, India",
@@ -17189,7 +17191,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -21126,16 +21128,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30b8e360a80afbcddf3b4927c1058655638e3225.png",
     "website": "https://www.vybe.build",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're 2 repeat YC founders building Vybe. We built Plato (W16, sold to Coda) and Wolfia (S22). Quang lead Product/GTM for Coda Solutions and Fabien is ex SWE at Meta and lead half of Engineering at Wealthfront before.\r\n\r\nVybe turns a simple chat prompt into a production-ready internal app. You connect your systems—Workday, Jira, Github, Salesforce, Snowflake, Slack—and the platform instantly generates the UI, backend, secure data pipelines, and role-based access control, then keeps everything up-to-date as your needs evolve. Built-in AI agents take care of repetitive follow-ups and status pings, so the tools you launch actually stay used.\r\n\r\nBeyond code, Vybe ships proven playbooks. We partner with top engineering, product, and ops leaders—capturing how they run one-on-ones, all-hands, onboarding, and more—then release those workflows as plug-and-play templates you can adopt in a click. The result is a living system of bespoke apps plus best-practice processes that scales with your company from day one.",
+    "long_description": "We're 2 repeat YC founders. We founded Plato (W16, sold to Coda) and Wolfia (S22). Quang lead Product/GTM for Coda Solutions and Fabien is ex-SWE at Meta and lead Engineering at Wealthfront before.\r\n\r\nWe’re building Vybe: \"Lovable for internal apps\". We come with pre-built building blocks: Integrations (Gmail, Gcal, Github, Jira, etc.), SSO and AI tools (Websearch, Summarization etc.) so anyone in a company can build and launch internal AI-powered apps.\r\n\r\nVibe coding is dramatically lowering the barrier for non-technical users to create full web apps. Lovable, Replit, Bolt, Google, Canva, Figma all launched their vibe-coding platforms. People love them. They're great for prototyping, but it's difficult to roll out inside a company for internal use cases for those reasons: \r\n\r\n1. Data: If you want to connect your existing data (e.g. Salesforce, Gmail, Jira), you'd need to rebuild the API auth, pagination, etc. \r\n\r\n2. SSO: If you build 20 apps, you'll have 20 different logins\r\n\r\n3. Security: AI-built apps have massive risk of exposing data, especially if built by non developers\r\n\r\nSo companies are stuck in the old world: clunky spreadsheets, rigid SaaS solutions or complex no-code tools.\r\n\r\nTime to build! ",
     "one_liner": "Lovable for internal apps",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1745390836,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,

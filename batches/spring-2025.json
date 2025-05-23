@@ -516,16 +516,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/30b8e360a80afbcddf3b4927c1058655638e3225.png",
     "website": "https://www.vybe.build",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're 2 repeat YC founders building Vybe. We built Plato (W16, sold to Coda) and Wolfia (S22). Quang lead Product/GTM for Coda Solutions and Fabien is ex SWE at Meta and lead half of Engineering at Wealthfront before.\r\n\r\nVybe turns a simple chat prompt into a production-ready internal app. You connect your systems—Workday, Jira, Github, Salesforce, Snowflake, Slack—and the platform instantly generates the UI, backend, secure data pipelines, and role-based access control, then keeps everything up-to-date as your needs evolve. Built-in AI agents take care of repetitive follow-ups and status pings, so the tools you launch actually stay used.\r\n\r\nBeyond code, Vybe ships proven playbooks. We partner with top engineering, product, and ops leaders—capturing how they run one-on-ones, all-hands, onboarding, and more—then release those workflows as plug-and-play templates you can adopt in a click. The result is a living system of bespoke apps plus best-practice processes that scales with your company from day one.",
+    "long_description": "We're 2 repeat YC founders. We founded Plato (W16, sold to Coda) and Wolfia (S22). Quang lead Product/GTM for Coda Solutions and Fabien is ex-SWE at Meta and lead Engineering at Wealthfront before.\r\n\r\nWe’re building Vybe: \"Lovable for internal apps\". We come with pre-built building blocks: Integrations (Gmail, Gcal, Github, Jira, etc.), SSO and AI tools (Websearch, Summarization etc.) so anyone in a company can build and launch internal AI-powered apps.\r\n\r\nVibe coding is dramatically lowering the barrier for non-technical users to create full web apps. Lovable, Replit, Bolt, Google, Canva, Figma all launched their vibe-coding platforms. People love them. They're great for prototyping, but it's difficult to roll out inside a company for internal use cases for those reasons: \r\n\r\n1. Data: If you want to connect your existing data (e.g. Salesforce, Gmail, Jira), you'd need to rebuild the API auth, pagination, etc. \r\n\r\n2. SSO: If you build 20 apps, you'll have 20 different logins\r\n\r\n3. Security: AI-built apps have massive risk of exposing data, especially if built by non developers\r\n\r\nSo companies are stuck in the old world: clunky spreadsheets, rigid SaaS solutions or complex no-code tools.\r\n\r\nTime to build! ",
     "one_liner": "Lovable for internal apps",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1745390836,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1525,6 +1525,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/simstudio.json"
   },
   {
+    "id": 30441,
+    "name": "stratify",
+    "slug": "stratify",
+    "former_names": [
+      "Swarm AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1a50cfaa4d20f355d56916b604b0530b1c260eb.png",
+    "website": "https://www.trystratify.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Stratify is the AI-powered user researcher that discovers the why behind every decision, click, and preference.\r\nOur platform uses agentic workflows that instantly recruit participants, conduct user interviews, analyze responses, and provide actionable insights.",
+    "one_liner": "AI agents that help you understand your customers' needs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1747936990,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Design",
+      "Consumer Products",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stratify",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/stratify.json"
+  },
+  {
     "id": 30442,
     "name": "YouLearn",
     "slug": "youlearn",
@@ -2263,18 +2307,18 @@
     "slug": "odapt",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d2f24b1c7b6bbdf8a99fe8b78b57ddfafeab69d.png",
-    "website": "https://landing.odapt.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Odapt lets anyone build AI-powered internal software using plain language. We connect all your apps and internal data into one place - giving our AI agents the cross-system awareness most tools lack. Operators, marketers, and finance leads can now prompt Odapt to design and ship context-specific tools in minutes, without any engineering bottlenecks.\r\n\r\nWe believe software should be built by the people who use it. Teams already use Odapt to unify sales data, automate documentation, and run recruiting ops—all without writing a line of code.\r\n\r\nOur team has deep roots in AI, ops, and product:\r\nLucas worked on code-gen at OpenAI and bootstrapped to $1M ARR.\r\nEnde deployed AI safety across 20M+ devices and was part of Stanford’s NLP lab.\r\nMadhav was an operator at McKinsey and founding BizOps lead at a recruiting startup, and has led & scaled teams of 25 in the past.\r\n\r\nOdapt empowers operators to build, so engineers can go deeper on high-impact work. With AI, we’re unlocking 10x more builders inside companies - and giving them the tools to create what they need, when they need it.",
+    "website": "https://odapt.ai/",
+    "all_locations": "",
+    "long_description": "Odapt lets anyone build AI-powered internal software using plain language. We connect all your apps and internal data into one place - giving our AI agents the cross-system awareness most tools lack. Operators, marketers, and finance leads can now prompt Odapt to design and ship context-specific tools in minutes, without any engineering bottlenecks.\r\n\r\nWe believe software should be built by the people who use it. Teams already use Odapt to unify sales data, automate documentation, and run recruiting ops—all without writing a line of code. With AI, we’re unlocking 10x more builders inside companies - and giving them the tools to create what they need, when they need it.\r\n\r\nOur team has deep roots in AI, ops, and product:\r\nLucas worked on code-gen at OpenAI and bootstrapped to $1M ARR.\r\nEnde deployed AI safety across 20M+ devices and was part of Stanford’s NLP lab.\r\nMadhav was an operator at McKinsey and founding BizOps lead at a recruiting startup.\r\n\r\n",
     "one_liner": "How great teams build internal software & agent workflows",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1747781122,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2286,8 +2330,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2725,17 +2768,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aad91c0390b62c24c8473857d3ed3043cad61263.png",
     "website": "https://casco.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Casco helps companies confidently ship AI agents and apps by simulating attacks on their AI systems, identifying vulnerabilities, and providing guided remediation.\r\n\r\nCompanies building on AI face a disproportionate amount of cybersecurity threats. 73% of enterprises experienced at least one AI-related security incident in the past 12 months, with the average incident cost amounting to $4.8m. It also takes 40% longer for these companies to identify and address these breaches vs. non-AI related incidents.\r\n\r\nCheck if your AI system is secure at casco.com",
+    "long_description": "Casco helps companies confidently ship AI agents and apps by simulating attacks on their AI systems, identifying vulnerabilities, and providing guided remediation.\r\n\r\nCompanies building on AI face a disproportionate amount of cybersecurity threats. 73% of enterprises experienced at least one AI-related security incident in the past 12 months, with the average incident cost amounting to $4.8m. It also takes 40% longer for these companies to identify and address these breaches vs. non-AI related incidents.\r\n\r\nCheck if your AI system is secure at casco.com\r\n\r\n---\r\n\r\nWe already secure AI systems deployed in 60% of Fortune 500 companies and are default alive. [1]\r\n\r\n[1] http://www.paulgraham.com/aord.html",
     "one_liner": "Evaluate AI agents and apps on security, safety, and accuracy.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1747691019,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Security",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2806,9 +2849,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb20e1f29c5b7138851e75459877c74ca0beccf7.png",
     "website": "https://www.flotthq.com",
-    "all_locations": "Remote",
+    "all_locations": "",
     "long_description": "Flott HQ is an all-in-one fleet operations platform that helps transport, logistics and field service teams boost profitability with AI-powered planning, tracking, invoicing, and payments — all in one place.\r\nWe centralize what most teams manage across 5+ tools, helping our clients grow faster while cutting operational costs.",
-    "one_liner": "AI-powered operating system for vehicle fleets management.",
+    "one_liner": "AI-powered operating system for vehicle fleet management",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -2829,8 +2872,7 @@
       "B2B"
     ],
     "regions": [
-      "Remote",
-      "Fully Remote"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3610,9 +3652,9 @@
     "subindustry": "B2B",
     "launched_at": 1747846039,
     "tags": [
-      "Artificial Intelligence",
       "Biotech",
-      "Manufacturing"
+      "Manufacturing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3860,17 +3902,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b51923708ddf66171a6468453b53717108db55a3.png",
     "website": "https://lapel.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lapel is building a customer operations platform that brings hospitality to the internet: one real-time view of every account + tools to power every touchpoint.\r\n\r\nWe believe online customer relationships should feel personal, not transactional. Today, most teams manage relationships through dashboards, funnels, and canned replies—great for metrics, terrible for humans. Customers don’t see lines between Sales, Success, and Support, and your software shouldn’t either.\r\n\r\nLearn more at lapel.com",
+    "long_description": "Lapel is building a customer operations platform that brings hospitality to the internet: one real-time view of every account + tools to power every touchpoint.\r\n\r\nWe believe online customer relationships should feel personal, not transactional. Today, most teams manage relationships through dashboards, funnels, and canned replies—great for metrics, terrible for humans.\r\n\r\nCustomers don’t see lines between Sales, Success, and Support, and your software shouldn’t either. Learn more at lapel.com",
     "one_liner": "Customer operations platform for internet businesses.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747773891,
     "tags": [
+      "Artificial Intelligence",
       "Customer Success",
       "Sales",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4745,8 +4787,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ff435e9a8349d20737a53d77d98e6b9ef40d649.png",
     "website": "https://blueshoe.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Blueshoe puts law firm back office operations on autopilot starting with fully automated, end-to-end invoice-to-cash. At any given moment, U.S. law firms have $100B+ of revenue trapped in slow, manual and error-prone decisions and document workflows. Meanwhile, clients and practices are both innovating on dynamic revenue models beyond the billable hour. Blueshoe is building the next-gen back office infrastructure for professionals that's reliable, transparent and free of human bottlenecks.",
-    "one_liner": "AI worker for law firm financial operations",
+    "long_description": "Blueshoe puts law firm back office operations on autopilot starting with automated, end-to-end invoice-to-cash. At any given moment, U.S. law firms have $100B+ of revenue trapped in slow, manual and error-prone decisions and document workflows. Meanwhile, clients and practices are both innovating on dynamic revenue models beyond the billable hour. Blueshoe is building the next-gen back office infrastructure for professionals that's reliable, transparent and free of human bottlenecks.",
+    "one_liner": "The first AI worker for law firm operations.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",

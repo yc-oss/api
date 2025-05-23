@@ -6829,48 +6829,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2018/fondo.json"
   },
   {
-    "id": 1745,
-    "name": "Worklytics",
-    "slug": "worklytics",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6e12a0489b9aae208b2203d11474c6fdafff83ad.png",
-    "website": "https://www.worklytics.co",
-    "all_locations": "Seattle, WA, USA",
-    "long_description": "Worklytics identifies leading drivers of employee engagement, without the need for repetitive surveys. It does this by passively analyzing anonymous collaboration data, in tools like Google Workspace and Slack, and detecting patterns that lead to greater employee satisfaction. Worklytics uses these insights to promote positive organizational change by proactively nudging leaders and managers.",
-    "one_liner": "Analytics to improve how teams work and collaborate",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1509562894,
-    "tags": [
-      "Human Resources",
-      "Productivity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2018",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/worklytics",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/worklytics.json"
-  },
-  {
     "id": 1763,
     "name": "Biobot Analytics",
     "slug": "biobot-analytics",
@@ -26963,17 +26921,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b247c36fd7cd016d5bb505d32429cd07b9acfcbb.png",
     "website": "https://sievedata.com/",
-    "all_locations": "San Francisco, CA, USA; Berkeley, CA, USA",
-    "long_description": "Sieve is a specialized cloud built for video / audio AI.\r\n\r\nEvery video product today is being overwhelmed by a ton of new use cases that are enabled by AI. Video is unique in that it’s much more compute and data-intensive to process or generate compared to other modalities. This leads to a ton of complexity around the ways models are run, the kinds of extra processing needed to happen around them, and the complexity of pipelines that solve the most valuable use cases in the modality. To this end, Sieve’s strongest and most immediate value proposition comes from being an AI toolkit that solves problems unique to video — unlike generic AI developer tools that might exist today.\r\n\r\nVideo is just the start however. Learn more about our long term vision [here](https://sievedata.com/about/jobs)!",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Video has become a core component to some of the most consequential industries in the world including social, communications, art, robotics, and VR.\r\n\r\nBut the processing of it, especially with AI, is incredibly complex due to the number of use cases that exist and the types of systems that need to be built for each one of them.\r\n\r\nSieve's mission is to supply the infrastructure needed to understand, manipulate, and generate video, so we can accelerate all future applications of it.",
     "one_liner": "Video AI for Developers",
-    "team_size": 8,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1643510053,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Video"
+      "Video",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35259,6 +35217,45 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/pirros.json"
   },
   {
+    "id": 27838,
+    "name": "Flower",
+    "slug": "flower",
+    "former_names": [
+      "Adap",
+      "Flower Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd58b70bf08ebd04681433b867e55d90f1a18a12.png",
+    "website": "https://flower.ai",
+    "all_locations": "Remote",
+    "long_description": "Flower Labs is the world-class AI startup behind Flower, the most popular open-source framework and ecosystem in the world for training AI on distributed data and compute resources using federated learning. Trusted by industry leaders such as Mozilla, Banking Circle, Samsung, Temenos and Bosch, Flower empowers organizations to improve their AI models on sensitive data that remains securely distributed across organizational silos or user devices. In a world where most AI relies on centralized public datasets - just a fraction of the data available - we believe unlocking access to (orders of magnitude more) private data will drive the next breakthroughs in artificial intelligence.\r\nFlower Labs is a Y Combinator (YCW23) graduate and backed by top-tier investors and renowned angels, including Felicis, First Spark Ventures, Mozilla Ventures, Hugging Face CEO Clem Delangue, GitHub Co-Founder Scott Chacon, Factorial Capital, Betaworks, and Pioneer Fund. Together, we are redefining how AI is built, deployed, and scaled for privacy, collaboration, and real-world impact.",
+    "one_liner": "Train AI on distributed data",
+    "team_size": 20,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1676426337,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/flower",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/flower.json"
+  },
+  {
     "id": 27839,
     "name": "Cosine",
     "slug": "cosine",
@@ -40633,52 +40630,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/cair-health.json"
   },
   {
-    "id": 29090,
-    "name": "Trayd",
-    "slug": "trayd",
-    "former_names": [
-      "Trayd",
-      "TRAYD"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0a9f2865966789c4edf9a5fb78aced71bf8c4d9.png",
-    "website": "https://www.buildtrayd.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Trayd is a B2B construction payroll platform and back office management system designed for same-day pay. We allow the 7M construction workers in the US to get access to their earned wages 7-10 days sooner than legacy payroll providers. With a unique spin on traditional payroll, Trayd is on a mission to create back office efficiencies for commercial subcontractors while simultaneously addressing the significant labor shortage affecting the $2.1TR North American construction industry. \r\n\r\nTrayd is bigger than construction payroll. It's the promise that the hardest working people get access to their money, as and when they need it, creating greater financial wellness across the board. Not only that, we are pioneering digital cash access for a demographic traditionally overlooked while simultaneously modernizing operations in an industry that has been slow to adapt. The challenges and opportunities with Trayd are abundant, promising an engaging journey ahead.",
-    "one_liner": "A construction payroll platform designed for same-day pay.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1689535318,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Construction",
-      "Proptech",
-      "Payroll"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trayd",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/trayd.json"
-  },
-  {
     "id": 29092,
     "name": "dili",
     "slug": "dili",
@@ -41068,7 +41019,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bccd87f3418251f26029501fe73c506db3f2695.png",
     "website": "https://morphllm.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "APIs for the \"other models\" you need to build coding agents that work and feel like the best. Use alongside Gemini, Claude, or GPT + maintain full control of your agents. \r\nEverything you need to build Cursor for ___\r\n",
+    "long_description": "The Read and Write tools you need to build coding agents that work and feel like the best. Use alongside Gemini, Claude, or GPT + maintain full control of your agents. \r\nEverything you need to build Cursor for ___\r\n",
     "one_liner": "Tools for agents that edit code and files",
     "team_size": 2,
     "industry": "B2B",
@@ -45946,9 +45897,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f6b06b1a3d9fa21d50da717df4b5634869f0342.png",
     "website": "https://www.clarahomecare.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clara is Deel/Rippling for in-home senior care. We provide an all-in-one payroll, tax, and insurance platform for families to directly employ caregivers, and a marketplace for them to discover and match with their ideal caregiver from our network of hundreds of qualified local care providers.\r\n\r\nClara was founded by two former Uber colleagues who have experienced the challenges of managing care for a loved one personally, and are inspired by the opportunity to apply their tech backgrounds to solving the most widespread and impactful issues in the >$120B in-home care industry. \r\n\r\nClara's marketplace is currently live in the SF Bay Area, delivering hundreds of hours of care to local families. Our consumer-facing senior-care payroll and tax management solution is live nationwide.",
+    "long_description": "Clara is Deel/Rippling for in-home senior care. We provide an all-in-one payroll, tax, and insurance platform for families to directly employ caregivers, and a marketplace for them to discover and match with their ideal caregiver from our network of hundreds of qualified local care providers.\r\n\r\nClara was founded by two former Uber colleagues who have experienced the challenges of managing care for a loved one personally, and are inspired by the opportunity to apply their tech backgrounds to solving the most widespread and impactful issues in the >$120B in-home care industry. \r\n\r\nClara's marketplace is currently live across California, delivering thousands of hours of care to families from a network of over 1,500 caregivers.",
     "one_liner": "Helping families discover, hire, and manage in-home caregivers",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1722734654,
@@ -46928,7 +46879,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b702e275c5d9f7a428a7fe250b337175e2b5e58.png",
     "website": "https://anara.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Anara helps researchers understand, organize and write scientific documents, together.\r\n\r\nWe started working on Anara 18 months ago. In that time:\r\n\r\n- we’ve grown to 4M users spanning hundreds of major colleges and research-led companies,\r\n- we reached $3M in yearly revenue and are fast approaching $4M,\r\n- 200M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised $2.4M from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we’re expanding beyond summarization and writing assistance to address the broader challenges of information overload faced by academics and research teams.\r\n\r\nWe're a small, tight-knit team with huge ambitions and we’re hiring across design, engineering and growth. As a founding member of the team, you'll be instrumental in helping us scale revenue from $3M to $10M and then $10M to $100M+.\r\n\r\nIf you’re excited by the idea of being a part of that, definitely reach out.",
+    "long_description": "Anara helps researchers understand, organize and write scientific documents, together.\r\n\r\nWe started working on Anara 18 months ago. In that time:\r\n\r\n- we’ve grown to 2M users spanning hundreds of major colleges and research-led companies,\r\n- we reached $3M in yearly revenue and are fast approaching $4M,\r\n- 200M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised $2.4M from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we’re expanding beyond summarization and writing assistance to address the broader challenges of information overload faced by academics and research teams.\r\n\r\nWe're a small, tight-knit team with huge ambitions and we’re hiring across design, engineering and growth. As a founding member of the team, you'll be instrumental in helping us scale revenue from $3M to $10M and then $10M to $100M+.\r\n\r\nIf you’re excited by the idea of being a part of that, definitely reach out.",
     "one_liner": "AI for researchers",
     "team_size": 5,
     "industry": "B2B",
@@ -47133,7 +47084,7 @@
     "all_locations": "",
     "long_description": "",
     "one_liner": "Data for audio AI",
-    "team_size": 6,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1720661903,
@@ -47732,53 +47683,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/remo",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/remo.json"
-  },
-  {
-    "id": 29819,
-    "name": "Weel",
-    "slug": "weel",
-    "former_names": [
-      "Vizia"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22dac63897681e1a31dc26b877ee786266ae0bff.png",
-    "website": "https://weel.live/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Weel is the next-generation all-in-one driver co-pilot that redefines your driving experience by turning your smartphone into a complete safety and navigation hub. Our free app offers a built-in dashcam with easy video sharing, a smart navigation system, and advanced AI features—such as augmented reality navigation and ADAS—that reduce your risk by up to 30%. Say goodbye to expensive dashcams and complex setups – with Weel, you get complete driving safety and guidance in one free smartphone app.",
-    "one_liner": "GPS & dashcam smartphone app",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1741795332,
-    "tags": [
-      "Augmented Reality",
-      "Computer Vision",
-      "Navigation",
-      "Mobility",
-      "Automotive"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Transportation Services"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/weel",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/weel.json"
   },
   {
     "id": 29820,
@@ -48433,7 +48337,7 @@
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We integrate with any EHR to ensure you are not under/overcoding instantly instead of having to wait months to hear back from the insurance company.",
-    "one_liner": "Realtime medical coding suggestions and chart audits. ",
+    "one_liner": "Real-time AI audits of medical charts and charges.",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -48783,7 +48687,7 @@
     "all_locations": "",
     "long_description": "Sphinx automates the manual work of compliance analysts. Our AI agents make AML decisions, helping banks and fintech eliminate onboarding bottlenecks.\r\n",
     "one_liner": "AI Compliance Analysts for Banks & Fintechs",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1730337457,
@@ -49869,7 +49773,7 @@
     "website": "https://tergle.com",
     "all_locations": "",
     "long_description": "Tergle builds AI agents for auditing.",
-    "one_liner": "AI to replace Auditors",
+    "one_liner": "AI agents for Audit",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",

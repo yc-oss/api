@@ -7609,8 +7609,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/734a6a33e019411f619b73219afce2e9d4af8ef7.png",
     "website": "https://www.querypie.com",
     "all_locations": "San Mateo, CA, USA",
-    "long_description": "QueryPie solves two major enterprise challenges:\r\nmeeting ITGC audit and compliance requirements, and protecting sensitive data from internal misuse and external threats — while offering insight into data usage for AI.\r\n\r\nBy centralizing access control and audit across databases, servers, and containers in both on-prem and cloud, QueryPie simplifies security and compliance in one platform.\r\n\r\nNow, with MCP-powered AI Agent, QueryPie expands beyond access control into a fully autonomous assistant that:\r\n\t•\t📊 Transforms SQL into natural conversations\r\n\t•\t🛠️ Automates infra operations\r\n\t•\t🧠 Detects threats via AI-driven behavior analytics\r\n\r\nMore than just a security tool, QueryPie empowers secure, AI-native enterprise operations.",
-    "one_liner": "The Autonomous AI Assistant for Data Analytics, Infra Operations &…",
+    "long_description": "QueryPie empowers enterprises to safely operationalize AI.\r\nBuilt on proven Zero Trust principles, QueryPie connects MCPs, AI agents, and LLMs through a unified control layer — enabling secure, autonomous workflows across your cloud, systems, and tools.\r\nWe provide both our own secure MCPs and verified server integrations for enterprise platforms like Slack, GitHub, and AWS.\r\nWith trusted infrastructure at its core, QueryPie ensures every AI action is governed, auditable, and aligned with your security policy.",
+    "one_liner": "QueryPie: Secure Enterprise AI Hub",
     "team_size": 97,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -10375,15 +10375,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28e9d8c1afc2f855ecd63f4a8547074fb4563efd.png",
     "website": "https://www.mailwarm.com",
     "all_locations": "Paris, Île-de-France, France",
-    "long_description": "Mailwarm is a marketing software which takes care of your email deliverability so your emails reach your recipients' inboxes.\r\nMailwarm allows you to :\r\n- get a perfect email activity \r\n- raise your sender reputation\r\n- keep your email deliverability high",
+    "long_description": "Mailwarm is an email warmup tool that improves your email deliverability and helps your emails land in the inbox, not the spam folder.\r\n\r\nMailwarm raises your sender reputation by automatically generating positive email interactions every day.\r\n\r\nMailwarm allows you to :\r\n- get a perfect email activity \r\n- raise your sender reputation\r\n- keep your email deliverability high",
     "one_liner": "Prevents marketing emails from landing in spam.",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1599762606,
     "tags": [
       "SaaS",
-      "B2B"
+      "B2B",
+      "Marketing",
+      "Email"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22652,50 +22654,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/dimorder.json"
   },
   {
-    "id": 25810,
-    "name": "Material Depot",
-    "slug": "material-depot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a662852a35aa588b121563de0be00dcfacd66749.png",
-    "website": "https://materialdepot.in/",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "The problem - Material discovery today is a big pain for the design community\r\n\r\nCountless hours are spent browsing to catalogues, visiting offline stores, coordinating with vendors for samples, getting quotations and finalizing materials. All of this process removes focus and causes hindrance to the process of design\r\n\r\nThe Solution - Discovery engine and AI design tools to make the process easy and seamless\r\n\r\nWe are building a digital library of materials across different categories with seamless search functionalities. On top that we are enabling the community with a image recognition tool and a digital mood board to embed the right material in the design",
-    "one_liner": "Search Engine, workflow automation for Architectural & Design industry",
-    "team_size": 4,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction",
-    "launched_at": 1646199572,
-    "tags": [
-      "Marketplace",
-      "SaaS",
-      "Construction",
-      "B2B",
-      "Proptech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/material-depot",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/material-depot.json"
-  },
-  {
     "id": 25818,
     "name": "Vimmerse",
     "slug": "vimmerse",
@@ -27837,16 +27795,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6749dbc3973af54314fb19bab89f96afd64cd254.png",
     "website": "https://www.getcone.io",
     "all_locations": "Hyderabad, Telangana, India; Remote",
-    "long_description": "Cone is a platform for all finance and accounting needs for SMBs. We help these businesses with bookkeeping, tax filing, compliance, vendor payments and financial reporting",
-    "one_liner": "Modern finance and accounting platform for business",
+    "long_description": "Cone is an AI-powered work operating system that unifies accounting workflows —\r\nproposals, tasks, billing, payments, and client engagement into one platform",
+    "one_liner": "Work operating system for professional service businesses",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1655892820,
     "tags": [
-      "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "Workflow Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31106,12 +31064,12 @@
     "former_names": [
       "Desklamp"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6e6151f374f702aa3e1335ac97d5655ac563804.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bb9d01e5193ccdd98bfdf1cea08fb2ede901fe5.png",
     "website": "https://clueso.io",
     "all_locations": "Bengaluru, KA, India",
     "long_description": "Clueso is the fastest and easiest way for companies to generate high-quality instructional videos and documentation, ideal for customer education/onboarding and employee training. Our AI transforms simple screen-recordings into studio-quality videos and step-by-step documentation in minutes.",
     "one_liner": "Create beautiful videos & docs for any product or process in minutes",
-    "team_size": 3,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1677925658,
@@ -31637,7 +31595,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca57c15ee63fa6b716d10d0f8f29a5e1732f44e4.png",
     "website": "https://www.keephq.dev",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel; Remote",
-    "long_description": "Keep is an open-source AIOps platform. Keep acts as a single pane of glass to all your alerts from any monitoring tool and helps you turn 1000s into just 10s of meaningful alerts.",
+    "long_description": "Acquired by Elastic.\r\n\r\nKeep is an open-source AIOps platform. Keep acts as a single pane of glass to all your alerts from any monitoring tool and helps you turn 1000s into just 10s of meaningful alerts.",
     "one_liner": "The open-source AIOps platform",
     "team_size": 5,
     "industry": "B2B",
@@ -35683,7 +35641,7 @@
     "website": "https://simplex.sh",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Simplex builds web agents you can control with code. AI agent companies use us to integrate their agents with legacy software and customers’ internal tools that don’t have prebuilt APIs.",
-    "one_liner": "AI-assisted integrations with web agents",
+    "one_liner": "Production-grade web agents for developers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -36112,7 +36070,9 @@
     "id": 29335,
     "name": "Toolify",
     "slug": "toolify",
-    "former_names": [],
+    "former_names": [
+      "Creo"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dda140ccf9838edcec96e76d3655e00315a0b4a7.png",
     "website": "https://toolify.sh",
     "all_locations": "Bengaluru, KA, India",
@@ -36132,7 +36092,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -39124,7 +39084,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b702e275c5d9f7a428a7fe250b337175e2b5e58.png",
     "website": "https://anara.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Anara helps researchers understand, organize and write scientific documents, together.\r\n\r\nWe started working on Anara 18 months ago. In that time:\r\n\r\n- we’ve grown to 4M users spanning hundreds of major colleges and research-led companies,\r\n- we reached $3M in yearly revenue and are fast approaching $4M,\r\n- 200M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised $2.4M from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we’re expanding beyond summarization and writing assistance to address the broader challenges of information overload faced by academics and research teams.\r\n\r\nWe're a small, tight-knit team with huge ambitions and we’re hiring across design, engineering and growth. As a founding member of the team, you'll be instrumental in helping us scale revenue from $3M to $10M and then $10M to $100M+.\r\n\r\nIf you’re excited by the idea of being a part of that, definitely reach out.",
+    "long_description": "Anara helps researchers understand, organize and write scientific documents, together.\r\n\r\nWe started working on Anara 18 months ago. In that time:\r\n\r\n- we’ve grown to 2M users spanning hundreds of major colleges and research-led companies,\r\n- we reached $3M in yearly revenue and are fast approaching $4M,\r\n- 200M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised $2.4M from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we’re expanding beyond summarization and writing assistance to address the broader challenges of information overload faced by academics and research teams.\r\n\r\nWe're a small, tight-knit team with huge ambitions and we’re hiring across design, engineering and growth. As a founding member of the team, you'll be instrumental in helping us scale revenue from $3M to $10M and then $10M to $100M+.\r\n\r\nIf you’re excited by the idea of being a part of that, definitely reach out.",
     "one_liner": "AI for researchers",
     "team_size": 5,
     "industry": "B2B",
@@ -43843,6 +43803,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/capacitive.json"
   },
   {
+    "id": 30441,
+    "name": "stratify",
+    "slug": "stratify",
+    "former_names": [
+      "Swarm AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1a50cfaa4d20f355d56916b604b0530b1c260eb.png",
+    "website": "https://www.trystratify.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Stratify is the AI-powered user researcher that discovers the why behind every decision, click, and preference.\r\nOur platform uses agentic workflows that instantly recruit participants, conduct user interviews, analyze responses, and provide actionable insights.",
+    "one_liner": "AI agents that help you understand your customers' needs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1747936990,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Design",
+      "Consumer Products",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stratify",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/stratify.json"
+  },
+  {
     "id": 30449,
     "name": "Attune",
     "slug": "attune",
@@ -44014,18 +44018,18 @@
     "slug": "odapt",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d2f24b1c7b6bbdf8a99fe8b78b57ddfafeab69d.png",
-    "website": "https://landing.odapt.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Odapt lets anyone build AI-powered internal software using plain language. We connect all your apps and internal data into one place - giving our AI agents the cross-system awareness most tools lack. Operators, marketers, and finance leads can now prompt Odapt to design and ship context-specific tools in minutes, without any engineering bottlenecks.\r\n\r\nWe believe software should be built by the people who use it. Teams already use Odapt to unify sales data, automate documentation, and run recruiting ops—all without writing a line of code.\r\n\r\nOur team has deep roots in AI, ops, and product:\r\nLucas worked on code-gen at OpenAI and bootstrapped to $1M ARR.\r\nEnde deployed AI safety across 20M+ devices and was part of Stanford’s NLP lab.\r\nMadhav was an operator at McKinsey and founding BizOps lead at a recruiting startup, and has led & scaled teams of 25 in the past.\r\n\r\nOdapt empowers operators to build, so engineers can go deeper on high-impact work. With AI, we’re unlocking 10x more builders inside companies - and giving them the tools to create what they need, when they need it.",
+    "website": "https://odapt.ai/",
+    "all_locations": "",
+    "long_description": "Odapt lets anyone build AI-powered internal software using plain language. We connect all your apps and internal data into one place - giving our AI agents the cross-system awareness most tools lack. Operators, marketers, and finance leads can now prompt Odapt to design and ship context-specific tools in minutes, without any engineering bottlenecks.\r\n\r\nWe believe software should be built by the people who use it. Teams already use Odapt to unify sales data, automate documentation, and run recruiting ops—all without writing a line of code. With AI, we’re unlocking 10x more builders inside companies - and giving them the tools to create what they need, when they need it.\r\n\r\nOur team has deep roots in AI, ops, and product:\r\nLucas worked on code-gen at OpenAI and bootstrapped to $1M ARR.\r\nEnde deployed AI safety across 20M+ devices and was part of Stanford’s NLP lab.\r\nMadhav was an operator at McKinsey and founding BizOps lead at a recruiting startup.\r\n\r\n",
     "one_liner": "How great teams build internal software & agent workflows",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1747781122,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44037,8 +44041,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
