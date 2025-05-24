@@ -8862,8 +8862,8 @@
   },
   {
     "id": 23105,
-    "name": "Bluecheck",
-    "slug": "bluecheck",
+    "name": "Reclaim Protocol",
+    "slug": "reclaim-protocol",
     "former_names": [
       "Socionity",
       "CreatorOS",
@@ -8871,25 +8871,22 @@
       "Questbook",
       "Reclaim Protocol, Questbook"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa2cd181356c16e43310c40d13e664faf4716d3c.png",
-    "website": "https://thebluecheck.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/140b14ae167716f111115a81e06b1a7eb94e8ef3.png",
+    "website": "https://reclaimprotocol.org",
     "all_locations": "Hyderabad, Telangana, India; Remote",
-    "long_description": "Bluecheck is a verification company that leverages advances in AI and cryptography to bring you global, instantaneous and compliant verifications at the industry lowest costs.\r\n\r\nUsing Bluecheck, you can verify :\r\n- Education : Which university is this student enrolled in? 20k+ universities globally supported\r\n- Employment : Where is the user employed and what is their designation? Employers in all countries supported\r\n- Finances : What is the Credit Score and Accredited Investor status of the user? Again, all countries supported\r\n- Shopping : Where is the user spending, and what brands are they loyal to? Supporting all major ecommerce and travel services\r\n\r\nOnce you integrate Bluecheck, your users will be presented with a button similar to \"Login with Google\", but for the website from where we need to verify information. e.g. their university portal, their tax portals and so on.\r\nAs soon as they login, Bluecheck extracts the required information and verifies the integrity of it. Particularly, ensures that the user has not tampered with the data that was displayed by the website.\r\n\r\nThe verification is done using zero knowledge proofs using an open sourced library called Reclaim Protocol, that does this verification in a privacy preserving and compliant manner.",
+    "long_description": "Reclaim Protocol is a verification company that leverages advances in AI and cryptography to bring you global, instantaneous and compliant verifications at the industry lowest costs.\r\n\r\nUsing Reclaim Protocol, you can verify :\r\n- Education : Which university is this student enrolled in? 20k+ universities globally supported\r\n- Employment : Where is the user employed and what is their designation? Employers in all countries supported\r\n- Finances : What is the Credit Score and Accredited Investor status of the user? Again, all countries supported\r\n- Shopping : Where is the user spending, and what brands are they loyal to? Supporting all major ecommerce and travel services\r\n\r\nOnce you integrate Reclaim Protocol, your users will be presented with a button similar to \"Login with Google\", but for the website from where we need to verify information. e.g. their university portal, their tax portals and so on.\r\nAs soon as they login, Reclaim Protocol extracts the required information and verifies the integrity of it. Particularly, ensures that the user has not tampered with the data that was displayed by the website.\r\n\r\nThe verification is done using zero knowledge proofs using an open sourced library!",
     "one_liner": "Industry's first sub-dollar user data verification company!",
     "team_size": 26,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1616635998,
     "tags": [
-      "AIOps",
-      "Crypto / Web3",
+      "Artificial Intelligence",
+      "Finance",
       "Identity",
-      "API",
-      "AI"
+      "Compliance"
     ],
-    "tags_highlighted": [
-      "Crypto / Web3"
-    ],
+    "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
     "nonprofit": false,
@@ -8910,8 +8907,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bluecheck",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/bluecheck.json"
+    "url": "https://www.ycombinator.com/companies/reclaim-protocol",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/reclaim-protocol.json"
   },
   {
     "id": 23189,
@@ -15438,11 +15435,11 @@
     "former_names": [
       "Zelos"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ca0ecc537f7ce785f91c1050c2526cde53e2f22.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9f39c44456d13de7e8a74abab6a45e95cb32375.png",
     "website": "https://zeloscloud.io",
     "all_locations": "",
-    "long_description": "Zelos Cloud is accelerating electronics product development with powerful tools for emulation, tracing, and automated testing on real microcontrollers in the cloud.\r\n\r\nAs firmware engineers, we spent years developing and shipping products at scale. Between batteries, bootloaders and brain implants, we've seen it all. Our mission is to build the tools we wish we had to enable teams to ship higher quality products, faster.",
-    "one_liner": "The First Cloud Platform for Firmware Development and Testing",
+    "long_description": "Zelos Cloud is the data platform for mission-critical systems that enables teams to observe, control, and test systems from prototype to production. The platform connects across entire ecosystems, capturing data from many protocols, enabling remote command execution, and facilitating team collaboration through shared workspaces and real-time annotations. By integrating data collection, processing, and visualization into one seamless pipeline, Zelos Cloud eliminates complexity and breaks down silos between engineering, operations, and quality teams.",
+    "one_liner": "The Data Platform for Mission‑Critical Systems",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -22484,6 +22481,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/chonkie",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/chonkie.json"
+  },
+  {
+    "id": 30432,
+    "name": "HelixDB",
+    "slug": "helixdb",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc8c59d06bd11958f3cd88c35b928397093f7d8.png",
+    "website": "https://helix-db.com",
+    "all_locations": "",
+    "long_description": "HelixDB is a graph-vector database that brings structure to vector data, enabling developers to easily build Graph/Hybrid RAG applications. While vector databases have become essential for AI, they fall short when retrieval requires explicit properties or relationships. Existing solutions either bolt vector functionality onto legacy graph databases with poor performance, or force developers to integrate separate systems through middleware, creating overhead and latency bottlenecks.\r\n\r\nBuilt from scratch in Rust, HelixDB leverages world-class expertise in low-level systems programming and algorithms to achieve extreme performance optimizations impossible with existing architectures. This deep technical approach stands in contrast to the LLM-dependent development prevalent in the industry, requiring specialized knowledge in areas where AI tools currently fall short.\r\n\r\nThe timing is optimal: graph databases are finally gaining recognition after two decades of underutilization, while vector databases have proven their AI value but revealed structural limitations. We emerge as the market awakens to hybrid solutions, positioned early enough to capture the opportunity but not so early as to lack ready adopters.",
+    "one_liner": "A graph-vector database for building RAG and AI.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1747978820,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure",
+      "AI",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/helixdb",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/helixdb.json"
   },
   {
     "id": 30449,

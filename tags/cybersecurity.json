@@ -1438,8 +1438,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67f8fa73a583138ab0060e99d6a10e8341a0d040.png",
     "website": "https://www.mindfort.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "MindFort is building fully autonomous AI agents and models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it.\r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
-    "one_liner": "Fully autonomous security agents: find, validate, patch.",
+    "long_description": "MindFort is building fully autonomous AI agents powered by their in-house models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it.\r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
+    "one_liner": "Fully autonomous offensive security agents & models",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -1472,6 +1472,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mindfort",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/mindfort.json"
+  },
+  {
+    "id": 30528,
+    "name": "Probo",
+    "slug": "probo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0e14dfc874747053fa6732daf6dbf9f9ed3e18d.png",
+    "website": "https://www.getprobo.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Probo acts like your compliance team. You tell us how you work, and Probo does the rest:\r\n1. Set the right requirements - not overkill\r\n2. Handle docs, risks, controls, evidence\r\n3. Run the audit\r\n4. Keep everything up to date afterward\r\nFounders shouldn’t lose weeks to this stuff. Even one day is too much.\r\n",
+    "one_liner": "We make you SOC 2 (and more) compliant so you focus on your business.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1747978784,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Compliance",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/probo",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/probo.json"
   },
   {
     "id": 30535,
@@ -1519,7 +1563,9 @@
     "id": 30548,
     "name": "Theorem",
     "slug": "theorem-2",
-    "former_names": [],
+    "former_names": [
+      "Aletheia"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4462cecf7e86ccbeaa67750a89b934e1dcf2fa9f.png",
     "website": "https://theoremlabs.com/",
     "all_locations": "San Francisco, CA, USA",

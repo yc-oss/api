@@ -20312,7 +20312,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -43010,8 +43010,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01fedb1283e8d7fc6fe77ced54cdc1ddcf4c5194.png",
     "website": "https://www.vovana.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vovana is an AI that automates all of your boring recruiting tasks. Vovana takes care of phone screens, resume reviews, interview scheduling, and reminders—so you don't have to.\r\n",
-    "one_liner": "AI recruiter built for frontline hiring",
+    "long_description": "Vovana is an AI that automates all of your boring recruiting tasks for warehouses and DCs. Vovana takes care of phone screens, resume reviews, interview scheduling, and reminders—so you don't have to.\r\n",
+    "one_liner": "Hire warehouse & DC talent in less than 24hrs. ",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
@@ -44187,7 +44187,7 @@
     "website": "https://lyra.so/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Lyra, we believe B2B sales hasn’t meaningfully evolved in decades — until now. The next industrial revolution is here, and we’re building the platform to power it.\r\n\r\nModern buyers want less talk, faster decisions, and seamless experiences. Lyra helps sales teams close more deals, shorten sales cycles, and operate more efficiently — all with minimal rep involvement.\r\n\r\nWe built our own meeting software from the ground up with a real-time AI agent at its core:\r\n- Surfaces and personalizes relevant sales collateral using live conversation intelligence\r\n- Keeps deals moving by answering buyer questions when reps are offline\r\n- Replaces decks, screen shares, and long email threads with a single interactive workspace — called a Lyra. It hosts your meetings, onboarding, and integrates tools like DocuSign to give buyers a seamless path from first call to signed contract\r\n\r\nHundreds of sales calls are already hosted on Lyra, including several YC companies. We hit $100K ARR in our first two weeks.\r\n\r\nWe’re rethinking the sales stack from first call to signed contract.",
-    "one_liner": "AI-native meeting rooms for revenue teams",
+    "one_liner": "AI-Native Zoom For Revenue Teams",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "Unspecified",
@@ -44480,8 +44480,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67f8fa73a583138ab0060e99d6a10e8341a0d040.png",
     "website": "https://www.mindfort.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "MindFort is building fully autonomous AI agents and models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it.\r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
-    "one_liner": "Fully autonomous security agents: find, validate, patch.",
+    "long_description": "MindFort is building fully autonomous AI agents powered by their in-house models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it.\r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
+    "one_liner": "Fully autonomous offensive security agents & models",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -44514,6 +44514,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mindfort",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/mindfort.json"
+  },
+  {
+    "id": 30528,
+    "name": "Probo",
+    "slug": "probo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0e14dfc874747053fa6732daf6dbf9f9ed3e18d.png",
+    "website": "https://www.getprobo.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Probo acts like your compliance team. You tell us how you work, and Probo does the rest:\r\n1. Set the right requirements - not overkill\r\n2. Handle docs, risks, controls, evidence\r\n3. Run the audit\r\n4. Keep everything up to date afterward\r\nFounders shouldn’t lose weeks to this stuff. Even one day is too much.\r\n",
+    "one_liner": "We make you SOC 2 (and more) compliant so you focus on your business.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1747978784,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Compliance",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/probo",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/probo.json"
   },
   {
     "id": 30529,
@@ -44733,7 +44777,9 @@
     "id": 30548,
     "name": "Theorem",
     "slug": "theorem-2",
-    "former_names": [],
+    "former_names": [
+      "Aletheia"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4462cecf7e86ccbeaa67750a89b934e1dcf2fa9f.png",
     "website": "https://theoremlabs.com/",
     "all_locations": "San Francisco, CA, USA",
@@ -44778,18 +44824,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e607d570b51d09a9439774963188f42e98627927.png",
     "website": "https://airweave.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Airweave is an open-source tool that lets agents search any application. It supports MCP, RBAC on data, and seamlessly connects any app, database, URL, or API.",
+    "long_description": "Airweave is an open-source tool that lets agents search any application. It connects to productivity tools, databases, or document stores and transforms their contents into searchable knowledge bases for agents.",
     "one_liner": "Open-Source Tool That Lets Agents Search Any App",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1744594621,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Open Source",
       "Search",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44896,5 +44942,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/docket",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/docket.json"
+  },
+  {
+    "id": 30565,
+    "name": "Cohesive",
+    "slug": "cohesive",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/523af60648199cf36ae9d89c5bc46aa1a1dd11e5.png",
+    "website": "https://getcohesiveai.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Cohesive is the agentic CRM for blue collar businesses like janitorial, pressure washing, landscaping, HVAC, and pest control businesses. Cohesive fully automates sales and marketing outreach to local businesses and property owners in the service area, helping local service businesses grow even while servicing clients in the field.",
+    "one_liner": "The agentic CRM for blue collar businesses",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1747185757,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "Sales",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cohesive",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/cohesive.json"
   }
 ]

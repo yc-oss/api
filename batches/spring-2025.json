@@ -965,14 +965,19 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd9b3daaa2f20d4718e902822df607c1d01c5514.png",
     "website": "https://synthiolabs.com/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Pharma spends billions on medical and sales teams. Yet many physicians still don’t get the timely, relevant medical insight they need.\r\n\r\nSo we built an AI Medical Expert for Pharma GTM teams. Our Medical grade Voice AI Platform delivers compliant, science-first engagement to physicians and patients\r\n\r\nIt’s like adding 100 medical reps to your team, without the headcount.\r\n\r\nOur vision? To reimagine how pharma engages its most important stakeholders — patients and HCPs\r\n\r\nWe’re ex-McKinsey, ex-ZS Life Sciences experts and AI Researchers from AWS. We have worked with 10 of the top 20 pharma companies and bring over a decade of experience in Life Sciences. Our advisors have 30+ years of leadership experience in Pharma.\r\n\r\nWe're synthiolabs.com. Reach out to learn more! ",
     "one_liner": "World's first AI Medical Rep for Pharma GTM",
-    "team_size": 0,
+    "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "B2B",
     "launched_at": 1744430433,
-    "tags": [],
+    "tags": [
+      "Biotech",
+      "Healthcare",
+      "Enterprise",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -983,7 +988,8 @@
       "Healthcare"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1317,6 +1323,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/chonkie.json"
   },
   {
+    "id": 30432,
+    "name": "HelixDB",
+    "slug": "helixdb",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc8c59d06bd11958f3cd88c35b928397093f7d8.png",
+    "website": "https://helix-db.com",
+    "all_locations": "",
+    "long_description": "HelixDB is a graph-vector database that brings structure to vector data, enabling developers to easily build Graph/Hybrid RAG applications. While vector databases have become essential for AI, they fall short when retrieval requires explicit properties or relationships. Existing solutions either bolt vector functionality onto legacy graph databases with poor performance, or force developers to integrate separate systems through middleware, creating overhead and latency bottlenecks.\r\n\r\nBuilt from scratch in Rust, HelixDB leverages world-class expertise in low-level systems programming and algorithms to achieve extreme performance optimizations impossible with existing architectures. This deep technical approach stands in contrast to the LLM-dependent development prevalent in the industry, requiring specialized knowledge in areas where AI tools currently fall short.\r\n\r\nThe timing is optimal: graph databases are finally gaining recognition after two decades of underutilization, while vector databases have proven their AI value but revealed structural limitations. We emerge as the market awakens to hybrid solutions, positioned early enough to capture the opportunity but not so early as to lack ready adopters.",
+    "one_liner": "A graph-vector database for building RAG and AI.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1747978820,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure",
+      "AI",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/helixdb",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/helixdb.json"
+  },
+  {
     "id": 30433,
     "name": "The Robot Learning Company",
     "slug": "the-robot-learning-company",
@@ -1483,6 +1531,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kaelio",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/kaelio.json"
+  },
+  {
+    "id": 30439,
+    "name": "Clarm",
+    "slug": "clarm",
+    "former_names": [
+      "Dialin - Dialogue Insights",
+      "dialin",
+      "dialin ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a20bfc6fd0067cd630d43fa83552c610e2a0c0d2.png",
+    "website": "https://www.clarm.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clarm is your AI deep research agent builder for high-trust environments. Our platform connects across 40+ enterprise integrations - CRMs, email, knowledge bases - and lets you build precise, repeatable workflows that transform how teams work without Compliance and Legal headaches.\r\n\r\nHere's what Clarm is powering today:\r\n\r\n- a law firm to find relevant information within the thousands of emails and documents\r\n- a bank to personalize communication and understand investment preferences on the level of each human\r\n- an asset manager to evaluate proxy voting preferences across 90,000 shareholder meetings\r\n- a luxury goods retailer to increase client response rate from 5% to 50% through deep personalization (as compared to standard Hubspot-generated marketing copy)\r\n- a top open source startup to increase engagement with their Github repo and knowledge base\r\n- a services firm to instantly answer '000s of client support questions, driving up engagement and turning curious prospects into committed customers",
+    "one_liner": "Zero hallucination AI Deep Research agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1747978633,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Finance",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clarm",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/clarm.json"
   },
   {
     "id": 30440,
@@ -1984,7 +2079,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f768f164c4dd92121e70abbd42713af3118834a.png",
     "website": "https://better-auth.com/",
     "all_locations": "Remote",
-    "long_description": "Better Auth is a framework-agnostic authentication solution for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. We’re obsessed with making it ridiculously easy to roll your own auth, so you never have a reason not to. It’s loved by developers and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer for the things that aren’t practical to ship as a library like user management and analytics, bot and fraud detection, transactional email and SMS, global session storage, and tailored support and advisory for your specific Better Auth setup.",
+    "long_description": "Better Auth is a compressive authentication framework for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. It’s loved by developers all over the world and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer to help you scale with user management and analytics, bot and fraud detection, transactional email and SMS, global session storage and more.",
     "one_liner": "The most comprehensive authentication framework for TypeScript.",
     "team_size": 2,
     "industry": "B2B",
@@ -2397,11 +2492,11 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1747086610,
     "tags": [
+      "Artificial Intelligence",
       "Biotech",
       "Nanotechnology",
-      "Advanced Materials",
-      "Semiconductors",
-      "AI"
+      "Data Engineering",
+      "Advanced Materials"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2646,7 +2741,7 @@
     "website": "https://runrl.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "RunRL improves LLMs and AI agents with reinforcement learning. Do you have a model that needs to get better at a certain task? Are you tired of messing around with prompts? Do you spend a lot of money on observability, and wish that all this data could let your model self-improve? Well, head on over to RunRL.com, and see what we have to offer! If you give us a model, a prompt, and a reward, we’ll make your model’s reward go up.",
-    "one_liner": "Run RL on any LLM, with any reward function. Now with agent support!",
+    "one_liner": "Reinforcement learning as a service",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -2734,9 +2829,9 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1747841477,
     "tags": [
+      "Artificial Intelligence",
       "Sales",
-      "Sales Enablement",
-      "AI"
+      "Sales Enablement"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2975,7 +3070,7 @@
     "website": "https://lyra.so/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Lyra, we believe B2B sales hasn’t meaningfully evolved in decades — until now. The next industrial revolution is here, and we’re building the platform to power it.\r\n\r\nModern buyers want less talk, faster decisions, and seamless experiences. Lyra helps sales teams close more deals, shorten sales cycles, and operate more efficiently — all with minimal rep involvement.\r\n\r\nWe built our own meeting software from the ground up with a real-time AI agent at its core:\r\n- Surfaces and personalizes relevant sales collateral using live conversation intelligence\r\n- Keeps deals moving by answering buyer questions when reps are offline\r\n- Replaces decks, screen shares, and long email threads with a single interactive workspace — called a Lyra. It hosts your meetings, onboarding, and integrates tools like DocuSign to give buyers a seamless path from first call to signed contract\r\n\r\nHundreds of sales calls are already hosted on Lyra, including several YC companies. We hit $100K ARR in our first two weeks.\r\n\r\nWe’re rethinking the sales stack from first call to signed contract.",
-    "one_liner": "AI-native meeting rooms for revenue teams",
+    "one_liner": "AI-Native Zoom For Revenue Teams",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "Unspecified",
@@ -3943,16 +4038,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0bd87983ace16e9a440ec6fe901ff569c1bb997.png",
     "website": "https://chrt.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "chrt is a platform for Time-Critical Logistics. We enable businesses to deliver their most critical items same-day.\r\n\r\nTime-Critical Logistics is a $30B market growing at a 20% CAGR driven by growth in American healthcare and manufacturing.\r\n\r\nShippers that place time-critical orders with chrt are enterprises who have urgent items they need to deliver ASAP. These orders are critical in nature and often require white glove service -- think therapeutic treatments for healthcare providers or specialized equipment for manufacturers. \r\n\r\nWe have a marketplace of professional couriers who pick up and deliver these orders. We build the software our couriers use to handle these shipments, including a driver app and fleet management tools. This gives us full control of the shipment and allows us to provide our shippers with end-to-end tracking. It also allows us to intervene early if we notice something is going wrong.\r\n\r\nWe’re software engineers that became friends years ago at McKinsey. Kyle is an expert in Time-Critical Logistics, having led strategy at a leading startup in the space. Aaron is an expert at designing and implementing AI systems to handle complex coordination. We were shipping code together on nights and weekends for years before chrt; now we’re also shipping freight.",
+    "long_description": "chrt is a platform for Time-Critical Logistics. We enable businesses to deliver their most critical items same-day.\r\n\r\nTime-Critical Logistics is a $30B market growing at a 20% CAGR driven by growth in American healthcare and manufacturing.\r\n\r\nBusinesses that place time-critical orders are enterprises who have urgent items they need to deliver ASAP. These orders are critical in nature and often require white glove service -- think therapeutic treatments for healthcare providers or specialized equipment for manufacturers. \r\n\r\nchrt provides a marketplace of professional couriers who pick up and deliver these orders. We build the software these couriers use to handle the shipments, including a driver app and fleet management tools. This gives us full control of the shipment and allows us to provide shippers with end-to-end tracking. It also allows us to intervene early if we notice something is going wrong.\r\n\r\nWe’re software engineers that became friends years ago at McKinsey. Kyle is an expert in Time-Critical Logistics, having led strategy at a leading startup in the space. Aaron is an expert at designing and implementing AI systems to handle complex coordination. We were shipping code together on nights and weekends for years before chrt; now we’re also shipping freight.",
     "one_liner": "chrt is a platform for Time-Critical Logistics",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1747152745,
     "tags": [
+      "Artificial Intelligence",
       "Digital Freight Brokerage",
-      "Marketplace",
-      "AI"
+      "Marketplace"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3984,8 +4079,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67f8fa73a583138ab0060e99d6a10e8341a0d040.png",
     "website": "https://www.mindfort.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "MindFort is building fully autonomous AI agents and models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it.\r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
-    "one_liner": "Fully autonomous security agents: find, validate, patch.",
+    "long_description": "MindFort is building fully autonomous AI agents powered by their in-house models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it.\r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
+    "one_liner": "Fully autonomous offensive security agents & models",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -4018,6 +4113,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mindfort",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/mindfort.json"
+  },
+  {
+    "id": 30528,
+    "name": "Probo",
+    "slug": "probo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0e14dfc874747053fa6732daf6dbf9f9ed3e18d.png",
+    "website": "https://www.getprobo.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Probo acts like your compliance team. You tell us how you work, and Probo does the rest:\r\n1. Set the right requirements - not overkill\r\n2. Handle docs, risks, controls, evidence\r\n3. Run the audit\r\n4. Keep everything up to date afterward\r\nFounders shouldn’t lose weeks to this stuff. Even one day is too much.\r\n",
+    "one_liner": "We make you SOC 2 (and more) compliant so you focus on your business.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1747978784,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Compliance",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/probo",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/probo.json"
   },
   {
     "id": 30529,
@@ -4656,7 +4795,9 @@
     "id": 30548,
     "name": "Theorem",
     "slug": "theorem-2",
-    "former_names": [],
+    "former_names": [
+      "Aletheia"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4462cecf7e86ccbeaa67750a89b934e1dcf2fa9f.png",
     "website": "https://theoremlabs.com/",
     "all_locations": "San Francisco, CA, USA",
@@ -4701,18 +4842,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e607d570b51d09a9439774963188f42e98627927.png",
     "website": "https://airweave.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Airweave is an open-source tool that lets agents search any application. It supports MCP, RBAC on data, and seamlessly connects any app, database, URL, or API.",
+    "long_description": "Airweave is an open-source tool that lets agents search any application. It connects to productivity tools, databases, or document stores and transforms their contents into searchable knowledge bases for agents.",
     "one_liner": "Open-Source Tool That Lets Agents Search Any App",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1744594621,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Open Source",
       "Search",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4915,7 +5056,7 @@
     "website": "https://aegishealth.us/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Aegis is the all-in-one platform that helps healthcare providers recover lost revenue by automating insurance denial appeals—from intake to resolution. Built for billing teams, healthcare providers and hospitals.",
-    "one_liner": "Faster Revenue Recovery for Healthcare Providers",
+    "one_liner": "We Help Healthcare Providers fight Health Insurance Denials",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -5118,7 +5259,7 @@
     "name": "Cohesive",
     "slug": "cohesive",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ae1ace3d66e110a8df626460cadb105a22556d0.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/523af60648199cf36ae9d89c5bc46aa1a1dd11e5.png",
     "website": "https://getcohesiveai.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Cohesive is the agentic CRM for blue collar businesses like janitorial, pressure washing, landscaping, HVAC, and pest control businesses. Cohesive fully automates sales and marketing outreach to local businesses and property owners in the service area, helping local service businesses grow even while servicing clients in the field.",
@@ -5128,11 +5269,11 @@
     "subindustry": "Unspecified",
     "launched_at": 1747185757,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
+      "B2B",
       "Sales",
-      "CRM"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
