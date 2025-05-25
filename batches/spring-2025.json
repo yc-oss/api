@@ -774,9 +774,9 @@
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1744318663,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1329,7 +1329,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc8c59d06bd11958f3cd88c35b928397093f7d8.png",
     "website": "https://helix-db.com",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "HelixDB is a graph-vector database that brings structure to vector data, enabling developers to easily build Graph/Hybrid RAG applications. While vector databases have become essential for AI, they fall short when retrieval requires explicit properties or relationships. Existing solutions either bolt vector functionality onto legacy graph databases with poor performance, or force developers to integrate separate systems through middleware, creating overhead and latency bottlenecks.\r\n\r\nBuilt from scratch in Rust, HelixDB leverages world-class expertise in low-level systems programming and algorithms to achieve extreme performance optimizations impossible with existing architectures. This deep technical approach stands in contrast to the LLM-dependent development prevalent in the industry, requiring specialized knowledge in areas where AI tools currently fall short.\r\n\r\nThe timing is optimal: graph databases are finally gaining recognition after two decades of underutilization, while vector databases have proven their AI value but revealed structural limitations. We emerge as the market awakens to hybrid solutions, positioned early enough to capture the opportunity but not so early as to lack ready adopters.",
     "one_liner": "A graph-vector database for building RAG and AI.",
     "team_size": 2,
@@ -1354,7 +1354,10 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1531,6 +1534,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kaelio",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/kaelio.json"
+  },
+  {
+    "id": 30438,
+    "name": "Beluga Labs",
+    "slug": "beluga-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50d42478a34c0d5bf559cd697f4f613bc54bad1d.png",
+    "website": "https://www.belugalabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The rapidly growing creator economy ($250B+) consists of millions of solo entrepreneurs still managing complex business finances with spreadsheets and a patchwork of disconnected tools. They face volatile multi-source income, unique business expenses, and daunting U.S. tax obligations: leading to significant stress, lost time, and missed financial opportunities.\r\n\r\nBeluga Labs is building the financial operating system for these modern solopreneurs. Our platform starts with intelligent bookkeeping: we connect all their financial accounts, use AI to automatically categorize income and expenses, and assess their potential tax deductibility, giving creators a clear picture of their business finances and tax preparedness. This core solution, already actively used for expense management and tax Q&A, is the first step. We will rapidly expand to automate quarterly tax filing and payments, then provide integrated tools for S-corp formation and management, payroll, and benefits: truly becoming the 'Rippling for content creators.' Our success means creators save more money, reduce administrative burdens, and can confidently focus on their craft and growth within the creator economy.",
+    "one_liner": "Rippling for content creators",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1748129784,
+    "tags": [
+      "Artificial Intelligence",
+      "Creator Economy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/beluga-labs",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/beluga-labs.json"
   },
   {
     "id": 30439,
@@ -2080,7 +2124,7 @@
     "website": "https://better-auth.com/",
     "all_locations": "Remote",
     "long_description": "Better Auth is a compressive authentication framework for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. It’s loved by developers all over the world and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer to help you scale with user management and analytics, bot and fraud detection, transactional email and SMS, global session storage and more.",
-    "one_liner": "The most comprehensive authentication framework for TypeScript.",
+    "one_liner": "The fastest growing auth library with 14k+ stars and 1.3mil downloads",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -2120,16 +2164,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f1c0c72a7f623d3b80ce3fbde35d6d196e31e5c.png",
     "website": "https://parsewise.ai",
     "all_locations": "",
-    "long_description": "Turn complex documents into validation information that business experts can trust and verify. Parsewise saves enterprises hours each day by automating human data tasks in analytics, benchmarking, and reporting workflows.",
+    "long_description": "Turn complex documents into validated information that business experts can trust and verify. Parsewise saves enterprises hours each day by automating human data tasks in analytics, benchmarking, and reporting workflows.",
     "one_liner": "Extract Validated Data from Complex Documents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1745096268,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2310,6 +2354,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jeevy-fabrication",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/jeevy-fabrication.json"
+  },
+  {
+    "id": 30459,
+    "name": "Chiron",
+    "slug": "chiron",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/413bccd180b2d3b183e43292dcbda31f7c7beaf3.png",
+    "website": "https://projectchiron.org",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Chiron is an iPad app that understands math as it’s written - like Grammarly for algebra. We’re both Oxford math grads, have tutored for a decade, and we’re creating the future of learning which will be entirely 1:1.",
+    "one_liner": "Grammarly for math",
+    "team_size": 2,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1748069202,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Developer Tools",
+      "Education",
+      "Edtech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chiron",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/chiron.json"
   },
   {
     "id": 30461,
@@ -3279,16 +3364,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70ee4a82d8c7b2f47ddbde81a8a5fdf634227e73.png",
     "website": "https://www.humanbehavior.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Human Behavior uses vision models to watch all user web sessions so you know exactly how users use every part of your product. We sell to product teams at high growth startups like Delve (W24), and Context.",
+    "long_description": "Human Behavior uses vision models to watch all user web sessions so you know exactly how users use every part of your product. ",
     "one_liner": "We reveal why users stay, leave, or pay",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1744779271,
     "tags": [
+      "Artificial Intelligence",
       "Customer Success",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3492,7 +3577,7 @@
     "website": "https://www.klavis.ai/",
     "all_locations": "",
     "long_description": "Klavis AI is open source MCP integrations for AI Applications. Our API provides hosted, secure MCP servers, eliminating auth management and client-side code.",
-    "one_liner": "Open source MCP Integrations for AI Applications",
+    "one_liner": "Open Source MCP Integrations for AI Applications",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
@@ -4673,18 +4758,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc7b2b59a7a325fcdf566d9120353bab8f1fa91.png",
     "website": "https://wavedash.gg",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Wavedash is a video game platform that automates expensive distribution, research, and development workflows. \r\n\r\nWavedash saves studios time and money, helping them create and distribute better games, faster. ",
-    "one_liner": "Helping game studios rapidly distribute games",
+    "long_description": "Wavedash uses cutting edge browser technology to let gamers play the latest releases with no downloads or installation.\r\n\r\n",
+    "one_liner": "Play the latest games in your browser with no downloads",
     "team_size": 3,
-    "industry": "B2B",
+    "industry": "Consumer",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1744312209,
     "tags": [
-      "Developer Tools",
-      "SaaS",
-      "Workflow Automation",
+      "Artificial Intelligence",
+      "Consumer",
       "Gaming",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4693,8 +4777,8 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Consumer",
+      "Gaming"
     ],
     "regions": [
       "United States of America",
@@ -5062,8 +5146,11 @@
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1745980735,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
-      "Insurance"
+      "Workflow Automation",
+      "Insurance",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5211,6 +5298,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sava-robotics",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/sava-robotics.json"
+  },
+  {
+    "id": 30561,
+    "name": "Daxa",
+    "slug": "daxa",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47dda084fea127470ef42cc30ad149ade9ed4f32.png",
+    "website": "https://www.getdaxa.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Daxa watches thousands of your session replays and listens to your customer feedback channels in real time — helping you pinpoint application issues before users churn and plan features that maximize conversion. Oftentimes, issues in your product don't make it to a support ticket until dozens of users have experienced it first. Daxa helps you combat this problem by watching users interact directly with your product and notifying you in real time via Slack or email if any issues or interesting phenomenon arise (dropoff on certain pages, features not performing as expected, etc)",
+    "one_liner": "Boost revenue and retention with an AI PM",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1744274885,
+    "tags": [
+      "B2B",
+      "Analytics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/daxa",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/daxa.json"
   },
   {
     "id": 30562,
