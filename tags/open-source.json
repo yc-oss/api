@@ -5623,7 +5623,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/85992f888276408373d1f33710dd92fd60ae187a.png",
     "website": "https://tesseral.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tesseral is the open-source auth infrastructure for B2B SaaS.\r\n\r\nWe provide everything a B2B SaaS company needs to power an enterprise-ready login experience, including:\r\n* A beautiful login page that requires no code to configure\r\n* Authentication methods from 'Login with Google' to SAML SSO\r\n* Enterprise directory sync (SCIM)\r\n* Transactional emails\r\n* Multifactor authentication (MFA) with passkeys and authenticator apps\r\n* Self-service settings pages for your customers\r\n* User, organization, and session management",
+    "long_description": "Tesseral is the open-source auth infrastructure for B2B SaaS.\r\n\r\nWe provide everything a B2B SaaS company needs to power an enterprise-ready login experience, including:\r\n* A beautiful login page that requires no code to configure\r\n* Support for B2B multitenancy\r\n* User impersonation\r\n* Self-service config for your customers\r\n* Magic links\r\n* Social login\r\n* Enterprise single sign-on (SAML SSO)\r\n* Enterprise directory sync (SCIM)\r\n* Role-based access control (RBAC)\r\n* Multifactor authentication (MFA)\r\n* Passkeys (WebAuthn)\r\n* Authenticator apps (TOTPs)\r\n* API key management\r\n* User invitations\r\n* Webhooks\r\n\r\nYou can learn more by reading our docs at https://tesseral.com/docs or by checking out our GitHub at https://github.com/tesseral-labs/tesseral.",
     "one_liner": "The open-source auth infrastructure for B2B SaaS",
     "team_size": 5,
     "industry": "B2B",
@@ -6413,9 +6413,9 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1736799545,
     "tags": [
+      "Artificial Intelligence",
       "Security",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6986,48 +6986,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zero",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/zero.json"
-  },
-  {
-    "id": 30549,
-    "name": "Airweave",
-    "slug": "airweave",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e607d570b51d09a9439774963188f42e98627927.png",
-    "website": "https://airweave.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Airweave is an open-source tool that lets agents search any application. It connects to productivity tools, databases, or document stores and transforms their contents into searchable knowledge bases for agents.",
-    "one_liner": "Open-Source Tool That Lets Agents Search Any App",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1744594621,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Open Source",
-      "Search",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/airweave",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/airweave.json"
   }
 ]

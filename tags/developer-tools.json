@@ -8617,51 +8617,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/dailybot.json"
   },
   {
-    "id": 24191,
-    "name": "Secoda",
-    "slug": "secoda",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b049a52be34bb701fef7828f1cea14c3624e5f6.png",
-    "website": "https://secoda.co",
-    "all_locations": "Toronto, ON, Canada",
-    "long_description": "Secoda helps data teams deliver trustworthy data for AI and analytics. With Secoda’s search-first approach, your data catalogue won’t collect dust—easily search across all columns, tables, dashboards, events, and metrics. Ask any question and get fast, contextual answers powered by AI.\r\n\r\nBuilt to empower teams, Secoda combines data cataloging, governance, and observability into one seamless platform that’s accessible, intuitive, and even self-hosted if needed. Whether you need a data dictionary, column-level lineage, or AI-powered insights, Secoda makes discovering, understanding, and trusting your data effortless for every employee.",
-    "one_liner": "The second brain for your data team",
-    "team_size": 27,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1626792128,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Analytics",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Canada",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/secoda",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/secoda.json"
-  },
-  {
     "id": 24205,
     "name": "Jovian",
     "slug": "jovian",
@@ -11063,7 +11018,7 @@
       "Crypto / Web3"
     ],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -16621,7 +16576,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/85992f888276408373d1f33710dd92fd60ae187a.png",
     "website": "https://tesseral.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tesseral is the open-source auth infrastructure for B2B SaaS.\r\n\r\nWe provide everything a B2B SaaS company needs to power an enterprise-ready login experience, including:\r\n* A beautiful login page that requires no code to configure\r\n* Authentication methods from 'Login with Google' to SAML SSO\r\n* Enterprise directory sync (SCIM)\r\n* Transactional emails\r\n* Multifactor authentication (MFA) with passkeys and authenticator apps\r\n* Self-service settings pages for your customers\r\n* User, organization, and session management",
+    "long_description": "Tesseral is the open-source auth infrastructure for B2B SaaS.\r\n\r\nWe provide everything a B2B SaaS company needs to power an enterprise-ready login experience, including:\r\n* A beautiful login page that requires no code to configure\r\n* Support for B2B multitenancy\r\n* User impersonation\r\n* Self-service config for your customers\r\n* Magic links\r\n* Social login\r\n* Enterprise single sign-on (SAML SSO)\r\n* Enterprise directory sync (SCIM)\r\n* Role-based access control (RBAC)\r\n* Multifactor authentication (MFA)\r\n* Passkeys (WebAuthn)\r\n* Authenticator apps (TOTPs)\r\n* API key management\r\n* User invitations\r\n* Webhooks\r\n\r\nYou can learn more by reading our docs at https://tesseral.com/docs or by checking out our GitHub at https://github.com/tesseral-labs/tesseral.",
     "one_liner": "The open-source auth infrastructure for B2B SaaS",
     "team_size": 5,
     "industry": "B2B",
@@ -21286,6 +21241,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cubic",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/cubic.json"
+  },
+  {
+    "id": 30412,
+    "name": "Bloom",
+    "slug": "bloom-4",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d5ae8ca4abb2f537b07e827d413c374a63abebb.png",
+    "website": "https://bloom.diy/",
+    "all_locations": "Zürich, ZH, Switzerland",
+    "long_description": "Bloom lets you vibe code cross-platform apps and test them on your phone natively in seconds. Unlike other vibe code tools, Bloom deploys a backend for you, so you can build functional MVPs and personal apps, not just toys.",
+    "one_liner": "Build and share mobile apps in seconds",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1748292751,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Design Tools",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Switzerland",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bloom-4",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/bloom-4.json"
   },
   {
     "id": 30420,
