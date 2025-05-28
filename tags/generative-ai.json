@@ -7280,7 +7280,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -9648,51 +9648,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/saldor.json"
   },
   {
-    "id": 29851,
-    "name": "Diode Computers, Inc.",
-    "slug": "diode-computers-inc",
-    "former_names": [
-      "Schematx",
-      "Diode, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1e7f9d9a50296d38458d5ad7a76c87823682bc2.png",
-    "website": "https://diode.computer",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Diode automates hardware design, like hiring a senior electronic engineer for your projects. We use generative AI models to create and manufacture custom printed circuit boards in minutes, not weeks.",
-    "one_liner": "Automate circuit board design using AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1722536101,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "Manufacturing",
-      "Electronics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/diode-computers-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/diode-computers-inc.json"
-  },
-  {
     "id": 29858,
     "name": "Vera Health",
     "slug": "vera-health",
@@ -10126,18 +10081,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6841cc02f948f6063ec7e9690d52d98b446b92c.png",
     "website": "https://circlemind.co",
     "all_locations": "",
-    "long_description": "Circlemind is developing the next-generation of memory systems for AI that surpasses current Retrieval Augmented Generation (RAG) methods. Our technology based on Knowledge Graphs and PageRank, allows for efficient, interpretable, and context-aware reasoning and retrieval.",
-    "one_liner": "Circlemind is an open-source RAG using knowledge graphs and PageRank.",
-    "team_size": 3,
+    "long_description": "We make general AI agents that can complete tasks independently.\r\n\r\nOur first general agent is called Zero. It can complete tasks across internal tools and 300+ apps using MCP servers, such as Apollo, Slack, Gmail, Notion, etc. It can take over many self-contained tasks, giving your team longer legs to run faster. It runs entirely in the cloud. This means that you can have swarms of agents completing hundreds of tasks while you’re focusing on what really matters.\r\n\r\nYou can connect Zero to the applications you use or your custom MCP servers, and then just give it any task and watch it work for you. Zero is engineered to think deeply, execute complex tasks, and even maintain a personalized memory of your interactions.\r\n\r\nA few notable features:\r\n- Built-in autonomy levels, permissions, guardrails, and human approvals\r\n- Custom instructions to teach Zero how to do things your way\r\n- Automations e.g. run a task every day or whenever I receive an email\r\n- Connect to your custom MCPs\r\n- Connect to 300+ apps with one-click integrations\r\n- Natively integrates deep research and browser use",
+    "one_liner": "Circlemind makes general AI agents",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1729125196,
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
       "Developer Tools",
       "Generative AI",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11172,23 +11127,23 @@
   },
   {
     "id": 30351,
-    "name": "Dex",
-    "slug": "dex-2",
+    "name": "ThirdLayer",
+    "slug": "thirdlayer",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e588b96acab2b06d3a6d0c0dc1df4ed1a4bf0d80.png",
-    "website": "https://joindex.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b8230cea80b14be0026f198edeff9c8f351272c.png",
+    "website": "https://thirdlayer.inc",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dex is the AI copilot built for the browser.\r\n\r\nMost web agents are optimized for \"set-and-forget\" tasks—you hand them off and check back later. But what about the workflows you'd want to drive? Jumping between tabs, browsing sites, filling forms, and searching across apps—these experiences demand instant, context-aware models that work with you, not just for you.\r\n\r\nDex turns your browser into an intelligent workspace that understands your intent. With simple voice and text, it enhances familiar interfaces, automates mundane actions, and helps 10x your productivity on the browser.\r\n\r\nNo more slow handoffs. No more context-switching. Just AI that moves at your speed.",
-    "one_liner": "The AI Browser Copilot",
+    "long_description": "ThirdLayer is an applied research and product lab building the next interface for human–AI collaboration.\r\n\r\nOur first product is Dex, an AI copilot for the browser. Think Cursor for knowledge work, optimized for speed and embedded directly where you work.\r\n\r\nMost web agents are built for set-and-forget tasks. But real work is fluid and messy—spread across tabs, tools, and evolving decisions. Dex transforms your browser into an intelligent, multimodal workspace that understands your intent through voice, text, and action. It enhances familiar interfaces, automates tedious steps, and removes the friction of handoffs.\r\n\r\nBeneath the surface, Dex is more than a browser agent — it’s a foundation for:\r\n\r\n- Long-term, cross-modal memory grounded in real workflows\r\n\r\n- A new interaction layer to replace static UI with a collaborative canvas \r\n\r\n- Personalization: understanding how individuals approach tasks and navigate software\r\n\r\nWe're building the infrastructure for adaptive, intent-aware systems that work the way you do.\r\n\r\n",
+    "one_liner": "Building Dex, the AI Browser Copilot",
     "team_size": 2,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1737217789,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Productivity",
       "Consumer Products",
-      "Automation",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -11198,7 +11153,7 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -11209,8 +11164,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dex-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/dex-2.json"
+    "url": "https://www.ycombinator.com/companies/thirdlayer",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/thirdlayer.json"
   },
   {
     "id": 30355,

@@ -8794,7 +8794,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -12291,7 +12291,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -12397,7 +12397,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37312e12dc6f12e2470a531052ec0e30ee697a75.png",
     "website": "https://almondbot.com/",
     "all_locations": "",
-    "long_description": "Almond is building a vision-first AI robot for high-mix pick & place automation for manufacturers & warehouses. We provide customers a fully-integrated robot-as-a-service.",
+    "long_description": "Almond is building a vision-based AI robot for high-mix pick & place automation. We provide a fully-integrated robot-as-a-service that helps manufacturers save money and increase their revenue.",
     "one_liner": "AI robots for high-mix pick & place automation",
     "team_size": 2,
     "industry": "Industrials",
@@ -12435,8 +12435,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe9d24b61e68d5f71ffc72977fe38d21eece7328.png",
     "website": "https://www.robot-learning.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The Robot Learning Company empowers engineers to build their own intelligent robot applications, no matter their skillset or experience.\r\n\r\nAfter building our own applications, we learned how time-consuming it can be to develop, train, and deploy AI-powered robot control. We want to remove any barriers and give every organization the tools they need to successfully automate physical tasks in-house.",
-    "one_liner": "API to the Physical World",
+    "long_description": "TRLC allows any software engineer to build their own intelligent robot applications.\r\n\r\nAfter building our own applications, we learned how time-consuming it can be to develop, train, and deploy AI-powered robot control. We want to remove any barriers and give every organization the tools they need to successfully automate physical tasks in-house.",
+    "one_liner": "Software Platform for AI-powered Robotics",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -12551,6 +12551,45 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/habit.json"
   },
   {
+    "id": 30508,
+    "name": "Sygaldry Technologies",
+    "slug": "sygaldry-technologies",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d02ac12a4120fdef0e7944b90606a7333b87bb8f.png",
+    "website": "https://www.sygaldry.com",
+    "all_locations": "",
+    "long_description": "We’re building quantum-accelerated AI servers so organizations building AI can exponentially speed up training and inference. And we’re making tools for AI researchers to integrate quantum capabilities into AI models and workflows. \r\n",
+    "one_liner": "quantum-accelerated AI hardware.",
+    "team_size": null,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1748361107,
+    "tags": [
+      "Hard Tech",
+      "Quantum Computing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sygaldry-technologies",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/sygaldry-technologies.json"
+  },
+  {
     "id": 30512,
     "name": "MorphoAI",
     "slug": "morphoai",
@@ -12594,16 +12633,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b68af887ba539134268ac073e1a367094447c416.png",
     "website": "https://rimba.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rimba is a vertical SaaS platform that ingests operational data (ERP integrations, SCADA, PDFs, meter logs) and uses AI to scrub, reconcile, and generate audit-ready reports for regulations like LCFS, RFS, air permits, and prevailing-wage filings. Core value props: avoidance of multi-million-dollar fines, detection of data inconsistencies/mistakes early, and 80 % cut in prep time. Integrations with legacy IT systems create one-click exports for state/federal portals and auditors. Revenue model: annual enterprise subscriptions priced per facility.",
+    "long_description": "Rimba is building the AI-native operating system for industrial compliance—replacing legacy giants like SAP. As industrial companies face mounting regulatory complexity, legacy ERP and compliance systems fail to keep up. \r\nWe're building a vertical platform that ingests operational data (ERP integrations, SCADA, PDFs, meter logs) and uses AI to scrub, reconcile, and generate audit-ready reports for regulations like LCFS, RFS, air permits, and prevailing-wage filings. Core value props: avoidance of multi-million-dollar fines, detection of data inconsistencies/mistakes early, and 80% cut in prep time. Integrations with legacy IT systems create one-click exports for state/federal portals and auditors. Revenue model: annual enterprise subscriptions priced per facility.",
     "one_liner": "AI for Energy & Industrial Compliance",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1744344066,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12673,10 +12712,10 @@
   },
   {
     "id": 30560,
-    "name": "SAVA Robotics",
-    "slug": "sava-robotics",
+    "name": "SAVA",
+    "slug": "sava",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cfd3f761dfc0fcff51a0650948673bd04f8702b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9523603e82ccd89706c5464cfbe847431e747a85.png",
     "website": "https://www.savarobotics.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SAVA is rebuilding sheet metal manufacturing from the ground up. From Ford Trucks to NASA Space Shuttles, sheet metal is the cornerstone of American Manufacturing - but the industry runs on 30-year-old technology and a shrinking workforce.\r\n\r\nAlessio and Vedic competed in high school robotics when they met Jakob at Georgia Tech's Robotics labs. After witnessing Vedic's father's 12-hour shifts and visiting manufacturers across the US, they saw an industry trapped by legacy constraints: manual processes, skilled labor shortages, and unused automation.\r\n\r\nSAVA is building a fully integrated manufacturing system that eliminates skilled operators while delivering superior speed, quality, and economics. They're already reducing customer iteration cycles from 5-6 days to 1-2 days for companies like Pave Robotics and Zipline - proving the technology works in real production environments.\r\n\r\nThey're not just replacing human operators with robots - they're building the foundation to replace an entire industry built on outdated technology with modern manufacturing intelligence.",
@@ -12709,7 +12748,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sava-robotics",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/sava-robotics.json"
+    "url": "https://www.ycombinator.com/companies/sava",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/sava.json"
   }
 ]

@@ -472,7 +472,7 @@
     "website": "https://plexe.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Plexe connects to your data sources, discovers relevant fields and builds task-specific ML models from a problem description. Under the hood, it uses a multi-agent system to research and experiment with several model architectures, evaluate, refine and then deploy the best performing model over an API endpoint. Think of it like your own ML helper helping you go from idea to deployed ML models 10x faster.",
-    "one_liner": "Open-source agent that builds ML models from a prompt",
+    "one_liner": "Build predictive ML models from a prompt",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -855,9 +855,9 @@
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1744318663,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1124,6 +1124,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/galen-ai.json"
   },
   {
+    "id": 30423,
+    "name": "neoncoral",
+    "slug": "neoncoral",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36f438e6b8799c126e63ad2bfeefaf55ae7bf179.png",
+    "website": "http://neoncoral.inc",
+    "all_locations": "",
+    "long_description": "Brewing the next AI generated consumer video platform...",
+    "one_liner": "AI consumer social ",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1748371593,
+    "tags": [
+      "Consumer",
+      "Social Media",
+      "Social",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/neoncoral",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/neoncoral.json"
+  },
+  {
     "id": 30425,
     "name": "Auctor",
     "slug": "auctor",
@@ -1336,7 +1376,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37312e12dc6f12e2470a531052ec0e30ee697a75.png",
     "website": "https://almondbot.com/",
     "all_locations": "",
-    "long_description": "Almond is building a vision-first AI robot for high-mix pick & place automation for manufacturers & warehouses. We provide customers a fully-integrated robot-as-a-service.",
+    "long_description": "Almond is building a vision-based AI robot for high-mix pick & place automation. We provide a fully-integrated robot-as-a-service that helps manufacturers save money and increase their revenue.",
     "one_liner": "AI robots for high-mix pick & place automation",
     "team_size": 2,
     "industry": "Industrials",
@@ -1459,8 +1499,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe9d24b61e68d5f71ffc72977fe38d21eece7328.png",
     "website": "https://www.robot-learning.co/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The Robot Learning Company empowers engineers to build their own intelligent robot applications, no matter their skillset or experience.\r\n\r\nAfter building our own applications, we learned how time-consuming it can be to develop, train, and deploy AI-powered robot control. We want to remove any barriers and give every organization the tools they need to successfully automate physical tasks in-house.",
-    "one_liner": "API to the Physical World",
+    "long_description": "TRLC allows any software engineer to build their own intelligent robot applications.\r\n\r\nAfter building our own applications, we learned how time-consuming it can be to develop, train, and deploy AI-powered robot control. We want to remove any barriers and give every organization the tools they need to successfully automate physical tasks in-house.",
+    "one_liner": "Software Platform for AI-powered Robotics",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -1583,17 +1623,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4c744ee428be44ba894f8b477449386dca44045.png",
     "website": "https://kaelio.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kaelio is building an analytics copilot for healthcare organizations.\r\n\r\nWe unify clinical, operational, and financial data for hospitals, health systems, and health plans - giving them an AI copilot that answers business-critical questions, flags operational risks, and recommends actions to improve clinical outcomes and financial performance.\r\n\r\nHealthcare organizations are drowning in dashboards they can't act on - or worse, flying blind because they lack the resources. We change that.",
-    "one_liner": "Analytics copilot for healthcare organizations",
+    "long_description": "Kaelio is building analytics agents for healthcare organizations.\r\n\r\nWe unify clinical, operational, and financial data for hospitals, health systems, and health plans - giving them an AI agent that answers business-critical questions, flags operational risks, and recommends actions to improve clinical outcomes and financial performance.\r\n\r\nHealthcare organizations are drowning in dashboards they can't act on - or worse, flying blind because they lack the resources. We change that.",
+    "one_liner": "AI analytics for healthcare organizations",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "B2B",
     "launched_at": 1747200146,
     "tags": [
+      "Artificial Intelligence",
       "Healthcare",
       "Health Insurance",
-      "Healthcare IT",
-      "AI"
+      "Healthcare IT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1713,16 +1753,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/acf0e0243c9094722ec17b982487d43b3cc95416.png",
     "website": "https://www.simstudio.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sim Studio is the fastest way to build AI agents for production. \r\nOur Figma-like canvas lets teams quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).\r\nWe're open-source with over 3.5k stars on GitHub in the last month.",
+    "long_description": "Sim Studio is the fastest way to build AI agents for production. \r\nOur Figma-like canvas lets teams quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).\r\nWe're open-source with over 3.8k stars on GitHub in the last 2 months.",
     "one_liner": "The UI to build AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1746478234,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1841,15 +1881,15 @@
     "website": "https://vibegrade.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "VibeGrade is the AI that works directly inside Google Classroom, Google Docs, and Canvas to grade papers 10x faster, in the teacher's style. \r\n\r\nTeachers often spend hours of their own time grading hundreds of papers, which can lead to rushed and generic feedback for students. \r\n\r\nUnlike other grading tools that require bulk uploads and remove teachers from the process, VibeGrade allows teachers to use AI to write high-quality, teacher-like feedback—right within the LMS.",
-    "one_liner": "AI that helps teachers grade papers 10x faster in their style.",
+    "one_liner": "AI Teacher Assistant to grade papers 10x faster in their style.",
     "team_size": 2,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1745137302,
     "tags": [
+      "Artificial Intelligence",
       "Education",
-      "Edtech",
-      "AI"
+      "Edtech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1888,7 +1928,10 @@
     "launched_at": 1745969288,
     "tags": [
       "Artificial Intelligence",
-      "SaaS"
+      "SaaS",
+      "Sales",
+      "Supply Chain",
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2286,7 +2329,7 @@
     "website": "https://operative.sh/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Operative provides the runtime intelligence for coding agents to test changes via browser agents. We connect into coding agents such as Cursor, Windsurf, Cline and others via MCP, and support vibe-coders on the web with operative create.",
-    "one_liner": "Browser agent tools to test web apps from within coding agents",
+    "one_liner": "Web application code generation with debugging tools built in",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -2479,6 +2522,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/chiron.json"
   },
   {
+    "id": 30460,
+    "name": "VoiceOS",
+    "slug": "voiceos",
+    "former_names": [
+      "NuPhone"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/448b1a4a715ad6ca5aa526e5a22dfe883b86f132.png",
+    "website": "https://voiceos.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hiring at scale is broken. \r\n\r\nOur solution: Voice AI that instantly interview every applicant — holds lifelike conversations powered by the latest speech-synthesis breakthroughs, and scores each response against specific hiring criteria. Recruiters see only a curated shortlist as VoiceOS fine-tunes the agent’s questions over time. \r\n\r\nThe payoff: days-to-hire instead of weeks, slashed overhead, and a recruiting engine that scales as fast as the enterprise — we’re poised to make it the new global standard for conversational hiring.",
+    "one_liner": "Voice AI for Enterprise Hiring",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1748319646,
+    "tags": [
+      "AIOps",
+      "Human Resources",
+      "Recruiting",
+      "Enterprise",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/voiceos",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/voiceos.json"
+  },
+  {
     "id": 30461,
     "name": "Combinely",
     "slug": "combinely",
@@ -2643,6 +2731,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sixtyfour",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/sixtyfour.json"
+  },
+  {
+    "id": 30465,
+    "name": "Photonium",
+    "slug": "photonium",
+    "former_names": [
+      "PhotonIQ"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ff2fd0b8e2a6e3d9320055214a0e22da17a8b8e.png",
+    "website": "https://www.photoniumoptics.com/",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "Photonium is building an end-to-end, AI-powered platform for optical design automation. We handle the full design workflow—from optimization and verification to sourcing—for industries including quantum, biomedical imaging, LiDAR for autonomous vehicles and defense, and metrology.",
+    "one_liner": "AI-driven optical design automation",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1748388578,
+    "tags": [
+      "Hard Tech",
+      "Lidar",
+      "Quantum Computing",
+      "Semiconductors",
+      "Biotechnology"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/photonium",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/photonium.json"
   },
   {
     "id": 30466,
@@ -3112,8 +3245,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb20e1f29c5b7138851e75459877c74ca0beccf7.png",
     "website": "https://www.flotthq.com",
     "all_locations": "",
-    "long_description": "Flott HQ is an all-in-one fleet operations platform that helps transport, logistics and field service teams boost profitability with AI-powered planning, tracking, invoicing, and payments — all in one place.\r\nWe centralize what most teams manage across 5+ tools, helping our clients grow faster while cutting operational costs.",
-    "one_liner": "AI-powered operating system for vehicle fleet management",
+    "long_description": "Flott helps transport and logistics companies run leaner, smarter, and more profitable operations. Flott unifies everything transport and logistics teams need in a single, AI-powered control center—bringing planning, live tracking (gps, fuel, etc), invoicing, and payments into one place and delivering true end-to-end visibility. Flott’s AI agents act as an extension of fleet managers — automating repetitive tasks and optimizing workflows.This lets companies focus on what truly matters: growing the business.",
+    "one_liner": "AI-native operating system for vehicle fleet management",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3739,6 +3872,45 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/paraquery.json"
   },
   {
+    "id": 30508,
+    "name": "Sygaldry Technologies",
+    "slug": "sygaldry-technologies",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d02ac12a4120fdef0e7944b90606a7333b87bb8f.png",
+    "website": "https://www.sygaldry.com",
+    "all_locations": "",
+    "long_description": "We’re building quantum-accelerated AI servers so organizations building AI can exponentially speed up training and inference. And we’re making tools for AI researchers to integrate quantum capabilities into AI models and workflows. \r\n",
+    "one_liner": "quantum-accelerated AI hardware.",
+    "team_size": null,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1748361107,
+    "tags": [
+      "Hard Tech",
+      "Quantum Computing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sygaldry-technologies",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/sygaldry-technologies.json"
+  },
+  {
     "id": 30511,
     "name": "Vassar Robotics",
     "slug": "vassar-robotics",
@@ -3748,8 +3920,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/298de1df0e98ea832138177668c9cea22705e3fb.png",
     "website": "https://www.vassarrobotics.com",
     "all_locations": "Cambridge, MA, USA",
-    "long_description": "",
-    "one_liner": "Adaptive Automation That's Useful Today",
+    "long_description": "We’re unlocking cutting-edge robot AI for the nerd in your life. Our hardware and software let them teach robots skills like playing chess in just a few hours—no robotics PhD required.",
+    "one_liner": "Unlocking Cutting-Edge Robot AI for the Nerd in Your Life",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
@@ -4379,16 +4551,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b68af887ba539134268ac073e1a367094447c416.png",
     "website": "https://rimba.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rimba is a vertical SaaS platform that ingests operational data (ERP integrations, SCADA, PDFs, meter logs) and uses AI to scrub, reconcile, and generate audit-ready reports for regulations like LCFS, RFS, air permits, and prevailing-wage filings. Core value props: avoidance of multi-million-dollar fines, detection of data inconsistencies/mistakes early, and 80 % cut in prep time. Integrations with legacy IT systems create one-click exports for state/federal portals and auditors. Revenue model: annual enterprise subscriptions priced per facility.",
+    "long_description": "Rimba is building the AI-native operating system for industrial compliance—replacing legacy giants like SAP. As industrial companies face mounting regulatory complexity, legacy ERP and compliance systems fail to keep up. \r\nWe're building a vertical platform that ingests operational data (ERP integrations, SCADA, PDFs, meter logs) and uses AI to scrub, reconcile, and generate audit-ready reports for regulations like LCFS, RFS, air permits, and prevailing-wage filings. Core value props: avoidance of multi-million-dollar fines, detection of data inconsistencies/mistakes early, and 80% cut in prep time. Integrations with legacy IT systems create one-click exports for state/federal portals and auditors. Revenue model: annual enterprise subscriptions priced per facility.",
     "one_liner": "AI for Energy & Industrial Compliance",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1744344066,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5005,7 +5177,7 @@
     "name": "Airweave",
     "slug": "airweave",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e607d570b51d09a9439774963188f42e98627927.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d46327d39d6d471e78471c63b18a9b06c8166938.png",
     "website": "https://airweave.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Airweave is an open-source tool that lets agents search any application. It connects to productivity tools, databases, or document stores and transforms their contents into searchable knowledge bases for agents.",
@@ -5015,10 +5187,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1744594621,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Search",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5340,10 +5512,10 @@
   },
   {
     "id": 30560,
-    "name": "SAVA Robotics",
-    "slug": "sava-robotics",
+    "name": "SAVA",
+    "slug": "sava",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5cfd3f761dfc0fcff51a0650948673bd04f8702b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9523603e82ccd89706c5464cfbe847431e747a85.png",
     "website": "https://www.savarobotics.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SAVA is rebuilding sheet metal manufacturing from the ground up. From Ford Trucks to NASA Space Shuttles, sheet metal is the cornerstone of American Manufacturing - but the industry runs on 30-year-old technology and a shrinking workforce.\r\n\r\nAlessio and Vedic competed in high school robotics when they met Jakob at Georgia Tech's Robotics labs. After witnessing Vedic's father's 12-hour shifts and visiting manufacturers across the US, they saw an industry trapped by legacy constraints: manual processes, skilled labor shortages, and unused automation.\r\n\r\nSAVA is building a fully integrated manufacturing system that eliminates skilled operators while delivering superior speed, quality, and economics. They're already reducing customer iteration cycles from 5-6 days to 1-2 days for companies like Pave Robotics and Zipline - proving the technology works in real production environments.\r\n\r\nThey're not just replacing human operators with robots - they're building the foundation to replace an entire industry built on outdated technology with modern manufacturing intelligence.",
@@ -5376,8 +5548,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sava-robotics",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/sava-robotics.json"
+    "url": "https://www.ycombinator.com/companies/sava",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/sava.json"
   },
   {
     "id": 30561,

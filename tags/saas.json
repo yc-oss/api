@@ -10446,7 +10446,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -20586,7 +20586,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28308,7 +28308,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -44338,51 +44338,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/rentflow.json"
   },
   {
-    "id": 29851,
-    "name": "Diode Computers, Inc.",
-    "slug": "diode-computers-inc",
-    "former_names": [
-      "Schematx",
-      "Diode, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1e7f9d9a50296d38458d5ad7a76c87823682bc2.png",
-    "website": "https://diode.computer",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Diode automates hardware design, like hiring a senior electronic engineer for your projects. We use generative AI models to create and manufacture custom printed circuit boards in minutes, not weeks.",
-    "one_liner": "Automate circuit board design using AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1722536101,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "Manufacturing",
-      "Electronics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/diode-computers-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/diode-computers-inc.json"
-  },
-  {
     "id": 29954,
     "name": "Henry",
     "slug": "henry-2",
@@ -45164,18 +45119,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6841cc02f948f6063ec7e9690d52d98b446b92c.png",
     "website": "https://circlemind.co",
     "all_locations": "",
-    "long_description": "Circlemind is developing the next-generation of memory systems for AI that surpasses current Retrieval Augmented Generation (RAG) methods. Our technology based on Knowledge Graphs and PageRank, allows for efficient, interpretable, and context-aware reasoning and retrieval.",
-    "one_liner": "Circlemind is an open-source RAG using knowledge graphs and PageRank.",
-    "team_size": 3,
+    "long_description": "We make general AI agents that can complete tasks independently.\r\n\r\nOur first general agent is called Zero. It can complete tasks across internal tools and 300+ apps using MCP servers, such as Apollo, Slack, Gmail, Notion, etc. It can take over many self-contained tasks, giving your team longer legs to run faster. It runs entirely in the cloud. This means that you can have swarms of agents completing hundreds of tasks while you’re focusing on what really matters.\r\n\r\nYou can connect Zero to the applications you use or your custom MCP servers, and then just give it any task and watch it work for you. Zero is engineered to think deeply, execute complex tasks, and even maintain a personalized memory of your interactions.\r\n\r\nA few notable features:\r\n- Built-in autonomy levels, permissions, guardrails, and human approvals\r\n- Custom instructions to teach Zero how to do things your way\r\n- Automations e.g. run a task every day or whenever I receive an email\r\n- Connect to your custom MCPs\r\n- Connect to 300+ apps with one-click integrations\r\n- Natively integrates deep research and browser use",
+    "one_liner": "Circlemind makes general AI agents",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1729125196,
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
       "Developer Tools",
       "Generative AI",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47221,7 +47176,10 @@
     "launched_at": 1745969288,
     "tags": [
       "Artificial Intelligence",
-      "SaaS"
+      "SaaS",
+      "Sales",
+      "Supply Chain",
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47720,16 +47678,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b68af887ba539134268ac073e1a367094447c416.png",
     "website": "https://rimba.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rimba is a vertical SaaS platform that ingests operational data (ERP integrations, SCADA, PDFs, meter logs) and uses AI to scrub, reconcile, and generate audit-ready reports for regulations like LCFS, RFS, air permits, and prevailing-wage filings. Core value props: avoidance of multi-million-dollar fines, detection of data inconsistencies/mistakes early, and 80 % cut in prep time. Integrations with legacy IT systems create one-click exports for state/federal portals and auditors. Revenue model: annual enterprise subscriptions priced per facility.",
+    "long_description": "Rimba is building the AI-native operating system for industrial compliance—replacing legacy giants like SAP. As industrial companies face mounting regulatory complexity, legacy ERP and compliance systems fail to keep up. \r\nWe're building a vertical platform that ingests operational data (ERP integrations, SCADA, PDFs, meter logs) and uses AI to scrub, reconcile, and generate audit-ready reports for regulations like LCFS, RFS, air permits, and prevailing-wage filings. Core value props: avoidance of multi-million-dollar fines, detection of data inconsistencies/mistakes early, and 80% cut in prep time. Integrations with legacy IT systems create one-click exports for state/federal portals and auditors. Revenue model: annual enterprise subscriptions priced per facility.",
     "one_liner": "AI for Energy & Industrial Compliance",
     "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1744344066,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
