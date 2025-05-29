@@ -2828,7 +2828,7 @@
       "WAN.ai"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c2936168c1d24afabd8456dc03d4a2255c01c1f.png",
-    "website": "https://www.cambioml.com/",
+    "website": "https://energent.ai/",
     "all_locations": "",
     "long_description": "Energent.ai turns every knowledge worker into a top performer by pairing them with an AI teammate. We streamline manual workflows without integrations, democratize automation with zero code, and move beyond passive chatbots to deliver real, visible output — all securely within the enterprise environment.",
     "one_liner": "AI Teammate to Enable Every Knowledge Worker to Be a Top Performer",
@@ -3255,7 +3255,7 @@
     "name": "Nuanced",
     "slug": "nuanced",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e32c6998abbf4d751d319bc88878eb3cf0bc4bf7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd3ad2188e3e74544d890e84dd3ad94709976241.png",
     "website": "https://www.nuanced.dev/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "We're building tools that combine static analysis with AI to obtain a deeper understanding of code behavior. By doing so, we help both humans and machines understand code behavior at a fundamental level.",
@@ -3265,8 +3265,8 @@
     "subindustry": "B2B",
     "launched_at": 1705703098,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4976,16 +4976,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac03a28cb503f64a3f8684816a352307a74638e1.png",
     "website": "https://www.tropir.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke—a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the information flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
-    "one_liner": "Traceback why your AI failed",
+    "long_description": "Tropir is the first AI that builds better AIs.\r\n\r\nWe don’t just trace where your pipeline broke—we fix it. Tropir analyzes the flow of logic across prompts, tools, and retrievals to pinpoint root causes, suggests targeted changes, reruns the pipeline with those fixes, and runs evals to check if things actually improved. If not, it keeps iterating until they do.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
+    "one_liner": "The AI that builds better AIs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1746601065,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -5049,48 +5049,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/admyral",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/admyral.json"
-  },
-  {
-    "id": 30193,
-    "name": "Guse",
-    "slug": "guse",
-    "former_names": [
-      "Fin"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/836ac1a5479beec4034fd9b4728c997edac713b4.png",
-    "website": "https://www.guse.io/",
-    "all_locations": "",
-    "long_description": "Prompt to automation",
-    "one_liner": "Prompt to automation",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1737490708,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/guse",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/guse.json"
   },
   {
     "id": 30213,
@@ -5391,6 +5349,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/peppr-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/peppr-ai.json"
+  },
+  {
+    "id": 30337,
+    "name": "Paratus Health",
+    "slug": "paratus-health",
+    "former_names": [
+      "Paratus"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcaf4d4e89631a63bee94c1af531a630ac0f1858.png",
+    "website": "https://paratushealth.com/",
+    "all_locations": "",
+    "long_description": "Paratus Health is the AI operations layer for outpatient clinics. We build autonomous agents that don’t just assist staff - they replace them, fully handling front desk calls, patient intake, insurance verification, documentation, and billing prep. Everything is deeply integrated into EHRs like Epic and Athena, eliminating the need for fragmented tools and manual work.\r\nNo toggling between systems. No busywork. Just one intelligent system running your clinical operations - faster, smarter, and more profitably than ever before.",
+    "one_liner": "AI-powered intake nurse",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "B2B",
+    "launched_at": 1739954707,
+    "tags": [
+      "Digital Health",
+      "Healthcare IT",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/paratus-health",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/paratus-health.json"
   },
   {
     "id": 30340,

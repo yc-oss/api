@@ -13508,18 +13508,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/053379bcb6d2f8ca33ff9eb81f1d899a06a6872a.png",
     "website": "https://www.lume.ai",
     "all_locations": "",
-    "long_description": "Lume automates data mapping using AI. Lume helps teams ingest client data, normalize data from different sources, and create one to many integrations, automatically.",
-    "one_liner": "Automate data mapping using AI",
+    "long_description": "Lume speeds up customer implementation with AI. Lume helps teams analyze, map, and ingest customer data up to 87% faster, accelerating time-to-revenue.",
+    "one_liner": "Speed up customer implementation with AI",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1675974530,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Data Engineering",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18821,15 +18821,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a731bcc797807541c6c51d10993125ff2f77823.png",
     "website": "https://comfydeploy.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Comfy Deploy lets developers build and deploy workflows that use Stable Diffusion and other models to produce images and video. Instead of cobbling together fragmented tools, teams now build workflows that generate assets they need on their own.\r\n\r\n\r\n**Team ComfyUI workspace**\r\n\r\n• Replacing cobbled-together solutions with a unified, team-focused environment without the pain of self-hosting.\r\n\r\n• Eliminate \"works on my machine\" issues with version control.\r\n\r\n• Share storage for models and outputs.\r\n\r\n• Leverage the power of ComfyUI without the complexities of self-hosting\r\n\r\n\r\n**Powerful GPU Infrastructure**\r\n• Access managed GPUs that grow with your teams needs\r\n\r\n• Tailor the platform to your requirements by easily installing custom nodes and models\r\n\r\n\r\n**Custom configuration**\r\n\r\n• Download the models you want, stored privately in your personal volume\r\n\r\n• Install the custom nodes your workflow needs\r\n\r\n• Train models on your own datasets.\r\n\r\n\r\n**API Deployments: From workflow to production in seconds**\r\n\r\n• Transform any workflow into a fully functional API immediately without extra engineering\r\n\r\n• Comprehensive observability on every run\r\n\r\n• Built-in API authentication\r\n\r\n• TS/JS/Python/Ruby SDKs for seamless integration\r\n",
-    "one_liner": "Vercel for Gen AI applications",
+    "long_description": "ComfyUI is the most popular open-source framework to build media generation workflows. However, it's a single-player experience that needs to run on a local GPU. Everyone has different environments and sharing workflows to someone else can take days to get setup.\r\n\r\nComfy Deploy fixes this by creating a collaborative workspace, where a teams environemnt, models and workflows can be shared as easily with a link.\r\n\r\n**Team ComfyUI workspace**\r\n\r\n• Replacing cobbled-together solutions with a unified, team-focused environment. When it works for you, you can be sure it works for your team.\r\n\r\n• Eliminate \"works on my machine\" issues with version control.\r\n\r\n• Share storage for models and outputs.\r\n\r\n• Leverage the power of ComfyUI without the complexities of self-hosting\r\n\r\n**Powerful GPU Infrastructure**\r\n• Access managed GPUs that grow with your teams needs\r\n\r\n• Tailor the platform to your requirements by easily installing custom nodes and models\r\n\r\n\r\n**Custom configuration**\r\n\r\n• Download the models you want, stored privately in your personal volume\r\n\r\n• Install the custom nodes your workflow needs\r\n\r\n• Train models on your own datasets.\r\n\r\n\r\n**API Deployments: From workflow to production in seconds**\r\n\r\n• Transform any workflow into a fully functional API immediately without extra engineering\r\n\r\n• Comprehensive observability on every run\r\n\r\n• Built-in API authentication\r\n\r\n• TS/JS/Python/Ruby SDKs for seamless integration\r\n",
+    "one_liner": "ComfyUI for everyone on your team",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1721586531,
     "tags": [
-      "Artificial Intelligence",
-      "API"
+      "Media"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18843,7 +18842,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -20327,14 +20328,18 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1e7f9d9a50296d38458d5ad7a76c87823682bc2.png",
     "website": "https://diode.computer",
-    "all_locations": "",
-    "long_description": "Diode automates hardware design, like hiring a senior electronic engineer for your projects. We use generative AI models to create and manufacture custom printed circuit boards in minutes, not weeks.",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Diode automates circuit board design. We work with hardware companies to get them the PCBs they need, fast.",
     "one_liner": "Automate circuit board design using AI",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722536101,
-    "tags": [],
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "Electronics"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -20346,13 +20351,14 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/diode-computers-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/diode-computers-inc.json"
   },
@@ -22235,8 +22241,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4911874a37ff01bfa27bb33e5f83f49e6970068e.png",
     "website": "https://plexe.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Plexe connects to your data sources, discovers relevant fields and builds task-specific ML models from a problem description. Under the hood, it uses a multi-agent system to research and experiment with several model architectures, evaluate, refine and then deploy the best performing model over an API endpoint. Think of it like your own ML helper helping you go from idea to deployed ML models 10x faster.",
-    "one_liner": "Build predictive ML models from a prompt",
+    "long_description": "Plexe builds predictive ML models from a problem description. It connects to data sources, conducts experiments, evaluates and deploys the models to an API endpoint.",
+    "one_liner": "Open-source agents to build predictive ML models from a prompt",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -22609,7 +22615,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eb049b24a3b434a45574fe510043fc81b736b2b.png",
     "website": "https://operative.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Operative provides the runtime intelligence for coding agents to test changes via browser agents. We connect into coding agents such as Cursor, Windsurf, Cline and others via MCP, and support vibe-coders on the web with operative create.",
+    "long_description": "Operative uses AI to build web apps that are, well, operative! With the best in-app debugging tools, the operative agent can not only code up your site, but test it too. Try in web or download operative MCP for Cursor.",
     "one_liner": "Web application code generation with debugging tools built in",
     "team_size": 2,
     "industry": "B2B",
@@ -22692,7 +22698,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ff2fd0b8e2a6e3d9320055214a0e22da17a8b8e.png",
     "website": "https://www.photoniumoptics.com/",
     "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Photonium is building an end-to-end, AI-powered platform for optical design automation. We handle the full design workflow—from optimization and verification to sourcing—for industries including quantum, biomedical imaging, LiDAR for autonomous vehicles and defense, and metrology.",
+    "long_description": "Photonium is building an end-to-end, AI-powered platform for optical design automation. We handle the full design workflow—from optimization and verification to sourcing—for industries including quantum, biomedical imaging, LiDAR for autonomous vehicles and defense, and metrology for semiconductor fabrication.",
     "one_liner": "AI-driven optical design automation",
     "team_size": 2,
     "industry": "B2B",
@@ -22897,6 +22903,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mesmer",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/mesmer.json"
+  },
+  {
+    "id": 30532,
+    "name": "Nimbic AI",
+    "slug": "nimbic-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2f73769cf099429cf35b159e89f9f7c89a94c78.png",
+    "website": "https://nimbic-ai.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Automatically write and update internal docs with every code commit.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1748402935,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nimbic-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/nimbic-ai.json"
   },
   {
     "id": 30533,

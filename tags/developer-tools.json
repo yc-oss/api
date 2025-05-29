@@ -16740,7 +16740,7 @@
     "name": "Nuanced",
     "slug": "nuanced",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e32c6998abbf4d751d319bc88878eb3cf0bc4bf7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd3ad2188e3e74544d890e84dd3ad94709976241.png",
     "website": "https://www.nuanced.dev/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "We're building tools that combine static analysis with AI to obtain a deeper understanding of code behavior. By doing so, we help both humans and machines understand code behavior at a fundamental level.",
@@ -16750,8 +16750,8 @@
     "subindustry": "B2B",
     "launched_at": 1705703098,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -20247,16 +20247,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac03a28cb503f64a3f8684816a352307a74638e1.png",
     "website": "https://www.tropir.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke—a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the information flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
-    "one_liner": "Traceback why your AI failed",
+    "long_description": "Tropir is the first AI that builds better AIs.\r\n\r\nWe don’t just trace where your pipeline broke—we fix it. Tropir analyzes the flow of logic across prompts, tools, and retrievals to pinpoint root causes, suggests targeted changes, reruns the pipeline with those fixes, and runs evals to check if things actually improved. If not, it keeps iterating until they do.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
+    "one_liner": "The AI that builds better AIs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1746601065,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -21043,8 +21043,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4911874a37ff01bfa27bb33e5f83f49e6970068e.png",
     "website": "https://plexe.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Plexe connects to your data sources, discovers relevant fields and builds task-specific ML models from a problem description. Under the hood, it uses a multi-agent system to research and experiment with several model architectures, evaluate, refine and then deploy the best performing model over an API endpoint. Think of it like your own ML helper helping you go from idea to deployed ML models 10x faster.",
-    "one_liner": "Build predictive ML models from a prompt",
+    "long_description": "Plexe builds predictive ML models from a problem description. It connects to data sources, conducts experiments, evaluates and deploys the models to an API endpoint.",
+    "one_liner": "Open-source agents to build predictive ML models from a prompt",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21075,6 +21075,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/plexe",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/plexe.json"
+  },
+  {
+    "id": 30402,
+    "name": "Kashikoi",
+    "slug": "kashikoi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b53ea02cadc039e2f1da3a4ff49737fadde2b66.png",
+    "website": "https://www.getkashikoi.com",
+    "all_locations": "Remote",
+    "long_description": "Kashikoi is a simulation engine to benchmark AI agents. We generate CPU friendly world models that autonomously interview agents and generate deep behavioral assessments. We built a similar technology at Moveworks which was used to ship 250+ enterprise agents to customers daily.",
+    "one_liner": "Simulation engine for benchmarking AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1748454120,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "Machine Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kashikoi",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/kashikoi.json"
   },
   {
     "id": 30404,
@@ -21542,7 +21583,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eb049b24a3b434a45574fe510043fc81b736b2b.png",
     "website": "https://operative.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Operative provides the runtime intelligence for coding agents to test changes via browser agents. We connect into coding agents such as Cursor, Windsurf, Cline and others via MCP, and support vibe-coders on the web with operative create.",
+    "long_description": "Operative uses AI to build web apps that are, well, operative! With the best in-app debugging tools, the operative agent can not only code up your site, but test it too. Try in web or download operative MCP for Cursor.",
     "one_liner": "Web application code generation with debugging tools built in",
     "team_size": 2,
     "industry": "B2B",
@@ -21831,6 +21872,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/paraquery",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/paraquery.json"
+  },
+  {
+    "id": 30521,
+    "name": "Janus",
+    "slug": "janus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b44f7b050ecc3ee1451baeb4e0a733b19937955.png",
+    "website": "https://www.withjanus.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Janus tests conversational AI Agents for hallucinations, rule violations, tool call failures, and performance breakdowns pre-launch. We do this by simulating thousands of realistic AI users to eliminate manual testing and low-confidence in AI deployment. \r\n\r\nOur platform generates personalized datasets for custom evals and continuous model improvement.",
+    "one_liner": "Battle-Test AI Agents with Human Simulation",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1748466933,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Monitoring",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/janus",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/janus.json"
   },
   {
     "id": 30539,

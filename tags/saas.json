@@ -6974,7 +6974,7 @@
       "Crypto / Web3"
     ],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -33149,7 +33149,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -35386,7 +35386,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Miracle is the control room for clinical trials. Our platform consolidates data from multiple trial systems into real-time dashboards, delivering automated insights that empower clinical-stage biopharmaceutical companies to streamline operations, reduce manual workflows, and accelerate data-driven decision-making. By transforming complex trial data into actionable insights, Miracle helps biopharma teams speed up clinical trials, and ultimately, improve patient outcomes.",
     "one_liner": "Accelerate clinical trials with real-time, actionable insights",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1677015940,
@@ -35398,7 +35398,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -35879,18 +35879,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/053379bcb6d2f8ca33ff9eb81f1d899a06a6872a.png",
     "website": "https://www.lume.ai",
     "all_locations": "",
-    "long_description": "Lume automates data mapping using AI. Lume helps teams ingest client data, normalize data from different sources, and create one to many integrations, automatically.",
-    "one_liner": "Automate data mapping using AI",
+    "long_description": "Lume speeds up customer implementation with AI. Lume helps teams analyze, map, and ingest customer data up to 87% faster, accelerating time-to-revenue.",
+    "one_liner": "Speed up customer implementation with AI",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1675974530,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Data Engineering",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36410,14 +36410,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dce31c6ca3dabf16bfd5ee207762b419f47372bd.png",
     "website": "https://www.pledge.health/",
     "all_locations": "",
-    "long_description": "Pledge automates patient billing for independent healthcare clinics. We estimate how much insurance will cover for each visit, so clinics can charge patients at the time of service, rather than waiting weeks for insurance to process.",
-    "one_liner": "Automated patient billing for independent healthcare clinics",
+    "long_description": "Our AI browser assistant automates insurance tasks like verifying benefits, submitting prior auths, checking claim statuses, and more across all payer portals, directly from the clinic's EHR. It does exactly what the admin team is doing today, just helps them do it 10x faster and as thoroughly as a seasoned teammate.",
+    "one_liner": "AI RCM assistant that handles any insurance task on payer portals for…",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1673114409,
     "tags": [
-      "Fintech",
       "SaaS",
       "Health Tech",
       "B2B",
@@ -39616,7 +39615,9 @@
     "name": "GreenTally",
     "slug": "greentally",
     "former_names": [
-      "LogUnify"
+      "LogUnify",
+      "DSensei",
+      "Empower"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/673f3845b8ea0c788142227e93c082ac8e4ff91c.png",
     "website": "https://www.greentally.ai",
@@ -39625,7 +39626,7 @@
     "one_liner": "Affordable carbon tracking solution for all businesses",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "B2B",
     "launched_at": 1690923306,
     "tags": [
       "Artificial Intelligence",
@@ -39639,7 +39640,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -45889,25 +45890,24 @@
   },
   {
     "id": 30193,
-    "name": "Guse",
-    "slug": "guse",
+    "name": "Orchids",
+    "slug": "orchids",
     "former_names": [
       "Fin"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/836ac1a5479beec4034fd9b4728c997edac713b4.png",
-    "website": "https://www.guse.io/",
-    "all_locations": "",
-    "long_description": "Prompt to automation",
-    "one_liner": "Prompt to automation",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dcf2376b464fd50045959dc6a710b37dfb75ab2.png",
+    "website": "https://www.orchids.app/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Make a beautiful website with just natural language. No code, no drag-and-drop, just prompt.",
+    "one_liner": "Make a beautiful website with just natural language",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1737490708,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "B2B",
-      "AI",
-      "AI Assistant"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45919,15 +45919,16 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/guse",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/guse.json"
+    "url": "https://www.ycombinator.com/companies/orchids",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/orchids.json"
   },
   {
     "id": 30197,
@@ -47204,6 +47205,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/percival.json"
   },
   {
+    "id": 30457,
+    "name": "Trapeze",
+    "slug": "trapeze",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/899619e92df1f3c424bc3715e6b996ecc554d4a1.png",
+    "website": "https://www.trapezehealth.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Trapeze empowers doctors to answer patient calls 24/7 with our voice agents clones of their best call center reps and receptionists. In the past 3 months, we’ve onboarded 140+ doctors nationwide serving 1,000,000+ patients.\r\n\r\nWe're building the AI-native Zocdoc to create the standard for how consumers and clinics get scheduled and connect.\r\n\r\nFollow along on the BTS of our journey: https://www.tiktok.com/t/ZTjQyxEQx/",
+    "one_liner": "AI scheduling agents for healthcare",
+    "team_size": null,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1748462955,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Scheduling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trapeze",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/trapeze.json"
+  },
+  {
     "id": 30461,
     "name": "Combinely",
     "slug": "combinely",
@@ -47254,17 +47296,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a95219f5a96e1b807c46a92b589b396703516e1.png",
     "website": "https://clado.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clado was built to increase the amount of serendipity in the world. Every person has hundreds of thousands of valuable connections they never realize exist, opportunities hidden within shared experiences, untapped professional networks, and mutual affiliations. We’re here to surface them.",
+    "long_description": "Clado puts 200 million+ people profiles (and growing) at your fingertips with simple, agentic search. If you’re interested in a global people search for sales, spreadsheets, hiring, and more, try our product.",
     "one_liner": "Deep Research for People",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Consumer -> Social",
     "launched_at": 1742722403,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Recruiting"
+      "Recruiting",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47712,6 +47754,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rimba",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/rimba.json"
+  },
+  {
+    "id": 30532,
+    "name": "Nimbic AI",
+    "slug": "nimbic-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2f73769cf099429cf35b159e89f9f7c89a94c78.png",
+    "website": "https://nimbic-ai.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Automatically write and update internal docs with every code commit.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1748402935,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nimbic-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/nimbic-ai.json"
   },
   {
     "id": 30533,

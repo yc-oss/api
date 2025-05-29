@@ -6199,7 +6199,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -8050,7 +8050,9 @@
     "name": "GreenTally",
     "slug": "greentally",
     "former_names": [
-      "LogUnify"
+      "LogUnify",
+      "DSensei",
+      "Empower"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/673f3845b8ea0c788142227e93c082ac8e4ff91c.png",
     "website": "https://www.greentally.ai",
@@ -8059,7 +8061,7 @@
     "one_liner": "Affordable carbon tracking solution for all businesses",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "B2B",
     "launched_at": 1690923306,
     "tags": [
       "Artificial Intelligence",
@@ -8073,7 +8075,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -9166,7 +9168,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -9745,8 +9747,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4911874a37ff01bfa27bb33e5f83f49e6970068e.png",
     "website": "https://plexe.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Plexe connects to your data sources, discovers relevant fields and builds task-specific ML models from a problem description. Under the hood, it uses a multi-agent system to research and experiment with several model architectures, evaluate, refine and then deploy the best performing model over an API endpoint. Think of it like your own ML helper helping you go from idea to deployed ML models 10x faster.",
-    "one_liner": "Build predictive ML models from a prompt",
+    "long_description": "Plexe builds predictive ML models from a problem description. It connects to data sources, conducts experiments, evaluates and deploys the models to an API endpoint.",
+    "one_liner": "Open-source agents to build predictive ML models from a prompt",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -9777,6 +9779,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/plexe",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/plexe.json"
+  },
+  {
+    "id": 30402,
+    "name": "Kashikoi",
+    "slug": "kashikoi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b53ea02cadc039e2f1da3a4ff49737fadde2b66.png",
+    "website": "https://www.getkashikoi.com",
+    "all_locations": "Remote",
+    "long_description": "Kashikoi is a simulation engine to benchmark AI agents. We generate CPU friendly world models that autonomously interview agents and generate deep behavioral assessments. We built a similar technology at Moveworks which was used to ship 250+ enterprise agents to customers daily.",
+    "one_liner": "Simulation engine for benchmarking AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1748454120,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "Machine Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kashikoi",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/kashikoi.json"
   },
   {
     "id": 30433,
@@ -9873,7 +9916,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae7f81743afec55a338f8ebe26d07f21e2696ebc.png",
     "website": "https://vesence.com",
     "all_locations": "",
-    "long_description": "Launched in February, and we’ve already rolled out the product firm-wide with our first enterprise customer. Focus on Transactional Law Firms.",
+    "long_description": "Vesence is building Cursor for Lawyers.\r\n\r\nAlready rolled out firm-wide with a first major law firm. We launched in February.\r\n\r\nImagine programming in Apple Notes. No linting, no cursor, you are on your own. That is how it is for many lawyers to draft and review contracts in Microsoft Word. We are here to change that.",
     "one_liner": "Cursor for Lawyers. Agentic AI in MS Office.",
     "team_size": 2,
     "industry": "B2B",

@@ -133,16 +133,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac03a28cb503f64a3f8684816a352307a74638e1.png",
     "website": "https://www.tropir.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tropir helps AI teams debug failures in complex LLM pipelines by tracing where things broke—a prompt drift, tool error, or bad retrieval. While other platforms log inputs and outputs, Tropir traces the information flow through chained LLM calls, connecting the dots from symptoms to root cause.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
-    "one_liner": "Traceback why your AI failed",
+    "long_description": "Tropir is the first AI that builds better AIs.\r\n\r\nWe don’t just trace where your pipeline broke—we fix it. Tropir analyzes the flow of logic across prompts, tools, and retrievals to pinpoint root causes, suggests targeted changes, reruns the pipeline with those fixes, and runs evals to check if things actually improved. If not, it keeps iterating until they do.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
+    "one_liner": "The AI that builds better AIs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1746601065,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -471,8 +471,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4911874a37ff01bfa27bb33e5f83f49e6970068e.png",
     "website": "https://plexe.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Plexe connects to your data sources, discovers relevant fields and builds task-specific ML models from a problem description. Under the hood, it uses a multi-agent system to research and experiment with several model architectures, evaluate, refine and then deploy the best performing model over an API endpoint. Think of it like your own ML helper helping you go from idea to deployed ML models 10x faster.",
-    "one_liner": "Build predictive ML models from a prompt",
+    "long_description": "Plexe builds predictive ML models from a problem description. It connects to data sources, conducts experiments, evaluates and deploys the models to an API endpoint.",
+    "one_liner": "Open-source agents to build predictive ML models from a prompt",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -503,6 +503,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/plexe",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/plexe.json"
+  },
+  {
+    "id": 30402,
+    "name": "Kashikoi",
+    "slug": "kashikoi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b53ea02cadc039e2f1da3a4ff49737fadde2b66.png",
+    "website": "https://www.getkashikoi.com",
+    "all_locations": "Remote",
+    "long_description": "Kashikoi is a simulation engine to benchmark AI agents. We generate CPU friendly world models that autonomously interview agents and generate deep behavioral assessments. We built a similar technology at Moveworks which was used to ship 250+ enterprise agents to customers daily.",
+    "one_liner": "Simulation engine for benchmarking AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1748454120,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "Machine Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kashikoi",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/kashikoi.json"
   },
   {
     "id": 30403,
@@ -1377,7 +1418,7 @@
     "website": "https://almondbot.com/",
     "all_locations": "",
     "long_description": "Almond is building a vision-based AI robot for high-mix pick & place automation. We provide a fully-integrated robot-as-a-service that helps manufacturers save money and increase their revenue.",
-    "one_liner": "AI robots for high-mix pick & place automation",
+    "one_liner": "AI robots for factory automation",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -1838,16 +1879,16 @@
     "website": "https://www.youlearn.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "YouLearn is an AI tutor personalized to each student. It turns your learning materials into concise notes, an AI tutor you can talk to, and personalized tests.\r\n\r\nIn the last eight months, we’ve grown from $1K to $70K MRR, and over 150,000 students use YouLearn each month.\r\n\r\nAchyut, Soami, and David have known each other for the past two and a half years, having started building projects in their dorms. Soami interned at Groq, Achyut built six AI apps in one summer, and David grew an audience of over 200M views on Instagram and TikTok.\r\n\r\nAs recent college dropouts, we saw daily how students learn with AI and where current tools fall short. We believe every student will have a personal AI tutor, and we’re building the one you’ll never want to skip class on.",
-    "one_liner": "An AI tutor personalized to each student. ",
+    "one_liner": "AI tutor for each student. ",
     "team_size": 3,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1745603860,
     "tags": [
       "AI-Enhanced Learning",
-      "Artificial Intelligence",
       "Education",
-      "Edtech"
+      "Edtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2169,7 +2210,7 @@
     "website": "https://kestral.team",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kestral makes it clear what your customers want most, prioritizes those tasks for highest leverage, and closes the loop with those customers.\r\n\r\nWe (Brian and Bernard) have been close friends since university, and most recently worked together at Asana, leading AI and Authorization efforts. There we realized AI can completely disrupt the $50B Work Management Market, but it required a fresh start.\r\n\r\nWhat work we even choose to manage in the first place is critical, and the most important insights from customers are silo-ed in sales/CS while R&D gives their best shot at roadmaps meant to deliver impact. Significant requests sit in a backlog, duplicate asks flood the system, months wasted on \"strategic investments\". We want to bridge this gap.\r\n\r\nThis message is resonating with heads of sales, heads of product, CEOs, as well as individuals, all trying to make sure the most important things get done, with less wasted effort and more revenue/retention.\r\n\r\nKestral works by automatically take in customer data like sales call transcripts & feature request messages and a team of agents:\r\n1. analyze them for actionable takeaways, deal blockers, and nice to haves\r\n2. consolidate them and manage all the asks with citations\r\n3. prioritize them by impact and frequency to cut through the noise so you can see the biggest opportunities clearly\r\n4. connect them to your existing strategic roadmap so when the work gets done, we can automatically follow back up with your customers and win them over\r\n\r\nThis is just step one of our mission to revolutionize how work gets done -- starting with what we choose to work on, and hope you follow us along for the ride!",
-    "one_liner": "AI Work Prioritizer that connects customer impact to your work",
+    "one_liner": "AI Agents that prioritize the highest impact work across Sales and R&D",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -2328,7 +2369,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eb049b24a3b434a45574fe510043fc81b736b2b.png",
     "website": "https://operative.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Operative provides the runtime intelligence for coding agents to test changes via browser agents. We connect into coding agents such as Cursor, Windsurf, Cline and others via MCP, and support vibe-coders on the web with operative create.",
+    "long_description": "Operative uses AI to build web apps that are, well, operative! With the best in-app debugging tools, the operative agent can not only code up your site, but test it too. Try in web or download operative MCP for Cursor.",
     "one_liner": "Web application code generation with debugging tools built in",
     "team_size": 2,
     "industry": "B2B",
@@ -2439,6 +2480,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/tinfoil.json"
   },
   {
+    "id": 30457,
+    "name": "Trapeze",
+    "slug": "trapeze",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/899619e92df1f3c424bc3715e6b996ecc554d4a1.png",
+    "website": "https://www.trapezehealth.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Trapeze empowers doctors to answer patient calls 24/7 with our voice agents clones of their best call center reps and receptionists. In the past 3 months, we’ve onboarded 140+ doctors nationwide serving 1,000,000+ patients.\r\n\r\nWe're building the AI-native Zocdoc to create the standard for how consumers and clinics get scheduled and connect.\r\n\r\nFollow along on the BTS of our journey: https://www.tiktok.com/t/ZTjQyxEQx/",
+    "one_liner": "AI scheduling agents for healthcare",
+    "team_size": null,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1748462955,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Scheduling"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trapeze",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/trapeze.json"
+  },
+  {
     "id": 30458,
     "name": "Jeevy Fabrication",
     "slug": "jeevy-fabrication",
@@ -2532,7 +2614,7 @@
     "website": "https://voiceos.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hiring at scale is broken. \r\n\r\nOur solution: Voice AI that instantly interview every applicant — holds lifelike conversations powered by the latest speech-synthesis breakthroughs, and scores each response against specific hiring criteria. Recruiters see only a curated shortlist as VoiceOS fine-tunes the agent’s questions over time. \r\n\r\nThe payoff: days-to-hire instead of weeks, slashed overhead, and a recruiting engine that scales as fast as the enterprise — we’re poised to make it the new global standard for conversational hiring.",
-    "one_liner": "Voice AI for Enterprise Hiring",
+    "one_liner": "Realtime Interviews for Enterprise Hiring",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -2617,17 +2699,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a95219f5a96e1b807c46a92b589b396703516e1.png",
     "website": "https://clado.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clado was built to increase the amount of serendipity in the world. Every person has hundreds of thousands of valuable connections they never realize exist, opportunities hidden within shared experiences, untapped professional networks, and mutual affiliations. We’re here to surface them.",
+    "long_description": "Clado puts 200 million+ people profiles (and growing) at your fingertips with simple, agentic search. If you’re interested in a global people search for sales, spreadsheets, hiring, and more, try our product.",
     "one_liner": "Deep Research for People",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Consumer -> Social",
     "launched_at": 1742722403,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Recruiting"
+      "Recruiting",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2742,7 +2824,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ff2fd0b8e2a6e3d9320055214a0e22da17a8b8e.png",
     "website": "https://www.photoniumoptics.com/",
     "all_locations": "Palo Alto, CA, USA",
-    "long_description": "Photonium is building an end-to-end, AI-powered platform for optical design automation. We handle the full design workflow—from optimization and verification to sourcing—for industries including quantum, biomedical imaging, LiDAR for autonomous vehicles and defense, and metrology.",
+    "long_description": "Photonium is building an end-to-end, AI-powered platform for optical design automation. We handle the full design workflow—from optimization and verification to sourcing—for industries including quantum, biomedical imaging, LiDAR for autonomous vehicles and defense, and metrology for semiconductor fabrication.",
     "one_liner": "AI-driven optical design automation",
     "team_size": 2,
     "industry": "B2B",
@@ -3751,7 +3833,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ae7f81743afec55a338f8ebe26d07f21e2696ebc.png",
     "website": "https://vesence.com",
     "all_locations": "",
-    "long_description": "Launched in February, and we’ve already rolled out the product firm-wide with our first enterprise customer. Focus on Transactional Law Firms.",
+    "long_description": "Vesence is building Cursor for Lawyers.\r\n\r\nAlready rolled out firm-wide with a first major law firm. We launched in February.\r\n\r\nImagine programming in Apple Notes. No linting, no cursor, you are on your own. That is how it is for many lawyers to draft and review contracts in Microsoft Word. We are here to change that.",
     "one_liner": "Cursor for Lawyers. Agentic AI in MS Office.",
     "team_size": 2,
     "industry": "B2B",
@@ -4241,6 +4323,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/hemut.json"
   },
   {
+    "id": 30521,
+    "name": "Janus",
+    "slug": "janus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b44f7b050ecc3ee1451baeb4e0a733b19937955.png",
+    "website": "https://www.withjanus.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Janus tests conversational AI Agents for hallucinations, rule violations, tool call failures, and performance breakdowns pre-launch. We do this by simulating thousands of realistic AI users to eliminate manual testing and low-confidence in AI deployment. \r\n\r\nOur platform generates personalized datasets for custom evals and continuous model improvement.",
+    "one_liner": "Battle-Test AI Agents with Human Simulation",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1748466933,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Monitoring",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/janus",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/janus.json"
+  },
+  {
     "id": 30522,
     "name": "Relixir",
     "slug": "relixir",
@@ -4625,6 +4749,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moby-analytics",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/moby-analytics.json"
+  },
+  {
+    "id": 30532,
+    "name": "Nimbic AI",
+    "slug": "nimbic-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2f73769cf099429cf35b159e89f9f7c89a94c78.png",
+    "website": "https://nimbic-ai.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Automatically write and update internal docs with every code commit.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1748402935,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nimbic-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/nimbic-ai.json"
   },
   {
     "id": 30533,
@@ -5515,7 +5678,7 @@
     "name": "SAVA",
     "slug": "sava",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9523603e82ccd89706c5464cfbe847431e747a85.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee2e9cd5e80fd86d9eb6531e8aa3154bb61a0585.png",
     "website": "https://www.savarobotics.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SAVA is rebuilding sheet metal manufacturing from the ground up. From Ford Trucks to NASA Space Shuttles, sheet metal is the cornerstone of American Manufacturing - but the industry runs on 30-year-old technology and a shrinking workforce.\r\n\r\nAlessio and Vedic competed in high school robotics when they met Jakob at Georgia Tech's Robotics labs. After witnessing Vedic's father's 12-hour shifts and visiting manufacturers across the US, they saw an industry trapped by legacy constraints: manual processes, skilled labor shortages, and unused automation.\r\n\r\nSAVA is building a fully integrated manufacturing system that eliminates skilled operators while delivering superior speed, quality, and economics. They're already reducing customer iteration cycles from 5-6 days to 1-2 days for companies like Pave Robotics and Zipline - proving the technology works in real production environments.\r\n\r\nThey're not just replacing human operators with robots - they're building the foundation to replace an entire industry built on outdated technology with modern manufacturing intelligence.",
@@ -5550,47 +5713,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sava",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/sava.json"
-  },
-  {
-    "id": 30561,
-    "name": "Daxa",
-    "slug": "daxa",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47dda084fea127470ef42cc30ad149ade9ed4f32.png",
-    "website": "https://www.getdaxa.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Daxa watches thousands of your session replays and listens to your customer feedback channels in real time — helping you pinpoint application issues before users churn and plan features that maximize conversion. Oftentimes, issues in your product don't make it to a support ticket until dozens of users have experienced it first. Daxa helps you combat this problem by watching users interact directly with your product and notifying you in real time via Slack or email if any issues or interesting phenomenon arise (dropoff on certain pages, features not performing as expected, etc)",
-    "one_liner": "Boost revenue and retention with an AI PM",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1744274885,
-    "tags": [
-      "B2B",
-      "Analytics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/daxa",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/daxa.json"
   },
   {
     "id": 30562,
