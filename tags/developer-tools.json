@@ -365,7 +365,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2011",
     "status": "Active",
@@ -13720,52 +13720,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/helicone.json"
   },
   {
-    "id": 27935,
-    "name": "FiddleCube",
-    "slug": "fiddlecube",
-    "former_names": [
-      "ZKomm",
-      "Devpod"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fb2ae6f476fb244457c0798bb0fc47f11be99bb.png",
-    "website": "https://fiddlecube.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "FiddleCube's AI agent helps teams build safe, enterprise-ready Gen AI systems. FiddleCube generates the most comprehensive and up-to-date set of adversarial tests for red-teaming, ensuring safety and compliance with laws across the EU, USCAN, and MENA countries.",
-    "one_liner": "Build safe, enterprise-ready Gen AI systems",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1690346092,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "Data Science",
-      "Data Labeling",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fiddlecube",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/fiddlecube.json"
-  },
-  {
     "id": 27938,
     "name": "Boundary",
     "slug": "boundary",
@@ -16657,12 +16611,12 @@
     "former_names": [
       "Onboard AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f71e2192666be11ddc0e606e5c3ac0d905c3b3fa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2b36d17df23b1b97acf8da329ffce929fa129ce.png",
     "website": "https://www.greptile.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
-    "one_liner": "AI expert on your codebase that you can query via an API",
-    "team_size": 7,
+    "one_liner": "AI code reviewer with complete context of your codebase",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1695668492,
@@ -21836,8 +21790,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/023b1fec88d11ac0cc00d33e137188a1088f80f1.png",
     "website": "https://paraquery.com",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "ParaQuery is a fully-managed GPU-accelerated Spark solution providing double the performance at half the cost compared to solutions like Databricks and BigQuery. It is fully Spark-compatible, cloud agnostic, and has seamless integrations everywhere, all without vendor lock-in. ParaQuery makes it trivial to run large SQL and Spark workloads efficiently and serverlessly, without any data migrations.",
-    "one_liner": "Fully-managed Spark + SQL at 2x speed and half the cost",
+    "long_description": "ParaQuery is GPU-accelerated, fully-managed Spark + SQL at 4x efficiency. Customers are using ParaQuery to easily process petabyte-scale pipelines at 2x speed and half the cost. It is fully Spark-compatible, cloud agnostic, and has seamless integrations everywhere, all without vendor lock-in.",
+    "one_liner": "Managed GPU-accelerated Spark + SQL at 2x speed and half the cost",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",

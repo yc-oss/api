@@ -5266,27 +5266,24 @@
   },
   {
     "id": 27935,
-    "name": "FiddleCube",
-    "slug": "fiddlecube",
+    "name": "compliant-llm (fka FiddleCube)",
+    "slug": "compliant-llm-fka-fiddlecube",
     "former_names": [
       "ZKomm",
       "Devpod"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4fb2ae6f476fb244457c0798bb0fc47f11be99bb.png",
-    "website": "https://fiddlecube.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e836589affa3183241d8a3c3f2914bb8dc44d2a8.png",
+    "website": "https://www.compliantllm.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "FiddleCube's AI agent helps teams build safe, enterprise-ready Gen AI systems. FiddleCube generates the most comprehensive and up-to-date set of adversarial tests for red-teaming, ensuring safety and compliance with laws across the EU, USCAN, and MENA countries.",
-    "one_liner": "Build safe, enterprise-ready Gen AI systems",
-    "team_size": 2,
+    "long_description": "Compliant LLM is a comprehensive toolkit for ensuring the compliance and security of AI systems.\r\n\r\nInfosec, compliance, and gen AI teams use compliant-llm to ensure that their AI agents are secure and compliant with internal policies and frameworks like NIST, ISO, HIPAA, GDPR, etc.\r\n\r\nIt supports multiple LLM providers and can be used to test prompts, agents, MCP servers, and GenAI models.",
+    "one_liner": "Build Secure and Compliant AI agents and MCP Servers",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1690346092,
     "tags": [
-      "Developer Tools",
       "Generative AI",
-      "Data Science",
-      "Data Labeling",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5296,7 +5293,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Security"
     ],
     "regions": [
       "United States of America",
@@ -5307,8 +5304,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fiddlecube",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/fiddlecube.json"
+    "url": "https://www.ycombinator.com/companies/compliant-llm-fka-fiddlecube",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/compliant-llm-fka-fiddlecube.json"
   },
   {
     "id": 27938,
@@ -6380,48 +6377,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hyperbound",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/hyperbound.json"
-  },
-  {
-    "id": 28792,
-    "name": "AIVideo.com",
-    "slug": "aivideo-com",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b5bf3601cf53d1271c9b93232d3fb67a85545c3.png",
-    "website": "https://aivideo.com",
-    "all_locations": "Oakland, CA, USA; Remote",
-    "long_description": "We built an AI agent to create professional quality videos for 1% of the time and cost of traditional video production. Our AI agent orchestrates the creation of complete videos (script, visuals, VoiceOver, effects, etc.) by utilizing dozens of task-specific AI models in a single workflow. ",
-    "one_liner": "The all in one tool for AI powered video production",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "Consumer -> Content",
-    "launched_at": 1690071004,
-    "tags": [
-      "Generative AI",
-      "Media",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aivideo-com",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/aivideo-com.json"
   },
   {
     "id": 28795,
@@ -8831,6 +8786,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ideate-xyz",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/ideate-xyz.json"
+  },
+  {
+    "id": 29656,
+    "name": "Leeroo",
+    "slug": "leeroo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e24001397e161383bce325dfd9f3d37a2156f8a.png",
+    "website": "https://www.leeroo.com/",
+    "all_locations": "",
+    "long_description": "Leeroo delivers trainable AI agents that learn much like human colleagues— from knowledge bases, human feedback, and even their own past experiences. That continuous learning bridges the gap between generic AI and the expert performance companies need. We’re starting with agents for data- and AI-teams.",
+    "one_liner": "Trainable AI Agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1732293207,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/leeroo",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/leeroo.json"
   },
   {
     "id": 29670,
@@ -11503,6 +11497,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/casco",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/casco.json"
+  },
+  {
+    "id": 30485,
+    "name": "Cleon",
+    "slug": "cleon",
+    "former_names": [
+      "DMV-EZ"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c894808b66b4f54f3f7cd4001a8074d7a42f198f.png",
+    "website": "https://getcleon.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Cleon is building an AI-native software implementation platform to speed up customer onboarding, beginning with a focus on ingesting complex Excel files with agentic AI. \r\n\r\nB2B SaaS companies have millions of dollars of contracted revenue sitting behind implementations. Cleon handles everything from the big picture (generating requirements and aligning stakeholders) to the details (data cleaning and schema mapping). \r\n\r\nThe team consists of Alexandros (ex-athlete in rowing and engineer at a proptech startup), Rohan (engineer at a fintech startup with long implementations and at an SAP code migration startup), and Ric (banker at RBC and enterprise sales at Palantir).",
+    "one_liner": "End-to-end AI software implementation platform",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1748491833,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Enterprise Software",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cleon",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/cleon.json"
   },
   {
     "id": 30500,
