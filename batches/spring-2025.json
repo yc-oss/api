@@ -568,7 +568,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -1105,7 +1105,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -2333,15 +2333,15 @@
     "website": "https://parsewise.ai",
     "all_locations": "",
     "long_description": "Turn complex documents into validated information that business experts can trust and verify. Parsewise saves enterprises hours each day by automating human data tasks in analytics, benchmarking, and reporting workflows.",
-    "one_liner": "Extract Validated Data from Complex Documents",
+    "one_liner": "Trusted Information Extraction for Business Users",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1745096268,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2353,7 +2353,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -2910,7 +2911,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1118b422f2be63b5d6c5b12b721a468712deb7d.png",
     "website": "https://www.opusense.com/",
-    "all_locations": "Toronto, ON, Canada",
+    "all_locations": "",
     "long_description": "Opusense AI automates field report writing for construction field inspectors. Instead of typing up notes at the end of the day, inspectors can now walk a site, speak observations aloud, snap photos, and let our AI assistant generate a detailed, organized report on-site and in real time.\r\n\r\nCombined, the founding team has over 15 years in the construction industry. Writing up these field reports used to take up at least 20% of the week. With Opusense, we cut that time by 5x. Our team combines deep construction experience with technical expertise, Roya has a PhD in civil engineering, and Michael has worked at multiple construction tech startups.\r\n\r\nWhy hasn’t this been done before? Construction is slow to adopt new tech, and reporting is messy, photos, voice notes, and field notes all live in silos. Turning that into a clear, structured report requires real insight into how inspectors work and what clients need. Only now, with advances in AI, can we process unstructured data adequately to generate high-quality reports in real time.\r\n\r\nThe opportunity is massive. Every inspection firm and contractor is struggling with documentation. Manual reports slow them down, create inconsistencies, and delay handoffs. We believe AI can do this better, and Opusense is proving it.",
     "one_liner": "AI for construction field reports",
     "team_size": 2,
@@ -2933,8 +2934,7 @@
       "Construction"
     ],
     "regions": [
-      "Canada",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3880,7 +3880,7 @@
     "one_liner": "Next-generation efficient and compact power supply for AI computing",
     "team_size": 2,
     "industry": "Industrials",
-    "subindustry": "Unspecified",
+    "subindustry": "Industrials -> Energy",
     "launched_at": 1748546232,
     "tags": [
       "Hard Tech",
@@ -4047,7 +4047,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/023b1fec88d11ac0cc00d33e137188a1088f80f1.png",
     "website": "https://paraquery.com",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "ParaQuery is GPU-accelerated, fully-managed Spark + SQL at 4x efficiency. Customers are using ParaQuery to easily process petabyte-scale pipelines at 2x speed and half the cost. It is fully Spark-compatible, cloud agnostic, and has seamless integrations everywhere, all without vendor lock-in.",
+    "long_description": "ParaQuery is a fully-managed, GPU-accelerated Spark + SQL solution with 4x the efficiency of existing platforms. Our customers are using us to easily process petabyte-scale data pipelines at 2x speed and at half the cost. We deliver a cloud-agnostic experience with no data migration overhead, no vendor lock-in, and full Spark compatibility. The company is founded by Win Wang, formerly a tech lead at Twitter building high-efficiency massively-parallel distributed systems.",
     "one_liner": "Managed GPU-accelerated Spark + SQL at 2x speed and half the cost",
     "team_size": 1,
     "industry": "B2B",
@@ -4632,16 +4632,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0bd87983ace16e9a440ec6fe901ff569c1bb997.png",
     "website": "https://chrt.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "chrt is a platform for Time-Critical Logistics. We enable businesses to deliver their most critical items same-day.\r\n\r\nTime-Critical Logistics is a $30B market growing at a 20% CAGR driven by growth in American healthcare and manufacturing.\r\n\r\nBusinesses that place time-critical orders are enterprises who have urgent items they need to deliver ASAP. These orders are critical in nature and often require white glove service -- think therapeutic treatments for healthcare providers or specialized equipment for manufacturers. \r\n\r\nchrt provides a marketplace of professional couriers who pick up and deliver these orders. We build the software these couriers use to handle the shipments, including a driver app and fleet management tools. This gives us full control of the shipment and allows us to provide shippers with end-to-end tracking. It also allows us to intervene early if we notice something is going wrong.\r\n\r\nWe’re software engineers that became friends years ago at McKinsey. Kyle is an expert in Time-Critical Logistics, having led strategy at a leading startup in the space. Aaron is an expert at designing and implementing AI systems to handle complex coordination. We were shipping code together on nights and weekends for years before chrt; now we’re also shipping freight.",
-    "one_liner": "chrt is a platform for Time-Critical Logistics",
+    "long_description": "chrt is a logistics platform for time-critical shipping. We enable businesses to deliver their most critical items same-day.\r\n\r\nTime-Critical Logistics is a $30B market growing at a 20% CAGR driven by growth in American healthcare and manufacturing.\r\n\r\nBusinesses that place time-critical orders are enterprises who have urgent items they need to deliver ASAP. These orders are critical in nature and often require white glove service -- think therapeutic treatments for healthcare providers or specialized equipment for manufacturers. \r\n\r\nchrt provides a marketplace of professional couriers who pick up and deliver these orders. We build the software these couriers use to handle the shipments, including a driver app and fleet management tools. This gives us full control of the shipment and allows us to provide shippers with end-to-end tracking. It also allows us to intervene early if we notice something is going wrong.\r\n\r\nWe’re software engineers that became friends years ago at McKinsey. Kyle is an expert in Time-Critical Logistics, having led strategy at a leading startup in the space. Aaron is an expert at designing and implementing AI systems to handle complex coordination. We were shipping code together on nights and weekends for years before chrt; now we’re also shipping freight.",
+    "one_liner": "chrt is a logistics platform for time-critical shipping",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1747152745,
     "tags": [
-      "Artificial Intelligence",
       "Digital Freight Brokerage",
-      "Marketplace"
+      "Marketplace",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
