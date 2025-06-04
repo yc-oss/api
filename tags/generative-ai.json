@@ -1628,7 +1628,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -9055,8 +9055,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa52a1a9c842c1d4e04662a2a7d816a9091d88c6.png",
     "website": "https://www.benchify.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Benchify is a code review tool that uncovers real bugs by rigorously testing code using methods typically restricted to rocket science and chip design.",
-    "one_liner": "Bug-free code without writing tests",
+    "long_description": "Benchify automatically fixes LLM-generated code in seconds. It’s designed for scenarios where human intervention isn’t feasible, delivering faster and more cost-effective solutions than relying solely on LLMs.",
+    "one_liner": "Instantly Repair LLM-Generated Code",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -11258,16 +11258,16 @@
     "website": "https://www.getkashikoi.com",
     "all_locations": "Remote",
     "long_description": "Kashikoi is a simulation engine to benchmark AI agents. We generate CPU friendly world models that autonomously interview agents and generate deep behavioral assessments. We built a similar technology at Moveworks which was used to ship 250+ enterprise agents to customers daily.",
-    "one_liner": "Simulation engine for benchmarking AI agents",
+    "one_liner": "Simulation Engine for Benchmarking AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1748454120,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Machine Learning"
+      "Machine Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11455,48 +11455,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/runrl",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/runrl.json"
-  },
-  {
-    "id": 30477,
-    "name": "Casco",
-    "slug": "casco",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aad91c0390b62c24c8473857d3ed3043cad61263.png",
-    "website": "https://casco.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Casco helps companies confidently ship AI agents and apps by simulating attacks on their AI systems, identifying vulnerabilities, and providing guided remediation.\r\n\r\nCompanies building on AI face a disproportionate amount of cybersecurity threats. 73% of enterprises experienced at least one AI-related security incident in the past 12 months, with the average incident cost amounting to $4.8m. It also takes 40% longer for these companies to identify and address these breaches vs. non-AI related incidents.\r\n\r\nCheck if your AI system is secure at casco.com\r\n\r\n---\r\n\r\nWe already secure AI systems deployed in 60% of Fortune 500 companies and are default alive. [1]\r\n\r\n[1] http://www.paulgraham.com/aord.html",
-    "one_liner": "Evaluate AI agents and apps on security, safety, and accuracy.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1747691019,
-    "tags": [
-      "Generative AI",
-      "Security",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/casco",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/casco.json"
   },
   {
     "id": 30485,

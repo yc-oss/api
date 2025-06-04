@@ -517,16 +517,16 @@
     "website": "https://www.getkashikoi.com",
     "all_locations": "Remote",
     "long_description": "Kashikoi is a simulation engine to benchmark AI agents. We generate CPU friendly world models that autonomously interview agents and generate deep behavioral assessments. We built a similar technology at Moveworks which was used to ship 250+ enterprise agents to customers daily.",
-    "one_liner": "Simulation engine for benchmarking AI agents",
+    "one_liner": "Simulation Engine for Benchmarking AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1748454120,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Machine Learning"
+      "Machine Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1094,16 +1094,16 @@
     "website": "https://synthiolabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pharma spends billions on medical and sales teams. Yet many physicians still don’t get the timely, relevant medical insight they need.\r\n\r\nSo we built an AI Medical Expert for Pharma GTM teams. Our Medical grade Voice AI Platform delivers compliant, science-first engagement to physicians and patients\r\n\r\nIt’s like adding 100 medical reps to your team, without the headcount.\r\n\r\nOur vision? To reimagine how pharma engages its most important stakeholders — patients and HCPs\r\n\r\nWe’re ex-McKinsey, ex-ZS Life Sciences experts and AI Researchers from AWS. We have worked with 10 of the top 20 pharma companies and bring over a decade of experience in Life Sciences. Our advisors have 30+ years of leadership experience in Pharma.\r\n\r\nWe're synthiolabs.com. Reach out to learn more! ",
-    "one_liner": "World's first AI Medical Rep for Pharma GTM",
+    "one_liner": "Voice AI Medical Rep for Pharma",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "B2B",
     "launched_at": 1744430433,
     "tags": [
+      "Artificial Intelligence",
       "Biotech",
       "Healthcare",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1672,7 +1672,8 @@
       "Artificial Intelligence",
       "Healthcare",
       "Health Insurance",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2335,9 +2336,9 @@
     "subindustry": "B2B",
     "launched_at": 1745096268,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Data Engineering",
-      "AI"
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3242,19 +3243,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aad91c0390b62c24c8473857d3ed3043cad61263.png",
     "website": "https://casco.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Casco helps companies confidently ship AI agents and apps by simulating attacks on their AI systems, identifying vulnerabilities, and providing guided remediation.\r\n\r\nCompanies building on AI face a disproportionate amount of cybersecurity threats. 73% of enterprises experienced at least one AI-related security incident in the past 12 months, with the average incident cost amounting to $4.8m. It also takes 40% longer for these companies to identify and address these breaches vs. non-AI related incidents.\r\n\r\nCheck if your AI system is secure at casco.com\r\n\r\n---\r\n\r\nWe already secure AI systems deployed in 60% of Fortune 500 companies and are default alive. [1]\r\n\r\n[1] http://www.paulgraham.com/aord.html",
     "one_liner": "Evaluate AI agents and apps on security, safety, and accuracy.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1747691019,
-    "tags": [
-      "Generative AI",
-      "Security",
-      "Cybersecurity",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -3266,8 +3262,7 @@
       "Security"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4120,6 +4115,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/sygaldry-technologies.json"
   },
   {
+    "id": 30509,
+    "name": "Boost Robotics",
+    "slug": "boost-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ab11f23c518bbbd560df743f85f60218829e65f.png",
+    "website": "https://www.boostrobotics.ai",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "Boost Robotics is building autonomous mobile manipulation robots to remotely perform manual tasks in data centers. \r\n\r\nThe surge in AI applications is pushing data centers to scale faster than they can manage, leading to suboptimal operations and staffing shortages amid rising power and compute demands.\r\n\r\nWe save data centers millions in insurance premiums and SLA violations by increasing the frequency of inspection and maintenance while reducing the time it takes to triage and address failures.",
+    "one_liner": "Robots for the inspection and maintenance of data centers",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1748984174,
+    "tags": [
+      "AIOps",
+      "Hard Tech",
+      "Robotics",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/boost-robotics",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/boost-robotics.json"
+  },
+  {
     "id": 30511,
     "name": "Vassar Robotics",
     "slug": "vassar-robotics",
@@ -4128,7 +4166,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/298de1df0e98ea832138177668c9cea22705e3fb.png",
     "website": "https://www.vassarrobotics.com",
-    "all_locations": "Cambridge, MA, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re unlocking cutting-edge robot AI for the nerd in your life. Our hardware and software let them teach robots skills like playing chess in just a few hours—no robotics PhD required.",
     "one_liner": "Unlocking Cutting-Edge Robot AI for the Nerd in Your Life",
     "team_size": 2,
@@ -4627,18 +4665,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e0bd87983ace16e9a440ec6fe901ff569c1bb997.png",
     "website": "https://chrt.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "chrt is a logistics platform for time-critical shipping. We enable businesses to deliver their most critical items same-day.\r\n\r\nTime-Critical Logistics is a $30B market growing at a 20% CAGR driven by growth in American healthcare and manufacturing.\r\n\r\nBusinesses that place time-critical orders are enterprises who have urgent items they need to deliver ASAP. These orders are critical in nature and often require white glove service -- think therapeutic treatments for healthcare providers or specialized equipment for manufacturers. \r\n\r\nchrt provides a marketplace of professional couriers who pick up and deliver these orders. We build the software these couriers use to handle the shipments, including a driver app and fleet management tools. This gives us full control of the shipment and allows us to provide shippers with end-to-end tracking. It also allows us to intervene early if we notice something is going wrong.\r\n\r\nWe’re software engineers that became friends years ago at McKinsey. Kyle is an expert in Time-Critical Logistics, having led strategy at a leading startup in the space. Aaron is an expert at designing and implementing AI systems to handle complex coordination. We were shipping code together on nights and weekends for years before chrt; now we’re also shipping freight.",
     "one_liner": "chrt is a logistics platform for time-critical shipping",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1747152745,
-    "tags": [
-      "Digital Freight Brokerage",
-      "Marketplace",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -4650,8 +4684,7 @@
       "Supply Chain and Logistics"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

@@ -1122,9 +1122,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7411f4ecb5153ac85174724f663e8e21142f624a.png",
     "website": "https://nectarclimate.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nectar helps large companies collect carbon emissions data for mandatory disclosures. Over 50,000 companies today are required to collect utility data for upcoming regulations in the US/EU. Sustainability teams manually parse the data, a process that takes 100M work hours annually, requires expensive audits, and results in inaccurate metrics. Nectar automatically extracts, structures, and inputs this data into companies' existing systems.",
-    "one_liner": "Collecting companies' carbon emissions data",
-    "team_size": 2,
+    "long_description": "Nectar is a utility data management platform that automates the collection and processing of energy, water, and waste data for organizations worldwide. By connecting to over 7,000 utility providers, Nectar delivers highly accurate, granular usage and cost data, enabling energy and sustainability teams to achieve 100% data completeness for energy brokering, buildings management, and carbon accounting. With seamless integration into existing systems, Nectar reduces manual effort, minimizes errors, and provides a centralized solution for comprehensive utility data management.",
+    "one_liner": "Collecting utility data for energy managers and sustainability teams",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1688762834,
@@ -1283,6 +1283,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/networkocean",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/networkocean.json"
+  },
+  {
+    "id": 29667,
+    "name": "Rewbi",
+    "slug": "rewbi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05452330a078be465b5353a9b54ad87966552d0b.png",
+    "website": "https://www.rewbi.com/",
+    "all_locations": "",
+    "long_description": "Rewbi uses AI to optimize grid-connected battery storage. We generate revenue by charging when electricity is cheap and discharging when electricity is expensive.\r\n\r\nWe rent battery storage for a fixed fee per month, and we earn 2x that fee in monthly revenue by dispatching the battery optimally.\r\n\r\nToday, power companies use human traders to manually track grid conditions and update the battery’s dispatch schedule. However batteries can adjust their power output 100x faster than traditional power generation (e.g. hydro, coal, nuclear, gas), with the ability to go from full-speed charging to to full speed discharging in under a minute. Electricity prices change every 5 minutes, often by 300% or more. Our AI better tracks 100s of live inputs, and it makes decisions faster than a human operator (with lower overhead!), improving revenue 2x.",
+    "one_liner": "Rewbi uses AI to increase grid-connected battery storage revenue 2x",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1724874761,
+    "tags": [
+      "Energy Storage",
+      "B2B",
+      "Energy",
+      "Renewable Energy",
+      "ClimateTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rewbi",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/rewbi.json"
   },
   {
     "id": 29701,

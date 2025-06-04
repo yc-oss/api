@@ -2054,23 +2054,23 @@
   },
   {
     "id": 29341,
-    "name": "Markprompt",
-    "slug": "markprompt",
+    "name": "14.ai",
+    "slug": "14-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93868cea387df28baae15a7e6d63968d4621e82d.png",
-    "website": "https://markprompt.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1841ada0df7c64908eb6c8d0117d73d41c5eaed1.png",
+    "website": "https://14.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Close customer support tickets faster with AI.\r\n\r\nWe’re building AI infrastructure to power customer support at scale. With Markprompt, companies can automate customer support, scale without increasing headcount, and deliver exceptional user experiences.\r\n \r\nScaling customer support with headcount is expensive, with human resources accounting for 90%+ of customer support expenses. On top of that, customer support agents often burn out leading to turnover and reduced quality. As companies grow, so does their expert knowledge, which is hard to access at scale and makes keeping employees up-to-date nearly impossible.\r\n\r\nMarkprompt addresses the root of the information access problem by indexing all available knowledge within a company, setting the foundation for a robust system of record to feed the AI. Built from the ground up with an API-first approach, Markprompt provides SDKs (such as React hooks and components) and no-code tools to enable integrations at all touchpoints in the customer journey.",
-    "one_liner": "AI for customer support",
+    "long_description": "14.ai is a Zendesk alternative built from the ground up for AI agents. The Cursor for customer support.",
+    "one_liner": "Customer support for 1000x teams",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1700867535,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Customer Support",
       "Infrastructure",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -2092,8 +2092,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/markprompt",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/markprompt.json"
+    "url": "https://www.ycombinator.com/companies/14-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/14-ai.json"
   },
   {
     "id": 29425,
@@ -2677,18 +2677,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/501bda7eaf23c59e167bae838b7a5bc2328b2fdb.png",
     "website": "https://www.thundercompute.com",
     "all_locations": "Atlanta, GA, USA",
-    "long_description": "Thunder Compute is the world's cheapest GPU cloud platform for researchers, data scientists, and indie devs. The team is building a proprietary virtualization stack to improve GPU utilization by 5x. Try it today.",
+    "long_description": "Thunder Compute is the world's cheapest GPU cloud platform for researchers, data scientists, and startups. The team is building a proprietary orchestration stack to improve GPU utilization by 5x. Try it today.",
     "one_liner": "The cheapest GPU cloud for developing AI/ML",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3456,6 +3456,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/paraquery",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/paraquery.json"
+  },
+  {
+    "id": 30509,
+    "name": "Boost Robotics",
+    "slug": "boost-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ab11f23c518bbbd560df743f85f60218829e65f.png",
+    "website": "https://www.boostrobotics.ai",
+    "all_locations": "Boston, MA, USA",
+    "long_description": "Boost Robotics is building autonomous mobile manipulation robots to remotely perform manual tasks in data centers. \r\n\r\nThe surge in AI applications is pushing data centers to scale faster than they can manage, leading to suboptimal operations and staffing shortages amid rising power and compute demands.\r\n\r\nWe save data centers millions in insurance premiums and SLA violations by increasing the frequency of inspection and maintenance while reducing the time it takes to triage and address failures.",
+    "one_liner": "Robots for the inspection and maintenance of data centers",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1748984174,
+    "tags": [
+      "AIOps",
+      "Hard Tech",
+      "Robotics",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/boost-robotics",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/boost-robotics.json"
   },
   {
     "id": 30549,
