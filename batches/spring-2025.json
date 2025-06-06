@@ -50,7 +50,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/919432869b9d7a01cb7d24ccff7380278318f625.png",
     "website": "https://atum.works/",
     "all_locations": "Mountain View, CA, USA",
-    "long_description": "Atum Works is building 3D ASML.\r\n\r\nThe world is hooked on chips, thanks to the power of lithography.\r\nBut, 2D lithography resolution has maxed out: Moore's law is dead.\r\nTo move forward, we must transition to a 3D manufacturing process whose cost scales with materials, not layers. \r\n\r\nAtum Works is building the world's most advanced 3D lithography process to 3D print parts >10,000x cheaper in low-volume and 10x cheaper in mass-manufacturing compared to today's 2D lithography. \r\n\r\nSince starting YC, we have built a printer, and partnered with NVIDIA. \r\nWe are shipping products this year. \r\n\r\nFounded by Caltech and NASA engineers, we're starting the next scaling law of semiconductor manufacturing, this time in 3D.",
+    "long_description": "Atum Works is building 3D ASML.\r\n\r\nFounded by Caltech and NASA engineers, we're starting the next scaling law of semiconductor manufacturing, this time in 3D.",
     "one_liner": "Gigascale Nanomanufacturing",
     "team_size": 3,
     "industry": "Industrials",
@@ -135,16 +135,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac03a28cb503f64a3f8684816a352307a74638e1.png",
     "website": "https://www.tropir.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tropir is the first AI that builds better AIs.\r\n\r\nWe don’t just trace where your pipeline broke—we fix it. Tropir analyzes the flow of logic across prompts, tools, and retrievals to pinpoint root causes, suggests targeted changes, reruns the pipeline with those fixes, and runs evals to check if things actually improved. If not, it keeps iterating until they do. You build the flow. We make it unbreakable\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
+    "long_description": "Tropir is the first AI that builds better AIs.\r\n\r\nWe don’t just trace where your pipeline broke—we fix it. Tropir analyzes the flow of logic across prompts, tools, and retrievals to pinpoint root causes, suggests targeted changes, reruns the pipeline with those fixes, and runs evals to check if things actually improved. If not, it keeps iterating until they do. You build the flow. We make it unbreakable.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
     "one_liner": "The AI that builds better AIs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1746601065,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -388,7 +388,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/631ee284ae72491a5ece65b4b063ba64ec1a008c.png",
     "website": "https://chestnutmortgage.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Chestnut is the first AI mortgage lender. Our AI agents save customers 0.5%+ in interest.\r\n\r\nToday, 80% of employees at traditional lenders spend hours each day filling out paper forms, manually reviewing documents, and copy-pasting data between systems. These manual processes cost lenders – and ultimately their borrowers – $12,000+ per loan ($61B+ per year).\r\n\r\nAI can automate 99% of mortgage operations, but traditional lenders would take 10+ years to adapt. They’d have to overhaul their entire tech stack, rewrite every procedure, and retrain their whole workforce. Chestnut is vertically integrating AI to challenge traditional lenders directly.\r\n\r\nFounder Spencer Brown’s previous startup built a mortgage Loan Origination System that powered 2% of US mortgages annually.\r\n\r\nWe’re currently licensed in Texas and Colorado, helping clients with home purchases, refinances, cash-outs, and home equity lines of credit.",
+    "long_description": "Chestnut is the first AI mortgage lender. We automate 99% of human work with AI agents, saving customers 0.5%+ in interest. This is Spencer's second mortgage startup; the first processes 2% of US mortgages annually. So far, Chestnut is licensed in Texas and Colorado where we power purchases, refinances, cash-outs, and more.",
     "one_liner": "The first AI mortgage lender",
     "team_size": 1,
     "industry": "Fintech",
@@ -811,7 +811,7 @@
     "website": "https://cubic.dev/",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Code review is a major bottleneck for software teams, and the rise of AI-generated code is making the problem worse. Reviewing large volumes of code slows devs down, and increases the chances of bugs slipping through.\r\n\r\nThat's why we're building cubic: an intelligent code review platform that helps devs merge PRs 40% faster.\r\n\r\nHow? \r\n- When you open a PR, cubic automatically reviews it. It learns from your codebase's patterns, points out bugs, suggesting fixes, and frees you from low-level review tasks.\r\n- You then jump into the cubic platform, which is designed to optimize how humans review code. For example, file changes are organized in a logical order instead of alphabetical, and cubic generates diagrams of architecture changes.",
-    "one_liner": "AI-powered code review platform",
+    "one_liner": "Cursor for code review",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1921,15 +1921,15 @@
     "website": "https://vibegrade.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "VibeGrade is the AI that works directly inside Google Classroom, Google Docs, and Canvas to grade papers 10x faster, in the teacher's style. \r\n\r\nTeachers often spend hours of their own time grading hundreds of papers, which can lead to rushed and generic feedback for students. \r\n\r\nUnlike other grading tools that require bulk uploads and remove teachers from the process, VibeGrade allows teachers to use AI to write high-quality, teacher-like feedback—right within the LMS.",
-    "one_liner": "Integrated AI for Schools",
+    "one_liner": "Cursor for Teachers",
     "team_size": 2,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1745137302,
     "tags": [
-      "Artificial Intelligence",
       "Education",
-      "Edtech"
+      "Edtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2084,16 +2084,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d85ee8e46a07cfba77132afdefaa1146a8d986e.png",
     "website": "https://www.getcaucus.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Caucus is the last piece of software the American government will ever need. We’re building Cursor for government: general purpose AI agents designed to understand workflows, integrate with existing tools, and eliminate the friction of fragmented software, starting with congressional offices. Caucus empowers government workers to streamline their daily tasks, eliminate fragmentation, and work at the speed of thought, enabling public servants to focus on high impact work and service.",
+    "long_description": "Caucus is the last piece of software the American government will ever need. We’re building Cursor for government: general purpose AI agents designed to understand workflows, integrate with existing tools, and eliminate the friction of fragmented software. Caucus empowers government workers to streamline their daily tasks, eliminate fragmentation, and work at the speed of thought, enabling public servants to focus on high impact work and service.",
     "one_liner": "The Last Piece of Software for the American Government",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1745963507,
     "tags": [
-      "Artificial Intelligence",
       "Civic Tech",
-      "GovTech"
+      "GovTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2330,15 +2330,15 @@
     "website": "https://parsewise.ai",
     "all_locations": "",
     "long_description": "Turn complex documents into validated information that business experts can trust and verify. Parsewise saves enterprises hours each day by automating human data tasks in analytics, benchmarking, and reporting workflows.",
-    "one_liner": "Trusted Information Extraction for Business Users",
+    "one_liner": "Business Analytics for Unstructured Data",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1745096268,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Data Engineering"
+      "Data Engineering",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2369,8 +2369,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eb049b24a3b434a45574fe510043fc81b736b2b.png",
     "website": "https://operative.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Operative uses AI to build web apps that are, well, operative! With the best in-app debugging tools, the operative agent can not only code up your site, but test it too. Try in web or download operative MCP for Cursor.",
-    "one_liner": "Web application code generation with debugging tools built in",
+    "long_description": "Operative is a platform for organizations to build internal applications quickly using AI. We provide a web interface where organizations can create new web applications tailored to specific use cases, using their existing backend APIs (supporting existing authentication & authorization). We're like retool but we connect directly with a company's internal APIs and allow users to generate arbitrary frontend code.\r\n\r\nWe've launched a consumer product that has been well received, and most recently have discovered that businesses & enterprises are interested in code generation for internal applications as well, and we're now focused on this direciton.",
+    "one_liner": "Web application code generation for an organizations internal APIs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4624,7 +4624,7 @@
     "former_names": [
       "Echo Exploration Company, Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b51923708ddf66171a6468453b53717108db55a3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7739235b539c91f55bd250da7893871d1a966b2.png",
     "website": "https://lapel.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Lapel is building a customer operations platform that brings hospitality to the internet: one real-time view of every account + tools to power every touchpoint.\r\n\r\nWe believe online customer relationships should feel personal, not transactional. Today, most teams manage relationships through dashboards, funnels, and canned replies—great for metrics, terrible for humans.\r\n\r\nCustomers don’t see lines between Sales, Success, and Support, and your software shouldn’t either. Learn more at lapel.com",
@@ -4634,10 +4634,10 @@
     "subindustry": "B2B",
     "launched_at": 1747773891,
     "tags": [
-      "Artificial Intelligence",
       "Customer Success",
       "Sales",
-      "Customer Support"
+      "Customer Support",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4834,7 +4834,7 @@
     "one_liner": "AI for Energy & Industrial Compliance",
     "team_size": 4,
     "industry": "Industrials",
-    "subindustry": "Industrials",
+    "subindustry": "Industrials -> Climate",
     "launched_at": 1744344066,
     "tags": [
       "Artificial Intelligence",
@@ -4920,11 +4920,11 @@
     "subindustry": "B2B",
     "launched_at": 1746945144,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

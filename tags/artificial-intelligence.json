@@ -17059,7 +17059,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -17587,7 +17587,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -19865,49 +19865,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/topo",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/topo.json"
-  },
-  {
-    "id": 29310,
-    "name": "Tusk",
-    "slug": "tusk",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb011897f099f9342d33ca8a6bad3b4388ee0a54.png",
-    "website": "https://usetusk.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tusk (YC W24) is an AI agent that helps developers generate unit and integration tests with codebase context. Tusk sits in CI and provides automatic coverage whenever software engineers raise a PR. Engineering teams use Tusk to prevent critical regressions while increasing test coverage.",
-    "one_liner": "AI agent that generates unit and integration tests",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1700257117,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tusk",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/tusk.json"
   },
   {
     "id": 29311,
@@ -22597,12 +22554,12 @@
       "Million.js",
       "Million"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54be5942506ceca0e5c954b2d14f532650487611.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e252dccfa9608a9c8b071de84c09ddbfba0bd06.png",
     "website": "https://same.new",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Build online business by prompting",
-    "one_liner": "Build online business by prompting",
-    "team_size": 8,
+    "long_description": "We are Same (YC W24). We want to help people easy develop and run products.\r\n\r\nWe believe that soon everyone will be able to freely explore, create, and implement various ideas without being restricted by technology and time. Coding in its current form is still too complicated for most people. It gives control to a small elite, takes years to master, and remains unintuitive and time-consuming to the average person.\r\n\r\nWe spent the last two years building tools like Million.js and React Scan that extend what millions of developers could create. Now, we're going to share that magic with the rest of the world.\r\n\r\nWe're based in San Francisco and Shanghai.",
+    "one_liner": "Build products without coding",
+    "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
     "launched_at": 1703896590,
@@ -22938,6 +22895,47 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/understood-care",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/understood-care.json"
+  },
+  {
+    "id": 29582,
+    "name": "Cheers",
+    "slug": "cheers",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67c33e0e1229416643c3c04c56495e10ccaea0a.png",
+    "website": "https://www.cheers.tech",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Most corporate initiatives stall at the frontline because companies lack real-time visibility into execution and employee performance. Without clear insights, it's impossible to know what's working, who’s driving results, or where improvement is needed. Cheers closes this last-mile gap. Our NFC badges let customers leave a review, download an app, join a loyalty program, tip, or refer with a single tap, automatically tying every action to the employee who earned it. The result is the first real-time performance dataset for frontline workers.\r\n\r\nManagers see exactly who drives results, which programs convert, and where to coach. Vivint Smart Home used Cheers to capture 16,000+ five-star Google reviews in two months and raised its local Google ratings from ~2.0 to ~4.9 stars. Cheers is turning millions of frontline interactions into actionable data, becoming the intelligence layer of the frontline economy.",
+    "one_liner": "Datadog for frontline employees",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1721413814,
+    "tags": [
+      "Artificial Intelligence",
+      "Analytics",
+      "Feedback",
+      "Reviews"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cheers",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/cheers.json"
   },
   {
     "id": 29588,
@@ -27351,47 +27349,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/quantstruct.json"
   },
   {
-    "id": 30173,
-    "name": "Tropir",
-    "slug": "tropir",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac03a28cb503f64a3f8684816a352307a74638e1.png",
-    "website": "https://www.tropir.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tropir is the first AI that builds better AIs.\r\n\r\nWe don’t just trace where your pipeline broke—we fix it. Tropir analyzes the flow of logic across prompts, tools, and retrievals to pinpoint root causes, suggests targeted changes, reruns the pipeline with those fixes, and runs evals to check if things actually improved. If not, it keeps iterating until they do. You build the flow. We make it unbreakable\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
-    "one_liner": "The AI that builds better AIs",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Industrials -> Climate",
-    "launched_at": 1746601065,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tropir",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/tropir.json"
-  },
-  {
     "id": 30176,
     "name": "Trace",
     "slug": "trace",
@@ -28244,8 +28201,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7080dfa822287673ec2a18eb24c6bb89b856ef3.png",
     "website": "https://macadamialabs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Macadamia is building an AI mechanical engineer that fixes technical issues in complex engineering projects. It monitors your technical documents and detects issues early before they escalate. By integrating with engineering software, our AI agent implements solutions automatically in complex workflows. Think of Glean.com specialized for Mechanical / Civil engineering firms. ",
-    "one_liner": "AI Mechanical Engineer to fix technical issues",
+    "long_description": "Macadamia builds AI agents in complex engineering projects. \r\nThey automate both engineering & business processes, to automate away all low-leverage work.\r\nIt integrates with all all engineering data sources, technical documentation, and third-party software tools.\r\nMacadamia serves customers in mechanical engineering, manufacturing, and construction.",
+    "one_liner": "AI Agents for Complex Engineering Projects",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -29179,7 +29136,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/631ee284ae72491a5ece65b4b063ba64ec1a008c.png",
     "website": "https://chestnutmortgage.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Chestnut is the first AI mortgage lender. Our AI agents save customers 0.5%+ in interest.\r\n\r\nToday, 80% of employees at traditional lenders spend hours each day filling out paper forms, manually reviewing documents, and copy-pasting data between systems. These manual processes cost lenders – and ultimately their borrowers – $12,000+ per loan ($61B+ per year).\r\n\r\nAI can automate 99% of mortgage operations, but traditional lenders would take 10+ years to adapt. They’d have to overhaul their entire tech stack, rewrite every procedure, and retrain their whole workforce. Chestnut is vertically integrating AI to challenge traditional lenders directly.\r\n\r\nFounder Spencer Brown’s previous startup built a mortgage Loan Origination System that powered 2% of US mortgages annually.\r\n\r\nWe’re currently licensed in Texas and Colorado, helping clients with home purchases, refinances, cash-outs, and home equity lines of credit.",
+    "long_description": "Chestnut is the first AI mortgage lender. We automate 99% of human work with AI agents, saving customers 0.5%+ in interest. This is Spencer's second mortgage startup; the first processes 2% of US mortgages annually. So far, Chestnut is licensed in Texas and Colorado where we power purchases, refinances, cash-outs, and more.",
     "one_liner": "The first AI mortgage lender",
     "team_size": 1,
     "industry": "Fintech",
@@ -29841,48 +29798,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/stratify.json"
   },
   {
-    "id": 30443,
-    "name": "VibeGrade",
-    "slug": "vibegrade",
-    "former_names": [
-      "GradeAssist"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3734c453d08702b53dd8dd51421a3aed7b3f135c.png",
-    "website": "https://vibegrade.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "VibeGrade is the AI that works directly inside Google Classroom, Google Docs, and Canvas to grade papers 10x faster, in the teacher's style. \r\n\r\nTeachers often spend hours of their own time grading hundreds of papers, which can lead to rushed and generic feedback for students. \r\n\r\nUnlike other grading tools that require bulk uploads and remove teachers from the process, VibeGrade allows teachers to use AI to write high-quality, teacher-like feedback—right within the LMS.",
-    "one_liner": "Integrated AI for Schools",
-    "team_size": 2,
-    "industry": "Education",
-    "subindustry": "Education",
-    "launched_at": 1745137302,
-    "tags": [
-      "Artificial Intelligence",
-      "Education",
-      "Edtech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Education"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/vibegrade",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/vibegrade.json"
-  },
-  {
     "id": 30444,
     "name": "Percival",
     "slug": "percival",
@@ -30007,46 +29922,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/kirana-ai.json"
   },
   {
-    "id": 30447,
-    "name": "Caucus",
-    "slug": "caucus",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d85ee8e46a07cfba77132afdefaa1146a8d986e.png",
-    "website": "https://www.getcaucus.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Caucus is the last piece of software the American government will ever need. We’re building Cursor for government: general purpose AI agents designed to understand workflows, integrate with existing tools, and eliminate the friction of fragmented software, starting with congressional offices. Caucus empowers government workers to streamline their daily tasks, eliminate fragmentation, and work at the speed of thought, enabling public servants to focus on high impact work and service.",
-    "one_liner": "The Last Piece of Software for the American Government",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1745963507,
-    "tags": [
-      "Artificial Intelligence",
-      "Civic Tech",
-      "GovTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/caucus",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/caucus.json"
-  },
-  {
     "id": 30451,
     "name": "Bluejay",
     "slug": "bluejay",
@@ -30085,46 +29960,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bluejay",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bluejay.json"
-  },
-  {
-    "id": 30453,
-    "name": "Parsewise",
-    "slug": "parsewise",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f1c0c72a7f623d3b80ce3fbde35d6d196e31e5c.png",
-    "website": "https://parsewise.ai",
-    "all_locations": "",
-    "long_description": "Turn complex documents into validated information that business experts can trust and verify. Parsewise saves enterprises hours each day by automating human data tasks in analytics, benchmarking, and reporting workflows.",
-    "one_liner": "Trusted Information Extraction for Business Users",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1745096268,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parsewise",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/parsewise.json"
   },
   {
     "id": 30456,
@@ -30924,49 +30759,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/mesmer.json"
   },
   {
-    "id": 30524,
-    "name": "Lapel",
-    "slug": "lapel",
-    "former_names": [
-      "Echo Exploration Company, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b51923708ddf66171a6468453b53717108db55a3.png",
-    "website": "https://lapel.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lapel is building a customer operations platform that brings hospitality to the internet: one real-time view of every account + tools to power every touchpoint.\r\n\r\nWe believe online customer relationships should feel personal, not transactional. Today, most teams manage relationships through dashboards, funnels, and canned replies—great for metrics, terrible for humans.\r\n\r\nCustomers don’t see lines between Sales, Success, and Support, and your software shouldn’t either. Learn more at lapel.com",
-    "one_liner": "Customer operations platform for internet businesses.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747773891,
-    "tags": [
-      "Artificial Intelligence",
-      "Customer Success",
-      "Sales",
-      "Customer Support"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lapel",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/lapel.json"
-  },
-  {
     "id": 30530,
     "name": "Rimba",
     "slug": "rimba",
@@ -30978,7 +30770,7 @@
     "one_liner": "AI for Energy & Industrial Compliance",
     "team_size": 4,
     "industry": "Industrials",
-    "subindustry": "Industrials",
+    "subindustry": "Industrials -> Climate",
     "launched_at": 1744344066,
     "tags": [
       "Artificial Intelligence",
@@ -31008,49 +30800,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rimba",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/rimba.json"
-  },
-  {
-    "id": 30533,
-    "name": "Delty",
-    "slug": "delty",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a497a3dd8d97bd1afd47deddea2d641ad655b69.png",
-    "website": "https://delty.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "As software systems grow more complex and teams scale, key engineering work happens outside of code: product specs, docs, and architecture decisions and norms. That’s where a staff software engineer shines.\r\n\r\nDelty is an AI staff engineer.\r\n\r\nLike a seasoned engineer embedded in your team, Delty understands your architecture, code evolution, and constraints. It designs new software systems and grounds your coding agents with real engineering context to help you deliver reliable, scalable systems, fast.",
-    "one_liner": "AI staff engineer that designs systems and guides coding agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1746945144,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "SaaS",
-      "B2B",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/delty",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/delty.json"
   },
   {
     "id": 30536,
