@@ -6010,6 +6010,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/blindpay.json"
   },
   {
+    "id": 30454,
+    "name": "Operative",
+    "slug": "operative",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eb049b24a3b434a45574fe510043fc81b736b2b.png",
+    "website": "https://operative.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Operative is a platform for organizations to build internal applications quickly using AI. We provide a web interface where organizations can create new web applications tailored to specific use cases, using their existing backend APIs (supporting existing authentication & authorization). We're like retool but we connect directly with a company's internal APIs and allow users to generate arbitrary frontend code.\r\n\r\nWe've launched a consumer product that has been well received, and most recently have discovered that businesses & enterprises are interested in code generation for internal applications as well, and we're now focused on this direciton.",
+    "one_liner": "Web application code generation for internal APIs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1745867856,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "API",
+      "Data Engineering",
+      "Data Visualization"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/operative",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/operative.json"
+  },
+  {
     "id": 30506,
     "name": "Klavis AI",
     "slug": "klavis-ai",
@@ -6017,7 +6060,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ca0035244a123067c03e5df2d892bbd9cb7d00.png",
     "website": "https://www.klavis.ai/",
     "all_locations": "",
-    "long_description": "Klavis AI is open source MCP integrations for AI Applications. Our API provides hosted, secure MCP servers, eliminating auth management and client-side code.",
+    "long_description": "Klavis AI is open source MCP integrations for AI Applications. Our API provides hosted, secure MCP servers, eliminating auth management and client-side code. Co-founder Xiangkai Zeng co-authored the Gemini paper and pioneered the tool calling infrastructure for Gemini. https://www.klavis.ai/",
     "one_liner": "Open Source MCP Integrations for AI Applications",
     "team_size": 2,
     "industry": "B2B",
@@ -6025,6 +6068,7 @@
     "launched_at": 1744314522,
     "tags": [
       "Artificial Intelligence",
+      "SaaS",
       "Open Source",
       "API",
       "AI"

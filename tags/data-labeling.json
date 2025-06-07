@@ -400,11 +400,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1744440110,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Healthcare",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -428,6 +428,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/frekil.json"
   },
   {
+    "id": 30455,
+    "name": "The LLM Data Company",
+    "slug": "the-llm-data-company",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/005788a0c189061ca9f07ab8f45073430685851b.png",
+    "website": "https://www.thellmdatacompany.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The LLM Data Company creates tooling to write, version and execute evals for models and agents. We help you measure performance and define rewards for reinforcement learning.",
+    "one_liner": "Datagen Tooling for Evals & RL",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747787326,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Generative AI",
+      "Data Labeling",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/the-llm-data-company",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/the-llm-data-company.json"
+  },
+  {
     "id": 30500,
     "name": "Besimple AI",
     "slug": "besimple-ai",
@@ -438,7 +480,7 @@
     "website": "https://besimple.ai",
     "all_locations": "Redwood City, CA, USA",
     "long_description": "Spin up your own data annotation platform in 60 seconds!\r\n\r\nHigh-quality, human-reviewed data is essential for improving AI models.  Yet, many teams still use outdated tools or spreadsheets that aren’t built for complex data from LLMs and AI agents. This slows down iteration, drives up costs, and makes model performance unpredictable in real-world use.\r\n\r\nWith Besimple, you can generate your own platform for annotating AI evaluation and training data instantly.  Simply paste or stream any type of raw data—text, chat, audio, video, or LLM outputs—and we'll instantly generate a tailored annotation interface, clear guidelines, and an automated human-in-the-loop workflow.  Our AI Judges quickly learn from human annotations, take over labeling for easy cases, and evaluate live production data, letting your team focus only on critical edge cases.\r\n\r\nKey differentiators\r\n1. Instant custom UI - Automatically generate tailored annotation interfaces just by uploading your data. Adjust easily whenever data or needs change.\r\n2. Tailored guidelines – Import any existing guidelines or we will draft new ones aligned with your business goals, ready for annotation\r\n3. AI Judges for real-time evaluation – AI-powered judges continuously improve by learning human preferences, automatically labeling data and flagging tough cases for expert review.\r\n4. Enterprise-grade deployment – On-prem optional install, and robust user management for internal SMEs, external vendors, or Besimple’s vetted annotators.\r\n5. Lightning-Fast Setup: No code, no plugins—just drop in your data, set guidelines, and you’re good to go.\r\n\r\nToday we power evaluation and training pipelines for leading AI companies in customer support, search, education, and more.  For example, the leading AI grading company Edexia uses besimple to annotate hundreds of decisions and improve their evals.\r\n\r\nBesimple is built by a team that has done this before. Yi Zhong and Bill Wang built the annotation platform for Meta’s Llama models, significantly improving quality of data and shortening model development cycle.\r\n\r\nReach out!\r\n\r\nIf you’re building an AI product and struggle with good eval or training data —or if you have models in prod with no idea why they fail—let’s talk. We’ll show you how to launch a custom annotation flow in a minute, bootstrap an AI Judge in an afternoon, and start shipping better models tomorrow.",
-    "one_liner": "We make data annotation simple",
+    "one_liner": "AI powered data annotation",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",

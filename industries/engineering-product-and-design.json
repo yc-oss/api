@@ -13153,42 +13153,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/dev-tools-ai.json"
   },
   {
-    "id": 27583,
-    "name": "Rubbrband",
-    "slug": "rubbrband",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b18880e05c9eef448b41e2f69a59b103c451224d.png",
-    "website": "https://rubbrband.com",
-    "all_locations": "",
-    "long_description": "Rubbrband is building an AI artist that can imagine and edit beautiful images for you. \r\n\r\nWe are on a mission to allow anybody to create great art, regardless of skill level.\r\n\r\nRubbrband is used by creatives all around the world.",
-    "one_liner": "Roi, your AI artist",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1666397912,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rubbrband",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/rubbrband.json"
-  },
-  {
     "id": 27668,
     "name": "Designbase",
     "slug": "designbase",
@@ -17487,24 +17451,22 @@
   },
   {
     "id": 29350,
-    "name": "Aether Energy",
-    "slug": "aether-energy",
+    "name": "Aether",
+    "slug": "aether",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fdcedd6988abbc35bfedf1d78f7da44ed6d08f4a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d730be252a337a985a4ed186c91c97076cf81355.png",
     "website": "https://www.aethernrg.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aether is an AI-powered end-to-end platform for rooftop solar and roofing installers in the US and Western European markets. \r\n\r\nSome of our innovations:\r\n\r\n- In-house computer vision and fine-tuned AI models built for solar\r\n- Rapid and accurate photovoltaic site design, 10x faster\r\n- Co-pilot for rooftop solar to streamline & automate various tasks for solar installers. \r\n\r\nWhy it’s needed: Today, rooftop solar is still complex, expensive, and inaccurate. More than half of the cost of a rooftop solar project comes from soft costs. We started Aether with the sole aim of reducing solar soft costs. \r\n\r\nOur vision: Aether will be a big player in the young and emerging Solar software vertical, which has a projected 20B Global TAM up for grabs by 2025.",
-    "one_liner": "Solar and roofing workflow software for solar installers worldwide",
-    "team_size": 4,
+    "long_description": "Aether is AI-powered front-office platform for contractors — a go-to-market engine that combines targeting, design, proposals, and deal management into one system built for trades like Roofing, Solar, HVAC, Landscaping, and Fire Mitigation. \r\n\r\n",
+    "one_liner": "AI-powered GTM stack for field service trades",
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1709429693,
     "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Solar Power",
       "Climate",
-      "Renewable Energy"
+      "CRM",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17527,8 +17489,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aether-energy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/aether-energy.json"
+    "url": "https://www.ycombinator.com/companies/aether",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/aether.json"
   },
   {
     "id": 29352,
@@ -22282,9 +22244,9 @@
     "subindustry": "Unspecified",
     "launched_at": 1745390836,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22316,8 +22278,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d4b717bddf685ac3a5f54298f79381c741a52c3.png",
     "website": "https://cubic.dev/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Code review is a major bottleneck for software teams, and the rise of AI-generated code is making the problem worse. Reviewing large volumes of code slows devs down, and increases the chances of bugs slipping through.\r\n\r\nThat's why we're building cubic: an intelligent code review platform that helps devs merge PRs 40% faster.\r\n\r\nHow? \r\n- When you open a PR, cubic automatically reviews it. It learns from your codebase's patterns, points out bugs, suggesting fixes, and frees you from low-level review tasks.\r\n- You then jump into the cubic platform, which is designed to optimize how humans review code. For example, file changes are organized in a logical order instead of alphabetical, and cubic generates diagrams of architecture changes.",
-    "one_liner": "Cursor for code review",
+    "long_description": "Code review is a major bottleneck for software teams, and the rise of AI-generated code is making the problem worse. Reviewing large volumes of code slows devs down, and increases the chances of bugs slipping through.\r\n\r\nThat's why we're building cubic: an intelligent code review platform that helps devs merge PRs 28% faster.\r\n\r\nHow? \r\n- When you open a PR, cubic automatically reviews it. It learns from your codebase's patterns, points out bugs, suggesting fixes, and frees you from low-level review tasks.\r\n- You then jump into the cubic platform, which is designed to optimize how humans review code. For example, file changes are organized in a logical order instead of alphabetical, and cubic generates diagrams of architecture changes.",
+    "one_liner": "AI-powered code review platform",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -22482,7 +22444,7 @@
     "website": "https://www.chonkie.ai",
     "all_locations": "",
     "long_description": "Chonkie breaks down large documents into smaller, meaningful chunks, making it easier for AI to process information. By ensuring that models receive only relevant and well-structured context within their token limits, Chonkie improves response accuracy and speed. Our tools are built to integrate seamlessly with any tech stack, so you can focus on leveraging your AI's full potential easily.",
-    "one_liner": "Make Documents AI Ready",
+    "one_liner": "Open Source Data Ingestion For AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -22522,7 +22484,7 @@
     "website": "https://helix-db.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "HelixDB is a graph-vector database that brings structure to vector data, enabling developers to easily build Graph/Hybrid RAG applications. While vector databases have become essential for AI, they fall short when retrieval requires explicit properties or relationships. Existing solutions either bolt vector functionality onto legacy graph databases with poor performance, or force developers to integrate separate systems through middleware, creating overhead and latency bottlenecks.\r\n\r\nBuilt from scratch in Rust, HelixDB leverages world-class expertise in low-level systems programming and algorithms to achieve extreme performance optimizations impossible with existing architectures. This deep technical approach stands in contrast to the LLM-dependent development prevalent in the industry, requiring specialized knowledge in areas where AI tools currently fall short.\r\n\r\nThe timing is optimal: graph databases are finally gaining recognition after two decades of underutilization, while vector databases have proven their AI value but revealed structural limitations. We emerge as the market awakens to hybrid solutions, positioned early enough to capture the opportunity but not so early as to lack ready adopters.",
-    "one_liner": "A graph-vector database for building RAG and AI.",
+    "one_liner": "The database for intelligence",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -22609,13 +22571,17 @@
     "website": "https://operative.sh/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Operative is a platform for organizations to build internal applications quickly using AI. We provide a web interface where organizations can create new web applications tailored to specific use cases, using their existing backend APIs (supporting existing authentication & authorization). We're like retool but we connect directly with a company's internal APIs and allow users to generate arbitrary frontend code.\r\n\r\nWe've launched a consumer product that has been well received, and most recently have discovered that businesses & enterprises are interested in code generation for internal applications as well, and we're now focused on this direciton.",
-    "one_liner": "Web application code generation for an organizations internal APIs",
+    "one_liner": "Web application code generation for internal APIs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1745867856,
     "tags": [
-      "Developer Tools"
+      "Artificial Intelligence",
+      "Developer Tools",
+      "API",
+      "Data Engineering",
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22735,7 +22701,7 @@
     "website": "https://prismreplay.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "AI that watches session replays and tells developers what to fix",
+    "one_liner": "The Last Product Analytics Tool",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -22784,9 +22750,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1744779271,
     "tags": [
-      "Artificial Intelligence",
       "Customer Success",
-      "Market Research"
+      "Market Research",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22898,6 +22864,45 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/mesmer.json"
   },
   {
+    "id": 30532,
+    "name": "Nimbic AI",
+    "slug": "nimbic-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2f73769cf099429cf35b159e89f9f7c89a94c78.png",
+    "website": "https://nimbic-ai.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Automatically write and update internal docs with every code commit.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1748402935,
+    "tags": [
+      "SaaS",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nimbic-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/nimbic-ai.json"
+  },
+  {
     "id": 30533,
     "name": "Delty",
     "slug": "delty",
@@ -22912,11 +22917,11 @@
     "subindustry": "B2B",
     "launched_at": 1746945144,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22948,8 +22953,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fae29a98d132c4b435b336dbb5d6cf4a1aaf5de7.png",
     "website": "https://www.starsling.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "StarSling is building an agentic internal developer portal (IDP) that houses all your internal services, applications, APIs, documentation and has AI agents continuously improving them for you. It’s one interface that automates all the tasks that eat up a developer’s time after they’ve left their code editor: deployments, performance, incidents, and bugs. Open your homepage, click on a GitHub, Linear, or Sentry issue and you’ll see an Autofix button that triggers an AI agent and opens up a Pull Request with a fix, all without leaving your portal.",
-    "one_liner": "AI Portal for Developers That Ship 🛸",
+    "long_description": "StarSling is building an agentic developer homepage that automates all the tasks that eat up a developer’s time after they’ve left their code editor: deployments, performance, incidents, and bugs. Open your homepage, click on a GitHub, Linear, or Sentry issue and you’ll see an Autofix button that triggers an AI agent and opens up a Pull Request with a fix, all without leaving your homepage.",
+    "one_liner": "Cursor for DevOps",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23041,10 +23046,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1747107485,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

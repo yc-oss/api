@@ -11232,7 +11232,7 @@
     "website": "https://www.simplehash.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SimpleHash allows developers to query all blockchain data from a single platform. We index multiple blockchains, take care of edge cases, and can be integrated in a few lines of code. We make the lives of developers working with token data easier by abstracting away all the complexity.\r\n\r\nWe serve some of the leading names in crypto, including Coinbase, Phantom and Uniswap. We're growing quickly, are well-funded, and have an ambitious vision to organize the world of digital assets.\r\n\r\nJoin us if you're excited by a high impact role on a lean, fast paced team at the forefront of the revolution in digital assets.",
-    "one_liner": "Multi-chain NFT data platform",
+    "one_liner": "Multi-chain token data platform",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -20080,9 +20080,9 @@
     "subindustry": "Industrials -> Climate",
     "launched_at": 1746601065,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -20702,10 +20702,10 @@
     "slug": "pig",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3437c7f4ad304476128a2d8a0ca87303aae00169.png",
-    "website": "https://pig.dev",
+    "website": "https://github.com/pig-dot-dev/muscle-mem",
     "all_locations": "",
-    "long_description": "Pig is an API to launch and automate Windows desktops. Pig's SDK tools plug into your agent loops to allow them to navigate UIs and integrate with software that doesn't have an API.\r\n",
-    "one_liner": "An API for automating Windows apps with AI",
+    "long_description": "Pig is building Muscle Mem, an SDK for recording and deterministically replaying tool call trajectories. Our goal is to get LLMs out of the hotpath for repetitive tasks, increasing speed, reducing variability, and eliminating token costs for the many cases that could have just been a script.\r\n",
+    "one_liner": "Behavioral Cache for Agents",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -20911,7 +20911,7 @@
     "website": "https://www.getkashikoi.com",
     "all_locations": "Remote",
     "long_description": "Kashikoi is a simulation engine to benchmark AI agents. We generate CPU friendly world models that autonomously interview agents and generate deep behavioral assessments. We built a similar technology at Moveworks which was used to ship 250+ enterprise agents to customers daily.",
-    "one_liner": "Simulation Engine for Benchmarking AI Agents",
+    "one_liner": "Simulation Engine for Benchmarking AI Products",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -20958,9 +20958,9 @@
     "subindustry": "Unspecified",
     "launched_at": 1745390836,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21078,8 +21078,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d4b717bddf685ac3a5f54298f79381c741a52c3.png",
     "website": "https://cubic.dev/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Code review is a major bottleneck for software teams, and the rise of AI-generated code is making the problem worse. Reviewing large volumes of code slows devs down, and increases the chances of bugs slipping through.\r\n\r\nThat's why we're building cubic: an intelligent code review platform that helps devs merge PRs 40% faster.\r\n\r\nHow? \r\n- When you open a PR, cubic automatically reviews it. It learns from your codebase's patterns, points out bugs, suggesting fixes, and frees you from low-level review tasks.\r\n- You then jump into the cubic platform, which is designed to optimize how humans review code. For example, file changes are organized in a logical order instead of alphabetical, and cubic generates diagrams of architecture changes.",
-    "one_liner": "Cursor for code review",
+    "long_description": "Code review is a major bottleneck for software teams, and the rise of AI-generated code is making the problem worse. Reviewing large volumes of code slows devs down, and increases the chances of bugs slipping through.\r\n\r\nThat's why we're building cubic: an intelligent code review platform that helps devs merge PRs 28% faster.\r\n\r\nHow? \r\n- When you open a PR, cubic automatically reviews it. It learns from your codebase's patterns, points out bugs, suggesting fixes, and frees you from low-level review tasks.\r\n- You then jump into the cubic platform, which is designed to optimize how humans review code. For example, file changes are organized in a logical order instead of alphabetical, and cubic generates diagrams of architecture changes.",
+    "one_liner": "AI-powered code review platform",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21202,7 +21202,7 @@
     "website": "https://www.chonkie.ai",
     "all_locations": "",
     "long_description": "Chonkie breaks down large documents into smaller, meaningful chunks, making it easier for AI to process information. By ensuring that models receive only relevant and well-structured context within their token limits, Chonkie improves response accuracy and speed. Our tools are built to integrate seamlessly with any tech stack, so you can focus on leveraging your AI's full potential easily.",
-    "one_liner": "Make Documents AI Ready",
+    "one_liner": "Open Source Data Ingestion For AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21242,7 +21242,7 @@
     "website": "https://helix-db.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "HelixDB is a graph-vector database that brings structure to vector data, enabling developers to easily build Graph/Hybrid RAG applications. While vector databases have become essential for AI, they fall short when retrieval requires explicit properties or relationships. Existing solutions either bolt vector functionality onto legacy graph databases with poor performance, or force developers to integrate separate systems through middleware, creating overhead and latency bottlenecks.\r\n\r\nBuilt from scratch in Rust, HelixDB leverages world-class expertise in low-level systems programming and algorithms to achieve extreme performance optimizations impossible with existing architectures. This deep technical approach stands in contrast to the LLM-dependent development prevalent in the industry, requiring specialized knowledge in areas where AI tools currently fall short.\r\n\r\nThe timing is optimal: graph databases are finally gaining recognition after two decades of underutilization, while vector databases have proven their AI value but revealed structural limitations. We emerge as the market awakens to hybrid solutions, positioned early enough to capture the opportunity but not so early as to lack ready adopters.",
-    "one_liner": "A graph-vector database for building RAG and AI.",
+    "one_liner": "The database for intelligence",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21287,7 +21287,7 @@
     "website": "https://www.simstudio.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sim Studio is the fastest way to build AI agents for production. \r\nOur Figma-like canvas lets teams quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).\r\nWe're open-source with over 3.8k stars on GitHub in the last 2 months.",
-    "one_liner": "The UI to build AI agents",
+    "one_liner": "The open source AI agent builder ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -21367,9 +21367,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f768f164c4dd92121e70abbd42713af3118834a.png",
     "website": "https://better-auth.com/",
-    "all_locations": "Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Better Auth is a compressive authentication framework for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. It’s loved by developers all over the world and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer to help you scale with user management and analytics, bot and fraud detection, transactional email and SMS, global session storage and more.",
-    "one_liner": "The fastest growing auth library with 14k+ stars and 1.3mil downloads",
+    "one_liner": "The fastest growing auth library with 14k+ stars and 1.5M+ downloads",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -21390,8 +21390,10 @@
       "Security"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -21410,13 +21412,17 @@
     "website": "https://operative.sh/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Operative is a platform for organizations to build internal applications quickly using AI. We provide a web interface where organizations can create new web applications tailored to specific use cases, using their existing backend APIs (supporting existing authentication & authorization). We're like retool but we connect directly with a company's internal APIs and allow users to generate arbitrary frontend code.\r\n\r\nWe've launched a consumer product that has been well received, and most recently have discovered that businesses & enterprises are interested in code generation for internal applications as well, and we're now focused on this direciton.",
-    "one_liner": "Web application code generation for an organizations internal APIs",
+    "one_liner": "Web application code generation for internal APIs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1745867856,
     "tags": [
-      "Developer Tools"
+      "Artificial Intelligence",
+      "Developer Tools",
+      "API",
+      "Data Engineering",
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21541,10 +21547,10 @@
     "subindustry": "B2B",
     "launched_at": 1747626364,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Robotic Process Automation",
-      "Workflow Automation"
+      "Workflow Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21566,6 +21572,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kaizen",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/kaizen.json"
+  },
+  {
+    "id": 30475,
+    "name": "Morphik",
+    "slug": "morphik",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a260c523f9c222814023a16c76c6a2b22616cd5.png",
+    "website": "https://morphik.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Morphik is an open-source AI-native knowledge base. We're used by customers ranging from space-tech teams searching across research papers to developers building brokerage agents.",
+    "one_liner": "Open-source AI native knowledge base",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1745265466,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Search",
+      "AI",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/morphik",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/morphik.json"
   },
   {
     "id": 30488,
@@ -21790,8 +21839,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fae29a98d132c4b435b336dbb5d6cf4a1aaf5de7.png",
     "website": "https://www.starsling.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "StarSling is building an agentic internal developer portal (IDP) that houses all your internal services, applications, APIs, documentation and has AI agents continuously improving them for you. It’s one interface that automates all the tasks that eat up a developer’s time after they’ve left their code editor: deployments, performance, incidents, and bugs. Open your homepage, click on a GitHub, Linear, or Sentry issue and you’ll see an Autofix button that triggers an AI agent and opens up a Pull Request with a fix, all without leaving your portal.",
-    "one_liner": "AI Portal for Developers That Ship 🛸",
+    "long_description": "StarSling is building an agentic developer homepage that automates all the tasks that eat up a developer’s time after they’ve left their code editor: deployments, performance, incidents, and bugs. Open your homepage, click on a GitHub, Linear, or Sentry issue and you’ll see an Autofix button that triggers an AI agent and opens up a Pull Request with a fix, all without leaving your homepage.",
+    "one_liner": "Cursor for DevOps",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21840,10 +21889,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1747107485,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

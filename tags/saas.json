@@ -5977,11 +5977,11 @@
     "subindustry": "B2B",
     "launched_at": 1481295031,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "IoT",
       "B2B",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15144,7 +15144,7 @@
       "Partly Remote"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
@@ -31894,7 +31894,7 @@
     "website": "https://www.simplehash.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "SimpleHash allows developers to query all blockchain data from a single platform. We index multiple blockchains, take care of edge cases, and can be integrated in a few lines of code. We make the lives of developers working with token data easier by abstracting away all the complexity.\r\n\r\nWe serve some of the leading names in crypto, including Coinbase, Phantom and Uniswap. We're growing quickly, are well-funded, and have an ambitious vision to organize the world of digital assets.\r\n\r\nJoin us if you're excited by a high impact role on a lean, fast paced team at the forefront of the revolution in digital assets.",
-    "one_liner": "Multi-chain NFT data platform",
+    "one_liner": "Multi-chain token data platform",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -41754,51 +41754,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/tamarind-bio.json"
   },
   {
-    "id": 29350,
-    "name": "Aether Energy",
-    "slug": "aether-energy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fdcedd6988abbc35bfedf1d78f7da44ed6d08f4a.png",
-    "website": "https://www.aethernrg.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aether is an AI-powered end-to-end platform for rooftop solar and roofing installers in the US and Western European markets. \r\n\r\nSome of our innovations:\r\n\r\n- In-house computer vision and fine-tuned AI models built for solar\r\n- Rapid and accurate photovoltaic site design, 10x faster\r\n- Co-pilot for rooftop solar to streamline & automate various tasks for solar installers. \r\n\r\nWhy it’s needed: Today, rooftop solar is still complex, expensive, and inaccurate. More than half of the cost of a rooftop solar project comes from soft costs. We started Aether with the sole aim of reducing solar soft costs. \r\n\r\nOur vision: Aether will be a big player in the young and emerging Solar software vertical, which has a projected 20B Global TAM up for grabs by 2025.",
-    "one_liner": "Solar and roofing workflow software for solar installers worldwide",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1709429693,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Solar Power",
-      "Climate",
-      "Renewable Energy"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aether-energy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/aether-energy.json"
-  },
-  {
     "id": 29353,
     "name": "Resonance",
     "slug": "resonance",
@@ -44046,23 +44001,23 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52d14c2c72f66c6805d933bc967187d7bfd4fbd9.png",
     "website": "https://rescript.ai/",
-    "all_locations": "",
-    "long_description": "Rescript helps regulatory compliance and advocacy teams effortlessly track the constant stream of legal developments and always stay compliant. With our AI regulatory analyst, companies don't have to rely on expensive consultants or settle for inadequate tools that can't do the job. \r\n\r\n\r\nHow it works: \r\n1. Comprehensive Tracking: Rescript scans the web for government meetings and regulatory documents, feeding them into our internal repository. \r\n\r\n2. Intelligent Filtering: Our tool determines whether a new development involves the customer's regulatory priorities, using reasoning trained by 40+ regulatory analysts from top consulting firms.\r\n\r\n3. Change Management: We sync with existing internal policies and materials, and evaluate them in light of new regulations.  \r\n\r\nFor more information, visit www.rescript.ai or contact our team at team@rescript.ai.",
+    "all_locations": "Washington, DC, USA",
+    "long_description": "Rescript helps regulatory compliance and advocacy teams effortlessly track the constant stream of legal developments to always stay ahead and compliant. Rescript intelligently scans the web and analyzes regulatory changes and emerging issues, enabling teams to respond proactively and efficiently. Rescript helps Fortune 100 compliance officers juggling multi-state regulations, lobbyists tracking late-night amendments on the Hill, and trade association analysts scanning dozens of agencies at once. We’re profitable and backed by seed funding from YC, General Catalyst, and Floodgate. ",
     "one_liner": "AI Regulatory Analyst for Enterprises",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1725406800,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Civic Tech",
       "B2B",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -44071,7 +44026,8 @@
       "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -46801,7 +46757,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -47041,8 +46997,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a20bfc6fd0067cd630d43fa83552c610e2a0c0d2.png",
     "website": "https://www.clarm.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clarm is your AI-native search and agent builder on internal knowledge. Our platform is built on agentic search, connecting across 40+ enterprise integrations - CRMs, email, knowledge bases - letting you build precise, repeatable workflows.\r\n\r\nAgents often fail because their underlying context windows are mismatched, leading them to hallucinate. We built agentic search to ensure agents have all the context they need to operate fully autonomously.\r\n\r\nHere's what Clarm's paying customers use us for:\r\n\r\n- a blockchain company to provide an on-demand source of product truth in natural language, reducing alignment meetings by 90%\r\n- a financial services firm to supercharge their own product by integrating it with the target's enterprise knowledge\r\n- a top open source startup to increase engagement with their Github repo and knowledge base, turning repo visitors into contributors and customers\r\n- a healthcare firm to tailor '000s of client support questions with extremely high sensitivity, driving up engagement and turning prospects into committed customers",
-    "one_liner": "AI-native enterprise search & agent builder",
+    "long_description": "Clarm is your AI-native search and agent builder on internal docs. Our first customers are delighted to pay us 10x less than they would spend on a Chief of Staff, creating daily product release notes, customer feedback analysis, capturing sales objections, and running dedicated customer support channels. The COO's hair is on fire and we put it out.\r\n\r\nOur platform is built on agentic search, connecting across 40+ enterprise integrations - CRMs, email, knowledge bases.\r\n\r\nAgents often fail because their underlying context windows are mismatched, leading them to hallucinate. We built enterprise native agentic search to ensure agents have all the context they need to operate fully autonomously.\r\n\r\nHere's what Clarm's C-suite buyers use us for:\r\n\r\n- a blockchain company to provide an on-demand source of product truth in natural language, reducing alignment meetings by 90%\r\n- a financial services firm to supercharge their own product by integrating it with the target's enterprise knowledge\r\n- the top 5 X25 open source startups (by star count) to increase engagement with their Github repo and knowledge base, turning repo visitors into contributors and customers\r\n- North America's largest fertility clinic to tailor '000s of client support questions with extremely high sensitivity, driving up engagement and turning prospects into committed customers",
+    "one_liner": "Perplexity for internal docs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -47050,7 +47006,7 @@
     "tags": [
       "Artificial Intelligence",
       "SaaS",
-      "Finance",
+      "Productivity",
       "Enterprise",
       "AI"
     ],
@@ -47084,8 +47040,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e3360b8e2473286288f70d61dbda9fd5cc72aee9.png",
     "website": "https://www.percivaltech.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Percival helps wholesalers and  distributors automate data entry by using AI to process documents like purchase orders and price lists. \r\n\r\nWhen wholesalers and distributors sell to other businesses, they often receive purchase orders as PDFs over email. Customers frequently use different identifiers for items, different units, and close but not quite the same descriptors. Employees aren't just copy-pasting (or manually typing) PDF data into an ERP, they have to validate every item in the ERP.\r\n\r\nWith Percival, businesses can just email customer POs and other requests to a dedicated @percivaltech.com email address. Once the request is handled, Percival responds to the email with the result: whether that's an order number in the ERP or a list of prices.",
-    "one_liner": "Automating data entry with AI",
+    "long_description": "Percival helps wholesalers and distributors automate data entry by using AI to process documents like purchase orders and price lists. \r\n\r\nWhen wholesalers and distributors sell to other businesses, they often receive purchase orders as PDFs over email. Customers frequently use different identifiers for items, different units, and close but not quite the same descriptors. Employees aren't just copy-pasting (or manually typing) PDF data into an ERP, they have to validate every item in the ERP.\r\n\r\nWith Percival, businesses can just email customer POs and other requests to a dedicated @percivaltech.com email address. Once the request is handled, Percival responds to the email with the result: whether that's an order number in the ERP or a list of prices.",
+    "one_liner": "AI-powered data entry for wholesalers and distributors",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -47218,10 +47174,10 @@
     "subindustry": "Consumer -> Social",
     "launched_at": 1742722403,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Recruiting",
-      "AI"
+      "Recruiting"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47382,7 +47338,7 @@
     "website": "https://crimson.law",
     "all_locations": "",
     "long_description": "Crimson is the first AI platform purpose-built for complex disputes. Litigation teams use Crimson to analyze case files, draft legal documents and answer case-specific questions. By automating manual workflows throughout the lifecycle of a case, Crimson helps lawyers save more than 10 hours per week on common litigation tasks.",
-    "one_liner": "The AI platform for litigation lawyers",
+    "one_liner": "The AI Associate for Litigation Lawyers",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
@@ -47454,6 +47410,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jazzberry",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/jazzberry.json"
+  },
+  {
+    "id": 30506,
+    "name": "Klavis AI",
+    "slug": "klavis-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ca0035244a123067c03e5df2d892bbd9cb7d00.png",
+    "website": "https://www.klavis.ai/",
+    "all_locations": "",
+    "long_description": "Klavis AI is open source MCP integrations for AI Applications. Our API provides hosted, secure MCP servers, eliminating auth management and client-side code. Co-founder Xiangkai Zeng co-authored the Gemini paper and pioneered the tool calling infrastructure for Gemini. https://www.klavis.ai/",
+    "one_liner": "Open Source MCP Integrations for AI Applications",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1744314522,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Open Source",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/klavis-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/klavis-ai.json"
   },
   {
     "id": 30519,
@@ -47548,7 +47546,7 @@
     "website": "https://www.getprobo.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Probo acts like your compliance team. You tell us how you work, and Probo does the rest:\r\n1. Set the right requirements - not overkill\r\n2. Handle docs, risks, controls, evidence\r\n3. Run the audit\r\n4. Keep everything up to date afterward\r\nFounders shouldn’t lose weeks to this stuff. Even one day is too much.\r\n",
-    "one_liner": "We make you SOC 2 (and more) compliant so you focus on your business.",
+    "one_liner": "We help you get compliant while you focus on your business.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -47627,6 +47625,45 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/rimba.json"
   },
   {
+    "id": 30532,
+    "name": "Nimbic AI",
+    "slug": "nimbic-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2f73769cf099429cf35b159e89f9f7c89a94c78.png",
+    "website": "https://nimbic-ai.com",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Automatically write and update internal docs with every code commit.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1748402935,
+    "tags": [
+      "SaaS",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nimbic-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/nimbic-ai.json"
+  },
+  {
     "id": 30533,
     "name": "Delty",
     "slug": "delty",
@@ -47641,11 +47678,11 @@
     "subindustry": "B2B",
     "launched_at": 1746945144,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47804,16 +47841,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d53a6cf3c8074296831c1a7ec4bd88edbf7e572.png",
     "website": "https://oncactus.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building an AI copilot for solopreneurs to automate their admin work. Our AI answers the phone, qualifies customers, and books in revenue. Think Jarvis for Ironman. Cactus is the AI business assistant that empowers solopreneurs to succeed.",
+    "long_description": "We're building an AI copilot for solopreneurs to automate their admin work. Our AI answers the phone, qualifies customers, and books in revenue. We see a future where solopreneurs will fully vibe code and run their entire business on Cactus.\r\n",
     "one_liner": "AI copilot for solopreneurs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1746571239,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47842,20 +47879,20 @@
     "slug": "cohesive",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/523af60648199cf36ae9d89c5bc46aa1a1dd11e5.png",
-    "website": "https://getcohesiveai.com/",
+    "website": "https://getcohesiveai.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Cohesive is the agentic CRM for blue collar businesses like janitorial, pressure washing, landscaping, HVAC, and pest control businesses. Cohesive fully automates sales and marketing outreach to local businesses and property owners in the service area, helping local service businesses grow even while servicing clients in the field.",
-    "one_liner": "The agentic CRM for blue collar businesses",
+    "one_liner": "The agentic CRM for blue-collar services",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1747185757,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "B2B",
-      "Sales",
-      "AI"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,

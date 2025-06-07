@@ -6700,7 +6700,7 @@
     "website": "https://helix-db.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "HelixDB is a graph-vector database that brings structure to vector data, enabling developers to easily build Graph/Hybrid RAG applications. While vector databases have become essential for AI, they fall short when retrieval requires explicit properties or relationships. Existing solutions either bolt vector functionality onto legacy graph databases with poor performance, or force developers to integrate separate systems through middleware, creating overhead and latency bottlenecks.\r\n\r\nBuilt from scratch in Rust, HelixDB leverages world-class expertise in low-level systems programming and algorithms to achieve extreme performance optimizations impossible with existing architectures. This deep technical approach stands in contrast to the LLM-dependent development prevalent in the industry, requiring specialized knowledge in areas where AI tools currently fall short.\r\n\r\nThe timing is optimal: graph databases are finally gaining recognition after two decades of underutilization, while vector databases have proven their AI value but revealed structural limitations. We emerge as the market awakens to hybrid solutions, positioned early enough to capture the opportunity but not so early as to lack ready adopters.",
-    "one_liner": "A graph-vector database for building RAG and AI.",
+    "one_liner": "The database for intelligence",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -6745,7 +6745,7 @@
     "website": "https://www.simstudio.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sim Studio is the fastest way to build AI agents for production. \r\nOur Figma-like canvas lets teams quickly connect LLMs to their favorite tools (Slack, Supabase, Pinecone, Gmail).\r\nWe're open-source with over 3.8k stars on GitHub in the last 2 months.",
-    "one_liner": "The UI to build AI agents",
+    "one_liner": "The open source AI agent builder ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -6783,9 +6783,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f768f164c4dd92121e70abbd42713af3118834a.png",
     "website": "https://better-auth.com/",
-    "all_locations": "Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Better Auth is a compressive authentication framework for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. It’s loved by developers all over the world and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer to help you scale with user management and analytics, bot and fraud detection, transactional email and SMS, global session storage and more.",
-    "one_liner": "The fastest growing auth library with 14k+ stars and 1.3mil downloads",
+    "one_liner": "The fastest growing auth library with 14k+ stars and 1.5M+ downloads",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -6806,8 +6806,10 @@
       "Security"
     ],
     "regions": [
+      "United States of America",
+      "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6825,15 +6827,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a260c523f9c222814023a16c76c6a2b22616cd5.png",
     "website": "https://morphik.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Morphik is an open-source AI knowledge management system. We're used by customers ranging from space-tech teams searching across research papers to developers building brokerage agents.",
+    "long_description": "Morphik is an open-source AI-native knowledge base. We're used by customers ranging from space-tech teams searching across research papers to developers building brokerage agents.",
     "one_liner": "Open-source AI native knowledge base",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1745265466,
     "tags": [
-      "Artificial Intelligence",
+      "Developer Tools",
       "Open Source",
+      "Search",
+      "AI",
       "Databases"
     ],
     "tags_highlighted": [],
@@ -6866,7 +6870,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ca0035244a123067c03e5df2d892bbd9cb7d00.png",
     "website": "https://www.klavis.ai/",
     "all_locations": "",
-    "long_description": "Klavis AI is open source MCP integrations for AI Applications. Our API provides hosted, secure MCP servers, eliminating auth management and client-side code.",
+    "long_description": "Klavis AI is open source MCP integrations for AI Applications. Our API provides hosted, secure MCP servers, eliminating auth management and client-side code. Co-founder Xiangkai Zeng co-authored the Gemini paper and pioneered the tool calling infrastructure for Gemini. https://www.klavis.ai/",
     "one_liner": "Open Source MCP Integrations for AI Applications",
     "team_size": 2,
     "industry": "B2B",
@@ -6874,6 +6878,7 @@
     "launched_at": 1744314522,
     "tags": [
       "Artificial Intelligence",
+      "SaaS",
       "Open Source",
       "API",
       "AI"
