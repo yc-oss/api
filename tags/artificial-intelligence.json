@@ -1940,9 +1940,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/993ff6073116071031609f9e3bed69101446082b.png",
     "website": "https://www.ridecell.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ridecell is leading the way in the digital transformation of fleet businesses and operations. Our Fleet Automation and Mobility solutions modernize and monetize fleets by combining data insights with digital vehicle control to turn today’s manual processes into automated workflows. The result is unmatched levels of efficiency and control for leasing, rental,  government, commercial and shared fleets.\r\n\r\nToday Ridecell powers some of the most successful fleet businesses and the leading government fleets in cities across Europe and North America. Our customers and partners include:\r\nPenske  - the largest truck fleet in America with 400,000 trucks\r\nMobility fleets for Toyota, Ford, Daimler, BMW - - the largest OEMs in the world and\r\nBNP Paribas, Arval: 1,500,000 vehicles, the 2nd largest fleet in Europe\r\nAnd  the largest government fleets in the world including San Francisco, New York City, the Belgian Government \r\n\r\nOur platform makes these businesses more intelligent, accessible, efficient and safer by connecting and automating the core technology pillars including vehicle technology like telematics, camera and ADAS system, and enterprise platforms including CRM, commerce and finance systems. \r\n\r\n\r\n\r\n\r\nRidecell is headquartered in San Francisco, California with offices in Madrid, Paris, Berlin and Pune, India.",
-    "one_liner": "Fleet Transformation Cloud-Automate to Maximize 🌎 usage &…",
-    "team_size": 211,
+    "long_description": "Ridecell is leading the way in the digital transformation of fleet businesses and operations. Our Fleet Automation and Mobility solutions modernize and monetize fleets by combining data insights with digital vehicle control to turn today’s manual processes into automated workflows. The result is unmatched levels of efficiency and control for leasing, rental,  government, commercial and shared fleets.\r\n\r\nToday Ridecell powers some of the most successful fleet businesses and the leading government fleets in cities across Europe and North America. Our customers and partners include:\r\nPenske  - the largest truck fleet in America with 400,000 trucks\r\nMobility fleets for Toyota, Ford, Daimler, BMW - - the largest OEMs in the world and\r\nBNP Paribas, Arval: 1,500,000 vehicles, the 2nd largest fleet in Europe\r\nAnd  the largest government fleets in the world including San Francisco, New York City, the Belgian Government \r\n\r\nOur platform makes these businesses more intelligent, accessible, efficient and safer by connecting and automating the core technology pillars including vehicle technology like telematics, camera and ADAS system, and enterprise platforms including CRM, commerce and finance systems. \r\n\r\n\r\n\r\n\r\nRidecell is headquartered in San Francisco, California with offices in Tokyo, Madrid, Paris, Bordeaux, Berlin and Pune, India.",
+    "one_liner": "AI for Automotive Leasing and Mobility",
+    "team_size": 130,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1481295031,
@@ -14798,7 +14798,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -16647,6 +16647,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/spine-ai.json"
   },
   {
+    "id": 28841,
+    "name": "Ponder",
+    "slug": "ponder",
+    "former_names": [
+      "Neuralyze"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/981b0bb823fa43aa8363d79f70b0d918a6115294.png",
+    "website": "https://useponder.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Ponder lets developers deploy and use SOTA text to speech models that scale up and down automatically with no restrictions to concurrency or throughput.\r\n\r\nModels on Ponder support both input and output streaming for realtime applications, maintaining TTFB (audio) in the 10s of milliseconds.",
+    "one_liner": "Inference for Realtime Voice AI",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1688534176,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Cloud Computing",
+      "Infrastructure",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ponder",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/ponder.json"
+  },
+  {
     "id": 28844,
     "name": "Alguna",
     "slug": "alguna",
@@ -17194,7 +17238,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -20788,16 +20832,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e5b6595eedce0fbf3857cfdf876dbd2f0d66a78.png",
     "website": "https://superagent.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superagent helps teams create better prompts for AI coding. It connects to your tools like GitHub and Posthog to turn real context into evolving instructions that improve how coding agents work.\r\n",
-    "one_liner": "Better prompts for vibe coding",
+    "long_description": "Superagent builds infrastructure for running and embedding AI coding agents in real workflows — safely, flexibly, and with full control.\r\n\r\nOur latest open-source release is VibeKit, an open-source SDK for running agents like Codex or Claude inside secure, isolated environments. It supports multiple sandbox providers, adds streaming output, telemetry, and async execution — making it easy to integrate agents into apps, GitHub flows, or internal tools.\r\n\r\nLearn more: https://www.vibekit.sh/",
+    "one_liner": "Infrastructure for coding agents. Builders of VibeKit.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1701445003,
     "tags": [
       "Artificial Intelligence",
-      "SaaS",
-      "AI Assistant"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20806,7 +20849,8 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -24668,6 +24712,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/kura-ai.json"
   },
   {
+    "id": 29767,
+    "name": "Thunder Compute",
+    "slug": "thunder-compute",
+    "former_names": [
+      "Thunder"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/501bda7eaf23c59e167bae838b7a5bc2328b2fdb.png",
+    "website": "https://www.thundercompute.com",
+    "all_locations": "Atlanta, GA, USA",
+    "long_description": "Thunder Compute is the world's cheapest GPU cloud platform for researchers, data scientists, and startups. The team is building a proprietary orchestration stack to improve GPU utilization by 5x. Try it today.",
+    "one_liner": "The cheapest GPU cloud for developing AI/ML",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1723245936,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Data Science",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/thunder-compute",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/thunder-compute.json"
+  },
+  {
     "id": 29772,
     "name": "Parley",
     "slug": "parley",
@@ -26154,6 +26243,55 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/dreamrp.json"
   },
   {
+    "id": 29992,
+    "name": "Outerport",
+    "slug": "outerport",
+    "former_names": [
+      "haipera",
+      "Haipera",
+      "Outerbasis"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b04f0fee59f28a3fa66d41bb63e4aef150ce2812.png",
+    "website": "https://outerport.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Outerport helps convert proprietary visual data- every diagram, drawing, webpages, documents, CAD files and more into an exact text representation that can be ingested by LLMs and re-rendered back. For example, flowcharts are notoriously common in enterprise documents and are used to describe mission critical business processes. Instead of relying on faulty VLMs to understand these properly, Outerport converts this into an text-based graph object that can be reliably parsed by LLMs and are easier to debug / run evals when there are issues. ",
+    "one_liner": "Make every diagram, drawing, and document queryable with LLMs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1721673756,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/outerport",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/outerport.json"
+  },
+  {
     "id": 30017,
     "name": "Riveter AI",
     "slug": "riveter-ai",
@@ -26546,12 +26684,12 @@
     "name": "Revyl",
     "slug": "revyl",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/711329d9565ffe6020950612deecb8f5845b82f5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eca61dd3b32e7b0f7174161cd567ec823504e49.png",
     "website": "https://www.revyl.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Revyl is a proactive observability platform that automatically catches and triages bugs before they reach production.",
     "one_liner": "Proactive observability",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729643205,
@@ -27393,6 +27531,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/quantstruct",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/quantstruct.json"
+  },
+  {
+    "id": 30173,
+    "name": "Tropir",
+    "slug": "tropir",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac03a28cb503f64a3f8684816a352307a74638e1.png",
+    "website": "https://www.tropir.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tropir is the first AI that builds better AIs.\r\n\r\nWe don’t just trace where your pipeline broke—we fix it. Tropir analyzes the flow of logic across prompts, tools, and retrievals to pinpoint root causes, suggests targeted changes, reruns the pipeline with those fixes, and runs evals to check if things actually improved. If not, it keeps iterating until they do. You build the flow. We make it unbreakable.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
+    "one_liner": "The AI that builds better AIs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Industrials -> Climate",
+    "launched_at": 1746601065,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tropir",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/tropir.json"
   },
   {
     "id": 30176,
@@ -28536,50 +28715,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/harper",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/harper.json"
-  },
-  {
-    "id": 30292,
-    "name": "Mesh",
-    "slug": "mesh-2",
-    "former_names": [
-      "Cart"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ccdc4419907ee05321c76c632bbd5270cb8764.png",
-    "website": "http://www.usemesh.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mesh is building your AI finance co-worker. Mesh is the single, unified interface through which founders can ask questions about their financials, and think through budgeting and forecasting. \r\n\r\nNandini and Erin worked together for 5+ years at Carta, and helped grow the fund accounting business from $20M to $100M ARR. Leveraging their insights from Carta, they’re now automating accounting and finance for companies. \r\n\r\nAfter talking to 100+ companies, they realized that what companies need is a better finance partner. Our agents will meet founders exactly where they are by integrating with the existing tech stack and being accessible across various communication channels (i.e. Email, WhatsApp, Chat, Phone, Zoom). \r\n\r\nWithin 1 week of launching on ProductHunt, they have taken 25 customers live, and became the #1 Fintech of the Week.\r\n\r\nWith 35M companies in the US spending ~1-3% of their revenues on finance and accounting, we're going after a $175B market opportunity.",
-    "one_liner": "Building your AI finance co-worker",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1736927502,
-    "tags": [
-      "Artificial Intelligence",
-      "Finance",
-      "Productivity",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mesh-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/mesh-2.json"
   },
   {
     "id": 30294,
@@ -29738,8 +29873,8 @@
     "launched_at": 1748129784,
     "tags": [
       "Artificial Intelligence",
-      "Creator Economy",
-      "AI"
+      "Fintech",
+      "Creator Economy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -30441,47 +30576,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/habit.json"
   },
   {
-    "id": 30476,
-    "name": "Nomi",
-    "slug": "nomi",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd11dae7a652bf143efed034d199e59b84ab4b90.png",
-    "website": "https://heynomi.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nomi provides on-the-spot phrase suggestions, intelligently crafted from your transcribed sales calls and a custom playbook that adapts and grows with you, from founder-led sales to revops mastery. \r\n\r\nPS: We also increase closing rates by 12% on average and free up your sales team's mental energy. ",
-    "one_liner": "Cursor for Sales",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1747841477,
-    "tags": [
-      "Artificial Intelligence",
-      "Sales",
-      "Sales Enablement"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nomi",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/nomi.json"
-  },
-  {
     "id": 30479,
     "name": "Crimson",
     "slug": "crimson",
@@ -30688,6 +30782,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/besimple-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/besimple-ai.json"
+  },
+  {
+    "id": 30504,
+    "name": "Third Chair",
+    "slug": "third-chair",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18cebff9bcd74859dde2e614ddfdcdaf32c2ffb3.png",
+    "website": "https://usethirdchair.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building agents for in-house legal teams, starting with media/entertainment. Our customers use Third Chair to discover IP infringements, collect evidence, and recover millions of dollars in damages.\r\n\r\nWe’re both second-time, exited YC founders with deep domain expertise in this market. My last startup sold marketing analytics to Universal Music Group and Mr. Beast. My cofounder Shourya founded a fintech platform and scaled it to 2 million users and tens of millions in transactions. \r\n\r\nAI will enable the first one-person unicorn. Third Chair will be their legal team. ",
+    "one_liner": "Agents for in-house legal teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1748486427,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Entertainment",
+      "Legal",
+      "Music"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/third-chair",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/third-chair.json"
   },
   {
     "id": 30506,
@@ -30993,7 +31130,8 @@
     "name": "Lapel",
     "slug": "lapel",
     "former_names": [
-      "Echo Exploration Company, Inc."
+      "Echo Exploration Company, Inc.",
+      "Echo Exploration Co."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7739235b539c91f55bd250da7893871d1a966b2.png",
     "website": "https://lapel.com/",
@@ -31078,49 +31216,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/workdone.json"
   },
   {
-    "id": 30530,
-    "name": "Rimba",
-    "slug": "rimba",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b68af887ba539134268ac073e1a367094447c416.png",
-    "website": "https://rimba.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rimba is building the AI-native operating system for industrial compliance—replacing legacy giants like SAP. As industrial companies face mounting regulatory complexity, legacy ERP and compliance systems fail to keep up. \r\nWe're building a vertical platform that ingests operational data (ERP integrations, SCADA, PDFs, meter logs) and uses AI to scrub, reconcile, and generate audit-ready reports for regulations like LCFS, RFS, air permits, and prevailing-wage filings. Core value props: avoidance of multi-million-dollar fines, detection of data inconsistencies/mistakes early, and 80% cut in prep time. Integrations with legacy IT systems create one-click exports for state/federal portals and auditors. Revenue model: annual enterprise subscriptions priced per facility.",
-    "one_liner": "AI for Energy & Industrial Compliance",
-    "team_size": 4,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Climate",
-    "launched_at": 1744344066,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Climate"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rimba",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/rimba.json"
-  },
-  {
     "id": 30531,
     "name": "Moby Analytics",
     "slug": "moby-analytics",
@@ -31159,45 +31254,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moby-analytics",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/moby-analytics.json"
-  },
-  {
-    "id": 30532,
-    "name": "Nimbic AI",
-    "slug": "nimbic-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2f73769cf099429cf35b159e89f9f7c89a94c78.png",
-    "website": "https://nimbic-ai.com",
-    "all_locations": "",
-    "long_description": "",
-    "one_liner": "Automatically write and update internal docs with every code commit.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1748402935,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nimbic-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/nimbic-ai.json"
   },
   {
     "id": 30533,
@@ -31326,50 +31382,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/den.json"
   },
   {
-    "id": 30540,
-    "name": "Lumari",
-    "slug": "lumari",
-    "former_names": [
-      "Rextly"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a939168d94d3c56ad22ffb102cf8d658f02d3fd5.png",
-    "website": "https://www.lumari.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari enables non-technical GTM teams to create custom internal apps and agentic workers without writing any code. \r\nSimply describe what you want, and we'll generate and deploy fully integrated, secure apps in minutes.",
-    "one_liner": "Agentic internal tools",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1747084472,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Workflow Automation",
-      "No-code"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumari",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/lumari.json"
-  },
-  {
     "id": 30545,
     "name": "StarSling",
     "slug": "starsling",
@@ -31411,6 +31423,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/starsling",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/starsling.json"
+  },
+  {
+    "id": 30548,
+    "name": "Theorem",
+    "slug": "theorem-2",
+    "former_names": [
+      "Aletheia"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4462cecf7e86ccbeaa67750a89b934e1dcf2fa9f.png",
+    "website": "https://theoremlabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Theorem is training models that make program verification 10,000 times faster. Using verification as a feedback loop, developers have found zero-days in GPU accelerated code and cryptography implementations, and sped up code migration in legacy systems. If you have complicated code that needs to be correct and secure, sign up for our beta!",
+    "one_liner": "Superhuman code for mission critical systems",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1747681841,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/theorem-2",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/theorem-2.json"
   },
   {
     "id": 30557,
@@ -31497,49 +31552,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/godela",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/godela.json"
-  },
-  {
-    "id": 30561,
-    "name": "Daxa",
-    "slug": "daxa",
-    "former_names": [
-      "Valora"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47dda084fea127470ef42cc30ad149ade9ed4f32.png",
-    "website": "https://www.getdaxa.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Daxa watches thousands of your session replays and listens to your customer feedback channels in real time — helping you pinpoint application issues before users churn and plan features that maximize conversion. Oftentimes, issues in your product don't make it to a support ticket until dozens of users have experienced it first. Daxa helps you combat this problem by watching users interact directly with your product and notifying you in real time via Slack or email if any issues or interesting phenomenon arise (dropoff on certain pages, features not performing as expected, etc)",
-    "one_liner": "Boost revenue and retention with an AI PM",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1744274885,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Analytics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/daxa",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/daxa.json"
   },
   {
     "id": 30562,
