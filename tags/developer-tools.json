@@ -11416,12 +11416,12 @@
     "name": "Tailor",
     "slug": "tailor",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5b96a023a0830adeacef1c406e170299676baab.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a820aa4b7b154f3af51351a25732f22fdf20d89.png",
     "website": "https://www.tailor.tech/",
     "all_locations": "Tokyo, Tokyo, Japan",
-    "long_description": "Tailor is a backend platform that helps enterprises build their custom, enterprise grade ERP applications with less code.\r\n\r\n**Team**\r\n\r\nYo and Misato have previously built a retail-tech company together and sold it for $20M to Rakuten. Yo is a three-time-acquired serial entrepreneur with a McKinsey background. Misato is a previous head of R&D at Mercari.\r\nTailor is the first YC company fully based in Japan.\r\n\r\n**The Problem**\r\nIn today's business world, old ERP systems just don't keep up.\r\n\r\nTheir monolithic architecture makes it difficult for developers to tailor to the specific needs, even though that's what the enterprises want for ERP. \r\n\r\nAt the same time, legacy ERPs struggle to work well with the variety of cloud-based tools that modern businesses rely on.\r\n\r\n\r\nLegacy, monolithic systems make it very difficult to customize and hard to integrate. Every time the company wants to change something, it becomes a huge project.\r\n\r\n\r\nBuilding on these challenges, users of old ERP systems often face:\r\n* Hard-to-Use Interfaces: The screens and menus are old school... confusing, slowing down your work.\r\n* Wrong Set of Features: Too many unnecessary options for you and not enough of what you actually need.\r\n* Lack of Transparency: It's tough to understand what's happening behind the scenes.\r\n* High Cost: The expense of maintaining these systems eats into your budget.\r\n\r\n\r\n\r\n**The Solution**\r\n\r\nWhy Headless?\r\n\r\n- With our headless product, the frontend is easy to customize for clients\r\n- API-first approach makes it easy to connect with other existing systems or 3rd party services\r\n\r\nWhat does it mean to our clients?\r\n\r\n- Faster development\r\n- Reduced maintenance cost\r\n- Well-documented backend APIs\r\n\r\nTailor’s key capabilities:\r\n\r\n- GraphQL endpoint for flexible frontend development\r\n- Customizable data model templates to describe complex business logic of large enterprises\r\n- Customizable workflows depending on the client's specific business process\r\n- Directory service that can reflect complex organizational structure (e.g. matrix organization) to the workflow",
-    "one_liner": "Highly Customizable Headless ERP",
-    "team_size": 25,
+    "long_description": "Tailor is the headless ERP that gives fast-growing retail brands a composable, API-first platform to run operations with speed, flexibility, and control.\r\n\r\n🧱 Legacy ERP is too rigid: Systems like NetSuite and SAP take months (or years) to implement and break with every change. Tailor is modular, headless, and easy to adapt.\r\n🧩 Point solutions don’t scale: Tools like inventory or order management software solve one problem, but can’t talk to each other or keep up with growth.\r\n📊 Spreadsheets are everywhere: From demand planning to purchase orders, even $100M+ brands still rely on Excel. Tailor replaces duct-taped workflows with ops modules you can tweak, combine, or scale\r\n⚡️ Complex workflows need custom logic: Whether it's multi-location inventory, DTC + B2B orders, or light manufacturing (like kitting or lot tracking), Tailor supports flexible automations out of the box.\r\n👟 Operators can move faster: Launch backend modules in minutes, not months. Tailor's low-code tools let teams build, automate, and adapt without waiting on engineering or implementation agencies.\r\n\r\n\r\nBuilt for composable retail:\r\n- Headless backend with GraphQL APIs\r\n- 50+ integrations (Shopify, QuickBooks, 3PLs, etc.)\r\n- Custom automations via Pipelines, Functions, and Event Triggers\r\n- State machines for approvals and multi-step workflows\r\n- AI features like OCR and vector search built in\r\n\r\nTailor is already powering operations at fast-growing omnichannel brands and modern manufacturers.\r\nWe’re proud to be the first Japan-based company to join Y Combinator. \r\n\r\nLearn more at [tailor.tech](https://www.tailor.tech)\r\n",
+    "one_liner": "Headless ERP for retail operations",
+    "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1654046243,
@@ -19430,6 +19430,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/outerport.json"
   },
   {
+    "id": 29999,
+    "name": "Onlook",
+    "slug": "onlook",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c023f9010fb3a7f3e550c56a9283c477e6ca096.png",
+    "website": "https://onlook.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Onlook is the fastest way for anyone to build, deploy, and iterate on websites and web apps. We built an open-source, visual editor for code that merges design, development, and AI.\r\n\r\nSince launching, Onlook hit #1 on Hacker News, was the #1 trending repo on GitHub—above DeepSeek—and has earned over 8,500 GitHub stars.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
+    "one_liner": "Cursor for Designers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1737572736,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Design",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/onlook",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/onlook.json"
+  },
+  {
     "id": 30024,
     "name": "Upshift",
     "slug": "upshift",
@@ -21001,9 +21043,9 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1745255607,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21503,10 +21545,10 @@
     "subindustry": "B2B",
     "launched_at": 1747626364,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Robotic Process Automation",
-      "Workflow Automation",
-      "AI"
+      "Workflow Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21720,9 +21762,9 @@
     "launched_at": 1748466933,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Monitoring",
-      "AI"
+      "Monitoring"
     ],
     "tags_highlighted": [],
     "top_company": false,
