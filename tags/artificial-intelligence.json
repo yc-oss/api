@@ -4737,7 +4737,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -25422,18 +25422,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ee08623be14d88fb653c6b675912843b4f87e66.png",
     "website": "https://winfordwealth.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Winford Wealth empowers financial advisors to enhance client experiences with an AI Meeting Assistant. Our platform automates notetaking, seamlessly integrates with your CRM and tech stack, and delivers unique analytics to help you work smarter. \r\n",
-    "one_liner": "The Leading AI Meeting Assistant for Financial Advisors",
+    "long_description": "Personalized investing, tax and financial planning. A dedicated human advisor and all-in-one app — powered by AI, built for every net worth. We are an SEC Registered Investment Advisor, legally bound to act as a financial fiduciary to our customers. \r\n\r\nOur belief: 1% AUM fees from financial advisors are outdated and eat away at your wealth over the long-run. Winford Wealth offers the same level of quality & care starting at $14/month.\r\n\r\nWe also offer a tax-efficient managed cash account that goes beyond traditional and high yield savings accounts — allocating your idle dollars into high-quality, short-term bonds through money market funds, personalized for your taxes and goals. Included with Winford subscriptions or available on its own.",
+    "one_liner": "Professional wealth management for everyone.",
     "team_size": 3,
-    "industry": "B2B",
+    "industry": "Fintech",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1722879025,
     "tags": [
       "Artificial Intelligence",
+      "Fintech",
       "Finance",
-      "Workflow Automation",
-      "Productivity",
-      "Enterprise Software"
+      "Consumer Finance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25442,8 +25441,8 @@
     "batch": "Summer 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Finance and Accounting"
+      "Fintech",
+      "Consumer Finance"
     ],
     "regions": [
       "United States of America",
@@ -27073,6 +27072,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/lune.json"
   },
   {
+    "id": 30051,
+    "name": "attimet",
+    "slug": "attimet",
+    "former_names": [
+      "AgentPay",
+      "protegee"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43b9a65188d543037d433040e225613f5f256524.png",
+    "website": "https://attimet.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "We predict stuff.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1728431199,
+    "tags": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Hard Tech",
+      "Finance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/attimet",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/attimet.json"
+  },
+  {
     "id": 30054,
     "name": "CTGT",
     "slug": "ctgt",
@@ -28214,6 +28257,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/scout-4",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/scout-4.json"
+  },
+  {
+    "id": 30213,
+    "name": "Truffle AI",
+    "slug": "truffle-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17f1a1e21672fa03c69b669feef31d2a59b2c849.png",
+    "website": "https://www.trytruffle.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Truffle AI makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Truffle to add customer support agents into WhatsApp and analytics agents into Slack.",
+    "one_liner": "AWS for AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1740509470,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "Infrastructure",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/truffle-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/truffle-ai.json"
   },
   {
     "id": 30218,
@@ -30758,49 +30846,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jazzberry",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/jazzberry.json"
-  },
-  {
-    "id": 30504,
-    "name": "Third Chair",
-    "slug": "third-chair",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18cebff9bcd74859dde2e614ddfdcdaf32c2ffb3.png",
-    "website": "https://usethirdchair.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building agents for in-house legal teams, starting with media/entertainment. Our customers use Third Chair to discover IP infringements, collect evidence, and recover millions of dollars in damages.\r\n\r\nWe’re both second-time, exited YC founders with deep domain expertise in this market. My last startup sold marketing analytics to Universal Music Group and Mr. Beast. My cofounder Shourya founded a fintech platform and scaled it to 2 million users and tens of millions in transactions. \r\n\r\nAI will enable the first one-person unicorn. Third Chair will be their legal team. ",
-    "one_liner": "Agents for in-house legal teams",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1748486427,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Entertainment",
-      "Legal",
-      "Music"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/third-chair",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/third-chair.json"
   },
   {
     "id": 30506,
