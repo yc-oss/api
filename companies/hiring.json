@@ -34418,7 +34418,7 @@
     "name": "Rollstack",
     "slug": "rollstack-2",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b9859794f0898e1d5e5d987728f6be874b3f4ee.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65e417fdebdce3308c883861f6f1ce40282921ab.png",
     "website": "https://www.rollstack.com",
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "Who hasn't spent hours creating or updating slide decks and documents with the latest data? Teams spend between 5h and 12h per week updating slides and docs. And in 75% of the cases, slides are reused.\r\n\r\n• Rollstack allows teams to automatically create and update Google slides and PowerPoint presentations with the latest data from their BI tools, CRMs, and data warehouse. \r\n\r\n• Rollstack helps teams automate their business reviews, financial reporting, and client presentations by scheduling updates, creating decks programmatically, and version control.\r\n\r\n• Rollstack also generates insights automatically from your visualizations and datasets.",
@@ -40793,11 +40793,11 @@
   },
   {
     "id": 29118,
-    "name": "Preswald",
-    "slug": "preswald",
+    "name": "Structured Labs",
+    "slug": "structured-labs",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f71475a313c88d9a7615e421d452a5748bcfbd50.png",
-    "website": "https://www.preswald.com/",
+    "website": "https://www.structuredlabs.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Preswald is creating smarter ways for humans to explore and reason with data. We are the makers of Preswald, a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, turning Python scripts into powerful shareable apps.\r\n\r\n",
     "one_liner": "Build interactive data apps with AI",
@@ -40806,11 +40806,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1686619959,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
       "Open Source",
-      "Data Visualization",
-      "AI"
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40831,8 +40831,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/preswald",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/preswald.json"
+    "url": "https://www.ycombinator.com/companies/structured-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/structured-labs.json"
   },
   {
     "id": 29119,
@@ -42981,6 +42981,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/astro-mechanica",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/astro-mechanica.json"
+  },
+  {
+    "id": 29376,
+    "name": "Carma",
+    "slug": "carma",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/995749b249373d88528eca173b29dc4d2d8e77da.png",
+    "website": "https://www.joincarma.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Carma, we’re revolutionizing the fleet management space by building a massively simplified experience for commercial fleet operators to receive same-day repair and maintenance for any vehicle with real-time, transparent quotes from highly-vetted service center partners with a guaranteed 24-hour turnaround.\r\n\r\nFleet operators face the challenging task of keeping hundreds or thousands of vehicles on the road cost-efficiently with minimal downtime. Our platform solves this precise problem, powering operations for our fleet customers with every tool needed for modern fleet management - real-time service tracking, cost verification, diagnostics visibility, and so much more. We are tackling an enormous market—worth $177 billion in the United States alone.\r\n\r\nWe're growing very rapidly and are looking for superstars to join us on our rocketship growth as we relentlessly work towards building a multi-billion dollar company to take over the outdated fleet management market.\r\n\r\nJoin us if you're eager to make a significant impact and be part of an explosive-growth startup from the ground up.",
+    "one_liner": "Same-Day Auto Repair for Commercial Fleets.",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1701065445,
+    "tags": [
+      "Auto Commerce",
+      "Marketplace",
+      "B2B",
+      "Trust & Safety",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/carma",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/carma.json"
   },
   {
     "id": 29377,
@@ -46807,45 +46852,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/planbase",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/planbase.json"
-  },
-  {
-    "id": 29741,
-    "name": "Dimely",
-    "slug": "dimely",
-    "former_names": [
-      "Flex",
-      "Kalo"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3c0ebb7e9cc188d3721bc8e308ed808091559dc.png",
-    "website": "https://dimely.com/",
-    "all_locations": "",
-    "long_description": "Dimely builds AI agents for B2B SaaS finance teams. Our agents automate and bring visibility to time-consuming and error-prone finance workflows so teams can stay lean and audit-ready.\r\n\r\nWe do this by completing, logging, and reconciling the data work, including converting contracts to invoices, calculating overages, reconciling payments, and streamlining revenue recognition.\r\n\r\nWe pride ourselves in our fast time to value. Dimely seamlessly slots into your existing workflows without requiring a rip and replace, meaning you'll immediately see results from Day 1. Stop spending hours on billing today! ",
-    "one_liner": "AI agents for B2B SaaS Finance Teams",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1723104343,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dimely",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/dimely.json"
   },
   {
     "id": 29746,
