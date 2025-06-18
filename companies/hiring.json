@@ -9058,6 +9058,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2019/overview.json"
   },
   {
+    "id": 11922,
+    "name": "Trexo Robotics",
+    "slug": "trexo-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6edf024636f99502167ab7cb24e80e37d32ca758.png",
+    "website": "http://trexorobotics.com",
+    "all_locations": "Toronto, ON, Canada",
+    "long_description": "Trexo Robotics is building exoskeletons to help people walk, starting with children. Our product allows children with disabilities like Cerebral Palsy, to walk, in many cases for the first time in their lives. Trexo was started when Manmeet found that his nephew was born with Cerebral Palsy and would never be able to walk. Trexo is selling commercially, with a vision is to replace the wheelchair, for children, adults, and the elderly. ",
+    "one_liner": "Exoskeletons to help people walk, starting with children",
+    "team_size": 30,
+    "industry": "Healthcare",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1540953087,
+    "tags": [
+      "Medical Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2019",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Medical Devices"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trexo-robotics",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/trexo-robotics.json"
+  },
+  {
     "id": 11924,
     "name": "Flockjay",
     "slug": "flockjay",
@@ -19589,50 +19630,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/topkey.json"
   },
   {
-    "id": 22856,
-    "name": "weweb.io",
-    "slug": "weweb-io",
-    "former_names": [
-      "WeWeb"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bee0ffda10cfa11258e095397f31eae96aa9aefb.png",
-    "website": "https://www.weweb.io/",
-    "all_locations": "Paris, Île-de-France, France",
-    "long_description": "WeWeb is a visual programming tool that allows you to build user interfaces on top of existing databases & auth systems. It allies the short learning curve of no-code with the freedom of code.\r\n\r\nCONTROL & FREEDOM – Build pixel-perfect frontends with drag-and-drop UI elements and no-code CSS properties but have the option to add custom code or import your own Vue.js components.\r\n\r\nCODE BEST PRACTICES – Follow development best practices by building components, global workflows and re-usable functions with no-code triggers and formulas with the option to add custom JS where needed.  \r\n\r\nNO VENDOR LOCK-IN – WeWeb generates a standard PWA-ready Single Page Application and allows you to deploy your projects on your own infrastructure. Build in no-code, host on-premise.",
-    "one_liner": "WeWeb is a no-code front-end builder that connects with any back-end.",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1614628838,
-    "tags": [
-      "Developer Tools",
-      "Web Development"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "France",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/weweb-io",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/weweb-io.json"
-  },
-  {
     "id": 22861,
     "name": "Pangea.app",
     "slug": "pangea-app",
@@ -21226,8 +21223,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe6b97eef16a2d22e437f6cf663c11b64b223fc8.png",
     "website": "https://infracost.io",
     "all_locations": "Edinburgh, Scotland, United Kingdom; Remote",
-    "long_description": "Infracost shifts cloud costs left and makes FinOps proactive. It sits in the engineering workflow (CI/CD), and shows the cost impact of code changes (IaC) before the code is shipped to production. This catches costly mistakes before any money has been spent. It also checks to make sure all resources are tagged with your set tagging policy, and runs checks on the code against our FinOps policy packs, ensuring best practices are followed (e.g. GP2 volumes should be GP3).\r\n\r\nThis creates a cost-aware engineering culture.",
-    "one_liner": "Shift FinOps Left: tell engineers how much code changes will cost…",
+    "long_description": "Infracost shifts cloud costs left and makes FinOps proactive. It sits in the engineering workflow (CI/CD), and shows the cost impact of code changes (IaC) before the code is shipped to production. This catches costly mistakes before any money has been spent. It also checks to make sure all resources are tagged with your set tagging policy, and runs checks on the code against our FinOps policy packs, ensuring best practices are followed (e.g. using Graviton processors and storage lifecycle rules).\r\n\r\nThis creates a cost-aware engineering culture.",
+    "one_liner": "Shift FinOps Left: Proactively Find & Fix Cloud Cost Issues",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -22621,51 +22618,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/baraka",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/baraka.json"
-  },
-  {
-    "id": 23978,
-    "name": "Rootly",
-    "slug": "rootly",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a2564e596519346980eeb0db1c1545af7126b49.png",
-    "website": "https://rootly.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Rootly is a modern on-call and incident management platform used by top YC companies like Dropbox, Lattice, Webflow, Faire, but also Figma, LinkedIn, NVIDIA and 100s more.",
-    "one_liner": "Modern On-Call and Incident Management Platform",
-    "team_size": 60,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1625761934,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Security"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rootly",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/rootly.json"
   },
   {
     "id": 23979,
@@ -24125,48 +24077,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/hyperbrowser.json"
   },
   {
-    "id": 24243,
-    "name": "Repool",
-    "slug": "repool",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0618fec03dde578a0b8fe023171828a11dd7a3e1.png",
-    "website": "http://repool.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Repool makes it easy to launch and operate private funds, like Carta or Juniper for hedge funds. We build modern back office software and services to modernize and simplify launch, fund administration, and LP onboarding.",
-    "one_liner": "Modernizing hedge fund back office software and services.",
-    "team_size": 11,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1626706432,
-    "tags": [
-      "Fintech",
-      "SaaS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Asset Management"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/repool",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/repool.json"
-  },
-  {
     "id": 24244,
     "name": "Bree",
     "slug": "bree",
@@ -24824,48 +24734,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stardex",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/stardex.json"
-  },
-  {
-    "id": 24426,
-    "name": "KaiPod Learning",
-    "slug": "kaipod-learning",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28860fcff17e55e8b541e927d50fb68f63ca9d5a.png",
-    "website": "http://www.kaipodlearning.com",
-    "all_locations": "Boston, MA, USA",
-    "long_description": "KaiPod Learning is a national network of microschools bringing school choice to every community in America. We work with education entrepreneurs to start high-quality microschools to better serve students and their families.\r\n\r\nAs more families stand up for choice in education and as more educators look for alternative career pathways, KaiPod Learning is helping bring microschools into the mainstream.",
-    "one_liner": "A national network of microschools bringing school choice to every…",
-    "team_size": 27,
-    "industry": "Education",
-    "subindustry": "Education",
-    "launched_at": 1624983081,
-    "tags": [
-      "Education",
-      "eLearning",
-      "Consumer"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Education"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kaipod-learning",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/kaipod-learning.json"
   },
   {
     "id": 24428,
@@ -42369,6 +42237,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/omniai.json"
   },
   {
+    "id": 29327,
+    "name": "Central",
+    "slug": "central",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0913d1e9d9580abc891cabd8dcf7bc5c217d32e.png",
+    "website": "https://centralhq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Unlike traditional payroll platforms that force founders to handle government compliance, Central acts like a teammate who handles every registration & filing—freeing you to focus on growing your business.",
+    "one_liner": "Payroll, benefits and government compliance bullsh*t for startups.",
+    "team_size": 13,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1716561030,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B",
+      "HR Tech",
+      "Payroll"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/central",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/central.json"
+  },
+  {
     "id": 29328,
     "name": "Guide Labs",
     "slug": "guide-labs",
@@ -46565,7 +46478,7 @@
       "Argon"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2100aeea68f6388130749d3d1c91f1bbabe9224c.png",
-    "website": "https://tryparity.com",
+    "website": "https://creativemode.net",
     "all_locations": "",
     "long_description": "Parity is the AI SRE for Incident Response. We're the first line of defense for on-call engineers - Parity autonomously triages, root causes, and heals your cloud infrastructure.",
     "one_liner": "The AI SRE for Incident Response",
@@ -48124,52 +48037,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/patched.json"
   },
   {
-    "id": 29973,
-    "name": "Arva AI",
-    "slug": "arva-ai",
-    "former_names": [
-      "Tarit AI",
-      "Arva AI",
-      "Arva"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/637fd6f0b41173fce58a7cc13944c42be5d808ec.png",
-    "website": "https://www.arva.ai",
-    "all_locations": "",
-    "long_description": "Every time a business onboards onto a bank or fintech a human analyst has to conduct manual document verification. We replace those human KYB (know your business) analysts with AI agents that automate 80% of the manual work for faster and more compliant financial crime reviews.\r\n\r\nCurrently, 30% of know your business (KYB) cases result in manual review work. With Arva's AI agents the whole end-to-end onboarding experience is automated. Instant onboarding whilst reducing operational costs by 80%.\r\n\r\nOur end goal is to have a whole suite of AI workers that can handle manual compliance work for banks and fintechs. A $24B opportunity in the US alone.",
-    "one_liner": "AI to scale AML and KYB operations",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1721196993,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "Compliance",
-      "Regtech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arva-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/arva-ai.json"
-  },
-  {
     "id": 29977,
     "name": "Merlin AI",
     "slug": "merlin-ai",
@@ -48606,6 +48473,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cekura-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/cekura-ai.json"
+  },
+  {
+    "id": 30051,
+    "name": "attimet",
+    "slug": "attimet",
+    "former_names": [
+      "AgentPay",
+      "protegee"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43b9a65188d543037d433040e225613f5f256524.png",
+    "website": "https://attimet.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building a research lab that puts its ideas to the test in one of the most complex, information-rich environments in the world: the financial markets.\r\n\r\nMuch of trading still depends on hand-crafted signals and intuition. We’re approaching it differently - from first principles. We design systems that learn, adapt, and improve with data. Our infrastructure is built to accelerate research: fast iteration loops, real-time feedback, and direct connection between ideas and outcomes.\r\n\r\nWe’re starting with liquid markets like equities and options - high-dimensional, dynamic systems where traditional pipelines break down. Our goal isn’t just to model them better - it’s to build a platform for experimentation, where every result tightens the loop between theory and practice.\r\n\r\nIf you care about learning systems, clean abstractions, and applying research in the wild - we’re hiring.",
+    "one_liner": "we predict stuff",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1728431199,
+    "tags": [
+      "Deep Learning",
+      "Hard Tech",
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/attimet",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/attimet.json"
   },
   {
     "id": 30056,
@@ -51830,5 +51741,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/starsling",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/starsling.json"
+  },
+  {
+    "id": 30761,
+    "name": "Reacher",
+    "slug": "reacher",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e18f0a8b8fff511049fe03b4ad0dc3b98bce28b5.png",
+    "website": "https://reacherapp.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Reacher automates affiliate marketing for enterprise brands, replacing teams of 5+ people with AI-powered creator discovery, outreach, and management. \r\n\r\nTrusted by brands driving $20M+ in GMV, we're building the largest marketplace where creators access premium deals guided by an AI talent manager, while brands access our vetted network of top creators.",
+    "one_liner": "AI-powered marketplace connecting brands with top creators",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1750191046,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "B2B",
+      "E-commerce",
+      "Creator Economy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reacher",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/reacher.json"
   }
 ]
