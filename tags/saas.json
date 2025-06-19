@@ -10974,7 +10974,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -34530,8 +34530,8 @@
   },
   {
     "id": 27154,
-    "name": "Superbar (Formerly Caddie)",
-    "slug": "superbar-formerly-caddie",
+    "name": "Superbar",
+    "slug": "superbar",
     "former_names": [
       "Caddie"
     ],
@@ -34553,7 +34553,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -34572,8 +34572,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/superbar-formerly-caddie",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/superbar-formerly-caddie.json"
+    "url": "https://www.ycombinator.com/companies/superbar",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/superbar.json"
   },
   {
     "id": 27157,
@@ -40016,23 +40016,24 @@
   },
   {
     "id": 28882,
-    "name": "Vigilant",
-    "slug": "vigilant",
+    "name": "Repaint",
+    "slug": "repaint",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19a0c38283d04000fce0feb0b23f72a7d428a442.png",
-    "website": "https://vigilant.run",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/03dfcca42cc18ab05a66bfb1ac760c686411352a.png",
+    "website": "https://repaint.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vigilant is a lightweight observability tool that helps developers at startups track what's happening in their application. You send us data like logs, and metrics, and errors. Then from our dashboard, you can search, graph, and create alerts on your data. We're a team of builders with relentless focus on polished design and engineering excellence.",
-    "one_liner": "Lightweight logging, metrics, and error monitoring for startups",
+    "long_description": "Repaint is an AI website builder that helps non-technical users create professional, custom websites just by chatting. You describe what you want—pages, style, content—and our AI builds it in real time. It's great for small businesses, portfolios, nonprofits, and more. We're a team of builders obsessed with design, speed, and using AI to give people superpowers.",
+    "one_liner": "Build professional websites by chatting with AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1690825892,
     "tags": [
-      "Developer Tools",
+      "Artificial Intelligence",
       "SaaS",
-      "Analytics",
-      "DevOps"
+      "Chatbot",
+      "Design",
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40053,8 +40054,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vigilant",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/vigilant.json"
+    "url": "https://www.ycombinator.com/companies/repaint",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/repaint.json"
   },
   {
     "id": 28900,
@@ -41855,7 +41856,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "The AI-powered Engineering Productivity Platform",
     "one_liner": "The Engineering Productivity Platform",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1701093428,
@@ -45391,18 +45392,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aa06b2c04632ad68c2151cc3aac66c942a0119b.png",
     "website": "https://www.relvy.ai",
     "all_locations": "",
-    "long_description": "Relvy does 24x7 monitoring of production software logs to both discover and debug issues. We do this using our custom LLMs that are 200x cheaper than frontier models, which means we are the only AI that's usable at the scale of this problem.",
-    "one_liner": "Efficient AI for monitoring production software",
+    "long_description": "Relvy provides AI-powered debugging notebooks that help software engineers investigate and resolve incidents faster. It finds the root cause in over 70% of alerts automatically, and when it doesn’t, engineers can easily guide or correct the investigation—saving valuable time across the team.",
+    "one_liner": "AI powered debugging notebooks for incident response",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1729032291,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45435,7 +45436,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50c65b09c63d4db06dcd89cb26fd6622b6c3934c.png",
     "website": "https://www.canvas.inc/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Canvas is the first AI-Powered SDR Agency. We manage the full sales pipeline: finding warm leads, enriching them, qualifying prospects, and booking demos for your team.",
+    "long_description": "Canvas is the first AI-Powered Full-Stack SDR Agency. We manage the full sales pipeline: finding warm leads, enriching them, qualifying prospects, and booking demos for your team.",
     "one_liner": "AI-Powered Full-Stack SDR Agency",
     "team_size": 3,
     "industry": "B2B",
@@ -47833,5 +47834,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cohesive",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/cohesive.json"
+  },
+  {
+    "id": 30794,
+    "name": "Vulcan Technologies",
+    "slug": "vulcan-technologies",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99289e9c71cb1127d9713f9951ef029e17d28248.png",
+    "website": "https://www.vulcan-tech.com/",
+    "all_locations": "",
+    "long_description": "Vulcan automates lawful regulatory drafting for government agencies and regulatory compliance for industry. Our intelligent legal cartography automatically maps relationships between statutes and regulations, equipping agencies to comply with changing state and federal law, and enabling business to comment, contest, and comply with regulatory requirements.",
+    "one_liner": "AI legal cartography",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1750286926,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "GovTech",
+      "Compliance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vulcan-technologies",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/vulcan-technologies.json"
   }
 ]

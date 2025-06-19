@@ -6060,7 +6060,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Eventual is a data warehouse for ML/AI.\r\n\r\nWe are building an integrated development experience for data scientists and engineers to build ML/AI applications which query and process multimodal data (images, video, audio and 3D scans).\r\n\r\nDaft (https://www.getdaft.io) is our open-sourced distributed data query engine. It has a Python Dataframe API and is built in Rust, providing both ease of use and performance for use-cases such as ML data engineering, training data ingestion and general data analytics.\r\n\r\nWe are funded by investors such as Caffeinated Capital, Array.vc and top angels in the valley from Databricks, Meta and Lyft. Our team has deep expertise in high performance computing, big data technologies, cloud infrastructure and machine learning.\r\n",
     "one_liner": "Data Warehouse for ML/AI",
-    "team_size": 5,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1648154182,
@@ -8453,11 +8453,11 @@
     "name": "Blacksmith",
     "slug": "blacksmith",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffc6aa3d8f08c5d91f19687bba8a0c56dde30462.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b33e396b9d2b1377a59dc2a41f52ea03155934ce.png",
     "website": "https://blacksmith.sh/",
     "all_locations": "",
     "long_description": "Blacksmith helps companies run their continuous integration (CI) up to twice as fast, at half the cost. We do this by running their CI on high performance gaming CPUs.\r\n\r\n- Engineering productivity is often marred by slow CI that grows quadratically with the size of the engineering organization.\r\n- On top of this, companies pay high markups to run CI on the hyperscalers.\r\n- Consequently, companies have to run their CI on spot instances to keep costs in check. Since spot instances can get pre-empted at any point, running CI reliably on them requires [significant engineering investment](https://www.rippling.com/blog/how-rippling-used-spot-instances-to-save-and-scale-ci-cd).\r\n\r\nBlacksmith offers CI compute that is more performant, cheaper, and reliable. With Blacksmith, companies do not have to think about CI as they scale.\r\n\r\nWe are starting with GitHub Actions - today's most popular and fastest-growing CI system. With a one-line change, companies can run their CI up to twice as fast on our high-performance hardware. In addition to this, Blacksmith provides colocated warm caches along with optimizations for common CI workloads (like building and pushing Docker images).\r\n\r\nAayush, JP and Aditya have gained deep systems and product knowledge from their time at Cockroach Labs and Faire respectively. Both these companies, with several hundred engineers, were spending in the order of millions of dollars on their CI. Yet they were riddled with slow CI and actively seeking out cheaper and faster alternatives. Blacksmith offers exactly this alternative, at a time where being lean is table-stakes for most companies.",
-    "one_liner": "Serverless cloud infra for CI",
+    "one_liner": "The fastest way to run your GitHub Actions",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -8827,6 +8827,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/thunder-compute",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/thunder-compute.json"
+  },
+  {
+    "id": 29778,
+    "name": "Praxos",
+    "slug": "praxos",
+    "former_names": [
+      "Praxos Intelligence, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d35446ae117ad0a29d2185361444c5985f90b211.png",
+    "website": "https://www.praxos.ai",
+    "all_locations": "Miami, FL, USA; Remote",
+    "long_description": "Search, retrieve and update data with unprecedented accuracy.",
+    "one_liner": "Kernel for AI agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1723170275,
+    "tags": [
+      "Developer Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/praxos",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/praxos.json"
   },
   {
     "id": 29950,

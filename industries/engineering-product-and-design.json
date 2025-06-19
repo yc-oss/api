@@ -15599,23 +15599,24 @@
   },
   {
     "id": 28882,
-    "name": "Vigilant",
-    "slug": "vigilant",
+    "name": "Repaint",
+    "slug": "repaint",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19a0c38283d04000fce0feb0b23f72a7d428a442.png",
-    "website": "https://vigilant.run",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/03dfcca42cc18ab05a66bfb1ac760c686411352a.png",
+    "website": "https://repaint.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vigilant is a lightweight observability tool that helps developers at startups track what's happening in their application. You send us data like logs, and metrics, and errors. Then from our dashboard, you can search, graph, and create alerts on your data. We're a team of builders with relentless focus on polished design and engineering excellence.",
-    "one_liner": "Lightweight logging, metrics, and error monitoring for startups",
+    "long_description": "Repaint is an AI website builder that helps non-technical users create professional, custom websites just by chatting. You describe what you want—pages, style, content—and our AI builds it in real time. It's great for small businesses, portfolios, nonprofits, and more. We're a team of builders obsessed with design, speed, and using AI to give people superpowers.",
+    "one_liner": "Build professional websites by chatting with AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1690825892,
     "tags": [
-      "Developer Tools",
+      "Artificial Intelligence",
       "SaaS",
-      "Analytics",
-      "DevOps"
+      "Chatbot",
+      "Design",
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15636,8 +15637,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vigilant",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/vigilant.json"
+    "url": "https://www.ycombinator.com/companies/repaint",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/repaint.json"
   },
   {
     "id": 28907,
@@ -17758,7 +17759,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "The AI-powered Engineering Productivity Platform",
     "one_liner": "The Engineering Productivity Platform",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1701093428,
@@ -20406,21 +20407,24 @@
   },
   {
     "id": 29989,
-    "name": "Melty",
-    "slug": "melty",
+    "name": "Chorus",
+    "slug": "chorus-sh",
     "former_names": [
       "BookMe"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5957c080cba74e8f92840d3baeec2beaae949d4b.png",
-    "website": "https://melty.sh",
-    "all_locations": "",
-    "long_description": "We're building Chorus, a Mac app that lets you chat with O1, Claude, Perplexity, Deepseek, and others on your desktop. Find the right model for each task, get more creativity without copy–pasting prompts, and get more reliability without manually comparing model outputs.",
-    "one_liner": "Chat with a bunch of AIs at once",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6195118747cddb8506edfbe5e8adbb2342788f6.png",
+    "website": "https://chorus.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Chat with o3, Claude, Gemini, DeepSeek, and others all at once. The best models, as soon as they come out, in one app.",
+    "one_liner": "All the AI, on your Mac",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725301012,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Chat"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -20432,15 +20436,16 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/melty",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/melty.json"
+    "url": "https://www.ycombinator.com/companies/chorus-sh",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/chorus-sh.json"
   },
   {
     "id": 29999,
@@ -20983,18 +20988,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aa06b2c04632ad68c2151cc3aac66c942a0119b.png",
     "website": "https://www.relvy.ai",
     "all_locations": "",
-    "long_description": "Relvy does 24x7 monitoring of production software logs to both discover and debug issues. We do this using our custom LLMs that are 200x cheaper than frontier models, which means we are the only AI that's usable at the scale of this problem.",
-    "one_liner": "Efficient AI for monitoring production software",
+    "long_description": "Relvy provides AI-powered debugging notebooks that help software engineers investigate and resolve incidents faster. It finds the root cause in over 70% of alerts automatically, and when it doesn’t, engineers can easily guide or correct the investigation—saving valuable time across the team.",
+    "one_liner": "AI powered debugging notebooks for incident response",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1729032291,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22160,18 +22165,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4911874a37ff01bfa27bb33e5f83f49e6970068e.png",
     "website": "https://plexe.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Plexe builds predictive ML models from a problem description. It connects to data sources, conducts experiments, evaluates and deploys the models to an API endpoint.",
     "one_liner": "Open-source agents to build predictive ML models from a prompt",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1745031118,
-    "tags": [
-      "Developer Tools",
-      "Machine Learning",
-      "Open Source"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -22183,8 +22184,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

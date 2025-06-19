@@ -5679,7 +5679,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Real Estate and Construction",
       "Construction"
@@ -9939,16 +9939,16 @@
   },
   {
     "id": 25075,
-    "name": "Swades AI",
-    "slug": "swades-ai",
+    "name": "Joinarena",
+    "slug": "joinarena",
     "former_names": [
       "Better Financial Corporation"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d42156f7b0b74559b331f0378ce76167cf04d05b.png",
-    "website": "https://www.swades.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fff41f383ee0e47c0d418ce11f7e1bbd4ec08fe2.png",
+    "website": "https://www.joinarena.ai/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Swades AI is an AI research lab building commercial applications using breakthrough AI models. We leverage both open/closed source models to solve application level problems.\r\n\r\nOur family of startups include:\r\n\r\nOpenMic (https://www.openmic.ai/) : AI phone agents that can do both inbound/outbound calls across different use-cases such as healthcare, logistics & trucking, sales automation etc.\r\n\r\nSNR Audio (https://www.snr.audio/) : TTS/STT API at 1/10 the cost of existing providers.\r\n\r\nPoolcompute (https://www.poolcompute.com/): GPU marketplace for both centralized/decentralized GPUs at lowest costs\r\n\r\nOptic Intellect (https://www.opticintellect.com/) : Large vision models for computer vision tasks\r\n\r\nJoinarena.ai (https://www.joinarena.ai/) : AI interviewer for screening calls\r\n\r\nPowerdialer.ai (https://www.powerdialer.ai/): Cold calling Sales automation tool\r\n\r\nCodesama (https://www.codesama.com/): AI powered github code reviews",
-    "one_liner": "Applied AI Research Lab",
+    "long_description": "Joinarena.ai (https://www.joinarena.ai/) : AI interviewer for screening calls",
+    "one_liner": "AI interviewer",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "Fintech -> Asset Management",
@@ -9976,8 +9976,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/swades-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/swades-ai.json"
+    "url": "https://www.ycombinator.com/companies/joinarena",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/joinarena.json"
   },
   {
     "id": 25249,
@@ -13995,50 +13995,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/magic-patterns.json"
   },
   {
-    "id": 27692,
-    "name": "Rollstack",
-    "slug": "rollstack-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/65e417fdebdce3308c883861f6f1ce40282921ab.png",
-    "website": "https://www.rollstack.com",
-    "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Who hasn't spent hours creating or updating slide decks and documents with the latest data? Teams spend between 5h and 12h per week updating slides and docs. And in 75% of the cases, slides are reused.\r\n\r\n• Rollstack allows teams to automatically create and update Google slides and PowerPoint presentations with the latest data from their BI tools, CRMs, and data warehouse. \r\n\r\n• Rollstack helps teams automate their business reviews, financial reporting, and client presentations by scheduling updates, creating decks programmatically, and version control.\r\n\r\n• Rollstack also generates insights automatically from your visualizations and datasets.",
-    "one_liner": "Automatically create and update data-driven slide decks and documents",
-    "team_size": 25,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1664774205,
-    "tags": [
-      "Artificial Intelligence",
-      "Productivity",
-      "Analytics",
-      "Data Visualization"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rollstack-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/rollstack-2.json"
-  },
-  {
     "id": 27699,
     "name": "Concourse",
     "slug": "concourse",
@@ -17167,6 +17123,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/menza",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/menza.json"
+  },
+  {
+    "id": 28882,
+    "name": "Repaint",
+    "slug": "repaint",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/03dfcca42cc18ab05a66bfb1ac760c686411352a.png",
+    "website": "https://repaint.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Repaint is an AI website builder that helps non-technical users create professional, custom websites just by chatting. You describe what you want—pages, style, content—and our AI builds it in real time. It's great for small businesses, portfolios, nonprofits, and more. We're a team of builders obsessed with design, speed, and using AI to give people superpowers.",
+    "one_liner": "Build professional websites by chatting with AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1690825892,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Chatbot",
+      "Design",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/repaint",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/repaint.json"
   },
   {
     "id": 28884,
@@ -22855,50 +22854,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/inspectmind-ai.json"
   },
   {
-    "id": 29516,
-    "name": "Same",
-    "slug": "same",
-    "former_names": [
-      "Million.js",
-      "Million"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e252dccfa9608a9c8b071de84c09ddbfba0bd06.png",
-    "website": "https://same.new",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are Same (YC W24). We want to help people easy develop and run products.\r\n\r\nWe believe that soon everyone will be able to freely explore, create, and implement various ideas without being restricted by technology and time. Coding in its current form is still too complicated for most people. It gives control to a small elite, takes years to master, and remains unintuitive and time-consuming to the average person.\r\n\r\nWe spent the last two years building tools like Million.js and React Scan that extend what millions of developers could create. Now, we're going to share that magic with the rest of the world.\r\n\r\nWe're based in San Francisco and Shanghai.",
-    "one_liner": "Build products without coding",
-    "team_size": 5,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Content",
-    "launched_at": 1703896590,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Content"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/same",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/same.json"
-  },
-  {
     "id": 29517,
     "name": "RetailReady",
     "slug": "retailready",
@@ -26421,6 +26376,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/pathpilot.json"
   },
   {
+    "id": 29989,
+    "name": "Chorus",
+    "slug": "chorus-sh",
+    "former_names": [
+      "BookMe"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6195118747cddb8506edfbe5e8adbb2342788f6.png",
+    "website": "https://chorus.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Chat with o3, Claude, Gemini, DeepSeek, and others all at once. The best models, as soon as they come out, in one app.",
+    "one_liner": "All the AI, on your Mac",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1725301012,
+    "tags": [
+      "Artificial Intelligence",
+      "Chat"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chorus-sh",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/chorus-sh.json"
+  },
+  {
     "id": 29990,
     "name": "DreamRP",
     "slug": "dreamrp",
@@ -27632,6 +27629,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/melder.json"
   },
   {
+    "id": 30117,
+    "name": "Relvy AI",
+    "slug": "relvy-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aa06b2c04632ad68c2151cc3aac66c942a0119b.png",
+    "website": "https://www.relvy.ai",
+    "all_locations": "",
+    "long_description": "Relvy provides AI-powered debugging notebooks that help software engineers investigate and resolve incidents faster. It finds the root cause in over 70% of alerts automatically, and when it doesn’t, engineers can easily guide or correct the investigation—saving valuable time across the team.",
+    "one_liner": "AI powered debugging notebooks for incident response",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1729032291,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/relvy-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/relvy-ai.json"
+  },
+  {
     "id": 30119,
     "name": "Canvas",
     "slug": "canvas",
@@ -27641,7 +27680,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50c65b09c63d4db06dcd89cb26fd6622b6c3934c.png",
     "website": "https://www.canvas.inc/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Canvas is the first AI-Powered SDR Agency. We manage the full sales pipeline: finding warm leads, enriching them, qualifying prospects, and booking demos for your team.",
+    "long_description": "Canvas is the first AI-Powered Full-Stack SDR Agency. We manage the full sales pipeline: finding warm leads, enriching them, qualifying prospects, and booking demos for your team.",
     "one_liner": "AI-Powered Full-Stack SDR Agency",
     "team_size": 3,
     "industry": "B2B",
@@ -31068,10 +31107,10 @@
       "Echo Exploration Company, Inc.",
       "Echo Exploration Co."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7739235b539c91f55bd250da7893871d1a966b2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43b4720ee8b1c90bf120b33611e6eebe044cd993.png",
     "website": "https://lapel.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lapel is building a customer operations platform that brings hospitality to the internet: one real-time view of every account + tools to power every touchpoint.\r\n\r\nWe believe online customer relationships should feel personal, not transactional. Today, most teams manage relationships through dashboards, funnels, and canned replies—great for metrics, terrible for humans.\r\n\r\nCustomers don’t see lines between Sales, Success, and Support, and your software shouldn’t either. Learn more at lapel.com",
+    "long_description": "Lapel is building a customer operations platform that brings hospitality to the internet: tools to power every touchpoint across sales, success, and support.\r\n\r\nToday, most teams manage relationships through dashboards, funnels, and canned replies—great for metrics, terrible for humans. We believe online customer relationships should feel personal, not transactional.\r\n\r\nLearn more at lapel.com",
     "one_liner": "Scale personalized service to every customer.",
     "team_size": 2,
     "industry": "B2B",
@@ -31450,6 +31489,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/godela.json"
   },
   {
+    "id": 30561,
+    "name": "Daxa",
+    "slug": "daxa",
+    "former_names": [
+      "Valora"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47dda084fea127470ef42cc30ad149ade9ed4f32.png",
+    "website": "https://www.getdaxa.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Daxa watches thousands of your session replays and listens to your customer feedback channels in real time — helping you pinpoint application issues before users churn and plan features that maximize conversion. Oftentimes, issues in your product don't make it to a support ticket until dozens of users have experienced it first. Daxa helps you combat this problem by watching users interact directly with your product and notifying you in real time via Slack or email if any issues or interesting phenomenon arise (dropoff on certain pages, features not performing as expected, etc)",
+    "one_liner": "An AI that watches how people use your product",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1744274885,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Analytics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/daxa",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/daxa.json"
+  },
+  {
     "id": 30562,
     "name": "Docket",
     "slug": "docket",
@@ -31534,5 +31616,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/reacher",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/reacher.json"
+  },
+  {
+    "id": 30794,
+    "name": "Vulcan Technologies",
+    "slug": "vulcan-technologies",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99289e9c71cb1127d9713f9951ef029e17d28248.png",
+    "website": "https://www.vulcan-tech.com/",
+    "all_locations": "",
+    "long_description": "Vulcan automates lawful regulatory drafting for government agencies and regulatory compliance for industry. Our intelligent legal cartography automatically maps relationships between statutes and regulations, equipping agencies to comply with changing state and federal law, and enabling business to comment, contest, and comply with regulatory requirements.",
+    "one_liner": "AI legal cartography",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1750286926,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "GovTech",
+      "Compliance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vulcan-technologies",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/vulcan-technologies.json"
   }
 ]

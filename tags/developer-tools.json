@@ -15159,48 +15159,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/briefer.json"
   },
   {
-    "id": 28882,
-    "name": "Vigilant",
-    "slug": "vigilant",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19a0c38283d04000fce0feb0b23f72a7d428a442.png",
-    "website": "https://vigilant.run",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vigilant is a lightweight observability tool that helps developers at startups track what's happening in their application. You send us data like logs, and metrics, and errors. Then from our dashboard, you can search, graph, and create alerts on your data. We're a team of builders with relentless focus on polished design and engineering excellence.",
-    "one_liner": "Lightweight logging, metrics, and error monitoring for startups",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1690825892,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "Analytics",
-      "DevOps"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vigilant",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/vigilant.json"
-  },
-  {
     "id": 28885,
     "name": "Telophase",
     "slug": "telophase",
@@ -19002,8 +18960,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d35446ae117ad0a29d2185361444c5985f90b211.png",
     "website": "https://www.praxos.ai",
     "all_locations": "Miami, FL, USA; Remote",
-    "long_description": "Developers use Praxos to give their AI agents memory, document processing, and autonomous tool use. Build AI that gets smarter and more personalized over time.",
-    "one_liner": "Data layer for AI agents",
+    "long_description": "Search, retrieve and update data with unprecedented accuracy.",
+    "one_liner": "Kernel for AI agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -19019,7 +18977,8 @@
     "batch": "Summer 2024",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -19986,18 +19945,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aa06b2c04632ad68c2151cc3aac66c942a0119b.png",
     "website": "https://www.relvy.ai",
     "all_locations": "",
-    "long_description": "Relvy does 24x7 monitoring of production software logs to both discover and debug issues. We do this using our custom LLMs that are 200x cheaper than frontier models, which means we are the only AI that's usable at the scale of this problem.",
-    "one_liner": "Efficient AI for monitoring production software",
+    "long_description": "Relvy provides AI-powered debugging notebooks that help software engineers investigate and resolve incidents faster. It finds the root cause in over 70% of alerts automatically, and when it doesn’t, engineers can easily guide or correct the investigation—saving valuable time across the team.",
+    "one_liner": "AI powered debugging notebooks for incident response",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1729032291,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20857,47 +20816,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/assistant-ui",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/assistant-ui.json"
-  },
-  {
-    "id": 30400,
-    "name": "Plexe",
-    "slug": "plexe",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4911874a37ff01bfa27bb33e5f83f49e6970068e.png",
-    "website": "https://plexe.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Plexe builds predictive ML models from a problem description. It connects to data sources, conducts experiments, evaluates and deploys the models to an API endpoint.",
-    "one_liner": "Open-source agents to build predictive ML models from a prompt",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1745031118,
-    "tags": [
-      "Developer Tools",
-      "Machine Learning",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/plexe",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/plexe.json"
   },
   {
     "id": 30402,
@@ -21873,6 +21791,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/docket",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/docket.json"
+  },
+  {
+    "id": 30609,
+    "name": "Halluminate",
+    "slug": "halluminate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png",
+    "website": "https://halluminate.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Halluminate provides data and sandboxes to train computer and browser use agents.\r\n\r\nA knowledge worker spends 90% of their day on a computer. A productive AI agent must similarly learn how to use our computers, browsers, and software to deliver real world value. \r\n\r\nToday, browser and computer use AI is inaccurate, slow, and expensive. Model labs and enterprises who want to improve these agents are bottlenecked by two resources: \r\n\r\n1) High quality datasets for benchmarking and evaluations\r\n2) Realistic sandbox environments for safe and accurate testing/training (ex. a simulated version of Salesforce) \r\n\r\nHalluminate offers a suite of products and services to address both these issues. \r\n\r\nOur evaluation service combines proprietary datasets with high quality annotations to help our customers identify and prioritize the biggest failure modes of their computer- and browser- use AI. \r\n\r\nOur platform provides a catalog of fully managed sandboxes, empowering our customers to safely and accurately test/train at scale, resulting in improved performance. \r\n\r\nOur customers see\r\n- Improved browser- and computer-use agent performance\r\n- New and emergent frontier agent capabilities\r\n- Data driven prioritization leading to exponentially faster development speed\r\n- Increased revenue/sales via marketing from public benchmarks\r\n\r\nOur paying customers already include leading computer use model labs and the two largest browser agent companies in the space. \r\n\r\nWyatt and Jerry are friends that met their first week of school studying CS at Cornell University. They’ve been working and studying together for 7+ years. \r\n",
+    "one_liner": "Data and environments to train computer use AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1750270235,
+    "tags": [
+      "Developer Tools",
+      "Machine Learning",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/halluminate",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/halluminate.json"
   },
   {
     "id": 30647,
