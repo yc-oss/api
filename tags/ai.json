@@ -2138,7 +2138,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -7543,6 +7543,98 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/query-vary",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/query-vary.json"
+  },
+  {
+    "id": 26094,
+    "name": "Cellbyte",
+    "slug": "cellbyte",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcdb88b3fbed507fd0624712ba4d55c173500ac.png",
+    "website": "https://www.cellbyte.com/",
+    "all_locations": "Munich, BY, Germany",
+    "long_description": "Cellbyte's AI agents help pharma companies launch new drugs worldwide. Market-leading firms are using Cellbyte to answer questions like “What price can we achieve for our new drug in the U.S. versus Germany?“.\r\n\r\nThe three co-founders have known and worked with each other for many years: Daniel brings 5+ years of industry experience from his previous job at leading global Life Sciences consultancy Simon-Kucher. Felix has sold $3m+ ACV deals to customers like H&M for his previous YC startup. Samuel holds an MSc in Information Systems from TUM, and has built enterprise AI applications from scratch as ML Engineer at Celonis.",
+    "one_liner": "AI Agents for Pharma Drug Launches",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1643107083,
+    "tags": [
+      "Data Science",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cellbyte",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/cellbyte.json"
+  },
+  {
+    "id": 26125,
+    "name": "GovDash",
+    "slug": "govdash",
+    "former_names": [
+      "Realize",
+      "Inc.",
+      "Realize",
+      "Pipebird",
+      "Realize",
+      "Chula.ai",
+      "Olli.ai",
+      "Govdash"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83d67d2e022acdad34c065119dc1423c5c7cf6e7.png",
+    "website": "https://govdash.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "GovDash is an AI platform that assists government contractors with capture, proposal development, contract management & more—in one place.\r\n\r\nAutomate BD workflows across the Capture Cloud, Proposal Cloud, and Contract Cloud.",
+    "one_liner": "AI platform for winning government contracts.",
+    "team_size": 28,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1642986901,
+    "tags": [
+      "Generative AI",
+      "GovTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/govdash",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/govdash.json"
   },
   {
     "id": 26296,
@@ -16921,15 +17013,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ca3e2bf71a524fc1733a500d6d8cfd497e6fc9f2.png",
     "website": "https://www.raindrop.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Monitor your AI app the right way.\r\n\r\nAI engineers use Raindrop to get alerts about hidden issues and successes in their AI products.\r\n\r\nRaindrop sends you alerts when your AI misbehaves and links straight to the events, so you can dig into the conversations or traces, understand the root cause, and fix it, fast.",
-    "one_liner": "Sentry for AI products",
+    "long_description": "Monitor your AI agents the right way.\r\n\r\nAI engineers use Raindrop to get alerts about hidden issues and successes in their AI agents.\r\n\r\nRaindrop sends you alerts when your AI misbehaves and links straight to the events, so you can dig into the conversations or traces, understand the root cause, and fix it, fast.",
+    "one_liner": "Sentry for AI Agents",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1710985617,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
       "B2B",
       "Monitoring",
       "AI"
@@ -18120,47 +18211,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/variant",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/variant.json"
-  },
-  {
-    "id": 29582,
-    "name": "Cheers",
-    "slug": "cheers",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67c33e0e1229416643c3c04c56495e10ccaea0a.png",
-    "website": "https://www.cheers.tech",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Most corporate initiatives stall at the frontline because companies lack real-time visibility into execution and employee performance. Without clear insights, it's impossible to know what's working, who’s driving results, or where improvement is needed. Cheers closes this last-mile gap. Our NFC badges let customers leave a review, download an app, join a loyalty program, tip, or refer with a single tap, automatically tying every action to the employee who earned it. The result is the first real-time performance dataset for frontline workers.\r\n\r\nManagers see exactly who drives results, which programs convert, and where to coach. Vivint Smart Home used Cheers to capture 25,000+ five-star Google reviews in two months and raised its local Google ratings from ~2.0 to ~4.9 stars. Cheers is turning millions of frontline interactions into actionable data, becoming the intelligence layer of the frontline economy.",
-    "one_liner": "Datadog for frontline employees",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1721413814,
-    "tags": [
-      "Analytics",
-      "Feedback",
-      "AI",
-      "Reviews"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cheers",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/cheers.json"
   },
   {
     "id": 29585,
@@ -20445,47 +20495,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/autarc.json"
   },
   {
-    "id": 29834,
-    "name": "Rastro",
-    "slug": "rastro",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/447ef3f5bdd55f339b07fe098ff620ccfd86af36.png",
-    "website": "https://rastro.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tap to decorate your room in minutes. Rastro is your personal interior designer, right from your phone. Redecorate a room, remove or add furniture, all in under 10 seconds.\r\n\r\nThis is supported by our in-house models, which allow us to redecorate rooms with superior aesthetics 3x faster than competing products. \r\n",
-    "one_liner": "State of the art AI interior designer.",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1721284235,
-    "tags": [
-      "Consumer",
-      "Retail Tech",
-      "Retail",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rastro",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/rastro.json"
-  },
-  {
     "id": 29836,
     "name": "TradeFlow",
     "slug": "tradeflow",
@@ -21263,6 +21272,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dreamrp",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/dreamrp.json"
+  },
+  {
+    "id": 29999,
+    "name": "Onlook",
+    "slug": "onlook",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c023f9010fb3a7f3e550c56a9283c477e6ca096.png",
+    "website": "https://onlook.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Onlook is the fastest way for anyone to build, deploy, and iterate on websites and web apps. We built an open-source, visual editor for code that merges design, development, and AI.\r\n\r\nSince launching, Onlook hit #1 on Hacker News, was the #1 trending repo on GitHub—above DeepSeek—and has earned over 8,500 GitHub stars.\r\n\r\nFounded by Daniel Farrell, a designer of 10+ years and former Head of Growth, and Kiet Ho, an ex-Amazon and ex-ServiceNow engineer, Onlook is on a mission to finally solve the gap between design and development. ",
+    "one_liner": "Cursor for Designers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1737572736,
+    "tags": [
+      "Developer Tools",
+      "Design",
+      "Design Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/onlook",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/onlook.json"
   },
   {
     "id": 30014,
@@ -23882,47 +23933,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/sennu-ai.json"
   },
   {
-    "id": 30296,
-    "name": "Peppr AI",
-    "slug": "peppr-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5845a68f41f0b45b919c6d9f64f83b2da23349a.png",
-    "website": "https://www.usepeppr.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We turn scattered company data into a dynamic, self-improving knowledge hub to fuel faster decisions across your organization",
-    "one_liner": "Self-improving knowledge base synthesizing scattered company data",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1739485399,
-    "tags": [
-      "Machine Learning",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/peppr-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/peppr-ai.json"
-  },
-  {
     "id": 30303,
     "name": "AfterQuery",
     "slug": "afterquery",
@@ -26360,7 +26370,7 @@
     "one_liner": "AI employees that handle the work, so people can do the magic.",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1749750449,
     "tags": [
       "Enterprise Software",
@@ -26386,5 +26396,133 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/idler",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/idler.json"
+  },
+  {
+    "id": 30755,
+    "name": "Pally",
+    "slug": "pally",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d88454d0945b7a53c66cb49ef0f0e337f6156105.png",
+    "website": "https://pally.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hey 👋, we’re Haz and Wyatt, the founders of Pally, and we’re building at the intersection of AI and Human Relationships. \r\n\r\nWe believe that while AI will automate a lot of low-level tasks, that this will dramatically increase the value of human connection at the highest level.\r\n\r\nIn a world full of ‘AI SDRs’, our warm connections become more important than ever. \r\n\r\nYet today, keeping track of thousands of connections across countless social platforms is impossible. We forget to respond, we miss important moments, we lose touch.  \r\n\r\nWe’re building Pally to solve that. \r\n\r\nWe bring together every connection, across every platform. Our AI researches everything they’ve ever posted online, and uses its deep understanding of each person to help you achieve your goals; whether hiring, fundraising, or sales.",
+    "one_liner": "Pally is an AI Relationship Management Platform",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1750346506,
+    "tags": [
+      "Consumer",
+      "B2B",
+      "Productivity",
+      "Search",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pally",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/pally.json"
+  },
+  {
+    "id": 30761,
+    "name": "Reacher",
+    "slug": "reacher",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e18f0a8b8fff511049fe03b4ad0dc3b98bce28b5.png",
+    "website": "https://reacherapp.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Reacher automates affiliate marketing for enterprise brands, replacing teams of 5+ people with AI-powered creator discovery, outreach, and management. \r\n\r\nTrusted by brands driving $20M+ in GMV, we're building the largest marketplace where creators access premium deals guided by an AI talent manager, while brands access our vetted network of top creators.",
+    "one_liner": "AI platform to scale creator partnerships 10x faster",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1750191046,
+    "tags": [
+      "Marketplace",
+      "B2B",
+      "E-commerce",
+      "Creator Economy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reacher",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/reacher.json"
+  },
+  {
+    "id": 30794,
+    "name": "Vulcan Technologies",
+    "slug": "vulcan-technologies",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99289e9c71cb1127d9713f9951ef029e17d28248.png",
+    "website": "https://www.vulcan-tech.com/",
+    "all_locations": "",
+    "long_description": "Vulcan primarily offers two different AI services for two different constituencies:\r\n1) Automatic regulatory drafting for executive branch agencies in government and \r\n2) Regulatory compliance and comment for industry\r\nBeneath these tools is a proprietary system of vectorized embeddings that we call \"intelligent legal cartography.\" an automatic mapping of relationships between statutes, regulations, and case law. In short: Vulcan equips agencies to comply with changing state and federal law, and enables business to comment, contest, and comply with regulatory requirements.",
+    "one_liner": "AI legal cartography",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1750286926,
+    "tags": [
+      "SaaS",
+      "GovTech",
+      "Compliance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vulcan-technologies",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/vulcan-technologies.json"
   }
 ]
