@@ -81,6 +81,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cyberdesk.json"
   },
   {
+    "id": 30705,
+    "name": "Summon",
+    "slug": "summon",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c6296641dda93e2e42b42eb8aa9b1ad557b54e7.png",
+    "website": "https://trysummon.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Summon is the complete end-to-end MCP platform. We're building the pipes connecting context to client applications for the agent economy. \r\n\r\nSummon transforms MCP development from a fragmented, manual process into an AI-first, collaborative workflow. We build MCP servers from OpenAPI specs using our AI agent, provide debugging playgrounds, run continuous evaluations against different LLMs, and offer enterprise hosting with observability. This creates a complete virtuous loop where AI builds, maintains, and improves MCP integrations, accelerating time-to-market, reducing bugs, and aligning developers, QA, and product teams.\r\n\r\nWith MCP gaining adoption across ChatGPT, Claude, and Microsoft Copilot, companies need agent-accessible APIs to remain competitive.",
+    "one_liner": "Open-Source Postman for MCP servers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1750717483,
+    "tags": [
+      "Developer Tools",
+      "Generative AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/summon",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/summon.json"
+  },
+  {
     "id": 30708,
     "name": "Perseus Defense",
     "slug": "perseus-defense",
@@ -338,17 +380,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99289e9c71cb1127d9713f9951ef029e17d28248.png",
     "website": "https://www.vulcan-tech.com/",
     "all_locations": "",
-    "long_description": "Vulcan primarily offers two different AI services for two different constituencies:\r\n1) Automatic regulatory drafting for executive branch agencies in government and \r\n2) Regulatory compliance and comment for industry\r\nBeneath these tools is a proprietary system of vectorized embeddings that we call \"intelligent legal cartography,\" an automatic mapping of relationships between statutes, regulations, and case law. In short: Vulcan equips agencies to comply with changing state and federal law, and enables business to comment, contest, and comply with regulatory requirements.",
+    "long_description": "Vulcan primarily offers two different AI services for two different constituencies:\r\n1) Automatic regulatory drafting for executive branch agencies in government and \r\n2) Regulatory compliance and comment for industry\r\nBeneath these tools is a proprietary system that we call \"intelligent legal cartography,\" an automatic mapping of relationships between statutes, regulations, and case law. In short: Vulcan equips agencies to comply with changing state and federal law, and enables business to comment, contest, and comply with regulatory requirements.",
     "one_liner": "AI legal cartography",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1750286926,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "GovTech",
-      "Compliance",
-      "AI"
+      "Compliance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -378,9 +420,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c2008e580fb1146da7922b566c2a03af87f5a0c.png",
     "website": "https://upliftai.org/",
-    "all_locations": "Lahore, Punjab, Pakistan",
+    "all_locations": "",
     "long_description": "We build speech understanding and speech generation models for the five major languages spoken in Pakistan, where 42% of the adult population can not read any language. \r\n\r\nPakistan is the 5th most populous country in the world with a $411 billion GDP. Yet its overlooked and no practical voice models exist for the local languages.\r\n\r\nWith our APIs and SDKs, businesses offer high-quality voice interfaces in domains like banking, agriculture, healthcare, and government services. This enables them to finally offer digital services to every customer -- often for the first time.\r\n\r\nOur founding team has a decade of experience building world-leading voice products, including at Alexa and Siri. We have launched entire AWS services; and software written by us previously is used by millions daily.\r\n\r\nWe do in-house research and development. We gather our own data, then train and deploy our own models. We own our technology stack end-to-end.\r\n\r\nWe are on a mission to uplift entire nations through better access to digital information and digital services.",
-    "one_liner": "Foundational Voice AI for Pakistani Languages",
+    "one_liner": "Foundational Voice AI for underserved languages",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "Unspecified",
@@ -399,8 +441,6 @@
       "B2B"
     ],
     "regions": [
-      "Pakistan",
-      "South Asia",
       "Remote",
       "Partly Remote"
     ],

@@ -17038,6 +17038,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/firebender.json"
   },
   {
+    "id": 29362,
+    "name": "Pythagora",
+    "slug": "pythagora",
+    "former_names": [
+      "GPT Pilot"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0ecb110d14b42eafda9ceea57bb192193859109.png",
+    "website": "https://pythagora.ai/",
+    "all_locations": "",
+    "long_description": "Pythagora is the world's first all-in-one AI development platform, which can help you get from idea to production-ready app by talking to users. It uses LLMs to automate developer workflows (debugging, refactoring, etc.) and ask user questions whenever it needs feedback.\r\n\r\nIt is an IDE extension built on top of our open-source tool, GPT Pilot, which has over 32k Github stars.\r\n\r\nYou start with an idea and a simple prompt. In minutes, Pythagora builds you the full app specifications. Once the specs are done, it starts building the frontend. After your app's UI is polished, you can build the backend. It iterates with you by changing the code and asking you for feedback until the app is finished. When done, you can securely deploy and share your app.\r\n",
+    "one_liner": "Worlds first all-in-one AI development platform.",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1709274350,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Security",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/pythagora",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/pythagora.json"
+  },
+  {
     "id": 29363,
     "name": "Lytix",
     "slug": "lytix",
@@ -18735,10 +18779,10 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e081696fc0cc8dbda980f6f75b2fbf039add725f.png",
     "website": "https://emergent.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Emergent we are building autonomous coding agents that can automate internal facing software engineering tasks starting with code migration and modernization. \r\n",
-    "one_liner": "Autonomous coding agents for software migration and modernization",
+    "long_description": "At Emergent we are building autonomous coding agents that build real production ready apps and websites, from just a prompt.",
+    "one_liner": "Build Apps with AI - no coding required",
     "team_size": 12,
-    "industry": "B2B",
+    "industry": "Consumer",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1739780863,
     "tags": [
@@ -18753,8 +18797,7 @@
     "batch": "Summer 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -21781,5 +21824,47 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/cyberdesk",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cyberdesk.json"
+  },
+  {
+    "id": 30705,
+    "name": "Summon",
+    "slug": "summon",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c6296641dda93e2e42b42eb8aa9b1ad557b54e7.png",
+    "website": "https://trysummon.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Summon is the complete end-to-end MCP platform. We're building the pipes connecting context to client applications for the agent economy. \r\n\r\nSummon transforms MCP development from a fragmented, manual process into an AI-first, collaborative workflow. We build MCP servers from OpenAPI specs using our AI agent, provide debugging playgrounds, run continuous evaluations against different LLMs, and offer enterprise hosting with observability. This creates a complete virtuous loop where AI builds, maintains, and improves MCP integrations, accelerating time-to-market, reducing bugs, and aligning developers, QA, and product teams.\r\n\r\nWith MCP gaining adoption across ChatGPT, Claude, and Microsoft Copilot, companies need agent-accessible APIs to remain competitive.",
+    "one_liner": "Open-Source Postman for MCP servers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1750717483,
+    "tags": [
+      "Developer Tools",
+      "Generative AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/summon",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/summon.json"
   }
 ]

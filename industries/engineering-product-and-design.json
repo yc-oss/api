@@ -17368,19 +17368,19 @@
     "name": "Aether",
     "slug": "aether",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d730be252a337a985a4ed186c91c97076cf81355.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2892a41266e0a3d9870f882c5e0a3ca3f6d266b6.png",
     "website": "https://www.aethernrg.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Aether is AI-powered front-office platform for contractors — a go-to-market engine that combines targeting, design, proposals, and deal management into one system built for trades like Roofing, Solar, HVAC, Landscaping, and Fire Mitigation. \r\n\r\n",
-    "one_liner": "AI-powered GTM stack for field service trades",
+    "one_liner": "AI-powered GTM engine for field service trades",
     "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1709429693,
     "tags": [
+      "Artificial Intelligence",
       "Climate",
-      "CRM",
-      "AI"
+      "CRM"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17495,21 +17495,26 @@
   },
   {
     "id": 29362,
-    "name": "Pythagora (GPT Pilot)",
-    "slug": "pythagora-gpt-pilot",
+    "name": "Pythagora",
+    "slug": "pythagora",
     "former_names": [
       "GPT Pilot"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f15d72d917073403267f26755fdcbce74d0dfee3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0ecb110d14b42eafda9ceea57bb192193859109.png",
     "website": "https://pythagora.ai/",
     "all_locations": "",
-    "long_description": "Pythagora is an open source tool that builds apps from scratch by talking to users. It uses LLMs to automate developer workflows (debugging, refactoring, etc.) and ask user questions whenever it needs feedback.\r\n\r\nIt is an IDE extension built on top of our open-source tool, GPT Pilot, which has over 22k Github stars.\r\n\r\nYou start by describing an app you want to build; then, it asks you questions about the details of the app to write the full app specifications. Once the specs are done, it starts coding. When it finishes a task, it asks you to test the app and tell it if something is incorrect. It iterates with you by changing the code and asking you for feedback until the task is finished. Finally, it commits the code it has written and proceeds to the next task until the entire app is finished.\r\n",
-    "one_liner": "OSS dev tool that builds entire apps from scratch by talking to you",
-    "team_size": 6,
+    "long_description": "Pythagora is the world's first all-in-one AI development platform, which can help you get from idea to production-ready app by talking to users. It uses LLMs to automate developer workflows (debugging, refactoring, etc.) and ask user questions whenever it needs feedback.\r\n\r\nIt is an IDE extension built on top of our open-source tool, GPT Pilot, which has over 32k Github stars.\r\n\r\nYou start with an idea and a simple prompt. In minutes, Pythagora builds you the full app specifications. Once the specs are done, it starts building the frontend. After your app's UI is polished, you can build the backend. It iterates with you by changing the code and asking you for feedback until the app is finished. When done, you can securely deploy and share your app.\r\n",
+    "one_liner": "Worlds first all-in-one AI development platform.",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1709274350,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Security",
+      "Web Development"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -17525,12 +17530,12 @@
       "Partly Remote"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/pythagora-gpt-pilot",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/pythagora-gpt-pilot.json"
+    "url": "https://www.ycombinator.com/companies/pythagora",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/pythagora.json"
   },
   {
     "id": 29363,
@@ -19732,49 +19737,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/lumenary.json"
   },
   {
-    "id": 29765,
-    "name": "Emergent",
-    "slug": "emergent",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e081696fc0cc8dbda980f6f75b2fbf039add725f.png",
-    "website": "https://emergent.sh",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Emergent we are building autonomous coding agents that can automate internal facing software engineering tasks starting with code migration and modernization. \r\n",
-    "one_liner": "Autonomous coding agents for software migration and modernization",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1739780863,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/emergent",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/emergent.json"
-  },
-  {
     "id": 29769,
     "name": "Pinnacle",
     "slug": "pinnacle",
@@ -21973,8 +21935,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6dd000652c5e77966ee483897c0ffed9dac2d80.png",
     "website": "https://wild-card.ai",
     "all_locations": "",
-    "long_description": "Wildcard is the gateway for AI agents to find and use APIs with natural language. We have four official partnerships with API providers like Resend and Alpaca on our open standard to make their APIs ready for agentic traffic.\r\nOur API integrations include: Google Sheets, Stripe, Resend, Slack, Alpaca, Rootly, ...\r\n\r\n\r\n",
-    "one_liner": "Make APIs work for AI Agents",
+    "long_description": "Wildcard helps engineering managers keep velocity high without burning out their team. Our AI agents pick up the tickets that slow teams down — bugs, test fixes, migrations, and more — all in the background. Wildcard integrates with GitHub, Jira, Linear, Sentry, and Datadog to write code, open PRs, and close out tasks automatically. No extra headcount. No missed KPIs.",
+    "one_liner": "Coding Agents for Engineering Managers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23024,5 +22986,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/docket",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/docket.json"
+  },
+  {
+    "id": 30705,
+    "name": "Summon",
+    "slug": "summon",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c6296641dda93e2e42b42eb8aa9b1ad557b54e7.png",
+    "website": "https://trysummon.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Summon is the complete end-to-end MCP platform. We're building the pipes connecting context to client applications for the agent economy. \r\n\r\nSummon transforms MCP development from a fragmented, manual process into an AI-first, collaborative workflow. We build MCP servers from OpenAPI specs using our AI agent, provide debugging playgrounds, run continuous evaluations against different LLMs, and offer enterprise hosting with observability. This creates a complete virtuous loop where AI builds, maintains, and improves MCP integrations, accelerating time-to-market, reducing bugs, and aligning developers, QA, and product teams.\r\n\r\nWith MCP gaining adoption across ChatGPT, Claude, and Microsoft Copilot, companies need agent-accessible APIs to remain competitive.",
+    "one_liner": "Open-Source Postman for MCP servers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1750717483,
+    "tags": [
+      "Developer Tools",
+      "Generative AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/summon",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/summon.json"
   }
 ]
