@@ -11,7 +11,7 @@
     "one_liner": "Data and environments to train computer use AI",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B",
     "launched_at": 1750270235,
     "tags": [
       "Developer Tools",
@@ -51,7 +51,7 @@
     "one_liner": "Self hostable fleet of virtual desktops to build computer use agents",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1749659433,
     "tags": [
       "Developer Tools",
@@ -81,10 +81,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cyberdesk.json"
   },
   {
+    "id": 30669,
+    "name": "Dash",
+    "slug": "dash",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e47e34f35e388489ce2a0f3f4a13e6b49dce9ab9.png",
+    "website": "https://www.usedash.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Agent that connects to Gmail, Slack, Calendar, etc.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1750786342,
+    "tags": [
+      "Artificial Intelligence",
+      "Workflow Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dash",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/dash.json"
+  },
+  {
     "id": 30705,
     "name": "Summon",
     "slug": "summon",
-    "former_names": [],
+    "former_names": [
+      "AgentPort"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c6296641dda93e2e42b42eb8aa9b1ad557b54e7.png",
     "website": "https://trysummon.com",
     "all_locations": "San Francisco, CA, USA",
@@ -92,7 +134,7 @@
     "one_liner": "Open-Source Postman for MCP servers",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1750717483,
     "tags": [
       "Developer Tools",
@@ -384,7 +426,7 @@
     "one_liner": "AI legal cartography",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Legal",
     "launched_at": 1750286926,
     "tags": [
       "Artificial Intelligence",
@@ -414,6 +456,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/vulcan-technologies.json"
   },
   {
+    "id": 30805,
+    "name": "RealRoots",
+    "slug": "realroots",
+    "former_names": [
+      "RealRoots Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1826c85adc2f6ea01d50ca7c977e6f72c739c3f.png",
+    "website": "http://www.therealroots.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are a marketplace that helps women make new friends in her city via curated matching and guided shared experiences. Users fill out a 10-minute survey, and we match her with a group of compatible women nearby. The group then enjoys a series of 6 bonding experiences, leaving with at least one new friend -- guaranteed.",
+    "one_liner": "RealRoots guarantees women new friendships.",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1750729944,
+    "tags": [
+      "Marketplace",
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Social"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/realroots",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/realroots.json"
+  },
+  {
     "id": 30806,
     "name": "Uplift AI",
     "slug": "uplift-ai",
@@ -425,7 +509,7 @@
     "one_liner": "Foundational Voice AI for underserved languages",
     "team_size": 5,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B",
     "launched_at": 1750590533,
     "tags": [
       "Speech Recognition",

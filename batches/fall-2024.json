@@ -2236,8 +2236,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac0261264b03915325cd897f5bcb7484eec48903.png",
     "website": "https://www.abundant.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Abundant powers reliable and safe AI deployment via our API. Our network of specialized operators works alongside AI agents to:\r\n\r\n(1) Handle complex edge cases with precision.\r\n(2) Maintain rigorous safety standards.\r\n(3) Generate high-quality training data that continuously improves AI performance.\r\n\r\nCompanies can meet stringent quality requirements at a fraction of the cost of in-house teams, while accelerating their AI initiatives.",
-    "one_liner": "Human Supervision for AI Agents",
+    "long_description": "Abundant produces high-quality training data for advanced AI labs, startups, and enterprises building agents and multimodal AI. Companies use our modular annotation platform and network of specialized operators to:\r\n\r\n(1) Produce imitation training data for computer-use/web agents;\r\n(2) Annotate ground truth datasets for training and hillclimbing; and\r\n(3) Label outcomes and rewards, or correct nuanced failure modes.",
+    "one_liner": "Data for Agents and Multimodal AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3682,14 +3682,16 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72c8ca1f80fbcb63a0a616d53bce31153601a954.png",
     "website": "https://www.usesynth.ai",
-    "all_locations": "",
-    "long_description": "You add a few decorators to your agent code, and run your agent on a dataset of questions you've generated / collected in the wild. We give you back a dataset of message triplets that's ready to be uploaded to your fine-tuning provider of choice (OpenAI, OpenPipe, Anthropic, Gemini, etc) that will give you a language model ready to steer your agent in production more effectively.",
-    "one_liner": "We help AI agents learn from data.",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "You share production/eval traces for your AI software and sync your code. Synth asynchronously runs experiments to develop, improve, and maintain your software and hands code/prompts/models off to your team. Designed for teams building vertical AI software/agents.",
+    "one_liner": "We build Research Engineering Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729021221,
-    "tags": [],
+    "tags": [
+      "Reinforcement Learning"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -3701,7 +3703,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

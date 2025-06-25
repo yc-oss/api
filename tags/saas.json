@@ -5405,11 +5405,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1461732015,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "Telehealth",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -14413,7 +14413,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2020",
     "status": "Active",
@@ -18137,7 +18137,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -41213,7 +41213,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -43085,15 +43085,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Stormy: AI-Driven Influencer Marketing\r\n\r\nStreamline influencer outreach and let your product shine.\r\n\t•\tDiscover: AI pinpoints ideal influencers with 99.8% accuracy.\r\n\t•\tOutreach: Auto-send personalized emails and follow-ups.\r\n\t•\tClose: AI negotiates and finalizes deals seamlessly.\r\n\r\nFocus on building—Stormy handles distribution on autopilot.\r\n\r\nFounders from YC have discount! Please DM me on twitter: @karmedge or email",
     "one_liner": "Influencer marketing on autopilot",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1723238839,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Marketing"
+      "Marketing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46783,6 +46783,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/vantel.json"
   },
   {
+    "id": 30417,
+    "name": "GroundControl",
+    "slug": "groundcontrol",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa0a54f0fef4c64097aee43f99b1b40bf7bda56a.png",
+    "website": "https://rungroundcontrol.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "GroundControl builds mission-critical software for manufacturers in highly-regulated industries (aerospace, defense, medical)\r\n\r\nOur core product automates lengthy, complex, and regulated quality documentation in aerospace manufacturing.\r\n\r\nAs an example, the Boeing 777 is made up of over 3 million parts sourced from manufacturers around the world. These manufacturers must complete quality documentation for every part on this aircraft (machined parts, printed circuit boards, wire harnesses, assemblies, and more).\r\n\r\nGroundControl helps manufacturers complete this required documentation accurately, in minutes instead of days.",
+    "one_liner": "Vertical AI for highly-regulated manufacturing",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1744173288,
+    "tags": [
+      "SaaS",
+      "Manufacturing",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/groundcontrol",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/groundcontrol.json"
+  },
+  {
     "id": 30425,
     "name": "Auctor",
     "slug": "auctor",
@@ -47763,7 +47806,7 @@
     "one_liner": "AI legal cartography",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Legal",
     "launched_at": 1750286926,
     "tags": [
       "Artificial Intelligence",

@@ -6056,10 +6056,10 @@
       "Eventual Computing"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f429c16ee024d738c1b758e7c2d0ca5d811f204b.png",
-    "website": "https://www.eventualcomputing.com",
+    "website": "https://www.daft.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Eventual is a data warehouse for ML/AI.\r\n\r\nWe are building an integrated development experience for data scientists and engineers to build ML/AI applications which query and process multimodal data (images, video, audio and 3D scans).\r\n\r\nDaft (https://www.getdaft.io) is our open-sourced distributed data query engine. It has a Python Dataframe API and is built in Rust, providing both ease of use and performance for use-cases such as ML data engineering, training data ingestion and general data analytics.\r\n\r\nWe are funded by investors such as Caffeinated Capital, Array.vc and top angels in the valley from Databricks, Meta and Lyft. Our team has deep expertise in high performance computing, big data technologies, cloud infrastructure and machine learning.\r\n",
-    "one_liner": "Data Warehouse for ML/AI",
+    "long_description": "Every breakthrough AI application, from foundation models to autonomous vehicles, relies on processing massive volumes of images, video, and complex data. But today’s data platforms (like Databricks and Snowflake) are built on top of tools made for spreadsheet-like analytics, not the petabytes of multimodal data that power AI. As a result, teams waste months on brittle infrastructure instead of conducting research and building their core product.\r\n\r\nEventual was founded in 2022 to solve this. Our mission is to make querying any kind of data, images, video, audio, text, as intuitive as working with tables, and powerful enough to scale to production workloads. Our open-source engine, Daft, is purpose-built for real-world AI systems: coordinating with external APIs, managing GPU clusters, and handling failures that traditional engines can’t. Daft already powers critical workloads at companies like Amazon, Mobileye, Together AI, and CloudKitchens.\r\n\r\nWe’ve assembled a world-class team from Databricks, AWS, Nvidia, Pinecone, GitHub Copilot, Tesla, and more, quadrupling our size within a year. With backing from Y Combinator, Caffeinated Capital, Array.vc, and top angels from the co-founders of Databricks and Perplexity, we’re looking to double the team now. Join us—Eventual is just getting started.\r\n\r\nPlease note we are looking for someone who is willing and able to come into our San Francisco office in the Mission district 4 days / week.",
+    "one_liner": "Building the AI data engine for any modality and scale",
     "team_size": 18,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -7634,7 +7634,8 @@
     "name": "Skyvern",
     "slug": "skyvern",
     "former_names": [
-      "Wyvern AI (Previously Ikonomos)"
+      "Wyvern AI (Previously Ikonomos)",
+      "Wyvern AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/87d977bf0d4b7032c71830901e118beb0ca9946c.png",
     "website": "https://www.skyvern.com/",
@@ -9356,14 +9357,16 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72c8ca1f80fbcb63a0a616d53bce31153601a954.png",
     "website": "https://www.usesynth.ai",
-    "all_locations": "",
-    "long_description": "You add a few decorators to your agent code, and run your agent on a dataset of questions you've generated / collected in the wild. We give you back a dataset of message triplets that's ready to be uploaded to your fine-tuning provider of choice (OpenAI, OpenPipe, Anthropic, Gemini, etc) that will give you a language model ready to steer your agent in production more effectively.",
-    "one_liner": "We help AI agents learn from data.",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "You share production/eval traces for your AI software and sync your code. Synth asynchronously runs experiments to develop, improve, and maintain your software and hands code/prompts/models off to your team. Designed for teams building vertical AI software/agents.",
+    "one_liner": "We build Research Engineering Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729021221,
-    "tags": [],
+    "tags": [
+      "Reinforcement Learning"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -9375,7 +9378,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -10031,7 +10035,7 @@
     "one_liner": "Self hostable fleet of virtual desktops to build computer use agents",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1749659433,
     "tags": [
       "Developer Tools",
