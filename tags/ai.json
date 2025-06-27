@@ -9022,53 +9022,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/unthread.json"
   },
   {
-    "id": 27097,
-    "name": "Findly",
-    "slug": "findly",
-    "former_names": [
-      "Conversion Pattern"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb66cc9915337d3770b18b75f9fd9abe54a3e901.png",
-    "website": "https://www.findly.ai/join",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Findly.ai is the co-pilot for Business Intelligence that revolutionizes how businesses understand and interact with their data. By creating an engaging chat environment, it empowers decision-makers to gain insights, request reports, and generate visualizations based on their company's metrics. This seamless interaction is made possible by integrating a metric layer that comprehends all your company's metrics. The chat-based exploration simplifies complex data analysis, allowing users to generate comprehensive summaries with a single click, which can be exported to various formats. Furthermore, with the introduction of scheduled chats and action-triggered automations, Findly.ai enhances the autonomy and efficiency of decision-makers. It's more than a tool; it's a decision-making operational system aiming to facilitate decision-makers in achieving their KPIs while spending less time waiting for data.",
-    "one_liner": "Co-pilot for Business Intelligence",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1660122078,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Chatbot",
-      "Data Engineering",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/findly",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/findly.json"
-  },
-  {
     "id": 27108,
     "name": "Patika",
     "slug": "patika",
@@ -14793,18 +14746,18 @@
   },
   {
     "id": 29181,
-    "name": "SciPhi",
-    "slug": "sciphi",
+    "name": "Event Horizon Labs",
+    "slug": "event-horizon-labs",
     "former_names": [
       "EmergentAGI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/952b6381b227fe13913d082e7f9bdec4731e8adb.png",
-    "website": "https://www.sciphi.ai",
+    "website": "https://www.ehl.markets/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Start your AI application with agentic RAG, ingestion, document management, and more.",
-    "one_liner": "SciPhi is building R2R, the most advanced retrieval system.",
-    "team_size": 2,
-    "industry": "B2B",
+    "long_description": "We’re building the most advanced AI system for making decisions. Our mission is to build a fully autonomous hedge fund that matches the performance of the best portfolio managers on the planet.\r\n",
+    "one_liner": "We are building the Post-Human Trader.",
+    "team_size": 1,
+    "industry": "Fintech",
     "subindustry": "B2B",
     "launched_at": 1710132587,
     "tags": [
@@ -14820,8 +14773,8 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Fintech",
+      "Asset Management"
     ],
     "regions": [
       "United States of America",
@@ -14832,8 +14785,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sciphi",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/sciphi.json"
+    "url": "https://www.ycombinator.com/companies/event-horizon-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/event-horizon-labs.json"
   },
   {
     "id": 29184,
@@ -15738,7 +15691,9 @@
     "id": 29288,
     "name": "Arini",
     "slug": "arini",
-    "former_names": [],
+    "former_names": [
+      "HireAI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1592d841d2bf7a7c1bbe388bce6eed056114383b.png",
     "website": "https://www.arini.ai",
     "all_locations": "San Francisco, CA, USA",
@@ -15746,7 +15701,7 @@
     "one_liner": "AI receptionist for dentists",
     "team_size": 7,
     "industry": "Healthcare",
-    "subindustry": "B2B",
+    "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1708365250,
     "tags": [
       "Artificial Intelligence",
@@ -16381,6 +16336,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ragas",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ragas.json"
+  },
+  {
+    "id": 29350,
+    "name": "Aether",
+    "slug": "aether",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2892a41266e0a3d9870f882c5e0a3ca3f6d266b6.png",
+    "website": "https://www.aethernrg.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Aether is AI-powered front-office platform for contractors — a go-to-market engine that combines targeting, design, proposals, and deal management into one system built for trades like Roofing, Solar, HVAC, Landscaping, and Fire Mitigation. \r\n\r\nBuilding a new website soon! Coming to you 1st week of July. The current site is outdated and shows our old product. \r\n",
+    "one_liner": "AI-powered GTM engine for field service trades",
+    "team_size": 14,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1709429693,
+    "tags": [
+      "Climate",
+      "CRM",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aether",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/aether.json"
   },
   {
     "id": 29353,
@@ -20030,7 +20028,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -25402,6 +25400,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/odapt",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/odapt.json"
+  },
+  {
+    "id": 30466,
+    "name": "Labric",
+    "slug": "labric",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d2328f04b2a69a293a3f3a79d7e648159242574.png",
+    "website": "https://labric.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Labric is building the data layer that makes AI work for science. We capture messy lab data from instruments and tools, clean it, and connect it— so researchers can actually use AI to accelerate discovery.",
+    "one_liner": "The data layer for scientific research",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1747086610,
+    "tags": [
+      "Biotech",
+      "Nanotechnology",
+      "Data Engineering",
+      "Advanced Materials",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/labric",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/labric.json"
   },
   {
     "id": 30476,
