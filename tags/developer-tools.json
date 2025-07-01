@@ -8190,7 +8190,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -9199,12 +9199,12 @@
     "name": "Noloco",
     "slug": "noloco",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc0e83cec319be4be3188dc1d0b66bb5324a57f7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/201600bf7fcca3398cb1ecbf2e073352ee612ae3.png",
     "website": "https://noloco.io",
-    "all_locations": "Dublin, County Dublin, Ireland; Remote",
-    "long_description": "Noloco is the no-code platform for teams to create internal tools on top of their data in PostgreSQL, MySQL, Airtable & Google Sheets. With Noloco, you can build backoffice tools, CRUD apps and admin panels without writing a single line of code. ",
-    "one_liner": "Build the custom app your business needs — in minutes, without code",
-    "team_size": 5,
+    "all_locations": "Dublin, County Dublin, Ireland",
+    "long_description": "Give your Ops teams the power to build the tools your business needs, with native data, logic, automation, and AI — without code",
+    "one_liner": "Flexible Business Apps for Modern Teams",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1627056154,
@@ -9215,7 +9215,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -9227,7 +9227,7 @@
       "Ireland",
       "Europe",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -21147,48 +21147,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/simstudio.json"
   },
   {
-    "id": 30449,
-    "name": "Attune",
-    "slug": "attune",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8df0ce49cc11e96b09c8980da86ed900b39fe9dc.png",
-    "website": "https://attunehq.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Attune makes blazingly fast build tools that require zero migration effort.\r\n\r\nAs AI enables developers to write code faster than ever, slow builds are increasingly becoming the bottleneck in development velocity. Developers regularly lose hours of productivity every day waiting for their builds. Imagine being able to write code in 1 minute, but needing to wait 30 minutes to compile, deploy, and test it.\r\n\r\nExisting solutions either require painful migrations to new tools (e.g. Bazel) or rely on just using bigger servers to run your builds. Instead, we do native, first-class integrations into compilers and build systems.\r\n\r\nWith Attune, you don't need to integrate a new tool. Just make a one-line change from `cargo build` to `hurry cargo build` for 20x faster builds.\r\n\r\nEliza (ex-Google) and Xin worked together for 3 years at FOSSA, where Eliza was Head of Engineering and Xin was Head of Product. Eliza brings a decade of programming languages and build systems expertise, while Xin brings a decade of experience building developer tools products, most recently as VP of Product at Teleport (S15). Having experienced the pain of slow builds firsthand across hundreds of production codebases, we're building the solution we've always wanted.",
-    "one_liner": "Faster builds, zero effort.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1747089464,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "DevOps",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/attune",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/attune.json"
-  },
-  {
     "id": 30452,
     "name": "Better Auth",
     "slug": "better-auth",
@@ -21792,17 +21750,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/229d0f8aee3512a3e3602b0a708550a51a4f5e11.png",
     "website": "https://agentmail.to",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AgentMail is a developer-first email API built for AI Agents. Instantly provision unlimited inboxes for agents on your own domains, integrate across any stack, and use our standalone infrastructure to skip the limitations of Gmail’s legacy API.",
+    "long_description": "AgentMail is a developer-first email infrastructure, specifically built for AI Agents. Instantly provision unlimited inboxes for agents on your own domains, integrate across any stack, and use our standalone infrastructure to skip the limitations of Gmail’s legacy API.",
     "one_liner": "An email inbox for every AI agent",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1750990316,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Email",
-      "AI"
+      "Email"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21866,6 +21824,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/cyberdesk",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cyberdesk.json"
+  },
+  {
+    "id": 30700,
+    "name": "Nozomio",
+    "slug": "nozomio",
+    "former_names": [
+      "Nozomio Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d85c6a1195667680f7ed4c90a6bda101d0cc579.png",
+    "website": "https://www.nozomio.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nozomio is a product lab building engineers for the age of AI.\r\n\r\nAs coding agents become ubiquitous, the real bottleneck shifts from “write code” to “know which code and docs to feed them.” Starting with the tool named Nia, the mission is to provide context enrichment through agentic research and indexing of any external codebase(-s) or documentation via MCP / API.\r\n\r\nNozomio started with Arlan's early frustration with the agentic coding ecosystem, especially around context and memory. After winning Product of the Day in February and raising pre-seed, Arlan moved to London and then to SF as a solo immigrant from Kazakhstan to build the future of software engineering. \r\n\r\ntry nia at trynia .ai <3 ",
+    "one_liner": "Engineers for AI era, starting with contextual layer for coding agents",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751302971,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "API",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nozomio",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/nozomio.json"
   },
   {
     "id": 30705,
