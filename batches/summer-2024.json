@@ -6211,18 +6211,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/501bda7eaf23c59e167bae838b7a5bc2328b2fdb.png",
     "website": "https://www.thundercompute.com",
     "all_locations": "Atlanta, GA, USA",
-    "long_description": "Thunder Compute is the world's cheapest GPU cloud platform for researchers, data scientists, and startups. The team is building a proprietary orchestration stack to improve GPU utilization by 5x. Try it today.",
-    "one_liner": "The cheapest GPU cloud for developing AI/ML",
+    "long_description": "Self-serve GPUs in VS Code with persistent storage, snapshots, and hot-swappable hardware, with prices 80% lower than AWS.",
+    "one_liner": "Launch GPU instances in one click for 80% less",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7994,17 +7994,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25c55eb31d984b6e1d9f11620ead41083180bcf4.png",
     "website": "https://www.propaya.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Propaya uses AI to automate commercial lease abstractions and reviews. Propaya customers save 90% of lease review processing time and cost compared to before.",
+    "long_description": "Propaya uses AI to instantly abstract and analyze commercial leases - delivering clause-cited insights, linked schedules, and export-ready data in minutes. Beyond lease reviews, we empower brokers and attorneys with market benchmarks and deal evaluation tools to negotiate smarter, faster.",
     "one_liner": "AI commercial lease abstractions and review",
     "team_size": 2,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "launched_at": 1722479842,
     "tags": [
-      "Artificial Intelligence",
       "Real Estate",
       "Housing",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8707,7 +8707,7 @@
       "Pastelle.",
       "Mindley"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/886e679b5cbd64c33306564aa7caabb0748574d5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83db64301a123c8f20195581b448254e59c1a24f.png",
     "website": "https://www.therentflow.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "RentFlow is the first ‘Buy Now Pay Later’ rent collection platform.\r\n\r\nIn the US alone, ~ 50% of small & medium businesses, and ~ 15% of residents are behind on their rent. RentFlow’s mission is to decrease the financial and administrative burden of late rent for everyone.\r\n\r\nThanks to our partner bank, we automatically pay property managers upfront for their rent & fees on the 1st of the month. Meanwhile, business owners and residents have the possibility to pay their rent in flexible installments that adapt to their cash flow needs.\r\nWe also report timely installments to all major credit bureaus to help renters build their credit score fast while paying on their own schedule.\r\n\r\nRentFlow leverages Generative AI to provide a built-in rent collection agent and to unlock installment plans on an ongoing basis based on each tenant’s risk profile.\r\n\r\nWith RentFlow, say goodbye to late rent once and for all.\r\n",
@@ -8932,13 +8932,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55cc697d9f14eca5a5d45772ac14d97a83df16ae.png",
     "website": "https://bucket.bot",
     "all_locations": "",
-    "long_description": "250M lbs of plastic is wasted annually in US manufacturing. Bucket Robotics is making defect detection faster and easier to deploy to prevent that.\r\n\r\nOur products are designed to be easy to integrate into existing automation and technology stacks, flexible enough to bring retooling costs down, and reliable enough to make you forget that it's a robot.\r\n\r\nMatt and Steph are leveraging their experience from the self-driving industry, where we've integrated high-performance computing and quality sensing into complex, noise-filled environments. We focus on robust hardware and user-friendly software for a new generation of end-users, ensuring ease of use and rapid deployment.\r\n\r\nSecure and efficient handling of user data can make customers in the manufacturing space nervous to invest in sensing — our team's extensive experience handling self-driving car data in these regulated environments positions us uniquely to tackle these challenges. Companies like Keyence, National Instruments, and FLIR offer either outdated hardware or prohibitively expensive systems, along with software that hasn’t evolved to meet modern user needs.\r\n\r\nUS manufacturing is undergoing a significant transformation, with construction spending hitting a record annualized pace of over $200 billion. The need for a more reliable supply chain has seen over $700 billion in manufacturing megaprojects across North America since 2021, and this growth requires heavy automation. Bucket Robotics is at the forefront of this shift, offering a scalable, cost-effective solution that enhances automation and positions manufacturers closer to their end customers.",
+    "long_description": "Bucket Robotics is making defect detection faster, easier, and more deployable — starting with the 250M lbs of plastic wasted annually in U.S. manufacturing.\r\n\r\nOur platform turns CAD files into defect detectors. We generate synthetic, photorealistic training data to help factories catch flaws before they ship. No manual labeling, no real defects required. Our models deploy to edge hardware and integrate easily into existing automation stacks.\r\n\r\nWe come from the self-driving world (Argo AI, Uber ATG, Stack AV), where we built reliable perception in high-noise, real-world environments. We're applying that experience to manufacturing: robust sensing, user-friendly interfaces, and fast iteration cycles.\r\n\r\nManufacturers hesitate to adopt new sensing due to data concerns, integration risk, and poor UX. We’ve handled petabytes of regulated autonomy data — and built systems that earn trust.\r\n\r\nLegacy vendors like Keyence and FLIR offer hardware-centric tools with bloated pricing and outdated software. We’re building the opposite: flexible, modern tools that engineers want to use.\r\n\r\nManufacturing is in the middle of a $700B automation wave across North America. Bucket Robotics is building the quality control infrastructure to match.",
     "one_liner": "Defect detection for manufacturing built from CAD and synthetic data.",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1719001491,
-    "tags": [],
+    "tags": [
+      "Robotic Process Automation",
+      "Robotics",
+      "Computer Vision",
+      "Manufacturing"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -9348,14 +9353,18 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3e3b0d6c435e444f21ce5659e297ba0ef644c73.png",
     "website": "https://www.vera-health.ai",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "We empower healthcare providers, starting with emergency physicians, with instant access to up-to-date evidence-based answers. Our platform cuts through the noise to deliver trustworthy medical information 10x faster, revolutionizing clinical decision-support.",
     "one_liner": "AI-powered clinical decision support for healthcare providers",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1723103974,
-    "tags": [],
+    "tags": [
+      "Digital Health",
+      "Healthcare",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -9367,7 +9376,8 @@
       "Healthcare Services"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

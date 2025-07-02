@@ -7201,7 +7201,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -11977,7 +11977,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Firecrawl is the easiest way to extract data from the web. Developers use us to reliably convert URLs into LLM-ready markdown or structured data with a single API call. We crossed 17k GitHub stars in just two months and have had paying customers since day one.\r\n\r\nPreviously, we built Mendable, one of the first commercially available “chat with your data” applications. We sold to companies like MongoDB, Coinbase, Snapchat, and more. To do this, we spent a surprising amount of time building reliable infrastructure for getting clean data from the web. When we started to see our founding friends rebuilding the same thing, we thought we might be on to something.",
     "one_liner": "The easiest way to extract AI ready data from the web",
-    "team_size": 8,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1661283698,
@@ -14935,25 +14935,25 @@
   },
   {
     "id": 28836,
-    "name": "Sigma",
-    "slug": "sigma",
+    "name": "SOL",
+    "slug": "sol",
     "former_names": [
       "Poozle"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e79b312104fdeeee2f5cf870c7a37a04fa388877.png",
-    "website": "https://mysigma.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9a8cad6a65c7427fbc1ed42b8409c70bc0ef599.png",
+    "website": "https://heysol.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sigma is an open-source AI personal assistant inside a todo app.\r\n\r\nSigma learns your style, organizes your day, and sweeps up the busywork—auto-creating tasks, drafting replies, and running routine workflows—so you can focus on what truly matters.",
-    "one_liner": "Your AI Personal Assistant now in a todo app",
+    "long_description": "SOL is your unified command center for tasks, coding, and alerts—powered by CORE memory that adapts to your style and workflow.\r\n\r\nIt brings together your work from Slack, GitHub, Linear, and Gmail, delivering AI-powered assistance that gets smarter with every interaction.",
+    "one_liner": "Your AI Personal Assistant for daily focus",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1687596955,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -14974,8 +14974,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sigma",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/sigma.json"
+    "url": "https://www.ycombinator.com/companies/sol",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/sol.json"
   },
   {
     "id": 28846,
@@ -16152,7 +16152,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -18823,18 +18823,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/501bda7eaf23c59e167bae838b7a5bc2328b2fdb.png",
     "website": "https://www.thundercompute.com",
     "all_locations": "Atlanta, GA, USA",
-    "long_description": "Thunder Compute is the world's cheapest GPU cloud platform for researchers, data scientists, and startups. The team is building a proprietary orchestration stack to improve GPU utilization by 5x. Try it today.",
-    "one_liner": "The cheapest GPU cloud for developing AI/ML",
+    "long_description": "Self-serve GPUs in VS Code with persistent storage, snapshots, and hot-swappable hardware, with prices 80% lower than AWS.",
+    "one_liner": "Launch GPU instances in one click for 80% less",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20982,46 +20982,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/cubic.json"
   },
   {
-    "id": 30420,
-    "name": "Cua",
-    "slug": "cua",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/482d9c63c12b9cc8259e1f66c9d39433b6cdc003.png",
-    "website": "https://trycua.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cua is an open-source framework that enables AI agents to control full operating systems within high-performance, lightweight virtual containers. It delivers up to 90% native speed on Apple Silicon and works with any language models.",
-    "one_liner": "Docker for Computer-use Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1744392234,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cua",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/cua.json"
-  },
-  {
     "id": 30431,
     "name": "Chonkie",
     "slug": "chonkie",
@@ -21145,6 +21105,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simstudio",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/simstudio.json"
+  },
+  {
+    "id": 30449,
+    "name": "Attune",
+    "slug": "attune",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8df0ce49cc11e96b09c8980da86ed900b39fe9dc.png",
+    "website": "https://attunehq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Attune makes blazingly fast build tools that require zero migration effort.\r\n\r\nAs AI enables developers to write code faster than ever, slow builds are increasingly becoming the bottleneck in development velocity. Developers regularly lose hours of productivity every day waiting for their builds. Imagine being able to write code in 1 minute, but needing to wait 30 minutes to compile, deploy, and test it.\r\n\r\nExisting solutions either require painful migrations to new tools (e.g. Bazel) or rely on just using bigger servers to run your builds. Instead, we do native, first-class integrations into compilers and build systems.\r\n\r\nWith Attune, you don't need to integrate a new tool. Just make a one-line change from `cargo build` to `hurry cargo build` for 20x faster builds.\r\n\r\nEliza (ex-Google) and Xin worked together for 3 years at FOSSA, where Eliza was Head of Engineering and Xin was Head of Product. Eliza brings a decade of programming languages and build systems expertise, while Xin brings a decade of experience building developer tools products, most recently as VP of Product at Teleport (S15). Having experienced the pain of slow builds firsthand across hundreds of production codebases, we're building the solution we've always wanted.",
+    "one_liner": "Faster builds, zero effort.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1747089464,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/attune",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/attune.json"
   },
   {
     "id": 30452,
@@ -21750,17 +21750,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/229d0f8aee3512a3e3602b0a708550a51a4f5e11.png",
     "website": "https://agentmail.to",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AgentMail is a developer-first email infrastructure, specifically built for AI Agents. Instantly provision unlimited inboxes for agents on your own domains, integrate across any stack, and use our standalone infrastructure to skip the limitations of Gmail’s legacy API.",
-    "one_liner": "An email inbox for every AI agent",
+    "long_description": "AgentMail is an email API that allows your agent to have its own inbox. Think of it like Gmail, but for AI Agents.",
+    "one_liner": "Email Infrastructure for AI Agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1750990316,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Email"
+      "Email",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21912,5 +21912,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/summon",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/summon.json"
+  },
+  {
+    "id": 30720,
+    "name": "Autosana",
+    "slug": "autosana",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c7dda83aa113d5017c2cb187435ccccb356bd6a.png",
+    "website": "https://autosana.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A cloud-based tool for mobile teams to run natural language end-to-end tests. Eradicates the need to write/maintain E2E tests and manual testing. Seamlessly integrates into your CI, supports both iOS and Android, and is framework-agnostic (React Native, Flutter, Swift, etc).\r\n\r\nNo code, no setup, just catching bugs before users do. ",
+    "one_liner": "QA agent for mobile apps",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751416575,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/autosana",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/autosana.json"
   }
 ]

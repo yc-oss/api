@@ -9580,7 +9580,7 @@
     "website": "http://tryterra.co",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Terra makes it easy to transfer health data.\r\n\r\nThe unified API makes it easy to access data from health apps, wearables, sensors, and medical equipment through one source",
-    "one_liner": "API for developers to connect to health data from wearables and…",
+    "one_liner": "API for developers to access health data ",
     "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -13584,7 +13584,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -16068,7 +16068,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -16488,7 +16488,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -21028,21 +21028,20 @@
   },
   {
     "id": 30127,
-    "name": "Fabricate",
-    "slug": "fabricate",
+    "name": "Loombotic",
+    "slug": "loombotic",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4186b40db0a98d3b2cd4a8e0c9817c3efd20dd8a.png",
-    "website": "https://www.tryfabricate.com",
-    "all_locations": "",
-    "long_description": "Hardware engineers spend a quarter of their time just figuring out how to get their parts made, and from who. Fabricate builds procurement software for hardware teams. We help engineers manage manufacturing feasibility and procurement across their suppliers, whether they're getting parts custom manufactured or buying them off-the-shelf.",
-    "one_liner": "Procurement for Hardware Teams",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/92ce63f897a7a8fd8e6126b32364ff3b3ba994a1.png",
+    "website": "https://www.loombotic.com",
+    "all_locations": "Toronto, ON, Canada",
+    "long_description": "Loombotic is automating wire harness manufacturing with AI and robotics, to cut down the 70% labor cost, and 6-8 week lead time, to get cheaper wire harnesses in as little as 7 days.",
+    "one_liner": "Wire Harnesses in as little as 7 days",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1731992228,
     "tags": [
-      "Artificial Intelligence",
-      "B2B",
+      "Robotics",
       "Manufacturing"
     ],
     "tags_highlighted": [],
@@ -21056,15 +21055,16 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "Canada",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fabricate",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/fabricate.json"
+    "url": "https://www.ycombinator.com/companies/loombotic",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/loombotic.json"
   },
   {
     "id": 30129,
@@ -21477,13 +21477,13 @@
   },
   {
     "id": 30237,
-    "name": "Nuclear Software",
-    "slug": "nuclear-software",
+    "name": "Trim",
+    "slug": "trim",
     "former_names": [
       "Nuclear Software Solutions"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d753a7f42527d220d04f733e0e8c2179891fa0e1.png",
-    "website": "https://www.nuclearsoftware.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c14d4cdb1c005950196ad5a9f92aef664fca60a.png",
+    "website": "https://trimresearch.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "A foundation model for physics.",
@@ -21513,8 +21513,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nuclear-software",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/nuclear-software.json"
+    "url": "https://www.ycombinator.com/companies/trim",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/trim.json"
   },
   {
     "id": 30242,
@@ -22309,20 +22309,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/482d9c63c12b9cc8259e1f66c9d39433b6cdc003.png",
     "website": "https://trycua.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Cua is an open-source framework that enables AI agents to control full operating systems within high-performance, lightweight virtual containers. It delivers up to 90% native speed on Apple Silicon and works with any language models.",
     "one_liner": "Docker for Computer-use Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1744392234,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -22331,8 +22328,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -22476,17 +22472,20 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8df0ce49cc11e96b09c8980da86ed900b39fe9dc.png",
     "website": "https://attunehq.com",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Attune makes blazingly fast build tools that require zero migration effort.\r\n\r\nAs AI enables developers to write code faster than ever, slow builds are increasingly becoming the bottleneck in development velocity. Developers regularly lose hours of productivity every day waiting for their builds. Imagine being able to write code in 1 minute, but needing to wait 30 minutes to compile, deploy, and test it.\r\n\r\nExisting solutions either require painful migrations to new tools (e.g. Bazel) or rely on just using bigger servers to run your builds. Instead, we do native, first-class integrations into compilers and build systems.\r\n\r\nWith Attune, you don't need to integrate a new tool. Just make a one-line change from `cargo build` to `hurry cargo build` for 20x faster builds.\r\n\r\nEliza (ex-Google) and Xin worked together for 3 years at FOSSA, where Eliza was Head of Engineering and Xin was Head of Product. Eliza brings a decade of programming languages and build systems expertise, while Xin brings a decade of experience building developer tools products, most recently as VP of Product at Teleport (S15). Having experienced the pain of slow builds firsthand across hundreds of production codebases, we're building the solution we've always wanted.",
     "one_liner": "Faster builds, zero effort.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1747089464,
-    "tags": [],
+    "tags": [
+      "Developer Tools",
+      "Infrastructure"
+    ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -22495,7 +22494,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23103,5 +23103,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/summon",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/summon.json"
+  },
+  {
+    "id": 30720,
+    "name": "Autosana",
+    "slug": "autosana",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c7dda83aa113d5017c2cb187435ccccb356bd6a.png",
+    "website": "https://autosana.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A cloud-based tool for mobile teams to run natural language end-to-end tests. Eradicates the need to write/maintain E2E tests and manual testing. Seamlessly integrates into your CI, supports both iOS and Android, and is framework-agnostic (React Native, Flutter, Swift, etc).\r\n\r\nNo code, no setup, just catching bugs before users do. ",
+    "one_liner": "QA agent for mobile apps",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751416575,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/autosana",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/autosana.json"
   }
 ]
