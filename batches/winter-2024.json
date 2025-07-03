@@ -1926,7 +1926,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Supply Chain and Logistics"
@@ -5391,16 +5391,16 @@
   },
   {
     "id": 29372,
-    "name": "Rehearsal.so",
-    "slug": "rehearsal-so",
+    "name": "Ramble.gg",
+    "slug": "ramble-gg",
     "former_names": [
       "Sevn.ai"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/decfb37c0926a5b71b2548fc6985cb482cba2964.png",
-    "website": "https://rehearsal.so/",
+    "website": "https://ramble.gg",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "",
-    "one_liner": "Voice AI Roleplays",
+    "long_description": "Ramble is an AI role-playing game where you have ten minutes to convince an AI character. For example, convince a hostage taker to release hostages, or convince a broke flatmate to pay his share of rent, etc.",
+    "one_liner": "AI Role-Playing Games",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -5408,6 +5408,8 @@
     "tags": [
       "Artificial Intelligence",
       "Generative AI",
+      "Consumer",
+      "Gaming",
       "AI"
     ],
     "tags_highlighted": [],
@@ -5431,8 +5433,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rehearsal-so",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/rehearsal-so.json"
+    "url": "https://www.ycombinator.com/companies/ramble-gg",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/ramble-gg.json"
   },
   {
     "id": 29373,
@@ -5913,23 +5915,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cade08a222bcb94b59ffc828273ef1cdf70d6f84.png",
     "website": "https://www.shiboleth.ai/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "",
     "long_description": "Shiboleth automates consumer lending compliance for financial institutions using AI.\r\nBanks and fintechs use us to save months of manual work by automating audits and drafting reports for the governments. \r\n\r\nLLMs allow whole categories of manual compliance processes to be automated in ways that weren’t possible until recently.\r\n\r\nWe are excited to automate back-office operations and enhance consumer protection in one of the most litigious industries.",
     "one_liner": "Shiboleth automates lending compliance for financial institutions…",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1702497588,
-    "tags": [
-      "Fintech",
-      "Generative AI",
-      "B2B",
-      "Compliance",
-      "Lending"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -5938,8 +5934,7 @@
       "Security"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

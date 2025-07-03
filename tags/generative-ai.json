@@ -3086,7 +3086,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -4164,18 +4164,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67584a441ac14e21e59b84f0e3760e5308aaf4dc.png",
     "website": "https://credal.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Give any employee the power to build AI Assistants that understand your Enterprise's people, data and tools. Security, access controls and compliance built in.",
-    "one_liner": "Build Intelligent Internal Assistants",
-    "team_size": 8,
+    "long_description": "Give any employee the power to build and deploy AI agents that understand your enterprise's people, data and tools. Security, access controls and compliance built in.",
+    "one_liner": "Build and deploy secure, governed AI agents across your enterprise",
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1669993072,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "API",
       "Cybersecurity",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8181,16 +8181,16 @@
   },
   {
     "id": 29372,
-    "name": "Rehearsal.so",
-    "slug": "rehearsal-so",
+    "name": "Ramble.gg",
+    "slug": "ramble-gg",
     "former_names": [
       "Sevn.ai"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/decfb37c0926a5b71b2548fc6985cb482cba2964.png",
-    "website": "https://rehearsal.so/",
+    "website": "https://ramble.gg",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "",
-    "one_liner": "Voice AI Roleplays",
+    "long_description": "Ramble is an AI role-playing game where you have ten minutes to convince an AI character. For example, convince a hostage taker to release hostages, or convince a broke flatmate to pay his share of rent, etc.",
+    "one_liner": "AI Role-Playing Games",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -8198,6 +8198,8 @@
     "tags": [
       "Artificial Intelligence",
       "Generative AI",
+      "Consumer",
+      "Gaming",
       "AI"
     ],
     "tags_highlighted": [],
@@ -8221,51 +8223,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rehearsal-so",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/rehearsal-so.json"
-  },
-  {
-    "id": 29384,
-    "name": "Shiboleth",
-    "slug": "shiboleth",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cade08a222bcb94b59ffc828273ef1cdf70d6f84.png",
-    "website": "https://www.shiboleth.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Shiboleth automates consumer lending compliance for financial institutions using AI.\r\nBanks and fintechs use us to save months of manual work by automating audits and drafting reports for the governments. \r\n\r\nLLMs allow whole categories of manual compliance processes to be automated in ways that weren’t possible until recently.\r\n\r\nWe are excited to automate back-office operations and enhance consumer protection in one of the most litigious industries.",
-    "one_liner": "Shiboleth automates lending compliance for financial institutions…",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1702497588,
-    "tags": [
-      "Fintech",
-      "Generative AI",
-      "B2B",
-      "Compliance",
-      "Lending"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shiboleth",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/shiboleth.json"
+    "url": "https://www.ycombinator.com/companies/ramble-gg",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/ramble-gg.json"
   },
   {
     "id": 29387,
@@ -9103,7 +9062,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Benchify automatically fixes LLM-generated code in seconds. It’s designed for scenarios where human intervention isn’t feasible, delivering faster and more cost-effective solutions than relying solely on LLMs.",
     "one_liner": "Instantly Repair LLM-Generated Code",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1722544425,
@@ -11209,49 +11168,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/assistant-ui",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/assistant-ui.json"
-  },
-  {
-    "id": 30356,
-    "name": "Fira",
-    "slug": "fira",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8180359e4edaaddd169f88aafc0eb2338fe0116f.png",
-    "website": "https://firaresearch.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fira is a financial research assistant that helps investment analysts spend less time on company research. It instantly searches and analyzes thousands of pages of unstructured company filings and earnings reports to provide source-cited answers and verifiable financial calculations.\r\n\r\nOur mission is to create a financial AI co-worker deeply integrated into both internal and external data source. It will help with research and analysis, generating investment documents, and workflow automation. This will eventually allow investment professionals to spend less time on manual tasks and focus more on building relationships and making decisions.",
-    "one_liner": "Agentic AI platform for investment firms",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1736800806,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Market Research",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fira",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/fira.json"
   },
   {
     "id": 30402,
