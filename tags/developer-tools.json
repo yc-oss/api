@@ -12527,7 +12527,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Write workflows in normal async code and we'll handle the rest, from queues to elastic scaling. No timeouts, retries, observability, and zero infrastructure to manage.\r\n\r\nPreviously, the founders built JSON Hero, an open source JSON viewer that is currently used by more than 35k developers a month. Eric was CTO of Code School, an early code learning platform that was acquired in 2015. Matt created two iPad apps that won Apple’s App of the Year.",
     "one_liner": "Open source background jobs & AI infrastructure",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1665673307,
@@ -14085,12 +14085,12 @@
       "Klotty",
       "Resend (fka Klotty)"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5d63cd1882e201fe6017e14703d04d860b909bb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ae1f42156169b5811f9a7efe6cce76305167d38.png",
     "website": "https://resend.com",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Resend is the new email API for developers. It's designed for you to build, test, and send transactional emails at scale.\r\n\r\nIf you're using Sendgrid, AWS SES, or Postmark, come talk to us.",
     "one_liner": "Email for developers",
-    "team_size": 3,
+    "team_size": 23,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1675214257,
@@ -17956,6 +17956,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/mem0.json"
   },
   {
+    "id": 29633,
+    "name": "Unsloth AI",
+    "slug": "unsloth-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/821f8850dee6e9f14ef87d19a86abcd55976c80c.png",
+    "website": "https://unsloth.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Unsloth helps builders create custom models better & faster. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 10 million monthly model downloads and 40K GitHub stars, our mission is to make fine-tuning and open-source the best it can be!",
+    "one_liner": "Open Source Fine-tuning & Training of LLMs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1725425996,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unsloth-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/unsloth-ai.json"
+  },
+  {
     "id": 29634,
     "name": "Random Labs",
     "slug": "random-labs",
@@ -19855,14 +19898,13 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38a4a570871fba4b9702b51fa8da50142159b1a8.png",
     "website": "https://ryvn.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ryvn manages the infrastructure for your applications in your cloud or your customer's cloud. We handle deploying and rolling out updates, provide aggregated logging and monitoring, and offer one-click rollbacks. Expand into regulated industries, accelerate time-to-PoCs, and boost revenue by offering on-prem/self-hosted without the added complexity.\r\n\r\nBuild once, deploy anywhere.",
+    "long_description": "Ryvn provides the devtools and infrastructure to easily deploy any workload, on any cloud, and on-prem. Run apps in your own cloud and offer Bring Your Own Cloud (BYOC) to your customers in minutes, with built-in observability designed for sensitive industries.",
     "one_liner": "Fastest way to deploy on AWS/GCP/Azure, on-prem, and air-gapped",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1730680026,
     "tags": [
-      "AIOps",
       "Developer Tools",
       "SaaS",
       "DevOps",
@@ -21783,6 +21825,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/agentmail",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/agentmail.json"
+  },
+  {
+    "id": 30644,
+    "name": "Herdora",
+    "slug": "herdora",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66abb17a3df84fe0726adf6b1d88e334ca44863c.png",
+    "website": "https://www.herdora.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Herdora optimizes GPU code to run faster and cheaper on any hardware. Companies get full GPU utilization without hours of manual tuning.",
+    "one_liner": "Supercharge your GPU performance",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751530242,
+    "tags": [
+      "Developer Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/herdora",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/herdora.json"
   },
   {
     "id": 30647,
