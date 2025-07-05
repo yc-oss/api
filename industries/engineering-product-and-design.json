@@ -16310,7 +16310,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42126d50fed615bc74167d22b4985b25e9d25fad.png",
     "website": "https://inconvo.ai",
     "all_locations": "Limerick, County Limerick, Ireland",
-    "long_description": "Inconvo makes it easy for developers to embed an analytics assistant into their existing application.\r\n\r\nIt connects to existing databases allowing SaaS customers to analyze their data through a ChatGPT-like interface.\r\n\r\n",
+    "long_description": "Inconvo makes it easy for developers to embed an analytics assistant into their existing application.\r\n\r\nIt connects to existing databases allowing SaaS customers to analyze their data conversationally.\r\n\r\n",
     "one_liner": "Give your customers an embedded analytics assistant.",
     "team_size": 2,
     "industry": "B2B",
@@ -20538,18 +20538,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e231d5b9221bb861a6f913385a74f69a4763ea0.png",
     "website": "https://andoria.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Andoria is building AI for enterprise training, enablement, and onboarding.",
     "one_liner": "AI onboarding and training",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1730323819,
-    "tags": [
-      "Generative AI",
-      "Enterprise",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -20561,8 +20557,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -20947,10 +20942,10 @@
     "name": "Surge",
     "slug": "surge",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f55889b876077192ae88368c48e83468f24487c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f4a489f75647f08676e6de181d0f4d27016b18f.png",
     "website": "https://surge.app",
     "all_locations": "Lehi, UT, USA",
-    "long_description": "Surge is Stripe for telephony. Our team has experience building telephony software at billion dollar scale. Because of increased regulation, Twilio and other SMS APIs take weeks to onboard new customers, but we can get startups onboarded same day. Surge will win the market by enabling easy carrier registration and keeping customers with our higher level APIs and no code UI components. We have 11 paying customers so far, and our revenue is growing 58% month over month.",
+    "long_description": "Surge is Stripe for telephony. Our team has experience building telephony software at billion dollar scale. Because of increased regulation, Twilio and other SMS APIs take weeks to onboard new customers, but we can get startups onboarded same day. Surge wins by enabling easy carrier registration, better support, and higher level APIs and no code UI components to make implementation easier for startups and developers.",
     "one_liner": "Stripe for telephony",
     "team_size": 2,
     "industry": "B2B",
@@ -22129,7 +22124,11 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1745031118,
-    "tags": [],
+    "tags": [
+      "Machine Learning",
+      "Data Science",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -23145,5 +23144,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/autosana",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/autosana.json"
+  },
+  {
+    "id": 30758,
+    "name": "Hera",
+    "slug": "hera-video",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f7b7a995019aa5e4fd80611bc112b4f179b24d0.png",
+    "website": "https://hera.video/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hera is an AI motion designer that turns 5-hour projects into 5-minute tasks. \r\n\r\nWhen you're a YouTuber making an infographic animation, instead of spending hours manually clicking buttons in Adobe After Effects, you can create the same animation in minutes in Hera. \r\n\r\nThrough talking to our users, we realized that 95% of time spent on motion graphics is manual button clicking, not creative work. This insight led us to focus on automating the tedious parts while giving the user all creative control.\r\n\r\nWe launched in May 2025, got 100k waitlist signups in 8 weeks, and we're doubling revenue monthly.",
+    "one_liner": "AI Motion Designer",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751591849,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hera-video",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/hera-video.json"
   }
 ]
