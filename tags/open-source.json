@@ -1072,7 +1072,7 @@
     "name": "Wasmer",
     "slug": "wasmer",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97ea02f8fa3d6250285b27eb9529ebfee68db334.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe488b892d71890ae82f8d4a1420433b33d6b741.png",
     "website": "https://wasmer.io",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "We are working on the software that will power the next generation of Cloud Computing (Edge Computing) platforms using WebAssembly.\r\n\r\nYou can see us as a mix between Docker (but 100x more performant in startup time, and with 100x more lightweight containers), npm (we released the first WebAssembly package manager: wapm.io) and the JVM (but more universal).",
@@ -1726,7 +1726,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2020",
     "status": "Active",
@@ -5746,24 +5746,24 @@
   },
   {
     "id": 29265,
-    "name": "Pretzel AI",
-    "slug": "pretzel-ai",
+    "name": "Lumen Payments",
+    "slug": "lumen-payments",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1cf7e56ca345b5a9b329ec635ac2f39ef918b613.png",
-    "website": "https://withpretzel.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9374ac7f590e35b961fa334f50707ea210eda158.png",
+    "website": "https://getlumen.dev",
     "all_locations": "Berlin, Berlin, Germany",
-    "long_description": "**Jupyter is used by millions** of data scientists and analysts but it has _many_ problems.\r\n\r\n**Pretzel fixes Jupyter's problems** with native AI-tooling, collaboration, modern code-editing features, native SQL support and a visual, AI-assisted data exploration and dashboarding suite.\r\n\r\n**We're two ex-Stripe founders**. Prasoon worked as a Data Scientist at Stripe, Goldman Sachs and Klarna for over 7 years.\r\n\r\nWe recently launched on GitHub and got **1000 GitHub stars in two weeks**, 500+ DAU, usage at large companies like Stripe and Bayer and 7 new code contributors.",
-    "one_liner": "Open-source & AI-native replacement for Jupyter Notebooks",
+    "long_description": "",
+    "one_liner": "Ship AI billing fast - track usage, credits & flexible pricing models!",
     "team_size": 2,
-    "industry": "B2B",
+    "industry": "Fintech",
     "subindustry": "Unspecified",
     "launched_at": 1710864971,
     "tags": [
-      "Artificial Intelligence",
-      "Analytics",
-      "Collaboration",
+      "Fintech",
+      "Payments",
       "Open Source",
-      "Data Science"
+      "Billing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5772,8 +5772,7 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Analytics"
+      "Fintech"
     ],
     "regions": [
       "Germany",
@@ -5784,8 +5783,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pretzel-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/pretzel-ai.json"
+    "url": "https://www.ycombinator.com/companies/lumen-payments",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/lumen-payments.json"
   },
   {
     "id": 29266,
@@ -6991,5 +6990,48 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/cyberdesk",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cyberdesk.json"
+  },
+  {
+    "id": 30660,
+    "name": "Magnitude",
+    "slug": "magnitude",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e3212fa8db054c4295b1c0fc5127a5521fe81a5.png",
+    "website": "https://magnitude.run",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Magnitude is the open-source, vision-first browser agent. \r\n\r\nIt interacts with the browser much like a human would. It’s accurate, reliable, and fully customizable, enabling real production usage.\r\n\r\nYou can use it to automate tasks on the web, intelligently extract data, test your web apps, or as a building block for your own browser agents.\r\n\r\nWe recently achieved a state-of-the-art 94% success rate on the WebVoyager benchmark, beating all other browser agents.",
+    "one_liner": "Open-source, vision-first browser agent",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751905744,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Automation",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/magnitude",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/magnitude.json"
   }
 ]

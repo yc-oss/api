@@ -5637,7 +5637,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -14268,7 +14268,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -22441,47 +22441,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/yenmo.json"
   },
   {
-    "id": 28974,
-    "name": "Gleam",
-    "slug": "gleam",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9099d64668ee675c725feb5d157da158b615724e.png",
-    "website": "https://www.gleamcare.com/",
-    "all_locations": "",
-    "long_description": "Gleam lets employers give their teams pre-loaded cards for purchasing insurance coverage.\r\n\r\nAs an employer, you simply set a budget—and we handle the rest. Say goodbye to insurance carriers, surprise rate hikes, and the frustration of finding out that an employee's doctors or medications aren’t in-network.\r\n\r\nAs an employee, you have the freedom to choose the plan that fits you best from your local marketplace. Gleam provides personalized guidance to help you make the right choice, and we supply pre-loaded payment cards you can use for premiums and eligible medical expenses. You get full control over your coverage and costs without having to worry about restrictive networks or unexpected bills.",
-    "one_liner": "The gift card for health insurance",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1690443767,
-    "tags": [
-      "Fintech",
-      "Healthcare",
-      "Health Insurance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gleam",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/gleam.json"
-  },
-  {
     "id": 28977,
     "name": "VaultPay",
     "slug": "vaultpay",
@@ -22917,6 +22876,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/event-horizon-labs",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/event-horizon-labs.json"
+  },
+  {
+    "id": 29265,
+    "name": "Lumen Payments",
+    "slug": "lumen-payments",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9374ac7f590e35b961fa334f50707ea210eda158.png",
+    "website": "https://getlumen.dev",
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "",
+    "one_liner": "Ship AI billing fast - track usage, credits & flexible pricing models!",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Unspecified",
+    "launched_at": 1710864971,
+    "tags": [
+      "Fintech",
+      "Payments",
+      "Open Source",
+      "Billing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lumen-payments",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/lumen-payments.json"
   },
   {
     "id": 29293,
@@ -23917,7 +23918,7 @@
     "all_locations": "Gurugram, HR, India",
     "long_description": "Paasa helps wealthy Indians invest in global equities - without middlemen, hidden fees, or paperwork.\r\n\r\nWhile high-net-worths in India often have international expenses from children's education to healthcare, most still save in INR, a currency that depreciates ~2–5% per year against the USD. Why?\r\n- Broken outward remittance process\r\n- Fear of making mistakes in tax or compliance\r\n- Paper-heavy onboarding processes of international brokers\r\n- Lack of trustworthy guidance\r\n\r\nPaasa offers a mobile app that enables Indians to trade worldwide, invest passively, and automate every cross-border tax filing.",
     "one_liner": "Invest in Global Equities from India",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1723926494,
@@ -23960,22 +23961,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ee08623be14d88fb653c6b675912843b4f87e66.png",
     "website": "https://winfordwealth.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Personalized investing, tax and financial planning. A dedicated human advisor and all-in-one app — powered by AI, built for every net worth. We are an SEC Registered Investment Advisor, legally bound to act as a financial fiduciary to our customers. \r\n\r\nOur belief: 1% AUM fees from financial advisors are outdated and eat away at your wealth over the long-run. Winford Wealth offers the same level of quality & care starting at $14/month.\r\n\r\nWe also offer a tax-efficient managed cash account that goes beyond traditional and high yield savings accounts — allocating your idle dollars into high-quality, short-term bonds through money market funds, personalized for your taxes and goals. Included with Winford subscriptions or available on its own.",
-    "one_liner": "Professional wealth management for everyone.",
+    "all_locations": "",
+    "long_description": "We’re solving personal finances for a generation that’s been left to figure it all out alone. From managing cash to filing taxes to actually starting to invest, Winford gives everyone the real guidance and tools they need, all in one place. Download our app on the app store to get started!\r\n\r\nWe also offer a cash account (AlphaCash) that goes beyond traditional and high yield savings accounts — allocating your idle dollars into high-quality, short-term bonds through money market funds, personalized for your taxes and goals. Included with Winford subscriptions or available on its own.",
+    "one_liner": "Making Money Make Sense For Everyone",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1722879025,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Finance",
-      "Consumer Finance"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -23984,8 +23980,7 @@
       "Consumer Finance"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
