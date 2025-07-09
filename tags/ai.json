@@ -6172,6 +6172,55 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/cozmox-ai.json"
   },
   {
+    "id": 25342,
+    "name": "Stably AI",
+    "slug": "stably-ai",
+    "former_names": [
+      "Lovecast",
+      "UpArrow",
+      "UpDragon"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7522b24d3853d0b79cebe72798f4a3a33c54ac27.png",
+    "website": "https://www.stably.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Stably AI auto-writes, runs, and maintains end-to-end tests directly in your CI, guarding every pull‑request and production release—no flakiness, no test maintenance.\r\n\r\nHundreds of modern engineering orgs already use Stably to merge code in minutes, replace brittle Playwright/Cypress suites, and slash QA spend by up to 80%.\r\n\r\nStably offers\r\n- AI-generated test flows that mirror real user journeys.\r\n- Diff-aware execution—only tests affected by your change run, so CI stays under five minutes.\r\n- Automatic selector & assertion healing when your UI shifts, keeping the suite green.\r\n- Plain‑English editor letting PMs and QAs add tests without writing code.\r\n- One‑click GitHub App or API for instant pipeline integration.",
+    "one_liner": "AI Testing that Writes, Runs & Maintains Tests for Every PR & Release",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1645204142,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "DevOps",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stably-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/stably-ai.json"
+  },
+  {
     "id": 25348,
     "name": "Sei",
     "slug": "sei",
@@ -11149,7 +11198,7 @@
     "slug": "truewind",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2282cdd4a81eac40181a6efc3ce3c3d32c9eb037.png",
-    "website": "https://www.truewind.ai/",
+    "website": "https://truewind.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Truewind is a technology company based in San Francisco developing a digital staff accountant. Powered by AI, Truewind is a digital staff accountant that never sleeps, never gets sick, and always does its work. Completely predictable capacity planning. \r\n\r\nAutomate data categorization, supporting documentation collection, and client follow-up. Truewind’s AI agents will follow up on outstanding action items while the accountant can work on strategic tasks. This is fully integrated and unified across your accounting operations. We make it easy to get work done and get visibility into your team’s processes. \r\n\r\nTrusted by over 100 customers, including accounting firms EisnerAmper and Frank Rimerman, along with fast-growing companies such as Wefunder, StartPlaying and Mozart Data. We’re backed by the industry leaders of accounting and AI, Rho Capital, Thomson Reuters Ventures, Pathlight Ventures, Fin Capital, and Y Combinator. ",
     "one_liner": "AI-Powered Accounting",
@@ -11421,9 +11470,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
     "website": "https://www.hadrius.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Hadrius allows regulated financial firms of all sizes to consolidate and automate their compliance processes using AI in one platform. Today, we're securing compliance for $400B+ AUM across our clients.\r\n\r\nWe're building the AI that will regulate the US financial system and the trillions that flows through it.",
-    "one_liner": "Effortless Financial Compliance",
-    "team_size": 11,
+    "long_description": "Hadrius allows regulated financial firms of all sizes to consolidate and automate their compliance processes using AI in one platform. Today, we're securing compliance for $3T+ AUM across our clients.\r\n\r\nWe're building the AI that will regulate the US financial system and the trillions that flows through it.",
+    "one_liner": "Automating Securities Compliance",
+    "team_size": 19,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1668714980,
@@ -12047,50 +12096,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/berry",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/berry.json"
-  },
-  {
-    "id": 28114,
-    "name": "rex.fit",
-    "slug": "rex-fit",
-    "former_names": [
-      "Babylon AI",
-      "BabylonAI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c618208d2cb852eeff16409fb7e787701c395b91.png",
-    "website": "https://www.rex.fit",
-    "all_locations": "Zürich, ZH, Switzerland",
-    "long_description": "The DROP by Rex.Fit is an AI wearable camera that automates nutrition tracking using computer vision. It has garnered more than 93k USD in preorders (~450 units) since its launch last month. The nutrition estimation and recommendation tech behind the DROP is already integrated as an API for fitness chains, generating hundreds of thousands of dollars in yearly revenue for them. The DROP is built by brothers, sports nutritionists and computer vision engineers from the Swiss Federal Institute of Technology (ETH Zurich).",
-    "one_liner": "Automating nutrition tracking.",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1674733041,
-    "tags": [
-      "Computer Vision",
-      "Consumer Health Services",
-      "Fitness",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "Switzerland",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rex-fit",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/rex-fit.json"
   },
   {
     "id": 28119,
@@ -13728,6 +13733,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sizeless",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/sizeless.json"
+  },
+  {
+    "id": 28966,
+    "name": "Pincites",
+    "slug": "pincites",
+    "former_names": [
+      "Pincite"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66314affa2a18460ebaf6082abe1eba1272e5498.png",
+    "website": "https://www.pincites.com/",
+    "all_locations": "Menlo Park, CA, USA",
+    "long_description": "Pincites makes contract negotiations faster and more consistent for legal teams. Using LLMs, Pincites takes a first pass at reviewing contracts, helping lawyers focus on riskiest parts of their negotiations.",
+    "one_liner": "Close deals faster with AI for contract negotiation",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1688690921,
+    "tags": [
+      "B2B",
+      "Legal",
+      "LegalTech",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pincites",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/pincites.json"
   },
   {
     "id": 28994,
@@ -16207,47 +16259,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lemon-slice",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/lemon-slice.json"
-  },
-  {
-    "id": 29339,
-    "name": "Clarion",
-    "slug": "clarion",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d42943b90f437bd5f4540ef5967011e4865a3427.png",
-    "website": "https://clarionhealth.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Clarion is building the most advanced AI communication layer for healthcare, enabling clinics overwhelmed by routine calls and messages to finally come up for air. Our multichannel AI agents automate complex workflows end-to-end, freeing staff to focus on patient care. \r\n\r\nThe reality of healthcare today: clinics miss 30-40% of inbound calls due to staffing shortages, while patients struggle to connect with providers. We've built AI agents that handle scheduling, billing, prescription refills, and more—serving tens of thousands of patients monthly.\r\n\r\nWe're growing rapidly, serving dozens of customers including virtual care companies, outpatient health systems, and a $5B publicly traded health insurance company. With demand surging and revenue quadrupling in recent months, we're scaling our team.\r\n\r\nWe are an in-person company based in New York. We've raised $5.3M from Accel, Y Combinator, Sequoia (scout), and founders of Ophelia, Medallion, Counsel, Elemy, and Sana. \r\n\r\nOur clinician-led founding team combines healthcare operations expertise with technical excellence. Dr. Ryan Gallagher, our CEO, is a Stanford/Harvard-trained physician from the founding teams of Two Chairs and Ophelia (YC W20). Jeffrey Lamothe, our CTO, worked on voice AI at Amazon Alexa and led AI/ML projects at Salesforce and Citi.\r\n\r\nJoin us as we transform healthcare communication. We're creating a future where patients receive faster resolutions, staff are happier, and providers have more time for what matters most: patient care.",
-    "one_liner": "The AI communication layer for healthcare",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1709616757,
-    "tags": [
-      "Health Tech",
-      "Digital Health",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clarion",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/clarion.json"
   },
   {
     "id": 29342,
@@ -21697,50 +21708,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/circlemind.json"
   },
   {
-    "id": 30051,
-    "name": "attimet",
-    "slug": "attimet",
-    "former_names": [
-      "AgentPay",
-      "protegee"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43b9a65188d543037d433040e225613f5f256524.png",
-    "website": "https://attimet.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building a research lab that puts its ideas to the test in one of the most complex, information-rich environments in the world: the financial markets.\r\n\r\nMuch of trading still depends on hand-crafted signals and intuition. We’re approaching it differently - from first principles. We design systems that learn, adapt, and improve with data. Our infrastructure is built to accelerate research: fast iteration loops, real-time feedback, and direct connection between ideas and outcomes.\r\n\r\nWe’re starting with liquid markets like equities and options - high-dimensional, dynamic systems where traditional pipelines break down. Our goal isn’t just to model them better - it’s to build a platform for experimentation, where every result tightens the loop between theory and practice.\r\n\r\nIf you care about learning systems, clean abstractions, and applying research in the wild - we’re hiring.",
-    "one_liner": "we predict stuff",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1728431199,
-    "tags": [
-      "Deep Learning",
-      "Hard Tech",
-      "Finance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/attimet",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/attimet.json"
-  },
-  {
     "id": 30052,
     "name": "ISSEN",
     "slug": "issen",
@@ -21823,6 +21790,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ctgt",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/ctgt.json"
+  },
+  {
+    "id": 30055,
+    "name": "RiskCube",
+    "slug": "riskcube",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e262c2b2cccbd593ca16b1f5a3e19ea001ca784.png",
+    "website": "https://riskcube.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RiskCube Insurance is building a modern, AI-powered commercial insurance brokerage — designed for startups and high-growth businesses.\r\nWe’re currently in the licensing process in California and will be launching soon, with an initial focus on business liability insurance.\r\n\r\nIf you're a carrier interested in partnering, send us a DM.",
+    "one_liner": "AI-native insurance brokerage",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1731782052,
+    "tags": [
+      "Fintech",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/riskcube",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/riskcube.json"
   },
   {
     "id": 30056,
@@ -26607,5 +26615,88 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pally",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pally.json"
+  },
+  {
+    "id": 30763,
+    "name": "dScribe AI",
+    "slug": "dscribe-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/741086b6ee1ac324a06d9b831065e36b5b8e9d9b.png",
+    "website": "https://dscribeai.com/",
+    "all_locations": "Overland Park, KS, USA",
+    "long_description": "dScribe AI uses autonomous drones and Vision AI to monitor bulk inventory. These are things like grain and gravel piles for the ag and construction industry.\r\n\r\nToday most of the industry still relies on guesswork. Operators \"climb\" piles to eyeball volumes or wait months for expensive manual surveys, often off by 20–30%. That kind of error leads to seven-figure write-offs, misreported financials, and poor decision-making across supply chains.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure’s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform that’s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
+    "one_liner": "Monitor bulk inventory with drones and Vision AI",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1752017595,
+    "tags": [
+      "B2B",
+      "Supply Chain",
+      "Agriculture",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dscribe-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/dscribe-ai.json"
+  },
+  {
+    "id": 30772,
+    "name": "stagewise",
+    "slug": "stagewise",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77a0945ae8c271b92f411a28c4d7ed11be60ad29.png",
+    "website": "https://stagewise.io",
+    "all_locations": "Bielefeld, NRW, Germany",
+    "long_description": "stagewise is a frontend coding agent that lets you build UIs visually, right in your browser. Today, developers struggle to describe visual changes to AI coding agents in their IDE. It's slow and abstract. With stagewise, you stay on your localhost preview, click any element, and give commands in plain English like, “Make this button green and move it to the right.” It removes the context switching and guesswork, making frontend development 10x faster.\r\n\r\nWe are two German engineers who met while scaling a B2B SaaS startup to $700k ARR. With backgrounds in both enterprise engineering (Rheinmetall, dSPACE) and building web apps used by thousands, we have the unique blend of discipline and product sense needed to build this.\r\n\r\nWe launched a hacky MVP two months ago and it exploded, growing to over 4,000 GitHub stars with massive viral attention on X and YouTube. Despite it being rough and experimental, we saw thousands of installations and currently have ~700 daily active users. This overwhelming market pull proves the desperation for a better solution. Our real moat is the custom, high-speed coding agent we are launching now - we expect this to dramatically increase growth and retention.\r\n\r\nOur vision is to empower anyone to create well-designed applications, regardless of their technical skill. We start with developers who lack design experience, but our ultimate goal is to change how products are built. stagewise will enable non-technical stakeholders - product managers, designers, and marketers - to directly iterate on the UI themselves, creating a new, collaborative workflow and making us the essential tool for building on the web.",
+    "one_liner": "A frontend coding agent that lives inside your browser on localhost.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751997318,
+    "tags": [
+      "Developer Tools",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stagewise",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/stagewise.json"
   }
 ]
