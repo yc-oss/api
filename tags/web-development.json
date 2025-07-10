@@ -581,48 +581,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/mocha.json"
   },
   {
-    "id": 29239,
-    "name": "ion design",
-    "slug": "ion-design",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19ac79a5dd7e79b8d3e0a7794a401a7673116ee9.png",
-    "website": "https://www.ion.design/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "ion is an AI-powered front-end editor that lets designers and PMs ship real code changes—without engineers.\r\n\r\nWe streamline product iteration and collaboration so your team can move faster and stay focused on what matters most: building great experiences.",
-    "one_liner": "The AI visual editor for your codebase, built for collaboration",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1698787268,
-    "tags": [
-      "Developer Tools",
-      "Design Tools",
-      "Web Development",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": true,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ion-design",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/ion-design.json"
-  },
-  {
     "id": 29362,
     "name": "Pythagora",
     "slug": "pythagora",
@@ -935,11 +893,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1745867856,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Web Development"
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -957,7 +915,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/operative",
@@ -1056,16 +1014,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77a0945ae8c271b92f411a28c4d7ed11be60ad29.png",
     "website": "https://stagewise.io",
     "all_locations": "Bielefeld, NRW, Germany",
-    "long_description": "stagewise is a frontend coding agent that lets you build UIs visually, right in your browser. Today, developers struggle to describe visual changes to AI coding agents in their IDE. It's slow and abstract. With stagewise, you stay on your localhost preview, click any element, and give commands in plain English like, “Make this button green and move it to the right.” It removes the context switching and guesswork, making frontend development 10x faster.\r\n\r\nWe are two German engineers who met while scaling a B2B SaaS startup to $700k ARR. With backgrounds in both enterprise engineering (Rheinmetall, dSPACE) and building web apps used by thousands, we have the unique blend of discipline and product sense needed to build this.\r\n\r\nWe launched a hacky MVP two months ago and it exploded, growing to over 4,000 GitHub stars with massive viral attention on X and YouTube. Despite it being rough and experimental, we saw thousands of installations and currently have ~700 daily active users. This overwhelming market pull proves the desperation for a better solution. Our real moat is the custom, high-speed coding agent we are launching now - we expect this to dramatically increase growth and retention.\r\n\r\nOur vision is to empower anyone to create well-designed applications, regardless of their technical skill. We start with developers who lack design experience, but our ultimate goal is to change how products are built. stagewise will enable non-technical stakeholders - product managers, designers, and marketers - to directly iterate on the UI themselves, creating a new, collaborative workflow and making us the essential tool for building on the web.",
+    "long_description": "stagewise is the first frontend coding agent for existing production-grade web apps. It lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project. Our agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like “make it green and put it in the top right corner”, and immediately seeing the result.\r\n\r\nWe are two German engineers who met while working at a B2B SaaS startup. With backgrounds in both enterprise engineering (Rheinmetall, dSPACE) and building web apps used by thousands, we have the unique blend of discipline and product sense needed to build this.\r\n\r\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we’re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\r\n\r\nOur vision is to empower anyone to create well-designed applications, regardless of their technical skill. We start with developers who lack design experience, but our ultimate goal is to change how products are built. stagewise will enable non-technical stakeholders - product managers, designers, and marketers - to directly iterate on the UI themselves, creating a new, collaborative workflow and making us the essential tool for building on the web.",
     "one_liner": "A frontend coding agent that lives inside your browser on localhost.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751997318,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,

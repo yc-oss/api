@@ -3912,6 +3912,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/degrees-of-freedom.json"
   },
   {
+    "id": 22638,
+    "name": "Humaans",
+    "slug": "humaans",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d9d92284da5e0578d6ae11b390f879ee72085b9.png",
+    "website": "https://humaans.io",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Humaans is a next generation HRIS supporting globally distributed organisations. Powered by a flexible data model, deep integrations, fast APIs, and enriched by AI, Humaans removes manual work, reduce compliance risk and enhance your employee experience. Humaans reduces ongoing administrative work by 65% and onboarding time by an average of 55%.\r\n\r\nWe've raised $20 million in VC funding to date. Investors include major Tech players such as Lachy Groom; Slack founder Stewart Butterfield; Shopify founder Tobias Lütke; Figma Founder Dylan Field; Linkedin ex-CEO Jeff Weiner; Stripe COO Claire Johnson; Y Combinator; Moonfire; Frontline Ventures; Exor and more.",
+    "one_liner": "AI-Powered HRIS for high performing teams",
+    "team_size": 43,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1616012350,
+    "tags": [
+      "SaaS",
+      "Human Resources",
+      "B2B",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/humaans",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/humaans.json"
+  },
+  {
     "id": 22708,
     "name": "Flux Auto",
     "slug": "flux-auto",
@@ -12098,6 +12143,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/berry.json"
   },
   {
+    "id": 28115,
+    "name": "Vellum",
+    "slug": "vellum",
+    "former_names": [
+      "Vocify"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/211ce1fb908d8d56541fcc5ddfa4be47bd69dc5d.png",
+    "website": "https://www.vellum.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Prompting: Systematically iterate on prompts\r\n- Unified prompt management dashboard\r\n- Side-by-side model comparisons\r\n- Native support for tools, structured outputs, OpenAPI specs\r\n\r\nWorkflows: The IDE for building steerable, agent-like systems.\r\n- Visual graph builder for orchestrating complex AI systems\r\n- Support for any model, custom code, and map/reduce functions\r\n- Built-in features like loops, parallelism, error handling\r\n\r\nWorkflows SDK: A full-stack SDK + GUI for building AI apps with precision and flexibility.\r\n- Bi-directional sync between code and UI\r\n- Fine-grained control flow and global state management\r\n- Customizable with Docker and streaming support\r\n\r\nEvaluations: Test-driven development for AI.\r\n- Build scalable test suites via UI/API/CSV\r\n- Use pre-built or custom metrics for evaluation\r\n- Track quality, cost, latency, and regressions over time\r\n\r\nRetrieval: Powerful RAG infrastructure without the complexity.\r\n- Simple APIs for uploading and querying unstructured data\r\n- Tweak chunking, embeddings, and search for advanced use-cases\r\n- Supports various file types including tables and images\r\n\r\nDeployments: Update AI systems without redeploying your app.\r\n- One-click deploy across any model or provider\r\n- Staging environments for safe iteration\r\n- Scalable inference endpoints for production use\r\n\r\nObservability: Full visibility into AI system performance.\r\n- Audit logs, debugging tools, and feedback capture\r\n- Evaluation loops on live traffic\r\n- Dashboards to track cost, latency, errors, and trends",
+    "one_liner": "The AI Product Development Platform",
+    "team_size": 23,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1673626837,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/vellum",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/vellum.json"
+  },
+  {
     "id": 28119,
     "name": "Fabius",
     "slug": "fabius",
@@ -14835,49 +14925,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/codestory.json"
   },
   {
-    "id": 29177,
-    "name": "Onyx",
-    "slug": "onyx",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/def9ae8f0c06685a28e8184b828d9de7e1232ad3.png",
-    "website": "https://www.onyx.app/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Onyx is the open source generative AI platform connected to your company’s docs, apps, and people. We ingest and sync from all sources of information (Google Drive, Slack, GitHub, Confluence, Salesforce, etc.) to provide a centralized place for users to ask about anything. Imagine your most knowledgeable co-workers, all-rolled into one, and available 24/7!\r\n\r\nCheck us out on Github: https://www.github.com/onyx-dot-app/onyx\r\nOr visit our website: https://www.onyx.app/",
-    "one_liner": "Open Source AI Assistant and Enterprise Search",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1704724705,
-    "tags": [
-      "Open Source",
-      "NLP",
-      "Enterprise",
-      "Search",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/onyx",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/onyx.json"
-  },
-  {
     "id": 29181,
     "name": "Event Horizon Labs",
     "slug": "event-horizon-labs",
@@ -15179,48 +15226,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/duckie",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/duckie.json"
-  },
-  {
-    "id": 29239,
-    "name": "ion design",
-    "slug": "ion-design",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19ac79a5dd7e79b8d3e0a7794a401a7673116ee9.png",
-    "website": "https://www.ion.design/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "ion is an AI-powered front-end editor that lets designers and PMs ship real code changes—without engineers.\r\n\r\nWe streamline product iteration and collaboration so your team can move faster and stay focused on what matters most: building great experiences.",
-    "one_liner": "The AI visual editor for your codebase, built for collaboration",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1698787268,
-    "tags": [
-      "Developer Tools",
-      "Design Tools",
-      "Web Development",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": true,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ion-design",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/ion-design.json"
   },
   {
     "id": 29245,
@@ -16072,7 +16077,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -22721,49 +22726,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/admyral.json"
   },
   {
-    "id": 30191,
-    "name": "Partcl",
-    "slug": "partcl",
-    "former_names": [
-      "AionCAD"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3854a114899cbd01548be14b47a9169f22c776a0.png",
-    "website": "https://partcl.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Partcl modernizes chip design automation with physics-informed models powered by GPU acceleration. \r\nOur tools run up to 700× faster than legacy solutions, cutting weeks off development and unlocking AI-driven optimization.",
-    "one_liner": "Design a chip in minutes",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1743057715,
-    "tags": [
-      "Design Tools",
-      "Semiconductors",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/partcl",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/partcl.json"
-  },
-  {
     "id": 30201,
     "name": "Dartboard Energy",
     "slug": "dartboard-energy",
@@ -23569,6 +23531,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cenote",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/cenote.json"
+  },
+  {
+    "id": 30267,
+    "name": "Lopus AI",
+    "slug": "lopus-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bf383d00d833f8ead69445747af5777b0e0a0a6.png",
+    "website": "https://lopus.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Enterprise deals stall and die because scattered emails, siloed call transcripts, and hidden blockers force reps into constant firefights. Your deal teams burn hours reconstructing context instead of proactively closing revenue—costing you millions.\r\n\r\nWe've built Lopus AI, an AI-powered Deal Intelligence platform that automatically surfaces hidden deal blockers, unifies every stakeholder interaction into actionable insights, and turns your team's best wins into repeatable playbooks.\r\n\r\nEngineered by Lopus AI, the GTM weapons lab.\r\n",
+    "one_liner": "AI-Native Enterprise Deal Execution Platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1740443352,
+    "tags": [
+      "B2B",
+      "Sales",
+      "Market Research",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lopus-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/lopus-ai.json"
   },
   {
     "id": 30268,
@@ -25204,6 +25209,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bluejay.json"
   },
   {
+    "id": 30454,
+    "name": "Operative",
+    "slug": "operative",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eb049b24a3b434a45574fe510043fc81b736b2b.png",
+    "website": "https://operative.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Operative uses AI to help organizations generate & modify internal frontend applications that connect to their existing backend APIs. You can think of it like Retool, except instead of external integrations, we connect into an organization’s internal backends, and we use AI to generate the frontend code for the web applications users want to create.",
+    "one_liner": "Web application code generation for internal APIs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1745867856,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/operative",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/operative.json"
+  },
+  {
     "id": 30455,
     "name": "The LLM Data Company",
     "slug": "the-llm-data-company",
@@ -26574,6 +26622,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/idler.json"
   },
   {
+    "id": 30732,
+    "name": "Humoniq",
+    "slug": "humoniq",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b4b4793c04b2144e6d808676c5d789049433c7b.png",
+    "website": "https://humoniq.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Humoniq is building voice AI agents to handle customer support for travel companies, such as airlines.\r\n\r\nOur team is uniquely equipped to solve this challenge. We grew a travel management company, Flightfox (YC S12), to over $20M in annual sales while handling thousands of customer support requests.\r\n\r\nOur mission now is to make customer support in travel the fastest and most helpful of any industry. We already have major travel companies signed and a rapidly growing deal pipeline.",
+    "one_liner": "Voice AI agents for customer support in travel",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1751772864,
+    "tags": [
+      "Travel",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/humoniq",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/humoniq.json"
+  },
+  {
     "id": 30755,
     "name": "Pally",
     "slug": "pally",
@@ -26624,8 +26712,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/741086b6ee1ac324a06d9b831065e36b5b8e9d9b.png",
     "website": "https://dscribeai.com/",
     "all_locations": "Overland Park, KS, USA",
-    "long_description": "dScribe AI uses autonomous drones and Vision AI to monitor bulk inventory. These are things like grain and gravel piles for the ag and construction industry.\r\n\r\nToday most of the industry still relies on guesswork. Operators \"climb\" piles to eyeball volumes or wait months for expensive manual surveys, often off by 20–30%. That kind of error leads to seven-figure write-offs, misreported financials, and poor decision-making across supply chains.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure’s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform that’s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
-    "one_liner": "Monitor bulk inventory with drones and Vision AI",
+    "long_description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. Think piles of grain or gravel for the ag and mining industry.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 20 to 30%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure’s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform that’s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
+    "one_liner": "Track bulk inventory with autonomous drones and 3D vision",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -26659,22 +26747,21 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/dscribe-ai.json"
   },
   {
-    "id": 30772,
-    "name": "stagewise",
-    "slug": "stagewise",
+    "id": 30789,
+    "name": "Interfere",
+    "slug": "interfere",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77a0945ae8c271b92f411a28c4d7ed11be60ad29.png",
-    "website": "https://stagewise.io",
-    "all_locations": "Bielefeld, NRW, Germany",
-    "long_description": "stagewise is a frontend coding agent that lets you build UIs visually, right in your browser. Today, developers struggle to describe visual changes to AI coding agents in their IDE. It's slow and abstract. With stagewise, you stay on your localhost preview, click any element, and give commands in plain English like, “Make this button green and move it to the right.” It removes the context switching and guesswork, making frontend development 10x faster.\r\n\r\nWe are two German engineers who met while scaling a B2B SaaS startup to $700k ARR. With backgrounds in both enterprise engineering (Rheinmetall, dSPACE) and building web apps used by thousands, we have the unique blend of discipline and product sense needed to build this.\r\n\r\nWe launched a hacky MVP two months ago and it exploded, growing to over 4,000 GitHub stars with massive viral attention on X and YouTube. Despite it being rough and experimental, we saw thousands of installations and currently have ~700 daily active users. This overwhelming market pull proves the desperation for a better solution. Our real moat is the custom, high-speed coding agent we are launching now - we expect this to dramatically increase growth and retention.\r\n\r\nOur vision is to empower anyone to create well-designed applications, regardless of their technical skill. We start with developers who lack design experience, but our ultimate goal is to change how products are built. stagewise will enable non-technical stakeholders - product managers, designers, and marketers - to directly iterate on the UI themselves, creating a new, collaborative workflow and making us the essential tool for building on the web.",
-    "one_liner": "A frontend coding agent that lives inside your browser on localhost.",
-    "team_size": 2,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5a8dbf97e68dbed29a766e3ea5a4929c2ae74bc.png",
+    "website": "https://interfere.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "The self-healing layer of the internet",
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1751997318,
+    "launched_at": 1752094986,
     "tags": [
       "Developer Tools",
-      "Web Development",
       "AI"
     ],
     "tags_highlighted": [],
@@ -26688,15 +26775,15 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Germany",
-      "Europe"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stagewise",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/stagewise.json"
+    "url": "https://www.ycombinator.com/companies/interfere",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/interfere.json"
   }
 ]

@@ -17374,16 +17374,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d9d92284da5e0578d6ae11b390f879ee72085b9.png",
     "website": "https://humaans.io",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Humaans is an HRIS system designed to help People Ops/Finance/IT teams operate collaboratively with all the best in class point solutions they want for their staff while maintaining a central record of employee data.\r\n\r\nThe goal is to automate the employee lifecycle by integrating deeply with other complementary solutions and turn complex/manual processes (e.g. onboarding, offboarding, compensation management, etc) into simple workflows.",
-    "one_liner": "The fastest way to onboard and manage employees",
-    "team_size": 32,
+    "long_description": "Humaans is a next generation HRIS supporting globally distributed organisations. Powered by a flexible data model, deep integrations, fast APIs, and enriched by AI, Humaans removes manual work, reduce compliance risk and enhance your employee experience. Humaans reduces ongoing administrative work by 65% and onboarding time by an average of 55%.\r\n\r\nWe've raised $20 million in VC funding to date. Investors include major Tech players such as Lachy Groom; Slack founder Stewart Butterfield; Shopify founder Tobias Lütke; Figma Founder Dylan Field; Linkedin ex-CEO Jeff Weiner; Stripe COO Claire Johnson; Y Combinator; Moonfire; Frontline Ventures; Exor and more.",
+    "one_liner": "AI-Powered HRIS for high performing teams",
+    "team_size": 43,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1616012350,
     "tags": [
       "SaaS",
       "Human Resources",
-      "B2B"
+      "B2B",
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20610,7 +20612,7 @@
     "name": "AgendaPro",
     "slug": "agendapro",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53ea4d51af442b2e772375c2d3b30d3170a36f20.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3275620df1a1fcfcb3cc03493b64bf135fde9335.png",
     "website": "https://www.agendapro.com",
     "all_locations": "Santiago, Santiago Metropolitan Region, Chile",
     "long_description": "AgendaPro is building Shopify for Beauty and Wellness businesses in Latam. We allow business owners to charge their customers online and easily schedule appointments.",
@@ -30287,24 +30289,24 @@
     "slug": "bemlo",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/436449d1833b1fb6d3ab4c8e9c5b39b043999ec1.png",
-    "website": "https://bemlo.com",
+    "website": "https://www.bemlo.com/en",
     "all_locations": "Stockholm, Stockholm County, Sweden",
-    "long_description": "Bemlo provides a comprehensive AI-driven staffing solution tailored specifically for the healthcare and social care sectors, with automated scheduling as its cornerstone. The system generates optimal schedules that balance care demands with employee preferences, freeing up valuable time for patient care, enhancing workplace satisfaction, and promoting more efficient collaboration within organizations.",
-    "one_liner": "The platform for managing healthcare staffing and scheduling.",
-    "team_size": 12,
+    "long_description": "Bemlo is an AI-driven workforce management platform, specifically tailored for the healthcare and social care sectors, with automated scheduling as its cornerstone. The system generates optimal schedules that balance care demands with employee preferences, freeing up valuable time for patient care, enhancing workplace satisfaction, and promoting more efficient collaboration within organizations.",
+    "one_liner": "AI-native scheduling and workforce management platform for healthcare",
+    "team_size": 8,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1644836067,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Healthcare",
-      "Enterprise",
       "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -33840,7 +33842,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -38513,6 +38515,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/conduit",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/conduit.json"
+  },
+  {
+    "id": 28115,
+    "name": "Vellum",
+    "slug": "vellum",
+    "former_names": [
+      "Vocify"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/211ce1fb908d8d56541fcc5ddfa4be47bd69dc5d.png",
+    "website": "https://www.vellum.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Prompting: Systematically iterate on prompts\r\n- Unified prompt management dashboard\r\n- Side-by-side model comparisons\r\n- Native support for tools, structured outputs, OpenAPI specs\r\n\r\nWorkflows: The IDE for building steerable, agent-like systems.\r\n- Visual graph builder for orchestrating complex AI systems\r\n- Support for any model, custom code, and map/reduce functions\r\n- Built-in features like loops, parallelism, error handling\r\n\r\nWorkflows SDK: A full-stack SDK + GUI for building AI apps with precision and flexibility.\r\n- Bi-directional sync between code and UI\r\n- Fine-grained control flow and global state management\r\n- Customizable with Docker and streaming support\r\n\r\nEvaluations: Test-driven development for AI.\r\n- Build scalable test suites via UI/API/CSV\r\n- Use pre-built or custom metrics for evaluation\r\n- Track quality, cost, latency, and regressions over time\r\n\r\nRetrieval: Powerful RAG infrastructure without the complexity.\r\n- Simple APIs for uploading and querying unstructured data\r\n- Tweak chunking, embeddings, and search for advanced use-cases\r\n- Supports various file types including tables and images\r\n\r\nDeployments: Update AI systems without redeploying your app.\r\n- One-click deploy across any model or provider\r\n- Staging environments for safe iteration\r\n- Scalable inference endpoints for production use\r\n\r\nObservability: Full visibility into AI system performance.\r\n- Audit logs, debugging tools, and feedback capture\r\n- Evaluation loops on live traffic\r\n- Dashboards to track cost, latency, errors, and trends",
+    "one_liner": "The AI Product Development Platform",
+    "team_size": 23,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1673626837,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/vellum",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/vellum.json"
   },
   {
     "id": 28119,
@@ -46331,7 +46378,7 @@
     "website": "https://www.bystreet.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Building a suite of AI tools for buy-side M&A.",
-    "one_liner": "AI analyst for buy-side M&A.",
+    "one_liner": "GenAI for dealmaking. ",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
@@ -47057,11 +47104,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1745867856,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Web Development"
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47079,7 +47126,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/operative",
@@ -47932,18 +47979,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b90c0f9fa101c9a96455820ea0a553837b94f49.png",
     "website": "https://www.useflai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Flai helps retail, restaurant, and warehouse employers hire faster and find candidates who actually stay on the job.\r\n\r\nThe problem we solve: frontline managers waste hours interviewing candidates who quit before training ends. With 100%+ annual turnover, hiring becomes a daily firefight of filling shifts with whoever shows up.\r\n\r\nWe use AI voice interviewers that run first-round phone screenings. But we don't stop at screening; our AI also monitors new hires through check-in calls during their critical first 90 days to detect early attrition signals and flag these for managers to prevent it.\r\n\r\nThis creates a learning loop. The screening AI gets smarter with each placement, learning to recognize which candidates will stick around versus those who will leave early. Over time, this means fewer bad hires and less turnover.\r\n\r\nThe result: managers stop wasting time on candidates who won't last, cost per hire drops as turnover decreases, and shifts get covered by people who actually want to be there.\r\n\r\nOur founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges.\r\n\r\nWe're not just screening candidates, we're redefining how retail businesses approach hiring and retention in high-turnover industries.",
-    "one_liner": "We help retail hire faster and keep workers longer",
+    "long_description": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue.\r\n\r\nWe use AI voice assistants that answer dealership calls around the clock to schedule appointments, book test drives, and handle customer inquiries. But we don't stop at phone calls; we also optimize dealerships for AI-powered search, ensuring they get found when customers search for \"car dealerships near me\" on ChatGPT and similar platforms.\r\n\r\nThe result: No more missed opportunities, no more losing customers to competitors.\r\n\r\nOur founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges.\r\n\r\nWe're not just answering phones, we're helping dealerships win in an AI-first world where availability and discoverability determine who gets the sale.",
+    "one_liner": "We Bring More Customers to Your Dealership",
     "team_size": 3,
-    "industry": "B2B",
+    "industry": "Industrials",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1751567522,
     "tags": [
       "Generative AI",
       "SaaS",
-      "Recruiting",
-      "Retail",
-      "Enterprise Software"
+      "Sales",
+      "Enterprise Software",
+      "Automotive"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47952,8 +47999,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Retail"
+      "Industrials",
+      "Automotive"
     ],
     "regions": [
       "United States of America",
@@ -48007,6 +48054,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/autosana",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/autosana.json"
+  },
+  {
+    "id": 30736,
+    "name": "PARES",
+    "slug": "pares",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbbb70598f14b005aa7da32e84d2d14fed9e3e3a.png",
+    "website": "https://www.pares.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "PARES is the single platform commercial real estate brokers need for their entire workflow, from chasing leads to closing deals and everything in between. \r\n\r\nWith our platform, brokers can:\r\n\r\n1) Automatically update real-time transaction data in our CRM\r\n\r\n2) Create lists of target properties, skip-trace, and easily navigate outbound calls\r\n\r\n3) Underwrite deals with our AI Underwriting Agent\r\n\r\n4) Create OMs/BOVs in minutes with our AI Marketing Agent\r\n\r\nCheck us out at https://www.pares.ai/",
+    "one_liner": "Helping commercial real estate brokers find and close more deals.",
+    "team_size": 3,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Unspecified",
+    "launched_at": 1752084453,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "SaaS",
+      "Proptech",
+      "CRM"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pares",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/pares.json"
   },
   {
     "id": 30743,
