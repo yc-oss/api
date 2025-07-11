@@ -3317,14 +3317,14 @@
     "long_description": "We’re building AI-powered systems that automate manual work in scientific labs using robotics.\r\n\r\nScientists simply type their experiment in plain English. Zeon translates it into code and runs it on robotic arms (no coding required).\r\n\r\nBy controlling robots with natural language, we’re enabling automation for every lab, every scientist, and every experiment.\r\n\r\nZeon is lab-aware. It detects equipment, adapts to protocols, and moves autonomously between instruments to execute full workflows.\r\n\r\nWe’re already working with labs at Stanford and UCSF to accelerate discovery - from running overnight nanoparticle fluorescence measurements to safely disposing of hundreds of bacterial samples. \r\n\r\nZeon reclaims time for what matters most: the science.",
     "one_liner": "AI-powered robotics for scientific lab automation.",
     "team_size": 2,
-    "industry": "Healthcare",
+    "industry": "Industrials",
     "subindustry": "Healthcare -> Industrial Bio",
     "launched_at": 1745428848,
     "tags": [
-      "Artificial Intelligence",
       "Robotic Process Automation",
       "Robotics",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3333,8 +3333,8 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "Healthcare",
-      "Industrial Bio"
+      "Industrials",
+      "Manufacturing and Robotics"
     ],
     "regions": [
       "United States of America",
@@ -3555,5 +3555,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sava",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/sava.json"
+  },
+  {
+    "id": 30675,
+    "name": "BootLoop",
+    "slug": "bootloop",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93ce55100656a6ea0aa0d88dd475881eab4f5632.png",
+    "website": "https://bootloop.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "BootLoop is building the first AI agent to write and test firmware on real hardware. Existing AI coding assistants fail completely with embedded systems, but our agent ingests datasheets, schematics, and other design files to write firmware in your style and automatically test it on your hardware.",
+    "one_liner": "Firmware in minutes, not months - rigorously tested on real hardware",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1752184530,
+    "tags": [
+      "Developer Tools",
+      "Hard Tech",
+      "Hardware",
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bootloop",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/bootloop.json"
   }
 ]

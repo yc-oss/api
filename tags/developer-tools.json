@@ -21580,6 +21580,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/paraquery.json"
   },
   {
+    "id": 30510,
+    "name": "Cactus",
+    "slug": "cactus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png",
+    "website": "https://www.cactuscompute.com/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Cross-platform open-source framework for deploying LLMs, VLMs, Embedding Models and TTS models locally on smartphones.\r\n\r\nGoogle AI Edge and Apple Foundation Frameworks are platform-specific and primarily support specific models from the companies. \r\n\r\nTo this end, Cactus:\r\n\r\n- Is available in Flutter and React-Native for cross-platform developers, since most apps are built with these today.\r\n\r\n- Supports any GGUF model you can find on Huggingface; Qwen, Gemma, Llama, DeepSeek, Phi, Mistral, SmolLM, SmolVLM, InternVLM, Jan Nano etc.\r\n\r\n- Accommodates from FP32 to as low as 2-bit quantized models, for better efficiency and less device strain. \r\n\r\n- Have MCP tool-calls to make models performant, truly helpful (set reminder, gallery search, reply messages) and more. \r\n\r\n- Fallback to big cloud models for complex, constrained or large-context tasks, ensuring robustness and high availability.\r\n\r\nTell us how we can make it great!\r\n\r\nRepo: https://github.com/cactus-compute/cactus\r\nDiscord: https://discord.gg/nPGWGxXSwr",
+    "one_liner": "Deploy AI models locally on smartphones.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1752189935,
+    "tags": [
+      "Developer Tools",
+      "Hard Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/cactus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/cactus.json"
+  },
+  {
     "id": 30521,
     "name": "Janus",
     "slug": "janus",
@@ -21952,6 +21993,91 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/magnitude",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/magnitude.json"
+  },
+  {
+    "id": 30675,
+    "name": "BootLoop",
+    "slug": "bootloop",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93ce55100656a6ea0aa0d88dd475881eab4f5632.png",
+    "website": "https://bootloop.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "BootLoop is building the first AI agent to write and test firmware on real hardware. Existing AI coding assistants fail completely with embedded systems, but our agent ingests datasheets, schematics, and other design files to write firmware in your style and automatically test it on your hardware.",
+    "one_liner": "Firmware in minutes, not months - rigorously tested on real hardware",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1752184530,
+    "tags": [
+      "Developer Tools",
+      "Hard Tech",
+      "Hardware",
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bootloop",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/bootloop.json"
+  },
+  {
+    "id": 30695,
+    "name": "Channel3",
+    "slug": "channel3",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68ab8f3604e8e37628ae61b0f2bc76124389ada3.png",
+    "website": "https://trychannel3.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Channel3 is building a database of every product on the internet.\r\n\r\nGoogle and OpenAI maintain vast product graphs, but keep that valuable data to themselves. Channel3 gives every developer access, opening a world of possibility for new shopping experiences across any vertical. For instance, developers could build AI fashion stylists or give their agents shopping capabilities.\r\n\r\nWe don’t just collect product data; we actually understand it. With the latest image classification and reasoning models, we can match products across merchants—even when listings and images differ—recognize variants, and surface the perfect matches for every search. As we grow, we’ll capture unique insights into what users want, click, and buy.\r\n\r\nAs AI models get smarter and cheaper, our flywheel accelerates: our catalog will improve, and it will be even easier for developers and vibe-coders to build on our infrastructure. To further incentivize building on Channel3, we provide built-in monetization; developers earn commissions on sales they drive.\r\n\r\nAlex discovered this need while building an AI tutor that could recommend products and earn affiliate revenue. When no solution existed, he persuaded his smartest friend from Duke and former co-founder George to leave Palantir and build Channel3 together.",
+    "one_liner": "Database of every product on the internet",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1752182938,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Retail Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/channel3",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/channel3.json"
   },
   {
     "id": 30700,
