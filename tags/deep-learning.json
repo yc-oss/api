@@ -1775,11 +1775,11 @@
     "slug": "lucid",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d7946ea974cf7a753814028e684ac774c9c4073.png",
-    "website": "https://lucidsim.co/",
+    "website": "https://lucid.ai",
     "all_locations": "Berkeley, CA, USA",
-    "long_description": "We are building generative simulations powered by fast world models.\r\n\r\nWe train world models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model  (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nAlberto (CEO) was researching world models at Berkeley AI Research (BAIR) and previously worked on earth modelling at Rainmaker. Rami previously founded a telecom services company and was the CTO of the govtech contractor.\r\n\r\nOur first minecraft model got 3,000 users in a few days, and now we’re training a hyper realistic world model!",
+    "long_description": "We are building generative simulations powered by fast world models.\r\n\r\nWe train world models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nAlberto (CEO) was researching world models at Berkeley AI Research (BAIR) and previously worked on earth modeling at Rainmaker. Rami previously founded a telecom services company and was the CTO of a govtech contractor.\r\n\r\nNow we’re training a hyper realistic world model!",
     "one_liner": "Generative simulations powered by fast world models",
-    "team_size": 4,
+    "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1738541860,
@@ -1810,5 +1810,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lucid",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/lucid.json"
+  },
+  {
+    "id": 30771,
+    "name": "Flywheel AI",
+    "slug": "flywheel-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20c7285daed594e49818c41dd7e677796b8e4b61.png",
+    "website": "https://useflywheel.ai/",
+    "all_locations": "",
+    "long_description": "Flywheel AI converts any existing excavators for contractors to enable remote ops to increase safety and productivity, and use robotics context dataset to train autonomous policies.",
+    "one_liner": "A construction heavy equipment autonomy company",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1750156128,
+    "tags": [
+      "Deep Learning",
+      "Hardware",
+      "Construction"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/flywheel-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/flywheel-ai.json"
   }
 ]

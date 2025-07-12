@@ -11843,8 +11843,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1b77af33029a4b47cc037f68e90edf366b8b47b3.png",
     "website": "https://superkalam.com",
     "all_locations": "Bengaluru, KA, India",
-    "long_description": "Every student deserve personal attention. It's first time in the history of the planet, that if done right, we can infinitely scale personalised learning experience at scale to every student. That's what we are building at SuperKalam.\r\n\r\nWe have deployed our AI learning systems in One Test prep category in India, it's already generating $500K ARR.",
-    "one_liner": "Personal Tutor for Every Student, powered by AI Learning Ecosystem.",
+    "long_description": "Every student deserve personal attention. With AI, we can infinitely scale personalised learning experience at scale to every student. That's what we are building at SuperKalam.\r\n\r\n",
+    "one_liner": "AI-Powered Super Mentor for Test Prep",
     "team_size": 20,
     "industry": "Education",
     "subindustry": "Education",
@@ -13870,6 +13870,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pincites",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/pincites.json"
+  },
+  {
+    "id": 28991,
+    "name": "Inlet",
+    "slug": "inlet-2",
+    "former_names": [
+      "Switchboard",
+      "Inlet AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/947ea79d41ed24389e0a80ad75da05f02c0c5dd7.png",
+    "website": "https://inletai.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Family law practices juggle dozens of matters, context-switching throughout the day and often failing to record their time for every billable task.\r\n\r\nInlet records these tasks automatically – eliminating painful admin time and increasing their revenue.",
+    "one_liner": "Automated timekeeping for family law.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1687479544,
+    "tags": [
+      "B2B",
+      "Legal",
+      "LegalTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inlet-2",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/inlet-2.json"
   },
   {
     "id": 28994,
@@ -21165,6 +21210,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/merlin-ai.json"
   },
   {
+    "id": 29978,
+    "name": "SimCare AI",
+    "slug": "simcare-ai",
+    "former_names": [
+      "simhealth.ai",
+      "Luna Sim (prev. simhealth.ai)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1907f0562c3999072b46993e335043d8a2316f2d.png",
+    "website": "https://simcare.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "SimCare AI (previously Soma Lab) creates healthcare simulations and AI patients to scale healthcare training. Students and providers practice with AI patients to build skills and get evaluated.",
+    "one_liner": "Conversations with AI patients to scale healthcare training.",
+    "team_size": 6,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1719547782,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Education",
+      "Healthcare",
+      "Edtech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/simcare-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/simcare-ai.json"
+  },
+  {
     "id": 29980,
     "name": "Midship",
     "slug": "midship",
@@ -26047,47 +26137,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/sygaldry-technologies.json"
   },
   {
-    "id": 30510,
-    "name": "Cactus",
-    "slug": "cactus",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png",
-    "website": "https://www.cactuscompute.com/",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Cross-platform open-source framework for deploying LLMs, VLMs, Embedding Models and TTS models locally on smartphones.\r\n\r\nGoogle AI Edge and Apple Foundation Frameworks are platform-specific and primarily support specific models from the companies. \r\n\r\nTo this end, Cactus:\r\n\r\n- Is available in Flutter and React-Native for cross-platform developers, since most apps are built with these today.\r\n\r\n- Supports any GGUF model you can find on Huggingface; Qwen, Gemma, Llama, DeepSeek, Phi, Mistral, SmolLM, SmolVLM, InternVLM, Jan Nano etc.\r\n\r\n- Accommodates from FP32 to as low as 2-bit quantized models, for better efficiency and less device strain. \r\n\r\n- Have MCP tool-calls to make models performant, truly helpful (set reminder, gallery search, reply messages) and more. \r\n\r\n- Fallback to big cloud models for complex, constrained or large-context tasks, ensuring robustness and high availability.\r\n\r\nTell us how we can make it great!\r\n\r\nRepo: https://github.com/cactus-compute/cactus\r\nDiscord: https://discord.gg/nPGWGxXSwr",
-    "one_liner": "Deploy AI models locally on smartphones.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1752189935,
-    "tags": [
-      "Developer Tools",
-      "Hard Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/cactus",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/cactus.json"
-  },
-  {
     "id": 30516,
     "name": "Bramante Biologics",
     "slug": "bramante-biologics",
@@ -26669,6 +26718,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/bootloop.json"
   },
   {
+    "id": 30713,
+    "name": "Motives",
+    "slug": "motives",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ccc0035baccfcafd8c4eccd692ca8198963efca.png",
+    "website": "https://motives.ai/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Motives is a team of AI agents that runs qualitative research projects for consumer brands: moderating and analyzing video interviews to help brands understand consumer preferences and test new ideas, in hours instead of weeks. \r\n\r\n",
+    "one_liner": "Qualitative consumer research run by AI",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1752263741,
+    "tags": [
+      "B2B",
+      "Marketing",
+      "Market Research",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/motives",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/motives.json"
+  },
+  {
     "id": 30716,
     "name": "Finto",
     "slug": "finto-de",
@@ -26875,87 +26966,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/reacher",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/reacher.json"
-  },
-  {
-    "id": 30763,
-    "name": "dScribe AI",
-    "slug": "dscribe-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/741086b6ee1ac324a06d9b831065e36b5b8e9d9b.png",
-    "website": "https://dscribeai.com/",
-    "all_locations": "Overland Park, KS, USA",
-    "long_description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. Think piles of grain or gravel for the ag and mining industry.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 20 to 30%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure’s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform that’s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
-    "one_liner": "Track bulk inventory with autonomous drones and 3D vision",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1752017595,
-    "tags": [
-      "B2B",
-      "Supply Chain",
-      "Agriculture",
-      "AI",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dscribe-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/dscribe-ai.json"
-  },
-  {
-    "id": 30789,
-    "name": "Interfere",
-    "slug": "interfere",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5a8dbf97e68dbed29a766e3ea5a4929c2ae74bc.png",
-    "website": "https://interfere.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "The self-healing layer of the internet",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1752094986,
-    "tags": [
-      "Developer Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/interfere",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/interfere.json"
   }
 ]

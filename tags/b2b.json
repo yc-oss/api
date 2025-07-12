@@ -16191,7 +16191,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -16307,7 +16307,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b893bfee13bdfcc0a2a1b1bfc49d29c819dff05.png",
     "website": "https://www.watu.email/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York, NY, USA",
     "long_description": "Watu is building an email iOS app to enable 1 click checkout inside of emails.",
     "one_liner": "Checkout inside of email",
     "team_size": null,
@@ -18390,9 +18390,9 @@
       "Lumify"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48474c1b0337163fd12462fb6b72ee336a4ad010.png",
-    "website": "https://www.adni.co/",
+    "website": "https://www.adni.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Adni is the first super app for healthcare workers. With Adni, healthcare workers can trade advice anonymously, find jobs, buy gear, review education, store credentials, earn rewards, and more.\r\n\r\nLeading healthcare organizations, such as UT Medical Center, Fusion Medical Staffing, and PRN Healthcare, partner with Adni to recruit, reward, and retain top-quality healthcare talent through our professional network and white-labeled talent experience software.",
+    "long_description": "Adni is the first AI-powered super app for healthcare workers. With Adni, healthcare workers can trade advice anonymously, find jobs, buy gear, review education, store credentials, earn rewards, and more.\r\n\r\nLeading healthcare organizations, such as Penn Medicine, MedPro, and PRN Healthcare, partner with Adni to recruit, reward, and retain top-quality healthcare talent through our professional network and white-labeled talent experience software.",
     "one_liner": "Super app for healthcare workers",
     "team_size": 5,
     "industry": "Healthcare",
@@ -34192,20 +34192,20 @@
       "Switchboard",
       "Inlet AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25e62f89ae4f3fef57571a6c9170c93f95eb4d80.png",
-    "website": "https://getinlet.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/947ea79d41ed24389e0a80ad75da05f02c0c5dd7.png",
+    "website": "https://inletai.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Inlet gets customer data into your system.\r\n\r\nB2B companies use Inlet to sync data from ERPs and other sources, connect to any API, and transform data quickly with our AI tools.\r\n\r\nReach out:\r\n\r\nfounders@getinlet.ai",
-    "one_liner": "AI-powered ETL for complex data",
+    "long_description": "Family law practices juggle dozens of matters, context-switching throughout the day and often failing to record their time for every billable task.\r\n\r\nInlet records these tasks automatically – eliminating painful admin time and increasing their revenue.",
+    "one_liner": "Automated timekeeping for family law.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1687479544,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
       "B2B",
-      "Data Engineering"
+      "Legal",
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34215,7 +34215,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Legal"
     ],
     "regions": [
       "United States of America",
@@ -43938,6 +43938,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/theta-software.json"
   },
   {
+    "id": 30494,
+    "name": "Nixo",
+    "slug": "nixo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png",
+    "website": "https://withnixo.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "The modern Zendesk for scaling high-touch customer support",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1752219403,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Workflow Automation",
+      "Customer Support"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nixo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/nixo.json"
+  },
+  {
     "id": 30496,
     "name": "QualGent",
     "slug": "qualgent",
@@ -44785,6 +44826,88 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/channel3.json"
   },
   {
+    "id": 30713,
+    "name": "Motives",
+    "slug": "motives",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ccc0035baccfcafd8c4eccd692ca8198963efca.png",
+    "website": "https://motives.ai/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Motives is a team of AI agents that runs qualitative research projects for consumer brands: moderating and analyzing video interviews to help brands understand consumer preferences and test new ideas, in hours instead of weeks. \r\n\r\n",
+    "one_liner": "Qualitative consumer research run by AI",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1752263741,
+    "tags": [
+      "B2B",
+      "Marketing",
+      "Market Research",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/motives",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/motives.json"
+  },
+  {
+    "id": 30742,
+    "name": "Sira",
+    "slug": "sira",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76b581290f19eb08a9fc677f74b5ecc46cfd20a1.png",
+    "website": "https://sira.team",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "AI HR manager for hourly teams",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1752264420,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sira",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/sira.json"
+  },
+  {
     "id": 30755,
     "name": "Pally",
     "slug": "pally",
@@ -44879,17 +45002,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/741086b6ee1ac324a06d9b831065e36b5b8e9d9b.png",
     "website": "https://dscribeai.com/",
     "all_locations": "Overland Park, KS, USA",
-    "long_description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. Think piles of grain or gravel for the ag and mining industry.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 20 to 30%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure’s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform that’s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
+    "long_description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. Think stockpiles of grain or gravel for the ag and mining industry.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 20 to 30%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure’s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform that’s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
     "one_liner": "Track bulk inventory with autonomous drones and 3D vision",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752017595,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Supply Chain",
       "Agriculture",
-      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],

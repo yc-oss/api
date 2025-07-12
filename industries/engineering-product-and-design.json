@@ -10124,7 +10124,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -15905,51 +15905,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/sizeless.json"
   },
   {
-    "id": 28991,
-    "name": "Inlet",
-    "slug": "inlet-2",
-    "former_names": [
-      "Switchboard",
-      "Inlet AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25e62f89ae4f3fef57571a6c9170c93f95eb4d80.png",
-    "website": "https://getinlet.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Inlet gets customer data into your system.\r\n\r\nB2B companies use Inlet to sync data from ERPs and other sources, connect to any API, and transform data quickly with our AI tools.\r\n\r\nReach out:\r\n\r\nfounders@getinlet.ai",
-    "one_liner": "AI-powered ETL for complex data",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1687479544,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inlet-2",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/inlet-2.json"
-  },
-  {
     "id": 28994,
     "name": "Vango AI",
     "slug": "vango-ai",
@@ -21727,16 +21682,16 @@
   },
   {
     "id": 30273,
-    "name": "Sophris",
-    "slug": "sophris",
+    "name": "Mirror",
+    "slug": "mirror",
     "former_names": [
       "Physion Works"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccbd10e35f28216ba78163cf07bc50fb82f1e0cf.png",
-    "website": "https://sophris.ai/",
-    "all_locations": "",
-    "long_description": "Sophris is your AI “engineer” for circuit board schematics, checking for errors—pin mismatches, connectivity gaps, or voltage conflicts—long before they derail your design. By flagging potential issues early, you can fix them ahead of production and avoid the frustrating re-spins that drive up costs and delay schedules.\r\n\r\nWhile traditional EDA tools offer basic ERC and DRC checks—like net connectivity and spacing—they don't dig deeply into component datasheets. Sophris takes it further, analyzing specs and cross-referencing design requirements from multiple sources. As a result, subtle pin misconfigurations, voltage mismatches, and datasheet-specific quirks that typical rule checks might miss are brought to light.\r\n\r\nBy identifying design flaws during the schematic phase, Sophris helps you iterate confidently and deliver more reliable products. Faster turnarounds, fewer production surprises, and a smoother path from concept to manufacturing. With Sophris, design more confidently and ship more reliably.",
-    "one_liner": "The AI Engineer for Electronic Design",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4e3260fb215a30f80accf3b33f5784dc3affe97.png",
+    "website": "https://usemirror.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We make sure your team's expertise are available to everyone, instantly. Mirror Clones runs invisibly alongside your work, understanding context and pulling data in real-time. Someone mentions Q3 revenue in a meeting? Mirror fetches live numbers from your ERP. Ask about a project deadline? It grabs the latest timeline from Jira or Asana. \r\n\r\nNo more scheduling meetings to get simple answers. No more knowledge bottlenecks when key employees are unavailable. Mirror ensures critical information flows seamlessly across your organization, breaking down silos and accelerating decision-making.\r\n",
+    "one_liner": "Clone your best employees",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -21753,15 +21708,16 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sophris",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/sophris.json"
+    "url": "https://www.ycombinator.com/companies/mirror",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/mirror.json"
   },
   {
     "id": 30277,
@@ -22778,16 +22734,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png",
     "website": "https://www.cactuscompute.com/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Cross-platform open-source framework for deploying LLMs, VLMs, Embedding Models and TTS models locally on smartphones.\r\n\r\nGoogle AI Edge and Apple Foundation Frameworks are platform-specific and primarily support specific models from the companies. \r\n\r\nTo this end, Cactus:\r\n\r\n- Is available in Flutter and React-Native for cross-platform developers, since most apps are built with these today.\r\n\r\n- Supports any GGUF model you can find on Huggingface; Qwen, Gemma, Llama, DeepSeek, Phi, Mistral, SmolLM, SmolVLM, InternVLM, Jan Nano etc.\r\n\r\n- Accommodates from FP32 to as low as 2-bit quantized models, for better efficiency and less device strain. \r\n\r\n- Have MCP tool-calls to make models performant, truly helpful (set reminder, gallery search, reply messages) and more. \r\n\r\n- Fallback to big cloud models for complex, constrained or large-context tasks, ensuring robustness and high availability.\r\n\r\nTell us how we can make it great!\r\n\r\nRepo: https://github.com/cactus-compute/cactus\r\nDiscord: https://discord.gg/nPGWGxXSwr",
+    "long_description": "Open-source inference engine for deploying AI locally on smartphones. Available in React-Native, Flutter, and C/C++. Supports multimodal models, text-to-speech, embedding models and more.\r\n\r\nRepo: https://github.com/cactus-compute/cactus\r\nDiscord: https://discord.gg/nPGWGxXSwr",
     "one_liner": "Deploy AI models locally on smartphones.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752189935,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Hard Tech",
-      "AI"
+      "Hard Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23324,7 +23280,7 @@
     "name": "Hera",
     "slug": "hera-video",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2215299a08cad90042336d5a56fdbaddfd3c49c5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74b33eae20672c87a08f3ca790501128e2c07280.png",
     "website": "https://hera.video/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hera is an AI motion designer that turns 5-hour projects into 5-minute tasks. \r\n\r\nWhen you're a YouTuber making an infographic animation, instead of spending hours manually clicking buttons in Adobe After Effects, you can create the same animation in minutes in Hera. \r\n\r\nThrough talking to our users, we realized that 95% of time spent on motion graphics is manual button clicking, not creative work. This insight led us to focus on automating the tedious parts while giving the user all creative control.\r\n\r\nWe launched in May 2025, got 100k waitlist signups in 8 weeks, and we're doubling revenue monthly.",
@@ -23408,20 +23364,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5a8dbf97e68dbed29a766e3ea5a4929c2ae74bc.png",
     "website": "https://interfere.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "",
     "one_liner": "The self-healing layer of the internet",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752094986,
-    "tags": [
-      "Developer Tools",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -23430,8 +23383,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

@@ -1,5 +1,46 @@
 [
   {
+    "id": 30494,
+    "name": "Nixo",
+    "slug": "nixo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png",
+    "website": "https://withnixo.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "The modern Zendesk for scaling high-touch customer support",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1752219403,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Workflow Automation",
+      "Customer Support"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nixo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/nixo.json"
+  },
+  {
     "id": 30510,
     "name": "Cactus",
     "slug": "cactus",
@@ -7,16 +48,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png",
     "website": "https://www.cactuscompute.com/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Cross-platform open-source framework for deploying LLMs, VLMs, Embedding Models and TTS models locally on smartphones.\r\n\r\nGoogle AI Edge and Apple Foundation Frameworks are platform-specific and primarily support specific models from the companies. \r\n\r\nTo this end, Cactus:\r\n\r\n- Is available in Flutter and React-Native for cross-platform developers, since most apps are built with these today.\r\n\r\n- Supports any GGUF model you can find on Huggingface; Qwen, Gemma, Llama, DeepSeek, Phi, Mistral, SmolLM, SmolVLM, InternVLM, Jan Nano etc.\r\n\r\n- Accommodates from FP32 to as low as 2-bit quantized models, for better efficiency and less device strain. \r\n\r\n- Have MCP tool-calls to make models performant, truly helpful (set reminder, gallery search, reply messages) and more. \r\n\r\n- Fallback to big cloud models for complex, constrained or large-context tasks, ensuring robustness and high availability.\r\n\r\nTell us how we can make it great!\r\n\r\nRepo: https://github.com/cactus-compute/cactus\r\nDiscord: https://discord.gg/nPGWGxXSwr",
+    "long_description": "Open-source inference engine for deploying AI locally on smartphones. Available in React-Native, Flutter, and C/C++. Supports multimodal models, text-to-speech, embedding models and more.\r\n\r\nRepo: https://github.com/cactus-compute/cactus\r\nDiscord: https://discord.gg/nPGWGxXSwr",
     "one_liner": "Deploy AI models locally on smartphones.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752189935,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Hard Tech",
-      "AI"
+      "Hard Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -582,6 +623,45 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/flai.json"
   },
   {
+    "id": 30691,
+    "name": "Embedder",
+    "slug": "embedder",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01ff7048195b1bcbbefd606ad66db21fe272f5e5.png",
+    "website": "https://www.embedder.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Embedder is building the Cursor for embedded software engineers.\r\n\r\nEvery day, embedded engineers deal with fragmented workflows, archaic developer tooling and complex technical documentation. Our mission is to eliminate these roadblocks and allow engineers to focus on what matters most: speed and innovation.\r\n\r\nOur software currently allows you to upload datasheets, chat with agents and generate production-ready driver code in seconds. Near term, we will be giving agents direct access to your hardware, allowing them to flash, test, and debug in real-time. ",
+    "one_liner": "Cursor for Embedded",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1752258104,
+    "tags": [
+      "Developer Tools",
+      "Generative AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/embedder",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/embedder.json"
+  },
+  {
     "id": 30692,
     "name": "Wisp AI",
     "slug": "wisp-ai",
@@ -836,6 +916,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/perseus-defense.json"
   },
   {
+    "id": 30713,
+    "name": "Motives",
+    "slug": "motives",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ccc0035baccfcafd8c4eccd692ca8198963efca.png",
+    "website": "https://motives.ai/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Motives is a team of AI agents that runs qualitative research projects for consumer brands: moderating and analyzing video interviews to help brands understand consumer preferences and test new ideas, in hours instead of weeks. \r\n\r\n",
+    "one_liner": "Qualitative consumer research run by AI",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1752263741,
+    "tags": [
+      "B2B",
+      "Marketing",
+      "Market Research",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/motives",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/motives.json"
+  },
+  {
     "id": 30716,
     "name": "Finto",
     "slug": "finto-de",
@@ -1082,6 +1204,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/altur.json"
   },
   {
+    "id": 30742,
+    "name": "Sira",
+    "slug": "sira",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76b581290f19eb08a9fc677f74b5ecc46cfd20a1.png",
+    "website": "https://sira.team",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "AI HR manager for hourly teams",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1752264420,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sira",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/sira.json"
+  },
+  {
     "id": 30743,
     "name": "Opennote",
     "slug": "opennote",
@@ -1170,7 +1332,7 @@
     "name": "Hera",
     "slug": "hera-video",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2215299a08cad90042336d5a56fdbaddfd3c49c5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74b33eae20672c87a08f3ca790501128e2c07280.png",
     "website": "https://hera.video/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Hera is an AI motion designer that turns 5-hour projects into 5-minute tasks. \r\n\r\nWhen you're a YouTuber making an infographic animation, instead of spending hours manually clicking buttons in Adobe After Effects, you can create the same animation in minutes in Hera. \r\n\r\nThrough talking to our users, we realized that 95% of time spent on motion graphics is manual button clicking, not creative work. This insight led us to focus on automating the tedious parts while giving the user all creative control.\r\n\r\nWe launched in May 2025, got 100k waitlist signups in 8 weeks, and we're doubling revenue monthly.",
@@ -1258,17 +1420,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/741086b6ee1ac324a06d9b831065e36b5b8e9d9b.png",
     "website": "https://dscribeai.com/",
     "all_locations": "Overland Park, KS, USA",
-    "long_description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. Think piles of grain or gravel for the ag and mining industry.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 20 to 30%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure’s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform that’s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
+    "long_description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. Think stockpiles of grain or gravel for the ag and mining industry.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 20 to 30%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure’s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform that’s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
     "one_liner": "Track bulk inventory with autonomous drones and 3D vision",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752017595,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Supply Chain",
       "Agriculture",
-      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -1333,6 +1495,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/juxta",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/juxta.json"
+  },
+  {
+    "id": 30771,
+    "name": "Flywheel AI",
+    "slug": "flywheel-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20c7285daed594e49818c41dd7e677796b8e4b61.png",
+    "website": "https://useflywheel.ai/",
+    "all_locations": "",
+    "long_description": "Flywheel AI converts any existing excavators for contractors to enable remote ops to increase safety and productivity, and use robotics context dataset to train autonomous policies.",
+    "one_liner": "A construction heavy equipment autonomy company",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1750156128,
+    "tags": [
+      "Deep Learning",
+      "Hardware",
+      "Construction"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/flywheel-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/flywheel-ai.json"
   },
   {
     "id": 30772,
@@ -1460,20 +1662,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5a8dbf97e68dbed29a766e3ea5a4929c2ae74bc.png",
     "website": "https://interfere.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "",
     "one_liner": "The self-healing layer of the internet",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752094986,
-    "tags": [
-      "Developer Tools",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -1482,8 +1681,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1611,7 +1809,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/uplift-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/uplift-ai.json"
   },
