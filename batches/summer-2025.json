@@ -630,7 +630,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01ff7048195b1bcbbefd606ad66db21fe272f5e5.png",
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is building the Cursor for embedded software engineers.\r\n\r\nEvery day, embedded engineers deal with fragmented workflows, archaic developer tooling and complex technical documentation. Our mission is to eliminate these roadblocks and allow engineers to focus on what matters most: speed and innovation.\r\n\r\nOur software currently allows you to upload datasheets, chat with agents and generate production-ready driver code in seconds. Near term, we will be giving agents direct access to your hardware, allowing them to flash, test, and debug in real-time. ",
+    "long_description": "Embedder is building the Cursor for embedded software engineers.\r\n\r\nEvery day, embedded engineers deal with fragmented workflows, archaic developer tooling and complex technical documentation. Our mission is to eliminate these roadblocks and allow engineers to focus on what matters most: speed and innovation.\r\n\r\nOur software currently allows you to upload data sheets, chat with agents and generate production-level driver code in seconds. Near term, we will be giving agents direct access to your hardware, allowing them to flash, test, and debug in real-time. ",
     "one_liner": "Cursor for Embedded",
     "team_size": 2,
     "industry": "B2B",
@@ -786,6 +786,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nozomio",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nozomio.json"
+  },
+  {
+    "id": 30703,
+    "name": "Riff",
+    "slug": "riff",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d63a87fa04a91e21264426ce96efd1e5bed8b086.png",
+    "website": "https://goriff.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Riff is a super powered music editor where experienced producers can be dramatically more productive and hobbyists can delight in music without needing technical chops.\r\n\r\nAs we continue to build, we see Riff turning into an entirely new paradigm for creating music.",
+    "one_liner": "Cursor for music production",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1752283172,
+    "tags": [
+      "Artificial Intelligence",
+      "Entertainment",
+      "Music"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/riff",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/riff.json"
   },
   {
     "id": 30705,
@@ -1285,6 +1325,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/opennote.json"
   },
   {
+    "id": 30747,
+    "name": "Convexia",
+    "slug": "convexia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c68bf871c0fe363c6048343df283d9282ab990f4.png",
+    "website": "https://convexia.bio",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "An AI-maximalist pharma platform. We use agents to buy drugs, run clinical trials, and sell for a profit. 10x faster and 20x leaner than incumbents.\r\n\r\nSourcing Agent: Mines public/private databases and unstructured global data to surface overlooked preclinical candidates.\r\nScientific Agent: Runs comp bio models (ESM-3, RFdiffusion, MACE-MP-0) to assess safety and efficacy in silica.\r\nCommercial Agent: Analyzes FDA incentives, pricing dynamics, TAM, competitive landscape, and payer alignment.\r\nClinical Agent: Runs digital twin simulations, evaluates CRO/CMC risk, and builds trial plans to Phase 1.\r\nBD Agent: Summarizes and delivers company-tailored pitches. \r\n\r\nBuilt by 2 Stanford CS students who have built 3 startups together before. ",
+    "one_liner": "AI-maximalist pharma company to buy and sell early-stage drugs",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1752301183,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Biotech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/convexia",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/convexia.json"
+  },
+  {
     "id": 30755,
     "name": "Pally",
     "slug": "pally",
@@ -1420,7 +1501,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/741086b6ee1ac324a06d9b831065e36b5b8e9d9b.png",
     "website": "https://dscribeai.com/",
     "all_locations": "Overland Park, KS, USA",
-    "long_description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. Think stockpiles of grain or gravel for the ag and mining industry.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 20 to 30%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure’s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform that’s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
+    "long_description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. We're starting by helping the ag and mining industry track stockpiles of grain and gravel.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 20 to 30%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure’s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform that’s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
     "one_liner": "Track bulk inventory with autonomous drones and 3D vision",
     "team_size": 3,
     "industry": "B2B",
@@ -1428,8 +1509,8 @@
     "launched_at": 1752017595,
     "tags": [
       "Artificial Intelligence",
+      "Drones",
       "B2B",
-      "Supply Chain",
       "Agriculture",
       "Industrial"
     ],
@@ -1440,7 +1521,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Supply Chain and Logistics"
     ],
     "regions": [
       "United States of America",
@@ -1505,7 +1587,7 @@
     "website": "https://useflywheel.ai/",
     "all_locations": "",
     "long_description": "Flywheel AI converts any existing excavators for contractors to enable remote ops to increase safety and productivity, and use robotics context dataset to train autonomous policies.",
-    "one_liner": "A construction heavy equipment autonomy company",
+    "one_liner": "Waymo for excavators",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -1731,6 +1813,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vulcan-technologies",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/vulcan-technologies.json"
+  },
+  {
+    "id": 30804,
+    "name": "Luminal",
+    "slug": "luminal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea5712b0999a90a5be78dda48232d17ccfea44f.png",
+    "website": "https://luminalai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/jafioti/luminal\r\nDiscord: https://discord.gg/2Mxur3CgYT",
+    "one_liner": "Simple ML framework and cloud for generating fast GPU code.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1752295982,
+    "tags": [
+      "Machine Learning",
+      "Cloud Computing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/luminal",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/luminal.json"
   },
   {
     "id": 30805,

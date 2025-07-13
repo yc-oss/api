@@ -11860,17 +11860,16 @@
     "slug": "tambua-health",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c6d7367572dbd0fc40b24d0143efd38dc5f71af.png",
-    "website": "https://www.tambuahealth.com",
+    "website": "https://tambua.health/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "The T-Scope is an app-based handheld ultrasound system that brings…",
+    "long_description": "Juno is a fully offline, local-first autonomous AI agent engineered to control and operate medical imaging and diagnostic devices—such as Siemens Healthineers' MRI and CT scanners, hematology analyzers, and PCR machines—with human-like proficiency, powered exclusively by an Embedded System on Module (SoM) AI accelerator. Designed as a \"virtual technician,\" Juno observes device interfaces, reasons over contextual data, and executes actions in a closed-loop system, automating calibration, workflow execution, and optimization without any cloud dependency, internet access, or external APIs. This architecture draws inspiration from agents like ManusAI and Microsoft Copilot's Computer Use Agent (CUA), adapting their observation-reasoning-execution paradigms to treat medical device UIs as controllable \"virtual desktops,\" but confines all processing to edge hardware for compliance with stringent medical safety standards and operational reliability in disconnected environments.",
+    "one_liner": "Juno is ManusAI for controlling medical imaging& diagnostic device GUI",
     "team_size": 13,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Medical Devices",
     "launched_at": 1584128273,
     "tags": [
-      "Health Tech",
-      "Medical Devices"
+      "Health Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11879,8 +11878,7 @@
     "batch": "Winter 2020",
     "status": "Active",
     "industries": [
-      "Healthcare",
-      "Medical Devices"
+      "Healthcare"
     ],
     "regions": [
       "United States of America",
@@ -26873,6 +26871,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/phases",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/phases.json"
+  },
+  {
+    "id": 30747,
+    "name": "Convexia",
+    "slug": "convexia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c68bf871c0fe363c6048343df283d9282ab990f4.png",
+    "website": "https://convexia.bio",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "An AI-maximalist pharma platform. We use agents to buy drugs, run clinical trials, and sell for a profit. 10x faster and 20x leaner than incumbents.\r\n\r\nSourcing Agent: Mines public/private databases and unstructured global data to surface overlooked preclinical candidates.\r\nScientific Agent: Runs comp bio models (ESM-3, RFdiffusion, MACE-MP-0) to assess safety and efficacy in silica.\r\nCommercial Agent: Analyzes FDA incentives, pricing dynamics, TAM, competitive landscape, and payer alignment.\r\nClinical Agent: Runs digital twin simulations, evaluates CRO/CMC risk, and builds trial plans to Phase 1.\r\nBD Agent: Summarizes and delivers company-tailored pitches. \r\n\r\nBuilt by 2 Stanford CS students who have built 3 startups together before. ",
+    "one_liner": "AI-maximalist pharma company to buy and sell early-stage drugs",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1752301183,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Biotech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/convexia",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/convexia.json"
   },
   {
     "id": 30778,
