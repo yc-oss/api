@@ -5638,6 +5638,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/coloop.json"
   },
   {
+    "id": 24395,
+    "name": "Pod",
+    "slug": "pod",
+    "former_names": [
+      "Goodseed",
+      "Invezo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddceed80a342502cfc2fa717821aabc8680d889f.png",
+    "website": "https://callpod.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Pod is your round-the-clock team of AI agents for customer service. They pick up every call instantly, talk to customers like real people, answer common questions, place orders or appointments, and hand off the tricky stuff to a live rep—no phone trees, no hold music. Because they plug straight into your CRM and scheduling tools, your customers get fast, human-sounding help while your staff stays focused on the conversations that truly need them.",
+    "one_liner": "AI Phone Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1625260950,
+    "tags": [
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pod",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/pod.json"
+  },
+  {
     "id": 24404,
     "name": "OneSchema",
     "slug": "oneschema",
@@ -14758,7 +14802,7 @@
     "former_names": [
       "AutoInfra"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bccd87f3418251f26029501fe73c506db3f2695.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dedc5ca68422aae62a4f58f3a0823d0903b71997.png",
     "website": "https://morphllm.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Edit Files at 4500+ tok/sec. \r\n\r\nThe Read and Write tools you need to build coding agents that work and feel like the best. Use alongside Gemini, Claude, or GPT + maintain full control of your agents. \r\nEverything you need to build Cursor for ___\r\n",
@@ -21039,23 +21083,22 @@
   },
   {
     "id": 29955,
-    "name": "Felafax",
-    "slug": "felafax",
+    "name": "BrowserOS",
+    "slug": "browseros",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19098ddbcbcba713e4458237b6983a1d740db751.png",
-    "website": "https://felafax.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0569d225c5895045f70a5f0dc83c9dc50b44852.png",
+    "website": "https://browserOS.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Felafax is building AI infra for non-NVIDIA GPUs. With our ML experience from Google and Meta, we built a new AI stack that is 2x more cost-efficient and performant without needing Nvidia’s CUDA.",
-    "one_liner": "Building AI Infra for non-NVIDIA GPUs ",
+    "long_description": "BrowserOS is an open-source agentic browser that runs AI agents locally.",
+    "one_liner": "Open source Agentic Browser",
     "team_size": 2,
-    "industry": "B2B",
+    "industry": "Consumer",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1722468998,
     "tags": [
       "Artificial Intelligence",
       "Generative AI",
       "Machine Learning",
-      "Infrastructure",
       "AI"
     ],
     "tags_highlighted": [],
@@ -21065,8 +21108,7 @@
     "batch": "Summer 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -21077,8 +21119,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/felafax",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/felafax.json"
+    "url": "https://www.ycombinator.com/companies/browseros",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/browseros.json"
   },
   {
     "id": 29960,
@@ -23476,7 +23518,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -25387,47 +25429,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/kestral.json"
   },
   {
-    "id": 30451,
-    "name": "Bluejay",
-    "slug": "bluejay",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/684bf3f5cb96fd13c768923e057b6866d809a3a7.png",
-    "website": "https://getbluejay.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bluejay’s mission is to engineer trust into every AI interaction, becoming the trust layer between businesses and their customers.",
-    "one_liner": "The world's first quality assurance agency for voice AI.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1746833867,
-    "tags": [
-      "Machine Learning",
-      "DevOps",
-      "Monitoring",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bluejay",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/bluejay.json"
-  },
-  {
     "id": 30454,
     "name": "Operative",
     "slug": "operative",
@@ -25743,7 +25744,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -27049,6 +27050,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/reacher",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/reacher.json"
+  },
+  {
+    "id": 30782,
+    "name": "TectoAI",
+    "slug": "tectoai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/660e2396a1d079a64a42ea2a4ce4b81cefd385f0.png",
+    "website": "https://www.tecto.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We help your company identify roles that can be filled by agentic AI tools, onboard them quickly, monitor their performance and behavior post deployement, ensure they remain compliant, and aligned with regulations. Tecto is building the HR system for managing your AI employees! ",
+    "one_liner": "Governance for AI Employees",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1752441321,
+    "tags": [
+      "AIOps",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tectoai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/tectoai.json"
   },
   {
     "id": 30804,
