@@ -5743,10 +5743,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B"
     ],
@@ -10635,17 +10635,17 @@
   },
   {
     "id": 30231,
-    "name": "Sift",
-    "slug": "heysift",
+    "name": "Paragon",
+    "slug": "deployparagon",
     "former_names": [
       "Sift",
       "Serix"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d00fe727e32957a1207328fc67938587038c996.png",
-    "website": "https://www.heysift.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79ffca3b97639c7dbc3864b40c1a8a01d1691675.png",
+    "website": "https://www.deployparagon.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The future of customer support requires quality. Sift Flow is here to being it to you. Built for the ones who won't compromise on customer experience.",
-    "one_liner": "Don't compromise on customer experience",
+    "long_description": "Paragon is the AI growth engine for distributors and manufacturers, freeing up staff and growing revenue on autopilot.",
+    "one_liner": "The AI Growth Engine for Industrials",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -10654,7 +10654,7 @@
       "AIOps",
       "Generative AI",
       "SaaS",
-      "Customer Support"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10664,7 +10664,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -10675,8 +10675,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/heysift",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/heysift.json"
+    "url": "https://www.ycombinator.com/companies/deployparagon",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/deployparagon.json"
   },
   {
     "id": 30248,
@@ -11740,7 +11740,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01ff7048195b1bcbbefd606ad66db21fe272f5e5.png",
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is building the Cursor for embedded software engineers.\r\n\r\nEvery day, embedded engineers deal with fragmented workflows, archaic developer tooling and complex technical documentation. Our mission is to eliminate these roadblocks and allow engineers to focus on what matters most: speed and innovation.\r\n\r\nOur software currently allows you to upload data sheets, chat with agents and generate production-level driver code in seconds. Near term, we will be giving agents direct access to your hardware, allowing them to flash, test, and debug in real-time. ",
+    "long_description": "Embedder is building the AI-IDE for embedded engineers. Our software allows you to upload data sheets, chat with agents and generate production-level driver code in seconds. Near term, we will be giving agents direct access to your hardware, allowing them to flash, test, and debug in real-time. ",
     "one_liner": "Cursor for Embedded",
     "team_size": 2,
     "industry": "B2B",
@@ -11748,7 +11748,8 @@
     "launched_at": 1752258104,
     "tags": [
       "Developer Tools",
-      "Generative AI"
+      "Generative AI",
+      "Hardware"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11757,7 +11758,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -11812,6 +11814,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/wisp-ai.json"
   },
   {
+    "id": 30700,
+    "name": "Nozomio",
+    "slug": "nozomio",
+    "former_names": [
+      "Nozomio Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d85c6a1195667680f7ed4c90a6bda101d0cc579.png",
+    "website": "https://www.nozomio.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nozomio is a product lab building engineers for the age of AI.\r\n\r\nAs coding agents become ubiquitous, the real bottleneck shifts from “write code” to “know which code and docs to feed them.” Starting with the tool named Nia, the mission is to provide context enrichment through agentic research and indexing of any external codebase(-s) or documentation via MCP / API.\r\n\r\nNozomio started with Arlan's early frustration with the agentic coding ecosystem, especially around context and memory. After winning Product of the Day in February and raising pre-seed, Arlan moved to London and then to SF as a solo immigrant from Kazakhstan to build the future of software engineering. \r\n\r\ntry nia at trynia .ai <3 ",
+    "one_liner": "Engineers for AI era, starting with contextual layer for coding agents",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751302971,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nozomio",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/nozomio.json"
+  },
+  {
     "id": 30705,
     "name": "Summon",
     "slug": "summon",
@@ -11857,8 +11904,8 @@
   },
   {
     "id": 30736,
-    "name": "PARES",
-    "slug": "pares",
+    "name": "PARES AI",
+    "slug": "pares-ai",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbbb70598f14b005aa7da32e84d2d14fed9e3e3a.png",
     "website": "https://www.pares.ai/",
@@ -11870,11 +11917,11 @@
     "subindustry": "Unspecified",
     "launched_at": 1752084453,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "Proptech",
-      "CRM"
+      "CRM",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11894,8 +11941,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pares",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/pares.json"
+    "url": "https://www.ycombinator.com/companies/pares-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/pares-ai.json"
   },
   {
     "id": 30738,

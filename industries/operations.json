@@ -1512,7 +1512,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "The future of B2B spend",
-    "team_size": 300,
+    "team_size": 500,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1599762606,
@@ -2315,7 +2315,7 @@
     "all_locations": "Fort Collins, CO, USA; Remote",
     "long_description": "We help IT departments collaborate, simplify their operations, and organize their information. Users can share passwords, network documentation, business processes, and other technical information in one secure, customizable, and easy interface. Instead of multiple, complex services to manage their businesses, companies can now use one, unified solution.",
     "one_liner": "The Most-Loved IT Documentation Platform",
-    "team_size": 10,
+    "team_size": 28,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1616195137,
@@ -2861,7 +2861,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -5286,6 +5286,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/salespatriot.json"
   },
   {
+    "id": 30231,
+    "name": "Paragon",
+    "slug": "deployparagon",
+    "former_names": [
+      "Sift",
+      "Serix"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79ffca3b97639c7dbc3864b40c1a8a01d1691675.png",
+    "website": "https://www.deployparagon.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Paragon is the AI growth engine for distributors and manufacturers, freeing up staff and growing revenue on autopilot.",
+    "one_liner": "The AI Growth Engine for Industrials",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1737662674,
+    "tags": [
+      "AIOps",
+      "Generative AI",
+      "SaaS",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/deployparagon",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/deployparagon.json"
+  },
+  {
     "id": 30243,
     "name": "Cifrato",
     "slug": "cifrato",
@@ -5591,17 +5636,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/146dcc3d13f9a26c2300485534fada61ffbc8c0f.png",
     "website": "https://www.kestroll.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kestroll is the AI-powered media asset management platform.\r\n\r\nKestroll automatically ingests, labels, and organizes all of your company's media assets (videos, photos, audio files, etc.) and provides a central interface for the entire organization to access and distribute content.\r\n\r\nKestroll eliminates the laborious labeling process and provides easy content access for the entire organization, without the clunky interfaces and long learning curves of traditional MAMs.\r\n\r\nThe days of filtering through someone else's tags are past. With Kestroll, anyone in the organization can search in everyday language, based on visual cues, abstract concepts, creative intent, and more, without the burden of manual labeling. ",
+    "long_description": "Kestroll is the AI-powered media asset management platform.\r\n\r\nKestroll automatically ingests, labels, and organizes all of your company's media assets (photos, audio, and especially videos) and provides a central interface for the entire organization to access and distribute content.\r\n\r\nKestroll eliminates the laborious labeling process and provides easy content access for the entire organization, without the clunky interfaces and long learning curves of traditional MAMs.\r\n\r\nThe days of filtering through someone else's tags are past. With Kestroll, anyone in the organization can search in everyday language, based on visual cues, abstract concepts, creative intent, and more, without the burden of manual labeling. ",
     "one_liner": "AI media asset management",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1751838348,
     "tags": [
-      "Artificial Intelligence",
       "Computer Vision",
       "Video",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
