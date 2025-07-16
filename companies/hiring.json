@@ -13846,7 +13846,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Building the world's first 1:1 AI teacher.",
-    "team_size": 26,
+    "team_size": 45,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1584136938,
@@ -16610,49 +16610,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nabla-bio",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/nabla-bio.json"
-  },
-  {
-    "id": 21998,
-    "name": "WareIQ",
-    "slug": "wareiq",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd493d3173a7c398db40f624d4168ca0dc51665c.png",
-    "website": "https://www.wareiq.com/",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "We are building an on-demand Fulfillment network and all software tools in a central platform which is required for an Etailer to manage their eCommerce Fulfillment operations.\r\n\r\nEtailers connect all their stores to our platform and send us their inventory. Whenever an order is placed on any of the channels, our Decision Engine allocates order to the nearest Warehouse holding the inventory, and right courier partner to pick & deliver to the end customer.",
-    "one_liner": "Amazon-prime like logistics for eCommerce companies in India",
-    "team_size": 50,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1598367138,
-    "tags": [
-      "Warehouse Management Tech",
-      "B2B",
-      "Supply Chain"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wareiq",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/wareiq.json"
   },
   {
     "id": 22001,
@@ -21120,9 +21077,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86fe3bfd9f0947fd674a2b55047687dd231a935d.png",
     "website": "https://www.soraban.com",
     "all_locations": "Tempe, AZ, USA",
-    "long_description": "Soraban's building a copilot for accounting firms. We're first automating the client data gathering and service delivery process with software and AI.\r\n\r\nWe are looking for ambitious people to build the best piece of software for accountants.",
-    "one_liner": "Automates data intake and service delivery process for tax firms.",
-    "team_size": 30,
+    "long_description": "Soraban's building an intelligent admin assistant for accounting firms. Our AI is first automating the client data intake process and data entry into legacy accounting software.\r\n\r\nWe are looking for ambitious people to build the best piece of software for accountants.",
+    "one_liner": "AI assistant for accounting firms ",
+    "team_size": 50,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1627685643,
@@ -31240,6 +31197,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/tailor.json"
   },
   {
+    "id": 26737,
+    "name": "Fetii",
+    "slug": "fetii",
+    "former_names": [
+      "Fetii Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c73c93a3d2686736e8af41a94ccec32614c6ca81.png",
+    "website": "https://www.fetii.com/",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "Fetii is a group rideshare app that lets both consumers and businesses order 15-passenger vans on-demand. Users pay using a QR check-in system that splits payments seamlessly amongst the group at time of boarding. \r\n\r\nNo longer are groups forced to reserve a charter vehicle weeks in advance, pay a 5 hour minimum for a 15 minute trip, and have no payment flexibility OR split up the group and utilize multiple vehicles...Fetii takes the friction out of group transportation.\r\n\r\nFetii has already transported over 800,000 passengers, removed over 140,000 unnecessary vehicles, and is operating in 7 cities.",
+    "one_liner": "Fetii transports groups and businesses together, on-demand",
+    "team_size": 6,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Transportation Services",
+    "launched_at": 1653410309,
+    "tags": [
+      "Transportation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Transportation Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fetii",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/fetii.json"
+  },
+  {
     "id": 26741,
     "name": "Paragon AI",
     "slug": "paragon-ai",
@@ -32193,18 +32193,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4da680d3cdee4cc7ad6408d3177026092f04c75.png",
     "website": "https://metriport.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Healthcare Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
+    "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Health Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
     "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
     "team_size": 11,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1654554081,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Digital Health",
       "Healthcare",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34667,10 +34667,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32fff5dc0564409b94cd9ac53a22b0652becf13f.png",
     "website": "https://www.goveagle.com/",
-    "all_locations": "",
+    "all_locations": "New York, NY, USA",
     "long_description": "GovEagle is building an AI RFP automation platform for medium to large government contractors. Using GovEagle, contractors have been able to submit more proposals without compromising quality. ",
     "one_liner": "First draft of a government RFP response in 60 min",
-    "team_size": 6,
+    "team_size": 10,
     "industry": "Government",
     "subindustry": "B2B -> Sales",
     "launched_at": 1678919888,
@@ -34685,7 +34685,8 @@
       "Government"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -42177,18 +42178,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
     "website": "https://getdecipher.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decipher AI builds AI agents that analyze session replays to understand user behavior, detect bugs and reveal insights—helping teams fix what matters, improve products, and keep their customers happy.",
+    "long_description": "Decipher’s AI agents watch all your user sessions – helping you identify and act on product issues and insights. \r\n\r\nLoved by fast-growing companies like Exa, Pinecone, and 11x. ",
     "one_liner": "AI that analyzes your session replays to uncover issues and behavior.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1708738486,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Customer Success",
       "Analytics",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43225,10 +43226,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1709280983,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Logistics"
+      "Logistics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45511,14 +45512,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Corgi is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We’re taking it all.",
     "one_liner": "Corgi is building an AI insurance company",
-    "team_size": 50,
+    "team_size": 70,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1720644316,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46716,8 +46717,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8b12b6d63b7ef88542a88cfd73009aa6a48073f.png",
     "website": "https://zeit-ai.com/",
     "all_locations": "",
-    "long_description": "Zeit AI transforms Excel files in a structured database that can be queried using natural language. For example, the financial consultancy RISE, which depends heavily on Excel, uses Zeit AI to access and analyze expenses across their organization.",
-    "one_liner": "Enterprise insights from spreadsheet data with just a few words.",
+    "long_description": "Zeit AI transforms your data bases and systems so that they can be queried using natural language. For example, the financial consultancy RISE, which depends heavily on Excel, uses Zeit AI to access and analyze expenses across their organization.",
+    "one_liner": "From data to enterprise insights in just a few words.",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -47789,6 +47790,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/diode-computers-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/diode-computers-inc.json"
+  },
+  {
+    "id": 29955,
+    "name": "BrowserOS",
+    "slug": "browseros",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0569d225c5895045f70a5f0dc83c9dc50b44852.png",
+    "website": "https://browserOS.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "BrowserOS is an open-source agentic browser that runs AI agents locally.",
+    "one_liner": "Open source Agentic Browser",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1722468998,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Machine Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/browseros",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/browseros.json"
   },
   {
     "id": 29957,
@@ -49428,10 +49470,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d27e6c39170346215eab6057844b44c4a3fe089.png",
     "website": "https://splash9.com/",
-    "all_locations": "",
+    "all_locations": "El Segundo, CA, USA",
     "long_description": "Splash is developing the next generation of autonomous surface vessels (ASVs) to provide National Security and defend critical assets such as oil rigs and shipping terminals. Our long-term vision is to make traditional naval vessels obsolete by creating a fleet of low-cost and versatile boats which will be able to dominate the seas. Our expertise in mass manufacturing, engineering and quickly scaling operations will make this vision a reality. ",
     "one_liner": "Autonomous patrol-boats for National Security ",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Unspecified",
     "launched_at": 1739822625,
@@ -49447,7 +49489,8 @@
       "Drones"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -50949,7 +50992,7 @@
     "name": "Proception Inc",
     "slug": "proception-inc",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/044a61892de93a1b3b4e729e7a83401954eae201.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bbd5c88222cf5eb971b76232ac40284413785f0.png",
     "website": "https://proception.ai/",
     "all_locations": "",
     "long_description": "",
@@ -51736,49 +51779,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bloom-4.json"
   },
   {
-    "id": 30417,
-    "name": "GroundControl",
-    "slug": "groundcontrol",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa0a54f0fef4c64097aee43f99b1b40bf7bda56a.png",
-    "website": "https://rungroundcontrol.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "GroundControl builds mission-critical software for manufacturers in highly-regulated industries (aerospace, defense, medical)\r\n\r\nOur core product automates lengthy, complex, and regulated quality documentation in aerospace manufacturing.\r\n\r\nAs an example, the Boeing 777 is made up of over 3 million parts sourced from manufacturers around the world. These manufacturers must complete quality documentation for every part on this aircraft (machined parts, printed circuit boards, wire harnesses, assemblies, and more).\r\n\r\nGroundControl helps manufacturers complete this required documentation accurately, in minutes instead of days.",
-    "one_liner": "Vertical AI for highly-regulated manufacturing",
-    "team_size": 4,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Aviation and Space",
-    "launched_at": 1744173288,
-    "tags": [
-      "SaaS",
-      "Manufacturing",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Aviation and Space"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/groundcontrol",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/groundcontrol.json"
-  },
-  {
     "id": 30420,
     "name": "Cua",
     "slug": "cua",
@@ -52032,6 +52032,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/combinely",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/combinely.json"
+  },
+  {
+    "id": 30479,
+    "name": "Crimson",
+    "slug": "crimson",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d21989f713e50ef7cfbe220d4cfc1a1fbcff900f.png",
+    "website": "https://crimson.law",
+    "all_locations": "",
+    "long_description": "Crimson is the first AI platform purpose-built for complex disputes. Litigation teams use Crimson to analyze case files, draft legal documents and answer case-specific questions. By automating manual workflows throughout the lifecycle of a case, Crimson helps lawyers save more than 10 hours per week on common litigation tasks.",
+    "one_liner": "The AI Associate for Litigation Lawyers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1746120512,
+    "tags": [
+      "SaaS",
+      "Legal",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/crimson",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/crimson.json"
   },
   {
     "id": 30484,
@@ -52627,5 +52667,41 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/interfere",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/interfere.json"
+  },
+  {
+    "id": 30818,
+    "name": "Nox Metals",
+    "slug": "nox-metals",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d953f614b90f897eb3f17d74909591b83860cbc1.png",
+    "website": "https://noxmetals.co/",
+    "all_locations": "",
+    "long_description": "Nox Metals is building the fastest processing metals factory in North America. Our software runs quoting, scheduling, and operations to streamline production and reduce cost. We supply CNC shops with custom-cut material at unmatched speed and efficiency.",
+    "one_liner": "The modern factory for fast, low-cost metals. ",
+    "team_size": 1,
+    "industry": "Industrials",
+    "subindustry": "Unspecified",
+    "launched_at": 1751751667,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/nox-metals.json"
   }
 ]
