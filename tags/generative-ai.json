@@ -2210,17 +2210,17 @@
     "website": "https://www.promptloop.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "PromptLoop helps GTM teams automate account research and data enrichment at scale. We turn manual web scraping and qualification workflows into automated processes, enabling teams to enrich thousands of accounts with detailed company data and buying intent markers in minutes.\r\n\r\nWhy PromptLoop? Sales and marketing teams traditionally spend hours manually researching accounts or rely on outdated data providers. We automatically crawl and extract precise data points from company websites, social profiles, and public sources at 10% the cost of manual research, with built-in quality controls and strict sourcing. Teams can process 10k+ accounts simultaneously, turning raw URLs into actionable qualification data tailored to your goals.",
-    "one_liner": "AI for market research and analysis",
+    "one_liner": "AI agents to build B2B datasets",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1642624185,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "Sales",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3626,14 +3626,14 @@
     "subindustry": "Healthcare",
     "launched_at": 1656567327,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Biotech",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -10721,48 +10721,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/operand.json"
   },
   {
-    "id": 30261,
-    "name": "Lucid",
-    "slug": "lucid",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d7946ea974cf7a753814028e684ac774c9c4073.png",
-    "website": "https://lucid.ai",
-    "all_locations": "Berkeley, CA, USA",
-    "long_description": "We are building generative simulations powered by fast world models.\r\n\r\nWe train world models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nAlberto (CEO) was researching world models at Berkeley AI Research (BAIR) and previously worked on earth modeling at Rainmaker. Rami previously founded a telecom services company and was the CTO of a govtech contractor.\r\n\r\nNow we’re training a hyper realistic world model!",
-    "one_liner": "Generative simulations powered by fast world models",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1738541860,
-    "tags": [
-      "Deep Learning",
-      "Generative AI",
-      "Machine Learning"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lucid",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/lucid.json"
-  },
-  {
     "id": 30283,
     "name": "Confident AI",
     "slug": "confident-ai",
@@ -11697,7 +11655,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6b90c0f9fa101c9a96455820ea0a553837b94f49.png",
     "website": "https://www.useflai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue.\r\n\r\nWe use AI voice assistants that answer dealership calls around the clock to schedule appointments, book test drives, and handle customer inquiries. But we don't stop at phone calls; we also optimize dealerships for AI-powered search, ensuring they get found when customers search for \"car dealerships near me\" on ChatGPT and similar platforms.\r\n\r\nThe result: No more missed opportunities, no more losing customers to competitors.\r\n\r\nOur founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges.\r\n\r\nWe're not just answering phones, we're helping dealerships win in an AI-first world where availability and discoverability determine who gets the sale.",
+    "long_description": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue.\r\n\r\nWe built Flai to fix this - AI assistants that answer dealership calls 24/7, scheduling test drives, oil changes, or running outbound recall campaigns so no opportunity slips away.\r\n\r\nThe result: No more missed opportunities, no more losing customers to competitors.\r\n\r\nOur founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges.\r\n\r\nWe're not just answering phones, we're helping dealerships win in an AI-first world where availability determine who gets the sale.",
     "one_liner": "We Bring More Customers to Your Dealership",
     "team_size": 3,
     "industry": "Industrials",

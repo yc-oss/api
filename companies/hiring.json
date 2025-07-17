@@ -5463,14 +5463,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6faf92eb91f0ff8910311336fa3f164df398c35.png",
     "website": "https://www.onefin.in",
     "all_locations": "Bengaluru, KA, India",
-    "long_description": "Building a plug-and-play suite of APIs to enable financial inclusion. OneFin is backed by marquee investors from Silicon Valley like Y Combinator, Khosla Ventures, etc. Leading NBFC, SFB and fintech companies in India are our users.\r\n\r\nWe have enabled loan disbursement/migration of more than $600M in last few years across more than 1 million loans across education loans, EV financing, business loans, credit line, 2 wheeler financing, personal loans, invoice discounting, and various other credit products.",
+    "long_description": "Building a plug-and-play suite of APIs and lending tech stack to enable financial inclusion. OneFin is backed by marquee investors from Silicon Valley like Y Combinator, Khosla Ventures, etc. Leading NBFC, SFB and fintech companies in India are our users.\r\n\r\nWe have enabled loan disbursement/migration of around $2B in last few years across more than 1 million loans across education loans, EV financing, business loans, credit line, 2 wheeler financing, personal loans, invoice discounting, and various other credit products.",
     "one_liner": "Shopify for Financial Services",
-    "team_size": 40,
+    "team_size": 50,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1478804688,
     "tags": [
-      "Fintech"
+      "Fintech",
+      "SaaS",
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5484,9 +5486,7 @@
     ],
     "regions": [
       "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
+      "South Asia"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6642,54 +6642,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/copilot",
     "api": "https://yc-oss.github.io/api/batches/winter-2018/copilot.json"
-  },
-  {
-    "id": 1744,
-    "name": "Fondo",
-    "slug": "fondo",
-    "former_names": [
-      "BloomJoy",
-      "Fondo",
-      "Fondo (was BloomJoy)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f0b5fe4e91dafcccff1f484b17acd3b14006850.png",
-    "website": "http://tryfondo.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fondo is the easy way for startups to get their bookkeeping done, taxes filed, and cash back from the IRS (average startup gets $21k). We’ll optimize and file your taxes, and you’ll get cash back — up to $500k per year. Need more help? We’ll also do your bookkeeping, so you don’t have to worry about a thing.",
-    "one_liner": "Bookkeeping, tax, & tax credits on autopilot for 1,000+ startups",
-    "team_size": 53,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1580421990,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2018",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fondo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/fondo.json"
   },
   {
     "id": 1749,
@@ -15492,48 +15444,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/blue-onion",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/blue-onion.json"
-  },
-  {
-    "id": 21788,
-    "name": "Zitara Technologies, Inc.",
-    "slug": "zitara-technologies-inc",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8705f34089ca7162f6ec3c2a67b6c69a4de6adad.png",
-    "website": "https://zitara.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Batteries have a big role to play in tackling the climate crisis, and it’s essential to make sure that they’re safe and reliable to operate.\r\n\r\nAt Zitara, we build cutting-edge software solutions that empower companies to deeply understand their batteries, both in design and deployment. It’s all part of our work to enable a renewable energy revolution, powered by safer batteries, at a lower cost, with less waste.",
-    "one_liner": "Predictive battery management software for electrified fleets",
-    "team_size": 33,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
-    "launched_at": 1645222968,
-    "tags": [
-      "Climate",
-      "Electric Vehicles"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Energy"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zitara-technologies-inc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/zitara-technologies-inc.json"
   },
   {
     "id": 21790,
@@ -32144,6 +32054,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/diversion.json"
   },
   {
+    "id": 26912,
+    "name": "iollo",
+    "slug": "iollo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bd3e4de086fbafd70c63dbae211f55425382f05.png",
+    "website": "https://www.hirequinn.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "iollo uses AI to analyze multimodal biological data (multi-omics, imaging, etc.) to discover new biology in hours, work that typically takes teams of scientists years. Our platform translates these discoveries into accelerated development of novel therapeutic strategies and interventions for extending healthspan.",
+    "one_liner": "AI platform accelerating therapeutic R&D from years to days.",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1656567327,
+    "tags": [
+      "Generative AI",
+      "Biotech",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/iollo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/iollo.json"
+  },
+  {
     "id": 26913,
     "name": "Aurelian",
     "slug": "aurelian",
@@ -36538,6 +36492,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/vellum.json"
   },
   {
+    "id": 28127,
+    "name": "Benchmark",
+    "slug": "benchmark",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0dddc99c1f1c38c90b727d87cc7bb8d59dfad6be.png",
+    "website": "https://withbenchmark.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Benchmark is the trusted AI platform for investment firms. Today, leading firms use Benchmark to screen deals, extract insights from unstructured data, and automate workflows. Our platform combines cutting-edge AI with deep industry expertise to help investment firms make smarter, faster decisions across their entire deal lifecycle.",
+    "one_liner": "The trusted AI platform for investment firms",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "Real Estate and Construction",
+    "launched_at": 1673633463,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/benchmark",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/benchmark.json"
+  },
+  {
     "id": 28131,
     "name": "Untether Labs",
     "slug": "untether-labs",
@@ -38254,7 +38250,7 @@
     "all_locations": "",
     "long_description": "We provide an in-browser document editor that any patent attorney can start using straight away. It works just like Google Docs but, under the hood, is powered by an AI copilot to help the attorney draft, prosecute, and harvest high-quality patents efficiently.\r\n\r\nOur product can help with all stages of the patent life cycle, from drafting and filing to prosecution and opposition.",
     "one_liner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
-    "team_size": 15,
+    "team_size": 17,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1686701574,
@@ -39978,8 +39974,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/21cd7289472fa982f68b9ab59329eb2acf583e66.png",
     "website": "https://www.syntheticfi.com/",
     "all_locations": "",
-    "long_description": "SyntheticFi offers a low cost and low hassle solution for independent financial advisors (RIAs) to meet the liquidity needs of their clients.",
-    "one_liner": "Low cost securities-backed lending for independent financial advisors",
+    "long_description": "SyntheticFi offers a low-cost and low-hassle solution for independent financial advisors (RIAs) to meet the liquidity needs of their clients.\r\n\r\nOur latest Hybrid Mortgage offering directly targets often the largest liability one takes in their life: the home mortgage. ",
+    "one_liner": "Low cost securities-backed lending for financial advisors and HNWI",
     "team_size": 10,
     "industry": "Fintech",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -42673,51 +42669,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/astro-mechanica.json"
   },
   {
-    "id": 29376,
-    "name": "Carma",
-    "slug": "carma",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/995749b249373d88528eca173b29dc4d2d8e77da.png",
-    "website": "https://www.joincarma.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Carma, we’re revolutionizing the fleet management space by building a massively simplified experience for commercial fleet operators to receive same-day repair and maintenance for any vehicle with real-time, transparent quotes from highly-vetted service center partners with a guaranteed 24-hour turnaround.\r\n\r\nFleet operators face the challenging task of keeping hundreds or thousands of vehicles on the road cost-efficiently with minimal downtime. Our platform solves this precise problem, powering operations for our fleet customers with every tool needed for modern fleet management - real-time service tracking, cost verification, diagnostics visibility, and so much more. We are tackling an enormous market—worth $177 billion in the United States alone.\r\n\r\nWe're growing very rapidly and are looking for superstars to join us on our rocketship growth as we relentlessly work towards building a multi-billion dollar company to take over the outdated fleet management market.\r\n\r\nJoin us if you're eager to make a significant impact and be part of an explosive-growth startup from the ground up.",
-    "one_liner": "Same-Day Auto Repair for Commercial Fleets.",
-    "team_size": 11,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1701065445,
-    "tags": [
-      "Auto Commerce",
-      "Marketplace",
-      "B2B",
-      "Trust & Safety",
-      "Automotive"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/carma",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/carma.json"
-  },
-  {
     "id": 29377,
     "name": "Toma",
     "slug": "toma",
@@ -42806,7 +42757,7 @@
     "slug": "conduit-ai",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a191a8ba3e9f773c150eb657c1104f6d0427aec.png",
-    "website": "https://conduit.ai/",
+    "website": "https://conduit.ai/?utm_source=referral&utm_medium=organic&utm_campaign=ycombinator",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Conduit is the AI agent platform that drives conversational outcomes across support and sales.\r\n\r\nCustomer conversations are the backbone of every business. Mass-market consumer businesses spend nearly a third of their working hours calling and texting customers. Conduit turns those conversations into an engine for conversions, revenue, and cost savings. \r\n\r\nWe enable operators across real estate, financials, and services, to build and deploy AI agents that perform better than your best employee. Our modular platform enables automation for the most complex, high-volume conversational workflows.",
     "one_liner": "Conversational AI agents for Support and Sales",
@@ -42815,11 +42766,11 @@
     "subindustry": "B2B",
     "launched_at": 1707775068,
     "tags": [
+      "Artificial Intelligence",
       "Messaging",
       "Sales",
       "Customer Service",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43669,8 +43620,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a841b2f12203d0678ecd110ec8aa1eb131f2681f.png",
     "website": "https://www.openmart.com",
     "all_locations": "Foster City, CA, USA",
-    "long_description": "Openmart is the GTM platform for reaching local business owners. Think of us like Apollo/ZoomInfo but for local business/POI data. We help sales professionals query millions of unstructured local business data like local government filings, websites, reviews and socials",
-    "one_liner": "GTM platform for reaching local businesses",
+    "long_description": "",
+    "one_liner": "GTM platform ",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -44982,6 +44933,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/domu-technology-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/domu-technology-inc.json"
+  },
+  {
+    "id": 29573,
+    "name": "Undermind",
+    "slug": "undermind",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e44c4453098a5caed0988fdf2dff5b898cdcac4.png",
+    "website": "https://www.undermind.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Undermind, we're building a search engine that can handle extremely complex questions. It’s geared at experts, like research scientists and doctors, who need to find very specific resources to solve high-stakes problems. \r\n\r\nWe’ve rebuilt search from the ground up to address this. Our new approach employs high-quality LLMs to adaptively explore a database, mimicking how a human researcher carefully discovers information. This approach dramatically outperforms (by 10-50x) traditional keyword search and other modern AI-based retrieval methods.\r\n\r\nOur first target users are the 50 million researchers searching for scientific literature on PubMed and Google Scholar every month. We’ve have paying users across fields like medicine, ML, biotech, finance, and more.",
+    "one_liner": "An AI agent for scientific research",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "Education",
+    "launched_at": 1718632251,
+    "tags": [
+      "Machine Learning",
+      "Biotech",
+      "Search",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/undermind",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/undermind.json"
   },
   {
     "id": 29577,
@@ -48852,6 +48844,52 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/fresco.json"
   },
   {
+    "id": 30090,
+    "name": "Origami",
+    "slug": "origami-2",
+    "former_names": [
+      "Charm",
+      "origami",
+      "Origami",
+      "Origami Agents"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90a150650f55581e2db5d27ee09895ea19f1d1a7.png",
+    "website": "https://www.origamiagents.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Origami, we’re building the most powerful AI Research Agents.\r\n\r\nOur Agents work 24/7 like human SDRs: finding new leads, enriching data, and updating your CRM — so your team can focus on selling.\r\n\r\nFounded in 2024, we became Y Combinator's fastest growing startup and accelerate pipeline for top companies like Rho, Redesign Health, and Remote.com.",
+    "one_liner": "Research Agents to accelerate your outbound sales pipeline",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1731183180,
+    "tags": [
+      "Workflow Automation",
+      "Sales",
+      "Search"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/origami-2",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/origami-2.json"
+  },
+  {
     "id": 30091,
     "name": "CollectWise",
     "slug": "collectwise",
@@ -49187,6 +49225,42 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/humanlayer",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/humanlayer.json"
+  },
+  {
+    "id": 30130,
+    "name": "Apolink",
+    "slug": "apolink",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22c2bd83d673e7df9f3a78b87b760253845534a0.png",
+    "website": "https://apolink.space",
+    "all_locations": "",
+    "long_description": "Apolink is building the world’s most interoperable satellite relay network in low Earth orbit. Our hybrid communication architecture combines RF and optical inter-satellite links to enable real-time, continuous connectivity for satellite operators across industries.",
+    "one_liner": "24/7 satellite connectivity in low Earth orbit",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1727908250,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/apolink",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/apolink.json"
   },
   {
     "id": 30131,
@@ -50232,6 +50306,42 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/asteroid.json"
   },
   {
+    "id": 30261,
+    "name": "Lucid",
+    "slug": "lucid",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d7946ea974cf7a753814028e684ac774c9c4073.png",
+    "website": "https://lucid.ai",
+    "all_locations": "",
+    "long_description": "We are building universe simulations powered by interactive video models.\r\n\r\nWe train video models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nNow we’re training a hyper realistic world model!",
+    "one_liner": "interactive video models",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1738541860,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lucid",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/lucid.json"
+  },
+  {
     "id": 30262,
     "name": "Pickle",
     "slug": "pickle-2",
@@ -51076,9 +51186,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
     "website": "https://spott.io",
     "all_locations": "",
-    "long_description": "Spott builds AI agents for recruiting firms. When recruiters receive a new assignment, Spott will look for relevant candidates in your database, reach out to them, and present relevant matches to the client for you.\r\n",
-    "one_liner": "AI agents for recruiting firms",
-    "team_size": 7,
+    "long_description": "Spott is the first AI-native ATS/CRM for recruiting & staffing firms. We built Spott because existing recruitment platforms require extensive manual work, are clunky to use, rely on fragmented add-ons, and are not designed for AI adoption.\r\n\r\nSpott combines everything recruiting firms need, from a full ATS & CRM to AI agents across the entire workflow, into one AI-native solution. It enables recruiters to focus on what matters most and close more placements.",
+    "one_liner": "AI-native ATS/CRM for recruiting firms",
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1737184010,
@@ -51312,7 +51422,7 @@
     "all_locations": "",
     "long_description": "",
     "one_liner": "Assurance and audit AI",
-    "team_size": 1,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1739308183,
@@ -51777,6 +51887,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bloom-4",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bloom-4.json"
+  },
+  {
+    "id": 30417,
+    "name": "GroundControl",
+    "slug": "groundcontrol",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa0a54f0fef4c64097aee43f99b1b40bf7bda56a.png",
+    "website": "https://rungroundcontrol.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "GroundControl builds mission-critical software for manufacturers in highly-regulated industries (aerospace, defense, medical)\r\n\r\nOur core product automates lengthy, complex, and regulated quality documentation in aerospace manufacturing.\r\n\r\nAs an example, the Boeing 777 is made up of over 3 million parts sourced from manufacturers around the world. These manufacturers must complete quality documentation for every part on this aircraft (machined parts, printed circuit boards, wire harnesses, assemblies, and more).\r\n\r\nGroundControl helps manufacturers complete this required documentation accurately, in minutes instead of days.",
+    "one_liner": "Vertical AI for highly-regulated manufacturing",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1744173288,
+    "tags": [
+      "SaaS",
+      "Manufacturing",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/groundcontrol",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/groundcontrol.json"
   },
   {
     "id": 30420,
@@ -52465,6 +52618,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/propolis",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/propolis.json"
+  },
+  {
+    "id": 30538,
+    "name": "Den",
+    "slug": "den",
+    "former_names": [
+      "Mortar"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76569fbe505e2260c81baabe36a7512daf19506.png",
+    "website": "https://getden.io",
+    "all_locations": "",
+    "long_description": "Den is a Slack/Notion-like platform that help teams get more done with general-purpose AI agents. \r\n\r\nWe want to deploy trillions of AI agents into the mainstream workforce and unlock the most productive era in human history.",
+    "one_liner": "Cursor for knowledge workers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1745125390,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/den",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/den.json"
   },
   {
     "id": 30545,

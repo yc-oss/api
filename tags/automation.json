@@ -3057,7 +3057,7 @@
   },
   {
     "id": 30756,
-    "name": "nottelabs",
+    "name": "Nottelabs",
     "slug": "nottelabs",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63003c4a4bcce138151403c1e186fcebf3dfa34a.png",
@@ -3070,9 +3070,9 @@
     "subindustry": "B2B",
     "launched_at": 1752518156,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3094,5 +3094,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nottelabs",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nottelabs.json"
+  },
+  {
+    "id": 30768,
+    "name": "Okibi",
+    "slug": "okibi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af540216115eb620b0a79c1b14c025302f855803.png",
+    "website": "https://okibi.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Whether you're building an internal workflow automation to remove repetitive or time consuming tasks, or launching your own product with Agents, Okibi can help you build it.\r\n\r\nBuilding AI agents typically requires complex, time-consuming setup, including tool calling, LLM syntax management, multi-agent orchestration, browser use, evals, and hosting deployments.\r\n\r\nOur web app provides a chat interface and toolkit to easily create agents. Just describe your agent in natural language, similar to vibecoding, and our app automatically generates your agent's architecture, tool calls, human in the loop, browser user, and runs evals on your agent.\r\n\r\nThis approach significantly reduces development complexity and time.",
+    "one_liner": "Build agents using natural language, it's Lovable for agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1752707566,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "B2B",
+      "Automation",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/okibi",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/okibi.json"
   }
 ]

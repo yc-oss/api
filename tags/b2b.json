@@ -3763,7 +3763,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -16630,7 +16630,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Inactive",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Finance and Accounting"
@@ -36234,7 +36234,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -36929,8 +36929,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a841b2f12203d0678ecd110ec8aa1eb131f2681f.png",
     "website": "https://www.openmart.com",
     "all_locations": "Foster City, CA, USA",
-    "long_description": "Openmart is the GTM platform for reaching local business owners. Think of us like Apollo/ZoomInfo but for local business/POI data. We help sales professionals query millions of unstructured local business data like local government filings, websites, reviews and socials",
-    "one_liner": "GTM platform for reaching local businesses",
+    "long_description": "",
+    "one_liner": "GTM platform ",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -43014,9 +43014,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f49530f7f80f640f3de8119e00764c7ea777491.png",
     "website": "https://spott.io",
     "all_locations": "",
-    "long_description": "Spott builds AI agents for recruiting firms. When recruiters receive a new assignment, Spott will look for relevant candidates in your database, reach out to them, and present relevant matches to the client for you.\r\n",
-    "one_liner": "AI agents for recruiting firms",
-    "team_size": 7,
+    "long_description": "Spott is the first AI-native ATS/CRM for recruiting & staffing firms. We built Spott because existing recruitment platforms require extensive manual work, are clunky to use, rely on fragmented add-ons, and are not designed for AI adoption.\r\n\r\nSpott combines everything recruiting firms need, from a full ATS & CRM to AI agents across the entire workflow, into one AI-native solution. It enables recruiters to focus on what matters most and close more placements.",
+    "one_liner": "AI-native ATS/CRM for recruiting firms",
+    "team_size": 11,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1737184010,
@@ -44196,50 +44196,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/delty.json"
   },
   {
-    "id": 30538,
-    "name": "Den",
-    "slug": "den",
-    "former_names": [
-      "Mortar"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76569fbe505e2260c81baabe36a7512daf19506.png",
-    "website": "https://getden.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Den is a Slack/Notion-like platform that help teams get more done with general-purpose AI agents. \r\n\r\nWe want to deploy trillions of AI agents into the mainstream workforce and unlock the most productive era in human history.",
-    "one_liner": "Cursor for knowledge workers",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1745125390,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Team Collaboration"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/den",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/den.json"
-  },
-  {
     "id": 30540,
     "name": "Lumari",
     "slug": "lumari",
@@ -44617,6 +44573,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/closera",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/closera.json"
+  },
+  {
+    "id": 30616,
+    "name": "Async",
+    "slug": "async",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6a6a6deeb99cb0fdc200c141518d2d94972bd2b.png",
+    "website": "https://www.async.build/",
+    "all_locations": "",
+    "long_description": "Async is a platform to manage a team of coding agents from anywhere.\r\nIt lets you issue tasks, then handles coding and testing in the background. Review results on mobile or desktop, preview changes in-app, run tasks in parallel, and move faster than ever before.\r\n\r\nOur mission is to do the work that you don't want to: bug fixes, UI tweaks, papercuts, and KTLO.\r\nDo what's important - delegate the rest to Async.",
+    "one_liner": "A team of coding agents in your pocket",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1752630869,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/async",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/async.json"
   },
   {
     "id": 30642,
@@ -44997,6 +44993,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dscribe-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/dscribe-ai.json"
+  },
+  {
+    "id": 30768,
+    "name": "Okibi",
+    "slug": "okibi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af540216115eb620b0a79c1b14c025302f855803.png",
+    "website": "https://okibi.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Whether you're building an internal workflow automation to remove repetitive or time consuming tasks, or launching your own product with Agents, Okibi can help you build it.\r\n\r\nBuilding AI agents typically requires complex, time-consuming setup, including tool calling, LLM syntax management, multi-agent orchestration, browser use, evals, and hosting deployments.\r\n\r\nOur web app provides a chat interface and toolkit to easily create agents. Just describe your agent in natural language, similar to vibecoding, and our app automatically generates your agent's architecture, tool calls, human in the loop, browser user, and runs evals on your agent.\r\n\r\nThis approach significantly reduces development complexity and time.",
+    "one_liner": "Build agents using natural language, it's Lovable for agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1752707566,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "B2B",
+      "Automation",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/okibi",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/okibi.json"
   },
   {
     "id": 30782,

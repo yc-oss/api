@@ -33677,21 +33677,21 @@
   },
   {
     "id": 30030,
-    "name": "Encore",
-    "slug": "encore",
+    "name": "Candle",
+    "slug": "candle",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d010cda5e1d2ce7d7599631a5d9044149bb440e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/57f255265427fb19217eb52325906898ec454477.png",
     "website": "https://www.trycandle.app/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Portfolio: \r\n\r\n1. Candle - try it at trycandle.app - Most relationships don’t end in one moment, they drift apart over time. Missed check-ins, surface-level conversations, busy lives, and routines replace real connection. Candle helps couples stay emotionally close through 1-minute daily rituals that bring back presence, play, and curiosity.\r\n\r\n\r\n2. Encore is your go-to online shopping assistant for finding secondhand treasures. Our conversational search platform makes it easy and fun to browse platforms like Depop, eBay, Grailed, and Poshmark—all in one place. Whether you’re after styling tips, honest reviews, trend ideas, or tracking down that cool piece you saw in a movie or on social media, we’ve got you covered. Shopping should feel like having a personal expert by your side, helping you discover things you’ll truly love. With Encore, browsing becomes easy, fun, and actually rewarding. Try it there: shopencore.ai \r\n",
-    "one_liner": "Building design-first consumer AI products that shape positive habits",
+    "long_description": "Most relationships, romantic or platonic, don’t end in one moment, they drift apart over time. Missed check-ins, surface-level conversations, busy lives, and routines replace real connection. Candle helps couples and friends stay close through 1-minute daily rituals that bring back presence, play, and curiosity.\r\n\r\nCandle gives couples and friends a daily, low-pressure game designed to create emotional momentum: the most essential, and often most neglected, ingredient in long-term connection.\r\n\r\nWhat started as a swipeable questions game has grown into a full platform and private space for your relationship:\r\n\r\n- Daily Prompts & Games: Thoughtful, funny, and unexpected questions, couple quizzes, audio and photo challenges that update and adapt monthly\r\n\r\n- Shared Canvas Widget: Leave notes, doodles, or drawings right on each other’s home screen\r\n\r\n- Now in beta: Date Ideas Swiping**: Get 60 curated date ideas based on your area (yes, even San Francisco :)), updated weekly. Swipe to match on what you both want to try. From pop-up events to hidden gems, it’s the easiest way to try something new together or even with friends or family! We’d love feedback here!\r\n\r\n- Streaks & Shared Progress — Build accountability and a shared rhythm\r\n\r\n- Adaptive Decks: Smarter, more relevant questions over time\r\n\r\n- Shared Photo Albums & Memories: Keep track of all your photos and logged memories\r\n",
+    "one_liner": "Candle helps couples and friends grow closer daily in just 5 minutes.",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1731102747,
     "tags": [
-      "Artificial Intelligence",
-      "Consumer"
+      "Consumer",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33711,8 +33711,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/encore",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/encore.json"
+    "url": "https://www.ycombinator.com/companies/candle",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/candle.json"
   },
   {
     "id": 30052,
@@ -34097,21 +34097,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d7946ea974cf7a753814028e684ac774c9c4073.png",
     "website": "https://lucid.ai",
-    "all_locations": "Berkeley, CA, USA",
-    "long_description": "We are building generative simulations powered by fast world models.\r\n\r\nWe train world models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nAlberto (CEO) was researching world models at Berkeley AI Research (BAIR) and previously worked on earth modeling at Rainmaker. Rami previously founded a telecom services company and was the CTO of a govtech contractor.\r\n\r\nNow we’re training a hyper realistic world model!",
-    "one_liner": "Generative simulations powered by fast world models",
+    "all_locations": "",
+    "long_description": "We are building universe simulations powered by interactive video models.\r\n\r\nWe train video models that simulate hyper-realistic environments with immersive control, replacing hard-coded game or physics engines with dynamic neural networks.\r\n\r\nWe built the fastest action-conditioned diffusion video model (running at 20+fps on a 4090 gaming gpu) to simulate minecraft. It is 5x faster than other minecraft World Models and was trained with 100x less resources. Our unique insight was relying on aggressive compression in our tokenizer (128x versus the traditional 8x), and because attention scales quadratically with # of tokens our model can run blindingly faster.\r\n\r\nNow we’re training a hyper realistic world model!",
+    "one_liner": "interactive video models",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1738541860,
-    "tags": [
-      "Deep Learning",
-      "Generative AI",
-      "Machine Learning"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -34119,8 +34115,6 @@
       "Consumer"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
