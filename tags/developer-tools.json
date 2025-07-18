@@ -6516,7 +6516,7 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "We build the tools companies need to provide performant and scalable authorization for their applications.\r\n\r\nWe’re founded by 3 successful entrepreneurs with expertise in enterprise software, most recently as leaders at Red Hat. Jake and Joey met on the APIs team at Google in 2010. They went on to found Quay, where Jimmy joined as their first hire. Over the past decade, they’ve changed the landscape for building and deploying software.",
     "one_liner": "Cloud Infrastructure for Authorization",
-    "team_size": 24,
+    "team_size": 31,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1624982412,
@@ -12649,7 +12649,9 @@
     "id": 27705,
     "name": "Indexical",
     "slug": "indexical",
-    "former_names": [],
+    "former_names": [
+      "Nebula"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffb7d7237c04ef91841ffa6c06007d8d606413a2.png",
     "website": "https://indexical.dev/",
     "all_locations": "San Francisco, CA, USA",
@@ -12671,7 +12673,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -19545,50 +19547,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/revyl.json"
   },
   {
-    "id": 30043,
-    "name": "Vespper",
-    "slug": "vespper",
-    "former_names": [
-      "Merlinn"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8071a4dd821b17c48fe53b21be58c8dd37534c31.png",
-    "website": "https://vespper.com",
-    "all_locations": "",
-    "long_description": "Vespper is an AI agent running 24/7 to troubleshoot your alerts by surfacing the right data at the right time. It helps teams reduce downtime and alert fatigue by making sure no alert falls through the cracks again. \r\n",
-    "one_liner": "AI agent that troubleshoots production alerts for software engineers,…",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1729555399,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "B2B",
-      "DevOps",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/vespper",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/vespper.json"
-  },
-  {
     "id": 30047,
     "name": "Lune",
     "slug": "lune",
@@ -21944,49 +21902,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/alter-ai.json"
   },
   {
-    "id": 30660,
-    "name": "Magnitude",
-    "slug": "magnitude",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2842d2a52b047f3cdc0601cc787b7972d74a3bf.png",
-    "website": "https://magnitude.run",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is the open-source, vision-first browser agent. \r\n\r\nIt interacts with the browser much like a human would. It’s accurate, reliable, and fully customizable, enabling real production usage.\r\n\r\nYou can use it to automate tasks on the web, intelligently extract data, test your web apps, or as a building block for your own browser agents.\r\n\r\nWe recently achieved a state-of-the-art 94% success rate on the WebVoyager benchmark, beating all other browser agents.",
-    "one_liner": "Open-source, vision-first browser agent",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1751905744,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
-      "Automation",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/magnitude",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/magnitude.json"
-  },
-  {
     "id": 30675,
     "name": "BootLoop",
     "slug": "bootloop",
@@ -22322,5 +22237,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stagewise",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/stagewise.json"
+  },
+  {
+    "id": 30777,
+    "name": "Modelence",
+    "slug": "modelence",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29b7379070cfa5f91e4300dce0bab8471d55a5d0.png",
+    "website": "https://modelence.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring… and you needed them yesterday.\r\n\r\nWe spent a decade at our previous startup, building a platform while scaling to millions of users and customers like Meta & Netflix. Now we put that into an open-source framework, so others wouldn’t have to do the same from scratch.\r\n\r\nModelence is a batteries-included framework that abstracts away boilerplate so you can just focus on building your product logic and nothing else - it’s like Next.js + Vercel + Supabase on a single platform, built for full-stack TypeScript.\r\n\r\nShipping production apps is much harder than building a prototype that runs locally and 95% of all production apps share the same building blocks. We did a massive amount of work on our previous platforms that was not specific to our product, and we’ve created Modelence to abstract that away:\r\n- Authentication\r\n- Database setup\r\n- Hosting / CDN\r\n- AI integration (LLM observability, prompts)\r\n- Real-time events\r\n- Cron jobs\r\n- Email service\r\n- Monitoring\r\n- Analytics\r\n- Admin dashboards\r\n\r\nAndrej Karpathy recently posted about this same exact problem:\r\nhttps://x.com/karpathy/status/1905051558783418370\r\n\r\nand explained it further in his YC AI Startup School talk:\r\nhttps://youtu.be/LCEmiRjPEtQ?feature=shared&t=1940",
+    "one_liner": "All-in-one TypeScript platform for startups",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1752778004,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/modelence",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/modelence.json"
   }
 ]

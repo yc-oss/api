@@ -8247,7 +8247,7 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "We build the tools companies need to provide performant and scalable authorization for their applications.\r\n\r\nWe’re founded by 3 successful entrepreneurs with expertise in enterprise software, most recently as leaders at Red Hat. Jake and Joey met on the APIs team at Google in 2010. They went on to found Quay, where Jimmy joined as their first hire. Over the past decade, they’ve changed the landscape for building and deploying software.",
     "one_liner": "Cloud Infrastructure for Authorization",
-    "team_size": 24,
+    "team_size": 31,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1624982412,
@@ -12739,51 +12739,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/diversion",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/diversion.json"
-  },
-  {
-    "id": 27038,
-    "name": "Fini",
-    "slug": "fini",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b044a080c88a5aedab72016a60feff3dd053fc64.png",
-    "website": "https://www.usefini.com",
-    "all_locations": "Amsterdam, NH, Netherlands",
-    "long_description": "Resolve 70% of customer questions with your new AI teammate - helping you\r\nsave costs, and keep your customer happy. Fini securely integrates with your\r\nknowledgebase, and gives you an AI agent, ready 24/7 to solve even the thorniest customer\r\nqueries on Zendesk, Slack, Discord and more",
-    "one_liner": "Turn your knowledgebase into AI chat, in 2 minutes",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1656434795,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Machine Learning",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Netherlands",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fini",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/fini.json"
   },
   {
     "id": 27174,
@@ -20613,50 +20568,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/supercontrast.json"
   },
   {
-    "id": 30043,
-    "name": "Vespper",
-    "slug": "vespper",
-    "former_names": [
-      "Merlinn"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8071a4dd821b17c48fe53b21be58c8dd37534c31.png",
-    "website": "https://vespper.com",
-    "all_locations": "",
-    "long_description": "Vespper is an AI agent running 24/7 to troubleshoot your alerts by surfacing the right data at the right time. It helps teams reduce downtime and alert fatigue by making sure no alert falls through the cracks again. \r\n",
-    "one_liner": "AI agent that troubleshoots production alerts for software engineers,…",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1729555399,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "B2B",
-      "DevOps",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/vespper",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/vespper.json"
-  },
-  {
     "id": 30046,
     "name": "Cekura",
     "slug": "cekura-ai",
@@ -23107,18 +23018,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2842d2a52b047f3cdc0601cc787b7972d74a3bf.png",
     "website": "https://magnitude.run",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is the open-source, vision-first browser agent. \r\n\r\nIt interacts with the browser much like a human would. It’s accurate, reliable, and fully customizable, enabling real production usage.\r\n\r\nYou can use it to automate tasks on the web, intelligently extract data, test your web apps, or as a building block for your own browser agents.\r\n\r\nWe recently achieved a state-of-the-art 94% success rate on the WebVoyager benchmark, beating all other browser agents.",
-    "one_liner": "Open-source, vision-first browser agent",
+    "long_description": "Knowledge workers spend 85% of their day in the browser.\r\n\r\nYet so much of this work is tedious, time-consuming labor.\r\n\r\nAI has revolutionized browser automation - but it's trapped behind APIs, SDKs, and complex interfaces. Tools like UIPath and Zapier tried to help, but they're still too technical, expensive, or complicated.\r\n\r\nWhat if automating your repetitive browser work was as easy as explaining it to a coworker?\r\n\r\nThat’s Magnitude. Simply record yourself taking actions on your browser, talk through the details, and our AI builds your automation. Run it instantly or schedule it - no maintenance required.",
+    "one_liner": "Automate any browser workflow with a narrated screen recording",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751905744,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
-      "Automation",
-      "Infrastructure"
+      "SaaS",
+      "Productivity",
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,

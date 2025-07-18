@@ -579,18 +579,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2842d2a52b047f3cdc0601cc787b7972d74a3bf.png",
     "website": "https://magnitude.run",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Magnitude is the open-source, vision-first browser agent. \r\n\r\nIt interacts with the browser much like a human would. It’s accurate, reliable, and fully customizable, enabling real production usage.\r\n\r\nYou can use it to automate tasks on the web, intelligently extract data, test your web apps, or as a building block for your own browser agents.\r\n\r\nWe recently achieved a state-of-the-art 94% success rate on the WebVoyager benchmark, beating all other browser agents.",
-    "one_liner": "Open-source, vision-first browser agent",
+    "long_description": "Knowledge workers spend 85% of their day in the browser.\r\n\r\nYet so much of this work is tedious, time-consuming labor.\r\n\r\nAI has revolutionized browser automation - but it's trapped behind APIs, SDKs, and complex interfaces. Tools like UIPath and Zapier tried to help, but they're still too technical, expensive, or complicated.\r\n\r\nWhat if automating your repetitive browser work was as easy as explaining it to a coworker?\r\n\r\nThat’s Magnitude. Simply record yourself taking actions on your browser, talk through the details, and our AI builds your automation. Run it instantly or schedule it - no maintenance required.",
+    "one_liner": "Automate any browser workflow with a narrated screen recording",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751905744,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
-      "Automation",
-      "Infrastructure"
+      "SaaS",
+      "Productivity",
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1327,6 +1326,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/autosana",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/autosana.json"
+  },
+  {
+    "id": 30726,
+    "name": "Socratix AI",
+    "slug": "socratix-ai",
+    "former_names": [
+      "Tarkana AI",
+      "Socratix AI, Inc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e2ca9bf4442a297067557ded4df426f78a01f37.png",
+    "website": "https://getsocratix.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Socratix builds AI coworkers for fraud and risk teams so that humans don't have to spend their days drowning in alerts and spreadsheets.\r\n\r\nToday, fraud and risk teams at fintechs and banks are overwhelmed. Analysts jump between tools, manually stitch together context, and make judgment calls under pressure, often for hundreds of alerts a week. Too much of their work is slow, repetitive, and error-prone. We're here to change that. \r\n\r\nSocratix gives fraud and risk teams AI coworkers that investigate alerts in real time, replacing manual reviews with fast, explainable decisions. Socratix agents plug into existing workflows and reason across signals just like human analysts to help teams reduce fraud losses, minimize false positives, and scale operations without scaling headcount.\r\n\r\nWe've seen this problem firsthand. At DoorDash, Riya helped save $30M+ a year by building smarter fraud detection and investigation tooling, and at Unit21, she built products for analysts that made them 3X faster. We're able to build and sell enterprise-grade software. At Cruise, Satya built scalable AI systems powering petabyte-scale data, and at LinkedIn, he built enterprise products from 0 to 1 generating $50M+ in incremental revenue. Now, the two of us are teaming up to eliminate the manual toil in fraud and risk.\r\n\r\nWe're obsessed with fraud, LLMs, real-world automation, and the messy edge cases traditional ML has trouble handling. We believe that every fraud analyst should have an AI coworker - and the future of fraud will involve combining human-level reasoning with machine-speed execution. ",
+    "one_liner": "AI coworkers for fraud and risk teams.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1752778488,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Fraud Prevention",
+      "Fraud Detection",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/socratix-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/socratix-ai.json"
   },
   {
     "id": 30730,
@@ -2108,6 +2153,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/magnetic",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/magnetic.json"
+  },
+  {
+    "id": 30777,
+    "name": "Modelence",
+    "slug": "modelence",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29b7379070cfa5f91e4300dce0bab8471d55a5d0.png",
+    "website": "https://modelence.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring… and you needed them yesterday.\r\n\r\nWe spent a decade at our previous startup, building a platform while scaling to millions of users and customers like Meta & Netflix. Now we put that into an open-source framework, so others wouldn’t have to do the same from scratch.\r\n\r\nModelence is a batteries-included framework that abstracts away boilerplate so you can just focus on building your product logic and nothing else - it’s like Next.js + Vercel + Supabase on a single platform, built for full-stack TypeScript.\r\n\r\nShipping production apps is much harder than building a prototype that runs locally and 95% of all production apps share the same building blocks. We did a massive amount of work on our previous platforms that was not specific to our product, and we’ve created Modelence to abstract that away:\r\n- Authentication\r\n- Database setup\r\n- Hosting / CDN\r\n- AI integration (LLM observability, prompts)\r\n- Real-time events\r\n- Cron jobs\r\n- Email service\r\n- Monitoring\r\n- Analytics\r\n- Admin dashboards\r\n\r\nAndrej Karpathy recently posted about this same exact problem:\r\nhttps://x.com/karpathy/status/1905051558783418370\r\n\r\nand explained it further in his YC AI Startup School talk:\r\nhttps://youtu.be/LCEmiRjPEtQ?feature=shared&t=1940",
+    "one_liner": "All-in-one TypeScript platform for startups",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1752778004,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/modelence",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/modelence.json"
   },
   {
     "id": 30778,

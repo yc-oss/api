@@ -10221,7 +10221,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -10792,7 +10792,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -17421,7 +17421,7 @@
     "all_locations": "New York, NY, USA; Remote",
     "long_description": "We build the tools companies need to provide performant and scalable authorization for their applications.\r\n\r\nWe’re founded by 3 successful entrepreneurs with expertise in enterprise software, most recently as leaders at Red Hat. Jake and Joey met on the APIs team at Google in 2010. They went on to found Quay, where Jimmy joined as their first hire. Over the past decade, they’ve changed the landscape for building and deploying software.",
     "one_liner": "Cloud Infrastructure for Authorization",
-    "team_size": 24,
+    "team_size": 31,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1624982412,
@@ -24184,22 +24184,21 @@
   },
   {
     "id": 24256,
-    "name": "Muse",
-    "slug": "muse",
+    "name": "AI Tech Packs",
+    "slug": "ai-tech-packs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e92fa8ce6691a19c550c68542b31e9bb2237a6c4.png",
-    "website": "https://www.muse.place/",
-    "all_locations": "Sunnyvale, CA, USA; Los Angeles, CA, USA",
-    "long_description": "Muse allows anyone to transform their static website into a virtual world. We do this through our no-code editor,. Our websites are quickly replacing traditional personal websites commonly built using Shopify, Squarespace, or Wix. ",
-    "one_liner": "Build your website as an immersive virtual world. 3D website builder.",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6427a932886d345ee567b4d32212b20d32be6163.png",
+    "website": "https://www.aitechpacks.com",
+    "all_locations": "Sunnyvale, CA, USA",
+    "long_description": "AI Tech Packs turns images into production-ready tech packs within minutes. We allow fashion brands to save hundreds of hours and thousands of dollars otherwise spent creating manual tech packs — which typically cost $100–$500 per style and take days or even weeks to complete.",
+    "one_liner": "Build factory ready tech packs in minutes.",
     "team_size": 2,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "Consumer -> Virtual and Augmented Reality",
     "launched_at": 1625036819,
     "tags": [
       "SaaS",
-      "Virtual Reality",
-      "E-commerce"
+      "Manufacturing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24208,8 +24207,8 @@
     "batch": "Summer 2021",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Virtual and Augmented Reality"
+      "B2B",
+      "Supply Chain and Logistics"
     ],
     "regions": [
       "United States of America",
@@ -24218,12 +24217,12 @@
       "Partly Remote"
     ],
     "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": true,
-    "app_answers": true,
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/muse",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/muse.json"
+    "url": "https://www.ycombinator.com/companies/ai-tech-packs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/ai-tech-packs.json"
   },
   {
     "id": 24268,
@@ -34135,18 +34134,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b044a080c88a5aedab72016a60feff3dd053fc64.png",
     "website": "https://www.usefini.com",
     "all_locations": "Amsterdam, NH, Netherlands",
-    "long_description": "Resolve 70% of customer questions with your new AI teammate - helping you\r\nsave costs, and keep your customer happy. Fini securely integrates with your\r\nknowledgebase, and gives you an AI agent, ready 24/7 to solve even the thorniest customer\r\nqueries on Zendesk, Slack, Discord and more",
-    "one_liner": "Turn your knowledgebase into AI chat, in 2 minutes",
-    "team_size": 5,
+    "long_description": "Fini builds AI agents that autonomously resolve up to 80% of customer support tickets for enterprises specially in Fintech, E-commerce, Gaming and Fitness tech.\r\n\r\nOur agents understand complex workflows, take real actions (like refunds or KYC checks), and improve in real-time. Built on a proprietary knowledge engine, our agents deliver 98%+ accuracy and integrate deeply with tools like Zendesk, Salesforce, and internal APIs.\r\n\r\nEnterprises like Bitdefender and Training Peaks use Fini to slash support costs by 50% while boosting CSAT by 10%.",
+    "one_liner": "Fini | Automate 80% of enterprise support with AI agents",
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1656434795,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Machine Learning",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34156,7 +34155,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Operations"
     ],
     "regions": [
       "Netherlands",
@@ -36154,7 +36153,9 @@
     "id": 27705,
     "name": "Indexical",
     "slug": "indexical",
-    "former_names": [],
+    "former_names": [
+      "Nebula"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffb7d7237c04ef91841ffa6c06007d8d606413a2.png",
     "website": "https://indexical.dev/",
     "all_locations": "San Francisco, CA, USA",
@@ -36176,7 +36177,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -45781,48 +45782,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/excellence-learning.json"
   },
   {
-    "id": 30193,
-    "name": "Orchids",
-    "slug": "orchids",
-    "former_names": [
-      "Fin"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6dcf2376b464fd50045959dc6a710b37dfb75ab2.png",
-    "website": "https://www.orchids.app/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Human design, AI speed",
-    "one_liner": "AI Website Builder",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1737490708,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Web Development"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/orchids",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/orchids.json"
-  },
-  {
     "id": 30197,
     "name": "Alice.tech",
     "slug": "alice-tech",
@@ -47973,6 +47932,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/orange-slice",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/orange-slice.json"
+  },
+  {
+    "id": 30660,
+    "name": "Magnitude",
+    "slug": "magnitude",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2842d2a52b047f3cdc0601cc787b7972d74a3bf.png",
+    "website": "https://magnitude.run",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Knowledge workers spend 85% of their day in the browser.\r\n\r\nYet so much of this work is tedious, time-consuming labor.\r\n\r\nAI has revolutionized browser automation - but it's trapped behind APIs, SDKs, and complex interfaces. Tools like UIPath and Zapier tried to help, but they're still too technical, expensive, or complicated.\r\n\r\nWhat if automating your repetitive browser work was as easy as explaining it to a coworker?\r\n\r\nThat’s Magnitude. Simply record yourself taking actions on your browser, talk through the details, and our AI builds your automation. Run it instantly or schedule it - no maintenance required.",
+    "one_liner": "Automate any browser workflow with a narrated screen recording",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751905744,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Productivity",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/magnitude",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/magnitude.json"
   },
   {
     "id": 30666,
