@@ -365,6 +365,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pond.json"
   },
   {
+    "id": 30627,
+    "name": "Sentinel",
+    "slug": "sentinel",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a052e8aa25b2ceda1151defe0701a1c831075c57.png",
+    "website": "https://yoursentinel.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sentinel is your 24/7 on-call engineer which investigates, diagnoses and suggests resolutions for production issues. Sentinel helps teams reduce alert fatigue and downtime, saving engineers from firefighting so they can focus on building.",
+    "one_liner": "AI on-call engineer",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1752879716,
+    "tags": [
+      "AIOps",
+      "B2B",
+      "DevOps",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sentinel",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/sentinel.json"
+  },
+  {
     "id": 30642,
     "name": "Orange Slice",
     "slug": "orange-slice",
@@ -415,15 +456,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4c71ece046811452b38f77a8c1c6661fdc19925.png",
     "website": "https://www.herdora.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Get DeepSeek's 10x speedup on any hardware without the manual work.",
-    "one_liner": "Get DeepSeek's 10x speedup on any hardware without the manual work.",
+    "long_description": "We built Herdora for every team that can't afford a GPU optimization expert. Herdora takes your janky PyTorch, writes optimized kernels for it in seconds, and keeps them tuned in production. It monitors your inference workloads, catches inefficiencies, and fixes them automatically. You keep shipping fast. Herdora makes it run fast. No CUDA knowledge required.",
+    "one_liner": "Cursor for CUDA",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751530242,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -487,6 +528,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/cyberdesk",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cyberdesk.json"
+  },
+  {
+    "id": 30648,
+    "name": "Janet AI",
+    "slug": "tryjanet",
+    "former_names": [
+      "MeetingToCode"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
+    "website": "https://tryjanet.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Big companies are drowning in Jira tickets. They get thousands of reported issues—most never read by anyone who understands the whole system. De-duping is a chore. Related issues get filed twenty times under different teams. The result: teams spend hundreds of hours just figuring out what the most important items are, before they can even start fixing them.\r\n\r\nJanet AI is the AI-native ticket triage and management layer for Jira.\r\n\r\nJanet AI watches every incoming ticket and immediately compares it to everything that’s come before. It builds a knowledge graph: which tickets look like the same underlying bug, which roll up into the same component failure, which issues share the same root cause. With this, it auto-displays all relationships, auto‑categorizes issues, and surfaces those that matter most.\r\n\r\nBecause the data’s structured, useful questions become instantly answerable. \"What are the highest priority login bugs hitting enterprise customers running version X?\" \"What fixes would unblock the most ARR right now?\"\r\n\r\nSeveral multi‑billion‑dollar enterprises are already in talks with Janet AI to reduce the manual work involved in managing tickets at scale.",
+    "one_liner": "The AI-Native Ticket Triage and Management Layer for Jira",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1752861520,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "DevOps",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tryjanet",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/tryjanet.json"
   },
   {
     "id": 30651,
@@ -654,6 +738,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kestroll",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/kestroll.json"
+  },
+  {
+    "id": 30665,
+    "name": "Pangolin",
+    "slug": "pangolin",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e255c0b8547eae92642ef5a790e42e33f9bed016.png",
+    "website": "https://digpangolin.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pangolin provides a simple way to securely expose applications on private networks with identity-aware access control and high availability. It’s an open-source cloud and self-hosted solution that enables administrators to maintain data sovereignty and control user interaction with essential tools.",
+    "one_liner": "Open-source secure gateway to private networks",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1752801073,
+    "tags": [
+      "Next-gen Network Security",
+      "SaaS",
+      "Open Source",
+      "DevOps",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pangolin",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/pangolin.json"
   },
   {
     "id": 30666,
@@ -832,7 +959,7 @@
     "website": "https://www.useflai.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue.\r\n\r\nWe built Flai to fix this - AI assistants that answer dealership calls 24/7, scheduling test drives, oil changes, or running outbound recall campaigns so no opportunity slips away.\r\n\r\nThe result: No more missed opportunities, no more losing customers to competitors.\r\n\r\nOur founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges.\r\n\r\nWe're not just answering phones, we're helping dealerships win in an AI-first world where availability determine who gets the sale.",
-    "one_liner": "We Bring More Customers to Your Dealership",
+    "one_liner": "We Bring Customers to Your Dealership",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "B2B -> Recruiting and Talent",
@@ -1201,6 +1328,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/perseus-defense",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/perseus-defense.json"
+  },
+  {
+    "id": 30710,
+    "name": "mcp-use",
+    "slug": "mcp-use",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a3741e5c8fc7d9b30c081ec6b9b3a70e387566d.png",
+    "website": "https://mcp-use.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy custom AI agents with MCP servers. \r\nOur library has over 100,000 downloads and 4,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
+    "one_liner": "Open-source dev tools and infrastructure for MCP.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1752861544,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mcp-use",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/mcp-use.json"
   },
   {
     "id": 30713,
@@ -1582,17 +1751,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76b581290f19eb08a9fc677f74b5ecc46cfd20a1.png",
     "website": "https://sira.team",
-    "all_locations": "",
-    "long_description": "",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sira is the AI-powered platform for managing time tracking, scheduling, payroll, and HR — purpose-built for hourly teams.\r\n\r\nOur intelligent agents handle the manual, time-consuming tasks for you — like calling workers to fill open shifts, detecting timesheet anomalies, and streamlining payroll processing.\r\n\r\nWith Sira, businesses stay organized, compliant, and focused on what really matters — while we take care of the team.",
     "one_liner": "AI HR manager for hourly teams",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1752264420,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1605,7 +1774,8 @@
       "Human Resources"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1673,10 +1843,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752688016,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
       "Semiconductors",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -2408,15 +2578,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1826c85adc2f6ea01d50ca7c977e6f72c739c3f.png",
     "website": "http://www.therealroots.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are a marketplace that helps women make new friends in her city via curated matching and guided shared experiences. Users fill out a 10-minute survey, and we match her with a group of compatible women nearby. The group then enjoys a series of 6 bonding experiences, leaving with at least one new friend -- guaranteed.",
-    "one_liner": "RealRoots guarantees women new friendships.",
+    "long_description": "RealRoots is a mobile app that guarantees women lifelong friendships. After a quick 10-minute survey, we match each user with compatible friends nearby. From there, our AI assistant plans thoughtful, recurring hangs - so her social calendar stays full of meaningful connection.",
+    "one_liner": "RealRoots is a mobile app that guarantees women lifelong friendships.",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer -> Social",
     "launched_at": 1750729944,
     "tags": [
       "Marketplace",
-      "Consumer"
+      "Consumer",
+      "Scheduling",
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

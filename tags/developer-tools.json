@@ -12625,7 +12625,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -15259,16 +15259,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Metalware develops advanced firmware security solutions for critical infrastructure, protecting industries like aerospace, defense, automotive, telecom, and healthcare from cyber threats.\r\n\r\nOur product is an automated, intelligent binary fuzzer that enables organizations to efficiently discover and remediate security weaknesses in hardware products before deployment.",
     "one_liner": "Cybersecurity for firmware",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689732876,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Cybersecurity",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17919,18 +17919,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/821f8850dee6e9f14ef87d19a86abcd55976c80c.png",
     "website": "https://unsloth.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Unsloth helps builders create custom models better & faster. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 10 million monthly model downloads and 40K GitHub stars, our mission is to make fine-tuning and open-source the best it can be!",
-    "one_liner": "Open Source Fine-tuning & Training of LLMs",
+    "long_description": "Unsloth helps builders create custom models better & faster using RL and custom kernels. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 10 million monthly model downloads and 40K GitHub stars, our mission is to make training and open-source the best it can be!",
+    "one_liner": "Open-Source Reinforcement Learning (RL) & Fine-tuning for LLMs.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725425996,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Open Source",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21785,15 +21785,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4c71ece046811452b38f77a8c1c6661fdc19925.png",
     "website": "https://www.herdora.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Get DeepSeek's 10x speedup on any hardware without the manual work.",
-    "one_liner": "Get DeepSeek's 10x speedup on any hardware without the manual work.",
+    "long_description": "We built Herdora for every team that can't afford a GPU optimization expert. Herdora takes your janky PyTorch, writes optimized kernels for it in seconds, and keeps them tuned in production. It monitors your inference workloads, catches inefficiencies, and fixes them automatically. You keep shipping fast. Herdora makes it run fast. No CUDA knowledge required.",
+    "one_liner": "Cursor for CUDA",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751530242,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22115,6 +22115,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/summon",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/summon.json"
+  },
+  {
+    "id": 30710,
+    "name": "mcp-use",
+    "slug": "mcp-use",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a3741e5c8fc7d9b30c081ec6b9b3a70e387566d.png",
+    "website": "https://mcp-use.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy custom AI agents with MCP servers. \r\nOur library has over 100,000 downloads and 4,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
+    "one_liner": "Open-source dev tools and infrastructure for MCP.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1752861544,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mcp-use",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/mcp-use.json"
   },
   {
     "id": 30720,

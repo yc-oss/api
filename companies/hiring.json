@@ -8717,7 +8717,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e506d56d7c881b7aaf4341d22a276be88c1ec16.png",
     "website": "https://www.mutinyhq.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "New York, NY, USA",
     "long_description": "Mutiny is an AI Revenue Engine that helps B2B companies unify sales and marketing to break into their most valuable accounts.",
     "one_liner": "AI Revenue Engine to help sales and marketing teams close large…",
     "team_size": 45,
@@ -8725,6 +8725,7 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1526439893,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B"
     ],
@@ -8742,7 +8743,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -31293,6 +31294,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/paragon-ai.json"
   },
   {
+    "id": 26754,
+    "name": "Novig",
+    "slug": "novig",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37d72609fbfc24b4a158ddb750a5b26591ee74b6.png",
+    "website": "https://www.novig.us",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Novig is a sports prediction market that eliminates the need for traditional sportsbooks by creating a two-sided marketplace. \r\n\r\nWe do this by enabling users to trade directly against friends or the market, rather than against the house, making the betting experience more efficient, fair, and, most importantly, profitable. ",
+    "one_liner": "America's #1 Sports Prediction Market",
+    "team_size": 30,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1655052377,
+    "tags": [
+      "Fintech",
+      "Marketplace",
+      "Sports Tech",
+      "Gaming"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/novig",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/novig.json"
+  },
+  {
     "id": 26778,
     "name": "Blee",
     "slug": "blee",
@@ -32058,51 +32101,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alphawatch-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/alphawatch-ai.json"
-  },
-  {
-    "id": 26897,
-    "name": "AviaryAI",
-    "slug": "aviaryai",
-    "former_names": [
-      "Cambio"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c883569550177f7700c6efba769c869c5d530759.png",
-    "website": "http://www.helloaviary.ai",
-    "all_locations": "Chicago, IL, USA",
-    "long_description": "AviaryAI is the industry's first outbound AI service team for banks, credit unions, and insurance companies. In a landscape where only 18% of financial service providers make proactive outbound calls and rely heavily on emails, AviaryAI offers a groundbreaking solution. Powered by a private LLM, our suite of products helps institutions leverage Generative AI while adhering to stringent regulatory and compliance standards.",
-    "one_liner": "Outbound AI voice agents for the financial services industry",
-    "team_size": 8,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1654737893,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aviaryai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/aviaryai.json"
   },
   {
     "id": 26898,
@@ -34049,6 +34047,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/rollstack-2.json"
   },
   {
+    "id": 27693,
+    "name": "Depot",
+    "slug": "depot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4bc0c4958bdeddfb5cee7883f042a17f65e1bd00.png",
+    "website": "https://depot.dev",
+    "all_locations": "Remote",
+    "long_description": "Depot is a build acceleration platform making builds up to 40x faster for Docker containers and GitHub Actions. Companies like PostHog, Wistia, Appsmith, and Secoda use Depot to save tens of hours of build time every day.\r\n\r\nWe offer a remote container build service for building Intel & Arm Docker images, from your CI or local machine, up to 40x faster. Our container builds come with in-depth build insights, ephemeral registries, and instant cache sharing across your team.\r\n\r\nFinally, we also offer our own Depot GitHub Actions Runners that brings all the speed of Depot to your entire GitHub Actions workflow at half the cost of GitHub-hosted runners, and up to 10x faster builds. Simply change the runs-on label of your existing workflow to route jobs to Depot runners.\r\n\r\nKyle and Jacob worked together as staff engineers for 4.5 years at Thorn and Era Software, before founding Depot. Depot is their solution to the wildly inefficient container build tooling and non-performant CI systems they encountered throughout their careers. \r\n",
+    "one_liner": "Build faster. Waste less time.",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1669037258,
+    "tags": [
+      "Developer Tools",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/depot",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/depot.json"
+  },
+  {
     "id": 27697,
     "name": "Lume",
     "slug": "lume-2",
@@ -35861,7 +35899,7 @@
     "all_locations": "Dubai, Dubai, United Arab Emirates",
     "long_description": "Alaan is an AI-powered expense management platform for businesses in the Middle East. We help businesses instantly issue corporate cards for employees, control their spending, and automate receipts. \r\n\r\nOur mission is to simplify finance for businesses in the Middle East and help them prosper. We have grown rapidly and now work with over 500 startups, mid-market, and enterprise customers across various industries, doing tens of millions of dollars in payment volume. We've been default alive since our launch in August 2022 (9x net revenue growth in 2023, 6x in 2024).\r\n\r\nCheck out alaan.com/careers if you want to join us!",
     "one_liner": "AI-powered expense management platform for businesses in the Middle…",
-    "team_size": 90,
+    "team_size": 120,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1671191601,
@@ -39234,16 +39272,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Metalware develops advanced firmware security solutions for critical infrastructure, protecting industries like aerospace, defense, automotive, telecom, and healthcare from cyber threats.\r\n\r\nOur product is an automated, intelligent binary fuzzer that enables organizations to efficiently discover and remediate security weaknesses in hardware products before deployment.",
     "one_liner": "Cybersecurity for firmware",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689732876,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
       "Cybersecurity",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41566,6 +41604,41 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/argon-ai-inc.json"
   },
   {
+    "id": 29268,
+    "name": "Mango Health",
+    "slug": "mango-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e7bf41149065e310ebb8e2e20ade6302ae5d9a50.png",
+    "website": "https://themangohealth.com",
+    "all_locations": "",
+    "long_description": "Mango Health is building the market-leading AI Guide for OCD. OCD is often hidden in plain sight, with research showing it takes an average of 12 years to diagnose, and nearly 2% of the world population affected.  We are on a mission to improve accessibility to the best resources available. With a focus on ERP like sessions, 24/7 support, and countless AI-guided lessons - we are looking to bring motivation and meaning back to the lives of millions at a fraction of the cost of traditional treatment. \r\n\r\nStart today at TheMangoHealth.com :)",
+    "one_liner": "AI Therapy for OCD",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1707477404,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mango-health",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/mango-health.json"
+  },
+  {
     "id": 29269,
     "name": "Garage",
     "slug": "garage-2",
@@ -43582,14 +43655,14 @@
   },
   {
     "id": 29417,
-    "name": "Brainbase",
-    "slug": "brainbase",
+    "name": "Brainbase Labs",
+    "slug": "brainbase-labs",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55b9b557f3faec62dfe5b2755730337e32975f4b.png",
-    "website": "https://usebrainbase.com",
+    "website": "https://brainbaselabs.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Brainbase is an AI workflow automation builder designed to handle complex enterprise workflows. Our customers use us to spin up everything from sales autopilots to full fledged customer support workflows in less than a day.\r\n\r\nSMBs and unicorns choose us over our competitors because we are the only platform that combines the power of AI with the ease and robustness of an off-the-shelf enterprise tool.",
-    "one_liner": "AI workflow automations for enterprise",
+    "long_description": "Brainbase Labs is an applied AI research lab enabling AI in the workforce by building high-fidelity agent environments and tooling.\r\n\r\n",
+    "one_liner": "Applied AI research lab enabling the global AI workforce",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -43619,8 +43692,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/brainbase",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/brainbase.json"
+    "url": "https://www.ycombinator.com/companies/brainbase-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/brainbase-labs.json"
   },
   {
     "id": 29418,
@@ -45443,18 +45516,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/821f8850dee6e9f14ef87d19a86abcd55976c80c.png",
     "website": "https://unsloth.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Unsloth helps builders create custom models better & faster. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 10 million monthly model downloads and 40K GitHub stars, our mission is to make fine-tuning and open-source the best it can be!",
-    "one_liner": "Open Source Fine-tuning & Training of LLMs",
+    "long_description": "Unsloth helps builders create custom models better & faster using RL and custom kernels. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 10 million monthly model downloads and 40K GitHub stars, our mission is to make training and open-source the best it can be!",
+    "one_liner": "Open-Source Reinforcement Learning (RL) & Fine-tuning for LLMs.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725425996,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Open Source",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47448,53 +47521,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/remo",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/remo.json"
-  },
-  {
-    "id": 29819,
-    "name": "Weel",
-    "slug": "weel",
-    "former_names": [
-      "Vizia"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22dac63897681e1a31dc26b877ee786266ae0bff.png",
-    "website": "https://weel.live/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Weel is the next-generation all-in-one driver co-pilot that redefines your driving experience by turning your smartphone into a complete safety and navigation hub. Our free app offers a built-in dashcam with easy video sharing, a smart navigation system, and advanced AI features—such as augmented reality navigation and ADAS—that reduce your risk by up to 30%. Say goodbye to expensive dashcams and complex setups – with Weel, you get complete driving safety and guidance in one free smartphone app.",
-    "one_liner": "GPS & dashcam smartphone app",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1741795332,
-    "tags": [
-      "Augmented Reality",
-      "Computer Vision",
-      "Navigation",
-      "Mobility",
-      "Automotive"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Transportation Services"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/weel",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/weel.json"
   },
   {
     "id": 29820,
@@ -49825,6 +49851,45 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/scout-4.json"
   },
   {
+    "id": 30209,
+    "name": "Closure",
+    "slug": "closure",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5b9a8ffa191d64a12f160ab46ed4cf4f2dd85dc.png",
+    "website": "https://closure-intel.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Law enforcement is drowning in data. Closure helps search it to solve crime. \r\n\r\n- Hiring: UX, Engineering; \r\n- Expanding: Local, state, and federal law enforcement.",
+    "one_liner": "We help law enforcement solve crime",
+    "team_size": 4,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1739862740,
+    "tags": [
+      "GovTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/closure",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/closure.json"
+  },
+  {
     "id": 30215,
     "name": "Contrario",
     "slug": "contrario",
@@ -52111,11 +52176,11 @@
     "slug": "cua",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/482d9c63c12b9cc8259e1f66c9d39433b6cdc003.png",
-    "website": "https://trycua.com",
+    "website": "https://cua.ai",
     "all_locations": "",
     "long_description": "Cua is an open-source framework that enables AI agents to control full operating systems within high-performance, lightweight virtual containers. It delivers up to 90% native speed on Apple Silicon and works with any language models.",
     "one_liner": "Docker for Computer-use Agents",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1744392234,
@@ -52135,7 +52200,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cua",
