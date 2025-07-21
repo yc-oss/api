@@ -96,7 +96,9 @@
     "subindustry": "Unspecified",
     "launched_at": 1752639112,
     "tags": [
-      "Artificial Intelligence"
+      "Developer Tools",
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -944,6 +946,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/parachute.json"
   },
   {
+    "id": 30689,
+    "name": "b-12",
+    "slug": "b-12",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a76216fdba4f1c2c1e164dfb8851692bcc330c5.png",
+    "website": "https://b12-labs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At B-12, we are developing AI agents for automated workflows in chemistry and pharma R&D, as a way of manifesting chemical super intelligence (CSI) in the physical world. We are preparing for the next wave of physical AI, specializing in chemistry.\r\n\r\nOur long-term goal is to create autonomous labs that can plan and perform complex, multistep syntheses with minimal human intervention.",
+    "one_liner": "Developing chemical super intelligence - one agent at a time.…",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1753004647,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/b-12",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/b-12.json"
+  },
+  {
     "id": 30690,
     "name": "Flai",
     "slug": "flai",
@@ -958,10 +1000,10 @@
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1751567522,
     "tags": [
-      "Generative AI",
       "SaaS",
-      "Sales",
-      "Enterprise Software",
+      "Automation",
+      "Operations",
+      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -994,7 +1036,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01ff7048195b1bcbbefd606ad66db21fe272f5e5.png",
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is building AI developer tools for embedded engineers. Our software allows you to upload data sheets, chat with agents and generate production-level driver code in seconds. Near term, we will be giving agents direct access to your hardware, allowing them to flash, test, and debug in real-time. ",
+    "long_description": "Embedder is building developer tools for embedded software.",
     "one_liner": "Cursor for Embedded",
     "team_size": 2,
     "industry": "B2B",
@@ -1108,6 +1150,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/channel3",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/channel3.json"
+  },
+  {
+    "id": 30698,
+    "name": "Comena",
+    "slug": "comena",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cd3632057a23091b73c4c26a68f56e59b7f0ba4.png",
+    "website": "https://comena.ai",
+    "all_locations": "",
+    "long_description": "We build AI agents that automate order processing for industrial distributors and manufacturers. Say goodbye to inside sales teams spending hours on manual data entry. Comena streamlines order and quote entry, from inbox to ERP, freeing up sales teams to focus on high-value activities and proactive selling.",
+    "one_liner": "AI agents for distributors and manufacturers to automate order entry.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1753000104,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Sales",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/comena",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/comena.json"
   },
   {
     "id": 30700,
@@ -1706,7 +1790,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1af9d562299111b9e8590450d36412897ddd8f8.png",
     "website": "https://f4.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Made by ex-Tesla & SpaceX engineers, F4 is a platform that helps you catch and fix drawing compliance issues instantly, so your team doesn’t waste time on back-and-forth reviews or supplier confusion. Clean, standard-compliant drawings reduce the risk of costly scrap and rework by making expectations clear from the start. \r\n\r\nWith a compliant drawing, F4 generates end-to-end drawing interpretations for standard definitions, inspection plan, and tolerance analysis application.\r\n\r\nF4 automatically interprets all GD&T symbols, datums, and notes based on the correct standards - no more second-guessing or misreading intent. Everyone from design to manufacturing sees the same definition, keeping teams aligned and avoiding costly miscommunication.\r\n\r\nF4 generates a complete inspection plan straight from the drawing, so quality teams know exactly what to measure, how, and where. This eliminates manual setup, reduces delays during first article inspection, and helps catch issues before they reach production.\r\n\r\nF4 gives engineers everything they need from the drawing to set up a reliable tolerance analysis, including the critical stack-up paths,  applicable features, and rule exceptions. By making it easy to bridge engineering drawings to tolerance analysis, teams can catch potential fit or function issues early - before parts are fabricated and assembled.\r\n",
+    "long_description": "Built by former Tesla & SpaceX engineers, F4 is a platform that helps you catch and fix drawing compliance issues instantly. F4 ensures design engineers never release noncompliant drawings—and suppliers never misinterpret them. We help hardware teams eliminate costly scrap, rework, and miscommunication at the root.\r\n\r\nWith a compliant drawing, F4 generates end-to-end drawing interpretations for standard definitions, inspection plan, and tolerance analysis application.\r\n\r\nF4 automatically interprets all GD&T symbols, datums, and notes based on the correct standards - no more second-guessing or misreading intent. Everyone from design to manufacturing sees the same definition, keeping teams aligned and avoiding costly miscommunication.\r\n\r\nF4 generates a complete inspection plan straight from the drawing, so quality teams know exactly what to measure, how, and where. This eliminates manual setup, reduces delays during first article inspection, and helps catch issues before they reach production.\r\n\r\nF4 gives engineers everything they need from the drawing to set up a reliable tolerance analysis, including the critical stack-up paths,  applicable features, and rule exceptions. By making it easy to bridge engineering drawings to tolerance analysis, teams can catch potential fit or function issues early - before parts are fabricated and assembled.\r\n",
     "one_liner": "Automating compliance checks for engineering drawings",
     "team_size": 2,
     "industry": "Industrials",
@@ -2121,7 +2205,7 @@
     "name": "Okibi",
     "slug": "okibi",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af540216115eb620b0a79c1b14c025302f855803.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c2f1b7539d172894c5a52bd97c07fa059c46ce1.png",
     "website": "https://okibi.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Whether you're building an internal workflow automation to remove repetitive or time consuming tasks, or launching your own product with Agents, Okibi can help you build it.\r\n\r\nBuilding AI agents typically requires complex, time-consuming setup, including tool calling, LLM syntax management, multi-agent orchestration, browser use, evals, and hosting deployments.\r\n\r\nOur web app provides a chat interface and toolkit to easily create agents. Just describe your agent in natural language, similar to vibecoding, and our app automatically generates your agent's architecture, tool calls, human in the loop, browser user, and runs evals on your agent.\r\n\r\nThis approach significantly reduces development complexity and time.",
@@ -2132,9 +2216,9 @@
     "launched_at": 1752707566,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "B2B",
       "Automation",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
