@@ -8381,6 +8381,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/boundo.json"
   },
   {
+    "id": 26723,
+    "name": "CustomerOS",
+    "slug": "customeros",
+    "former_names": [
+      "Openline"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/02b255dba5cc6178830e11a1fe8f76f6d0c86367.png",
+    "website": "https://customeros.ai",
+    "all_locations": "London, England, United Kingdom; Remote",
+    "long_description": "CustomerOS uncovers high-fit leads who are engaging directly with your brand but not yet in your sales funnel. By lead scoring your pipeline against your ICP we build data-driven profiles of your best customers and provide a real-time ICP-fit indicator so your team doesn't waste time on low-value/high-cost leads. This ensures you're spending your CAC acquiring customers who are primed to renew year after year and expand as they grow.\r\n\r\nThe Top 10% of SaaS companies generate 87% of all market returns. CustomerOS gives you the data and tooling to compete with the top 10%.",
+    "one_liner": "Uncover high-fit leads already silently engaging with your brand",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1657624994,
+    "tags": [
+      "B2B",
+      "Sales",
+      "Marketing",
+      "Advertising",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/customeros",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/customeros.json"
+  },
+  {
     "id": 26733,
     "name": "trebu",
     "slug": "trebu",
@@ -8977,6 +9024,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/100x",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/100x.json"
+  },
+  {
+    "id": 26882,
+    "name": "Coris",
+    "slug": "coris",
+    "former_names": [
+      "Coris Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f8d68f694a6b7f9bb0fb7015ac9814c591f45f5d.png",
+    "website": "https://coris.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Coris is building the AI layer for payments risk and operations. We work with the most ambitious platforms, marketplaces, and payment providers around the globe such as GoFundMe, Kajabi, Clio and Cherry to automate and accelerate merchant onboarding, monitoring, and decision-making. What risk teams only imagined two years ago, Coris is delivering today with our risk platform and AI agents.\r\n\r\nWe’re backed by Y Combinator, Lux Capital, Pathlight Ventures, and other world-class investors — and we’re just getting started !",
+    "one_liner": "AI-powered risk platform for Payment Providers, Banks, SaaS platforms…",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1659411610,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Compliance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/coris",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/coris.json"
   },
   {
     "id": 26885,
@@ -10833,7 +10926,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -12994,15 +13087,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7e8e61ea6d3f763043392069ac87464fc6db2af.png",
     "website": "https://www.atla-ai.com/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Atla helps developers find AI mistakes at scale, so they can build more reliable GenAI applications. Generative AI can only reach its full potential when it consistently produces safe and useful outputs. We train models to catch mistakes, monitor AI performance, and understand critical failure modes.",
-    "one_liner": "We train frontier models to evaluate generative AI",
+    "long_description": "Atla is the eval and improvement platform for AI agents. \r\n\r\nWe help developers cut time spent on manually reviewing traces. Atla’s LLM judge evaluates your agent step-by-step, uncovers error patterns across runs, and suggests specific fixes—so you know exactly what to fix and why.\r\n\r\nAtla supports the most popular agent frameworks teams build with, including LangChain, CrewAI, and OpenAI Agents. With real-time monitoring, automated error detection, and prompt experimentation, Atla gives teams the visibility and control needed to confidently ship agentic systems that work. \r\n\r\nWe’re a team of researchers, engineers, entrepreneurs and operational leaders. Our expertise in evals was honed through training our own purpose-built LLM Judges, Selene and Selene Mini, which are available open-source and have been downloaded 40,000+ times.",
+    "one_liner": "Find and fix AI agent failures",
     "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1687465633,
     "tags": [
+      "AIOps",
       "Artificial Intelligence",
-      "Generative AI",
+      "Developer Tools",
+      "Analytics",
       "AI"
     ],
     "tags_highlighted": [],
@@ -15543,6 +15638,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/duckie.json"
   },
   {
+    "id": 29241,
+    "name": "Maihem",
+    "slug": "maihem",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9018f799ff13c1605703fd892a9f431331770d3.png",
+    "website": "https://www.maihem.com",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Maihem's generative AI platform lets you intuitively direct robots to complete varied tasks in changing environments without manual reprogramming.",
+    "one_liner": "Adaptable AI robots for your complex and dynamic workflows",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1706234384,
+    "tags": [
+      "Robotics",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/maihem",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/maihem.json"
+  },
+  {
     "id": 29245,
     "name": "Kabilah",
     "slug": "kabilah",
@@ -15752,51 +15888,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/poka-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/poka-labs.json"
-  },
-  {
-    "id": 29254,
-    "name": "Reducto",
-    "slug": "reducto",
-    "former_names": [
-      "Remembrall"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9794d4fb523375d125992ce9fa5e9e9db45daf9a.png",
-    "website": "https://reducto.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reducto offers robust and reliable document ingestion for any workflow. Our API allows you to convert complex, unstructured documents into structured outputs that are perfect for RAG, process automation, and more. ",
-    "one_liner": "The most accurate API to parse documents",
-    "team_size": 14,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1704664395,
-    "tags": [
-      "Documents",
-      "Data Engineering",
-      "Enterprise Software",
-      "Search",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reducto",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/reducto.json"
   },
   {
     "id": 29256,
@@ -16848,45 +16939,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/crmcopilot.json"
   },
   {
-    "id": 29355,
-    "name": "phospho",
-    "slug": "phospho",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18adb73f19cdc6d40006f80186b22f0d0a3b08ff.png",
-    "website": "https://phospho.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "phospho aims to provide sdks, tutorials and hardware kits for real-world robotics in Python. The goal is to lower the barrier for entry to robotics so that everyone can start building intelligent robots.",
-    "one_liner": "Give brains to robots",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1704472093,
-    "tags": [
-      "Robotics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/phospho",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/phospho.json"
-  },
-  {
     "id": 29356,
     "name": "Centralize",
     "slug": "centralize",
@@ -17156,53 +17208,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/overeasy",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/overeasy.json"
-  },
-  {
-    "id": 29389,
-    "name": "Delve",
-    "slug": "delve",
-    "former_names": [
-      "Sunona"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe5544e1b1b961aace9e8e6d50ba3a3f37c9ca2d.png",
-    "website": "https://delve.co/?utm_source=yc&utm_medium=bio&utm_campaign=delve",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Delve helps fast-growing teams get compliant with an AI-automated platform.\r\n\r\nServing hundreds of companies on frameworks like SOC 2, HIPAA, ISO 27001, GDPR, PCI DSS, and more.",
-    "one_liner": "AI that makes compliance effortless",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1704449902,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Compliance",
-      "Cybersecurity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/delve",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/delve.json"
   },
   {
     "id": 29390,
@@ -18707,7 +18712,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -21887,6 +21892,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/healthspark",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/healthspark.json"
+  },
+  {
+    "id": 30047,
+    "name": "Cosmic",
+    "slug": "cosmic-new",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5b682e5ea520f8569ed33fc24bbbdaf361e7d7b.png",
+    "website": "https://www.cosmic.new/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The AI platform that has everything you need to build, monetize, and deploy full-stack websites in minutes. \r\n\r\nBeautiful UIs, auth, database, payment processing, deployments, and more natively integrated in one place.",
+    "one_liner": "Build, monetize, and deploy full-stack websites in minutes",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1731874326,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cosmic-new",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/cosmic-new.json"
   },
   {
     "id": 30048,
@@ -26849,46 +26895,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/tryjanet.json"
   },
   {
-    "id": 30653,
-    "name": "Skope",
-    "slug": "skope",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d598c9ae6f0adaf363dce2801fe32db30733e9bd.png",
-    "website": "https://useskope.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building an autonomous revenue engine for nonprofit fundraisers, powered by AI agents. Skope allows organizations to enrich human profiles and make sense of their old data, while constantly finding new ideal donors.",
-    "one_liner": "AI Agents for Nonprofits.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1750879126,
-    "tags": [
-      "Nonprofit",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/skope",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/skope.json"
-  },
-  {
     "id": 30664,
     "name": "Kestroll",
     "slug": "kestroll",
@@ -27098,6 +27104,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/flai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/flai.json"
+  },
+  {
+    "id": 30699,
+    "name": "VibeFlow",
+    "slug": "vibeflow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5596537c1b7f7b2fdc729cd0da77e9c233f79180.png",
+    "website": "https://vibeflow.ai/",
+    "all_locations": "",
+    "long_description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
+    "one_liner": "Prompt to full stack app with visual workflows",
+    "team_size": 0,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1753078619,
+    "tags": [
+      "Developer Tools",
+      "Consumer",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vibeflow",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/vibeflow.json"
   },
   {
     "id": 30700,
@@ -27435,47 +27481,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sira",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/sira.json"
-  },
-  {
-    "id": 30747,
-    "name": "Convexia",
-    "slug": "convexia",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c68bf871c0fe363c6048343df283d9282ab990f4.png",
-    "website": "https://convexia.bio",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "An AI-maximalist pharma platform. We use agents to buy drugs, run clinical trials, and sell for a profit. 10x faster and 20x leaner than incumbents.\r\n\r\nSourcing Agent: Mines public/private databases and unstructured global data to surface overlooked preclinical candidates.\r\nScientific Agent: Runs comp bio models (ESM-3, RFdiffusion, MACE-MP-0) to assess safety and efficacy in silica.\r\nCommercial Agent: Analyzes FDA incentives, pricing dynamics, TAM, competitive landscape, and payer alignment.\r\nClinical Agent: Runs digital twin simulations, evaluates CRO/CMC risk, and builds trial plans to Phase 1.\r\nBD Agent: Summarizes and delivers company-tailored pitches. \r\n\r\nBuilt by 2 Stanford CS students who have built 3 startups together before. ",
-    "one_liner": "AI-maximalist pharma company to buy and sell early-stage drugs",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Drug Discovery and Delivery",
-    "launched_at": 1752301183,
-    "tags": [
-      "AI-powered Drug Discovery",
-      "Biotech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Drug Discovery and Delivery"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/convexia",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/convexia.json"
   },
   {
     "id": 30755,
