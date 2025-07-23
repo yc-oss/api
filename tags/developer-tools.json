@@ -16996,48 +16996,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ragas.json"
   },
   {
-    "id": 29352,
-    "name": "Firebender",
-    "slug": "firebender",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d250e70f93c8178629cc42e1ab9870ef5168dd0d.png",
-    "website": "https://firebender.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Firebender is a free and privacy-first Android Studio AI assistant. \r\n\r\nOne-click install from the IntelliJ plugin marketplace to your IDE. It has context over your codebase and lets you use the best models for asking questions, debugging code, and generating code snippets.\r\n\r\nUnlike other AI assistants with outdated Android knowledge, Firebender continuously updates its knowledge base with the latest Android SDKs, libraries, and best practices, providing more accurate and relevant assistance for Android development.",
-    "one_liner": "Android Studio Coding Assistant",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1707094110,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Enterprise",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/firebender",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/firebender.json"
-  },
-  {
     "id": 29362,
     "name": "Pythagora",
     "slug": "pythagora",
@@ -21124,7 +21082,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -21242,15 +21200,15 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Clidey is building Docucod (https://docucod.com)\r\n\r\nDocucod auto-generates and maintains always-up-to-date documentation—right from your codebase. Your team can move faster, onboard quicker, and stay focused on building.\r\n\r\nSeamless to set up and built for scale, it fits cleanly into any repo—whether you're shipping solo or leading a growing dev team. Docucod tracks your PRs and understands what changes need to be made to the documentation and then makes them.\r\n\r\nFrom onboarding guides to API references and system diagrams, Docucod creates clear, accurate documentation—without slowing you down.\r\n\r\nIt’s developer-first, fully editable, and always in sync—so you never have to choose between speed and quality again.",
     "one_liner": "Documentation made for AI Agents",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747802459,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22171,10 +22129,10 @@
     "subindustry": "Consumer",
     "launched_at": 1753078619,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22407,6 +22365,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nottelabs",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nottelabs.json"
+  },
+  {
+    "id": 30762,
+    "name": "Kernel",
+    "slug": "kernel",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99f219c3bf45966a5083306e113e41c33e2a056a.png",
+    "website": "https://www.onkernel.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Kernel is the best place in the world to launch web agents and browser automations. We handle the hard parts of running browser infrastructure in the cloud so you don’t have to: spinning up browsers quickly, responsive read/write live view, logs, headless vs. headful mode, residential proxies, and more. Our API allows developers to instantly launch browsers in the cloud. Whether you are building a QA agent or a vertical-specific agent to automate back office processes on the internet, Kernel allows you to focus on your core product logic, rather than the infra required for agents to use the web.\r\n\r\nWe're open source, HIPAA compliant (SOC2 Type 2 pending), & compatible with every browser/web agent framework: Playwright, Puppeteer, CUA agents, Browser Use, Magnitude, and more: https://github.com/onkernel",
+    "one_liner": "High performance browsers-as-a-service for web agents & automations",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1753229701,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kernel",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/kernel.json"
   },
   {
     "id": 30772,
