@@ -244,6 +244,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/halluminate.json"
   },
   {
+    "id": 30610,
+    "name": "TraceRoot.AI",
+    "slug": "traceroot-ai",
+    "former_names": [
+      "TraceRoot.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6a2f94d5815730c16fd2b1391d7e23922d6b8bf.png",
+    "website": "https://traceroot.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "TraceRoot.AI is your agentic system for debugging production issues. It has access to logs, traces, source code, commit histories, PRs, issues, Notion, Slack, and more, helping you quickly investigate and resolve issues in complex systems. It visualizes a unified, structured view of your observability data and helps teams debug production issues in complex systems in no time.",
+    "one_liner": "AI agents automatically fix your production bugs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1753318246,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/traceroot-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/traceroot-ai.json"
+  },
+  {
     "id": 30611,
     "name": "AgentMail",
     "slug": "agentmail",
@@ -284,49 +328,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/agentmail",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/agentmail.json"
-  },
-  {
-    "id": 30612,
-    "name": "truthsystems",
-    "slug": "truthsystems",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8136f761e13642b6fed7c2f34b631be3b028652.png",
-    "website": "https://www.truthsystems.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Truth Systems provides a unified compliance agent to govern the use of generative AI across a company's systems. It translates a firm's operational policies into intelligent, real-time guardrails that monitor every AI interaction. This empowers companies to proactively block non-compliant actions and align access to AI tools with user competency. By eliminating the risks and operational blind spots associated with uncontrolled AI adoption, our platform enables enterprises to fully leverage the technology's potential without compromising security. \r\n\r\nWe are establishing the new standard for AI governance, building a future where every professional can innovate safely and confidently.",
-    "one_liner": "Building the unified governance layer for regulated industries, all…",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1753229882,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/truthsystems",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/truthsystems.json"
   },
   {
     "id": 30615,
@@ -509,9 +510,9 @@
     "launched_at": 1752879716,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "B2B",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -520,7 +521,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -1411,14 +1413,14 @@
     "long_description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
     "one_liner": "Prompt to full stack app with visual workflows",
     "team_size": 0,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1753078619,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1427,7 +1429,7 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B"
     ],
     "regions": [
       "Unspecified"
@@ -1484,6 +1486,86 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nozomio",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nozomio.json"
+  },
+  {
+    "id": 30701,
+    "name": "Mimos",
+    "slug": "mimos",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f836a0c8c51e91ad3364666cbc06dd260a0a3c1.png",
+    "website": "https://www.mimos-ai.com/",
+    "all_locations": "",
+    "long_description": "Mimos is an Answer Engine Optimization (AEO) platform designed for regulated experts, starting with Registered Investment Advisors (RIAs). \r\n\r\nWe help highly-regulated companies get discovered and trusted on AI platforms like ChatGPT and Gemini, driving qualified inbound while staying compliant.\r\n\r\n===\r\n\r\nRohit & Mike have been working together on various technical project since middle school (13 years!) - and Mimos came about as one of those projects.",
+    "one_liner": "Helping regulated firms show up in AI search.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1753307750,
+    "tags": [
+      "SaaS",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mimos",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/mimos.json"
+  },
+  {
+    "id": 30702,
+    "name": "Mohi",
+    "slug": "mohi",
+    "former_names": [
+      "Muon"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/202c1f3ef1ad38b089ef5d40eac21bf0a299f83b.png",
+    "website": "https://trymohi.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We help people understand their agent workflows and where they went wrong.\r\n\r\nWe met early on at MIT and built a bunch of projects together for fun. Of course when the AI wave took over, we were excited about agents. We made our own agents, and we always found it annoying figuring out if they consistently worked or not.\r\n\r\nWe believe that it should be easy to know what your agents are doing and why, no matter the use case or the tech stack. So that's exactly what we're helping companies achieve; we started building a few weeks ago and are working with our design partner to get deep observability and insights into their agent executions.\r\n\r\nThe future is autonomous; AI agents will be everywhere. Mohi can make sure that we humans know what these agents are doing.",
+    "one_liner": "Analyze and understand complex agent workflows with clarity.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1753262535,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mohi",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/mohi.json"
   },
   {
     "id": 30703,
@@ -1865,6 +1947,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/socratix-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/socratix-ai.json"
+  },
+  {
+    "id": 30728,
+    "name": "Observee",
+    "slug": "observee",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c5ca7e872c8a9bcea68e50cafff191bddd77013.png",
+    "website": "https://observee.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "All AI Agents rely on external integrations to become truly useful. Our software provides any AI Agent developer with access to over 1,000 MCP integrations through a single API. \r\n\r\nIn the last 6 months, MCP has become the official protocol for connecting AI agents to the outside world. Observee provides developers with Authentication, Observability and Security in one hosted MCP. \r\n\r\nAs AI Agents increasingly take on more manual jobs, they will rely on Observee for underlying infrastructure. ",
+    "one_liner": "Access 1000+ MCP integrations with a single API",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753297896,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/observee",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/observee.json"
   },
   {
     "id": 30730,
@@ -2451,17 +2574,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99f219c3bf45966a5083306e113e41c33e2a056a.png",
     "website": "https://www.onkernel.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kernel is the best place in the world to launch web agents and browser automations. We handle the hard parts of running browser infrastructure in the cloud so you don’t have to: spinning up browsers quickly, responsive read/write live view, logs, headless vs. headful mode, residential proxies, and more. Our API allows developers to instantly launch browsers in the cloud. Whether you are building a QA agent or a vertical-specific agent to automate back office processes on the internet, Kernel allows you to focus on your core product logic, rather than the infra required for agents to use the web.\r\n\r\nWe're open source, HIPAA compliant (SOC2 Type 2 pending), & compatible with every browser/web agent framework: Playwright, Puppeteer, CUA agents, Browser Use, Magnitude, and more: https://github.com/onkernel",
+    "long_description": "Kernel is the best place in the world to launch web agents and browser automations. We handle the hard parts of running browser infrastructure in the cloud so you don’t have to: spinning up browsers quickly, responsive read/write live view, logs, headless vs. headful mode, replays, residential proxies, and more. Our API allows developers to instantly launch browsers in the cloud, so you can focus on your core product logic rather than the infra underneath.\r\n\r\nOur customers use Kernel to launch QA agents, vertical-specific agents that automate back office processes, and more.\r\n\r\nWe're open source, HIPAA-compliant (SOC2 Type 2 pending), & compatible with every browser/web agent framework (Playwright, Puppeteer, CUA, Browser Use, Magnitude, etc). Check us out —> https://github.com/onkernel/kernel-images",
     "one_liner": "High performance browsers-as-a-service for web agents & automations",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1753229701,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Cloud Computing",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

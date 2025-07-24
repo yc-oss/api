@@ -1420,7 +1420,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2077,8 +2077,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d00082c6c460a53f88a48b2d600f61bd2f6b633.png",
     "website": "",
     "all_locations": "New York, NY, USA",
-    "long_description": "",
-    "one_liner": "applied reinforcement learning research laboratory",
+    "long_description": "• Acquired by Scale AI\r\n\r\n\r\n",
+    "one_liner": "Applied Reinforcement Learning Research Laboratory",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -3190,7 +3190,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Operations"
@@ -3902,6 +3902,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/degrees-of-freedom",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/degrees-of-freedom.json"
+  },
+  {
+    "id": 22627,
+    "name": "Atomic Industries",
+    "slug": "atomic-industries",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f2c7d52a1e7ee5e37927e49b00eec598f4faa0f.png",
+    "website": "http://atomic.industries",
+    "all_locations": "Detroit, MI, USA",
+    "long_description": "Atomic's mission is to replicate high-skill trade knowledge of tool and die makers into AI that powers new manufacturing systems which are orders of magnitude more productive.",
+    "one_liner": "The world's first AI powered tool and die maker",
+    "team_size": 25,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1649630827,
+    "tags": [
+      "Hard Tech",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/atomic-industries",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/atomic-industries.json"
   },
   {
     "id": 22638,
@@ -13222,7 +13265,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -15543,7 +15586,9 @@
     "id": 29241,
     "name": "Maihem",
     "slug": "maihem",
-    "former_names": [],
+    "former_names": [
+      "MAIHEM"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9018f799ff13c1605703fd892a9f431331770d3.png",
     "website": "https://www.maihem.com",
     "all_locations": "London, England, United Kingdom",
@@ -15551,7 +15596,7 @@
     "one_liner": "Adaptable AI robots for your complex and dynamic workflows",
     "team_size": 5,
     "industry": "Industrials",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1706234384,
     "tags": [
       "Robotics",
@@ -16141,52 +16186,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arini",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/arini.json"
-  },
-  {
-    "id": 29295,
-    "name": "Artisan",
-    "slug": "artisan",
-    "former_names": [
-      "Artisan AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3aa68965eefe42dc96e16073740dae2087ad188f.png",
-    "website": "https://artisan.co/?utm_source=ycombinator",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Artisan, we're creating AI Employees, called Artisans, and software which is beautiful, easy to use, and replaces the endless stack of point solutions.\r\n\r\nWe're starting with outbound sales. Our platform contains every tool needed for outbound sales - B2B data, AI email sequences, deliverability optimization tools and so much more. \r\n\r\nAva, our AI BDR, operates within our platform. She automates:\r\n- Lead discovery with access to over 300M B2B contacts\r\n- Lead research, with 10s of data sources\r\n- Choosing a sales strategy and writing + sending hyper-personalized emails\r\n- Managing deliverability with a suite of tools - from email warmup to placement tests\r\n\r\nWe're on a mission to create the final boss of software, with every SaaS product needed for sales and AI employees consolidated together in one exceptional platform. \r\n\r\nThis is the next Industrial Revolution.",
-    "one_liner": "AI Employees Called Artisans, Starting With An AI BDR",
-    "team_size": 30,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1698323535,
-    "tags": [
-      "B2B",
-      "Sales",
-      "Automation",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/artisan",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/artisan.json"
   },
   {
     "id": 29306,
@@ -17065,6 +17064,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/overeasy",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/overeasy.json"
+  },
+  {
+    "id": 29389,
+    "name": "Delve",
+    "slug": "delve",
+    "former_names": [
+      "Sunona"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe5544e1b1b961aace9e8e6d50ba3a3f37c9ca2d.png",
+    "website": "https://delve.co/?utm_source=yc&utm_medium=bio&utm_campaign=delve",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Delve helps fast-growing teams get compliant with an AI-automated platform.\r\n\r\nServing hundreds of companies on frameworks like SOC 2, HIPAA, ISO 27001, GDPR, PCI DSS, and more.",
+    "one_liner": "AI that makes compliance effortless",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1704449902,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Compliance",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/delve",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/delve.json"
   },
   {
     "id": 29390,
@@ -18846,6 +18892,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moonglow",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/moonglow.json"
+  },
+  {
+    "id": 29655,
+    "name": "Decisional AI",
+    "slug": "decisional-ai",
+    "former_names": [
+      "Decisional AI, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41aabc8daca51e7697f6edfa19e6601f54841485.png",
+    "website": "https://www.decisional.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Decisional Knowledge Engines accelerates due diligence, fundamental research, and portfolio management for private market financial professionals through an AI-native workspace in a secure sandbox with auditable citations. Firms including Evooq, Meetperry, and Borgman Capital leverage Decisional to transform mountains of sources into finance-grade memos, models, and charts in custom formats within minutes instead of days.",
+    "one_liner": "AI Native workspace for financial professionals",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1723533013,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Finance",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/decisional-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/decisional-ai.json"
   },
   {
     "id": 29666,
@@ -26673,47 +26763,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/cohesive.json"
   },
   {
-    "id": 30627,
-    "name": "Sentinel",
-    "slug": "sentinel",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a052e8aa25b2ceda1151defe0701a1c831075c57.png",
-    "website": "https://yoursentinel.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sentinel is your 24/7 on-call engineer which investigates, diagnoses and suggests resolutions for production issues. Sentinel helps teams reduce alert fatigue and downtime, saving engineers from firefighting so they can focus on building.",
-    "one_liner": "AI on-call engineer",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1752879716,
-    "tags": [
-      "AIOps",
-      "B2B",
-      "DevOps",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sentinel",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/sentinel.json"
-  },
-  {
     "id": 30640,
     "name": "Monarcha",
     "slug": "monarcha",
@@ -27089,6 +27138,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/ghosteye.json"
   },
   {
+    "id": 30699,
+    "name": "VibeFlow",
+    "slug": "vibeflow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5596537c1b7f7b2fdc729cd0da77e9c233f79180.png",
+    "website": "https://vibeflow.ai/",
+    "all_locations": "",
+    "long_description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
+    "one_liner": "Prompt to full stack app with visual workflows",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1753078619,
+    "tags": [
+      "Developer Tools",
+      "Consumer",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vibeflow",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/vibeflow.json"
+  },
+  {
     "id": 30700,
     "name": "Nozomio",
     "slug": "nozomio",
@@ -27132,6 +27221,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nozomio",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nozomio.json"
+  },
+  {
+    "id": 30701,
+    "name": "Mimos",
+    "slug": "mimos",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f836a0c8c51e91ad3364666cbc06dd260a0a3c1.png",
+    "website": "https://www.mimos-ai.com/",
+    "all_locations": "",
+    "long_description": "Mimos is an Answer Engine Optimization (AEO) platform designed for regulated experts, starting with Registered Investment Advisors (RIAs). \r\n\r\nWe help highly-regulated companies get discovered and trusted on AI platforms like ChatGPT and Gemini, driving qualified inbound while staying compliant.\r\n\r\n===\r\n\r\nRohit & Mike have been working together on various technical project since middle school (13 years!) - and Mimos came about as one of those projects.",
+    "one_liner": "Helping regulated firms show up in AI search.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1753307750,
+    "tags": [
+      "SaaS",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mimos",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/mimos.json"
   },
   {
     "id": 30713,
@@ -27551,6 +27678,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/reacher",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/reacher.json"
+  },
+  {
+    "id": 30762,
+    "name": "Kernel",
+    "slug": "kernel",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99f219c3bf45966a5083306e113e41c33e2a056a.png",
+    "website": "https://www.onkernel.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Kernel is the best place in the world to launch web agents and browser automations. We handle the hard parts of running browser infrastructure in the cloud so you don’t have to: spinning up browsers quickly, responsive read/write live view, logs, headless vs. headful mode, replays, residential proxies, and more. Our API allows developers to instantly launch browsers in the cloud, so you can focus on your core product logic rather than the infra underneath.\r\n\r\nOur customers use Kernel to launch QA agents, vertical-specific agents that automate back office processes, and more.\r\n\r\nWe're open source, HIPAA-compliant (SOC2 Type 2 pending), & compatible with every browser/web agent framework (Playwright, Puppeteer, CUA, Browser Use, Magnitude, etc). Check us out —> https://github.com/onkernel/kernel-images",
+    "one_liner": "High performance browsers-as-a-service for web agents & automations",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1753229701,
+    "tags": [
+      "Developer Tools",
+      "Cloud Computing",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kernel",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/kernel.json"
   },
   {
     "id": 30768,
