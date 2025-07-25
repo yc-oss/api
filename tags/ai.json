@@ -3163,6 +3163,59 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/ello.json"
   },
   {
+    "id": 13231,
+    "name": "QueryPie",
+    "slug": "querypie",
+    "former_names": [
+      "CHEQUER",
+      "QueryPie",
+      "CHEQUER",
+      "QueryPie",
+      "HynData",
+      "CHEQUER",
+      "QueryPie",
+      "QueryPie2"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/734a6a33e019411f619b73219afce2e9d4af8ef7.png",
+    "website": "https://www.querypie.com",
+    "all_locations": "San Mateo, CA, USA",
+    "long_description": "QueryPie is the enterprise-ready solution for governing AI-powered access in modern data environments. With native Model Context Protocol (MCP) support and verified integrations with tools like Slack, GitHub, and AWS, QueryPie sets a new standard for secure, centralized access governance.\r\nAs a unified access governance platform based on Zero Trust principles, QueryPie enables organizations to manage and monitor access to databases, servers, Kubernetes clusters, and internal web applications with precision and ease.\r\nTrusted by over 130 enterprises and fully compliant with global standards such as ISMS, PCI-DSS, and GDPR, QueryPie empowers organizations to build secure and scalable data access control frameworks.\r\nWith built-in support for AI infrastructure, QueryPie seamlessly connects large language models (LLMs), AI agents, and MCP servers through a centralized control layer—ensuring that all automated workflows across SaaS tools, cloud environments, and internal systems remain secure, auditable, and compliant.",
+    "one_liner": "QueryPie: Secure Enterprise AI Hub",
+    "team_size": 97,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1606270339,
+    "tags": [
+      "Compliance",
+      "Security",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/querypie",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/querypie.json"
+  },
+  {
     "id": 13273,
     "name": "Dropbase",
     "slug": "dropbase",
@@ -4231,8 +4284,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7aefca6f08e98bcb987bd108cb1bbe99254dd91.png",
     "website": "https://parsagon.io",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Parsagon uses AI to monitor and analyze events from sources across the web. You can use Parsagon to:\r\n\r\n- Collect data on mergers and acquisitions in the news\r\n- Monitor press releases from state and local governments\r\n- Get alerts when bills related to a certain topic are proposed\r\n- And much more!\r\n\r\nJust tell Parsagon what types of events you want to monitor, and our AI will find what's relevant to you.",
-    "one_liner": "Parsagon monitors sources across the web using AI",
+    "long_description": "Parsagon is an AI that can collect and analyze publications from any government body in any jurisdiction. It currently parses and analyzes legislation, press releases, speeches, meeting minutes, executive orders, and much more in 64 countries and counting.\r\n\r\nFortune/Global 500 companies, policy firms, and other organizations are using Parsagon to uncover policy insights in hundreds of jurisdictions that they would otherwise miss. Customers use us to:\r\n\r\n- Analyze changes in US state education policy\r\n- Generate reports on UK financial regulations\r\n- Monitor vaccine policies across the EU\r\n- And much more!",
+    "one_liner": "AI to track and analyze public policy",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4880,7 +4933,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -7112,6 +7165,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/airwork",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/airwork.json"
+  },
+  {
+    "id": 25777,
+    "name": "BotCity",
+    "slug": "botcity",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c9d51d01f280768899d76eff8f510583a2e1614.png",
+    "website": "https://botcity.dev",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "BotCity is a centralized platform that unifies Python scripts generated by AI or humans under a single governance framework, enabling organizations to scale with orchestration, observability, security and governance.",
+    "one_liner": "Observability and Governance for AI-Generated Python scripts.",
+    "team_size": 35,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1644846609,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/botcity",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/botcity.json"
   },
   {
     "id": 25818,
@@ -13892,7 +13989,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -18455,6 +18552,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/variant",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/variant.json"
+  },
+  {
+    "id": 29582,
+    "name": "Cheers",
+    "slug": "cheers",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67c33e0e1229416643c3c04c56495e10ccaea0a.png",
+    "website": "https://www.cheers.tech",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Corporate transformations that fail to engage frontline employees succeed only 3% of the time (McKinsey), because companies lack visibility into individual performance -- making it impossible to optimize the customer experience.\r\n\r\nCheers changes that. Our AI-native platform leverages NFC employee badges and AI agents to transform every employee interaction into measurable data: customers tap to leave reviews, join loyalty programs, download apps, or tip, with each action instantly attributed to the employee responsible.\r\n\r\nThis unlocks the first real-time performance dataset for frontline workers. Managers gain instant insights into who drives 3x more app downloads, which shifts convert highest, and precisely where coaching delivers impact. Vivint powered by Cheers amassed 50,000+ five-star reviews in just 4 months, skyrocketing their Google rating from 2.0 to 4.9 stars.\r\n\r\nCheers empowers your frontline to be as data-driven, measurable, and optimizable as your digital channels.",
+    "one_liner": "Google Analytics for frontline workers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1721413814,
+    "tags": [
+      "Analytics",
+      "Feedback",
+      "AI",
+      "Reviews"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cheers",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/cheers.json"
   },
   {
     "id": 29585,
@@ -24752,49 +24890,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/plexe.json"
   },
   {
-    "id": 30402,
-    "name": "Kashikoi",
-    "slug": "kashikoi",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b53ea02cadc039e2f1da3a4ff49737fadde2b66.png",
-    "website": "https://www.getkashikoi.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kashikoi is a simulation engine to benchmark AI agents. We generate CPU friendly world models that autonomously interview agents and generate deep behavioral assessments. We built a similar technology at Moveworks which was used to ship 250+ enterprise agents to customers daily.",
-    "one_liner": "Simulation Engine for Benchmarking AI Products",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1748454120,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "Machine Learning",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kashikoi",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/kashikoi.json"
-  },
-  {
     "id": 30406,
     "name": "BitBoard",
     "slug": "bitboard",
@@ -26427,47 +26522,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/hemut.json"
   },
   {
-    "id": 30520,
-    "name": "Synthetic Society",
-    "slug": "synthetic-society",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e5d3f91528ae16c7a1f7f4cd1e7a80ccb2ae42a.png",
-    "website": "https://syntheticsociety.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Synthetic Agents to Simulate Real Users",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1752639112,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/synthetic-society",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/synthetic-society.json"
-  },
-  {
     "id": 30523,
     "name": "Mesmer",
     "slug": "mesmer",
@@ -26852,7 +26906,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
     "website": "https://tryjanet.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Big companies are drowning in Jira tickets. They get thousands of reported issues—most never read by anyone who understands the whole system. De-duping is a chore. Related issues get filed twenty times under different teams. The result: teams spend hundreds of hours just figuring out what the most important items are, before they can even start fixing them.\r\n\r\nJanet AI is the AI-native ticket triage and management layer for Jira.\r\n\r\nJanet AI watches every incoming ticket and immediately compares it to everything that’s come before. It builds a knowledge graph: which tickets look like the same underlying bug, which roll up into the same component failure, which issues share the same root cause. With this, it auto-displays all relationships, auto‑categorizes issues, and surfaces those that matter most.\r\n\r\nBecause the data’s structured, useful questions become instantly answerable. \"What are the highest priority login bugs hitting enterprise customers running version X?\" \"What fixes would unblock the most ARR right now?\"\r\n\r\nSeveral multi‑billion‑dollar enterprises are already in talks with Janet AI to reduce the manual work involved in managing tickets at scale.",
+    "long_description": "Big companies are drowning in Jira tickets. They get hundreds if not thousands of reported issues monthly—most never read by anyone who understands the whole system. De-duping is a chore. Related issues get filed twenty times under different teams. The result: teams spend hundreds of hours just figuring out what the most important items are, before they can even start fixing them.\r\n\r\nJanet AI is the AI-native ticket triage and management layer for Jira.\r\n\r\nJanet AI watches every incoming ticket and immediately compares it to everything that’s come before. It builds a knowledge graph: which tickets look like the same underlying bug, which roll up into the same component failure, which issues share the same root cause. With this, it surfaces duplicate or related issues, auto-detects fixes mentioned in these related tickets, and identifies those that matter most.\r\n\r\nBecause the data’s structured, useful questions become instantly answerable using the Janet AI Chat Agent's contextual intelligence. “Are we already tracking issues related to X?” “How should I fix issue PROJ-123?” “What are the most critical issues related to PROJ-456 and how should I prioritize these?”\r\n\r\nSeveral multi‑billion‑dollar enterprises are already in talks with Janet AI to reduce the manual work involved in managing tickets at scale.\r\n\r\nInterested? Check out our tryjanet.ai to watch our demo, book a call, and get started with a free Proof of Concept on your Jira tickets!",
     "one_liner": "The AI-Native Ticket Triage and Management Layer for Jira",
     "team_size": 2,
     "industry": "B2B",

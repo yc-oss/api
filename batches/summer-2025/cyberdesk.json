@@ -6,16 +6,15 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d9c2d052831ff87cd795bb52b99c031e59ac069.png",
   "website": "https://www.cyberdesk.io",
   "all_locations": "San Francisco, CA, USA",
-  "long_description": "Cyberdesk is an open source, self hostable fleet of virtual desktops. We expose a simple API to start and control hundreds of virtual desktops, perfect for building computer use agents that automate repetitive, boring desktop tasks (like data entry).\r\n\r\nUnder the hood, we handle the provisioning of the desktops, a warm pool (for fast boot up times), and sending commands. \r\n\r\nMost importantly, we are fully open source and self-hostable on any Kubernetes cluster, which makes us perfect for agent developers automating in regulated industries such as healthcare, finance, insurance, and more.",
-  "one_liner": "Self hostable fleet of virtual desktops to build computer use agents",
+  "long_description": "Cyberdesk is the computer use agent for Windows apps. Top YC startups in healthcare, finance, and more are using our agent to automate data entry and extraction from EHRs, ERPs, and other legacy Windows software. \r\n\r\nUnder the hood, our intelligent caching system makes automations run deterministically when in the happy path, and with 95% cheaper cost and ~5x speed improvement over computer use. But our system still falls back to computer use in anomalies / edge cases, for extra reliability and safety.\r\n\r\nWe’d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
+  "one_liner": "The computer use agent for automating Windows apps",
   "team_size": 2,
   "industry": "B2B",
   "subindustry": "B2B -> Infrastructure",
   "launched_at": 1749659433,
   "tags": [
     "Developer Tools",
-    "Workflow Automation",
-    "Open Source"
+    "Workflow Automation"
   ],
   "tags_highlighted": [],
   "top_company": false,

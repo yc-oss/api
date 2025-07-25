@@ -7229,7 +7229,7 @@
     "slug": "fiber",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c197a2ce0df4a3fc4f91de4f34e5cbc5268ac0aa.png",
-    "website": "https://fiber.dev",
+    "website": "https://fibersyncs.com",
     "all_locations": "",
     "long_description": "Fibers helps developers ship integrations 10x faster by syncing data from 3rd party APIs with their production databases. ",
     "one_liner": "We help developers pull data from popular APIs to build integrations",
@@ -9022,7 +9022,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb1bd9703c3d809fb7bdbffd00ba201b34509caa.png",
     "website": "https://archil.com",
     "all_locations": "",
-    "long_description": "Archil (fka Regatta Storage) transforms S3 buckets into a 30x faster, unlimited, local disk. Archil enables AI, analytics, and serverless applications to instantly access massive data sets without waiting for data transfer. Researchers use Archil for shareable, local storage of data set and model versions that never runs out of capacity.",
+    "long_description": "Archil transforms S3 buckets into a 30x faster, unlimited, local disk. Archil enables AI, analytics, and serverless applications to instantly access massive data sets without waiting for data transfer. Researchers use Archil for shareable, local storage of data set and model versions that never runs out of capacity.",
     "one_liner": "Transform S3 in an unlimited, local file system",
     "team_size": 3,
     "industry": "B2B",
@@ -9898,16 +9898,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d9c2d052831ff87cd795bb52b99c031e59ac069.png",
     "website": "https://www.cyberdesk.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cyberdesk is an open source, self hostable fleet of virtual desktops. We expose a simple API to start and control hundreds of virtual desktops, perfect for building computer use agents that automate repetitive, boring desktop tasks (like data entry).\r\n\r\nUnder the hood, we handle the provisioning of the desktops, a warm pool (for fast boot up times), and sending commands. \r\n\r\nMost importantly, we are fully open source and self-hostable on any Kubernetes cluster, which makes us perfect for agent developers automating in regulated industries such as healthcare, finance, insurance, and more.",
-    "one_liner": "Self hostable fleet of virtual desktops to build computer use agents",
+    "long_description": "Cyberdesk is the computer use agent for Windows apps. Top YC startups in healthcare, finance, and more are using our agent to automate data entry and extraction from EHRs, ERPs, and other legacy Windows software. \r\n\r\nUnder the hood, our intelligent caching system makes automations run deterministically when in the happy path, and with 95% cheaper cost and ~5x speed improvement over computer use. But our system still falls back to computer use in anomalies / edge cases, for extra reliability and safety.\r\n\r\nWe’d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
+    "one_liner": "The computer use agent for automating Windows apps",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1749659433,
     "tags": [
       "Developer Tools",
-      "Workflow Automation",
-      "Open Source"
+      "Workflow Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9930,6 +9929,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/cyberdesk",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cyberdesk.json"
+  },
+  {
+    "id": 30650,
+    "name": "Imprezia",
+    "slug": "imprezia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcf816765d47aaccb81f4306b7dcf298ccb8337e.png",
+    "website": "https://imprezia.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The first advertising infrastructure designed specifically for AI apps. Seamlessly integrate contextual brands & products that enhance user experience while generating revenue to pay the inference bills.",
+    "one_liner": "The World's First AI-Native Ad Network.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1753378295,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "B2B",
+      "Advertising",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/imprezia",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/imprezia.json"
   },
   {
     "id": 30665,

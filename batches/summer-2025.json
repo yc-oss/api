@@ -86,7 +86,7 @@
     "name": "Synthetic Society",
     "slug": "synthetic-society",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e5d3f91528ae16c7a1f7f4cd1e7a80ccb2ae42a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2b8be4ce1ebb38b874cd798499bbc2de228fc36.png",
     "website": "https://syntheticsociety.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -96,9 +96,9 @@
     "subindustry": "Unspecified",
     "launched_at": 1752639112,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -495,6 +495,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pond.json"
   },
   {
+    "id": 30622,
+    "name": "Symbia",
+    "slug": "symbia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/163bc24ed8ca28aa30e4fe248825489bc41c5d4d.png",
+    "website": "https://symbiauto.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We help biotech, pharma, and CROs plan required regulatory studies and generate clinical trial applications—fast-tracking approval and saving hundreds of hours.",
+    "one_liner": "We automate clinical trial applications",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753401226,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Health Tech",
+      "B2B",
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/symbia",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/symbia.json"
+  },
+  {
     "id": 30627,
     "name": "Sentinel",
     "slug": "sentinel",
@@ -667,16 +711,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d9c2d052831ff87cd795bb52b99c031e59ac069.png",
     "website": "https://www.cyberdesk.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cyberdesk is an open source, self hostable fleet of virtual desktops. We expose a simple API to start and control hundreds of virtual desktops, perfect for building computer use agents that automate repetitive, boring desktop tasks (like data entry).\r\n\r\nUnder the hood, we handle the provisioning of the desktops, a warm pool (for fast boot up times), and sending commands. \r\n\r\nMost importantly, we are fully open source and self-hostable on any Kubernetes cluster, which makes us perfect for agent developers automating in regulated industries such as healthcare, finance, insurance, and more.",
-    "one_liner": "Self hostable fleet of virtual desktops to build computer use agents",
+    "long_description": "Cyberdesk is the computer use agent for Windows apps. Top YC startups in healthcare, finance, and more are using our agent to automate data entry and extraction from EHRs, ERPs, and other legacy Windows software. \r\n\r\nUnder the hood, our intelligent caching system makes automations run deterministically when in the happy path, and with 95% cheaper cost and ~5x speed improvement over computer use. But our system still falls back to computer use in anomalies / edge cases, for extra reliability and safety.\r\n\r\nWe’d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
+    "one_liner": "The computer use agent for automating Windows apps",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1749659433,
     "tags": [
       "Developer Tools",
-      "Workflow Automation",
-      "Open Source"
+      "Workflow Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -710,7 +753,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
     "website": "https://tryjanet.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Big companies are drowning in Jira tickets. They get thousands of reported issues—most never read by anyone who understands the whole system. De-duping is a chore. Related issues get filed twenty times under different teams. The result: teams spend hundreds of hours just figuring out what the most important items are, before they can even start fixing them.\r\n\r\nJanet AI is the AI-native ticket triage and management layer for Jira.\r\n\r\nJanet AI watches every incoming ticket and immediately compares it to everything that’s come before. It builds a knowledge graph: which tickets look like the same underlying bug, which roll up into the same component failure, which issues share the same root cause. With this, it auto-displays all relationships, auto‑categorizes issues, and surfaces those that matter most.\r\n\r\nBecause the data’s structured, useful questions become instantly answerable. \"What are the highest priority login bugs hitting enterprise customers running version X?\" \"What fixes would unblock the most ARR right now?\"\r\n\r\nSeveral multi‑billion‑dollar enterprises are already in talks with Janet AI to reduce the manual work involved in managing tickets at scale.",
+    "long_description": "Big companies are drowning in Jira tickets. They get hundreds if not thousands of reported issues monthly—most never read by anyone who understands the whole system. De-duping is a chore. Related issues get filed twenty times under different teams. The result: teams spend hundreds of hours just figuring out what the most important items are, before they can even start fixing them.\r\n\r\nJanet AI is the AI-native ticket triage and management layer for Jira.\r\n\r\nJanet AI watches every incoming ticket and immediately compares it to everything that’s come before. It builds a knowledge graph: which tickets look like the same underlying bug, which roll up into the same component failure, which issues share the same root cause. With this, it surfaces duplicate or related issues, auto-detects fixes mentioned in these related tickets, and identifies those that matter most.\r\n\r\nBecause the data’s structured, useful questions become instantly answerable using the Janet AI Chat Agent's contextual intelligence. “Are we already tracking issues related to X?” “How should I fix issue PROJ-123?” “What are the most critical issues related to PROJ-456 and how should I prioritize these?”\r\n\r\nSeveral multi‑billion‑dollar enterprises are already in talks with Janet AI to reduce the manual work involved in managing tickets at scale.\r\n\r\nInterested? Check out our tryjanet.ai to watch our demo, book a call, and get started with a free Proof of Concept on your Jira tickets!",
     "one_liner": "The AI-Native Ticket Triage and Management Layer for Jira",
     "team_size": 2,
     "industry": "B2B",
@@ -742,6 +785,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tryjanet",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/tryjanet.json"
+  },
+  {
+    "id": 30650,
+    "name": "Imprezia",
+    "slug": "imprezia",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcf816765d47aaccb81f4306b7dcf298ccb8337e.png",
+    "website": "https://imprezia.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The first advertising infrastructure designed specifically for AI apps. Seamlessly integrate contextual brands & products that enhance user experience while generating revenue to pay the inference bills.",
+    "one_liner": "The World's First AI-Native Ad Network.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1753378295,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "B2B",
+      "Advertising",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/imprezia",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/imprezia.json"
   },
   {
     "id": 30651,
@@ -866,6 +952,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/magnitude",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/magnitude.json"
+  },
+  {
+    "id": 30661,
+    "name": "Stockline",
+    "slug": "stockline",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd3787e9958fd9e9b42a9bb7223fe8689a2863a9.png",
+    "website": "https://stockline.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Stockline is reshaping ERPs to bring innovation to a $990B+ industry left behind by the tech revolution: the food supply chain.\r\n\r\nFood wholesalers still rely on software from the 90s. One symptom among many: they waste hours retyping orders and invoices that arrive through scattered channels like WhatsApp, SMS, and email into their ERPs. Manual admin work takes over. Headcount grows just to handle repetitive tasks.\r\nThis leads to mistakes, tight margins, and food waste.\r\n\r\nStockline replaces outdated ERPs with AI at its core. The game-changer? No more manual data entry. Our AI pulls orders from every channel and feeds them directly into one unified system.\r\n\r\nAdmin disappears. Wholesalers get to focus on what really matters: their products and their customers.",
+    "one_liner": "AI-native ERP for food wholesalers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753355964,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Food",
+      "Food Tech",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stockline",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/stockline.json"
   },
   {
     "id": 30664,
@@ -1026,6 +1154,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dash",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/dash.json"
+  },
+  {
+    "id": 30671,
+    "name": "AgentHub",
+    "slug": "agenthub-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f60bf8bb62884c58ca2344e9db1f1970348a8311.png",
+    "website": "https://www.agenthub.build",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nOur RL simulation engine lets you test, trace, and evaluate agentic workflows using curated and synthetic test cases. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).\r\n\r\nBuilt by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
+    "one_liner": "The simulation and evaluation engine for AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753389326,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Analytics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agenthub-2",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/agenthub-2.json"
   },
   {
     "id": 30675,
@@ -1736,6 +1904,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/perseus-defense.json"
   },
   {
+    "id": 30709,
+    "name": "Novaflow",
+    "slug": "novaflow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/284bcf8fd014c43e486fa3243ceddc4a1b5a8484.png",
+    "website": "https://www.novaflowapp.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Novaflow is an AI data analyst for biology labs. \r\n--\r\nBioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months. ",
+    "one_liner": "Automating data analysis for life science researchers ",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1753390612,
+    "tags": [
+      "Artificial Intelligence",
+      "Biotech",
+      "Analytics",
+      "Genomics",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/novaflow",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/novaflow.json"
+  },
+  {
     "id": 30710,
     "name": "mcp-use",
     "slug": "mcp-use",
@@ -1860,6 +2070,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/finto-de",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/finto-de.json"
+  },
+  {
+    "id": 30719,
+    "name": "April",
+    "slug": "april",
+    "former_names": [
+      "Inbox0"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5d3a6edb5621c81b20be14a648f9b57921bf764.png",
+    "website": "https://tryapril.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "April is a voice powered AI assistant that manages your email and calendar hands-free - helping you reach inbox zero and stay on top of your schedule without looking at a screen.",
+    "one_liner": "Voice AI Executive Assistant",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1753405058,
+    "tags": [
+      "Consumer",
+      "Productivity",
+      "Calendar",
+      "Email",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/april",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/april.json"
   },
   {
     "id": 30720,
