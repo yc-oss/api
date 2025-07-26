@@ -5110,7 +5110,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -7264,50 +7264,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/parsagon",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/parsagon.json"
-  },
-  {
-    "id": 22834,
-    "name": "Alinea",
-    "slug": "alinea",
-    "former_names": [
-      "Alinea Invest"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/309f21a43676330a7d4946870c8eaef1865fe8b0.png",
-    "website": "https://alinea-invest.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Alinea is an app for new investors where we do the hard work for you. With Alinea you have a team of investment experts in your pocket. ",
-    "one_liner": "Automated investing for the next generation 💸",
-    "team_size": 8,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Consumer Finance",
-    "launched_at": 1613165031,
-    "tags": [
-      "Artificial Intelligence",
-      "Education",
-      "Fintech",
-      "Social"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Consumer Finance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alinea",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/alinea.json"
   },
   {
     "id": 22835,
@@ -20629,6 +20585,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/speck.json"
   },
   {
+    "id": 29334,
+    "name": "Decipher AI",
+    "slug": "decipher-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
+    "website": "https://getdecipher.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Decipher’s AI agents watch all your user sessions – helping you identify and act on product issues and insights. \r\n\r\nLoved by fast-growing companies like Pinecone, 11x, and Vial. ",
+    "one_liner": "AI that analyzes your session replays to uncover issues and behavior.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1708738486,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Customer Success",
+      "Analytics",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/decipher-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/decipher-ai.json"
+  },
+  {
     "id": 29335,
     "name": "Toolify",
     "slug": "toolify",
@@ -20712,47 +20711,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clarion",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/clarion.json"
-  },
-  {
-    "id": 29340,
-    "name": "Tamarind Bio",
-    "slug": "tamarind-bio",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f825e68bedd9d6fae6a9628ae002227d27ab4d2.png",
-    "website": "https://www.tamarind.bio",
-    "all_locations": "",
-    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nOur tools are used by thousands researchers in large pharma companies, top biotechs, and academic institutions. We currently focus on models in protein design and engineering, including for antibodies/therapeutics and enzymes.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
-    "one_liner": "Easy to use computational biology tools for drug discovery",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1702859345,
-    "tags": [
-      "AI-powered Drug Discovery",
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Biotech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tamarind-bio",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/tamarind-bio.json"
   },
   {
     "id": 29341,
@@ -23349,6 +23307,47 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/understood-care",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/understood-care.json"
+  },
+  {
+    "id": 29582,
+    "name": "Cheers",
+    "slug": "cheers",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67c33e0e1229416643c3c04c56495e10ccaea0a.png",
+    "website": "https://www.cheers.tech",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cheers magnifies customer-employee interactions by streamlining review generation, loyalty sign-ups, app downloads, and tipping —all of which is instantly attributed to specific employees, teams, locations, and regions. This matters because many companies struggle to measure individual frontline performance, making it difficult to optimize customer experiences. Without buy-in from the frontline, corporate transformations fail 97% of the time (McKinsey).\r\n\r\nOur AI-native platform uses NFC employee badges and AI agents to turn customer interactions into measurable data, unlocking the first real-time performance dataset for frontline workers.\r\n\r\nManagers gain instant insights into who's successfully driving corporate initiatives, enabling them to answer questions like: \"Who's driving the most positive reviews?\", \"Which employees get the most loyalty sign-ups?\", and \"Where will coaching will deliver the most impact?\" Vivint used Cheers to track and incentivize frontline sales staff for positive customer interactions. As a result, workers amassed 50,000+ five-star reviews in just 4 months, skyrocketing their Google rating from 2.0 to 4.9 stars across 400 locations.\r\n\r\nCheers empowers your frontline to be as data-driven, measurable, and optimizable as your digital channels.",
+    "one_liner": "AI for frontline performance metrics",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1721413814,
+    "tags": [
+      "Artificial Intelligence",
+      "Analytics",
+      "Feedback",
+      "Reviews"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cheers",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/cheers.json"
   },
   {
     "id": 29588,
@@ -27225,6 +27224,45 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/gecko-security.json"
   },
   {
+    "id": 30096,
+    "name": "Scout",
+    "slug": "scout-new",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a02216c7c53484d3ad973ad32b59b2140a197d7e.png",
+    "website": "https://scout.new",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Scout is an AI-native software engineering agent. It works asynchronously on its own VM, and is capable of tackling long-horizon tasks on large codebases.",
+    "one_liner": "AI Software Engineer",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1730261485,
+    "tags": [
+      "Artificial Intelligence",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/scout-new",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/scout-new.json"
+  },
+  {
     "id": 30099,
     "name": "Gander",
     "slug": "gander",
@@ -29608,45 +29646,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/notus-autonomous-systems.json"
   },
   {
-    "id": 30419,
-    "name": "Minerva",
-    "slug": "minerva",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a72893a8ced2fe36f593edecbdfff8190562fd6c.png",
-    "website": "https://www.tryminerva.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "From bookkeeping to tax filing—Minerva effortlessly does your business accounting at a fraction of the cost.",
-    "one_liner": "AI to Replace SMB Bookkeepers",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1746913900,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/minerva",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/minerva.json"
-  },
-  {
     "id": 30431,
     "name": "Chonkie",
     "slug": "chonkie",
@@ -30364,49 +30363,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/morphoai.json"
   },
   {
-    "id": 30513,
-    "name": "Eloquent AI",
-    "slug": "eloquent-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af87e3855cde7932b789b7149e717ec9f587f704.png",
-    "website": "https://www.eloquentai.co/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We automate complex, regulated operations in financial services—no APIs, no engineering required.\r\nWe hit $500K ARR in just four weeks because customers deploy instantly.\r\nOur AI Operator learns by observing existing workflows and SOPs, securely controlling browser and desktop applications to automate up to 96% of tasks.\r\n",
-    "one_liner": "The AI Operator for Financial Services",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1743955975,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "B2B",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/eloquent-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/eloquent-ai.json"
-  },
-  {
     "id": 30514,
     "name": "Scalar Field",
     "slug": "scalar-field",
@@ -30616,50 +30572,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mesmer",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/mesmer.json"
-  },
-  {
-    "id": 30524,
-    "name": "Lapel",
-    "slug": "lapel",
-    "former_names": [
-      "Echo Exploration Company, Inc.",
-      "Echo Exploration Co."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43b4720ee8b1c90bf120b33611e6eebe044cd993.png",
-    "website": "https://lapel.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lapel is building a customer operations platform that brings hospitality to the internet: tools to power every touchpoint across sales, success, and support.\r\n\r\nToday, most teams manage relationships through dashboards, funnels, and canned replies—great for metrics, terrible for humans. We believe online customer relationships should feel personal, not transactional.\r\n\r\nLearn more at lapel.com",
-    "one_liner": "Scale personalized service to every customer.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747773891,
-    "tags": [
-      "Artificial Intelligence",
-      "Customer Success",
-      "Sales",
-      "Customer Support"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lapel",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/lapel.json"
   },
   {
     "id": 30529,
@@ -31174,6 +31086,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/agentmail.json"
   },
   {
+    "id": 30612,
+    "name": "truthsystems",
+    "slug": "truthsystems",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8136f761e13642b6fed7c2f34b631be3b028652.png",
+    "website": "https://www.truthsystems.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Truth Systems provides a compliance agent to govern the use of generative AI. It translates a firm's operational policies into intelligent, real-time guardrails that monitor every AI interaction. This empowers companies to proactively block non-compliant actions and align access to AI tools with user competency. By eliminating the risks and operational blind spots associated with uncontrolled AI adoption, our platform enables enterprises to fully leverage the technology's potential without compromising security. \r\n\r\nWe are establishing the new standard for AI governance, building a future where every professional can innovate safely and confidently.",
+    "one_liner": "Building the unified governance layer for regulated industries",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1753229882,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/truthsystems",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/truthsystems.json"
+  },
+  {
     "id": 30615,
     "name": "Lanesurf",
     "slug": "lanesurf",
@@ -31303,7 +31258,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/163bc24ed8ca28aa30e4fe248825489bc41c5d4d.png",
     "website": "https://symbiauto.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help biotech, pharma, and CROs plan required regulatory studies and generate clinical trial applications—fast-tracking approval and saving hundreds of hours.",
+    "long_description": "We help biotechs and CROs generate high-quality IND reports in minutes with AI.",
     "one_liner": "We automate clinical trial applications",
     "team_size": 2,
     "industry": "B2B",
@@ -31423,6 +31378,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/orange-slice",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/orange-slice.json"
+  },
+  {
+    "id": 30648,
+    "name": "Janet AI",
+    "slug": "tryjanet",
+    "former_names": [
+      "MeetingToCode"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
+    "website": "https://tryjanet.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Big companies are drowning in Jira tickets. They get hundreds if not thousands of reported issues monthly—most never read by anyone who understands the whole system. De-duping is a chore. Related issues get filed twenty times under different teams. The result: teams spend hundreds of hours just figuring out what the most important items are, before they can even start fixing them.\r\n\r\nJanet AI is the AI-native ticket triage and management layer for Jira.\r\n\r\nJanet AI watches every incoming ticket and immediately compares it to everything that’s come before. It builds a knowledge graph: which tickets look like the same underlying bug, which roll up into the same component failure, which issues share the same root cause. With this, it surfaces duplicate or related issues, auto-detects fixes mentioned in these related tickets, and identifies those that matter most.\r\n\r\nBecause the data’s structured, useful questions become instantly answerable using the Janet AI Chat Agent's contextual intelligence. “What are the highest priority login bugs hitting enterprise customers running version X?” “How should I fix issue PROJ-123?” “What are the most critical issues related to PROJ-456 and how should I prioritize these?”\r\n\r\nSeveral multi‑billion‑dollar enterprises are already in talks with Janet AI to reduce the manual work involved in managing tickets at scale.\r\n\r\nInterested? Check out our tryjanet.ai to watch our demo, book a call, and get started with a free Proof of Concept on your Jira tickets!",
+    "one_liner": "The AI-Native Ticket Triage and Management Layer for Jira",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1752861520,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "DevOps"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tryjanet",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/tryjanet.json"
   },
   {
     "id": 30650,
@@ -32012,6 +32010,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/mcp-use.json"
   },
   {
+    "id": 30713,
+    "name": "Motives",
+    "slug": "motives",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ccc0035baccfcafd8c4eccd692ca8198963efca.png",
+    "website": "https://motives.ai/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Motives is a team of AI agents that runs qualitative research projects for consumer brands: moderating and analyzing video interviews to help brands understand consumer preferences and test new ideas, in hours instead of weeks. \r\n\r\n",
+    "one_liner": "Qualitative consumer research run by AI",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1752263741,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Marketing",
+      "Market Research"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/motives",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/motives.json"
+  },
+  {
     "id": 30716,
     "name": "Finto",
     "slug": "finto-de",
@@ -32264,6 +32304,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/convexia.json"
   },
   {
+    "id": 30754,
+    "name": "Locata",
+    "slug": "locata",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f90ca5cca8a2d750b52199dcc520e1fbffdbb6.png",
+    "website": "https://www.locatahealth.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Locata is an AI referral management platform for Primary Care practices. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary Care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in CS. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in CS, specializing in AI, before working as a software engineer at Google, developing AI products that served over 1 billion users.\r\n\r\nIn just three weeks, we’ve secured $80K ARR and are in the process of taking our first customer live.",
+    "one_liner": "AI referral management for Primary Care Practices",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1753486430,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Health Tech",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/locata",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/locata.json"
+  },
+  {
     "id": 30759,
     "name": "Certus AI",
     "slug": "certus-ai",
@@ -32279,7 +32361,10 @@
     "launched_at": 1753135662,
     "tags": [
       "Artificial Intelligence",
-      "Restaurant Tech"
+      "SaaS",
+      "B2B",
+      "Restaurant Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32353,8 +32438,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77a0945ae8c271b92f411a28c4d7ed11be60ad29.png",
     "website": "https://stagewise.io",
     "all_locations": "Bielefeld, NRW, Germany",
-    "long_description": "stagewise is the first frontend coding agent for existing production-grade web apps. It lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project. Our agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like “make it green and put it in the top right corner”, and immediately seeing the result.\r\n\r\nWe are two German engineers who met while working at a B2B SaaS startup. With backgrounds in both enterprise engineering (Rheinmetall, dSPACE) and building web apps used by thousands, we have the unique blend of discipline and product sense needed to build this.\r\n\r\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we’re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\r\n\r\nOur vision is to empower anyone to create well-designed applications, regardless of their technical skill. We start with developers who lack design experience, but our ultimate goal is to change how products are built. stagewise will enable non-technical stakeholders - product managers, designers, and marketers - to directly iterate on the UI themselves, creating a new, collaborative workflow and making us the essential tool for building on the web.",
-    "one_liner": "A frontend coding agent that lives inside your browser on localhost.",
+    "long_description": "stagewise is the first frontend coding agent for existing production-grade web apps. It lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project.\r\n\r\nOur agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like “make it green and put it in the top right corner”, and immediately seeing the result.\r\n\r\nWe're two founders from Germany who met while working at a B2B SaaS startup. With backgrounds in both enterprise engineering (Rheinmetall, dSPACE) and building web apps used by thousands, we have the unique blend of discipline and product sense needed to build this.\r\n\r\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we’re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\r\n\r\nOur vision is to empower anyone to create well-designed applications, regardless of their technical skill. We start with developers who lack design experience, but our ultimate goal is to change how products are built. stagewise will enable non-technical stakeholders - product managers, designers, and marketers - to directly iterate on the UI themselves, creating a new, collaborative workflow and making us the essential tool for building on the web.",
+    "one_liner": "The frontend coding agent for production codebases",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

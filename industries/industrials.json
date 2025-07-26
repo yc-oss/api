@@ -4593,18 +4593,18 @@
   },
   {
     "id": 12096,
-    "name": "Maple Materials (fka Saratoga Energy)",
-    "slug": "maple-materials-fka-saratoga-energy",
+    "name": "Maple Materials",
+    "slug": "maple-materials",
     "former_names": [
       "Saratoga Energy Research Partners",
       "LLC"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3822ef4eba7294b4ec36e7ecdbc27b2475f2b17.png",
     "website": "http://maplematerials.com",
-    "all_locations": "Richmond, CA, USA; Berkeley, CA, USA",
+    "all_locations": "Richmond, CA, USA",
     "long_description": "Maple Materials, Inc. (Richmond, California) develops a low-cost electrolysis process to split carbon dioxide into graphite and oxygen. Due to several unique features of our production process and product, we have potential to produce battery-grade graphite anode material one-third the cost of current graphite anode materials. When powered by renewables, this process has the potential to be carbon negative.",
-    "one_liner": "We turn CO2 into graphite and oxygen.",
-    "team_size": 4,
+    "one_liner": "We turn CO2 into battery-grade graphite and oxygen.",
+    "team_size": 6,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1541721764,
@@ -4632,8 +4632,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/maple-materials-fka-saratoga-energy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/maple-materials-fka-saratoga-energy.json"
+    "url": "https://www.ycombinator.com/companies/maple-materials",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/maple-materials.json"
   },
   {
     "id": 12267,
@@ -11201,7 +11201,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec6cf435222465cfd6d7908d7b853c7edb7ab66d.png",
     "website": "https://guardianrf.com/",
     "all_locations": "Washington, DC, USA",
-    "long_description": "The rise of weaponized drones has fundamentally transformed security threats both in warfare and civilian contexts. In Ukraine, $500 modified commercial drones regularly neutralize million-dollar military assets. At our southern border, cartels use drones to smuggle fentanyl and survey law enforcement positions. Critical infrastructure, military bases, and correctional facilities face unprecedented vulnerability to unauthorized surveillance and drone-based attacks.\r\n\r\nFounded in 2024, Guardian RF develops advanced RF spectrum sensors to protect against this evolving threat landscape. Our technology has been battle-tested in Ukraine, where consumer drones converted into precise guided missiles have become a daily reality. Unlike traditional systems that rely on regulatory compliance, our sensors can detect modified and non-Remote ID compliant drones from up to 3 km away, accurately pinpointing both drone and operator locations.\r\n\r\nWhat sets us apart is our distributed mesh network of sensors combining advanced Software Defined Radio (SDR) technology with AI-driven signal classification. Trained on extensive combat zone datasets, our system processes RF signatures in real-time across multiple frequency bands, catching even sophisticated stealth drones using frequency-hopping protocols. When a threat is detected, the system delivers precise targeting data while maintaining continuous tracking.\r\n\r\nOur product line includes:\r\n- Scout Detector: A handheld drone detector for rapid deployment and portability\r\n- Mosaic Sensor Network: A scalable mesh network of RF sensors for detecting, tracking, and mapping drone activity across expansive areas\r\n\r\nThe stakes are severe: along our borders, cartel drones facilitate trafficking that costs thousands of lives annually. In prisons, a single successful drone contraband delivery can trigger facility-wide violence. For critical infrastructure, a coordinated drone strike could cause billions in business interruption losses. Traditional drone defense systems, often priced in the millions, are cost-prohibitive for most organizations.\r\n\r\nGuardian RF bridges this critical gap with accessible, effective protection. Our AI classification engine recognizes various control protocols including modified ExpressLRS, Crossfire, and DJI variants, providing early warning of threats that traditional systems miss entirely. The system's fully automated detection, tracking, and response mechanisms ensure continuous protection with minimal operational overhead.\r\n\r\nBuilt and manufactured in the United States, Guardian RF combines field-proven technology with real-world deployment experience to counter modern drone threats. Whether safeguarding critical infrastructure, securing borders, or supporting defense operations, our systems deliver the comprehensive drone detection capabilities needed for today's security challenges.",
+    "long_description": "The rise of low-cost commercial drones has introduced a new class of asymmetric threats to U.S. national security. Off-the-shelf platforms now deliver ISR, contraband, or payloads with precision, while operating below radar coverage and beyond line-of-sight. These systems—often costing under $1,000—are capable of neutralizing multi-million-dollar defense assets. For drone detection to be viable at scale, sensors must achieve cost parity with the threat.\r\n\r\nIn response, the Department of Defense established multiple initiatives to counter the rapid proliferation of uncrewed aerial systems. The Joint Counter-small UAS Office (JCO) coordinates policy and acquisition across services. The Base Defense Cross-Functional Team enables persistent perimeter security for CONUS and OCONUS installations. Falcon Peak, Red Sands, and related exercises are accelerating deployment of counter-UAS technologies in complex environments.\r\n\r\nThis threat is no longer exclusive to military operations overseas. It now directly targets the U.S. homeland. In 2025, an executive order designated the protection of American airspace sovereignty a national priority, recognizing that uncrewed systems present both surveillance and kinetic risks within the United States. That same year, a domestic extremist plotted to destroy a Tennessee power substation using a drone rigged with C-4 explosives—a plan disrupted by undercover federal agents. In July 2025, an unauthorized drone collided with a rescue helicopter during disaster response operations in Kerr County, Texas, forcing an emergency landing and halting flood relief efforts. These are not isolated incidents—they reflect a broader shift in drone-enabled threats against homeland infrastructure and public safety.\r\n\r\nGuardian RF builds passive, radiofrequency-based drone detection systems for force protection and critical infrastructure defense inside the United States. Our systems are fielded under an AFWERX Direct-to-Phase-II SBIR with the 30th Security Forces Squadron at Vandenberg Space Force Base, deployed by local and state law enforcement, and integrated into commercial security operations. We were selected as a finalist for Falcon Peak 25.2, the Department of Defense’s premier counter-UAS exercise.\r\n\r\nScout is a passive RF sensor for fixed, mobile, or temporary deployments. It detects and classifies drone control signals—including modified variants of DJI, Crossfire, and ExpressLRS—at standoff ranges. Scout supports direct integration into TAK and other operational APIs and is managed through GRF-SECURE, our secure interface for live monitoring, threat alerting, and forensic review.\r\n\r\nMosaic extends coverage in austere environments, enabling persistent low-altitude monitoring and classification of non–Remote ID drones across complex terrain—without active emissions or mesh dependency.\r\n\r\nBuilt in the United States, Guardian RF delivers scalable, automated, and cost-aligned drone detection—passive by design and hardened for real-world deployment across the homeland.",
     "one_liner": "Drone detection for US defense and national security  ",
     "team_size": 3,
     "industry": "Industrials",
@@ -11687,7 +11687,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97af6428ccfdfbaa94b52ffdadc13d8b1f2609b3.png",
     "website": "https://www.enhancedradar.com/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Enhanced Radar is building better, safer air traffic control systems.",
     "one_liner": "AI for air traffic control",
     "team_size": 2,
@@ -11706,7 +11706,8 @@
       "Aviation and Space"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -12933,6 +12934,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sava",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/sava.json"
+  },
+  {
+    "id": 30624,
+    "name": "Verne Robotics",
+    "slug": "verne-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5269f6d79e30684caf364186460e59b077c11551.png",
+    "website": "https://vernerobotics.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build AI software for robotic arms to learn new skills in hours. Our first customer is a unicorn biotech company that uses our robots to package chemical vials and icepacks.",
+    "one_liner": "AI software for autonomous robot arms",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1753480338,
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/verne-robotics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/verne-robotics.json"
   },
   {
     "id": 30690,

@@ -4319,6 +4319,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/parsagon.json"
   },
   {
+    "id": 22834,
+    "name": "Alinea",
+    "slug": "alinea",
+    "former_names": [
+      "Alinea Invest"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/309f21a43676330a7d4946870c8eaef1865fe8b0.png",
+    "website": "https://alinea-invest.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Alinea is an app for new investors where we do the hard work for you. With Alinea you have a team of investment experts in your pocket. ",
+    "one_liner": "Automated investing for the next generation 💸",
+    "team_size": 12,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1613165031,
+    "tags": [
+      "Education",
+      "Fintech",
+      "Social",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/alinea",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/alinea.json"
+  },
+  {
     "id": 22850,
     "name": "Quadrant Health",
     "slug": "quadrant-health",
@@ -5388,7 +5432,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -16585,24 +16629,24 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/lemon-slice.json"
   },
   {
-    "id": 29334,
-    "name": "Decipher AI",
-    "slug": "decipher-ai",
+    "id": 29340,
+    "name": "Tamarind Bio",
+    "slug": "tamarind-bio",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
-    "website": "https://getdecipher.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Decipher’s AI agents watch all your user sessions – helping you identify and act on product issues and insights. \r\n\r\nLoved by fast-growing companies like Exa, Pinecone, and 11x. ",
-    "one_liner": "AI that analyzes your session replays to uncover issues and behavior.",
-    "team_size": 3,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f825e68bedd9d6fae6a9628ae002227d27ab4d2.png",
+    "website": "https://www.tamarind.bio",
+    "all_locations": "",
+    "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nOur tools are used by thousands researchers in large pharma companies, top biotechs, and academic institutions. We currently focus on models in protein design and engineering, including for antibodies/therapeutics and enzymes.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
+    "one_liner": "Easy to use computational biology tools for drug discovery",
+    "team_size": 6,
     "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1708738486,
+    "subindustry": "B2B",
+    "launched_at": 1702859345,
     "tags": [
+      "AI-powered Drug Discovery",
+      "SaaS",
       "B2B",
-      "Customer Success",
-      "Analytics",
-      "Enterprise Software",
+      "Biotech",
       "AI"
     ],
     "tags_highlighted": [],
@@ -16612,20 +16656,18 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/decipher-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/decipher-ai.json"
+    "url": "https://www.ycombinator.com/companies/tamarind-bio",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/tamarind-bio.json"
   },
   {
     "id": 29342,
@@ -18554,47 +18596,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/variant.json"
   },
   {
-    "id": 29582,
-    "name": "Cheers",
-    "slug": "cheers",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67c33e0e1229416643c3c04c56495e10ccaea0a.png",
-    "website": "https://www.cheers.tech",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corporate transformations that fail to engage frontline employees succeed only 3% of the time (McKinsey), because companies lack visibility into individual performance -- making it impossible to optimize the customer experience.\r\n\r\nCheers changes that. Our AI-native platform leverages NFC employee badges and AI agents to transform every employee interaction into measurable data: customers tap to leave reviews, join loyalty programs, download apps, or tip, with each action instantly attributed to the employee responsible.\r\n\r\nThis unlocks the first real-time performance dataset for frontline workers. Managers gain instant insights into who drives 3x more app downloads, which shifts convert highest, and precisely where coaching delivers impact. Vivint powered by Cheers amassed 50,000+ five-star reviews in just 4 months, skyrocketing their Google rating from 2.0 to 4.9 stars.\r\n\r\nCheers empowers your frontline to be as data-driven, measurable, and optimizable as your digital channels.",
-    "one_liner": "Google Analytics for frontline workers",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1721413814,
-    "tags": [
-      "Analytics",
-      "Feedback",
-      "AI",
-      "Reviews"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cheers",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/cheers.json"
-  },
-  {
     "id": 29585,
     "name": "Mem0",
     "slug": "mem0",
@@ -19758,7 +19759,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -24227,7 +24228,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Riviera builds AI Employees for Hotels. Our first agent is a hotel phone receptionist that lets hotels spend less time answering phone calls and more time helping customers. Our system handles front-desk inquiries, in-room dining orders, and reservations. It answers every question instantly and in any language, 24/7.\r\n\r\nWe are solving a problem that older phone systems and IVRs can't: customers hate not being able to talk to someone immediately, but most travel businesses can’t dedicate additional staff to manage phone lines. Voice AI has always seemed out of reach because the technology infrastructure in the travel industry is often fragmented, with reservation systems, loyalty programs, and in-house operations software that weren’t designed with voice AI in mind. Riviera addresses this by integrating seamlessly with existing software providers and using human-sounding voice models that are highly trained on data specific to each business type and department.\r\n\r\nHotels spend hundreds of billions annually on staffing and risk losing potential revenue when phone lines are overwhelmed or callers hang up. By enabling them to handle unlimited calls, day or night, Riviera unlocks additional revenue and eases labor challenges.\r\n",
     "one_liner": "AI Employees for Hotels",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "launched_at": 1737322900,
@@ -26399,6 +26400,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/sygaldry-technologies.json"
   },
   {
+    "id": 30513,
+    "name": "Eloquent AI",
+    "slug": "eloquent-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af87e3855cde7932b789b7149e717ec9f587f704.png",
+    "website": "https://www.eloquentai.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We automate complex, regulated operations in financial services—no APIs, no engineering required.\r\nWe hit $500K ARR in just four weeks because customers deploy instantly.\r\nOur AI Operator learns by observing existing workflows and SOPs, securely controlling browser and desktop applications to automate up to 96% of tasks.\r\n",
+    "one_liner": "The AI Operator for Financial Services",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1743955975,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/eloquent-ai",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/eloquent-ai.json"
+  },
+  {
     "id": 30516,
     "name": "Bramante Biologics",
     "slug": "bramante-biologics",
@@ -26817,6 +26861,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/cohesive.json"
   },
   {
+    "id": 30624,
+    "name": "Verne Robotics",
+    "slug": "verne-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5269f6d79e30684caf364186460e59b077c11551.png",
+    "website": "https://vernerobotics.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build AI software for robotic arms to learn new skills in hours. Our first customer is a unicorn biotech company that uses our robots to package chemical vials and icepacks.",
+    "one_liner": "AI software for autonomous robot arms",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1753480338,
+    "tags": [
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/verne-robotics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/verne-robotics.json"
+  },
+  {
     "id": 30640,
     "name": "Monarcha",
     "slug": "monarcha",
@@ -26895,49 +26979,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/herdora",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/herdora.json"
-  },
-  {
-    "id": 30648,
-    "name": "Janet AI",
-    "slug": "tryjanet",
-    "former_names": [
-      "MeetingToCode"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
-    "website": "https://tryjanet.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Big companies are drowning in Jira tickets. They get hundreds if not thousands of reported issues monthly—most never read by anyone who understands the whole system. De-duping is a chore. Related issues get filed twenty times under different teams. The result: teams spend hundreds of hours just figuring out what the most important items are, before they can even start fixing them.\r\n\r\nJanet AI is the AI-native ticket triage and management layer for Jira.\r\n\r\nJanet AI watches every incoming ticket and immediately compares it to everything that’s come before. It builds a knowledge graph: which tickets look like the same underlying bug, which roll up into the same component failure, which issues share the same root cause. With this, it surfaces duplicate or related issues, auto-detects fixes mentioned in these related tickets, and identifies those that matter most.\r\n\r\nBecause the data’s structured, useful questions become instantly answerable using the Janet AI Chat Agent's contextual intelligence. “Are we already tracking issues related to X?” “How should I fix issue PROJ-123?” “What are the most critical issues related to PROJ-456 and how should I prioritize these?”\r\n\r\nSeveral multi‑billion‑dollar enterprises are already in talks with Janet AI to reduce the manual work involved in managing tickets at scale.\r\n\r\nInterested? Check out our tryjanet.ai to watch our demo, book a call, and get started with a free Proof of Concept on your Jira tickets!",
-    "one_liner": "The AI-Native Ticket Triage and Management Layer for Jira",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1752861520,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "DevOps",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tryjanet",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tryjanet.json"
   },
   {
     "id": 30664,
@@ -27315,48 +27356,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/mimos.json"
   },
   {
-    "id": 30713,
-    "name": "Motives",
-    "slug": "motives",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ccc0035baccfcafd8c4eccd692ca8198963efca.png",
-    "website": "https://motives.ai/",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Motives is a team of AI agents that runs qualitative research projects for consumer brands: moderating and analyzing video interviews to help brands understand consumer preferences and test new ideas, in hours instead of weeks. \r\n\r\n",
-    "one_liner": "Qualitative consumer research run by AI",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1752263741,
-    "tags": [
-      "B2B",
-      "Marketing",
-      "Market Research",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/motives",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/motives.json"
-  },
-  {
     "id": 30716,
     "name": "Finto",
     "slug": "finto-de",
@@ -27688,6 +27687,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nottelabs",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nottelabs.json"
+  },
+  {
+    "id": 30759,
+    "name": "Certus AI",
+    "slug": "certus-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4913536f9defe2e375acb9a499aa2ac443e9dc95.png",
+    "website": "https://www.certus-ai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Certus AI is replacing the restaurant phone line with Voice AI.\r\n\r\nRestaurants lose up to $100,000 per year per location from missed calls, lost orders, and abandoned hold lines. Staff are overwhelmed. IVRs frustrate customers. Call centers are expensive and impersonal.\r\n\r\nIt’s 2025. Guests don’t leave voicemails or wait on hold. They just move on.\r\n\r\nCertus is an AI voice agent built for restaurants. It answers every call, 24/7 — taking orders, processing deliveries, booking reservations, upselling, and handling complaints in English, Spanish, French and more. Certus is built to manage the phone line end to end, from the customer call to the restaurant tech stack, with zero human intervention required. It currently integrates with industry-leading systems like Toast, Square, Clover, UberEats, DoorDash, and more.\r\n\r\nWe’re building the voice layer of the modern restaurant — the employee they’ll never fire.\r\n\r\nWe started Certus because we lived the pain. Gurveer (CEO) grew up answering phones in his family’s restaurant and helped operate them, growing from 1 to 11 locations in 7 years. Later, he and Adam (CRO) ran a restaurant growth startup to help others increase revenue, but kept watching clients bleed cash because no one picked up the phone. So we built the solution the industry always wished existed.\r\n\r\nUntil now, this problem was considered unsolvable. But Voice AI has finally crossed the conversational chasm and 72% of consumers now prefer AI over humans as long as it means faster and better service.\r\n\r\nMore importantly, the market is begging for this. The North American restaurant industry crossed $1 trillion in 2024, and it's projected to hit $1.5 trillion in 2025. Yet over $100 billion is still lost annually to missed calls, human error, and outdated tech. As the market continues to grow, so do the losses!\r\n\r\nOur customers say it best:\r\n\r\n- “Certus changed my life overnight.”\r\n- “We were losing the ability to give great in-house service — the phone was killing us.”\r\n-  “70% of my business comes through the phone. That’s mine and my 16 staffs livelihood.”\r\n- “Before Certus, I used to lose 40 - 60 calls a day…. now my printer just stays printing!”\r\n-  “I’ve been in the business 38 years. I’ve been waiting for this since then.”\r\n\r\nCertus is here to fix the $120B phone problem — one call at a time.\r\n\r\nAnd in doing so, we’re redefining how the restaurant industry communicates forever, starting with the phone line.",
+    "one_liner": "Replacing the restaurant phone line with Voice AI",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753135662,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Restaurant Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/certus-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/certus-ai.json"
   },
   {
     "id": 30761,
