@@ -2352,16 +2352,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Reforged Labs is building the world's first AI creative strategist to supercharge creative research, campaign strategy, and performance insights, empowering game marketing and creative teams be more productive and effective.",
     "one_liner": "The first AI performance marketing analyst for mobile game marketers",
-    "team_size": 10,
+    "team_size": 15,
     "industry": "Consumer",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1644566628,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Gaming",
-      "Advertising",
-      "AI"
+      "Advertising"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4162,54 +4162,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/credal-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/credal-ai.json"
-  },
-  {
-    "id": 27691,
-    "name": "Magic Patterns",
-    "slug": "magic-patterns",
-    "former_names": [
-      "Left on Read",
-      "Dreamer"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dea92eb42861ec8a5f86fc8f42b40fd6f8b507f0.png",
-    "website": "https://www.magicpatterns.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Magic Patterns helps software teams prototype their product ideas. Startups in the current batch and enterprises use us to create designs quickly and ship faster.",
-    "one_liner": "Prototype your product ideas with AI.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1673915426,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "Design Tools",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/magic-patterns",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/magic-patterns.json"
   },
   {
     "id": 27702,
@@ -7165,7 +7117,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -9542,7 +9494,7 @@
     "former_names": [
       "Xylem AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/290c0065a5ffe07236a3cc433e4c722863914784.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18e4c91b67f788583f15cd62be509fb95adf7cf6.png",
     "website": "https://pipeshift.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pipeshift is a modular orchestration platform for building with open-source AI components — embeddings, vector databases, LLMs, vision models and audio models — across any cloud or on-prem. Enterprises get to deploy their AI workloads in production faster and more reliably. Additionally, as we see more model and hardware architectures coming in the market, Pipeshift future-proofs the infrastructure investments by offering flexibility through their modular MLOps stack that allows enterprises to bring down their GPU infrastructure costs without any additional engineering efforts on their end.",
@@ -11572,7 +11524,7 @@
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Embedder is building the first hardware-aware coding agent.",
-    "one_liner": "Claude Code for Embedded",
+    "one_liner": "Cursor for Embedded",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -11732,6 +11684,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/summon",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/summon.json"
+  },
+  {
+    "id": 30729,
+    "name": "Floot",
+    "slug": "floot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f34cf0cf02c3e2059e48082daf0ddc693722515.png",
+    "website": "https://floot.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI. Since June, 3000+ users have created over 4000 apps on Floot.\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
+    "one_liner": "The easiest and most powerful AI app builder.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1753721322,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "SaaS",
+      "No-code",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/floot",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/floot.json"
   },
   {
     "id": 30736,

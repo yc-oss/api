@@ -18442,7 +18442,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -21205,16 +21205,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Reforged Labs is building the world's first AI creative strategist to supercharge creative research, campaign strategy, and performance insights, empowering game marketing and creative teams be more productive and effective.",
     "one_liner": "The first AI performance marketing analyst for mobile game marketers",
-    "team_size": 10,
+    "team_size": 15,
     "industry": "Consumer",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1644566628,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Gaming",
-      "Advertising",
-      "AI"
+      "Advertising"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35919,11 +35919,11 @@
     "subindustry": "Unspecified",
     "launched_at": 1708738486,
     "tags": [
-      "Artificial Intelligence",
+      "Developer Tools",
       "B2B",
-      "Customer Success",
       "Analytics",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40966,7 +40966,7 @@
       "Merlinn"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8071a4dd821b17c48fe53b21be58c8dd37534c31.png",
-    "website": "https://vespper.com",
+    "website": "https://vespper.com/?utm_source=ycombinator.com",
     "all_locations": "",
     "long_description": "Vespper is an AI copilot for regulatory professionals in life science.\r\nWe help save time and effort from workflows such as:\r\nmanual document processing, time-consuming database searches and regulatory monitoring.",
     "one_liner": "AI copilot for regulatory professionals",
@@ -45085,18 +45085,18 @@
     "name": "Skope",
     "slug": "skope",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d598c9ae6f0adaf363dce2801fe32db30733e9bd.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c24ca870b6eaffd66597cfdb3e463eeed660675.png",
     "website": "https://useskope.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "",
+    "long_description": "We’re taking a new approach to the legacy billing system, for AI-native companies. On top of normal pricing models, Skope allows companies to create a new stream of revenue by capturing a portion of the value their agents create through “outcome-based pricing\".",
+    "one_liner": "A modern billing system for AI-native companies.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750879126,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45126,7 +45126,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd3787e9958fd9e9b42a9bb7223fe8689a2863a9.png",
     "website": "https://stockline.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Stockline is reshaping ERPs to bring innovation to a $990B+ industry left behind by the tech revolution: the food supply chain.\r\n\r\nFood wholesalers still rely on software from the 90s. One symptom among many: they waste hours retyping orders and invoices that arrive through scattered channels like WhatsApp, SMS, and email into their ERPs. Manual admin work takes over. Headcount grows just to handle repetitive tasks.\r\nThis leads to mistakes, tight margins, and food waste.\r\n\r\nStockline replaces outdated ERPs with AI at its core. The game-changer? No more manual data entry. Our AI pulls orders from every channel and feeds them directly into one unified system.\r\n\r\nAdmin disappears. Wholesalers get to focus on what really matters: their products and their customers.",
     "one_liner": "AI-native ERP for food wholesalers",
     "team_size": 2,
@@ -45134,11 +45134,11 @@
     "subindustry": "B2B",
     "launched_at": 1753355964,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Food",
       "Food Tech",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45150,8 +45150,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -45452,6 +45451,48 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/finto-de",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/finto-de.json"
+  },
+  {
+    "id": 30724,
+    "name": "Risely AI",
+    "slug": "risely-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4680fe6ec9d7629b24dfdc3825d767092e53950d.png",
+    "website": "https://www.risely.ai/",
+    "all_locations": "San Ramon, CA, USA",
+    "long_description": "Risely is building an agentic AI operating system for higher ed that automates university administrative tasks like processing student records, managing advising requests, handling enrollment, and verifying graduation eligibility. Our platform integrates directly into existing university systems (SIS, LMS, CRM), learns each institution’s unique workflows, and deploys specialized AI digital workers. This dramatically reduces the $735 billion universities spend annually on administrative labor, expands staff capacity without increasing headcount, and improves the student experience.\r\n\r\nThis hasn't been done before because university workflows require nuanced, autonomous judgment, exactly what agentic AI was designed to solve. Our team uniquely combines deep expertise in higher education, enterprise-scale AI, and regulated enterprise sales.\r\n\r\nSadia previously built Salesforce’s Education Cloud from scratch, creating the core Student Information System widely used across higher education. She deeply understands university operations and maintains trusted relationships with hundreds of higher-ed CIOs and Provosts.\r\n\r\nDanial was one of DoorDash’s earliest engineers, where he architected and scaled complex systems from zero to billions of transactions, including their search, recommendation, and Voice AI platforms. He knows how to build robust AI solutions that reliably perform at enterprise scale. \r\n\r\nShahryar was a GM at Airwallex, where he built the entire Americas business from 0 to 1 and drove 11x revenue growth.  He’s also a master closer, single-handedly securing over $17M in enterprise deals at NerdWallet.  He’s a relentless startup executor with deep expertise launching and scaling go-to-market machines in highly regulated industries.\r\n\r\nWe launched six weeks ago and are already at $8k MRR, growing 55% week-over-week -- one of the fastest ramps ever in higher ed. Universities urgently need solutions that expand labor capacity and efficiency, especially as they face unprecedented budget pressure and staffing shortages.\r\n\r\nWith unmatched buyer access, deep technical expertise, and rapid early traction, we are perfectly positioned to own this enormous market.",
+    "one_liner": "AI teammates that automate university admin tasks across campus",
+    "team_size": 9,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1753739140,
+    "tags": [
+      "Artificial Intelligence",
+      "Education",
+      "SaaS",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/risely-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/risely-ai.json"
   },
   {
     "id": 30726,

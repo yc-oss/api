@@ -123,6 +123,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/synthetic-society.json"
   },
   {
+    "id": 30582,
+    "name": "Pingo AI",
+    "slug": "pingo-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c01715a01a6f73433d324a587d34bafc2adf824.png",
+    "website": "https://mypingoai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pingo AI is an AI language learning app helping users build fluency through speaking. Pingo immerses learners in realistic dialogues and personalized lessons with an AI tutor who sounds like a native speaker. Our goal is to make learning languages as simple as daily conversations with Pingo — a companion who understands your goals, remembers your progress, and keeps you motivated.",
+    "one_liner": "AI companion that helps you learn languages",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1753741789,
+    "tags": [
+      "Education",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pingo-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/pingo-ai.json"
+  },
+  {
     "id": 30603,
     "name": "Closera",
     "slug": "closera",
@@ -794,13 +835,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d9c2d052831ff87cd795bb52b99c031e59ac069.png",
     "website": "https://www.cyberdesk.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cyberdesk is the computer use agent for Windows apps. Top YC startups in healthcare, finance, and more are using our agent to automate data entry and extraction from EHRs, ERPs, and other legacy Windows software. \r\n\r\nUnder the hood, our intelligent caching system makes automations run deterministically when in the happy path, and with 95% cheaper cost and ~5x speed improvement over computer use. But our system still falls back to computer use in anomalies / edge cases, for extra reliability and safety.\r\n\r\nWe’d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
-    "one_liner": "The computer use agent for automating Windows apps",
+    "long_description": "Cyberdesk is the computer use agent for developers to automate legacy Windows apps. \r\n\r\nWe've designed our agent to follow memorized steps reliably, while falling back to computer use models during unexpected popups. Customers in healthcare, finance, and more are using our agent to automate EHRs, accounting apps, and other legacy apps.\r\n\r\nWe’d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
+    "one_liner": "The computer use agent for developers to automate Windows apps",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1749659433,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation"
     ],
@@ -812,7 +854,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -960,18 +1002,18 @@
     "name": "Skope",
     "slug": "skope",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d598c9ae6f0adaf363dce2801fe32db30733e9bd.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c24ca870b6eaffd66597cfdb3e463eeed660675.png",
     "website": "https://useskope.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "",
+    "long_description": "We’re taking a new approach to the legacy billing system, for AI-native companies. On top of normal pricing models, Skope allows companies to create a new stream of revenue by capturing a portion of the value their agents create through “outcome-based pricing\".",
+    "one_liner": "A modern billing system for AI-native companies.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750879126,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1084,7 +1126,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd3787e9958fd9e9b42a9bb7223fe8689a2863a9.png",
     "website": "https://stockline.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Stockline is reshaping ERPs to bring innovation to a $990B+ industry left behind by the tech revolution: the food supply chain.\r\n\r\nFood wholesalers still rely on software from the 90s. One symptom among many: they waste hours retyping orders and invoices that arrive through scattered channels like WhatsApp, SMS, and email into their ERPs. Manual admin work takes over. Headcount grows just to handle repetitive tasks.\r\nThis leads to mistakes, tight margins, and food waste.\r\n\r\nStockline replaces outdated ERPs with AI at its core. The game-changer? No more manual data entry. Our AI pulls orders from every channel and feeds them directly into one unified system.\r\n\r\nAdmin disappears. Wholesalers get to focus on what really matters: their products and their customers.",
     "one_liner": "AI-native ERP for food wholesalers",
     "team_size": 2,
@@ -1092,11 +1134,11 @@
     "subindustry": "B2B",
     "launched_at": 1753355964,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Food",
       "Food Tech",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1108,8 +1150,7 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -1287,16 +1328,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f60bf8bb62884c58ca2344e9db1f1970348a8311.png",
     "website": "https://www.agenthub.build",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nOur RL simulation engine lets you test, trace, and evaluate agentic workflows using curated and synthetic test cases. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).\r\n\r\nBuilt by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
+    "long_description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nSimulate real-world scenarios in curated RL environments for your agents - trace, evaluate, and improve agent behavior at scale. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).\r\n\r\nBuilt by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
     "one_liner": "The simulation and evaluation engine for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753389326,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Analytics"
+      "Analytics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1497,7 +1538,7 @@
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Embedder is building the first hardware-aware coding agent.",
-    "one_liner": "Claude Code for Embedded",
+    "one_liner": "Cursor for Embedded",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -2281,6 +2322,88 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/autosana.json"
   },
   {
+    "id": 30722,
+    "name": "Omnara",
+    "slug": "omnara",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/517120504bbe6167aa6c03b7d54e211b8e74e3db.png",
+    "website": "https://omnara.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "As AI agents handle longer, more complex tasks, human oversight becomes critical. Omnara provides the human-in-the-loop infrastructure to make autonomous agents reliable.\r\n\r\nOur platform lets users and teams manage AI agents through a unified dashboard. When agents face uncertainty, hit roadblocks, or need permissions that require human judgment, they pause and request guidance, ensuring workflows stay on track. Any agent can integrate, e.g. Claude Code, n8n workflows, or custom builds.",
+    "one_liner": "The command center for your AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753676392,
+    "tags": [
+      "AIOps",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/omnara",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/omnara.json"
+  },
+  {
+    "id": 30724,
+    "name": "Risely AI",
+    "slug": "risely-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4680fe6ec9d7629b24dfdc3825d767092e53950d.png",
+    "website": "https://www.risely.ai/",
+    "all_locations": "San Ramon, CA, USA",
+    "long_description": "Risely is building an agentic AI operating system for higher ed that automates university administrative tasks like processing student records, managing advising requests, handling enrollment, and verifying graduation eligibility. Our platform integrates directly into existing university systems (SIS, LMS, CRM), learns each institution’s unique workflows, and deploys specialized AI digital workers. This dramatically reduces the $735 billion universities spend annually on administrative labor, expands staff capacity without increasing headcount, and improves the student experience.\r\n\r\nThis hasn't been done before because university workflows require nuanced, autonomous judgment, exactly what agentic AI was designed to solve. Our team uniquely combines deep expertise in higher education, enterprise-scale AI, and regulated enterprise sales.\r\n\r\nSadia previously built Salesforce’s Education Cloud from scratch, creating the core Student Information System widely used across higher education. She deeply understands university operations and maintains trusted relationships with hundreds of higher-ed CIOs and Provosts.\r\n\r\nDanial was one of DoorDash’s earliest engineers, where he architected and scaled complex systems from zero to billions of transactions, including their search, recommendation, and Voice AI platforms. He knows how to build robust AI solutions that reliably perform at enterprise scale. \r\n\r\nShahryar was a GM at Airwallex, where he built the entire Americas business from 0 to 1 and drove 11x revenue growth.  He’s also a master closer, single-handedly securing over $17M in enterprise deals at NerdWallet.  He’s a relentless startup executor with deep expertise launching and scaling go-to-market machines in highly regulated industries.\r\n\r\nWe launched six weeks ago and are already at $8k MRR, growing 55% week-over-week -- one of the fastest ramps ever in higher ed. Universities urgently need solutions that expand labor capacity and efficiency, especially as they face unprecedented budget pressure and staffing shortages.\r\n\r\nWith unmatched buyer access, deep technical expertise, and rapid early traction, we are perfectly positioned to own this enormous market.",
+    "one_liner": "AI teammates that automate university admin tasks across campus",
+    "team_size": 9,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1753739140,
+    "tags": [
+      "Artificial Intelligence",
+      "Education",
+      "SaaS",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/risely-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/risely-ai.json"
+  },
+  {
     "id": 30726,
     "name": "Socratix AI",
     "slug": "socratix-ai",
@@ -2368,6 +2491,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/observee.json"
   },
   {
+    "id": 30729,
+    "name": "Floot",
+    "slug": "floot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f34cf0cf02c3e2059e48082daf0ddc693722515.png",
+    "website": "https://floot.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI. Since June, 3000+ users have created over 4000 apps on Floot.\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
+    "one_liner": "The easiest and most powerful AI app builder.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1753721322,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "SaaS",
+      "No-code",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/floot",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/floot.json"
+  },
+  {
     "id": 30730,
     "name": "Idler",
     "slug": "idler",
@@ -2445,6 +2611,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/humoniq",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/humoniq.json"
+  },
+  {
+    "id": 30734,
+    "name": "Avelis Health",
+    "slug": "avelis-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9759643303306b86f190396a0aa959a693947140.png",
+    "website": "https://avelishealth.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "𝐖𝐡𝐲 𝐰𝐞 𝐛𝐮𝐢𝐥𝐭 𝐭𝐡𝐢𝐬\r\nI (Angel) have had three knee surgeries since my mid-teens and was billed more than $250K for care that should have cost a fraction of that. Fighting those inflated charges was so painful that we set out to build a consumer-facing AI agent to do it for others. In less than five months, we helped sixty patients erase or reduce $280K from their medical bills.\r\n\r\nThis inspired us to fix the problem farther upstream: stopping bad payments before the patient ever sees a bill. So we launched payment integrity, a machine-learning product that audits every medical claim for self-insured employers and health plans in real time.\r\n\r\n𝐓𝐡𝐞 𝐏𝐫𝐨𝐛𝐥𝐞𝐦\r\n• Self-insured employers waste $60 B+ each year on claims that never should have been paid\r\n\r\n• Manual audits are slow and partial: Reviewers focus only on high-dollar claims, letting millions more slip through unnoticed.\r\n\r\n• Existing audit software is static: Decades-old rule engines can’t keep pace with evolving codes, contracts, or billing tactics.\r\n\r\n• Incentives are misaligned: Third-party administrators are paid to process claims, not to police them, so accuracy checks are minimal.\r\n\r\n𝐀𝐛𝐨𝐮𝐭 𝐔𝐬\r\nAngel Onuoha (CEO) and Ahmad Shehu (CTO) have worked together for 4 years. Before Avelis Health they built Zuvy, a Lagos-based fintech company that provided invoice factoring to small businesses. Zuvy was acquired by The BAS Group in 2025.",
+    "one_liner": "We audit medical claims for self-insured employers and health plans.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1753718864,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/avelis-health",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/avelis-health.json"
   },
   {
     "id": 30736,
@@ -3520,11 +3727,54 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/outrove.json"
   },
   {
+    "id": 30797,
+    "name": "Veritus Agent",
+    "slug": "veritus-agent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b301b9f0345d2f7e32e073734be71f290ed3ea40.png",
+    "website": "http://veritusagent.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Veritus is a platform for deploying AI agents for loan servicing and collections, including inbound and outbound voice agents. Our agents negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.\r\n\r\nWe license our platform to lenders and collections agencies, and we're also in the process of getting licensed in all 50 states to enable our own third-party collections and debt buying. By combining cutting edge voice AI with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates. ",
+    "one_liner": "AI agents for loan servicing and collections",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1753735109,
+    "tags": [
+      "Fintech",
+      "Lending",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/veritus-agent",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/veritus-agent.json"
+  },
+  {
     "id": 30804,
     "name": "Luminal",
     "slug": "luminal",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea5712b0999a90a5be78dda48232d17ccfea44f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d9c818fe88489dd24e5032f7a25a97571050869.png",
     "website": "https://luminalai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/jafioti/luminal\r\nDiscord: https://discord.gg/2Mxur3CgYT",
@@ -3534,10 +3784,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752295982,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "Open Source",
-      "Cloud Computing"
+      "Cloud Computing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

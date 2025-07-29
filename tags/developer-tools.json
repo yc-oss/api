@@ -12558,54 +12558,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/drdroid.json"
   },
   {
-    "id": 27691,
-    "name": "Magic Patterns",
-    "slug": "magic-patterns",
-    "former_names": [
-      "Left on Read",
-      "Dreamer"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dea92eb42861ec8a5f86fc8f42b40fd6f8b507f0.png",
-    "website": "https://www.magicpatterns.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Magic Patterns helps software teams prototype their product ideas. Startups in the current batch and enterprises use us to create designs quickly and ship faster.",
-    "one_liner": "Prototype your product ideas with AI.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1673915426,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "Design Tools",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/magic-patterns",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/magic-patterns.json"
-  },
-  {
     "id": 27693,
     "name": "Depot",
     "slug": "depot",
@@ -16864,6 +16816,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/keywords-ai.json"
   },
   {
+    "id": 29334,
+    "name": "Decipher AI",
+    "slug": "decipher-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29585cd58ffa28775d545a62edb03b71fdea79f2.png",
+    "website": "https://getdecipher.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Decipher’s AI agents watch all your user sessions – helping you identify and act on product issues and insights. \r\n\r\nLoved by fast-growing companies like Pinecone, 11x, and Vial. ",
+    "one_liner": "AI that analyzes your session replays to uncover issues and behavior.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1708738486,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Analytics",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/decipher-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/decipher-ai.json"
+  },
+  {
     "id": 29335,
     "name": "Toolify",
     "slug": "toolify",
@@ -19814,7 +19809,7 @@
     "website": "https://ryvn.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ryvn provides the devtools and infrastructure to easily deploy any workload, on any cloud, and on-prem. Run apps in your own cloud and offer Bring Your Own Cloud (BYOC) to your customers in minutes, with built-in observability designed for sensitive industries.",
-    "one_liner": "Fastest way to deploy on AWS/GCP/Azure, on-prem, and air-gapped",
+    "one_liner": "Easy and secure customer cloud deployments",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -21915,13 +21910,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d9c2d052831ff87cd795bb52b99c031e59ac069.png",
     "website": "https://www.cyberdesk.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cyberdesk is the computer use agent for Windows apps. Top YC startups in healthcare, finance, and more are using our agent to automate data entry and extraction from EHRs, ERPs, and other legacy Windows software. \r\n\r\nUnder the hood, our intelligent caching system makes automations run deterministically when in the happy path, and with 95% cheaper cost and ~5x speed improvement over computer use. But our system still falls back to computer use in anomalies / edge cases, for extra reliability and safety.\r\n\r\nWe’d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
-    "one_liner": "The computer use agent for automating Windows apps",
+    "long_description": "Cyberdesk is the computer use agent for developers to automate legacy Windows apps. \r\n\r\nWe've designed our agent to follow memorized steps reliably, while falling back to computer use models during unexpected popups. Customers in healthcare, finance, and more are using our agent to automate EHRs, accounting apps, and other legacy apps.\r\n\r\nWe’d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
+    "one_liner": "The computer use agent for developers to automate Windows apps",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1749659433,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation"
     ],
@@ -21933,7 +21929,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Infrastructure"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -22042,7 +22038,7 @@
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Embedder is building the first hardware-aware coding agent.",
-    "one_liner": "Claude Code for Embedded",
+    "one_liner": "Cursor for Embedded",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
