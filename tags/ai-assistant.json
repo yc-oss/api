@@ -525,13 +525,12 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -1199,8 +1198,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd43932fb93afb72d8ee73f542aa4e11c43a2f39.png",
     "website": "https://www.moots.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Moots AI is a private business network powered by your AI Chief of Staff. Designed for busy founders, executives, and super-connectors. It intelligently surfaces deal flow, career opportunities, and strategic connections:\r\n\r\n- Automates your rolodex by importing iPhone contacts and syncing with Google, then enriching every profile with real-time data on prospects, clients, investors, and more.\r\n\r\n- Builds rich dossiers you can augment with voice notes, custom labels, and contextual snippets—so every detail stays at your fingertips.\r\n\r\n- Remembers—and acts on every interaction, using AI to surface deal flow, uncover career opportunities, and identify strategic introductions.\r\n\r\n- Drafts perfect outreach and nudges you at exactly the right moment, ensuring you never miss a chance to deepen relationships or close the next big opportunity.\r\n\r\nWith Moots AI, your network isn’t just stored—it’s supercharged.\r\n",
-    "one_liner": "A private business network powered by an AI Chief of Staff.",
+    "long_description": "Capturing leads at events is messy. Business cards pile up, contact info gets lost, and key details are forgotten before you’re back at your desk. CRMs are slow and rarely used in real time.\r\n\r\nMoots makes it easy. Just scan a badge or business card to create a new contact on your phone. Moots instantly enriches it with public info like job title, company, and LinkedIn profile. You can dictate notes while it’s fresh, and the app transcribes and attaches them directly to the contact.\r\n\r\nEach interaction builds a knowledge base around that lead—helping you remember who they are, what they care about, and what was discussed. You can find contacts later by event name, meeting date, or custom tags. Moots also reminds you when to follow up and drafts outreach so you can focus on closing, not organizing.\r\n",
+    "one_liner": "Scan badges at business events, build context, and follow up with AI",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "B2B -> Productivity",
@@ -1847,7 +1846,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -5952,5 +5951,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sigmanticai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/sigmanticai.json"
+  },
+  {
+    "id": 30813,
+    "name": "Blue",
+    "slug": "blue",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f718a96f18441a4d4318fcd60339769b1c6a4118.png",
+    "website": "https://heyblue.com/",
+    "all_locations": "Santa Clara, CA, USA",
+    "long_description": "Blue is the first voice assistant that can control every app on your phone.\r\n\r\nMost assistants today, such as Siri, Alexa, or Gemini, are limited to narrow functions like setting timers or answering questions. They cannot message your friends on Messenger, send money on Venmo, or compare ride-share prices to book the best option.\r\n\r\nBlue can do all of this and more.\r\n\r\nIt taps, swipes, and types like a human on both Android and iPhone, so it doesn't need any app-specific integrations. This is made possible through a voice-first computer-use model as well as a custom hardware. \r\n\r\nIt already works in the real world. Users are texting, shopping, and navigating their phones completely hands-free. People who are commuting, cooking, or multitasking are using Blue to reclaim meaningful time during their day.\r\n\r\nOur team brings rare and highly complementary experience. Omar led Google Assistant’s transition to LLMs and holds one of the earliest patents in LLM-based computer control. Peter brings decades of experience designing and building voice-first dialog systems, holds multiple design patents, and was most recently the design lead at Google DeepMind serving actions on the Gemini Live model. Farhan helped ship Apple’s Vision Pro and holds more than 50 patents in hardware and systems design. He's also led several products end-to-end from early prototyping to mass production and global fulfillment.\r\n\r\nTogether, we have built systems used by billions of people and are now building something even more fundamental: re-inventing the way we use and interact with technology.",
+    "one_liner": "The first voice assistant that can control every app on your phone.",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1753836546,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blue",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/blue.json"
   }
 ]

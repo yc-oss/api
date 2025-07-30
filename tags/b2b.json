@@ -19013,7 +19013,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -26504,7 +26504,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -33344,26 +33344,26 @@
   },
   {
     "id": 28841,
-    "name": "Ponder",
-    "slug": "ponder",
+    "name": "SuperCraft",
+    "slug": "supercraft",
     "former_names": [
       "Neuralyze"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/981b0bb823fa43aa8363d79f70b0d918a6115294.png",
-    "website": "https://useponder.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/caf3f0ccabd97dc716cb79ccd3b9004daa1db779.png",
+    "website": "https://supercraft.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Ponder lets developers deploy and use SOTA text to speech models that scale up and down automatically with no restrictions to concurrency or throughput.\r\n\r\nModels on Ponder support both input and output streaming for realtime applications, maintaining TTFB (audio) in the 10s of milliseconds.",
-    "one_liner": "Inference for Realtime Voice AI",
+    "long_description": "SuperCraft lets teams design physical products with natural language",
+    "one_liner": "Figma for designing physical products",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1688534176,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Cloud Computing",
-      "Infrastructure",
-      "Conversational AI"
+      "Productivity",
+      "Design",
+      "3D Printing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33383,8 +33383,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ponder",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/ponder.json"
+    "url": "https://www.ycombinator.com/companies/supercraft",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/supercraft.json"
   },
   {
     "id": 28844,
@@ -35304,11 +35304,11 @@
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1703103445,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Recruiting",
-      "HR Tech"
+      "HR Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36000,16 +36000,16 @@
     "all_locations": "",
     "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nOur tools are used by thousands researchers in large pharma companies, top biotechs, and academic institutions. We currently focus on models in protein design and engineering, including for antibodies/therapeutics and enzymes.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
     "one_liner": "Easy to use computational biology tools for drug discovery",
-    "team_size": 6,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1702859345,
     "tags": [
       "AI-powered Drug Discovery",
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Biotech",
-      "AI"
+      "Biotech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40876,47 +40876,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/summed-ai.json"
   },
   {
-    "id": 30033,
-    "name": "OpenFunnel",
-    "slug": "openfunnel",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/467a5194c6eed21b3d29ae27af5c92c76d94cdf0.png",
-    "website": "https://openfunnel.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "OpenFunnel helps you autonomously discover and prioritize prospects by identifying external activities your ICPs are doing — signals that show a company is worth reaching out to and might have a pain point.\r\n\r\nFor example -\r\nAn LLM Ops company that provides tools for self hosting LLMs uses us to\r\nFind companies in their ICP rapidly expanding their AI team for self-hosting Llama Models\r\n\r\nAn HR and Payroll Software company that helps with global payroll uses us to\r\nFind seed funded announcements in real-time and have immigrant founders to the US",
-    "one_liner": "Agents to help find in-market companies via deep researched signals",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1728361776,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Sales Enablement"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/openfunnel",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/openfunnel.json"
-  },
-  {
     "id": 30041,
     "name": "Revyl",
     "slug": "revyl",
@@ -45159,6 +45118,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stockline",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/stockline.json"
+  },
+  {
+    "id": 30667,
+    "name": "Lemma",
+    "slug": "lemma",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efb463bde44f163800e2bddd4c82e59974256f27.png",
+    "website": "https://www.withlemma.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building Lemma because we’ve been there.\r\n\r\nWe’ve worked in professional services and lived the pain — buried in work that doesn’t move the needle. Aggregating numbers from back surveys. Hunting for that one number buried in a mountain of files. Pulling quotes from hours of expert calls. Drafting version 10 of the interview guide. Rebuilding the same CDD survey from scratch. Programming those 100 question surveys.\r\n\r\nGeneric AI agents don’t work here. They don’t understand your content, your context, or your workflow.\r\n\r\nLemma builds AI teammates tailored to the way you actually work — built by people who’ve done the work. Our agents plug into your tools, learn your processes, and handle the grunt work behind the scenes — so you can focus on insights, strategy, and moving fast.",
+    "one_liner": "Specialized AI agents for professional services ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753836881,
+    "tags": [
+      "B2B",
+      "Market Research",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lemma",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/lemma.json"
   },
   {
     "id": 30681,
