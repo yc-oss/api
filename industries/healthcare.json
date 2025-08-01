@@ -4702,7 +4702,7 @@
     "all_locations": "Boston, MA, USA; Cambridge, MA, USA",
     "long_description": "Technology finds information and delivers physical products to us almost instantly. mRNA does the same for biology. At HelixNano, we see a world where treatments are cheap, progress is decentralized, and you can modify biology at the push of a button.\r\n\r\nBy focusing on mRNA improvements from first principles, we’re getting there faster than we thought. Experiments that used to take months or years can be done in weeks and cost thousands instead of millions. The rate limiting step for our progress is now scientific curiosity.\r\n\r\nRigid hierarchies and top-down decisions will miss the magic. Some of our most powerful technologies started out as side projects of junior team members. At HelixNano, every individual scientist can have a massive impact on the company's direction. And the more diverse our team, the faster we’ll find the really cool ideas.\r\n\r\nWe've started rolling out some of our new tech — moving a COVID-19 vaccine candidate for the immunocompromised towards the clinic, and testing an intervention with massive environmental impact. But we’re scientists at heart, and team focus is solidly on the horizon.",
     "one_liner": "Next-generation mRNA platform to solve cancer, COVID and climate.",
-    "team_size": 16,
+    "team_size": 22,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1482443417,
@@ -4728,7 +4728,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6723,12 +6723,14 @@
     "id": 1884,
     "name": "Curebase",
     "slug": "curebase",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9070d2918d98b995f163db656f1d59d390583b53.png",
-    "website": "http://www.curebase.com",
+    "former_names": [
+      "tlemberg"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/743d6b742bf525fbb43068b05726fc770af763b7.png",
+    "website": "https://www.curebase.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Curebase is reinventing decentralized clinical trials to help the vast majority of potential patients that currently cannot access clinical research. Curebase’s vision is that any patient, no matter where they are located, should be able to participate in clinical trials at home and with their own doctors. This is made possible through a unique suite of tools, including all-in-one eClinical software and virtual research sites, designed to engage patients in clinical trials across all settings, be it at home, at their local clinic, or other places in their community.",
-    "one_liner": "End-to-end clinical trial execution built on cutting-edge software.",
+    "long_description": "Curebase is the modern eClinical platform built for flexibility, usability, and full-study oversight. We empower sponsors, CROs, and sites to launch studies faster, deliver better participant experiences, and seamlessly capture data with next-gen, AI-powered ePRO, eConsent, engagement tools, and integrated EDC.",
+    "one_liner": "Modern, AI-powered clinical trial software platform.",
     "team_size": 27,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
@@ -8989,7 +8991,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2019",
-    "status": "Inactive",
+    "status": "Active",
     "industries": [
       "Healthcare",
       "Therapeutics"
@@ -14372,6 +14374,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/auricle",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/auricle.json"
+  },
+  {
+    "id": 22951,
+    "name": "Datrics",
+    "slug": "datrics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/497093f34ecc13678b906d7569a6740cbcbb4952.png",
+    "website": "https://datrics.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Datrics HCP streamlines healthcare insurance claims with advanced AI technology,\r\nimproving accuracy, reducing processing time, and eliminating costly errors.",
+    "one_liner": "Generative AI Healthcare Coding Automation",
+    "team_size": 22,
+    "industry": "Healthcare",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1611469416,
+    "tags": [
+      "B2B",
+      "Analytics",
+      "Healthcare",
+      "Health Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/datrics",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/datrics.json"
   },
   {
     "id": 22970,
@@ -23241,17 +23287,17 @@
     "website": "https://www.flairhealth.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Driving Better Contract Negotiation for Hospitals",
+    "one_liner": "Driving The Smartest Contract Negotiation for Hospitals",
     "team_size": null,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1690407835,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Data Science",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25753,18 +25799,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144a13ceedd1b9645b8478fb7512b3118141ca0b.png",
     "website": "https://www.astrix.health",
     "all_locations": "New York, NY, USA",
-    "long_description": "Astrix builds AI purchasing agents for healthcare providers. Astrix agents normalize and aggregate large-scale data on medical supply pricing allowing providers to make informed purchasing decisions.\r\n\r\n",
-    "one_liner": "Astrix builds AI purchasing agents for healthcare providers.",
+    "long_description": "We build better data products for identifying and understanding healthcare providers, facilities, and services. Easily access our data via our easy-to-use UI and API.",
+    "one_liner": "Astrix builds better healthcare data products.",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1728327995,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Collaboration",
       "Healthcare",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25883,11 +25929,11 @@
     "former_names": [
       "Dojo"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9018c32bd18c4d49ac93e3961dbbbfa92688f03.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3b08e81035ebf0c9a387c0217e6d0895d6a1136.png",
     "website": "https://www.futureclinic.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "FutureClinic is a platform that makes it easy for any doctor to open their own digital clinic. Our AI assistant takes a comprehensive medical history using an empathic chat or voice-based interface, uses sophisticated medical reasoning to narrow down likely diagnoses, and produces evidence-based treatment suggestions for each patient. Licensed doctors then review the text-based summaries of the cases our AI provides, and choose how to manage the patients. In this fashion, we're able to deliver end-to-end healthcare in a way that makes personalized, expert healthcare scalable to 8 billion people around the world. ",
-    "one_liner": "We help doctors launch their own digital clinics",
+    "one_liner": "We help doctors launch their own chat-based clinics",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
@@ -26338,10 +26384,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcaf4d4e89631a63bee94c1af531a630ac0f1858.png",
     "website": "https://paratushealth.com/",
-    "all_locations": "",
+    "all_locations": "Menlo Park, CA, USA",
     "long_description": "Paratus Health is the AI operations layer for outpatient clinics. We build autonomous agents that don’t just assist staff - they replace them, fully handling front desk calls, patient intake, insurance verification, documentation, and billing prep. Everything is deeply integrated into EHRs like Epic and Athena, eliminating the need for fragmented tools and manual work.\r\nNo toggling between systems. No busywork. Just one intelligent system running your clinical operations - faster, smarter, and more profitably than ever before.",
     "one_liner": "AI-powered intake nurse",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "Healthcare",
     "subindustry": "B2B",
     "launched_at": 1739954707,
@@ -26357,10 +26403,12 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "Healthcare"
+      "Healthcare",
+      "Healthcare IT"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -26951,11 +26999,11 @@
     "name": "Parachute",
     "slug": "parachute",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/625472a8e9d0ac1ef69518108579e249e52ac811.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5dea1f04b2d250b7dd6948c616c2684171b7258c.png",
     "website": "https://parachute-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Parachute is the AI Quality Assurance Lab for hospitals — end-to-end governance that lets clinical AI move from inception to implementation with confidence. We pre-vet vendors, enforce compliance, track every model in real time, and preserve an immutable audit log that stands up to regulators and litigators, enabling safe, scalable AI in healthcare.",
-    "one_liner": "Quality Assurance & Governance Infrastructure for Clinical AI",
+    "one_liner": "Governance Infrastructure to Evaluate, Deploy, and Monitor Clinical AI",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -27122,7 +27170,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9759643303306b86f190396a0aa959a693947140.png",
     "website": "https://avelishealth.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "𝐖𝐡𝐲 𝐰𝐞 𝐛𝐮𝐢𝐥𝐭 𝐭𝐡𝐢𝐬\r\nI (Angel) have had three knee surgeries since my mid-teens and was billed more than $250K for care that should have cost a fraction of that. Fighting those inflated charges was so painful that we set out to build a consumer-facing AI agent to do it for others. In less than five months, we helped sixty patients erase or reduce $280K from their medical bills.\r\n\r\nThis inspired us to fix the problem farther upstream: stopping bad payments before the patient ever sees a bill. So we launched payment integrity, a machine-learning product that audits every medical claim for self-insured employers and health plans in real time.\r\n\r\n𝐓𝐡𝐞 𝐏𝐫𝐨𝐛𝐥𝐞𝐦\r\n• Self-insured employers waste $60 B+ each year on claims that never should have been paid\r\n\r\n• Manual audits are slow and partial: Reviewers focus only on high-dollar claims, letting millions more slip through unnoticed.\r\n\r\n• Existing audit software is static: Decades-old rule engines can’t keep pace with evolving codes, contracts, or billing tactics.\r\n\r\n• Incentives are misaligned: Third-party administrators are paid to process claims, not to police them, so accuracy checks are minimal.\r\n\r\n𝐀𝐛𝐨𝐮𝐭 𝐔𝐬\r\nAngel Onuoha (CEO) and Ahmad Shehu (CTO) have worked together for 4 years. Before Avelis Health they built Zuvy, a Lagos-based fintech company that provided invoice factoring to small businesses. Zuvy was acquired by The BAS Group in 2025.",
+    "long_description": "𝐖𝐡𝐲 𝐰𝐞 𝐛𝐮𝐢𝐥𝐭 𝐭𝐡𝐢𝐬:\r\nI (Angel) have had three knee surgeries since my mid-teens and was billed more than $250K for care that should have cost a fraction of that. Fighting those inflated charges was so painful that we set out to build a consumer-facing AI agent to do it for others. In less than five months, we helped sixty patients erase or reduce over $280K from their medical bills.\r\n\r\nThis inspired us to fix the problem farther upstream: stopping bad payments before the patient ever sees a bill. So we launched payment integrity, machine-learning models that audit every medical claim for self-insured employers and health plans in real time.\r\n\r\n𝐓𝐡𝐞 𝐏𝐫𝐨𝐛𝐥𝐞𝐦:\r\n• Self-insured employers waste $60 B+ each year on claims that never should have been paid\r\n\r\n• Manual audits are slow and partial: Reviewers focus only on high-dollar claims, letting millions more slip through unnoticed.\r\n\r\n• Existing audit software is static: Decades-old rule engines can’t keep pace with evolving codes, contracts, or billing tactics.\r\n\r\n• Incentives are misaligned: Third-party administrators are paid to process claims, not to police them, so accuracy checks are minimal.\r\n\r\n𝐎𝐮𝐫 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧:\r\nOur models audit medical claims before and after payments have been issued. We catch nuanced billing, coding, and contract errors to save 3-7% on annual claims spend. We work with self-insured employers and health plans.\r\n\r\n𝐀𝐛𝐨𝐮𝐭 𝐔𝐬:\r\nAngel Onuoha (CEO) and Ahmad Shehu (CTO) have worked together for 4 years. Before Avelis Health they built Zuvy, a Lagos-based fintech company that provided invoice factoring to small businesses. Zuvy was acquired by The BAS Group in 2025.",
     "one_liner": "We audit medical claims for self-insured employers and health plans.",
     "team_size": 2,
     "industry": "Healthcare",

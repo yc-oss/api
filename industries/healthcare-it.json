@@ -4428,17 +4428,17 @@
     "website": "https://www.flairhealth.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "Driving Better Contract Negotiation for Hospitals",
+    "one_liner": "Driving The Smartest Contract Negotiation for Hospitals",
     "team_size": null,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1690407835,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Data Science",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5477,6 +5477,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/harbera.json"
   },
   {
+    "id": 30337,
+    "name": "Paratus Health",
+    "slug": "paratus-health",
+    "former_names": [
+      "Paratus"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcaf4d4e89631a63bee94c1af531a630ac0f1858.png",
+    "website": "https://paratushealth.com/",
+    "all_locations": "Menlo Park, CA, USA",
+    "long_description": "Paratus Health is the AI operations layer for outpatient clinics. We build autonomous agents that don’t just assist staff - they replace them, fully handling front desk calls, patient intake, insurance verification, documentation, and billing prep. Everything is deeply integrated into EHRs like Epic and Athena, eliminating the need for fragmented tools and manual work.\r\nNo toggling between systems. No busywork. Just one intelligent system running your clinical operations - faster, smarter, and more profitably than ever before.",
+    "one_liner": "AI-powered intake nurse",
+    "team_size": 6,
+    "industry": "Healthcare",
+    "subindustry": "B2B",
+    "launched_at": 1739954707,
+    "tags": [
+      "Digital Health",
+      "Healthcare IT",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/paratus-health",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/paratus-health.json"
+  },
+  {
     "id": 30437,
     "name": "Kaelio",
     "slug": "kaelio",
@@ -5654,11 +5697,11 @@
     "name": "Parachute",
     "slug": "parachute",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/625472a8e9d0ac1ef69518108579e249e52ac811.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5dea1f04b2d250b7dd6948c616c2684171b7258c.png",
     "website": "https://parachute-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Parachute is the AI Quality Assurance Lab for hospitals — end-to-end governance that lets clinical AI move from inception to implementation with confidence. We pre-vet vendors, enforce compliance, track every model in real time, and preserve an immutable audit log that stands up to regulators and litigators, enabling safe, scalable AI in healthcare.",
-    "one_liner": "Quality Assurance & Governance Infrastructure for Clinical AI",
+    "one_liner": "Governance Infrastructure to Evaluate, Deploy, and Monitor Clinical AI",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -5743,7 +5786,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9759643303306b86f190396a0aa959a693947140.png",
     "website": "https://avelishealth.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "𝐖𝐡𝐲 𝐰𝐞 𝐛𝐮𝐢𝐥𝐭 𝐭𝐡𝐢𝐬\r\nI (Angel) have had three knee surgeries since my mid-teens and was billed more than $250K for care that should have cost a fraction of that. Fighting those inflated charges was so painful that we set out to build a consumer-facing AI agent to do it for others. In less than five months, we helped sixty patients erase or reduce $280K from their medical bills.\r\n\r\nThis inspired us to fix the problem farther upstream: stopping bad payments before the patient ever sees a bill. So we launched payment integrity, a machine-learning product that audits every medical claim for self-insured employers and health plans in real time.\r\n\r\n𝐓𝐡𝐞 𝐏𝐫𝐨𝐛𝐥𝐞𝐦\r\n• Self-insured employers waste $60 B+ each year on claims that never should have been paid\r\n\r\n• Manual audits are slow and partial: Reviewers focus only on high-dollar claims, letting millions more slip through unnoticed.\r\n\r\n• Existing audit software is static: Decades-old rule engines can’t keep pace with evolving codes, contracts, or billing tactics.\r\n\r\n• Incentives are misaligned: Third-party administrators are paid to process claims, not to police them, so accuracy checks are minimal.\r\n\r\n𝐀𝐛𝐨𝐮𝐭 𝐔𝐬\r\nAngel Onuoha (CEO) and Ahmad Shehu (CTO) have worked together for 4 years. Before Avelis Health they built Zuvy, a Lagos-based fintech company that provided invoice factoring to small businesses. Zuvy was acquired by The BAS Group in 2025.",
+    "long_description": "𝐖𝐡𝐲 𝐰𝐞 𝐛𝐮𝐢𝐥𝐭 𝐭𝐡𝐢𝐬:\r\nI (Angel) have had three knee surgeries since my mid-teens and was billed more than $250K for care that should have cost a fraction of that. Fighting those inflated charges was so painful that we set out to build a consumer-facing AI agent to do it for others. In less than five months, we helped sixty patients erase or reduce over $280K from their medical bills.\r\n\r\nThis inspired us to fix the problem farther upstream: stopping bad payments before the patient ever sees a bill. So we launched payment integrity, machine-learning models that audit every medical claim for self-insured employers and health plans in real time.\r\n\r\n𝐓𝐡𝐞 𝐏𝐫𝐨𝐛𝐥𝐞𝐦:\r\n• Self-insured employers waste $60 B+ each year on claims that never should have been paid\r\n\r\n• Manual audits are slow and partial: Reviewers focus only on high-dollar claims, letting millions more slip through unnoticed.\r\n\r\n• Existing audit software is static: Decades-old rule engines can’t keep pace with evolving codes, contracts, or billing tactics.\r\n\r\n• Incentives are misaligned: Third-party administrators are paid to process claims, not to police them, so accuracy checks are minimal.\r\n\r\n𝐎𝐮𝐫 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧:\r\nOur models audit medical claims before and after payments have been issued. We catch nuanced billing, coding, and contract errors to save 3-7% on annual claims spend. We work with self-insured employers and health plans.\r\n\r\n𝐀𝐛𝐨𝐮𝐭 𝐔𝐬:\r\nAngel Onuoha (CEO) and Ahmad Shehu (CTO) have worked together for 4 years. Before Avelis Health they built Zuvy, a Lagos-based fintech company that provided invoice factoring to small businesses. Zuvy was acquired by The BAS Group in 2025.",
     "one_liner": "We audit medical claims for self-insured employers and health plans.",
     "team_size": 2,
     "industry": "Healthcare",

@@ -673,7 +673,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -1230,18 +1230,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/144a13ceedd1b9645b8478fb7512b3118141ca0b.png",
     "website": "https://www.astrix.health",
     "all_locations": "New York, NY, USA",
-    "long_description": "Astrix builds AI purchasing agents for healthcare providers. Astrix agents normalize and aggregate large-scale data on medical supply pricing allowing providers to make informed purchasing decisions.\r\n\r\n",
-    "one_liner": "Astrix builds AI purchasing agents for healthcare providers.",
+    "long_description": "We build better data products for identifying and understanding healthcare providers, facilities, and services. Easily access our data via our easy-to-use UI and API.",
+    "one_liner": "Astrix builds better healthcare data products.",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1728327995,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Collaboration",
       "Healthcare",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1522,15 +1522,15 @@
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "RiskCube is building a modern AI insurance agency for startups & SMBs. \r\n\r\nWe’re currently in the licensing process in California and will be launching soon, with an initial focus on D&O insurance. \r\n\r\n\r\nIf you're a carrier interested in partnering, send us a DM.",
-    "one_liner": "AI-native insurance brokerage",
+    "one_liner": "Modern AI insurance agency. ",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1731782052,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2389,49 +2389,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/curo.json"
   },
   {
-    "id": 30086,
-    "name": "Autumn",
-    "slug": "autumn",
-    "former_names": [
-      "Recase"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png",
-    "website": "https://useautumn.com",
-    "all_locations": "",
-    "long_description": "Autumn is an open-source layer over Stripe that handles any pricing model in a few lines of code.",
-    "one_liner": "Build any pricing model in a few lines of code",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1730430835,
-    "tags": [
-      "SaaS",
-      "Payments",
-      "B2B",
-      "Subscriptions",
-      "Billing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/autumn",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/autumn.json"
-  },
-  {
     "id": 30087,
     "name": "Gecko Security",
     "slug": "gecko-security",
@@ -3176,11 +3133,11 @@
     "former_names": [
       "Dojo"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9018c32bd18c4d49ac93e3961dbbbfa92688f03.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c3b08e81035ebf0c9a387c0217e6d0895d6a1136.png",
     "website": "https://www.futureclinic.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "FutureClinic is a platform that makes it easy for any doctor to open their own digital clinic. Our AI assistant takes a comprehensive medical history using an empathic chat or voice-based interface, uses sophisticated medical reasoning to narrow down likely diagnoses, and produces evidence-based treatment suggestions for each patient. Licensed doctors then review the text-based summaries of the cases our AI provides, and choose how to manage the patients. In this fashion, we're able to deliver end-to-end healthcare in a way that makes personalized, expert healthcare scalable to 8 billion people around the world. ",
-    "one_liner": "We help doctors launch their own digital clinics",
+    "one_liner": "We help doctors launch their own chat-based clinics",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
