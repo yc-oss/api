@@ -4390,7 +4390,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2019",
     "status": "Active",
@@ -21043,15 +21043,15 @@
   },
   {
     "id": 29372,
-    "name": "Ramble.gg",
-    "slug": "ramble-gg",
+    "name": "Sagaland",
+    "slug": "sagaland",
     "former_names": [
       "Sevn.ai"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/decfb37c0926a5b71b2548fc6985cb482cba2964.png",
-    "website": "https://ramble.gg",
+    "website": "https://sagaland.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Ramble is an AI role-playing game where you have ten minutes to convince an AI character. For example, convince a hostage taker to release hostages, or convince a broke flatmate to pay his share of rent, etc.",
+    "long_description": "Sagaland is an AI role-playing game where you have ten minutes to convince an AI character. For example, convince a hostage taker to release hostages, or convince a broke flatmate to pay his share of rent, etc.",
     "one_liner": "AI Role-Playing Games",
     "team_size": 2,
     "industry": "Consumer",
@@ -21085,8 +21085,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ramble-gg",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/ramble-gg.json"
+    "url": "https://www.ycombinator.com/companies/sagaland",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/sagaland.json"
   },
   {
     "id": 29374,
@@ -22093,7 +22093,9 @@
     "id": 29447,
     "name": "Deepnight",
     "slug": "deepnight",
-    "former_names": [],
+    "former_names": [
+      "DeepNight"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/419c6b136773af60713e2a4301554b4ef1bbd8a9.png",
     "website": "https://www.deepnight.ai/",
     "all_locations": "San Francisco, CA, USA",
@@ -22101,7 +22103,7 @@
     "one_liner": "Building The Next Generation of Night Vision Devices",
     "team_size": 8,
     "industry": "Government",
-    "subindustry": "Unspecified",
+    "subindustry": "Government",
     "launched_at": 1709629638,
     "tags": [
       "Artificial Intelligence",
@@ -22109,7 +22111,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -23641,6 +23643,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/firstwork",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/firstwork.json"
+  },
+  {
+    "id": 29654,
+    "name": "Stardrift",
+    "slug": "stardrift",
+    "former_names": [
+      "Kopfkino"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c29a51fe4495bb246b4aafa097f950601ff7e364.png",
+    "website": "https://stardrift.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Stardrift is your AI Travel Agent, helping you plan and book complex itineraries. Users use us to find the flights that work for their schedules and needs.",
+    "one_liner": "Your AI Travel Agent",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1721868567,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Travel"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Travel, Leisure and Tourism"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stardrift",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/stardrift.json"
   },
   {
     "id": 29658,
@@ -26213,11 +26258,11 @@
     "name": "Mica AI",
     "slug": "mica-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5673bb763cddf60cddfa3da8562713ab0fdce74.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e4f97e07f6e1a169c14a54417c11eec5688e0c6.png",
     "website": "https://usemica.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mica builds AI Agents that automate B2B sales. Our agents analyze sales calls, generate tailored collateral, and follow up until the deal is closed.\r\n\r\nThe founders met at UC Berkeley, and at our last jobs, we saw that the best sales reps weren’t just great at selling—they were elite content creators. They crafted tailored collateral like decks and highlight videos for each buyer, and their champions used this info to advocate for purchasing their product within their companies. \r\n\r\nHowever, because this takes more than 30 minutes per call, even the best reps could only do tailored follow-ups for a few clients, leaving millions in lost deals.\r\n\r\nMica’s agents reduce that time to less than a minute. This lets top performers do A+ work on every deal and helps the rest of the team sell like a top performer.\r\n\r\nSales collateral creation and follow-up is a $11b market in the US but this is just our beachhead. We’ll ship a fleet of agents that automate and eventually replace every other facet of the $80b enterprise sales market.  \r\n\r\n",
-    "one_liner": "AI Agents that Automate B2B Sales",
+    "long_description": "Mica is a no-code AI Agent builder that turns plain-English prompts into enterprise quality AI agents. Just describe your agent:\r\n“Every morning, pull in pricing data from our data lake. I want you to take this data and run a report every morning on price movements broken down by brand and retailer and email this report to the relevant stakeholders every morning. Also upload the data into our datavis platform and send me a slack message once you do.”\r\n\r\nMica instantly builds a live agent that:\r\n\r\n1. Connects to your apps (OAuth, APIs, auth flows)\r\n2. Runs multi-step automations continuously\r\n3. Improves and changes behavior in real-time with simple instructions in English\r\n4. No need to mess around with drag and drop UIs or add complicated chains or rules\r\n\r\nIn short: no coding, no convoluted setup, just results.",
+    "one_liner": "Build Enterprise-Quality AI Agents in English",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -26225,8 +26270,7 @@
     "tags": [
       "Artificial Intelligence",
       "SaaS",
-      "Sales",
-      "Sales Enablement",
+      "Enterprise Software",
       "AI"
     ],
     "tags_highlighted": [],
@@ -26236,8 +26280,7 @@
     "batch": "Summer 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Sales"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -28482,7 +28525,7 @@
     "former_names": [
       "Entropy Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bc8fcf7c25638bdf4248c3b5676e9d2c18135e4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4598dd293d773fa0a9a1c72940f2f2e3153dda35.png",
     "website": "https://asteroid.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Asteroid builds and hosts browser AI agents for complex tasks. With built-in guardrails, evaluations and human oversight, we ensure enterprise-grade reliability across millions of operations in regulated industries.",
@@ -29976,47 +30019,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/lyrahq.json"
   },
   {
-    "id": 30494,
-    "name": "Nixo",
-    "slug": "nixo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png",
-    "website": "https://withnixo.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "The modern Zendesk for scaling high-touch customer support",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1752219403,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Workflow Automation",
-      "Customer Support"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nixo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/nixo.json"
-  },
-  {
     "id": 30496,
     "name": "QualGent",
     "slug": "qualgent",
@@ -30026,7 +30028,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "QualGent is an AI Mobile App Quality Assurance Tester that mimics a real human, helping teams catch bugs and ship faster - without hiring more QA testers. One customer reached #3 in the Education category on the App Store by improving app quality with QualGent.\r\n\r\nMobile bugs hurt: crashes kill ratings, broken checkouts drive churn. QualGent helps teams scale QA effortlessly and avoid Sonos-level disasters.\r\n\r\nThe idea for QualGent was born from the founders’ experience leading engineering teams at Google across Android XR, Stadia, Quick Share, and foldable devices where shipping to billions of users meant constantly facing the painful trade-off between moving fast and maintaining quality. With prior research experience at Nvidia, Maryland, and Berkeley, the team saw a clear opportunity: use AI to scale QA.\r\n\r\nQualGent’s vision is to close the loop on software creation. As AI enables engineers to code 100x faster, QualGent eliminates the next bottleneck—software verification—unlocking truly scalable, end-to-end software development.",
     "one_liner": "AI Mobile App Quality Assurance Tester",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1747257305,
@@ -31150,6 +31152,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/async.json"
   },
   {
+    "id": 30619,
+    "name": "Shor",
+    "slug": "shor",
+    "former_names": [
+      "Kesher Link",
+      "ShorPay"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4831b44f5c4fb81b23bc71603346f936a8519a8.png",
+    "website": "https://www.tryshor.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Shor is a new Employer-of-Record built from the ground up with AI agents and stablecoins. We enable remote teams to hire and pay global employees at a fraction of the cost. The process is fast, simple, and fully compliant.\r\n\r\nToday, global payroll is broken. Payments take days, cost 5–10% in fees, and force companies to navigate complex banking, tax, and labor regulations. Platforms like Deel and Rippling solved this for large enterprises but remain too expensive and cumbersome for the millions of startups and growing remote teams scaling globally.\r\n\r\nShor fixes this by combining autonomous AI agents with stablecoin-based settlement. Our agents handle contracts, worker classification, compliance, and payroll automatically in a simple, messaging-first experience. Payments can settle in seconds rather than weeks at a fraction of the cost of legacy providers.\r\n\r\nWe are making global payroll fast, affordable, and accessible for the millions of companies left out by legacy platforms.",
+    "one_liner": "The fastest, most affordable payroll for global teams",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1753916245,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B",
+      "HR Tech",
+      "Payroll"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/shor.json"
+  },
+  {
     "id": 30621,
     "name": "Pond",
     "slug": "pond",
@@ -31528,6 +31576,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alter-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/alter-ai.json"
+  },
+  {
+    "id": 30659,
+    "name": "Keystone",
+    "slug": "keystone",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c3915c83dfe6a246f33ae908d5156017a0cef3f.png",
+    "website": "https://withkeystone.com",
+    "all_locations": "",
+    "long_description": "Keystone autonomously builds and maintains end-to-end tests for your application. Never write another test or run through manual QA ever again.",
+    "one_liner": "AI agents that test your application.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1749673205,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/keystone",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/keystone.json"
   },
   {
     "id": 30660,
@@ -32007,9 +32096,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/284bcf8fd014c43e486fa3243ceddc4a1b5a8484.png",
     "website": "https://www.novaflowapp.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Novaflow is an AI data analyst for biology labs. \r\n--\r\nBioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months. ",
-    "one_liner": "Automating data analysis for life science researchers ",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Novaflow is the AI data analyst for biology labs. \r\n--\r\nBioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months. ",
+    "one_liner": "The AI data analyst for biology labs",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "B2B -> Analytics",
@@ -32125,6 +32214,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/motives",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/motives.json"
+  },
+  {
+    "id": 30717,
+    "name": "Iron Grid",
+    "slug": "iron-grid",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5610ae5725e1a7d03a6b23f760c9728a748276f.png",
+    "website": "https://getirongrid.com/",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "AI Insurance for hardware.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1754064844,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/iron-grid",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/iron-grid.json"
   },
   {
     "id": 30720,
@@ -32421,48 +32550,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/sigmanticai.json"
   },
   {
-    "id": 30754,
-    "name": "Locata",
-    "slug": "locata",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f90ca5cca8a2d750b52199dcc520e1fbffdbb6.png",
-    "website": "https://www.locatahealth.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Locata is an AI referral management platform for Primary Care practices. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary Care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in CS. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in CS, specializing in AI, before working as a software engineer at Google, developing AI products that served over 1 billion users.\r\n\r\nIn just three weeks, we’ve secured $80K ARR and are in the process of taking our first customer live.",
-    "one_liner": "AI referral management for Primary Care Practices",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1753486430,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Health Tech",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/locata",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/locata.json"
-  },
-  {
     "id": 30759,
     "name": "Certus AI",
     "slug": "certus-ai",
@@ -32669,5 +32756,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vulcan-technologies",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/vulcan-technologies.json"
+  },
+  {
+    "id": 30796,
+    "name": "Outrove",
+    "slug": "outrove",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fdf57ee767b5dd755c70594623163dda1cbae4.png",
+    "website": "https://www.outrove.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building the next-generation sales and marketing automation platform, designed for how B2B go-to-market will work in the AI era.\r\n\r\nAs channels and content formats shift dramatically, we’ll be the OS companies rely on to power their future GTM strategies.",
+    "one_liner": "AI-native Salesforce",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1753159084,
+    "tags": [
+      "Artificial Intelligence",
+      "Sales Enablement",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/outrove",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/outrove.json"
   }
 ]

@@ -55,7 +55,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
     "website": "https://www.ambral.com/",
     "all_locations": "",
-    "long_description": "Ambral is an AI account management team that finds the upsell opportunities and churn-risks hiding in your data.\r\n\r\nWe act as a telemetry engine for customer relationships, synthesizing the critical signals from your messy data to generate a dynamic AI model of every account. We pinpoint exactly who needs attention and why, then recommend or autonomously take the right action to drive an expansion, prevent churn, or create a new champion.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
+    "long_description": "Ambral is an AI account management team that finds the upsell opportunities and churn-risks hiding in your data.\r\n\r\nWe analyze telemetry from customer relationships, synthesizing the critical signals from your messy data to generate dynamic AI models of every account. We pinpoint exactly who needs attention and why, then recommend or autonomously take the right action to drive an expansion, prevent churn, or create a new champion.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
     "one_liner": "AI-powered Account Managers",
     "team_size": 2,
     "industry": "B2B",
@@ -96,16 +96,17 @@
     "website": "https://withnixo.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "The modern Zendesk for scaling high-touch customer support",
+    "one_liner": "The first ops platform built for FDEs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1752219403,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "Customer Support"
+      "Customer Success",
+      "Customer Support",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -715,18 +716,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4831b44f5c4fb81b23bc71603346f936a8519a8.png",
     "website": "https://www.tryshor.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Shor is using AI Agents and Stablecoins to create the fastest, most affordable global Employer of Record (EOR), payroll, and cross-border payments platform, designed specifically for high-growth remote companies ",
-    "one_liner": "Affordable, Simple, Fast Payroll for Global Remote Teams",
+    "long_description": "Shor is a new Employer-of-Record built from the ground up with AI agents and stablecoins. We enable remote teams to hire and pay global employees at a fraction of the cost. The process is fast, simple, and fully compliant.\r\n\r\nToday, global payroll is broken. Payments take days, cost 5–10% in fees, and force companies to navigate complex banking, tax, and labor regulations. Platforms like Deel and Rippling solved this for large enterprises but remain too expensive and cumbersome for the millions of startups and growing remote teams scaling globally.\r\n\r\nShor fixes this by combining autonomous AI agents with stablecoin-based settlement. Our agents handle contracts, worker classification, compliance, and payroll automatically in a simple, messaging-first experience. Payments can settle in seconds rather than weeks at a fraction of the cost of legacy providers.\r\n\r\nWe are making global payroll fast, affordable, and accessible for the millions of companies left out by legacy platforms.",
+    "one_liner": "The fastest, most affordable payroll for global teams",
     "team_size": 2,
-    "industry": "B2B",
+    "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
     "launched_at": 1753916245,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "HR Tech",
-      "Payroll",
-      "AI"
+      "Payroll"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -735,8 +736,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Human Resources"
+      "Fintech",
+      "Payments"
     ],
     "regions": [
       "United States of America",
@@ -1414,6 +1415,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/deepgrove.json"
   },
   {
+    "id": 30659,
+    "name": "Keystone",
+    "slug": "keystone",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c3915c83dfe6a246f33ae908d5156017a0cef3f.png",
+    "website": "https://withkeystone.com",
+    "all_locations": "",
+    "long_description": "Keystone autonomously builds and maintains end-to-end tests for your application. Never write another test or run through manual QA ever again.",
+    "one_liner": "AI agents that test your application.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1749673205,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/keystone",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/keystone.json"
+  },
+  {
     "id": 30660,
     "name": "Magnitude",
     "slug": "magnitude",
@@ -2085,7 +2127,7 @@
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Embedder is building the first hardware-aware coding agent.",
-    "one_liner": "Agentic Coding for Embedded",
+    "one_liner": "Cursor for Embedded",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -2156,6 +2198,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wisp-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/wisp-ai.json"
+  },
+  {
+    "id": 30694,
+    "name": "Epicenter",
+    "slug": "epicenter",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7cc929fc17a99efa9b76ed8acc3ec6c7a0574ae5.png",
+    "website": "https://epicenter.so/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building a suite of open-source, local-first apps that share a single memory—so your ideas, plans, and code live in one connected space. Most tools divide you: one for notes, one for tasks, one for contacts. Epicenter is designed to blur those lines—so you can stay in flow across disciplines.\r\n\r\nWe’ve started with tools like Whispering (a fast, local transcription tool) and epicenter.sh (a way to talk to a folder on your computer). But this is just the beginning. We're building a plain-text-native ecosystem: a text editor, chat, a personal assistant, and more—designed to work together out of the box, and run on your own machine.\r\n\r\nIf you’re tired of switching apps to finish a thought—or of vendors owning your memory—Epicenter might feel like home.",
+    "one_liner": "All your tools—transcription, chat, writing—sharing one local,…",
+    "team_size": 1,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1754070642,
+    "tags": [
+      "SaaS",
+      "Productivity",
+      "Open Source",
+      "Note-taking",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/epicenter",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/epicenter.json"
   },
   {
     "id": 30695,
@@ -2662,9 +2746,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/284bcf8fd014c43e486fa3243ceddc4a1b5a8484.png",
     "website": "https://www.novaflowapp.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Novaflow is an AI data analyst for biology labs. \r\n--\r\nBioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months. ",
-    "one_liner": "Automating data analysis for life science researchers ",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Novaflow is the AI data analyst for biology labs. \r\n--\r\nBioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months. ",
+    "one_liner": "The AI data analyst for biology labs",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "B2B -> Analytics",
@@ -2824,6 +2908,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/finto-de.json"
   },
   {
+    "id": 30717,
+    "name": "Iron Grid",
+    "slug": "iron-grid",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5610ae5725e1a7d03a6b23f760c9728a748276f.png",
+    "website": "https://getirongrid.com/",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "AI Insurance for hardware.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1754064844,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/iron-grid",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/iron-grid.json"
+  },
+  {
     "id": 30719,
     "name": "April",
     "slug": "april",
@@ -2833,7 +2957,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5d3a6edb5621c81b20be14a648f9b57921bf764.png",
     "website": "https://tryapril.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "April is a voice powered AI assistant that manages your email and calendar hands-free - helping you reach inbox zero and stay on top of your schedule without looking at a screen.",
+    "long_description": "April is a voice AI Executive assistant that manages your email and calendar, hands free. It’s built for busy individuals who need EAs but don’t have them.",
     "one_liner": "Voice AI Executive Assistant",
     "team_size": 2,
     "industry": "Consumer",
@@ -3580,17 +3704,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f90ca5cca8a2d750b52199dcc520e1fbffdbb6.png",
     "website": "https://www.locatahealth.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Locata is an AI referral management platform for Primary Care practices. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary Care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in CS. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in CS, specializing in AI, before working as a software engineer at Google, developing AI products that served over 1 billion users.\r\n\r\nIn just three weeks, we’ve secured $80K ARR and are in the process of taking our first customer live.",
-    "one_liner": "AI referral management for Primary Care Practices",
+    "long_description": "Locata is an AI referral management platform for Health Centers. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary Care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in CS. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in CS, specializing in AI, before working as a software engineer at Google, developing AI products that served over 1 billion users.\r\n\r\nIn just three weeks, we’ve secured $80K ARR and are in the process of taking our first customer live.",
+    "one_liner": "AI referral management for Health Centers",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1753486430,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4366,15 +4490,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fdf57ee767b5dd755c70594623163dda1cbae4.png",
     "website": "https://www.outrove.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outrove is the world’s most realistic AI recruiter, with a human-appearing interview agent that has both video and audio and can join Google Meet calls.\r\n",
-    "one_liner": "Ultra-realistic AI Recruiter",
+    "long_description": "We’re building the next-generation sales and marketing automation platform, designed for how B2B go-to-market will work in the AI era.\r\n\r\nAs channels and content formats shift dramatically, we’ll be the OS companies rely on to power their future GTM strategies.",
+    "one_liner": "AI-native Salesforce",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1753159084,
     "tags": [
-      "Recruiting",
-      "AI"
+      "Artificial Intelligence",
+      "Sales Enablement",
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4384,7 +4509,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Recruiting and Talent"
+      "Sales"
     ],
     "regions": [
       "United States of America",
@@ -4502,7 +4627,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
