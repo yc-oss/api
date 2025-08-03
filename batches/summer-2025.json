@@ -96,17 +96,16 @@
     "website": "https://withnixo.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "The first ops platform built for FDEs",
+    "one_liner": "The ops platform FDE teams use to cut time to customer impact",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1752219403,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "Customer Success",
-      "Customer Support",
-      "AI"
+      "Customer Success"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -881,7 +880,7 @@
     "name": "ContextFort",
     "slug": "contextfort",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55ebca1865c9d530bfb4cbbb0758af64ea680a1e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f91581bcfa012c99e743448988de1cd919c97389.png",
     "website": "https://contextfort.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "ContextFort is bringing the power of AI to the three trillion dollar construction industry, starting with an AI co-pilot that reviews every revision of your architectural and structural drawings in minutes—not weeks.\r\n\r\nOur Software:\r\n• Detects missing or conflicting dimensions across sheets\r\n• Highlights overlay mismatches between versions\r\n• Checks if an issue is already resolved in the latest set\r\n• Auto-drafts spec-compliant RFIs so you hit “send,” not “type”\r\n\r\nContractors save 2-3 weeks per project, cut costly rework, and keep schedules on track.",
@@ -891,8 +890,8 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1753951898,
     "tags": [
-      "Construction",
-      "AI"
+      "Artificial Intelligence",
+      "Construction"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1378,7 +1377,7 @@
     "name": "DeepGrove",
     "slug": "deepgrove",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7fe0614c6ae0025bdee703043846f9c1a5b0367.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59526ba018b33a62299943322dc03eae29a298f4.png",
     "website": "",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Developing the next suite of 1-bit foundation models that can run on edge devices.",
@@ -1388,10 +1387,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1753646840,
     "tags": [
+      "Artificial Intelligence",
       "Deep Learning",
       "Edge Computing Semiconductors",
-      "IoT",
-      "AI"
+      "IoT"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1429,10 +1428,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1749673205,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1948,6 +1947,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/parachute.json"
   },
   {
+    "id": 30683,
+    "name": "Louiza Labs",
+    "slug": "louiza-labs",
+    "former_names": [
+      "Ouiza",
+      "Louiza Labs",
+      "Ouiza"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4220e2cfc6aae811d256a42fb434498602e5b513.png",
+    "website": "https://www.louiza.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Louiza Labs accurately simulates human biology so medical technology (devices, robots, etc) can be trained and tested without real patients or hard to access real-world medical data.\r\n\r\nOur physics-driven AI engine creates hyper-accurate, multi-organ human models with unprecedented speed and fidelity.\r\n\r\nInstead of spending millions on data for clinical trials, cadaver labs, or risky human testing—use Louiza to:\r\n1. Test devices on digital twins—faster FDA, no animal trials.\r\n2. Generate rare, high-fidelity edge-case datasets.\r\n3. Train AI for combat, triage, and robotic procedures in extreme conditions.\r\n4. Simulate stressed anatomy (e.g., Bruno Fernandes under fatigue, fighter pilots under G-force).\r\n\r\nBonus: Our anatomically accurate models are indistinguishable from real humans and can be “imaged” (e.g., X-ray, ultrasound) for use in ML pipelines.",
+    "one_liner": "Simulated human biology and synthetic medical datasets.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1754166755,
+    "tags": [
+      "Machine Learning",
+      "Medical Robotics",
+      "Robotic Process Automation",
+      "Synthetic Biology",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/louiza-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/louiza-labs.json"
+  },
+  {
     "id": 30684,
     "name": "Doe",
     "slug": "doe",
@@ -2126,8 +2171,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01ff7048195b1bcbbefd606ad66db21fe272f5e5.png",
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is building the first hardware-aware coding agent.",
-    "one_liner": "Cursor for Embedded",
+    "long_description": "",
+    "one_liner": "Hardware-Aware Coding Agent",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
