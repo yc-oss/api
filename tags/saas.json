@@ -24149,8 +24149,8 @@
     "website": "https://www.govly.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "🏛 Govly makes it easier to sell to the government\r\n\r\nWe...\r\n\r\n🗄 Centralize government opportunities\r\nGovly starts out with sam.gov opportunities then allows you to ingest any other contract feed.\r\n\r\nYou can create targeted searches to find what you're looking and get notified immediately when a new opportunity matches any of your saved searches.\r\n\r\n🤝 Facilitate internal and external collaboration\r\nYou can easily track what you're working on and see what your team is working on.\r\n\r\nYou can also partner with other organizations in the Govly network to securely share data back and forth and collaborate on bids.\r\n\r\n🤖 Automate repetitive tasks \r\nYou can automate repetitive task related to specific contracting workflows saving users an average of 10 hours per week.\r\n\r\n📊 Provide market analytics\r\nYou can use our advanced searching alongside our analytics dashboard to identify trends and new business opportunities.",
-    "one_liner": "Govly is the #1 Market Network for Government Contractors.",
-    "team_size": 28,
+    "one_liner": "The #1 Market Network for Government Contractors.",
+    "team_size": 30,
     "industry": "Government",
     "subindustry": "Government",
     "launched_at": 1625759878,
@@ -45221,6 +45221,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/dexter.json"
   },
   {
+    "id": 30086,
+    "name": "Autumn",
+    "slug": "autumn",
+    "former_names": [
+      "Recase"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png",
+    "website": "https://useautumn.com",
+    "all_locations": "",
+    "long_description": "Autumn is open-source infrastructure over Stripe that allows AI startups to build their pricing plans quickly, and flexibly. We act as your app's DB and manage who's paying for what, track usage and manage customer feature access.\r\n\r\nYC companies use us because we make it easy to handle common pricing models like usage-based, credits, subscriptions, rollovers and more in 3 functions and no webhooks. \r\n\r\nAs you scale, you get reliable billing, that you can change however you want without wrangling code (we handle versioning, migrations etc), and manage custom pricing too. Everything you could down the line (credits, multiple subscription groups, rollovers, referral program, usage analytics, centralized team billing etc), you can drop in at any point. ",
+    "one_liner": "Stripe for AI startups",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1730430835,
+    "tags": [
+      "SaaS",
+      "Payments",
+      "B2B",
+      "Subscriptions",
+      "Billing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/autumn",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/autumn.json"
+  },
+  {
     "id": 30087,
     "name": "Gecko Security",
     "slug": "gecko-security",
@@ -46796,48 +46839,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/tensorpool.json"
   },
   {
-    "id": 30339,
-    "name": "Ergo",
-    "slug": "ergo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd659fbea3fde9a2b42434fe03f0a75943f09e6a.png",
-    "website": "https://joinergo.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ergo is AI for sales teams, monitoring customer communication across tools like Zoom, Email, and Slack to keep CRMs such as HubSpot and Salesforce up to date. Ergo’s AI agents execute revenue-generating activities, such as automating mid-funnel follow-ups based on external market signals and past customer interactions. By eliminating manual operational tasks, Ergo helps sales teams maintain active pipelines, prevent deals from stalling, and cut sales cycles in half.",
-    "one_liner": "AI Agents for Sales Operations",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1737484568,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Sales"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ergo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/ergo.json"
-  },
-  {
     "id": 30357,
     "name": "Vantel",
     "slug": "vantel",
@@ -48118,17 +48119,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c3915c83dfe6a246f33ae908d5156017a0cef3f.png",
     "website": "https://withkeystone.com",
     "all_locations": "",
-    "long_description": "Keystone autonomously builds and maintains end-to-end tests for your application. Never write another test or run through manual QA ever again.",
+    "long_description": "Keystone autonomously builds and maintains end-to-end tests for your application. Never write another test or run through manual QA again.",
     "one_liner": "AI agents that test your application.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1749673205,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48153,23 +48154,23 @@
   },
   {
     "id": 30660,
-    "name": "Magnitude",
-    "slug": "magnitude",
+    "name": "Sidekick",
+    "slug": "heysidekick",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2842d2a52b047f3cdc0601cc787b7972d74a3bf.png",
-    "website": "https://magnitude.run",
+    "website": "https://heysidekick.app",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Knowledge workers spend 85% of their day in the browser.\r\n\r\nYet so much of this work is tedious, time-consuming labor.\r\n\r\nAI has revolutionized browser automation - but it's trapped behind APIs, SDKs, and complex interfaces. Tools like UIPath and Zapier tried to help, but they're still too technical, expensive, or complicated.\r\n\r\nWhat if automating your repetitive browser work was as easy as explaining it to a coworker?\r\n\r\nThat’s Magnitude. Simply record yourself taking actions on your browser, talk through the details, and our AI builds your automation. Run it instantly or schedule it - no maintenance required.",
-    "one_liner": "Automate any browser workflow with a narrated screen recording",
+    "long_description": "Just chat to build powerful, multi-step automations. No drag-and-drop canvas or complex flowcharts required.\r\n\r\nJoin the waitlist now!",
+    "one_liner": "The simplicity of ChatGPT meets the power of Zapier",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751905744,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Productivity",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48190,8 +48191,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/magnitude",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/magnitude.json"
+    "url": "https://www.ycombinator.com/companies/heysidekick",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/heysidekick.json"
   },
   {
     "id": 30665,
@@ -48202,7 +48203,7 @@
     "website": "https://digpangolin.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pangolin provides a simple way to securely expose applications on private networks with identity-aware access control and high availability. It’s an open-source cloud and self-hosted solution that enables administrators to maintain data sovereignty and control user interaction to internal tools.",
-    "one_liner": "Open-source secure gateway to private networks",
+    "one_liner": "Open-source identity-aware gateway to applications on private networks",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -48286,7 +48287,7 @@
     "slug": "agenthub-2",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f60bf8bb62884c58ca2344e9db1f1970348a8311.png",
-    "website": "https://www.agenthub.build",
+    "website": "https://www.agenthublabs.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nSimulate real-world scenarios in curated RL environments for your agents - trace, evaluate, and improve agent behavior at scale. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).\r\n\r\nBuilt by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
     "one_liner": "The simulation and evaluation engine for AI agents",
@@ -48295,9 +48296,9 @@
     "subindustry": "B2B",
     "launched_at": 1753389326,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48456,11 +48457,11 @@
     "name": "Epicenter",
     "slug": "epicenter",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7cc929fc17a99efa9b76ed8acc3ec6c7a0574ae5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15e87b5dae1ddc0ace7595505c49a86f51b6979a.png",
     "website": "https://epicenter.so/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building a suite of open-source, local-first apps that share a single memory—so your ideas, plans, and code live in one connected space. Most tools divide you: one for notes, one for tasks, one for contacts. Epicenter is designed to blur those lines—so you can stay in flow across disciplines.\r\n\r\nWe’ve started with tools like Whispering (a fast, local transcription tool) and epicenter.sh (a way to talk to a folder on your computer). But this is just the beginning. We're building a plain-text-native ecosystem: a text editor, chat, a personal assistant, and more—designed to work together out of the box, and run on your own machine.\r\n\r\nIf you’re tired of switching apps to finish a thought—or of vendors owning your memory—Epicenter might feel like home.",
-    "one_liner": "All your tools—transcription, chat, writing—sharing one local,…",
+    "long_description": "Epicenter is an open-source, local-first ecosystem for writers, builders, and privacy enthusiasts. It stores all your work—notes, transcripts, chat histories—in a single folder of plain text. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. ❤️\r\n\r\n\r\n\r\n",
+    "one_liner": "A database for your mind, built on plain text.",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",

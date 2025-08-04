@@ -30356,15 +30356,15 @@
     "all_locations": "New York, NY, USA",
     "long_description": "We’re helping companies transform their documents into high quality data, achieve unmatched accuracy, and ship custom document automation in days, not months.",
     "one_liner": "The Modern Document Processing Cloud",
-    "team_size": 10,
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1679062598,
     "tags": [
       "Documents",
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34803,7 +34803,7 @@
     "slug": "nowadays",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a04edfc3d5a9b0bb3ae585010c50f7f39fdc2a1.png",
-    "website": "http://getnowadays.com/",
+    "website": "http://nowadays.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nowadays is an AI copilot that automates the boring parts of planning corporate events. For example, our AI can contact venues by email and phone to get availability, deal with back-and-forth negotiations, and present the best options.",
     "one_liner": "AI co-pilot for corporate event planning",
@@ -40097,14 +40097,13 @@
     "long_description": "Elayne is redefining estate management with AI-powered solutions that simplify planning, execution, and net worth optimization. Whether you're securing your legacy or navigating the complexities of settling a loved one's affairs & estate, Elayne bridges the gap between financial wellness and estate management—disrupting a $260bn legacy industry, reducing administrative burdens, and ensuring families have guidance and clarity through every life milestone.\r\n\r\nWe partner with employers, financial institutions, and insurers to deliver a modern solution that transforms how people manage wealth, transitions, and legacies.\r\n\r\n🔹 AI-driven estate management\r\n🔹 Proactive financial insights\r\n🔹 Automated post-loss settlements\r\n\r\nLearn how Elayne is setting a new standard in estate and legacy management. Visit elayne.com.",
     "one_liner": "AI estate management & automated settlements after death",
     "team_size": 4,
-    "industry": "B2B",
+    "industry": "Fintech",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1718839098,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "B2B",
-      "LegalTech",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40113,7 +40112,7 @@
     "batch": "Summer 2024",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Fintech"
     ],
     "regions": [
       "United States of America",
@@ -41259,6 +41258,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dexter",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/dexter.json"
+  },
+  {
+    "id": 30086,
+    "name": "Autumn",
+    "slug": "autumn",
+    "former_names": [
+      "Recase"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png",
+    "website": "https://useautumn.com",
+    "all_locations": "",
+    "long_description": "Autumn is open-source infrastructure over Stripe that allows AI startups to build their pricing plans quickly, and flexibly. We act as your app's DB and manage who's paying for what, track usage and manage customer feature access.\r\n\r\nYC companies use us because we make it easy to handle common pricing models like usage-based, credits, subscriptions, rollovers and more in 3 functions and no webhooks. \r\n\r\nAs you scale, you get reliable billing, that you can change however you want without wrangling code (we handle versioning, migrations etc), and manage custom pricing too. Everything you could down the line (credits, multiple subscription groups, rollovers, referral program, usage analytics, centralized team billing etc), you can drop in at any point. ",
+    "one_liner": "Stripe for AI startups",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1730430835,
+    "tags": [
+      "SaaS",
+      "Payments",
+      "B2B",
+      "Subscriptions",
+      "Billing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/autumn",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/autumn.json"
   },
   {
     "id": 30087,
@@ -43092,48 +43134,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/copycat.json"
   },
   {
-    "id": 30339,
-    "name": "Ergo",
-    "slug": "ergo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd659fbea3fde9a2b42434fe03f0a75943f09e6a.png",
-    "website": "https://joinergo.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ergo is AI for sales teams, monitoring customer communication across tools like Zoom, Email, and Slack to keep CRMs such as HubSpot and Salesforce up to date. Ergo’s AI agents execute revenue-generating activities, such as automating mid-funnel follow-ups based on external market signals and past customer interactions. By eliminating manual operational tasks, Ergo helps sales teams maintain active pipelines, prevent deals from stalling, and cut sales cycles in half.",
-    "one_liner": "AI Agents for Sales Operations",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1737484568,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Sales"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ergo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/ergo.json"
-  },
-  {
     "id": 30352,
     "name": "Fluidize",
     "slug": "fluidize",
@@ -43914,10 +43914,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1752219403,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "Customer Success"
+      "Customer Success",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45217,17 +45217,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c3915c83dfe6a246f33ae908d5156017a0cef3f.png",
     "website": "https://withkeystone.com",
     "all_locations": "",
-    "long_description": "Keystone autonomously builds and maintains end-to-end tests for your application. Never write another test or run through manual QA ever again.",
+    "long_description": "Keystone autonomously builds and maintains end-to-end tests for your application. Never write another test or run through manual QA again.",
     "one_liner": "AI agents that test your application.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1749673205,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

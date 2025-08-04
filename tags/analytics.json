@@ -6853,7 +6853,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -7575,6 +7575,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/roark.json"
   },
   {
+    "id": 30497,
+    "name": "Human Behavior",
+    "slug": "human-behavior",
+    "former_names": [
+      "Dough"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0529597ad1f6e8b51f9be309f911ce7bb268c67.png",
+    "website": "https://www.humanbehavior.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Human Behavior uses vision models to watch all user web sessions so you know exactly how users use every part of your product. ",
+    "one_liner": "Understand your users beyond the numbers",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1744779271,
+    "tags": [
+      "Developer Tools",
+      "Analytics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/human-behavior",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/human-behavior.json"
+  },
+  {
     "id": 30507,
     "name": "ParaQuery",
     "slug": "paraquery",
@@ -7627,7 +7670,7 @@
     "slug": "agenthub-2",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f60bf8bb62884c58ca2344e9db1f1970348a8311.png",
-    "website": "https://www.agenthub.build",
+    "website": "https://www.agenthublabs.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nSimulate real-world scenarios in curated RL environments for your agents - trace, evaluate, and improve agent behavior at scale. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).\r\n\r\nBuilt by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
     "one_liner": "The simulation and evaluation engine for AI agents",
@@ -7636,9 +7679,9 @@
     "subindustry": "B2B",
     "launched_at": 1753389326,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
