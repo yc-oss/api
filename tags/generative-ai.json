@@ -565,7 +565,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -2345,21 +2345,21 @@
     "former_names": [
       "Nook"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42624b47fffc5d9d7f83077c9c444743511d6eb9.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d777f64a6f8aa21e8a0f44f260c8cb87a5ac203.png",
     "website": "https://reforgedlabs.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reforged Labs is building the world's first AI creative strategist to supercharge creative research, campaign strategy, and performance insights, empowering game marketing and creative teams be more productive and effective.",
-    "one_liner": "The first AI performance marketing analyst for mobile game marketers",
+    "long_description": "Reforged Labs Boa is the AI creative intelligence agent that answers all your questions about what ads are performing, why they work, and what to create next.",
+    "one_liner": "Turn intuition into insights, in minutes",
     "team_size": 15,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1644566628,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Gaming",
-      "Advertising"
+      "Advertising",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2368,8 +2368,8 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Gaming"
+      "B2B",
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -5182,8 +5182,8 @@
   },
   {
     "id": 27935,
-    "name": "compliant-llm (fka FiddleCube)",
-    "slug": "compliant-llm-fka-fiddlecube",
+    "name": "compliant-llm",
+    "slug": "compliant-llm",
     "former_names": [
       "ZKomm",
       "Devpod"
@@ -5191,7 +5191,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e836589affa3183241d8a3c3f2914bb8dc44d2a8.png",
     "website": "https://www.compliantllm.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Compliant LLM is a comprehensive toolkit for ensuring the compliance and security of AI systems.\r\n\r\nInfosec, compliance, and gen AI teams use compliant-llm to ensure that their AI agents are secure and compliant with internal policies and frameworks like NIST, ISO, HIPAA, GDPR, etc.\r\n\r\nIt supports multiple LLM providers and can be used to test prompts, agents, MCP servers, and GenAI models.",
+    "long_description": "Compliant LLM analyzes user interactions with LLMs to detect and mitigate security risks in real-time.\r\n\r\nThe system monitors AI applications deployed in an enterprise, detecting unauthorized data access and malicious activity.",
     "one_liner": "Build Secure and Compliant AI agents and MCP Servers",
     "team_size": 3,
     "industry": "B2B",
@@ -5220,8 +5220,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/compliant-llm-fka-fiddlecube",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/compliant-llm-fka-fiddlecube.json"
+    "url": "https://www.ycombinator.com/companies/compliant-llm",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/compliant-llm.json"
   },
   {
     "id": 27938,
@@ -9157,7 +9157,7 @@
     "one_liner": "Build Apps with AI - no coding required",
     "team_size": 12,
     "industry": "Consumer",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "Consumer",
     "launched_at": 1739780863,
     "tags": [
       "Developer Tools",
@@ -9442,6 +9442,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rentflow",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/rentflow.json"
+  },
+  {
+    "id": 29841,
+    "name": "Elayne",
+    "slug": "elayne",
+    "former_names": [
+      "Elayne AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a98fa9035236422ae40e39daab0354f2090e797e.png",
+    "website": "https://www.elayne.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Elayne is redefining estate management with AI-powered solutions that simplify planning, execution, and net worth optimization. Whether you're securing your legacy or navigating the complexities of settling a loved one's affairs & estate, Elayne bridges the gap between financial wellness and estate management—disrupting a $260bn legacy industry, reducing administrative burdens, and ensuring families have guidance and clarity through every life milestone.\r\n\r\nWe partner with employers, financial institutions, and insurers to deliver a modern solution that transforms how people manage wealth, transitions, and legacies.\r\n\r\n🔹 AI-driven estate management\r\n🔹 Proactive financial insights\r\n🔹 Automated post-loss settlements\r\n\r\nLearn how Elayne is setting a new standard in estate and legacy management. Visit elayne.com.",
+    "one_liner": "AI estate management & automated settlements after death",
+    "team_size": 6,
+    "industry": "Fintech",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1718839098,
+    "tags": [
+      "Fintech",
+      "Generative AI",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/elayne",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/elayne.json"
   },
   {
     "id": 29848,

@@ -4782,7 +4782,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -11012,53 +11012,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/emobi.json"
   },
   {
-    "id": 25603,
-    "name": "Reforged Labs",
-    "slug": "reforged-labs",
-    "former_names": [
-      "Nook"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/42624b47fffc5d9d7f83077c9c444743511d6eb9.png",
-    "website": "https://reforgedlabs.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Reforged Labs is building the world's first AI creative strategist to supercharge creative research, campaign strategy, and performance insights, empowering game marketing and creative teams be more productive and effective.",
-    "one_liner": "The first AI performance marketing analyst for mobile game marketers",
-    "team_size": 15,
-    "industry": "Consumer",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1644566628,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "B2B",
-      "Gaming",
-      "Advertising"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Gaming"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/reforged-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/reforged-labs.json"
-  },
-  {
     "id": 25614,
     "name": "T3 Chat",
     "slug": "t3-chat",
@@ -15751,7 +15704,8 @@
     "slug": "codeparrot-ai",
     "former_names": [
       "encoding.ai",
-      "Good Engineering"
+      "Good Engineering",
+      "Codeparrot"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc7c9f809980c4c0462aa8ad39e4f211d37121ab.png",
     "website": "https://codeparrot.ai/",
@@ -15773,7 +15727,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -17107,6 +17061,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/menza.json"
   },
   {
+    "id": 28880,
+    "name": "FleetWorks",
+    "slug": "fleetworks",
+    "former_names": [
+      "FleetWorks",
+      "Aproxy.AI",
+      "Aproxy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a80d70ab859d56f2c6d80015c65811a8485884b6.png",
+    "website": "https://fleetworks.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "FleetWorks is rebuilding the $1 trillion freight marketplace with AI.\r\n\r\nEvery year, companies spend over a trillion dollars moving freight across the U.S. — but the system for matching trucks with jobs is still slow, manual, and fragmented.\r\n\r\nFleetWorks is fixing that. We’re turning today’s chaotic freight market into a modern, intelligent marketplace — one where AI agents replace the endless phone calls, texts and emails and match jobs to trucks instantly.",
+    "one_liner": "AI enabled marketplace matching trucks with jobs",
+    "team_size": 20,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1692114463,
+    "tags": [
+      "Artificial Intelligence",
+      "Logistics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fleetworks",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/fleetworks.json"
+  },
+  {
     "id": 28882,
     "name": "Repaint",
     "slug": "repaint",
@@ -17284,47 +17282,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cleancard",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/cleancard.json"
-  },
-  {
-    "id": 28894,
-    "name": "Airfront",
-    "slug": "airfront-ai",
-    "former_names": [
-      "Bazaar"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b86e87191ef1a7382782422ec34bd133d964ea0.png",
-    "website": "https://airfront.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Airfront is a 24/7 AI receptionist that answers every call, qualifies the caller, and books appointments. It syncs notes and scheduling to your existing systems so you never lose a lead after hours or on busy days.",
-    "one_liner": "AI receptionist for busy service teams.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1725912013,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/airfront-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/airfront-ai.json"
   },
   {
     "id": 28921,
@@ -19289,6 +19246,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/upsolve-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/upsolve-ai.json"
+  },
+  {
+    "id": 29184,
+    "name": "DryMerge",
+    "slug": "drymerge",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1f059f261793064d1e71c446f372bef42ee5e12.png",
+    "website": "https://www.drymerge.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We create AI agents that constantly monitor emails, calendar, calls, or wherever else companies have relationship data and organize it into CRM records as meticulously as a great rep would.\r\n\r\nWe build these agents on top of the DryMerge platform, a tool to build AI agents that integrate with business apps and work in the background.\r\n",
+    "one_liner": "AI that updates your CRM for you",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1701198714,
+    "tags": [
+      "Artificial Intelligence",
+      "CRM",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/drymerge",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/drymerge.json"
   },
   {
     "id": 29187,
@@ -21348,48 +21345,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/soundry-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/soundry-ai.json"
-  },
-  {
-    "id": 29385,
-    "name": "Hazel",
-    "slug": "hazel-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27eb77e66d041fd97b3afe3275e43bfa07c30bf6.png",
-    "website": "https://hazelai.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Hazel sells AI-powered procurement software to the 19,000+ local, state, and federal government entities which procure $2.7T a year. We use AI to write solicitations 10x faster and find 10x as many vendors, saving time and money",
-    "one_liner": "AI-enabled procurement software for government",
-    "team_size": 5,
-    "industry": "Government",
-    "subindustry": "Government",
-    "launched_at": 1705430466,
-    "tags": [
-      "Artificial Intelligence",
-      "GovTech",
-      "Procurement"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Government"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hazel-2",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/hazel-2.json"
   },
   {
     "id": 29386,
@@ -26044,50 +25999,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/quetzal.json"
   },
   {
-    "id": 29841,
-    "name": "Elayne",
-    "slug": "elayne",
-    "former_names": [
-      "Elayne AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a98fa9035236422ae40e39daab0354f2090e797e.png",
-    "website": "https://www.elayne.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Elayne is redefining estate management with AI-powered solutions that simplify planning, execution, and net worth optimization. Whether you're securing your legacy or navigating the complexities of settling a loved one's affairs & estate, Elayne bridges the gap between financial wellness and estate management—disrupting a $260bn legacy industry, reducing administrative burdens, and ensuring families have guidance and clarity through every life milestone.\r\n\r\nWe partner with employers, financial institutions, and insurers to deliver a modern solution that transforms how people manage wealth, transitions, and legacies.\r\n\r\n🔹 AI-driven estate management\r\n🔹 Proactive financial insights\r\n🔹 Automated post-loss settlements\r\n\r\nLearn how Elayne is setting a new standard in estate and legacy management. Visit elayne.com.",
-    "one_liner": "AI estate management & automated settlements after death",
-    "team_size": 4,
-    "industry": "Fintech",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1718839098,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/elayne",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/elayne.json"
-  },
-  {
     "id": 29854,
     "name": "Keet",
     "slug": "keet",
@@ -28897,7 +28808,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -29344,6 +29255,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/copycat.json"
   },
   {
+    "id": 30339,
+    "name": "Ergo",
+    "slug": "ergo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd659fbea3fde9a2b42434fe03f0a75943f09e6a.png",
+    "website": "https://joinergo.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ergo is AI for sales teams, monitoring customer communication across tools like Zoom, Email, and Slack to keep CRMs such as HubSpot and Salesforce up to date. Ergo’s AI agents execute revenue-generating activities, such as automating mid-funnel follow-ups based on external market signals and past customer interactions. By eliminating manual operational tasks, Ergo helps sales teams maintain active pipelines, prevent deals from stalling, and cut sales cycles in half.",
+    "one_liner": "AI Agents for Sales Operations",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1737484568,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Sales"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ergo",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/ergo.json"
+  },
+  {
     "id": 30351,
     "name": "ThirdLayer",
     "slug": "thirdlayer",
@@ -29729,51 +29682,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/chonkie.json"
   },
   {
-    "id": 30432,
-    "name": "HelixDB",
-    "slug": "helixdb",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfc8c59d06bd11958f3cd88c35b928397093f7d8.png",
-    "website": "https://helix-db.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "As AI agents replace traditional software, they need a way to store, recall, and reason over contextual data. HelixDB gives them all of that in one system. We’re building the knowledge infrastructure every AI agent will depend on.",
-    "one_liner": "Supabase for agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1747978820,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
-      "Infrastructure",
-      "Databases"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/helixdb",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/helixdb.json"
-  },
-  {
     "id": 30437,
     "name": "Kaelio",
     "slug": "kaelio",
@@ -30157,6 +30065,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lyrahq",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/lyrahq.json"
+  },
+  {
+    "id": 30494,
+    "name": "Nixo",
+    "slug": "nixo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png",
+    "website": "https://withnixo.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "The first ops platform built for FDEs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1752219403,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Workflow Automation",
+      "Customer Success"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nixo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/nixo.json"
   },
   {
     "id": 30496,
@@ -31468,7 +31417,7 @@
     "name": "Design Arena",
     "slug": "design-arena",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d8ed7b9922cd71ce20920968c5cf25934ce4ad1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f1a8344ff885ad778d50753135552f998c9bb9e.png",
     "website": "https://www.designarena.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -31672,49 +31621,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/imprezia",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/imprezia.json"
-  },
-  {
-    "id": 30651,
-    "name": "Alter",
-    "slug": "alter",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a30946452aaca1a7c8b4b8fefafd9807f194243.png",
-    "website": "https://alterai.dev",
-    "all_locations": "New York, NY, USA",
-    "long_description": "",
-    "one_liner": "Secure access control and authorization platform for agent workflows",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1752476002,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Developer Tools",
-      "DevSecOps",
-      "Security"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alter",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/alter.json"
   },
   {
     "id": 30656,
@@ -32098,6 +32004,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/comena.json"
   },
   {
+    "id": 30699,
+    "name": "VibeFlow",
+    "slug": "vibeflow",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5596537c1b7f7b2fdc729cd0da77e9c233f79180.png",
+    "website": "https://vibeflow.ai/",
+    "all_locations": "",
+    "long_description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
+    "one_liner": "Prompt to full stack app with visual workflows",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1753078619,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Consumer",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vibeflow",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/vibeflow.json"
+  },
+  {
     "id": 30700,
     "name": "Nozomio",
     "slug": "nozomio",
@@ -32394,6 +32340,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/motives.json"
   },
   {
+    "id": 30716,
+    "name": "Finto",
+    "slug": "finto-de",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6adb7f41be65aa21db82cf58680bb6b24b1fdaa.png",
+    "website": "https://www.gofinto.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Finto builds an AI platform that automates the invoice-to-pay process for enterprises operating on ERP Systems. Cutting out 80% of the accountants daily work in invoice recording, account coding and  invoice approvals.\r\n",
+    "one_liner": "AI accounting for enterprises",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1751218179,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/finto-de",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/finto-de.json"
+  },
+  {
     "id": 30717,
     "name": "Iron Grid",
     "slug": "iron-grid",
@@ -32557,47 +32545,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/floot",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/floot.json"
-  },
-  {
-    "id": 30734,
-    "name": "Avelis Health",
-    "slug": "avelis-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9759643303306b86f190396a0aa959a693947140.png",
-    "website": "https://avelishealth.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "𝐖𝐡𝐲 𝐰𝐞 𝐛𝐮𝐢𝐥𝐭 𝐭𝐡𝐢𝐬:\r\nI (Angel) have had three knee surgeries since my mid-teens and was billed more than $250K for care that should have cost a fraction of that. Fighting those inflated charges was so painful that we set out to build a consumer-facing AI agent to do it for others. In less than five months, we helped sixty patients erase or reduce over $280K from their medical bills.\r\n\r\nThis inspired us to fix the problem farther upstream: stopping bad payments before the patient ever sees a bill. So we launched payment integrity, machine-learning models that audit every medical claim for self-insured employers and health plans in real time.\r\n\r\n𝐓𝐡𝐞 𝐏𝐫𝐨𝐛𝐥𝐞𝐦:\r\n• Self-insured employers waste $60 B+ each year on claims that never should have been paid\r\n\r\n• Manual audits are slow and partial: Reviewers focus only on high-dollar claims, letting millions more slip through unnoticed.\r\n\r\n• Existing audit software is static: Decades-old rule engines can’t keep pace with evolving codes, contracts, or billing tactics.\r\n\r\n• Incentives are misaligned: Third-party administrators are paid to process claims, not to police them, so accuracy checks are minimal.\r\n\r\n𝐎𝐮𝐫 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧:\r\nOur models audit medical claims before and after payments have been issued. We catch nuanced billing, coding, and contract errors to save 3-7% on annual claims spend. We work with self-insured employers and health plans.\r\n\r\n𝐀𝐛𝐨𝐮𝐭 𝐔𝐬:\r\nAngel Onuoha (CEO) and Ahmad Shehu (CTO) have worked together for 4 years. Before Avelis Health they built Zuvy, a Lagos-based fintech company that provided invoice factoring to small businesses. Zuvy was acquired by The BAS Group in 2025.",
-    "one_liner": "We audit medical claims for self-insured employers and health plans.",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1753718864,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avelis-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/avelis-health.json"
   },
   {
     "id": 30738,
@@ -32852,6 +32799,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stagewise",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/stagewise.json"
+  },
+  {
+    "id": 30775,
+    "name": "Fleetline",
+    "slug": "fleetline",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea7f2d064227baf73862c76f498eff3ea9f6c7d.png",
+    "website": "https://fleetline.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fleetline is building the first complete-context algorithmic load planner for  mid to large-sized trucking fleets. Today’s dispatchers face an overwhelming task: balancing regulations, customer demands, live fleet data, and individual driver needs, all while coordinating across siloed tools and teams. Mistakes run rampant, and each mistake is thousands of dollars. Even the select fleets using algorithms that have fleet-wide context struggle: the outputs are rigid, hard to interpret, and are blind to real-world nuances like driver preferences and schedule exceptions. Fleetline solves this by combining advanced optimization with LLMs that can easily adapt algorithms to each fleet’s needs and capture driver-specific information. The result is smarter planning truly optimized for every fleet and its drivers.",
+    "one_liner": "Optimizing fleet planning with data driven algorithms",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1754335865,
+    "tags": [
+      "Artificial Intelligence",
+      "Logistics",
+      "Supply Chain",
+      "Data Science"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fleetline",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/fleetline.json"
   },
   {
     "id": 30782,
