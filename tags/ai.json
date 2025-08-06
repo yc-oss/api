@@ -1701,52 +1701,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2019/allsome-fulfillment.json"
   },
   {
-    "id": 11976,
-    "name": "BrainKey",
-    "slug": "brainkey",
-    "former_names": [
-      "Brain Key"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37ef137c0b25704bcbf6c8a2e9e8910944567fe6.png",
-    "website": "https://www.brainkey.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "BrainKey is an AI-driven digital healthcare company with a mission to create a world free from dementia. The company specializes in developing advanced clinical technologies that empower longevity physicians to detect and prevent cognitive decline and other brain longevity challenges. By analyzing brain MRI and biomedical data, BrainKey provides highly accurate and personalized brain health insights, supporting physicians in delivering tailored care for brain longevity. BrainKey's AI-powered platform streamlines diagnostics and reporting, improving both clinical outcomes and financial efficiency across the continuum of brain health care.\r\n\r\nShort Clip about BrainKey from the BBC: https://www.youtube.com/watch?v=ioSgvROTP0E\r\n",
-    "one_liner": "Brain Longevity: We quantify brain health",
-    "team_size": 12,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Diagnostics",
-    "launched_at": 1541131379,
-    "tags": [
-      "Neurotechnology",
-      "Health Tech",
-      "Digital Health",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2019",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Diagnostics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/brainkey",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/brainkey.json"
-  },
-  {
     "id": 11986,
     "name": "Tailornova/Couturme",
     "slug": "tailornova-couturme",
@@ -2086,7 +2040,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -3350,6 +3304,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/recurrency",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/recurrency.json"
+  },
+  {
+    "id": 13334,
+    "name": "DeepSource",
+    "slug": "deepsource",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40895f9d8f2b40522c600e5eaad2d50a265b76ca.png",
+    "website": "https://deepsource.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DeepSource helps developers ship clean and secure software by automatically scanning their code and fixing it with Autofix™ AI. We're trusted by 7,000+ teams, from startups to Fortune 500s.",
+    "one_liner": "Unified DevSecOps platform, helping developers ship good code.",
+    "team_size": 12,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1583972966,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/deepsource",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/deepsource.json"
   },
   {
     "id": 13522,
@@ -5102,8 +5100,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be16f533fa3c585f372247f4f8cbf40d31f24c27.png",
     "website": "https://affogato.ai",
     "all_locations": "Bengaluru, KA, India",
-    "long_description": "Affogato is an AI media creation platform that helps businesses, marketers, and creators produce high-quality content using hyper-realistic AI characters. With Affogato, you can create talking videos, lifestyle images, and product visuals without the need for costly shoots or editing tools. Whether you’re promoting a product, running ads, or building a brand presence online, Affogato gives you powerful, easy-to-use tools to bring your ideas to life—quickly, affordably, and at scale. It’s the fastest way to turn your product into a story that sells.",
-    "one_liner": "Affogato lets you create marketing content with AI characters.",
+    "long_description": "Affogato is Cursor for short videos—an AI copilot that turns your ideas into ready-to-publish videos for TikTok, Instagram, and more.\r\nJust describe what you want, and Affogato handles the rest—scripts, voices, visuals, scenes, and edits—no timelines, no tools, no learning curve. Whether you’re marketing a product, telling a story, or just posting for fun, Affogato helps you create scroll-stopping content in minutes.",
+    "one_liner": "Affogato is Cursor for short videos",
     "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -7811,7 +7809,9 @@
     "id": 26094,
     "name": "Cellbyte",
     "slug": "cellbyte",
-    "former_names": [],
+    "former_names": [
+      "Glocally"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcdb88b3fbed507fd0624712ba4d55c173500ac.png",
     "website": "https://www.cellbyte.com/",
     "all_locations": "Munich, BY, Germany",
@@ -7819,7 +7819,7 @@
     "one_liner": "AI Agents for Pharma Drug Launches",
     "team_size": 3,
     "industry": "Healthcare",
-    "subindustry": "B2B -> Supply Chain and Logistics",
+    "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1643107083,
     "tags": [
       "Data Science",
@@ -8294,51 +8294,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bunting-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/bunting-labs.json"
-  },
-  {
-    "id": 26717,
-    "name": "Blitz",
-    "slug": "blitz",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9319d5ef3419cc17f12a1fb2910035be736adcb4.png",
-    "website": "https://www.blitznocode.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Blitz is a no-code platform to build internal applications and automate manual tasks. Quickly build a database, integrate your logic, and scale your operations. \r\n\r\nAlternative to Google Sheet and Airtable, Blitz is not limited by a number of lines of records or by an API rate. \r\n\r\nCreate your data model and set up data validation rules. Use our interface builder to create dynamic forms, and quickly onboard customer and partners. Leverage our granular permissions to share data to external users (publicly or privately). Add advanced business logic to your forms and portals, without writing any line of code. The experience is similar to creating spreadsheets, but without their limitations in terms of scalability and security. \r\n\r\nYou can use Blitz to build an onboarding flow, an order management system or some validation workflows for compliance purposes. \r\n\r\nStop using developer resources or rigid SaaS software. Start building your own tools, adapted to your needs, with Blitz. ",
-    "one_liner": "Lovable for non-techs: Build internal and customer apps with zero code",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1656995564,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "No-code",
-      "AI",
-      "Databases"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/blitz",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/blitz.json"
   },
   {
     "id": 26718,
@@ -9698,50 +9653,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/boton",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/boton.json"
-  },
-  {
-    "id": 27141,
-    "name": "Avina",
-    "slug": "avina",
-    "former_names": [
-      "Mesh Interactive"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79195177640dfecbfedb5a0b006bbe3683aa1f14.png",
-    "website": "https://avina.io",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Avina is a signals orchestration platform for B2B GTM teams that unlocks their hidden pipeline by gathering, prioritizing and enabling them to act on the most important buying signals and tasks.",
-    "one_liner": "GTM signals engine for sales teams. Automate warm outbound with AI.",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1673552937,
-    "tags": [
-      "B2B",
-      "Sales",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avina",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/avina.json"
   },
   {
     "id": 27142,
@@ -13698,6 +13609,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/menza.json"
   },
   {
+    "id": 28886,
+    "name": "Cardinal Gray",
+    "slug": "cardinal-gray",
+    "former_names": [
+      "Cardinal Gray Incorporated"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd23108e8186366e29a1827c228ceddd75097d20.png",
+    "website": "https://www.cardinalgray.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Cardinal Gray offers software to automate workflows in vehicle title and registration. Auto lenders and dealerships use our software to accelerate title work, improve customer experiences, and detect fraud. ",
+    "one_liner": "Title workflow automation for auto lenders and dealers",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1687970738,
+    "tags": [
+      "Workflow Automation",
+      "Enterprise Software",
+      "Consumer Finance",
+      "AI",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cardinal-gray",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/cardinal-gray.json"
+  },
+  {
     "id": 28890,
     "name": "Decoda Health",
     "slug": "decoda-health",
@@ -14285,6 +14241,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inlet-2",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/inlet-2.json"
+  },
+  {
+    "id": 28992,
+    "name": "Rankai",
+    "slug": "rankai",
+    "former_names": [
+      "LineUp"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d8be8a05c36ad89e0a6589a8573fae10d75c592.png",
+    "website": "https://rankai.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Rankai is building an AI-powered Marketing Agency, starting with search engine marketing.",
+    "one_liner": "Jumpstarting SEO/GEO with AI + Human Experts",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1731442233,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rankai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/rankai.json"
   },
   {
     "id": 28994,
@@ -16467,6 +16467,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/glimmer",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/glimmer.json"
+  },
+  {
+    "id": 29325,
+    "name": "Keywords AI",
+    "slug": "keywords-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f60a49b454abcbf399c1110eb888b6aa3b0627f.png",
+    "website": "https://keywordsai.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Keywords AI is used by 60+ fastest growing YC startups to ship reliable AI features really fast.\r\n\r\nMonitor and debug:\r\n- Request logging with full text search to monitor AI in prod\r\n- LLM agent tracing to debug workflows with ease\r\n- Metrics dashboard to understand usage, cost, latency, and get product growth metrics\r\n- User analytics to learn how every user is using your product\r\n\r\nBuild and iterate:\r\n- Collaborative prompt management\r\n- Playground for 350+ models\r\n- Model gateway with OpenAI/Anthropic API interface\r\n- Eval & experiments",
+    "one_liner": "LLM observability, prompt management, evals.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1711136962,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "SaaS",
+      "Monitoring",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/keywords-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/keywords-ai.json"
   },
   {
     "id": 29326,
@@ -21693,47 +21738,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/riveter-ai.json"
   },
   {
-    "id": 30019,
-    "name": "ShowAndTell",
-    "slug": "showandtell",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c665b16548130250a715fffb82efe08cc789e047.png",
-    "website": "https://www.tryshowandtell.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "ShowAndTell creates AI agents for dental patient operations. Our agents educate patients, boost case acceptance, and build lasting trust. We enable dental staff to focus on patient care rather than patient operations.",
-    "one_liner": "Agents for dental operations",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1732046929,
-    "tags": [
-      "Generative AI",
-      "Health Tech",
-      "Dental",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/showandtell",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/showandtell.json"
-  },
-  {
     "id": 30022,
     "name": "Symphony",
     "slug": "symphony",
@@ -24813,51 +24817,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/fluidize.json"
   },
   {
-    "id": 30362,
-    "name": "Ambral",
-    "slug": "ambral",
-    "former_names": [
-      "Helium",
-      "Halidom",
-      "Helium",
-      "Ambral AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
-    "website": "https://www.ambral.com/",
-    "all_locations": "",
-    "long_description": "Ambral is an AI account management team that finds the upsell opportunities and churn-risks hiding in your data.\r\n\r\nWe analyze telemetry from customer relationships, synthesizing the critical signals from your messy data to generate dynamic AI models of every account. We pinpoint exactly who needs attention and why, then recommend or autonomously take the right action to drive an expansion, prevent churn, or create a new champion.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
-    "one_liner": "AI-powered Account Managers",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1753910833,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ambral",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/ambral.json"
-  },
-  {
     "id": 30400,
     "name": "Plexe",
     "slug": "plexe",
@@ -26992,6 +26951,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/agentmail.json"
   },
   {
+    "id": 30620,
+    "name": "Ghostship",
+    "slug": "ghostship",
+    "former_names": [
+      "Playdo.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e6eeafade8c1d3cdb6545bb6e588d11a521444e.png",
+    "website": "https://tryghostship.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We find bugs in your product with AI agents that crawl across your app and test its features. All you need to do is connect your Github and every time you create a PR, Ghostship will figure out where the bugs are before you push to main.\r\n\r\nWe're starting with web apps, but we'll eventually test any piece of software your users would interact with like a mobile app or a desktop app.\r\n\r\nGhostship — ship something people want.",
+    "one_liner": "AI Agents that Find Bugs in Your Product",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1754285936,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "DevOps",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/ghostship",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/ghostship.json"
+  },
+  {
     "id": 30624,
     "name": "Verne Robotics",
     "slug": "verne-robotics",
@@ -27197,45 +27201,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alter",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/alter.json"
-  },
-  {
-    "id": 30653,
-    "name": "Skope",
-    "slug": "skope",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c24ca870b6eaffd66597cfdb3e463eeed660675.png",
-    "website": "https://useskope.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re taking a new approach to the legacy billing system, for AI-native companies. On top of normal pricing models, Skope allows companies to create a new stream of revenue by capturing a portion of the value their agents create through “outcome-based pricing\".",
-    "one_liner": "A modern billing system for AI-native companies.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1750879126,
-    "tags": [
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/skope",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/skope.json"
   },
   {
     "id": 30660,
@@ -27653,6 +27618,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/mimos.json"
   },
   {
+    "id": 30706,
+    "name": "Solva",
+    "slug": "solva",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3433319e1ee9ca49d1592168aee7f875a287f1ea.png",
+    "website": "https://solvatechnology.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Harvey for insurance - AI that automates insurance claims and stops wrongful payouts\r\n\r\nWe've spent the last decade battling legacy systems and dogma across highly regulated sectors of the financial industry. Between the three of us we have experience from scaling Europe’s fastest-growing InsurTech and founding a EU-licensed bank (EBA CRD CI). ",
+    "one_liner": "Harvey for insurance",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1754360048,
+    "tags": [
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/solva",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/solva.json"
+  },
+  {
     "id": 30722,
     "name": "Omnara",
     "slug": "omnara",
@@ -27735,27 +27740,24 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/risely-ai.json"
   },
   {
-    "id": 30726,
-    "name": "Socratix AI",
-    "slug": "socratix-ai",
-    "former_names": [
-      "Tarkana AI",
-      "Socratix AI, Inc"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e2ca9bf4442a297067557ded4df426f78a01f37.png",
-    "website": "https://getsocratix.ai",
+    "id": 30729,
+    "name": "Floot",
+    "slug": "floot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f34cf0cf02c3e2059e48082daf0ddc693722515.png",
+    "website": "https://floot.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Socratix builds AI coworkers for fraud and risk teams so that humans don't have to spend their days drowning in alerts and spreadsheets.\r\n\r\nToday, fraud and risk teams at fintechs and banks are overwhelmed. Analysts jump between tools, manually stitch together context, and make judgment calls under pressure, often for hundreds of alerts a week. Too much of their work is slow, repetitive, and error-prone. We're here to change that. \r\n\r\nSocratix gives fraud and risk teams AI coworkers that investigate alerts in real time, replacing manual reviews with fast, explainable decisions. Socratix agents plug into existing workflows and reason across signals just like human analysts to help teams reduce fraud losses, minimize false positives, and scale operations without scaling headcount.\r\n\r\nWe've seen this problem firsthand. At DoorDash, Riya helped save $30M+ a year by building smarter fraud detection and investigation tooling, and at Unit21, she built products for analysts that made them 3X faster. We're able to build and sell enterprise-grade software. At Cruise, Satya built scalable AI systems powering petabyte-scale data, and at LinkedIn, he built enterprise products from 0 to 1 generating $50M+ in incremental revenue. Now, the two of us are teaming up to eliminate the manual toil in fraud and risk.\r\n\r\nWe're obsessed with fraud, LLMs, real-world automation, and the messy edge cases traditional ML has trouble handling. We believe that every fraud analyst should have an AI coworker - and the future of fraud will involve combining human-level reasoning with machine-speed execution. ",
-    "one_liner": "AI coworkers for fraud and risk teams.",
+    "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI. Since June, 3000+ users have created over 4000 apps on Floot.\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
+    "one_liner": "The easiest and most powerful way to build apps with AI.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1752778488,
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1753721322,
     "tags": [
-      "Fintech",
-      "B2B",
-      "Fraud Prevention",
-      "Fraud Detection",
+      "Generative AI",
+      "SaaS",
+      "No-code",
+      "Web Development",
       "AI"
     ],
     "tags_highlighted": [],
@@ -27766,7 +27768,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -27777,8 +27779,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/socratix-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/socratix-ai.json"
+    "url": "https://www.ycombinator.com/companies/floot",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/floot.json"
   },
   {
     "id": 30730,
@@ -27943,6 +27945,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pares-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pares-ai.json"
+  },
+  {
+    "id": 30738,
+    "name": "Altur",
+    "slug": "altur",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce362aa339ed75ccb6c9572c39d69b3d181f1cc9.png",
+    "website": "https://altur.io",
+    "all_locations": "Mexico City, CDMX, Mexico",
+    "long_description": "Altur replaces contact‑center reps with autonomous voice/text agents that collect debt and close sales, while supervisors jump in only when the AI requests help.",
+    "one_liner": "AI agents for debt collection and sales",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1750622964,
+    "tags": [
+      "Generative AI",
+      "Telecommunications",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Mexico",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/altur",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/altur.json"
   },
   {
     "id": 30742,

@@ -35,7 +35,7 @@
       "Unspecified"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -98,16 +98,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
     "website": "https://www.ambral.com/",
     "all_locations": "",
-    "long_description": "Ambral is an AI account management team that finds the upsell opportunities and churn-risks hiding in your data.\r\n\r\nWe analyze telemetry from customer relationships, synthesizing the critical signals from your messy data to generate dynamic AI models of every account. We pinpoint exactly who needs attention and why, then recommend or autonomously take the right action to drive an expansion, prevent churn, or create a new champion.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
+    "long_description": "Ambral is an AI account management team that finds the upsell opportunities and churn-risks hiding in your data.\r\n\r\nWe analyze telemetry from customer relationships, synthesizing the critical signals from your messy data to generate dynamic AI models of every account. We pinpoint exactly who needs attention and why, then recommend or autonomously take the right action to drive an expansion, prevent churn, and make sure no request falls through the cracks.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
     "one_liner": "AI-powered Account Managers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1753910833,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -135,10 +135,10 @@
     "name": "Nixo",
     "slug": "nixo",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b97edbace40b8e2e20e603f1feeeccf3379d5e2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3442ddefa8f2ffb38f683757efc6de9a1e78890b.png",
     "website": "https://withnixo.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Most orgs think custom implementations are slow because each one is too unique. In reality, FDEs lose days chasing customers for details and redoing overlapping work. With Nixo, you can scope customer problems faster, discover opportunities to reuse code, and get instant visibility into workload across accounts.",
     "one_liner": "The first ops platform built for FDEs",
     "team_size": 2,
     "industry": "B2B",
@@ -626,6 +626,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/truthsystems.json"
   },
   {
+    "id": 30613,
+    "name": "Blank Bio",
+    "slug": "blank-bio",
+    "former_names": [
+      "Orthrus Bio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be87bc4cb37ba90fa0907b54d6337ec3f0723a2f.png",
+    "website": "http://blank.bio/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Blank Bio is building foundation models to power a computational toolkit for RNA therapeutics.\r\n\r\nOur first model is state-of-the-art in mRNA property prediction. It simulates costly experiments, helping partners design more effective mRNA medicines faster and cheaper. Our open-source models are being used by Sanofi & GSK. We’re also collaborating with the Arc Institute to bring our RNA embeddings into the next generation of virtual cell models. \r\n\r\nmRNA design is just the beginning. As the model improves, we’re extending to applications like target ID, novel biomarker discovery, patient stratification, and more. We’ve spent decades applying machine learning to biology across academia (Ph.D.’s at the University of Toronto) and industry (Recursion, Deep Genomics, Amazon). \r\n\r\nContact us to learn more: founders@blank.bio ",
+    "one_liner": "Computational toolkit for RNA therapeutics ",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Therapeutics",
+    "launched_at": 1754432955,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Artificial Intelligence",
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Therapeutics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blank-bio",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/blank-bio.json"
+  },
+  {
     "id": 30615,
     "name": "Lanesurf",
     "slug": "lanesurf",
@@ -794,6 +837,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shor",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/shor.json"
+  },
+  {
+    "id": 30620,
+    "name": "Ghostship",
+    "slug": "ghostship",
+    "former_names": [
+      "Playdo.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e6eeafade8c1d3cdb6545bb6e588d11a521444e.png",
+    "website": "https://tryghostship.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We find bugs in your product with AI agents that crawl across your app and test its features. All you need to do is connect your Github and every time you create a PR, Ghostship will figure out where the bugs are before you push to main.\r\n\r\nWe're starting with web apps, but we'll eventually test any piece of software your users would interact with like a mobile app or a desktop app.\r\n\r\nGhostship — ship something people want.",
+    "one_liner": "AI Agents that Find Bugs in Your Product",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1754285936,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "DevOps",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/ghostship",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/ghostship.json"
   },
   {
     "id": 30621,
@@ -1041,6 +1129,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/design-arena",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/design-arena.json"
+  },
+  {
+    "id": 30638,
+    "name": "Lotas",
+    "slug": "lotas",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b64e79cf442071bbe251c8f19acacccc3dbf1fea.png",
+    "website": "https://www.lotas.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Lotas, we're accelerating data science with AI. Our first product, Rao, is a fork of RStudio with an embedded AI assistant that is aware of the project’s context (both files and variable environment), can read and write files, can run code or commands, and can interpret textual or visual output. It works with any of the file formats already in RStudio (R, notebooks including RMDs and QMDs, Python, Stan, etc.), allowing it to iteratively perform entire data analyses.",
+    "one_liner": "Cursor for RStudio",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1754374450,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Data Science",
+      "Data Visualization"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lotas",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/lotas.json"
   },
   {
     "id": 30640,
@@ -1437,8 +1567,9 @@
     "subindustry": "B2B",
     "launched_at": 1750879126,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "AI"
+      "Billing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2341,7 +2472,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15e87b5dae1ddc0ace7595505c49a86f51b6979a.png",
     "website": "https://epicenter.so/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Epicenter is an open-source, local-first ecosystem for writers, builders, and privacy enthusiasts. It stores all your work—notes, transcripts, chat histories—in a single folder of plain text. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. ❤️\r\n\r\n\r\n\r\n",
+    "long_description": "Epicenter is an ecosystem of open-source, local-first apps. We store all your work—notes, transcripts, chat histories—in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. ❤️\r\n\r\n\r\n\r\n",
     "one_liner": "A database for your mind, built on plain text.",
     "team_size": 1,
     "industry": "Consumer",
@@ -2788,6 +2919,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/summon",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/summon.json"
+  },
+  {
+    "id": 30706,
+    "name": "Solva",
+    "slug": "solva",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3433319e1ee9ca49d1592168aee7f875a287f1ea.png",
+    "website": "https://solvatechnology.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Harvey for insurance - AI that automates insurance claims and stops wrongful payouts\r\n\r\nWe've spent the last decade battling legacy systems and dogma across highly regulated sectors of the financial industry. Between the three of us we have experience from scaling Europe’s fastest-growing InsurTech and founding a EU-licensed bank (EBA CRD CI). ",
+    "one_liner": "Harvey for insurance",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1754360048,
+    "tags": [
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/solva",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/solva.json"
   },
   {
     "id": 30707,
@@ -3266,11 +3437,11 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1752778488,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
-      "Fraud Prevention",
-      "Fraud Detection",
-      "AI"
+      "Enterprise",
+      "Fraud Detection"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3344,17 +3515,17 @@
     "website": "https://floot.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI. Since June, 3000+ users have created over 4000 apps on Floot.\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
-    "one_liner": "The easiest and most powerful AI app builder.",
+    "one_liner": "The easiest and most powerful way to build apps with AI.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753721322,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "No-code",
-      "Web Development"
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3550,16 +3721,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce362aa339ed75ccb6c9572c39d69b3d181f1cc9.png",
     "website": "https://altur.io",
     "all_locations": "Mexico City, CDMX, Mexico",
-    "long_description": "",
+    "long_description": "Altur replaces contact‑center reps with autonomous voice/text agents that collect debt and close sales, while supervisors jump in only when the AI requests help.",
     "one_liner": "AI agents for debt collection and sales",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750622964,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
-      "Telecommunications"
+      "Telecommunications",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4749,10 +4920,10 @@
     "name": "Mobile Operator",
     "slug": "mobile-operator",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d68045187489ed759dbce55922735d8dfc70b89.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01723c14359ca49347f0c56cac50b76e726bd492.png",
     "website": "https://mobileoperator.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stop manually testing your app. Simply connect Mobile Operator to your CI/CD and let our AI agents take over. They explore your app like real users, not only catching crashes and bugs but also spotting UX problems. \r\nWithin 2 hours of testing, you’ll receive a detailed report highlighting everything that needs fixing, so you can fix it and release with confidence",
+    "long_description": "Stop manually testing your app. Simply connect Mobile Operator to your CI/CD and let our AI agents take over. They explore your app like real users, not only catching crashes and bugs but also spotting UX problems. ",
     "one_liner": "AI agent that does QA on mobile apps",
     "team_size": 1,
     "industry": "B2B",
@@ -4949,10 +5120,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d953f614b90f897eb3f17d74909591b83860cbc1.png",
     "website": "https://noxmetals.co/",
-    "all_locations": "",
-    "long_description": "Nox Metals is building the fastest processing metals factory in North America. Our software runs quoting, scheduling, and operations to streamline production and reduce cost. We supply CNC shops with custom-cut material at unmatched speed and efficiency.",
+    "all_locations": "Detroit, MI, USA",
+    "long_description": "Nox Metals is building the fastest metals processing factories in North America. Our software runs quoting, scheduling, and operations to streamline production and reduce cost. We supply America's industrial base with custom-cut material at unmatched speed and efficiency.",
     "one_liner": "The modern factory for fast, low-cost metals. ",
-    "team_size": 1,
+    "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Unspecified",
     "launched_at": 1751751667,
@@ -4968,7 +5139,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

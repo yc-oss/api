@@ -8373,15 +8373,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "BrainKey is an AI-driven digital healthcare company with a mission to create a world free from dementia. The company specializes in developing advanced clinical technologies that empower longevity physicians to detect and prevent cognitive decline and other brain longevity challenges. By analyzing brain MRI and biomedical data, BrainKey provides highly accurate and personalized brain health insights, supporting physicians in delivering tailored care for brain longevity. BrainKey's AI-powered platform streamlines diagnostics and reporting, improving both clinical outcomes and financial efficiency across the continuum of brain health care.\r\n\r\nShort Clip about BrainKey from the BBC: https://www.youtube.com/watch?v=ioSgvROTP0E\r\n",
     "one_liner": "Brain Longevity: We quantify brain health",
-    "team_size": 12,
+    "team_size": 20,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1541131379,
     "tags": [
+      "Artificial Intelligence",
       "Neurotechnology",
       "Health Tech",
-      "Digital Health",
-      "AI"
+      "Digital Health"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19888,7 +19888,9 @@
     "id": 26094,
     "name": "Cellbyte",
     "slug": "cellbyte",
-    "former_names": [],
+    "former_names": [
+      "Glocally"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdcdb88b3fbed507fd0624712ba4d55c173500ac.png",
     "website": "https://www.cellbyte.com/",
     "all_locations": "Munich, BY, Germany",
@@ -19896,7 +19898,7 @@
     "one_liner": "AI Agents for Pharma Drug Launches",
     "team_size": 3,
     "industry": "Healthcare",
-    "subindustry": "B2B -> Supply Chain and Logistics",
+    "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1643107083,
     "tags": [
       "Data Science",
@@ -25625,23 +25627,23 @@
   },
   {
     "id": 30019,
-    "name": "ShowAndTell",
-    "slug": "showandtell",
+    "name": "Avora",
+    "slug": "avora",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c665b16548130250a715fffb82efe08cc789e047.png",
-    "website": "https://www.tryshowandtell.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9165440cbb8c969d63144d50dbb3c762d777035.png",
+    "website": "https://www.getavora.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "ShowAndTell creates AI agents for dental patient operations. Our agents educate patients, boost case acceptance, and build lasting trust. We enable dental staff to focus on patient care rather than patient operations.",
+    "long_description": "Avora helps dental groups (DSOs) boost case acceptance and institutionalize clinical excellence. We deploy agents that listen to appointments, identify coachable moments, and chart notes to save provider time.",
     "one_liner": "Agents for dental operations",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "B2B -> Sales",
     "launched_at": 1732046929,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Health Tech",
-      "Dental",
-      "AI"
+      "Dental"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25661,8 +25663,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/showandtell",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/showandtell.json"
+    "url": "https://www.ycombinator.com/companies/avora",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/avora.json"
   },
   {
     "id": 30027,
@@ -26914,6 +26916,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/aegis",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/aegis.json"
+  },
+  {
+    "id": 30613,
+    "name": "Blank Bio",
+    "slug": "blank-bio",
+    "former_names": [
+      "Orthrus Bio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be87bc4cb37ba90fa0907b54d6337ec3f0723a2f.png",
+    "website": "http://blank.bio/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Blank Bio is building foundation models to power a computational toolkit for RNA therapeutics.\r\n\r\nOur first model is state-of-the-art in mRNA property prediction. It simulates costly experiments, helping partners design more effective mRNA medicines faster and cheaper. Our open-source models are being used by Sanofi & GSK. We’re also collaborating with the Arc Institute to bring our RNA embeddings into the next generation of virtual cell models. \r\n\r\nmRNA design is just the beginning. As the model improves, we’re extending to applications like target ID, novel biomarker discovery, patient stratification, and more. We’ve spent decades applying machine learning to biology across academia (Ph.D.’s at the University of Toronto) and industry (Recursion, Deep Genomics, Amazon). \r\n\r\nContact us to learn more: founders@blank.bio ",
+    "one_liner": "Computational toolkit for RNA therapeutics ",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Therapeutics",
+    "launched_at": 1754432955,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "Artificial Intelligence",
+      "Biotech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Therapeutics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blank-bio",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/blank-bio.json"
   },
   {
     "id": 30666,
