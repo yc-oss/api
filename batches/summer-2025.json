@@ -459,6 +459,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/closera.json"
   },
   {
+    "id": 30604,
+    "name": "Parametric",
+    "slug": "parametric",
+    "former_names": [
+      "Intelligent Machines"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54fe3c1f5ea37b2861f3e64d7b8d15333c1def29.png",
+    "website": "https://parametric.company/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Modern robots perform complex tasks but operate as black boxes. Operators can't understand their decision-making or predict when they may fail. This uncertainty gates widespread adoption across countless industries where errors are unacceptable.\r\n\r\nParametric is training safe robotics models that reveal internal reasoning and offer real-time intervention to unlock deployment across safety-critical industries. ",
+    "one_liner": "Robotics models for automating industries where errors can kill",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1754696414,
+    "tags": [
+      "Deep Learning",
+      "Reinforcement Learning",
+      "Robotics",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/parametric",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/parametric.json"
+  },
+  {
     "id": 30606,
     "name": "Acrely",
     "slug": "acrely",
@@ -969,18 +1013,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e6eeafade8c1d3cdb6545bb6e588d11a521444e.png",
     "website": "https://tryghostship.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We find bugs in your product with AI agents that crawl across your app and test its features. All you need to do is connect your Github and every time you create a PR, Ghostship will figure out where the bugs are before you push to main.\r\n\r\nWe're starting with web apps, but we'll eventually test any piece of software your users would interact with like a mobile app or a desktop app.\r\n\r\nGhostship — ship something people want.",
+    "long_description": "We find bugs in your product with AI agents that crawl across your app and test its features. All you need to do is connect your Github and every time you create a PR, Ghostship will figure out where the bugs are before you push to main.\r\n\r\nWe're starting with web apps, but we'll eventually test any piece of software your users would interact with like a mobile app or a desktop app.\r\n\r\nGhostship — ship something people love.",
     "one_liner": "AI Agents that Find Bugs in Your Product",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1754285936,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "DevOps",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1374,11 +1418,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/orange-slice.json"
   },
   {
+    "id": 30643,
+    "name": "Nuntius",
+    "slug": "nuntius",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6253fd674dae7ce1952ac4c50cd5e1851395f7c0.png",
+    "website": "https://www.nuntius.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building automated infrastructure for post-training and alignment, with the ability to semi-autonomously generate thousands of multi-turn scenarios and fully automate their quality assurance.",
+    "one_liner": "We’re building automated infrastructure for model alignment.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1754692935,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nuntius",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/nuntius.json"
+  },
+  {
     "id": 30644,
     "name": "Herdora",
     "slug": "herdora",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4c71ece046811452b38f77a8c1c6661fdc19925.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/179683a8dd97e578123332a8c5364707962a3392.png",
     "website": "https://www.herdora.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We built Herdora for every team that can't afford a GPU optimization expert. Herdora takes your janky PyTorch, writes optimized kernels for it in seconds, and keeps them tuned in production. It monitors your inference workloads, catches inefficiencies, and fixes them automatically. You keep shipping fast. Herdora makes it run fast. No CUDA knowledge required.",
@@ -2162,21 +2245,21 @@
   },
   {
     "id": 30669,
-    "name": "Dash",
-    "slug": "dash",
+    "name": "Slashy",
+    "slug": "slashy",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e47e34f35e388489ce2a0f3f4a13e6b49dce9ab9.png",
-    "website": "https://www.usedash.ai/",
+    "website": "https://www.slashy.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dash is a general agent that connects to your G-Suite, Slack, Notion, Linear, and more to take in your personal context and perform actions. \r\n\r\nConsider it an agentic Glean that allows knowledge workers to save 2-3 hours a day of busy work.",
+    "long_description": "Slashy is a general agent that connects to your G-Suite, Slack, Notion, Linear, and more to take in your personal context and perform actions. \r\n\r\nConsider it an agentic Glean that allows knowledge workers to save 2-3 hours a day of busy work.",
     "one_liner": "ChatGPT with Hands",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1750786342,
     "tags": [
-      "Workflow Automation",
-      "AI"
+      "Artificial Intelligence",
+      "Workflow Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2197,8 +2280,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dash",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/dash.json"
+    "url": "https://www.ycombinator.com/companies/slashy",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/slashy.json"
   },
   {
     "id": 30671,
@@ -2594,7 +2677,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01ff7048195b1bcbbefd606ad66db21fe272f5e5.png",
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
+    "long_description": "Generate and test firmware with AI agents.",
     "one_liner": "Cursor for Embedded",
     "team_size": 2,
     "industry": "B2B",
@@ -3255,7 +3338,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/284bcf8fd014c43e486fa3243ceddc4a1b5a8484.png",
     "website": "https://www.novaflowapp.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York, NY, USA",
     "long_description": "Novaflow is the AI data analyst for biology labs. \r\n--\r\nBioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months. ",
     "one_liner": "The AI data analyst for biology labs",
     "team_size": 2,
@@ -3263,11 +3346,11 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1753390612,
     "tags": [
-      "Artificial Intelligence",
       "Biotech",
       "Analytics",
       "Genomics",
-      "No-code"
+      "No-code",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5245,16 +5328,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2af9e43cd6c77970b3bff5071024e812ac9ee3e0.png",
     "website": "https://getburnt.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Food Supply Chain companies have been using legacy ERPs for decades. Everyone knows these are necessary evils that essentially run the business but take up a lot of operational capacity. They are not about to just rip and replace their existing system that runs their whole business with a system that takes years to implement. Imagine if they could implement AI that runs the ERP for them, in weeks?\r\n\r\nBurnt’s building an agentic OS for the Food Supply Chain with AI Agents for each department. \r\n\r\nOur AI Agent, Ozai, replaces the whole order management job function at food distribution companies, so that sales and customer service teams can focus on what matters - the customer. Ozai monitors all incoming messages (emails, phone calls, voicemails, whatsapp, fax etc.), figures out if it's an order, learns each customer's habits, shorthand, and favorite products, picks up on any prep notes, and enters it straight into the existing ERP. It'll even go back to the customers on your behalf when it's not sure about something, clarify things and carry on working. \r\n\r\nThe more it sees, the smarter it gets. ",
+    "long_description": "Food Supply Chain companies have been using legacy ERPs for decades. Everyone knows these are necessary evils that essentially run the business but take up a lot of operational capacity. They are not about to just rip and replace their existing system that runs their whole business with a system that takes years to implement. Imagine if they could implement AI that runs the ERP for them, in weeks?\r\n\r\nBurnt’s building an agentic OS for the Food Supply Chain with AI Agents for each department. \r\n\r\nOur AI Agent, Ozai, has started by replacing the whole order management job function at food distribution companies, so that sales and customer service teams can focus on what matters - the customer. Ozai monitors all incoming messages (emails, phone calls, voicemails, whatsapp, fax etc.), figures out if it's an order, learns each customer's habits, shorthand, and favorite products, picks up on any prep notes, and enters it straight into the existing ERP. It'll even go back to the customers on your behalf when it's not sure about something, clarify things and carry on working. \r\n\r\nThe more it sees, the smarter it gets. \r\n",
     "one_liner": "Agentic Operating System for Food Supply Chain",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1754594051,
     "tags": [
-      "Artificial Intelligence",
       "Supply Chain",
-      "Food Tech"
+      "Food Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5277,6 +5360,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/burnt",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/burnt.json"
+  },
+  {
+    "id": 30802,
+    "name": "Freya",
+    "slug": "freya",
+    "former_names": [
+      "CourseShark"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd359a60dfecfce9e7a798a4a228f08f05943dcb.png",
+    "website": "https://freyavoice.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Voice AI Agents For Financial Services And Other Regulated Industries",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1754641408,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Retail",
+      "Call Center"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/freya",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/freya.json"
   },
   {
     "id": 30803,

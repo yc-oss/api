@@ -4101,6 +4101,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/snapboard.json"
   },
   {
+    "id": 13344,
+    "name": "Chutney Inc",
+    "slug": "chutney-inc",
+    "former_names": [
+      "Chutney",
+      "HumBee"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ce42720f9e875d1a3ef445809b60e9d32c83ce7.png",
+    "website": "https://www.chutneystore.com",
+    "all_locations": "Bengaluru, KA, India; Remote",
+    "long_description": "Chutney Inc builds AI agents for Product managers. Our 1st AI agent Flasho conducts user interviews, synthesises information and provides instant insights. ",
+    "one_liner": "Autonomous AI agents to conduct user interviews for product managers",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1583799212,
+    "tags": [
+      "Artificial Intelligence",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "India",
+      "South Asia",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chutney-inc",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/chutney-inc.json"
+  },
+  {
     "id": 13414,
     "name": "Raycast",
     "slug": "raycast",
@@ -7415,9 +7460,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b71724cc191332ce5f9a9e67de24272d0329c59c.png",
     "website": "https://circleback.ai",
     "all_locations": "",
-    "long_description": "Circleback helps teams get the most out of every meeting–whether it's on Zoom, Google Meet, Slack huddles, in-person, or any other meeting platform–by writing notes and automatically taking action on details that matter most.\r\n\r\nFor example, Circleback can automatically identify feature requests that come up in product demo calls and create Linear tasks for each of them, or update your CRM with customer details after a sales call.\r\n\r\nBefore Circleback, Ali led the first integration of LLMs into the Stripe support product and Kevin worked on predictive analytics at Tableau as a senior software engineer.",
+    "long_description": "Circleback helps teams get the most out of every conversation with best-in-class AI-powered meeting notes, action items, automations, and search.\r\n\r\nFor example, Circleback can automatically identify feature requests that come up in product demo calls and create Linear tasks for each of them, or update your CRM with customer details after a sales call.\r\n\r\nBefore Circleback, Ali led the first integration of LLMs into the Stripe support product and Kevin worked on predictive analytics at Tableau as a senior software engineer.",
     "one_liner": "AI-powered meeting notes and automations",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1705519143,
@@ -7860,7 +7905,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -8719,21 +8764,20 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pond.json"
   },
   {
-    "id": 30669,
-    "name": "Dash",
-    "slug": "dash",
+    "id": 30643,
+    "name": "Nuntius",
+    "slug": "nuntius",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e47e34f35e388489ce2a0f3f4a13e6b49dce9ab9.png",
-    "website": "https://www.usedash.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6253fd674dae7ce1952ac4c50cd5e1851395f7c0.png",
+    "website": "https://www.nuntius.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Dash is a general agent that connects to your G-Suite, Slack, Notion, Linear, and more to take in your personal context and perform actions. \r\n\r\nConsider it an agentic Glean that allows knowledge workers to save 2-3 hours a day of busy work.",
-    "one_liner": "ChatGPT with Hands",
-    "team_size": 3,
+    "long_description": "We’re building automated infrastructure for post-training and alignment, with the ability to semi-autonomously generate thousands of multi-turn scenarios and fully automate their quality assurance.",
+    "one_liner": "We’re building automated infrastructure for model alignment.",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
-    "launched_at": 1750786342,
+    "launched_at": 1754692935,
     "tags": [
-      "Workflow Automation",
       "AI"
     ],
     "tags_highlighted": [],
@@ -8755,8 +8799,48 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dash",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/dash.json"
+    "url": "https://www.ycombinator.com/companies/nuntius",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/nuntius.json"
+  },
+  {
+    "id": 30669,
+    "name": "Slashy",
+    "slug": "slashy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e47e34f35e388489ce2a0f3f4a13e6b49dce9ab9.png",
+    "website": "https://www.slashy.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Slashy is a general agent that connects to your G-Suite, Slack, Notion, Linear, and more to take in your personal context and perform actions. \r\n\r\nConsider it an agentic Glean that allows knowledge workers to save 2-3 hours a day of busy work.",
+    "one_liner": "ChatGPT with Hands",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1750786342,
+    "tags": [
+      "Artificial Intelligence",
+      "Workflow Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/slashy",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/slashy.json"
   },
   {
     "id": 30755,
