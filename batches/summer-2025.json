@@ -98,7 +98,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
     "website": "https://www.ambral.com/",
     "all_locations": "",
-    "long_description": "Ambral is an AI account management team that finds the upsell opportunities and churn-risks hiding in your data.\r\n\r\nWe analyze telemetry from customer relationships, synthesizing the critical signals from your messy data to generate dynamic digital models of every account. We pinpoint exactly who needs attention and why, then recommend or autonomously take the right action to drive an expansion, prevent churn, and make sure no request falls through the cracks.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
+    "long_description": "The AI account management team that finds the upsell opportunities and churn-risks hiding in your data.\r\n\r\nAmbral synthesizes signals from your messy and unstructured customer telemetry to generate dynamic digital profiles of every account. It then pinpoints exactly who needs attention, why, and recommends or autonomously takes the right action to drive an expansion, prevent churn, and ensure nothing falls through the cracks. It’s mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
     "one_liner": "AI-powered Account Managers",
     "team_size": 2,
     "industry": "B2B",
@@ -1090,6 +1090,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pond.json"
   },
   {
+    "id": 30622,
+    "name": "Liva AI",
+    "slug": "liva-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d577992606b8392c9619b8dffacec074b48668d.png",
+    "website": "https://www.theliva.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We provide real voice and video data for developing realistic AI.",
+    "one_liner": "Real voice and video data for AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753401226,
+    "tags": [
+      "B2B",
+      "Data Labeling",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/liva-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/liva-ai.json"
+  },
+  {
     "id": 30623,
     "name": "Pharmie AI",
     "slug": "pharmie-ai",
@@ -1422,17 +1465,18 @@
     "name": "Nuntius",
     "slug": "nuntius",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6253fd674dae7ce1952ac4c50cd5e1851395f7c0.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8a01b9d20c4fb82fe2dfd3c77cf6b019c7572c6.png",
     "website": "https://www.nuntius.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building automated infrastructure for post-training and alignment, with the ability to semi-autonomously generate thousands of multi-turn scenarios and fully automate their quality assurance.",
-    "one_liner": "We’re building automated infrastructure for model alignment.",
+    "long_description": "Applying artificial intelligence to economically productive use-cases requires bulletproof alignment. We’re building automated infrastructure for post-training and alignment, with the ability to fully automate generating thousands of multi-turn scenarios and their quality assurance. ",
+    "one_liner": "Automated infrastructure for model alignment.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1754692935,
     "tags": [
-      "AI"
+      "Artificial Intelligence",
+      "Reinforcement Learning"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1442,7 +1486,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -4007,17 +4051,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce362aa339ed75ccb6c9572c39d69b3d181f1cc9.png",
     "website": "https://altur.io",
-    "all_locations": "Mexico City, CDMX, Mexico",
-    "long_description": "Altur replaces contact‑center reps with autonomous voice/text agents that collect debt and close sales, while supervisors jump in only when the AI requests help.",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Altur replaces contact‑center reps with autonomous AI agents that collect debt and close sales.",
     "one_liner": "AI agents for debt collection and sales",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750622964,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
-      "Telecommunications",
-      "AI"
+      "Telecommunications"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4029,8 +4073,8 @@
       "B2B"
     ],
     "regions": [
-      "Mexico",
-      "Latin America",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
