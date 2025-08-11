@@ -28792,7 +28792,7 @@
     "all_locations": "Berlin, Berlin, Germany",
     "long_description": "At voize, we’re revolutionizing the healthcare industry with AI: Nurses simply speak their documentation into their smartphones, and our AI automatically generates the correct entries. This saves each nurse an average of 39 minutes per day, improves the quality of documentation, and makes their daily work much more rewarding.\r\n\r\nvoize is YCombinator-funded, already in use at over 600 senior care homes, and has grown by 100% in the last 90 days. Our customers save over 3.5 million hours annually – time spent on people instead of paperwork.\r\n\r\nBut this is just the beginning. With our self-developed voize AI, we’re transforming not only the healthcare industry, but also have the potential to create value in many other sectors – from healthcare to inspections.",
     "one_liner": "App for healthcare workers to fill out forms using speech",
-    "team_size": 38,
+    "team_size": 75,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1648233375,
@@ -32170,52 +32170,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/coris",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/coris.json"
-  },
-  {
-    "id": 26884,
-    "name": "AlphaWatch AI",
-    "slug": "alphawatch-ai",
-    "former_names": [
-      "StableBank"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4cb8ecbcc76362cae5a0f5edc86c8e5e98a1b70.png",
-    "website": "https://alphawatch.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "AlphaWatch AI is an agentic search platform designed for finance and industrial firms. By using custom LLMs, specialized embedding models, and integrating with both trusted external data sources and secure private data, AlphaWatch AI offers a reliable chat interface that cites its sources, saving financial professionals time on research. \r\n\r\nWe aim to solve a very real pain point: data is currently disjointed, and knowledge workers lose several hours a day finding and searching for answers in their data. While LLMs should solve this research problem, their results are prone to hallucinations and don't include internal information.\r\n\r\nWith efficient data integration and valuable insights, AlphaWatch AI is enhancing the way financial institutions and industrial firms access essential information and make informed decisions while maintaining data privacy",
-    "one_liner": "Agentic search for enterprises with trusted data",
-    "team_size": 7,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1675123352,
-    "tags": [
-      "Generative AI",
-      "Finance",
-      "Workflow Automation",
-      "Enterprise",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alphawatch-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/alphawatch-ai.json"
   },
   {
     "id": 26885,
@@ -35814,11 +35768,11 @@
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1668714980,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Compliance",
-      "Regtech"
+      "Regtech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38006,7 +37960,7 @@
     "all_locations": "",
     "long_description": "Sweetspot is an all-in-one government sales platform, powered by AI. We help businesses find, manage, and respond to government opportunities.\r\n",
     "one_liner": "AI for Government Contracting.",
-    "team_size": 4,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689300101,
@@ -49946,7 +49900,7 @@
     "former_names": [
       "Dojo"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d91e04ec83bbf9ccfb15e03afe96f0c5f9114046.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b678c54a07bacd41c9d67f53b466370f529eb12.png",
     "website": "https://www.futureclinic.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "FutureClinic is a platform that makes it easy for any doctor to open their own digital clinic. Our AI assistant takes a comprehensive medical history using an empathic chat or voice-based interface, uses sophisticated medical reasoning to narrow down likely diagnoses, and produces evidence-based treatment suggestions for each patient. Licensed doctors then review the text-based summaries of the cases our AI provides, and choose how to manage the patients. In this fashion, we're able to deliver end-to-end healthcare in a way that makes personalized, expert healthcare scalable to 8 billion people around the world. ",
@@ -52353,7 +52307,7 @@
     ],
     "stage": "Early",
     "app_video_public": true,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/woz",
@@ -53638,6 +53592,42 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/ticket-wallet",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/ticket-wallet.json"
+  },
+  {
+    "id": 30477,
+    "name": "Casco",
+    "slug": "casco",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aad91c0390b62c24c8473857d3ed3043cad61263.png",
+    "website": "https://casco.com",
+    "all_locations": "",
+    "long_description": "Casco helps companies confidently ship AI agents and apps by simulating attacks on their AI systems, identifying vulnerabilities, and providing guided remediation.\r\n\r\nCompanies building on AI face a disproportionate amount of cybersecurity threats. 73% of enterprises experienced at least one AI-related security incident in the past 12 months, with the average incident cost amounting to $4.8m. It also takes 40% longer for these companies to identify and address these breaches vs. non-AI related incidents.\r\n\r\nCheck if your AI system is secure at casco.com\r\n\r\n---\r\n\r\nWe already secure AI systems deployed in 60% of Fortune 500 companies and are default alive. [1]\r\n\r\n[1] http://www.paulgraham.com/aord.html",
+    "one_liner": "Evaluate AI agents and apps on security, safety, and accuracy.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1747691019,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/casco",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/casco.json"
   },
   {
     "id": 30479,
