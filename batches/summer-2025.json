@@ -98,16 +98,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
     "website": "https://www.ambral.com/",
     "all_locations": "",
-    "long_description": "The AI account management team that finds the upsell opportunities and churn-risks hiding in your data.\r\n\r\nAmbral synthesizes signals from your unstructured customer telemetry to generate dynamic digital profiles of every account. It then pinpoints exactly who needs attention, why, and recommends or autonomously takes the right action to drive an expansion, prevent churn, and ensure nothing falls through the cracks. It’s like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
+    "long_description": "Ambral is an AI account management team built to help you maximize revenue from every customer.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of ever account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
     "one_liner": "AI-powered account managers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1753910833,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -135,7 +135,7 @@
     "name": "Wayline",
     "slug": "wayline",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fca13dc43fd4d61ca3e94f6ac18b35f94f668a4c.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa83a2cdabf22eb6acd4e5c54d4969ec37a0a549.png",
     "website": "https://wayline.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Wayline is an AI front desk assistant purpose-built for real estate to answer calls and messages 24/7. It’s like an always-on property manager that can convert leads and resolve issues better than any human, day or night. Our AI can be setup in as little as 24 hours and works seamlessly with existing phone/management software. Uniquely, our AI knowledge base is domain-specific to learn and handle the most complex real estate workflows. For property operators, Wayline instantly replaces robo-menus and call centers, while centralizing and scaling back-office teams.",
@@ -145,8 +145,8 @@
     "subindustry": "Real Estate and Construction",
     "launched_at": 1754534050,
     "tags": [
-      "Real Estate",
-      "AI"
+      "Artificial Intelligence",
+      "Real Estate"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -469,7 +469,7 @@
     "website": "https://parametric.company/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Modern robots perform complex tasks but operate as black boxes. Operators can't understand their decision-making or predict when they may fail. This uncertainty gates widespread adoption across countless industries where errors are unacceptable.\r\n\r\nParametric is training safe robotics models that reveal internal reasoning and offer real-time intervention to unlock deployment across safety-critical industries. ",
-    "one_liner": "Robotics models for automating industries where errors can kill",
+    "one_liner": "Robotics models to automate industries where errors can kill",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -1096,7 +1096,7 @@
     "slug": "liva-ai",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d577992606b8392c9619b8dffacec074b48668d.png",
-    "website": "https://www.theliva.ai/",
+    "website": "https://www.theliva.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We provide real voice and video data for developing realistic AI.",
     "one_liner": "Real voice and video data for AI",
@@ -1105,6 +1105,7 @@
     "subindustry": "B2B",
     "launched_at": 1753401226,
     "tags": [
+      "Marketplace",
       "B2B",
       "Data Labeling",
       "Big Data",
@@ -1763,7 +1764,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a30946452aaca1a7c8b4b8fefafd9807f194243.png",
     "website": "https://alterai.dev",
     "all_locations": "New York, NY, USA",
-    "long_description": "",
+    "long_description": "Alter is a zero-trust identity and access control platform purpose-built for AI agents. It wraps every tool call in strong authentication, fine-grained authorization, and real-time guardrails, so agents can move fast without breaking things.\r\n\r\nEach request is verified at the parameter level, authorized against granular policies, executed with least-privilege access, and fully audited in real time. Unsafe actions, whether it’s a rogue DROP TABLE or a payment above policy limits, are blocked before they touch production. Behind the scenes, Alter manages credentials, issuing ephemeral, scope-narrowed access for every interaction, then rotating or expiring it in seconds. The result: no long-lived secrets, no blind spots, and no surprises in audit.\r\n\r\nWith Alter, teams can move fast on AI agent initiatives while staying fully compliant with SOC 2, HIPAA, GDPR, and internal security standards. A CISO-ready dashboard delivers real-time visibility, detailed audit logs, and compliance-ready controls, removing silos, eliminating excessive permissions, and providing complete oversight of every agent workflow.",
     "one_liner": "Secure access control and authorization platform for agent workflows",
     "team_size": 2,
     "industry": "B2B",
@@ -1771,10 +1772,10 @@
     "launched_at": 1752476002,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "DevSecOps",
-      "Security",
-      "AI"
+      "Security"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2632,6 +2633,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/ironledger-ai.json"
   },
   {
+    "id": 30687,
+    "name": "Trace",
+    "slug": "trace-so",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c2aef05823ea025fd58985ddba1bb239174e788.png",
+    "website": "https://www.trace.so/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Trace is a workflow automation platform that pairs each task with the right human or AI agent. It connects to your internal tools to build a unified index of people, activity, and docs and learns how your teams work. \r\n\r\nTrace breaks workflows into clear steps, sends repetitive tasks to AI agents, and routes the rest to the right people while respecting permissions and logging every action. \r\n\r\nWe help teams cut busywork and unify AI tools across departments – without disrupting operations.",
+    "one_liner": "Workflow engine routing repetitive tasks to AI agents",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "Fintech",
+    "launched_at": 1754919932,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Workflow Automation",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trace-so",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/trace-so.json"
+  },
+  {
     "id": 30689,
     "name": "b-12",
     "slug": "b-12",
@@ -2920,6 +2966,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ghosteye",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/ghosteye.json"
+  },
+  {
+    "id": 30697,
+    "name": "Normal",
+    "slug": "normal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41742610e9abf1c307890c4206c045f1bce68bce.png",
+    "website": "https://www.normalfactory.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Automated hardware certification and testing.\r\n\r\nReduce your team's compliance hours by 50x. Currently supporting FCC, ISED, CE, ASTM F963.",
+    "one_liner": "Modern compliance for drones, robots, IoT, and beyond",
+    "team_size": 0,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1754954871,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Compliance",
+      "Manufacturing",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/normal",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/normal.json"
   },
   {
     "id": 30698,
@@ -3549,7 +3637,7 @@
     "name": "Iron Grid",
     "slug": "iron-grid",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5610ae5725e1a7d03a6b23f760c9728a748276f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74e6bdb4c255f21276dac2d593eebde20bf29b57.png",
     "website": "https://getirongrid.com/",
     "all_locations": "",
     "long_description": "",
@@ -3559,9 +3647,9 @@
     "subindustry": "Industrials -> Energy",
     "launched_at": 1754064844,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3668,6 +3756,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/autosana",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/autosana.json"
+  },
+  {
+    "id": 30721,
+    "name": "Knowlify",
+    "slug": "knowlify",
+    "former_names": [
+      "Knowlify",
+      "Ritvik Varada"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9c7327b2253f8bd8e5f5ae01e113ba12ee0e4bd.png",
+    "website": "https://knowlify.net/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Everyone loves the way 3Blue1Brown explains complex ideas. Now imagine having that same level of clarity for any topic, tailored to each learner’s needs.\r\n\r\nThat’s what we’re building at Knowlify.\r\n\r\nCurrent use cases:\r\n- Researchers turn dense papers into clear, digestible explanations\r\n- Textbook publishers help students grasp challenging concepts\r\n- Universities produce high-quality content while cutting costs by 90%\r\n- Corporations keep teams sharp and up to date on the latest technologies\r\n\r\nWith Knowlify, the possibilities for learning are limitless.",
+    "one_liner": "Convert textual content into explainer videos in < 15s",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1754937543,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Education",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/knowlify",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/knowlify.json"
   },
   {
     "id": 30722,
@@ -5364,6 +5496,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/veritus-agent",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/veritus-agent.json"
+  },
+  {
+    "id": 30798,
+    "name": "Cacao",
+    "slug": "cacao",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d368744b2d3baf62eb10c49a6211dd71ba08c437.png",
+    "website": "https://www.cacaofi.com/",
+    "all_locations": "São Paulo, SP, Brazil",
+    "long_description": "Get paid in USD or stablecoins, spend with a Visa card, and cash out to Pix instantly - made for Brazilians earning from abroad.",
+    "one_liner": "Brazilians can now receive USD & crypto instantly",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1754882271,
+    "tags": [
+      "Fintech",
+      "Crypto / Web3",
+      "Payments"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Brazil",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cacao",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/cacao.json"
   },
   {
     "id": 30801,
