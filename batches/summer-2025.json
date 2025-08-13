@@ -550,14 +550,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28f75fbb2513c3b5ef3e67a4b3c47ce3995f896b.png",
     "website": "https://www.mangodesk.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re an end-to-end AI platform to source, screen, and manage domain experts to evaluate and improve AI models with high-quality data. \r\n\r\nAGI requires expert-created data and evals across domains, quickly and at volumes. Finding the right experts and creating this data reliably is a complex operational challenge. We solve this end-to-end. \r\n\r\nAnkith was previously an engineer at Scale AI where he built the infrastructure for expert sourcing/screening and Gen AI data labeling operations, and Ananth previously founded a software firm with seven-figure revenue and Fortune 500 customers.",
-    "one_liner": "We improve AI models by sourcing domain experts for data and evals.",
+    "long_description": "We help AI teams accelerate the creation of evals and post-training data by creating bespoke data annotation pipelines in seconds and staffing them with the right domain experts.\r\n\r\nAGI requires expert-created data and evals across domains, quickly and at volumes. Creating this data reliably is a complex operational challenge. We solve this end-to-end. \r\n\r\nAnkith was previously an engineer at Scale AI where he built the infrastructure for expert sourcing/screening and Gen AI data labeling operations, and Ananth previously founded a software firm with seven-figure revenue and Fortune 500 customers.",
+    "one_liner": "Cursor for evals and human data",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753752561,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1467,7 +1467,7 @@
     "name": "Nuntius",
     "slug": "nuntius",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8a01b9d20c4fb82fe2dfd3c77cf6b019c7572c6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/419ca938d39201c4fff4ef02cd003dd413be8954.png",
     "website": "https://www.nuntius.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Applying artificial intelligence to economically productive use-cases requires bulletproof alignment. We’re building automated infrastructure for post-training and alignment, with the ability to fully automate generating thousands of multi-turn scenarios and their quality assurance. ",
@@ -1477,8 +1477,8 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1754692935,
     "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning"
+      "Reinforcement Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1969,19 +1969,19 @@
     "slug": "heysidekick",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2842d2a52b047f3cdc0601cc787b7972d74a3bf.png",
-    "website": "https://heysidekick.app",
+    "website": "https://joinsidekick.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Just chat to build powerful, multi-step automations. No drag-and-drop canvas or complex flowcharts required.\r\n\r\nJoin the waitlist now!",
+    "long_description": "Just chat to build powerful, multi-step automations. No more tangled flowcharts or endless dropdowns.",
     "one_liner": "The simplicity of ChatGPT meets the power of Zapier",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751905744,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Productivity",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2344,9 +2344,9 @@
     "subindustry": "B2B",
     "launched_at": 1753389326,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Analytics"
+      "Analytics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2368,6 +2368,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/agenthub-2",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/agenthub-2.json"
+  },
+  {
+    "id": 30673,
+    "name": "Nexa Labs",
+    "slug": "nexa-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/489fd97ad45ee1d6d874c7a99792bf1552ebddc2.png",
+    "website": "https://nexa.farm/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nexa is developing the solution for cattle monitoring, leveraging implantable microchips that collect more comprehensive biometrics than anything else on the market. Our accompanying AI-driven animal health engine empowers farmers with early disease detection, reproductive insights, GPS tracking, and more. \r\n\r\nWe're saving farmers time and money while collecting the world's largest cattle health dataset. We believe that cattle farming should be a science, not an art - this will secure the world's food supply and increase economic output that billions of people depend on.",
+    "one_liner": "Implantable microchips for cattle monitoring",
+    "team_size": 5,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Agriculture",
+    "launched_at": 1755009056,
+    "tags": [
+      "Livestock Health",
+      "Medical Devices",
+      "Agriculture",
+      "AI",
+      "Biotechnology"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Agriculture"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/nexa-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/nexa-labs.json"
   },
   {
     "id": 30675,
@@ -2633,6 +2676,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/ironledger-ai.json"
   },
   {
+    "id": 30686,
+    "name": "Preempt",
+    "slug": "preempt",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb52c4b7c00886d51f41b415a4648a3dc5f1835c.png",
+    "website": "https://www.preempt.me",
+    "all_locations": "New York, NY, USA",
+    "long_description": "We're building www.TheInterface.com, a virtual world for AI.  \r\n\r\nWe believe world experience data is the future of AI, and collecting this data from the real world is time-consuming and limited. So we’re building a virtual world—a place for humans to prototype and game with AI.",
+    "one_liner": "An applied simulations lab.",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "B2B",
+    "launched_at": 1754968088,
+    "tags": [
+      "Artificial Intelligence",
+      "Cloud Gaming",
+      "Gaming"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/preempt",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/preempt.json"
+  },
+  {
     "id": 30687,
     "name": "Trace",
     "slug": "trace-so",
@@ -2768,7 +2852,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01ff7048195b1bcbbefd606ad66db21fe272f5e5.png",
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Generate and test firmware with AI agents.",
+    "long_description": "Embedder is building an AI coding agent that can write and test firmware.",
     "one_liner": "Cursor for Embedded",
     "team_size": 2,
     "industry": "B2B",
@@ -2935,15 +3019,15 @@
     "website": "https://ghosteye.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "GhostEye offers offensive AI agents that generate sophisticated social engineering campaigns across a multitude of attack vectors.\r\n\r\nLeveraging natural language prompts, GhostEye creates personalized campaigns in seconds, in what used to take hours.",
-    "one_liner": "The AI-powered human pentesting platform",
+    "one_liner": "AI that red teams the human mind",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1753230986,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Cybersecurity",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2977,15 +3061,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Automated hardware certification and testing.\r\n\r\nReduce your team's compliance hours by 50x. Currently supporting FCC, ISED, CE, ASTM F963.",
     "one_liner": "Modern compliance for drones, robots, IoT, and beyond",
-    "team_size": 0,
+    "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1754954871,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Compliance",
       "Manufacturing",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -4185,16 +4269,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce362aa339ed75ccb6c9572c39d69b3d181f1cc9.png",
     "website": "https://altur.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Altur replaces contact‑center reps with autonomous AI agents that collect debt and close sales.",
-    "one_liner": "AI agents for debt collection and sales",
+    "long_description": "Voice AI Agents for Debt Collection",
+    "one_liner": "Voice AI Agents for Debt Collection",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750622964,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
-      "Telecommunications"
+      "Telecommunications",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5338,6 +5422,45 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/interfere.json"
   },
   {
+    "id": 30791,
+    "name": "Spotlight Realty",
+    "slug": "spotlight-realty",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/677917fd980b1f33bfa85125a5b4023b60d9fa41.png",
+    "website": "https://www.spotlight.realty",
+    "all_locations": "New York, NY, USA",
+    "long_description": "We are a full-service sell-side residential brokerage that lists and markets your properties. We also screen and schedule tenants showings with our AI agent for a third of the normal commission. ",
+    "one_liner": "AI powered brokerage reducing residential rental commissions in NYC…",
+    "team_size": 4,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction",
+    "launched_at": 1755023391,
+    "tags": [
+      "Machine Learning",
+      "Real Estate"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spotlight-realty",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/spotlight-realty.json"
+  },
+  {
     "id": 30794,
     "name": "Vulcan Technologies",
     "slug": "vulcan-technologies",
@@ -5345,17 +5468,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99289e9c71cb1127d9713f9951ef029e17d28248.png",
     "website": "https://www.vulcan-tech.com/",
     "all_locations": "",
-    "long_description": "Vulcan uses AI to map every law, regulation, and court case in America, allowing government agencies and businesses to replace massive consulting projects with instant automated analyses. We call this \"intelligent legal cartography.\"\r\n\r\nIn 3 months, we went from zero customers to Virginia's Executive Order 51, requiring all state agencies to use Vulcan. We are now live with the U.S. Department of Education, a regulatory reform PAC in South Carolina, and have a pipeline of several additional state and federal agencies and major enterprises.\r\n\r\nOur initial agency partners use legal cartography to draft lawful regulations, respond to public comments on regulations, and instantly generate mandatory cost-benefit analyses.\r\n\r\nWe have both public and private sector visions. In the private sector: we endeavor to automate the entire regulatory process end-to-end; replacing the consulting industrial complex with software. In the private sector: we plan to automate regulatory compliance, tackling the $4 trillion regulatory cost on the U.S. economy.",
+    "long_description": "Vulcan uses AI to map every law, regulation, and court case in America, allowing government agencies and businesses to replace massive consulting projects with instant automated analyses. We call this \"intelligent legal cartography.\"\r\n\r\nIn 3 months, we went from zero customers to Virginia's Executive Order 51, requiring all state agencies to use Vulcan. We are now live with the U.S. Department of Education, a regulatory reform PAC in South Carolina, and have a pipeline of several additional state and federal agencies and major enterprises.\r\n\r\nOur initial agency partners use legal cartography to draft lawful regulations, respond to public comments on regulations, and instantly generate mandatory cost-benefit analyses.\r\n\r\nWe have both public and private sector visions. In the public sector: we endeavor to automate the entire regulatory process end-to-end; replacing the consulting industrial complex with software. In the private sector: we plan to automate regulatory compliance, tackling the $4 trillion regulatory cost on the U.S. economy.",
     "one_liner": "AI regulatory drafting and compliance",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1750286926,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "GovTech",
-      "Compliance",
-      "AI"
+      "Compliance"
     ],
     "tags_highlighted": [],
     "top_company": false,
