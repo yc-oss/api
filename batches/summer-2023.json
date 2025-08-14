@@ -382,19 +382,23 @@
   },
   {
     "id": 28743,
-    "name": "Leafpress",
-    "slug": "leafpress",
+    "name": "Cardinal",
+    "slug": "trycardinal",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/046a138a54a89d5f88af4355ea9e901c1a337397.png",
-    "website": "https://www.leafpress.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/addc6ad73062b884d88c6aebcfa9f21f5c2a2f75.png",
+    "website": "https://www.trycardinal.ai/",
     "all_locations": "",
-    "long_description": "Leafpress helps large enterprises manage mission-critical energy data.",
-    "one_liner": "AI Copilot for Energy Data",
+    "long_description": "Cardinal helps enterprises turn complex documents into structured, reliable data.",
+    "one_liner": "The Most Accurate Document Intelligence API",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1689209330,
-    "tags": [],
+    "tags": [
+      "Enterprise",
+      "Enterprise Software",
+      "Infrastructure"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -412,8 +416,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/leafpress",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/leafpress.json"
+    "url": "https://www.ycombinator.com/companies/trycardinal",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/trycardinal.json"
   },
   {
     "id": 28744,
@@ -848,7 +852,9 @@
     "id": 28787,
     "name": "Deasy Labs",
     "slug": "deasy-labs",
-    "former_names": [],
+    "former_names": [
+      "Deasie"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2f7a8dffc7dc8a6fdb4c13dce765cc7d2820b9a.png",
     "website": "https://www.deasylabs.com/",
     "all_locations": "",
@@ -867,10 +873,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Analytics"
@@ -5018,18 +5024,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea071d17d03a0effc12bac914da21cd9bee66060.png",
     "website": "https://continue.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models",
-    "one_liner": "Create, share, and use custom AI code assistants",
+    "long_description": "Build and run custom agents across your IDE, terminal, and CI",
+    "one_liner": "Ship faster with Continuous AI",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688142176,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "DevSecOps",
       "Machine Learning",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

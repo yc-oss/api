@@ -613,7 +613,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -3399,9 +3399,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/027aebd8670e1f9af979f5faf2e16000e83da2c8.png",
     "website": "https://unify.ai",
-    "all_locations": "London, England, United Kingdom; Berlin, Berlin, Germany; Remote",
-    "long_description": "LLMs run riot in production. Get back in the driving seat. Build your own evals, iterate quickly, and go from prototype to production in no time! Try Now! https://console.unify.ai/ ✨",
-    "one_liner": "Take Back Control of Your LLM ✨",
+    "all_locations": "London, England, United Kingdom; Remote",
+    "long_description": "Assign Tasks by Call, E-mail, or Message — Your Assistant will Handle the Rest! https://unify.ai ✨",
+    "one_liner": "Hire AI — Not APIs ✨",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -3425,7 +3425,6 @@
     ],
     "regions": [
       "United Kingdom",
-      "Germany",
       "Europe",
       "Remote",
       "Fully Remote"
@@ -11355,6 +11354,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/traceroot-ai.json"
   },
   {
+    "id": 30625,
+    "name": "ZeroEval",
+    "slug": "zeroeval",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7ecfb758177e9198eb8221c46198150c3a277ba.png",
+    "website": "https://zeroeval.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "We help companies build reliable AI agents through an evaluation harness that learns over time using human feedback.\r\n\r\nThe biggest issue with traditional eval tooling is that they are not fit to evaluate more complex situations like:\r\n- Long running, multi-turn agents with dozens of intermediate tool calls.\r\n- Generalist agents that have no clear (input) / (expected output) but can sometimes feel “wrong”.\r\n- Images, video, UI, personality, taste, etc\r\n\r\nOverall: Things that are difficult to verify programatically.\r\n\r\nWith ZeroEval we are building a way to back-propagate your AI agent's errors and help you optimize your most important metric.\r\n\r\nCurrent LLM judges are static and unreliable when it comes to evaluating complex systems. One way we are solving is through calibrated judges that learn through their mistakes and get better over time. Having a reliable judge is the highest leverage piece any company building with AI can have.\r\n\r\nOur mission is to enable every company to build reliable, self-improving AI software.",
+    "one_liner": "A platform to measure the quality of AI agents using human feedback.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1755052091,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zeroeval",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/zeroeval.json"
+  },
+  {
     "id": 30646,
     "name": "Qualify.bot",
     "slug": "qualify-bot",
@@ -11491,8 +11532,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01ff7048195b1bcbbefd606ad66db21fe272f5e5.png",
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is building an AI coding agent that can write and test firmware.",
-    "one_liner": "Cursor for Embedded",
+    "long_description": "Embedder is an AI agent that can write and test firmware in real-time",
+    "one_liner": "Claude Code for Firmware",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",

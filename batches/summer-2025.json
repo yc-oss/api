@@ -98,16 +98,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
     "website": "https://www.ambral.com/",
     "all_locations": "",
-    "long_description": "Ambral is an AI account management team built to help you maximize revenue from every customer.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of ever account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
+    "long_description": "Ambral is an AI account management team built to help you maximize revenue from every customer.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
     "one_liner": "AI-powered account managers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1753910833,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1216,6 +1216,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/verne-robotics.json"
   },
   {
+    "id": 30625,
+    "name": "ZeroEval",
+    "slug": "zeroeval",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7ecfb758177e9198eb8221c46198150c3a277ba.png",
+    "website": "https://zeroeval.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "We help companies build reliable AI agents through an evaluation harness that learns over time using human feedback.\r\n\r\nThe biggest issue with traditional eval tooling is that they are not fit to evaluate more complex situations like:\r\n- Long running, multi-turn agents with dozens of intermediate tool calls.\r\n- Generalist agents that have no clear (input) / (expected output) but can sometimes feel “wrong”.\r\n- Images, video, UI, personality, taste, etc\r\n\r\nOverall: Things that are difficult to verify programatically.\r\n\r\nWith ZeroEval we are building a way to back-propagate your AI agent's errors and help you optimize your most important metric.\r\n\r\nCurrent LLM judges are static and unreliable when it comes to evaluating complex systems. One way we are solving is through calibrated judges that learn through their mistakes and get better over time. Having a reliable judge is the highest leverage piece any company building with AI can have.\r\n\r\nOur mission is to enable every company to build reliable, self-improving AI software.",
+    "one_liner": "A platform to measure the quality of AI agents using human feedback.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1755052091,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zeroeval",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/zeroeval.json"
+  },
+  {
     "id": 30626,
     "name": "ContextFort",
     "slug": "contextfort",
@@ -1296,6 +1338,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sentinel",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/sentinel.json"
+  },
+  {
+    "id": 30628,
+    "name": "datafruit",
+    "slug": "datafruit",
+    "former_names": [
+      "Lychee",
+      "DataFruit",
+      "datafruit",
+      "Datafruit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0545fc19adebb3a29cdf7c671311902833861e8.png",
+    "website": "https://datafruit.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Datafruit is the first agentic DevOps engineer.\r\n\r\nIt understands your deployment standards, design docs, and DevOps practices, then reasons across them to reduce cloud waste, prevent deployment delays, and eliminate wasted time across the stack.",
+    "one_liner": "AI DevOps Engineer",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1755048308,
+    "tags": [
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/datafruit",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/datafruit.json"
   },
   {
     "id": 30637,
@@ -2215,14 +2303,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re building Lemma because we’ve been there.\r\n\r\nWe’ve worked in professional services and lived the pain — buried in work that doesn’t move the needle. Aggregating numbers from back surveys. Hunting for that one number buried in a mountain of files. Pulling quotes from hours of expert calls. Drafting version 10 of the interview guide. Rebuilding the same CDD survey from scratch. Programming those 100 question surveys.\r\n\r\nGeneric AI agents don’t work here. They don’t understand your content, your context, or your workflow.\r\n\r\nLemma builds AI teammates tailored to the way you actually work — built by people who’ve done the work. Our agents plug into your tools, learn your processes, and handle the grunt work behind the scenes — so you can focus on insights, strategy, and moving fast.",
     "one_liner": "Specialized AI agents for professional services ",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753836881,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2384,10 +2472,10 @@
     "subindustry": "Industrials -> Agriculture",
     "launched_at": 1755009056,
     "tags": [
+      "Artificial Intelligence",
       "Livestock Health",
       "Medical Devices",
       "Agriculture",
-      "AI",
       "Biotechnology"
     ],
     "tags_highlighted": [],
@@ -2852,8 +2940,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01ff7048195b1bcbbefd606ad66db21fe272f5e5.png",
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is building an AI coding agent that can write and test firmware.",
-    "one_liner": "Cursor for Embedded",
+    "long_description": "Embedder is an AI agent that can write and test firmware in real-time",
+    "one_liner": "Claude Code for Firmware",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3235,8 +3323,8 @@
     "subindustry": "Fintech",
     "launched_at": 1753307750,
     "tags": [
-      "SaaS",
-      "AI"
+      "Artificial Intelligence",
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3968,6 +4056,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/risely-ai.json"
   },
   {
+    "id": 30725,
+    "name": "Minimal AI",
+    "slug": "minimal-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c63bc96cffb87cb2d06890455f91a39acb01d02d.png",
+    "website": "https://gominimal.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Minimal AI makes it easy for e-commerce brands to build AI support teams that resolve 80% of tickets at human-level quality.\r\n\r\nThe result: reduced support costs while actually improving customer experience through personalized recommendations and faster response times.\r\n\r\nIt feels like outsourcing your support to a team of AI Agents, with the AI Manager as your single point of contact.\r\n\r\nOver 45 e-commerce brands use Minimal AI to handle thousands of customer support tickets daily.",
+    "one_liner": "AI Customer Support Teams for E-commerce",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1755048998,
+    "tags": [
+      "B2B",
+      "E-commerce",
+      "Customer Support",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/minimal-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/minimal-ai.json"
+  },
+  {
     "id": 30726,
     "name": "Socratix AI",
     "slug": "socratix-ai",
@@ -4021,8 +4150,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c5ca7e872c8a9bcea68e50cafff191bddd77013.png",
     "website": "https://observee.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "All AI Agents rely on external integrations to become truly useful. Our software provides any AI Agent developer with access to over 1,000 MCP integrations through a single API. \r\n\r\nIn the last 6 months, MCP has become the official protocol for connecting AI agents to the outside world. Observee provides developers with Authentication, Observability and Security in one hosted MCP. \r\n\r\nAs AI Agents increasingly take on more manual jobs, they will rely on Observee for underlying infrastructure. ",
-    "one_liner": "Access 1000+ MCP integrations with a single API",
+    "long_description": "All AI Agents rely on external integrations to become truly useful. Our software provides AI Agent companies with all the tools that they would need to build in any vertical such as legal, insurance, real estate, healthcare or even dev tools.\r\n\r\nObservee provides a Data Ingestion Engine to consume data using APIs and browser agents from any platform and an Action Engine to allow AI agents to take actions using tool calls and browsers.\r\n\r\nAs AI Agents become increasingly prominent for Vertical AI companies, they will rely on Observee for underlying infrastructure.",
+    "one_liner": "Integrations Infrastructure for Vertical AI companies",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4112,8 +4241,10 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1749750449,
     "tags": [
-      "Enterprise Software",
-      "AI"
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Data Engineering",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4123,7 +4254,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "Unspecified"
@@ -4135,6 +4266,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/idler",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/idler.json"
+  },
+  {
+    "id": 30731,
+    "name": "Palace",
+    "slug": "palace",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fd72ddf0b93f0148d033d252b2b26617bec643f.png",
+    "website": "https://www.palace.so",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Palace is the all-in-one workspace for private market investors to track, analyze, and report on their investments. It transforms scattered reports and systems into a single source of truth for analysis, benchmarking, and reporting.",
+    "one_liner": "We help private market investors do deal monitoring faster and smarter",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1755096535,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/palace",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/palace.json"
   },
   {
     "id": 30732,
@@ -4768,17 +4941,17 @@
     "website": "https://reacherapp.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Reacher automates affiliate marketing for enterprise brands, replacing teams of 5+ people with AI-powered creator discovery, outreach, and management. \r\n\r\nTrusted by brands driving $20M+ in GMV, we're building the largest marketplace where creators access premium deals guided by an AI talent manager, while brands access our vetted network of top creators.",
-    "one_liner": "We help brands scale creator partnerships 10x faster",
+    "one_liner": "AI platform to connect brands with creators",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750191046,
     "tags": [
+      "Artificial Intelligence",
       "Marketplace",
       "B2B",
       "E-commerce",
-      "Creator Economy",
-      "AI"
+      "Creator Economy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5663,6 +5836,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cacao",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cacao.json"
+  },
+  {
+    "id": 30799,
+    "name": "Avent",
+    "slug": "avent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d96212731936adf020604b4e95b7700e967455b1.png",
+    "website": "https://www.aventindustrial.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Avent helps manufacturers and industrial distributors run quoting and order entry on autopilot. \r\n\r\nOur AI agents manage sales inboxes, build quotes from past pricing and tribal knowledge, and keep records up to date in existing ERPs.",
+    "one_liner": "AI agents for industrial commerce",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1755109512,
+    "tags": [
+      "SaaS",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/avent",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/avent.json"
   },
   {
     "id": 30801,

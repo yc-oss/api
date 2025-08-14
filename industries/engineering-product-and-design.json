@@ -5836,7 +5836,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -10639,7 +10639,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -15813,18 +15813,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea071d17d03a0effc12bac914da21cd9bee66060.png",
     "website": "https://continue.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models",
-    "one_liner": "Create, share, and use custom AI code assistants",
+    "long_description": "Build and run custom agents across your IDE, terminal, and CI",
+    "one_liner": "Ship faster with Continuous AI",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1688142176,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "DevSecOps",
       "Machine Learning",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21421,23 +21421,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/14d848dfe9773db91848e15d445887906f2df14e.png",
     "website": "https://macadamialabs.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Macadamia builds AI agents in complex engineering projects. \r\nThey automate both engineering & business processes, to automate away all low-leverage work.\r\nIt integrates with all engineering data sources, technical documentation, and third-party software tools.\r\nMacadamia serves customers in mechanical engineering, manufacturing, and construction.",
+    "all_locations": "",
+    "long_description": "Macadamia builds AI agents for complex engineering projects. \r\nThey automate both engineering & business processes, to automate away all low-leverage work.\r\nIt integrates with all engineering data sources, technical documentation, and third-party software tools.\r\nMacadamia serves customers in mechanical engineering, manufacturing, and construction.",
     "one_liner": "AI Agents for Complex Engineering Projects",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737733063,
-    "tags": [
-      "Hardware",
-      "Construction",
-      "Design",
-      "Automation",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -21446,8 +21440,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -22131,7 +22124,7 @@
     "name": "Cua",
     "slug": "cua",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/482d9c63c12b9cc8259e1f66c9d39433b6cdc003.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4293782b71fdb3a0c57d443e4429a56b4d19f320.png",
     "website": "https://cua.ai",
     "all_locations": "",
     "long_description": "Cua is an open-source framework that enables AI agents to control full operating systems within high-performance, lightweight virtual containers. It delivers up to 90% native speed on Apple Silicon and works with any language models.",
@@ -23047,6 +23040,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/sentinel.json"
   },
   {
+    "id": 30628,
+    "name": "datafruit",
+    "slug": "datafruit",
+    "former_names": [
+      "Lychee",
+      "DataFruit",
+      "datafruit",
+      "Datafruit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0545fc19adebb3a29cdf7c671311902833861e8.png",
+    "website": "https://datafruit.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Datafruit is the first agentic DevOps engineer.\r\n\r\nIt understands your deployment standards, design docs, and DevOps practices, then reasons across them to reduce cloud waste, prevent deployment delays, and eliminate wasted time across the stack.",
+    "one_liner": "AI DevOps Engineer",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1755048308,
+    "tags": [
+      "DevOps",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/datafruit",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/datafruit.json"
+  },
+  {
     "id": 30644,
     "name": "Herdora",
     "slug": "herdora",
@@ -23261,8 +23300,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01ff7048195b1bcbbefd606ad66db21fe272f5e5.png",
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is building an AI coding agent that can write and test firmware.",
-    "one_liner": "Cursor for Embedded",
+    "long_description": "Embedder is an AI agent that can write and test firmware in real-time",
+    "one_liner": "Claude Code for Firmware",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -23466,6 +23505,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/floot",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/floot.json"
+  },
+  {
+    "id": 30730,
+    "name": "Idler",
+    "slug": "idler",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcd86cbc2e4ab44520f932ab828ce39c7bafa4f1.png",
+    "website": "https://idler.ai/",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "AI employees that handle the work, so people can do the magic.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1749750449,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Data Engineering",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/idler",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/idler.json"
   },
   {
     "id": 30744,
