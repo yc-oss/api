@@ -1302,7 +1302,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -1369,25 +1369,26 @@
   },
   {
     "id": 29608,
-    "name": "Rides",
-    "slug": "rides",
+    "name": "Pre",
+    "slug": "pre",
     "former_names": [
       "Genie Online, Inc."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83bc03b4c9a207ebf45f08a3b2959b116a857ba7.png",
-    "website": "https://www.Rides.co",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98cb4af6e9ab45b4431ca1d8d69632b83194f214.png",
+    "website": "https://buildwithpre.com",
     "all_locations": "Lake Oswego, OR, USA; Remote",
-    "long_description": "Rides is a car community platform built for and by enthusiasts. We want to give people a purpose built way to connect with other people that share their love of cars & motorcycles and creates showcases that give every vehicle a page that let's its design, performance, modifications & story take center stage. A social network where the cars shine and the community connects exactly how we do offline and on the road... around a shared passion.",
-    "one_liner": "The car community for the car community.",
-    "team_size": 3,
-    "industry": "Consumer",
+    "long_description": "There are millions of startups started every year… and that is going to grow by an order of magnitude over the next several years with AI making shipping a product nearly free. YC is the best opportunity for a startup, and Pre can help everyone else.",
+    "one_liner": "The software to launch startups.",
+    "team_size": 2,
+    "industry": "B2B",
     "subindustry": "Consumer -> Social",
     "launched_at": 1722007649,
     "tags": [
-      "Consumer",
-      "Community",
-      "Social",
-      "Automotive"
+      "SaaS",
+      "B2B",
+      "Investing",
+      "Feedback",
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1396,8 +1397,8 @@
     "batch": "Summer 2024",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Social"
+      "B2B",
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -1410,8 +1411,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rides",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/rides.json"
+    "url": "https://www.ycombinator.com/companies/pre",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/pre.json"
   },
   {
     "id": 29610,
@@ -1421,9 +1422,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63f48bd5017efb50e1fd3bcb1bd32b4b6a0147e3.png",
     "website": "https://hamming.ai/",
     "all_locations": "",
-    "long_description": "Humans make billions of calls/day. We think a majority of these will be handled by AI built by thousands of companies tackling every single vertical.\r\n\r\nMaking these AI voice agents reliable is hard. A small change in prompts, function call definitions, or model providers can cause large changes in LLM outputs. \r\n\r\nHamming automates testing for AI voice agents. Our voice agents call your voice agent. An AI drive-through startup uses Hamming to simulate thousands of simultaneous phone calls to achieve 99.99% agent order accuracy.\r\n\r\nWe have a proven track record of helping enterprises win with AI. Sumanyu (CEO) previously helped Citizen (safety app) grow its users by 4X and grew an AI-powered sales program to 100s of millions in revenue/year at Tesla. Marius (CTO) previously ran data infrastructure @ Anduril and was a founding engineer @ Spell (MLOps startup acquired by Reddit).",
-    "one_liner": "Automated AI voice agent testing",
-    "team_size": 2,
+    "long_description": "Hamming automates the QA of voice agents. (both pre-deployment testing and post-deployment analytics)\r\n\r\nMaking voice AI agents reliable is hard. A small change in prompts, function call definitions, or model providers can cause large changes in LLM outputs. \r\n\r\nWe have a proven track record of helping enterprises win with AI. Sumanyu (CEO) previously helped Citizen (safety app) grow its users by 4X and grew an AI-powered sales program to 100s of millions in revenue/year at Tesla.\r\n\r\nOur eng team ranks #1 on https://workweave.ai/\r\n",
+    "one_liner": "Automated voice AI agent testing and monitoring",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1715007777,
@@ -2753,7 +2754,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05452330a078be465b5353a9b54ad87966552d0b.png",
     "website": "https://www.rewbi.com/",
     "all_locations": "",
-    "long_description": "Rewbi uses AI to optimize grid-connected battery storage. We generate revenue by charging when electricity is cheap and discharging when electricity is expensive.\r\n\r\nWe rent battery storage for a fixed fee per month, and we earn 2x that fee in monthly revenue by dispatching the battery optimally.\r\n\r\nToday, power companies use human traders to manually track grid conditions and update the battery’s dispatch schedule. However batteries can adjust their power output 100x faster than traditional power generation (e.g. hydro, coal, nuclear, gas), with the ability to go from full-speed charging to to full speed discharging in under a minute. Electricity prices change every 5 minutes, often by 300% or more. Our AI better tracks 100s of live inputs, and it makes decisions faster than a human operator (with lower overhead!), improving revenue 2x.",
+    "long_description": "Rewbi uses AI to optimize grid-connected battery storage. We generate revenue by charging when electricity is cheap and discharging when electricity is expensive.\r\n\r\nWe rent battery storage for a fixed fee per month, and we earn 2x that fee in monthly revenue by dispatching the battery optimally.\r\n\r\nToday, power companies use human traders to manually track grid conditions and update the battery’s dispatch schedule. However batteries can adjust their power output 100x faster than traditional power generation (e.g. hydro, coal, nuclear, gas), with the ability to go from full-speed charging to full speed discharging in under a minute. Electricity prices change every 5 minutes, often by 300% or more. Our AI better tracks 100s of live inputs, and it makes decisions faster than a human operator (with lower overhead!), improving revenue 2x.",
     "one_liner": "Rewbi uses AI to increase grid-connected battery storage revenue 2x",
     "team_size": 2,
     "industry": "Industrials",
@@ -3795,54 +3796,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dench-com",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/dench-com.json"
-  },
-  {
-    "id": 29697,
-    "name": "Stormy AI – Vibe marketing agent",
-    "slug": "stormy-ai-vibe-marketing-agent",
-    "former_names": [
-      "1nterface.ai",
-      "stormy.ai",
-      "Stormy AI – Autonomous marketing agent"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f3f3c7294f8988b367d1e4a0f95cecc0483ea8.png",
-    "website": "https://stormy.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stormy: AI-Driven Influencer Marketing\r\n\r\nStreamline influencer outreach and let your product shine.\r\n\t•\tDiscover: AI pinpoints ideal influencers with 99.8% accuracy.\r\n\t•\tOutreach: Auto-send personalized emails and follow-ups.\r\n\t•\tClose: AI negotiates and finalizes deals seamlessly.\r\n\r\nFocus on building—Stormy handles distribution on autopilot.\r\n\r\nFounders from YC have discount! Please DM me on twitter: @karmedge or email",
-    "one_liner": "Influencer marketing on autopilot",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1723238839,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Marketing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stormy-ai-vibe-marketing-agent",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/stormy-ai-vibe-marketing-agent.json"
   },
   {
     "id": 29698,
@@ -8355,21 +8308,21 @@
     "former_names": [
       "Titan"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28bfd5603abc1cad782c0769498ab77e4c72242d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce0c43be54d93fe3569a81f9840b0bb15401e733.png",
     "website": "https://www.simplifine.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Research workflows are broken, forcing researchers to cobble together disconnected tools for literature review, writing, data analysis, and more—tools not designed for their needs.\r\n\r\nSimplifine changes everything. Built by researchers, for researchers, it equips you with AI agents that act like JARVIS from Iron Man, capable not only of connecting and analyzing information but also running computational experiments and simulations. Our specialized LLM Agents can design and execute complex research experiments with PhD-level expertise, compressing weeks of work into minutes. With Simplifine, you no longer need to juggle fragmented tools—everything from advanced simulations to data analysis happens in one place.",
-    "one_liner": "AI-Powered Workspace for Research",
+    "long_description": "Simplifine is making Orca, the open-source AI game engine, so you don't need to give your years to make a game. We are integrating a chat bot, with complete access to Godot. The chatbot can:\r\n\r\nRead/edit/create/delete files\r\nUnderstand the entire project as context\r\nCreate images and keep consistency across images created\r\nEdit Godot native objects, e.g. nodes, scenes, ...",
+    "one_liner": "Jet engine for game development",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1723501563,
     "tags": [
-      "AI-Enhanced Learning",
       "Artificial Intelligence",
-      "Productivity",
-      "Consumer Products",
-      "Note-taking"
+      "Developer Tools",
+      "Consumer",
+      "Gaming",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
