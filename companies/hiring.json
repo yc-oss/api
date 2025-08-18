@@ -18558,9 +18558,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0c0b8150edc64332f4d529343a9096db99002e1.png",
     "website": "https://encord.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Encord is the leading data development platform for advanced vision and multimodal AI teams. We build tools and infrastructure to help the world's leading AI teams get their models into production faster - with data-centric model testing, human-centric workflow and annotation tools for labeling & RLHF, and data curation and management software. \r\n\r\nEncord is trusted by pioneering AI teams at Stanford Medicine, Mass General Brigham, Tractable, Viz AI, Iterative Health, the UHN, the Royal Navy, Veo, and many more global companies.",
-    "one_liner": "The data development platform for AI teams",
-    "team_size": 70,
+    "long_description": "Encord is the leading data platform for AI. We help top AI teams get models into production faster with human-in-the-loop workflows for labeling and RLHF, infrastructure for data-centric model testing, and powerful data curation and management.",
+    "one_liner": "Building the data backbone for the (artificial) intelligence…",
+    "team_size": 100,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1613768381,
@@ -38058,6 +38058,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/every.json"
   },
   {
+    "id": 28821,
+    "name": "Prosper",
+    "slug": "prosper",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dbf5a3fe66d78955d591f3cbd3eee3f1635749ff.png",
+    "website": "https://www.getprosper.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Prosper builds AI phone agents for healthcare providers. Our agents automate manual, time-intensive workflows like patient scheduling, balance reminders, claims status checks, benefit verification, and prior authorizations. We integrate with 80+ EHRs, go live in 3 weeks, and offer a no-code interface for customization.\r\n\r\nToday, Prosper handles thousands of daily calls for dozens of providers, reducing costs by 50% and tripling productivity. We’re building the AI-first operating system for healthcare — to eliminate the $200B lost to administrative overhead every year.",
+    "one_liner": "AI Phone Agents for Healthcare Operations",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1754605314,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "B2B",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prosper",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/prosper.json"
+  },
+  {
     "id": 28822,
     "name": "Electric Air",
     "slug": "electric-air-2",
@@ -38975,53 +39018,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maintouch",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/maintouch.json"
-  },
-  {
-    "id": 28921,
-    "name": "Surface Labs",
-    "slug": "surface-labs",
-    "former_names": [
-      "Surface"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd06883b73b261dd75ac5399b0cd9b5dc03518d1.png",
-    "website": "https://withsurface.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Surface Labs helps B2B companies capture, qualify, and convert inbound leads through intelligent contact forms. We replace tools like HubSpot Forms, Zapier, and Chili Piper with a single platform that embeds on any site with one line of code.\r\n\r\nOur AI agents handle lead capture, enrichment, routing, follow-up, and CRO testing — automating what used to require full marketing ops teams. Customers see a 30% lift in conversions in under 2 weeks, and our partial response capture feature collects 50% more emails from form drop-offs.",
-    "one_liner": "AI conversion engine for B2B websites -- just add 1 line of code",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1693007377,
-    "tags": [
-      "Artificial Intelligence",
-      "Sales",
-      "Marketing",
-      "Advertising",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/surface-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/surface-labs.json"
   },
   {
     "id": 28923,
@@ -47152,16 +47148,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Quantum computers will allow humanity to understand the world at its most fundamental level, enabling the acceleration of drug discovery and the development of new materials. \r\n\r\nCurrently, quantum engineers spend days, sometimes weeks, manually getting their silicon chips to operational conditions to realize two qubits. A qubit is the information-carrying unit of a quantum computer, analogous to a bit in a classical computer. \r\n\r\nWe need billions of qubits to make a useful quantum computer. Therefore, automation software will be vital to realizing this goal. \r\n\r\nConductor Quantum will develop AI software to remove the human from the loop, enable the scaling of silicon quantum technology and build a silicon-based quantum computer.",
     "one_liner": "Quantum computers on silicon chips using AI.",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1718219316,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Machine Learning",
       "Quantum Computing",
-      "Semiconductors",
-      "AI"
+      "Semiconductors"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47179,7 +47175,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/conductor-quantum",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/conductor-quantum.json"
@@ -54246,7 +54242,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/136331286874ea99fbd7e2a7b2acfee659b0c7bf.png",
     "website": "https://www.albacore.inc",
     "all_locations": "",
-    "long_description": "Albacore is building 6ft-long autonomous submarines to deter maritime invasions. They can be launched from land in minutes and carry precision effects or conduct sensing missions up to 1,000 nautical miles. Our team consists of multiple serial entrepreneurs in defense and hardware who have worked alongside top DoD leadership on autonomous platforms.",
+    "long_description": "Albacore is building 6ft-long drone submarines to deter littoral conflict. Our first product, Ghostfin can be launched from land in minutes, and carry precision effects or conduct sensing missions up to 1,000 nautical miles. Our team consists of multiple serial entrepreneurs in defense and hardware who have worked alongside top DoD leadership on autonomous platforms.",
     "one_liner": "Autonomous undersea vehicles to deter maritime invasions.",
     "team_size": 5,
     "industry": "Government",
@@ -54475,7 +54471,7 @@
     "slug": "veritus-agent",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b301b9f0345d2f7e32e073734be71f290ed3ea40.png",
-    "website": "http://veritusagent.ai",
+    "website": "https://www.veritusagent.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Veritus is a platform for deploying AI agents for loan servicing and collections, including inbound and outbound voice agents. Our agents negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.\r\n\r\nWe license our platform to lenders and collections agencies, and we're also in the process of getting licensed in all 50 states to enable our own third-party collections and debt buying. By combining cutting edge voice AI with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates. ",
     "one_liner": "AI agents for loan servicing and collections",
@@ -54484,9 +54480,9 @@
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1753735109,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Lending",
-      "AI"
+      "Lending"
     ],
     "tags_highlighted": [],
     "top_company": false,
