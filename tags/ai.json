@@ -3729,55 +3729,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2020/datafold.json"
   },
   {
-    "id": 21794,
-    "name": "Shuttle",
-    "slug": "shuttle",
-    "former_names": [
-      "OpenQuery",
-      "Synth",
-      "shuttle"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c189cabb560e9c254a44aff2d8e3ff94ea9d36e.png",
-    "website": "https://www.shuttle.dev",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "# Our Mission 🎯\r\n\r\nAt Shuttle, we’re on a mission to revolutionise developer experience for building web apps. Everything we do is about crafting an exceptionally simple, satisfying and effective way to do cloud development. We are open source community-driven and loved by thousands of engineers. Our vision: the ultimate platform to supercharge developers’ productivity.\r\n\r\n# About Shuttle 🚀\r\n\r\nShuttle is the cloud infrastructure platform for developers building with Cursor and GitHub Copilot. We make it simple to ship reliable and scalable backends, so developers can focus on creating great products.\r\n\r\nOver 20,000 developers use Shuttle to build and deploy Rust backends in minutes, and we’re now bringing the same zero-config experience to every developer. As AI tools like Cursor and GitHub Copilot accelerate coding, infrastructure is becoming the bottleneck - Shuttle removes it.\r\n\r\n# Working With Us 😎\r\n\r\nWe’re a growth mindset company. We’re honest, open-minded, driven, and ambitious and we are only looking for people who share these qualities with us. You can read more about us [here](https://www.shuttle.dev/about).\r\n\r\n# Perks 🎁\r\n\r\n- Remote-friendly, flexible working hours and workdays\r\n- Flexible holidays and paid time off\r\n- Mental and physical health stipend\r\n- Educational and self-development budget\r\n- Support for attending and presenting at relevant conferences\r\n- Health insurance\r\n- Awesome work-from-home setup & equipment\r\n- Regular company off-sites\r\n- Regular remote-friendly socials (games and more)",
-    "one_liner": "Build Backends. Fast.",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1599762607,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "Open Source",
-      "DevOps",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shuttle",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/shuttle.json"
-  },
-  {
     "id": 21857,
     "name": "Hypotenuse AI",
     "slug": "hypotenuse-ai",
@@ -6003,6 +5954,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shipblu",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/shipblu.json"
+  },
+  {
+    "id": 24391,
+    "name": "CoLoop",
+    "slug": "coloop",
+    "former_names": [
+      "genei",
+      "Genei"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70bf325ba6f13643292ce722346a076bac8e2292.png",
+    "website": "https://coloop.ai/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "CoLoop is the AI copilot for insights and strategy. We help insights and strategy consultants complete their qualitative analysis in 30% of the time it would take with traditional tools and methods.",
+    "one_liner": "AI Copilot for insights & strategy",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1626771804,
+    "tags": [
+      "Generative AI",
+      "NLP",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/coloop",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/coloop.json"
   },
   {
     "id": 24395,
@@ -10114,53 +10108,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/typeless",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/typeless.json"
-  },
-  {
-    "id": 27152,
-    "name": "Firecrawl",
-    "slug": "firecrawl",
-    "former_names": [
-      "SideGuide",
-      "Mendable",
-      "SideGuide",
-      "Mendable"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d81916c7376f47ef6d8a6a498411483e26238a8.png",
-    "website": "https://www.firecrawl.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Firecrawl is the easiest way to extract data from the web. Developers use us to reliably convert URLs into LLM-ready markdown or structured data with a single API call. We crossed 17k GitHub stars in just two months and have had paying customers since day one.\r\n\r\nPreviously, we built Mendable, one of the first commercially available “chat with your data” applications. We sold to companies like MongoDB, Coinbase, Snapchat, and more. To do this, we spent a surprising amount of time building reliable infrastructure for getting clean data from the web. When we started to see our founding friends rebuilding the same thing, we thought we might be on to something.",
-    "one_liner": "The easiest way to extract AI ready data from the web",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1661283698,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/firecrawl",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/firecrawl.json"
   },
   {
     "id": 27162,
@@ -24970,45 +24917,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/woz.json"
   },
   {
-    "id": 30324,
-    "name": "Rebolt",
-    "slug": "rebolt",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/43a1bca6744d6a6a2a565eec8b0480d47b5f408e.png",
-    "website": "https://rebolt.ai",
-    "all_locations": "",
-    "long_description": "Rebolt lets everyone in the company build apps, and agents by speaking with AI.\r\n\r\nIntegrated with your company tools, data and authentication. Replacing no-code tools, bloated SaaS and complex spreadsheets, for automating all the boring work.",
-    "one_liner": "Build apps and agents by speaking with AI",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1740196480,
-    "tags": [
-      "Enterprise Software",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rebolt",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/rebolt.json"
-  },
-  {
     "id": 30329,
     "name": "Waffle",
     "slug": "waffle",
@@ -27496,50 +27404,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/ghostship.json"
   },
   {
-    "id": 30622,
-    "name": "Liva AI",
-    "slug": "liva-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d577992606b8392c9619b8dffacec074b48668d.png",
-    "website": "https://www.theliva.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We provide real voice and video data for developing realistic AI.",
-    "one_liner": "Real voice and video data for AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753401226,
-    "tags": [
-      "Marketplace",
-      "B2B",
-      "Data Labeling",
-      "Big Data",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/liva-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/liva-ai.json"
-  },
-  {
     "id": 30624,
     "name": "Verne Robotics",
     "slug": "verne-robotics",
@@ -27830,48 +27694,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/skope.json"
   },
   {
-    "id": 30660,
-    "name": "Sidekick",
-    "slug": "heysidekick",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2842d2a52b047f3cdc0601cc787b7972d74a3bf.png",
-    "website": "https://joinsidekick.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sidekick is automation for the rest of us. \r\nJust describe what you want and watch the automation build itself.\r\n\r\nTeams in sales, marketing, and ops often turn to platforms like Zapier to automate their busywork. But these platforms are too complex and time-consuming for them. Sidekick replaces the steep learning curve with a simple chat interface, making powerful automation accessible to everyone.\r\n",
-    "one_liner": "Automation for the rest of us",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1751905744,
-    "tags": [
-      "SaaS",
-      "Productivity",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/heysidekick",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/heysidekick.json"
-  },
-  {
     "id": 30661,
     "name": "Stockline",
     "slug": "stockline",
@@ -27955,6 +27777,44 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/kestroll.json"
   },
   {
+    "id": 30666,
+    "name": "CareSwift",
+    "slug": "careswift",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f57117138aa46056d21a2d0bd92569a3da39e148.png",
+    "website": "https://www.careswift.com/",
+    "all_locations": "",
+    "long_description": "Ambulance crews lose valuable time completing reports after each call. Even minor mistakes cause insurance claims to be rejected. CareSwift is a real-time AI assistant built directly into ambulance reporting systems, guiding medics as they document care and instantly flagging errors. Crews complete accurate, compliant reports in under three minutes, cutting documentation time by 80 percent and helping agencies avoid insurance claim denials.",
+    "one_liner": "AI operating system for ambulance agencies",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1751153734,
+    "tags": [
+      "Health Tech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/careswift",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/careswift.json"
+  },
+  {
     "id": 30671,
     "name": "AgentHub",
     "slug": "agenthub-2",
@@ -27993,49 +27853,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/agenthub-2",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/agenthub-2.json"
-  },
-  {
-    "id": 30680,
-    "name": "Riverbank",
-    "slug": "riverbank",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2c4cd4965511ab936008331a12f4b2958401280.png",
-    "website": "https://www.riverbanksecurity.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Riverbank is creating the first AI native internal security team, starting with the $3B pentesting market. We blend AI agents with experienced human operators and red teamers to find what traditional vulnerability scanners miss to create more secure, resilient cyber postures. ",
-    "one_liner": "AI Agents for Penetration Testing",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1754465108,
-    "tags": [
-      "IoT Security",
-      "Cybersecurity",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/riverbank",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/riverbank.json"
   },
   {
     "id": 30681,
@@ -28292,48 +28109,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/novaflow",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/novaflow.json"
-  },
-  {
-    "id": 30716,
-    "name": "Finto",
-    "slug": "finto-de",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6adb7f41be65aa21db82cf58680bb6b24b1fdaa.png",
-    "website": "https://www.gofinto.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Finto builds the AI platform powering industrial finance. We automate the invoice-to-pay process for enterprises operating on ERP Systems. Cutting out 80% of the accountants daily work in invoice recording, account coding and  invoice approvals.\r\n",
-    "one_liner": "The AI platform powering industrial finance.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1751218179,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/finto-de",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/finto-de.json"
   },
   {
     "id": 30717,
@@ -28623,6 +28398,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alara",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/alara.json"
+  },
+  {
+    "id": 30728,
+    "name": "Observee",
+    "slug": "observee",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c5ca7e872c8a9bcea68e50cafff191bddd77013.png",
+    "website": "https://observee.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "All AI Agents rely on external integrations to become truly useful. Our software provides AI Agent companies with all the tools that they would need to build in any vertical such as legal, insurance, real estate, healthcare or even dev tools.\r\n\r\nObservee provides a Data Ingestion Engine to consume data using APIs and browser agents from any platform and an Action Engine to allow AI agents to take actions using MCPs, tool calls and browsers.\r\n\r\nAs AI Agents become increasingly prominent for Vertical AI companies, they will rely on Observee for underlying infrastructure.",
+    "one_liner": "Integrations Infrastructure for Vertical AI companies",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753297896,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/observee",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/observee.json"
   },
   {
     "id": 30729,
@@ -29629,47 +29445,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/realroots",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/realroots.json"
-  },
-  {
-    "id": 30807,
-    "name": "Paloma",
-    "slug": "paloma",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59cd4e66e87a2529fc200defa6e386523e11058a.png",
-    "website": "https://getpaloma.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Paloma is an AI copilot and system of record for renewals, expansions, and billing. It connects to your contracts, CRM, usage data and customer communications to surface revenue opportunities, flag churn risks and automatically update billing. With billing as its foundation, Paloma becomes the single source of truth for post-sales revenue, eliminating leakage and manual work.",
-    "one_liner": "AI copilot and system of record for renewals, expansions, and billing",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1754546482,
-    "tags": [
-      "SaaS",
-      "Customer Success",
-      "Sales",
-      "Billing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/paloma",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/paloma.json"
   }
 ]

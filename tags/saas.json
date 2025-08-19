@@ -7810,7 +7810,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2018",
     "status": "Active",
@@ -14861,18 +14861,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c189cabb560e9c254a44aff2d8e3ff94ea9d36e.png",
     "website": "https://www.shuttle.dev",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "# Our Mission 🎯\r\n\r\nAt Shuttle, we’re on a mission to revolutionise developer experience for building web apps. Everything we do is about crafting an exceptionally simple, satisfying and effective way to do cloud development. We are open source community-driven and loved by thousands of engineers. Our vision: the ultimate platform to supercharge developers’ productivity.\r\n\r\n# About Shuttle 🚀\r\n\r\nShuttle is the cloud infrastructure platform for developers building with Cursor and GitHub Copilot. We make it simple to ship reliable and scalable backends, so developers can focus on creating great products.\r\n\r\nOver 20,000 developers use Shuttle to build and deploy Rust backends in minutes, and we’re now bringing the same zero-config experience to every developer. As AI tools like Cursor and GitHub Copilot accelerate coding, infrastructure is becoming the bottleneck - Shuttle removes it.\r\n\r\n# Working With Us 😎\r\n\r\nWe’re a growth mindset company. We’re honest, open-minded, driven, and ambitious and we are only looking for people who share these qualities with us. You can read more about us [here](https://www.shuttle.dev/about).\r\n\r\n# Perks 🎁\r\n\r\n- Remote-friendly, flexible working hours and workdays\r\n- Flexible holidays and paid time off\r\n- Mental and physical health stipend\r\n- Educational and self-development budget\r\n- Support for attending and presenting at relevant conferences\r\n- Health insurance\r\n- Awesome work-from-home setup & equipment\r\n- Regular company off-sites\r\n- Regular remote-friendly socials (games and more)",
+    "long_description": "Our Mission 🎯\r\n\r\nAt Shuttle, we’re on a mission to revolutionise developer experience for building web apps. Everything we do is about crafting an exceptionally simple, satisfying and effective way to do cloud development. We are open source community-driven and loved by thousands of engineers. Our vision: the ultimate platform to supercharge developers’ productivity.\r\n\r\nAbout Shuttle 🚀\r\n\r\nShuttle is the cloud infrastructure platform for developers building with Cursor and GitHub Copilot. We make it simple to ship reliable and scalable backends, so developers can focus on creating great products.\r\n\r\nOver 20,000 developers use Shuttle to build and deploy Rust backends in minutes, and we’re now bringing the same zero-config experience to every developer. As AI tools like Cursor and GitHub Copilot accelerate coding, infrastructure is becoming the bottleneck - Shuttle removes it.",
     "one_liner": "Build Backends. Fast.",
     "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1599762607,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "Open Source",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41279,7 +41279,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Healthcare"
     ],
@@ -48164,8 +48164,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7ecfb758177e9198eb8221c46198150c3a277ba.png",
     "website": "https://zeroeval.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "We help companies build reliable AI agents through an evaluation harness that learns over time using human feedback.\r\n\r\nThe biggest issue with traditional eval tooling is that they are not fit to evaluate more complex situations like:\r\n- Long running, multi-turn agents with dozens of intermediate tool calls.\r\n- Generalist agents that have no clear (input) / (expected output) but can sometimes feel “wrong”.\r\n- Images, video, UI, personality, taste, etc\r\n\r\nOverall: Things that are difficult to verify programatically.\r\n\r\nWith ZeroEval we are building a way to back-propagate your AI agent's errors and help you optimize your most important metric.\r\n\r\nCurrent LLM judges are static and unreliable when it comes to evaluating complex systems. One way we are solving is through calibrated judges that learn through their mistakes and get better over time. Having a reliable judge is the highest leverage piece any company building with AI can have.\r\n\r\nOur mission is to enable every company to build reliable, self-improving AI software.",
-    "one_liner": "A platform to measure the quality of AI agents using human feedback.",
+    "long_description": "We help companies build reliable AI agents through an evaluation harness that learns over time using human feedback. \r\n\r\n\r\n1. The problem:\r\n\r\nCurrent offline eval methods are high-friction, a lot of work is needed to continuously curate labeled data, write experiments and evaluators. \r\n\r\nOn the other hand, current LLM judges are static and often have terrible performance, they lack context on how they fail and the nuances of the task at hand. \r\n\r\n\r\n2. The solution:\r\n\r\nWe're building new evaluation tools that provide signal faster and of higher quality than traditional evals.\r\n\r\n- Calibrated Judges: LLM Judges that learn from their mistakes and get better over time.\r\n\r\n- Autotune: Automatic evals with dozens of models and optimization (genetic prompt tuning & sft).\r\n\r\n- Arenas: Pairwise comparison and ELO rankings of agents with subjective outputs like UI generation, motion design, etc.\r\n\r\nDo you have tool call failures? Hallucinations? Outputs that you don't like? Talk to us.\r\n\r\n\r\n\r\n",
+    "one_liner": "A tool to evaluate and optimize AI agents using human feedback.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -48191,7 +48191,7 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -48418,17 +48418,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2842d2a52b047f3cdc0601cc787b7972d74a3bf.png",
     "website": "https://joinsidekick.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sidekick is automation for the rest of us. \r\nJust describe what you want and watch the automation build itself.\r\n\r\nTeams in sales, marketing, and ops often turn to platforms like Zapier to automate their busywork. But these platforms are too complex and time-consuming for them. Sidekick replaces the steep learning curve with a simple chat interface, making powerful automation accessible to everyone.\r\n",
+    "long_description": "Sidekick is automation for the rest of us. Build Zapier-style automations in minutes using natural language.\r\n\r\nTeams in sales, marketing, and ops often turn to platforms like Zapier to automate their busywork. But these platforms are too complex and time-consuming for them. Sidekick replaces the steep learning curve with a simple chat interface, making powerful automation accessible to everyone.\r\n",
     "one_liner": "Automation for the rest of us",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751905744,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Productivity",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48928,17 +48928,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6adb7f41be65aa21db82cf58680bb6b24b1fdaa.png",
     "website": "https://www.gofinto.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Finto builds the AI platform powering industrial finance. We automate the invoice-to-pay process for enterprises operating on ERP Systems. Cutting out 80% of the accountants daily work in invoice recording, account coding and  invoice approvals.\r\n",
-    "one_liner": "The AI platform powering industrial finance.",
+    "long_description": "Finto builds AI accounting software for enterprise finance teams. We automate the invoice-to-pay process from their email inbox to their ERP. Cutting out 80% of the accountants daily work in invoice recording, account coding and  invoice approvals.",
+    "one_liner": "AI accounting for enterprise finance teams",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1751218179,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49341,6 +49341,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/certus-ai.json"
   },
   {
+    "id": 30770,
+    "name": "Vibe Code Go",
+    "slug": "vibe-code-go",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffeca89d176d23081681b5dd3135c9a26bcfb7f5.png",
+    "website": "https://vibecodego.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We've built a mobile app that lets you vibe code on the go.\r\n\r\n90% of code (or more) is going to be written by AI by the end of the year. At the same time, I can order a hamburger from my phone, or I can file an expense report, but I can't code from my phone.\r\n\r\nWe think that with the advent of agentic coding, it's time for that to change.",
+    "one_liner": "Code from your phone",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1755546681,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vibe-code-go",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/vibe-code-go.json"
+  },
+  {
     "id": 30794,
     "name": "Vulcan Technologies",
     "slug": "vulcan-technologies",
@@ -49469,18 +49510,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59cd4e66e87a2529fc200defa6e386523e11058a.png",
     "website": "https://getpaloma.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Paloma is an AI copilot and system of record for renewals, expansions, and billing. It connects to your contracts, CRM, usage data and customer communications to surface revenue opportunities, flag churn risks and automatically update billing. With billing as its foundation, Paloma becomes the single source of truth for post-sales revenue, eliminating leakage and manual work.",
-    "one_liner": "AI copilot and system of record for renewals, expansions, and billing",
+    "long_description": "Paloma is an AI copilot and system of record for managing post-sales operations. It connects to your contracts, CRM, usage data and customer communications to surface upsell opportunities, flag churn risks and automatically update billing.",
+    "one_liner": "We help customer facing teams maximize revenue and simplify billing",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1754546482,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Customer Success",
       "Sales",
-      "Billing",
-      "AI"
+      "Billing"
     ],
     "tags_highlighted": [],
     "top_company": false,

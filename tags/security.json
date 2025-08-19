@@ -3338,47 +3338,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/asterisk.json"
   },
   {
-    "id": 29783,
-    "name": "Guardian RF",
-    "slug": "guardian-rf",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec6cf435222465cfd6d7908d7b853c7edb7ab66d.png",
-    "website": "https://guardianrf.com/",
-    "all_locations": "Washington, DC, USA",
-    "long_description": "The rise of low-cost commercial drones has introduced a new class of asymmetric threats to U.S. national security. Off-the-shelf platforms now deliver ISR, contraband, or payloads with precision, while operating below radar coverage and beyond line-of-sight. These systems—often costing under $1,000—are capable of neutralizing multi-million-dollar defense assets. For drone detection to be viable at scale, sensors must achieve cost parity with the threat.\r\n\r\nIn response, the Department of Defense established multiple initiatives to counter the rapid proliferation of uncrewed aerial systems. The Joint Counter-small UAS Office (JCO) coordinates policy and acquisition across services. The Base Defense Cross-Functional Team enables persistent perimeter security for CONUS and OCONUS installations. Falcon Peak, Red Sands, and related exercises are accelerating deployment of counter-UAS technologies in complex environments.\r\n\r\nThis threat is no longer exclusive to military operations overseas. It now directly targets the U.S. homeland. In 2025, an executive order designated the protection of American airspace sovereignty a national priority, recognizing that uncrewed systems present both surveillance and kinetic risks within the United States. That same year, a domestic extremist plotted to destroy a Tennessee power substation using a drone rigged with C-4 explosives—a plan disrupted by undercover federal agents. In July 2025, an unauthorized drone collided with a rescue helicopter during disaster response operations in Kerr County, Texas, forcing an emergency landing and halting flood relief efforts. These are not isolated incidents—they reflect a broader shift in drone-enabled threats against homeland infrastructure and public safety.\r\n\r\nGuardian RF builds passive, radiofrequency-based drone detection systems for force protection and critical infrastructure defense inside the United States. Our systems are fielded under an AFWERX Direct-to-Phase-II SBIR with the 30th Security Forces Squadron at Vandenberg Space Force Base, deployed by local and state law enforcement, and integrated into commercial security operations. We were selected as a finalist for Falcon Peak 25.2, the Department of Defense’s premier counter-UAS exercise.\r\n\r\nScout is a passive RF sensor for fixed, mobile, or temporary deployments. It detects and classifies drone control signals—including modified variants of DJI, Crossfire, and ExpressLRS—at standoff ranges. Scout supports direct integration into TAK and other operational APIs and is managed through GRF-SECURE, our secure interface for live monitoring, threat alerting, and forensic review.\r\n\r\nMosaic extends coverage in austere environments, enabling persistent low-altitude monitoring and classification of non–Remote ID drones across complex terrain—without active emissions or mesh dependency.\r\n\r\nBuilt in the United States, Guardian RF delivers scalable, automated, and cost-aligned drone detection—passive by design and hardened for real-world deployment across the homeland.",
-    "one_liner": "Drone detection for US defense and national security  ",
-    "team_size": 3,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Drones",
-    "launched_at": 1718385099,
-    "tags": [
-      "Hard Tech",
-      "Drones",
-      "Security"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Drones"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/guardian-rf",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/guardian-rf.json"
-  },
-  {
     "id": 29812,
     "name": "ZeroPath",
     "slug": "zeropath",
@@ -3679,5 +3638,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alter",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/alter.json"
+  },
+  {
+    "id": 30652,
+    "name": "OnDeck AI",
+    "slug": "ondeck-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fb6ad4cbd4cdfac49ff1b40404d7053d5789883.png",
+    "website": "https://www.ondeckai.com",
+    "all_locations": "Vancouver, BC, Canada",
+    "long_description": "We let organizations instantly find any object, behavior or event, in any footage, without needing to train a model or collect any training data.\r\n\r\nThe Pain: Creating vision models usually takes months: collecting training data, training, then deployment.  Worse yet: \r\n+ it’s often impossible to get enough data for a specific task, and \r\n+ even the best cv models struggle to generalize across diverse camera setups, workflows and environments. \r\n\r\nTo overcome these blockers, we bet early on the power of VLMs and built a vision engine that can generalize across any task and doesn’t need any training data. We published a NeurIPS workshop paper showing our new methods with VLMs beat traditional CV even at niche tasks.\r\n\r\nOur current customers include:\r\n- National Defense Organizations\r\n- Robotics Research\r\n- Security cameras\r\n- Behaviour analysis for port monitoring\r\n- Off-shore oil & gas monitoring",
+    "one_liner": "Analyze any footage, without training a model",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1755488960,
+    "tags": [
+      "Computer Vision",
+      "B2B",
+      "Security",
+      "Video",
+      "Maritime"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ondeck-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/ondeck-ai.json"
   }
 ]
