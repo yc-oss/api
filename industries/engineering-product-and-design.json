@@ -7233,7 +7233,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -10321,10 +10321,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc34887fced4f954a1a9fd60de7afd828c9a1d74.png",
     "website": "https://www.warpbuild.com",
-    "all_locations": "San Francisco, CA, USA; Sunnyvale, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Accelerate software development with WarpBuild.\r\nGet 30% faster, 90% cheaper CI builds in 30 seconds using WarpBuild cloud runners for Github Actions.",
     "one_liner": "Accelerate software development with WarpBuild's 10x faster CI infra.",
-    "team_size": 6,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1626365093,
@@ -10337,7 +10337,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -19895,7 +19895,7 @@
     "former_names": [
       "CloudCaptain"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f800e2a1ea0c20343a59b42d64729d9dd28eeac0.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/46d487203d596b97a146790985b19ea2f9776e5e.png",
     "website": "https://tryhelium.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Helium is building self-improving software — AI that continuously experiments on key moments in the user funnel to boost revenue. Our first customer, a social app with 20M MAU, uses Helium to test new in-app paywalls to get more users to subscribe. \r\n\r\nZach previously made $100M+ in growth experiments at Uber, Shishir led the first LLM features for Alexa, and Anish worked at Meta building ML to automatically experiment on ads, increasing Instagram ads conversion by 10%. ",
@@ -21336,7 +21336,11 @@
     "id": 30254,
     "name": "hud",
     "slug": "hud",
-    "former_names": [],
+    "former_names": [
+      "Human Union Data",
+      "hud",
+      "HUD"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53fffc4904f866d9d44ba9a47862b594f1d45667.png",
     "website": "https://www.hud.so",
     "all_locations": "San Francisco, CA, USA",
@@ -21344,7 +21348,7 @@
     "one_liner": "hud is building evals for the drop-in worker",
     "team_size": 5,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740930546,
     "tags": [
       "Artificial Intelligence",
@@ -22963,8 +22967,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e6eeafade8c1d3cdb6545bb6e588d11a521444e.png",
     "website": "https://tryghostship.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We find bugs in your product with AI agents that crawl across your app and test its features. All you need to do is connect your Github and every time you create a PR, Ghostship will figure out where the bugs are before you push to main.\r\n\r\nWe're starting with web apps, but we'll eventually test any piece of software your users would interact with like a mobile app or a desktop app.\r\n\r\nGhostship — ship something people love.",
-    "one_liner": "AI Agents that Find Bugs in Your Product",
+    "long_description": "We find bugs in your product with AI agents that crawl across your product and test its features. All you need to do is connect your Github and every time you create a PR, Ghostship will figure out where the bugs are before you push to production.\r\n\r\nWe're starting with web apps, but we'll eventually test any piece of software your users would interact with like a mobile app or a desktop app. Good UX is a moat today, but with Ghostship, it'll be the standard tomorrow.\r\n\r\nGhostship — don't get caught lacking by your users.",
+    "one_liner": "Browser agents for finding UX bugs in your product",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23087,6 +23091,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/datafruit.json"
   },
   {
+    "id": 30634,
+    "name": "bitrig",
+    "slug": "bitrig",
+    "former_names": [
+      "Aurelia",
+      "BitRig"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cab11cbab7740801b864a1576c8a78d2f69fa8e6.png",
+    "website": "https://www.bitrig.app",
+    "all_locations": "Cupertino, CA, USA",
+    "long_description": "Bitrig is the only vibe coder that writes native Swift, which is how the top mobile apps are coded. It's like Lovable for iPhone apps.\r\n\r\nKyle and Jacob created SwiftUI, the framework Apple says is the \"the best way to build an app,\" and led its development for the past 10 years. Tim was a co-founder and designer of Storehouse, where he won an Apple Design Award and was later acquired by Square. \r\n\r\nTry out bitrig on TestFlight:\r\nhttps://testflight.apple.com/join/4ZXPhYUC",
+    "one_liner": "Vibe code, test, and deploy Swift apps. All from your iPhone.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1755626076,
+    "tags": [
+      "Developer Tools",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bitrig",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/bitrig.json"
+  },
+  {
     "id": 30644,
     "name": "Herdora",
     "slug": "herdora",
@@ -23125,6 +23172,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/herdora",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/herdora.json"
+  },
+  {
+    "id": 30645,
+    "name": "Panels",
+    "slug": "panels",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee4b164260ea438a9d56d44266a78d08d778c3bc.png",
+    "website": "https://www.usepanels.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Panels is an audio data platform that delivers large-scale, richly labeled speech datasets from vetted, diverse contributors to power training and evaluation of foundational voice models.",
+    "one_liner": "Voice data that makes machines sound human",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1755625983,
+    "tags": [
+      "B2B",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/panels",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/panels.json"
   },
   {
     "id": 30647,
@@ -23381,16 +23469,16 @@
   },
   {
     "id": 30705,
-    "name": "Summon",
-    "slug": "summon",
+    "name": "Twill",
+    "slug": "twill",
     "former_names": [
       "AgentPort"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c6296641dda93e2e42b42eb8aa9b1ad557b54e7.png",
-    "website": "https://trysummon.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d24bb4bb035ac0a592f5ff7cfb7867f6b7c0f52.png",
+    "website": "https://twill.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Summon is the complete end-to-end MCP platform. We're building the pipes connecting context to client applications for the agent economy. \r\n\r\nSummon transforms MCP development from a fragmented, manual process into an AI-first, collaborative workflow. We build MCP servers from OpenAPI specs using our AI agent, provide debugging playgrounds, run continuous evaluations against different LLMs, and offer enterprise hosting with observability. This creates a complete virtuous loop where AI builds, maintains, and improves MCP integrations, accelerating time-to-market, reducing bugs, and aligning developers, QA, and product teams.\r\n\r\nWith MCP gaining adoption across ChatGPT, Claude, and Microsoft Copilot, companies need agent-accessible APIs to remain competitive.",
-    "one_liner": "Open-Source Postman for MCP servers",
+    "long_description": "Twill is the AI-native Linear connected to the codebase. We help engineering teams transform simple requests like \"Add user authentication\" into complete specifications, generate detailed tickets with full technical context, and dispatch them to AI coding agents in parallel. Teams ship 2x faster while maintaining alignment between product vision and implementation.",
+    "one_liner": "AI native Linear connected to the codebase.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -23411,17 +23499,15 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/summon",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/summon.json"
+    "url": "https://www.ycombinator.com/companies/twill",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/twill.json"
   },
   {
     "id": 30720,
@@ -23512,7 +23598,7 @@
     "name": "Idler",
     "slug": "idler",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fcd86cbc2e4ab44520f932ab828ce39c7bafa4f1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6071213c01d5d50f868a5fdc53ec36d1f79fe88b.png",
     "website": "https://idler.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re building the platform to produce reinforcement learning environments on-demand, at scale. \r\n\r\nIf you are building intelligent systems in research, robotics, simulation, product development, or beyond and hate wrestling with complicated infrastructure, Idler is for you.",
@@ -23522,10 +23608,10 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1749750449,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "Data Engineering",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,

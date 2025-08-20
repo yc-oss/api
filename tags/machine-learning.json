@@ -9389,6 +9389,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/metreecs.json"
   },
   {
+    "id": 30240,
+    "name": "Bezel",
+    "slug": "bezel",
+    "former_names": [
+      "Replenish"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fff4fb87d06a4a76e786b38906a07e576147ff8.png",
+    "website": "https://www.trybezel.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Bezel helps fashion brands create virtual photo/video shoots with AI. \r\n\r\nUpload images of clothes, select the human you want to model it, and Bezel generates pictures and videos that rival a full studio production. \r\n\r\nEvery detail of the clothing is rendered flawlessly. Try it for yourself.",
+    "one_liner": "Digital AI humans that model clothes for e-commerce brands.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1755619154,
+    "tags": [
+      "Generative AI",
+      "Machine Learning",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bezel",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/bezel.json"
+  },
+  {
     "id": 30251,
     "name": "Mecha Health",
     "slug": "mecha-health",
@@ -9771,16 +9813,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18234851431f8da18d1f087abc867a57412f1a97.png",
     "website": "https://getlilac.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lilac is an open-source tool that ensures your data scientists always have enough gpus for their work. We seamlessly connect compute from any source, on-prem or cloud.",
-    "one_liner": "Open-Source MLOps platform ensuring your data scientists have GPUs",
+    "long_description": "Lilac is a GPU spot marketplace that taps idle GPUs from cloud providers and enterprises, giving startups and researchers cheaper compute while letting companies monetize unused capacity. Fully automated with Kubernetes integration.",
+    "one_liner": "Spot GPU marketplace that uses idle GPUs from enterprises",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1754345371,
     "tags": [
       "Machine Learning",
-      "Open Source",
-      "Data Science",
+      "Cloud Computing",
       "Infrastructure",
       "AI"
     ],

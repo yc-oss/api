@@ -1706,10 +1706,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dc34887fced4f954a1a9fd60de7afd828c9a1d74.png",
     "website": "https://www.warpbuild.com",
-    "all_locations": "San Francisco, CA, USA; Sunnyvale, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Accelerate software development with WarpBuild.\r\nGet 30% faster, 90% cheaper CI builds in 30 seconds using WarpBuild cloud runners for Github Actions.",
     "one_liner": "Accelerate software development with WarpBuild's 10x faster CI infra.",
-    "team_size": 6,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1626365093,
@@ -1722,7 +1722,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -2534,8 +2534,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f89411c2e9172cac0eae74bed5485e42a289ab94.png",
     "website": "https://sprites.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Create any AI app or automation you can imagine in seconds - with no code. Sprites' mission is to allow anyone with an insight or creative spark to capture value from advances in AI. We want to live in a world where 1 person billion dollar companies are the norm.",
-    "one_liner": "Prompt-to-app AI tool builder for non technical users",
+    "long_description": "Sprites AI automates customer acquisition for entrepreneurs. Our AI agent handles managing SEO, running paid ad campaigns, content marketing, influencer outreach—tasks that normally require hiring multiple people or agencies. \r\n\r\nEntrepreneurs using our platform acquire customers much faster and scale their growth funnel without the overhead of building marketing teams or hiring expensive agencies. \r\n\r\nThe result: SMBs and solo founders can now scale revenue like they have a full marketing department, but it's just software. \r\n\r\nWe're arming entrepreneurs and small businesses globally with systematic customer acquisition run by AI- so they can focus on the important things that make their offering unique. ",
+    "one_liner": "The AI marketing agent for entrepreneurs, agencies and growth teams",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "Consumer -> Gaming",
@@ -2543,8 +2543,8 @@
     "tags": [
       "Artificial Intelligence",
       "Generative AI",
-      "Consumer",
       "B2B",
+      "Marketing",
       "No-code"
     ],
     "tags_highlighted": [],
@@ -2555,7 +2555,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
@@ -4356,7 +4356,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Salient is an AI workflow automation tool for lenders. We're working with the largest auto lenders in America and are hiring! ",
     "one_liner": "AI Servicing for Auto Lenders",
-    "team_size": 16,
+    "team_size": 23,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1677110461,
@@ -6479,8 +6479,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f5695ba4c0d9dd82ed980d0e36154b1b915be329.png",
     "website": "https://trycontour.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Contour is an AI customer support platform for financial institutions. It handles voice and chat conversations with deep banking knowledge and built-in compliance guardrails.",
-    "one_liner": "AI Customer Support for Financial Institutions",
+    "long_description": "Contour is a voice AI platform for financial institutions. It handles voice and chat conversations for collections and support with deep banking knowledge and built-in compliance guardrails. ",
+    "one_liner": "Voice AI for Financial Institutions",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -7431,7 +7431,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -10422,6 +10422,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/deployparagon.json"
   },
   {
+    "id": 30240,
+    "name": "Bezel",
+    "slug": "bezel",
+    "former_names": [
+      "Replenish"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6fff4fb87d06a4a76e786b38906a07e576147ff8.png",
+    "website": "https://www.trybezel.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Bezel helps fashion brands create virtual photo/video shoots with AI. \r\n\r\nUpload images of clothes, select the human you want to model it, and Bezel generates pictures and videos that rival a full studio production. \r\n\r\nEvery detail of the clothing is rendered flawlessly. Try it for yourself.",
+    "one_liner": "Digital AI humans that model clothes for e-commerce brands.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1755619154,
+    "tags": [
+      "Generative AI",
+      "Machine Learning",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bezel",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/bezel.json"
+  },
+  {
     "id": 30248,
     "name": "Operand",
     "slug": "operand",
@@ -11437,6 +11479,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/qualify-bot.json"
   },
   {
+    "id": 30672,
+    "name": "Induction Labs",
+    "slug": "induction-labs",
+    "former_names": [
+      "Next Action"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c2f926be6434de6b8c75a3a873f2b79fe0bdf59.png",
+    "website": "https://inductionlabs.com",
+    "all_locations": "",
+    "long_description": "Today’s foundation models can generate words, but still cannot reliably operate a computer, where where most real economic value will be unlocked. We’re building models that learn from human behaviour at scale, powered by the largest dataset of computer interactions ever collected. In two months, we trained a model that beats GPT-5 and Claude 4 computer use at OSWorld, an industry standard computer use benchmark.\r\n",
+    "one_liner": "Training the best computer use models in the world. Automate anything.",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1755632182,
+    "tags": [
+      "Generative AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/induction-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/induction-labs.json"
+  },
+  {
     "id": 30684,
     "name": "Doe",
     "slug": "doe",
@@ -11567,16 +11649,16 @@
   },
   {
     "id": 30705,
-    "name": "Summon",
-    "slug": "summon",
+    "name": "Twill",
+    "slug": "twill",
     "former_names": [
       "AgentPort"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c6296641dda93e2e42b42eb8aa9b1ad557b54e7.png",
-    "website": "https://trysummon.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d24bb4bb035ac0a592f5ff7cfb7867f6b7c0f52.png",
+    "website": "https://twill.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Summon is the complete end-to-end MCP platform. We're building the pipes connecting context to client applications for the agent economy. \r\n\r\nSummon transforms MCP development from a fragmented, manual process into an AI-first, collaborative workflow. We build MCP servers from OpenAPI specs using our AI agent, provide debugging playgrounds, run continuous evaluations against different LLMs, and offer enterprise hosting with observability. This creates a complete virtuous loop where AI builds, maintains, and improves MCP integrations, accelerating time-to-market, reducing bugs, and aligning developers, QA, and product teams.\r\n\r\nWith MCP gaining adoption across ChatGPT, Claude, and Microsoft Copilot, companies need agent-accessible APIs to remain competitive.",
-    "one_liner": "Open-Source Postman for MCP servers",
+    "long_description": "Twill is the AI-native Linear connected to the codebase. We help engineering teams transform simple requests like \"Add user authentication\" into complete specifications, generate detailed tickets with full technical context, and dispatch them to AI coding agents in parallel. Teams ship 2x faster while maintaining alignment between product vision and implementation.",
+    "one_liner": "AI native Linear connected to the codebase.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -11597,17 +11679,15 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/summon",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/summon.json"
+    "url": "https://www.ycombinator.com/companies/twill",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/twill.json"
   },
   {
     "id": 30729,
@@ -11735,6 +11815,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/altur",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/altur.json"
+  },
+  {
+    "id": 30748,
+    "name": "Pleom",
+    "slug": "pleom",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b1e76d8c0743b28030c0f3c37f0d0bfa7f51272.png",
+    "website": "https://pleom.com",
+    "all_locations": "",
+    "long_description": "At Pleom we are building AI hardware devices that everyday consumers can talk to and rely on for real-world tasks. We’re competing head-to-head with IO (recently merged with OpenAI in a $6.5B deal) with faster iteration as our moat.\r\n\r\nToday, Pleom is a website. Tomorrow, it will be integrated into our family of hardware devices.",
+    "one_liner": "Talk to your AI",
+    "team_size": 0,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1755614874,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Hardware",
+      "Electronics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Consumer Electronics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pleom",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/pleom.json"
   },
   {
     "id": 30779,
