@@ -11478,8 +11478,8 @@
   },
   {
     "id": 12862,
-    "name": "Index",
-    "slug": "index-3",
+    "name": "Meridian Industries",
+    "slug": "meridian-industries",
     "former_names": [
       "Houston"
     ],
@@ -11493,11 +11493,11 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1599762607,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Data Visualization",
-      "AI"
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11518,8 +11518,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/index-3",
-    "api": "https://yc-oss.github.io/api/batches/summer-2019/index-3.json"
+    "url": "https://www.ycombinator.com/companies/meridian-industries",
+    "api": "https://yc-oss.github.io/api/batches/summer-2019/meridian-industries.json"
   },
   {
     "id": 12863,
@@ -21543,8 +21543,8 @@
     "slug": "magicbell",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9dc3cf4111497ede32cf6559a6fb868bb609626.png",
-    "website": "https://magicbell.com",
-    "all_locations": "Barcelona, CT, Spain; CT, Spain; Remote",
+    "website": "https://www.magicbell.com",
+    "all_locations": "Barcelona, CT, Spain; Remote",
     "long_description": "MagicBell is the notification inbox for web & mobile apps.\r\n\r\nAs consumers of many apps, we have personally experienced the growing volume of notifications - many of which add to our anxiety instead of helping us manage it. MagicBell is on a mission to end this chaos and help every app deliver a stellar notification experience.\r\n\r\nWe do this by offering a beautifully designed notification inbox that apps can embed in their products in minutes. We do all the heavy lifting related to real-time delivery & syncing, web & mobile push notifications, email notifications, and even notification preference management.\r\n\r\nWe sit at an interesting intersection of a dev tool & a productivity tool for end-users. We are helping every app make its users more productive!",
     "one_liner": "The notification inbox for web/mobile applications.",
     "team_size": 4,
@@ -21574,7 +21574,7 @@
     "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": true,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/magicbell",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/magicbell.json"
@@ -37928,54 +37928,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/retape.json"
   },
   {
-    "id": 27986,
-    "name": "iNRI",
-    "slug": "inri",
-    "former_names": [
-      "Trade94",
-      "iNri",
-      "Trade94"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c59bd35cb220868b3d333711e2e07a77b8283d49.png",
-    "website": "https://goinri.com",
-    "all_locations": "Mountain View, CA, USA; Remote",
-    "long_description": "India is set to be one of the fastest growing major economies and Indian expats have a unique opportunity to invest in this dynamic growing market. As an Indian expat looking to invest in India, investing in India is a daunting experience, with multiple operational hurdles, complex tax and repatriation regulations. \r\nInri solves these challenges by providing a seamless investment platform comprising of personalized wealth advisory and compliance services.\r\n",
-    "one_liner": "Wealthfront for India’s 32M expats living abroad",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1677795325,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "India",
-      "Investing",
-      "Neobank"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inri",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/inri.json"
-  },
-  {
     "id": 27991,
     "name": "Coldreach",
     "slug": "coldreach",
@@ -41217,8 +41169,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/85992f888276408373d1f33710dd92fd60ae187a.png",
     "website": "https://tesseral.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tesseral is the open-source auth infrastructure for B2B SaaS.\r\n\r\nWe provide everything a B2B SaaS company needs to power an enterprise-ready login experience, including:\r\n* A beautiful login page that requires no code to configure\r\n* Support for B2B multitenancy\r\n* User impersonation\r\n* Self-service config for your customers\r\n* Magic links\r\n* Social login\r\n* Enterprise single sign-on (SAML SSO)\r\n* Enterprise directory sync (SCIM)\r\n* Role-based access control (RBAC)\r\n* Multifactor authentication (MFA)\r\n* Passkeys (WebAuthn)\r\n* Authenticator apps (TOTPs)\r\n* API key management\r\n* User invitations\r\n* Webhooks\r\n\r\nYou can learn more by reading our docs at https://tesseral.com/docs or by checking out our GitHub at https://github.com/tesseral-labs/tesseral.",
-    "one_liner": "The open-source auth infrastructure for B2B SaaS",
+    "long_description": "Tesseral is the open source platform for managing identity and access in business software. It provides enterprise-grade capabilities, including SAML single sign-on, SCIM provisioning, role-based access control, managed API keys, and audit logs, implemented in just a few lines of code. \r\n\r\nTesseral unifies access management for employees, customers, services, and AI agents, giving organizations the flexibility to adapt to any deployment model and the authority to enforce security policies with precision.\r\n\r\nYou can learn more by reading our docs at https://tesseral.com/docs or by checking out our GitHub at https://github.com/tesseral-labs/tesseral.",
+    "one_liner": "The open source platform for managing identity in business software",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -44676,17 +44628,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6768364915c3c8551c79d1fe59ba06f2cc7c2a5.png",
     "website": "https://www.getpathpilot.com/",
     "all_locations": "San Jose, CA, USA",
-    "long_description": "We empower CX teams to deploy AI agents, evaluate 100% of conversations for quality, and accelerate automation — all without needing engineering resources. Whether companies are just starting with AI or already using automation, PathPilot improves agent performance, reduces costs, and ensures the quality and compliance required for high-stakes industries like fintech and gaming.",
-    "one_liner": "AI platform helping Customer Experience teams scale efficiently",
+    "long_description": "Fintechs, banks, and other institutions managing financial services face constant pressure to reduce costs, enhance customer experience, and ensure regulatory compliance. PathPilot provides the speed of pre-built AI agents combined with the flexibility of full customization. This enables internal teams to remain in full control—designing, deploying, and governing AI solutions independently, without reliance on external vendors.",
+    "one_liner": "AI platform helping fintech/bank teams scale efficiently",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1724891975,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
+      "Finance",
       "B2B",
-      "Customer Support"
+      "Customer Support",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45061,10 +45014,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9792a6e3d48255a53bbf6af175652a0f22302159.png",
     "website": "https://raycaster.ai",
-    "all_locations": "",
-    "long_description": "Raycaster helps companies sell complex technical products by surfacing hidden insights about their prospects. Our customers use us to automatically uncover everything from lab equipment specifications to API performance metrics - research that traditionally took weeks of manual digging.\r\n\r\nWhat's exciting is how these insights naturally spread. Teams start with BD, then realize their marketing or product teams need this deep customer understanding too. We're building the intelligence layer that helps technical teams make better decisions.",
-    "one_liner": "Research agents for life sciences",
-    "team_size": 2,
+    "all_locations": "New York, NY, USA",
+    "long_description": "Raycaster is the enterprise AI engine for life sciences providers. Teams at Agilent, Yokogawa, and others use it to grow revenue, accelerate R&D, and speed regulatory and legal research - advancing their Industry 4.0 initiatives with a well-trusted partner.",
+    "one_liner": "Enterprise AI for life sciences providers",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1729820914,
@@ -45082,10 +45035,13 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Sales"
+      "Productivity"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -48372,21 +48328,21 @@
     "name": "Frizzle",
     "slug": "frizzle",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/abe1fcfe7ee928c43b6fa34748a1f7b5f5133287.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3daf2d29bc3da3d9f526ade87b3daa93b0d6a6cd.png",
     "website": "https://www.frizzle.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Frizzle uses AI to grade handwritten and typed math worksheets for teachers, providing personalized feedback on the page for every student. Teachers spend over 10 hours a week grading - Frizzle does it in minutes.\r\n\r\nWe've talked to hundreds of teachers nationwide and keep hearing the same thing: classrooms are moving back to pen-and-paper, but there's no time to handle all the paperwork. With the current national teacher shortage with 1 in 8 teaching roles still open, superintendents and principals have also told us that teacher time is their most valuable resource. Frizzle is the most valuable piece of software ever for teachers as it eliminates the most time-consuming part of their workflow so they can focus on what matters most - teaching. \r\n\r\nAbhay and Shyam met as roommates in high school 10 years ago at the Illinois Math and Science Academy, and then graduated from Vanderbilt and Carnegie Mellon respectively. Abhay previously drove $50M of incremental revenue at Coinbase and helped scale an e-learning platform to millions; Shyam holds a patent for his work in LLM applications at Microsoft and founded Chicago’s leading math nonprofit that has served hundreds of students over 10 years.\r\n\r\nSince starting in June, we've already graded 1000 worksheets using Frizzle and over 100 teachers are actively using the product despite summer break. We're also piloting Frizzle with 2 of the top high schools in the nation.\r\n\r\nWe make approximately $25/teacher/month and $25k/district/year. With over 1.4M math teachers and 14,000 districts in the US and clear expansion to other subjects, we have a multi-billion-dollar opportunity across all K–12 subjects and geographies.",
-    "one_liner": "AI grading for math teachers",
+    "long_description": "Frizzle uses AI to grade math worksheets and assignments for teachers, providing personalized feedback for every student. Teachers spend over 10 hours a week or 25% of all their work grading - Frizzle does it in minutes. Frizzle is the most valuable piece of software for teachers ever, as it eliminates the most time-consuming part of their workflow so they can focus on teaching.\r\n\r\nFrizzle is an official White House partner for bringing AI into education: https://www.whitehouse.gov/edai/.\r\n\r\nFrizzle was co-founded by Abhay Gupta and Shyam Sai, who met in high school over 10 years ago.",
+    "one_liner": "AI grading for teachers, starting with math",
     "team_size": 2,
     "industry": "Education",
     "subindustry": "Education",
     "launched_at": 1754512868,
     "tags": [
-      "AI-Enhanced Learning",
       "Artificial Intelligence",
       "Education",
       "SaaS",
-      "Edtech"
+      "B2B",
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48417,17 +48373,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c3915c83dfe6a246f33ae908d5156017a0cef3f.png",
     "website": "https://withkeystone.com",
     "all_locations": "",
-    "long_description": "Keystone autonomously builds and maintains end-to-end tests for your application. Never write another test or run through manual QA again.",
-    "one_liner": "AI agents that test your application.",
+    "long_description": "Keystone is an AI engineer that joins your team and understands your product from codebase to production. It can triage tickets, fix bugs, and automatically resolve incidents, autonomously.",
+    "one_liner": "Your team's AI software engineer",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1749673205,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49171,6 +49127,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/palace.json"
   },
   {
+    "id": 30733,
+    "name": "Nautilus",
+    "slug": "nautilus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b6ad11628869059a0e0126b6b03d41bab676578.png",
+    "website": "https://nautilus.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nautilus is the all-in-one e-commerce, marketing, and CRM platform for car washes. Mobile-first and membership-led, it unifies one-click checkout on online sales, memberships, two-way messaging, automated campaigns, ticketing, and end-to-end attribution. With a customer automation engine, real-time POS integrations, and AI dashboards, Nautilus launches in 1–2 weeks and helps operators convert more visitors, grow members, and reduce churn. Learn more at nautilus.co.",
+    "one_liner": "The car wash platform unifying data, e-commerce, and growth",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1755658554,
+    "tags": [
+      "SaaS",
+      "Payments",
+      "Marketing",
+      "CRM"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nautilus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/nautilus.json"
+  },
+  {
     "id": 30734,
     "name": "Avelis Health",
     "slug": "avelis-health",
@@ -49388,7 +49386,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffeca89d176d23081681b5dd3135c9a26bcfb7f5.png",
     "website": "https://vibecodego.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We've built a mobile app that lets you vibe code on the go.\r\n\r\n90% of code (or more) is going to be written by AI by the end of the year. At the same time, I can order a hamburger from my phone, or I can file an expense report, but I can't code from my phone.\r\n\r\nWe think that with the advent of agentic coding, it's time for that to change.",
+    "long_description": "Vibe Code Go is a mobile app for software engineers. Now you can vibe code on the go.\r\n\r\n90% of code (or more) is going to be written by AI by the end of the year. At the same time, I can order a hamburger from my phone, or I can file an expense report, but I can't code from my phone.\r\n\r\nWe think that with the advent of agentic coding, it's time for that to change.",
     "one_liner": "Code from your phone",
     "team_size": 1,
     "industry": "B2B",

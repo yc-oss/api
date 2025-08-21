@@ -619,51 +619,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/briefer.json"
   },
   {
-    "id": 28879,
-    "name": "Menza",
-    "slug": "menza",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0f36c0f6ef0c008a938907cd0f96219f189f90d4.png",
-    "website": "https://menza.ai/",
-    "all_locations": "London, England, United Kingdom; Remote",
-    "long_description": "Menza is a modern data analytics platform that takes the stress out of strategy. Generate proactive insights and interactive dashboards in seconds using Menza's proprietary AI technology. Enterprises use Menza to make strategic decisions to go to the next level.",
-    "one_liner": "Your AI Data Analyst",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1691019522,
-    "tags": [
-      "Artificial Intelligence",
-      "Data Science",
-      "Data Visualization",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/menza",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/menza.json"
-  },
-  {
     "id": 28931,
     "name": "Vizly",
     "slug": "vizly",
@@ -1072,13 +1027,13 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Historically, quantitative models are domain specific. Brilliant people spend their best years testing features, tuning hyperparameters, and iterating architectures within a narrow domain. But scale is the panacea: large models will find patterns people, and specialized models, could not. \r\n\r\nForecasting generalizes. Zoa trains cross-domain event forecasting engines. \r\n\r\n*Automating Iteration*\r\n\r\nLLMs—embedded in multi-agent optimization loops and evaluated against fixed policies—can automate the build-test-improve modeling cycle. Think AlphaEvolve for forecasting problems.\r\n\r\n*Sample-Efficient General Models*\r\n\r\nToday’s forecasting models are narrowly crafted with deep human priors. But larger models will outperform state-of-the-art specialized models.\r\n\r\nUnlike existing event models, our models leverage data from across contexts and rely less on human intuition. And compared to LLMs, our models are built with more inductive priors and rely more heavily on inference-time compute—improving sample efficiency.\r\n\r\n*Why It Matters*\r\n\r\nIn the real economy, our models could be useful for forecasting supply chain volatility, energy supply and demand, even earthquake risk.\r\n\r\nScience is, Ian Hacking writes, the taming of chance. It is the process of iteratively updating priors (something like: identify uncertainty, conceive experiment to reduce uncertainty, execute, update). If science is uncertainty-reduction, forecasting is a critical measure of progress. \r\n\r\nBetter forecasting improves our ability to select interesting experiments (roughly those with greatest expected uncertainty reduction) and update priors. Our models will be used by labs and academics in data-heavy domains. \r\n\r\nSam's ex-girlfriend introduced him to Greg back at Carnegie Mellon in 2017, and while that relationship didn't last, their friendship has. After college, Greg went to Harvard Law School, while Sam worked for three years at Jane Street on their Options desk, building & leading a satellite dev team.",
     "one_liner": "Powerful quantitative forecasting models",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1724859181,
     "tags": [
-      "Artificial Intelligence",
-      "Data Science"
+      "Data Science",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1282,17 +1237,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b64e79cf442071bbe251c8f19acacccc3dbf1fea.png",
     "website": "https://www.lotas.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lotas is building Poisson: a secure, AI-native IDE for data science. Cursor is excellent for software development but it lacks data science-specific tools that are critical to a data scientist’s workflow. Lotas is closing that gap.\r\n\r\nFor our first product, we built Rao: an AI coding assistant into RStudio — an IDE used by up to 5 million data scientists and statisticians who use the R programming language to analyze data. Rao could read, write, and edit code while understanding the user's context (codebase and environmental variables).",
+    "long_description": "Lotas is building Erdos: a secure, AI-native IDE for data science. Cursor is excellent for software development but it lacks data science-specific tools that are critical to a data scientist’s workflow. Lotas is closing that gap.\r\n\r\nFor our first product, we built Rao: an AI coding assistant into RStudio — an IDE used by up to 5 million data scientists and statisticians who use the R programming language to analyze data. Rao could read, write, and edit code while understanding the user's context (codebase and environmental variables).",
     "one_liner": "Cursor for Data Science — secure, AI-native IDE for data scientists",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1754374450,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
-      "Data Visualization"
+      "Data Visualization",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1321,7 +1276,7 @@
     "name": "Lemma",
     "slug": "lemma",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/011aa58a0ba42b8f8e7f1a23c3baca7f8594935e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/03cb07163332494b572b0ba31102a585e60a701c.png",
     "website": "https://www.withlemma.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Lemma is the consumer insights platform that helps businesses answer the question: What do people think of our brand and products?\r\n\r\nOur team of Stanford grads previously led the viewer satisfaction data insights platform at YouTube and performed AI research at Harvard Medical School and Stanford School of Medicine. We’re working with Disney and other consumer brands to capture customer sentiment on everything from your favorite TV character’s death to the action figurine at the Disneyland gift shop.\r\n\r\nWe are the only all-in-one consumer insights platform with specialized agents that can (1) scour the internet to discover and interpret ongoing conversations to see what people are actually saying, (2) automate survey writing and data collection, and (3) author a draft memo or report in minutes, cutting through days of manual work at a time.",
@@ -1331,11 +1286,11 @@
     "subindustry": "B2B",
     "launched_at": 1753836881,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Customer Success",
       "Data Science",
-      "Market Research"
+      "Market Research",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -910,17 +910,18 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/895bc73d946362c90b0900dbf85005b76c9c34c9.png",
     "website": "https://understoodcare.com",
-    "all_locations": "Irvine, CA, USA",
-    "long_description": "The American healthcare system is complicated. 88% of US adults cite difficulties navigating the healthcare system. \r\n\r\nThe good news is patient advocacy became a covered benefit by Medicare in 2024. \r\n\r\nUnderstood Care matches Medicare patients with a healthcare personal assistant (known as a Patient Advocate) at little to no cost to the patient. Patient Advocates help patients patients access care - finding resources, helping fill out paperwork, and much more. \r\n\r\nUnderstood Care uses AI and healthcare expertise to deliver the highest quality patient advocacy to the 66 million Medicare patients in the US. ",
+    "all_locations": "New York, NY, USA",
+    "long_description": "The American healthcare system is complicated. 88% of US adults cite difficulties navigating the healthcare system. \r\n\r\nThe good news is patient advocacy became a covered benefit by Medicare in 2024. \r\n\r\nUnderstood Care matches Medicare patients with a healthcare personal assistant (known as a Patient Advocate) at little to no cost to the patient. Patient Advocates help patients patients access care - finding resources, helping fill out paperwork, and much more. \r\n\r\nUnderstood Care uses AI and healthcare expertise to deliver the highest quality patient advocacy to the 68 million Medicare patients in the US. ",
     "one_liner": "Healthcare personal assistants for Medicare patients.",
     "team_size": 7,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1715876832,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "Healthcare",
+      "Health Insurance",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4904,13 +4905,13 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Historically, quantitative models are domain specific. Brilliant people spend their best years testing features, tuning hyperparameters, and iterating architectures within a narrow domain. But scale is the panacea: large models will find patterns people, and specialized models, could not. \r\n\r\nForecasting generalizes. Zoa trains cross-domain event forecasting engines. \r\n\r\n*Automating Iteration*\r\n\r\nLLMs—embedded in multi-agent optimization loops and evaluated against fixed policies—can automate the build-test-improve modeling cycle. Think AlphaEvolve for forecasting problems.\r\n\r\n*Sample-Efficient General Models*\r\n\r\nToday’s forecasting models are narrowly crafted with deep human priors. But larger models will outperform state-of-the-art specialized models.\r\n\r\nUnlike existing event models, our models leverage data from across contexts and rely less on human intuition. And compared to LLMs, our models are built with more inductive priors and rely more heavily on inference-time compute—improving sample efficiency.\r\n\r\n*Why It Matters*\r\n\r\nIn the real economy, our models could be useful for forecasting supply chain volatility, energy supply and demand, even earthquake risk.\r\n\r\nScience is, Ian Hacking writes, the taming of chance. It is the process of iteratively updating priors (something like: identify uncertainty, conceive experiment to reduce uncertainty, execute, update). If science is uncertainty-reduction, forecasting is a critical measure of progress. \r\n\r\nBetter forecasting improves our ability to select interesting experiments (roughly those with greatest expected uncertainty reduction) and update priors. Our models will be used by labs and academics in data-heavy domains. \r\n\r\nSam's ex-girlfriend introduced him to Greg back at Carnegie Mellon in 2017, and while that relationship didn't last, their friendship has. After college, Greg went to Harvard Law School, while Sam worked for three years at Jane Street on their Options desk, building & leading a satellite dev team.",
     "one_liner": "Powerful quantitative forecasting models",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1724859181,
     "tags": [
-      "Artificial Intelligence",
-      "Data Science"
+      "Data Science",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8298,13 +8299,13 @@
   },
   {
     "id": 29826,
-    "name": "Simplifine",
-    "slug": "simplifine",
+    "name": "Orca",
+    "slug": "orcaengine",
     "former_names": [
       "Titan"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce0c43be54d93fe3569a81f9840b0bb15401e733.png",
-    "website": "https://www.simplifine.com",
+    "website": "https://orcaengine.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Simplifine is making Orca, the open-source AI game engine, so you don't need to give your years to make a game. We are integrating a chat bot, with complete access to Godot. The chatbot can:\r\n\r\nRead/edit/create/delete files\r\nUnderstand the entire project as context\r\nCreate images and keep consistency across images created\r\nEdit Godot native objects, e.g. nodes, scenes, ...",
     "one_liner": "Jet engine for game development",
@@ -8313,10 +8314,10 @@
     "subindustry": "Consumer",
     "launched_at": 1723501563,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
       "Gaming",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -8337,8 +8338,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/simplifine",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/simplifine.json"
+    "url": "https://www.ycombinator.com/companies/orcaengine",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/orcaengine.json"
   },
   {
     "id": 29828,
@@ -10390,17 +10391,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6768364915c3c8551c79d1fe59ba06f2cc7c2a5.png",
     "website": "https://www.getpathpilot.com/",
     "all_locations": "San Jose, CA, USA",
-    "long_description": "We empower CX teams to deploy AI agents, evaluate 100% of conversations for quality, and accelerate automation — all without needing engineering resources. Whether companies are just starting with AI or already using automation, PathPilot improves agent performance, reduces costs, and ensures the quality and compliance required for high-stakes industries like fintech and gaming.",
-    "one_liner": "AI platform helping Customer Experience teams scale efficiently",
+    "long_description": "Fintechs, banks, and other institutions managing financial services face constant pressure to reduce costs, enhance customer experience, and ensure regulatory compliance. PathPilot provides the speed of pre-built AI agents combined with the flexibility of full customization. This enables internal teams to remain in full control—designing, deploying, and governing AI solutions independently, without reliance on external vendors.",
+    "one_liner": "AI platform helping fintech/bank teams scale efficiently",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1724891975,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
+      "Finance",
       "B2B",
-      "Customer Support"
+      "Customer Support",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
