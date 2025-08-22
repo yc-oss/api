@@ -679,6 +679,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/acrely.json"
   },
   {
+    "id": 30607,
+    "name": "The Prompting Company",
+    "slug": "the-prompting-company",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/465a7528e2de2669ab4bb994eb9cb8630eff6db1.png",
+    "website": "https://www.promptingco.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The problem:\r\nPeople are no longer searching on Google. They’re ASKING AI. If your product doesn’t appear in AI answers, you’re dead.\r\n\r\nHow it works:\r\n1. Find & analyze user questions: We find the exact questions your users ask and check how often your product is mentioned.\r\n2. Create content: We tell you what to post, where to post, and do it for you.\r\n3. Route to AI-optimized page:We redirect AI traffic to AI-optimized page\r\n\r\nOffer: Get your free AI visibility report → promptingcompany.com",
+    "one_liner": "We help products get mentioned in ChatGPT.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1755802702,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Marketing",
+      "SEO",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/the-prompting-company",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/the-prompting-company.json"
+  },
+  {
     "id": 30608,
     "name": "MangoDesk",
     "slug": "mangodesk",
@@ -1319,15 +1362,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08842805c015165cf0d7e591168f2b15a9e9c85a.png",
     "website": "https://vernerobotics.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build AI software for robotic arms to learn new skills in hours. Our first customer is a unicorn biotech company that uses our robots to package chemical vials and icepacks.",
+    "long_description": "We build the AI models for controlling robot arms, enabling them to learn new skills in just hours. Our robots help businesses cut costs by automating back-of-house tasks with an innovative  pay-by-the-hour business model. Our customers include a biotech unicorn, a leading biotech non-profit, and a direct to consumer apparel brand.",
     "one_liner": "AI software for autonomous robot arms",
     "team_size": 2,
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1753480338,
     "tags": [
-      "Robotics",
-      "AI"
+      "Artificial Intelligence",
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1902,8 +1945,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/179683a8dd97e578123332a8c5364707962a3392.png",
     "website": "https://www.herdora.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We built Herdora for every team that can't afford a GPU optimization expert. Herdora takes your janky PyTorch, writes optimized kernels for it in seconds, and keeps them tuned in production. It monitors your inference workloads, catches inefficiencies, and fixes them automatically. You keep shipping fast. Herdora makes it run fast. No CUDA knowledge required.",
-    "one_liner": "Cursor for CUDA",
+    "long_description": "We built Herdora to help ML engineers stop paying massive margins to inference providers. Instead of outsourcing model optimization - and losing control of crucial IP - companies can now optimize their inference themselves at a fraction of the cost. We provide the profiling and optimization tools that let engineering teams build faster models in-house. Herdora will democratize the optimization tools behind billion-dollar AI inference margins.\r\n",
+    "one_liner": "We make your ML models faster",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -2026,16 +2069,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d9c2d052831ff87cd795bb52b99c031e59ac069.png",
     "website": "https://www.cyberdesk.io",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cyberdesk is the computer use agent for developers to automate legacy Windows apps. Our agent clicks and types on any Windows desktop like a human, replacing the need for developers to hire unreliable remote workers or to build brittle automation scripts. \r\n\r\nWe launched a month ago and we’ve closed 80k ARR. Our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs.\r\n\r\nOur unique insight is in our agent’s intelligent caching, which allows it to be as fast and cheap as traditional automation scripts while self healing from unexpected situations in the screen. \r\n\r\nMahmoud previously scaled RPA to 20K employees at a Fortune 100 company, and Alan is ex-NASA and has been building with computer use models since their earliest releases.\r\n\r\nTraditional robotic process automation is a $6 billion industry, yet it only services a tiny fraction of desktop tasks that can now be automated by our agent. In the long term, our agent will automate every manual computer task.\r\n\r\nWe’d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
-    "one_liner": "The computer use agent for developers to automate Windows apps",
+    "long_description": "Cyberdesk is the computer use agent for developers to automate legacy desktop apps. \r\nFor example, one of our customers is building an AI agent for hospital patient intake, and they’re using us to automate an entire team of people manually clicking and typing into a desktop app to book appointments. \r\n\r\nWe launched mid July and we’ve closed 86k ARR. Our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs.\r\n\r\nWe’ve built the first computer use agent that memorizes tasks and repeats them quickly while still adapting to unexpected changes on the screen. A good analogy is to how humans use computers: once we get used to an app, we use it much faster, while still adapting to random popups and crashes. This new paradigm for computer use will be needed by every company automating human workflows on computers.\r\n\r\nMahmoud previously built robotic process automation solutions impacting 20K+ employees at a Fortune 100 company. He also built AI & ML solutions at Baylor College of Medicine Neuroscience & Texas Children's Hospital + co-published a paper at the Rice Networks Group. \r\n\r\nAlan is ex-NASA and previously dropped out to be the first founding engineer at a PearX startup. He later bootstrapped a consumer AI startup to 50k in ARR.\r\n\r\nThe US alone has 565k companies with developers, all of which will need us to automate their own legacy desktop workflows or automate other company’s workflows. We'll charge $50k / year for each of these companies to start, which already represents a 29 billion dollar opportunity.\r\n\r\nWe’d love to talk with you for a demo!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
+    "one_liner": "The computer use agent for developers to automate legacy desktop apps",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1749659433,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Workflow Automation",
-      "AI"
+      "Workflow Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2357,17 +2400,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59526ba018b33a62299943322dc03eae29a298f4.png",
     "website": "",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Developing the next suite of 1-bit foundation models that can run on edge devices.",
+    "long_description": "Foundation models that can run on edge devices.",
     "one_liner": "Frontier Intelligence. On Any Device.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1753646840,
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
       "Edge Computing Semiconductors",
-      "IoT"
+      "IoT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2529,9 +2572,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1753029704,
     "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Robotics",
       "Energy",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3148,7 +3193,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2c4cd4965511ab936008331a12f4b2958401280.png",
     "website": "https://www.riverbanksecurity.com/",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Riverbank is an ex-NSA and DoD team creating the first AI native offensive red team, starting with the $3B pentesting market. We blend AI agents with experienced human operators to find what traditional vulnerability scanners miss and break through organizational cyber defenses with swarms of AI agents. ",
     "one_liner": "AI-native Red Teaming and Offensive Security ",
     "team_size": 2,
@@ -3156,10 +3201,10 @@
     "subindustry": "B2B",
     "launched_at": 1754465108,
     "tags": [
+      "Artificial Intelligence",
       "IoT Security",
       "Cybersecurity",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3172,12 +3217,10 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
+      "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": true,
+    "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -3704,16 +3747,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
     "website": "https://ghosteye.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "GhostEye is the human attack surface management platform that protects organizations from social engineering attacks. Founded to address the 68% of breaches involving human factors, GhostEye makes human risk easy to quantify by measuring employee behavior under realistic attack conditions. \r\n\r\nWe deliver continuous resilience testing proven to prevent social engineering breaches before they happen. With AI-powered simulations across email, SMS, voice, and social media, GhostEye's platform identifies vulnerable employees and strengthens defenses automatically.",
+    "long_description": "Organizations have tons of tools protecting your systems, but GhostEye is the tool that protects your humans.\r\n\r\nGhostEye continuously tests employees across all vectors to measure susceptibility to social engineering vulnerabilities before real attackers do. Unlike traditional security training that measures completion rates, GhostEye measures actual resilience through AI-powered attack simulations.\r\n\r\nOur platform replaces quarterly red team assessments with 24/7 human risk monitoring, identifying exactly who's vulnerable to what type of attack so organizations can secure their human attack surface in real-time.",
     "one_liner": "Continuous Attack Surface Management for Humans",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1753230986,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4572,7 +4615,7 @@
     "name": "Omnara",
     "slug": "omnara",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/517120504bbe6167aa6c03b7d54e211b8e74e3db.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/878412a3d9ba975b0a0a65bd2a45ed8e7067c94f.png",
     "website": "https://omnara.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "As AI agents handle longer, more complex tasks, human oversight becomes critical. Omnara provides the human-in-the-loop infrastructure to make autonomous agents reliable.\r\n\r\nOur platform lets users and teams manage AI agents through a unified dashboard. When agents face uncertainty, hit roadblocks, or need permissions that require human judgment, they pause and request guidance, ensuring workflows stay on track. Any agent can integrate, e.g. Claude Code, n8n workflows, or custom builds.",
@@ -4583,7 +4626,7 @@
     "launched_at": 1753676392,
     "tags": [
       "AIOps",
-      "AI",
+      "Artificial Intelligence",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -4994,7 +5037,7 @@
     "website": "https://nautilus.co",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nautilus is the all-in-one e-commerce, marketing, and CRM platform for car washes. Mobile-first and membership-led, it unifies one-click checkout on online sales, memberships, two-way messaging, automated campaigns, ticketing, and end-to-end attribution. With a customer automation engine, real-time POS integrations, and AI dashboards, Nautilus launches in 1–2 weeks and helps operators convert more visitors, grow members, and reduce churn. Learn more at nautilus.co.",
-    "one_liner": "The car wash platform unifying data, e-commerce, and growth",
+    "one_liner": "AI platform to grow and to optimize car washes",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -5003,7 +5046,8 @@
       "SaaS",
       "Payments",
       "Marketing",
-      "CRM"
+      "CRM",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5410,7 +5454,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b1e76d8c0743b28030c0f3c37f0d0bfa7f51272.png",
     "website": "https://pleom.com",
     "all_locations": "",
-    "long_description": "At Pleom, we are building AI hardware devices that everyday consumers can talk to for real-world tasks that understands your context. We’re going head-to-head with OpenAI, moving faster to market and capturing mindshare first.\r\n\r\nToday, Pleom is a website. Tomorrow, it will be integrated into our family of hardware devices.",
+    "long_description": "At Pleom, we’re building AI hardware devices that everyday consumers can talk to — devices that understand your context and handle real-world tasks. We’re going head-to-head with OpenAI and io, moving faster to market and capturing mindshare first.\r\n\r\nToday, Pleom is a website. Tomorrow, it will be integrated into our family of hardware devices.",
     "one_liner": "Talk to your AI",
     "team_size": 0,
     "industry": "Consumer",
@@ -5538,15 +5582,15 @@
     "website": "https://www.notte.cc/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nottelabs designs browsers using agents for enterprise. Focused on reliability and scalability, we convert websites into structured text APIs to power LLM-driven web scraping and workflow automation, with full support for stealth, vaults, and enterprise tooling.",
-    "one_liner": "The infrastructure for reliable web agents",
+    "one_liner": "Reliable Web Agents for Enterprise",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752518156,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
