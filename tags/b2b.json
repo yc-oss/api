@@ -28438,7 +28438,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -38489,9 +38489,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0375efe2659827ada4255426aac1e4a4f979b63.png",
     "website": "https://tandem.space/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The pandemic reduced office use nationwide by 50%, and tenants have been left to deal with highly inflexible, long term lease agreements that don’t fit today’s office use patterns.\r\n\r\nThe traditional brokerage model works great for big spaces and long terms. But when you want to talk smaller units, short term lengths, shared and common areas, you’re out of luck. \r\n\r\nTandem is an AI-enabled office leasing platform. We’re using technology to unlock flexible, month-to-month agreements in quality, ready-to-go spaces.   Our AI co-pilot enables a white-glove-quality B2B office search experience, with a fraction of the human labor typically required.\r\n\r\nToday we’re serving two primary markets — NY & SF, with hundreds of active Hosts in each.  We’ve helped match more than 100 companies and have seen double-digit month-over-month growth.",
-    "one_liner": "Marketplace to help companies lease and share office space",
-    "team_size": 12,
+    "long_description": "The pandemic reduced office use nationwide by 50%, and tenants have been left to deal with highly inflexible, long term lease agreements that don’t fit today’s office use patterns.\r\n\r\nThe traditional brokerage model works great for big spaces and long terms. But when you want to talk smaller units, short term lengths, shared and common areas, you’re out of luck. \r\n\r\nTandem is an AI-enabled office leasing platform. We’re using technology to unlock flexible agreements in quality spaces.   Our AI co-pilot enables a white-glove-quality B2B office search experience, with a fraction of the human labor typically required.\r\n\r\nToday we’re serving two primary markets — NY & SF, with hundreds of active Hosts in each.  We’ve helped match more than 350 companies and have seen double-digit month-over-month growth.",
+    "one_liner": "AI-assisted office leasing platform",
+    "team_size": 16,
     "industry": "B2B",
     "subindustry": "B2B -> Office Management",
     "launched_at": 1717027194,
@@ -38512,7 +38512,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -44804,7 +44806,7 @@
     "slug": "the-prompting-company",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/465a7528e2de2669ab4bb994eb9cb8630eff6db1.png",
-    "website": "https://www.promptingco.com",
+    "website": "https://www.promptingcompany.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The problem:\r\nPeople are no longer searching on Google. They’re ASKING AI. If your product doesn’t appear in AI answers, you’re dead.\r\n\r\nHow it works:\r\n1. Find & analyze user questions: We find the exact questions your users ask and check how often your product is mentioned.\r\n2. Create content: We tell you what to post, where to post, and do it for you.\r\n3. Route to AI-optimized page:We redirect AI traffic to AI-optimized page\r\n\r\nOffer: Get your free AI visibility report → promptingcompany.com",
     "one_liner": "We help products get mentioned in ChatGPT.",
@@ -44813,11 +44815,11 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1755802702,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Marketing",
-      "SEO",
-      "AI"
+      "SEO"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45401,16 +45403,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c24ca870b6eaffd66597cfdb3e463eeed660675.png",
     "website": "https://useskope.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building the billing system for AI products. We support every standard type of pricing model (usage, subscription, hybrid, etc) and are excited to be the first to natively support outcome-based pricing. For the first time ever, AI companies can bill their customers exactly the way they want to be billed.",
+    "long_description": "We’re building the billing system for AI products. We support every standard type of pricing model (usage, subscription, hybrid, etc) and are the first to natively support outcome-based pricing. For the first time ever, AI companies can bill their customers exactly the way they want to be billed.",
     "one_liner": "The billing system for AI products",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750879126,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Billing"
+      "Billing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45565,18 +45567,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2793bc4802e1c1cddfc383aed3ac255ec33a0465.png",
     "website": "https://tesora.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tesora builds AI procurement analysts for mission-critical industries. Our analyst first handles supplier discovery, qualification, and negotiations over voice and email, creating a net new function that was not possible before. Our analysts can then reach more vendors, drive competition through qualification and price discovery, and unlock major cost savings without adding headcount.",
-    "one_liner": "AI procurement analysts for mission critical industries",
+    "long_description": "Tesora builds AI procurement analysts for advanced industries. Our analyst first handles supplier discovery, qualification, and negotiations over voice and email, creating a net new function that was not possible before.  ",
+    "one_liner": "AI procurement analysts for advanced industries",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1755571936,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Supply Chain",
       "Procurement",
-      "Aerospace"
+      "Aerospace",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46150,9 +46152,11 @@
   },
   {
     "id": 30725,
-    "name": "Minimal AI",
-    "slug": "minimal-ai",
-    "former_names": [],
+    "name": "Minimal AI, Inc.",
+    "slug": "minimal-ai-inc",
+    "former_names": [
+      "Minimal AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c63bc96cffb87cb2d06890455f91a39acb01d02d.png",
     "website": "https://gominimal.ai/",
     "all_locations": "San Francisco, CA, USA",
@@ -46186,8 +46190,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/minimal-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/minimal-ai.json"
+    "url": "https://www.ycombinator.com/companies/minimal-ai-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/minimal-ai-inc.json"
   },
   {
     "id": 30726,
