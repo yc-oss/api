@@ -32106,16 +32106,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Health Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
     "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
-    "team_size": 11,
+    "team_size": 14,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1654554081,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Digital Health",
       "Healthcare",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32409,8 +32409,8 @@
   },
   {
     "id": 27055,
-    "name": "Blacktop Hoops by Vinci Games",
-    "slug": "blacktop-hoops-by-vinci-games",
+    "name": "Vinci Games",
+    "slug": "vinci-games",
     "former_names": [
       "Vinci Games",
       "Blacktop Hoops by Vinci Games",
@@ -32453,8 +32453,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/blacktop-hoops-by-vinci-games",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/blacktop-hoops-by-vinci-games.json"
+    "url": "https://www.ycombinator.com/companies/vinci-games",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/vinci-games.json"
   },
   {
     "id": 27085,
@@ -39213,16 +39213,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greenlite is the leading AI agent platform for compliance in financial services. Regulated banks and fintechs — including those overseen by the OCC, FDIC, and SEC — trust Greenlite to automate mission-critical work like sanction reviews and anti-money laundering investigations with speed and accuracy. \r\n",
     "one_liner": "AI agents for financial compliance",
-    "team_size": 24,
+    "team_size": 28,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1687929703,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Payments",
       "B2B",
-      "Compliance",
-      "AI"
+      "Compliance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39337,7 +39337,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Fortuna is a one-stop solution that helps consumers navigate Medicaid end-to-end from eligibility and enrollment to renewing coverage. \r\n\r\nOur platform creates value as the middleware layer for the $800B Medicaid ecosystem.",
     "one_liner": "TurboTax for Medicaid",
-    "team_size": 7,
+    "team_size": 12,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1691019691,
@@ -41035,6 +41035,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/relari",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/relari.json"
+  },
+  {
+    "id": 29186,
+    "name": "Tesseral",
+    "slug": "tesseral",
+    "former_names": [
+      "Codomain Data"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/85992f888276408373d1f33710dd92fd60ae187a.png",
+    "website": "https://tesseral.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tesseral is the open source platform for managing identity and access in business software. It provides enterprise-grade capabilities, including SAML single sign-on, SCIM provisioning, role-based access control, managed API keys, and audit logs, implemented in just a few lines of code. \r\n\r\nTesseral unifies access management for employees, customers, services, and AI agents, giving organizations the flexibility to adapt to any deployment model and the authority to enforce security policies with precision.\r\n\r\nYou can learn more by reading our docs at https://tesseral.com/docs or by checking out our GitHub at https://github.com/tesseral-labs/tesseral.",
+    "one_liner": "The open source platform for managing identity in business software",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1708399745,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Security",
+      "Open Source",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tesseral",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/tesseral.json"
   },
   {
     "id": 29196,
@@ -48992,46 +49036,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/openfunnel.json"
   },
   {
-    "id": 30036,
-    "name": "Rulebase",
-    "slug": "rulebase",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/642979c858a987426c5ec887f54d05c12f8e9974.png",
-    "website": "https://rulebase.co",
-    "all_locations": "",
-    "long_description": "We build AI agents that help banks and fintechs QA 100% of customer interactions, flagging compliance breaches, high-risk issues, and quality gaps in real time. Our AI agent reviews calls, chats, and emails, then routes issues to the right teammates, cutting escalations by up to 30% and reducing QA review time from hours to minutes.\r\n\r\n",
-    "one_liner": "AI quality assurance for financial services.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1728494886,
-    "tags": [
-      "Customer Success",
-      "Customer Service",
-      "Customer Support"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rulebase",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/rulebase.json"
-  },
-  {
     "id": 30037,
     "name": "Afternoon.co",
     "slug": "afternoon-co",
@@ -49861,43 +49865,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/synth-3.json"
   },
   {
-    "id": 30129,
-    "name": "HumanLayer",
-    "slug": "humanlayer",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7da261b740a4ae0fbccdb7818277d3243f8a1c8.png",
-    "website": "https://humanlayer.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "HumanLayer is an API that enables AI applications to contact humans for help, feedback, and approvals. One customer uses HumanLayer to ship DevOps agents that manage complex and risky workflows like production deployments and database migrations. \r\n\r\n\r\nWe’re building HumanLayer because we know that the future of AI Applications is not gonna be humans sitting at a chat interface, the future is “outer loop” or “headless” agents, and our partners are building AI apps that invert the typical interaction paradigm. Autonomous agents are calling humans, not the other way around.\r\n\r\n\r\nAI Agents are poised to disrupt the $4.6tn global labor market, but in order to make agents reliable today, and train them to be fully autonomous tomorrow, solutions like HumanLayer are an inevitable part of the AI Agent stack. ",
-    "one_liner": "Human-in-the-Loop for AI Agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1727921167,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/humanlayer",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/humanlayer.json"
-  },
-  {
     "id": 30130,
     "name": "Apolink",
     "slug": "apolink",
@@ -50358,6 +50325,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/scout-4",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/scout-4.json"
+  },
+  {
+    "id": 30207,
+    "name": "Promptless",
+    "slug": "promptless",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b841846a6a116e07034a08b5b57b9bfb7b3d183.png",
+    "website": "https://gopromptless.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Docs are integral to a great customer experience, but managing them is a challenging, multi-team effort. The most successful companies recognize that fantastic docs drive adoption and bad ones cause customers to churn. Promptless is used by fast-growing startups and Fortune 500 enterprises alike to automatically update docs based on feature releases, support tickets, internal Slack conversations, and more.\r\n\r\nPromptless is designed to be flexible—it can integrate with any docs platform, be triggered automatically from many workflows, and can pull in context from any internal knowledge source.\r\n\r\nWith Promptless, documentation becomes a strategic advantage for growth, not a bottleneck or a liability. ",
+    "one_liner": "An AI teammate that automatically updates your customer-facing docs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1734445501,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/promptless",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/promptless.json"
   },
   {
     "id": 30209,
@@ -53482,7 +53492,7 @@
     "all_locations": "",
     "long_description": "Casco helps companies confidently ship AI agents and apps by simulating attacks on their AI systems, identifying vulnerabilities, and providing guided remediation.\r\n\r\nCompanies building on AI face a disproportionate amount of cybersecurity threats. 73% of enterprises experienced at least one AI-related security incident in the past 12 months, with the average incident cost amounting to $4.8m. It also takes 40% longer for these companies to identify and address these breaches vs. non-AI related incidents.\r\n\r\nCheck if your AI system is secure at casco.com\r\n\r\n---\r\n\r\nWe already secure AI systems deployed in 60% of Fortune 500 companies and are default alive. [1]\r\n\r\n[1] http://www.paulgraham.com/aord.html",
     "one_liner": "Evaluate AI agents and apps on security, safety, and accuracy.",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1747691019,

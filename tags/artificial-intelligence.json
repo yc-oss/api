@@ -12923,51 +12923,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/aurelian.json"
   },
   {
-    "id": 27037,
-    "name": "Metriport",
-    "slug": "metriport",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4da680d3cdee4cc7ad6408d3177026092f04c75.png",
-    "website": "https://metriport.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Health Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
-    "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
-    "team_size": 11,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1654554081,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Digital Health",
-      "Healthcare",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/metriport",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/metriport.json"
-  },
-  {
     "id": 27042,
     "name": "Artemis Search",
     "slug": "artemis-search",
@@ -17275,6 +17230,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/surface-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/surface-labs.json"
+  },
+  {
+    "id": 28929,
+    "name": "Greenlite",
+    "slug": "greenlite",
+    "former_names": [
+      "Greenlite AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8959570d3b56e59ac3b3d75780c6060716e2f87.png",
+    "website": "https://www.greenlite.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Greenlite is the leading AI agent platform for compliance in financial services. Regulated banks and fintechs — including those overseen by the OCC, FDIC, and SEC — trust Greenlite to automate mission-critical work like sanction reviews and anti-money laundering investigations with speed and accuracy. \r\n",
+    "one_liner": "AI agents for financial compliance",
+    "team_size": 28,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1687929703,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Payments",
+      "B2B",
+      "Compliance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/greenlite",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/greenlite.json"
   },
   {
     "id": 28931,
@@ -26832,8 +26831,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/24e8221c158db744583a5cb637b095ee61c36e85.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube is building a modern AI insurance agency for startups & SMBs. \r\n\r\nWe’re currently in the licensing process in California and will be launching soon, with an initial focus on D&O insurance. \r\n\r\n\r\nIf you're a carrier interested in partnering, send us a DM.",
-    "one_liner": "Modern AI insurance agency. ",
+    "long_description": "RiskCube is a modern AI insurance agency for startups & SMBs. \r\n\r\nWe’re currently in the licensing process in California and will be launching soon, with an initial focus on D&O insurance. \r\n\r\n\r\nIf you're a carrier interested in partnering, send us a DM.",
+    "one_liner": "AI insurance agency. ",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -30816,46 +30815,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/meteor.json"
   },
   {
-    "id": 30606,
-    "name": "Acrely",
-    "slug": "acrely",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/599629b9dce294f5621aeaf663b76424933bd820.png",
-    "website": "https://www.acrely.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We provide HVAC business owners with voice AI to capture every inbound call and turn it into booked jobs.\r\n\r\nMeet Jane, your AI-powered customer relations lead. When a customer calls and you can’t pick up, Jane does. She talks to your callers, understands their problem, and gets them scheduled — whether it’s an emergency repair, seasonal maintenance, or a quote for a new install.\r\n\r\nHVAC is still a phone-first industry, and voice AI is just now good enough for customers to feel comfortable talking to it. Every missed call is lost revenue, and most owners have their number plastered on trucks, websites, and directories that bring in as many tire-kickers as paying customers. Jane makes sure the real money never slips through.\r\n\r\nInbound is our first optimization — but it’s just the beginning. We’re building the first agentic fleet for HVAC. Jane runs customer relations, booking jobs and following up with customers. Ralph is the business admin, managing PNL, scheduling crews, ordering parts, and keeping the back office humming. Joe is the technician’s right hand, guiding techs through diagnostics, troubleshooting, and safety checks in real time. Together, they form a 24/7 AI-native staff that works without breaks, remembers every detail, and scales with your business so you can focus on growing instead of juggling.",
-    "one_liner": "ai-native admin for HVAC",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1752517197,
-    "tags": [
-      "Artificial Intelligence",
-      "Home Services",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/acrely",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/acrely.json"
-  },
-  {
     "id": 30607,
     "name": "The Prompting Company",
     "slug": "the-prompting-company",
@@ -30867,7 +30826,7 @@
     "one_liner": "We help products get mentioned in ChatGPT.",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1755802702,
     "tags": [
       "Artificial Intelligence",
@@ -31356,49 +31315,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/sentinel.json"
   },
   {
-    "id": 30630,
-    "name": "Lark",
-    "slug": "lark",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67710e46a3214b779fb0c410b22c7dd1f1f89778.png",
-    "website": "https://uselark.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lark builds AI agents to solve billing issues for subscription companies. We’re starting by automating billing support and chargebacks. Vijit and Jack previously built the usage-based billing product at Stripe. Lark is live with three customers: Midjourney, Julius AI, and Joon App.\r\n\r\nAutomating billing actions is nuanced and risky, which is why general support agents like Intercom Fin struggle with it. We have heard this repeatedly from customers. At Lark, we build agents with deep billing integrations that factor in customer usage data, credits, prorations, and more, with strong guardrails to ensure safe actions.\r\n\r\nWe want to be the AI layer on top of billing and are going after a $20B market opportunity in this space.",
-    "one_liner": "AI Agents for Billing Operations",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1755281037,
-    "tags": [
-      "Artificial Intelligence",
-      "Customer Support",
-      "Fraud Detection",
-      "Billing",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lark",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/lark.json"
-  },
-  {
     "id": 30637,
     "name": "Design Arena",
     "slug": "design-arena",
@@ -31520,6 +31436,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nuntius",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nuntius.json"
+  },
+  {
+    "id": 30644,
+    "name": "Herdora",
+    "slug": "herdora",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/179683a8dd97e578123332a8c5364707962a3392.png",
+    "website": "https://www.herdora.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Cursor for CUDA",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751530242,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/herdora",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/herdora.json"
   },
   {
     "id": 30647,
@@ -31733,6 +31689,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deepaware-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/deepaware-ai.json"
+  },
+  {
+    "id": 30667,
+    "name": "Lemma",
+    "slug": "lemma",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/03cb07163332494b572b0ba31102a585e60a701c.png",
+    "website": "https://www.withlemma.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lemma is the consumer insights platform that helps businesses answer the question: What do people think of our brand and products?\r\n\r\nOur team of Stanford grads previously led the viewer satisfaction data insights platform at YouTube and performed AI research at Harvard Medical School and Stanford School of Medicine. We’re working with Disney and other consumer brands to capture customer sentiment on everything from your favorite TV character’s death to the action figurine at the Disneyland gift shop.\r\n\r\nWe are the only all-in-one consumer insights platform with specialized agents that can (1) scour the internet to discover and interpret ongoing conversations to see what people are actually saying, (2) automate survey writing and data collection, and (3) author a draft memo or report in minutes, cutting through days of manual work at a time.",
+    "one_liner": "AI-powered consumer brands insights platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753836881,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Customer Success",
+      "Data Science",
+      "Market Research"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lemma",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/lemma.json"
   },
   {
     "id": 30668,
@@ -32660,48 +32659,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/hyprnote.json"
   },
   {
-    "id": 30713,
-    "name": "Motives",
-    "slug": "motives",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ccc0035baccfcafd8c4eccd692ca8198963efca.png",
-    "website": "https://motives.ai/",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Motives is a team of AI agents that runs qualitative research projects for consumer brands: moderating and analyzing video interviews to help brands understand consumer preferences and test new ideas, in hours instead of weeks. \r\n\r\n",
-    "one_liner": "Qualitative consumer research run by AI",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1752263741,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Marketing",
-      "Market Research"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/motives",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/motives.json"
-  },
-  {
     "id": 30716,
     "name": "Finto",
     "slug": "finto-de",
@@ -32826,6 +32783,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/omnara",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/omnara.json"
+  },
+  {
+    "id": 30725,
+    "name": "Minimal AI",
+    "slug": "minimal-ai",
+    "former_names": [
+      "Minimal AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c63bc96cffb87cb2d06890455f91a39acb01d02d.png",
+    "website": "https://gominimal.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Minimal AI makes it easy for e-commerce brands to build and manage AI support teams that resolve 80% of tickets.\r\n\r\nThe result: reduced support costs while actually improving customer experience and sales. It feels like outsourcing your support to a team of AI Agents with human-like empathy.\r\n\r\nOver 45 e-commerce brands use Minimal AI to handle thousands of customer support tickets daily.",
+    "one_liner": "AI Customer Support Teams for E-commerce",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1755048998,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "E-commerce",
+      "Customer Support"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/minimal-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/minimal-ai.json"
   },
   {
     "id": 30726,
@@ -33332,47 +33332,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vulcan-technologies",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/vulcan-technologies.json"
-  },
-  {
-    "id": 30796,
-    "name": "Outrove",
-    "slug": "outrove",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fdf57ee767b5dd755c70594623163dda1cbae4.png",
-    "website": "https://www.outrove.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building the next-generation sales and marketing automation platform, designed for how B2B go-to-market will work in the AI era.\r\n\r\nAs channels and content formats shift dramatically, we’ll be the OS companies rely on to power their future GTM strategies.",
-    "one_liner": "AI-native Salesforce",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1753159084,
-    "tags": [
-      "Artificial Intelligence",
-      "Sales Enablement",
-      "Marketing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/outrove",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/outrove.json"
   },
   {
     "id": 30797,
