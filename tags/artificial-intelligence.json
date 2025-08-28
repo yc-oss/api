@@ -7934,7 +7934,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -14371,8 +14371,8 @@
   },
   {
     "id": 27817,
-    "name": "JustPaid.ai",
-    "slug": "justpaid-ai",
+    "name": "JustPaid",
+    "slug": "justpaid",
     "former_names": [
       "Loopfour",
       "JustPaid.io (Loopfour Inc)",
@@ -14417,8 +14417,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/justpaid-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/justpaid-ai.json"
+    "url": "https://www.ycombinator.com/companies/justpaid",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/justpaid.json"
   },
   {
     "id": 27818,
@@ -19577,7 +19577,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
     "one_liner": "AI code reviewer with complete context of your codebase",
-    "team_size": 8,
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1695668492,
@@ -26251,51 +26251,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/browseros.json"
   },
   {
-    "id": 29957,
-    "name": "Anglera",
-    "slug": "anglera",
-    "former_names": [
-      "Angler"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2dfb2adf611e11737fa14a1b9b4be581858cfc3.png",
-    "website": "https://www.anglera.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Anglera, we're developing a suite of AI agents to help e-commerce companies run their operations more efficiently. Our flagship agent helps our customers onboard, enrich, and manage their product data, reducing time per product from 15 mins down to 5 seconds.\r\n\r\nWe previously developed ML to automatically enrich millions of products at Uber Eats, and we're now on a mission to automate the most common manual workflows for every e-commerce business.",
-    "one_liner": "AI-Powered Product Data Enrichment",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1719875304,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "SaaS",
-      "B2B",
-      "E-commerce"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/anglera",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/anglera.json"
-  },
-  {
     "id": 29962,
     "name": "General Analysis",
     "slug": "general-analysis",
@@ -26693,11 +26648,11 @@
       "Haze AI",
       "Lassen AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2451f6aef035ff59e0e614d0f60b6f728d45713a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a037b1acaa5b376575f5e3e8a1fdf2e7e2057ddc.png",
     "website": "https://www.riveterhq.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riveter empowers non-technical teams to automate data enrichment at scale using AI search agents—no engineers required. With Riveter, you can quickly integrate powerful AI into your existing workflows.\r\n\r\nE-commerce companies save hundreds of hours by using Riveter to streamline critical operations like launching new products, writing SEO-optimized descriptions, analyzing pricing and competitor data, reviewing customer feedback, and more.\r\n\r\nOur founding team brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk.",
-    "one_liner": "Custom data enrichment by AI agents - designed for non-technical teams",
+    "long_description": "Riveter is bringing the power of Perplexity to the scale of the spreadsheet. Their AI agents, custom scrapers, and integrations pack the power of browser use and automation for search, at a cost that allows for scale. \r\n\r\nMost teams still spend hours (or hire UpWorkers/contractors) to manually copy product specs, check competitor pricing, pull custom KYB/KYC data to assess customer risk, or scrape filings. \r\n\r\nPerplexity and ChatGPT are great for single questions, but they can’t handle large amounts of data at once. And they’re working with a single agent and context window instead of one in every cell.\r\n\r\nAnd Riveter’s web browsing can go further—even reading PDFs and images that may contain answers. \r\n\r\nWith Riveter, anyone can automate complex, auditable web research… without coding. \r\n\r\nOur founding team brings deep product and engineering expertise from to YC-backed companies Gusto, Retool, and Middesk.",
+    "one_liner": "Thousands of AI search agents running in parallel ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -31826,49 +31781,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/sentinel.json"
   },
   {
-    "id": 30630,
-    "name": "Lark",
-    "slug": "lark",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67710e46a3214b779fb0c410b22c7dd1f1f89778.png",
-    "website": "https://uselark.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lark builds AI agents to handle billing operations. We’re starting by automating billing support and chargebacks for subscription companies. Vijit and Jack previously built the usage-based billing product at Stripe. We are working with four customers: Midjourney, Character AI,  Julius AI, and Joon App.\r\n\r\nAutomating billing actions is nuanced and risky, which is why general support agents like Intercom Fin struggle with it. We have heard this repeatedly from customers. At Lark, we build agents with deep billing integrations that factor in customer usage data, credits, prorations, and more – while ensuring strong guardrails for safe actions.\r\n\r\nWe want to be the AI layer on top of billing and are going after a $20B market opportunity in this space.",
-    "one_liner": "AI Agents for Billing Operations",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1755281037,
-    "tags": [
-      "Artificial Intelligence",
-      "Customer Support",
-      "Fraud Detection",
-      "Billing",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lark",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/lark.json"
-  },
-  {
     "id": 30637,
     "name": "Design Arena",
     "slug": "design-arena",
@@ -33593,6 +33505,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/certus-ai.json"
   },
   {
+    "id": 30761,
+    "name": "Reacher",
+    "slug": "reacher",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e18f0a8b8fff511049fe03b4ad0dc3b98bce28b5.png",
+    "website": "https://reacherapp.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Reacher is an AI-powered platform that automates creator marketing workflows—from discovery and outreach to campaign management and content strategy—making marketing teams 10x more productive. \r\n\r\nWe handle the manual tasks so brands can focus on building relationships with creators while centralizing their operations in one platform to manage creators on TikTok Shop, Instagram, and YouTube.\r\n\r\n\r\n\r\n\r\n",
+    "one_liner": "We automate creator marketing for the world's largest brands",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1750191046,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "E-commerce",
+      "Creator Economy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reacher",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/reacher.json"
+  },
+  {
     "id": 30774,
     "name": "Clodo",
     "slug": "clodo",
@@ -33717,6 +33672,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/vulcan-technologies.json"
   },
   {
+    "id": 30797,
+    "name": "Veritus Agent",
+    "slug": "veritus-agent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b301b9f0345d2f7e32e073734be71f290ed3ea40.png",
+    "website": "https://www.veritusagent.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Veritus is a omni-channel platform for deploying AI agents for loan servicing and collections, including inbound and outbound voice agents. Our agents negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.\r\n\r\nBy combining cutting edge voice AI with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates. ",
+    "one_liner": "AI agents for loan servicing and collections",
+    "team_size": 7,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1753735109,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Lending"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/veritus-agent",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/veritus-agent.json"
+  },
+  {
     "id": 30802,
     "name": "Freya",
     "slug": "freya",
@@ -33800,48 +33798,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/paloma",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/paloma.json"
-  },
-  {
-    "id": 30813,
-    "name": "Blue",
-    "slug": "blue",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90acd1189896151e269eca2dc0a6b15c7042d091.png",
-    "website": "https://heyblue.com/",
-    "all_locations": "Santa Clara, CA, USA",
-    "long_description": "Blue is the only voice assistant on iOS and Android that can control every app on your phone, so you can get work done hands-free.\r\n\r\nIt reads and replies to messages and email across apps, attaches photos and files, books and pays, manages calendar items, and more.\r\n\r\nUnlike assistants that stop at answers or timers, Blue taps, types, and swipes inside your existing apps with no app-specific integrations. On iPhone, a tiny USB-C plug-in (“Bud”) provides precise input control so Blue can act on your behalf. (Android support is in testing.)\r\n\r\nBlue is already in real-world use: people are clearing inboxes, paying bills from email, sharing files, and moving through routine flows while their hands are busy.\r\n\r\nThe team brings complementary experience at scale: Omar Abdelaziz led Google Assistant’s transition to LLMs and holds one of earliest patents in LLM-based computer control; Peter Krogh spent decades designing voice-first dialog systems and was most recently a design lead at Google DeepMind building actions for Gemini Live; Muhammad Farhan Hossain helped ship Apple Vision Pro, is named on dozens of hardware/systems patents, and has led products from prototype to mass production.\r\n\r\nWe’ve built systems used by billions. Now we’re building the control layer that lets AI use phones the way people do.",
-    "one_liner": "The only voice assistant that can control every app on your phone.",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1753836546,
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Speech Recognition",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/blue",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/blue.json"
   }
 ]
