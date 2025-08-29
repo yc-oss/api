@@ -7008,7 +7008,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "At Numero, we build software for political campaigns and nonprofits. We were founded in 2019 (after our founders met while working together on a Congressional race) with the goal of building a modern fundraising software suite from the ground up – one that users actually want to use. In that time, we’ve scaled our platform to serve thousands of clients ranging from city council seats to US Senate races, and have helped them collectively manage over $10B in contributions.\r\n\r\nOur platform is an all-in-one system comprised of a donor CRM, a broadcast email/text tool, and payment processing pages that our clients rely on for their work every day. We’re small, tight-knit team that has deep experience in this space and are backed by world class investors including 776, Y Combinator, and Initialized Capital.",
     "one_liner": "Modern fundraising software for political campaigns and nonprofits.",
-    "team_size": 14,
+    "team_size": 16,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1633478434,
@@ -14137,7 +14137,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -21776,7 +21776,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b139123800489407f058e0b228890ae6c0af4d3a.png",
     "website": "https://www.usepigeon.io",
-    "all_locations": "Miami, FL, USA",
+    "all_locations": "Miami, FL, USA; Remote",
     "long_description": "Pigeon is a relationship based technology platform that facilitates the creation and management of loans between friends, family, loved ones, and anyone who trusts one another.\r\n\r\nBy providing smarter ways for people to mix money with their relationships, Pigeon seeks to empower individuals to borrow and lend money with the people they trust.",
     "one_liner": "Simplifying loans with your friends & family.",
     "team_size": 5,
@@ -21801,7 +21801,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -29663,7 +29663,7 @@
       "QFEX",
       "QFEx"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/75acbdb1a2bc6f61cb0d2b3969623073f628fc9e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ab862803b5fb8db3c714edbfc5690d172cfd773.png",
     "website": "https://qfex.com",
     "all_locations": "London, England, United Kingdom",
     "long_description": "QFEX is the 24/7 exchange for traditional financial markets.\r\n\r\nWe let you trade US equities, commodities and FX pairs with (or without) leverages of up to 100x. On QFEX, UX comes first: brokerless market access, seamless integration with traditional payment rails, and ultra-efficient Perpetual Futures offered over all asset classes. Trading has never been simpler, cheaper or fairer than with QFEX.\r\n\r\nFounded by Quants and Engineers from Citadel & Tower Research who saw an opportunity to make markets how they always should have been, QFEX will eventually replace the entire $100 billion exchange and clearing industry.",
@@ -30080,6 +30080,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/shor.json"
   },
   {
+    "id": 30630,
+    "name": "Lark",
+    "slug": "lark",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67710e46a3214b779fb0c410b22c7dd1f1f89778.png",
+    "website": "https://uselark.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lark is building AI agents to solve billing issues for subscription companies. Vijit and Jack previously built the usage-based billing product at Stripe. We are working with four customers including Midjourney & Character AI. \r\n\r\nToday, the customer billing experience for subscription companies is broken. Customers must contact support for simple issues like requesting refunds and downgrading plans. This leads to high billing support volume, low customer satisfaction, and churn. Lark builds AI agents that resolve these issues instantly, with deep billing integrations that factor in usage data, account for prorations and credits, and have strong guardrails to ensure safe actions.\r\n\r\nOver time, we will evolve this into a customer-first billing platform with AI automation built in from day one.",
+    "one_liner": "AI Agents for Billing Operations",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1755281037,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B",
+      "Fraud Detection",
+      "Billing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lark",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/lark.json"
+  },
+  {
     "id": 30646,
     "name": "Qualify.bot",
     "slug": "qualify-bot",
@@ -30218,17 +30261,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c96ba5c83b86c4246bc8f55c3a927bdde88653.png",
     "website": "https://www.palace.so",
     "all_locations": "New York, NY, USA",
-    "long_description": "Palace (palace.so) is a unified platform for investment monitoring. We help private market investors move faster and smarter with the reporting data they already collect.",
+    "long_description": "Palace (palace.so) is an AI board observer that private market investors use to monitor+report on portfolio companies. We save investment teams 100's of hours every quarter on manual data entry and provide real-time analytics across their portfolio.",
     "one_liner": "Investment monitoring & reporting for private market investors",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1755096535,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

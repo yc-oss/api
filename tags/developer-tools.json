@@ -17575,18 +17575,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c28333543424f2e5753fd39fd195e354af322187.png",
     "website": "https://www.integuru.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Integuru builds low-latency integrations with platforms lacking official APIs. We developed the first AI agent that creates permissionless integrations by reverse-engineering internal APIs. Our services include authentication management, building integrations, and hosting.",
-    "one_liner": "Integrations without official APIs",
-    "team_size": 2,
+    "long_description": "Integuru turns any website into a reliable, real-time, and low-latency API. No RPA required. Our services include authentication management and integration maintenance.",
+    "one_liner": "Integrate with any website via network requests",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1709153976,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Open Source",
-      "API"
+      "API",
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21459,15 +21459,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're creating an AI agent that orchestrates debugging tools and runs your code to find bugs. It's time to close the loop on vibe coding.",
     "one_liner": "Training LLMs to be expert bug finders",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1744600545,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Reinforcement Learning",
       "SaaS",
-      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -21789,6 +21789,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/docket.json"
   },
   {
+    "id": 30605,
+    "name": "Dedalus Labs",
+    "slug": "dedalus-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a7e021922e11a9b8f5a5ff401fd1b2375e7969.png",
+    "website": "https://www.dedaluslabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dedalus Labs is building Vercel for AI Agents. We host MCP servers on our cloud and handle the boring stuff like autoscaling and load balancing so users can go from idea to production in a single click. Our OpenAI-compatible SDK lets users orchestrate complex agentic workflows through one clean API. Route between any LLM provider, connect any MCP tools from our hosted marketplace, and ship in minutes.",
+    "one_liner": "MCP gateway-as-a-service for agentic AI workflows.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1756399069,
+    "tags": [
+      "Developer Tools",
+      "Workflow Automation",
+      "DevOps",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dedalus-labs",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/dedalus-labs.json"
+  },
+  {
     "id": 30609,
     "name": "Halluminate",
     "slug": "halluminate",
@@ -21796,7 +21837,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8aa250417be3c8c72069f938a492da564c11b69.png",
     "website": "https://halluminate.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help foundation model labs and enterprises train computer use AI agents with data and sandboxes.\r\n\r\nA knowledge worker spends 90% of their day on a computer. A productive AI agent must similarly learn how to use our computers, browsers, and software to deliver real world value. \r\n\r\nToday, browser and computer use AI is inaccurate, slow, and expensive. Model labs and enterprises who want to improve these agents are bottlenecked by two resources: \r\n\r\n1) High quality datasets for benchmarking and evaluations\r\n2) Realistic sandbox environments for safe and accurate testing/training (ex. a simulated version of Salesforce) \r\n\r\nHalluminate offers a suite of products and services to address both these issues. \r\n\r\nOur evaluation service combines proprietary datasets with high quality annotations to help our customers identify and prioritize the biggest failure modes of their computer- and browser- use AI. \r\n\r\nOur platform provides a catalog of fully managed sandboxes, empowering our customers to safely and accurately test/train at scale, resulting in improved performance. \r\n\r\nOur customers see\r\n- Improved browser- and computer-use agent performance\r\n- New and emergent frontier agent capabilities\r\n- Data driven prioritization leading to exponentially faster development speed\r\n- Increased revenue/sales via marketing from public benchmarks\r\n\r\nOur paying customers already include leading computer use model labs and the two largest browser agent companies in the space. \r\n\r\nWyatt and Jerry are friends that met their first week of school studying CS at Cornell University. They’ve been working and studying together for 7+ years. \r\n",
+    "long_description": "We help foundation model labs and enterprises train computer use AI with data and sandboxes.\r\n\r\nA knowledge worker spends 90% of their day on a computer. A productive AI agent must similarly learn how to use our computers, browsers, and software to deliver real world value. \r\n\r\nToday, browser and computer use AI is inaccurate, slow, and expensive. Model labs and enterprises who want to improve these agents are bottlenecked by two resources: \r\n\r\n1) High quality datasets for benchmarking and evaluations\r\n2) Realistic sandbox environments for safe and accurate testing/training (ex. a simulated version of Salesforce) \r\n\r\nHalluminate offers a suite of products and services to address both these issues. \r\n\r\nOur evaluation service combines proprietary datasets with high quality annotations to help our customers identify and prioritize the biggest failure modes of their computer- and browser- use AI. \r\n\r\nOur platform provides a catalog of fully managed sandboxes, empowering our customers to safely and accurately test/train at scale, resulting in improved performance. \r\n\r\nOur customers see\r\n- Improved browser- and computer-use agent performance\r\n- New and emergent frontier agent capabilities\r\n- Data driven prioritization leading to exponentially faster development speed\r\n- Increased revenue/sales via marketing from public benchmarks\r\n\r\nOur paying customers already include leading computer use model labs and the two largest browser agent companies in the space. \r\n\r\nWyatt and Jerry are friends that met their first week of school studying CS at Cornell University. They’ve been working and studying together for 7+ years. \r\n",
     "one_liner": "Data and environments to train computer use AI",
     "team_size": 2,
     "industry": "B2B",
@@ -22419,48 +22460,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/embedder.json"
   },
   {
-    "id": 30695,
-    "name": "Channel3",
-    "slug": "channel3",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68ab8f3604e8e37628ae61b0f2bc76124389ada3.png",
-    "website": "https://trychannel3.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Channel3 is building a database of every product on the internet.\r\n\r\nGoogle and OpenAI maintain vast product graphs, but keep that valuable data to themselves. Channel3 gives every developer access, opening a world of possibility for new shopping experiences across any vertical. For instance, developers could build AI fashion stylists or give their agents shopping capabilities.\r\n\r\nWe don’t just collect product data; we actually understand it. With the latest image classification and reasoning models, we can match products across merchants—even when listings and images differ—recognize variants, and surface the perfect matches for every search. As we grow, we’ll capture unique insights into what users want, click, and buy.\r\n\r\nAs AI models get smarter and cheaper, our flywheel accelerates: our catalog will improve, and it will be even easier for developers and vibe-coders to build on our infrastructure. To further incentivize building on Channel3, we provide built-in monetization; developers earn commissions on sales they drive.\r\n\r\nAlex discovered this need while building an AI tutor that could recommend products and earn affiliate revenue. When no solution existed, he persuaded his smartest friend from Duke and former co-founder George to leave Palantir and build Channel3 together.",
-    "one_liner": "Database of every product on the internet",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1752182938,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Retail Tech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/channel3",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/channel3.json"
-  },
-  {
     "id": 30699,
     "name": "VibeFlow",
     "slug": "vibeflow",
@@ -22628,47 +22627,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mcp-use",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/mcp-use.json"
-  },
-  {
-    "id": 30728,
-    "name": "Observee",
-    "slug": "observee",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c5ca7e872c8a9bcea68e50cafff191bddd77013.png",
-    "website": "https://observee.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "All AI Agents rely on external integrations to become truly useful. Our infrastructure provides AI Agent companies with all the tools that they would need to build in any vertical such as legal, insurance, real estate, healthcare or even dev tools.\r\n\r\nObservee provides a Data Ingestion Engine to consume data using APIs and browser agents from any platform and an Action Engine to allow AI agents to take actions using MCPs, tool calls and browsers.\r\n\r\nAs AI Agents become increasingly prominent for Vertical AI companies, they will rely on Observee for underlying infrastructure.",
-    "one_liner": "Integrations Infrastructure for Vertical AI companies",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753297896,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/observee",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/observee.json"
   },
   {
     "id": 30756,
