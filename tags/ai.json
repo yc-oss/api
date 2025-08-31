@@ -2610,11 +2610,11 @@
     "name": "Taskade",
     "slug": "taskade",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6902f9194abc25bd591410dc7d36f885a97b62e1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/248887910b0a219a26cb0668b94543b544d4d48b.png",
     "website": "https://www.taskade.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Meet your AI workforce. Start with real-time projects like task lists, mind maps, and tables. Build, train, and deploy AI agents to help you plan, automate, and get things done.\r\n\r\nOne prompt turns your ideas into action. Taskade generates multi-agents, agentic workflows, shareable forms, widgets, and full AI applications—ready to use, deploy, and share so your team can move faster and work smarter with AI by your side.\r\n\r\nEverything lives in one unified workspace to 10x your productivity.\r\nAvailable on web, desktop, and mobile.\r\nhttps://www.taskade.com",
-    "one_liner": "Build. Train. Deploy. Your Agent Workforce for Team & Task Automation.",
+    "long_description": "Taskade is the execution layer for ideas. One prompt becomes a live app — websites, dashboards, workflows, portals, or tools. Your workspace is the backend. Every project is a live database. Every workflow is automated. AI agents act, plan, and learn across your workspace. Everything syncs in real time.\r\n\r\nNo code. No gatekeepers. Just build. Creation becomes instant. Apps become alive and adapt as your data and team evolve. Anyone can build, automate, and deploy their ideas with Taskade—available on web, desktop, and mobile.\r\n\r\nSoftware should be built by everyone. Build without permission.\r\n\r\nhttps://www.taskade.com",
+    "one_liner": "One prompt. One app. Real-time. Collaborative. Build without limits.",
     "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -13437,7 +13437,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -26089,8 +26089,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/005788a0c189061ca9f07ab8f45073430685851b.png",
     "website": "https://www.thellmdatacompany.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The LLM Data Company creates tooling to write, version and execute evals for models and agents. We help you measure performance and define rewards for reinforcement learning.",
-    "one_liner": "Datagen Tooling for Evals & RL",
+    "long_description": "The LLM Data Company is a research lab studying post-training data.\r\n\r\nWe work with frontier AI teams to create bespoke tasks, rewards, and environments for models to play and learn at scale.",
+    "one_liner": "Post-training Data Research Lab",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -26098,13 +26098,11 @@
     "tags": [
       "AIOps",
       "Generative AI",
-      "Data Labeling",
-      "AI",
-      "AI Assistant"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -28044,47 +28042,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/frizzle.json"
   },
   {
-    "id": 30659,
-    "name": "Keystone",
-    "slug": "keystone",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c3915c83dfe6a246f33ae908d5156017a0cef3f.png",
-    "website": "https://withkeystone.com",
-    "all_locations": "",
-    "long_description": "Keystone is an AI engineer that joins your team and understands your product from codebase to production. It can triage tickets, fix bugs, and automatically resolve incidents, autonomously.",
-    "one_liner": "Your team's AI software engineer",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1749673205,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keystone",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/keystone.json"
-  },
-  {
     "id": 30660,
     "name": "Sidekick",
     "slug": "heysidekick",
@@ -28416,6 +28373,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/preempt.json"
   },
   {
+    "id": 30688,
+    "name": "Fulcrum",
+    "slug": "fulcrum",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35c56987ac351304ba02872fb865e4cb5eebbc22.png",
+    "website": "https://fulcrumresearch.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build red-teaming agents that help developers fix their RL environments and improve their agents.\r\n\r\nOur customers are tired of being bullshitted by their agents.",
+    "one_liner": "The agentic debugger for AI systems",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1756517840,
+    "tags": [
+      "AIOps",
+      "Generative AI",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fulcrum",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/fulcrum.json"
+  },
+  {
     "id": 30690,
     "name": "Flai",
     "slug": "flai",
@@ -28459,33 +28457,32 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/flai.json"
   },
   {
-    "id": 30692,
-    "name": "Candytrail",
-    "slug": "candytrail",
+    "id": 30695,
+    "name": "Channel3",
+    "slug": "channel3",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b0fdeec730be1800b110510e5da85dc49f55644c.png",
-    "website": "https://candytrail.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building conversation intelligence for in-person sales teams. Our platform records every customer interaction and then answers and coaches reps in real time — surfacing the talk tracks that actually close, flagging common objections as they come up, and delivering instant tips that drive revenue while the conversation is still happening. Think of it as Granola for offline sales, but built to guide reps live instead of after the fact. Today, we are deployed across industrial automation, pharmaceuticals, real estate brokerages, and retail.\r\n",
-    "one_liner": "Granola for in-person conversations",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68ab8f3604e8e37628ae61b0f2bc76124389ada3.png",
+    "website": "https://trychannel3.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Channel3 is building a database of every product on the internet.\r\n\r\nGoogle and OpenAI maintain vast product graphs, but keep that valuable data to themselves. Channel3 gives every developer access, opening a world of possibility for new shopping experiences across any vertical. For instance, developers could build AI fashion stylists or give their agents shopping capabilities.\r\n\r\nWe don’t just collect product data; we actually understand it. With the latest image classification and reasoning models, we can match products across merchants—even when listings and images differ—recognize variants, and surface the perfect matches for every search. As we grow, we’ll capture unique insights into what users want, click, and buy.\r\n\r\nAs AI models get smarter and cheaper, our flywheel accelerates: our catalog will improve, and it will be even easier for developers and vibe-coders to build on our infrastructure. To further incentivize building on Channel3, we provide built-in monetization; developers earn commissions on sales they drive.\r\n\r\nAlex discovered this need while building an AI tutor that could recommend products and earn affiliate revenue. When no solution existed, he persuaded his smartest friend from Duke and former co-founder George to leave Palantir and build Channel3 together.",
+    "one_liner": "Database of every product on the internet",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "Consumer",
-    "launched_at": 1751244737,
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1752182938,
     "tags": [
-      "Sales",
-      "Automation",
+      "E-commerce",
       "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
       "B2B",
-      "Sales"
+      "Retail"
     ],
     "regions": [
       "United States of America",
@@ -28496,8 +28493,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/candytrail",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/candytrail.json"
+    "url": "https://www.ycombinator.com/companies/channel3",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/channel3.json"
   },
   {
     "id": 30697,
