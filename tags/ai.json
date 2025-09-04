@@ -6589,47 +6589,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/moots-ai.json"
   },
   {
-    "id": 25307,
-    "name": "Sieve",
-    "slug": "sieve",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b247c36fd7cd016d5bb505d32429cd07b9acfcbb.png",
-    "website": "https://sievedata.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Video has become a core component to some of the most consequential industries in the world including social, communications, art, robotics, and VR.\r\n\r\nBut the processing of it, especially with AI, is incredibly complex due to the number of use cases that exist and the types of systems that need to be built for each one of them.\r\n\r\nSieve's mission is to supply the infrastructure needed to understand, manipulate, and generate video, so we can accelerate all future applications of it.",
-    "one_liner": "Video AI for Developers",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1643510053,
-    "tags": [
-      "Developer Tools",
-      "Video",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sieve",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/sieve.json"
-  },
-  {
     "id": 25338,
     "name": "CozmoX AI",
     "slug": "cozmox-ai",
@@ -10146,49 +10105,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/typeless.json"
   },
   {
-    "id": 27162,
-    "name": "Oneleet",
-    "slug": "oneleet",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35b93ab2671a1397037aa92e0703d5f6c2ec0fba.png",
-    "website": "https://oneleet.com",
-    "all_locations": "",
-    "long_description": "Oneleet helps companies become secure and compliant through an all-in-one solution that combines automated tools and human expertise.\r\n\r\nOneleet has built the second generation of security compliance automation software, providing tools that go beyond what is classically provided for just compliance alone. Tools like a code security scanner, attack-surface management, access reviews and trust portal are all built in.\r\n\r\nAs the most popular, highest rated and most frequently used platform in the YC community, Oneleet has quickly established itself as the preferred and superior alternative to other incumbents.\r\n\r\nThe founder behind Oneleet has spent the past 10+ years helping companies become more secure by performing penetration tests.",
-    "one_liner": "YC's most popular security compliance platform (SOC 2, ISO 27001,…",
-    "team_size": 50,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
-    "launched_at": 1657281241,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Compliance",
-      "Security",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Security"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oneleet",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/oneleet.json"
-  },
-  {
     "id": 27166,
     "name": "Wondercraft",
     "slug": "wondercraft",
@@ -11705,6 +11621,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/co-dev",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/co-dev.json"
+  },
+  {
+    "id": 27870,
+    "name": "Langfuse",
+    "slug": "langfuse",
+    "former_names": [
+      "Finto",
+      "langfuse"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bc9addf3646af503fbc3ded74504fb4df3399eb.png",
+    "website": "https://langfuse.com",
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "Traces, evals, prompt management and metrics to debug and improve your LLM application.\r\nOnboard via https://langfuse.com\r\n\r\nLangfuse helps you build and improve LLM applications across the entire lifecycle: \r\n- Develop: Observability, Langfuse UI & Prompt Management\r\n- Monitor: Traces, Analytics, Metrics & Evaluations\r\n- Test: Experiments, Releases & Datasets\r\n\r\nWe are hiring: https://langfuse.com/careers",
+    "one_liner": "Open source LLM engineering platform",
+    "team_size": 13,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1673911015,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Analytics",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Germany",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/langfuse",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/langfuse.json"
   },
   {
     "id": 27873,
@@ -14860,7 +14822,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -16849,8 +16811,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/92df358869feb4920733e3073e8f52fec0afe8e8.png",
     "website": "https://speck.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Turn frantic tab-switching into seamless storytelling. Speck listens to every word, learns, and shares winning talk-tracks and research in real time.",
-    "one_liner": "AI Wingman for Every Sales Call",
+    "long_description": "Speck helps professionals in back-to-back calls on their meeting tasks. It automates pre-call research, listens to every word, learns, and creates meeting notes, follow-ups, action items based on how you do them. ",
+    "one_liner": "Ambient Agent for Your Computer",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -16870,7 +16832,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Sales"
+      "Productivity"
     ],
     "regions": [
       "United States of America",
@@ -16992,7 +16954,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -17425,8 +17387,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e5b6595eedce0fbf3857cfdf876dbd2f0d66a78.png",
     "website": "https://superagent.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superagent builds infrastructure for running and embedding AI coding agents in real workflows — safely, flexibly, and with full control.\r\n\r\nOur latest open-source release is VibeKit, a CLI wrapper for coding agents like Claude Code, Gemini CLI, and Codex. It runs agent-generated code in isolated Docker containers, redacts secrets automatically, and streams output in real-time. No cloud signup required — works locally by default.\r\n\r\nVibeKit lets developers swap models behind any agent CLI, see exactly what agents do (not just text output), and run agents without affecting their local environment. Teams use it to meet compliance requirements while giving developers the tools they actually want to use.\r\n\r\nLearn more: https://www.vibekit.sh/",
-    "one_liner": "Infrastructure for coding agents. Builders of VibeKit.",
+    "long_description": "Superagent is the world’s first firewall purpose-built for AI systems. It protects your models and data at runtime by inspecting every prompt and response. It blocks prompt injections, jailbreaks, and data leaks, prevents backdoors in generated code, and quarantines suspicious outputs. \r\n\r\nThe firewall is powered by a small language model fine-tuned for security and safety. Unlike static rules or regex filters, it can reason about context to catch subtle attacks and leaks. The model is lightweight and optimized for speed — fast enough to run inline with every request and response without slowing down your apps.\r\n\r\nSuperagent also provides observability with full traces, audit logs, and policy enforcement, giving teams security and control without slowing down AI adoption.\r\n\r\nLearn more: https://www.superagent.sh/",
+    "one_liner": "The AI firewall — stop attacks, leaks, and model abuse",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -20052,7 +20014,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -20312,7 +20274,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -20500,6 +20462,48 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/brighterway",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/brighterway.json"
+  },
+  {
+    "id": 29777,
+    "name": "Zettascale",
+    "slug": "zettascale",
+    "former_names": [
+      "Exa Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d24db5f94c1d947d295a894627b74215cc5d32b.png",
+    "website": "https://zscc.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zetta is building the next NVIDIA, energy-efficient chips (\"XPUs\") for AI training and inference, offering superior speed and energy efficiency compared to traditional GPUs and TPUs.\r\n\r\nOur XPUs are reconfigurable, capable of optimizing the dataflow of each model, making them faster and more energy-efficient than the current SOTA chips on the market. This saves data centers *billions* in cooling and energy costs.",
+    "one_liner": "Energy efficient chips for AI",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1722631140,
+    "tags": [
+      "Hardware",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zettascale",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/zettascale.json"
   },
   {
     "id": 29778,
@@ -24842,45 +24846,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/demeter.json"
   },
   {
-    "id": 30320,
-    "name": "Proception Inc",
-    "slug": "proception-inc",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bbd5c88222cf5eb971b76232ac40284413785f0.png",
-    "website": "https://proception.ai/",
-    "all_locations": "",
-    "long_description": "",
-    "one_liner": "Making humanoids dexterous enough to thread a needle",
-    "team_size": 5,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1739402915,
-    "tags": [
-      "Robotics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/proception-inc",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/proception-inc.json"
-  },
-  {
     "id": 30321,
     "name": "Woz",
     "slug": "woz",
@@ -27281,48 +27246,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/acrely.json"
   },
   {
-    "id": 30611,
-    "name": "AgentMail",
-    "slug": "agentmail",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/229d0f8aee3512a3e3602b0a708550a51a4f5e11.png",
-    "website": "https://agentmail.to",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AgentMail is an email API that gives your agent its own inbox. Think of it like Gmail, but for AI Agents instead of humans.",
-    "one_liner": "Email Infrastructure for AI Agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1750990316,
-    "tags": [
-      "Developer Tools",
-      "API",
-      "Email",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agentmail",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/agentmail.json"
-  },
-  {
     "id": 30615,
     "name": "Lanesurf",
     "slug": "lanesurf",
@@ -27536,6 +27459,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/topological.json"
   },
   {
+    "id": 30630,
+    "name": "Lark",
+    "slug": "lark",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67710e46a3214b779fb0c410b22c7dd1f1f89778.png",
+    "website": "https://uselark.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lark is building an AI native billing platform to serve the needs of fast growing AI companies. Jack and Vijit previously built Stripe’s usage-based billing system which is used by companies like Intercom and Cloudflare.\r\n\r\nAt Stripe, we were involved in conversations with Cursor, Figma and Clay that didn’t end up choosing Stripe as their billing provider because it didn’t meet their needs. These companies want to define complex pricing models like per-seat credit pools which existing solutions don’t handle. At Lark, we are building a flexible billing engine that can support the latest pricing models and enable hassle-free pricing changes.\r\n \r\nWe also want end users to have an awesome billing experience so we’re starting off by building an AI powered customer portal for subscription companies. We are currently live with 4 customers including Midjourney & Character AI.",
+    "one_liner": "AI Native Billing Platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1755281037,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B",
+      "Billing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lark",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/lark.json"
+  },
+  {
     "id": 30636,
     "name": "EffiGov",
     "slug": "effigov",
@@ -27740,6 +27706,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cyberdesk.json"
   },
   {
+    "id": 30648,
+    "name": "Janet AI",
+    "slug": "tryjanet",
+    "former_names": [
+      "MeetingToCode"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
+    "website": "https://tryjanet.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Janet AI is the intelligent ticket management system.\r\n\r\nAs organizations scale, Jira turns into chaos. Related issues are filed under different teams. De-duping is tedious. Critical insights get lost in comment threads. Tickets are never seen by anyone with full context. As a result, teams spend hundreds of manual hours just figuring out what’s important—before they can even start fixing it.\r\n\r\nJanet AI automatically creates, tracks, and resolves work items through integrations with information channels like Slack, meetings, customer cases, GitHub, and more. Further, Janet AI watches every incoming ticket to build a knowledge graph and automatically surfaces related tickets, streamlines routing, flags prior fixes, and identifies what matters most—across all projects and teams.",
+    "one_liner": "The AI-Native Jira",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1752861520,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "DevOps",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tryjanet",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/tryjanet.json"
+  },
+  {
     "id": 30649,
     "name": "Lilac",
     "slug": "lilac",
@@ -27908,24 +27917,23 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/frizzle.json"
   },
   {
-    "id": 30661,
-    "name": "Stockline",
-    "slug": "stockline",
+    "id": 30659,
+    "name": "Keystone",
+    "slug": "keystone",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd3787e9958fd9e9b42a9bb7223fe8689a2863a9.png",
-    "website": "https://stockline.ai",
-    "all_locations": "",
-    "long_description": "Stockline is reshaping ERPs to bring innovation to a $990B+ industry left behind by the tech revolution: the food supply chain.\r\n\r\nFood wholesalers still rely on software from the 90s. One symptom among many: they waste hours retyping orders and invoices that arrive through scattered channels like WhatsApp, SMS, and email into their ERPs. Manual admin work takes over. Headcount grows just to handle repetitive tasks.\r\nThis leads to mistakes, tight margins, and food waste.\r\n\r\nStockline replaces outdated ERPs with AI at its core. The game-changer? No more manual data entry. Our AI pulls orders from every channel and feeds them directly into one unified system.\r\n\r\nAdmin disappears. Wholesalers get to focus on what really matters: their products and their customers.",
-    "one_liner": "AI-native ERP for food wholesalers",
-    "team_size": 2,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c3915c83dfe6a246f33ae908d5156017a0cef3f.png",
+    "website": "https://withkeystone.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Keystone is an AI engineer that joins your team and understands your product from codebase to production. It can triage tickets, fix bugs, and automatically resolve incidents, autonomously.",
+    "one_liner": "Your team's on-call AI engineer",
+    "team_size": 1,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753355964,
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1749673205,
     "tags": [
+      "Developer Tools",
+      "SaaS",
       "B2B",
-      "Food",
-      "Food Tech",
-      "Enterprise Software",
       "AI"
     ],
     "tags_highlighted": [],
@@ -27935,18 +27943,20 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stockline",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/stockline.json"
+    "url": "https://www.ycombinator.com/companies/keystone",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/keystone.json"
   },
   {
     "id": 30663,
@@ -28441,7 +28451,7 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
@@ -29584,50 +29594,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tectoai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/tectoai.json"
-  },
-  {
-    "id": 30785,
-    "name": "RowFlow",
-    "slug": "rowflow",
-    "former_names": [
-      "SheetStorm"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4556b19fb6feb8d4b68cc26dd6a04f18622c3c33.png",
-    "website": "https://rowflow.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "RowFlow is like if Typeform or SurveyMonkey started as an AI company. We replace clunky web forms with natural conversations that run over text, slack, or wherever your users are. Our platform aims to double your form’s response rates while cutting your internal overhead in half. \r\n\r\nWith RowFlow, you can take any existing form and instantly convert it into an AI-powered conversation. New flows launch in minutes and reach respondents over your preferred channel or embedded chat. We guide the exchange, follow up automatically, and return clean structured data without extra work from your team.\r\n\r\nForms power billions of business interactions yearly. Whether it’s forms for client intake, registrations, compliance, feedback, or surveys, they all follow the same painful pattern: low conversion, messy data, and frustrated users. Teams have long tolerated forms only because there's been no scalable alternative for collecting structured information from people - until now. Our goal is for RowFlow to become the new default way for how organizations collect user data in an AI-first world.",
-    "one_liner": "We turn rigid forms into AI convos that collect better data faster.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1756177645,
-    "tags": [
-      "B2B",
-      "Workflow Automation",
-      "Chat",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/rowflow",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/rowflow.json"
   },
   {
     "id": 30796,
