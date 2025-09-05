@@ -13516,6 +13516,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/monterey-ai.json"
   },
   {
+    "id": 27178,
+    "name": "Pump.co",
+    "slug": "pump-co",
+    "former_names": [
+      "Pump"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd441b185f1d0725ac8c35281774ba67b3fdc86.png",
+    "website": "https://www.pump.co/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pump saves up to 60% off AWS for early stage startups, and for free (yes, that's right). Using group buying and AI, Pump automates cost savings that require no engineering effort. #GetPumped ",
+    "one_liner": "The Costco for cloud is here 🔥🔥",
+    "team_size": 75,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1681178261,
+    "tags": [
+      "Artificial Intelligence",
+      "FinOps",
+      "Fintech",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pump-co",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/pump-co.json"
+  },
+  {
     "id": 27221,
     "name": "CAPSULE",
     "slug": "capsule",
@@ -16441,7 +16485,9 @@
     "slug": "elyos-ai",
     "former_names": [
       "Prasinus Energy",
-      "Open Energy"
+      "Open Energy",
+      "Elyos Energy",
+      "Elyos"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76f14de542d5e5e64cbd1bcda09aac3368c32350.png",
     "website": "https://www.elyos.ai/",
@@ -16450,7 +16496,7 @@
     "one_liner": "AI Customer Service Agents for trades and field services",
     "team_size": 7,
     "industry": "B2B",
-    "subindustry": "Industrials -> Climate",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1688401921,
     "tags": [
       "Artificial Intelligence",
@@ -16754,9 +16800,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7e8e61ea6d3f763043392069ac87464fc6db2af.png",
     "website": "https://www.atla-ai.com/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Atla is the eval and improvement platform for AI agents. \r\n\r\nWe help developers cut time spent on manually reviewing traces. Atla’s LLM judge evaluates your agent step-by-step, uncovers error patterns across runs, and suggests specific fixes—so you know exactly what to fix and why.\r\n\r\nAtla supports the most popular agent frameworks teams build with, including LangChain, CrewAI, and OpenAI Agents. With real-time monitoring, automated error detection, and prompt experimentation, Atla gives teams the visibility and control needed to confidently ship agentic systems that work. \r\n\r\nWe’re a team of researchers, engineers, entrepreneurs and operational leaders. Our expertise in evals was honed through training our own purpose-built LLM Judges, Selene and Selene Mini, which are available open-source and have been downloaded 40,000+ times.",
-    "one_liner": "Find and fix AI agent failures",
-    "team_size": 12,
+    "long_description": "Find and fix your agent’s most critical failures in hours, not days.\r\n\r\nAtla helps developers cut time spent on manually reviewing traces. Atla’s LLM judge evaluates your agent step-by-step, uncovers error patterns across runs, and suggests specific fixes—so you know exactly what to fix and why.\r\n\r\nAtla supports the most popular agent frameworks teams build with, including LangChain, CrewAI, and OpenAI Agents. With real-time monitoring, automated error detection, and prompt experimentation, Atla gives teams the visibility and control needed to confidently ship agentic systems that work. \r\n\r\nWe’re a team of researchers, engineers, entrepreneurs and operational leaders. Our expertise in evals was honed through training our own purpose-built LLM Judges, Selene and Selene Mini, which are available open-source and have been downloaded 60,000+ times.",
+    "one_liner": "The improvement engine for AI agents",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1687465633,
@@ -17183,18 +17229,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e638279869f7de4ca5752835249b8d2c8711f432.png",
     "website": "https://www.arcimus.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arcimus helps you reach the exact local businesses you need. \r\n",
-    "one_liner": "Reach the right local businesses",
+    "long_description": "We track thousands of signals across the world to find people who need your product, just tell us who your perfect customer is and we'll get you a list. (Don't limit yourself to basic filters like revenue or size)\r\n\r\nSome things we can track: \r\n- Brand new online degree programs\r\n- Law firms expanding\r\n- Companies hiring their first sales reps\r\n\r\nreally anything, try us 😎",
+    "one_liner": "Find who needs your product",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1688422259,
     "tags": [
       "Artificial Intelligence",
-      "Fintech",
       "Generative AI",
       "B2B",
-      "Insurance"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -27605,31 +27650,33 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/gecko-security.json"
   },
   {
-    "id": 30096,
-    "name": "Scout",
-    "slug": "scout-new",
+    "id": 30097,
+    "name": "Innate",
+    "slug": "innate",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a02216c7c53484d3ad973ad32b59b2140a197d7e.png",
-    "website": "https://scout.new",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Scout is an AI-native software engineering agent. It works asynchronously on its own VM, and is capable of tackling long-horizon tasks on large codebases.",
-    "one_liner": "AI Software Engineer",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1730261485,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/374e6b2cd282f5fe31c64fcc82aaebb3105153c9.png",
+    "website": "https://innate.bot",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "We make personal AI robots - general-purpose physical machines that anyone can program with code, language and demonstrations.\r\n\r\nWe believe building open platforms like the first PCs this is the only way to bring the robotics future that we all want, where everyone can participate in the robotics revolution.",
+    "one_liner": "Personal AI Robots",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1730365227,
     "tags": [
       "Artificial Intelligence",
-      "AI Assistant"
+      "Developer Tools",
+      "Robotics"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Consumer",
+      "Consumer Electronics"
     ],
     "regions": [
       "United States of America",
@@ -27640,8 +27687,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/scout-new",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/scout-new.json"
+    "url": "https://www.ycombinator.com/companies/innate",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/innate.json"
   },
   {
     "id": 30099,
@@ -29599,6 +29646,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ergo",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/ergo.json"
+  },
+  {
+    "id": 30345,
+    "name": "Lightbox",
+    "slug": "lightbox",
+    "former_names": [
+      "851 Inc.",
+      "851",
+      "AI Emojis"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/559780f3ea4d1b8b93260bd86f70fcb205e616a6.png",
+    "website": "https://www.lightbox.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our mission is to give small businesses an AI Graphic Designer to help them create a brand and identity without having to pay 💰💰💰 of dollars hire someone.",
+    "one_liner": "Cursor for Content Creation",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1740542821,
+    "tags": [
+      "Artificial Intelligence",
+      "Design",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lightbox",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/lightbox.json"
   },
   {
     "id": 30351,
@@ -31757,7 +31848,7 @@
     "website": "https://tryghostship.dev/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Imagine a QA team of 5,000 testers available 24/7 on every new feature you ship. That's Ghostship. \r\n\r\nOur AI agents will crawl through your product and interact with it like users would to find the bugs (especially edge cases) that lead to churn—all at a fraction of the cost.",
-    "one_liner": "AI agents that find churn before it happens",
+    "one_liner": "Solving retention with AI QA agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -31840,8 +31931,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7ecfb758177e9198eb8221c46198150c3a277ba.png",
     "website": "https://zeroeval.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "We help companies build reliable AI agents through an evaluation harness that learns over time using human feedback. \r\n\r\n\r\n1. The problem:\r\n\r\nCurrent offline eval methods are high-friction, a lot of work is needed to continuously curate labeled data, write experiments and evaluators. \r\n\r\nOn the other hand, current LLM judges are static and often have terrible performance, they lack context on how they fail and the nuances of the task at hand. \r\n\r\n\r\n2. The solution:\r\n\r\nWe're building new evaluation tools that provide signal faster and of higher quality than traditional evals.\r\n\r\n- Calibrated Judges: LLM Judges that learn from their mistakes and get better over time.\r\n\r\n- Autotune: Automatic evals with dozens of models and optimization (genetic prompt tuning & sft).\r\n\r\n- Arenas: Pairwise comparison and ELO rankings of agents with subjective outputs like UI generation, motion design, etc.\r\n\r\nDo you have tool call failures? Hallucinations? Outputs that you don't like? Talk to us.\r\n\r\n\r\n\r\n",
-    "one_liner": "A tool to evaluate and optimize AI agents using human feedback.",
+    "long_description": "Our mission is to build self-improving AI agents.\r\n\r\nWe're here to close the last mile reliability gap. \r\n\r\nThrough calibrated llm judges and automatic evaluations, we help companies optimize their agents 10x faster than doing manual experimentation.",
+    "one_liner": "Automatic optimization for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -31922,7 +32013,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67710e46a3214b779fb0c410b22c7dd1f1f89778.png",
     "website": "https://uselark.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lark is building an AI native billing platform to serve the needs of fast growing AI companies. Jack and Vijit previously built Stripe’s usage-based billing system which is used by companies like Intercom and Cloudflare.\r\n\r\nAt Stripe, we were involved in conversations with Cursor, Figma and Clay that didn’t end up choosing Stripe as their billing provider because it didn’t meet their needs. These companies want to define complex pricing models like per-seat credit pools which existing solutions don’t handle. At Lark, we are building a flexible billing engine that can support the latest pricing models and enable hassle-free pricing changes.\r\n \r\nWe also want end users to have an awesome billing experience so we’re starting off by building an AI powered customer portal for subscription companies. We are currently live with 4 customers including Midjourney & Character AI.",
+    "long_description": "Lark is building an AI native billing platform to serve the needs of fast growing AI companies. Jack and Vijit previously built Stripe’s usage-based billing system which is used by companies like Intercom and Cloudflare. Vijit also built Stripe’s customer portal which is used by customers of OpenAI and Perplexity to manage their subscriptions.\r\n\r\nAI Pricing models are evolving fast and existing billing providers can’t keep up. During our time at Stripe, we saw deals fall through with companies like Cursor and Figma for this reason. Frustratingly, these companies had to build their billing systems in-house. \r\n\r\nLark provides companies a flexible pricing engine that can support complex models like per seat credit pools and region based pricing. Finance teams can roll out pricing changes without any engineering effort. End users get an elegant billing experience. \r\n \r\nWe’re starting off by building an AI powered customer portal for subscription companies. End users can use it to manage their subscriptions and resolve billing issues. Our billing agents are live with 4 customers including Midjourney and CharacterAI.",
     "one_liner": "AI Native Billing Platform",
     "team_size": 2,
     "industry": "B2B",
@@ -31932,8 +32023,8 @@
       "Artificial Intelligence",
       "Fintech",
       "B2B",
-      "Billing",
-      "AI"
+      "Subscriptions",
+      "Billing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31996,6 +32087,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/design-arena",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/design-arena.json"
+  },
+  {
+    "id": 30640,
+    "name": "Monarcha",
+    "slug": "monarcha",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/034888ab143a441ea743ea81e2251a44e18362e3.png",
+    "website": "https://monarcha.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Monarcha is an AI-powered geospatial platform built for logistics, real estate, urban planning, and environmental teams. It turns natural language into powerful spatial analysis, styling, and workflows with no GIS expertise required.\r\n\r\nWorking with geospatial data today is slow, fragmented, and deeply technical. Simple tasks often require desktop based software and coding expertise. Most platforms rely on outdated desktop software, steep learning curves, and disconnected tools. Even simple tasks like uploading data, running a buffer, or visualizing zones can take hours and require specialists.\r\n\r\nMonarcha changes that.\r\nWe connect directly to your data, enrich it with public datasets, understand spatial context, and let you run 50+ spatial tools instantly on the map. Upload vector or raster files, run PostGIS SQL queries, generate heatmaps, clip zones, and more all with a simple prompt. We're giving everyone the power of advanced spatial analysis to help save time, money and unlock siloed geospatial data across entire organizations. \r\n\r\nWant to learn more? Check out monarcha.ai",
+    "one_liner": "The AI GIS Platform ",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753222195,
+    "tags": [
+      "Artificial Intelligence",
+      "Geographic Information System",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/monarcha",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/monarcha.json"
   },
   {
     "id": 30642,
@@ -32203,48 +32334,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/heysidekick",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/heysidekick.json"
-  },
-  {
-    "id": 30661,
-    "name": "Stockline",
-    "slug": "stockline",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd3787e9958fd9e9b42a9bb7223fe8689a2863a9.png",
-    "website": "https://stockline.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stockline is reshaping ERPs to bring innovation to a $990B+ industry left behind by the tech revolution: the food supply chain.\r\n\r\nFood wholesalers still rely on software from the 90s. One symptom among many: they waste hours retyping orders and invoices that arrive through scattered channels like WhatsApp, SMS, and email into their ERPs. Manual admin work takes over. Headcount grows just to handle repetitive tasks.\r\nThis leads to mistakes, tight margins, and food waste.\r\n\r\nStockline replaces outdated ERPs with AI at its core. The game-changer? No more manual data entry. Our AI pulls orders from every channel and feeds them directly into one unified system.\r\n\r\nAdmin disappears. Wholesalers get to focus on what really matters: their products and their customers.",
-    "one_liner": "AI-native ERP for food wholesalers",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753355964,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Food",
-      "Food Tech",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stockline",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/stockline.json"
   },
   {
     "id": 30662,
@@ -32937,10 +33026,10 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f836a0c8c51e91ad3364666cbc06dd260a0a3c1.png",
     "website": "https://www.mimos-ai.com/",
     "all_locations": "",
-    "long_description": "Mimos is an Answer Engine Optimization (AEO) platform designed for regulated experts, starting with Registered Investment Advisors (RIAs). \r\n\r\nWe help highly-regulated companies get discovered and trusted on AI platforms like ChatGPT and Gemini, driving qualified inbound while staying compliant.\r\n\r\n===\r\n\r\nRohit & Mike have been working together on various technical project since middle school (13 years!) - and Mimos came about as one of those projects.",
-    "one_liner": "Helping regulated firms show up in AI search.",
+    "long_description": "Mimos helps regulated companies rank in AI search.\r\n\r\nCompliance is the biggest blocker to marketing in regulated industries. Every claim needs to be substantiated, every disclosure included, and mistakes can lead to audits and fines. That’s why campaigns sit in compliance queues for weeks.\r\n\r\nMimos automates this entire loop:\r\n • Drafts are generated from your policies, past redlines, and the latest regulations\r\n • Evidence packets and disclaimers are auto-inserted for compliance review\r\n • Customers click to publish and start seeing new leads within days\r\n\r\nLearn more at trymimos.com\r\n\r\n===\r\n\r\nRohit & Michael have been working together on various technical project since middle school (13 years!) - and Mimos came about as one of those projects.\r\n\r\nPrior to Mimos, Rohit built infrastructure for OpenAI at Microsoft Azure, and Michael shipped AI to 1B+ Alexa devices at Amazon.",
+    "one_liner": "Helping regulated companies rank in AI search",
     "team_size": 2,
-    "industry": "Fintech",
+    "industry": "B2B",
     "subindustry": "Fintech",
     "launched_at": 1753307750,
     "tags": [
@@ -32954,7 +33043,7 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Fintech"
+      "B2B"
     ],
     "regions": [
       "Unspecified"
@@ -33224,7 +33313,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c63bc96cffb87cb2d06890455f91a39acb01d02d.png",
     "website": "https://gominimal.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Minimal AI makes it easy for e-commerce brands to build and manage AI support teams that resolve 80% of tickets.\r\n\r\nThe result: reduced support costs while actually improving customer experience and sales. It feels like outsourcing your support to a team of AI Agents with human-like empathy.\r\n\r\nOver 45 e-commerce brands use Minimal AI to handle thousands of customer support tickets daily.",
+    "long_description": "Minimal AI makes it easy for e-commerce brands to build and manage AI support teams that resolve 80% of tickets.\r\n\r\nOver 50 e-commerce brands use Minimal AI to handle thousands of customer support tickets daily.",
     "one_liner": "AI Customer Support Teams for E-commerce",
     "team_size": 2,
     "industry": "B2B",
@@ -33641,47 +33730,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/reacher.json"
   },
   {
-    "id": 30765,
-    "name": "Daymi",
-    "slug": "daymi",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5848c29223896aa826a2859d9f3fcc6f8a26406.png",
-    "website": "https://www.daymi.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Daymi is an AI clone of the user that they can text or call. Daymi's familiar voice makes it easy for users to share their thoughts, explore new ideas, and just have fun. \r\n\r\nChatGPT is boring. AI girlfriends are harmful. Daymi is a new take on a personal AI companion that is both entertaining and productive.",
-    "one_liner": "Text your personal AI clone",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1754592638,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Messaging",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/daymi",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/daymi.json"
-  },
-  {
     "id": 30772,
     "name": "stagewise",
     "slug": "stagewise",
@@ -33894,6 +33942,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/veritus-agent.json"
   },
   {
+    "id": 30799,
+    "name": "Avent",
+    "slug": "avent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d96212731936adf020604b4e95b7700e967455b1.png",
+    "website": "https://www.aventindustrial.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Avent helps manufacturers and industrial distributors run quoting and order entry on autopilot. \r\n\r\nOur AI agents manage sales inboxes, build quotes from past pricing and tribal knowledge, and keep records up to date in existing ERPs.",
+    "one_liner": "AI agents for industrial commerce",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1755109512,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/avent",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/avent.json"
+  },
+  {
     "id": 30802,
     "name": "Freya",
     "slug": "freya",
@@ -33935,6 +34026,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/freya",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/freya.json"
+  },
+  {
+    "id": 30805,
+    "name": "RealRoots",
+    "slug": "realroots",
+    "former_names": [
+      "RealRoots Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4b72e88bef4437e7d672c23bb7e1f952c837fca.png",
+    "website": "http://www.therealroots.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "This is where real friendships begin. Women speak with our AI coach for 10 minutes to map personality, preferences, and availability. We then host recurring, guided meetups with compatible local matches and keep her social life on track with planning, suggestions, and check-ins.",
+    "one_liner": "RealRoots is the AI social app for women.",
+    "team_size": 4,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Social",
+    "launched_at": 1750729944,
+    "tags": [
+      "Artificial Intelligence",
+      "Marketplace",
+      "Consumer",
+      "Social Network"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Social"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/realroots",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/realroots.json"
   },
   {
     "id": 30807,

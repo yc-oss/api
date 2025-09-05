@@ -1790,6 +1790,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/scispot-io.json"
   },
   {
+    "id": 24381,
+    "name": "Sequin",
+    "slug": "sequin",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/47b6f40ba43cf8bcab62d5da9b5de194eaf83e88.png",
+    "website": "http://www.sequinai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sequin AI is building compliance-first AI voice agents to automate human agent intensive collections efforts for consumer lenders and servicers.\r\n\r\nCEO and Co-founder Vrinda Gupta, former Visa product leader who built the Chase Sapphire Reserve credit card and ran audits for top 10 issuers, teamed up with CTO and Co-founder Mark Thomas, former PayPal engineering leader, to bring world-class technology to consumer lending and servicing.\r\n\r\nBacked by Y Combinator, Sequin AI has raised $5.7M from top investors, including executives at OpenAI, the Schwab family, and leading venture funds like Matrix, Commerce Ventures, and Thomvest - the same firms behind some of the most iconic technology companies of our time.\r\n\r\nReach out vrinda@sequinai.com to learn if Sequin's AI Voice Agents can dramatically reduce your cost of collections today.",
+    "one_liner": "Sequin is building AI Voice Agents to automate collections for…",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1626371959,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sequin",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/sequin.json"
+  },
+  {
     "id": 24391,
     "name": "CoLoop",
     "slug": "coloop",
@@ -6883,18 +6923,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e638279869f7de4ca5752835249b8d2c8711f432.png",
     "website": "https://www.arcimus.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arcimus helps you reach the exact local businesses you need. \r\n",
-    "one_liner": "Reach the right local businesses",
+    "long_description": "We track thousands of signals across the world to find people who need your product, just tell us who your perfect customer is and we'll get you a list. (Don't limit yourself to basic filters like revenue or size)\r\n\r\nSome things we can track: \r\n- Brand new online degree programs\r\n- Law firms expanding\r\n- Companies hiring their first sales reps\r\n\r\nreally anything, try us 😎",
+    "one_liner": "Find who needs your product",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1688422259,
     "tags": [
       "Artificial Intelligence",
-      "Fintech",
       "Generative AI",
       "B2B",
-      "Insurance"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11487,8 +11526,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7ecfb758177e9198eb8221c46198150c3a277ba.png",
     "website": "https://zeroeval.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "We help companies build reliable AI agents through an evaluation harness that learns over time using human feedback. \r\n\r\n\r\n1. The problem:\r\n\r\nCurrent offline eval methods are high-friction, a lot of work is needed to continuously curate labeled data, write experiments and evaluators. \r\n\r\nOn the other hand, current LLM judges are static and often have terrible performance, they lack context on how they fail and the nuances of the task at hand. \r\n\r\n\r\n2. The solution:\r\n\r\nWe're building new evaluation tools that provide signal faster and of higher quality than traditional evals.\r\n\r\n- Calibrated Judges: LLM Judges that learn from their mistakes and get better over time.\r\n\r\n- Autotune: Automatic evals with dozens of models and optimization (genetic prompt tuning & sft).\r\n\r\n- Arenas: Pairwise comparison and ELO rankings of agents with subjective outputs like UI generation, motion design, etc.\r\n\r\nDo you have tool call failures? Hallucinations? Outputs that you don't like? Talk to us.\r\n\r\n\r\n\r\n",
-    "one_liner": "A tool to evaluate and optimize AI agents using human feedback.",
+    "long_description": "Our mission is to build self-improving AI agents.\r\n\r\nWe're here to close the last mile reliability gap. \r\n\r\nThrough calibrated llm judges and automatic evaluations, we help companies optimize their agents 10x faster than doing manual experimentation.",
+    "one_liner": "Automatic optimization for AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -11942,50 +11981,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pleom",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pleom.json"
-  },
-  {
-    "id": 30779,
-    "name": "Anytrace",
-    "slug": "anytrace",
-    "former_names": [
-      "Glade",
-      "Sandfish"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc19730e88c6efd02f5d493a5a665dad188e2188.png",
-    "website": "http://anytrace.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Anytrace is the first AI agent that automates the end-to-end workflow of a support engineer. Our agent resolves technical support tickets by interacting with customers, investigating root causes, and tracking issues to completion.\r\n\r\nSam (CEO) was previously the co-founder and CEO of a DevOps platform that raised $2M. Taira (CTO) was the youngest SDE 2 at AWS Sagemaker Inference. We have over five years of experience handling technical support for customers ranging from small startups to Fortune 500 companies like Salesforce.\r\n\r\nWe came into YC with just an idea, and we already have our first pilot customer paying $5 per support ticket.\r\n\r\nEssentially every B2B software company devotes engineering time to support, and our goal is to automate this away.",
-    "one_liner": "The AI support engineering agent",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1753758221,
-    "tags": [
-      "Generative AI",
-      "Workflow Automation",
-      "Customer Support"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/anytrace",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/anytrace.json"
   },
   {
     "id": 30940,

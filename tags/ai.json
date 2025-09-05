@@ -10243,50 +10243,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/monterey-ai.json"
   },
   {
-    "id": 27178,
-    "name": "Pump.co",
-    "slug": "pump-co",
-    "former_names": [
-      "Pump"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bd441b185f1d0725ac8c35281774ba67b3fdc86.png",
-    "website": "https://www.pump.co/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pump saves up to 60% off AWS for early stage startups, and for free (yes, that's right). Using group buying and AI, Pump automates cost savings that require no engineering effort. #GetPumped ",
-    "one_liner": "The Costco for cloud is here 🔥🔥",
-    "team_size": 60,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1681178261,
-    "tags": [
-      "FinOps",
-      "Fintech",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pump-co",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/pump-co.json"
-  },
-  {
     "id": 27185,
     "name": "Knowtex",
     "slug": "knowtex",
@@ -13375,9 +13331,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7e8e61ea6d3f763043392069ac87464fc6db2af.png",
     "website": "https://www.atla-ai.com/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Atla is the eval and improvement platform for AI agents. \r\n\r\nWe help developers cut time spent on manually reviewing traces. Atla’s LLM judge evaluates your agent step-by-step, uncovers error patterns across runs, and suggests specific fixes—so you know exactly what to fix and why.\r\n\r\nAtla supports the most popular agent frameworks teams build with, including LangChain, CrewAI, and OpenAI Agents. With real-time monitoring, automated error detection, and prompt experimentation, Atla gives teams the visibility and control needed to confidently ship agentic systems that work. \r\n\r\nWe’re a team of researchers, engineers, entrepreneurs and operational leaders. Our expertise in evals was honed through training our own purpose-built LLM Judges, Selene and Selene Mini, which are available open-source and have been downloaded 40,000+ times.",
-    "one_liner": "Find and fix AI agent failures",
-    "team_size": 12,
+    "long_description": "Find and fix your agent’s most critical failures in hours, not days.\r\n\r\nAtla helps developers cut time spent on manually reviewing traces. Atla’s LLM judge evaluates your agent step-by-step, uncovers error patterns across runs, and suggests specific fixes—so you know exactly what to fix and why.\r\n\r\nAtla supports the most popular agent frameworks teams build with, including LangChain, CrewAI, and OpenAI Agents. With real-time monitoring, automated error detection, and prompt experimentation, Atla gives teams the visibility and control needed to confidently ship agentic systems that work. \r\n\r\nWe’re a team of researchers, engineers, entrepreneurs and operational leaders. Our expertise in evals was honed through training our own purpose-built LLM Judges, Selene and Selene Mini, which are available open-source and have been downloaded 60,000+ times.",
+    "one_liner": "The improvement engine for AI agents",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1687465633,
@@ -22993,33 +22949,31 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/permitportal.json"
   },
   {
-    "id": 30097,
-    "name": "Innate",
-    "slug": "innate",
+    "id": 30096,
+    "name": "Capy",
+    "slug": "capy",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5874ae5d91c6dc5a32065be587bcdaa98b58d82d.png",
-    "website": "https://innate.bot",
-    "all_locations": "Palo Alto, CA, USA",
-    "long_description": "We make personal robots that do any task you want at home with navigation, interaction and manipulation.\r\n\r\nOur platforms are made for developers and hobbyists, and use a fully integrated hardware, control and ai stack, made as simple and open as possible, and provide value on day 1.",
-    "one_liner": "Personal Robots for the AI age",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1730365227,
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a02216c7c53484d3ad973ad32b59b2140a197d7e.png",
+    "website": "https://capy.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Capy is an AI-native software engineering agent. It works asynchronously on its own VM, and is capable of tackling long-horizon tasks on large codebases.",
+    "one_liner": "AI Software Engineer",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1730261485,
     "tags": [
-      "Developer Tools",
-      "Robotics",
-      "AI"
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Consumer Electronics"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -23030,8 +22984,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/innate",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/innate.json"
+    "url": "https://www.ycombinator.com/companies/capy",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/capy.json"
   },
   {
     "id": 30102,
@@ -23765,7 +23719,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -25103,50 +25057,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/tamlabs.json"
   },
   {
-    "id": 30345,
-    "name": "Lightbox",
-    "slug": "lightbox",
-    "former_names": [
-      "851 Inc.",
-      "851",
-      "AI Emojis"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/559780f3ea4d1b8b93260bd86f70fcb205e616a6.png",
-    "website": "https://www.lightbox.sh/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our mission is to give small businesses an AI Graphic Designer to help them create a brand and identity without having to pay 💰💰💰 of dollars hire someone.",
-    "one_liner": "AI Copilot for Graphic Design",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1740542821,
-    "tags": [
-      "Design",
-      "Design Tools",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lightbox",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/lightbox.json"
-  },
-  {
     "id": 30352,
     "name": "Fluidize",
     "slug": "fluidize",
@@ -25202,7 +25112,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
     "website": "https://www.ambral.com/",
     "all_locations": "",
-    "long_description": "Ambral is an AI account management team built to help B2B SaaS companies maximize revenue from every customer.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
+    "long_description": "Ambral is using AI to replace human Account Managers, starting with B2B SaaS companies.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
     "one_liner": "AI-powered Account Managers",
     "team_size": 2,
     "industry": "B2B",
@@ -27459,49 +27369,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/topological.json"
   },
   {
-    "id": 30630,
-    "name": "Lark",
-    "slug": "lark",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67710e46a3214b779fb0c410b22c7dd1f1f89778.png",
-    "website": "https://uselark.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lark is building an AI native billing platform to serve the needs of fast growing AI companies. Jack and Vijit previously built Stripe’s usage-based billing system which is used by companies like Intercom and Cloudflare.\r\n\r\nAt Stripe, we were involved in conversations with Cursor, Figma and Clay that didn’t end up choosing Stripe as their billing provider because it didn’t meet their needs. These companies want to define complex pricing models like per-seat credit pools which existing solutions don’t handle. At Lark, we are building a flexible billing engine that can support the latest pricing models and enable hassle-free pricing changes.\r\n \r\nWe also want end users to have an awesome billing experience so we’re starting off by building an AI powered customer portal for subscription companies. We are currently live with 4 customers including Midjourney & Character AI.",
-    "one_liner": "AI Native Billing Platform",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1755281037,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "B2B",
-      "Billing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lark",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/lark.json"
-  },
-  {
     "id": 30636,
     "name": "EffiGov",
     "slug": "effigov",
@@ -27582,46 +27449,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lotas",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/lotas.json"
-  },
-  {
-    "id": 30640,
-    "name": "Monarcha",
-    "slug": "monarcha",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/034888ab143a441ea743ea81e2251a44e18362e3.png",
-    "website": "https://monarcha.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Monarcha is an AI-powered geospatial platform built for logistics, real estate, urban planning, and environmental teams. It turns natural language into powerful spatial analysis, styling, and workflows with no GIS expertise required.\r\n\r\nWorking with geospatial data today is slow, fragmented, and deeply technical. Simple tasks often require desktop based software and coding expertise. Most platforms rely on outdated desktop software, steep learning curves, and disconnected tools. Even simple tasks like uploading data, running a buffer, or visualizing zones can take hours and require specialists.\r\n\r\nMonarcha changes that.\r\nWe connect directly to your data, enrich it with public datasets, understand spatial context, and let you run 50+ spatial tools instantly on the map. Upload vector or raster files, run PostGIS SQL queries, generate heatmaps, clip zones, and more all with a simple prompt. We're giving everyone the power of advanced spacial analysis to help save time, money and unlock siloed geospatial data across entire organizations. \r\n\r\nWant to learn more? Check out monarcha.ai",
-    "one_liner": "The AI GIS Platform ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753222195,
-    "tags": [
-      "Geographic Information System",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/monarcha",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/monarcha.json"
   },
   {
     "id": 30645,
@@ -27957,6 +27784,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/keystone",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/keystone.json"
+  },
+  {
+    "id": 30661,
+    "name": "Stockline",
+    "slug": "stockline",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd3787e9958fd9e9b42a9bb7223fe8689a2863a9.png",
+    "website": "https://stockline.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Stockline is an AI-native ERP for food wholesalers. \r\nWe're starting by automating order entry with AI and in the process replacing clunky ERPs from the 90s. \r\n\r\nDuring the S25 batch, we went zero to $234k ARR. The market is a $25b opportunity. \r\n\r\nBefore food reaches your plate, there’s a $990b+ industry still relying on humans doing manual retyping and copy paste into outdated ERPs. \r\nYou can think of us AI teammates that replaces both people doing the manual work and the software itself. \r\n\r\nTeam is 2 Polytechnique alums who dropped out of Stanford and MIT. Mariem is daughter of the fish industry and Moncef started coding and building softwares at 13. ",
+    "one_liner": "AI-native ERP for food wholesalers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753355964,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Food & Beverage",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stockline",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/stockline.json"
   },
   {
     "id": 30663,
@@ -29471,6 +29339,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/okibi.json"
   },
   {
+    "id": 30770,
+    "name": "Vibe Code Go",
+    "slug": "vibe-code-go",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffeca89d176d23081681b5dd3135c9a26bcfb7f5.png",
+    "website": "https://vibecodego.com",
+    "all_locations": "",
+    "long_description": "Vibe Code Go is a mobile app that lets software engineers vibe code on the go.\r\n\r\n90% of code (or more) is going to be written by AI by the end of the year. At the same time, I can order a hamburger from my phone, or I can file an expense report, but I can't code from my phone.\r\n\r\nWe think that with the advent of agentic coding, it's time for that to change.",
+    "one_liner": "Code from your phone",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1755546681,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/vibe-code-go",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/vibe-code-go.json"
+  },
+  {
     "id": 30774,
     "name": "Clodo",
     "slug": "clodo",
@@ -29636,48 +29544,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/outrove.json"
   },
   {
-    "id": 30799,
-    "name": "Avent",
-    "slug": "avent",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d96212731936adf020604b4e95b7700e967455b1.png",
-    "website": "https://www.aventindustrial.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Avent helps manufacturers and industrial distributors run quoting and order entry on autopilot. \r\n\r\nOur AI agents manage sales inboxes, build quotes from past pricing and tribal knowledge, and keep records up to date in existing ERPs.",
-    "one_liner": "AI agents for industrial commerce",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1755109512,
-    "tags": [
-      "SaaS",
-      "AI",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avent",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/avent.json"
-  },
-  {
     "id": 30801,
     "name": "burnt",
     "slug": "burnt",
@@ -29719,49 +29585,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/burnt",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/burnt.json"
-  },
-  {
-    "id": 30805,
-    "name": "RealRoots",
-    "slug": "realroots",
-    "former_names": [
-      "RealRoots Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c563a3b9ae5c2c2acc674b74b30996afd6ac82d.png",
-    "website": "http://www.therealroots.com",
-    "all_locations": "",
-    "long_description": "This is where real friendships begin. Women speak with our AI coach for 10 minutes to map personality, preferences, and availability. We then host recurring, guided meetups with compatible local matches and keep her social life on track with planning, suggestions, and check-ins.",
-    "one_liner": "RealRoots is a mobile app that guarantees women lifelong friendships.",
-    "team_size": 4,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Social",
-    "launched_at": 1750729944,
-    "tags": [
-      "Marketplace",
-      "Consumer",
-      "Social Network",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Social"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/realroots",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/realroots.json"
   },
   {
     "id": 30813,
