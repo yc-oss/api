@@ -792,14 +792,14 @@
   },
   {
     "id": 30454,
-    "name": "Operative",
-    "slug": "operative",
+    "name": "Refresh",
+    "slug": "refresh",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70e1fa3203528b1f0653e9d2332c4025d3d2c745.png",
-    "website": "https://operative.sh/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa69690b8b1a0cab958e9bf859bdea3e6735b40c.png",
+    "website": "https://www.refresh.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Operative uses AI to help organizations generate & modify internal frontend applications that connect to their existing backend APIs. You can think of it like Retool, except instead of external integrations, we connect into an organization’s internal backends, and we use AI to generate the frontend code for the web applications users want to create.",
-    "one_liner": "AI Infrastructure for autonomous software creation and interaction",
+    "long_description": "Building browser agent based tools to help vibe coders improve their coding workflows",
+    "one_liner": "Browser agent based testing in vibe coding workflows",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -830,8 +830,8 @@
     "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/operative",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/operative.json"
+    "url": "https://www.ycombinator.com/companies/refresh",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/refresh.json"
   },
   {
     "id": 30492,
@@ -926,18 +926,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f34cf0cf02c3e2059e48082daf0ddc693722515.png",
     "website": "https://floot.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI. Since June, 3000+ users have created over 4000 apps on Floot.\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
+    "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI. 14,000 users have created over 16,000 apps on Floot.\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
     "one_liner": "The easiest and most powerful way to build apps with AI.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753721322,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "SaaS",
       "No-code",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -970,16 +970,16 @@
     "website": "https://stagewise.io",
     "all_locations": "Bielefeld, NRW, Germany",
     "long_description": "stagewise builds an open-source frontend coding agent for real codebases. We enable backend devs, designers and product managers to build pretty and functional web apps in a simple and visually guided manner - no matter the used tech stack.\r\n\r\nstagewise lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project. Our agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like “make it green and put it in the top right corner”, and immediately seeing the result.\r\n\r\nWe're two founders from Germany who met while working at a B2B SaaS startup. With Glenn's background in building dev tools for enterpries (Rheinmetall, Miele), as well as Julians experience in building web apps used by thousands (saasmetrix, strukto.io), we have the unique blend of experience and product sense needed to build this.\r\n\r\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we’re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\r\n\r\nOur vision is to replace frontend devs completely, by gradually enabling both the backend devs, but also less technical designers and product managers to create well-designed applications. We start with developers who lack design experience, but our ultimate goal is to change how products are built.",
-    "one_liner": "Your new AI frontend developer",
+    "one_liner": "The frontend coding agent for real codebases.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751997318,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
-      "Web Development"
+      "Web Development",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1007,7 +1007,9 @@
     "id": 30789,
     "name": "Interfere",
     "slug": "interfere",
-    "former_names": [],
+    "former_names": [
+      "Ordinary Intelligence"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5a8dbf97e68dbed29a766e3ea5a4929c2ae74bc.png",
     "website": "https://interfere.com",
     "all_locations": "",

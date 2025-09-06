@@ -2678,11 +2678,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3112,7 +3112,7 @@
     "one_liner": "Helping scientists and engineers run experiments with AI. ",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753994250,
     "tags": [
       "Developer Tools",
@@ -3242,7 +3242,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Attune makes blazingly fast build tools that require zero migration effort.\r\n\r\nAs AI enables developers to write code faster than ever, slow builds are increasingly becoming the bottleneck in development velocity. Developers regularly lose hours of productivity every day waiting for their builds. Imagine being able to write code in 1 minute, but needing to wait 30 minutes to compile, deploy, and test it.\r\n\r\nExisting solutions either require painful migrations to new tools (e.g. Bazel) or rely on just using bigger servers to run your builds. Instead, we do native, first-class integrations into compilers and build systems.\r\n\r\nWith Attune, you don't need to integrate a new tool. Just make a one-line change from `cargo build` to `hurry cargo build` for 20x faster builds.\r\n\r\nEliza (ex-Google) and Xin worked together for 3 years at FOSSA, where Eliza was Head of Engineering and Xin was Head of Product. Eliza brings a decade of programming languages and build systems expertise, while Xin brings a decade of experience building developer tools products, most recently as VP of Product at Teleport (S15). Having experienced the pain of slow builds firsthand across hundreds of production codebases, we're building the solution we've always wanted.",
     "one_liner": "Faster builds, zero effort.",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1747089464,
@@ -3413,7 +3413,7 @@
     "website": "https://halluminate.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We help foundation model labs and enterprises train computer use AI with data and sandboxes.\r\n\r\nA knowledge worker spends 90% of their day on a computer. A productive AI agent must similarly learn how to use our computers, browsers, and software to deliver real world value. \r\n\r\nToday, browser and computer use AI is inaccurate, slow, and expensive. Model labs and enterprises who want to improve these agents are bottlenecked by two resources: \r\n\r\n1) High quality datasets for benchmarking and evaluations\r\n2) Realistic sandbox environments for safe and accurate testing/training (ex. a simulated version of Salesforce) \r\n\r\nHalluminate offers a suite of products and services to address both these issues. \r\n\r\nOur evaluation service combines proprietary datasets with high quality annotations to help our customers identify and prioritize the biggest failure modes of their computer- and browser- use AI. \r\n\r\nOur platform provides a catalog of fully managed sandboxes, empowering our customers to safely and accurately test/train at scale, resulting in improved performance. \r\n\r\nOur customers see\r\n- Improved browser- and computer-use agent performance\r\n- New and emergent frontier agent capabilities\r\n- Data driven prioritization leading to exponentially faster development speed\r\n- Increased revenue/sales via marketing from public benchmarks\r\n\r\nOur paying customers already include leading computer use model labs and the two largest browser agent companies in the space. \r\n\r\nWyatt and Jerry are friends that met their first week of school studying CS at Cornell University. They’ve been working and studying together for 7+ years. \r\n",
-    "one_liner": "Data and environments to train computer use AI",
+    "one_liner": "Data and RL environments to automate knowledge work",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -3587,7 +3587,7 @@
     "website": "https://digpangolin.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pangolin is building a new kind of open-source proxy: cloud-orchestrated, identity-aware, tunneled, and highly available. It’s the simplest way to securely expose applications on any network—only the people you want get access to your apps, and we block everyone else.",
-    "one_liner": "Open-source identity-aware gateway to applications on private networks",
+    "one_liner": "Open-source alternative to Cloudflare Tunnels",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -3672,7 +3672,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a3741e5c8fc7d9b30c081ec6b9b3a70e387566d.png",
     "website": "https://mcp-use.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy custom AI agents with MCP servers. \r\nOur library has over 100,000 downloads and 4,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
+    "long_description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy custom AI agents with MCP servers. \r\nOur library has over 170,000 downloads and 7,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
     "one_liner": "Open-source dev tools and infrastructure for MCP.",
     "team_size": 2,
     "industry": "B2B",
@@ -3764,11 +3764,11 @@
     "subindustry": "Education",
     "launched_at": 1753739140,
     "tags": [
+      "Artificial Intelligence",
       "Education",
       "SaaS",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3806,10 +3806,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1753229701,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3881,7 +3881,9 @@
     "id": 30789,
     "name": "Interfere",
     "slug": "interfere",
-    "former_names": [],
+    "former_names": [
+      "Ordinary Intelligence"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5a8dbf97e68dbed29a766e3ea5a4929c2ae74bc.png",
     "website": "https://interfere.com",
     "all_locations": "",
