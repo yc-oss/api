@@ -9758,8 +9758,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f00f6931229f64701cd737b9839f92f72e20005.png",
     "website": "https://www.swif.ai",
     "all_locations": "Sunnyvale, CA, USA; Remote",
-    "long_description": "Secure and manage all your devices with Swif. Automate compliance, streamline onboarding and discover Shadow IT—all in one platform.\r\n\r\n---\r\n\r\nChallenges Addressed\r\n\r\n* Fragmented device management across multiple operating systems and locations.\r\n* Time-consuming manual compliance checks and reporting for various regulatory standards.\r\n* Inefficient onboarding and offboarding processes for remote and global teams.\r\n* Lack of visibility into shadow IT and unauthorized SaaS application usage.\r\n\r\n\r\nCustomer Benefits\r\n\r\n* Unified visibility and control over all organizational devices, regardless of operating system or location.\r\n* Significant time savings through automated compliance readiness checks and real-time reporting.\r\n* Enhanced security posture with the ability to instantly lock or wipe compromised devices remotely.\r\n* Reduced IT overhead by consolidating device management, access control, and compliance tools into a single platform.\r\n",
-    "one_liner": "AI-Powered Device Compliance: Real-Time Visibility and Automated…",
+    "long_description": "Swif.ai is a real-time device compliance and security platform that keeps every Mac, Windows, and Linux endpoint secure and audit-ready. Our lightweight agent enforces policies (encryption, patching, app controls) as people work, auto-remediates drift, and streams audit evidence to tools like Vanta and Drata. Unlike legacy MDM or “after-the-fact” compliance software, Swif.ai delivers enforcement—not just reports—plus device-level Shadow IT/AI governance to detect and block risky or unauthorized SaaS and LLM tools.\r\n\r\nEnterprises choose Swif.ai for true multi-OS coverage in a single pane of glass, one-click remediation, and fast time-to-value via silent installers and native integrations with Okta, Microsoft Entra ID, and Google Workspace (conditional access by device posture). The result is fewer tools to manage, shorter audits, and stronger security with lower operational burden. Swif.ai is SOC 2 Type II. Our near-term roadmap adds Safe-AI controls for regulated industries, AI-agent monitoring, and integrated vulnerability detection with one-click fixes—expanding our lead as the enforcement layer for endpoint compliance and AI security.\r\n",
+    "one_liner": "Swif.ai: multi-OS device compliance & security with Shadow IT/AI…",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -21195,8 +21195,8 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Reforged Labs Boa is the AI creative intelligence agent that answers all your questions about what ads are performing, why they work, and what to create next.",
     "one_liner": "Turn intuition into insights, in minutes",
-    "team_size": 15,
-    "industry": "B2B",
+    "team_size": 18,
+    "industry": "Consumer",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1644566628,
     "tags": [
@@ -21213,8 +21213,8 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Marketing"
+      "Consumer",
+      "Gaming"
     ],
     "regions": [
       "United States of America",
@@ -21381,9 +21381,9 @@
     "subindustry": "B2B",
     "launched_at": 1640146843,
     "tags": [
-      "Artificial Intelligence",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34058,10 +34058,10 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1688690921,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Legal",
       "LegalTech",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -35414,6 +35414,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/patchwork.json"
   },
   {
+    "id": 29286,
+    "name": "PointOne",
+    "slug": "pointone",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/786d2b1ddf28226da2f8d8938a45c15ffe3f10eb.png",
+    "website": "https://pointone.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Lawyers have to manually track all their client work in 6-minute increments. PointOne uses AI to completely automate time tracking and bill review, helping law firms collect more revenue and saving lawyers hours each week.",
+    "one_liner": "Automated time tracking and billing for law firms.",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1705177845,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Legal",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pointone",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/pointone.json"
+  },
+  {
     "id": 29293,
     "name": "SuretyNow",
     "slug": "suretynow",
@@ -35592,8 +35634,8 @@
   },
   {
     "id": 29300,
-    "name": "Trellis",
-    "slug": "trellis",
+    "name": "Trellis AI",
+    "slug": "trellis-ai",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9cc80521b4e48dc602aef29ce4fb7d4c0f5dda1.png",
     "website": "https://runtrellis.com/",
@@ -35605,10 +35647,10 @@
     "subindustry": "B2B",
     "launched_at": 1709255809,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Data Engineering",
       "Infrastructure",
+      "AI",
       "Databases"
     ],
     "tags_highlighted": [],
@@ -35628,8 +35670,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trellis",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/trellis.json"
+    "url": "https://www.ycombinator.com/companies/trellis-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/trellis-ai.json"
   },
   {
     "id": 29306,
@@ -38230,10 +38272,10 @@
     "launched_at": 1718146562,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Finance",
       "B2B",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38490,7 +38532,7 @@
     "website": "https://stormy.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Stormy: AI-Driven Influencer Marketing\r\n\r\nStreamline influencer outreach and let your product shine.\r\n\t•\tDiscover: AI pinpoints ideal influencers with 99.8% accuracy.\r\n\t•\tOutreach: Auto-send personalized emails and follow-ups.\r\n\t•\tClose: AI negotiates and finalizes deals seamlessly.\r\n\r\nFocus on building—Stormy handles distribution on autopilot.\r\n\r\nFounders from YC have discount! Please DM me on twitter: @karmedge or email",
-    "one_liner": "Influencer marketing on autopilot",
+    "one_liner": "Growth autopilot for apps & B2C brands — money in → users out.",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -41264,49 +41306,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/dexter.json"
   },
   {
-    "id": 30086,
-    "name": "Autumn",
-    "slug": "autumn",
-    "former_names": [
-      "Recase"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png",
-    "website": "https://useautumn.com",
-    "all_locations": "",
-    "long_description": "Autumn is open-source infrastructure over Stripe that allows AI startups to build their pricing plans quickly, and flexibly. We act as your app's DB and manage who's paying for what, track usage and manage customer feature access.\r\n\r\nYC companies use us because we make it easy to handle common pricing models like usage-based, credits, subscriptions, rollovers and more in 3 functions and no webhooks. \r\n\r\nAs you scale, you get reliable billing, that you can change however you want without wrangling code (we handle versioning, migrations etc), and manage custom pricing too. Everything you could down the line (credits, multiple subscription groups, rollovers, referral program, usage analytics, centralized team billing etc), you can drop in at any point. ",
-    "one_liner": "Billing infrastructure for AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1730430835,
-    "tags": [
-      "SaaS",
-      "Payments",
-      "B2B",
-      "Subscriptions",
-      "Billing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/autumn",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/autumn.json"
-  },
-  {
     "id": 30087,
     "name": "Gecko Security",
     "slug": "gecko-security",
@@ -41537,18 +41536,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aa06b2c04632ad68c2151cc3aac66c942a0119b.png",
     "website": "https://www.relvy.ai",
     "all_locations": "",
-    "long_description": "Relvy provides AI-powered debugging notebooks that help software engineers investigate and resolve incidents faster. It finds the root cause in over 70% of alerts automatically, and when it doesn’t, engineers can easily guide or correct the investigation—saving valuable time across the team.",
+    "long_description": "Relvy provides AI-powered debugging notebooks that help software engineers investigate and resolve incidents faster. It finds the root cause in over 70% of alerts automatically, and when it doesn’t, engineers can easily guide or correct the investigation - saving valuable time across the team.",
     "one_liner": "AI powered debugging notebooks for incident response",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1729032291,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42845,7 +42844,7 @@
     "former_names": [
       "Cronus"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76da7482464e997589bdd7af778cc8f800c3d13.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ef07251161b57384d4fb72efe63acdf66f79d1d.png",
     "website": "https://afterquery.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AfterQuery is a research lab (backed by Y Combinator) investigating the boundaries and capabilities of artificial intelligence through novel datasets and experimentation. We believe that pushing the frontiers of AI requires both rigorous scientific inquiry and exceptional human data.",
@@ -43229,7 +43228,7 @@
   },
   {
     "id": 30364,
-    "name": "Wayline",
+    "name": "WAYLINE",
     "slug": "wayline",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa83a2cdabf22eb6acd4e5c54d4969ec37a0a549.png",
@@ -43872,7 +43871,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3442ddefa8f2ffb38f683757efc6de9a1e78890b.png",
     "website": "https://withnixo.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Most orgs think custom implementations are slow because each one is too unique. In reality, FDEs lose days chasing customers for details and redoing overlapping work. With Nixo, you can scope customer problems faster, discover opportunities to reuse code, and get instant visibility into workload across accounts.",
+    "long_description": "Accelerate your FDE team with Nixo. Scope customer problems faster, discover opportunities to reuse code, and get instant visibility into workload across customers.",
     "one_liner": "The first ops platform for forward deployed engineers",
     "team_size": 2,
     "industry": "B2B",
@@ -44672,18 +44671,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/465a7528e2de2669ab4bb994eb9cb8630eff6db1.png",
     "website": "https://www.promptingcompany.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The problem:\r\nPeople are no longer searching on Google. They’re ASKING AI. If your product doesn’t appear in AI answers, you’re dead.\r\n\r\nHow it works:\r\n1. Find & analyze user questions: We find the exact questions your users ask and check how often your product is mentioned.\r\n2. Create content: We tell you what to post, where to post, and do it for you.\r\n3. Route to AI-optimized page:We redirect AI traffic to AI-optimized page\r\n\r\nOffer: Get your free AI visibility report → promptingcompany.com",
+    "long_description": "The problem:\r\nPeople are no longer searching on Google. They’re ASKING AI. If your product doesn’t appear in AI answers, you’re dead.\r\n\r\nHow it works:\r\n1. Find & analyze user questions: We find the exact questions your users ask and check how often your product is mentioned.\r\n2. Create content: We tell you what to post, where to post, and do it for you.\r\n3. Route to AI-optimized page: We redirect AI traffic to AI-optimized page\r\n\r\nOffer: Get your free AI visibility report → promptingcompany.com",
     "one_liner": "We help products get mentioned in ChatGPT.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1755802702,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Marketing",
-      "SEO"
+      "SEO",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44760,16 +44759,16 @@
     "website": "https://www.lanesurf.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Lanesurf helps freight brokers book shipments with vetted carriers at the best prices by negotiating rates across multiple calls in parallel.\r\n\r\nOur self-improving voice AI stack is built for the messy reality of logistics - noisy calls, compliance checks, constant exceptions and turns them into faster bookings at better margins.\r\n\r\nWith each booking, the AI learns from aggregated, anonymized lane and pricing data. As more customers use Lanesurf, this learning compounds, driving faster bookings at the best prices and powering a voice-driven freight marketplace.",
-    "one_liner": "Voice AI for booking freight",
+    "one_liner": "Voice AI for freight transactions",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753218115,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Logistics",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44800,8 +44799,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6a6a6deeb99cb0fdc200c141518d2d94972bd2b.png",
     "website": "https://www.async.build/",
     "all_locations": "",
-    "long_description": "Async is a platform to manage a team of coding agents from anywhere.\r\nIt lets you issue tasks, then handles coding and testing in the background. Review results on mobile or desktop, preview changes in-app, run tasks in parallel, and move faster than ever before.\r\n\r\nOur mission is to do the work that you don't want to: bug fixes, UI tweaks, papercuts, and KTLO.\r\nDo what's important - delegate the rest to Async.",
-    "one_liner": "AI-native Linear + GitHub",
+    "long_description": "Async is an open-source task management tool that doesn't just track work, it does it.\r\nAsync automatically triages tickets, completes them, and tests from end-to-end. We're fully open-source and self-hostable, so you can customize Async to work for your company and your processes.\r\n\r\nOur mission is to kill engineering busywork: bug fixes, UI tweaks, papercuts, and KTLO.",
+    "one_liner": "AI-native Linear",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -44911,7 +44910,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -44980,11 +44981,11 @@
     "subindustry": "Unspecified",
     "launched_at": 1755281037,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Payments",
       "B2B",
-      "Subscriptions",
-      "AI"
+      "Subscriptions"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45023,9 +45024,9 @@
     "subindustry": "B2B",
     "launched_at": 1753222195,
     "tags": [
-      "Artificial Intelligence",
       "Geographic Information System",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45100,15 +45101,15 @@
     "website": "https://www.usepanels.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Panels is an audio data platform that delivers large-scale, richly labeled speech datasets from vetted, diverse contributors to power training and evaluation of foundational voice models.",
-    "one_liner": "Voice data that makes machines sound human",
+    "one_liner": "Audio Data for AI Labs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1755625983,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "Data Labeling",
-      "AI"
+      "Data Labeling"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45315,11 +45316,11 @@
     "subindustry": "Education",
     "launched_at": 1754512868,
     "tags": [
+      "Artificial Intelligence",
       "Education",
       "SaaS",
       "B2B",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45392,7 +45393,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd3787e9958fd9e9b42a9bb7223fe8689a2863a9.png",
     "website": "https://stockline.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Stockline is an AI-native ERP for food wholesalers. \r\nWe're starting by automating order entry with AI and in the process replacing clunky ERPs from the 90s. \r\n\r\nDuring the S25 batch, we went zero to $234k ARR. The market is a $25b opportunity. \r\n\r\nBefore food reaches your plate, there’s a $990b+ industry still relying on humans doing manual retyping and copy paste into outdated ERPs. \r\nYou can think of us AI teammates that replaces both people doing the manual work and the software itself. \r\n\r\nTeam is 2 Polytechnique alums who dropped out of Stanford and MIT. Mariem is daughter of the fish industry and Moncef started coding and building softwares at 13. ",
+    "long_description": "\r\nStockline is an AI-native ERP for food wholesalers. Our agents eliminate human labor for repetitive tasks, starting with order entry. \r\n\r\nIn 3 months, we went from 0 to $230k in ARR. The market is a $25b opportunity. \r\n\r\nBefore food reaches your plate, there’s a $990b+ industry still relying on humans doing manual retyping and copy paste into outdated ERPs. Ultimately, we replace clunky software with an ERP that has AI employees at its core. \r\n\r\n\r\nTeam is 2 Polytechnique alums who dropped out of Stanford and MIT. Mariem is daughter of the fish industry and Moncef started coding and building softwares at 13. ",
     "one_liner": "AI-native ERP for food wholesalers",
     "team_size": 2,
     "industry": "B2B",
@@ -45477,17 +45478,17 @@
     "website": "https://www.kalinda.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kalinda helps class action law firms qualify potential cases in minutes with AI.\r\n\r\nThe nature of class action/mass torts involves thousands of cases for a single lawsuit. For every plaintiff (injured person), law firms involved in these cases compile everything from the products they used to the injuries they have. This data is extensive, granular, and buried deep in thousands of pages of medical, financial, and employment records and others.\r\n\r\nKalinda extracts, summarizes, and aggregates data from these records for attorneys with AI.\r\n\r\nWhen scaled across an entire litigation, Kalinda works tirelessly and in parallel—turning a process that once took months into just a few hours. \r\n\r\nKalinda provides firms with the equivalent manpower of hundreds of paralegals and legal nurses, allowing them to quickly determine which claimants are eligible and helping them file faster and in greater volume.\r\n\r\nTo date, we’ve processed 600k pages of records and are live with 2 of the largest plaintiff law firms in the U.S!",
-    "one_liner": "Deep research for class action lawsuits",
+    "one_liner": "Deep research for class action law firms",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1755462558,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Legal",
-      "LegalTech"
+      "LegalTech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45520,7 +45521,7 @@
     "website": "https://parachute-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Parachute helps hospitals adopt AI safely and at scale. We vet AI tools that fill clinical gaps, run state-of-the-art evaluations, monitor every model for drift and compliance, and lock every decision in an immutable audit trail.",
-    "one_liner": "Evaluate, Deploy, and Monitor Clinical AI",
+    "one_liner": "Infrastructure for hospitals to monitor and deploy clinical AI ",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -45563,17 +45564,17 @@
     "website": "https://www.trace.so/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Trace is a workflow automation platform that routes tasks to the right agent – human or AI. We enable enterprise-grade context and AI orchestration in mid-sized teams. \r\n\r\nTrace breaks workflows into clear steps, sends repetitive tasks to AI agents, and routes the rest to the right people while respecting permissions and logging every action. \r\n\r\nWe help teams cut busywork and unify AI tools across departments – helping companies adopt AI in days rather than months.",
-    "one_liner": "AI Platform for Enterprise Workflows",
+    "one_liner": "Workflow automation that routes tasks to humans and AI",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "Fintech",
     "launched_at": 1754919932,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Workflow Automation",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45606,7 +45607,7 @@
     "website": "https://ghosteye.ai",
     "all_locations": "New York, NY, USA",
     "long_description": "GhostEye automates red team testing with AI agents that conduct social engineering attacks and vulnerability exploitation, replacing expensive quarterly pen tests with continuous security validation.",
-    "one_liner": "The Offensive Security Team that never sleeps",
+    "one_liner": "The Offensive Security Team that never sleeps.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -45690,16 +45691,16 @@
     "website": "https://vibeflow.ai/",
     "all_locations": "",
     "long_description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
-    "one_liner": "Prompt to full stack app with visual workflows",
+    "one_liner": "Shopify for saas",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1753078619,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45729,14 +45730,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4a829cb9eab332531a16b5e3dfc25fe3fc64606.png",
     "website": "https://hyprnote.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hyprnote is an open-source AI notetaker for enterprises. It runs fully on-device or on-prem, ensuring that no data ever leaves your system. Hyprnote transcribes and summarizes conversations automatically, turning discussions into actionable knowledge without risking security or regulatory breaches. Unlike cloud-based tools like Granola or Otter, Hyprnote is built for industries where data control is non-negotiable - tech firms, finance, healthcare, government, and beyond.",
-    "one_liner": "Open-source AI notetaker for enterprises",
+    "long_description": "Hyprnote is the first open-source AI notetaker for the enterprise. It runs fully on-device or on-prem, ensuring that no data ever leaves your system. Hyprnote transcribes and summarizes conversations automatically, turning discussions into actionable knowledge without risking security or regulatory breaches. Unlike cloud-based tools like Granola or Otter, Hyprnote is built for industries where data control is non-negotiable - tech firms, finance, healthcare, government, and beyond.",
+    "one_liner": "Open-source AI notetaker for the enterprise",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1755302445,
     "tags": [
       "B2B",
+      "Productivity",
+      "Enterprise Software",
       "AI"
     ],
     "tags_highlighted": [],
@@ -45776,10 +45779,10 @@
     "subindustry": "Industrials",
     "launched_at": 1756070413,
     "tags": [
+      "Artificial Intelligence",
       "Robotics",
       "B2B",
       "Infrastructure",
-      "AI",
       "AR"
     ],
     "tags_highlighted": [],
@@ -45907,9 +45910,9 @@
     "launched_at": 1754937543,
     "tags": [
       "AI-Enhanced Learning",
+      "Artificial Intelligence",
       "Education",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46072,16 +46075,16 @@
     "website": "https://www.palace.so",
     "all_locations": "New York, NY, USA",
     "long_description": "Palace (palace.so) is an AI board observer that private market investors use to monitor+report on portfolio companies. We save investment teams 100's of hours every quarter on manual data entry and provide real-time analytics across their portfolio.",
-    "one_liner": "Investment monitoring & reporting for private market investors",
+    "one_liner": "Strategic intelligence for PE funds and PE-backed companies",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1755096535,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46114,15 +46117,15 @@
     "website": "https://sira.team",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sira is the AI-powered platform for managing time tracking, scheduling, payroll, and HR — purpose-built for hourly teams.\r\n\r\nOur intelligent agents handle the manual, time-consuming tasks for you — like calling workers to fill open shifts, detecting timesheet anomalies, and streamlining payroll processing.\r\n\r\nWith Sira, businesses stay organized, compliant, and focused on what really matters — while we take care of the team.",
-    "one_liner": "AI HR manager for hourly teams",
+    "one_liner": "AI Native Rippling for Deskless Workers",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1752264420,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
-      "HR Tech",
-      "AI"
+      "HR Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46196,11 +46199,11 @@
     "name": "Locata",
     "slug": "locata",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f90ca5cca8a2d750b52199dcc520e1fbffdbb6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0351a7bc0e508af83b9f25fa8db67212e25a78c.png",
     "website": "https://www.locatahealth.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Locata is an AI referral management platform for Health Centers. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary Care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in CS. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in CS, specializing in AI, before working as a software engineer at Google, developing AI products that served over 1 billion users.\r\n\r\nWithin two weeks of building our product, we signed a major regional health center and are implementing our system to automate their entire referral workflow.",
-    "one_liner": "AI referral management for Health Centers",
+    "long_description": "Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users.\r\n\r\nWithin two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",
+    "one_liner": "AI Referral Automation for Primary Care Clinics",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -46238,21 +46241,21 @@
     "name": "Pally",
     "slug": "pally",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cc7c45ea4fbab294226a104bf2bacc21f8cb627.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8122df650e86be44e74129b9b3b90d553a670985.png",
     "website": "https://pally.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hey 👋, we’re Haz and Wyatt, the founders of Pally, and we’re building at the intersection of AI and Human Relationships. \r\n\r\nWe believe that while AI will automate a lot of low-level tasks, that this will dramatically increase the value of human connection at the highest level.\r\n\r\nIn a world full of ‘AI SDRs’, our warm connections become more important than ever. \r\n\r\nYet today, keeping track of thousands of connections across countless social platforms is impossible. We forget to respond, we miss important moments, we lose touch.  \r\n\r\nWe’re building Pally to solve that. \r\n\r\nWe bring together every connection, across every platform. Our AI researches everything they’ve ever posted online, and uses its deep understanding of each person to help you achieve your goals; whether hiring, fundraising, or sales.",
-    "one_liner": "Pally is an AI Relationship Management Platform",
+    "long_description": "We spend our lives in messaging apps. Slack. iMessage. WhatsApp. We face a constant stream of information, introductions, and things we need to do.\r\n\r\nWhat if you could bring together every message, from every platform, in a Superhuman-like experience, with AI agents that automatically complete your action items?\r\n\r\nThat’s exactly what we’re building at Pally; a future where you never need to check another inbox again. ",
+    "one_liner": "Intelligent Unified Inbox + Personal CRM",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1750346506,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "B2B",
       "Productivity",
-      "Search",
-      "AI"
+      "Search"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46420,9 +46423,9 @@
     "launched_at": 1752707566,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "B2B",
       "Automation",
-      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -46455,7 +46458,7 @@
     "website": "https://www.tecto.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We help your company identify roles that can be filled by agentic AI tools, onboard them quickly, monitor their performance and behavior post deployment, ensure they remain compliant, and aligned with regulations. Tecto is building the HR system for managing your AI employees! ",
-    "one_liner": "Governance for AI Employees",
+    "one_liner": "Recruit and Monitor AI Employees",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",

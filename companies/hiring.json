@@ -12822,9 +12822,9 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1599762607,
     "tags": [
+      "Artificial Intelligence",
       "Enterprise",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -14923,9 +14923,9 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1597935729,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
-      "Finance"
+      "Finance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15588,8 +15588,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f00f6931229f64701cd737b9839f92f72e20005.png",
     "website": "https://www.swif.ai",
     "all_locations": "Sunnyvale, CA, USA; Remote",
-    "long_description": "Secure and manage all your devices with Swif. Automate compliance, streamline onboarding and discover Shadow IT—all in one platform.\r\n\r\n---\r\n\r\nChallenges Addressed\r\n\r\n* Fragmented device management across multiple operating systems and locations.\r\n* Time-consuming manual compliance checks and reporting for various regulatory standards.\r\n* Inefficient onboarding and offboarding processes for remote and global teams.\r\n* Lack of visibility into shadow IT and unauthorized SaaS application usage.\r\n\r\n\r\nCustomer Benefits\r\n\r\n* Unified visibility and control over all organizational devices, regardless of operating system or location.\r\n* Significant time savings through automated compliance readiness checks and real-time reporting.\r\n* Enhanced security posture with the ability to instantly lock or wipe compromised devices remotely.\r\n* Reduced IT overhead by consolidating device management, access control, and compliance tools into a single platform.\r\n",
-    "one_liner": "AI-Powered Device Compliance: Real-Time Visibility and Automated…",
+    "long_description": "Swif.ai is a real-time device compliance and security platform that keeps every Mac, Windows, and Linux endpoint secure and audit-ready. Our lightweight agent enforces policies (encryption, patching, app controls) as people work, auto-remediates drift, and streams audit evidence to tools like Vanta and Drata. Unlike legacy MDM or “after-the-fact” compliance software, Swif.ai delivers enforcement—not just reports—plus device-level Shadow IT/AI governance to detect and block risky or unauthorized SaaS and LLM tools.\r\n\r\nEnterprises choose Swif.ai for true multi-OS coverage in a single pane of glass, one-click remediation, and fast time-to-value via silent installers and native integrations with Okta, Microsoft Entra ID, and Google Workspace (conditional access by device posture). The result is fewer tools to manage, shorter audits, and stronger security with lower operational burden. Swif.ai is SOC 2 Type II. Our near-term roadmap adds Safe-AI controls for regulated industries, AI-agent monitoring, and integrated vulnerability detection with one-click fixes—expanding our lead as the enforcement layer for endpoint compliance and AI security.\r\n",
+    "one_liner": "Swif.ai: multi-OS device compliance & security with Shadow IT/AI…",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -22157,7 +22157,6 @@
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1627473725,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Community"
     ],
@@ -27308,8 +27307,8 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Reforged Labs Boa is the AI creative intelligence agent that answers all your questions about what ads are performing, why they work, and what to create next.",
     "one_liner": "Turn intuition into insights, in minutes",
-    "team_size": 15,
-    "industry": "B2B",
+    "team_size": 18,
+    "industry": "Consumer",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1644566628,
     "tags": [
@@ -27326,8 +27325,8 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Marketing"
+      "Consumer",
+      "Gaming"
     ],
     "regions": [
       "United States of America",
@@ -27446,9 +27445,9 @@
     "subindustry": "B2B",
     "launched_at": 1640146843,
     "tags": [
-      "Artificial Intelligence",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28584,8 +28583,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1646292663,
     "tags": [
-      "Artificial Intelligence",
-      "Home Services"
+      "Home Services",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31128,9 +31127,9 @@
     "subindustry": "Consumer",
     "launched_at": 1654731943,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Search",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -34326,6 +34325,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/narrative",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/narrative.json"
+  },
+  {
+    "id": 27815,
+    "name": "OfOne",
+    "slug": "ofone",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f20cb0518a4682de040512f68325cefe65fca72.png",
+    "website": "https://www.of.one",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "OfOne is building software to automate order taking at fast-food drive-thrus. Using conversational AI, we help restaurant chains operate more efficiently and level-up their customer experience.\r\n\r\nOfOne can answer questions, intelligently upsell - like suggesting ice cream on a hot day - and always says please and thank you.\r\n\r\nThere are 200,000 drive-thrus in the US and they are the industry's largest order channel.\r\n\r\nOur mission is to deliver human centric experiences that help restaurant operators prosper, deliver delight for their customers, and empower their workers.",
+    "one_liner": "AI-powered order taker for restaurant drive-thrus",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1675101964,
+    "tags": [
+      "Generative AI",
+      "Restaurant Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ofone",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/ofone.json"
   },
   {
     "id": 27817,
@@ -39147,10 +39185,10 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1688690921,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Legal",
       "LegalTech",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -41388,14 +41426,19 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/786d2b1ddf28226da2f8d8938a45c15ffe3f10eb.png",
     "website": "https://pointone.com/",
-    "all_locations": "",
+    "all_locations": "New York, NY, USA",
     "long_description": "Lawyers have to manually track all their client work in 6-minute increments. PointOne uses AI to completely automate time tracking and bill review, helping law firms collect more revenue and saving lawyers hours each week.",
     "one_liner": "Automated time tracking and billing for law firms.",
-    "team_size": 3,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1705177845,
-    "tags": [],
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Legal",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -41407,7 +41450,8 @@
       "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -41666,8 +41710,8 @@
   },
   {
     "id": 29300,
-    "name": "Trellis",
-    "slug": "trellis",
+    "name": "Trellis AI",
+    "slug": "trellis-ai",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9cc80521b4e48dc602aef29ce4fb7d4c0f5dda1.png",
     "website": "https://runtrellis.com/",
@@ -41679,10 +41723,10 @@
     "subindustry": "B2B",
     "launched_at": 1709255809,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Data Engineering",
       "Infrastructure",
+      "AI",
       "Databases"
     ],
     "tags_highlighted": [],
@@ -41702,46 +41746,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trellis",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/trellis.json"
-  },
-  {
-    "id": 29304,
-    "name": "Yoneda Labs",
-    "slug": "yoneda-labs",
-    "former_names": [
-      "ReAgentAI",
-      "YonedaLabs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c10f34a325093d728fffd476eb7def2906b4ba52.png",
-    "website": "https://www.yonedalabs.com",
-    "all_locations": "",
-    "long_description": "Yoneda Labs provides software to help chemists optimise reactions. When chemists make a drug or a material, we help them figure out the best reaction parameters such as temperature, concentration and catalyst.\r\n\r\nWhen Jan was working at chemical labs, he experienced the struggle of spending weeks guessing reaction conditions. We then started experimenting with ML to speed up the process.\r\n\r\nNow, as a team of three friends from the University of Cambridge, we’ve spent the last month combining our domain expertise in Computer Science, Machine Learning and Chemistry to develop state of the art models for reaction optimisation.\r\n\r\nAlthough ML is becoming well established in other fields, current chemical models generalise poorly and require lots of programming experience. We make our models easily accessible to chemists in the lab.\r\n\r\nFinding the right conditions quickly allows pharmaceutical companies to test more drugs, and finding better optima makes manufacturing process cheaper and more environmentally friendly.",
-    "one_liner": "Foundation Model for Chemical Manufacturing",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1704421366,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/yoneda-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/yoneda-labs.json"
+    "url": "https://www.ycombinator.com/companies/trellis-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/trellis-ai.json"
   },
   {
     "id": 29314,
@@ -42748,11 +42754,11 @@
     "subindustry": "B2B",
     "launched_at": 1707775068,
     "tags": [
-      "Artificial Intelligence",
       "Messaging",
       "Sales",
       "Customer Service",
-      "Customer Support"
+      "Customer Support",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46169,11 +46175,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1726008426,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Hardware",
       "Productivity",
-      "Manufacturing"
+      "Manufacturing",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47256,7 +47262,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Consumer enterprises have millions of customer support tickets annually. They need to constantly evaluate support agents’ performance and compliance. Typically they evaluate less than 5% of those interactions manually which is slow, expensive and not scalable. Intryc's AI can evaluate 100% of all customer interactions, in real time, at half the cost.\r\n",
     "one_liner": "Intryc uses AI to automate quality assurance for customer support",
-    "team_size": 9,
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1721158274,
@@ -49233,6 +49239,43 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/curo.json"
   },
   {
+    "id": 30086,
+    "name": "Autumn",
+    "slug": "autumn",
+    "former_names": [
+      "Recase"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png",
+    "website": "https://useautumn.com",
+    "all_locations": "",
+    "long_description": "Autumn is open-source infrastructure over Stripe that allows AI startups to build their pricing plans quickly, and flexibly. We act as your app's DB and manage who's paying for what, track usage and manage customer feature access.\r\n\r\nYC companies use us because we make it easy to handle common pricing models like usage-based, credits, subscriptions, rollovers and more in 3 functions and no webhooks. \r\n\r\nAs you scale, you get reliable billing, that you can change however you want without wrangling code (we handle versioning, migrations etc), and manage custom pricing too. Everything you could down the line (credits, multiple subscription groups, rollovers, referral program, usage analytics, centralized team billing etc), you can drop in at any point. ",
+    "one_liner": "Billing infrastructure for AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1730430835,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/autumn",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/autumn.json"
+  },
+  {
     "id": 30089,
     "name": "Fresco",
     "slug": "fresco",
@@ -49561,18 +49604,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2aa06b2c04632ad68c2151cc3aac66c942a0119b.png",
     "website": "https://www.relvy.ai",
     "all_locations": "",
-    "long_description": "Relvy provides AI-powered debugging notebooks that help software engineers investigate and resolve incidents faster. It finds the root cause in over 70% of alerts automatically, and when it doesn’t, engineers can easily guide or correct the investigation—saving valuable time across the team.",
+    "long_description": "Relvy provides AI-powered debugging notebooks that help software engineers investigate and resolve incidents faster. It finds the root cause in over 70% of alerts automatically, and when it doesn’t, engineers can easily guide or correct the investigation - saving valuable time across the team.",
     "one_liner": "AI powered debugging notebooks for incident response",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1729032291,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -51755,7 +51798,7 @@
     "former_names": [
       "Cronus"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b76da7482464e997589bdd7af778cc8f800c3d13.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ef07251161b57384d4fb72efe63acdf66f79d1d.png",
     "website": "https://afterquery.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AfterQuery is a research lab (backed by Y Combinator) investigating the boundaries and capabilities of artificial intelligence through novel datasets and experimentation. We believe that pushing the frontiers of AI requires both rigorous scientific inquiry and exceptional human data.",
@@ -52375,7 +52418,7 @@
       "Generative AI",
       "Productivity",
       "Consumer Products",
-      "AI Assistant"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -53001,8 +53044,8 @@
     "launched_at": 1745603860,
     "tags": [
       "AI-Enhanced Learning",
-      "Artificial Intelligence",
-      "Education"
+      "Education",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -53264,10 +53307,10 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1747432267,
     "tags": [
-      "Artificial Intelligence",
       "Sales",
       "Sales Enablement",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54187,16 +54230,16 @@
     "website": "https://www.dedaluslabs.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dedalus Labs is building Vercel for AI Agents. We host MCP servers on our cloud and handle the boring stuff like autoscaling and load balancing so users can go from idea to production in a single click. Our OpenAI-compatible SDK lets users orchestrate complex agentic workflows through one clean API. Route between any LLM provider, connect any MCP tools from our hosted marketplace, and ship in minutes.",
-    "one_liner": "MCP gateway-as-a-service for agentic AI workflows.",
+    "one_liner": "Connect any LLM to any MCP tools and create complex agents in minutes.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1756399069,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54228,7 +54271,7 @@
     "website": "https://deepawareai.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "DeepAware builds an AI-driven automation system for GPU-intensive data centers. Our reinforcement-learning scheduler, real-time market integration, and unified dashboard slice energy waste by up to 30%. Coming soon: autonomous “robot-hand” inspections and maintenance to enable 24/7 operations with minimal staff.\r\n\r\nMore info: https://deepawareai.com/\r\nJobs/Internship: https://www.deepawareai.com/careers",
-    "one_liner": "Make AI data centers more efficient.",
+    "one_liner": "Help data centers get grid access 18 months faster with 100M+ revenue",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -54279,8 +54322,8 @@
     "subindustry": "Healthcare",
     "launched_at": 1751153734,
     "tags": [
-      "Artificial Intelligence",
-      "Health Tech"
+      "Health Tech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54318,8 +54361,8 @@
     "subindustry": "B2B -> Retail",
     "launched_at": 1752182938,
     "tags": [
-      "E-commerce",
-      "AI"
+      "Artificial Intelligence",
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54400,11 +54443,11 @@
     "subindustry": "Consumer",
     "launched_at": 1753405058,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "Productivity",
       "Calendar",
-      "Email",
-      "AI"
+      "Email"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54432,21 +54475,21 @@
     "name": "Pally",
     "slug": "pally",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cc7c45ea4fbab294226a104bf2bacc21f8cb627.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8122df650e86be44e74129b9b3b90d553a670985.png",
     "website": "https://pally.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hey 👋, we’re Haz and Wyatt, the founders of Pally, and we’re building at the intersection of AI and Human Relationships. \r\n\r\nWe believe that while AI will automate a lot of low-level tasks, that this will dramatically increase the value of human connection at the highest level.\r\n\r\nIn a world full of ‘AI SDRs’, our warm connections become more important than ever. \r\n\r\nYet today, keeping track of thousands of connections across countless social platforms is impossible. We forget to respond, we miss important moments, we lose touch.  \r\n\r\nWe’re building Pally to solve that. \r\n\r\nWe bring together every connection, across every platform. Our AI researches everything they’ve ever posted online, and uses its deep understanding of each person to help you achieve your goals; whether hiring, fundraising, or sales.",
-    "one_liner": "Pally is an AI Relationship Management Platform",
+    "long_description": "We spend our lives in messaging apps. Slack. iMessage. WhatsApp. We face a constant stream of information, introductions, and things we need to do.\r\n\r\nWhat if you could bring together every message, from every platform, in a Superhuman-like experience, with AI agents that automatically complete your action items?\r\n\r\nThat’s exactly what we’re building at Pally; a future where you never need to check another inbox again. ",
+    "one_liner": "Intelligent Unified Inbox + Personal CRM",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1750346506,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "B2B",
       "Productivity",
-      "Search",
-      "AI"
+      "Search"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54598,7 +54641,7 @@
     "website": "https://www.magnetictax.com",
     "all_locations": "",
     "long_description": "Magnetic scans client documents - from handwritten charity notes to excel spreadsheet Schedule Cs to multi-state K-1s - and enters them into tax software automatically, saving hours of tedious data entry. \r\n\r\nThe accounting profession is facing a massive talent shortage, as graduates choose different professions and the old guard begins to retire. As a result, CPA and tax preparation firms are awash in clientele, but unable to keep up. At many firms, phones go unanswered, clients are \"fired\", and websites are taken down, as the existing workforce tries to handle the grueling 80 hour+ weeks necessary to push through tax season to the April 15th deadline.\r\n\r\nWe built this because a former colleague who owns her own tax firm asked us to automate her workload, and we quickly realized the massive opportunity. Thomas brings deep domain expertise as the former Head of Product at Keeper (YC W19), where he built tax engine automation systems and an OCR form scanning system that outperformed everything else on the market. At Keeper, he leveraged early access to OpenAI's LLMs (well before ChatGPT) to build systems that automated the entire tax filing process, allowing a tiny team of CPAs to process thousands of returns with near zero busy work. Patrick was the first engineer at FunCraft, shipping multiple mobile games with 1M+ downloads and building scalable shared codebases. We've worked together since 2017, including co-leading multiple teams at Zynga as PM & Tech Lead respectively.\r\n\r\nWe launched this year in the middle of tax season and quickly processed hundreds of returns, earning thousands in ARR, and since tax season we've been growing customers by >30% month-over-month. We've completely automated over 25% of the return process so far and developed a proprietary vision model that beats incumbent scanning technology by almost 2x on accuracy - jumping from 50% field-level accuracy to 89%, approaching the quality of their expensive human-verified service at 92%.\r\n\r\nThe opportunity is massive - there are 80M US personal tax returns filed via professionals annually, in a $2B outsourcing market where individual CPA firms currently pay $100k-$1M per year for inferior services. We're positioned to capture significant market share by offering better accuracy & document coverage, instant processing, and superior user experience.\r\n\r\nWe've built this kind of software before, we've worked together for years (and even lived together), we've built products to $10M ARR before, and we have the grit to outwork anyone in this space.",
-    "one_liner": "Computer-use agents for CPA firms to automate taxes",
+    "one_liner": "AI Tax Preparer for CPA firms",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -54624,6 +54667,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/magnetic",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/magnetic.json"
+  },
+  {
+    "id": 30781,
+    "name": "Duranium",
+    "slug": "duranium",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a84608596d6e85a1a64227a175491ef9496eb22.png",
+    "website": "https://www.duranium.co/",
+    "all_locations": "Alameda, CA, USA",
+    "long_description": "China and Russia control the world’s critical minerals. We can produce Titanium, Magnesium, Aluminum, Zirconium & Hafnium in the U.S. more profitably than any existing process, and carbon neutrally via co-production.\r\n\r\nCarbochlorination is the primary process for producing critical metals like titanium, hafnium, and zirconium, and was once the standard for magnesium. The problem: conventional carbochlorination relies on purchasing carbon feedstocks, wastes valuable byproducts, and is highly CO₂-intensive.\r\n\r\nDuranium changes this with a novel reactor that recycles CO₂ emissions back into feedstock (CO) while generating a valuable co-product (hypochlorite). This closed loop slashes emissions and delivers Chinese-level metal pricing without subsidies — unlocking the full potential of carbochlorination for U.S. critical mineral production.",
+    "one_liner": "Reshoring critical metal production",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1757191317,
+    "tags": [
+      "Manufacturing",
+      "Advanced Materials",
+      "ClimateTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/duranium",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/duranium.json"
   },
   {
     "id": 30789,
@@ -54718,7 +54802,9 @@
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1754539415,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -54748,15 +54834,15 @@
     "website": "https://www.veritusagent.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Veritus is a omni-channel platform for deploying AI agents for loan servicing and collections, including inbound and outbound voice agents. Our agents negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.\r\n\r\nBy combining cutting edge voice AI with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates. ",
-    "one_liner": "AI agents for loan servicing and collections",
+    "one_liner": "AI agents for the consumer lending industry",
     "team_size": 7,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1753735109,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "Lending"
+      "Lending",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54799,9 +54885,9 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1754594051,
     "tags": [
+      "Artificial Intelligence",
       "Supply Chain",
-      "Food Tech",
-      "AI"
+      "Food Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54834,7 +54920,7 @@
     "website": "https://luminalai.com",
     "all_locations": "",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
-    "one_liner": "Simple ML framework and cloud for generating fast GPU code.",
+    "one_liner": "Making AI run fast on any hardware.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -54872,16 +54958,16 @@
     "website": "http://www.therealroots.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "This is where real friendships begin. Women use our mobile app to talk to Lisa, our AI matchmaker, and get set up for fun social experiences with compatible new friends, all planned and coordinated by AI.",
-    "one_liner": "RealRoots is the AI social app for women.",
+    "one_liner": "RealRoots is the AI social app for female transplants",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer -> Social",
     "launched_at": 1750729944,
     "tags": [
+      "Artificial Intelligence",
       "Marketplace",
       "Consumer",
-      "Social Network",
-      "AI"
+      "Social Network"
     ],
     "tags_highlighted": [],
     "top_company": false,

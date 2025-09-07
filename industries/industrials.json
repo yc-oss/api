@@ -11417,16 +11417,16 @@
     "all_locations": "Redmond, WA, USA",
     "long_description": "(Formerly known as Lumen Orbit) \r\nStarcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give us access to abundant energy, passive cooling, and the ability to rapidly scale in space.\r\n\r\nIn Partnership with NVIDIA's Inception Program, we are launching our demonstrator satellite in late 2025, which will have 100x more powerful GPUs than have ever been operated in space. ",
     "one_liner": "Data centers in space",
-    "team_size": 4,
+    "team_size": 12,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1718841179,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Satellites",
       "Climate",
-      "Cloud Computing",
-      "AI"
+      "Cloud Computing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13189,7 +13189,7 @@
     "website": "https://perseusdefense.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Perseus Defense is building a mass-manufactured Counter UAS solution for the Department of Defense and Department of Homeland Security. Current solutions are one-to-one, too dangerous for use on U.S. soil, and orders of magntiude more expensive than the threats they defeat. Our self-guided missile platform is man-portable and multi-domain capable. It senses, engages, and eliminates threats with drastically reduced cost per engagement over existing kinetic solutions. \r\n\r\nSolving this critical national security problem requires understanding complex DoD needs along with actual rocket science including aerodynamics, guidance, navigation, control, and much more. Jason and Steve met at Penn State while they pursued their PhD and MS in aerospace engineering, respectively. Their past experiences designing space helicopters for NASA, making Boeing airliners land autonomously, controlling swarms of unmanned autonomous systems, teaching aerospace engineering at Stanford, winning multiple ONR and DOE engineering competitions, and founding an international drone competition makes them the perfect team to create transformative solutions protecting our service members. \r\n\r\n\"If you build this, it will be mandatory equipment for every truck, boat, and convoy in the U.S. Military. We're talking thousands of units.\" - Former DoD Procurement Officer\r\n\r\nThe White House just released Executive Order, \"Unleashing American Drone Dominance\" which adds billions of dollars, government support, and streamlined regulations to enable the development of our product. \r\n\r\nTraction: \r\nJason and Steve used more than 100 end-user interviews across the DoD and DHS to shape the product to something of critical need to both boots on the ground and DoD purchasers. In 8 short weeks following a strict 2-week design-build-test cycle, the team has gone through 4 major guided missile iterations with over 30 live-fire flight tests. They were invited to Ft. Hood to present their platform to the 1st Cavalry Division, and also briefed the Pentagon and U.S. congressmen on current U.S. vulnerabilities to advanced drone technology.  Perseus Defense is actively standing up cooperative research agreements with U.S. Army DEVCOM's Applied Research Laboratory, Aviation and Missile Center, Armaments Center, and High Performance Computing Modernization Program. ",
-    "one_liner": "16\" missiles that target and shoot down drones",
+    "one_liner": "America's Golden Dome for Drones",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Drones",
@@ -13302,6 +13302,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/flywheel-ai.json"
   },
   {
+    "id": 30781,
+    "name": "Duranium",
+    "slug": "duranium",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a84608596d6e85a1a64227a175491ef9496eb22.png",
+    "website": "https://www.duranium.co/",
+    "all_locations": "Alameda, CA, USA",
+    "long_description": "China and Russia control the world’s critical minerals. We can produce Titanium, Magnesium, Aluminum, Zirconium & Hafnium in the U.S. more profitably than any existing process, and carbon neutrally via co-production.\r\n\r\nCarbochlorination is the primary process for producing critical metals like titanium, hafnium, and zirconium, and was once the standard for magnesium. The problem: conventional carbochlorination relies on purchasing carbon feedstocks, wastes valuable byproducts, and is highly CO₂-intensive.\r\n\r\nDuranium changes this with a novel reactor that recycles CO₂ emissions back into feedstock (CO) while generating a valuable co-product (hypochlorite). This closed loop slashes emissions and delivers Chinese-level metal pricing without subsidies — unlocking the full potential of carbochlorination for U.S. critical mineral production.",
+    "one_liner": "Reshoring critical metal production",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1757191317,
+    "tags": [
+      "Manufacturing",
+      "Advanced Materials",
+      "ClimateTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/duranium",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/duranium.json"
+  },
+  {
     "id": 30795,
     "name": "NOSO LABS",
     "slug": "noso-labs",
@@ -13315,7 +13356,9 @@
     "industry": "Industrials",
     "subindustry": "Industrials",
     "launched_at": 1754539415,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -13372,5 +13415,45 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/nox-metals",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nox-metals.json"
+  },
+  {
+    "id": 30996,
+    "name": "Axial Composites Industries",
+    "slug": "axial-composites-industries",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/007bb2c508bd83c57c360e94b7f692b23ba29ca1.png",
+    "website": "https://www.axialcomposite.com",
+    "all_locations": "",
+    "long_description": "Composites manufacturing is expensive and slow. \r\n\r\nWe are building a non-planar manufacturing cell that can produce thermoplastic composites by continuous fiber injection. \r\n\r\nThis not only allows for shorter lead times and iteration cycles, but it unlocks new possibilities for manufacturing composites. Our method can produce stronger and lighter parts by leveraging fiber anisotropy to our advantage. \r\n\r\nWe are commercializing a new approach to composite manufacturing that aims to be the backbone of the next aerospace age.",
+    "one_liner": "Manufacturing cells for automating composites production",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Unspecified",
+    "launched_at": 1757132336,
+    "tags": [
+      "Hard Tech",
+      "Manufacturing",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/axial-composites-industries",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/axial-composites-industries.json"
   }
 ]

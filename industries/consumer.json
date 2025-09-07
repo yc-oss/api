@@ -28123,6 +28123,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/bakool.json"
   },
   {
+    "id": 25603,
+    "name": "Reforged Labs",
+    "slug": "reforged-labs",
+    "former_names": [
+      "Nook"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d777f64a6f8aa21e8a0f44f260c8cb87a5ac203.png",
+    "website": "https://reforgedlabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reforged Labs Boa is the AI creative intelligence agent that answers all your questions about what ads are performing, why they work, and what to create next.",
+    "one_liner": "Turn intuition into insights, in minutes",
+    "team_size": 18,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1644566628,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Gaming",
+      "Advertising",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reforged-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/reforged-labs.json"
+  },
+  {
     "id": 25614,
     "name": "T3 Chat",
     "slug": "t3-chat",
@@ -29502,9 +29549,9 @@
     "subindustry": "Consumer",
     "launched_at": 1654731943,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Search",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -34600,8 +34647,8 @@
     "subindustry": "Consumer",
     "launched_at": 1754469732,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -34676,7 +34723,7 @@
     "website": "https://cocreate.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Before editing begins, professional video teams spend days copying, organizing, and prepping footage — a process that can eat up 40% of a project’s time and budget. CoCreate runs in the background during backup, delivering fully organized, searchable, and edit-ready projects for Premiere, Avid, Final Cut, or Resolve the moment media is offloaded. The result: faster turnarounds, fewer errors, and more time spent actually editing.",
-    "one_liner": "AI-native video editing software that automates video post-production",
+    "one_liner": "AI-native video production software that automates post-production",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
@@ -34710,22 +34757,23 @@
   },
   {
     "id": 30686,
-    "name": "Preempt",
-    "slug": "preempt",
+    "name": "The Interface",
+    "slug": "the-interface",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb52c4b7c00886d51f41b415a4648a3dc5f1835c.png",
-    "website": "https://www.preempt.me",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/810308579f6f68ad3885b631328af1d0668015af.png",
+    "website": "https://www.theinterface.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "We're building www.TheInterface.com, a virtual world for AI.  \r\n\r\nWe believe world experience data is the future of AI, and collecting this data from the real world is time-consuming and limited. So we’re building a virtual world—a place for humans to prototype and game with AI.",
-    "one_liner": "An applied simulations lab building The Interface",
+    "long_description": "The Interface enables anyone to create, interact, and share on the fly — from TV shows to games to movies. Drawing on deep expertise in realtime compute and simulation, we combine multimodal AI with the best of 3D simulation and modelling techniques, to deliver real-time experiences that are alive, interactive, and emergent.",
+    "one_liner": "The foundations for AI-native media",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "B2B",
     "launched_at": 1754968088,
     "tags": [
-      "Cloud Gaming",
+      "Artificial Intelligence",
+      "Entertainment",
       "Gaming",
-      "AI"
+      "Media"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34734,8 +34782,7 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Gaming"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -34746,8 +34793,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/preempt",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/preempt.json"
+    "url": "https://www.ycombinator.com/companies/the-interface",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/the-interface.json"
   },
   {
     "id": 30694,
@@ -34758,7 +34805,7 @@
     "website": "https://epicenter.so/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Epicenter is an ecosystem of open-source, local-first apps. We store all your work—notes, transcripts, chat histories—in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. ❤️\r\n\r\nhttps://github.com/epicenter-so/epicenter\r\n",
-    "one_liner": "A database for your mind, built on plain text.",
+    "one_liner": "ChatGPT's memory feature in an open, portable format",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -34799,7 +34846,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d63a87fa04a91e21264426ce96efd1e5bed8b086.png",
     "website": "https://goriff.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Riff is a super powered music editor where experienced producers can be dramatically more productive and hobbyists can delight in music without needing technical chops.\r\n\r\nAs we continue to build, we see Riff turning into an entirely new paradigm for creating music.",
+    "long_description": "Riff is a music editor with superpowers — helping artists work faster and making it easier than ever for hobbyists to break into music.\r\n\r\nAs we continue to build, we see Riff turning into an entirely new paradigm for creating music.",
     "one_liner": "Cursor for music production",
     "team_size": 2,
     "industry": "Consumer",
@@ -34807,7 +34854,7 @@
     "launched_at": 1752283172,
     "tags": [
       "Artificial Intelligence",
-      "Entertainment",
+      "Consumer",
       "Music"
     ],
     "tags_highlighted": [],
@@ -34848,11 +34895,11 @@
     "subindustry": "Consumer",
     "launched_at": 1753405058,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "Productivity",
       "Calendar",
-      "Email",
-      "AI"
+      "Email"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34928,16 +34975,16 @@
     "website": "http://www.therealroots.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "This is where real friendships begin. Women use our mobile app to talk to Lisa, our AI matchmaker, and get set up for fun social experiences with compatible new friends, all planned and coordinated by AI.",
-    "one_liner": "RealRoots is the AI social app for women.",
+    "one_liner": "RealRoots is the AI social app for female transplants",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer -> Social",
     "launched_at": 1750729944,
     "tags": [
+      "Artificial Intelligence",
       "Marketplace",
       "Consumer",
-      "Social Network",
-      "AI"
+      "Social Network"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34969,8 +35016,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90acd1189896151e269eca2dc0a6b15c7042d091.png",
     "website": "https://heyblue.com/",
     "all_locations": "Santa Clara, CA, USA",
-    "long_description": "Blue is the only voice assistant on iOS and Android that can control every app on your phone, so you can get work done hands-free.\r\n\r\nIt reads and replies to messages and email across apps, attaches photos and files, books and pays, manages calendar items, and more.\r\n\r\nUnlike assistants that stop at answers or timers, Blue taps, types, and swipes inside your existing apps with no app-specific integrations. On iPhone, a tiny USB-C plug-in (“Bud”) provides precise input control so Blue can act on your behalf. (Android support is in testing.)\r\n\r\nBlue is already in real-world use: people are clearing inboxes, paying bills from email, sharing files, and moving through routine flows while their hands are busy.\r\n\r\nThe team brings complementary experience at scale: Omar Abdelaziz led Google Assistant’s transition to LLMs and holds one of earliest patents in LLM-based computer control; Peter Krogh spent decades designing voice-first dialog systems and was most recently a design lead at Google DeepMind building actions for Gemini Live; Muhammad Farhan Hossain helped ship Apple Vision Pro, is named on dozens of hardware/systems patents, and has led products from prototype to mass production.\r\n\r\nWe’ve built systems used by billions. Now we’re on to defining the next era of computing.",
-    "one_liner": "The only voice assistant that can control every app on your phone.",
+    "long_description": "Blue is the first voice assistant on iOS and Android that can control every app on your phone, so you can get work done hands-free.\r\n\r\nIt reads and replies to messages and email across apps, attaches photos and files, books and pays, manages calendar items, and more.\r\n\r\nUnlike assistants that stop at answers or timers, Blue taps, types, and swipes inside your existing apps with no app-specific integrations. On iPhone, a tiny USB-C plug-in (“Bud”) provides precise input control so Blue can act on your behalf. (Android support is in testing.)\r\n\r\nBlue is already in real-world use: people are clearing inboxes, paying bills from email, sharing files, and moving through routine flows while their hands are busy.\r\n\r\nThe team brings complementary experience at scale: Omar Abdelaziz led Google Assistant’s transition to LLMs and holds one of earliest patents in LLM-based computer control; Peter Krogh spent decades designing voice-first dialog systems and was most recently a design lead at Google DeepMind building actions for Gemini Live; Muhammad Farhan Hossain helped ship Apple Vision Pro, is named on dozens of hardware/systems patents, and has led products from prototype to mass production.\r\n\r\nWe’ve built systems used by billions. Now we’re on to defining the next era of computing.",
+    "one_liner": "The first voice assistant that can control every app on your iPhone",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
