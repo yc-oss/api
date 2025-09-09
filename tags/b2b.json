@@ -2408,8 +2408,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7872f78bdae8e125b0644c36f459e442d63a5054.png",
     "website": "https://sendbird.com",
     "all_locations": "San Mateo, CA, USA",
-    "long_description": "At Sendbird, we are building the AI workforce of tomorrow. Our product is the world's most useful omnichannel AI agent platform for delightful customer service. We power over 300M+ people's conversations every month and we are working with the leading customers such as DoorDash, Match Group, Yahoo!, PayPal, Walgreens, and have raised $220M+ in total funding from ICONIQ, Tiger Global, Meritech, Emergence, SoftBank Vision Fund, Steadfast, Shasta, and August.",
-    "one_liner": "Omnichannel AI Agent Platform for Delightful Customer Service",
+    "long_description": "We believe in a future where AI unlocks human potential across all facets of life. We envision an A2A (Agent-to-Agent) world where AI agents connect businesses and individuals, empowering them to achieve more than ever before. It’s a future where the impossible becomes possible, and human achievement is no longer bound by time and cognitive load. We power over 300M+ people's conversations every month and we are working with the leading customers such as DoorDash, Match Group, Yahoo!, PayPal, Walgreens, and have raised $220M+ in total funding from ICONIQ, Tiger Global, Meritech, Emergence, SoftBank Vision Fund, Steadfast, Shasta, and August.",
+    "one_liner": "The AI agent that doesn’t just support, it delights.",
     "team_size": 300,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -33004,7 +33004,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -34490,8 +34490,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d332393d7c5b5f27e1a2f82f8ec54fa8b38e21a1.png",
     "website": "https://smobi.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Smobi is building the world’s first RCS product development platform, giving businesses everything they need to design, deploy, and scale rich messaging experiences, in minutes.\r\n\r\n",
-    "one_liner": "The RCS Product Development Platform",
+    "long_description": "Smobi is the AI-powered platform for branded, interactive business messaging, starting with RCS. We help businesses send rich, personalized messages that drive engagement, build trust, and create real conversations.",
+    "one_liner": "Send texts your customers actually want over RCS",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "Consumer",
@@ -38270,10 +38270,10 @@
     "launched_at": 1718146562,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Finance",
       "B2B",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38931,7 +38931,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -39613,7 +39613,10 @@
     "former_names": [
       "Flyte.ai",
       "Zephr",
-      "Zephr (Flyte AI, Inc)"
+      "Zephr (Flyte AI, Inc)",
+      "Zephr",
+      "Risk",
+      "Zephr"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54a02285653f46a282f6b715527aa06ce8d9cd0d.png",
     "website": "https://www.riskangle.com/",
@@ -39636,7 +39639,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -42115,6 +42118,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/oki.json"
   },
   {
+    "id": 30247,
+    "name": "Osmosis",
+    "slug": "osmosis",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/954a6f122415e9fc2c5797e73f4d4a44309e83d8.png",
+    "website": "https://osmosis.ai/",
+    "all_locations": "",
+    "long_description": "Osmosis enables AI self-improvement through real-time reinforcement learning. ",
+    "one_liner": "Reinforcement Learning for AI Agents",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1737656598,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Reinforcement Learning",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/osmosis",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/osmosis.json"
+  },
+  {
     "id": 30248,
     "name": "Operand",
     "slug": "operand",
@@ -42208,15 +42252,15 @@
     "website": "https://fromolive.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Olive connects to your database & third party services to help you build admin dashboards and support tools in minutes.",
-    "one_liner": "Build internal tools for your data with natural language.",
+    "one_liner": "Build internal tools with a prompt.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1740018718,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42505,11 +42549,11 @@
     "name": "Bystreet",
     "slug": "bystreet",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/efe2f7452ffe3a08c68212baf7cdd6c6c52e3535.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/930881da2027bf587e63fe2977b43bf6419043f2.png",
     "website": "https://www.bystreet.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bystreet is where deals are found. ",
-    "one_liner": "Automate deal origination with AI agents. ",
+    "long_description": "Bystreet is where deals are found. We build AI agents to unlock unique data on 20M+ private market companies, helping dealmakers discover rare targets and map entire markets with a bird’s eye view. ",
+    "one_liner": "Agentic deal sourcing ",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
@@ -44721,8 +44765,8 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1753229882,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44804,9 +44848,9 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1752630869,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45022,9 +45066,9 @@
     "subindustry": "B2B",
     "launched_at": 1753222195,
     "tags": [
-      "Artificial Intelligence",
       "Geographic Information System",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45695,10 +45739,10 @@
     "subindustry": "Consumer",
     "launched_at": 1753078619,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46161,10 +46205,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1752688016,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
       "B2B",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -46366,7 +46410,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/741086b6ee1ac324a06d9b831065e36b5b8e9d9b.png",
     "website": "https://dscribeai.com/",
-    "all_locations": "Overland Park, KS, USA",
+    "all_locations": "Olathe, KS, USA",
     "long_description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. We're starting by helping the ag and mining industry track stockpiles of grain and gravel.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 30 to 50%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure’s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform and have signed one of the largest agricultural company in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
     "one_liner": "Computer vision for bulk inventory tracking",
     "team_size": 3,

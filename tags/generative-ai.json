@@ -2572,7 +2572,7 @@
     "name": "Toko",
     "slug": "toko",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/033ffacc630e52101d6adaab4cfa3d0421f6c36d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27e4f86a5dfe2f9b052160388e2aeeacf844e019.png",
     "website": "https://tokotutor.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Toko helps English learners in East Asia achieve speaking fluency. Through our mobile app, learners engage in short, realistic conversations with an AI and receive feedback on their grammar.\r\n\r\nWith over 500 topics, learners can practice real-world scenarios ranging from small talk to workplace discussions. Toko offers a low-pressure environment to help learners build up their confidence.\r\n\r\nWe make language fluency accessible to everyone - not just those with the means to meet 1:1 with a tutor.\r\n\r\nIn Taiwan (our first market), Toko is ranked top 3 in the App Store for Education!",
@@ -9065,46 +9065,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/dmodel.json"
   },
   {
-    "id": 29712,
-    "name": "Benchify",
-    "slug": "benchify",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa52a1a9c842c1d4e04662a2a7d816a9091d88c6.png",
-    "website": "https://www.benchify.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Benchify automatically fixes LLM-generated code in seconds. It’s designed for scenarios where human intervention isn’t feasible, delivering faster and more cost-effective solutions than relying solely on LLMs.",
-    "one_liner": "Instantly Repair LLM-Generated Code",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1722544425,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/benchify",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/benchify.json"
-  },
-  {
     "id": 29729,
     "name": "Clearly AI",
     "slug": "clearly-ai",
@@ -10126,14 +10086,14 @@
   },
   {
     "id": 30173,
-    "name": "Tropir",
-    "slug": "tropir",
+    "name": "Aviro",
+    "slug": "aviro",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac03a28cb503f64a3f8684816a352307a74638e1.png",
-    "website": "https://www.tropir.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b42d798135f9265356b3ce6f69ea27eaee4a7b2.png",
+    "website": "https://www.aviro.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tropir is the first AI that builds better AIs.\r\n\r\nWe don’t just trace where your pipeline broke—we fix it. Tropir analyzes the flow of logic across prompts, tools, and retrievals to pinpoint root causes, suggests targeted changes, reruns the pipeline with those fixes, and runs evals to check if things actually improved. If not, it keeps iterating until they do. You build the flow. We make it unbreakable.\r\n\r\nWe're already used by teams building advanced agents, copilots, and RAG pipelines. As LLM-based systems grow, we believe Tropir will become essential infrastructure for every serious AI team.",
-    "one_liner": "The AI that builds better AIs",
+    "long_description": ".",
+    "one_liner": "Task Time Intelligence for Enterprise AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Industrials -> Climate",
@@ -10162,8 +10122,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tropir",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/tropir.json"
+    "url": "https://www.ycombinator.com/companies/aviro",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/aviro.json"
   },
   {
     "id": 30197,
@@ -11733,7 +11693,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cb9ce1e52f71e5db25b0bce11fcb9be12a15f7d.png",
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is an AI coding agent that can write and test firmware on real hardware. \r\n\r\nGeneral-purpose coding agents can't read documentation, respect timing requirements, or interact with test equipment, resulting in plausible-looking code that is functionally useless on a real device.\r\n\r\nEmbedder builds a hardware model by indexing datasheets, schematics, reference manuals, and errata. It then closes the loop by connecting directly to your physical tools (debuggers, serial ports, logic analyzers and oscilloscopes) to autonomously test and validate the firmware it generates in the real world.",
+    "long_description": "Embedder is a coding agent that can write and test firmware on real hardware. \r\n\r\nGeneral-purpose coding agents can't read documentation or interact with test equipment, resulting in plausible-looking code that is functionally useless on a real device.\r\n\r\nEmbedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
     "one_liner": "Coding Agent for Firmware",
     "team_size": 2,
     "industry": "B2B",
