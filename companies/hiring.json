@@ -8357,51 +8357,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2018/tenderd.json"
   },
   {
-    "id": 1994,
-    "name": "Bot MD",
-    "slug": "bot-md",
-    "former_names": [
-      "Doc Bot",
-      "Bot",
-      "M.D.",
-      "5 Health",
-      "Bot M.D."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/68f1e609dbf04a24cdb56fcd4771c47aa0ce6074.png",
-    "website": "https://www.botmd.io",
-    "all_locations": "Singapore, Singapore",
-    "long_description": "Bot MD is an A.I assistant for doctors. Our company's mission is to Empower Doctors around the world. Bot MD can be trained on any type of hospital content to provide instant answers to clinical questions.",
-    "one_liner": "AI Clinical Assistant for Doctors",
-    "team_size": 15,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "launched_at": 1525748781,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2018",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "regions": [
-      "Singapore",
-      "Southeast Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bot-md",
-    "api": "https://yc-oss.github.io/api/batches/summer-2018/bot-md.json"
-  },
-  {
     "id": 1995,
     "name": "ZiffyHomes",
     "slug": "ziffyhomes",
@@ -18505,7 +18460,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Noya is radically reducing the upfront capital costs and installation time required to perform direct air capture. We're doing this by retrofitting existing pieces of industrial equipment like cooling towers and turning them into CO2 capture machines. ",
     "one_liner": "Radically reducing capital costs and build time for direct air capture",
-    "team_size": 12,
+    "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1611957163,
@@ -19195,9 +19150,9 @@
       "TutorAI.me"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff4b03b851bb9232b2e94c25c13366b7bb5c9948.png",
-    "website": "",
+    "website": "https://true3d.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "True3D is bringing 3D videos to the world. Our foundational models and APIs let anyone create and watch HD 3D video on any device. ",
+    "long_description": "True3D is bringing 3D videos to the world. Our foundational models and APIs let anyone create and watch HD 3D video on any device. \r\nCheck out our sandbox: https://www.splats.com/",
     "one_liner": "3D videos for all",
     "team_size": 4,
     "industry": "Consumer",
@@ -31029,13 +30984,16 @@
     "all_locations": "Austin, TX, USA",
     "long_description": "Tank Payments is building modern financial infrastructure for the trucking industry. We offer payables automation software for logistics businesses that make hundreds of payments to trucking businesses every day. For trucking businesses, we provide a best-in-class banking platform, designed to meet the unique financial needs of the trucking sector.",
     "one_liner": "Modern financial infrastructure for the trucking industry.",
-    "team_size": 7,
+    "team_size": 10,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1659420849,
     "tags": [
       "Fintech",
-      "SaaS"
+      "SaaS",
+      "Payments",
+      "Logistics",
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31045,7 +31003,7 @@
     "status": "Active",
     "industries": [
       "Fintech",
-      "Banking and Exchange"
+      "Payments"
     ],
     "regions": [
       "United States of America",
@@ -34414,7 +34372,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82ec739461b339d9ec575319f0ea12411f9e30bd.png",
     "website": "https://www.justpaid.ai",
     "all_locations": "Mountain View, CA, USA; Remote",
-    "long_description": "We make it easy for founders to do billing right out of demo day.\r\n\r\nEvery B2B startup faces the same billing nightmare: unique customer terms, custom pricing, usage tiers, and discount structures that make manual billing a costly mess. Hiring billing specialists adds overhead and introduces human error right when you need to move fast.\r\n\r\nJustPaid makes billing effortless by extracting billing logic directly from your contracts—whether they're PDFs or stored in your CRM—and automatically generating accurate, timely invoices.\r\n\r\nAlready using Stripe, DocuSign, CommonPaper, HubSpot, or Salesforce? We integrate seamlessly with your existing stack.\r\n\r\nOur robust API lets you maintain control while automating the complexity. No more pricing disputes. Faster cash flow. Fewer headaches.\r\n\r\n- Move fast: Bill customers from day one without hiring specialists\r\n- Scale smart: Handle complex pricing models without operational overhead\r\n- Stay focused: Spend time building your product, not managing invoices\r\n- Reduce risk: Eliminate human error in billing calculations\r\n\r\nWe're always asking ourselves: How can we make a company's financial operations effortless so teams can focus on scaling?\r\n\r\n- We don't settle\r\n- We are passionate\r\n- We are serial entrepreneurs\r\n\r\nWe aim to make a dent in the universe.",
+    "long_description": "We make it easy for founders to do billing right out of demo day.\r\n\r\nEvery B2B startup faces the same billing nightmare: unique customer terms, custom pricing, usage tiers, and discount structures that make manual billing a costly mess. Hiring billing specialists adds overhead and introduces human error right when you need to move fast.\r\n\r\nJustPaid makes billing effortless by extracting billing logic directly from your contracts—whether they're PDFs or stored in your CRM—and automatically generating accurate, timely invoices.\r\n\r\nAlready using Stripe, DocuSign, CommonPaper, HubSpot, or Salesforce? We integrate seamlessly with your existing stack.\r\n\r\nMaintain control while automating the complexity. No more pricing disputes. Faster cash flow. Fewer headaches.\r\n\r\n- Move fast: Bill customers from day one without hiring specialists\r\n- Scale smart: Handle complex pricing models without operational overhead\r\n- Stay focused: Spend time building your product, not managing invoices\r\n- Reduce risk: Eliminate human error in billing calculations\r\n\r\nWe're always asking ourselves: How can we make a company's financial operations effortless so teams can focus on scaling?\r\n\r\n- We don't settle\r\n- We are passionate\r\n- We are serial entrepreneurs\r\n\r\nWe aim to make a dent in the universe.",
     "one_liner": "Billing Automation for B2B that actually works.",
     "team_size": 20,
     "industry": "Fintech",
@@ -35609,8 +35567,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ad5862d29bcc7cc0ab3ae533342705aa27636764.png",
     "website": "https://vendah.com.br/",
     "all_locations": "São Paulo, SP, Brazil",
-    "long_description": "Vendah empowers brands in Brazil with an AI-driven WhatsApp sales network, connecting them to a distributed force of sellers who drive revenue through personalized, scalable conversations. By combining technology, data intelligence, and automation, we help brands expand their reach, optimize conversions, and unlock new growth channels in the WhatsApp economy.",
-    "one_liner": "Empowering brands in LATAM with an AI-driven WhatsApp sales network",
+    "long_description": "Vendah is building a Faire-style marketplace for LATAM’s +50M informal sellers — offering access to trending beauty and wellness brands, powered by embedded credit.",
+    "one_liner": "Vendah is building a Faire-style marketplace for LATAM’s +50M…",
     "team_size": 12,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -37377,41 +37335,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aivideo-com",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/aivideo-com.json"
-  },
-  {
-    "id": 28793,
-    "name": "Stellar Sleep",
-    "slug": "stellar-sleep",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da6718234e74459d1a141e394578816bcde9baf0.png",
-    "website": "https://stellarsleep.com/",
-    "all_locations": "",
-    "long_description": "25 million Americans with chronic insomnia are getting inadequate and superficial care advice (e.g. cutting coffee, meditation etc.), when in reality, their sleep problems are often driven by deeper psychological challenges like unresolved anxiety. Stellar Sleep uses psychology to help these people break the insomnia cycle.",
-    "one_liner": "We help people with chronic insomnia sleep better, using psychology.",
-    "team_size": 5,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1690919362,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/stellar-sleep",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/stellar-sleep.json"
   },
   {
     "id": 28796,
@@ -41029,21 +40952,21 @@
     "name": "ego",
     "slug": "ego",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccbeabe74e35bc254e82e981b4fca69945e24730.png",
-    "website": "https://ego.live",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c5177c13126141e3271facbae25104898deb0f7.png",
+    "website": "https://egoai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building the first generative ai-powered simulation engine, where non-technical creators can generate realistic characters powered by LLMs, 3D worlds, and interaction code/scripts with just prompts. The future of user-generated simulations, games, and interactive media will be powered by our engine.\r\n\r\nWe used our engine to build TownWorld - a 3D interactive Twitch live stream of the Stanford generative agents paper (https://www.twitch.tv/townworld). To the best of our knowledge, it's the first ever AI 3D simulation of a small town in real time\r\n\r\nYC Launch - https://www.ycombinator.com/launches/KeD-ego-an-ai-native-3d-simulation-engine-getting-us-closer-to-the-matrix-one-pixel-at-a-time\r\n\r\nDemo video: https://docsend.com/view/mzf6i7kiwkkgg669\r\n\r\nAI 3D TownWorld video: https://docsend.com/view/ig6t2shuz26z7wha",
-    "one_liner": "in-game sentience",
-    "team_size": 5,
+    "long_description": "Ego AI is building Character AI + Roblox. Our conviction is that 3D embodiment, shared activities in games and AI imbued with human-like personalities will solve the existing problems of low-stakes, shallow and generic interactions that impact retention in consumer AI chat experiences.  \r\n\r\nWe’re fine-tuning a foundation model for characters to behave in human-like ways—indistinguishable from real people—and building a UGC platform around it to allow users to create, experience and form meaningful connections & mutual stories with these AI characters. On our platform, simworld, users will be able place the characters in a Stardew Valley style simulated town, where the AI characters will live, work and play, leading rich internal lives. Users who deepen bonds with these AI character friends can invite them out with them to Discord, Minecraft or even a Netflix-n-chill session.\r\n\r\nOur Character engine, ego AI, built on top of Unreal, will allow users to create, deploy and even monetize their characters across any surface that supports our CCProtocol. The first use case for our characters will likely be DnD-style roleplay, Minecraft RP, and Twitch streaming. \r\n\r\nCharacters will always live and exist in Simtowns with other AIs (and humans) where they will all lead varied internal lives replete with conflict, danger, opportunity, and love…just like humans in the real world!\r\n\r\nDuring YC, we used our engine to build TownWorld - a 3D interactive Twitch live stream of the Stanford generative agents paper (https://www.twitch.tv/townworld). To the best of our knowledge, it's the first ever AI 3D simulation of a small town in real time\r\n\r\nYC Launch - https://www.ycombinator.com/launches/KeD-ego-an-ai-native-3d-simulation-engine-getting-us-closer-to-the-matrix-one-pixel-at-a-time\r\n\r\nDemo video: https://docsend.com/view/mzf6i7kiwkkgg669\r\n\r\nAI 3D TownWorld video: https://docsend.com/view/ig6t2shuz26z7wha",
+    "one_liner": "Character AI + Roblox :persistent, sapient AI characters in 3D worlds ",
+    "team_size": 9,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1709876265,
     "tags": [
       "Artificial Intelligence",
-      "Generative AI",
       "Consumer",
       "Gaming",
-      "AI"
+      "AI",
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45972,49 +45895,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/wordware.json"
   },
   {
-    "id": 29650,
-    "name": "Sorcerer",
-    "slug": "sorcerer",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/543dab64586e13bb93c11e6012ecd070fb8c8a67.png",
-    "website": "https://sorcerer.earth",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sorcerer is deploying a global network of persistent airborne sensors to fuel advanced weather forecasting. Our high-altitude balloons collect 1000x more data than existing systems and are already used daily by meteorologists to track extreme weather across the US and Central America.",
-    "one_liner": "Building a nervous system for the atmosphere",
-    "team_size": 4,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Climate",
-    "launched_at": 1720630564,
-    "tags": [
-      "Artificial Intelligence",
-      "Hard Tech",
-      "Hardware",
-      "Climate",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Climate"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/sorcerer",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/sorcerer.json"
-  },
-  {
     "id": 29656,
     "name": "Leeroo",
     "slug": "leeroo",
@@ -46631,6 +46511,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/taxgpt.json"
   },
   {
+    "id": 29712,
+    "name": "Benchify",
+    "slug": "benchify",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aa52a1a9c842c1d4e04662a2a7d816a9091d88c6.png",
+    "website": "https://www.benchify.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Benchify handles the middle mile of codegen ensuring that generated code just works and is instantly executable. It’s a one-line SDK call between LLM clients and sandboxes to deliver instant code repair, accelerated bundling, and observability.\r\n",
+    "one_liner": "Instantly Repair LLM-Generated Code",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1722544425,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/benchify",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/benchify.json"
+  },
+  {
     "id": 29713,
     "name": "Anthrogen",
     "slug": "anthrogen",
@@ -46964,6 +46884,94 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hestus-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/hestus-inc.json"
+  },
+  {
+    "id": 29738,
+    "name": "Anara",
+    "slug": "anara",
+    "former_names": [
+      "Unriddle"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b702e275c5d9f7a428a7fe250b337175e2b5e58.png",
+    "website": "https://anara.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Anara helps researchers understand, organize and write scientific documents, together.\r\n\r\nWe started working on Anara 18 months ago. In that time:\r\n\r\n- we’ve grown to 2M users spanning hundreds of major colleges and research-led companies,\r\n- we reached $3M in yearly revenue and are fast approaching $4M,\r\n- 200M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised $2.4M from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we’re expanding beyond summarization and writing assistance to address the broader challenges of information overload faced by academics and research teams.\r\n\r\nWe're a small, tight-knit team with huge ambitions and we’re hiring across design, engineering and growth. As a founding member of the team, you'll be instrumental in helping us scale revenue from $3M to $10M and then $10M to $100M+.\r\n\r\nIf you’re excited by the idea of being a part of that, definitely reach out.",
+    "one_liner": "AI for researchers",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1715615655,
+    "tags": [
+      "Consumer",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/anara",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/anara.json"
+  },
+  {
+    "id": 29739,
+    "name": "Planbase",
+    "slug": "planbase",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bb2095eee262d19dd91898d7ff8f4b05d7c5534.png",
+    "website": "https://www.joinplanbase.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Planbase has everything health clinics need to manage their team in one place: capacity planning, employee scheduling, credentialing and payroll.\r\n",
+    "one_liner": "Workforce management for modern healthcare ",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1723528837,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Health Tech",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/planbase",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/planbase.json"
   },
   {
     "id": 29746,
@@ -49568,49 +49576,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/capy.json"
   },
   {
-    "id": 30099,
-    "name": "Gander",
-    "slug": "gander",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/103e5e968261b6e0f5f380738a8663b4974fa3c8.png",
-    "website": "https://usegander.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Gander is building AI-powered technology that allows private jet operators to coordinate, maintain, and monetize their fleets all in one place.",
-    "one_liner": "Automation System for Global Aviation",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1731944906,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gander",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/gander.json"
-  },
-  {
     "id": 30100,
     "name": "Alex",
     "slug": "alex",
@@ -49820,7 +49785,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50c65b09c63d4db06dcd89cb26fd6622b6c3934c.png",
     "website": "https://www.canvas.inc/",
     "all_locations": "",
-    "long_description": "Our AI agents find warm, qualified customers that are on the market for your solution and book meetings for you.",
+    "long_description": "Canvas automates your GTM workflows end-to-end, customizable to any workflow you want to run or test, from finding perfect-fit prospects to running outbound campaigns.\r\n",
     "one_liner": "The AI GTM Engineer",
     "team_size": 3,
     "industry": "B2B",
@@ -54169,27 +54134,27 @@
   },
   {
     "id": 30529,
-    "name": "WorkDone Health",
-    "slug": "workdone-health",
+    "name": "Adentris",
+    "slug": "adentris",
     "former_names": [
       "Wrkdn",
       "Work Done (WRKDN)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/924734540288bf8cd89e4e3406e3bc65fd236248.png",
-    "website": "https://www.wrkdn.com",
+    "website": "https://www.adentris.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "WorkDone Health is an AI compliance copilot for hospitals and clinics. We are like Grammarly for doctors, finding and fixing mistakes that lead to denied insurance claims or patient lawsuits. The industry today spends $40B doing this manually. \r\n",
+    "long_description": "Adentris is an AI compliance copilot for hospitals and clinics. We are like Grammarly for doctors, finding and fixing mistakes that lead to denied insurance claims or patient lawsuits. The industry today spends $40B doing this manually. \r\n",
     "one_liner": "Real-time AI Compliance for Medical Documentation",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "B2B -> Operations",
     "launched_at": 1745803962,
     "tags": [
-      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Compliance",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54210,8 +54175,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/workdone-health",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/workdone-health.json"
+    "url": "https://www.ycombinator.com/companies/adentris",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/adentris.json"
   },
   {
     "id": 30536,
@@ -54401,6 +54366,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cascade-space",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/cascade-space.json"
+  },
+  {
+    "id": 30612,
+    "name": "truthsystems",
+    "slug": "truthsystems",
+    "former_names": [
+      "Truth Systems"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8136f761e13642b6fed7c2f34b631be3b028652.png",
+    "website": "https://www.truthsystems.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Truth Systems provides a compliance agent to govern the use of generative AI. It translates operational policies into intelligent, real-time guardrails that monitor every AI interaction. This empowers companies to proactively block non-compliant actions and align access to AI tools with user competency. By eliminating the risks and operational blind spots associated with uncontrolled AI adoption, our platform enables enterprises to fully leverage the technology's potential without compromising security. \r\n\r\nWe are establishing the new standard for AI governance, building a future where every professional can innovate safely and confidently.",
+    "one_liner": "Automatically blocking risky behavior with real-time governance agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1753229882,
+    "tags": [
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/truthsystems",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/truthsystems.json"
   },
   {
     "id": 30656,
