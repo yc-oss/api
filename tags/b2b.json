@@ -79,7 +79,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20393,7 +20393,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -26670,7 +26670,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -39050,7 +39050,7 @@
     "website": "https://www.joinplanbase.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Planbase has everything health clinics need to manage their team in one place: capacity planning, employee scheduling, credentialing and payroll.\r\n",
-    "one_liner": "Workforce management for modern healthcare ",
+    "one_liner": "AI workforce management for healthcare ",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -44387,16 +44387,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Lumari enables teams to automate their manual operational work using custom-trained AI teammates that deeply understand their company context. ",
     "one_liner": "Your AI Teammates",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1747084472,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
       "Sales",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45187,7 +45187,7 @@
     "name": "Monarcha",
     "slug": "monarcha",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/034888ab143a441ea743ea81e2251a44e18362e3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ca14064cb81ecebe2c5dd03339d7a44f1e9320f.png",
     "website": "https://monarcha.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Monarcha is an AI-powered geospatial platform built for logistics, real estate, urban planning, and environmental teams. It turns natural language into powerful spatial analysis, styling, and workflows with no GIS expertise required.\r\n\r\nWorking with geospatial data today is slow, fragmented, and deeply technical. Simple tasks often require desktop based software and coding expertise. Most platforms rely on outdated desktop software, steep learning curves, and disconnected tools. Even simple tasks like uploading data, running a buffer, or visualizing zones can take hours and require specialists.\r\n\r\nMonarcha changes that.\r\nWe connect directly to your data, enrich it with public datasets, understand spatial context, and let you run 50+ spatial tools instantly on the map. Upload vector or raster files, run PostGIS SQL queries, generate heatmaps, clip zones, and more all with a simple prompt. We're giving everyone the power of advanced spatial analysis to help save time, money and unlock siloed geospatial data across entire organizations. \r\n\r\nWant to learn more? Check out monarcha.ai",
@@ -45197,9 +45197,9 @@
     "subindustry": "B2B",
     "launched_at": 1753222195,
     "tags": [
-      "Artificial Intelligence",
       "Geographic Information System",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46824,5 +46824,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/everest",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/everest.json"
+  },
+  {
+    "id": 31009,
+    "name": "Bear",
+    "slug": "bear",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7696654f248acf11e5913502b817690c5caf5763.png",
+    "website": "https://usebear.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bear helps companies optimize for AI search engines like ChatGPT, Perplexity, and Google AI Overviews. \r\n\r\nWe provide analytics to track your brand's visibility, competitive intelligence to understand why competitors rank higher, and ways to improve your content for AI-powered search.",
+    "one_liner": "Show up on AI Search Engines",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1757825190,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bear",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/bear.json"
   }
 ]
