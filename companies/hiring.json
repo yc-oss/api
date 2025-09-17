@@ -1430,6 +1430,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2014/truevault.json"
   },
   {
+    "id": 634,
+    "name": "Zinc",
+    "slug": "zinc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e768d3f8a03bbe8bb43ac408c234667e84c0db6.png",
+    "website": "http://zinc.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zinc is building the programmable commerce layer for the internet. Our API already enables tens of thousands of transactions each month, and our goal is much bigger: a world where any purchase online can be automated and integrated through a simple API. \r\n\r\nAs commerce shifts to automation, AI, and agents — the purchasing layer of the internet will become essential infrastructure — which is what we're building at Zinc.",
+    "one_liner": "The secret backbone of e-commerce. ",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1384979113,
+    "tags": [
+      "E-commerce"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2014",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zinc",
+    "api": "https://yc-oss.github.io/api/batches/winter-2014/zinc.json"
+  },
+  {
     "id": 636,
     "name": "Algolia",
     "slug": "algolia",
@@ -11999,49 +12040,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/karat-financial",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/karat-financial.json"
-  },
-  {
-    "id": 12974,
-    "name": "Flowglad",
-    "slug": "flowglad",
-    "former_names": [
-      "NUMI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/618ac2062123884adb1b565b66752d0f43b38b35.png",
-    "website": "https://flowglad.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "The Easiest Way to Make Internet Money.\r\n\r\nA payments layer for your app that you can program in natural language.\r\n\r\nUnlimited pricing models, one source of truth, zero webhooks.",
-    "one_liner": "The payment processor for natural language software",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1583962983,
-    "tags": [
-      "Developer Tools",
-      "Fintech",
-      "Payments",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flowglad",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/flowglad.json"
   },
   {
     "id": 13058,
@@ -22792,12 +22790,12 @@
     "name": "Tavus",
     "slug": "tavus",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e67cf96446cc05ab25099e8ab94b8256f0f724e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/524618d04e06e80b3d102074805211370be144c2.png",
     "website": "https://www.tavus.io",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Tavus, we're building the human layer of AI. Our mission is to make human-AI interaction as natural as face-to-face interaction, enabling the human touch where it has been previously unscalable. We achieve this through pioneering research in multi-modal AI models for human perception and understanding, combined with state-of-the-art human avatar rendering and conversation models that we make accessible to developers worldwide. Our models and APIs power everything from text-to-video AI avatars to real-time conversational video experiences across industries like healthcare, recruiting, sales, education, and more. By enabling AI to see, hear, and communicate with human-like authenticity, we're creating the foundation for developers to create the next generation of AI employees, assistants, and companions.",
     "one_liner": "Building the human layer of AI",
-    "team_size": 30,
+    "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1625678589,
@@ -25073,6 +25071,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/crew.json"
   },
   {
+    "id": 24827,
+    "name": "Evidence",
+    "slug": "evidence",
+    "former_names": [
+      "Evidence.dev"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d8b363264f6bac1f6d0ca15696cb97172806885.png",
+    "website": "https://www.evidence.dev",
+    "all_locations": "Toronto, ON, Canada; Remote",
+    "long_description": "Evidence is an open source, code-based alternative to drag-and-drop BI tools. Build polished data products with just SQL and markdown.",
+    "one_liner": "Business intelligence as code",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1628028455,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Analytics",
+      "Data Engineering",
+      "Data Visualization"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Canada",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/evidence",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/evidence.json"
+  },
+  {
     "id": 24841,
     "name": "Aviator",
     "slug": "aviator",
@@ -25117,42 +25162,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aviator",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/aviator.json"
-  },
-  {
-    "id": 24842,
-    "name": "FirstIgnite",
-    "slug": "firstignite",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6093f8dee5d8e445d2bff9f30caeb8397b0ec2eb.png",
-    "website": "https://firstignite.com",
-    "all_locations": "Remote",
-    "long_description": "FirstIgnite builds AI powered business intelligence tools.",
-    "one_liner": "AI-Powered Business Development for Scientific Organizations",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1624624276,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/firstignite",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/firstignite.json"
   },
   {
     "id": 24859,
@@ -26094,8 +26103,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f59b4fa6c1b83c6d1b9ccf4e02733f3f60a7a727.png",
     "website": "https://peakflo.co",
     "all_locations": "Singapore, Singapore",
-    "long_description": "Peakflo with its simple API and one-click ERP integrations, allows businesses to streamline their invoice-to-cash and procure-to-pay processes. 100+ companies, from scale-ups to enterprises, use Peakflo each to: \r\n\r\n - Save 2000 man-hours/month on finance ops  \r\n - Get paid faster on customer invoices by 15-25 days \r\n - Cut vendor bill payment time by 50% \r\n - Automate three-way matching",
-    "one_liner": "Bill.com for SE Asia",
+    "long_description": "Peakflo, with its Agentic Workflows and one-click ERP integrations, helps finance teams eliminate manual work across the entire invoice-to-cash, procure-to-pay, travel and expense reimbursement, and operations. 100+ businesses—from scale-ups to enterprises, use Peakflo each to:\r\n\r\n✅ Save 1000 man-hours/month on finance ops\r\n✅ Get paid faster on customer invoices by 15-25 days\r\n✅ Cut vendor bill payment time by 50%\r\n✅ Automate three-way matching",
+    "one_liner": "Agentic workflows that automate your back‑office operations",
     "team_size": 45,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
@@ -30537,7 +30546,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Blee easily integrates across the content creation workflow, combining instant feedback and faster approvals with scalable review and recordkeeping. Helping companies maximize revenue by moving faster to market while minimizing risk",
     "one_liner": "Smart, fast, and collaborative compliance reviews ",
-    "team_size": 6,
+    "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1662135686,
@@ -30935,6 +30944,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tank-payments",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/tank-payments.json"
+  },
+  {
+    "id": 26806,
+    "name": "Illuminant Surgical",
+    "slug": "illuminant-surgical",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d849bf884b530749e2b233bf2099f94506fbd24.png",
+    "website": "https://www.illuminant.ai/",
+    "all_locations": "Culver City, CA, USA",
+    "long_description": "Illuminant Surgical is building a new way of seeing inside the human body.\r\n\r\nOur breakthrough platform, Skylight™, is the first real-time anatomical projection system, displaying images directly on the patient to give doctors an x-ray vision view for safer interventions.",
+    "one_liner": "A new way of seeing inside the human body.",
+    "team_size": 8,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Medical Devices",
+    "launched_at": 1660310230,
+    "tags": [
+      "Medical Robotics",
+      "Augmented Reality",
+      "Robotic Surgery",
+      "Medical Devices",
+      "Navigation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Medical Devices"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/illuminant-surgical",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/illuminant-surgical.json"
   },
   {
     "id": 26808,
@@ -36296,7 +36350,7 @@
     "one_liner": "AI Accelerated Deal Flow and Portfolio Intelligence",
     "team_size": 8,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1674209670,
     "tags": [],
     "tags_highlighted": [],
@@ -38705,6 +38759,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maintouch",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/maintouch.json"
+  },
+  {
+    "id": 28922,
+    "name": "Egress Health",
+    "slug": "egress-health",
+    "former_names": [
+      "Egress"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/392ff7d64717e95c1b8ca23af91934ffec643fbf.png",
+    "website": "https://tryegress.com",
+    "all_locations": "",
+    "long_description": "Egress Health builds AI agents to automate revenue cycle management, starting with dental offices. Our workflows span eligibility checks, claims scrubbing, payment posting, and denial management. On average, our customers eliminate 1-2 full time employees and collect 5-15% more revenue each month. Interested in learning more? Shoot us a note at founders@tryegress.com",
+    "one_liner": "Automated revenue cycle management, starting with dentists",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1690905553,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/egress-health",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/egress-health.json"
   },
   {
     "id": 28923,
@@ -41484,15 +41575,15 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Lawyers have to manually track all their client work in 6-minute increments. PointOne uses AI to completely automate time tracking and bill review, helping law firms collect more revenue and saving lawyers hours each week.",
     "one_liner": "Automated time tracking and billing for law firms.",
-    "team_size": 7,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1705177845,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Legal",
-      "AI"
+      "Legal"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46066,45 +46157,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/willow.json"
   },
   {
-    "id": 29668,
-    "name": "Proxis",
-    "slug": "proxis",
-    "former_names": [
-      "CureAI",
-      "Tailwind Health"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcc340375de4daf5b1c88ae21362b6088561665c.png",
-    "website": "https://www.proxis.ai/",
-    "all_locations": "",
-    "long_description": "Proxis is the AI automation platform built for enterprises.\r\n\r\nProxis is creating AI email agents that empower brands and enterprise teams in the creator economy to close deals automatically. Think: your inbox, on autopilot.\r\n\r\nWe initially fine tuned and distilled LLMs for enterprise use—and quickly realized that companies need more than just smarter models. They need full-stack automation. So Proxis built AI agents that handle the tedious, time-consuming work—everything from autonomous sales closers to customer service agents.\r\n\r\nThe mission is bold: to build the world’s most capable team of AI agents for every enterprise. Proxis imagines a future where a single founder can run a billion-dollar company—backed by a custom-built army of agents. Proxis is rethinking how agents are built, trained, and deployed from the ground up.",
-    "one_liner": "The platform for enterprise AI agent automations, starting with email.",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1725054386,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/proxis",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/proxis.json"
-  },
-  {
     "id": 29679,
     "name": "Dodo",
     "slug": "dodo",
@@ -47354,52 +47406,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/thunder-compute",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/thunder-compute.json"
-  },
-  {
-    "id": 29770,
-    "name": "Intryc",
-    "slug": "intryc",
-    "former_names": [
-      "Sentify"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7ba643e872dfb236016ba560ace56c12e3baf83.png",
-    "website": "https://intryc.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Consumer enterprises have millions of customer support tickets annually. They need to constantly evaluate support agents’ performance and compliance. Typically they evaluate less than 5% of those interactions manually which is slow, expensive and not scalable. Intryc's AI can evaluate 100% of all customer interactions, in real time, at half the cost.\r\n",
-    "one_liner": "Intryc uses AI to automate quality assurance for customer support",
-    "team_size": 14,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1721158274,
-    "tags": [
-      "Customer Success",
-      "Analytics",
-      "Customer Support",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/intryc",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/intryc.json"
   },
   {
     "id": 29773,
@@ -48906,6 +48912,42 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/pearai.json"
   },
   {
+    "id": 30024,
+    "name": "Upshift",
+    "slug": "upshift",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d97ce9291f8a51ec2a48e5fa70be7766b06a04b5.png",
+    "website": "https://upshift.dev",
+    "all_locations": "",
+    "long_description": "Upshift is an asynchronous coding agent workspace to help your software development lifecycle.\r\n\r\nAccess Claude Code and other agents in a shared team environment, so you can explore them easily, share prompt techniques, and unlock the value of asynchronous AI in your organization.\r\n\r\nYou can use Upshift today to automate dependency bumps, tidy up sprawling debt code, and handle routine pull requests.",
+    "one_liner": "Cloud workspace for coding agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1730739931,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/upshift",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/upshift.json"
+  },
+  {
     "id": 30030,
     "name": "Candle",
     "slug": "candle",
@@ -49596,7 +49638,7 @@
     "subindustry": "B2B",
     "launched_at": 1730261485,
     "tags": [
-      "AI",
+      "Artificial Intelligence",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -49606,7 +49648,8 @@
     "batch": "Fall 2024",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -49940,10 +49983,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22c2bd83d673e7df9f3a78b87b760253845534a0.png",
     "website": "https://apolink.space",
-    "all_locations": "",
+    "all_locations": "Palo Alto, CA, USA",
     "long_description": "Apolink is building the world’s most interoperable satellite relay network in low Earth orbit. Our hybrid communication architecture combines RF and optical inter-satellite links to enable real-time, continuous connectivity for satellite operators across industries.",
     "one_liner": "24/7 satellite connectivity in low Earth orbit",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1727908250,
@@ -49959,7 +50002,8 @@
       "Aviation and Space"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -53600,7 +53644,7 @@
     "website": "https://casco.com",
     "all_locations": "",
     "long_description": "Casco helps companies confidently ship AI agents and apps by simulating attacks on their AI systems, identifying vulnerabilities, and providing guided remediation.\r\n\r\nCompanies building on AI face a disproportionate amount of cybersecurity threats. 73% of enterprises experienced at least one AI-related security incident in the past 12 months, with the average incident cost amounting to $4.8m. It also takes 40% longer for these companies to identify and address these breaches vs. non-AI related incidents.\r\n\r\nCheck if your AI system is secure at casco.com\r\n\r\n---\r\n\r\nWe already secure AI systems deployed in 60% of Fortune 500 companies and are default alive. [1]\r\n\r\n[1] http://www.paulgraham.com/aord.html",
-    "one_liner": "Evaluate AI agents and apps on security, safety, and accuracy.",
+    "one_liner": "Autonomous security testing for AI systems",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -54370,6 +54414,41 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/cascade-space.json"
   },
   {
+    "id": 30608,
+    "name": "MangoDesk",
+    "slug": "mangodesk",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/28f75fbb2513c3b5ef3e67a4b3c47ce3995f896b.png",
+    "website": "https://www.mangodesk.com/",
+    "all_locations": "",
+    "long_description": "We help AI teams accelerate the creation of evals and post-training data by creating bespoke data annotation pipelines in seconds and staffing them with the right domain experts.\r\n\r\nAGI requires expert-created data and evals across domains, quickly and at volumes. Creating this data reliably is a complex operational challenge. We solve this end-to-end. \r\n\r\nAnkith was previously an engineer at Scale AI where he built the infrastructure for expert sourcing/screening and Gen AI data labeling operations, and Ananth previously founded a software firm with seven-figure revenue and Fortune 500 customers.",
+    "one_liner": "Simple platform to create data for AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753752561,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mangodesk",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/mangodesk.json"
+  },
+  {
     "id": 30612,
     "name": "truthsystems",
     "slug": "truthsystems",
@@ -54449,6 +54528,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deepgrove",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/deepgrove.json"
+  },
+  {
+    "id": 30659,
+    "name": "Keystone",
+    "slug": "keystone",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c3915c83dfe6a246f33ae908d5156017a0cef3f.png",
+    "website": "https://withkeystone.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Keystone is an AI engineer that joins your team and understands your product from codebase to production. It can triage tickets, fix bugs, and automatically resolve incidents, autonomously.",
+    "one_liner": "Your team's on-call AI engineer",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1749673205,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/keystone",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/keystone.json"
   },
   {
     "id": 30662,

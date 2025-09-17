@@ -4351,7 +4351,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -9306,7 +9306,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -12866,8 +12866,8 @@
   },
   {
     "id": 27820,
-    "name": "infra.new",
-    "slug": "infra-new",
+    "name": "LaunchFlow / infra.new",
+    "slug": "launchflow-infra-new",
     "former_names": [
       "FlowState",
       "Inlet",
@@ -12877,7 +12877,7 @@
     "website": "https://infra.new",
     "all_locations": "Remote",
     "long_description": "Our AI agent helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!\r\n\r\n- Generate reliable cloud configuration\r\n- View detailed cost estimates and system diagrams\r\n- Optimize everything with AI",
-    "one_liner": "AI Agent for Terraform",
+    "one_liner": "AI Agent for Cloud Infrastructure",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -12908,8 +12908,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/infra-new",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/infra-new.json"
+    "url": "https://www.ycombinator.com/companies/launchflow-infra-new",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/launchflow-infra-new.json"
   },
   {
     "id": 27839,
@@ -15783,7 +15783,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef63e061644f1c078acf080390ecfeb83f75521b.png",
     "website": "https://sudocode.ai",
     "all_locations": "Mountain View, CA, USA",
-    "long_description": "sudocode lets users code in plain english, by turning technical requirements directly into code.\r\n\r\nBuilt by an ex-Google Brain/GoogleX engineer and an ex-Toast engineer.\r\n\r\nJoin the pre-launch alpha at info@sudocode.ai",
+    "long_description": "sudocode lets users code in plain english, by turning technical requirements directly into code.\r\n\r\nTry it out at sudocode.ai",
     "one_liner": "code in plain english",
     "team_size": 2,
     "industry": "B2B",
@@ -19376,47 +19376,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/onlook.json"
   },
   {
-    "id": 30024,
-    "name": "Upshift",
-    "slug": "upshift",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d97ce9291f8a51ec2a48e5fa70be7766b06a04b5.png",
-    "website": "https://upshift.dev",
-    "all_locations": "Charlotte, NC, USA",
-    "long_description": "Upshift is an asynchronous coding agent workspace to help your software development lifecycle.\r\n\r\nAccess Claude Code and other agents in a shared team environment, so you can explore them easily, share prompt techniques, and unlock the value of asynchronous AI in your organization.\r\n\r\nYou can use Upshift today to automate dependency bumps, tidy up sprawling debt code, and handle routine pull requests.",
-    "one_liner": "Cloud workspace for coding agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1730739931,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/upshift",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/upshift.json"
-  },
-  {
     "id": 30028,
     "name": "Gait",
     "slug": "gait",
@@ -19922,47 +19881,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/quantstruct",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/quantstruct.json"
-  },
-  {
-    "id": 30173,
-    "name": "Aviro",
-    "slug": "aviro",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b42d798135f9265356b3ce6f69ea27eaee4a7b2.png",
-    "website": "https://www.aviro.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": ".",
-    "one_liner": "Task Time Intelligence for Enterprise AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Industrials -> Climate",
-    "launched_at": 1746601065,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aviro",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/aviro.json"
   },
   {
     "id": 30207,
@@ -22184,7 +22102,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",

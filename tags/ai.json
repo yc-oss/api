@@ -5452,12 +5452,12 @@
     "name": "Tavus",
     "slug": "tavus",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e67cf96446cc05ab25099e8ab94b8256f0f724e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/524618d04e06e80b3d102074805211370be144c2.png",
     "website": "https://www.tavus.io",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Tavus, we're building the human layer of AI. Our mission is to make human-AI interaction as natural as face-to-face interaction, enabling the human touch where it has been previously unscalable. We achieve this through pioneering research in multi-modal AI models for human perception and understanding, combined with state-of-the-art human avatar rendering and conversation models that we make accessible to developers worldwide. Our models and APIs power everything from text-to-video AI avatars to real-time conversational video experiences across industries like healthcare, recruiting, sales, education, and more. By enabling AI to see, hear, and communicate with human-like authenticity, we're creating the foundation for developers to create the next generation of AI employees, assistants, and companions.",
     "one_liner": "Building the human layer of AI",
-    "team_size": 30,
+    "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1625678589,
@@ -9738,6 +9738,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/coris.json"
   },
   {
+    "id": 26883,
+    "name": "Hedgehog",
+    "slug": "hedgehog-2",
+    "former_names": [
+      "Hedgehog Agriculture"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cefd49e2f001817fd856853325f328d68d72bfa7.png",
+    "website": "http://hedgehogfoods.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hedgehog builds robotic mushroom farms. Our robots eliminate labor and our AI optimizes grow conditions to increase yield. We’ll soon grow mushrooms and fungi for <1/3rd the cost of leading growers. \r\n\r\nFungi may address our food system’s biggest problems: they transform agricultural waste into protein-rich foods with near-zero environmental impact. Hedgehog’s technology is unleashing fungi as our next major food source.",
+    "one_liner": "Building robotic mushroom farms",
+    "team_size": 18,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1659119457,
+    "tags": [
+      "Robotics",
+      "Climate",
+      "Food Tech",
+      "Agriculture",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hedgehog-2",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/hedgehog-2.json"
+  },
+  {
     "id": 26885,
     "name": "Mintplex Labs",
     "slug": "mintplex-labs",
@@ -11442,8 +11489,8 @@
   },
   {
     "id": 27820,
-    "name": "infra.new",
-    "slug": "infra-new",
+    "name": "LaunchFlow / infra.new",
+    "slug": "launchflow-infra-new",
     "former_names": [
       "FlowState",
       "Inlet",
@@ -11453,7 +11500,7 @@
     "website": "https://infra.new",
     "all_locations": "Remote",
     "long_description": "Our AI agent helps teams save money and ship faster on AWS, GCP, and Azure.\r\n\r\nVisit infra.new to try free without signing up!\r\n\r\n- Generate reliable cloud configuration\r\n- View detailed cost estimates and system diagrams\r\n- Optimize everything with AI",
-    "one_liner": "AI Agent for Terraform",
+    "one_liner": "AI Agent for Cloud Infrastructure",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -11484,8 +11531,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/infra-new",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/infra-new.json"
+    "url": "https://www.ycombinator.com/companies/launchflow-infra-new",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/launchflow-infra-new.json"
   },
   {
     "id": 27825,
@@ -15020,7 +15067,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef63e061644f1c078acf080390ecfeb83f75521b.png",
     "website": "https://sudocode.ai",
     "all_locations": "Mountain View, CA, USA",
-    "long_description": "sudocode lets users code in plain english, by turning technical requirements directly into code.\r\n\r\nBuilt by an ex-Google Brain/GoogleX engineer and an ex-Toast engineer.\r\n\r\nJoin the pre-launch alpha at info@sudocode.ai",
+    "long_description": "sudocode lets users code in plain english, by turning technical requirements directly into code.\r\n\r\nTry it out at sudocode.ai",
     "one_liner": "code in plain english",
     "team_size": 2,
     "industry": "B2B",
@@ -16712,48 +16759,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/patchwork.json"
   },
   {
-    "id": 29286,
-    "name": "PointOne",
-    "slug": "pointone",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/786d2b1ddf28226da2f8d8938a45c15ffe3f10eb.png",
-    "website": "https://pointone.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Lawyers have to manually track all their client work in 6-minute increments. PointOne uses AI to completely automate time tracking and bill review, helping law firms collect more revenue and saving lawyers hours each week.",
-    "one_liner": "Automated time tracking and billing for law firms.",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1705177845,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Legal",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pointone",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/pointone.json"
-  },
-  {
     "id": 29288,
     "name": "Arini",
     "slug": "arini",
@@ -18250,6 +18255,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/brainbase-labs.json"
   },
   {
+    "id": 29419,
+    "name": "Lumetric",
+    "slug": "lumetric",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6cac19e623e13addf32db802747c6b73371a9bd.png",
+    "website": "https://www.lumetric.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "From connecting to your data and apps to giving your agent its own phone number and email, we make it fast and simple for everyone to build and talk to powerful AI agents.",
+    "one_liner": "Build AI agents in minutes",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1705627336,
+    "tags": [
+      "B2B",
+      "Workflow Automation",
+      "Productivity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lumetric",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/lumetric.json"
+  },
+  {
     "id": 29424,
     "name": "Openmart",
     "slug": "openmart",
@@ -19372,52 +19418,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/educato-ai.json"
   },
   {
-    "id": 29611,
-    "name": "mdhub",
-    "slug": "mdhub",
-    "former_names": [
-      "mdhub Inc"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2f1eb2c1129f64d032a91cee4b0a0b5cbae5b8c.png",
-    "website": "https://www.mdhub.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building AI agents to power the next generation of healthcare clinics - starting with mental health.\r\n\r\nOne year ago, we launched our AI Clinical Assistant to help clinicians reclaim their time by automating clinical documentation, pre-charting, and treatment planning. It's now been used in over 1 million patient sessions.\r\n\r\nNow we’ve launched Sarah, our AI Admissions Coordinator, to help patients access care faster by eliminating missed calls, delays, and administrative friction.\r\n\r\nSarah answers every call instantly, 24/7, no voicemails, no hold music. She qualifies new patients and books intakes, while also managing reschedules, cancellations, med refill requests, and appointment confirmations for existing patients.\r\n\r\nClinics using Sarah have seen up to a 30% increase in new patient bookings, while ensuring that 100% of existing patient inquiries are handled, without adding headcount.",
-    "one_liner": "AI agents for mental health clinics",
-    "team_size": 6,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1720483554,
-    "tags": [
-      "Machine Learning",
-      "Digital Health",
-      "Healthcare",
-      "Mental Health",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mdhub",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/mdhub.json"
-  },
-  {
     "id": 29627,
     "name": "Codes Health",
     "slug": "codes-health",
@@ -20421,12 +20421,12 @@
   },
   {
     "id": 29750,
-    "name": "Asterisk",
-    "slug": "asterisk",
+    "name": "winfunc",
+    "slug": "winfunc",
     "former_names": [
       "Stition"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9d0d2f6b82ad16085947b8f50c8befcd9a6f3f7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13b545a54f6c045d5fa9984cd597323e2738fea2.png",
     "website": "https://asterisk.so",
     "all_locations": "",
     "long_description": "Asterisk (asterisk.so) is an AI Hacker for Codebases - it automatically finds, verifies, and patches security vulnerabilities in codebases, just like a human security engineer would. Asterisk can find business logic errors with context-aware scanning and automate the full auditing cycle to generate reports with near-zero false positives. \r\nAsterisk has autonomously discovered vulnerabilities in Google, Hoppscotch, and others.",
@@ -20460,8 +20460,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/asterisk",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/asterisk.json"
+    "url": "https://www.ycombinator.com/companies/winfunc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/winfunc.json"
   },
   {
     "id": 29760,
@@ -22489,48 +22489,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/candle.json"
   },
   {
-    "id": 30034,
-    "name": "HealthSpark",
-    "slug": "healthspark",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a4a39ebd6ad42c60d1ab5b002dc1f1ef7b9df78.png",
-    "website": "https://www.joinhealthspark.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "HealthSpark empowers physical therapists to launch and run an AI-native independent practice by automating admin tasks like insurance, scheduling, handling calls and texts, and charting.",
-    "one_liner": "Launch and run an AI-native physical therapy practice",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
-    "launched_at": 1731746181,
-    "tags": [
-      "Artificial Intelligence",
-      "Health Tech",
-      "Digital Health",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/healthspark",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/healthspark.json"
-  },
-  {
     "id": 30047,
     "name": "Cosmic",
     "slug": "cosmic-new",
@@ -23205,45 +23163,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/permitportal.json"
   },
   {
-    "id": 30096,
-    "name": "Capy",
-    "slug": "capy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a02216c7c53484d3ad973ad32b59b2140a197d7e.png",
-    "website": "https://capy.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Capy is an AI-native software engineering agent. It works asynchronously on its own VM, and is capable of tackling long-horizon tasks on large codebases.",
-    "one_liner": "AI Software Engineer",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1730261485,
-    "tags": [
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/capy",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/capy.json"
-  },
-  {
     "id": 30102,
     "name": "Diffusion Studio",
     "slug": "diffusion-studio",
@@ -23539,6 +23458,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/edexia",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/edexia.json"
+  },
+  {
+    "id": 30173,
+    "name": "Aviro",
+    "slug": "aviro",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b42d798135f9265356b3ce6f69ea27eaee4a7b2.png",
+    "website": "https://www.aviro.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Aviro builds task-time intelligence for enterprise AI agents. We solve the core problem that's blocking enterprise AI adoption: agents fail not because models aren't smart enough, but because they can't learn from past executions or follow established workflows.\r\n\r\nOur solution, Cortex, is a runtime intelligence layer that helps agents follow proven enterprise workflows when they exist, safely improvise when they don't, and capture new best practices as they emerge. \r\n\r\nWe're building agents that compound capability over time through reinforcement learning and adhere to enterprise SOPs, without requiring constant fine-tuning or changing existing models or frameworks.",
+    "one_liner": "Task Time Intelligence for Enterprise AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Industrials -> Climate",
+    "launched_at": 1746601065,
+    "tags": [
+      "Generative AI",
+      "Reinforcement Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aviro",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/aviro.json"
   },
   {
     "id": 30176,
@@ -25948,17 +25907,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4c744ee428be44ba894f8b477449386dca44045.png",
     "website": "https://kaelio.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kaelio is building the AI operating system for healthcare organizations.\r\n\r\nWe unify clinical, operational, and financial data for hospitals, health systems, and health plans - giving them AI agents that flag emerging risks, and take actions to enhance clinical, financial and operational performance.\r\n\r\nHealthcare organizations are drowning in dashboards they can't act on - or worse, flying blind because they lack the resources. We change that.",
+    "long_description": "Kaelio is the data intelligence platform for enterprise.\r\n\r\nWe unify data from critical systems for tech, healthcare, manufacturing and IoT organizations - giving them a copilot that answers business-critical questions, flags operational risks, and acts to improve operational and financial performance.\r\n\r\nEnterprise organizations are drowning in dashboards they can't act on - or worse, flying blind because they lack the resources. We change that.\r\n\r\nBacked by Y Combinator & venture funding.",
     "one_liner": "AI operating system for healthcare organizations",
     "team_size": 2,
-    "industry": "Healthcare",
+    "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1747200146,
     "tags": [
       "Artificial Intelligence",
-      "Healthcare",
-      "Health Insurance",
-      "Healthcare IT",
+      "Analytics",
       "AI"
     ],
     "tags_highlighted": [],
@@ -25968,8 +25925,8 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "Healthcare",
-      "Healthcare IT"
+      "B2B",
+      "Analytics"
     ],
     "regions": [
       "United States of America",
@@ -26688,6 +26645,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/throxy",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/throxy.json"
+  },
+  {
+    "id": 30492,
+    "name": "Prism",
+    "slug": "prism",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e38f7eee6195fcd30d32532805a6f85297a16925.png",
+    "website": "https://www.prismreplay.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "AI-native Datadog + Amplitude",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1745261196,
+    "tags": [
+      "Design",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/prism",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/prism.json"
   },
   {
     "id": 30494,
@@ -28178,7 +28176,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
     "website": "https://tryjanet.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Janet AI is the intelligent ticket management system.\r\n\r\nAs organizations scale, Jira turns into chaos. Related issues are filed under different teams. De-duping is tedious. Critical insights get lost in comment threads. Tickets are never seen by anyone with full context. As a result, teams spend hundreds of manual hours just figuring out what’s important—before they can even start fixing it.\r\n\r\nJanet AI automatically creates, tracks, and resolves work items through integrations with information channels like Slack, meetings, customer cases, GitHub, and more. Further, Janet AI watches every incoming ticket to build a knowledge graph and automatically surfaces related tickets, streamlines routing, flags prior fixes, and identifies what matters most—across all projects and teams.",
+    "long_description": "Janet AI is the intelligent ticket management system.\r\n\r\nAs organizations scale, ticket management turns into chaos, requiring hundreds of human work hours just to keep things up-to-date and organized.\r\n\r\nJanet AI automatically creates, updates, triages, and resolves work items through integrations with your company's information channels, so you never manually have to, enabling teams to focus on what matters most.",
     "one_liner": "The AI-Native Jira",
     "team_size": 2,
     "industry": "B2B",
@@ -28253,6 +28251,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lilac",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/lilac.json"
+  },
+  {
+    "id": 30653,
+    "name": "Skope",
+    "slug": "skope",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c24ca870b6eaffd66597cfdb3e463eeed660675.png",
+    "website": "https://useskope.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building the billing system for AI products. We support every standard type of pricing model (usage, subscription, hybrid, etc) and are the first to natively support outcome-based pricing. For the first time ever, AI companies can bill their customers exactly the way they want to be billed.",
+    "one_liner": "The billing system for AI products",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1750879126,
+    "tags": [
+      "B2B",
+      "Billing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/skope",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/skope.json"
   },
   {
     "id": 30655,
@@ -28553,51 +28591,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/doe",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/doe.json"
-  },
-  {
-    "id": 30685,
-    "name": "IronLedger.ai",
-    "slug": "ironledger-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fda446d464914642f213b7da0cd38f3f6fead898.png",
-    "website": "https://ironledger.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "IronLedger provides AI agents for property accounting, starting with accounts payable. Since launching 4 weeks ago, we eliminate more than $70K of accounting costs annually for almost 35K multifamily units (up from 10K on 9/5). Soon, we'll be providing end-to-end accounting services including automated billbacks, month-end close and bank reconciliation.\r\n\r\nhttps://www.ironledger.ai/",
-    "one_liner": "AI agents for property accounting",
-    "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-    "launched_at": 1753882869,
-    "tags": [
-      "SaaS",
-      "Real Estate",
-      "Finance",
-      "Construction",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ironledger-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/ironledger-ai.json"
   },
   {
     "id": 30688,
