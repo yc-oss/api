@@ -991,7 +991,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2573,7 +2573,9 @@
     "id": 25338,
     "name": "CozmoX AI",
     "slug": "cozmox-ai",
-    "former_names": [],
+    "former_names": [
+      "Zywa"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b22096b578ff14b789d9b1882b55f7dc73e26f3.png",
     "website": "https://www.cozmox.ai/",
     "all_locations": "San Francisco, CA, USA",
@@ -2581,7 +2583,7 @@
     "one_liner": "We help you build AI Employee who can speak, think and do",
     "team_size": 11,
     "industry": "B2B",
-    "subindustry": "Fintech -> Payments",
+    "subindustry": "B2B",
     "launched_at": 1644299294,
     "tags": [
       "Artificial Intelligence",
@@ -3559,21 +3561,21 @@
       "IRL Studios Inc.",
       "Gym Class (by IRL Studios)."
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4d3a60708bb80373daa580f343f2a1de6f757eb5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90fc62ba6240bfed64d6f34df4390cc401252d92.png",
     "website": "https://gymclass.com",
     "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Gym Class is the top sports game in VR, where you can play basketball, baseball, football (and more) with people around the world. Download to make friends, compete to become a star, or just break a sweat. Join us on our mission is to connect the world by simulating it. ",
-    "one_liner": "Play sports in virtual reality",
-    "team_size": 18,
+    "long_description": "Gym Class is a top-rated social game for virtual reality. Download to make friends and hangout, compete and play sports, or create and explore in simulated worlds. Join us on our mission is to connect the world by simulating it.",
+    "one_liner": "Connecting the world by simulating it",
+    "team_size": 20,
     "industry": "Consumer",
     "subindustry": "Consumer -> Virtual and Augmented Reality",
     "launched_at": 1642203216,
     "tags": [
+      "Artificial Intelligence",
       "Virtual Reality",
       "Consumer",
       "Gaming",
-      "Social",
-      "AI"
+      "Social"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6496,7 +6498,9 @@
     "name": "RDash",
     "slug": "rdash",
     "former_names": [
-      "Rolling Banners"
+      "Rolling Banners",
+      "91Squarefeet",
+      "Rdash"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/def911c8f3c9b81c8e514a4f1b29d88c06452d30.png",
     "website": "https://www.rdash.io",
@@ -12671,8 +12675,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db834b21af4ce2705ca320994110533bc0a0b2c6.png",
     "website": "https://www.iotflows.com/",
     "all_locations": "Atlanta, GA, USA",
-    "long_description": "IoTFlows provides comprehensive visibility and valuable insights into manufacturing shop floors. Leveraging artificial intelligence to monitor and analyze the performance of machines based on their vibration and acoustics data, we help manufacturers to identify issues and inefficiencies in the production process and make data-driven decisions to improve performance.",
-    "one_liner": "AI-Powered Machine Performance Monitoring",
+    "long_description": "IoTFlows is an AI platform that makes factories smarter and more efficient. Our plug-and-play hardware, AI analytics, and workflows reduce downtime and optimize productivity — delivering ROI in under a month.\r\n",
+    "one_liner": "AI platform that makes factories smarter",
     "team_size": 60,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
@@ -12692,7 +12696,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Productivity"
     ],
     "regions": [
       "United States of America",
@@ -14171,7 +14175,7 @@
     "one_liner": "Multibank treasury management",
     "team_size": 6,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Banking and Exchange",
+    "subindustry": "Fintech",
     "launched_at": 1648002361,
     "tags": [
       "Fintech",
@@ -14809,6 +14813,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/postal",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/postal.json"
+  },
+  {
+    "id": 26015,
+    "name": "Splendor",
+    "slug": "splendor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/82c002dd039ff3ea4d28dfce449b49fc390b93bd.png",
+    "website": "https://splendorhealth.com",
+    "all_locations": "Cambridge, MA, USA; Remote",
+    "long_description": "Splendor's AI agent helps providers, EHRs, and billing companies automate benefits checks, prior auth, and more.",
+    "one_liner": "We make dealing with insurance less annoying.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1711477333,
+    "tags": [
+      "Health Insurance",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/splendor",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/splendor.json"
   },
   {
     "id": 26016,

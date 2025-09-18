@@ -486,7 +486,11 @@
     "name": "Tesseral",
     "slug": "tesseral",
     "former_names": [
-      "Codomain Data"
+      "Codomain Data",
+      "Okapi",
+      "SSO Ready",
+      "ssoReady",
+      "SSOReady"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/85992f888276408373d1f33710dd92fd60ae187a.png",
     "website": "https://tesseral.com",
@@ -1709,7 +1713,9 @@
     "id": 29266,
     "name": "nCompass Technologies",
     "slug": "ncompass-technologies",
-    "former_names": [],
+    "former_names": [
+      "nCompass"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec22cfec2eb1602e4ae48a85862a05e4be149771.png",
     "website": "https://www.ncompass.tech",
     "all_locations": "Remote",
@@ -2230,7 +2236,10 @@
     "id": 29281,
     "name": "MathDash",
     "slug": "mathdash",
-    "former_names": [],
+    "former_names": [
+      "Bree",
+      "Breez"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ec49a1c12b0b025bec7371a71c990514b23fe37.png",
     "website": "https://mathdash.com",
     "all_locations": "San Francisco, CA, USA",
@@ -2238,7 +2247,7 @@
     "one_liner": "Learning Platform for Math Competitions",
     "team_size": 2,
     "industry": "Education",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "subindustry": "Education",
     "launched_at": 1710118531,
     "tags": [
       "Education",
@@ -7149,7 +7158,7 @@
     "one_liner": "Flexible systems for clinical reasoning.",
     "team_size": 5,
     "industry": "Healthcare",
-    "subindustry": "Industrials",
+    "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1721245489,
     "tags": [
       "Health Tech",
@@ -7183,7 +7192,7 @@
     "slug": "lumetric",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6cac19e623e13addf32db802747c6b73371a9bd.png",
-    "website": "https://www.lumetric.ai/",
+    "website": "https://lumetric.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "From connecting to your data and apps to giving your agent its own phone number and email, we make it fast and simple for everyone to build and talk to powerful AI agents.",
     "one_liner": "Build AI agents in minutes",
@@ -7192,10 +7201,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1705627336,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -9694,7 +9703,7 @@
     "website": "https://www.quivr.app/",
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Quivr is an AI-powered customer support tool that helps teams draft responses, automate replies, and resolve tickets directly inside platforms like Zendesk or other helpdesk solutions.\r\n\r\nThe platform augments agent productivity by reducing repetitive work and accelerating resolution time.",
-    "one_liner": "Open Source Chat-Powered Second Brain",
+    "one_liner": "AI-powered auto-resolutions and reply suggestions for customer…",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -9702,7 +9711,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",

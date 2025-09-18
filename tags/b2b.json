@@ -714,7 +714,7 @@
     ],
     "tags_highlighted": [],
     "top_company": true,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2012",
     "status": "Active",
@@ -19868,7 +19868,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20956,7 +20956,9 @@
     "name": "RDash",
     "slug": "rdash",
     "former_names": [
-      "Rolling Banners"
+      "Rolling Banners",
+      "91Squarefeet",
+      "Rdash"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/def911c8f3c9b81c8e514a4f1b29d88c06452d30.png",
     "website": "https://www.rdash.io",
@@ -27108,9 +27110,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c063ef6501ec4e09baa9f49d2abc635ba2fa65b8.png",
     "website": "https://www.primevault.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "PrimeVault is a deep-tech crypto infrastructure company that is dedicated to building innovative core tools that make on-chain value ownership, transfer, issuance and access to decentralized financial products convenient, efficient and secure for businesses and institutions of any size and scale. PrimeVault leverages cutting-edge technologies such as sealed TEEs (Trusted Execution Environment), Formal Verification and MPC (Multiparty Computation) to offer powerful, secure, scalable and modular wallet infrastructure, programmable cross-chain asset management, comprehensive portfolio tracker, seamless CeDeFi interoperability with both on- and off-chain markets, and sophisticated risk mitigation solutions.",
+    "long_description": "PrimeVault provides robust and regulatory-compliant infrastructure for enterprises and financial institutions to easily and securely integrate stablecoins, digital assets and blockchain / smart contracts into their financial workflows. Businesses and FIs issue, store and move billions in monthly value onchain using PrimeVault's battle-tested, high-reliability and high-performance infrastructure. PrimeVault leverages cutting-edge technologies such as sealed TEEs (Trusted Execution Environment), Formal Verification and MPC (Multiparty Computation) to offer powerful, secure, scalable and modular wallet infrastructure, programmable cross-chain treasury management, comprehensive portfolio tracking, seamless DeFi interoperability and extensive market connectivity covering all major liquidity and execution venues.",
     "one_liner": "Supercharged crypto operations, custody and risk management",
-    "team_size": 3,
+    "team_size": 11,
     "industry": "Fintech",
     "subindustry": "Fintech -> Asset Management",
     "launched_at": 1659127326,
@@ -30520,7 +30522,7 @@
     "slug": "truewind",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2282cdd4a81eac40181a6efc3ce3c3d32c9eb037.png",
-    "website": "https://truewind.ai",
+    "website": "https://www.trytruewind.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Truewind is a technology company based in San Francisco developing a digital staff accountant. Powered by AI, Truewind is a digital staff accountant that never sleeps, never gets sick, and always does its work. Completely predictable capacity planning. \r\n\r\nAutomate data categorization, supporting documentation collection, and client follow-up. Truewind’s AI agents will follow up on outstanding action items while the accountant can work on strategic tasks. This is fully integrated and unified across your accounting operations. We make it easy to get work done and get visibility into your team’s processes. \r\n\r\nTrusted by over 100 customers, including accounting firms EisnerAmper and Frank Rimerman, along with fast-growing companies such as Wefunder, StartPlaying and Mozart Data. We’re backed by the industry leaders of accounting and AI, Rho Capital, Thomson Reuters Ventures, Pathlight Ventures, Fin Capital, and Y Combinator. ",
     "one_liner": "AI-Powered Accounting",
@@ -30529,11 +30531,11 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1675872502,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Generative AI",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36924,7 +36926,7 @@
     "slug": "lumetric",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6cac19e623e13addf32db802747c6b73371a9bd.png",
-    "website": "https://www.lumetric.ai/",
+    "website": "https://lumetric.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "From connecting to your data and apps to giving your agent its own phone number and email, we make it fast and simple for everyone to build and talk to powerful AI agents.",
     "one_liner": "Build AI agents in minutes",
@@ -36933,10 +36935,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1705627336,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40361,7 +40363,7 @@
     "one_liner": "Open-source AI-assisted agent builder",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723615480,
     "tags": [
       "Generative AI",
@@ -41830,47 +41832,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/nextbyte.json"
   },
   {
-    "id": 30188,
-    "name": "HeyTelo",
-    "slug": "heytelo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c17ed7f9d61245a3208aaa608b0fd62f1523873.png",
-    "website": "https://www.heytelo.com",
-    "all_locations": "",
-    "long_description": "Voice AI for Home Services",
-    "one_liner": "Voice AI for Home Services",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1739171711,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Home Services",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/heytelo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/heytelo.json"
-  },
-  {
     "id": 30201,
     "name": "Dartboard Energy",
     "slug": "dartboard-energy",
@@ -42942,7 +42903,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AfterQuery is a research lab (backed by Y Combinator) investigating the boundaries and capabilities of artificial intelligence through novel datasets and experimentation. We believe that pushing the frontiers of AI requires both rigorous scientific inquiry and exceptional human data.",
     "one_liner": "Research lab investigating the boundaries of AI capabilities.",
-    "team_size": 3,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1738219847,
@@ -43491,6 +43452,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stratify",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/stratify.json"
+  },
+  {
+    "id": 30443,
+    "name": "TypeOS",
+    "slug": "typeos",
+    "former_names": [
+      "GradeAssist"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c364ff42f5f49e73855b938d253d14065fd07cb2.png",
+    "website": "https://TypeOS.com",
+    "all_locations": "",
+    "long_description": "TypeOS lets you write, edit and format Google Docs with AI. Take any article, video or file across the web and make it your own, without ever switching tabs.",
+    "one_liner": "AI In Google Docs and your Browser",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Education",
+    "launched_at": 1745137302,
+    "tags": [
+      "Education",
+      "B2B",
+      "Productivity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/typeos",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/typeos.json"
   },
   {
     "id": 30454,
@@ -46536,47 +46539,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/okibi.json"
   },
   {
-    "id": 30782,
-    "name": "TectoAI",
-    "slug": "tectoai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/660e2396a1d079a64a42ea2a4ce4b81cefd385f0.png",
-    "website": "https://www.tecto.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help your company identify roles that can be filled by agentic AI tools, onboard them quickly, monitor their performance and behavior post deployment, ensure they remain compliant, and aligned with regulations. Tecto is building the HR system for managing your AI employees! ",
-    "one_liner": "Recruit and Monitor AI Employees",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1752441321,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tectoai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tectoai.json"
-  },
-  {
     "id": 30785,
     "name": "RowFlow",
     "slug": "rowflow",
@@ -46795,7 +46757,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40655594dbcd381c6c79a9439597f94109447459.png",
     "website": "https://heylua.ai/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Lua is putting the power of AI into the hands of SMBs globally.\r\n\r\nLua enables any businesses to launch AI powered sales, support and booking agents in minutes. Our agents seamlessly integrate into a partner’s existing systems and can be distributed across any channel in a couple of clicks (Web, App, Instagram, Messenger, WhatsApp, Email, Voice) - turning every conversation into a unified sales & support experience.\r\n\r\nLua was founded by Lorcan O Cathain (CEO) and Stefan Kruger (CTO)- experienced founders who have spent 15 - 20 years each scaling technology companies across emerging markets.\r\n\r\nLua has active customers in 7 countries and is integrated into some of the world’s largest revenue engines: Shopify, WooCommerce, Ordable, Nuitee, Square and more.\r\n\r\nReach out if you want to talk about how our agents can support in:\r\n- Lowering CAC\r\n- Improving basket conversion rates / ARPU\r\n- Driving automated bookings\r\n- Improving NPS",
+    "long_description": "Lua is putting the power of AI into the hands of SMBs globally.\r\n\r\nLua enables any business to launch AI powered sales, support and booking agents in minutes. Our agents seamlessly integrate into a partner’s existing systems and can be distributed across any channel in a couple of clicks (Web, App, Instagram, Messenger, WhatsApp, Email, Voice) - turning every conversation into a unified sales & support experience.\r\n\r\nLua was founded by Lorcan O Cathain (CEO) and Stefan Kruger (CTO)- experienced founders who have spent 15 - 20 years each scaling technology companies across emerging markets.\r\n\r\nLua has active customers in 7 countries and is integrated into some of the world’s largest revenue engines: Shopify, WooCommerce, Ordable, Nuitee, Square and more.\r\n\r\nReach out if you want to talk about how our agents can support in:\r\n- Lowering CAC\r\n- Improving basket conversion rates / ARPU\r\n- Driving automated bookings\r\n- Improving NPS",
     "one_liner": "Self-Serve AI powered Sales, Support & Booking Agents",
     "team_size": 5,
     "industry": "B2B",

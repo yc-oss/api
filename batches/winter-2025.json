@@ -825,16 +825,10 @@
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1739171711,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Home Services",
-      "AI",
-      "AI Assistant"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -980,7 +974,7 @@
     "website": "https://www.orchids.app/",
     "all_locations": "",
     "long_description": "At Orchids, we’re building the tool that will fundamentally change the way people build apps and websites. Our sole job is to harness increasing AI intelligence into creating the only tool people will ever need to get an app or website out into the world. If this mission resonates with you, we encourage you to apply for a role at Orchids - orchids.app/careers.",
-    "one_liner": "AI Website Builder",
+    "one_liner": "The AI Full Stack Engineer",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4463,7 +4457,9 @@
     "id": 30285,
     "name": "Karsa",
     "slug": "karsa",
-    "former_names": [],
+    "former_names": [
+      "Agency"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e70eb9dc2e6d81269e32986a94420bc07247202.png",
     "website": "https://gokarsa.com/",
     "all_locations": "New York, NY, USA",
@@ -5111,7 +5107,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AfterQuery is a research lab (backed by Y Combinator) investigating the boundaries and capabilities of artificial intelligence through novel datasets and experimentation. We believe that pushing the frontiers of AI requires both rigorous scientific inquiry and exceptional human data.",
     "one_liner": "Research lab investigating the boundaries of AI capabilities.",
-    "team_size": 3,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1738219847,
@@ -5929,7 +5925,7 @@
     "website": "https://paratushealth.com/",
     "all_locations": "Menlo Park, CA, USA",
     "long_description": "Paratus Health is the AI operations layer for outpatient clinics. We build autonomous agents that don’t just assist staff - they replace them, fully handling front desk calls, patient intake, insurance verification, documentation, and billing prep. Everything is deeply integrated into EHRs like Epic and Athena, eliminating the need for fragmented tools and manual work.\r\nNo toggling between systems. No busywork. Just one intelligent system running your clinical operations - faster, smarter, and more profitably than ever before.",
-    "one_liner": "AI-powered intake nurse",
+    "one_liner": "Medical Voice Agents for Patient Management",
     "team_size": 6,
     "industry": "Healthcare",
     "subindustry": "B2B",
@@ -6331,13 +6327,13 @@
   },
   {
     "id": 30349,
-    "name": "Merit",
-    "slug": "merit",
+    "name": "Tally",
+    "slug": "tallyhq",
     "former_names": [
       "Trestle"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2c96bd8be335a4f0edf860808a66780b7b7fa10.png",
-    "website": "https://withmerit.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72ac8465d346726a4daec2178bdd9db6a3a41859.png",
+    "website": "https://tallyhq.com",
     "all_locations": "",
     "long_description": "",
     "one_liner": "Coming soon!",
@@ -6363,8 +6359,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/merit",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/merit.json"
+    "url": "https://www.ycombinator.com/companies/tallyhq",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/tallyhq.json"
   },
   {
     "id": 30350,
@@ -6380,7 +6376,7 @@
     "one_liner": "Reasoning Fine-Tuning",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738700190,
     "tags": [
       "Developer Tools",

@@ -1548,7 +1548,7 @@
     "one_liner": "AI-powered robotics for scientific lab automation.",
     "team_size": 2,
     "industry": "Industrials",
-    "subindustry": "Healthcare -> Industrial Bio",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1745428848,
     "tags": [
       "Robotic Process Automation",
@@ -1745,7 +1745,9 @@
     "id": 30440,
     "name": "Sim",
     "slug": "sim",
-    "former_names": [],
+    "former_names": [
+      "Sim Studio"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6364aefff525f87988267b6c493e25ee8f50af75.png",
     "website": "https://sim.ai",
     "all_locations": "",
@@ -1862,21 +1864,26 @@
   },
   {
     "id": 30443,
-    "name": "VibeGrade",
-    "slug": "vibegrade",
+    "name": "TypeOS",
+    "slug": "typeos",
     "former_names": [
       "GradeAssist"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d8dc7394ebe223693b56adb27edafa4dec5f1a49.png",
-    "website": "https://vibegrade.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c364ff42f5f49e73855b938d253d14065fd07cb2.png",
+    "website": "https://TypeOS.com",
     "all_locations": "",
-    "long_description": "VibeGrade is the AI that works directly inside Google Classroom, Google Docs, and Canvas to grade papers 10x faster, in the teacher's style. \r\n\r\nTeachers often spend hours of their own time grading hundreds of papers, which can lead to rushed and generic feedback for students. \r\n\r\nUnlike other grading tools that require bulk uploads and remove teachers from the process, VibeGrade allows teachers to use AI to write high-quality, teacher-like feedback—right within the LMS.",
-    "one_liner": "Cursor for Teachers",
+    "long_description": "TypeOS lets you write, edit and format Google Docs with AI. Take any article, video or file across the web and make it your own, without ever switching tabs.",
+    "one_liner": "AI In Google Docs and your Browser",
     "team_size": 2,
-    "industry": "Education",
+    "industry": "Consumer",
     "subindustry": "Education",
     "launched_at": 1745137302,
-    "tags": [],
+    "tags": [
+      "Education",
+      "B2B",
+      "Productivity",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -1884,7 +1891,7 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "Education"
+      "Consumer"
     ],
     "regions": [
       "Unspecified"
@@ -1894,8 +1901,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/vibegrade",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/vibegrade.json"
+    "url": "https://www.ycombinator.com/companies/typeos",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/typeos.json"
   },
   {
     "id": 30444,
@@ -2593,7 +2600,7 @@
     "all_locations": "",
     "long_description": "Accountants spend 30-40% of their day in Outlook – chasing clients, replying to questions, and digging through past emails for context.\r\n\r\nBuilt by an ex-Deloitte/Google team, Combinely’s AI-coworker proactively takes on work, helping accountants handle everything from answering client queries to producing & reviewing deliverables.",
     "one_liner": "AI coworker for accountants",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1746104417,
@@ -3028,10 +3035,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/97a1186ade1980432028fbe0af8cf6b4d804a4cb.png",
     "website": "https://runrl.com",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "RunRL improves LLMs and AI agents with reinforcement learning. Do you have a model that needs to get better at a certain task? Are you tired of messing around with prompts? Do you spend a lot of money on observability, and wish that all this data could let your model self-improve? Well, head on over to RunRL.com, and see what we have to offer! If you give us a model, a prompt, and a reward, we’ll make your model’s reward go up.",
     "one_liner": "Reinforcement learning as a service",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1743582739,
@@ -3047,7 +3054,8 @@
       "Infrastructure"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5680,14 +5688,14 @@
   },
   {
     "id": 30560,
-    "name": "SAVA",
-    "slug": "sava",
+    "name": "Foundation Industries",
+    "slug": "foundation-industries",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee2e9cd5e80fd86d9eb6531e8aa3154bb61a0585.png",
-    "website": "https://www.savarobotics.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9c4d6c7b4eeb36609b87bd95a70ffca51164330.png",
+    "website": "https://www.foundation-industries.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "SAVA is rebuilding sheet metal manufacturing from the ground up. From Ford Trucks to NASA Space Shuttles, sheet metal is the cornerstone of American Manufacturing - but the industry runs on 30-year-old technology and a shrinking workforce.\r\n\r\nAlessio and Vedic competed in high school robotics when they met Jakob at Georgia Tech's Robotics labs. After witnessing Vedic's father's 12-hour shifts and visiting manufacturers across the US, they saw an industry trapped by legacy constraints: manual processes, skilled labor shortages, and unused automation.\r\n\r\nSAVA is building a fully integrated manufacturing system that eliminates skilled operators while delivering superior speed, quality, and economics. They're already reducing customer iteration cycles from 5-6 days to 1-2 days for companies like Pave Robotics - proving the technology works in real production environments.\r\n\r\nThey're not just replacing human operators with robots - they're building the foundation to replace an entire industry built on outdated technology with modern manufacturing intelligence.",
-    "one_liner": "Autonomous Factories for American Manufacturing",
+    "long_description": "Our team combines deep expertise from Fabricator’s Inc., a sheet metal business which has served the Midsouth, Southeast, and Midwest region for over 70 years, with technologists from Palantir Technologies, NASA, and the Georgia Institute of Technology.\r\n\r\nTogether, we will combine the innovative spirit of Silicon Valley with the deep knowledge of American manufacturing to ensure a safer, more prosperous future for all.",
+    "one_liner": "Industrial Holding Company",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -5716,8 +5724,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sava",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/sava.json"
+    "url": "https://www.ycombinator.com/companies/foundation-industries",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/foundation-industries.json"
   },
   {
     "id": 30561,
