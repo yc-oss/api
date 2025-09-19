@@ -5878,7 +5878,9 @@
     "id": 29379,
     "name": "Trieve",
     "slug": "trieve",
-    "former_names": [],
+    "former_names": [
+      "Arguflow"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e020de4d43f09ae8fc176bd79fd704be218893b7.png",
     "website": "https://trieve.ai",
     "all_locations": "San Francisco, CA, USA",
@@ -5900,7 +5902,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -6783,6 +6785,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/klavis-ai.json"
   },
   {
+    "id": 30510,
+    "name": "Cactus",
+    "slug": "cactus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png",
+    "website": "https://www.cactuscompute.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "App developers and businesses can now deploy private, local, offline AI models locally in their mobile apps, achieving up to 150 tokens/sec and <50ms time to first token. \r\n\r\nCactus is used by 3k+ developers and completes 500k+ weekly inference tasks on phones today. Cactus powers cool AI wearables like Pebble. \r\n\r\nIt is open-source! Check out the repo: https://github.com/cactus-compute/cactus",
+    "one_liner": "Kernels & Engine for running AI on phones",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1752189935,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Hard Tech",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/cactus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/cactus.json"
+  },
+  {
     "id": 30518,
     "name": "Zero",
     "slug": "zero",
@@ -6956,48 +7001,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/epicenter",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/epicenter.json"
-  },
-  {
-    "id": 30710,
-    "name": "mcp-use",
-    "slug": "mcp-use",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a3741e5c8fc7d9b30c081ec6b9b3a70e387566d.png",
-    "website": "https://mcp-use.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy custom AI agents with MCP servers. \r\nOur library has over 170,000 downloads and 7,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
-    "one_liner": "Open-source dev tools and infrastructure for MCP.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1752861544,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mcp-use",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/mcp-use.json"
   },
   {
     "id": 30772,
