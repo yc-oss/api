@@ -13305,7 +13305,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -15848,53 +15848,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/continue",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/continue.json"
-  },
-  {
-    "id": 28959,
-    "name": "sizeless",
-    "slug": "sizeless",
-    "former_names": [
-      "sizeless GmbH"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90ad40c9214ea17e0132605fba1e092c86e8b9a0.png",
-    "website": "https://www.sizeless.co",
-    "all_locations": "San Francisco, CA, USA; Zürich, ZH, Switzerland",
-    "long_description": "Sizeless is a platform to help ML teams automatically run, test and improve their models to make ML reproducible and safe. Currently, ML engineers do this manually which takes weeks - we automate this down to a few clicks. ML engineers at Google shopping and computer vision startups are using our platform to shorten their ML development cycle and continuously monitor and fine tune their models. We provide ML engineers with a productivity tool set, so that they can focus on building great ML models. \r\n\r\nWe developed this tool during our PhDs (Cornelius in ML at ETH Zurich and Roger in astrophysics at Cambridge), saving us and our PhD colleagues around 2 weeks per model while generating actionable insights. \r\n\r\nWe launched 10 days ago, have 5 daily active users like ML engineering teams at Google Shopping and in computer vision startups and more than 50 sign ups on our waitlist. We provide ML engineers with a productivity tool set, so that they can focus on building great ML models.",
-    "one_liner": "Make ML models reproducible and safe.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1691128419,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "DevOps",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "Switzerland",
-      "America / Canada",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sizeless",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/sizeless.json"
   },
   {
     "id": 28994,
@@ -22633,7 +22586,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png",
     "website": "https://www.cactuscompute.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "App developers and businesses can now deploy private, local, offline AI models locally in their mobile apps, achieving up to 150 tokens/sec and <50ms time to first token. \r\n\r\nCactus is used by 3k+ developers and completes 500k+ weekly inference tasks on phones today. Cactus powers cool AI wearables like Pebble. \r\n\r\nIt is open-source! Check out the repo: https://github.com/cactus-compute/cactus",
+    "long_description": "App developers can now deploy private, local, offline AI models in their mobile apps, achieving up to 150 tokens/sec and <50ms time to first token. \r\n\r\nCactus is used by 3k+ developers and completes 500k+ weekly inference tasks on phones today. It is open-source! Check out the repo: https://github.com/cactus-compute/cactus",
     "one_liner": "Kernels & Engine for running AI on phones",
     "team_size": 3,
     "industry": "B2B",
@@ -23152,17 +23105,14 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cab11cbab7740801b864a1576c8a78d2f69fa8e6.png",
     "website": "https://www.bitrig.app",
-    "all_locations": "Cupertino, CA, USA",
+    "all_locations": "",
     "long_description": "Bitrig is the only vibe coder that writes native Swift, which is how the top mobile apps are coded. It's like Lovable for iPhone apps.\r\n\r\nKyle and Jacob are creators of SwiftUI, Apple's UI framework for building modern iOS apps, and led its development for the past 10 years. Tim was co-founder and designer of Storehouse, where he won an Apple Design Award and was later acquired by Square. \r\n\r\nDownload bitrig from the App Store:\r\nhttps://apps.apple.com/us/app/bitrig/id6747835910",
     "one_liner": "Vibe code, test, and deploy Swift apps. All from your iPhone.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1755626076,
-    "tags": [
-      "Developer Tools",
-      "Design Tools"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -23174,8 +23124,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
