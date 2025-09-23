@@ -728,7 +728,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14088,7 +14088,7 @@
     "one_liner": "Digital ledger App for Latam microbusinesses",
     "team_size": 70,
     "industry": "B2B",
-    "subindustry": "Fintech -> Payments",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1611327725,
     "tags": [
       "SaaS",
@@ -16416,7 +16416,7 @@
     "name": "Tavus",
     "slug": "tavus",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/524618d04e06e80b3d102074805211370be144c2.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ec34501cca11c6da0cb968806ccdc60d66356e3.png",
     "website": "https://www.tavus.io",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Tavus, we're building the human layer of AI. Our mission is to make human-AI interaction as natural as face-to-face interaction, enabling the human touch where it has been previously unscalable. We achieve this through pioneering research in multi-modal AI models for human perception and understanding, combined with state-of-the-art human avatar rendering and conversation models that we make accessible to developers worldwide. Our models and APIs power everything from text-to-video AI avatars to real-time conversational video experiences across industries like healthcare, recruiting, sales, education, and more. By enabling AI to see, hear, and communicate with human-like authenticity, we're creating the foundation for developers to create the next generation of AI employees, assistants, and companions.",
@@ -17449,7 +17449,7 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Formance Platform is building open-source infrastructure for the next wave of financial services. It enables fintech engineers to build and operate complex flow of funds, weaving together multiple payment rails with internal ledger accounts.\r\n\r\ngithub.com/formancehq/stack",
     "one_liner": "Open Source Infrastructure for the Financial Internet",
-    "team_size": 14,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1626469942,
@@ -34626,7 +34626,10 @@
     "id": 29082,
     "name": "Strada",
     "slug": "strada",
-    "former_names": [],
+    "former_names": [
+      "Strada",
+      "Finbox"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1ed3e2a5a9fdba541eb63fd5da473fcbac4b34f.png",
     "website": "https://www.getstrada.com/",
     "all_locations": "San Francisco, CA, USA",
@@ -34634,7 +34637,7 @@
     "one_liner": "Phone AI agents for insurance",
     "team_size": 7,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B",
     "launched_at": 1690570692,
     "tags": [
       "Artificial Intelligence",
@@ -39051,7 +39054,7 @@
     "name": "Planbase",
     "slug": "planbase",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7bb2095eee262d19dd91898d7ff8f4b05d7c5534.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2283723118896cdc45f7ca77ac9046bc30d61194.png",
     "website": "https://www.joinplanbase.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Planbase has everything health clinics need to manage their team in one place: capacity planning, employee scheduling, credentialing and payroll.\r\n",
@@ -40065,15 +40068,15 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1718222641,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Security",
-      "Cybersecurity",
-      "AI"
+      "Cybersecurity"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -40138,48 +40141,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/autarc",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/autarc.json"
-  },
-  {
-    "id": 29830,
-    "name": "Typa",
-    "slug": "typa",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74f7d5dd25dfbf635ab8f820ebcf2a435f74696c.png",
-    "website": "https://typa.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Typa is the storytelling platform for building a strong brand presence across socials (X/LinkedIn). Busy founders can simply participate in bi-weekly voice calls and complete a few follow-up tasks - all through a 24/7 available AI agent - and posts will be crafted by professionals + AI. Simply review + schedule them on the platform, without sharing personal credentials.",
-    "one_liner": "AI-powered, professionally reviewed ghostwriting for busy founders",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1718861250,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/typa",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/typa.json"
   },
   {
     "id": 29836,
@@ -41873,6 +41834,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nextbyte",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/nextbyte.json"
+  },
+  {
+    "id": 30187,
+    "name": "Praxim",
+    "slug": "praxim",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be59095cc480f86c19c6f83b000c574f9e8e3cd0.png",
+    "website": "https://www.praxim.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Praxim is the best way to edit your Word documents with AI. With a single prompt, Praxim makes edits across your entire document with context from your preferences, files, and the web. It knows exactly what to change and what to keep and is the only Word editor with word-level granularity—precisely editing only what needs editing, not making brute block replacements.",
+    "one_liner": "The first agentic Word editor",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1740746196,
+    "tags": [
+      "SaaS",
+      "Consumer",
+      "B2B",
+      "AI",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/praxim",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/praxim.json"
   },
   {
     "id": 30201,
@@ -46503,7 +46507,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/741086b6ee1ac324a06d9b831065e36b5b8e9d9b.png",
     "website": "https://dscribeai.com/",
-    "all_locations": "Olathe, KS, USA",
+    "all_locations": "Overland Park, KS, USA",
     "long_description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. We're starting by helping the ag and mining industry track stockpiles of grain and gravel.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 30 to 50%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure’s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform and have signed one of the largest agricultural company in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
     "one_liner": "Computer vision for bulk inventory tracking",
     "team_size": 3,
@@ -46511,10 +46515,10 @@
     "subindustry": "B2B",
     "launched_at": 1752017595,
     "tags": [
+      "Artificial Intelligence",
       "Drones",
       "B2B",
       "Agriculture",
-      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -46725,14 +46729,14 @@
     "subindustry": "Fintech -> Payments",
     "launched_at": 1758482945,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Payments",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
