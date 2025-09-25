@@ -1215,7 +1215,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19861,16 +19861,16 @@
     "website": "https://tractian.com",
     "all_locations": "Atlanta, GA, USA",
     "long_description": "Tractian transforms machine data into uptime, captures shop-floor know-how, and accelerates manufacturing throughput.",
-    "one_liner": "Run Manufacturing Without Downtime.",
+    "one_liner": "Machines and Teams, now in sync.",
     "team_size": 530,
     "industry": "Industrials",
     "subindustry": "B2B -> Operations",
     "launched_at": 1613167873,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "IoT",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21093,9 +21093,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34b205bfaa1f489d8476a0f6fc5723576e3a9a03.png",
     "website": "https://waydev.co",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Empowering Enterprise and Fortune 500 Companies with Advanced Software Engineering Intelligence.",
-    "one_liner": "Software Engineering Intelligence (SEI) : DORA, SPACE, DX",
-    "team_size": 15,
+    "long_description": "Waydev AI is the first conversational platform for engineering, helping you measure productivity, track AI’s impact, and guide your teams with data-backed confidence.",
+    "one_liner": "The AI-Native Engineering Intelligence Platform ",
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1616455133,
@@ -22111,10 +22111,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be16f533fa3c585f372247f4f8cbf40d31f24c27.png",
     "website": "https://affogato.ai",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "Affogato is Cursor for short videos—an AI copilot that turns your ideas into ready-to-publish videos for TikTok, Instagram, and more.\r\nJust describe what you want, and Affogato handles the rest—scripts, voices, visuals, scenes, and edits—no timelines, no tools, no learning curve. Whether you’re marketing a product, telling a story, or just posting for fun, Affogato helps you create scroll-stopping content in minutes.",
-    "one_liner": "Affogato is Cursor for short videos",
-    "team_size": 20,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Affogato AI is your all-in-one AI Video Agent, designed to help businesses, eCommerce sellers, agencies, and creators produce professional short-form videos instantly. From TikTok ads and Instagram Reels to YouTube Shorts, UGC content, and branded campaigns, Affogato makes high-quality video creation simple, fast, and scalable. No editing skills required — just type an idea and get campaign-ready videos that look studio-made, in minutes.",
+    "one_liner": "Affogato AI — Your Agent for instant TikToks, Reels, and ads.",
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1626192507,
@@ -22134,8 +22134,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "India",
-      "South Asia"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -33610,6 +33610,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/onetext.json"
   },
   {
+    "id": 27680,
+    "name": "Trigger.dev",
+    "slug": "trigger-dev",
+    "former_names": [
+      "API Hero"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/737382941e8e44eb83d28fa6b26854131dcdfcf9.png",
+    "website": "https://trigger.dev",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Trigger.dev is the open source platform for building AI workflows in TypeScript. Long-running tasks with retries, queues, full observability, and elastic scaling.\r\n\r\nPreviously, the founders built JSON Hero, an open source JSON viewer that is currently used by more than 35k developers a month. Eric was CTO of Code School, an early code learning platform that was acquired in 2015. Matt created two iPad apps that won Apple’s App of the Year.",
+    "one_liner": "Build and deploy fully‑managed AI agents and workflows",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1665673307,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trigger-dev",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/trigger-dev.json"
+  },
+  {
     "id": 27686,
     "name": "DrDroid",
     "slug": "drdroid",
@@ -37375,6 +37422,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/twenty",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/twenty.json"
+  },
+  {
+    "id": 28780,
+    "name": "Clearest Health",
+    "slug": "clearest-health",
+    "former_names": [
+      "Mano AI",
+      "Mano"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d4c1cc0751098e00020fe57a63b4a98b4977331.png",
+    "website": "https://clearesthealth.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "We are rebuilding the core infrastructure behind corporate health insurance, everything from care navigation, analytics, claims, and more. Fully cloud-native and AI-first. We are eager to directly impact the health and savings of 60% of the American population.",
+    "one_liner": "Rebuilding trust in American health insurance.",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "B2B",
+    "launched_at": 1686714264,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Health Tech",
+      "B2B",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clearest-health",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/clearest-health.json"
   },
   {
     "id": 28784,
@@ -45037,42 +45130,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/retailready.json"
   },
   {
-    "id": 29518,
-    "name": "Dropback",
-    "slug": "dropback",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7cff51aae96543f4a2b5a8f4b6e64e2b3823e6e.png",
-    "website": "https://www.dropback.com",
-    "all_locations": "Remote",
-    "long_description": "Dropback is building front office software for the future of college sports. We help major athletic departments manage their teams' \"salary caps\" and roster limits to construct their most competitive rosters.\r\n\r\nJust two years ago, it became legal for athletes to earn an income beyond their scholarships. Since then, despite college athletes earning $2B+, rapid regulation change has put college sports in disarray. Dropback brings order to this chaos through custom compensation frameworks, roster management, what-if playgrounds, and more--ultimately helping elite programs optimize spend & maximize talent.",
-    "one_liner": "The front office software suite for college sports",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Unspecified",
-    "launched_at": 1709324321,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/dropback",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/dropback.json"
-  },
-  {
     "id": 29523,
     "name": "K-Scale Labs",
     "slug": "k-scale-labs",
@@ -45494,44 +45551,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/saphira-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/saphira-ai.json"
-  },
-  {
-    "id": 29589,
-    "name": "Theseus",
-    "slug": "theseus",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05b004a38c0a5df5a4e151b258151cd9a38f08c8.png",
-    "website": "https://theseus.us",
-    "all_locations": "",
-    "long_description": "We're building a Micro Visual Positioning System (VPS) that can be retrofit onto any drone that simulates a GPS. Our VPS uses cameras and an accelerometer/gyroscope as well as reference satellite imagery for positioning. The system is entirely self contained, can't be jammed and has no RF signature. ",
-    "one_liner": "GPS Denied Navigation for Drones",
-    "team_size": 3,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Drones",
-    "launched_at": 1725406335,
-    "tags": [
-      "Drones"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Drones"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/theseus",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/theseus.json"
   },
   {
     "id": 29597,
@@ -48652,16 +48671,16 @@
     "website": "https://BrowserOS.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "BrowserOS is an open-source agentic browser that runs AI agents locally.",
-    "one_liner": "Open source Agentic Browser",
+    "one_liner": "The Open Source Agentic Browser",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1722468998,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Consumer",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49668,6 +49687,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sphinx",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/sphinx.json"
+  },
+  {
+    "id": 30073,
+    "name": "Pearson Labs",
+    "slug": "pearson-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e33a2875f652bdd69936c606147614f5fff8283.png",
+    "website": "http://www.pearsonlabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pearson builds AI agents to automate corporate transactions. Large law firms use us to run gigantic books of businesses with AI, reducing their cost of delivery 40-60%. We work with Orrick as our first design partner, starting with M&A due diligence and financings. $3-6T dollars flow through corporate transactions a year and lawyers take home 1-3% as their cut for every transaction ($150B / year). In the long run, we will capture 50% of the corporate transaction market with the top 30 law firms. We will then provide our AI to companies so they can execute these transactions themselves.",
+    "one_liner": "AI agents to automate corporate transactions",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1731901982,
+    "tags": [
+      "Generative AI",
+      "Legal",
+      "LegalTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pearson-labs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/pearson-labs.json"
   },
   {
     "id": 30074,
@@ -51451,10 +51512,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05c8cff591b86d49ecb387cae532233ca6d248ee.png",
     "website": "https://pax.markets/",
-    "all_locations": "",
+    "all_locations": "Redwood City, CA, USA",
     "long_description": "PAX is a new crypto exchange and is the first – in all capital markets – to operate from a single chip rather than an entire datacenter. PAX moves traders to within nanometers of the exchange – closer than ever before possible.\r\n\r\nSuch proximity unlocks unprecedented value to high frequency customers and PAX shares this value by offering zero-fee with cash-back to every other market participant on every trade. PAX is to exchange as Robinhood was to retail brokerage: the first in the industry to “go to zero” and a complete game changer across every asset and geography.\r\n\r\nPAX founders, Pete and Ben have spent years working as high-frequency traders, from crypto to traditional markets. Having directly experienced the benefit of electronic trading, they share a belief in its potential to further evolve and create better global markets.",
     "one_liner": "Exchange and co-located trading facility, on a chip.",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "Fintech",
     "subindustry": "Fintech -> Banking and Exchange",
     "launched_at": 1738613936,
@@ -51470,7 +51531,8 @@
       "Banking and Exchange"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -54235,7 +54297,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "QualGent is an AI Mobile App Quality Assurance Tester that mimics a real human, helping teams catch bugs and ship faster - without hiring more QA testers. One customer reached #3 in the Education category on the App Store by improving app quality with QualGent.\r\n\r\nMobile bugs hurt: crashes kill ratings, broken checkouts drive churn. QualGent helps teams scale QA effortlessly and avoid Sonos-level disasters.\r\n\r\nThe idea for QualGent was born from the founders’ experience leading engineering teams at Google across Android XR, Stadia, Quick Share, and foldable devices where shipping to billions of users meant constantly facing the painful trade-off between moving fast and maintaining quality. With prior research experience at Nvidia, Maryland, and Berkeley, the team saw a clear opportunity: use AI to scale QA.\r\n\r\nQualGent’s vision is to close the loop on software creation. As AI enables engineers to code 100x faster, QualGent eliminates the next bottleneck—software verification—unlocking truly scalable, end-to-end software development.",
     "one_liner": "AI Mobile App Quality Assurance Tester",
-    "team_size": 6,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1747257305,
@@ -55783,7 +55845,9 @@
     "id": 30782,
     "name": "TectoAI",
     "slug": "tectoai",
-    "former_names": [],
+    "former_names": [
+      "TectoAI Inc."
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/660e2396a1d079a64a42ea2a4ce4b81cefd385f0.png",
     "website": "https://www.tecto.ai/",
     "all_locations": "",
