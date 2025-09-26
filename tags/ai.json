@@ -1220,7 +1220,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2017",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Healthcare",
       "Consumer Health and Wellness"
@@ -1724,7 +1724,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2018",
     "status": "Active",
@@ -3899,53 +3899,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2020/dataland.json"
   },
   {
-    "id": 22241,
-    "name": "Warmly,",
-    "slug": "warmly",
-    "former_names": [
-      "Warmly"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/480be3f11921bc9ec24d0fe4b1f09548d6b9ec5c.png",
-    "website": "https://www.warmly.ai/",
-    "all_locations": "Denver, CO, USA; Remote",
-    "long_description": "Step 1: We find you warm leads: contacts + companies that are showing interest on your website (via 6sense/Clearbit) and researching you around the web (via Bombora) but haven't converted yet.\r\n\r\nStep 2: We then auto follow up via chat, email or LinkedIn. Depends what workflows you want to set up - we can AI chat with them on your website, auto AI email them via your sequence provider of choice, and/or auto AI linkedin sequence them. Your humans can verify everything before being sent too. \r\n\r\nOutcome: 10x more outbound than a human SDR, 3x reply rates since they're warm and more booked meetings (results shown in ROI dashboard). \r\n\r\nP.S. if you want to use humans: you can send 1-click warm intro requests via your network or live chat/video call them too.\r\n\r\nThis is the power of an autonomous sales orchestration platform and we have 100+ paying customers who can back it up.\r\n ",
-    "one_liner": "Autonomous sales platform to auto-email your warmest leads",
-    "team_size": 75,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1594773565,
-    "tags": [
-      "B2B",
-      "Productivity",
-      "Sales",
-      "Sales Enablement",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/warmly",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/warmly.json"
-  },
-  {
     "id": 22277,
     "name": "Heron Data",
     "slug": "heron-data",
@@ -4938,6 +4891,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/serif-health",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/serif-health.json"
+  },
+  {
+    "id": 23973,
+    "name": "Jestor",
+    "slug": "jestor",
+    "former_names": [
+      "jestor"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed71eb78590220cc6aa2f5441853b5ee33591ba5.png",
+    "website": "https://jestor.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Build internal tools for your business with just a few clicks. No developers are required to create custom workflows, Kanban boards, tables, apps, forms, dashboards, and more. Leverage AI to eliminate manual work.",
+    "one_liner": "Jestor is a no-code platform for creating custom business tools.",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1626482465,
+    "tags": [
+      "B2B",
+      "Productivity",
+      "No-code",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/jestor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/jestor.json"
   },
   {
     "id": 23977,
@@ -7286,53 +7285,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/finnt",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/finnt.json"
-  },
-  {
-    "id": 25732,
-    "name": "Sprites",
-    "slug": "sprites",
-    "former_names": [
-      "Campfire"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f89411c2e9172cac0eae74bed5485e42a289ab94.png",
-    "website": "https://sprites.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sprites AI automates customer acquisition for entrepreneurs. Our AI agent handles managing SEO, running paid ad campaigns, content marketing, influencer outreach—tasks that normally require hiring multiple people or agencies. \r\n\r\nEntrepreneurs using our platform acquire customers much faster and scale their growth funnel without the overhead of building marketing teams or hiring expensive agencies. \r\n\r\nThe result: SMBs and solo founders can now scale revenue like they have a full marketing department, but it's just software. \r\n\r\nWe're arming entrepreneurs and small businesses globally with systematic customer acquisition run by AI- so they can focus on the important things that make their offering unique. ",
-    "one_liner": "The AI marketing agent for entrepreneurs, agencies and growth teams",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "Consumer -> Gaming",
-    "launched_at": 1645693578,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Marketing",
-      "No-code",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sprites",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/sprites.json"
   },
   {
     "id": 25753,
@@ -12055,6 +12007,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/shortloop.json"
   },
   {
+    "id": 27897,
+    "name": "TableFlow",
+    "slug": "tableflow",
+    "former_names": [
+      "Inquery"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fad6d127e5843dda3d9f06585de22ad73a6df795.png",
+    "website": "https://tableflow.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "TableFlow builds AI teammates for data tasks, helping operations and data teams automate the messy, manual tasks buried in PDFs, spreadsheets, images, and emails.",
+    "one_liner": "AI Teammates for Data Tasks",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1676487521,
+    "tags": [
+      "Documents",
+      "SaaS",
+      "Data Engineering",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tableflow",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/tableflow.json"
+  },
+  {
     "id": 27909,
     "name": "Magicflow 𐂂",
     "slug": "magicflow",
@@ -14910,48 +14907,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/quill-bills.json"
   },
   {
-    "id": 29088,
-    "name": "Cair Health",
-    "slug": "cair-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/174cf352bddd34701bef4a958ce1e21e7d49de3d.png",
-    "website": "https://www.cairhealth.com/",
-    "all_locations": "",
-    "long_description": "Still in stealth. Reach out to learn more!\r\n\r\nBacked by Y Combinator, Foundation Capital, Soma Capital, & Capital X. ",
-    "one_liner": "Predictive analytics and automation for medical claims",
-    "team_size": 6,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1690913334,
-    "tags": [
-      "Health Tech",
-      "Healthcare",
-      "Health Insurance",
-      "AI",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cair-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/cair-health.json"
-  },
-  {
     "id": 29091,
     "name": "Webhound",
     "slug": "webhound",
@@ -16130,6 +16085,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/poka-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/poka-labs.json"
+  },
+  {
+    "id": 29253,
+    "name": "Andon Labs",
+    "slug": "andon-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7330cbaf802a2b7ccf2d046a09809940eb0d1050.png",
+    "website": "https://andonlabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Safety from humans in the loop is a mirage. We evaluate, research, and apply AI control in our own real-world deployments of autonomous organizations.\r\n\r\nWe are building the Safe Autonomous Organization. We iteratively launch and scale autonomous organizations, while bridging AI control research with real-world testing.",
+    "one_liner": "Autonomous organizations without humans in the loop",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1699380174,
+    "tags": [
+      "Machine Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/andon-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/andon-labs.json"
   },
   {
     "id": 29256,
@@ -17872,7 +17867,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -20496,6 +20491,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/brighterway.json"
   },
   {
+    "id": 29777,
+    "name": "Zettascale",
+    "slug": "zettascale",
+    "former_names": [
+      "Exa Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d24db5f94c1d947d295a894627b74215cc5d32b.png",
+    "website": "https://zscc.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zetta is building the next NVIDIA, energy-efficient chips (\"XPUs\") for AI training and inference, offering superior speed and energy efficiency compared to traditional GPUs and TPUs.\r\n\r\nOur XPUs are reconfigurable, capable of optimizing the dataflow of each model, making them faster and more energy-efficient than the current SOTA chips on the market. This saves data centers *billions* in cooling and energy costs.",
+    "one_liner": "Energy efficient chips for AI",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1722631140,
+    "tags": [
+      "Hardware",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zettascale",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/zettascale.json"
+  },
+  {
     "id": 29778,
     "name": "Praxos",
     "slug": "praxos",
@@ -21407,47 +21444,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/henry-2",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/henry-2.json"
-  },
-  {
-    "id": 29955,
-    "name": "BrowserOS",
-    "slug": "browseros",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0569d225c5895045f70a5f0dc83c9dc50b44852.png",
-    "website": "https://BrowserOS.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "BrowserOS is an open-source agentic browser that runs AI agents locally.",
-    "one_liner": "The Open Source Agentic Browser",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1722468998,
-    "tags": [
-      "Generative AI",
-      "Consumer",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/browseros",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/browseros.json"
   },
   {
     "id": 29957,
@@ -22972,49 +22968,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/edgedive",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/edgedive.json"
-  },
-  {
-    "id": 30111,
-    "name": "Foundry",
-    "slug": "foundry",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58c5d9a291d918029b97da37895c181287b5d4c4.png",
-    "website": "https://www.foundryrl.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building the an end-to-end web simulator for browser agent training and evals. Our system enables teams to test, benchmark, and optimize browser automation models at scale.\r\n\r\n- Deterministic Web Simulation → Stable, reproducible testing with versioned web snapshots.\r\n- Live Web Evaluation → Identify failures caused by UI drift, captchas, and dynamic content.\r\n- Automated Annotation & Labeling → Generate high-quality training data for benchmarking.\r\n- RL-Driven Agent Optimization → Improve models with scalable, feedback-driven learning.\r\n\r\nBy combining synthetic user simulations, automated evaluations, and large-scale benchmarking, we help teams build more reliable web agents that handle real-world environments with confidence.",
-    "one_liner": "World Model for Browser Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1731963387,
-    "tags": [
-      "Deep Learning",
-      "Developer Tools",
-      "Reinforcement Learning",
-      "Data Labeling",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/foundry",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/foundry.json"
   },
   {
     "id": 30112,
@@ -28710,7 +28663,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f34cf0cf02c3e2059e48082daf0ddc693722515.png",
     "website": "https://floot.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI. 14,000 users have created over 16,000 apps on Floot.\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
+    "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI.\r\n\r\n✨ Try building an app at floot.com\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
     "one_liner": "The easiest way for non-coders to build apps with AI.",
     "team_size": 2,
     "industry": "B2B",
@@ -28786,6 +28739,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/palace",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/palace.json"
+  },
+  {
+    "id": 30732,
+    "name": "Humoniq",
+    "slug": "humoniq",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b4b4793c04b2144e6d808676c5d789049433c7b.png",
+    "website": "https://humoniq.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Humoniq is building the first AI-Native BPO for the travel & transport industries, which outsource $20B of customer support each year. Our AI-native approach improves speed, accuracy, and satisfaction.\r\n\r\nOur team is uniquely equipped to solve this challenge. We previously grew a travel management company, Flightfox (YC S12), to $22M/yr. We handled thousands of customer requests each month, which exposed the limitations of traditional outsourcing.",
+    "one_liner": "AI-Native BPO for travel & transport",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1751772864,
+    "tags": [
+      "Travel",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/humoniq",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/humoniq.json"
   },
   {
     "id": 30734,
@@ -29615,7 +29608,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",

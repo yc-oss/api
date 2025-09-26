@@ -272,7 +272,12 @@
     "former_names": [
       "Symplex",
       "Demigod",
-      "Violet"
+      "Violet",
+      "communion",
+      "violet",
+      "demigod",
+      "symplex",
+      "demigod"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d00082c6c460a53f88a48b2d600f61bd2f6b633.png",
     "website": "",
@@ -281,7 +286,7 @@
     "one_liner": "Applied Reinforcement Learning Research Laboratory",
     "team_size": 8,
     "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
+    "subindustry": "B2B",
     "launched_at": 1556077735,
     "tags": [
       "Artificial Intelligence",
@@ -293,7 +298,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -822,6 +827,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/waydev",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/waydev.json"
+  },
+  {
+    "id": 24080,
+    "name": "Zaz OS",
+    "slug": "zaz-os",
+    "former_names": [
+      "Rio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c4bc92f268740a2d36a89a6d41f7a2d301d9c38.png",
+    "website": "https://www.zazos.com/",
+    "all_locations": "São Paulo, SP, Brazil",
+    "long_description": "Zaz OS is a “Lovable for internal products”: an AI-native platform with an opinionated infrastructure that makes it easy to build and edit Apps and Agents through vibe-coding. Using spec-driven development, it ensures consistency and security for critical processes, solving challenges like user management, notifications, and multi-app integration within a single interface.\r\n\r\nWith over eight years of experience in back-office and HR, Zaz OS was designed from the ground up with core structural issues already solved and the flexibility to adapt to each company’s unique needs. The result is the speed to build and iterate, combined with the robustness required for mission-critical processes — the ultimate solution to replace the Frankenstein stack of SaaS tools that currently dominates company management.\r\nAs companies grow, the lack of customization of current software forces Heads of HR to buy multiple disconnected tools, allocate engineers to build and maintain people-related projects or use spreadsheets.",
+    "one_liner": "Lovable for internal products",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1627047912,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "HR Tech",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Brazil",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zaz-os",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/zaz-os.json"
   },
   {
     "id": 24093,
@@ -5879,7 +5930,7 @@
     "slug": "epicenter",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15e87b5dae1ddc0ace7595505c49a86f51b6979a.png",
-    "website": "https://epicenter.so/",
+    "website": "https://epicenter.md",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Epicenter is building ChatGPT's memory feature in an open, portable format. This means you can take your entire chat history and plug it into another app, so it knows you instantly.\r\n\r\nOur long-term vision is to become the SSO for AI applications. Users use Epicenter to plug into any service, and they'll own their data, choose their models, and replace siloed apps with interoperable alternatives. Developers will use our framework to build highly customized experiences for said users.\r\n\r\nRight now, we're leading by example by building our own suite of tools on top of Epicenter. We store all your work—notes, transcripts, chat histories—in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, and so on. It's open, tweakable, and transparent. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nYou should own your memory in the same way you own your brain. ❤️",
     "one_liner": "ChatGPT's memory feature in an open, portable format",

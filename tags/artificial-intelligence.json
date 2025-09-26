@@ -3541,7 +3541,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2018",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Industrials",
       "Manufacturing and Robotics"
@@ -4309,6 +4309,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2019/askdata.json"
   },
   {
+    "id": 12036,
+    "name": "Probably Genetic",
+    "slug": "probably-genetic",
+    "former_names": [
+      "Aiwa Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9558e9a7114240a3f1e2a6378bd906ffe21826f3.png",
+    "website": "https://www.probablygenetic.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Probably Genetic is changing the lives of patients living with severe, complex diseases. Our data platform is used by drug developers and patient advocacy groups to develop and launch treatments for these patients. Our technology discovers undiagnosed patients online, analyzes their disease state using machine learning and at-home testing, and enables compliant communication with patients. In doing so, we help patients access diagnoses, clinical trials, and treatments as early as possible.",
+    "one_liner": "Patient Intelligence Platform for Genetic Disease ",
+    "team_size": 20,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1541561609,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Biotech",
+      "Genomics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2019",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Diagnostics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/probably-genetic",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/probably-genetic.json"
+  },
+  {
     "id": 12040,
     "name": "Superorder",
     "slug": "superorder",
@@ -4629,7 +4673,12 @@
     "former_names": [
       "Symplex",
       "Demigod",
-      "Violet"
+      "Violet",
+      "communion",
+      "violet",
+      "demigod",
+      "symplex",
+      "demigod"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d00082c6c460a53f88a48b2d600f61bd2f6b633.png",
     "website": "",
@@ -4638,7 +4687,7 @@
     "one_liner": "Applied Reinforcement Learning Research Laboratory",
     "team_size": 8,
     "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
+    "subindustry": "B2B",
     "launched_at": 1556077735,
     "tags": [
       "Artificial Intelligence",
@@ -4650,7 +4699,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -6678,6 +6727,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2020/glimpse-2.json"
   },
   {
+    "id": 22241,
+    "name": "Warmly,",
+    "slug": "warmly",
+    "former_names": [
+      "Warmly"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/480be3f11921bc9ec24d0fe4b1f09548d6b9ec5c.png",
+    "website": "https://www.warmly.ai/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Step 1: We find you warm leads: contacts + companies that are showing interest on your website (via 6sense/Clearbit) and researching you around the web (via Bombora) but haven't converted yet.\r\n\r\nStep 2: We then auto follow up via chat, email or LinkedIn. Depends what workflows you want to set up - we can AI chat with them on your website, auto AI email them via your sequence provider of choice, and/or auto AI linkedin sequence them. Your humans can verify everything before being sent too. \r\n\r\nOutcome: 10x more outbound than a human SDR, 3x reply rates since they're warm and more booked meetings (results shown in ROI dashboard). \r\n\r\nP.S. if you want to use humans: you can send 1-click warm intro requests via your network or live chat/video call them too.\r\n\r\nThis is the power of an autonomous sales orchestration platform and we have 100+ paying customers who can back it up.\r\n ",
+    "one_liner": "Autonomous sales platform to auto-email your warmest leads",
+    "team_size": 60,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1594773565,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Productivity",
+      "Sales",
+      "Sales Enablement"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/warmly",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/warmly.json"
+  },
+  {
     "id": 22273,
     "name": "Fieldguide",
     "slug": "fieldguide",
@@ -8570,52 +8666,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/abstra.json"
   },
   {
-    "id": 23973,
-    "name": "Jestor",
-    "slug": "jestor",
-    "former_names": [
-      "jestor"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed71eb78590220cc6aa2f5441853b5ee33591ba5.png",
-    "website": "https://jestor.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Build internal tools for your business with just a few clicks. No developers are required to create custom workflows, Kanban boards, tables, apps, forms, dashboards, and more. Leverage AI to eliminate manual work.",
-    "one_liner": "Jestor is a no-code platform for creating custom business tools.",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1626482465,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Productivity",
-      "No-code"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/jestor",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/jestor.json"
-  },
-  {
     "id": 23979,
     "name": "Replo",
     "slug": "replo",
@@ -8798,6 +8848,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/coulomb-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/coulomb-ai.json"
+  },
+  {
+    "id": 24080,
+    "name": "Zaz OS",
+    "slug": "zaz-os",
+    "former_names": [
+      "Rio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c4bc92f268740a2d36a89a6d41f7a2d301d9c38.png",
+    "website": "https://www.zazos.com/",
+    "all_locations": "São Paulo, SP, Brazil",
+    "long_description": "Zaz OS is a “Lovable for internal products”: an AI-native platform with an opinionated infrastructure that makes it easy to build and edit Apps and Agents through vibe-coding. Using spec-driven development, it ensures consistency and security for critical processes, solving challenges like user management, notifications, and multi-app integration within a single interface.\r\n\r\nWith over eight years of experience in back-office and HR, Zaz OS was designed from the ground up with core structural issues already solved and the flexibility to adapt to each company’s unique needs. The result is the speed to build and iterate, combined with the robustness required for mission-critical processes — the ultimate solution to replace the Frankenstein stack of SaaS tools that currently dominates company management.\r\nAs companies grow, the lack of customization of current software forces Heads of HR to buy multiple disconnected tools, allocate engineers to build and maintain people-related projects or use spreadsheets.",
+    "one_liner": "Lovable for internal products",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1627047912,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "HR Tech",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Brazil",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zaz-os",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/zaz-os.json"
   },
   {
     "id": 24093,
@@ -11566,6 +11662,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sendme-inc",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/sendme-inc.json"
+  },
+  {
+    "id": 25732,
+    "name": "Sprites",
+    "slug": "sprites",
+    "former_names": [
+      "Campfire"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f89411c2e9172cac0eae74bed5485e42a289ab94.png",
+    "website": "https://sprites.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sprites AI automates customer acquisition for entrepreneurs. Our AI agent handles managing SEO, running paid ad campaigns, content marketing, influencer outreach—tasks that normally require hiring multiple people or agencies. \r\n\r\nEntrepreneurs using our platform acquire customers much faster and scale their growth funnel without the overhead of building marketing teams or hiring expensive agencies. \r\n\r\nThe result: SMBs and solo founders can now scale revenue like they have a full marketing department.\r\n\r\nWe're arming entrepreneurs and small businesses globally with systematic customer acquisition run by AI- so they can focus on the important things that make their offering unique. ",
+    "one_liner": "The AI marketing agent for entrepreneurs, agencies and growth teams",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1645693578,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "B2B",
+      "Marketing",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sprites",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/sprites.json"
   },
   {
     "id": 25745,
@@ -15122,51 +15265,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/truewind",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/truewind.json"
-  },
-  {
-    "id": 27897,
-    "name": "TableFlow",
-    "slug": "tableflow",
-    "former_names": [
-      "Inquery"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fad6d127e5843dda3d9f06585de22ad73a6df795.png",
-    "website": "https://tableflow.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Extract, clean, and analyze data from PDFs, spreadsheets, images, and more.",
-    "one_liner": "AI Document Processing",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1676487521,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "Open Source",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tableflow",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/tableflow.json"
   },
   {
     "id": 27901,
@@ -18820,6 +18918,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/strada.json"
   },
   {
+    "id": 29088,
+    "name": "Cair Health",
+    "slug": "cair-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/174cf352bddd34701bef4a958ce1e21e7d49de3d.png",
+    "website": "https://www.cairhealth.com/",
+    "all_locations": "",
+    "long_description": "Still in stealth. Reach out to learn more!\r\n\r\nBacked by Y Combinator, Foundation Capital, Soma Capital, & Capital X. ",
+    "one_liner": "Predictive analytics and automation for medical claims",
+    "team_size": 6,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1690913334,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Healthcare",
+      "Health Insurance",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cair-health",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/cair-health.json"
+  },
+  {
     "id": 29091,
     "name": "Webhound",
     "slug": "webhound",
@@ -20165,45 +20305,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tracecat",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/tracecat.json"
-  },
-  {
-    "id": 29253,
-    "name": "Andon Labs",
-    "slug": "andon-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7330cbaf802a2b7ccf2d046a09809940eb0d1050.png",
-    "website": "https://andonlabs.com/",
-    "all_locations": "",
-    "long_description": "Safety from humans in the loop is a mirage. We evaluate, research, and apply AI control in our own real-world deployments of autonomous organizations.\r\n\r\nWe are building the Safe Autonomous Organization. We iteratively launch and scale autonomous organizations, while bridging AI control research with real-world testing.",
-    "one_liner": "Autonomous organizations without humans in the loop",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1699380174,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/andon-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/andon-labs.json"
   },
   {
     "id": 29254,
@@ -24760,51 +24861,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/gauge.json"
   },
   {
-    "id": 29694,
-    "name": "AminoAnalytica",
-    "slug": "aminoanalytica",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7d5463656052d09bd1bc697531992af867d844c.png",
-    "website": "https://www.aminoanalytica.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Design, simulate, and test your proteins 100x faster with the end-to-end no-code platform for protein engineering. Powered by Amina, our AI agent.\r\n\r\nWith Amina, one protein engineer can do the work of 10. Describe what you want to achieve and Amina will handle everything else – from research and design to simulation, folding, docking, and protein characterization. It asks clarifying questions if needed, intelligently understands and performs the task, and analyzes your results within the context of your project.",
-    "one_liner": "The AI-Native Operating System for Protein Engineering",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Industrial Bio",
-    "launched_at": 1715962434,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Synthetic Biology",
-      "Biotech",
-      "Climate"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Industrial Bio"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aminoanalytica",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/aminoanalytica.json"
-  },
-  {
     "id": 29697,
     "name": "Stormy AI",
     "slug": "stormy-ai",
@@ -25800,48 +25856,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/brighterway",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/brighterway.json"
-  },
-  {
-    "id": 29777,
-    "name": "Zettascale",
-    "slug": "zettascale",
-    "former_names": [
-      "Exa Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d24db5f94c1d947d295a894627b74215cc5d32b.png",
-    "website": "https://zscc.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zetta is building the next NVIDIA, energy-efficient chips (\"XPUs\") for AI training and inference, offering superior speed and energy efficiency compared to traditional GPUs and TPUs.\r\n\r\nOur XPUs are reconfigurable, capable of optimizing the dataflow of each model, making them faster and more energy-efficient than the current SOTA chips on the market. This saves data centers *billions* in cooling and energy costs.",
-    "one_liner": "Energy efficient chips for AI",
-    "team_size": 3,
-    "industry": "Industrials",
-    "subindustry": "Industrials",
-    "launched_at": 1722631140,
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Semiconductors"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Industrials"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zettascale",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/zettascale.json"
   },
   {
     "id": 29779,
@@ -26909,6 +26923,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ficra",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/ficra.json"
+  },
+  {
+    "id": 29955,
+    "name": "BrowserOS",
+    "slug": "browseros",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ee9034382624e07d15bb234736662d02dc829f8.png",
+    "website": "https://BrowserOS.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "BrowserOS is an open-source agentic browser that runs AI agents locally.",
+    "one_liner": "The Open Source Agentic Browser",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1722468998,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Consumer",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/browseros",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/browseros.json"
   },
   {
     "id": 29962,
@@ -28497,49 +28552,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vetnio",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/vetnio.json"
-  },
-  {
-    "id": 30187,
-    "name": "Praxim",
-    "slug": "praxim",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be59095cc480f86c19c6f83b000c574f9e8e3cd0.png",
-    "website": "https://www.praxim.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Praxim is the only agentic AI word editor that makes edits across your entire word document with formatting control, file and web context, and your personal preferences in mind. Simply tell Praxim what you'd like to do with your document and Praxim will implement your changes automatically. ",
-    "one_liner": "The first agentic Word editor",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1740746196,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Consumer",
-      "B2B",
-      "Databases"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/praxim",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/praxim.json"
   },
   {
     "id": 30197,
@@ -31698,14 +31710,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "What if every experiment you wanted to run could be modeled using AI? \r\nGodela is an AI-powered physics engine that gives engineers faster, cheaper replacement to simulations and physical prototypes.\r\nNo set up, no wait. Just ask—and get simulation quality result.\r\n",
     "one_liner": "AI Physics Engine to replace simulations and prototypes",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1747413596,
     "tags": [
-      "AI-powered Drug Discovery",
       "Artificial Intelligence",
-      "Manufacturing",
+      "Hard Tech",
+      "Hardware",
       "Aerospace",
       "ML"
     ],
@@ -32805,46 +32817,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cocreate.json"
   },
   {
-    "id": 30671,
-    "name": "AgentHub",
-    "slug": "agenthub-2",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d79e8581245eb7d73760c80116738ec9835755e.png",
-    "website": "https://www.agenthublabs.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nSimulate real-world scenarios in curated RL environments for your agents - trace, evaluate, and improve agent behavior at scale. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).\r\n\r\nBuilt by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
-    "one_liner": "The simulation and evaluation engine for AI agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753389326,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Analytics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agenthub-2",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/agenthub-2.json"
-  },
-  {
     "id": 30673,
     "name": "Nexa Labs",
     "slug": "nexa-labs",
@@ -33729,46 +33701,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/idler.json"
   },
   {
-    "id": 30732,
-    "name": "Humoniq",
-    "slug": "humoniq",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5b4b4793c04b2144e6d808676c5d789049433c7b.png",
-    "website": "https://humoniq.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Humoniq is building the first AI-Native BPO for the travel & transport industries, which outsource $20B of customer support each year. Our AI-native approach improves speed, accuracy, and satisfaction.\r\n\r\nOur team is uniquely equipped to solve this challenge. We previously grew a travel management company, Flightfox (YC S12), to $22M/yr. We handled thousands of customer requests each month, which exposed the limitations of traditional outsourcing.",
-    "one_liner": "AI-Native BPO for travel & transport",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1751772864,
-    "tags": [
-      "Artificial Intelligence",
-      "Travel",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/humoniq",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/humoniq.json"
-  },
-  {
     "id": 30733,
     "name": "Nautilus",
     "slug": "nautilus",
@@ -34618,7 +34550,7 @@
     "website": "https://www.freeportmarkets.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Freeport is the interfacing layer for DeFi investing, built for the next wave of long-term investors who want on-chain exposure without jargon, complexity, or fragmented workflows. By abstracting chains, assets, and variants into one position and layering in AI to replace the human intermediaries, Freeport captures the safe, mature, and economically essential sources of on-chain return for all its users. ",
-    "one_liner": "Freeport is the Interfacing Layer for DeFi Investing",
+    "one_liner": "The Interfacing Layer for DeFi Investing",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",

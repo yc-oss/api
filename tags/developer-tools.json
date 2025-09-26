@@ -8430,6 +8430,52 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/replo.json"
   },
   {
+    "id": 24080,
+    "name": "Zaz OS",
+    "slug": "zaz-os",
+    "former_names": [
+      "Rio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c4bc92f268740a2d36a89a6d41f7a2d301d9c38.png",
+    "website": "https://www.zazos.com/",
+    "all_locations": "São Paulo, SP, Brazil",
+    "long_description": "Zaz OS is a “Lovable for internal products”: an AI-native platform with an opinionated infrastructure that makes it easy to build and edit Apps and Agents through vibe-coding. Using spec-driven development, it ensures consistency and security for critical processes, solving challenges like user management, notifications, and multi-app integration within a single interface.\r\n\r\nWith over eight years of experience in back-office and HR, Zaz OS was designed from the ground up with core structural issues already solved and the flexibility to adapt to each company’s unique needs. The result is the speed to build and iterate, combined with the robustness required for mission-critical processes — the ultimate solution to replace the Frankenstein stack of SaaS tools that currently dominates company management.\r\nAs companies grow, the lack of customization of current software forces Heads of HR to buy multiple disconnected tools, allocate engineers to build and maintain people-related projects or use spreadsheets.",
+    "one_liner": "Lovable for internal products",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1627047912,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "HR Tech",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Brazil",
+      "Latin America",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zaz-os",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/zaz-os.json"
+  },
+  {
     "id": 24091,
     "name": "Echoes HQ",
     "slug": "echoes-hq",
@@ -12801,7 +12847,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -13357,51 +13403,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/buildjet",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/buildjet.json"
-  },
-  {
-    "id": 27897,
-    "name": "TableFlow",
-    "slug": "tableflow",
-    "former_names": [
-      "Inquery"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fad6d127e5843dda3d9f06585de22ad73a6df795.png",
-    "website": "https://tableflow.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Extract, clean, and analyze data from PDFs, spreadsheets, images, and more.",
-    "one_liner": "AI Document Processing",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1676487521,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "Open Source",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tableflow",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/tableflow.json"
   },
   {
     "id": 27902,
@@ -19631,21 +19632,19 @@
     "name": "Foundry",
     "slug": "foundry",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58c5d9a291d918029b97da37895c181287b5d4c4.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/394cc5f525a3ba31078b7eec540cddbb71b20919.png",
     "website": "https://www.foundryrl.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building the an end-to-end web simulator for browser agent training and evals. Our system enables teams to test, benchmark, and optimize browser automation models at scale.\r\n\r\n- Deterministic Web Simulation → Stable, reproducible testing with versioned web snapshots.\r\n- Live Web Evaluation → Identify failures caused by UI drift, captchas, and dynamic content.\r\n- Automated Annotation & Labeling → Generate high-quality training data for benchmarking.\r\n- RL-Driven Agent Optimization → Improve models with scalable, feedback-driven learning.\r\n\r\nBy combining synthetic user simulations, automated evaluations, and large-scale benchmarking, we help teams build more reliable web agents that handle real-world environments with confidence.",
-    "one_liner": "World Model for Browser Agents",
-    "team_size": 2,
-    "industry": "B2B",
+    "long_description": "We’re building browser-native infrastructure that makes software creation production-ready end-to-end. Today’s AI tools can scaffold code, but they fail on the critical workflows that actually get products into production — provisioning, auth, QA, and compliance — all of which happen inside the browser.\r\n\r\nOur system makes these workflows deterministic, reproducible, and automatable, so both agents and humans can go from idea to a production-ready app. The opportunity is massive: billions of dollars of value locked up in workflows that today block non-technical founders and slow technical teams. We’re building the infrastructure layer that makes production possible.",
+    "one_liner": "Infrastructure to ship real apps with AI - end-to-end in the browser",
+    "team_size": 1,
+    "industry": "Consumer",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1731963387,
     "tags": [
-      "Deep Learning",
       "Developer Tools",
-      "Reinforcement Learning",
-      "Data Labeling",
-      "AI"
+      "Generative AI",
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19654,8 +19653,7 @@
     "batch": "Fall 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -22498,5 +22496,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/interfere",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/interfere.json"
+  },
+  {
+    "id": 30954,
+    "name": "Specific",
+    "slug": "specific",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ee01acb6dbb8507ecd3cb90ee3709d9acffe2ed.png",
+    "website": "https://specific.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A platform for engineers to build and run backend services and APIs, where engineers don't read or write any code at all. Instead they work only with natural-language specifications and tests, that are then built by AI behind the scenes.",
+    "one_liner": "Platform for engineers to build backends without code",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1758776605,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/specific",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/specific.json"
   }
 ]

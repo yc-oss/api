@@ -13697,7 +13697,7 @@
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Pirros is reshaping and revolutionizing how Architecture and Engineering firms manage design details. Our software empowers AECO design professionals (Architects, Engineers, Contractors, and Owners) to streamline their detail management process more effectively, reduce errors, and speed up project delivery. We’re building the system of record for detail management in a $12T+ industry that’s been underserved by technology for too long!\r\n\r\nAbout Us\r\n\r\nBacked by top-tier investors and angels (YC, Funders Club, PlanGrid, Elephant)\r\nWe’ve just closed our Series A of ~$17 million\r\nPROFITABLE, ~$3M ARR and growing revenue at +10% month-over-month\r\n200+ firms using us today, growing 10% MoM, 120% NRR\r\nCo-founders both come from structural Engineering, so we have industry experience",
     "one_liner": "Github for Construction",
-    "team_size": 24,
+    "team_size": 28,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1670865886,
@@ -14213,51 +14213,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/buildjet",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/buildjet.json"
-  },
-  {
-    "id": 27897,
-    "name": "TableFlow",
-    "slug": "tableflow",
-    "former_names": [
-      "Inquery"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fad6d127e5843dda3d9f06585de22ad73a6df795.png",
-    "website": "https://tableflow.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Extract, clean, and analyze data from PDFs, spreadsheets, images, and more.",
-    "one_liner": "AI Document Processing",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1676487521,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "Open Source",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tableflow",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/tableflow.json"
   },
   {
     "id": 27911,
@@ -16762,20 +16717,20 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7330cbaf802a2b7ccf2d046a09809940eb0d1050.png",
     "website": "https://andonlabs.com/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Safety from humans in the loop is a mirage. We evaluate, research, and apply AI control in our own real-world deployments of autonomous organizations.\r\n\r\nWe are building the Safe Autonomous Organization. We iteratively launch and scale autonomous organizations, while bridging AI control research with real-world testing.",
     "one_liner": "Autonomous organizations without humans in the loop",
-    "team_size": 2,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1699380174,
     "tags": [
-      "Artificial Intelligence",
-      "Machine Learning"
+      "Machine Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -16784,7 +16739,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -22839,14 +22795,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "What if every experiment you wanted to run could be modeled using AI? \r\nGodela is an AI-powered physics engine that gives engineers faster, cheaper replacement to simulations and physical prototypes.\r\nNo set up, no wait. Just ask—and get simulation quality result.\r\n",
     "one_liner": "AI Physics Engine to replace simulations and prototypes",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1747413596,
     "tags": [
-      "AI-powered Drug Discovery",
       "Artificial Intelligence",
-      "Manufacturing",
+      "Hard Tech",
+      "Hardware",
       "Aerospace",
       "ML"
     ],
@@ -23511,7 +23467,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f34cf0cf02c3e2059e48082daf0ddc693722515.png",
     "website": "https://floot.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI. 14,000 users have created over 16,000 apps on Floot.\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
+    "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI.\r\n\r\n✨ Try building an app at floot.com\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
     "one_liner": "The easiest way for non-coders to build apps with AI.",
     "team_size": 2,
     "industry": "B2B",
@@ -23835,5 +23791,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/semble-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/semble-ai.json"
+  },
+  {
+    "id": 30954,
+    "name": "Specific",
+    "slug": "specific",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ee01acb6dbb8507ecd3cb90ee3709d9acffe2ed.png",
+    "website": "https://specific.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A platform for engineers to build and run backend services and APIs, where engineers don't read or write any code at all. Instead they work only with natural-language specifications and tests, that are then built by AI behind the scenes.",
+    "one_liner": "Platform for engineers to build backends without code",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1758776605,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/specific",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/specific.json"
   }
 ]

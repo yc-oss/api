@@ -310,14 +310,14 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1626482465,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Productivity",
-      "No-code"
+      "No-code",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -338,50 +338,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jestor",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/jestor.json"
-  },
-  {
-    "id": 24080,
-    "name": "Zazos",
-    "slug": "zazos",
-    "former_names": [
-      "Rio"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1f3f4524dd0f4939370b9f5a10a8b251218c632.png",
-    "website": "https://www.zazos.com/",
-    "all_locations": "São Paulo, SP, Brazil",
-    "long_description": "Zazos is the no-code HR platform. We allow startups to set up unique workspaces that centralize information and tasks for employees. For example, companies can create a home page where people can view stock options, ask for time off, and see everyone's profiles. On Zazos, anyone can build and share people management apps, without knowing how to code.\r\n\r\nAs companies grow, the lack of customization of current software forces Heads of HR to buy multiple disconnected tools, allocate engineers to build and maintain people-related projects or use spreadsheets.",
-    "one_liner": "No-code HR platform for startups.",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1627047912,
-    "tags": [
-      "SaaS",
-      "No-code"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Human Resources"
-    ],
-    "regions": [
-      "Brazil",
-      "Latin America",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zazos",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/zazos.json"
   },
   {
     "id": 24100,
@@ -661,18 +617,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f89411c2e9172cac0eae74bed5485e42a289ab94.png",
     "website": "https://sprites.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sprites AI automates customer acquisition for entrepreneurs. Our AI agent handles managing SEO, running paid ad campaigns, content marketing, influencer outreach—tasks that normally require hiring multiple people or agencies. \r\n\r\nEntrepreneurs using our platform acquire customers much faster and scale their growth funnel without the overhead of building marketing teams or hiring expensive agencies. \r\n\r\nThe result: SMBs and solo founders can now scale revenue like they have a full marketing department, but it's just software. \r\n\r\nWe're arming entrepreneurs and small businesses globally with systematic customer acquisition run by AI- so they can focus on the important things that make their offering unique. ",
+    "long_description": "Sprites AI automates customer acquisition for entrepreneurs. Our AI agent handles managing SEO, running paid ad campaigns, content marketing, influencer outreach—tasks that normally require hiring multiple people or agencies. \r\n\r\nEntrepreneurs using our platform acquire customers much faster and scale their growth funnel without the overhead of building marketing teams or hiring expensive agencies. \r\n\r\nThe result: SMBs and solo founders can now scale revenue like they have a full marketing department.\r\n\r\nWe're arming entrepreneurs and small businesses globally with systematic customer acquisition run by AI- so they can focus on the important things that make their offering unique. ",
     "one_liner": "The AI marketing agent for entrepreneurs, agencies and growth teams",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1645693578,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Marketing",
-      "No-code",
-      "AI"
+      "No-code"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1505,7 +1461,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f34cf0cf02c3e2059e48082daf0ddc693722515.png",
     "website": "https://floot.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI. 14,000 users have created over 16,000 apps on Floot.\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
+    "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI.\r\n\r\n✨ Try building an app at floot.com\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
     "one_liner": "The easiest way for non-coders to build apps with AI.",
     "team_size": 2,
     "industry": "B2B",
@@ -1539,5 +1495,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/floot",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/floot.json"
+  },
+  {
+    "id": 30954,
+    "name": "Specific",
+    "slug": "specific",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ee01acb6dbb8507ecd3cb90ee3709d9acffe2ed.png",
+    "website": "https://specific.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A platform for engineers to build and run backend services and APIs, where engineers don't read or write any code at all. Instead they work only with natural-language specifications and tests, that are then built by AI behind the scenes.",
+    "one_liner": "Platform for engineers to build backends without code",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1758776605,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/specific",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/specific.json"
   }
 ]
