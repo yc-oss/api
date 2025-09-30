@@ -16097,7 +16097,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -17847,7 +17847,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -21744,14 +21744,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e5b6595eedce0fbf3857cfdf876dbd2f0d66a78.png",
     "website": "https://superagent.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superagent is the world’s first firewall purpose-built for AI systems. It protects your models and data at runtime by inspecting every prompt and response. It blocks prompt injections, jailbreaks, and data leaks, prevents backdoors in generated code, and quarantines suspicious outputs. \r\n\r\nThe firewall is powered by a small language model fine-tuned for security and safety. Unlike static rules or regex filters, it can reason about context to catch subtle attacks and leaks. The model is lightweight and optimized for speed — fast enough to run inline with every request and response without slowing down your apps.\r\n\r\nSuperagent also provides observability with full traces, audit logs, and policy enforcement, giving teams security and control without slowing down AI adoption.\r\n\r\nLearn more: https://www.superagent.sh/",
-    "one_liner": "The AI firewall — stop attacks, leaks, and model abuse",
+    "long_description": "Superagent is the defense layer for AI agents. It inspects every prompt, response, and tool call at runtime to block prompt injections, data leaks, and backdoors in generated code before they reach production.\r\n\r\nAt the core is SuperagentLM, a small language model trained specifically for agentic security. Unlike rules or filters, it uses reasoning to catch subtle and novel attacks. It’s lightweight and fast — optimized to run inline on CPU or GPU without slowing down your stack.\r\n\r\nSuperagent integrates at the API layer, inside agent frameworks, and in CI/CD pipelines, with a single dashboard for policies, audit logs, and runtime visibility. This gives teams real-time protection and compliance guardrails without slowing down AI adoption.\r\n\r\nLearn more: https://www.superagent.sh/",
+    "one_liner": "Defender of AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1701445003,
     "tags": [
       "Artificial Intelligence",
+      "Security",
       "Open Source",
       "AI"
     ],
@@ -21763,7 +21764,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Security"
     ],
     "regions": [
       "United States of America",
@@ -23829,49 +23830,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/mdhub.json"
   },
   {
-    "id": 29633,
-    "name": "Unsloth AI",
-    "slug": "unsloth-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/821f8850dee6e9f14ef87d19a86abcd55976c80c.png",
-    "website": "https://unsloth.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Unsloth helps builders create custom models better & faster using RL and custom kernels. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 10 million monthly model downloads and 40K GitHub stars, our mission is to make training and open-source the best it can be!",
-    "one_liner": "Open-Source Reinforcement Learning (RL) & Fine-tuning for LLMs.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1725425996,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "Open Source",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/unsloth-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/unsloth-ai.json"
-  },
-  {
     "id": 29634,
     "name": "Random Labs",
     "slug": "random-labs",
@@ -25297,6 +25255,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/clearly-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/clearly-ai.json"
+  },
+  {
+    "id": 29738,
+    "name": "Anara",
+    "slug": "anara",
+    "former_names": [
+      "Unriddle"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b702e275c5d9f7a428a7fe250b337175e2b5e58.png",
+    "website": "https://anara.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Anara helps researchers understand, organize and write scientific documents, together.\r\n\r\nWe started working on Anara 18 months ago. In that time:\r\n\r\n- we’ve grown to 2M users spanning hundreds of major colleges and research-led companies,\r\n- we reached $3M in yearly revenue and are fast approaching $4M,\r\n- 200M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised $2.4M from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we’re expanding beyond summarization and writing assistance to address the broader challenges of information overload faced by academics and research teams.\r\n\r\nWe're a small, tight-knit team with huge ambitions and we’re hiring across design, engineering and growth. As a founding member of the team, you'll be instrumental in helping us scale revenue from $3M to $10M and then $10M to $100M+.\r\n\r\nIf you’re excited by the idea of being a part of that, definitely reach out.",
+    "one_liner": "AI for researchers",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1715615655,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/anara",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/anara.json"
   },
   {
     "id": 29739,
@@ -27528,6 +27531,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/candle.json"
   },
   {
+    "id": 30033,
+    "name": "OpenFunnel",
+    "slug": "openfunnel",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/828abce88fc3773d5c6973ac36dd47b70ebb191e.png",
+    "website": "https://openfunnel.dev",
+    "all_locations": "",
+    "long_description": "OpenFunnel is the Search Engine for GTM teams.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
+    "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1728361776,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Sales Enablement"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openfunnel",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/openfunnel.json"
+  },
+  {
     "id": 30034,
     "name": "HealthSpark",
     "slug": "healthspark",
@@ -28553,6 +28597,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/vetnio.json"
   },
   {
+    "id": 30187,
+    "name": "Praxim",
+    "slug": "praxim",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be59095cc480f86c19c6f83b000c574f9e8e3cd0.png",
+    "website": "https://www.praxim.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Praxim is the agentic AI word editor that makes edits across your entire word document with formatting control, file and web context, and your personal preferences in mind. Simply tell Praxim what you'd like to do with your document and Praxim will implement your changes automatically. ",
+    "one_liner": "The agentic AI Word editor",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1740746196,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Consumer",
+      "B2B",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/praxim",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/praxim.json"
+  },
+  {
     "id": 30197,
     "name": "Alice.tech",
     "slug": "alice-tech",
@@ -28865,18 +28952,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8c2773604bbaf5a32094fbcb757b92f9d29a32e.png",
     "website": "https://maive.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Maive automates aerospace compliance paperwork required on the manufacturing shop floor. We use cameras and AI to automatically fill federally-required paperwork, reducing the risk of companies being unable to sell their products and increasing factory throughput.\r\n\r\nUsers have told us the paperwork required for the F-35 fighter jet weighs more than the jet itself! The government requires a record for each of the 1.5 million parts in the jet, including what shop-floor workers do to each part and when they do it.\r\n\r\nAutomating paperwork by interpreting human actions with cameras is hard. Doing this at the edge and inside secure aerospace environments is harder. We fine-tune the latest vision language models to solve what was previously impossible.\r\n\r\nManufacturers lose millions when compliance paperwork has errors because it can freeze their ability to sell the product for months. Leaving this task to shop floor workers is both incredibly risky to the company and tedious for the employees. \r\n\r\nCompliance paperwork is just the beginning. We want to propel American manufacturing into the AI era. America is facing a serious problem: there’s $400B being invested to onshore manufacturing, but there’s simultaneously a projected 15% gap in workers needed due to an aging workforce. We’re on a mission to solve this by building the first AI native software for the shop floor. Our vision is to intelligently connect people, robots, and data to 10x today’s manufacturing capacity.",
-    "one_liner": "Visual AI for factories",
+    "long_description": "Maive is an AI automation platform for contractors providing home services",
+    "one_liner": "AI for Home Services",
     "team_size": 2,
-    "industry": "Industrials",
+    "industry": "B2B",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1740103642,
     "tags": [
       "Artificial Intelligence",
-      "Warehouse Management Tech",
-      "Computer Vision",
-      "Compliance",
-      "Aerospace"
+      "Home Services"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28885,8 +28969,7 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -31991,48 +32074,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/the-prompting-company.json"
   },
   {
-    "id": 30611,
-    "name": "AgentMail",
-    "slug": "agentmail",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/229d0f8aee3512a3e3602b0a708550a51a4f5e11.png",
-    "website": "https://agentmail.to",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AgentMail is an API email service provider for AI agents. Like Gmail does for humans, we give agents their own email inboxes.",
-    "one_liner": "API email service provider for AI Agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1750990316,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "API",
-      "Email"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agentmail",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/agentmail.json"
-  },
-  {
     "id": 30615,
     "name": "Lanesurf",
     "slug": "lanesurf",
@@ -32280,46 +32321,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lark",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/lark.json"
-  },
-  {
-    "id": 30636,
-    "name": "EffiGov",
-    "slug": "effigov",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7ff2d4057e1128c01e602989e199ee71f53d392.png",
-    "website": "https://effi-gov.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "EffiGov is building an AI OS for local governments. We've started with AI call operators that answer 311 and departmental lines 24/7 - handling everything from permit applications to animal control.",
-    "one_liner": "The AI OS for Cities",
-    "team_size": 2,
-    "industry": "Government",
-    "subindustry": "Government",
-    "launched_at": 1755582399,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "GovTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Government"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/effigov",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/effigov.json"
   },
   {
     "id": 30637,
@@ -32608,6 +32609,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/keystone",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/keystone.json"
+  },
+  {
+    "id": 30660,
+    "name": "Sagekit",
+    "slug": "sagekit",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2842d2a52b047f3cdc0601cc787b7972d74a3bf.png",
+    "website": "https://sagekit.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Just describe your repetitive tasks. Our AI turns them into automations that save you 10+ hours every week. Connect Gmail, Notion, Airtable, Slack, Linear, and lots more.",
+    "one_liner": "The automation platform that speaks human",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751905744,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Workflow Automation",
+      "Productivity",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sagekit",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/sagekit.json"
   },
   {
     "id": 30661,
@@ -33572,48 +33616,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/omnara.json"
   },
   {
-    "id": 30724,
-    "name": "Risely AI",
-    "slug": "risely-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4680fe6ec9d7629b24dfdc3825d767092e53950d.png",
-    "website": "https://www.risely.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Risely’s AI agents will form the new operating system for universities, improving retention, staff productivity, and efficiency. Our platform integrates directly into existing university systems (SIS, LMS, CRM), learns each institution’s unique workflows, and deploys specialized AI agents. This dramatically reduces the $735 billion universities spend annually on administrative labor, expands staff capacity without increasing headcount, and improves the student experience.\r\n\r\nThis hasn't been done before because university workflows require nuanced, autonomous judgment, exactly what agentic AI was designed to solve. Our team uniquely combines deep expertise in higher education, enterprise-scale AI, and regulated enterprise sales.\r\n\r\nSadia previously built Salesforce’s Education Cloud from scratch, creating the core Student Information System widely used across higher education. She deeply understands university operations and maintains trusted relationships with hundreds of higher-ed CIOs and Provosts.\r\n\r\nDanial was one of DoorDash’s earliest engineers, where he architected and scaled complex systems from zero to billions of transactions, including their search, recommendation, and Voice AI platforms. He knows how to build robust AI solutions that reliably perform at enterprise scale. \r\n\r\nShahryar was a GM at Airwallex, where he built the entire Americas business from 0 to 1 and drove 11x revenue growth.  He’s also a master closer, single-handedly securing over $17M in enterprise deals at NerdWallet.  He’s a relentless startup executor with deep expertise launching and scaling go-to-market machines in highly regulated industries.\r\n\r\nWe launched six weeks ago and are already at $8k MRR, growing 55% week-over-week -- one of the fastest ramps ever in higher ed. Universities urgently need solutions that expand labor capacity and efficiency, especially as they face unprecedented budget pressure and staffing shortages.\r\n\r\nWith unmatched buyer access, deep technical expertise, and rapid early traction, we are perfectly positioned to own this enormous market.",
-    "one_liner": "AI agents that automate administrative work across college campuses. ",
-    "team_size": 9,
-    "industry": "Education",
-    "subindustry": "Education",
-    "launched_at": 1753739140,
-    "tags": [
-      "Artificial Intelligence",
-      "Education",
-      "SaaS",
-      "B2B",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Education"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/risely-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/risely-ai.json"
-  },
-  {
     "id": 30725,
     "name": "Minimal AI",
     "slug": "minimal-ai",
@@ -34256,14 +34258,13 @@
     "website": "https://clodo.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Clodo is AI for the Built World.",
-    "one_liner": "AI For Real Estate",
+    "one_liner": "AI For Large Scale Construction",
     "team_size": 3,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
     "launched_at": 1754475903,
     "tags": [
       "Artificial Intelligence",
-      "Real Estate",
       "Construction",
       "Proptech",
       "AI"
@@ -34498,6 +34499,45 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/paloma.json"
   },
   {
+    "id": 30858,
+    "name": "Deeptrace",
+    "slug": "deeptrace",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a60fee67044114e15cab84acef7b9b968923c93e.png",
+    "website": "https://deeptrace.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Deeptrace, we’re building AI agents that investigate and resolve production alerts end-to-end. Deeptrace cuts through the noise, pinpoints root causes instantly, and gives engineering teams back what they need most: the freedom to build instead of firefighting.\r\n\r\nIn production, we're already seeing a reduction in time spent triaging, investigating, and resolving alerts with some of the fastest growing companies in the world.",
+    "one_liner": "AI agents for on-call",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1759160221,
+    "tags": [
+      "Artificial Intelligence",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/deeptrace",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/deeptrace.json"
+  },
+  {
     "id": 30875,
     "name": "Veria Labs",
     "slug": "veria-labs",
@@ -34536,6 +34576,89 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/veria-labs",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/veria-labs.json"
+  },
+  {
+    "id": 30885,
+    "name": "Semble AI",
+    "slug": "semble-ai",
+    "former_names": [
+      "Cadence",
+      "Cadlit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15b0437dc4c919af5fc88d2d21f7c78539cfe9a1.png",
+    "website": "https://www.sembleai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Semble AI automates fire-life-safety design. Instantly generate code-compliant device layouts, bills of materials (BOMs), and quote estimates. Replace guesswork with AI - getting it right the first time and allowing teams to produce bids in minutes, not weeks.\r\n\r\nNo missed devices or materials. \r\nNo regulation lookups. \r\nNo back-and-forth with permitting authorities.\r\nNo overrun cost surprises.\r\n\r\nSemble AI is the new standard for fire-life-safety.",
+    "one_liner": "Autonomous fire and life-safety systems engineer",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1758754473,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/semble-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/semble-ai.json"
+  },
+  {
+    "id": 30886,
+    "name": "Mod AI",
+    "slug": "mod-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/942d0cc053faa8bcd3d973b7c4ce50fda2e6defa.png",
+    "website": "https://usemod.ai",
+    "all_locations": "",
+    "long_description": "We build AI agents to automate invoice processing for finance teams.\r\n\r\nFrom ingestion to ERP to payment and bookkeeping, our AI agents read emails, connect to EDIs, extract data from any document format, detect fraud, and sync directly with your ERP or accounting system. ",
+    "one_liner": "AI Agents for Accounts Payable",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1759171972,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mod-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/mod-ai.json"
   },
   {
     "id": 30896,
@@ -34751,5 +34874,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bluma",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bluma.json"
+  },
+  {
+    "id": 31002,
+    "name": "Clicks",
+    "slug": "clicks",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5305c55b4b60ebbe6d4f336c1c814b90415438cb.png",
+    "website": "https://goclicks.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clicks automates your workflows using your existing tools and processes without requiring any IT integrations.\r\n\r\nWhat We Do:\r\nThink of Clicks as an army of interns that can handle any repetitive task you explain to them. Simply describe your process via video call or share documentation, and our forward-deployed engineering team ensures it's automated exactly your way.\r\nOur AI agents work 24/7 and can be kicked-off via email, Slack, or our web app, handling tasks like CRM updates, report generation, and data entry while adapting to your existing software.\r\n\r\nInitial Focus:\r\nWe're starting with recruiting and executive search firms, automating candidate codification, assessment reports, and administrative workflows that typically consume hours of manual work each day.\r\n\r\nValue Proposition:\r\nOur pricing is 100% usage based: you only pay for the human hours you actually save. Current customers are already live and saving an average of 60% in costs compared to human workers, with full automation deployed within one week.",
+    "one_liner": "The first AI back-office worker that works like a human.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1759173987,
+    "tags": [
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clicks",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/clicks.json"
   }
 ]

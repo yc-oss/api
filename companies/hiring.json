@@ -8940,8 +8940,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00d76c09d68459b13ffc2910fece040246c89806.png",
     "website": "https://www.intelline.ca/",
     "all_locations": "Waterloo, ON, Canada",
-    "long_description": "Intelline makes industrial power generators that use 40% less fuel. Our first customers are energy sector and alternative fuel production companies. Replacing a 1MW diesel generator with a 1MW Intelline MLG system can save up to $1,000,000/year in fuel costs alone.\r\n\r\nThere are 200,000 new industrial generators produced per year, and at $85k for the average generator size this is a $17B market opportunity.\r\n\r\nOur generator can efficiently run emerging fuel types that traditional diesel engines can't use (flare gas, syngas, ammonia, hydrogen), and can switch between fossil fuels and any other liquid/gaseous fuel while running.",
-    "one_liner": "We make generators that use 40% less fuel, with any fuel.",
+    "long_description": "Intelline makes fuel agnostic engines for practical, clean, and low-cost industrial power. Our first customers are in data center energy infrastructure and oil & gas production. Our engine generate electricity with even the most difficult fuels like flare gas, while reducing fuel OPEX by 40%.\r\n\r\nThere are 1,000,000 new heavy duty engines produced per year, and at an average $50k per heavy duty engine this is a $50B market opportunity.\r\n\r\nOur generator can efficiently run emerging fuel types that traditional diesel engines can't use (flare gas, syngas, ammonia, hydrogen), and can switch between fossil fuels and any other liquid/gaseous fuel while running. Full size running prototype successfully tested April 2025.",
+    "one_liner": "Intelline makes the world's most efficient fuel agnostic engines for…",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -8970,7 +8970,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/intelline",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/intelline.json"
   },
@@ -21744,51 +21744,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/odys-aviation.json"
   },
   {
-    "id": 23954,
-    "name": "Serif Health",
-    "slug": "serif-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e3b6e17c1858f320778e38ff8fee6dda1399834.png",
-    "website": "https://www.serifhealth.com",
-    "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "At Serif Health, we are taking the complexity out of the cost of healthcare. Our mission is to make healthcare pricing and contracting more transparent, easier to understand, fairer, and ultimately more affordable for all. New price transparency regulations have made a wealth of healthcare pricing and reimbursement data publicly available for the first time, but it is still extremely hard to ingest, organize, and actually use this data to understand the cost of care. That’s where we come in. Serif Health is building healthcare price intelligence data products and APIs to power the future of more transparent healthcare.\r\n\r\nWe are an early-stage, venture-backed startup with a small, collaborative team of healthcare experts, engineers, and designers. We are excited to add new team members motivated by our mission, passionate about making a difference in healthcare, and looking forward to learning and growing from the challenges we will face along the way!",
-    "one_liner": "Healthcare Price Transparency APIs and Data Products",
-    "team_size": 13,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "launched_at": 1646347894,
-    "tags": [
-      "Health Tech",
-      "Analytics",
-      "Healthcare",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/serif-health",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/serif-health.json"
-  },
-  {
     "id": 23967,
     "name": "Varos",
     "slug": "varos",
@@ -24945,6 +24900,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/litnerd.json"
   },
   {
+    "id": 24562,
+    "name": "Noloco",
+    "slug": "noloco",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/201600bf7fcca3398cb1ecbf2e073352ee612ae3.png",
+    "website": "https://noloco.io",
+    "all_locations": "Dublin, County Dublin, Ireland",
+    "long_description": "Give your Ops teams the power to build the tools your business needs, with native data, logic, automation, and AI — without code",
+    "one_liner": "Flexible Business Apps for Modern Teams",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1627056154,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Ireland",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/noloco",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/noloco.json"
+  },
+  {
     "id": 24574,
     "name": "Genomelink",
     "slug": "genomelink",
@@ -27912,48 +27910,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cogram",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/cogram.json"
-  },
-  {
-    "id": 25674,
-    "name": "Toko",
-    "slug": "toko",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27e4f86a5dfe2f9b052160388e2aeeacf844e019.png",
-    "website": "https://tokotutor.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Toko helps English learners in East Asia achieve speaking fluency. Through our mobile app, learners engage in short, realistic conversations with an AI and receive feedback on their grammar.\r\n\r\nWith over 500 topics, learners can practice real-world scenarios ranging from small talk to workplace discussions. Toko offers a low-pressure environment to help learners build up their confidence.\r\n\r\nWe make language fluency accessible to everyone - not just those with the means to meet 1:1 with a tutor.\r\n\r\nIn Taiwan (our first market), Toko is ranked top 3 in the App Store for Education!",
-    "one_liner": "Learn English by speaking with an AI",
-    "team_size": 6,
-    "industry": "Education",
-    "subindustry": "Education",
-    "launched_at": 1646685328,
-    "tags": [
-      "AI-Enhanced Learning",
-      "Education",
-      "Generative AI",
-      "Machine Learning",
-      "Consumer"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Education"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/toko",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/toko.json"
   },
   {
     "id": 25677,
@@ -33345,6 +33301,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/morf-health.json"
   },
   {
+    "id": 27361,
+    "name": "Polymath Robotics",
+    "slug": "polymath-robotics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d6f5a2035d19900b2a4411b03d2c1998b0aaa5e.png",
+    "website": "http://www.polymathrobotics.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Polymath is building a general autonomy stack for cautious vehicles.  Our software allows any industrial vehicle - whether it's a tractor in a field or a bulldozer in a mine, drive itself.  We bundle together AI, ML, Controls, ROS, Safety and best-in-class deployment practices to enable our customers to tell automated vehicles to do via a REST API.\r\n\r\nWe're on more robots than we have engineers, are seeing our revenue (and robotic fleet) grow rapidly, and are looking for folks who want to help automate the world.",
+    "one_liner": "General Autonomy for Industrial Vehicles",
+    "team_size": 20,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1659110769,
+    "tags": [
+      "Hard Tech",
+      "Machine Learning",
+      "Robotics",
+      "Unmanned Vehicle",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/polymath-robotics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/polymath-robotics.json"
+  },
+  {
     "id": 27491,
     "name": "Sameday",
     "slug": "sameday",
@@ -36499,48 +36498,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/vellum.json"
   },
   {
-    "id": 28127,
-    "name": "Benchmark",
-    "slug": "benchmark",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0dddc99c1f1c38c90b727d87cc7bb8d59dfad6be.png",
-    "website": "https://withbenchmark.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Benchmark is the trusted AI platform for investment firms. Today, leading firms use Benchmark to screen deals, extract insights from unstructured data, and automate workflows. Our platform combines cutting-edge AI with deep industry expertise to help investment firms make smarter, faster decisions across their entire deal lifecycle.",
-    "one_liner": "The trusted AI platform for investment firms",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "Real Estate and Construction",
-    "launched_at": 1673633463,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Finance",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/benchmark",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/benchmark.json"
-  },
-  {
     "id": 28131,
     "name": "Untether Labs",
     "slug": "untether-labs",
@@ -39210,6 +39167,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/metalware",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/metalware.json"
+  },
+  {
+    "id": 28928,
+    "name": "MediSearch",
+    "slug": "medisearch",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5e622a415b26a3986bc9fc08bf8fb1a1fa460e7.png",
+    "website": "https://medisearch.io",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "MediSearch gives direct answers to medical questions based on trustworthy sources.",
+    "one_liner": "Search engine for trustworthy medical information.",
+    "team_size": 6,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1690590443,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Consumer Health Services",
+      "Digital Health",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/medisearch",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/medisearch.json"
   },
   {
     "id": 28929,
@@ -45940,16 +45940,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Unsloth helps builders create custom models better & faster using RL and custom kernels. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 10 million monthly model downloads and 40K GitHub stars, our mission is to make training and open-source the best it can be!",
     "one_liner": "Open-Source Reinforcement Learning (RL) & Fine-tuning for LLMs.",
-    "team_size": 2,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725425996,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46672,7 +46672,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0375efe2659827ada4255426aac1e4a4f979b63.png",
     "website": "https://tandem.space/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "The pandemic reduced office use nationwide by 50%, and tenants have been left to deal with highly inflexible, long term lease agreements that don’t fit today’s office use patterns.\r\n\r\nThe traditional brokerage model works great for big spaces and long terms. But when you want to talk smaller units, short term lengths, shared and common areas, you’re out of luck. \r\n\r\nTandem is an AI-enabled office leasing platform. We’re using technology to unlock flexible agreements in quality spaces.   Our AI co-pilot enables a white-glove-quality B2B office search experience, with a fraction of the human labor typically required.\r\n\r\nToday we’re serving two primary markets — NY & SF, with hundreds of active Hosts in each.  We’ve helped match more than 350 companies and have seen double-digit month-over-month growth.",
     "one_liner": "AI-assisted office leasing platform",
     "team_size": 16,
@@ -46695,8 +46695,6 @@
       "Office Management"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -47302,9 +47300,9 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1715615655,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49373,16 +49371,21 @@
     "name": "OpenFunnel",
     "slug": "openfunnel",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/467a5194c6eed21b3d29ae27af5c92c76d94cdf0.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/828abce88fc3773d5c6973ac36dd47b70ebb191e.png",
     "website": "https://openfunnel.dev",
     "all_locations": "",
-    "long_description": "OpenFunnel helps you autonomously discover and prioritize prospects by identifying external activities your ICPs are doing — signals that show a company is worth reaching out to and might have a pain point.\r\n\r\nFor example -\r\nAn LLM Ops company that provides tools for self hosting LLMs uses us to\r\nFind companies in their ICP rapidly expanding their AI team for self-hosting Llama Models\r\n\r\nAn HR and Payroll Software company that helps with global payroll uses us to\r\nFind seed funded announcements in real-time and have immigrant founders to the US",
-    "one_liner": "Agents to help find in-market companies via deep researched signals",
+    "long_description": "OpenFunnel is the Search Engine for GTM teams.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
+    "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1728361776,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Sales Enablement"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -53915,7 +53918,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Better Auth is a comprehensive authentication framework for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. It’s loved by developers all over the world and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer to help you scale with user management and analytics, bot and fraud detection, transactional email and SMS, global session storage and more.",
     "one_liner": "The authentication framework for TypeScript",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1744888506,
@@ -55384,7 +55387,12 @@
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753389326,
-    "tags": [],
+    "tags": [
+      "Reinforcement Learning",
+      "B2B",
+      "Infrastructure",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -55756,6 +55764,41 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/april",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/april.json"
+  },
+  {
+    "id": 30724,
+    "name": "Risely AI",
+    "slug": "risely-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4680fe6ec9d7629b24dfdc3825d767092e53950d.png",
+    "website": "https://www.risely.ai/",
+    "all_locations": "",
+    "long_description": "Risely’s AI agents will form the new operating system for universities, improving retention, staff productivity, and efficiency. Our platform integrates directly into existing university systems (SIS, LMS, CRM), learns each institution’s unique workflows, and deploys specialized AI agents. This dramatically reduces the $735 billion universities spend annually on administrative labor, expands staff capacity without increasing headcount, and improves the student experience.\r\n\r\nThis hasn't been done before because university workflows require nuanced, autonomous judgment, exactly what agentic AI was designed to solve. Our team uniquely combines deep expertise in higher education, enterprise-scale AI, and regulated enterprise sales.\r\n\r\nSadia previously built Salesforce’s Education Cloud from scratch, creating the core Student Information System widely used across higher education. She deeply understands university operations and maintains trusted relationships with hundreds of higher-ed CIOs and Provosts.\r\n\r\nDanial was one of DoorDash’s earliest engineers, where he architected and scaled complex systems from zero to billions of transactions, including their search, recommendation, and Voice AI platforms. He knows how to build robust AI solutions that reliably perform at enterprise scale. \r\n\r\nShahryar was a GM at Airwallex, where he built the entire Americas business from 0 to 1 and drove 11x revenue growth.  He’s also a master closer, single-handedly securing over $17M in enterprise deals at NerdWallet.  He’s a relentless startup executor with deep expertise launching and scaling go-to-market machines in highly regulated industries.\r\n\r\nWe launched six weeks ago and are already at $8k MRR, growing 55% week-over-week -- one of the fastest ramps ever in higher ed. Universities urgently need solutions that expand labor capacity and efficiency, especially as they face unprecedented budget pressure and staffing shortages.\r\n\r\nWith unmatched buyer access, deep technical expertise, and rapid early traction, we are perfectly positioned to own this enormous market.",
+    "one_liner": "AI agents that automate administrative work across college campuses. ",
+    "team_size": 9,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1753739140,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/risely-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/risely-ai.json"
   },
   {
     "id": 30726,
@@ -56163,10 +56206,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99289e9c71cb1127d9713f9951ef029e17d28248.png",
     "website": "https://www.vulcan-tech.com/",
-    "all_locations": "",
+    "all_locations": "Austin, TX, USA",
     "long_description": "Vulcan uses AI to map every law, regulation, and court case in America, allowing government agencies and businesses to replace massive consulting projects with instant automated analyses. We call this \"intelligent legal cartography.\"\r\n\r\nIn 3 months, we went from zero customers to Virginia's Executive Order 51, requiring all state agencies to use Vulcan. We are now live with the U.S. Department of Education, a regulatory reform PAC in South Carolina, and have a pipeline of several additional state and federal agencies and major enterprises.\r\n\r\nOur initial agency partners use legal cartography to draft lawful regulations, respond to public comments on regulations, and instantly generate mandatory cost-benefit analyses.\r\n\r\nWe have both public and private sector visions. In the public sector: we endeavor to automate the entire regulatory process end-to-end; replacing the consulting industrial complex with software. In the private sector: we plan to automate regulatory compliance, tackling the $4 trillion regulatory cost on the U.S. economy.",
     "one_liner": "AI regulatory drafting and compliance",
-    "team_size": 3,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1750286926,
@@ -56182,7 +56225,8 @@
       "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

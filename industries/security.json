@@ -3526,6 +3526,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/aedilic.json"
   },
   {
+    "id": 29374,
+    "name": "Superagent",
+    "slug": "superagent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e5b6595eedce0fbf3857cfdf876dbd2f0d66a78.png",
+    "website": "https://superagent.sh/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Superagent is the defense layer for AI agents. It inspects every prompt, response, and tool call at runtime to block prompt injections, data leaks, and backdoors in generated code before they reach production.\r\n\r\nAt the core is SuperagentLM, a small language model trained specifically for agentic security. Unlike rules or filters, it uses reasoning to catch subtle and novel attacks. It’s lightweight and fast — optimized to run inline on CPU or GPU without slowing down your stack.\r\n\r\nSuperagent integrates at the API layer, inside agent frameworks, and in CI/CD pipelines, with a single dashboard for policies, audit logs, and runtime visibility. This gives teams real-time protection and compliance guardrails without slowing down AI adoption.\r\n\r\nLearn more: https://www.superagent.sh/",
+    "one_liner": "Defender of AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1701445003,
+    "tags": [
+      "Artificial Intelligence",
+      "Security",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/superagent",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/superagent.json"
+  },
+  {
     "id": 29384,
     "name": "Shiboleth",
     "slug": "shiboleth",
@@ -3999,7 +4041,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Better Auth is a comprehensive authentication framework for TypeScript that lets you implement everything from simple auth flows to enterprise-grade systems directly on your own database, embedded in your backend. It’s loved by developers all over the world and endorsed by leading voices in the ecosystem.\r\n\r\nOn top of the framework, Better Auth also provides an infrastructure layer to help you scale with user management and analytics, bot and fraud detection, transactional email and SMS, global session storage and more.",
     "one_liner": "The authentication framework for TypeScript",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1744888506,

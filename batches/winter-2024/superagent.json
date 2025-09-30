@@ -6,14 +6,15 @@
   "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e5b6595eedce0fbf3857cfdf876dbd2f0d66a78.png",
   "website": "https://superagent.sh/",
   "all_locations": "San Francisco, CA, USA",
-  "long_description": "Superagent is the world’s first firewall purpose-built for AI systems. It protects your models and data at runtime by inspecting every prompt and response. It blocks prompt injections, jailbreaks, and data leaks, prevents backdoors in generated code, and quarantines suspicious outputs. \r\n\r\nThe firewall is powered by a small language model fine-tuned for security and safety. Unlike static rules or regex filters, it can reason about context to catch subtle attacks and leaks. The model is lightweight and optimized for speed — fast enough to run inline with every request and response without slowing down your apps.\r\n\r\nSuperagent also provides observability with full traces, audit logs, and policy enforcement, giving teams security and control without slowing down AI adoption.\r\n\r\nLearn more: https://www.superagent.sh/",
-  "one_liner": "The AI firewall — stop attacks, leaks, and model abuse",
+  "long_description": "Superagent is the defense layer for AI agents. It inspects every prompt, response, and tool call at runtime to block prompt injections, data leaks, and backdoors in generated code before they reach production.\r\n\r\nAt the core is SuperagentLM, a small language model trained specifically for agentic security. Unlike rules or filters, it uses reasoning to catch subtle and novel attacks. It’s lightweight and fast — optimized to run inline on CPU or GPU without slowing down your stack.\r\n\r\nSuperagent integrates at the API layer, inside agent frameworks, and in CI/CD pipelines, with a single dashboard for policies, audit logs, and runtime visibility. This gives teams real-time protection and compliance guardrails without slowing down AI adoption.\r\n\r\nLearn more: https://www.superagent.sh/",
+  "one_liner": "Defender of AI agents",
   "team_size": 2,
   "industry": "B2B",
   "subindustry": "B2B -> Engineering, Product and Design",
   "launched_at": 1701445003,
   "tags": [
     "Artificial Intelligence",
+    "Security",
     "Open Source",
     "AI"
   ],
@@ -25,7 +26,7 @@
   "status": "Active",
   "industries": [
     "B2B",
-    "Engineering, Product and Design"
+    "Security"
   ],
   "regions": [
     "United States of America",

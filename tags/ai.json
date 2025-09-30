@@ -4870,7 +4870,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -10508,7 +10508,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Polymath is building a general autonomy stack for cautious vehicles.  Our software allows any industrial vehicle - whether it's a tractor in a field or a bulldozer in a mine, drive itself.  We bundle together AI, ML, Controls, ROS, Safety and best-in-class deployment practices to enable our customers to tell automated vehicles to do via a REST API.\r\n\r\nWe're on more robots than we have engineers, are seeing our revenue (and robotic fleet) grow rapidly, and are looking for folks who want to help automate the world.",
     "one_liner": "General Autonomy for Industrial Vehicles",
-    "team_size": 11,
+    "team_size": 20,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1659110769,
@@ -10521,7 +10521,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -17411,14 +17411,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e5b6595eedce0fbf3857cfdf876dbd2f0d66a78.png",
     "website": "https://superagent.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superagent is the world’s first firewall purpose-built for AI systems. It protects your models and data at runtime by inspecting every prompt and response. It blocks prompt injections, jailbreaks, and data leaks, prevents backdoors in generated code, and quarantines suspicious outputs. \r\n\r\nThe firewall is powered by a small language model fine-tuned for security and safety. Unlike static rules or regex filters, it can reason about context to catch subtle attacks and leaks. The model is lightweight and optimized for speed — fast enough to run inline with every request and response without slowing down your apps.\r\n\r\nSuperagent also provides observability with full traces, audit logs, and policy enforcement, giving teams security and control without slowing down AI adoption.\r\n\r\nLearn more: https://www.superagent.sh/",
-    "one_liner": "The AI firewall — stop attacks, leaks, and model abuse",
+    "long_description": "Superagent is the defense layer for AI agents. It inspects every prompt, response, and tool call at runtime to block prompt injections, data leaks, and backdoors in generated code before they reach production.\r\n\r\nAt the core is SuperagentLM, a small language model trained specifically for agentic security. Unlike rules or filters, it uses reasoning to catch subtle and novel attacks. It’s lightweight and fast — optimized to run inline on CPU or GPU without slowing down your stack.\r\n\r\nSuperagent integrates at the API layer, inside agent frameworks, and in CI/CD pipelines, with a single dashboard for policies, audit logs, and runtime visibility. This gives teams real-time protection and compliance guardrails without slowing down AI adoption.\r\n\r\nLearn more: https://www.superagent.sh/",
+    "one_liner": "Defender of AI agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1701445003,
     "tags": [
       "Artificial Intelligence",
+      "Security",
       "Open Source",
       "AI"
     ],
@@ -17430,7 +17431,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Security"
     ],
     "regions": [
       "United States of America",
@@ -19273,6 +19274,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/codes-health.json"
   },
   {
+    "id": 29633,
+    "name": "Unsloth AI",
+    "slug": "unsloth-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/821f8850dee6e9f14ef87d19a86abcd55976c80c.png",
+    "website": "https://unsloth.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Unsloth helps builders create custom models better & faster using RL and custom kernels. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 10 million monthly model downloads and 40K GitHub stars, our mission is to make training and open-source the best it can be!",
+    "one_liner": "Open-Source Reinforcement Learning (RL) & Fine-tuning for LLMs.",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1725425996,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "Open Source",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unsloth-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/unsloth-ai.json"
+  },
+  {
     "id": 29635,
     "name": "DigitalCarbon",
     "slug": "digitalcarbon",
@@ -20058,51 +20102,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vibe",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/vibe.json"
-  },
-  {
-    "id": 29738,
-    "name": "Anara",
-    "slug": "anara",
-    "former_names": [
-      "Unriddle"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b702e275c5d9f7a428a7fe250b337175e2b5e58.png",
-    "website": "https://anara.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Anara helps researchers understand, organize and write scientific documents, together.\r\n\r\nWe started working on Anara 18 months ago. In that time:\r\n\r\n- we’ve grown to 2M users spanning hundreds of major colleges and research-led companies,\r\n- we reached $3M in yearly revenue and are fast approaching $4M,\r\n- 200M+ people have seen our content across Instagram, TikTok and YouTube,\r\n- and we raised $2.4M from YC and the founders of Github and Reddit.\r\n\r\nLooking ahead, we’re expanding beyond summarization and writing assistance to address the broader challenges of information overload faced by academics and research teams.\r\n\r\nWe're a small, tight-knit team with huge ambitions and we’re hiring across design, engineering and growth. As a founding member of the team, you'll be instrumental in helping us scale revenue from $3M to $10M and then $10M to $100M+.\r\n\r\nIf you’re excited by the idea of being a part of that, definitely reach out.",
-    "one_liner": "AI for researchers",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1715615655,
-    "tags": [
-      "Consumer",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/anara",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/anara.json"
   },
   {
     "id": 29739,
@@ -22350,7 +22349,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/343114316d4751f6d3025ab1f950989af9e4cbe7.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube is a AI insurance agency built for startups.\r\n\r\nWe are licensed in California and will be launching soon. Our initial focus is Directors & Officers (D&O) insurance, helping venture-backed companies secure the coverage they need quickly and transparently.\r\n\r\n\r\nIf you're a carrier interested in partnering, send us a DM.",
+    "long_description": "RiskCube is a AI insurance agency built for startups & SMBs. \r\n\r\nOur initial focus is Directors & Officers (D&O) insurance, helping venture-backed companies secure the coverage they need quickly and transparently.\r\n\r\n\r\nIf you're a carrier interested in partnering, send us a DM.",
     "one_liner": "Buy and manage business insurance.",
     "team_size": 3,
     "industry": "Fintech",
@@ -27254,6 +27253,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/closera.json"
   },
   {
+    "id": 30611,
+    "name": "AgentMail",
+    "slug": "agentmail",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/229d0f8aee3512a3e3602b0a708550a51a4f5e11.png",
+    "website": "https://agentmail.to",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AgentMail is an API email service provider for AI agents. Like Gmail does for humans, we give agents their own email inboxes.",
+    "one_liner": "API Inboxes for AI Agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1750990316,
+    "tags": [
+      "Developer Tools",
+      "API",
+      "Email",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agentmail",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/agentmail.json"
+  },
+  {
     "id": 30612,
     "name": "truthsystems",
     "slug": "truthsystems",
@@ -27563,6 +27604,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/topological.json"
   },
   {
+    "id": 30636,
+    "name": "EffiGov",
+    "slug": "effigov",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7ff2d4057e1128c01e602989e199ee71f53d392.png",
+    "website": "https://effigov.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "EffiGov is building an AI OS for local governments. We've started with AI call operators that answer 311 and departmental lines 24/7 - handling everything from permit applications to animal control.",
+    "one_liner": "The AI OS for Cities",
+    "team_size": 2,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1755582399,
+    "tags": [
+      "SaaS",
+      "GovTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/effigov",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/effigov.json"
+  },
+  {
     "id": 30638,
     "name": "Lotas",
     "slug": "lotas",
@@ -27856,49 +27937,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/frizzle.json"
   },
   {
-    "id": 30660,
-    "name": "Sagekit",
-    "slug": "sagekit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2842d2a52b047f3cdc0601cc787b7972d74a3bf.png",
-    "website": "https://sagekit.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Just describe your repetitive tasks. Our AI turns them into automations that save you 10+ hours every week. Connect Gmail, Notion, Airtable, Slack, Linear, and lots more.",
-    "one_liner": "The chat-based automation platform",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1751905744,
-    "tags": [
-      "SaaS",
-      "Workflow Automation",
-      "Productivity",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sagekit",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/sagekit.json"
-  },
-  {
     "id": 30662,
     "name": "DeepAware AI",
     "slug": "deepaware-ai",
@@ -28030,6 +28068,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kestroll",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/kestroll.json"
+  },
+  {
+    "id": 30671,
+    "name": "AgentHub",
+    "slug": "agenthub-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d79e8581245eb7d73760c80116738ec9835755e.png",
+    "website": "https://www.agenthublabs.com",
+    "all_locations": "",
+    "long_description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nSimulate real-world scenarios in curated RL environments for your agents - trace, evaluate, and improve agent behavior at scale. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).\r\n\r\nBuilt by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
+    "one_liner": "The simulation and evaluation engine for AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1753389326,
+    "tags": [
+      "Reinforcement Learning",
+      "B2B",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agenthub-2",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/agenthub-2.json"
   },
   {
     "id": 30675,
@@ -29302,14 +29380,13 @@
     "website": "https://clodo.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Clodo is AI for the Built World.",
-    "one_liner": "AI For Real Estate",
+    "one_liner": "AI For Large Scale Construction",
     "team_size": 3,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
     "launched_at": 1754475903,
     "tags": [
       "Artificial Intelligence",
-      "Real Estate",
       "Construction",
       "Proptech",
       "AI"
@@ -29845,25 +29922,22 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/hypercubic.json"
   },
   {
-    "id": 30885,
-    "name": "Semble AI",
-    "slug": "semble-ai",
-    "former_names": [
-      "Cadence",
-      "Cadlit"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15b0437dc4c919af5fc88d2d21f7c78539cfe9a1.png",
-    "website": "https://www.sembleai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Semble AI automates fire-life-safety design. We instantly generate code-compliant device layouts, bills of materials (BOMs), and quote estimates. We replace guesswork with AI - getting it right the first time and allowing teams to produce bids in minutes, not weeks.\r\n\r\nNo missed devices or materials. \r\nNo regulation lookups. \r\nNo back-and-forth with permitting authorities.\r\nNo overrun cost surprises.\r\n\r\nSemble AI is the new standard for fire-life-safety.",
-    "one_liner": "Autonomous fire and life-safety systems engineer",
-    "team_size": 2,
+    "id": 30886,
+    "name": "Mod AI",
+    "slug": "mod-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/942d0cc053faa8bcd3d973b7c4ce50fda2e6defa.png",
+    "website": "https://usemod.ai",
+    "all_locations": "",
+    "long_description": "We build AI agents to automate invoice processing for finance teams.\r\n\r\nFrom ingestion to ERP to payment and bookkeeping, our AI agents read emails, connect to EDIs, extract data from any document format, detect fraud, and sync directly with your ERP or accounting system. ",
+    "one_liner": "AI Agents for Accounts Payable",
+    "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1758754473,
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1759171972,
     "tags": [
-      "SaaS",
-      "Design Tools",
+      "Artificial Intelligence",
+      "Finance",
       "AI"
     ],
     "tags_highlighted": [],
@@ -29873,8 +29947,48 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mod-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/mod-ai.json"
+  },
+  {
+    "id": 30894,
+    "name": "Unsiloed AI",
+    "slug": "unsiloed-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e8e4817fc6901d70f0551aadf060397120f8833.png",
+    "website": "https://www.unsiloed.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI teams spend 6+ months building document workflows, yet fewer than 10% ever reach production. Generic LLM parsers and OCR collapse on multimodal documents with text, tables, images, and charts. Poor parsing and suboptimal chunking cripple RAG pipelines and downstream automation. Unsiloed AI has built state-of-the-art vision models which serves as the infrastructure layer for turning unstructured data into structured, queryable, and LLM-ready assets.\r\n\r\nOur APIs are already parsing hundreds of thousands of documents for startups and NASDAQ-listed enterprises, powering vertical AI solutions across industries. On public benchmarks, Unsiloed AI consistently outperforms solutions from LlamaIndex, Gemini, Mistral, and Unstructured.io among others.",
+    "one_liner": "API for parsing multimodal unstructured data",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1759119503,
+    "tags": [
+      "Finance",
       "B2B",
-      "Engineering, Product and Design"
+      "Infrastructure",
+      "AI",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -29885,8 +29999,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/semble-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/semble-ai.json"
+    "url": "https://www.ycombinator.com/companies/unsiloed-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/unsiloed-ai.json"
   },
   {
     "id": 30896,

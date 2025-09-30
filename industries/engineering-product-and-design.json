@@ -10552,7 +10552,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -17692,47 +17692,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/bilanc.json"
   },
   {
-    "id": 29374,
-    "name": "Superagent",
-    "slug": "superagent",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e5b6595eedce0fbf3857cfdf876dbd2f0d66a78.png",
-    "website": "https://superagent.sh/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superagent is the world’s first firewall purpose-built for AI systems. It protects your models and data at runtime by inspecting every prompt and response. It blocks prompt injections, jailbreaks, and data leaks, prevents backdoors in generated code, and quarantines suspicious outputs. \r\n\r\nThe firewall is powered by a small language model fine-tuned for security and safety. Unlike static rules or regex filters, it can reason about context to catch subtle attacks and leaks. The model is lightweight and optimized for speed — fast enough to run inline with every request and response without slowing down your apps.\r\n\r\nSuperagent also provides observability with full traces, audit logs, and policy enforcement, giving teams security and control without slowing down AI adoption.\r\n\r\nLearn more: https://www.superagent.sh/",
-    "one_liner": "The AI firewall — stop attacks, leaks, and model abuse",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1701445003,
-    "tags": [
-      "Artificial Intelligence",
-      "Open Source",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/superagent",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/superagent.json"
-  },
-  {
     "id": 29375,
     "name": "Preloop",
     "slug": "preloop",
@@ -18754,16 +18713,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Unsloth helps builders create custom models better & faster using RL and custom kernels. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.\r\n\r\nWith over 10 million monthly model downloads and 40K GitHub stars, our mission is to make training and open-source the best it can be!",
     "one_liner": "Open-Source Reinforcement Learning (RL) & Fine-tuning for LLMs.",
-    "team_size": 2,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725425996,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Open Source",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23762,16 +23721,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15b0437dc4c919af5fc88d2d21f7c78539cfe9a1.png",
     "website": "https://www.sembleai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Semble AI automates fire-life-safety design. We instantly generate code-compliant device layouts, bills of materials (BOMs), and quote estimates. We replace guesswork with AI - getting it right the first time and allowing teams to produce bids in minutes, not weeks.\r\n\r\nNo missed devices or materials. \r\nNo regulation lookups. \r\nNo back-and-forth with permitting authorities.\r\nNo overrun cost surprises.\r\n\r\nSemble AI is the new standard for fire-life-safety.",
+    "long_description": "Semble AI automates fire-life-safety design. Instantly generate code-compliant device layouts, bills of materials (BOMs), and quote estimates. Replace guesswork with AI - getting it right the first time and allowing teams to produce bids in minutes, not weeks.\r\n\r\nNo missed devices or materials. \r\nNo regulation lookups. \r\nNo back-and-forth with permitting authorities.\r\nNo overrun cost surprises.\r\n\r\nSemble AI is the new standard for fire-life-safety.",
     "one_liner": "Autonomous fire and life-safety systems engineer",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1758754473,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
