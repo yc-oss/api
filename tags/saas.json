@@ -961,7 +961,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2011",
     "status": "Active",
@@ -12093,7 +12093,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -16988,10 +16988,10 @@
     "subindustry": "B2B",
     "launched_at": 1597867558,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44803,17 +44803,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/828abce88fc3773d5c6973ac36dd47b70ebb191e.png",
     "website": "https://openfunnel.dev",
     "all_locations": "",
-    "long_description": "OpenFunnel is the Search Engine for GTM teams.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
+    "long_description": "OpenFunnel is the Search Engine for GTM.\r\n\r\nSearching for \"B2B SaaS, 501-1000 employees, uses Salesforce\" - is just targeted spam.\r\n\r\nEven if you get creative with LLMs to query these databases, everyone has access to the same commoditized databases, these databases lack insights about right timing or pain-points prospects face.\r\n\r\nOpenFunnel is a time-aware search engine for insights and activities in your target segment - that reveal pain.\r\n\r\nYou can search for activities like:\r\n\"Find companies looking to implement usage based billing\"\r\n\"Find companies that moved from OpenAI to self-hosted models in the last 3-6 months\"\r\n\"Find companies who updated their pricing page to introduce an enterprise plan in the last 3 months\"\r\n\r\nOpenFunnel continuously monitors these time-based signals, delivering actionable insights daily - so you have the fastest, unique insights that your competitors miss out on.\r\nOver 1000+ users are already discovering prospects through pain-first search, including some of the fastest-growing companies like Central, Mintlify, and Everest Systems.",
     "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1728361776,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Sales Enablement"
+      "Sales Enablement",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45830,15 +45830,15 @@
     "website": "https://contrario.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Contrario is a managed hiring network helping growth-stage startups and enterprises fill hard roles fast. We fill critical roles faster with AI-powered expert recruiters who deliver high-signal candidates quickly. Unlike a typical marketplace, Contrario white-glove delivers top candidates by pairing proprietary AI models with recruiter workflows to filter noise and surface only the best-fit talent.",
-    "one_liner": "AI-powered recruiting team for startups",
+    "one_liner": "AI-powered recruiting for startups",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1740035301,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
-      "Recruiting"
+      "Recruiting",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48746,49 +48746,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/epicenter.json"
   },
   {
-    "id": 30698,
-    "name": "Comena",
-    "slug": "comena",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cd3632057a23091b73c4c26a68f56e59b7f0ba4.png",
-    "website": "https://comena.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build AI agents that automate order processing for industrial distributors and manufacturers. Say goodbye to inside sales and customer service teams spending hours on manual data entry. Comena streamlines order and quote entry, from inbox to ERP, freeing up sales teams to focus on high-value activities and proactive selling.",
-    "one_liner": "AI agents for distributors and manufacturers to automate order entry.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1753000104,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Sales",
-      "Supply Chain",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/comena",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/comena.json"
-  },
-  {
     "id": 30701,
     "name": "Mimos",
     "slug": "mimos",
@@ -48874,7 +48831,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f34cf0cf02c3e2059e48082daf0ddc693722515.png",
     "website": "https://floot.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI.\r\n\r\n✨ Try building an app at floot.com\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
     "one_liner": "The easiest way for non-coders to build apps with AI.",
     "team_size": 2,
@@ -48882,15 +48839,14 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753721322,
     "tags": [
-      "Generative AI",
+      "Artificial Intelligence",
       "SaaS",
       "No-code",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -48899,8 +48855,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -49459,6 +49414,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/brickanta",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/brickanta.json"
+  },
+  {
+    "id": 30844,
+    "name": "Uplane",
+    "slug": "uplane",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f28d39fea2309ac2fc4d42b7be088ee964dccf6a.png",
+    "website": "https://uplane.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Uplane is the AI autopilot for performance marketing. Our AI platform creates ads, builds matching landing pages, and allocates budgets across Meta, Google, TikTok and more, all in real time. By connecting to CRM and ERP data, Uplane learns what drives profit and continuously improves campaigns.\r\n\r\nCompanies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving system. The result: 20-50% higher ROAS for enterprises and effortless, expert-level marketing for SMBs.\r\n\r\nDigital marketing is a $740B market with a 10% CAGR. Our model compounds: we charge a base fee plus 10% of ad spend, outperforming marketing agencies that typically charge 10-30%.\r\n\r\nOur team has deep founder-market fit: Julius managed a 7-digit monthly ad budget at one of the biggest ad spenders in Europe; Marvin has an academic background in Data Science (Imperial, Harvard) and led growth analytics & operations at a unicorn; Lukas was Head of Engineering at two YC startups, Blair (S19) and Fastgen (W23). Together, we’re building the platform we wished we had, and customers are already paying for it.",
+    "one_liner": "AI autopilot for performance marketing.",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1759250646,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/uplane.json"
   },
   {
     "id": 30885,

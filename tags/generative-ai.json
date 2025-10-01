@@ -3676,7 +3676,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -11591,49 +11591,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nozomio.json"
   },
   {
-    "id": 30729,
-    "name": "Floot",
-    "slug": "floot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f34cf0cf02c3e2059e48082daf0ddc693722515.png",
-    "website": "https://floot.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI.\r\n\r\n✨ Try building an app at floot.com\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
-    "one_liner": "The easiest way for non-coders to build apps with AI.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1753721322,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "No-code",
-      "Web Development",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/floot",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/floot.json"
-  },
-  {
     "id": 30736,
     "name": "PARES AI",
     "slug": "pares-ai",
@@ -11760,6 +11717,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pleom",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pleom.json"
+  },
+  {
+    "id": 30870,
+    "name": "Koyal",
+    "slug": "koyal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d6be5eec5520358437374d48ae33d4a26eadd56.png",
+    "website": "https://koyal.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Koyal is an Audio to Video Platform that allows you to seamlessly convert audio into personalized, visually compelling stories. We’re a team from Carnegie Mellon, MIT and Meta, with experience in AI video generation.\r\n\r\nhttps://koyal.ai builds directly upon our published research at the AI conference NeurIPS in December. We’ve been covered in the international press for our patented secure personalization protocol CHARCHA: the genAI captcha.\r\n\r\nWe currently have 7 paid pilots with the biggest global music labels, podcasts and production houses, and just launched our public beta at beta.koyal.ai\r\n\r\nWe recently concluded a pilot with Universal Music and T-Series (world’s largest music label) alongside Bollywood production houses like Maddock Entertainment, and Collective Artists Network! As part of that, we launched 5 music videos for Grammy and Oscar winning artists like A R Rahman, Ricky Kej and Shankar Mahadevan all crossing 1.5 million views!\r\n\r\nWe've recently built SOTA capabilities in (i) multilingual script to audio to video, (ii) Agentic lip-sync with dynamic movement & (iii) Multi-character consistency.",
+    "one_liner": "Personalized Audio to Video Filmmaking",
+    "team_size": 5,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1759263547,
+    "tags": [
+      "Generative AI",
+      "Entertainment",
+      "Creator Economy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/koyal",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/koyal.json"
   },
   {
     "id": 30940,
