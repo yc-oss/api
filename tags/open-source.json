@@ -2032,7 +2032,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. Open source Application Performance Monitoring (APM) & Observability too",
     "one_liner": "Open source alternative to DataDog ",
-    "team_size": 26,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1613453474,
@@ -6104,18 +6104,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93b9323bb2d6146f1e9e67bf29441615e86a467.png",
     "website": "https://opslane.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Octopipe is ETL reimagined powered by AI that changes how companies create, maintain and scale data pipelines.",
-    "one_liner": "Build Scalable Data Pipelines in minutes not months",
+    "long_description": "Opslane is a developer-first Kubernetes delivery platform. Connect your repo and get previews, safe rollouts, and instant rollbacks — no YAML, no ops team required.",
+    "one_liner": "Deploy to Kubernetes in minutes",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1721925789,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "Enterprise",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6997,5 +6997,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stagewise",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/stagewise.json"
+  },
+  {
+    "id": 30960,
+    "name": "Metorial",
+    "slug": "metorial",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d6cf9656ff81c358bc8acc1f8b0221e2f963a06.png",
+    "website": "https://metorial.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Metorial is Vercel for MCP. Our serverless MCP runtime comes with sub-second cold starts, built-in security, and monitoring. We make it easy for developers to connect AI agents to APIs and data sources at scale.",
+    "one_liner": "The open-source MCP integration platform for agentic AI.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1759440132,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/metorial",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/metorial.json"
   }
 ]

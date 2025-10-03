@@ -10035,7 +10035,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -19298,27 +19298,25 @@
   },
   {
     "id": 29723,
-    "name": "Nerve",
-    "slug": "nerve",
+    "name": "Aluna",
+    "slug": "aluna",
     "former_names": [
       "Fetchlab",
       "Floc",
       "FetchFlow",
       "Fetchflow"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/965dc71f2d57fb650275cf456f24cf94304e13d5.png",
-    "website": "https://nerve.run",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/22ca86b49c410bca80db8c2184748994b96230ae.png",
+    "website": "https://alunadata.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nerve is a unified API that connects developers building in healthcare to health data stored in electronic health records (Epic, eClinicalWorks, Cerner, etc.).\r\n\r\nInstead of building custom integration solutions for each of their customers, developers use Nerve as the single entry point to access and maintain connections to all EHRs.",
-    "one_liner": "Healthcare integrations for developers",
+    "long_description": "We work with health organizations, to build curated datasets and evals for health AI. Currently focused on Oncology. ",
+    "one_liner": "Data for biomedical AI",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1723763454,
     "tags": [
-      "Developer Tools",
-      "Health Tech",
-      "B2B"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19339,8 +19337,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nerve",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/nerve.json"
+    "url": "https://www.ycombinator.com/companies/aluna",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/aluna.json"
   },
   {
     "id": 29732,
@@ -21415,14 +21413,14 @@
   },
   {
     "id": 30264,
-    "name": "Augento",
-    "slug": "augento",
+    "name": "Stillwind",
+    "slug": "stillwind",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b5361a9e0824d4289d6c92ba83bf87c9b7c4654e.png",
-    "website": "https://augento.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6da5749bcfc4fb294ed2d29380ce7c30ee24087d.png",
+    "website": "https://stillwind.ai",
     "all_locations": "Zürich, ZH, Switzerland",
-    "long_description": "Augento is the platform for DeepSeek R1 (like) fine tuning as a service. A user gives us an Agent and where it went wrong and we'll improve it.\r\nWe provide a turn key solution to customers to act on poorly performing agents, by providing feedback in our UI to the agent and we'll take care of improving the model with reinforcement learning.\r\nImagine a startup developing a tool for law firms, enhanced with an AI to assist lawyers in selecting clients. Currently, this startup would face significant challenges in building such a tool, as it’s crucial to provide accurate and consistent responses every time. With our technology, the startup can enhance the initial model by incorporating its own experience and feedback from beta users, eventually surpassing the initial model and delivering reliable results on every query.",
-    "one_liner": "Improving Agents through Reinforcement Learning",
+    "long_description": "Our first product, Stillwind Search, makes finding an electronic part as easy as writing a text message. \r\nThe search engine turns natural language queries into fine-grained specifications that are matched against our proprietary database of millions of parts. \r\n\r\nThis is the first step towards autonomous electrical engineering.",
+    "one_liner": "Autonomous Electrical Engineering",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -21430,7 +21428,7 @@
     "tags": [
       "AIOps",
       "Artificial Intelligence",
-      "Developer Tools"
+      "Electronics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21451,8 +21449,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/augento",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/augento.json"
+    "url": "https://www.ycombinator.com/companies/stillwind",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/stillwind.json"
   },
   {
     "id": 30277,
@@ -23704,6 +23702,92 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/interfere.json"
   },
   {
+    "id": 30849,
+    "name": "MOVEdot",
+    "slug": "movedot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b630790318ee271fefdcad27aee6e1409b369d3a.png",
+    "website": "https://www.movedot.ai/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Our platform allows engineers to automate the post processing of their test results and then teach an army of AI agents how to interpret them and find correlations / causations for their specific niche.",
+    "one_liner": "AI Agents for Physical World Testing",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759431340,
+    "tags": [
+      "Artificial Intelligence",
+      "Manufacturing",
+      "Automotive",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/movedot",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/movedot.json"
+  },
+  {
+    "id": 30883,
+    "name": "hillclimb",
+    "slug": "hillclimb",
+    "former_names": [
+      "Plun",
+      "Hillclimb"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/660320374818f816f5cf14de03fe92dcab2740eb.png",
+    "website": "https://hillclimb.ing",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We work with the world's most brilliant mathematicians to design RL environments that enable LLMs to achieve state-of-the-art model performance.",
+    "one_liner": "Math RL Environments for Post-training",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759385382,
+    "tags": [
+      "Reinforcement Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hillclimb",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/hillclimb.json"
+  },
+  {
     "id": 30885,
     "name": "Semble AI",
     "slug": "semble-ai",
@@ -23787,5 +23871,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/specific",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/specific.json"
+  },
+  {
+    "id": 31013,
+    "name": "Rivet",
+    "slug": "rivet-2",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27852a72a2c3864e7f9b2c7273ec39951f3e8d68.png",
+    "website": "https://www.tryrivet.design/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Rivet is a visual tool that sits above a codebase. It's a bridge that lets product designers own any UI change to the software they work on. \r\n\r\nDesigners use Rivet today to shortcut painful design handoffs and just make any visual change themselves. This saves time for designers and engineers and makes it radically easier to build software with great design and taste. \r\n\r\nThis becomes the next design tool because it lets designers break out of static tools and prototype like frontend engineers.  Use real components from your existing codebase to design remarkably complex interactions, and then ship it yourself.  ",
+    "one_liner": "Rivet helps product designers change software without coding.",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759433421,
+    "tags": [
+      "Artificial Intelligence",
+      "Design",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rivet-2",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/rivet-2.json"
   }
 ]

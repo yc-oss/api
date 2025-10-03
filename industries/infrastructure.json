@@ -4420,7 +4420,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. Open source Application Performance Monitoring (APM) & Observability too",
     "one_liner": "Open source alternative to DataDog ",
-    "team_size": 26,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1613453474,
@@ -8702,18 +8702,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93b9323bb2d6146f1e9e67bf29441615e86a467.png",
     "website": "https://opslane.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Octopipe is ETL reimagined powered by AI that changes how companies create, maintain and scale data pipelines.",
-    "one_liner": "Build Scalable Data Pipelines in minutes not months",
+    "long_description": "Opslane is a developer-first Kubernetes delivery platform. Connect your repo and get previews, safe rollouts, and instant rollbacks — no YAML, no ops team required.",
+    "one_liner": "Deploy to Kubernetes in minutes",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1721925789,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Open Source",
       "Enterprise",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10278,5 +10278,44 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/s2-dev",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/s2-dev.json"
+  },
+  {
+    "id": 31004,
+    "name": "Dome",
+    "slug": "dome",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b49544d53946644ec1c85f52282a50abef30f8e.png",
+    "website": "https://domeapi.io",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Dome makes it easy to build on prediction markets like Polymarket and Kalshi. We provide the developer infrastructure to access, analyze, and build on prediction markets. \r\n\r\nWith our unified API, developers can access live and historical data, including granular datasets not available natively, across multiple platforms at once. Dome makes it simple to trade, embed market data into products, and deploy strategies across multiple platforms through one interface.\r\n",
+    "one_liner": "A unified API for prediction markets, like Kalshi and Polymarket",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1759389556,
+    "tags": [
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dome",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/dome.json"
   }
 ]
