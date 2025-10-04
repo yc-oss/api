@@ -1606,49 +1606,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/pipeshift.json"
   },
   {
-    "id": 30078,
-    "name": "Abundant",
-    "slug": "abundant",
-    "former_names": [
-      "Abundant (prev. Scorecard)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac0261264b03915325cd897f5bcb7484eec48903.png",
-    "website": "https://www.abundant.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Abundant produces high-quality training data for advanced AI labs, startups, and enterprises building agents and multimodal AI. Companies use our modular annotation platform and network of specialized operators to:\r\n\r\n(1) Produce imitation training data for computer-use/web agents;\r\n(2) Annotate ground truth datasets for training and hillclimbing; and\r\n(3) Label outcomes and rewards, or correct nuanced failure modes.",
-    "one_liner": "Data for Agents and Multimodal AI",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1731958841,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/abundant",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/abundant.json"
-  },
-  {
     "id": 30231,
     "name": "Paragon",
     "slug": "deployparagon",
@@ -1709,8 +1666,8 @@
     "launched_at": 1740421634,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
-      "Electronics"
+      "Electronics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1744,16 +1701,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic AI provides tools for AI agent devs, specifically visualizations and simulations, and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
     "one_liner": "Weights & Biases for AI Agents",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736904770,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2325,7 +2282,7 @@
     "name": "Okibi",
     "slug": "okibi",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c2f1b7539d172894c5a52bd97c07fa059c46ce1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2add42dcef83667e3ac21f0eabb0f202583f5d0c.png",
     "website": "https://okibi.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Okibi is a web app that lets you create AI coworkers using natural language.\r\n\r\nIt's like Lovable for creating AI agents that talk to your internal software\r\n\r\nCorporate users lose 2 hours every day doing tasks that can be automated with agents\r\n\r\nBut existing agent builders have janky drag and drop UIs that don’t map to what they want exactiy.\r\n\r\nOkibi lets everyone use natural language to build the exact agent they want.",
@@ -2336,9 +2293,9 @@
     "launched_at": 1752707566,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "B2B",
       "Automation",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],

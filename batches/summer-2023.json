@@ -184,7 +184,6 @@
     "tags": [
       "Developer Tools",
       "SaaS",
-      "Open Source",
       "Data Engineering",
       "Enterprise Software"
     ],
@@ -1479,11 +1478,11 @@
       "Introscopic",
       "River AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/157ebdb745b65bc27b9db92ffd3d33a03418bcaf.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4982c7f55fcdcbbc9ea2e64c1a666bad121fc1f8.png",
     "website": "https://www.proprise.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "PropRise is an AI-powered investment analyst for commercial real estate, transforming how firms discover and evaluate opportunities. Our platform acts as a 24/7 analyst that finds hidden deals others miss by analyzing vast amounts of data beyond traditional listings - from local council meetings and permits to community sentiment and market trends. While most firms only see surface-level data like basic financials and broker listings, PropRise connects complex patterns across tech company expansions, local market shifts, and city development plans to identify overlooked opportunities.",
-    "one_liner": "AI Investment Analyst for Commercial Real Estate",
+    "long_description": "PropRise is building the AI operating system for commercial real estate investing. We automate the entire workflow from sourcing to closing: our AI finds deals nationwide that match your criteria, then populates your Excel models with extracted data in 90 minutes instead of 4 hours. CRE teams currently waste 80% of their time on manual tasks and miss profitable deals because they can't analyze fast enough. Major firms like Colliers and Public Storage already use us to analyze 7x more deals. We're creating the first end-to-end platform that acts as the system of autonomy, intelligence, and record for the $20 trillion CRE market.",
+    "one_liner": "AI Operating System for Commercial Real Estate",
     "team_size": 3,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction",
@@ -1903,7 +1902,7 @@
     "website": "https://www.mandel.ai/",
     "all_locations": "",
     "long_description": "Mandel surfaces supply chain disruptions and supplier updates with email AI. We use AI agents that proactively extract data and email suppliers for order updates, building a real-time self updating supply chain source of truth.",
-    "one_liner": "AI Procurement Agent for Manufacturing",
+    "one_liner": "AI Supply Chain Coordinator",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Fintech",
@@ -3429,7 +3428,9 @@
     "id": 28868,
     "name": "Briefer",
     "slug": "briefer",
-    "former_names": [],
+    "former_names": [
+      "Ergomake"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e589854f66150c916444527d7f4aa314d3961ed.png",
     "website": "https://briefer.cloud",
     "all_locations": "São Paulo, SP, Brazil; Remote",
@@ -3451,7 +3452,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -7434,7 +7435,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -8334,7 +8335,8 @@
     "name": "Simbie AI",
     "slug": "simbie-ai",
     "former_names": [
-      "PeerWise Medical"
+      "PeerWise Medical",
+      "Simbie Health"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/de3ea440a910c4beb43d2c07c03f4dad65d8030c.png",
     "website": "http://www.simbie.ai",
@@ -8938,23 +8940,22 @@
   },
   {
     "id": 29137,
-    "name": "Curatle",
-    "slug": "curatle",
+    "name": "Oversteer",
+    "slug": "oversteer",
     "former_names": [
       "Thumbnail Game"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/106b8c2cdf805c74fff3e6948b1c0bc961f3deee.png",
-    "website": "https://curatle.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38b0ef5314d328b72aff9a8d9829350f181b5ace.png",
+    "website": "https://oversteer.dev",
     "all_locations": "Irvine, CA, USA; Remote",
-    "long_description": "Collect products from any site, organize them into visual collections, and preview how they fit into your life—before you buy. Curatle is the future of shopping by turning everything you want into a visual, shareable, and searchable space.",
-    "one_liner": "AI shopping cart for everything you buy ",
+    "long_description": "Oversteer is a browser automation engine. Our agent creates a task once, and then replay it deterministically on any inputs or URL, like an API.",
+    "one_liner": "Reliable, Fast, Repeatable Browser Automation",
     "team_size": 1,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1689032123,
     "tags": [
-      "Consumer",
-      "E-commerce",
+      "B2B",
       "AI"
     ],
     "tags_highlighted": [],
@@ -8964,7 +8965,7 @@
     "batch": "Summer 2023",
     "status": "Active",
     "industries": [
-      "Consumer"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -8977,8 +8978,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/curatle",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/curatle.json"
+    "url": "https://www.ycombinator.com/companies/oversteer",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/oversteer.json"
   },
   {
     "id": 29150,
