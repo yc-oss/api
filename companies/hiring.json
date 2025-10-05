@@ -14464,15 +14464,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d52139d69bb434e6d76a4140915a34125b981220.png",
     "website": "https://legionfarm.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "LegionFarm is the world's top AI-powered marketplace for gamers to hire elite pros (top 1%) for coaching, companionship, boosting, and carries in AAA games like WoW, Destiny 2, CoD, and Apex Legends. Founded in 2016, YC-backed (W20) with $17.8M from Twitch founders and investors, we've served 250k+ customers via two web platforms and five bots, creating 10k+ jobs for Pros worldwide.\r\n\r\nWe turn gaming hobbies into careers, delivering global entertainment and esports impact. Since 2023, our LLM-driven automation replaced 100+ ops roles, with an AI workspace featuring smart agents, real-time feedback, evals, and community fine-tuning for peak pro efficiency.",
+    "long_description": "LegionFarm is the world's top AI-powered marketplace for gamers to hire elite pros (top 1%) for coaching, carry and companionship services in AAA games like WoW, Destiny 2, CoD, and Apex Legends. Founded in 2016, YC-backed (W20) with $17.8M from Twitch founders and investors, we've served 250k+ customers via two web platforms and five bots, creating 10k+ jobs for Pros worldwide.\r\n\r\nWe turn gaming hobbies into careers, delivering global entertainment and esports impact. Since 2023, our LLM-driven automation replaced 100+ ops roles, with an AI workspace featuring smart agents, real-time feedback, evals, and community fine-tuning for peak pro efficiency.",
     "one_liner": "AI workspace for professional gamers",
     "team_size": 7,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1584077204,
     "tags": [
-      "Artificial Intelligence",
       "Gaming",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -18182,49 +18182,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pesto",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/pesto.json"
-  },
-  {
-    "id": 22743,
-    "name": "Segments.ai",
-    "slug": "segments-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ac88c08aefaf0753bc9d29d8d7ced656148b852c.png",
-    "website": "https://segments.ai",
-    "all_locations": "Brussels, Brussels, Belgium; Remote",
-    "long_description": "[Segments.ai](http://segments.ai/) is helping robotics and automotive companies label their multi-sensor data for AI training and validation. Our platform enables customers to efficiently annotate their point cloud and image data, accelerating their path to autonomy.\r\n\r\nWe're a fast-growing, remote-first YC startup with a lean team and healthy runway. [Segments.ai](http://segments.ai/) is used by large organizations as well as innovative startups building the next generation of autonomous drones, delivery robots, self-driving cars, and more.",
-    "one_liner": "Build better computer vision models by building better datasets",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1615300374,
-    "tags": [
-      "Deep Learning",
-      "Developer Tools",
-      "Computer Vision"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Belgium",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/segments-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/segments-ai.json"
   },
   {
     "id": 22744,
@@ -31842,16 +31799,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Metriport provides real-time access to comprehensive medical data for 300M+ individuals across the US. Our open-source intelligence platform helps organizations access, analyze, and exchange patient data while integrating with all major healthcare IT systems.\r\n\r\nIf you’ve been to doctors in the US, you may have encountered the problem: how does a healthcare provider get access to your up-to-date medical history to treat you properly? Reliance on archaic methods is still the norm: typically, you or your provider need to call the facilities where you’ve previously received treatment (assuming you remember them all), just to have them send your records via fax (yep, fax). This can take weeks, only then to have a provider sift through hundreds of pages of unstructured docs, just to figure out basic things like your active medication list, what conditions you may have, latest lab results, etc. This not only delays care—it can cause improper treatment, since the medical history is critical for informing treatment decisions. \r\n\r\nMetriport integrates fragmented medical data from thousands of sources—including both national and state/regional Health Information Exchanges (HIEs), ADTs, EHRs, pharmacies, and labs—through a single API connector. The platform then standardizes, deduplicates, and enriches this data to create a comprehensive longitudinal patient record, with AI-powered clinical summaries. \r\n\r\nAlong with a rich understanding of patient health history, healthcare providers also get realtime updates about their patients' health through Metriport. This includes getting notified when a patient is discharged from the hospital, picks up their prescription from the pharmacy, or has a new lab result available. Through this data, care teams get insights across their patient population, helping with 30-day readmissions prediction, care gap closure, risk adjustment, and more.\r\n\r\nOn top of all of this, Metriport enables healthcare organizations to share net-new clinical information back to all major healthcare IT systems, and to become interoperable with popular EHR systems such as Epic, Cerner, athena, eClinicalWorks, and many more—forming an internet for healthcare data.\r\n\r\nMetriport improves both patient and provider lives at the point-of-care, supporting use cases such as medication adherence, transitions of care management, chart prep, and much more. If you want to do work that matters, get in touch with us today.",
     "one_liner": "Open-Source Platform for Healthcare Data Intelligence",
-    "team_size": 14,
+    "team_size": 15,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1654554081,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Digital Health",
       "Healthcare",
-      "API",
-      "AI"
+      "API"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45859,10 +45816,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1716219164,
     "tags": [
+      "Artificial Intelligence",
       "Aerospace",
       "Enterprise Software",
       "Automation",
-      "AI",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -51482,14 +51439,14 @@
     "website": "https://www.hud.so",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sam Altman and Dario Amodei have both said that we’ll have virtual coworkers by the end of the year.\r\n\r\nThe issue is, current agents aren’t reliable enough to perform at a human-level at these tasks. We solve this by making it easy to build evals and run them at scale for top agent developers like foundation labs (nda), Browser Use and Silverstream.\r\n\r\nOur platform works by making it easy for domain-specific experts to create evals for their area of expertise. We're working with experts from every occupation from PMs to Accountants to Financial Analysts to make evals that the labs can then be used to evaluate and eventually train computer agents using RL.\r\n",
-    "one_liner": "hud is building evals for the drop-in worker",
+    "one_liner": "Platform for building RL environments and evals ",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740930546,
     "tags": [
-      "Artificial Intelligence",
-      "Reinforcement Learning"
+      "Reinforcement Learning",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
