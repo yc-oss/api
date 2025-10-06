@@ -18548,7 +18548,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -19369,7 +19369,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "AI customer service agent for B2C  Companies",
-    "team_size": 8,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689858919,
@@ -25437,8 +25437,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c4cc8e6c93ff9d1b86072d7ea9b4bd45f35f12d.png",
     "website": "https://manaflow.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manaflow enables businesses to build and automate internal tool workflows involving data, APIs, and actions with AI agents using natural language. \r\n\r\nManaflow replaces the boring, manual internal tools of the past with a new paradigm of internal tools built for and operated by AI agents instead of human operations teams. Let AI agents tackle repetitive research tasks, data consolidation, analytical reports, and database actions while you focus on the bigger picture for your company. Stop wasting engineering resources on boring internal tools that require even more human resources to operate them.",
-    "one_liner": "Build internal tools for AI using natural language",
+    "long_description": "Manaflow is an applied AI lab building new interfaces for the future of software engineering. We're the creators of cmux, a universal AI coding agent manager that supports Claude Code, Codex, Gemini CLI, Amp, Opencode, and other coding CLIs. \r\n\r\ncmux helps software engineers context switch between tasks, deploy coding agents safely in cloud sandboxes, and verify AI-written code through preview environments.\r\n\r\nYou can use cmux like Jira, Asana, or GitHub Issues, writing a bunch of tickets like a todos list – except cmux will deploy AI coding agents of your choice to complete the tickets for you. \r\n\r\nFor every task that you start, cmux will:\r\n- Start up dev environments that include VS Code + browser previews for any dev servers so you can visually verify and test live changes fast\r\n- Spin up cloud sandboxes to safely deploy AI coding agents in YOLO mode so they can move fast and NOT break things\r\n- Evaluate all of the code diffs for all of your selected AI coding agents when they finish their tasks and choose the best version for you\r\n\r\nThe future of software engineering will be managing, verifying, and reviewing 10+ coding tasks done by AI agents simultaneously. Manaflow is building these interfaces to enable engineers to become 10x more productive with AI.\r\n\r\ncmux is an open-source app, and you can also bring your own API keys or OpenAI and Claude Max subscriptions. You can download cmux for free at https://www.cmux.dev/.",
+    "one_liner": "Interface for managing AI coding agents in parallel to do tasks",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -25446,8 +25446,7 @@
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "Operations"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26031,6 +26030,48 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/brighterway",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/brighterway.json"
+  },
+  {
+    "id": 29777,
+    "name": "Zettascale",
+    "slug": "zettascale",
+    "former_names": [
+      "Exa Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d24db5f94c1d947d295a894627b74215cc5d32b.png",
+    "website": "https://zscc.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zetta is building the next NVIDIA, energy-efficient chips (\"XPUs\") for AI training and inference, offering superior speed and energy efficiency compared to traditional GPUs and TPUs.\r\n\r\nOur XPUs are reconfigurable, capable of optimizing the dataflow of each model, making them faster and more energy-efficient than the current SOTA chips on the market. This saves data centers *billions* in cooling and energy costs.",
+    "one_liner": "Energy efficient chips for AI",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1722631140,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zettascale",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/zettascale.json"
   },
   {
     "id": 29779,
@@ -28128,47 +28169,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/ctgt.json"
   },
   {
-    "id": 30055,
-    "name": "RiskCube",
-    "slug": "riskcube",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
-    "website": "https://riskcube.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our platform makes it simple for founders and teams to compare top-rated business insurance providers, buy the right coverage online in minutes, and manage policies all in one place.\r\n\r\nOur initial focus is Directors & Officers (D&O) insurance, helping venture-backed companies secure the coverage they need quickly and transparently.\r\n\r\nIf you're a carrier interested in partnering, send us a DM.",
-    "one_liner": "Compare, buy, and manage insurance for startups.",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1731782052,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Insurance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/riskcube",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/riskcube.json"
-  },
-  {
     "id": 30056,
     "name": "Keye",
     "slug": "keye",
@@ -29317,6 +29317,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mecha-health",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/mecha-health.json"
+  },
+  {
+    "id": 30254,
+    "name": "hud",
+    "slug": "hud",
+    "former_names": [
+      "Human Union Data",
+      "hud",
+      "HUD"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/53fffc4904f866d9d44ba9a47862b594f1d45667.png",
+    "website": "https://www.hud.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "HUD (YC W25) is developing agentic evals and RL environments for Computer Use Agents (CUAs) that browse the web for frontier AI labs. Our CUA Evals framework is the first comprehensive evaluation tool for CUAs.\r\n\r\nPeople don't actually know if AI agents are working reliably. To make AI agents work in the real world, we need detailed evals for a huge range of tasks.\r\n\r\nWe're backed by Y Combinator, and work closely with frontier AI labs to provide agent evaluation and training infrastructure at scale.",
+    "one_liner": "Platform for building RL environments and evals ",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1740930546,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hud",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/hud.json"
   },
   {
     "id": 30255,
@@ -32614,6 +32660,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/lark.json"
   },
   {
+    "id": 30636,
+    "name": "EffiGov",
+    "slug": "effigov",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7ff2d4057e1128c01e602989e199ee71f53d392.png",
+    "website": "https://effigov.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "EffiGov is building an AI OS for local governments. We've started with AI call operators that answer 311 and departmental lines 24/7 - handling everything from permit applications to animal control.",
+    "one_liner": "The AI OS for Cities",
+    "team_size": 2,
+    "industry": "Government",
+    "subindustry": "Government",
+    "launched_at": 1755582399,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "GovTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Government"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/effigov",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/effigov.json"
+  },
+  {
     "id": 30637,
     "name": "Design Arena",
     "slug": "design-arena",
@@ -34872,6 +34958,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/movedot.json"
   },
   {
+    "id": 30850,
+    "name": "Zavo",
+    "slug": "zavo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
+    "website": "https://zavopay.com/home",
+    "all_locations": "",
+    "long_description": "Zavo is the first AI-native platform for in-person commerce. We bring together payments, point of sale, and AI agents into one seamless system, giving every restaurant and retail business its own 24/7 digital workforce. \r\n\r\nLaunched in April 2025, Zavo already powers 350+ small and medium-sized businesses.\r\n\r\nWith Zavo, businesses can:\r\n\r\n- Accept in-person & online card payments\r\n- Run their entire Food & Beverage or Retail operation through Zavo Point of Sale\r\n- Save time and money with instant settlements and flat, transparent pricing on card fees\r\n- Unlock AI agents that automate finance, operations, and customer engagement\r\n\r\nThe Zavo AI Agent Suite:\r\n\r\n- Finance Agent - Your personal CFO. Knows every number. Delivers forecasts, reports, and real-time insights.\r\n- Manager Agent - Your personal manager. Knows products, inventory, sales, and staffing to keep operations seamless.\r\n- Customer Agent - Your front of house. Knows every customer, drives loyalty, repeat visits, and tailored relationships.\r\n\r\nOur Vision:\r\n\r\nSMEs drive the global economy yet remain underserved by large SaaS and AI providers. Zavo is building the future of in-person commerce, delivering enterprise-grade intelligence, automation, and modern payments to every local business. ",
+    "one_liner": "Agentic point of sale for restaurants and retail.",
+    "team_size": 8,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1758482945,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Payments",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zavo",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/zavo.json"
+  },
+  {
     "id": 30852,
     "name": "Nexus",
     "slug": "gpt",
@@ -35371,49 +35499,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/zalos.json"
   },
   {
-    "id": 30946,
-    "name": "Sourcebot",
-    "slug": "sourcebot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dc3d95366a9f12c7989780cf364009423a55b54.png",
-    "website": "https://www.sourcebot.dev/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sourcebot is an open source code understanding platform for massive codebases. We 10x developer and AI agent productivity by building the tools to wrangle code complexity at scale.\r\n\r\nSourcebot started as a code search tool that hit the front page of Hacker News. Since then, we’ve built the first AI search that works across thousands of repos, gained 2.6k+ GitHub stars, and been installed 80k+ times. Today, we’re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks.\r\n\r\nUnderstanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase. Being open source and self-hosted means we can reach the largest enterprises in ways others cannot.\r\n\r\nWe (Brendan and Michael) met a decade ago at McGill University, and have been building together full time for over 2 years. We’ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",
-    "one_liner": "Helping humans and AI agents understand massive codebases",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1759606313,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "DevSecOps",
-      "B2B",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sourcebot",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/sourcebot.json"
-  },
-  {
     "id": 30950,
     "name": "Narrative",
     "slug": "usenarrative",
@@ -35494,6 +35579,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/relaw",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/relaw.json"
+  },
+  {
+    "id": 30959,
+    "name": "Kalpa Labs",
+    "slug": "kalpa-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed843493a1f155b6b3563dc2e5494c78ea6cdaa0.png",
+    "website": "https://kalpalabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building the next frontier of speech models that can pass the turing test over long conversations along with state-of-the-art infra for your voice agents. ",
+    "one_liner": "Frontier Speech models",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1759705278,
+    "tags": [
+      "Artificial Intelligence",
+      "Speech Recognition",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kalpa-labs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/kalpa-labs.json"
   },
   {
     "id": 30989,
