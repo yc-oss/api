@@ -524,7 +524,7 @@
     "name": "Panels",
     "slug": "panels",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee4b164260ea438a9d56d44266a78d08d778c3bc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6701ac45e2897f58f58412507e74dbdbfa60235.png",
     "website": "https://www.usepanels.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Panels is an audio data platform that delivers large-scale, richly labeled speech datasets from vetted, diverse contributors to power training and evaluation of foundational voice models.",
@@ -534,9 +534,9 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1755625983,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Data Labeling"
+      "Data Labeling",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -559,5 +559,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/panels",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/panels.json"
+  },
+  {
+    "id": 31010,
+    "name": "Fixpoint",
+    "slug": "fixpoint",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f1eaa6d1493780832479f97fca83170e4ebe91.png",
+    "website": "https://fixpoint.co/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Fixpoint helps AI data companies and model labs automate their human data ops: sourcing, hiring, and managing human experts for AI training jobs.\r\n\r\nWe build AI agents to automate sourcing and interviewing, and a recruiting + HR system to keep track of annotators, assign them to projects, manage payroll, and everything else needed to run a human data project.\r\n\r\nYou can embed Fixpoint's APIs into an existing human data ops workflow or use our white-gloving staffing so you can just send us job requirements and get an expert team delivered to you.",
+    "one_liner": "Source and manage experts for AI training jobs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1759722442,
+    "tags": [
+      "Human Resources",
+      "Recruiting",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fixpoint",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/fixpoint.json"
   }
 ]

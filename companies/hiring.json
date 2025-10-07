@@ -1858,7 +1858,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": false,
@@ -7946,6 +7946,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2018/apprentice-health.json"
   },
   {
+    "id": 1934,
+    "name": "Paladin",
+    "slug": "paladin",
+    "former_names": [
+      "Paladin Drones"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d5942ba09555d929f556c3c20d281485efbde5d.png",
+    "website": "http://paladindrones.io",
+    "all_locations": "Houston, TX, USA",
+    "long_description": "When a 911 call is received, our drone is autonomously dispatched from a fire station and flies to the scene. It streams a live video feed back to the first responders, providing them with key situational details, such as the size and exact location of a fire. ",
+    "one_liner": "We deploy autonomous drones to 911 calls. Our software gives first…",
+    "team_size": 12,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Drones",
+    "launched_at": 1525133083,
+    "tags": [
+      "SaaS",
+      "Drones",
+      "GovTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2018",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Drones"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/paladin",
+    "api": "https://yc-oss.github.io/api/batches/summer-2018/paladin.json"
+  },
+  {
     "id": 1935,
     "name": "Meru Health",
     "slug": "meru-health",
@@ -12390,51 +12435,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2020/pulley.json"
   },
   {
-    "id": 13098,
-    "name": "MindsDB",
-    "slug": "mindsdb",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d1835a1b83e15542370853a52f30681b79212aa.png",
-    "website": "https://www.mindsdb.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "MindsDB is a fast-growing AI startup headquartered in San Francisco, California. As a leading innovator bringing AI and Data together, our passion is empowering companies to easily build AI capabilities that can Think, Understand and Orchestrate: enabling teams to move from prototyping & experimentation to production in a fast & scalable way.\r\n\r\nMindsDB was founded in 2017 by Adam Carrigan and Jorge Torres, inspired by Ian M. Banks's Culture series, in which super AI systems called Minds collaborate with other forms of life to accomplish incredible goals. Starting as an Open-Source project, MindsDB has grown to be one of the most widely used AI-Data platforms in the world, with a growing community and more than 700 contributor developers from every corner of the globe.\r\n\r\nWe are backed with over $55M in funding from Mayfield, Benchmark, YCombinator, and nVidia. MindsDB is also recognized by Forbes as one of America's most promising AI companies (2021) and by Gartner as a Cool Vendor for Data and AI (2022).",
-    "one_liner": "Connect, Unify, Respond to any data, anywhere with human-level…",
-    "team_size": 41,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1584047879,
-    "tags": [
-      "Developer Tools",
-      "Machine Learning",
-      "Open Source",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mindsdb",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/mindsdb.json"
-  },
-  {
     "id": 13105,
     "name": "Factored Quality",
     "slug": "factored-quality",
@@ -14535,6 +14535,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/yassir",
     "api": "https://yc-oss.github.io/api/batches/winter-2020/yassir.json"
+  },
+  {
+    "id": 13705,
+    "name": "Algen Biotechnologies",
+    "slug": "algen-biotechnologies",
+    "former_names": [
+      "Algen Biotechnologies",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/41218b0dee65a988940509b3fe258626c5137590.png",
+    "website": "https://www.algenbio.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Algen is using CRISPR to uncover disease-driving RNA messages to find treatments for cancer and diseases with high unmet needs. We are harnessing the power of CRISPR and machine learning to find first-in-class drugs that modulate RNA messages at single-cell resolution. Algen's founders are bioengineer from Jennifer Doudna Lab and biotech commercialization expert, teamed up with experienced pharmaceutical executives.",
+    "one_liner": "Using CRISPR to find treatments for cancer",
+    "team_size": 11,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1759774411,
+    "tags": [
+      "AI-powered Drug Discovery",
+      "CRISPR"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2020",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/algen-biotechnologies",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/algen-biotechnologies.json"
   },
   {
     "id": 21720,
@@ -18005,6 +18048,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nourish",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/nourish.json"
+  },
+  {
+    "id": 22703,
+    "name": "Bluelight",
+    "slug": "bluelight",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6eef372188bf11f727a7e18932768426714ab7f0.png",
+    "website": "https://usebluelight.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bluelight gives home service contractors the power of real-time data to optimize and scale their business.",
+    "one_liner": "Analytics, built for the trades.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1614629753,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Analytics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bluelight",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/bluelight.json"
   },
   {
     "id": 22713,
@@ -24595,7 +24679,7 @@
     "one_liner": "Demo Platform for API-First Companies",
     "team_size": 25,
     "industry": "B2B",
-    "subindustry": "B2B -> Sales",
+    "subindustry": "B2B",
     "launched_at": 1647531815,
     "tags": [
       "SaaS",
@@ -24800,6 +24884,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/revery-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/revery-ai.json"
+  },
+  {
+    "id": 24557,
+    "name": "Dots 💸",
+    "slug": "dots-2",
+    "former_names": [
+      "Dots",
+      "Dots"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef214a749c163e81772f2ba192fdf4eeec23bbb3.png",
+    "website": "https://dots.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dots is a developer-friendly API that lets businesses pay their contractors through just a few lines of code. Whether its gig workers like Uber drivers, sellers on marketplaces like Etsy, or simply your local handyman - Dots’ abstracts away the complexity of payouts completely. We manage the entire process: information collection (KYC), payments through any rail (ACH, Venmo, CashApp, Zelle, international, and many more to come), and even filing tax forms! Dots lets developers get payouts up and running over just a few hours, rather than the many months this would normally take.",
+    "one_liner": "Developer friendly drop in payouts infrastructure",
+    "team_size": 7,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1624985636,
+    "tags": [
+      "Fintech",
+      "Payments",
+      "API",
+      "Creator Economy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dots-2",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/dots-2.json"
   },
   {
     "id": 24558,
@@ -25014,7 +25145,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27829,17 +27960,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7ca6f3906b5aba33dcfb179d47661f5c03647f14.png",
     "website": "https://www.poshenergy.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We design, develop and manufacture sustainable battery solutions.",
-    "one_liner": "Making sustainable batteries",
-    "team_size": 4,
+    "long_description": "We are working on rapidly deployable energy storage and power generation solutions for C&I customers, especially in the AI data center space.",
+    "one_liner": "Rapidly deployable energy solutions for modern commercial and…",
+    "team_size": 10,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1646962988,
     "tags": [
-      "Energy Storage",
-      "Robotics",
-      "Climate",
-      "ClimateTech"
+      "Energy Storage"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -29661,52 +29789,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/govdash",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/govdash.json"
-  },
-  {
-    "id": 26138,
-    "name": "KorrAI",
-    "slug": "korrai",
-    "former_names": [
-      "KorrAI Technologies Ltd."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb9d2b3aba4530f352bea1055d57d8a8874049ff.png",
-    "website": "https://www.korrai.com",
-    "all_locations": "Toronto, ON, Canada",
-    "long_description": "KorrAI helps asset owners and property insurers see hidden risks in critical infrastructure before they become costly failures. We use satellite data and AI to remotely monitor mines, railways, data centers, and other complex assets making infrastructure risk visible, early, and actionable.",
-    "one_liner": "KorrAI monitors infrastructure risk with satellite imagery and AI",
-    "team_size": 17,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1643659113,
-    "tags": [
-      "Artificial Intelligence",
-      "Construction",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "Canada",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/korrai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/korrai.json"
   },
   {
     "id": 26144,
@@ -38358,9 +38440,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e1f54e54298ba1737d8a6f166aad7f707a28d29.png",
     "website": "https://www.getventa.ai",
     "all_locations": "",
-    "long_description": "Venta AI is a legally compliant AI SDR that automates prospecting and cold outreach via letters, LinkedIn and email. Thanks to our Multi-Channel approach you can reach every customer, avoid landing in SPAM and increase your reply rates up to 2x.",
-    "one_liner": "The EU-compliant AI SDR that sends letters, emails and LinkedIn",
-    "team_size": 2,
+    "long_description": "Venta AI supports sales teams in Europe with targeted outreach. Our AI employee can access the best companies and contact details and carry out automated outreach in compliance with EU regulations.",
+    "one_liner": "The compliant AI colleague for sales teams in Europe",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1686817424,
@@ -44652,6 +44734,45 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/piramidal.json"
   },
   {
+    "id": 29478,
+    "name": "Reform",
+    "slug": "reform",
+    "former_names": [
+      "Knowstory"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d1dc8f5914cad7c44e1fba45da40ae265dd9bfe2.png",
+    "website": "https://www.reformhq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Automate freight operations from quote to cash without replacing your trusted systems.",
+    "one_liner": "Workflow automation. Built for logistics.",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1706556384,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reform",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/reform.json"
+  },
+  {
     "id": 29482,
     "name": "TrueClaim",
     "slug": "trueclaim",
@@ -44773,16 +44894,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5b43dcffa3e71475d3408e71b2080b8a9bd30c6.png",
     "website": "https://www.voxopsai.com/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Regulated industries like banking and insurance not only have huge, expensive and operationally cumbersome call centres, they need to make sure that they stay compliant to avoid huge fines. \r\n\r\nVoxOps uses AI to automate 80% of their inbound and outbound calls, ensure they adhere to relevant regulations and far exceed current industry best practices. All for a fraction of their current cost base. ",
-    "one_liner": "Voice AI for regulated industries",
+    "long_description": "Garages, dealers and lenders receive and make a huge number of calls across the customer journey, covering many uses cases. Customers don't want to be kept waiting and want to be proactively informed with reminders and updates by their service providers. \r\n\r\nVoxOps automates up to 80% of their inbound and outbound calls, whilst automating downstream workflows.",
+    "one_liner": "Voice AI for Automotive",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1703336574,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Enterprise",
-      "AI"
+      "Automotive"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46551,7 +46673,7 @@
     "all_locations": "",
     "long_description": "The pandemic reduced office use nationwide by 50%, and tenants have been left to deal with highly inflexible, long term lease agreements that don’t fit today’s office use patterns.\r\n\r\nThe traditional brokerage model works great for big spaces and long terms. But when you want to talk smaller units, short term lengths, shared and common areas, you’re out of luck. \r\n\r\nTandem is an AI-enabled office leasing platform. We’re using technology to unlock flexible agreements in quality spaces.   Our AI co-pilot enables a white-glove-quality B2B office search experience, with a fraction of the human labor typically required.\r\n\r\nToday we’re serving two primary markets — NY & SF, with hundreds of active Hosts in each.  We’ve helped match more than 350 companies and have seen double-digit month-over-month growth.",
     "one_liner": "AI-assisted office leasing platform",
-    "team_size": 16,
+    "team_size": 22,
     "industry": "B2B",
     "subindustry": "B2B -> Office Management",
     "launched_at": 1717027194,
@@ -46955,11 +47077,11 @@
     "former_names": [
       "Conveo.ai"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be917e02391c4f6a7e2852343b9919dbbb24d2e6.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9206cc94a77b42c19e0e7e8efef3e5f8417b167.png",
     "website": "https://conveo.ai/",
     "all_locations": "Antwerp, Flanders, Belgium",
-    "long_description": "Conveo is an AI-powered platform for conducting and analyzing qualitative research through in-depth video and voice interviews. We help marketing, insights, product, and design teams gather customer insights 100x faster and at a fraction of the cost.",
-    "one_liner": "Qualitative Research Conducted and Analyzed by AI",
+    "long_description": "Conveo powers your qualitative research from start to finish, all in one platform. Your AI co-worker designs expert research studies, interviews real people and instantly analyzes your videos. Get robust, actionable insights of consumers, users and audiences at scale. Tell powerful stories to your stakeholders within days.",
+    "one_liner": "Confident decisions in days with AI-led interviews.",
     "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -55217,6 +55339,42 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/deepaware-ai.json"
   },
   {
+    "id": 30665,
+    "name": "Pangolin",
+    "slug": "pangolin",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e255c0b8547eae92642ef5a790e42e33f9bed016.png",
+    "website": "https://digpangolin.com",
+    "all_locations": "",
+    "long_description": "Pangolin is building a new kind of open-source proxy: cloud-orchestrated, identity-aware, tunneled, and highly available. It’s the simplest way to securely expose applications on any network—only the people you want get access to your apps, and we block everyone else.",
+    "one_liner": "Open-source alternative to Cloudflare Tunnels",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1752801073,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pangolin",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/pangolin.json"
+  },
+  {
     "id": 30666,
     "name": "CareSwift",
     "slug": "careswift",
@@ -55770,10 +55928,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753721322,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "No-code",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -56231,49 +56389,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/noso-labs.json"
   },
   {
-    "id": 30797,
-    "name": "Veritus Agent",
-    "slug": "veritus-agent",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b301b9f0345d2f7e32e073734be71f290ed3ea40.png",
-    "website": "https://www.veritusagent.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Veritus is a omni-channel platform for deploying AI agents for loan servicing and collections, including inbound and outbound voice agents. Our agents negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.\r\n\r\nBy combining cutting edge voice AI with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates. ",
-    "one_liner": "AI agents for the consumer lending industry",
-    "team_size": 7,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Credit and Lending",
-    "launched_at": 1753735109,
-    "tags": [
-      "Fintech",
-      "Lending",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Credit and Lending"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/veritus-agent",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/veritus-agent.json"
-  },
-  {
     "id": 30801,
     "name": "burnt",
     "slug": "burnt",
@@ -56432,52 +56547,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/nox-metals",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nox-metals.json"
-  },
-  {
-    "id": 30843,
-    "name": "Mainflow",
-    "slug": "mainflow",
-    "former_names": [
-      "Mainflow",
-      "𝗠𝗮𝗶𝗻𝗳𝗹𝗼𝘄"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e612ece7925eee0217ec3105d369a74144255fc.png",
-    "website": "https://www.mainflow.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Manual investing platform that's so primitive... it's pioneering.",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Banking and Exchange",
-    "launched_at": 1758353613,
-    "tags": [
-      "Fintech",
-      "Design",
-      "Investing",
-      "Data Visualization",
-      "Trading"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Banking and Exchange"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/mainflow",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/mainflow.json"
   },
   {
     "id": 30914,

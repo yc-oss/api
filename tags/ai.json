@@ -2770,7 +2770,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -8143,7 +8143,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -13598,9 +13598,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8e1f54e54298ba1737d8a6f166aad7f707a28d29.png",
     "website": "https://www.getventa.ai",
     "all_locations": "",
-    "long_description": "Venta AI is a legally compliant AI SDR that automates prospecting and cold outreach via letters, LinkedIn and email. Thanks to our Multi-Channel approach you can reach every customer, avoid landing in SPAM and increase your reply rates up to 2x.",
-    "one_liner": "The EU-compliant AI SDR that sends letters, emails and LinkedIn",
-    "team_size": 2,
+    "long_description": "Venta AI supports sales teams in Europe with targeted outreach. Our AI employee can access the best companies and contact details and carry out automated outreach in compliance with EU regulations.",
+    "one_liner": "The compliant AI colleague for sales teams in Europe",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1686817424,
@@ -18300,46 +18300,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/openfoundry.json"
   },
   {
-    "id": 29496,
-    "name": "VoxOps AI",
-    "slug": "voxops-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e5b43dcffa3e71475d3408e71b2080b8a9bd30c6.png",
-    "website": "https://www.voxopsai.com/",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Regulated industries like banking and insurance not only have huge, expensive and operationally cumbersome call centres, they need to make sure that they stay compliant to avoid huge fines. \r\n\r\nVoxOps uses AI to automate 80% of their inbound and outbound calls, ensure they adhere to relevant regulations and far exceed current industry best practices. All for a fraction of their current cost base. ",
-    "one_liner": "Voice AI for regulated industries",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1703336574,
-    "tags": [
-      "B2B",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/voxops-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/voxops-ai.json"
-  },
-  {
     "id": 29498,
     "name": "Integuru",
     "slug": "integuru",
@@ -19778,11 +19738,11 @@
     "name": "Manaflow",
     "slug": "manaflow",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7c4cc8e6c93ff9d1b86072d7ea9b4bd45f35f12d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f240894ee1866a817f8d66f9ed82314520294cbf.png",
     "website": "https://manaflow.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manaflow is an applied AI lab building new interfaces for the future of software engineering. We're the creators of cmux, a universal AI coding agent manager that supports Claude Code, Codex, Gemini CLI, Amp, Opencode, and other coding CLIs. \r\n\r\ncmux helps software engineers context switch between tasks, deploy coding agents safely in cloud sandboxes, and verify AI-written code through preview environments.\r\n\r\nYou can use cmux like Jira, Asana, or GitHub Issues, writing a bunch of tickets like a todos list – except cmux will deploy AI coding agents of your choice to complete the tickets for you. \r\n\r\nFor every task that you start, cmux will:\r\n- Start up dev environments that include VS Code + browser previews for any dev servers so you can visually verify and test live changes fast\r\n- Spin up cloud sandboxes to safely deploy AI coding agents in YOLO mode so they can move fast and NOT break things\r\n- Evaluate all of the code diffs for all of your selected AI coding agents when they finish their tasks and choose the best version for you\r\n\r\nThe future of software engineering will be managing, verifying, and reviewing 10+ coding tasks done by AI agents simultaneously. Manaflow is building these interfaces to enable engineers to become 10x more productive with AI.\r\n\r\ncmux is an open-source app, and you can also bring your own API keys or OpenAI and Claude Max subscriptions. You can download cmux for free at https://www.cmux.dev/.",
-    "one_liner": "Interface for managing AI coding agents in parallel to do tasks",
+    "long_description": "Manaflow is building new interfaces and tools for the future of software engineering. We're the creators of cmux, a universal AI coding agent manager that supports Claude Code, Codex, Gemini CLI, Amp, Opencode, and other coding CLIs. \r\n\r\ncmux helps software engineers context switch between tasks, deploy coding agents safely in cloud sandboxes, and verify AI-written code through preview environments.\r\n\r\nYou can use cmux like Jira, Asana, or GitHub Issues, writing a bunch of tickets like a todos list – except cmux will deploy AI coding agents of your choice to complete the tickets for you. \r\n\r\nFor every task that you start, cmux will:\r\n- Start up dev environments that include VS Code + browser previews for any dev servers so you can visually verify and test live changes fast\r\n- Spin up cloud sandboxes to safely deploy AI coding agents in YOLO mode so they can move fast and NOT break things\r\n- Evaluate all of the code diffs for all of your selected AI coding agents when they finish their tasks and choose the best version for you\r\n\r\nThe future of software engineering will be managing, verifying, and reviewing 10+ coding tasks done by AI agents simultaneously. Human software engineers will become software engineering managers with AI software engineering teams behind them. Manaflow is building these interfaces to enable engineers to become 10x more productive with AI.\r\n\r\ncmux is an open-source app, and you can also bring your own API keys or OpenAI and Claude Max subscriptions. You can download cmux for free at https://www.cmux.dev/.",
+    "one_liner": "Building interfaces for managing AI coding agents to do good work",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -21037,10 +20997,10 @@
     "slug": "rastro",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/447ef3f5bdd55f339b07fe098ff620ccfd86af36.png",
-    "website": "",
+    "website": "https://rastro.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "",
+    "long_description": "Rastro helps distributors and retailers automatically onboard, enrich, and maintain their product catalogs. By scraping supplier data, filling gaps, and standardizing attributes, Rastro enables companies to launch and scale faster.",
+    "one_liner": "AI catalog ops for retailers and distributors",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Consumer",
@@ -21204,48 +21164,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/surebright",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/surebright.json"
-  },
-  {
-    "id": 29852,
-    "name": "AI Sell",
-    "slug": "ai-sell",
-    "former_names": [
-      "Teleport Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db738687b654dc2a17e4e9cd0e66a253c4ea1a93.png",
-    "website": "https://www.aisell.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building AI Sales Associates for eCommerce. Imagine going on nike.com and facetiming an AI Lebron James and getting his advice on which his shoes to buy. Traditional brick-and-mortar retail stores rely on sales associates to provide personalized customer service, guide product discovery and close sales, but it's always been too expensive and unscaleable for online stores. We're building video-based AI agents that are experts in their products and can gently steer customers to a purchase, delighting customers and lifting conversion/AOV.\r\n\r\nJerry and Jeffrey are brothers who previously worked together to scale The Coding School to a 6mil+ in revenue. Jerry built software to help run the 50+ Shopify brands that Openstore acquired more profitably and efficiently. He was also an engineer at Flexport and Google.\r\n\r\nJeffrey previously worked at DRW as a quant trader, and as an engineer at Facebook, Snowflake and Amazon.\r\n",
-    "one_liner": "AI Sales Associate for Ecommerce",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1725323188,
-    "tags": [
-      "Sales",
-      "E-commerce",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ai-sell",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/ai-sell.json"
   },
   {
     "id": 29856,
@@ -25715,6 +25633,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bluejay.json"
   },
   {
+    "id": 30454,
+    "name": "Refresh",
+    "slug": "refresh",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa69690b8b1a0cab958e9bf859bdea3e6735b40c.png",
+    "website": "https://www.refresh.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Refresh any website and make it your own",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1745867856,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/refresh",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/refresh.json"
+  },
+  {
     "id": 30456,
     "name": "Tinfoil",
     "slug": "tinfoil",
@@ -26759,50 +26720,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/nimbic-ai.json"
   },
   {
-    "id": 30540,
-    "name": "Lumari",
-    "slug": "lumari",
-    "former_names": [
-      "Rextly"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12837739c0d64330042216a7aa87b32fd0deb815.png",
-    "website": "https://www.lumari.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari enables teams to automate their manual operational work using custom-trained AI teammates that deeply understand their company context. ",
-    "one_liner": "Your AI Teammates",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1747084472,
-    "tags": [
-      "B2B",
-      "Workflow Automation",
-      "Sales",
-      "Operations",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumari",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/lumari.json"
-  },
-  {
     "id": 30543,
     "name": "Cactus",
     "slug": "oncactus",
@@ -27574,6 +27491,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/monarcha.json"
   },
   {
+    "id": 30645,
+    "name": "Panels",
+    "slug": "panels",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6701ac45e2897f58f58412507e74dbdbfa60235.png",
+    "website": "https://www.usepanels.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Panels is an audio data platform that delivers large-scale, richly labeled speech datasets from vetted, diverse contributors to power training and evaluation of foundational voice models.",
+    "one_liner": "Audio Data for AI Labs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1755625983,
+    "tags": [
+      "B2B",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/panels",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/panels.json"
+  },
+  {
     "id": 30647,
     "name": "Cyberdesk",
     "slug": "cyberdesk",
@@ -27783,6 +27741,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/frizzle",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/frizzle.json"
+  },
+  {
+    "id": 30660,
+    "name": "Sagekit",
+    "slug": "sagekit",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c2842d2a52b047f3cdc0601cc787b7972d74a3bf.png",
+    "website": "https://sagekit.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Stop wasting time learning yet another tool or hiring expensive agencies. Just describe your process and Sage builds custom automations for you. Connect Gmail, Notion, Airtable, Slack, Linear, and lots more.",
+    "one_liner": "Meet Sage - your automation engineer",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751905744,
+    "tags": [
+      "SaaS",
+      "Workflow Automation",
+      "Productivity",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sagekit",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/sagekit.json"
   },
   {
     "id": 30662,
@@ -28581,47 +28582,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/autosana.json"
   },
   {
-    "id": 30729,
-    "name": "Floot",
-    "slug": "floot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f34cf0cf02c3e2059e48082daf0ddc693722515.png",
-    "website": "https://floot.com",
-    "all_locations": "",
-    "long_description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI.\r\n\r\n✨ Try building an app at floot.com\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
-    "one_liner": "The easiest way for non-coders to build apps with AI.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1753721322,
-    "tags": [
-      "SaaS",
-      "No-code",
-      "Web Development",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/floot",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/floot.json"
-  },
-  {
     "id": 30731,
     "name": "Palace",
     "slug": "palace",
@@ -29273,7 +29233,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -29596,6 +29556,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bolna-ai.json"
   },
   {
+    "id": 30878,
+    "name": "Cranston AI",
+    "slug": "cranston-ai",
+    "former_names": [
+      "Cranston Group"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c84d6c08e105e8d2e5230a9ad3bb2528c8ab58c.png",
+    "website": "https://www.cranstonai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cranston AI is building a full-stack accounting platform, starting with seed through Series B startups. Our AI agent ingests transactions, reconciles ledgers, and prepares tax filings in real time, with every close reviewed by experienced CPAs. Founders get reliable books, on-time filings, and instant answers to their questions, without the missed deadlines, outsourcing, or slow responses that define traditional firms.",
+    "one_liner": "Automating tax filing using AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1759732290,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cranston-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/cranston-ai.json"
+  },
+  {
     "id": 30886,
     "name": "Mod AI",
     "slug": "mod-ai",
@@ -29890,22 +29893,23 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/freeport-markets.json"
   },
   {
-    "id": 31005,
-    "name": "MarkIt",
-    "slug": "markit",
+    "id": 31010,
+    "name": "Fixpoint",
+    "slug": "fixpoint",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df62c31d1f06f7f601cc99ab5144b3d2e497c62e.png",
-    "website": "https://markittrade.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "MarkIt’s agents work directly inside the workflows trade professionals already use every day — Excel, PDFs, broker portals, and more.\r\n\r\nClassification and OCR are table stakes. \r\nOur agents go further, enabling:\r\nCompliance paperwork — generating import/export documents without leaving existing workflows.\r\nCommercial invoices — creating and submitting them seamlessly.\r\nFilings — automating audited submissions.",
-    "one_liner": "Silver Bullet for Trade Compliance",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f1eaa6d1493780832479f97fca83170e4ebe91.png",
+    "website": "https://fixpoint.co/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Fixpoint helps AI data companies and model labs automate their human data ops: sourcing, hiring, and managing human experts for AI training jobs.\r\n\r\nWe build AI agents to automate sourcing and interviewing, and a recruiting + HR system to keep track of annotators, assign them to projects, manage payroll, and everything else needed to run a human data project.\r\n\r\nYou can embed Fixpoint's APIs into an existing human data ops workflow or use our white-gloving staffing so you can just send us job requirements and get an expert team delivered to you.",
+    "one_liner": "Source and manage experts for AI training jobs",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1759442158,
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1759722442,
     "tags": [
-      "Workflow Automation",
-      "Logistics",
+      "Human Resources",
+      "Recruiting",
+      "Data Labeling",
       "AI"
     ],
     "tags_highlighted": [],
@@ -29916,21 +29920,19 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Supply Chain and Logistics"
+      "Human Resources"
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/markit",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/markit.json"
+    "url": "https://www.ycombinator.com/companies/fixpoint",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/fixpoint.json"
   },
   {
     "id": 31011,
