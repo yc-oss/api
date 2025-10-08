@@ -56,7 +56,7 @@
       "Sentri"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2529eaf040180126a595ccd660f42824d36e2dae.png",
-    "website": "https://www.fernstone.ai",
+    "website": "https://www.fernstone.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fernstone is an AI-powered insurance brokerage for businesses. We are competing with the 40K insurance brokers that sell $500B in commercial premium each year.\r\n\r\nBefore starting Fernstone, Luke and James met at Traba (Series A) when they started on the same day. James created and led Traba’s Enterprise function, growing it to 25% of company revenue. Luke led a Growth team, closing some of Traba’s largest customers like JB Hunt and Kimberly Clark. Bryant, James’ classmate from high school, was a Software Engineer at Sentilink and Google.\r\n",
     "one_liner": "Insurance for businesses.",
@@ -65,9 +65,9 @@
     "subindustry": "Unspecified",
     "launched_at": 1759775643,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -350,7 +350,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f00f4b531cfdb83446f322df9e4f749afb8b0179.png",
     "website": "https://parrotapp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form video lessons backed by Dr. Stephen Krashen’s comprehensible input theory. In under 4 months, we’ve scaled to $270K ARR with an average LTV:CAC of 5.6, and power users averaging 35+ mins/day on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we’re building the first language platform that actually works.",
+    "long_description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form video lessons backed by Dr. Stephen Krashen’s comprehensible input theory. Growing 67% MoM with an average LTV:CAC of 5.6, and power users averaging 35+ mins/day on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we’re building the first language platform that actually works.",
     "one_liner": "TikTok for language learning",
     "team_size": 5,
     "industry": "Consumer",
@@ -1173,6 +1173,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/answerthis.json"
   },
   {
+    "id": 30891,
+    "name": "SF Tensor",
+    "slug": "sf-tensor",
+    "former_names": [
+      "Emma Lang"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b80c521c36f8132868240eedba730602859b428.png",
+    "website": "https://sf-tensor.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI researchers should be pushing the boundaries of what's possible with new architectures and training methods. Instead, they waste weeks configuring cloud infrastructure, debugging distributed systems, and optimizing their GPU code. We know because we lived it: While training our own models across thousands of GPUs earlier this year, we spent more time fighting our infrastructure than doing actual research.\r\n\r\nThat why we're building two things. First, Elastic Cloud: a managed platform that automatically finds the cheapest GPUs across all providers, handles spot instance preemption, and cuts compute costs by up to 80%. Second, automatic kernel optimization that makes training code run faster by modeling hardware topology, often beating hand-tuned implementations.\r\n\r\nThe problem is that getting high performance across different hardware is genuinely hard. NVIDIA's CUDA moat exists because writing fast kernels requires deep expertise. Most teams either accept vendor lock-in or hire expensive kernel engineers.\r\n\r\nThe compute bottleneck is the biggest constraint on AI progress. NVIDIA can't manufacture enough GPUs, and their monopoly keeps prices astronomical. Meanwhile, AMD, Google, and Amazon are shipping capable alternative hardware that nobody uses because the software is too hard. We're breaking that moat. If we succeed, anyone will be able to train state-of-the-art models without thinking past their PyTorch code.",
+    "one_liner": "Infrastructure for AI labs to focus on research.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1759869599,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Open Source",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/sf-tensor",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/sf-tensor.json"
+  },
+  {
     "id": 30894,
     "name": "Unsiloed AI",
     "slug": "unsiloed-ai",
@@ -1292,6 +1336,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sunflower",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sunflower.json"
+  },
+  {
+    "id": 30917,
+    "name": "Bravi",
+    "slug": "bravi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c135d5c13c34c689bf78aa9a3a87d41b5a66518.png",
+    "website": "https://www.bravi.app/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bravi builds AI agents for home service companies so they can sell more. Our platform answers calls, chats, and emails instantly, pre-qualifies prospects, and follows up until a quote is sent, turning missed opportunities into revenue.\r\n\r\nWe’re already working with top installers in shutters, solar, and construction. For example, one client uncovered 1000+ missed calls per month that Bravi now converts into $1M+ of potential revenue.",
+    "one_liner": "Automating communications for home services companies",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1759871932,
+    "tags": [
+      "B2B",
+      "Manufacturing",
+      "Automation",
+      "Home Services",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/bravi",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/bravi.json"
   },
   {
     "id": 30918,
@@ -1590,9 +1676,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f72f7790d8bf3b1bd1e22c33c744503ff17f84d0.png",
     "website": "https://everestmanagedai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "90% of SMBs rely on outsourced IT support companies to manage their IT. It's a $300B industry running on 10-20% margins. We're building AI support engineers to help outsourced IT solve support tickets 20x faster and increase margins to 70-80%. \r\n\r\nYolanda worked as a Senior Support Engineer at Netflix. Her team ran 3x more efficiently than average outsourced IT support companies. We're now bringing the automation Netflix has to 140K companies globally. ",
+    "long_description": "90% of SMBs rely on outsourced IT support companies to manage their IT. It's a $300B industry running on 10-20% margins. We're building AI support engineers to help outsourced IT solve support tickets faster and increase margins to 70-80%. \r\n\r\nYolanda worked as a Senior Support Engineer at Netflix. Her team ran 3x more efficiently than average outsourced IT support companies. We're now bringing the automation Netflix has to 140K companies globally. ",
     "one_liner": "We build AI support engineers for outsourced IT services (MSPs)",
-    "team_size": 2,
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1756073155,
@@ -1954,6 +2040,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/metorial.json"
   },
   {
+    "id": 30962,
+    "name": "Denki",
+    "slug": "denki",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9c79cb57463cbdc422676b0d9eee7efef195b6a.png",
+    "website": "https://denki.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Automated assurance software, so that internal audit teams can continuously assess risk, test controls and reconcile finances without the repetitive, manual work.\r\n\r\nFocused on SOX programs and financial regulations.",
+    "one_liner": "AI for auditors at public companies",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1759884466,
+    "tags": [
+      "FinOps",
+      "Compliance",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/denki",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/denki.json"
+  },
+  {
     "id": 30965,
     "name": "Icarus",
     "slug": "icarus",
@@ -2040,6 +2168,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/freeport-markets.json"
   },
   {
+    "id": 30983,
+    "name": "Telemetron",
+    "slug": "telemetron-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db4f19af21f2acf6ffe0cf95e59e6961ae9e1f89.png",
+    "website": "https://www.telemetron.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Telemetron is an AI-powered support platform tailored for hardware products (medical devices, consumer electronics, industrial hardware, robotics, and more). \r\n\r\nOur platform unifies ticketing, device diagnostics, order tracking, and product documentation into one intelligent system. Our AI agents connect directly to devices, APIs, and backend systems to deliver faster resolutions, smarter routing, and better support experiences.",
+    "one_liner": "Customer Support Platform Built for Hardware",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1759807426,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "B2B",
+      "Customer Success",
+      "Customer Support"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/telemetron-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/telemetron-ai.json"
+  },
+  {
     "id": 30989,
     "name": "Bluma",
     "slug": "bluma",
@@ -2081,6 +2251,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bluma",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bluma.json"
+  },
+  {
+    "id": 30997,
+    "name": "LunaBill",
+    "slug": "lunabill",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b83cf59ad054e70425f43d0b88baf73e447920a.png",
+    "website": "https://lunabill.com/",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Automating Calls for Healthcare Billing Teams",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1759865815,
+    "tags": [
+      "Healthcare",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lunabill",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/lunabill.json"
   },
   {
     "id": 31002,
