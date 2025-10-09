@@ -12660,7 +12660,11 @@
     "id": 28096,
     "name": "OpenInt",
     "slug": "openint",
-    "former_names": [],
+    "former_names": [
+      "Map3",
+      "Ally",
+      "Evefan"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67a1ff68627d7db644256cf5b89e938213258bed.png",
     "website": "https://openint.dev",
     "all_locations": "Remote",
@@ -12668,7 +12672,7 @@
     "one_liner": "Open Source Embedded Product Integrations",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "Fintech -> Payments",
+    "subindustry": "B2B -> Analytics",
     "launched_at": 1673267479,
     "tags": [
       "Developer Tools",
@@ -12681,7 +12685,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Analytics"
@@ -12970,48 +12974,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/persana-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/persana-ai.json"
-  },
-  {
-    "id": 28329,
-    "name": "Type",
-    "slug": "type",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7055cc5668e741c817315243c78d24ed1bcdd9fd.png",
-    "website": "https://type.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Type.ai is an AI writing tool and document editor that helps professionals write better and faster. Type integrates powerful AI writing and editing features in a simple, familiar writing interface. It's built for writers who need greater control and precision in their work.",
-    "one_liner": "The AI-first document editor.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1675912711,
-    "tags": [
-      "SaaS",
-      "Productivity",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/type",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/type.json"
   },
   {
     "id": 28368,
@@ -15321,52 +15283,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/constructable.json"
   },
   {
-    "id": 29134,
-    "name": "Flair Technologies",
-    "slug": "flair-technologies",
-    "former_names": [
-      "Flair Technology Services Inc.",
-      "Flair"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48282aa61f2203958955e7297f595a6fc48a2288.png",
-    "website": "https://www.flairhealth.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Driving The Smartest Contract Negotiation for Hospitals",
-    "team_size": null,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1690407835,
-    "tags": [
-      "Health Tech",
-      "B2B",
-      "Data Science",
-      "Healthcare IT",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/flair-technologies",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/flair-technologies.json"
-  },
-  {
     "id": 29137,
     "name": "Oversteer",
     "slug": "oversteer",
@@ -16626,6 +16542,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/blume-benefits.json"
   },
   {
+    "id": 29315,
+    "name": "Attunement",
+    "slug": "attunement",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/167203f3b5d690947159f8db21fd55fc9e145e72.png",
+    "website": "http://attunement.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We build AI-powered compliance software for behavioral health organizations. Our system keeps them continuously audit-ready, reduces documentation costs, and protects revenue by automating the compliance work clinicians hate, freeing them to focus on care.",
+    "one_liner": "We automate compliance for behavioral health, saving clinicians hours…",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Therapeutics",
+    "launched_at": 1706574795,
+    "tags": [
+      "Workflow Automation",
+      "Healthcare",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/attunement",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/attunement.json"
+  },
+  {
     "id": 29319,
     "name": "Meticulate",
     "slug": "meticulate",
@@ -17479,7 +17437,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -21509,52 +21467,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/mica-ai.json"
   },
   {
-    "id": 29972,
-    "name": "Affil.ai",
-    "slug": "affil-ai",
-    "former_names": [
-      "Awardington",
-      "Affil"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/afaac0ba9fea3d823a798e81e6b89e28c34dbd0e.png",
-    "website": "https://affil.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We build AI compliance for external marketing. For example, we work with major creators to ensure that their content meets credit card marketing guidelines.",
-    "one_liner": "AI Affiliate Network For Financial Companies",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1724004001,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Compliance",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/affil-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/affil-ai.json"
-  },
-  {
     "id": 29977,
     "name": "Merlin AI",
     "slug": "merlin-ai",
@@ -25473,48 +25385,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/youlearn.json"
   },
   {
-    "id": 30443,
-    "name": "TypeOS",
-    "slug": "typeos",
-    "former_names": [
-      "GradeAssist"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c364ff42f5f49e73855b938d253d14065fd07cb2.png",
-    "website": "https://TypeOS.com",
-    "all_locations": "",
-    "long_description": "TypeOS lets you write, edit and format Google Docs with AI. Take any article, video or file across the web and make it your own, without ever switching tabs.",
-    "one_liner": "AI In Google Docs and your Browser",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Education",
-    "launched_at": 1745137302,
-    "tags": [
-      "Education",
-      "B2B",
-      "Productivity",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/typeos",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/typeos.json"
-  },
-  {
     "id": 30446,
     "name": "Kirana AI",
     "slug": "kirana-ai",
@@ -26147,7 +26017,7 @@
     "one_liner": "The first ops platform for forward deployed engineers",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B",
     "launched_at": 1752219403,
     "tags": [
       "B2B",
@@ -29765,6 +29635,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/multifactor.json"
   },
   {
+    "id": 30924,
+    "name": "Casey",
+    "slug": "casey",
+    "former_names": [
+      "Clausee"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88a76602e15d6bde1447f1d7066e3a3e3708bea1.png",
+    "website": "https://www.meetcasey.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Casey is the fastest way for commercial insurance brokers to submit complex risks. We automate client data collection, build risk profiles, and prepare carrier-ready submissions for wholesalers and underwriters in minutes.",
+    "one_liner": "The infrastructure layer for insurance distribution",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1759942019,
+    "tags": [
+      "B2B",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/casey",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/casey.json"
+  },
+  {
     "id": 30931,
     "name": "Pixley AI",
     "slug": "pixley-ai",
@@ -29813,7 +29726,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dc3d95366a9f12c7989780cf364009423a55b54.png",
     "website": "https://www.sourcebot.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sourcebot is an open source code understanding platform for massive codebases. We 10x developer and AI agent productivity by building the tools to wrangle code complexity at scale.\r\n\r\nSourcebot started as a code search tool that hit the front page of Hacker News. Since then, we’ve built the first AI search that works across thousands of repos, gained 2.6k+ GitHub stars, and have been installed 80k+ times. Today, we’re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks.\r\n\r\nUnderstanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase. Being open source and self-hosted means we can reach the largest enterprises in ways others cannot.\r\n\r\nWe (Brendan and Michael) met a decade ago at McGill University, and have been building together full time for over 2 years. We’ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",
+    "long_description": "Sourcebot is an open source code understanding platform for massive codebases. We’re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks.\r\n\r\nUnderstanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase.\r\n\r\nSourcebot solves this by giving developers and AI agents the ability to regex search across millions of lines of code instantly, as well as ask questions across thousands of repos using any flagship reasoning model. Being open source and on-prem, we can get deployed in enterprises within minutes before other tools even get approval.\r\n\r\nWe (Brendan and Michael) met a decade ago at McGill University, and have been building together full time for over 2 years. We’ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",
     "one_liner": "Helping humans and AI agents understand massive codebases",
     "team_size": 2,
     "industry": "B2B",
@@ -29856,8 +29769,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9c79cb57463cbdc422676b0d9eee7efef195b6a.png",
     "website": "https://denki.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Automated assurance software, so that internal audit teams can continuously assess risk, test controls and reconcile finances without the repetitive, manual work.\r\n\r\nFocused on SOX programs and financial regulations.",
-    "one_liner": "AI for auditors at public companies",
+    "long_description": "Automate internal auditing (planning, testing, documenting) to comply better with financial regulations.\r\n\r\nDenki is the assurance platform that:\r\n\r\n✔️ Works on existing systems (e.g. Auditboard, Jira, ERPs)\r\n✔️ Automates Control processes (e.g. maps to COSO, runs walkthrough interviews, tests)\r\n✔️ Produces working papers (w/ full audit traces)\r\n\r\nFocused on SOX programs and financial regulations (BSA/AML etc.)",
+    "one_liner": "AI for Auditors at Public Companies",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -29974,6 +29887,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lunabill",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunabill.json"
+  },
+  {
+    "id": 31001,
+    "name": "Fastshot",
+    "slug": "fastshot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bac15cb365c68f8004b888ffdda5946e5ec65b76.png",
+    "website": "https://www.fastshot.ai/",
+    "all_locations": "",
+    "long_description": "Fastshot is a no-code mobile development platform.\r\nOur mission is to \"Democratize mobile app creation with AI\"\r\nAnyone can develop a mobile app from idea to App Stores within days just by chatting with AI.\r\n\r\n",
+    "one_liner": "Lovable for mobile apps",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759962128,
+    "tags": [
+      "Developer Tools",
+      "No-code",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fastshot",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/fastshot.json"
   },
   {
     "id": 31010,

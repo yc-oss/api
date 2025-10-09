@@ -13994,7 +13994,11 @@
     "id": 28096,
     "name": "OpenInt",
     "slug": "openint",
-    "former_names": [],
+    "former_names": [
+      "Map3",
+      "Ally",
+      "Evefan"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67a1ff68627d7db644256cf5b89e938213258bed.png",
     "website": "https://openint.dev",
     "all_locations": "Remote",
@@ -14002,7 +14006,7 @@
     "one_liner": "Open Source Embedded Product Integrations",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "Fintech -> Payments",
+    "subindustry": "B2B -> Analytics",
     "launched_at": 1673267479,
     "tags": [
       "Developer Tools",
@@ -14015,7 +14019,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Analytics"
@@ -19634,6 +19638,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/innate.json"
   },
   {
+    "id": 30101,
+    "name": "BrowserBook",
+    "slug": "browserbook",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a865085a8c1bba663b682273cb6897a7a4f4686.png",
+    "website": "https://browserbook.com",
+    "all_locations": "New York, NY, USA",
+    "long_description": "BrowserBook makes it easy to reliably automate the web. It's a Jupyter-style IDE for browser automation that combines a live browser, executable code cells, and an AI coding assistant to generate Playwright scripts that are deterministic by default. Developers use BrowserBook to build, debug, and deploy robust web automations, powering AI agents, QA workflows, and data operations.",
+    "one_liner": "The Browser Automation IDE",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1731609344,
+    "tags": [
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/browserbook",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/browserbook.json"
+  },
+  {
     "id": 30107,
     "name": "Surge",
     "slug": "surge",
@@ -21499,7 +21548,9 @@
     "id": 30520,
     "name": "Synthetic Society",
     "slug": "synthetic-society",
-    "former_names": [],
+    "former_names": [
+      "Lizzie AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2b8be4ce1ebb38b874cd798499bbc2de228fc36.png",
     "website": "https://syntheticsociety.ai/",
     "all_locations": "San Francisco, CA, USA",
@@ -21507,7 +21558,7 @@
     "one_liner": "Synthetic Users to Simulate Real Users",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752639112,
     "tags": [
       "Artificial Intelligence",
@@ -22421,46 +22472,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/kernel.json"
   },
   {
-    "id": 30770,
-    "name": "Vibe Code Go",
-    "slug": "vibe-code-go",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffeca89d176d23081681b5dd3135c9a26bcfb7f5.png",
-    "website": "https://vibecodego.com",
-    "all_locations": "",
-    "long_description": "Vibe Code Go is a mobile app that lets software engineers vibe code on the go.\r\n\r\n90% of code (or more) is going to be written by AI by the end of the year. At the same time, I can order a hamburger from my phone, or I can file an expense report, but I can't code from my phone.\r\n\r\nWe think that with the advent of agentic coding, it's time for that to change.",
-    "one_liner": "Code from your phone",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1755546681,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vibe-code-go",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/vibe-code-go.json"
-  },
-  {
     "id": 30772,
     "name": "stagewise",
     "slug": "stagewise",
@@ -22586,6 +22597,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/interfere.json"
   },
   {
+    "id": 30863,
+    "name": "The Context Company",
+    "slug": "the-context-company",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/897cd2d31bc7dc869e170422ebc8e24a66f3e2bc.png",
+    "website": "https://thecontext.company",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ship reliable agents with confidence.\r\n\r\nAI agents often fail quietly, picking the wrong tools, looping, hallucinating, and more. The Context Company tells developers when and exactly where their agents fail so issues can be uncovered and fixed fast.\r\n\r\nIt combines traditional observability across traces, tool calls, latency, and costs with the ability to uncover silent failures that standard monitoring misses.\r\n\r\nGet started with less than 10 lines of code.",
+    "one_liner": "Observability for AI agents to help developers fix failures fast",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759953898,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Analytics",
+      "Monitoring"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/the-context-company",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/the-context-company.json"
+  },
+  {
     "id": 30867,
     "name": "Soren",
     "slug": "soren",
@@ -22681,7 +22735,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dc3d95366a9f12c7989780cf364009423a55b54.png",
     "website": "https://www.sourcebot.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sourcebot is an open source code understanding platform for massive codebases. We 10x developer and AI agent productivity by building the tools to wrangle code complexity at scale.\r\n\r\nSourcebot started as a code search tool that hit the front page of Hacker News. Since then, we’ve built the first AI search that works across thousands of repos, gained 2.6k+ GitHub stars, and have been installed 80k+ times. Today, we’re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks.\r\n\r\nUnderstanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase. Being open source and self-hosted means we can reach the largest enterprises in ways others cannot.\r\n\r\nWe (Brendan and Michael) met a decade ago at McGill University, and have been building together full time for over 2 years. We’ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",
+    "long_description": "Sourcebot is an open source code understanding platform for massive codebases. We’re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks.\r\n\r\nUnderstanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase.\r\n\r\nSourcebot solves this by giving developers and AI agents the ability to regex search across millions of lines of code instantly, as well as ask questions across thousands of repos using any flagship reasoning model. Being open source and on-prem, we can get deployed in enterprises within minutes before other tools even get approval.\r\n\r\nWe (Brendan and Michael) met a decade ago at McGill University, and have been building together full time for over 2 years. We’ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",
     "one_liner": "Helping humans and AI agents understand massive codebases",
     "team_size": 2,
     "industry": "B2B",
@@ -22796,6 +22850,48 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/metorial",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/metorial.json"
+  },
+  {
+    "id": 31001,
+    "name": "Fastshot",
+    "slug": "fastshot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bac15cb365c68f8004b888ffdda5946e5ec65b76.png",
+    "website": "https://www.fastshot.ai/",
+    "all_locations": "",
+    "long_description": "Fastshot is a no-code mobile development platform.\r\nOur mission is to \"Democratize mobile app creation with AI\"\r\nAnyone can develop a mobile app from idea to App Stores within days just by chatting with AI.\r\n\r\n",
+    "one_liner": "Lovable for mobile apps",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759962128,
+    "tags": [
+      "Developer Tools",
+      "No-code",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fastshot",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/fastshot.json"
   },
   {
     "id": 31004,

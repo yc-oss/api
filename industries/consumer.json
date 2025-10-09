@@ -5951,7 +5951,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -34568,10 +34568,11 @@
     "subindustry": "Education",
     "launched_at": 1745137302,
     "tags": [
+      "Artificial Intelligence",
       "Education",
+      "Consumer",
       "B2B",
-      "Productivity",
-      "AI"
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35337,6 +35338,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/koyal.json"
   },
   {
+    "id": 30884,
+    "name": "Flick",
+    "slug": "flick",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e2d53e090c885b02d1703c56babe82584d6d82f.png",
+    "website": "https://flick.art",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Founded by an award-winning filmmaker and a founding engineer at Instagram, Flick challenges the norm: most AI tools are technically driven, not built from a creator’s perspective.\r\n\r\nOur mission is to build a tool designed for filmmakers, not engineers. Filmmakers shouldn’t have to worry about the technical layer — they deserve full creative control, with their taste woven into every loop of the process.\r\n\r\nWe call it Flick — a word that means both film and a quick motion. To us, it captures what creativity should feel like: light, natural, and fast, not heavy or mechanical.\r\n\r\nJust like a flick of the hand or a flicker of light, great creators break conventions and let ideas flow effortlessly, using AI not as a shortcut but as a force to amplify imagination and visual storytelling.\r\n\r\nThat’s the spirit behind everything we build.",
+    "one_liner": "End-to-end AI filmmaking software.",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1759897034,
+    "tags": [
+      "Generative AI",
+      "Video",
+      "Creator Economy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/flick",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/flick.json"
+  },
+  {
     "id": 30887,
     "name": "SellRaze",
     "slug": "sellraze",
@@ -35427,7 +35469,7 @@
     "website": "https://sunflowersober.com/",
     "all_locations": "",
     "long_description": "Sunflower is on a mission to create one trillion days sober. Our product is both a consumer app (think a \"Duolingo for addiction\") but also with a tele-therapy clinic inside. \r\n\r\nConsumer App: \r\n- We built the #1 AI Sponsor for any kind of addiction\r\n- Beautiful visual progression tracking to power the core \"task to be done\" of addiction\r\n- A twitter style social media for addicts \r\n- DIY learn content (think Masterclass for addiction) for all major addiction types \r\n- CBT based journaling exercises \r\n\r\nTele-Therapy: \r\n- Think a \"Early Medical Peter Attia\" quality of clinic, but completely focused on addiction \r\n- Starting with talk therapy in CA & TX we're rolling out to all 50 states + MAT \r\n- Bringing together the worlds best doctors to create the most effective protocol for addiction \r\n\r\nSunflower went from 0 - 100k MAU in less than 6 months, and now we're continuing the traction to create the #1 product for addiction for the 1.2B humans on this planet that struggle with this fundamental human problem. ",
-    "one_liner": "A \"Duolingo for addiction\" with a tele-therapy clinic inside. 🌻",
+    "one_liner": "Sunflower is an AI Agent tasked with helping you stay sober. 🌻",
     "team_size": 10,
     "industry": "Consumer",
     "subindustry": "Consumer",
