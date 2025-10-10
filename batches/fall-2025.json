@@ -1055,7 +1055,7 @@
     "name": "Flick",
     "slug": "flick",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e2d53e090c885b02d1703c56babe82584d6d82f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f96ddb243962497e60383676b01ce3b0cd4cb76.png",
     "website": "https://flick.art",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Founded by an award-winning filmmaker and a founding engineer at Instagram, Flick challenges the norm: most AI tools are technically driven, not built from a creator’s perspective.\r\n\r\nOur mission is to build a tool designed for filmmakers, not engineers. Filmmakers shouldn’t have to worry about the technical layer — they deserve full creative control, with their taste woven into every loop of the process.\r\n\r\nWe call it Flick — a word that means both film and a quick motion. To us, it captures what creativity should feel like: light, natural, and fast, not heavy or mechanical.\r\n\r\nJust like a flick of the hand or a flicker of light, great creators break conventions and let ideas flow effortlessly, using AI not as a shortcut but as a force to amplify imagination and visual storytelling.\r\n\r\nThat’s the spirit behind everything we build.",
@@ -1399,7 +1399,7 @@
     "one_liner": "Self-improving AI agents",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1759943597,
     "tags": [
       "Artificial Intelligence",
@@ -1671,6 +1671,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/casey.json"
   },
   {
+    "id": 30930,
+    "name": "Cortex AI",
+    "slug": "cortex-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1c9246b8eba5ba12a7373a930ea46cc687dddb98.png",
+    "website": "https://cortexrobot.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cortex AI builds the world’s most diverse and large-scale real-world workplace robot & egocentric dataset — where the physical world becomes the next training and evaluation set for embodied AI.\r\n\r\nWe power frontier labs developing robotics foundation models and general-purpose robots by providing the data they need:\r\n1️⃣ Egocentric Data — real-workplace human video with hand/body pose, depth, and subtask labels.\r\n2️⃣ Robot Data — trajectories collected from manipulators and humanoids in real industry settings.\r\n3️⃣ Human-in-the-Loop Rollouts & Evals — real-world deployments with remote operators who recover robots when they fail, capturing data that feeds back into training and continuously improves models.\r\n\r\nAdditionally, through the Cortex Marketplace, workplaces get paid to host data-collection and evaluation sessions, while labs access the in-the-wild data that truly matters. This draws on Lucas’s previous experience as co-founder of Carousell, a C2C marketplace that scaled to a $1B+ valuation.",
+    "one_liner": "Large-scale real-world robot & egocentric data for embodied AI",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1760045430,
+    "tags": [
+      "Reinforcement Learning",
+      "Robotics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cortex-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/cortex-ai.json"
+  },
+  {
     "id": 30931,
     "name": "Pixley AI",
     "slug": "pixley-ai",
@@ -1710,6 +1753,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pixley-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/pixley-ai.json"
+  },
+  {
+    "id": 30932,
+    "name": "Leadbay",
+    "slug": "leadbay",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50c605d86c3c5c5b9ba4585717aa87dd77e0a975.png",
+    "website": "https://leadbay.ai/",
+    "all_locations": "Paris, Île-de-France, France",
+    "long_description": "We unlock untapped revenue for sales teams targeting fragmented, data-scarce SMB markets — like construction, hospitality, startups, and retail.\r\n\r\nYou might think that LinkedIn Sales Nav, Clay, ZoomInfo, or Apollo have you covered. They don’t. They miss 70% of U.S. companies and capture only 0.001% of digital signals or intent. We’re already working with enterprise clients who 5× their efficiency by simply unlocking these hidden opportunities in the most data-scarce, fragmented markets.\r\n\r\nHow does it look like?\r\nUpload a list of won/lost leads. That’s it. \r\nLeadbay understands your Ideal Customer Profile, discovers untapped opportunities in your market, and scores your existing dormant accounts. Every day, you’ll receive fresh, high-value prospects right in your mobile or desktop app.\r\n\r\nWe make invisible companies visible.",
+    "one_liner": "Leadbay discovers and qualifies SMB leads others can’t find.",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1760047494,
+    "tags": [
+      "Construction",
+      "B2B",
+      "Sales",
+      "AI",
+      "Databases"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "France",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/leadbay",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/leadbay.json"
   },
   {
     "id": 30935,
@@ -2219,14 +2307,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Automate internal auditing (planning, testing, documenting) to comply better with financial regulations.\r\n\r\nDenki is the assurance platform that:\r\n\r\n✔️ Works on existing systems (e.g. Auditboard, Jira, ERPs)\r\n✔️ Automates Control processes (e.g. maps to COSO, runs walkthrough interviews, tests)\r\n✔️ Produces working papers (w/ full audit traces)\r\n\r\nFocused on SOX programs and financial regulations (BSA/AML etc.)",
     "one_liner": "AI for Auditors at Public Companies",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759884466,
     "tags": [
+      "Artificial Intelligence",
       "FinOps",
       "Compliance",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -2461,6 +2549,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lunabill",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunabill.json"
+  },
+  {
+    "id": 30999,
+    "name": "Claybird",
+    "slug": "claybird",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c99aaf789dfc9ef524dff38a9121909c0f00745c.png",
+    "website": "https://claybird.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Claybird is an agent that plans, generates, and edits your AI video ad.\r\n\r\nMarketers often rely on agencies to produce video ads - a slow, expensive process involving endless revisions, actors, and shoots.\r\n\r\nClaybird is like Lovable for AI ads: it collaborates with marketers on creative direction, generates shots using Veo, Sora, and other top models, and intelligently edits them into a studio-quality video.\r\n\r\nWhen most people try making AI content, it looks like “slop”. But Claybird Agent, like an expert director, understands quality: it knows which camera angle, shot type, and lighting is necessary for each scene.\r\n\r\nGet started at claybird.com",
+    "one_liner": "Claybird plans, creates, and edits your AI video ad.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1759979466,
+    "tags": [
+      "SaaS",
+      "Video",
+      "Marketing",
+      "Advertising",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/claybird",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/claybird.json"
   },
   {
     "id": 31001,
