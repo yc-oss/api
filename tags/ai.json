@@ -9397,12 +9397,12 @@
     "name": "NewsCatcher",
     "slug": "newscatcher",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c1d123b552beeb8e2869bfad1b5ff25b3b6689b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c238653d6d11d74bfeda7930d08d87818ac2d50f.png",
     "website": "https://newscatcherapi.com/",
-    "all_locations": "Kyiv, Ukraine; Paris, Île-de-France, France; Remote",
-    "long_description": "We help data & risk enterprise teams get instant access to news and events from over 40,000 news sources. \r\n\r\nOur main product is a News API to search through an indexed database of online-published news articles in near real-time.\r\n\r\n“Humans reading the news” is not a scalable way for enterprises to analyse news, and it’s expensive. We help enterprises shift the news consumption from just reading to integrating actionable signals into their internal workflow. ",
-    "one_liner": "News API for risk and data teams",
-    "team_size": 18,
+    "all_locations": "Kyiv, Ukraine; Remote",
+    "long_description": "NewsCatcher collects multi-language news data from 140,000+ sources and over 1.5 million articles daily, enriches every item and delivers only the signals a client cares about—already mapped to their data models, tools, and security requirements. Alongside news, we also cover signals from municipal, government, regulatory, and corporate sources. \r\n\r\nToday, risk departments, policy teams, product strategists, and AI researchers rely on NewsCatcher to surface mission‑critical events in seconds and keep them embedded in workflows for years.",
+    "one_liner": "We transform public web data into live signals that power search,…",
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1659698356,
@@ -9425,7 +9425,6 @@
     ],
     "regions": [
       "Ukraine",
-      "France",
       "Europe",
       "Remote",
       "Fully Remote"
@@ -15247,7 +15246,7 @@
       "Flair Technology Services Inc.",
       "Flair"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/52ea8b5601537c622f876137c2ab1de92b04931e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d3245675111b9595800bc8372727af2a05abfea.png",
     "website": "https://www.flairhealth.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -18863,7 +18862,9 @@
     "name": "Understood Care",
     "slug": "understood-care",
     "former_names": [
-      "Ply Health, Inc"
+      "Ply Health",
+      "Inc",
+      "Ply Health"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/895bc73d946362c90b0900dbf85005b76c9c34c9.png",
     "website": "https://understoodcare.com",
@@ -19160,6 +19161,47 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/bayesline",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/bayesline.json"
+  },
+  {
+    "id": 29646,
+    "name": "Corgi",
+    "slug": "corgi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f66899a62764756d799d5abc511dc4b46f8c151.png",
+    "website": "https://corgi.insure",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Corgi is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We’re taking it all.",
+    "one_liner": "Corgi is building an AI insurance company",
+    "team_size": 70,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1720644316,
+    "tags": [
+      "Fintech",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corgi",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/corgi.json"
   },
   {
     "id": 29647,
@@ -21598,49 +21640,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/simcare-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/simcare-ai.json"
-  },
-  {
-    "id": 29981,
-    "name": "Kairo Health",
-    "slug": "kairo-health",
-    "former_names": [
-      "Gaia Health"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c60c69ff532e5b2e33d0105a9322b6a9f857dd4e.png",
-    "website": "https://trykairo.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Kairo Health builds AI agents that help deliver patient care at a fraction of the cost.\r\n\r\nThe US has a shortage of nurses, care coordinators, and administrators, all of whom spend a significant portion of their days navigating disparate software systems like their EHR and waiting on hold for hours over the phone. Organizations have little incentive to grow these teams, which leads to burnout and inefficiency.\r\n\r\nKairo scales this support staff by recording their actions and translating them into instructions for our agents to execute on their own. Organizations can deploy these agents for any care delivery workflow, such as calling patients to check-in on their symptoms, rescheduling a clinician’s panel in case of an emergency, and filling late cancellation slots with other patients.",
-    "one_liner": "The AI healthcare workforce",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1724055639,
-    "tags": [
-      "Digital Health",
-      "Healthcare IT",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kairo-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/kairo-health.json"
   },
   {
     "id": 29988,
@@ -26976,46 +26975,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/rid.json"
   },
   {
-    "id": 30603,
-    "name": "Closera",
-    "slug": "closera",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff4023cc85097ec825f74cc6019f8b85ea20321a.png",
-    "website": "https://closera.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Closera automates the most time-consuming tasks that slows deals down:\r\n• Sales decks that used to take 4 weeks and cost $5,000? Now done in minutes\r\n• Property valuation models that took hours? Built in seconds\r\n• Verifying data for thousands of listings? Happens all at once, not over days\r\n\r\nClosera is building the AI native operating system for the $37T commercial real estate industry. \r\n\r\nLearn more at closera.com",
-    "one_liner": "AI employees for commercial real estate",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1751847740,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/closera",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/closera.json"
-  },
-  {
     "id": 30611,
     "name": "AgentMail",
     "slug": "agentmail",
@@ -29471,6 +29430,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/brickanta.json"
   },
   {
+    "id": 30850,
+    "name": "Zavo",
+    "slug": "zavo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
+    "website": "https://zavopay.com/home",
+    "all_locations": "",
+    "long_description": "Zavo is the first AI-native platform for in-person commerce.\r\n\r\nWe unify payments, point of sale, and AI agents into one seamless system, giving every restaurant and retail business its own Ai workforce.\r\n\r\nZavo already powers 450+ small and medium-sized businesses.\r\n\r\nThe future of in-person commerce is autonomous, and Zavo is building it.",
+    "one_liner": "Agentic point of sale for restaurants and retail.",
+    "team_size": 8,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "launched_at": 1758482945,
+    "tags": [
+      "Fintech",
+      "Payments",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Payments"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zavo",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/zavo.json"
+  },
+  {
     "id": 30853,
     "name": "Bolna AI",
     "slug": "bolna-ai",
@@ -29511,6 +29512,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bolna-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bolna-ai.json"
+  },
+  {
+    "id": 30873,
+    "name": "Tell if AI",
+    "slug": "tell-if-ai",
+    "former_names": [
+      "Pando Technologies",
+      "Tellif"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a16ed34ef1b8a31643a83a3d8aa96f95b35b86b9.png",
+    "website": "https://tellif.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tell If AI is a team founded by ex DeepMind and Yandex researchers focused on fighting  deepfakes and AI generated slop. We've trained our own state of the art foundation model on a massive amount of data sampled from over 70 different generative AI models. For content found in the wild, we offer 99% precision and recall at detecting whether that content was made or modified with AI and we can indicate precisely which AI model made the content. We work with image, video, and audio.\r\n\r\nTry our free demo at https://tellif.ai.",
+    "one_liner": "Detect deepfakes and AI generated images, videos, and audio.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1760060442,
+    "tags": [
+      "Generative AI",
+      "Deepfake Detection",
+      "Computer Vision",
+      "Fraud Detection",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tell-if-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/tell-if-ai.json"
   },
   {
     "id": 30878,
@@ -29719,6 +29765,90 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/multifactor",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/multifactor.json"
+  },
+  {
+    "id": 30911,
+    "name": "Articulate",
+    "slug": "articulate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b26a35750dbae152a692ea82c2b00bb8f78d4d9b.png",
+    "website": "https://usearticulate.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We provide a command center for construction and solar contractors. Our platform eliminates costly delays, confusion, and rework by automating procurement, centralizing communication, and auditing every design before construction starts for design discrepancies and code and spec compliance. From RFIs to permits to supplier follow-ups, everything is handled automatically so teams can focus on building, not waiting.\r\n\r\nProject managers, superintendents, estimators, and construction managers use our platform to catch design discrepancies early, get proactive updates from every crew, and ensure on-time delivery from suppliers across every project. Articulate integrates seamlessly with Procore, Outlook, Gmail, Bluebeam, Autodesk, and other tools you already use, so there is no disruption to your workflow.\r\n\r\nTeams use us to:\r\n- Eliminate delays from drawing errors and change orders\r\n- Reduce material wait times and procurement bottlenecks\r\n- Get daily site updates through voice, text, and email agents\r\n- Instantly verify local code and permit requirements\r\n- Save $3M per project through intelligent automation\r\n\r\nContact founders@usearticulate.com to schedule a call!",
+    "one_liner": "Speeding Up Construction with AI",
+    "team_size": 2,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Unspecified",
+    "launched_at": 1760131149,
+    "tags": [
+      "Construction",
+      "B2B",
+      "Workflow Automation",
+      "Architecture",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/articulate",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/articulate.json"
+  },
+  {
+    "id": 30921,
+    "name": "Compyle",
+    "slug": "compyle",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d64e6601db5d659b1726d0d5ea126494391f5f62.png",
+    "website": "https://compyle.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Compyle is a less autonomous coding agent that asks before it acts. We're like Cursor or Claude Code - but you won't need to rewrite your codebase every time you use it for more than a small task.\r\n\r\nWe built Compyle because we were frustrated with the direction other coding agents are headed. They're all racing to be more autonomous, running for hours without human input.\r\n\r\nThis doesn't work for real production code. When agents run autonomously, they make countless small decisions that pile up in your codebase. Engineers lose ownership - they don't know what was implemented, can't effectively debug or maintain it, and struggle to build on top of it. The code becomes a black box, and they're forced to throw it away.\r\n\r\nCompyle keeps engineers in the driver's seat.",
+    "one_liner": "Lovable for software engineering",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1760115390,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/compyle",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/compyle.json"
   },
   {
     "id": 30924,
@@ -29981,6 +30111,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/freeport-markets.json"
   },
   {
+    "id": 30989,
+    "name": "Bluma",
+    "slug": "bluma",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fb4b30a87ff49eecaaa2a8e93e689ddecfde446.png",
+    "website": "https://www.getbluma.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bluma makes it effortless for SaaS founders to launch TikTok and Instagram organic campaigns that actually go viral.\r\n\r\nShare us viral faceless videos you would like to recreate and we’ll make them into scalable ad templates. Or choose from our growing library of templates like Peter Griffin explainers and slideshows.\r\n\r\nThese templates generate thousands of videos each month that promote your product. Then we handle posting across a network of accounts.\r\n\r\n📩 Contact us at alisa@getbluma.com to set up a call.",
+    "one_liner": "Automating Short-Form Video Ads at Scale",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1758933765,
+    "tags": [
+      "B2B",
+      "Social Media",
+      "Video",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bluma",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/bluma.json"
+  },
+  {
     "id": 30997,
     "name": "LunaBill",
     "slug": "lunabill",
@@ -30104,6 +30277,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fastshot",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/fastshot.json"
+  },
+  {
+    "id": 31002,
+    "name": "Clicks",
+    "slug": "clicks",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5305c55b4b60ebbe6d4f336c1c814b90415438cb.png",
+    "website": "https://goclicks.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clicks automates your back-office using your existing tools and processes without requiring any IT integrations.\r\n\r\nWhat We Do:\r\nThink of Clicks as your back-office worker that can handle any repetitive task. Simply describe your process via video call or share documentation, and our forward-deployed engineering team ensures it's automated exactly your way.\r\nOur AI agents work 24/7 and can be kicked-off via email, Slack, or our web app, handling tasks like CRM updates, report generation, and data entry while adapting to your existing software.\r\n\r\nInitial Focus:\r\nWe're starting with recruiting and executive search firms, automating candidate codification, assessment reports, and administrative workflows that typically consume hours of manual work each day.\r\n\r\nValue Proposition:\r\nOur pricing is 100% outcome based: you only pay for the work outputs we complete (e.g., candidates added to CRM, reports generate, etc.). Current customers are already live and saving an average of 60% in costs compared to human workers, with full automation deployed within one week.",
+    "one_liner": "The first AI back-office worker that works like a human.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1759173987,
+    "tags": [
+      "Workflow Automation",
+      "Recruiting",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clicks",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/clicks.json"
   },
   {
     "id": 31010,
