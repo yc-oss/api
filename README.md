@@ -12,7 +12,7 @@ fetch the companies in a GitHub Actions workflow that runs every day.
 
 API endpoint: https://yc-oss.github.io/api/meta.json
 
-- Last updated: October 11, 2025 at 12:51 AM
+- Last updated: October 12, 2025 at 12:56 AM
 - Companies: 5483
 - Batches: 45
 - Industries: 58
