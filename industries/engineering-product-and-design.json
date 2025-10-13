@@ -19558,9 +19558,9 @@
       "InsightForge"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b466ed207f7ecd72989b10237037b204765513f2.png",
-    "website": "https://trypinnacle.app/",
+    "website": "https://pinnacle.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pinnacle is an API for RCS, the new standard for SMS for app-like text messages. For example, developers can create messages that show products that can be purchased with one tap natively on iOS and Android.\r\n\r\nIf you're currently using SMS from Twilio, etc, and you don't want to leave money on the table, get in touch with us - founders@trypinnacle.app with subject \"YCBIO\". \r\n\r\nIf you're a YC company, we'll get you a free founders mode™️ hat, 1000 free msgs/mo + 24/7 real founder mode™️ support when you switch to us.",
+    "long_description": "Pinnacle is an API for RCS, the new standard for SMS for app-like text messages.",
     "one_liner": "API & SDK for RCS (the next-generation of texting)",
     "team_size": 2,
     "industry": "B2B",
@@ -19590,7 +19590,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pinnacle",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/pinnacle.json"
@@ -23065,14 +23065,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/179683a8dd97e578123332a8c5364707962a3392.png",
     "website": "https://www.herdora.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Herdora's long-term bet is maximizing intelligence per watt.\r\n\r\nAI is clearly going to be everywhere. The constraint won't be what models can do, but how much intelligence we can afford to run. \r\n\r\nMost companies waste enormous compute running inference inefficiently. They use the wrong models, bad serving stacks, and infrastructure that wasn't built for their actual workload.\r\n\r\nWe're an inference cloud for enterprises. We optimize the specific models you already run in production, or help you onboard a better one. You bring us your model, we serve back a better version for faster and cheaper. Same quality. 2-10x the speed. Fraction of the cost.\r\n\r\nWe focus on non-text modalities, like video, audio, and images. The stuff with strict latency / throughput requirements.\r\n\r\nEvery optimized deployment teaches us more about efficient inference. The techniques that work for one customer's voice model often generalize. We're building toward a future where you can run 100,000x more intelligence on the same hardware. \r\n\r\nThe companies that win in AI will be the ones that can run intelligence efficiently enough to put it everywhere. That's the infrastructure layer we're building.",
+    "long_description": "Herdora is building the inference layer for mission-critical AI workloads. We provide scalable compute, optimized inference engines, intelligent routing and autoscaling, real-time observability, and kernel-level performance optimizations, with strict SLAs and white-glove support. \r\n\r\nHerdora's long-term bet is maximizing intelligence per watt.\r\n\r\nAI is clearly going to be everywhere. The constraint won't be what models can do, but how much intelligence we can afford to run. \r\n\r\nMost companies waste enormous compute running inference inefficiently. They use the wrong models, bad serving stacks, and infrastructure that wasn't built for their actual workload.\r\n\r\nWe focus on serving enterprises that need the best performance and reliability in the world while keeping control and visibility. They bring their model to Herdora, and we serve back an optimized version. Same quality, 2-10x the speed, fraction of the cost, and strict SLOs. ",
     "one_liner": "Fast AI Inference",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751530242,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
