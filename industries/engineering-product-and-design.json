@@ -9491,7 +9491,7 @@
     "slug": "waydev",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34b205bfaa1f489d8476a0f6fc5723576e3a9a03.png",
-    "website": "https://waydev.co",
+    "website": "https://waydev.co/ai",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Waydev AI is the first conversational platform for engineering, helping you measure productivity, track AI’s impact, and guide your teams with data-backed confidence.",
     "one_liner": "The AI-Native Engineering Intelligence Platform ",
@@ -9500,8 +9500,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1616455133,
     "tags": [
-      "B2B",
-      "Analytics",
+      "AI-Enhanced Learning",
+      "Artificial Intelligence",
       "Enterprise",
       "Data Engineering",
       "AI Assistant"
@@ -13224,7 +13224,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -15431,16 +15431,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7eba747c12d79722f933dd297d83341ffec8d94c.png",
     "website": "https://www.getspine.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Spine is the unlimited visual workspace where your ideas can branch, run in parallel, and stay in view. Instead of being trapped in a linear chat thread, you think in blocks, not threads—chat, deep research, images, memos—each block holding its own context while sharing it across the canvas.\r\n\r\nConnect and orchestrate GPT-5, Claude, Gemini, Grok, Llama and hundreds more like instruments in a symphony, all without losing your train of thought. Chat is great for Q&A; it’s terrible for thinking. Spine fixes that by letting context flow visually between blocks so your flow state never breaks.\r\n\r\nExtend this thinking to structured workflows that you can set up across 1000+ apps.\r\n\r\nReclaim your creative power. The age of prompt engineering is ending; the future of thinking is visual, collaborative, and unlimited—and it lives on Spine.",
-    "one_liner": "Unlimited visual workspace to collaborate with 500+ AI models",
+    "long_description": "Spine is the unlimited visual workspace where your ideas can branch, run in parallel, and stay in view. Instead of being trapped in a linear chat thread, you think in blocks, not threads—chat, deep research, images, memos, slides—each block holding its own context while sharing it across the canvas.\r\n\r\nConnect and orchestrate GPT-5, Claude, Gemini, Grok, Llama and hundreds more like instruments in a symphony, all without losing your train of thought. Chat is great for Q&A; it’s terrible for thinking. Spine fixes that by letting context flow visually between blocks so your flow state never breaks.\r\n\r\nExtend this thinking to structured workflows that you can set up across 1000+ apps.\r\n\r\nReclaim your creative power. The age of prompt engineering is ending; the future of thinking is visual, collaborative, and unlimited—and it lives on Spine.",
+    "one_liner": "Unlimited visual workspace to collaborate with hundreds of AI models",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1687896796,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15674,53 +15674,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/refine",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/refine.json"
-  },
-  {
-    "id": 28927,
-    "name": "Metalware",
-    "slug": "metalware",
-    "former_names": [
-      "Metalware",
-      "metalware",
-      "Metalware"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a2d106f9cdebdba12fd6e7d00d9e948e77f5be.png",
-    "website": "https://www.metalware.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Metalware develops advanced firmware security solutions for critical infrastructure, protecting industries like aerospace, defense, automotive, telecom, and healthcare from cyber threats.\r\n\r\nOur product is an automated, intelligent binary fuzzer that enables organizations to efficiently discover and remediate security weaknesses in hardware products before deployment.",
-    "one_liner": "Cybersecurity for firmware",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1689732876,
-    "tags": [
-      "Developer Tools",
-      "Hardware",
-      "Cybersecurity",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/metalware",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/metalware.json"
   },
   {
     "id": 28930,
@@ -20447,13 +20400,7 @@
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1729125196,
-    "tags": [
-      "Deep Learning",
-      "Developer Tools",
-      "Generative AI",
-      "SaaS",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -22053,13 +22000,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4293782b71fdb3a0c57d443e4429a56b4d19f320.png",
     "website": "https://cua.ai",
     "all_locations": "",
-    "long_description": "Cua is an open-source framework that enables AI agents to control full operating systems within high-performance, lightweight virtual containers. It delivers up to 90% native speed on Apple Silicon and works with any language models.",
+    "long_description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
     "one_liner": "Docker for Computer-use Agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1744392234,
-    "tags": [],
+    "tags": [
+      "Open Source"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,

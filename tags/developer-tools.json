@@ -7994,7 +7994,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1121bda8391be946b0390232fa3c953a095536e.png",
     "website": "https://ollama.com",
-    "all_locations": "Palo Alto, CA, USA; San Francisco, CA, USA",
+    "all_locations": "Palo Alto, CA, USA",
     "long_description": "",
     "one_liner": "Get up and running with large language models.",
     "team_size": null,
@@ -8002,9 +8002,9 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1652795204,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12578,7 +12578,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -15293,53 +15293,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/refine",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/refine.json"
-  },
-  {
-    "id": 28927,
-    "name": "Metalware",
-    "slug": "metalware",
-    "former_names": [
-      "Metalware",
-      "metalware",
-      "Metalware"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a2d106f9cdebdba12fd6e7d00d9e948e77f5be.png",
-    "website": "https://www.metalware.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Metalware develops advanced firmware security solutions for critical infrastructure, protecting industries like aerospace, defense, automotive, telecom, and healthcare from cyber threats.\r\n\r\nOur product is an automated, intelligent binary fuzzer that enables organizations to efficiently discover and remediate security weaknesses in hardware products before deployment.",
-    "one_liner": "Cybersecurity for firmware",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1689732876,
-    "tags": [
-      "Developer Tools",
-      "Hardware",
-      "Cybersecurity",
-      "Enterprise",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/metalware",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/metalware.json"
   },
   {
     "id": 28930,
@@ -18485,11 +18438,11 @@
     "slug": "manaflow",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f240894ee1866a817f8d66f9ed82314520294cbf.png",
-    "website": "https://manaflow.com",
+    "website": "https://www.cmux.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Manaflow is building new interfaces and tools for the future of software engineering. We're the creators of cmux, a universal AI coding agent manager that supports Claude Code, Codex, Gemini CLI, Amp, Opencode, and other coding CLIs. \r\n\r\ncmux helps software engineers context switch between tasks, deploy coding agents safely in cloud sandboxes, and verify AI-written code through preview environments.\r\n\r\nYou can use cmux like Jira, Asana, or GitHub Issues, writing a bunch of tickets like a todos list – except cmux will deploy AI coding agents of your choice to complete the tickets for you. \r\n\r\nFor every task that you start, cmux will:\r\n- Start up dev environments that include VS Code + browser previews for any dev servers so you can visually verify and test live changes fast\r\n- Spin up cloud sandboxes to safely deploy AI coding agents in YOLO mode so they can move fast and NOT break things\r\n- Evaluate all of the code diffs for all of your selected AI coding agents when they finish their tasks and choose the best version for you\r\n\r\nThe future of software engineering will be managing, verifying, and reviewing 10+ coding tasks done by AI agents simultaneously. Human software engineers will become software engineering managers with AI software engineering teams behind them. Manaflow is building these interfaces to enable engineers to become 10x more productive with AI.\r\n\r\ncmux is an open-source app, and you can also bring your own API keys or OpenAI and Claude Max subscriptions. You can download cmux for free at https://www.cmux.dev/.",
+    "long_description": "Manaflow is building new interfaces and tools for the future of software engineering. We're the creators of cmux, a universal AI coding agent manager that supports Claude Code, Codex, Gemini CLI, Amp, Opencode, and other coding CLIs. \r\n\r\ncmux helps software engineers context switch between tasks, deploy coding agents safely in cloud sandboxes, and verify AI-written code through preview environments.\r\n\r\nYou can use cmux like Jira, Asana, or GitHub Issues, writing a bunch of tickets like a todos list – except cmux will deploy AI coding agents of your choice to complete the tickets for you. \r\n\r\nFor every task that you start, cmux will:\r\n- Start up dev environments that include VS Code + browser previews for any dev servers so you can visually verify and test live changes fast\r\n- Spin up cloud sandboxes to safely deploy AI coding agents in YOLO mode so they can move fast and NOT break things\r\n- Evaluate all of the code diffs for all of your selected AI coding agents when they finish their tasks and choose the best version for you\r\n\r\nThe future of software engineering will be managing, verifying, and reviewing 10+ coding tasks done by AI agents simultaneously. Human software engineers will become software engineering managers with AI software engineering teams behind them. Manaflow is building these interfaces to enable engineers to become 10x more productive with AI.\r\n\r\ncmux is an open-source app, and you can also bring your own API keys or OpenAI and Claude Max subscriptions. You can download cmux at https://www.cmux.dev/.",
     "one_liner": "Building interfaces for managing AI coding agents to do good work",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1715992295,
@@ -19508,48 +19461,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cosmic-new",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/cosmic-new.json"
-  },
-  {
-    "id": 30050,
-    "name": "Circlemind",
-    "slug": "circlemind",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6e3f2bcd9ca9ba0984a5ab69a69597d088c3b3e.png",
-    "website": "https://circlemind.co",
-    "all_locations": "",
-    "long_description": "We make general AI agents that can complete tasks independently.\r\n\r\nOur first general agent is called Zero. It can complete tasks across internal tools and 300+ apps using MCP servers, such as Apollo, Slack, Gmail, Notion, etc. It can take over many self-contained tasks, giving your team longer legs to run faster. It runs entirely in the cloud. This means that you can have swarms of agents completing hundreds of tasks while you’re focusing on what really matters.\r\n\r\nYou can connect Zero to the applications you use or your custom MCP servers, and then just give it any task and watch it work for you. Zero is engineered to think deeply, execute complex tasks, and even maintain a personalized memory of your interactions.\r\n\r\nA few notable features:\r\n- Built-in autonomy levels, permissions, guardrails, and human approvals\r\n- Custom instructions to teach Zero how to do things your way\r\n- Automations e.g. run a task every day or whenever I receive an email\r\n- Connect to your custom MCPs\r\n- Connect to 300+ apps with one-click integrations\r\n- Natively integrates deep research and browser use",
-    "one_liner": "Circlemind makes general AI agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1729125196,
-    "tags": [
-      "Deep Learning",
-      "Developer Tools",
-      "Generative AI",
-      "SaaS",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/circlemind",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/circlemind.json"
   },
   {
     "id": 30060,
@@ -22649,18 +22560,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/028c5197ddc0b97bbfdee0aeaf28c9bb5713c712.png",
     "website": "https://soren-ai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vertical AI needs vertical evals.\r\n\r\nIf you’re struggling to build evals that actually work for your specific vertical and workflow, I’d love to hear from you. ",
+    "long_description": "Vertical AI needs vertical evals.\r\n\r\nVertical AI applications are rapidly being adopted in real-world workflows. Yet there’s still no good way to rigorously evaluate their performance -- especially on complex, multi-step workflows.\r\n\r\nSoren AI helps teams curate high-quality datasets and benchmarks and provides the infrastructure to run these evaluations end to end.\r\n\r\nIf you want to make your AI more reliable, book a time at: https://soren-ai.com/",
     "one_liner": "Domain-specific evals for your vertical AI",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1759390917,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22861,7 +22772,7 @@
     "website": "https://metorial.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Metorial is Vercel for MCP. Our serverless MCP runtime comes with sub-second cold starts, built-in security, and monitoring. We make it easy for developers to connect AI agents to APIs and data sources at scale.",
-    "one_liner": "The open-source MCP integration platform for agentic AI.",
+    "one_liner": "Lovable for MCP.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
