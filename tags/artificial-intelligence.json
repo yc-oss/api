@@ -401,7 +401,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2015",
     "status": "Active",
@@ -10438,48 +10438,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/sully-ai.json"
   },
   {
-    "id": 25075,
-    "name": "ScribeHealth AI",
-    "slug": "scribehealth-ai",
-    "former_names": [
-      "Better Financial Corporation"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35ad07f4a1c592834b50cfd91a055683f167beb0.png",
-    "website": "https://www.scribehealth.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Automate medical documentation with our AI medical scribe that listens,\r\ntranscribes, and codes. Reduce charting time by 70% while improving accuracy",
-    "one_liner": "AI Medical Scribe",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1648584304,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/scribehealth-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/scribehealth-ai.json"
-  },
-  {
     "id": 25249,
     "name": "SilkChart",
     "slug": "silkchart",
@@ -12860,6 +12818,54 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/ciro.json"
   },
   {
+    "id": 26690,
+    "name": "Truva",
+    "slug": "truva",
+    "former_names": [
+      "Protego",
+      "Immuna"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fba9e5d56fa5dcbae0584f3529d576be10b251a7.png",
+    "website": "https://www.truva.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Truva handles the busywork intelligently saving your sales team hours each week, so they can focus on what matters most - building and closing deals. Many teams have seen up to 25% increase in sales where Truva's AI agents automated tedious tasks such as email follow up, CRM data entry, and process optimizations.",
+    "one_liner": "Sell more. Grind less with AI agents.",
+    "team_size": 23,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1659500031,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Sales",
+      "Sales Enablement",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Acquired",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/truva",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/truva.json"
+  },
+  {
     "id": 26725,
     "name": "ECSA",
     "slug": "ecsa",
@@ -13396,6 +13402,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maya-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/maya-labs.json"
+  },
+  {
+    "id": 26912,
+    "name": "iollo",
+    "slug": "iollo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5bd3e4de086fbafd70c63dbae211f55425382f05.png",
+    "website": "https://iollo.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building Quinn at iollo, an AI scientist that analyzes multimodal biological data (multi-omics, imaging, etc.) to discover new biology in hours, work that typically takes teams of scientists years. Quinn translates these discoveries into accelerated development of novel therapeutic strategies and interventions for extending healthspan.",
+    "one_liner": "Building Quinn, an AI scientist accelerating pharma/biotech R&D",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1656567327,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Biotech",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/iollo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/iollo.json"
   },
   {
     "id": 26913,
@@ -20836,49 +20886,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/quary.json"
   },
   {
-    "id": 29263,
-    "name": "Alex",
-    "slug": "alex-com",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e24765a67c824275355f94c45e9ddb09d76c547c.png",
-    "website": "https://alex.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Alex is an AI recruiter for the future of hiring. Companies use us to get the best hiring signal on their applicant pool and hire in a fraction of the time.\r\nOur AI recruiter has a live conversation over a video call with each of your candidates based on the interview questions you choose or that are recommended based on the job description. During the interview, our AI asks personalized follow-up questions in real-time based on the candidate's responses.\r\nOur AI recruiter can be customized to your roles in minutes and has already conducted thousands of interviews across engineering, IT, retail, hospitality, and more.",
-    "one_liner": "Your AI recruiter for interviewing and identifying the best talent",
-    "team_size": 20,
-    "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
-    "launched_at": 1703103445,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Recruiting",
-      "HR Tech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alex-com",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/alex-com.json"
-  },
-  {
     "id": 29265,
     "name": "Lumen Payments",
     "slug": "lumen-payments",
@@ -27478,6 +27485,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/browseros.json"
   },
   {
+    "id": 29960,
+    "name": "Void",
+    "slug": "void",
+    "former_names": [
+      "Glass"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ab88e3a4fc8224ae094d26b68f966408fe4cf3f.png",
+    "website": "https://useglass.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Void is an open source code editor with features similar to Cursor and GitHub Copilot. Unlike other tools, Void lets developers keep their data completely private by connecting directly to any LLM.",
+    "one_liner": "The open source Cursor alternative",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1726250392,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/void",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/void.json"
+  },
+  {
     "id": 29962,
     "name": "General Analysis",
     "slug": "general-analysis",
@@ -29792,6 +29841,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pickle-2",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/pickle-2.json"
+  },
+  {
+    "id": 30264,
+    "name": "Stillwind",
+    "slug": "stillwind",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1b36aa3102c0461123d8bc84ffc46b58b33f3a9.png",
+    "website": "https://stillwind.ai",
+    "all_locations": "Zürich, ZH, Switzerland",
+    "long_description": "Our first product, Stillwind Search, makes finding an electronic part as easy as writing a text message. \r\nThe search engine turns natural language queries into fine-grained specifications that are matched against our proprietary database of millions of parts. \r\n\r\nThis is the first step towards autonomous electrical engineering.",
+    "one_liner": "Autonomous Electrical Engineering",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1740421634,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Switzerland",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stillwind",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/stillwind.json"
   },
   {
     "id": 30265,
@@ -32665,6 +32755,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/the-prompting-company.json"
   },
   {
+    "id": 30611,
+    "name": "AgentMail",
+    "slug": "agentmail",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/229d0f8aee3512a3e3602b0a708550a51a4f5e11.png",
+    "website": "https://agentmail.to",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AgentMail is an API email service provider for AI agents. Like Gmail does for humans, we give agents their own email inboxes.",
+    "one_liner": "Email Inboxes for AI Agents",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1750990316,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "API",
+      "Email"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agentmail",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/agentmail.json"
+  },
+  {
     "id": 30613,
     "name": "Blank Bio",
     "slug": "blank-bio",
@@ -35008,6 +35140,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/paloma.json"
   },
   {
+    "id": 30837,
+    "name": "AirCaps",
+    "slug": "aircaps",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/839111803eb4ccce6e6e411847617a96d8d7d880.png",
+    "website": "https://aircaps.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building lightweight AR glasses that help you understand, remember and learn from conversations. AirCaps displays captions, translations, summaries and proactive insights for your conversations in your field of view in real-time. We're starting with real-time captions for hearing loss.\r\n\r\nWe've done $330K in sales in 6 months, grew 330% this month, have users averaging 6h+ daily use, and went viral on TikTok (75M views).\r\n\r\nMadhav (Yale CS, MIT Media Lab audio AI) and Nirbhay (Cornell CS) have been obsessed with smart glasses for 11 years—building Google Glass apps from age 13.\r\n\r\nPeople spend 3 hours a day in meaningful conversations—negotiations, interviews, pitches, conflicts, first dates. They struggle to comprehend 25-50% of them, forget 70% within 24 hours and 90% within a week, and have no way to learn and improve from their conversations.\r\n\r\nAR glasses are the only form factor that can augment conversations without disrupting them. They keep your hands free, allow you to maintain eye contact, provide information exactly when needed, and have unfiltered access to everything you hear and see.\r\n\r\nIn 5 years, 4.7 billion smartphone users will use smart glasses. But today's AR glasses are too heavy, conspicuous, and power hungry while failing to provide utility: generic toys without purpose. Conversations demand real-time, hands-free, eyes-up assistance precisely when you can't look away—the killer use case to kickstart mass adoption. If we're right, we'll own the gateway to the next interface for technology.",
+    "one_liner": "AR glasses to better understand, remember and learn from conversations",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Consumer Electronics",
+    "launched_at": 1760571679,
+    "tags": [
+      "Artificial Intelligence",
+      "Augmented Reality",
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Virtual and Augmented Reality"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aircaps",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/aircaps.json"
+  },
+  {
     "id": 30844,
     "name": "Uplane",
     "slug": "uplane",
@@ -35179,6 +35352,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/gpt",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/gpt.json"
+  },
+  {
+    "id": 30854,
+    "name": "Hyperspell",
+    "slug": "hyperspell",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4149c6afc651c9770fc182e08dde776e24f88554.png",
+    "website": "https://hyperspell.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hyperspell (YC F25) gives AI agents memory.\r\n\r\nIt connects to tools like Slack, Gmail, Notion, and Drive so agents can recall, reason, and remember across company knowledge. Developers use Hyperspell’s API to turn disconnected agents into AI coworkers that understand their work. Conor and Manu founded Hyperspell after building their own workplace agent and seeing how limited AI is without memory. They have over 15 years of experience in machine learning and have scaled API-based products to $30M ARR.",
+    "one_liner": "Memory for AI Agents.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1760534513,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hyperspell",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/hyperspell.json"
   },
   {
     "id": 30858,

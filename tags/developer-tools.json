@@ -3251,8 +3251,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66a107c5c83003596991722f8d3d73d13a0b6da2.png",
     "website": "https://doppler.com",
     "all_locations": "Remote",
-    "long_description": "Your central source of truth from local development to production for every language, stack, and infrastructure.",
-    "one_liner": "The first SecretOps Platform.",
+    "long_description": "Your central source of truth from local development to production for every language, stack, and infrastructure. Doppler simplifies secrets management so you can automate security, eliminate config drift, and deliver reliable software fast.",
+    "one_liner": "Secure secrets. Prevent breaches. Keep teams moving.",
     "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -19181,7 +19181,7 @@
       "Glass"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ab88e3a4fc8224ae094d26b68f966408fe4cf3f.png",
-    "website": "https://voideditor.com",
+    "website": "https://useglass.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Void is an open source code editor with features similar to Cursor and GitHub Copilot. Unlike other tools, Void lets developers keep their data completely private by connecting directly to any LLM.",
     "one_liner": "The open source Cursor alternative",
@@ -19190,8 +19190,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1726250392,
     "tags": [
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21804,16 +21804,16 @@
     "website": "https://agentmail.to",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AgentMail is an API email service provider for AI agents. Like Gmail does for humans, we give agents their own email inboxes.",
-    "one_liner": "API Inboxes for AI Agents",
+    "one_liner": "Email Inboxes for AI Agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1750990316,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "API",
-      "Email",
-      "AI"
+      "Email"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22178,49 +22178,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/keystone.json"
   },
   {
-    "id": 30675,
-    "name": "BootLoop",
-    "slug": "bootloop",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93ce55100656a6ea0aa0d88dd475881eab4f5632.png",
-    "website": "https://bootloop.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "BootLoop is building the first AI agent to write and test firmware on real hardware. Existing AI coding assistants fail completely with embedded systems, but our agent ingests datasheets, schematics, and other design files to write firmware in your style and automatically test it on your hardware.",
-    "one_liner": "Firmware in minutes, not months - rigorously tested on real hardware",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1752184530,
-    "tags": [
-      "Developer Tools",
-      "Hard Tech",
-      "Hardware",
-      "Robotics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bootloop",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/bootloop.json"
-  },
-  {
     "id": 30699,
     "name": "VibeFlow",
     "slug": "vibeflow",
@@ -22510,6 +22467,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/interfere",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/interfere.json"
+  },
+  {
+    "id": 30854,
+    "name": "Hyperspell",
+    "slug": "hyperspell",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4149c6afc651c9770fc182e08dde776e24f88554.png",
+    "website": "https://hyperspell.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hyperspell (YC F25) gives AI agents memory.\r\n\r\nIt connects to tools like Slack, Gmail, Notion, and Drive so agents can recall, reason, and remember across company knowledge. Developers use Hyperspell’s API to turn disconnected agents into AI coworkers that understand their work. Conor and Manu founded Hyperspell after building their own workplace agent and seeing how limited AI is without memory. They have over 15 years of experience in machine learning and have scaled API-based products to $30M ARR.",
+    "one_liner": "Memory for AI Agents.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1760534513,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hyperspell",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/hyperspell.json"
   },
   {
     "id": 30863,
