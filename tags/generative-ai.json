@@ -6641,25 +6641,25 @@
   },
   {
     "id": 28836,
-    "name": "SOL",
-    "slug": "sol",
+    "name": "CORE",
+    "slug": "heysol",
     "former_names": [
       "Poozle"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d9a8cad6a65c7427fbc1ed42b8409c70bc0ef599.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d0fae4f448de789e718cb96878197c7ecc29e2f.png",
     "website": "https://heysol.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "SOL is your unified command center for tasks, coding, and alerts—powered by CORE memory that adapts to your style and workflow.\r\n\r\nIt brings together your work from Slack, GitHub, Linear, and Gmail, delivering AI-powered assistance that gets smarter with every interaction.",
-    "one_liner": "Your AI Personal Assistant for daily focus",
+    "long_description": "CORE is an open-source unified, persistent memory layer for all your AI tools. Your context follows you from Cursor to Claude to ChatGPT to Claude Code. One knowledge graph remembers who said what, when, and why. Connect once, remember everywhere. Stop managing context and start building.",
+    "one_liner": "Build your personal memory system to power your AI apps.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1687596955,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6680,8 +6680,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sol",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/sol.json"
+    "url": "https://www.ycombinator.com/companies/heysol",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/heysol.json"
   },
   {
     "id": 28838,
@@ -10665,46 +10665,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/permitify.json"
   },
   {
-    "id": 30335,
-    "name": "Butter",
-    "slug": "butter",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b64c400f904efc92ff7fbdaca3a66411ac4b795.png",
-    "website": "https://butter.dev",
-    "all_locations": "",
-    "long_description": "Butter is building Muscle Mem, an SDK for recording and deterministically replaying tool call trajectories. Our goal is to get LLMs out of the hotpath for repetitive tasks, increasing speed, reducing variability, and eliminating token costs for the many cases that could have just been a script.\r\n",
-    "one_liner": "Behavioral Cache for Agents",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1737747738,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "Cloud Computing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/butter",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/butter.json"
-  },
-  {
     "id": 30350,
     "name": "TrainLoop",
     "slug": "trainloop",
@@ -11801,6 +11761,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pixley-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/pixley-ai.json"
+  },
+  {
+    "id": 30939,
+    "name": "Expected Parrot",
+    "slug": "expected-parrot",
+    "former_names": [
+      "Expected Parrot, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb8df693185d3d01a607d26dc392fa6f5307be2a.png",
+    "website": "https://www.expectedparrot.com",
+    "all_locations": "Cambridge, MA, USA",
+    "long_description": "We help companies simulate their stakeholders and explore pricing, product, marketing, communications and other high-impact business decisions at scale. We have an open-source library and interactive applications for designing custom agents representing your target audiences and conducting interviews and surveys with them using LLMs of your choice to generate answers. Results are returned as detailed datasets with built-in analytical methods. Everything is cached and reproducible, and you can automatically send the same surveys to real human respondents to calibrate agents and validate answers at any time. You can use your own API keys for LLMs or get a unified key from E[P] that provides access to all available models and comes with $25 in credits for API calls to get started.",
+    "one_liner": "Simulate your stakeholders.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1760614076,
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/expected-parrot",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/expected-parrot.json"
   },
   {
     "id": 30940,
