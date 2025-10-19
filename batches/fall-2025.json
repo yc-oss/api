@@ -402,7 +402,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -985,18 +985,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a16ed34ef1b8a31643a83a3d8aa96f95b35b86b9.png",
     "website": "https://tellif.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tell If AI is a team founded by ex DeepMind and Yandex researchers focused on fighting  deepfakes and AI generated slop. We've trained our own state of the art foundation model on a massive amount of data sampled from over 70 different generative AI models. For content found in the wild, we offer 99% precision and recall at detecting whether that content was made or modified with AI and we can indicate precisely which AI model made the content. We work with image, video, and audio.\r\n\r\nTry our free demo at https://tellif.ai.",
+    "long_description": "Tell If AI is a team founded by ex DeepMind and Yandex researchers focused on fighting  deepfakes and AI generated slop. We've trained our own state of the art foundation model on a massive amount of data sampled from over 70 different generative AI models. For content found in the wild, we offer high precision and recall at detecting whether that content was made or modified with AI and we can sometimes say precisely which AI model made the content. We work with image, video, and audio.\r\n\r\nTry our free demo at https://tellif.ai.",
     "one_liner": "Detect deepfakes and AI generated images, videos, and audio.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Consumer",
     "launched_at": 1760060442,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "Deepfake Detection",
       "Computer Vision",
-      "Fraud Detection",
-      "AI"
+      "Fraud Detection"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1275,7 +1275,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9f96ddb243962497e60383676b01ce3b0cd4cb76.png",
     "website": "https://flick.art",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Founded by an award-winning filmmaker and a founding engineer at Instagram, Flick challenges the norm: most AI tools are technically driven, not built from a creator’s perspective.\r\n\r\nOur mission is to build a tool designed for filmmakers, not engineers. Filmmakers shouldn’t have to worry about the technical layer — they deserve full creative control, with their taste woven into every loop of the process.\r\n\r\nWe call it Flick — a word that means both film and a quick motion. To us, it captures what creativity should feel like: light, natural, and fast, not heavy or mechanical.\r\n\r\nJust like a flick of the hand or a flicker of light, great creators break conventions and let ideas flow effortlessly, using AI not as a shortcut but as a force to amplify imagination and visual storytelling.\r\n\r\nThat’s the spirit behind everything we build.",
+    "long_description": "\r\nFlick is an AI filmmaking software that lets people create Hollywood-level short films completely using AI end-to-end.\r\n\r\nThere are many AI tools that can give you 8-second casual clips to post on social media, but when it comes to creating truly high-quality films with coherent storylines, consistent characters, and cinematic aesthetics, they don’t come close due to their lack of flexibility, creative control, and fragmented creative flow.\r\n\r\nFounded by an award-winning filmmaker and a founding engineer at Instagram, Flick defines an interface specifically designed for native AI filmmaking that feels natural and enables end-to-end creative flows. Think of Flick as Figma for AI filmmaking.\r\n\r\nThere are 4 complete AI short films created using Flick that got 20+ awards in international film festivals already and our early creator residency community are generating several AI short films every week.\r\n\r\nWe are also building a community where we produce our own AI films as well as collaborating with other well-known filmmakers to share their “behind-the-scenes” workflows as resuable templates to inspire users in our community. We not only build product, we also build world-class content.\r\n\r\nThe whole film industry will be revolutionized by AI and our goal is to be “the product” that defines this category.",
     "one_liner": "End-to-end AI filmmaking software.",
     "team_size": 2,
     "industry": "Consumer",
@@ -2981,8 +2981,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7785e7f2104cbe8c0fd7a9462d42a9b03d5aeb86.png",
     "website": "https://www.freeportmarkets.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Freeport is the interfacing layer for DeFi investing, built for the next wave of long-term investors who want on-chain exposure without jargon, complexity, or fragmented workflows. By abstracting chains, assets, and variants into one position and layering in AI to replace the human intermediaries, Freeport captures the safe, mature, and economically essential sources of on-chain return for all its users. ",
-    "one_liner": "DeFi Wealth Management",
+    "long_description": "Freeport is the intelligence layer for DeFi investing, designed for onchain investors who want an easy way to gain smart exposure to risks that they can understand. It earns optimized yield on idle assets and builds diversified portfolios through a combination of human expertise and AI-driven guidance. The result is a simplified, interpretable, and personalized path to sustainable onchain returns. ",
+    "one_liner": "Intelligent DeFi Investment Platform",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
@@ -3017,6 +3017,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/freeport-markets",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/freeport-markets.json"
+  },
+  {
+    "id": 30982,
+    "name": "Boom AI",
+    "slug": "boom-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e240d7b6e048d06c397f1f72707e3cd4fc0ad63d.png",
+    "website": "https://useboom.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Boom builds the AI employee for e-commerce — an agent that manages every customer interaction across WhatsApp, Instagram, TikTok, Facebook, and web chat. It answers product questions, supports customers with orders, follows up on abandoned checkouts, restocks, and repeat purchases, and even runs marketing campaigns. Brands simply connect Boom to their store, and their AI agent instantly starts selling, supporting, and following up like a real team member — no setup or flow-building required.\r\n\r\nE-commerce is a $6T market where brands spend heavily to bring customers in, only to lose over 99% of them before checkout. Boom fixes that by turning every missed conversation into a sales opportunity. Our clients increase conversion rates and deliver a concierge-like buying experience at scale. We believe that in the near future, every online store will have AI employees managing sales and customer relationships — and Boom is building the platform that makes that possible.",
+    "one_liner": "Your AI sales and support team for e-commerce brands",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1760834768,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "E-commerce",
+      "SMB",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/boom-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/boom-ai.json"
   },
   {
     "id": 30983,
@@ -3102,6 +3144,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bluma",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bluma.json"
+  },
+  {
+    "id": 30990,
+    "name": "Stratus Aviation",
+    "slug": "stratus-aviation",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c0263995ad129e471cb270750ec3dbd054d86ad.png",
+    "website": "https://getstratus.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Airports are among the most data-rich yet information-poor environments in transportation. Thousands of radio transmissions, aircraft movements, and sensor signals occur every second, but these systems remain siloed. Most airfields still rely on manual logs and calls to understand what’s happening on the ground, creating blind spots that slow coordination and limit safety oversight.\r\n\r\nThe result is a growing safety and efficiency gap. The FAA records four to five runway incursions every day, and over 90% of air traffic control facilities are operating below target staffing levels. Despite $20 billion in modernization programs like NextGen and Safety Management Systems, airports still lack a unified data backbone that connects communication, movement, and intent across the airfield.\r\n\r\nStratus provides the missing layer of intelligence for airport and airside operations — unifying data, communication, and movement into one shared, real-time picture.\r\n\r\nFor airports, this means faster decisions, clearer accountability, and safer, more efficient operations.\r\nFor aviation as a whole, it’s the foundation for connected, data-driven infrastructure that can finally keep pace with modern airside complexity.",
+    "one_liner": "AI-powered intelligence layer for airports",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1760756123,
+    "tags": [
+      "Artificial Intelligence",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stratus-aviation",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/stratus-aviation.json"
   },
   {
     "id": 30997,
