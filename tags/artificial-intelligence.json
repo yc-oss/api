@@ -7413,54 +7413,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/alinea.json"
   },
   {
-    "id": 22835,
-    "name": "Vapi",
-    "slug": "vapi",
-    "former_names": [
-      "InvestBetter",
-      "Superpowered",
-      "Vapi (formerly Superpowered)",
-      "Vapi / Superpowered",
-      "Superpowered",
-      "Vapi / Superpowered",
-      "Superpowered"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3818df985d5f502f5dc4a6816903ce174528467f.png",
-    "website": "https://vapi.ai",
-    "all_locations": "San Francisco, CA, USA; Toronto, ON, Canada",
-    "long_description": "",
-    "one_liner": "Voice AI for developers.",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1614827434,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "Canada",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vapi",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/vapi.json"
-  },
-  {
     "id": 22855,
     "name": "Mindee",
     "slug": "mindee",
@@ -8866,7 +8818,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Sales"
@@ -13810,7 +13762,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Firecrawl is a web data infrastructure platform that converts websites into clean, structured data optimized for AI applications through a simple API. Originally built as an internal tool at Mendable to solve their own data ingestion challenges, the team recognized the broader need for reliable web data extraction and transformed it into a standalone product. The platform combines web search, scraping, and AI-powered parsing into a unified solution, focusing on the core developer priorities of reliability, speed, and ease of use. By abstracting away the complexities of web data extraction, Firecrawl serves as the foundational data layer that enables AI applications to seamlessly access and process web content in the exact format they need.",
     "one_liner": "The web data API for AI",
-    "team_size": 14,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1661283698,
@@ -20080,7 +20032,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B"
     ],
@@ -28894,6 +28846,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/edexia.json"
   },
   {
+    "id": 30173,
+    "name": "Aviro",
+    "slug": "aviro",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b42d798135f9265356b3ce6f69ea27eaee4a7b2.png",
+    "website": "https://www.aviro.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Aviro is building the infra for enterprise AI agents to continuously upskill to handle complex workflows. Our runtime layer, Cortex, guides agents in real time, anchoring them to enterprise standard operating procedures (SOPs) and compounding their abilities through reinforcement learning. By embedding operational expertise directly into agent runs, Aviro ensures agents reliably follow company workflows, adapt on the fly, and get smarter with each task.",
+    "one_liner": "Build agents that learn from experience",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Industrials -> Climate",
+    "launched_at": 1746601065,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Reinforcement Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aviro",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/aviro.json"
+  },
+  {
     "id": 30178,
     "name": "Candor",
     "slug": "candor",
@@ -31315,6 +31307,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/sixtyfour.json"
   },
   {
+    "id": 30468,
+    "name": "Clidey",
+    "slug": "clidey",
+    "former_names": [
+      "Clidey WhoDB"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f2e58c42a604fd5e1a5fcad5f8c2350c03ca60a.png",
+    "website": "https://clidey.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Clidey is building Docucod (https://docucod.com)\r\n\r\nDocucod auto-generates and maintains always-up-to-date documentation—right from your codebase. Your team can move faster, onboard quicker, and stay focused on building.\r\n\r\nSeamless to set up and built for scale, it fits cleanly into any repo—whether you're shipping solo or leading a growing dev team. Docucod tracks your PRs and understands what changes need to be made to the documentation and then makes them.\r\n\r\nFrom onboarding guides to API references and system diagrams, Docucod creates clear, accurate documentation—without slowing you down.\r\n\r\nIt’s developer-first, fully editable, and always in sync—so you never have to choose between speed and quality again.",
+    "one_liner": "Documentation made for AI Agents",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747802459,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clidey",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/clidey.json"
+  },
+  {
     "id": 30475,
     "name": "Morphik",
     "slug": "morphik",
@@ -32536,49 +32573,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/acrely.json"
   },
   {
-    "id": 30607,
-    "name": "The Prompting Company",
-    "slug": "the-prompting-company",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/465a7528e2de2669ab4bb994eb9cb8630eff6db1.png",
-    "website": "https://www.promptingcompany.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The problem:\r\nPeople are no longer searching on Google. They’re ASKING AI. If your product doesn’t appear in AI answers, you’re dead.\r\n\r\nHow it works:\r\n1. Find & analyze user questions: We find the exact questions your users ask and check how often your product is mentioned.\r\n2. Create content: We tell you what to post, where to post, and do it for you.\r\n3. Route to AI-optimized page: We redirect AI traffic to AI-optimized page\r\n\r\nOffer: Get your free AI visibility report → promptingcompany.com",
-    "one_liner": "We help products get mentioned in ChatGPT.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1755802702,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Marketing",
-      "SEO"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/the-prompting-company",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/the-prompting-company.json"
-  },
-  {
     "id": 30611,
     "name": "AgentMail",
     "slug": "agentmail",
@@ -33162,6 +33156,93 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/alter",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/alter.json"
+  },
+  {
+    "id": 30653,
+    "name": "Skope",
+    "slug": "skope",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c24ca870b6eaffd66597cfdb3e463eeed660675.png",
+    "website": "https://useskope.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1750879126,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/skope",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/skope.json"
+  },
+  {
+    "id": 30657,
+    "name": "Nori",
+    "slug": "nori",
+    "former_names": [
+      "Unison Labs",
+      "Nori Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60de07c4ea314cd8ec771f12dbd0151f725a956d.png",
+    "website": "https://nori.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Nori takes *all* of your health data—Apple Health, Oura, Whoop, Peloton, nutrition apps, Garmin, MyChart, blood tests from Function Health, Superpower—all feeding your personal health AI.\r\n\r\nWith Nori, you get health advice that's personalized to you, practical and achievable, and based on proven, evidence-backed approaches.\r\n\r\nWho it’s for: People who want weight loss, better energy, or faster recovery—starting with iOS users",
+    "one_liner": "Mint.com for Health—All your health data + personal health coach",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "launched_at": 1760987305,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer Health Services",
+      "Health Tech",
+      "Digital Health",
+      "Health & Wellness"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Consumer Health and Wellness"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nori",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/nori.json"
   },
   {
     "id": 30659,
@@ -33913,6 +33994,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/phases",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/phases.json"
+  },
+  {
+    "id": 30712,
+    "name": "Relling",
+    "slug": "relling",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e003594279b3a4474845b643ff2ee16c26f34a1a.png",
+    "website": "https://relling.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Relling is working on the “ImageNet for world models”: large-scale, high-quality multimodal datasets that help AI and robotics teams train systems to see, move, and interact with the real world. We combine synchronized video, depth, LiDAR, motion, and audio, we give researchers the building blocks for truly general-purpose AI.",
+    "one_liner": "Data and infra for world models",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "Industrials",
+    "launched_at": 1756070413,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/relling",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/relling.json"
   },
   {
     "id": 30713,
@@ -35052,48 +35174,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lapis.json"
   },
   {
-    "id": 30844,
-    "name": "Uplane",
-    "slug": "uplane",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f28d39fea2309ac2fc4d42b7be088ee964dccf6a.png",
-    "website": "https://uplane.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Uplane uses AI to automate digital advertising. \r\n\r\nUplane's AI platform creates 1000s of ad campaigns with matching landing pages for each one, and allocates budgets across Meta, Google, TikTok and more. By connecting to CRM and ERP data, Uplane learns what drives profit and continuously improves campaigns.\r\n\r\nCompanies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving system. The result: 20-50% higher ROAS for enterprises and effortless, expert-level marketing for SMBs.\r\n\r\nDigital marketing is a $740B market with a 10% CAGR. Our model compounds: we charge a base fee plus 10% of ad spend, outperforming marketing agencies that typically charge 10-30%.\r\n\r\nOur team has deep founder-market fit: Julius managed a 7-digit monthly ad budget at one of the biggest ad spenders in Europe; Marvin has an academic background in Data Science (Imperial, Harvard) and led growth analytics & operations at a unicorn; Lukas was Head of Engineering at two YC startups, Blair (S19) and Fastgen (W23). Together, we’re building the platform we wished we had, and customers are already paying for it.",
-    "one_liner": "AI autopilot for performance marketing.",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1759250646,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Advertising"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/uplane",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/uplane.json"
-  },
-  {
     "id": 30849,
     "name": "MOVEdot",
     "slug": "movedot",
@@ -35436,51 +35516,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/soren",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/soren.json"
-  },
-  {
-    "id": 30873,
-    "name": "Tell if AI",
-    "slug": "tell-if-ai",
-    "former_names": [
-      "Pando Technologies",
-      "Tellif"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a16ed34ef1b8a31643a83a3d8aa96f95b35b86b9.png",
-    "website": "https://tellif.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tell If AI is a team founded by ex DeepMind and Yandex researchers focused on fighting  deepfakes and AI generated slop. We've trained our own state of the art foundation model on a massive amount of data sampled from over 70 different generative AI models. For content found in the wild, we offer high precision and recall at detecting whether that content was made or modified with AI and we can sometimes say precisely which AI model made the content. We work with image, video, and audio.\r\n\r\nTry our free demo at https://tellif.ai.",
-    "one_liner": "Detect deepfakes and AI generated images, videos, and audio.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "Consumer",
-    "launched_at": 1760060442,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Deepfake Detection",
-      "Computer Vision",
-      "Fraud Detection"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tell-if-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/tell-if-ai.json"
   },
   {
     "id": 30875,
@@ -36231,6 +36266,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/waffer",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/waffer.json"
+  },
+  {
+    "id": 30981,
+    "name": "Freeport Markets",
+    "slug": "freeport-markets",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7785e7f2104cbe8c0fd7a9462d42a9b03d5aeb86.png",
+    "website": "https://www.freeportmarkets.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Freeport is the intelligence layer for DeFi investing, designed for onchain investors who want an easy way to gain smart exposure to risks that they can understand. It earns optimized yield on idle assets and builds diversified portfolios through a combination of human expertise and AI-driven guidance. The result is a simplified, interpretable, and personalized path to sustainable onchain returns. ",
+    "one_liner": "Intelligent DeFi Investment Platform",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1758671175,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Crypto / Web3",
+      "Investing",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/freeport-markets",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/freeport-markets.json"
   },
   {
     "id": 30982,
