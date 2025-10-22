@@ -12185,7 +12185,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "The Easiest Way to Make Internet Money.\r\n\r\nA payments layer for your app that you can program in natural language.\r\n\r\nUnlimited pricing models, one source of truth, zero webhooks.",
     "one_liner": "The payment processor for natural language software",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1583962983,
@@ -31460,9 +31460,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4cb8ecbcc76362cae5a0f5edc86c8e5e98a1b70.png",
     "website": "https://alphawatch.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "AlphaWatch AI is an agentic search platform designed for finance and industrial firms. By using custom LLMs, specialized embedding models, and integrating with both trusted external data sources and secure private data, AlphaWatch AI offers a reliable chat interface that cites its sources, saving financial professionals time on research. \r\n\r\nWe aim to solve a very real pain point: data is currently disjointed, and knowledge workers lose several hours a day finding and searching for answers in their data. While LLMs should solve this research problem, their results are prone to hallucinations and don't include internal information.\r\n\r\nWith efficient data integration and valuable insights, AlphaWatch AI is enhancing the way financial institutions and industrial firms access essential information and make informed decisions while maintaining data privacy",
-    "one_liner": "Agentic search for enterprises with trusted data",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Alphawatch AI powers real-world market intelligence for Fortune 500s, $100B+ AUM investment funds, and global pharmaceutical leaders.\r\n\r\nWe combine proprietary data with AI-driven, on-the-ground collection, reaching real operators in real time to surface forward-looking insights that inform billion-dollar market entries, acquisitions, and strategic decisions.",
+    "one_liner": "Primary & Market Research",
     "team_size": 7,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -31487,7 +31487,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -33092,21 +33092,21 @@
     "name": "Sameday",
     "slug": "sameday",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b22144ce4e98bfaff13e954f43d3147fe9073ae.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91ba509f52939444c0547f5a58c6f5cadf60b7a4.png",
     "website": "https://www.gosameday.com/",
     "all_locations": "Lehi, UT, USA",
-    "long_description": "Home service businesses, like plumbers and roofers, are losing millions of dollars each year by failing to answer the phone. Sameday's AI Sales Agent answers any calls they otherwise would miss and will follow up until every lead is on the schedule.",
-    "one_liner": "AI sales agents for home service businesses",
+    "long_description": "Sameday is the AI workforce for the trades — outperforming humans at high-stakes, revenue-critical work, such as sales, dispatch, and more.",
+    "one_liner": "The leading AI workforce for the trades.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1662953627,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Sales Enablement",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37763,6 +37763,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/cedana.json"
   },
   {
+    "id": 28815,
+    "name": "Atla",
+    "slug": "atla",
+    "former_names": [
+      "Atla"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7e8e61ea6d3f763043392069ac87464fc6db2af.png",
+    "website": "https://www.atla-ai.com/",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Find and fix your agent’s most critical failures in hours, not days.\r\n\r\nAtla helps developers cut time spent on manually reviewing traces. Atla’s LLM judge evaluates your agent step-by-step, uncovers error patterns across runs, and suggests specific fixes—so you know exactly what to fix and why.\r\n\r\nAtla supports the most popular agent frameworks teams build with, including LangChain, CrewAI, and OpenAI Agents. With real-time monitoring, automated error detection, and prompt experimentation, Atla gives teams the visibility and control needed to confidently ship agentic systems that work. \r\n\r\nWe’re a team of researchers, engineers, entrepreneurs and operational leaders. Our expertise in evals was honed through training our own purpose-built LLM Judges, Selene and Selene Mini, which are available open-source and have been downloaded 60,000+ times.",
+    "one_liner": "The improvement engine for AI agents",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1687465633,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Analytics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/atla",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/atla.json"
+  },
+  {
     "id": 28817,
     "name": "Every",
     "slug": "every",
@@ -40427,9 +40471,9 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1690767970,
     "tags": [
+      "Artificial Intelligence",
       "No-code",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40552,7 +40596,7 @@
     "website": "https://morphllm.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Edit Files at 10500+ tok/sec. \r\n\r\nThe other models you need to build the best coding agents that are fast, reliable, and cheap. ",
-    "one_liner": "The Fastest Way to Apply AI Edits",
+    "one_liner": "Models that improve coding agents",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -43750,7 +43794,7 @@
     "slug": "betterbasket",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7b35e46eb9b08cc67eb469ae038a64122cff97e.png",
-    "website": "http://betterbasket.ai",
+    "website": "http://www.betterbasket.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "BetterBasket helps grocers with pricing, powered by competitive data. Our founding team worked together at Uber Eats growing the dark store business in Asia to $100 million in revenue and making it profitable, and are now building BetterBasket to bring those learnings to all grocers.",
     "one_liner": "The only all-in-one pricing system for grocers",
@@ -43759,11 +43803,11 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1706153675,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Analytics",
       "Food & Beverage",
-      "Retail",
-      "AI"
+      "Retail"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49671,17 +49715,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1eca61dd3b32e7b0f7174161cd567ec823504e49.png",
     "website": "https://www.revyl.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Revyl is a proactive observability platform that automatically catches and triages bugs before they reach production.",
-    "one_liner": "Proactive observability",
+    "long_description": "Revyl is a AI-native mobile testing platform that automatically catches and triages bugs before they reach production.",
+    "one_liner": "AI-Native Mobile Testing",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1729643205,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49954,41 +49998,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/luthor",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/luthor.json"
-  },
-  {
-    "id": 30059,
-    "name": "Sphinx",
-    "slug": "sphinx",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe6a1b58847c1e53f0596617c9f63de97d49acc2.png",
-    "website": "https://sphinxhq.com/",
-    "all_locations": "",
-    "long_description": "Sphinx automates the manual work of compliance analysts. Our AI agents make AML decisions, helping banks and fintech eliminate onboarding bottlenecks.\r\n",
-    "one_liner": "AI Compliance Analysts for Banks & Fintechs",
-    "team_size": 7,
-    "industry": "Fintech",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1730337457,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sphinx",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/sphinx.json"
   },
   {
     "id": 30073,
@@ -51131,7 +51140,7 @@
     "all_locations": "El Segundo, CA, USA",
     "long_description": "Splash is developing the next generation of autonomous surface vessels (ASVs) to provide National Security and defend critical assets such as oil rigs and shipping terminals. Our long-term vision is to make traditional naval vessels obsolete by creating a fleet of low-cost and versatile boats which will be able to dominate the seas. Our expertise in mass manufacturing, engineering and quickly scaling operations will make this vision a reality. ",
     "one_liner": "Autonomous patrol-boats for National Security ",
-    "team_size": 6,
+    "team_size": 8,
     "industry": "Industrials",
     "subindustry": "Unspecified",
     "launched_at": 1739822625,
@@ -52507,7 +52516,9 @@
     "id": 30288,
     "name": "Harper",
     "slug": "harper",
-    "former_names": [],
+    "former_names": [
+      "Tatch"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48f09dfa8b59f8e987b3a43c44b0adcd865fe145.png",
     "website": "https://www.harperinsure.com/",
     "all_locations": "San Francisco, CA, USA",

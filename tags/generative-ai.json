@@ -3572,9 +3572,9 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4cb8ecbcc76362cae5a0f5edc86c8e5e98a1b70.png",
     "website": "https://alphawatch.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "AlphaWatch AI is an agentic search platform designed for finance and industrial firms. By using custom LLMs, specialized embedding models, and integrating with both trusted external data sources and secure private data, AlphaWatch AI offers a reliable chat interface that cites its sources, saving financial professionals time on research. \r\n\r\nWe aim to solve a very real pain point: data is currently disjointed, and knowledge workers lose several hours a day finding and searching for answers in their data. While LLMs should solve this research problem, their results are prone to hallucinations and don't include internal information.\r\n\r\nWith efficient data integration and valuable insights, AlphaWatch AI is enhancing the way financial institutions and industrial firms access essential information and make informed decisions while maintaining data privacy",
-    "one_liner": "Agentic search for enterprises with trusted data",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Alphawatch AI powers real-world market intelligence for Fortune 500s, $100B+ AUM investment funds, and global pharmaceutical leaders.\r\n\r\nWe combine proprietary data with AI-driven, on-the-ground collection, reaching real operators in real time to surface forward-looking insights that inform billion-dollar market entries, acquisitions, and strategic decisions.",
+    "one_liner": "Primary & Market Research",
     "team_size": 7,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -3599,7 +3599,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4067,21 +4067,21 @@
     "name": "Sameday",
     "slug": "sameday",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b22144ce4e98bfaff13e954f43d3147fe9073ae.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/91ba509f52939444c0547f5a58c6f5cadf60b7a4.png",
     "website": "https://www.gosameday.com/",
     "all_locations": "Lehi, UT, USA",
-    "long_description": "Home service businesses, like plumbers and roofers, are losing millions of dollars each year by failing to answer the phone. Sameday's AI Sales Agent answers any calls they otherwise would miss and will follow up until every lead is on the schedule.",
-    "one_liner": "AI sales agents for home service businesses",
+    "long_description": "Sameday is the AI workforce for the trades — outperforming humans at high-stakes, revenue-critical work, such as sales, dispatch, and more.",
+    "one_liner": "The leading AI workforce for the trades.",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1662953627,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Sales Enablement",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7620,7 +7620,7 @@
     "website": "https://morphllm.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Edit Files at 10500+ tok/sec. \r\n\r\nThe other models you need to build the best coding agents that are fast, reliable, and cheap. ",
-    "one_liner": "The Fastest Way to Apply AI Edits",
+    "one_liner": "Models that improve coding agents",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -11636,6 +11636,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/koyal.json"
   },
   {
+    "id": 30873,
+    "name": "Tell if AI",
+    "slug": "tell-if-ai",
+    "former_names": [
+      "Pando Technologies",
+      "Tellif"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a16ed34ef1b8a31643a83a3d8aa96f95b35b86b9.png",
+    "website": "https://tellif.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tell If AI is a team founded by ex DeepMind and Yandex researchers focused on fighting  deepfakes and AI generated slop. We've trained our own state of the art foundation model on a massive amount of data sampled from over 70 different generative AI models. For content found in the wild, we offer high precision and recall at detecting whether that content was made or modified with AI and we can sometimes say precisely which AI model made the content. We work with image, video, and audio.\r\n\r\nTry our free demo at https://tellif.ai.",
+    "one_liner": "Detect deepfakes and AI generated images, videos, and audio.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1760060442,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Deepfake Detection",
+      "Computer Vision",
+      "Fraud Detection"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tell-if-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/tell-if-ai.json"
+  },
+  {
     "id": 30884,
     "name": "Flick",
     "slug": "flick",
@@ -11811,7 +11856,7 @@
     "website": "https://tryabsurd.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Absurd (YC F25) makes absurd AI launch videos. We average 300K+ views on X per video, across 4 public launches. \r\n\r\nMaking good AI videos is hard. You have to write a story that actually flows, pick the right models for motion, faces, and lighting, and then stitch it all together so it feels cinematic. Most people don’t realize how much craft that takes — so most AI ads end up looking like slop.\r\n\r\nAbsurd replaces that process with autonomous AI agents, guided by a team of creative directors, to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time — commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
-    "one_liner": "Absurd AI Marketing Videos",
+    "one_liner": "Absurd AI Launch Videos",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "Consumer -> Content",
