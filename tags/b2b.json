@@ -5688,6 +5688,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2019/fuse.json"
   },
   {
+    "id": 12074,
+    "name": "Caribou",
+    "slug": "caribou",
+    "former_names": [
+      "Rebank"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6babda5ff95102983cef278d4efd8b7a1d06c10b.png",
+    "website": "https://usecaribou.com",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "Caribou is the full-stack transfer pricing platform for “micro-multinationals.” Built for the next generation of global startups, Caribou brings together automation, compliance, and deep tax intelligence to solve one of the most complex problems in finance: transfer pricing.\r\n\r\nWith our AI-powered functional analysis, Caribou structures the messy mix of tax, law, and accounting data automatically—delivering near-perfect tax advice. The result: startups expand internationally faster, unlock trapped cash, and stay fully compliant without the need for costly consultants.\r\n\r\nFrom YC companies to high-growth scale-ups, businesses choose Caribou to eliminate compliance risk, reclaim R&D incentives, and achieve a 5-10x ROI—turning transfer pricing from a burden into a growth advantage. Learn how Caribou is building a new global tax infrastructure for startups at usecaribou.com",
+    "one_liner": "Full-stack Transfer Pricing for global startups",
+    "team_size": 14,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1541646249,
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "LegalTech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2019",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/caribou",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/caribou.json"
+  },
+  {
     "id": 12091,
     "name": "Superb AI",
     "slug": "superb-ai",
@@ -10364,18 +10409,18 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ebdc405c3ca51343a4618334a44bd440fb598ca.png",
     "website": "https://bik.ai/",
-    "all_locations": "Bengaluru, KA, India; Remote",
-    "long_description": "BIK is an intelligent marketing platform helping brands to drive ROI with the power of conversations. \r\n\r\nRe-imagine your customer journey where you can convert your social media conversation into revenues rather than spending millions on website optimisation.",
-    "one_liner": "One stop platform for Marketers to drive acquisitions, retention &…",
-    "team_size": 100,
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "A place where you can spin off commerce agents or build your automation across the funnel of acquisition, retention & support. \r\n\r\nThe single place where you can handle everything you need for your ecommerce / retail business when it comes to marketing & support.",
+    "one_liner": "Agentic AI CRM for ecommerce",
+    "team_size": 55,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1599762606,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "E-commerce",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -10386,11 +10431,11 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Marketing"
+      "Retail"
     ],
     "regions": [
-      "India",
-      "South Asia",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Fully Remote"
     ],
@@ -13315,16 +13360,16 @@
     "website": "https://tractian.com",
     "all_locations": "Atlanta, GA, USA",
     "long_description": "Tractian transforms machine data into uptime, captures shop-floor know-how, and accelerates manufacturing throughput.",
-    "one_liner": "Machines and Teams, now in sync.",
+    "one_liner": "Run Manufacturing Without Downtime.",
     "team_size": 530,
     "industry": "Industrials",
     "subindustry": "B2B -> Operations",
     "launched_at": 1613167873,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "IoT",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -13509,7 +13554,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -23598,15 +23643,15 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1643704657,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Chatbot",
-      "No-code",
-      "AI"
+      "No-code"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -40071,7 +40116,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -41322,17 +41367,17 @@
     "website": "https://edgedive.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Edgedive is your AI support engineer - embedded in your existing stack (Intercom, Linear, Slack, GitHub, etc.). It: \r\n\r\n- Prioritizes customer issues and requests by impact (frequency, ACV, and severity).\r\n- Auto-investigates issues end-to-end: root cause, impact assessment, plan to fix.\r\n- Opens merge-ready PRs that build cleanly and follow your team’s standards.\r\n\r\nImagine having an always-on teammate who continuously triages customer pain, plans fixes, and pushes code changes so you can start your morning with fresh, mergeable PRs, ready for review.",
-    "one_liner": "Take action on customer feedback",
+    "one_liner": "The AI Support Engineer",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "launched_at": 1727386579,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Enterprise Software",
-      "Operations",
-      "AI"
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47215,7 +47260,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dc3d95366a9f12c7989780cf364009423a55b54.png",
     "website": "https://www.sourcebot.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sourcebot is an open source code understanding platform for massive codebases. We’re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks.\r\n\r\nUnderstanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase.\r\n\r\nSourcebot solves this by giving developers and AI agents the ability to regex search across millions of lines of code instantly, as well as ask questions across thousands of repos using any flagship reasoning model. Being open source and on-prem, we can get deployed in enterprises within minutes before other tools even get approval.\r\n\r\nWe (Brendan and Michael) met a decade ago at McGill University, and have been building together full time for over 2 years. We’ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",
+    "long_description": "Sourcebot is an open source code understanding platform for massive codebases. We’re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks.\r\n\r\nUnderstanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase.\r\n\r\nSourcebot solves this by giving developers and AI agents the ability to regex search across millions of lines of code instantly, as well as ask questions across thousands of repos using any flagship reasoning model. Being open source and on-prem, we can get deployed in enterprises within minutes before other tools even get approval.\r\n\r\nWe met a decade ago at McGill University and have been building together full time for over 2 years. We’ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",
     "one_liner": "Helping humans and AI agents understand massive codebases",
     "team_size": 2,
     "industry": "B2B",

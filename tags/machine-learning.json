@@ -8413,7 +8413,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -8894,7 +8894,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -9549,6 +9549,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/mlop.json"
   },
   {
+    "id": 30548,
+    "name": "Theorem",
+    "slug": "theorem-2",
+    "former_names": [
+      "Aletheia"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4462cecf7e86ccbeaa67750a89b934e1dcf2fa9f.png",
+    "website": "https://theorem.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Theorem is training models that make program verification 10,000 times faster. Using verification as a feedback loop, developers have found zero-days in GPU accelerated code and cryptography implementations, and sped up code migration in legacy systems. If you have complicated code that needs to be correct and secure, sign up for our beta!",
+    "one_liner": "Program verification so even your systems engineers can vibecode",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1747681841,
+    "tags": [
+      "Machine Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/theorem-2",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/theorem-2.json"
+  },
+  {
     "id": 30558,
     "name": "BitPatrol",
     "slug": "bitpatrol",
@@ -9932,5 +9973,88 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/sf-tensor",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sf-tensor.json"
+  },
+  {
+    "id": 30895,
+    "name": "Allus AI",
+    "slug": "allus-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54229250ba85a1626b1be8439c198c6ece967b89.png",
+    "website": "https://allus.ai",
+    "all_locations": "Atlanta, GA, USA",
+    "long_description": "Allus builds next-gen vision foundation models that bring real intelligence to quality inspection and process monitoring in manufacturing. Enabling factories to see, understand, and improve production in real time. ",
+    "one_liner": "Transforming manufacturing with next-gen Vision Foundation Model",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "B2B",
+    "launched_at": 1761108820,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "SaaS",
+      "Computer Vision",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/allus-ai.json"
+  },
+  {
+    "id": 30933,
+    "name": "Nucleo",
+    "slug": "nucleo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f01e4ddf6850170a8daa2d643721e2e9bb8d894e.png",
+    "website": "https://nucleoresearch.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We help oncologists and radiologists extract insights from CT scans to support tumor characterization and treatment.\r\n\r\nThe hospitals we work with include Stanford Hospital, Cedars-Sinai (the largest hospital in California), UCI Health, and Weill Cornell.",
+    "one_liner": "Automated CT scan analysis for oncology care.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1761179954,
+    "tags": [
+      "Machine Learning",
+      "Computer Vision",
+      "Health Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nucleo",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/nucleo.json"
   }
 ]

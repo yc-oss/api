@@ -10011,14 +10011,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6babda5ff95102983cef278d4efd8b7a1d06c10b.png",
     "website": "https://usecaribou.com",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Caribou is the alternative to endless email chains with lawyers and accountants.\r\n\r\nMore companies are now global: they have to navigate complex cross-border tax issues from day one. Their only option is to hire traditional firms whose siloed approach overcomplicates work and distracts finance teams.\r\n\r\nCaribou is an alternative that sets Transfer Pricing policies by collecting unstructured company data, saving companies from drawn-out manual projects.",
-    "one_liner": "Transfer Pricing for global companies",
-    "team_size": 5,
+    "long_description": "Caribou is the full-stack transfer pricing platform for “micro-multinationals.” Built for the next generation of global startups, Caribou brings together automation, compliance, and deep tax intelligence to solve one of the most complex problems in finance: transfer pricing.\r\n\r\nWith our AI-powered functional analysis, Caribou structures the messy mix of tax, law, and accounting data automatically—delivering near-perfect tax advice. The result: startups expand internationally faster, unlock trapped cash, and stay fully compliant without the need for costly consultants.\r\n\r\nFrom YC companies to high-growth scale-ups, businesses choose Caribou to eliminate compliance risk, reclaim R&D incentives, and achieve a 5-10x ROI—turning transfer pricing from a burden into a growth advantage. Learn how Caribou is building a new global tax infrastructure for startups at usecaribou.com",
+    "one_liner": "Full-stack Transfer Pricing for global startups",
+    "team_size": 14,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1541646249,
     "tags": [
       "Fintech",
+      "SaaS",
+      "B2B",
       "LegalTech"
     ],
     "tags_highlighted": [],
@@ -10040,7 +10042,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/caribou",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/caribou.json"
   },
@@ -10776,6 +10778,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/atlas-3",
     "api": "https://yc-oss.github.io/api/batches/winter-2019/atlas-3.json"
+  },
+  {
+    "id": 12393,
+    "name": "Shef",
+    "slug": "shef",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cbe8a3b1ecda5bf8f0abbf42c5ee7b0942d09160.png",
+    "website": "https://www.shef.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "At Shef, we’re bringing humanity back to mealtime by connecting consumers with talented chefs in their community. By introducing the sharing economy to the dinner table, we create meaningful economic opportunities for chefs while making homemade meals more accessible and affordable. Shefs on the platform craft menus inspired by their passion and expertise, preparing meals in small batches and delivering them to your door—so you can enjoy the warmth of a homemade meal without the hassle.\r\n\r\nWe have raised over $100M from investors including Andreessen Horowitz, Y Combinator, Craft Ventures, and M13, as well as founders and executives from Instacart, TaskRabbit, StubHub, AngelList, Lyft, Airbnb, and Yelp.",
+    "one_liner": "Shef is a Marketplace for Homemade Food",
+    "team_size": 100,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Food and Beverage",
+    "launched_at": 1546662795,
+    "tags": [
+      "Marketplace",
+      "Consumer",
+      "Food",
+      "Food Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2019",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Food and Beverage"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shef",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/shef.json"
   },
   {
     "id": 12502,
@@ -12039,12 +12085,12 @@
       "Nabla Computing",
       "Nabla Inc"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b071031daa0b0c77bf12cb07c12ff80ae951a600.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bf45a738c52014231eb5cc7bfba5ca712ef23c50.png",
     "website": "http://vorticity.xyz/",
-    "all_locations": "Redwood City, CA, USA; Mountain View, CA, USA",
+    "all_locations": "Redwood City, CA, USA",
     "long_description": "Many pressing problems facing humanity can be solved with faster scientific compute. Currently, it takes billions of dollars to design and develop a new fusion reactor, a hyper-sonic airplane or a new cancer treatment. This is because scientists and engineers have to build very expensive things before they even know if their ideas work. But what if we can simulate the workings of these ideas (and more) on computers first and have high confidence that it works before we build really expensive things?\r\n\r\nThe work of humanity's greatest scientists over the years has given us the physics and math to do this. The problem is that we simply do not have the computing power to solve these big problems.\r\n\r\nTo address this, the Vorticity Inc is re-imagining scientific computing all the way down to processor architecture and system design. Our proven technology is already helping the energy, life sciences and aerospace industries.",
     "one_liner": "The Fastest Scientific Computing Platform on the Planet",
-    "team_size": 5,
+    "team_size": 10,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1559271873,
@@ -12063,9 +12109,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -19663,16 +19707,16 @@
     "website": "https://tractian.com",
     "all_locations": "Atlanta, GA, USA",
     "long_description": "Tractian transforms machine data into uptime, captures shop-floor know-how, and accelerates manufacturing throughput.",
-    "one_liner": "Machines and Teams, now in sync.",
+    "one_liner": "Run Manufacturing Without Downtime.",
     "team_size": 530,
     "industry": "Industrials",
     "subindustry": "B2B -> Operations",
     "launched_at": 1613167873,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "IoT",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19783,6 +19827,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stoke-space",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/stoke-space.json"
+  },
+  {
+    "id": 23062,
+    "name": "InpharmD",
+    "slug": "inpharmd",
+    "former_names": [
+      "InpharmD"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fdd566ff352849d50819def6325c32942797c68b.png",
+    "website": "https://www.inpharmd.com",
+    "all_locations": "Atlanta, GA, USA",
+    "long_description": "Every hospital hires clinical pharmacists to answer clinical questions from doctors. \r\n\r\nThey outsource this to us because we’re more efficient.",
+    "one_liner": "We provide a curated, evidence- based answer to any clinical question.",
+    "team_size": 16,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1611246656,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Telemedicine"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inpharmd",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/inpharmd.json"
   },
   {
     "id": 23105,
@@ -29245,6 +29334,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/rally-uxr.json"
   },
   {
+    "id": 25989,
+    "name": "Blink",
+    "slug": "blink-new",
+    "former_names": [
+      "1Flow, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a032695f4ef91de1841f09f2b8ba9b6fc2bcf959.png",
+    "website": "https://blink.new",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Blink is the fastest way to build and launch web apps—no coding required. Our AI-powered platform lets anyone create full-stack apps in minutes: just describe what you want, and Blink handles design, database, backend, hosting, and authentication instantly. Apps are fully editable, remixable, and deploy with one click to a live site, including custom domains and monetization.\r\n\r\nBuilders, startups, and creators use Blink to launch MVPs, internal tools, SaaS products, and websites up to 20× faster—no developers needed. Each app is shareable and remixable, powering viral growth. Blink is “Shopify for web apps,” making software creation as easy and fun as making a TikTok.",
+    "one_liner": "Build fully functional apps with AI.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1643704657,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Chatbot",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blink-new",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/blink-new.json"
+  },
+  {
     "id": 26012,
     "name": "Postal",
     "slug": "postal",
@@ -36411,12 +36547,12 @@
     "name": "Metal",
     "slug": "metal",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77b1dc8d0df53da0491b6010662c1d5905566dbc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bdcc8475801e999a95ad750970c80614d23f5c4.png",
     "website": "https://metal.ai/",
     "all_locations": "New York, NY, USA",
     "long_description": "Metal is an AI application built for fund deal teams and managers. We accelerate a funds deal flow by reducing the effort needed to collect and parse data, perform diligence, and capture key findings.\r\n\r\n",
-    "one_liner": "AI Accelerated Deal Flow and Portfolio Intelligence",
-    "team_size": 8,
+    "one_liner": "Institutional Intelligence for Private Equity",
+    "team_size": 17,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1674209670,
@@ -38461,49 +38597,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/outset",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/outset.json"
-  },
-  {
-    "id": 28867,
-    "name": "Shasta Health",
-    "slug": "shasta-health",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d0ddbae01a1bda2827881248dc2c26ab87f27982.png",
-    "website": "https://www.shasta.health",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Shasta Health builds AI agents to handle patient calls, verify insurance and automate admin tasks for healthcare clinics",
-    "one_liner": "AI calling & browser agents for healthcare",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare Services",
-    "launched_at": 1690927737,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Computer Vision",
-      "Digital Health",
-      "Healthcare"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare Services"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shasta-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/shasta-health.json"
   },
   {
     "id": 28869,
@@ -45278,50 +45371,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/dropback.json"
   },
   {
-    "id": 29523,
-    "name": "K-Scale Labs",
-    "slug": "k-scale-labs",
-    "former_names": [
-      "dpsh"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a76d2d8803d634b3e622a584f55e531a3e72f45.png",
-    "website": "https://kscale.dev/",
-    "all_locations": "Palo Alto, CA, USA",
-    "long_description": "We're building humanoid robots to do most of what you find boring or tedious. We have an open-source design which we are releasing to the public, which is capable of walking, talking and manipulating objects.",
-    "one_liner": "Open-source humanoid robots",
-    "team_size": 10,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Consumer Electronics",
-    "launched_at": 1711580332,
-    "tags": [
-      "Machine Learning",
-      "Robotics",
-      "Consumer",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Consumer Electronics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/k-scale-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/k-scale-labs.json"
-  },
-  {
     "id": 29524,
     "name": "Coval",
     "slug": "coval",
@@ -48719,53 +48768,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/elayne.json"
   },
   {
-    "id": 29844,
-    "name": "Oway",
-    "slug": "oway",
-    "former_names": [
-      "Oway Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/743c785c35b25f87660bedbb70b1a2667dbe9c7e.png",
-    "website": "https://www.shipoway.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Oway is an AI-driven freight platform that turns America’s empty truck space into a new category of freight shipping. Every year 50% of U.S. truck space goes unused, a $100B+ inefficiency. Oway uses AI to automatically price, match, and sell that space in real time, giving businesses freight shipping that is dramatically faster and cheaper than traditional options. \r\n\r\nWe're building the largest decentralized network of America’s empty truck space - a transparent infrastructure layer any shipper, broker, or carrier can plug into. For shippers, this means freight costs that are up to 50% lower than traditional LTL (shipments from 1 to 12 pallets), along with faster delivery windows because freight moves directly from dock to dock without the slow handoffs, warehouses, or cross-docking infrastructure that LTL depends on. For carriers, Oway’s integration can increase annual revenues by up to 30% with minimal impact on existing schedules. They simply earn more by monetizing space that would have gone unused.\r\n\r\nOur mission is to transform empty truck space into an asset that strengthens U.S. competitiveness. By lowering the cost of goods sold, we help businesses grow. By improving carrier margins, we make trucking more sustainable. And by digitizing and decentralizing freight, we are laying the foundation for a resilient, transparent logistics layer that can support America’s reindustrialization in the decades ahead. Oway makes freight shipping as simple as ridesharing - click a button, book a truck, and move goods at the true cost of available capacity.",
-    "one_liner": "The First AI Infrastructure Layer for America’s Empty Truck Space",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1717601253,
-    "tags": [
-      "Machine Learning",
-      "Marketplace",
-      "B2B",
-      "Ridesharing",
-      "Logistics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/oway",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/oway.json"
-  },
-  {
     "id": 29847,
     "name": "Bucket Robotics",
     "slug": "bucket-robotics",
@@ -49508,7 +49510,7 @@
     "name": "Candle",
     "slug": "candle",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/636db586aac249b0c6213968757e9107154a7801.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/967c1e53e66d046df8e703123f8c4710471c7285.png",
     "website": "https://www.trycandle.app/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Most relationships, romantic or platonic, don’t end in one moment, they drift apart over time. Missed check-ins, surface-level conversations, busy lives, and routines replace real connection. Candle helps couples and friends stay close through 1-minute daily rituals that bring back presence, play, and curiosity.\r\n\r\nCandle gives couples and friends a daily, low-pressure game designed to create emotional momentum: the most essential, and often most neglected, ingredient in long-term connection.\r\n\r\nWhat started as a swipeable questions game has grown into a full platform and private space for your relationship:\r\n\r\n- Daily Prompts & Games: Thoughtful, funny, and unexpected questions, couple quizzes, audio and photo challenges that update and adapt monthly\r\n\r\n- Shared Canvas Widget: Leave notes, doodles, or drawings right on each other’s home screen\r\n\r\n- Now in beta: Date Ideas Swiping**: Get 60 curated date ideas based on your area (yes, even San Francisco :)), updated weekly. Swipe to match on what you both want to try. From pop-up events to hidden gems, it’s the easiest way to try something new together or even with friends or family! We’d love feedback here!\r\n\r\n- Streaks & Shared Progress — Build accountability and a shared rhythm\r\n\r\n- Adaptive Decks: Smarter, more relevant questions over time\r\n\r\n- Shared Photo Albums & Memories: Keep track of all your photos and logged memories\r\n",
@@ -54087,6 +54089,41 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/anvil.json"
   },
   {
+    "id": 30429,
+    "name": "Claim Health",
+    "slug": "claim-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c286f38db8cc7695ccbc163189808ca1c0bcb7d3.png",
+    "website": "https://www.claimhealth.com",
+    "all_locations": "",
+    "long_description": "Post-acute agencies lose up to 15% of revenue each year to denials, non-compliant documentation, and delayed payments. Most treat it as a cost of doing business. Instead of waiting weeks for rejections and appealing claims one by one, Claim Health flags issues in real-time and automates claim corrections and appeals—before revenue is lost.\r\n\r\nWhile working with healthcare providers, we found most denials stem from small, preventable documentation errors. As payor requirements grow increasingly complex and fragmented, billing has become a manual, error-prone process. Claim Health closes the loop between documentation and billing outcomes—using AI to detect issues, automate workflows, and recover thousands in missed revenue each week.\r\n\r\nKevin and JJ bring nearly a decade of experience building and scaling healthtech companies. At Dandy, JJ was a founding engineer and Kevin was the first GTM hire; together they helped grow the business from 0 to $150M+ ARR. At Perry (now Jolly), JJ led engineering and Kevin was Head of Sales, driving the company through a $16.5M Series A led by Tesla’s former CFO.\r\n\r\nIn under three weeks since incorporation, we've launched with three agencies and are in early discussions with large U.S. health systems.\r\n\r\nPost-acute care is a $400B market with over $20B in annual revenue leakage due to broken billing workflows. Claim Health is fixing that—starting with denials, and expanding into the full revenue cycle stack.",
+    "one_liner": "The first AI revenue platform for post-acute healthcare",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1745902014,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/claim-health",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/claim-health.json"
+  },
+  {
     "id": 30443,
     "name": "TypeOS",
     "slug": "typeos",
@@ -55310,6 +55347,47 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/text-ai.json"
   },
   {
+    "id": 30548,
+    "name": "Theorem",
+    "slug": "theorem-2",
+    "former_names": [
+      "Aletheia"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4462cecf7e86ccbeaa67750a89b934e1dcf2fa9f.png",
+    "website": "https://theorem.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Theorem is training models that make program verification 10,000 times faster. Using verification as a feedback loop, developers have found zero-days in GPU accelerated code and cryptography implementations, and sped up code migration in legacy systems. If you have complicated code that needs to be correct and secure, sign up for our beta!",
+    "one_liner": "Program verification so even your systems engineers can vibecode",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1747681841,
+    "tags": [
+      "Machine Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/theorem-2",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/theorem-2.json"
+  },
+  {
     "id": 30556,
     "name": "Cascade Space",
     "slug": "cascade-space",
@@ -55366,10 +55444,10 @@
     "subindustry": "Unspecified",
     "launched_at": 1747413596,
     "tags": [
+      "Artificial Intelligence",
       "Hard Tech",
       "Hardware",
       "Aerospace",
-      "AI",
       "ML"
     ],
     "tags_highlighted": [],
@@ -56373,6 +56451,42 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/floot.json"
   },
   {
+    "id": 30730,
+    "name": "Idler",
+    "slug": "idler",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be10a2d11184480de4bc819bb87298c7d2766cce.png",
+    "website": "https://idler.ai/",
+    "all_locations": "",
+    "long_description": "Idler builds reinforcement learning environments that teach AI models to code at expert human levels. We create training environments based on real-world coding scenarios that prepare models for the complex challenges they'll face in production.",
+    "one_liner": "Scale AI for reinforcement learning environments. ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1749750449,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/idler",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/idler.json"
+  },
+  {
     "id": 30732,
     "name": "Humoniq",
     "slug": "humoniq",
@@ -56578,20 +56692,20 @@
     "name": "Fleetline",
     "slug": "fleetline",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ea7f2d064227baf73862c76f498eff3ea9f6c7d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8008d7d50f1ead47eae177bcede0c9d614312ad4.png",
     "website": "https://fleetline.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "New York, NY, USA",
     "long_description": "Fleetline is building the first complete-context algorithmic load planner for mid to large-sized trucking fleets. Today’s dispatchers face an overwhelming task: balancing regulations, customer demands, live fleet data, and individual driver needs, all while coordinating across siloed tools and teams. Mistakes run rampant, and each mistake is thousands of dollars. Even the select fleets using algorithms that have fleet-wide context struggle: the outputs are rigid, hard to interpret, and are blind to real-world nuances like driver preferences and schedule exceptions. Fleetline solves this by combining advanced optimization with LLMs that can easily adapt algorithms to each fleet’s needs and capture driver-specific information. The result is smarter planning truly optimized for every fleet and its drivers.",
     "one_liner": "Optimizing fleet planning with data driven algorithms",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1754335865,
     "tags": [
-      "Artificial Intelligence",
       "Logistics",
       "Supply Chain",
-      "Data Science"
+      "Data Science",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
