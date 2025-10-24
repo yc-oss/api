@@ -2359,7 +2359,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -6279,27 +6279,25 @@
   },
   {
     "id": 27986,
-    "name": "iNRI",
-    "slug": "inri",
+    "name": "Rally Tax",
+    "slug": "rally-tax",
     "former_names": [
       "Trade94",
       "iNri",
       "Trade94"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c59bd35cb220868b3d333711e2e07a77b8283d49.png",
-    "website": "https://goinri.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a3819aca58bd07bb9f186d6233961e242ceff9.png",
+    "website": "https://www.rally.tax/",
     "all_locations": "Mountain View, CA, USA; Remote",
-    "long_description": "iNRI is a YC-backed financial technology company building the unified financial ecosystem for the 35 million+ global Indian diaspora. \r\n\r\nThis affluent and influential community faces a fragmented financial world, struggling with the complexities of cross-border investments, tax, and compliance—a massive, underserved market that traditional institutions have ignored. iNRI solves this by providing a single, trusted platform for Indian investments, US/India tax advisory, and other essential financial services.\r\n\r\niNRI is poised to become the indispensable \"Personal CFO\" for this valuable demographic, creating a category-defining company with a clear path to significant growth. ",
-    "one_liner": "Financial super-app for Global Indians",
-    "team_size": 2,
+    "long_description": "For millions of Americans, taxes are far more than a simple W-2. Managing investments, property, or a side business creates a world of complexity that makes DIY software risky, while traditional CPA help is often slow, expensive, and reactive. This broken system causes anxiety and leaves billions in potential savings on the table every year.\r\n\r\nRally is the modern solution for tax peace of mind. We are an AI-powered tax platform that provides proactive, year-round strategic guidance, not just seasonal filing. Our unique approach combines a smart platform that automates 80% of the manual work with a team of in-house experts to provide strategic advice. We deliver the expertise of a private advisor with the convenience and access of a modern tech company.\r\n\r\nOur vision is to use the trust we earn in taxes to become the definitive financial co-pilot for our customers. We will expand from tax strategy into a full suite of services that helps millions of people proactively manage and optimize their entire financial future.",
+    "one_liner": "AI-native US tax advisory for individuals",
+    "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1677795325,
     "tags": [
       "Fintech",
-      "Consumer",
-      "Investing",
-      "Neobank"
+      "Consumer"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6321,8 +6319,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inri",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/inri.json"
+    "url": "https://www.ycombinator.com/companies/rally-tax",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/rally-tax.json"
   },
   {
     "id": 28097,
@@ -9702,5 +9700,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sellraze",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sellraze.json"
+  },
+  {
+    "id": 30961,
+    "name": "Arcten",
+    "slug": "arcten",
+    "former_names": [
+      "Cortex",
+      "ArcTen",
+      "Arc Ten",
+      "ArcTen"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/714941e4c6e2e3b20d32f53aa366486b1ba71894.png",
+    "website": "https://arcten.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building an AI-native financial research platform that uses AI agents to surface early investment opportunities from millions of filings, transcripts, and reports. It automates screening, search, and analysis, helping investors focus on insights instead of documents.",
+    "one_liner": "We're making financial research easier with AI.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1761245566,
+    "tags": [
+      "Finance",
+      "Consumer",
+      "Investing",
+      "Enterprise",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arcten",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/arcten.json"
   }
 ]

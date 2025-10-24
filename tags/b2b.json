@@ -16194,13 +16194,13 @@
   },
   {
     "id": 24132,
-    "name": "Keeper",
-    "slug": "keeper",
+    "name": "Double (formerly Keeper)",
+    "slug": "doublehq",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e62eb8fc8bb104db629027f029c23e342c23d7f2.png",
-    "website": "https://www.keeper.app",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c0d4190c226cfebdb2847415960320fc3195b52.png",
+    "website": "https://www.doublehq.com",
     "all_locations": "Austin, TX, USA; Remote",
-    "long_description": "Keeper makes software to help bookkeepers manage their clients' back-office.\r\n\r\nWe write the same kind of software that venture-backed bookkeepers like Pilot write internally, but instead of doing bookkeeping, we sell that software to the 1.5M bookkeepers across the US.",
+    "long_description": "Double makes software to help bookkeepers manage their clients' back-office.\r\n\r\nWe write the same kind of software that venture-backed bookkeepers like Pilot write internally, but instead of doing bookkeeping, we sell that software to the 1.5M bookkeepers across the US.",
     "one_liner": "We make software for bookkeepers.",
     "team_size": 72,
     "industry": "B2B",
@@ -16232,8 +16232,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keeper",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/keeper.json"
+    "url": "https://www.ycombinator.com/companies/doublehq",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/doublehq.json"
   },
   {
     "id": 24137,
@@ -33698,16 +33698,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Outset offers AI-powered user interviews to conduct qualitative research. Traditional surveys are fast but lack depth while live interviews produce high quality data but are slow and expensive. Outset uses LLMs to lead interviews and synthesize results so researchers get high quality data 100 times faster. ",
     "one_liner": "AI-powered user interviews",
-    "team_size": 6,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1683921315,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Market Research",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33721,9 +33721,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -40235,16 +40233,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ficra enables product teams to ship higher quality releases, faster. \r\n\r\nFicra is the source of truth for every product screen and user flow, giving companies real-time visibility into what their users actually see in their live product. Ficra's AI provides a live, visual map of your users’ journeys: every screen, flow, A/B test, push notification and email. \r\n\r\nWith Ficra, product teams no longer waste 25% of their time auditing complex user flows to assess product quality and find the blind spots in funnels.",
     "one_liner": "Real time, source of truth for every product screen and user flow",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1725388449,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
       "Productivity",
-      "Design Tools"
+      "Design Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42228,7 +42226,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -43328,18 +43326,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa69690b8b1a0cab958e9bf859bdea3e6735b40c.png",
     "website": "https://www.refresh.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Refresh any website and make it your own",
+    "long_description": "Building RL environments for the next generation of capabilities in frontier models. ",
+    "one_liner": "RL environments for computer use and software engineering work",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1745867856,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43744,47 +43742,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/theta-software",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/theta-software.json"
-  },
-  {
-    "id": 30494,
-    "name": "Nixo",
-    "slug": "nixo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3442ddefa8f2ffb38f683757efc6de9a1e78890b.png",
-    "website": "https://withnixo.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Accelerate your FDE team with Nixo. Scope customer problems faster, discover opportunities to reuse code, and get instant visibility into workload across customers.",
-    "one_liner": "The first ops platform for forward deployed engineers",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1752219403,
-    "tags": [
-      "B2B",
-      "Workflow Automation",
-      "Customer Success",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nixo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/nixo.json"
   },
   {
     "id": 30496,
@@ -46714,16 +46671,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7c99fca8e4cc5f92f4512cf22a4fef17d90d66d.png",
     "website": "https://www.hypercubic.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hypercubic is an AI-native maintenance and modernization platform for mainframes.\r\n\r\nWe help enterprises understand and preserve their mission-critical systems. About 70% of the Fortune 500 still rely on them to run their core business applications in banking, insurance, telecom, airlines, retail, and more.\r\n\r\nThese systems, originally built in the 1960s–90s, still power trillions in global infrastructure but have become increasingly opaque as original developers retire or leave the workforce. \r\n\r\nWe're laying the foundation to autonomously maintain and modernize these legacy systems using frontier AI.\r\n\r\n\r\nLearn more at hypercubic.ai",
-    "one_liner": "AI to maintain and modernize mainframes.",
+    "long_description": "Hypercubic is an AI-native maintenance and modernization platform for COBOL and mainframes.\r\n\r\nWe help enterprises understand and preserve their mission-critical legacy systems. About 70% of the Fortune 500 companies still rely on them to run their core business applications in banking, insurance, telecom, airlines, retail, and more.\r\n\r\nThese systems, originally built in the 1960s–90s, still power trillions in global infrastructure today but have become increasingly opaque as original developers retire or leave the workforce. \r\n\r\nWe're laying the foundation to autonomously maintain and modernize these legacy systems to future-proof the backbone of the global economy.\r\n\r\n\r\nLearn more at hypercubic.ai",
+    "one_liner": "AI to maintain and modernize COBOL/mainframes.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1758931979,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46761,10 +46718,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1761077242,
     "tags": [
-      "Artificial Intelligence",
+      "FinOps",
       "SaaS",
       "B2B",
-      "Compliance"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46883,16 +46840,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3dd38394ff07e1224b748fcf5b78c7df866584d2.png",
     "website": "https://www.redapto.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Redapto fixes the core limitation of today’s agents: they’re static. Teams hit real performance walls because models aren’t optimized for their domain and don’t improve from usage. We help products break that plateau.\r\n\r\nWe bring continuous improvement into your stack: controller models for intelligent context engineering, domain-specialized mid/post-training, automatic feedback pipelines, and self-updating data sources so RAG/search stays accurate. We focus only on what moves the needle for your product, not extra infrastructure.\r\n\r\nWe’re applied researchers who’ve shipped this at scale. At Coinbase, our agent automations save $2.5M+ annually; at Adobe and Amazon, our post-training and compression work saved $1M+ and improved latency 20×. We’ve published at NeurIPS, AAAI, ICLR, and COLING, and we’re building Redapto to make adaptive, evolving agents the new default.",
-    "one_liner": "Self-improving AI agents",
+    "long_description": "Redapto builds self-improving systems for customer support teams that boost CSAT, NRR, and drive repeat purchases.\r\n\r\nSupport quality plateau because agents and QA are static. Less than 5% of interactions are reviewed, missing SOP gaps, hallucinations, and outdated knowledge. Redapto audits 100% of interactions to detect issues, run custom evals, and auto-update SOPs, training, and knowledge bases so teams continuously improve.\r\n\r\nWe’re applied researchers who’ve shipped this at scale. At Coinbase, our agent automations save $2.5M+ annually; at Adobe and Amazon, our post-training and compression work saved $1M+ and improved latency 20×. ",
+    "one_liner": "Self-improving systems for Customer Support Teams",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1759943597,
     "tags": [
       "Artificial Intelligence",
-      "Reinforcement Learning",
-      "B2B"
+      "B2B",
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46901,8 +46858,7 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -46999,6 +46955,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/complydo",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/complydo.json"
+  },
+  {
+    "id": 30920,
+    "name": "Lexi",
+    "slug": "lexi",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb8c922483150b7ebb7320f8160a0722809b666c.png",
+    "website": "https://getlexi.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Lexi, we are building AI-powered associates for law firms. Our associates learn your firm's standards and improve with every case, having already handled 135,000+ documents across 7,000+ cases.",
+    "one_liner": "AI Powered Associates",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1758861304,
+    "tags": [
+      "B2B",
+      "Legal",
+      "LegalTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lexi",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/lexi.json"
   },
   {
     "id": 30924,

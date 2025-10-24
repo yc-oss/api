@@ -12240,7 +12240,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -15472,13 +15472,13 @@
   },
   {
     "id": 24132,
-    "name": "Keeper",
-    "slug": "keeper",
+    "name": "Double (formerly Keeper)",
+    "slug": "doublehq",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e62eb8fc8bb104db629027f029c23e342c23d7f2.png",
-    "website": "https://www.keeper.app",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c0d4190c226cfebdb2847415960320fc3195b52.png",
+    "website": "https://www.doublehq.com",
     "all_locations": "Austin, TX, USA; Remote",
-    "long_description": "Keeper makes software to help bookkeepers manage their clients' back-office.\r\n\r\nWe write the same kind of software that venture-backed bookkeepers like Pilot write internally, but instead of doing bookkeeping, we sell that software to the 1.5M bookkeepers across the US.",
+    "long_description": "Double makes software to help bookkeepers manage their clients' back-office.\r\n\r\nWe write the same kind of software that venture-backed bookkeepers like Pilot write internally, but instead of doing bookkeeping, we sell that software to the 1.5M bookkeepers across the US.",
     "one_liner": "We make software for bookkeepers.",
     "team_size": 72,
     "industry": "B2B",
@@ -15510,8 +15510,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keeper",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/keeper.json"
+    "url": "https://www.ycombinator.com/companies/doublehq",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/doublehq.json"
   },
   {
     "id": 24135,
@@ -18821,7 +18821,7 @@
     "slug": "transfez",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf4bb6093a727267a92cc70e9bafd5dd3bde3b1a.png",
-    "website": "https://neo.transfez.com",
+    "website": "https://www.itsjack.com",
     "all_locations": "Jakarta, Jakarta, Indonesia",
     "long_description": "",
     "one_liner": "Brex for small businesses in Indonesia ",
@@ -24620,8 +24620,8 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9bd0bbec7d523edd1bef0a7fed1c32a4c5e91d07.png",
     "website": "https://www.coveragecat.com/",
-    "all_locations": "New York, NY, USA; San Francisco, CA, USA; Remote",
-    "long_description": "Coverage Cat (https://www.coveragecat.com) is the best way for people to optimally insure against their risks for homeowners, auto, renters, and general liability insurance. Millions of wealthy but insurance-unfamiliar Americans have purchased policies that leave them vulnerable to million-dollar lawsuits and bankruptcy. \r\n\r\nCoverage Cat fixes their coverage and offers them cheaper premiums with a focus on the central question of insurance: \"how much can you afford to lose?\" This risk-first approach allows for policies with higher deductibles that no other insurer will sell you, and enables us to find the multi-million dollar coverage, for truly catastrophic events, that our users need.",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "[The AI-native insurance broker](https://www.coveragecat.com?utm_source=bookface) fixes your coverage and finds cheaper premiums. \r\n\r\nWe provide both AI and human support so you can get fast answers on your policy and quickly get a response from a human agent so you can protect you assets or close on a new home. \r\n\r\nThe AI-first approach drives core search, support and shopping experiences to ensure you get the best prices with the correct coverage. ",
     "one_liner": "Consumer Optimized Insurance",
     "team_size": 4,
     "industry": "Fintech",
@@ -25632,27 +25632,25 @@
   },
   {
     "id": 27986,
-    "name": "iNRI",
-    "slug": "inri",
+    "name": "Rally Tax",
+    "slug": "rally-tax",
     "former_names": [
       "Trade94",
       "iNri",
       "Trade94"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c59bd35cb220868b3d333711e2e07a77b8283d49.png",
-    "website": "https://goinri.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a3819aca58bd07bb9f186d6233961e242ceff9.png",
+    "website": "https://www.rally.tax/",
     "all_locations": "Mountain View, CA, USA; Remote",
-    "long_description": "iNRI is a YC-backed financial technology company building the unified financial ecosystem for the 35 million+ global Indian diaspora. \r\n\r\nThis affluent and influential community faces a fragmented financial world, struggling with the complexities of cross-border investments, tax, and compliance—a massive, underserved market that traditional institutions have ignored. iNRI solves this by providing a single, trusted platform for Indian investments, US/India tax advisory, and other essential financial services.\r\n\r\niNRI is poised to become the indispensable \"Personal CFO\" for this valuable demographic, creating a category-defining company with a clear path to significant growth. ",
-    "one_liner": "Financial super-app for Global Indians",
-    "team_size": 2,
+    "long_description": "For millions of Americans, taxes are far more than a simple W-2. Managing investments, property, or a side business creates a world of complexity that makes DIY software risky, while traditional CPA help is often slow, expensive, and reactive. This broken system causes anxiety and leaves billions in potential savings on the table every year.\r\n\r\nRally is the modern solution for tax peace of mind. We are an AI-powered tax platform that provides proactive, year-round strategic guidance, not just seasonal filing. Our unique approach combines a smart platform that automates 80% of the manual work with a team of in-house experts to provide strategic advice. We deliver the expertise of a private advisor with the convenience and access of a modern tech company.\r\n\r\nOur vision is to use the trust we earn in taxes to become the definitive financial co-pilot for our customers. We will expand from tax strategy into a full suite of services that helps millions of people proactively manage and optimize their entire financial future.",
+    "one_liner": "AI-native US tax advisory for individuals",
+    "team_size": 5,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1677795325,
     "tags": [
       "Fintech",
-      "Consumer",
-      "Investing",
-      "Neobank"
+      "Consumer"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25674,8 +25672,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/inri",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/inri.json"
+    "url": "https://www.ycombinator.com/companies/rally-tax",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/rally-tax.json"
   },
   {
     "id": 27987,
@@ -30266,7 +30264,7 @@
     "name": "Alt-X",
     "slug": "alt-x",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e07acdd6605048e95201e2d026aebf2bf045e6b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/949208e95883f37f6c02c5daa9417bb2876ac66f.png",
     "website": "https://alt-x.co",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Private markets are still opaque, manual, and locked inside Excel. Every year, trillions of dollars in venture, real-estate, and private-equity capital are deployed through diligence processes that haven’t changed in decades. Analysts spend hours parsing PDFs and spreadsheets just to understand what a company or property is worth.\r\n\r\nAlt-X is building the data and AI infrastructure layer for alternative assets — a system that ingests unstructured deal materials, normalizes the data, and generates institutional-grade analysis in seconds. Whether it’s a private-company dataroom or a real-estate offering memorandum, Alt-X extracts key KPIs like ARR, growth, NOI, IRR, and cap rate, then produces investor-ready dashboards and reports automatically.\r\n\r\nOur platform reduces deal evaluation timelines by up to 73%, saves 30–50 analyst hours per deal, and enables teams to screen 4× more opportunities with the same headcount. By automating KPI extraction, benchmarking, and underwriting, Alt-X transforms diligence from a manual bottleneck into a scalable process.\r\n\r\nThis hasn’t been done at scale because private-market data is fragmented across formats and asset classes. Alt-X’s parsing engine unifies this chaos into a structured schema — the backbone for cross-asset underwriting, KPI dashboards, and automated risk scoring.\r\n\r\nOur first wedge is real estate and private equity, where underwriting is slowest and most manual. We’re already piloting with family offices and private funds managing over $200 million in assets, paying $1K–$5K per month to automate deal screening and valuation.\r\n\r\nThe opportunity is massive: over $1.4 trillion in new private-equity and real-estate deals are underwritten globally each year, with $25–30 billion spent on diligence and analytics. Yet over 90% of this still happens manually. Alt-X’s mission is to become the operating system for private-market investing — the Bloomberg Terminal of the AI era.",
@@ -30276,8 +30274,8 @@
     "subindustry": "Fintech",
     "launched_at": 1761174591,
     "tags": [
-      "Artificial Intelligence",
-      "Fintech"
+      "Fintech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

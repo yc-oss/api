@@ -5522,7 +5522,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e5b6595eedce0fbf3857cfdf876dbd2f0d66a78.png",
     "website": "https://superagent.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superagent is the defense layer for AI agents. It inspects every prompt, response, and tool call at runtime to block prompt injections, data leaks, and backdoors in generated code before they reach production.\r\n\r\nAt the core is SuperagentLM, a small language model trained specifically for agentic security. Unlike rules or filters, it uses reasoning to catch subtle and novel attacks. It’s lightweight and fast — optimized to run inline on CPU or GPU without slowing down your stack.\r\n\r\nSuperagent integrates at the API layer, inside agent frameworks, and in CI/CD pipelines, with a single dashboard for policies, audit logs, and runtime visibility. This gives teams real-time protection and compliance guardrails without slowing down AI adoption.\r\n\r\nLearn more: https://www.superagent.sh/",
+    "long_description": "Superagent provides guardrails that make AI-agents secure and compliant.\r\n\r\nIt’s a suite of purpose-trained small language models that run at runtime to protect, verify, and redact data flowing through AI agents.\r\n\r\n- GUARD blocks unsafe inputs, prompt injections, and malicious tool calls\r\n- VERIFY checks that outputs are factual and policy-aligned\r\n- REDACT removes sensitive data to maintain privacy and compliance\r\n\r\nSuperagent integrates via API, SDK, CLI, MCP, and a web Playground, with a shared dashboard for policies, logs, and compliance visibility.",
     "one_liner": "Defender of AI agents",
     "team_size": 2,
     "industry": "B2B",
@@ -6760,22 +6760,28 @@
   },
   {
     "id": 29407,
-    "name": "Just Words",
-    "slug": "just-words",
+    "name": "JustAI",
+    "slug": "justai",
     "former_names": [
       "Choice",
       "Choice AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/166536f94d496e2b50084b3b8edf8b6d9e29040b.png",
-    "website": "https://justwords.ai",
+    "website": "https://getjust.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI-first marketing platform that puts companies in a state of continuous experimentation. We let you test 100+ variations within a month, across segments without the need to setup an 'octopus' on your favorite CRM tool. We also automate reporting which takes the grunt work of baby sitting every A/B test out of the way.",
-    "one_liner": "Scale hyper-personalized messaging with AI",
+    "long_description": "Always-on AI agents for 1-1 personalization at scale",
+    "one_liner": "A modern workflow for lifecycle marketing",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1704840202,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Workflow Automation",
+      "Personalization",
+      "Marketing"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -6788,15 +6794,17 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/just-words",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/just-words.json"
+    "url": "https://www.ycombinator.com/companies/justai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/justai.json"
   },
   {
     "id": 29408,

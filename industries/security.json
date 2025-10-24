@@ -3580,7 +3580,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e5b6595eedce0fbf3857cfdf876dbd2f0d66a78.png",
     "website": "https://superagent.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superagent is the defense layer for AI agents. It inspects every prompt, response, and tool call at runtime to block prompt injections, data leaks, and backdoors in generated code before they reach production.\r\n\r\nAt the core is SuperagentLM, a small language model trained specifically for agentic security. Unlike rules or filters, it uses reasoning to catch subtle and novel attacks. It’s lightweight and fast — optimized to run inline on CPU or GPU without slowing down your stack.\r\n\r\nSuperagent integrates at the API layer, inside agent frameworks, and in CI/CD pipelines, with a single dashboard for policies, audit logs, and runtime visibility. This gives teams real-time protection and compliance guardrails without slowing down AI adoption.\r\n\r\nLearn more: https://www.superagent.sh/",
+    "long_description": "Superagent provides guardrails that make AI-agents secure and compliant.\r\n\r\nIt’s a suite of purpose-trained small language models that run at runtime to protect, verify, and redact data flowing through AI agents.\r\n\r\n- GUARD blocks unsafe inputs, prompt injections, and malicious tool calls\r\n- VERIFY checks that outputs are factual and policy-aligned\r\n- REDACT removes sensitive data to maintain privacy and compliance\r\n\r\nSuperagent integrates via API, SDK, CLI, MCP, and a web Playground, with a shared dashboard for policies, logs, and compliance visibility.",
     "one_liner": "Defender of AI agents",
     "team_size": 2,
     "industry": "B2B",
@@ -4174,7 +4174,7 @@
     "all_locations": "",
     "long_description": "Casco helps companies confidently ship AI agents and apps by simulating attacks on their AI systems, identifying vulnerabilities, and providing guided remediation.\r\n\r\nCompanies building on AI face a disproportionate amount of cybersecurity threats. 73% of enterprises experienced at least one AI-related security incident in the past 12 months, with the average incident cost amounting to $4.8m. It also takes 40% longer for these companies to identify and address these breaches vs. non-AI related incidents.\r\n\r\nCheck if your AI system is secure at casco.com\r\n\r\n---\r\n\r\nWe already secure AI systems deployed in 60% of Fortune 500 companies and are default alive. [1]\r\n\r\n[1] http://www.paulgraham.com/aord.html",
     "one_liner": "Autonomous security testing for AI systems",
-    "team_size": 5,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1747691019,
@@ -4570,5 +4570,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/multifactor",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/multifactor.json"
+  },
+  {
+    "id": 30903,
+    "name": "Kestrel AI",
+    "slug": "kestrel-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a17c93b508bc423bb59667db4befdfd07cfd6f68.png",
+    "website": "https://usekestrel.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Kestrel AI turns Kubernetes metadata and network telemetry into a live graph and uses AI agents to evaluate cluster security, run detailed risk assessments, answer cross-cluster questions in natural language, and autonomously remediate issues.",
+    "one_liner": "AI-Native Kubernetes Ops & Security Platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1761187283,
+    "tags": [
+      "Swarm AI",
+      "Security",
+      "Kubernetes"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kestrel-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/kestrel-ai.json"
   }
 ]

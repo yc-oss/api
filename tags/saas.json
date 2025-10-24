@@ -23118,13 +23118,13 @@
   },
   {
     "id": 24132,
-    "name": "Keeper",
-    "slug": "keeper",
+    "name": "Double (formerly Keeper)",
+    "slug": "doublehq",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e62eb8fc8bb104db629027f029c23e342c23d7f2.png",
-    "website": "https://www.keeper.app",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c0d4190c226cfebdb2847415960320fc3195b52.png",
+    "website": "https://www.doublehq.com",
     "all_locations": "Austin, TX, USA; Remote",
-    "long_description": "Keeper makes software to help bookkeepers manage their clients' back-office.\r\n\r\nWe write the same kind of software that venture-backed bookkeepers like Pilot write internally, but instead of doing bookkeeping, we sell that software to the 1.5M bookkeepers across the US.",
+    "long_description": "Double makes software to help bookkeepers manage their clients' back-office.\r\n\r\nWe write the same kind of software that venture-backed bookkeepers like Pilot write internally, but instead of doing bookkeeping, we sell that software to the 1.5M bookkeepers across the US.",
     "one_liner": "We make software for bookkeepers.",
     "team_size": 72,
     "industry": "B2B",
@@ -23156,8 +23156,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keeper",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/keeper.json"
+    "url": "https://www.ycombinator.com/companies/doublehq",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/doublehq.json"
   },
   {
     "id": 24137,
@@ -27939,7 +27939,7 @@
     "slug": "transfez",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cf4bb6093a727267a92cc70e9bafd5dd3bde3b1a.png",
-    "website": "https://neo.transfez.com",
+    "website": "https://www.itsjack.com",
     "all_locations": "Jakarta, Jakarta, Indonesia",
     "long_description": "",
     "one_liner": "Brex for small businesses in Indonesia ",
@@ -39858,16 +39858,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Outset offers AI-powered user interviews to conduct qualitative research. Traditional surveys are fast but lack depth while live interviews produce high quality data but are slow and expensive. Outset uses LLMs to lead interviews and synthesize results so researchers get high quality data 100 times faster. ",
     "one_liner": "AI-powered user interviews",
-    "team_size": 6,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1683921315,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Market Research",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39881,9 +39881,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -46811,18 +46809,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa69690b8b1a0cab958e9bf859bdea3e6735b40c.png",
     "website": "https://www.refresh.dev",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Refresh any website and make it your own",
+    "long_description": "Building RL environments for the next generation of capabilities in frontier models. ",
+    "one_liner": "RL environments for computer use and software engineering work",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1745867856,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Web Development",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49268,10 +49266,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1761077242,
     "tags": [
-      "Artificial Intelligence",
+      "FinOps",
       "SaaS",
       "B2B",
-      "Compliance"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49337,6 +49335,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/allus-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/allus-ai.json"
+  },
+  {
+    "id": 30899,
+    "name": "Sciloop",
+    "slug": "sciloop",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/26613ce6ce77cc938a057068ce9d4f0548fd4269.png",
+    "website": "https://sciloop.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sciloop automates research, turning seed ideas into publication-ready papers. Its AI generates hypotheses, runs experiments, analyzes results, and writes findings—helping researchers make faster, high-quality discoveries with minimal setup.",
+    "one_liner": "From spark to paper, fully automated scientific discovery",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1761248663,
+    "tags": [
+      "SaaS",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sciloop",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/sciloop.json"
   },
   {
     "id": 30918,

@@ -5680,6 +5680,8 @@
     "slug": "chutney-inc",
     "former_names": [
       "Chutney",
+      "HumBee",
+      "Flasho",
       "HumBee"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4ce42720f9e875d1a3ef445809b60e9d32c83ce7.png",
@@ -5689,7 +5691,7 @@
     "one_liner": "Autonomous AI agents to conduct user interviews for product managers",
     "team_size": 5,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1583799212,
     "tags": [
       "Artificial Intelligence",
@@ -5700,7 +5702,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Productivity"
@@ -7025,7 +7027,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -17676,51 +17678,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/serra.json"
   },
   {
-    "id": 28864,
-    "name": "Outset",
-    "slug": "outset",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b9884cde2f06e46373b20cec776477bb5ff0f4c1.png",
-    "website": "https://outset.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Outset offers AI-powered user interviews to conduct qualitative research. Traditional surveys are fast but lack depth while live interviews produce high quality data but are slow and expensive. Outset uses LLMs to lead interviews and synthesize results so researchers get high quality data 100 times faster. ",
-    "one_liner": "AI-powered user interviews",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1683921315,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Market Research",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/outset",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/outset.json"
-  },
-  {
     "id": 28867,
     "name": "Shasta Health",
     "slug": "shasta-health",
@@ -22035,7 +21992,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e5b6595eedce0fbf3857cfdf876dbd2f0d66a78.png",
     "website": "https://superagent.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superagent is the defense layer for AI agents. It inspects every prompt, response, and tool call at runtime to block prompt injections, data leaks, and backdoors in generated code before they reach production.\r\n\r\nAt the core is SuperagentLM, a small language model trained specifically for agentic security. Unlike rules or filters, it uses reasoning to catch subtle and novel attacks. It’s lightweight and fast — optimized to run inline on CPU or GPU without slowing down your stack.\r\n\r\nSuperagent integrates at the API layer, inside agent frameworks, and in CI/CD pipelines, with a single dashboard for policies, audit logs, and runtime visibility. This gives teams real-time protection and compliance guardrails without slowing down AI adoption.\r\n\r\nLearn more: https://www.superagent.sh/",
+    "long_description": "Superagent provides guardrails that make AI-agents secure and compliant.\r\n\r\nIt’s a suite of purpose-trained small language models that run at runtime to protect, verify, and redact data flowing through AI agents.\r\n\r\n- GUARD blocks unsafe inputs, prompt injections, and malicious tool calls\r\n- VERIFY checks that outputs are factual and policy-aligned\r\n- REDACT removes sensitive data to maintain privacy and compliance\r\n\r\nSuperagent integrates via API, SDK, CLI, MCP, and a web Playground, with a shared dashboard for policies, logs, and compliance visibility.",
     "one_liner": "Defender of AI agents",
     "team_size": 2,
     "industry": "B2B",
@@ -22558,6 +22515,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/risotto",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/risotto.json"
+  },
+  {
+    "id": 29407,
+    "name": "JustAI",
+    "slug": "justai",
+    "former_names": [
+      "Choice",
+      "Choice AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/166536f94d496e2b50084b3b8edf8b6d9e29040b.png",
+    "website": "https://getjust.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Always-on AI agents for 1-1 personalization at scale",
+    "one_liner": "A modern workflow for lifecycle marketing",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1704840202,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "Workflow Automation",
+      "Personalization",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/justai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/justai.json"
   },
   {
     "id": 29409,
@@ -27249,52 +27254,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/pipeshift.json"
   },
   {
-    "id": 29952,
-    "name": "Ficra",
-    "slug": "ficra",
-    "former_names": [
-      "SignOp",
-      "Ficra",
-      "Ficra (SignOp)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0dc17fe22b167d4939fbd99c8dd3dcf2bb877cd0.png",
-    "website": "https://ficra.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ficra enables product teams to ship higher quality releases, faster. \r\n\r\nFicra is the source of truth for every product screen and user flow, giving companies real-time visibility into what their users actually see in their live product. Ficra's AI provides a live, visual map of your users’ journeys: every screen, flow, A/B test, push notification and email. \r\n\r\nWith Ficra, product teams no longer waste 25% of their time auditing complex user flows to assess product quality and find the blind spots in funnels.",
-    "one_liner": "Real time, source of truth for every product screen and user flow",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1725388449,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Workflow Automation",
-      "Productivity",
-      "Design Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ficra",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/ficra.json"
-  },
-  {
     "id": 29955,
     "name": "BrowserOS",
     "slug": "browseros",
@@ -29585,7 +29544,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -31018,8 +30977,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4c744ee428be44ba894f8b477449386dca44045.png",
     "website": "https://kaelio.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kaelio is the data intelligence platform for enterprise.\r\n\r\nWe unify data from critical systems for tech, healthcare, manufacturing and IoT organizations - giving them a copilot that answers business-critical questions, flags operational risks, and acts to improve operational and financial performance.\r\n\r\nEnterprise organizations are drowning in dashboards they can't act on - or worse, flying blind because they lack the resources. We change that.\r\n\r\nBacked by Y Combinator & venture funding.",
-    "one_liner": "AI operating system for healthcare organizations",
+    "long_description": "Kaelio is the unified intelligence layer for modern data teams.\r\n\r\nWe connect directly to the warehouse, turning complex models and metrics into a conversational interface that scales insights across the business — without adding to the data team's backlog.\r\n\r\nData leaders are stuck balancing speed and control: business teams need answers now, while data teams need consistency and governance. Kaelio bridges that gap by giving everyone access to trusted, governed insights through a single, intelligent interface.",
+    "one_liner": "Self-serve insights that data teams actually trust",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -31092,6 +31051,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/percival",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/percival.json"
+  },
+  {
+    "id": 30454,
+    "name": "Refresh",
+    "slug": "refresh",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa69690b8b1a0cab958e9bf859bdea3e6735b40c.png",
+    "website": "https://www.refresh.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Building RL environments for the next generation of capabilities in frontier models. ",
+    "one_liner": "RL environments for computer use and software engineering work",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1745867856,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/refresh",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/refresh.json"
   },
   {
     "id": 30455,
@@ -33109,6 +33111,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nuntius.json"
   },
   {
+    "id": 30647,
+    "name": "Cyberdesk",
+    "slug": "cyberdesk",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6deea0aa4e96211ac35f75ade0705df19758a8e.png",
+    "website": "https://www.cyberdesk.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cyberdesk is the first self learning computer use agent for developers to automate desktop workflows. \r\n\r\nFor example, one of our customers is building an AI agent for hospital patient intake, and they’re using us to automate an entire team of people manually clicking and typing into a desktop app to book appointments. \r\n\r\nWe launched mid July, and our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs.\r\n\r\nWe’ve built the first computer use agent that memorizes tasks and repeats them quickly while still adapting to unexpected changes on the screen. A good analogy is to how humans use computers: once we get used to an app, we use it much faster, while still adapting to random popups and crashes. This new paradigm for computer use will be needed by every company automating human workflows on computers.\r\n\r\nMahmoud previously built robotic process automation solutions impacting 20K+ employees at a Fortune 100 company. He also built AI & ML solutions at Baylor College of Medicine Neuroscience & Texas Children's Hospital + co-published a paper at the Rice Networks Group. \r\n\r\nAlan is ex-NASA and previously dropped out to be the first founding engineer at a PearX startup. He is a second time founder, having previously built and scaled a consumer AI app to thousands of paying users.\r\n\r\nComputer-use agents will automate the $6T dollars spent on enterprise knowledge work and Cyberdesk will be the platform to power this.\r\n\r\nWe’d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
+    "one_liner": "Self learning computer use agent for developers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1749659433,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Robotic Process Automation",
+      "Workflow Automation",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/cyberdesk",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/cyberdesk.json"
+  },
+  {
     "id": 30651,
     "name": "Alter",
     "slug": "alter",
@@ -33321,50 +33366,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/tesora",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/tesora.json"
-  },
-  {
-    "id": 30664,
-    "name": "Kestroll",
-    "slug": "kestroll",
-    "former_names": [
-      "GameHawk"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0cccb3c808b4250a382150aedeb670632036404b.png",
-    "website": "https://www.kestroll.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kestroll is an AI creative designer that produces realistic and on-brand assets for marketing teams.\r\n\r\nKestroll uses generative AI to create product photos and videos that feel authentic and consistent with the brand, allowing companies to localize, experiment, and scale marketing campaigns cheaply and effortlessly.\r\n\r\nInstead of spending thousands on weekly photo or video shoots, hiring models, building sets for every local, or sifting through limited stock libraries, marketing teams can create everything they need from one centralized platform. \r\n\r\nEvery asset reflects the real product and stays on-brand, eliminating tedious review cycles between design and campaign teams.",
-    "one_liner": "Kestroll generates on-brand marketing assets at scale",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1751838348,
-    "tags": [
-      "Artificial Intelligence",
-      "Design",
-      "Marketing",
-      "Advertising"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kestroll",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/kestroll.json"
   },
   {
     "id": 30666,
@@ -35343,45 +35344,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/hyperspell.json"
   },
   {
-    "id": 30860,
-    "name": "Alt-X",
-    "slug": "alt-x",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e07acdd6605048e95201e2d026aebf2bf045e6b.png",
-    "website": "https://alt-x.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Private markets are still opaque, manual, and locked inside Excel. Every year, trillions of dollars in venture, real-estate, and private-equity capital are deployed through diligence processes that haven’t changed in decades. Analysts spend hours parsing PDFs and spreadsheets just to understand what a company or property is worth.\r\n\r\nAlt-X is building the data and AI infrastructure layer for alternative assets — a system that ingests unstructured deal materials, normalizes the data, and generates institutional-grade analysis in seconds. Whether it’s a private-company dataroom or a real-estate offering memorandum, Alt-X extracts key KPIs like ARR, growth, NOI, IRR, and cap rate, then produces investor-ready dashboards and reports automatically.\r\n\r\nOur platform reduces deal evaluation timelines by up to 73%, saves 30–50 analyst hours per deal, and enables teams to screen 4× more opportunities with the same headcount. By automating KPI extraction, benchmarking, and underwriting, Alt-X transforms diligence from a manual bottleneck into a scalable process.\r\n\r\nThis hasn’t been done at scale because private-market data is fragmented across formats and asset classes. Alt-X’s parsing engine unifies this chaos into a structured schema — the backbone for cross-asset underwriting, KPI dashboards, and automated risk scoring.\r\n\r\nOur first wedge is real estate and private equity, where underwriting is slowest and most manual. We’re already piloting with family offices and private funds managing over $200 million in assets, paying $1K–$5K per month to automate deal screening and valuation.\r\n\r\nThe opportunity is massive: over $1.4 trillion in new private-equity and real-estate deals are underwritten globally each year, with $25–30 billion spent on diligence and analytics. Yet over 90% of this still happens manually. Alt-X’s mission is to become the operating system for private-market investing — the Bloomberg Terminal of the AI era.",
-    "one_liner": "AI Diligence Tools for Private Investors",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech",
-    "launched_at": 1761174591,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/alt-x",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/alt-x.json"
-  },
-  {
     "id": 30861,
     "name": "Caddy",
     "slug": "caddy",
@@ -35638,46 +35600,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/veria-labs.json"
   },
   {
-    "id": 30879,
-    "name": "Hypercubic",
-    "slug": "hypercubic",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d7c99fca8e4cc5f92f4512cf22a4fef17d90d66d.png",
-    "website": "https://www.hypercubic.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hypercubic is an AI-native maintenance and modernization platform for mainframes.\r\n\r\nWe help enterprises understand and preserve their mission-critical systems. About 70% of the Fortune 500 still rely on them to run their core business applications in banking, insurance, telecom, airlines, retail, and more.\r\n\r\nThese systems, originally built in the 1960s–90s, still power trillions in global infrastructure but have become increasingly opaque as original developers retire or leave the workforce. \r\n\r\nWe're laying the foundation to autonomously maintain and modernize these legacy systems using frontier AI.\r\n\r\n\r\nLearn more at hypercubic.ai",
-    "one_liner": "AI to maintain and modernize mainframes.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1758931979,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hypercubic",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/hypercubic.json"
-  },
-  {
     "id": 30885,
     "name": "Semble AI",
     "slug": "semble-ai",
@@ -35802,48 +35724,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sellraze.json"
   },
   {
-    "id": 30889,
-    "name": "Nivara",
-    "slug": "nivara",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a74d84cb6d28bdddfdd974f0c136b09455ec5a71.png",
-    "website": "https://getnivara.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI systems now run on complex chains of models, agents, and APIs, yet most teams still lack visibility into where their tokens, time, or compute go.\r\n\r\nNivara gives engineering and finance teams full transparency into AI model and agent usage. Nivara tracks every LLM and agent call, across users, sessions, and workflows, to reveal real spend insights.\r\n\r\nTeams use Nivara to see which agents or models drive the most spend, what each user session costs, and how to optimize prompts or caching to save budget without hurting quality.\r\n\r\nBy unifying token analytics, agent observability, and AI FinOps, Nivara helps teams manage AI usage responsibly, efficiently, and predictably, from startups experimenting with AI features to enterprises orchestrating thousands of agents.\r\n\r\nNivara — Know where your AI dollars go.",
-    "one_liner": "Nivara helps teams understand, control, and optimize their AI spend",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1761077242,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Compliance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nivara",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/nivara.json"
-  },
-  {
     "id": 30895,
     "name": "Allus AI",
     "slug": "allus-ai",
@@ -35939,16 +35819,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3dd38394ff07e1224b748fcf5b78c7df866584d2.png",
     "website": "https://www.redapto.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Redapto fixes the core limitation of today’s agents: they’re static. Teams hit real performance walls because models aren’t optimized for their domain and don’t improve from usage. We help products break that plateau.\r\n\r\nWe bring continuous improvement into your stack: controller models for intelligent context engineering, domain-specialized mid/post-training, automatic feedback pipelines, and self-updating data sources so RAG/search stays accurate. We focus only on what moves the needle for your product, not extra infrastructure.\r\n\r\nWe’re applied researchers who’ve shipped this at scale. At Coinbase, our agent automations save $2.5M+ annually; at Adobe and Amazon, our post-training and compression work saved $1M+ and improved latency 20×. We’ve published at NeurIPS, AAAI, ICLR, and COLING, and we’re building Redapto to make adaptive, evolving agents the new default.",
-    "one_liner": "Self-improving AI agents",
+    "long_description": "Redapto builds self-improving systems for customer support teams that boost CSAT, NRR, and drive repeat purchases.\r\n\r\nSupport quality plateau because agents and QA are static. Less than 5% of interactions are reviewed, missing SOP gaps, hallucinations, and outdated knowledge. Redapto audits 100% of interactions to detect issues, run custom evals, and auto-update SOPs, training, and knowledge bases so teams continuously improve.\r\n\r\nWe’re applied researchers who’ve shipped this at scale. At Coinbase, our agent automations save $2.5M+ annually; at Adobe and Amazon, our post-training and compression work saved $1M+ and improved latency 20×. ",
+    "one_liner": "Self-improving systems for Customer Support Teams",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1759943597,
     "tags": [
       "Artificial Intelligence",
-      "Reinforcement Learning",
-      "B2B"
+      "B2B",
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35957,8 +35837,7 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Infrastructure"
+      "B2B"
     ],
     "regions": [
       "United States of America",
