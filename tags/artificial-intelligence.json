@@ -293,6 +293,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2014/opencurriculum.json"
   },
   {
+    "id": 662,
+    "name": "Checkr",
+    "slug": "checkr",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/211825b572def7bbe7c182d84f166129bc978b6b.png",
+    "website": "http://www.checkr.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Checkr builds people infrastructure for the future of work. And we believe everyone should have a fair chance to work. That's why we've designed a faster—and fairer—way to screen job seekers. For more information on our mission and products, visit https://checkr.com.",
+    "one_liner": "People infrastructure for the future of work",
+    "team_size": 800,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1398907661,
+    "tags": [
+      "Artificial Intelligence",
+      "Compliance",
+      "HR Tech",
+      "API",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": true,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2014",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/checkr",
+    "api": "https://yc-oss.github.io/api/batches/summer-2014/checkr.json"
+  },
+  {
     "id": 707,
     "name": "SalesSift",
     "slug": "salessift",
@@ -3781,15 +3826,15 @@
   },
   {
     "id": 11948,
-    "name": "Centaur Labs",
-    "slug": "centaur-labs",
+    "name": "Centaur",
+    "slug": "centaur",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8bf2233f3d639f46c87be05e11eb153ca925d88.png",
     "website": "https://centaur.ai/",
     "all_locations": "Boston, MA, USA",
     "long_description": "",
     "one_liner": "Labeling medical data at scale",
-    "team_size": 31,
+    "team_size": 45,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1541050478,
@@ -3819,8 +3864,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/centaur-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/centaur-labs.json"
+    "url": "https://www.ycombinator.com/companies/centaur",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/centaur.json"
   },
   {
     "id": 11966,
@@ -15727,53 +15772,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/boundary",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/boundary.json"
-  },
-  {
-    "id": 27943,
-    "name": "Hadrius",
-    "slug": "hadrius",
-    "former_names": [
-      "Quantbase"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/860789e4b5347ff0d9c534e39f80af9c01143ab3.png",
-    "website": "https://www.hadrius.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Hadrius allows regulated financial firms of all sizes to consolidate and automate their compliance processes using AI in one platform. Today, we're securing compliance for $3T+ AUM across our clients.\r\n\r\nWe're building the AI that will regulate the US financial system and the trillions that flows through it.",
-    "one_liner": "Automating Securities Compliance",
-    "team_size": 33,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1668714980,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Compliance",
-      "Regtech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Asset Management"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hadrius",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/hadrius.json"
   },
   {
     "id": 27952,
@@ -28420,49 +28418,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/archilabs.json"
   },
   {
-    "id": 30108,
-    "name": "Edgedive",
-    "slug": "edgedive",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f92fa322d1cca62c4066915fee6ecf728cde156.png",
-    "website": "https://edgedive.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Edgedive is your AI support engineer - embedded in your existing stack (Intercom, Linear, Slack, GitHub, etc.). It: \r\n\r\n- Prioritizes customer issues and requests by impact (frequency, ACV, and severity).\r\n- Auto-investigates issues end-to-end: root cause, impact assessment, plan to fix.\r\n- Opens merge-ready PRs that build cleanly and follow your team’s standards.\r\n\r\nImagine having an always-on teammate who continuously triages customer pain, plans fixes, and pushes code changes so you can start your morning with fresh, mergeable PRs, ready for review.",
-    "one_liner": "The AI Support Engineer",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-    "launched_at": 1727386579,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Enterprise Software",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/edgedive",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/edgedive.json"
-  },
-  {
     "id": 30110,
     "name": "Forerunner AI",
     "slug": "forerunner-ai",
@@ -32366,48 +32321,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/prox.json"
   },
   {
-    "id": 30596,
-    "name": "Adaptional",
-    "slug": "adaptional",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ea52a7c833e951c693eafd9561453164d5bf74c.png",
-    "website": "https://www.adaptional.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Adaptional is the first system of intelligence for insurance. Existing insurance systems organize work. Adaptional AI actually *does* the work.\r\n\r\nOur first product Underwriter AI pre processes every submission for an underwriter. AI extracts data from submission files, validates each data point using public sources, and summarizes risk using your underwriting guidelines.",
-    "one_liner": "AI copilot for insurance underwriters",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1758589841,
-    "tags": [
-      "AIOps",
-      "Artificial Intelligence",
-      "Insurance",
-      "Enterprise",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/adaptional",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/adaptional.json"
-  },
-  {
     "id": 30602,
     "name": "Meteor",
     "slug": "meteor",
@@ -32576,7 +32489,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/229d0f8aee3512a3e3602b0a708550a51a4f5e11.png",
     "website": "https://agentmail.to",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AgentMail is an API email service provider for AI agents. Like Gmail does for humans, we give agents their own email inboxes.",
+    "long_description": "AgentMail is the email inbox API for AI agents. It gives agents their own email inboxes, like Gmail does for humans.",
     "one_liner": "Email Inboxes for AI Agents",
     "team_size": 3,
     "industry": "B2B",
@@ -33109,6 +33022,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nuntius",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nuntius.json"
+  },
+  {
+    "id": 30644,
+    "name": "Wafer",
+    "slug": "wafer",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61e67ddaa1d4587866c39e69423b9cbe84663f41.png",
+    "website": "https://www.wafer.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Host AI models on custom infrastructure optimized for time-sensitive applications. Custom Trained Models, Dedicated Infrastructure, and Protected Data.\r\n\r\nWe provide scalable compute, optimized inference engines, intelligent routing and autoscaling, real-time observability, and kernel-level performance optimizations, with strict SLAs and white-glove support. \r\n\r\nHerdora's long-term bet is maximizing intelligence per watt.\r\n\r\nAI is clearly going to be everywhere. The constraint won't be what models can do, but how much intelligence we can afford to run. \r\n\r\nMost companies waste enormous compute running inference inefficiently. They use the wrong models, bad serving stacks, and infrastructure that wasn't built for their actual workload. We focus on serving enterprises that need the best performance and reliability in the world while keeping control and visibility.",
+    "one_liner": "Optimized AI Inference. Custom Built for Your Stack.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1751530242,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wafer",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/wafer.json"
   },
   {
     "id": 30647,
@@ -36274,7 +36226,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a9c79cb57463cbdc422676b0d9eee7efef195b6a.png",
     "website": "https://denki.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Automate internal auditing (planning, testing, documenting) to comply better with financial regulations.\r\n\r\nDenki is the assurance platform that:\r\n\r\n✔️ Works on existing systems (e.g. Auditboard, Jira, ERPs)\r\n✔️ Automates Control processes (e.g. maps to COSO, runs walkthrough interviews, tests)\r\n✔️ Produces working papers (w/ full audit traces)\r\n\r\nFocused on SOX programs and financial regulations (BSA/AML etc.)",
+    "long_description": "Automate internal auditing (planning, testing, documenting) to comply better with financial regulations.\r\n\r\nDenki is the assurance platform that:\r\n\r\n✔️ Works on existing systems (e.g. Auditboard, Workiva, ERPs)\r\n✔️ Automates Control processes (e.g. collects evidence, runs walkthrough interviews, tests)\r\n✔️ Records every step for traceability (workpapers w/ full audit trace)\r\n\r\nFocused on SOX programs and financial regulations (BSA/AML etc.)",
     "one_liner": "AI for Auditors at Public Companies",
     "team_size": 3,
     "industry": "B2B",
@@ -36519,6 +36471,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stratus-aviation",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/stratus-aviation.json"
+  },
+  {
+    "id": 31005,
+    "name": "MarkIt",
+    "slug": "markit",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e5614f0ff0430254c23e0743e5e0490fb5f826c.png",
+    "website": "https://markittrade.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "MarkIt builds AI agents that work directly inside the workflows trade professionals use every day — Excel, PDFs, broker portals, and more. \r\nFrom defensible classification, ACE report optimization, and a self-updating system of record, it serves trade professionals end to end with agents intelligent enough to work in the complex environment. \r\n\r\nMarkIt brings reasoning, memory, and automation to global trade compliance, helping Suppliers, Brokers, and OEMs reduce errors, save time, and streamline operations in the growingly intense world of Global Trade.",
+    "one_liner": "Silver Bullet for Trade Compliance",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1759442158,
+    "tags": [
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Logistics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/markit",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/markit.json"
   },
   {
     "id": 31013,

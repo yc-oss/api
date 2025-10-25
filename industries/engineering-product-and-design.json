@@ -6776,12 +6776,12 @@
     "former_names": [
       "ditto"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c7e5700b37d004a21b21f411b10e188028b085.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67b6abfadc5a19f4c88a3f0a313d456b72a54725.png",
     "website": "http://dittowords.com",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Manage the words across your team’s product from design to production.",
     "one_liner": "Manage the words across your team’s product from design to production.",
-    "team_size": 13,
+    "team_size": 14,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1583898492,
@@ -20121,12 +20121,11 @@
     "launched_at": 1725301012,
     "tags": [
       "Developer Tools",
-      "Chat",
       "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -20673,18 +20672,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f92fa322d1cca62c4066915fee6ecf728cde156.png",
     "website": "https://edgedive.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Edgedive is your AI support engineer - embedded in your existing stack (Intercom, Linear, Slack, GitHub, etc.). It: \r\n\r\n- Prioritizes customer issues and requests by impact (frequency, ACV, and severity).\r\n- Auto-investigates issues end-to-end: root cause, impact assessment, plan to fix.\r\n- Opens merge-ready PRs that build cleanly and follow your team’s standards.\r\n\r\nImagine having an always-on teammate who continuously triages customer pain, plans fixes, and pushes code changes so you can start your morning with fresh, mergeable PRs, ready for review.",
+    "long_description": "Edgedive is your AI support engineer - embedded where your team already works (Intercom, Linear, Slack, GitHub, etc.). It:\r\n\r\n- Auto-investigates issues end-to-end: root cause, impact assessment, plan to fix.\r\n- Opens merge-ready PRs that build cleanly and follow your team’s standards.\r\n- Can be triggered from Slack, Linear, Github, or automatically from support tickets or alerts (ex. Intercom, Sentry, etc)\r\n\r\nIt’s like having a 24/7 teammate who continuously triages issues, plans fixes, and pushes merge-ready code changes so you can start your morning with high-quality PRs, ready for review.",
     "one_liner": "The AI Support Engineer",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "launched_at": 1727386579,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
+      "DevOps",
       "Enterprise Software",
-      "Operations"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23009,20 +23008,20 @@
   },
   {
     "id": 30644,
-    "name": "Herdora",
-    "slug": "herdora",
+    "name": "Wafer",
+    "slug": "wafer",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/179683a8dd97e578123332a8c5364707962a3392.png",
-    "website": "https://www.herdora.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61e67ddaa1d4587866c39e69423b9cbe84663f41.png",
+    "website": "https://www.wafer.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Herdora is building the inference layer for mission-critical AI workloads. We provide scalable compute, optimized inference engines, intelligent routing and autoscaling, real-time observability, and kernel-level performance optimizations, with strict SLAs and white-glove support. \r\n\r\nHerdora's long-term bet is maximizing intelligence per watt.\r\n\r\nAI is clearly going to be everywhere. The constraint won't be what models can do, but how much intelligence we can afford to run. \r\n\r\nMost companies waste enormous compute running inference inefficiently. They use the wrong models, bad serving stacks, and infrastructure that wasn't built for their actual workload.\r\n\r\nWe focus on serving enterprises that need the best performance and reliability in the world while keeping control and visibility. They bring their model to Herdora, and we serve back an optimized version. Same quality, 2-10x the speed, fraction of the cost, and strict SLOs. ",
-    "one_liner": "Fast AI Inference",
+    "long_description": "Host AI models on custom infrastructure optimized for time-sensitive applications. Custom Trained Models, Dedicated Infrastructure, and Protected Data.\r\n\r\nWe provide scalable compute, optimized inference engines, intelligent routing and autoscaling, real-time observability, and kernel-level performance optimizations, with strict SLAs and white-glove support. \r\n\r\nHerdora's long-term bet is maximizing intelligence per watt.\r\n\r\nAI is clearly going to be everywhere. The constraint won't be what models can do, but how much intelligence we can afford to run. \r\n\r\nMost companies waste enormous compute running inference inefficiently. They use the wrong models, bad serving stacks, and infrastructure that wasn't built for their actual workload. We focus on serving enterprises that need the best performance and reliability in the world while keeping control and visibility.",
+    "one_liner": "Optimized AI Inference. Custom Built for Your Stack.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751530242,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23043,8 +23042,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/herdora",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/herdora.json"
+    "url": "https://www.ycombinator.com/companies/wafer",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/wafer.json"
   },
   {
     "id": 30645,
@@ -23689,6 +23688,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/movedot",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/movedot.json"
+  },
+  {
+    "id": 30859,
+    "name": "Locus",
+    "slug": "locus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6b08ce8aca208a12d25814139b7745b30544200.png",
+    "website": "https://paywithlocus.com",
+    "all_locations": "",
+    "long_description": "We make your agents pay.\r\n\r\nAs agents evolve from tools into dependable, autonomous actors, they’ll need the ability to execute open-ended workflows end-to-end.\r\n\r\nThis inevitably means payments: accessing paywalled data, transacting for services or with other specialist agents. But autonomy requires guardrails. Businesses and developers will need a way to ensure their agents only spend how much and on what they’re supposed to.\r\n\r\nThe machine economy is coming, and Locus (YC F25) is building the connector businesses will need to participate. We connect agents securely to funds, letting you define permissions and limits for every transaction. Each payment is traceable, auditable, and fully reconcilable with your existing financial stack.",
+    "one_liner": "Payment infrastructure for agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1761342337,
+    "tags": [
+      "Finance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/locus",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/locus.json"
   },
   {
     "id": 30861,
