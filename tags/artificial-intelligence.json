@@ -12334,7 +12334,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -13740,50 +13740,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/homli",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/homli.json"
-  },
-  {
-    "id": 27141,
-    "name": "Avina",
-    "slug": "avina",
-    "former_names": [
-      "Mesh Interactive"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79195177640dfecbfedb5a0b006bbe3683aa1f14.png",
-    "website": "https://avina.io",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Avina uses AI agents to find prospects that are ready to buy, surface the warmest ones to your team and automate outreach to the rest.\r\n\r\nCompare us to tools like Unify or Common Room.",
-    "one_liner": "GTM signals engine for sales teams. Automate warm outbound with AI.",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1673552937,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Sales",
-      "Marketing"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avina",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/avina.json"
   },
   {
     "id": 27152,
@@ -15239,29 +15195,29 @@
   },
   {
     "id": 27867,
-    "name": "TruthSuite",
-    "slug": "truthsuite",
+    "name": "DataSuite",
+    "slug": "datasuite",
     "former_names": [
       "Extensional AI",
       "Extensional",
       "Extensional AI",
       "Anarchy AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7a6e691a37cf8ccaf8d7f5a7a06674c06c0a4659.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/98dc541fc5fbbef1e6c9baee61264602e4e64531.png",
     "website": "https://truthsuite.com",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "TruthSuite provides a comprehensive platform to supercharge the due-diligence and research processes for lawyers and other professionals for whom the truth matters.  Lawyers use TruthSuite to uncover consistent versions of events as well as identify misinformation in testimonials.\r\n\r\nPrev. Anarchy Labs",
-    "one_liner": "AI Fact Checking for Lawyers",
+    "long_description": "DataSuite provides a way to manage and collect multi-terabyte multi-media datasets, and train generative models (diffusion, gan, interactive video) models based on them.  \r\n\r\nWe make it trivial for non-technical builders to create their own networks by providing an instant way to collect with AI without worrying about data formats, unzipping power, caching, or data locality.",
+    "one_liner": "Dataset Management for AI Trainers",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1669080392,
     "tags": [
       "Artificial Intelligence",
+      "Developer Tools",
       "Generative AI",
       "Machine Learning",
-      "Legal",
-      "LegalTech"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -15284,8 +15240,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/truthsuite",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/truthsuite.json"
+    "url": "https://www.ycombinator.com/companies/datasuite",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/datasuite.json"
   },
   {
     "id": 27869,
@@ -16799,6 +16755,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/branch-ai.json"
   },
   {
+    "id": 28778,
+    "name": "Xeol",
+    "slug": "xeol",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d8557d5066f2f1e94f1be8ddc427697b79cc8d1.png",
+    "website": "https://www.xeol.io/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Pronounced Zee-O-L. \r\n\r\nEnd-of-life (EOL) and outdated software are a black box of vulnerabilities with very limited remediation paths. These 2 factors combine to make managing them a necessary proactive practice. Xeol enables enterprises and Fortune 500s to create a proactive EOL management program that directly contributes to better vulnerability management and lower cyber insurance. ",
+    "one_liner": "Close your outdated dependency attack vector",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1689618282,
+    "tags": [
+      "Artificial Intelligence",
+      "Security",
+      "Cybersecurity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/xeol",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/xeol.json"
+  },
+  {
     "id": 28780,
     "name": "Clearest Health",
     "slug": "clearest-health",
@@ -17842,47 +17839,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/repaint.json"
   },
   {
-    "id": 28884,
-    "name": "Dialtone",
-    "slug": "dialtone",
-    "former_names": [
-      "Samtana"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8ccd4f004a0fc03052f9e9b433519a7d7c47f8d7.png",
-    "website": "https://usedialtone.com",
-    "all_locations": "",
-    "long_description": "Dialtone helps enterprises transform cross-functional, cross-system tasks into intelligent, self-running AI agents - all with your existing enterprise security controls. Companies across technology, sports and entertainment, healthcare, finance, and retail deploy Dialtone Agents to automate both internal operations and customer-facing processes.\r\n\r\nWhat sets us apart:\r\n1. Agentic AI delivered on day one: Our platform couples cutting-edge AI infrastructure with built-in reliability, security, and observability so teams can launch production-grade agents in days, not months.\r\n2. White-glove engineering included: Dedicated engineering support to help end-to-end, from scoping to launch to continuous optimization - at no extra cost.\r\n3. Success over software: We measure our impact by real business outcomes, not seat counts. If our agents aren’t moving the needle, we’re not done.\r\n\r\nHow it works:\r\n1.No-code Agent Builder - Design, test, deploy, and run agents in an intuitive UI anyone can use. All backed by Dialtone’s best-in-class AI infrastructure and agent orchestration platform.\r\n2. Humans in the loop - Employees can seamlessly collaborate with agents when human input or oversight is required.\r\n3. Triggers + Surfaces - Configure agents to run on integration events, time based schedules, or arbitrary webhooks - all in an easy-to-use UI. Or, use and talk with agents from your existing chat and email surfaces.\r\n4. Integrations Library - 100+ (and counting) first-party data, action, and event connectors for the software and tools you already depend on.\r\n5. Observability - View every step of any agentic flow with easily parseable real-time logs and traces for rapid debugging, optimization, and auditing.\r\n6. Custom Integrations + API - Extend agents with your proprietary systems and software using your existing OpenAPI specs and MCP servers. Need even more customization? Programmatically create, orchestrate, and monitor agents from your own codebase.\r\n",
-    "one_liner": "AI agents for enterprises",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "Consumer -> Social",
-    "launched_at": 1688669019,
-    "tags": [
-      "Artificial Intelligence",
-      "Enterprise",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dialtone",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/dialtone.json"
-  },
-  {
     "id": 28887,
     "name": "Skyvern",
     "slug": "skyvern",
@@ -18198,8 +18154,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd8134cbe5b8ea696157c320672eb55cc8649540.png",
     "website": "https://empirical.health",
     "all_locations": "New York, NY, USA",
-    "long_description": "The best way to measure, predict, and prevent heart disease. Heart disease kills more people than all cancers combined, but is 90% preventable -- we use AI to deliver preventive heart health at scale. Licensed, registered, and insured to deliver real medical care in 30+ US states.",
-    "one_liner": "Don't die of a heart attack",
+    "long_description": "Preventive heart health. Don't die of a heart attack -- use Empirical Health to measure 100+ biomarkers, predict your future risk of heart disease, and create a customized prevention plan with a doctor.\r\n\r\nWe AI to deliver preventive health at scale.\r\n\r\nWe're licensed, registered, and insured to deliver real medical care in 30+ US states covering 200m+ people.",
+    "one_liner": "Don't die of  heart attack. Scaling preventive heart health with AI.",
     "team_size": 4,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
@@ -18208,8 +18164,8 @@
       "Artificial Intelligence",
       "Generative AI",
       "Machine Learning",
-      "Healthcare",
-      "AI Assistant"
+      "Consumer Health Services",
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -32098,6 +32054,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/code-four.json"
   },
   {
+    "id": 30543,
+    "name": "Cactus",
+    "slug": "oncactus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b17acc0c0aa0c02481e7a3a2117028126178942.png",
+    "website": "https://oncactus.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cactus is the 24/7 AI call center built for home service businesses. Our AI answers calls, qualifies customers, books jobs, and follows up automatically, helping business owners capture more leads and retain more customers - all without hiring additional staff.",
+    "one_liner": "24/7 AI Call Center for Home Services",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1746571239,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/oncactus",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/oncactus.json"
+  },
+  {
     "id": 30545,
     "name": "StarSling",
     "slug": "starsling",
@@ -32511,49 +32507,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/agentmail",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/agentmail.json"
-  },
-  {
-    "id": 30613,
-    "name": "Blank Bio",
-    "slug": "blank-bio",
-    "former_names": [
-      "Orthrus Bio"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be87bc4cb37ba90fa0907b54d6337ec3f0723a2f.png",
-    "website": "http://blank.bio/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Blank Bio builds foundation models that understand RNA, the language of life. Our model powers applications across the entire R&D pipeline, from designing better drugs to running smarter clinical trials. \r\n\r\nOur first model is state-of-the-art in mRNA property prediction. It simulates costly experiments, helping partners design more effective mRNA medicines faster and cheaper. Our open-source models are being used by Sanofi & GSK. We’re also collaborating with the Arc Institute to bring our RNA embeddings into the next generation of virtual cell models. \r\n\r\nmRNA design is just the beginning. As the model improves, we’re extending to applications like target ID, novel biomarker discovery, patient stratification, and more. We’ve spent decades applying machine learning to biology across academia (PhDs at the University of Toronto) and industry (Recursion, Deep Genomics, Amazon). \r\n\r\nContact us to learn more: founders@blank.bio ",
-    "one_liner": "RNA-based AI for better drugs and smarter clinical trials.",
-    "team_size": 3,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Therapeutics",
-    "launched_at": 1754432955,
-    "tags": [
-      "AI-powered Drug Discovery",
-      "Artificial Intelligence",
-      "Biotech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Therapeutics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/blank-bio",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/blank-bio.json"
   },
   {
     "id": 30615,
@@ -35289,7 +35242,7 @@
   {
     "id": 30857,
     "name": "Aspect",
-    "slug": "aspect-2",
+    "slug": "aspect-inc",
     "former_names": [
       "Auler"
     ],
@@ -35327,8 +35280,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aspect-2",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/aspect-2.json"
+    "url": "https://www.ycombinator.com/companies/aspect-inc",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/aspect-inc.json"
   },
   {
     "id": 30859,
@@ -35795,6 +35748,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/multifactor.json"
   },
   {
+    "id": 30907,
+    "name": "Logical",
+    "slug": "logical",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2b42e4b482076bb918488b3c6413ecb91ebf8e4.png",
+    "website": "https://trylogical.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Logical is a desktop AI that acts as a proactive and largely promptless copilot, designed to reduce the friction of using AI for everyday tasks. It transfers context across apps, and allows taking action on many apps with just a few clicks. Logical can assist with drafting emails, writing docs, noting meetings and can even automatically detect action items. Need to prompt? Logical can understand intent in much fewer words than a regular chatbot. Plus, we never send user data to our servers.",
+    "one_liner": "A hyper context-aware and proactive desktop AI copilot",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1761643617,
+    "tags": [
+      "Artificial Intelligence",
+      "Productivity",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/logical",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/logical.json"
+  },
+  {
     "id": 30910,
     "name": "Aleph Lab",
     "slug": "aleph-lab",
@@ -35875,6 +35869,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/redapto",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/redapto.json"
+  },
+  {
+    "id": 30916,
+    "name": "Bellman",
+    "slug": "bellman",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be661dea8f47a3f8abccf2a96eac3ff45c4977d8.png",
+    "website": "https://www.bellmanai.work/",
+    "all_locations": "",
+    "long_description": "We are a team of ex-Mercor, Databricks, Google and Bespoke Labs Engineers building out a platform to empower the next generation of Market Research. \r\n\r\nWe assist in designing interviews, sourcing thousands of participants, and conducting AI-powered research at unprecedented scale. Get actionable insights in hours, not weeks.\r\n\r\nWe've built our custom analytics layer capable of working through 1000s of transcripts to extract truly meaningful insights.",
+    "one_liner": "Granular Customer Research at Scale",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1761690618,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Analytics",
+      "Market Research"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bellman",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/bellman.json"
   },
   {
     "id": 30918,
@@ -36633,6 +36668,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stratus-aviation",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/stratus-aviation.json"
+  },
+  {
+    "id": 30995,
+    "name": "Velvet",
+    "slug": "velvet",
+    "former_names": [
+      "Inline",
+      "Lenscape"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f333f0eb8eb873e8e242bef88d7d4fbf13bfc08.png",
+    "website": "https://velvet.video",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Velvet is a video editing suite, like Adobe Premiere, but for generating cinematic AI videos. Our team worked on video generation at Meta's FAIR lab and infra at Adobe, and we’re building the single tool for creative teams to generate AI video assets.",
+    "one_liner": "The editing suite for cinematic AI video",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1761236237,
+    "tags": [
+      "Artificial Intelligence",
+      "Video",
+      "Media",
+      "Advertising",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/velvet",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/velvet.json"
   },
   {
     "id": 31005,
