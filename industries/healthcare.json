@@ -1533,9 +1533,11 @@
   },
   {
     "id": 756,
-    "name": "Atomwise",
-    "slug": "atomwise",
-    "former_names": [],
+    "name": "Numerion Labs",
+    "slug": "numerion-labs",
+    "former_names": [
+      "Atomwise"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc6810884fa3c539339f699bd31d9589c49898d2.png",
     "website": "http://atomwise.com",
     "all_locations": "San Francisco, CA, USA",
@@ -1573,8 +1575,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/atomwise",
-    "api": "https://yc-oss.github.io/api/batches/winter-2015/atomwise.json"
+    "url": "https://www.ycombinator.com/companies/numerion-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2015/numerion-labs.json"
   },
   {
     "id": 783,
@@ -13426,49 +13428,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trestle-biotherapeutics",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/trestle-biotherapeutics.json"
-  },
-  {
-    "id": 22660,
-    "name": "Snazzy",
-    "slug": "snazzy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c8d3e566cfb6263640443cef4c7ba62927e9be98.png",
-    "website": "https://snazzy.in",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "Snazzy is a teledentistry platform for teeth straightening. Our goal is to democratize access to affordable and accessible clear aligner treatment. We leverage teledentistry and offer the highest quality aligners at a fraction of what others charge.",
-    "one_liner": "Making clear aligners accessible and affordable in India",
-    "team_size": 40,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1616190399,
-    "tags": [
-      "Healthcare",
-      "India",
-      "Dental"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/snazzy",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/snazzy.json"
   },
   {
     "id": 22661,
@@ -25919,19 +25878,25 @@
   },
   {
     "id": 30124,
-    "name": "Helpcare AI",
-    "slug": "helpcare-ai",
+    "name": "Careforce (prev. Helpcare AI)",
+    "slug": "careforce-prev-helpcare-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b2c3f4ae5f8eac9c8aab884078420acf64664c2b.png",
-    "website": "https://helpcare.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6784593709cc6c24d2c3397f86bf70db9efc63c.png",
+    "website": "https://careforce.ai/",
     "all_locations": "",
-    "long_description": "Helpcare builds AI Workers for healthcare orgs to take on coordination burden from staff and reduce time of care by autonomously identifying and outreaching patients (through phone, text, email, & mail) to schedule visits, book screenings, complete pre-post, and onboard. \r\n\r\nThese agents require no integration, can navigate all tools, speak 29 languages, come with 50+ outreach scripts and have a remarkable 80% conversation-to-booking closing rate.",
+    "long_description": "Careforce builds AI Workers for healthcare orgs to take on coordination burden from staff and reduce time of care by autonomously identifying and outreaching patients (through phone, text, email, & mail) to schedule visits, book screenings, complete pre-post, and onboard. \r\n\r\nThese agents require no integration, can navigate all tools, speak 29 languages, come with 50+ outreach scripts and have a remarkable 80% conversation-to-booking closing rate.",
     "one_liner": "AI Workers for Healthcare Orgs to Find, Call & Schedule More Patients.",
     "team_size": null,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1730747199,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Healthcare",
+      "Healthcare IT",
+      "Call Center"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -25951,8 +25916,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/helpcare-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/helpcare-ai.json"
+    "url": "https://www.ycombinator.com/companies/careforce-prev-helpcare-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/careforce-prev-helpcare-ai.json"
   },
   {
     "id": 30131,
@@ -27211,22 +27176,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/284bcf8fd014c43e486fa3243ceddc4a1b5a8484.png",
     "website": "https://www.novaflowapp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Novaflow is the AI data analyst for biology labs. \r\n--\r\nBioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months.\r\n\r\nIn just 7 weeks, we have acquired customers at 9 institutions including UCSF, Mount Sinai, UC Berkeley, and Harvard.",
+    "long_description": "Novaflow is the AI data analyst for biology labs. \r\n--\r\nBioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months.\r\n\r\nResearchers at leading institutions like UCSF, Mount Sinai, UC Berkeley, and Harvard are already using Novaflow in their labs.",
     "one_liner": "The AI data analyst for biology labs",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1753390612,
-    "tags": [
-      "Biotech",
-      "Analytics",
-      "Genomics",
-      "No-code",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -27252,23 +27211,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9759643303306b86f190396a0aa959a693947140.png",
     "website": "https://avelishealth.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "𝐖𝐡𝐲 𝐰𝐞 𝐛𝐮𝐢𝐥𝐭 𝐭𝐡𝐢𝐬:\r\nI (Angel) have had three knee surgeries since my mid-teens and was billed more than $250K for care that should have cost a fraction of that. Fighting those inflated charges was so painful that we set out to build a consumer-facing AI agent to do it for others. In less than five months, we helped sixty patients erase or reduce over $300K from their medical bills.\r\n\r\nThis inspired us to fix the problem farther upstream: stopping bad payments before the patient ever sees a bill. So we launched payment integrity, machine-learning models that audit every medical claim for self-insured employers and health plans in real time.\r\n\r\n𝐓𝐡𝐞 𝐏𝐫𝐨𝐛𝐥𝐞𝐦:\r\n• Self-insured employers waste $60 B+ each year on claims that never should have been paid. Healthcare is the 2nd largest company expense after payroll.\r\n\r\n• Manual audits are slow and partial: Reviewers focus only on high-dollar claims, letting millions more slip through unnoticed.\r\n\r\n• Existing audit software is static: Decades-old rule engines can’t keep pace with evolving codes, contracts, or billing tactics.\r\n\r\n• Incentives are misaligned: Third-party administrators are paid to process claims, not to police them, so accuracy checks are minimal.\r\n\r\n𝐎𝐮𝐫 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧:\r\nOur models audit medical claims before and after payments have been issued. We catch nuanced billing, coding, and contract errors to save 3-7% on annual claims spend. We work with self-insured employers and health plans.\r\n\r\n𝐀𝐛𝐨𝐮𝐭 𝐔𝐬:\r\nAngel Onuoha (CEO) and Ahmad Shehu (CTO) have worked together for 4 years. Before Avelis Health they built Zuvy, a Lagos-based fintech company that provided invoice factoring to small businesses. Zuvy was acquired by The BAS Group in 2025.",
     "one_liner": "We audit medical claims for self-insured employers and health plans.",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1753718864,
-    "tags": [
-      "SaaS",
-      "Healthcare",
-      "Health Insurance",
-      "Healthcare IT",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -27277,8 +27230,7 @@
       "Healthcare IT"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,

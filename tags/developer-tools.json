@@ -18744,7 +18744,7 @@
     "former_names": [
       "Thunder"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/501bda7eaf23c59e167bae838b7a5bc2328b2fdb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2623539c5a9dddb54681db96f38cf2be0f9428d9.png",
     "website": "https://www.thundercompute.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Self-serve GPUs in VS Code with persistent storage, snapshots, and hot-swappable hardware, with prices 80% lower than AWS.",
@@ -18754,11 +18754,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1723245936,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
       "Cloud Computing",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19314,18 +19314,18 @@
       "Melty",
       "Chorus"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a811c5f5bc8e1c9739a69487c00a23298cda0e19.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cd38e31ad4112f27dcddd9c52ef2f8fc0e2fbab.png",
     "website": "https://conductor.build",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Each Claude gets an isolated workspace. See who’s working, see who’s stuck, and what’s changed.",
-    "one_liner": "Run a bunch of Claude Codes in parallel",
+    "one_liner": "Run coding agents in parallel",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725301012,
     "tags": [
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20826,6 +20826,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cubic",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/cubic.json"
+  },
+  {
+    "id": 30428,
+    "name": "Capacitive",
+    "slug": "capacitive",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40c96e80ab5fc53e3ad2af87fa471c14586b633f.png",
+    "website": "https://capacitive.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We supercharge agents from Cursor to AgentKit with product and team-level context. Connect us once to where your internal data lives, then create secure data gateways with granular cross-platform permissions, comprehensive monitoring, and robust security filtering.",
+    "one_liner": "The data gateway for agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1746399469,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/capacitive",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/capacitive.json"
   },
   {
     "id": 30431,
@@ -22403,21 +22444,21 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8874713141e02cb143838e685aab73861963b373.png",
     "website": "https://interfere.com",
-    "all_locations": "",
+    "all_locations": "New York, NY, USA",
     "long_description": "",
-    "one_liner": "Next-gen observability that finds & fixes bugs automatically",
-    "team_size": 2,
+    "one_liner": "Build software that never breaks",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752094986,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Design",
-      "AI"
+      "Design"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -22426,7 +22467,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -22895,6 +22937,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/metorial.json"
   },
   {
+    "id": 30969,
+    "name": "Lemma",
+    "slug": "uselemma",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c12ccaaa4d43530a4f13abb208362f187f33e86d.png",
+    "website": "https://www.uselemma.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lemma enables AI agents to continuously improve using real user feedback and production outcomes. Instead of relying on manual prompt tuning and reactive debugging, Lemma detects when an agent’s performance drifts, pinpoints the exact step causing failures, generates optimized prompt candidates, and automatically delivers improvements through our API or by opening a pull request in your codebase. \r\n\r\nBuilt by ex-AI engineers who felt this pain firsthand, Lemma turns static agents into self-improving systems, helping teams ship reliable AI products faster with compounding performance gains over time. \r\n\r\nDeploy once. Learn forever.",
+    "one_liner": "Continuous learning for AI agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1761703288,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/uselemma",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/uselemma.json"
+  },
+  {
     "id": 31001,
     "name": "Fastshot",
     "slug": "fastshot",
@@ -22990,9 +23075,9 @@
     "subindustry": "B2B",
     "launched_at": 1761590258,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
