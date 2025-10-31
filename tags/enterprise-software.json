@@ -1221,7 +1221,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -2095,50 +2095,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/trycardinal.json"
   },
   {
-    "id": 28745,
-    "name": "Nectar",
-    "slug": "nectar",
-    "former_names": [
-      "Pairly Climate",
-      "Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7411f4ecb5153ac85174724f663e8e21142f624a.png",
-    "website": "https://nectarclimate.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nectar is a utility data management platform that automates the collection and processing of energy, water, and waste data for organizations worldwide. By connecting to over 7,000 utility providers, Nectar delivers highly accurate, granular usage and cost data, enabling energy and sustainability teams to achieve 100% data completeness for energy brokering, buildings management, and carbon accounting. With seamless integration into existing systems, Nectar reduces manual effort, minimizes errors, and provides a centralized solution for comprehensive utility data management.",
-    "one_liner": "Collecting utility data for energy managers and sustainability teams",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1688762834,
-    "tags": [
-      "B2B",
-      "Climate",
-      "Enterprise Software",
-      "ClimateTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nectar",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/nectar.json"
-  },
-  {
     "id": 28816,
     "name": "Contour",
     "slug": "contour",
@@ -2838,15 +2794,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "CommodityAI builds intelligent automation agents for some of the most operationally complex businesses in the world: physical commodity traders.\r\n\r\nIn trading operations, critical data is often buried in spreadsheets, emails, PDFs, and legacy systems — making workflows slow, error-prone, and overly manual. CommodityAI acts as a digital operator, continuously reading, interpreting, and updating information across the trade lifecycle to keep records accurate and systems in sync.\r\n\r\nOur agents extract and validate key details from trade confirmations, contracts, vessel updates, and more — turning scattered, unstructured data into clean, structured records that flow directly into CTRMs, ERPs, and other core platforms. No manual entry required.\r\n\r\nBy automating what others still do by hand, we help trading teams move faster, reduce risk, and focus on the decisions that matter most.",
     "one_liner": "AI that automates commodity operations",
-    "team_size": 3,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1710175582,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
