@@ -2556,43 +2556,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2015/tesorio.json"
   },
   {
-    "id": 902,
-    "name": "Verge Genomics",
-    "slug": "verge-genomics",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4cfdad3584cced8a30fec859292e2380372a30d.png",
-    "website": "http://vergegenomics.com",
-    "all_locations": "",
-    "long_description": "Verge uses artificial intelligence and human data to develop better drugs faster. Verge has an end-to-end technology-driven drug discovery and development platform, featuring one of the field’s largest and most comprehensive proprietary patient genomics datasets from human tissue. Verge uses machine learning to mine this data and develops these insights into new drugs using it’s human-centric biology and chemistry platforms. ",
-    "one_liner": "We use human data and AI to develop better drugs faster.",
-    "team_size": 50,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Drug Discovery and Delivery",
-    "launched_at": 1430156118,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2015",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Drug Discovery and Delivery"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/verge-genomics",
-    "api": "https://yc-oss.github.io/api/batches/summer-2015/verge-genomics.json"
-  },
-  {
     "id": 913,
     "name": "Drip Capital",
     "slug": "drip-capital",
@@ -33146,7 +33109,7 @@
     "all_locations": "Berlin, Berlin, Germany; Remote",
     "long_description": "AccessOwl automates employee SaaS account provisioning and permissioning for any tool. IT teams from companies like Zeplin and Sary save 30 minutes on every request.\r\n\r\nAccess management used to be an enterprise problem. With work from home, exploding SaaS usage and the need for SOC2 certifications startups have the same problems as enterprises. \r\n\r\nMathias and Philip have built several startups and teams before and experienced the same problems around access management over and over again. Philip was the CEO and Co-Founder of blik, an award winning IoT solution that was used by Volkswagen and BMW. Mathias built the leading private payment infrastructure provider in Germany as well as the first digital car insurance as Co-Founder and CTO. Based on these experiences we decided to build a solution we wish we could have used when building our former companies.\r\n\r\nAccessOwl can be deployed within minutes instead of weeks by simply installing a Slack application. We save companies that use AccessOwl 30 minutes for every access request, on- and offboarding. ",
     "one_liner": "Managing your Employees' Access to SaaS",
-    "team_size": 8,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1655853975,
@@ -46408,22 +46371,22 @@
   },
   {
     "id": 29646,
-    "name": "Corgi",
-    "slug": "corgi",
+    "name": "Corgi Insurance",
+    "slug": "corgi-insurance",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f66899a62764756d799d5abc511dc4b46f8c151.png",
     "website": "https://corgi.insure",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corgi is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We’re taking it all.",
+    "long_description": "Corgi Insurance is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We’re taking it all.",
     "one_liner": "Corgi is building an AI insurance company",
     "team_size": 70,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1720644316,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46444,8 +46407,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/corgi",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/corgi.json"
+    "url": "https://www.ycombinator.com/companies/corgi-insurance",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/corgi-insurance.json"
   },
   {
     "id": 29647,
@@ -56283,14 +56246,19 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cb9ce1e52f71e5db25b0bce11fcb9be12a15f7d.png",
     "website": "https://www.embedder.dev/",
-    "all_locations": "",
-    "long_description": "Embedder is a coding agent that can write and test firmware on real hardware.\r\n\r\nToday's coding agents (Claude Code, Cursor, Windsurf, etc.) are optimized for software engineering tasks. They lack the hardware-specific context required to program embedded systems, resulting in plausible-looking code that is functionally useless on a real device. Embedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Embedder is a coding agent that can write and test firmware on real hardware.\r\n\r\nGeneral-purpose coding agents lack the hardware-specific context required to program embedded systems, resulting in plausible-looking code that is functionally useless on a real device. Embedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
     "one_liner": "Coding Agent for Firmware",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752258104,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Hardware",
+      "B2B"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -56302,7 +56270,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
