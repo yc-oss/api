@@ -4251,7 +4251,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -37662,7 +37662,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "InspectMind AI is transforming how construction, engineering, and real estate professionals conduct field inspections. Our AI-driven platform automates report writing, reducing manual effort by up to 80%. InspectMind AI enables users to generate high-quality inspection reports in minutes instead of hours.\r\n\r\nWe provide industry-specific report templates for job site observations, forensic evaluations, structural assessments, mold inspections, and more. Our platform streamlines the entire inspection workflow, ensuring faster project delivery, improved accuracy, and seamless collaboration.\r\n",
     "one_liner": "AI-powered site inspections and automated field reports.",
-    "team_size": 10,
+    "team_size": 5,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
     "launched_at": 1705128056,
@@ -41607,17 +41607,19 @@
   },
   {
     "id": 30183,
-    "name": "NextByte",
-    "slug": "nextbyte",
-    "former_names": [],
+    "name": "Tweeks.io",
+    "slug": "tweeksio",
+    "former_names": [
+      "NextByte"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0802a1544c3925339c659f2b2299c30b17fba8a9.png",
-    "website": "https://nextbyte.ai",
+    "website": "https://Tweeks.io",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "NextByte’s AI recruiter helps you identify top candidates faster, so your team can focus on what matters – building your product and hiring the best talent. Our platform understands the requirements for each role and tailors voice-driven technical and non-technical evaluations to surface candidates who are ready for your next onsite interview. \r\n\r\nNextByte can screen hundreds of candidates simultaneously and provides rubric-based, detailed evaluations in minutes. Our analytics dashboards provide a clear view of technical ability, problem-solving skills, and communication under pressure across your candidate pool, so you can confidently move the right candidates forward. With NextByte, hiring teams save time, reduce bias, and make faster, data-driven hiring decisions without sacrificing quality.",
-    "one_liner": "AI recruiter tuned to identify the best vibe coders",
+    "one_liner": "Lovable for Chrome Plugins",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1738808449,
     "tags": [
       "SaaS",
@@ -41645,8 +41647,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nextbyte",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/nextbyte.json"
+    "url": "https://www.ycombinator.com/companies/tweeksio",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/tweeksio.json"
   },
   {
     "id": 30187,
@@ -45534,7 +45536,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -46192,49 +46194,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/munify.json"
   },
   {
-    "id": 30799,
-    "name": "Avent",
-    "slug": "avent",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d96212731936adf020604b4e95b7700e967455b1.png",
-    "website": "https://www.aventindustrial.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Avent helps manufacturers and industrial distributors run quoting and order entry on autopilot. \r\n\r\nOur AI agents manage sales inboxes, build quotes from past pricing and tribal knowledge, and keep records up to date in existing ERPs.",
-    "one_liner": "AI agents for industrial commerce",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1755109512,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "AI",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avent",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/avent.json"
-  },
-  {
     "id": 30844,
     "name": "Uplane",
     "slug": "uplane",
@@ -46362,6 +46321,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zavo",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/zavo.json"
+  },
+  {
+    "id": 30851,
+    "name": "Sylvian",
+    "slug": "sylvian",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ce6100b0248b0cf8f017986931a26cfe36046f3.png",
+    "website": "https://sylvian.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sylvian creates tool use environments and gathers expert tool use data (e.g. computer use, VSCode, Excel) for LLMs. We gather 1B tokens/week from experts ranging from IMO Golds to MIT/Stanford PhDs to full time quant researchers at Point72.",
+    "one_liner": "Expert tool use data for LLMs",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762195938,
+    "tags": [
+      "Reinforcement Learning",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sylvian",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/sylvian.json"
   },
   {
     "id": 30854,
@@ -46845,14 +46843,14 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1761690618,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Analytics",
-      "Market Research"
+      "Market Research",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -47137,7 +47135,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c7fea0a13d1489e9cf0af037ebeefb78a17652c2.png",
     "website": "https://imagineai.me",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Imagine AI clones you, not just your voice. We build you online with high-fidelity personas that replicate how you think, write, and sell - so our AI can handle your entire B2B content pipeline: posts, strategic comments, blogs for SEO/GEO and content engineering to achieve content-market fit.\r\n\r\nFor B2B service firms and YC companies, this means turning founders' expertise into a pipeline-generating machine. Instead of executives spending 8+ hours a week trying to create content, our forward-deployed content engineers perform deep research to understand who you are -> your voice, your clients' pain points, your unique insights -> then ship and optimize content that books meetings at named accounts.\r\n\r\nOur college-dropout, second-time founding team includes Sky Yang (raised $150M as UCSD's youngest Student Body President) and Neo Lee (a Berkeley Math/AI researcher who dropped out to build this). The idea came after a YC partner told us: founders at B2B companies are experts at their jobs, but consistently struggle to turn that expertise into marketing that drives revenue.\r\n\r\nWe launched in mid-July, now serve 40+ paying customers including 19 YC companies (Conduit W24, AthenaHQ W25, Bilanc W24, etc) plus VCs, global franchises, and ghostwriting agencies. Achieving minimum 30%-70% week to week growth.\r\n\r\n💡 Results:\r\n$10 M+ total revenue generated across clients\r\n$5 M deal closed from a single LinkedIn post\r\n$40 K inbound revenue in 1.5 weeks for one client\r\n200+ qualified inbounds in 1 month after hitting content-market fit\r\n\r\nWe’re not just another AI tool.\r\n\r\nWe’re forward-deployed content engineers, building the content OS for every LinkedIn-native B2B company.\r\n\r\n📅 Book a demo: https://calendar.notion.so/meet/skyyang333/ghost\r\n\r\n🔗 Connect with Sky: https://www.linkedin.com/in/skyyang/",
+    "long_description": "Imagine AI clones you, not just your voice. We build you online with high-fidelity personas that replicate how you think, write, and sell - so our AI can handle your entire B2B content pipeline: posts, strategic comments, blogs and content engineering to achieve content-market fit.\r\n\r\nFor B2B service firms and YC companies, this means turning founders' expertise into a pipeline-generating machine. Instead of executives spending 8+ hours a week trying to create content, our forward-deployed content engineers perform deep research to understand who you are -> your voice, your clients' pain points, your unique insights -> then ship and optimize content that books meetings at named accounts.\r\n\r\nOur college-dropout, second-time founding team includes Sky Yang (raised $150M as UCSD's youngest Student Body President) and Neo Lee (a Berkeley Math/AI researcher who dropped out to build this). The idea came after a YC partner told us: founders at B2B companies are experts at their jobs, but consistently struggle to turn that expertise into marketing that drives revenue.\r\n\r\nWe launched in mid-July, now serve 40+ paying customers including 19 YC companies (Conduit W24, AthenaHQ W25, Bilanc W24, etc) plus VCs, global franchises, and ghostwriting agencies. Achieving minimum 30%-70% week to week growth.\r\n\r\n💡 Results:\r\n$10 M+ total revenue generated across clients\r\n$5 M deal closed from a single LinkedIn post\r\n$40 K inbound revenue in 1.5 weeks for one client\r\n200+ qualified inbounds in 1 month after hitting content-market fit\r\n\r\nWe’re not just another AI tool.\r\n\r\nWe’re forward-deployed content engineers, building the content OS for every LinkedIn-native B2B company.\r\n\r\n📅 Book a demo: https://calendar.notion.so/meet/skyyang333/ghost\r\n\r\n🔗 Connect with Sky: https://www.linkedin.com/in/skyyang/",
     "one_liner": "A Better You for B2B Sales",
     "team_size": 2,
     "industry": "B2B",
@@ -47304,16 +47302,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40655594dbcd381c6c79a9439597f94109447459.png",
     "website": "https://heylua.ai/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Lua is putting the power of AI into the hands of SMBs globally.\r\n\r\nLua enables any business to launch AI powered sales, support and booking agents in minutes. Our agents seamlessly integrate into a partner’s existing systems and can be distributed across any channel in a couple of clicks (Web, App, Instagram, Messenger, WhatsApp, Email, Voice) - turning every conversation into a unified sales & support experience.\r\n\r\nLua was founded by Lorcan O Cathain (CEO) and Stefan Kruger (CTO)- experienced founders who have spent 15 - 20 years each scaling technology companies across emerging markets.\r\n\r\nLua has active customers in 7 countries and is integrated into some of the world’s largest revenue engines: Shopify, WooCommerce, Ordable, Nuitee, Square and more.\r\n\r\nReach out if you want to talk about how our agents can support in:\r\n- Lowering CAC\r\n- Improving basket conversion rates / ARPU\r\n- Driving automated bookings\r\n- Improving NPS",
+    "long_description": "Lua is the unified agent platform for mid-market enterprises.\r\n\r\nWe deliver enterprise reliability with the speed, flexibility, and economics that mid-market companies demand - helping them deploy AI agents that drive sales, support, and operations across everyday channels and tools.\r\n\r\nWe scale through developer agencies and channel partners, enabling rapid distribution without a large enterprise sales motion or scaled forward deployed teams. We think of Lua as an agentOS that abstracts all of the complexity required to launch enterprise grade agents and combine it with the tools needed for these agents to succeed in the real world.\r\n\r\nLua was founded by Lorcan O Cathain (CEO) and Stefan Kruger (CTO)- experienced founders who have spent 15 - 20 years each scaling technology companies across emerging markets.\r\n\r\nWe sell to mid-market enterprises and developer agencies in the US and internationally. Developers are increasingly our primary ICP but we run SMB & enterprise sales motions to accelerate our learnings and further develop our product:\r\n- SMB ($25- 1k per month): fully automated self-serve agents that handle sales and support for eCommerce companies, hotels, restaurants and general service businesses. If you’ve been on our website you’ve likely seen this.\r\n- Enterprise: We directly sell to mid-market (~ $50M- $1BN) businesses across the US and internationally to eat our own dog food and strengthen our platform.\r\n\r\nOur traction:\r\n- 400+ businesses building on Lua\r\n- $1m+ annual contracted recurring revenue (in 5 weeks) & growing 30% WoW\r\n- 500k+ end clients have engaged with a Lua agent (& growing)",
     "one_liner": "Self-Serve AI powered Sales, Support & Booking Agents",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1758009464,
     "tags": [
+      "Developer Tools",
       "SaaS",
-      "B2B",
-      "Retail Tech"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47675,5 +47673,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openroll",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/openroll.json"
+  },
+  {
+    "id": 31018,
+    "name": "item",
+    "slug": "item",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/489b44af8e973c25eda472f6d5b28122caeafb54.png",
+    "website": "https://item.app",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "item connects to all your customer tools, gathers and enriches context automatically, and becomes your company’s source of truth — one place where your team and your AI agents share the full picture to act autonomously.\r\n\r\nAt the center is the Assistant — your sidekick for daily work. It can send follow-ups, research leads, or add deals with a simple prompt. No complex UI, drop-downs or fields, simply ask.\r\n\r\nFor repeatable work, you build Agents that you can train like new hires, simply by writing documents that describe your processes. item Agents run business processes across sales, support, and account management autonomously.",
+    "one_liner": "The AI-Native CRM that works for you",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1762209746,
+    "tags": [
+      "B2B",
+      "Automation",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/item",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/item.json"
   }
 ]
