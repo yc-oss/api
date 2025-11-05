@@ -15699,7 +15699,7 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Lago is the open-source alternative to Stripe, with a laser focus on transparency, metering, developer experience, and composability: addressing complex pricing grids and business workflows.\r\n\r\nTheir team previously built and scaled the home-grown billing system of Qonto (a $5B Fintech in Europe), from pre-launch to the tens of millions of MRR. \r\n\r\nLago is the leading open-source repository and community in this space.",
     "one_liner": "Open Source Metering and Usage Based Billing",
-    "team_size": 23,
+    "team_size": 32,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1629092704,
@@ -18865,16 +18865,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ca23fbe179b9d869adbd001cf7a397b7153bf4d.png",
     "website": "https://www.harmoney.in/",
     "all_locations": "MH, India",
-    "long_description": "Harmoney is a bond trading platform for financial institutions and asset managers in India. We are building the infrastructure to digitize bond markets and make bond trading more efficient.",
-    "one_liner": "Electronic bond trading platform for institutions in India",
-    "team_size": 25,
+    "long_description": "Harmoney is an agentic AI solution for fixed income research, portfolio optimization, and credit analysis for buy-side and wealth managers. We not only make financial analysis faster and cost-effective but also unlock things that could not be done manually before.",
+    "one_liner": "Agentic AI solution for fixed income, credit and portfolio analysis",
+    "team_size": 30,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1645537602,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Marketplace",
-      "B2B"
+      "B2B",
+      "Enterprise Software",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -18883,7 +18885,8 @@
     "batch": "Winter 2022",
     "status": "Active",
     "industries": [
-      "Fintech"
+      "Fintech",
+      "Asset Management"
     ],
     "regions": [
       "India",
@@ -26207,6 +26210,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/pier.json"
   },
   {
+    "id": 28183,
+    "name": "Metal",
+    "slug": "metal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bdcc8475801e999a95ad750970c80614d23f5c4.png",
+    "website": "https://metal.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Metal is an AI application built for fund deal teams and managers. We accelerate a funds deal flow by reducing the effort needed to collect and parse data, perform diligence, and capture key findings.",
+    "one_liner": "Institutional Intelligence for Private Equity",
+    "team_size": 17,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1674209670,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "Finance",
+      "Investing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/metal",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/metal.json"
+  },
+  {
     "id": 28382,
     "name": "Theya",
     "slug": "theya",
@@ -29272,47 +29318,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/harper.json"
   },
   {
-    "id": 30297,
-    "name": "TripleZip",
-    "slug": "triplezip",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f4e0e47cd297112180002445453372df15eb7ac.png",
-    "website": "https://www.triplezip.ai/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "TripleZip is a platform that automates accounting for commercial real estate using AI. CRE firms use TripleZip to save up to 95% on accounting compared to hiring an outside firm for complex tasks like CAM reconciliation and budgeting.",
-    "one_liner": "Automating CRE accounting with AI",
-    "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction",
-    "launched_at": 1739319968,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "Real Estate",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/triplezip",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/triplezip.json"
-  },
-  {
     "id": 30334,
     "name": "Bluebook",
     "slug": "bluebook",
@@ -30015,9 +30020,9 @@
     "subindustry": "Unspecified",
     "launched_at": 1759775643,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -30386,18 +30391,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7785e7f2104cbe8c0fd7a9462d42a9b03d5aeb86.png",
     "website": "https://www.freeportmarkets.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Freeport is the intelligence layer for DeFi investing, designed for onchain investors who want an easy way to gain smart exposure to risks that they can understand. It earns optimized yield on idle assets and builds diversified portfolios through a combination of human expertise and AI-driven guidance. The result is a simplified, interpretable, and personalized path to sustainable onchain returns. ",
-    "one_liner": "Intelligent DeFi Investment Platform",
+    "long_description": "Freeport is the intelligence layer for DeFi, built for onchain investors seeking smart & interpretable exposure. It seamlessly earns optimized yield on idle assets and constructs diversified portfolios through a combination of human insight and AI-driven intelligence. With access to tokenized private assets, structured yields, and institutional-grade investment strategies, Freeport puts the full spectrum of sophisticated onchain opportunities at your fingertips.",
+    "one_liner": "Intelligent DeFi Investing ",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1758671175,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Crypto / Web3",
       "Investing",
-      "Consumer Finance"
+      "Consumer Finance",
+      "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"

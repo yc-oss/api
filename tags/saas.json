@@ -7668,15 +7668,15 @@
     "website": "http://klarity.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Klarity is Enterprise AI that helps companies like OpenAI, DoorDash, CrowdStrike and Zoom bend the G&A curve.\r\n\r\nKlarity delivers two core capabilities:\r\n(1) unlimited transformation; creating a digital twin of your business to identify gaps, risks and inefficiencies, and provide valuable insights into your business in weeks instead of quarters, and\r\n(2) intelligent document processing that turns contracts, invoices, and POs into audit-ready data with 82%+ pass-through rates.\r\nKlarity reduces OpEx, boosts accuracy, and empowers CFOs to deliver board-ready ROI.",
-    "one_liner": "Enterprise AI for CFOs",
+    "one_liner": "Klarity: Your Always-On AI Analyst, Advisor & Coach",
     "team_size": 128,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1524539154,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
-      "SaaS",
-      "AI"
+      "SaaS"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7686,7 +7686,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Finance and Accounting"
+      "Productivity"
     ],
     "regions": [
       "United States of America",
@@ -23388,7 +23388,7 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "Lago is the open-source alternative to Stripe, with a laser focus on transparency, metering, developer experience, and composability: addressing complex pricing grids and business workflows.\r\n\r\nTheir team previously built and scaled the home-grown billing system of Qonto (a $5B Fintech in Europe), from pre-launch to the tens of millions of MRR. \r\n\r\nLago is the leading open-source repository and community in this space.",
     "one_liner": "Open Source Metering and Usage Based Billing",
-    "team_size": 23,
+    "team_size": 32,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1629092704,
@@ -38300,7 +38300,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dock Scheduling, Yard Management, Driver Sign In, and more. \r\n\r\nWe make software for warehouses and logistics teams to save time and money managing docks, gates, and yards. With dock, gate, and yard management modules, each module can easily be added on or used on its own. This makes Conduit the perfect fit for all types of operations. Best of all, if you have multiple facilities then Conduit can be configured differently at each facility, but provide you with a comprehensive view of your entire network.\r\n\r\nWe are proud to be able to help supply chains of all sizes optimize their labor, increase throughput, and prepare for the work ahead. ",
     "one_liner": "Air Traffic Control for Warehouses",
-    "team_size": 6,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1674704550,
@@ -38649,16 +38649,59 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/vector.json"
   },
   {
+    "id": 28183,
+    "name": "Metal",
+    "slug": "metal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bdcc8475801e999a95ad750970c80614d23f5c4.png",
+    "website": "https://metal.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Metal is an AI application built for fund deal teams and managers. We accelerate a funds deal flow by reducing the effort needed to collect and parse data, perform diligence, and capture key findings.",
+    "one_liner": "Institutional Intelligence for Private Equity",
+    "team_size": 17,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1674209670,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "Finance",
+      "Investing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/metal",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/metal.json"
+  },
+  {
     "id": 28192,
-    "name": "Koala Ops",
-    "slug": "koala-ops",
+    "name": "Skyhook",
+    "slug": "skyhook",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2051debd2ddc50b321426f669aa98a0120dfc537.png",
-    "website": "https://koalaops.com/",
+    "website": "https://skyhook.io",
     "all_locations": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-    "long_description": "We make running services on Kubernetes as easy as Heroku, but on your cloud and with all the flexibility and power of Kubernetes. Companies use Koala so that they don't have to hire dedicated infrastructure engineers.\r\n\r\nAlthough 50-70% of organizations have already adopted Kubernetes, most developers agree that it is too complex and difficult to manage. It is intended to be extremely flexible in order to solve pretty much everyone’s needs, but it can take a ton of work and many auxiliary tools to get there.\r\n\r\nAs companies grow, they spend a lot on DevOps or Platform Engineers that try to reduce the burden on developers by gluing together all the 3p tools via custom internal tools.\r\n\r\nWe are building an “internal developer platform” out of the box, with best practices and golden paths for building and operating services on Kubernetes.\r\n\r\nWe do the research on the latest and greatest tools in the extremely vibrant ecosystem, and automatically integrate for you the tools you want to use.\r\n\r\nWe operate on our customers code and in your Cloud environment, so they never locked in and never restricted, as is common with classic PaaS offerings.\r\n\r\nIf you prefer a fully hosted environment like Heroku, Fly or Vercel, we’ll host a cluster for you and offer you a one-click migration to your own cluster when you want.",
-    "one_liner": "A platform for developing microservices on Kubernetes",
-    "team_size": 4,
+    "long_description": "We make running services on Kubernetes as easy as Heroku, but on your cloud and with all the flexibility and power of Kubernetes. Companies use Skyhook so that they don't have to hire dedicated infrastructure engineers.\r\n\r\nAlthough 50-70% of organizations have already adopted Kubernetes, most developers agree that it is too complex and difficult to manage. It is intended to be extremely flexible in order to solve pretty much everyone’s needs, but it can take a ton of work and many auxiliary tools to get there.\r\n\r\nAs companies grow, they spend a lot on DevOps or Platform Engineers that try to reduce the burden on developers by gluing together all the 3p tools via custom internal tools.\r\n\r\nWe are building an “internal developer platform” out of the box, with best practices and golden paths for building and operating services on Kubernetes.\r\n\r\nWe do the research on the latest and greatest tools in the extremely vibrant ecosystem, and automatically integrate for you the tools you want to use.\r\n\r\nWe operate on our customers code and in your Cloud environment, so they never locked in and never restricted, as is common with classic PaaS offerings.\r\n\r\nIf you prefer a fully hosted environment like Heroku, Fly or Vercel, we’ll host a cluster for you and offer you a one-click migration to your own cluster when you want.",
+    "one_liner": "PaaS-like experience with the power of Kubernetes, on your cloud",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1677416596,
@@ -38681,15 +38724,17 @@
     ],
     "regions": [
       "Israel",
-      "Middle East and North Africa"
+      "Middle East and North Africa",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/koala-ops",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/koala-ops.json"
+    "url": "https://www.ycombinator.com/companies/skyhook",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/skyhook.json"
   },
   {
     "id": 28218,
@@ -45843,7 +45888,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -46131,7 +46176,7 @@
     "website": "http://www.snowbase.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We're building Snowbase to help startups find their ideal customers through natural language search, signals, and verified contact data.",
-    "one_liner": "Find and keep track of your ideal customers. ",
+    "one_liner": "Find your ideal customers.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
@@ -46292,23 +46337,24 @@
   },
   {
     "id": 30297,
-    "name": "TripleZip",
-    "slug": "triplezip",
+    "name": "OpenIntake",
+    "slug": "openintake",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5f4e0e47cd297112180002445453372df15eb7ac.png",
-    "website": "https://www.triplezip.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ced23ced30b69c57284845a23b859ac9815a5770.png",
+    "website": "https://www.openintake.ai/",
     "all_locations": "New York, NY, USA",
-    "long_description": "TripleZip is a platform that automates accounting for commercial real estate using AI. CRE firms use TripleZip to save up to 95% on accounting compared to hiring an outside firm for complex tasks like CAM reconciliation and budgeting.",
-    "one_liner": "Automating CRE accounting with AI",
+    "long_description": "OpenIntake boosts law firm revenue by converting callers into clients 24/7.",
+    "one_liner": "The AI Front Door For Law Firms",
     "team_size": 2,
-    "industry": "Real Estate and Construction",
+    "industry": "B2B",
     "subindustry": "Real Estate and Construction",
     "launched_at": 1739319968,
     "tags": [
-      "Fintech",
       "SaaS",
-      "Real Estate",
-      "B2B"
+      "B2B",
+      "Sales",
+      "Legal",
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46317,7 +46363,8 @@
     "batch": "Winter 2025",
     "status": "Active",
     "industries": [
-      "Real Estate and Construction"
+      "B2B",
+      "Legal"
     ],
     "regions": [
       "United States of America",
@@ -46328,8 +46375,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/triplezip",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/triplezip.json"
+    "url": "https://www.ycombinator.com/companies/openintake",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/openintake.json"
   },
   {
     "id": 30298,
@@ -46600,7 +46647,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
     "website": "https://www.ambral.com/",
     "all_locations": "",
-    "long_description": "Ambral is an AI Account Management team.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
+    "long_description": "Ambral is an AI Account Management team.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously drives or recommends expansions, prevents churn, and ensures no customer slips through the cracks. It's like mission control for your customers.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. Cornell CS alum.",
     "one_liner": "AI-powered Account Managers",
     "team_size": 2,
     "industry": "B2B",
@@ -47135,6 +47182,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/klavis-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/klavis-ai.json"
+  },
+  {
+    "id": 30515,
+    "name": "Saffron Health",
+    "slug": "saffron-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1d1c47066a65e1dc6b009d0e651d5fdbac29265.png",
+    "website": "https://www.saffron.health",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Saffron Health is building AI agents that automate specialist referrals for primary care. \r\n\r\nPrimary care staff spend hours each day on tedious coordination work: searching for in-network specialists, filling out authorization forms, and chasing down medical records.\r\n\r\nSaffron's agents find available in-network providers, complete prior authorizations, and help patients book appointments, which lowers administrative costs and improves access to care.\r\n",
+    "one_liner": "AI-powered care coordination for primary care",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1762272308,
+    "tags": [
+      "SaaS",
+      "Digital Health",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/saffron-health",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/saffron-health.json"
   },
   {
     "id": 30519,
@@ -47824,17 +47912,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
     "website": "https://tryjanet.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Janet AI is the intelligent ticket management system built for modern engineering teams.\r\n\r\nTicket management today is too manual. Context gets scattered. Information doesn’t stay-up-to date. Systems get noisy.\r\n\r\nJanet AI automatically creates, updates, and organizes work items through integrations with your company’s information channels, so you never manually have to.",
+    "long_description": "Janet AI is the AI-first ticket management system, built for modern engineering teams.\r\n\r\nTicket management today is too reliant on manual work. Context gets scattered. Information doesn’t stay-up-to date. Systems get noisy.\r\n\r\nWe integrate with your information channels (meetings, Slack, Discord, SMS, etc.) to auto-create, update, and organize work items.",
     "one_liner": "The AI-Native Jira",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752861520,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49214,6 +49302,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sciloop.json"
   },
   {
+    "id": 30906,
+    "name": "Agentic Fabriq",
+    "slug": "agentic-fabriq",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a5cc9740ffbab442e3f13d623875ee650093eac.png",
+    "website": "https://www.agenticfabriq.com",
+    "all_locations": "Sunnyvale, CA, USA",
+    "long_description": "Agentic Fabriq is the single control plane for data permissioning throughout your entire organization across your AI and employees. Through Fabriq, any employee can tap into AI/agents with exactly the data and tools they're cleared to use by an admin. Fabriq can be used internally with employees or externally for customers while handling the auth + integrations + permissions securely for you.",
+    "one_liner": "Okta for Agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762294029,
+    "tags": [
+      "AIOps",
+      "DevSecOps",
+      "SaaS",
+      "API",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agentic-fabriq",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/agentic-fabriq.json"
+  },
+  {
     "id": 30918,
     "name": "ComplyDo",
     "slug": "complydo",
@@ -49474,7 +49604,7 @@
     "website": "https://heylua.ai/",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Lua is the unified agent platform for mid-market enterprises.\r\n\r\nWe deliver enterprise reliability with the speed, flexibility, and economics that mid-market companies demand - helping them deploy AI agents that drive sales, support, and operations across everyday channels and tools.\r\n\r\nWe scale through developer agencies and channel partners, enabling rapid distribution without a large enterprise sales motion or scaled forward deployed teams. We think of Lua as an agentOS that abstracts all of the complexity required to launch enterprise grade agents and combine it with the tools needed for these agents to succeed in the real world.\r\n\r\nLua was founded by Lorcan O Cathain (CEO) and Stefan Kruger (CTO)- experienced founders who have spent 15 - 20 years each scaling technology companies across emerging markets.\r\n\r\nWe sell to mid-market enterprises and developer agencies in the US and internationally. Developers are increasingly our primary ICP but we run SMB & enterprise sales motions to accelerate our learnings and further develop our product:\r\n- SMB ($25- 1k per month): fully automated self-serve agents that handle sales and support for eCommerce companies, hotels, restaurants and general service businesses. If you’ve been on our website you’ve likely seen this.\r\n- Enterprise: We directly sell to mid-market (~ $50M- $1BN) businesses across the US and internationally to eat our own dog food and strengthen our platform.\r\n\r\nOur traction:\r\n- 400+ businesses building on Lua\r\n- $1m+ annual contracted recurring revenue (in 5 weeks) & growing 30% WoW\r\n- 500k+ end clients have engaged with a Lua agent (& growing)",
-    "one_liner": "Self-Serve AI powered Sales, Support & Booking Agents",
+    "one_liner": "The unified agent platform for mid-market enterprises",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",

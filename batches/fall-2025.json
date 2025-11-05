@@ -113,9 +113,9 @@
     "subindustry": "Unspecified",
     "launched_at": 1759775643,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -265,6 +265,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/digipals",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/digipals.json"
+  },
+  {
+    "id": 30821,
+    "name": "Efference",
+    "slug": "efference",
+    "former_names": [
+      "Remnant Robotics"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e2b6583b762823b5a584f08e551758f4d63fa39.png",
+    "website": "https://efference.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Efference is redefining robotic vision by building the most intelligent cameras on the market. We have an efficient way of computing high quality depth information and are putting that into a camera that will deliver higher performance at half the cost.",
+    "one_liner": "We help robots see like humans do.",
+    "team_size": 1,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1762259214,
+    "tags": [
+      "Machine Learning",
+      "Robotics",
+      "Computer Vision",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/efference",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/efference.json"
   },
   {
     "id": 30822,
@@ -816,15 +860,15 @@
     "website": "https://agent.nexus",
     "all_locations": "Brussels, Brussels, Belgium",
     "long_description": "Nexus enables non-technical teams in large organizations to build production-ready AI agents without code.",
-    "one_liner": "Business-led Enterprise AI",
+    "one_liner": "We help non-technical teams build AI agent no-code",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1759450579,
     "tags": [
-      "Artificial Intelligence",
       "No-code",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1521,14 +1565,14 @@
     "website": "https://verialabs.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Veria Labs is developing AI agents that hack better than the best human hackers. Founded by members of the #1 US competitive hacking team, we've already manually found critical bugs in AI tools, operating systems, fintech and billion dollar crypto exchanges. \r\n\r\nNow we're scaling that expertise through AI-native security tooling that operates faster than human researchers while finding deeper, more complex vulnerabilities that traditional tools miss.",
-    "one_liner": "Automated security for high-stakes industries",
+    "one_liner": "Continuous AI pentesting that finds and fixes vulnerabilities",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1758644249,
     "tags": [
-      "Artificial Intelligence",
-      "Security"
+      "Security",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2264,6 +2308,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sciloop.json"
   },
   {
+    "id": 30901,
+    "name": "Sanctum",
+    "slug": "sanctum",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd22bee184fcb9c2caeab9537bdee087a53a0865.png",
+    "website": "https://heysanctum.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sanctum lets you launch new features to a massively parallel simulation of your users before releasing to real customers. We build AI user models from your session recordings, run them against your changes, and surface bugs, UX issues, and performance problems early. Sanctum also allows you to \"chat\" with your artificial personas, which can explore your site to answer your questions. Results get delivered into your existing workflows.",
+    "one_liner": "Ship features to simulated users before real ones",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1762303410,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Analytics",
+      "Market Research"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sanctum",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/sanctum.json"
+  },
+  {
     "id": 30903,
     "name": "Kestrel AI",
     "slug": "kestrel-ai",
@@ -2303,6 +2389,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kestrel-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/kestrel-ai.json"
+  },
+  {
+    "id": 30906,
+    "name": "Agentic Fabriq",
+    "slug": "agentic-fabriq",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a5cc9740ffbab442e3f13d623875ee650093eac.png",
+    "website": "https://www.agenticfabriq.com",
+    "all_locations": "Sunnyvale, CA, USA",
+    "long_description": "Agentic Fabriq is the single control plane for data permissioning throughout your entire organization across your AI and employees. Through Fabriq, any employee can tap into AI/agents with exactly the data and tools they're cleared to use by an admin. Fabriq can be used internally with employees or externally for customers while handling the auth + integrations + permissions securely for you.",
+    "one_liner": "Okta for Agents.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762294029,
+    "tags": [
+      "AIOps",
+      "DevSecOps",
+      "SaaS",
+      "API",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/agentic-fabriq",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/agentic-fabriq.json"
   },
   {
     "id": 30907,
@@ -2885,6 +3013,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/play-health.json"
   },
   {
+    "id": 30929,
+    "name": "Inspector",
+    "slug": "inspector",
+    "former_names": [
+      "sandbox.ai"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a74c32ba5c193f4216d063ad72608f841e04786.png",
+    "website": "https://www.tryinspector.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The AI IDE for front-end development. Modify styles, move elements, and have changes automatically reflected in your codebase.",
+    "one_liner": "The fastest way to iterate on front-end",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762248076,
+    "tags": [
+      "Developer Tools",
+      "Design",
+      "Design Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/inspector",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/inspector.json"
+  },
+  {
     "id": 30930,
     "name": "Cortex AI",
     "slug": "cortex-ai",
@@ -3018,7 +3190,7 @@
     "name": "Nucleo",
     "slug": "nucleo",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f01e4ddf6850170a8daa2d643721e2e9bb8d894e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8611e8ee90a2a7924397ab6bcf911ddc8e25d601.png",
     "website": "https://nucleoresearch.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We help oncologists and radiologists extract insights from CT scans to support tumor characterization and treatment.\r\n\r\nThe hospitals we work with include Stanford Hospital, Cedars-Sinai (the largest hospital in California), UCI Health, and Weill Cornell.",
@@ -3429,6 +3601,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/aside.json"
   },
   {
+    "id": 30944,
+    "name": "HireGlide",
+    "slug": "hireglide",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f43313bb066e1501a71f08b9bb9435ada83f0e9c.png",
+    "website": "https://www.hireglide.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "HireGlide puts the right people in the right places. Candidates get sent towards roles which are looking for people just like them by creating a relational career passport which can assess fit at open roles. On the company side, teams can process even the heaviest inbound rapidly and do targeted outbound on candidates who want to be hired. \r\n",
+    "one_liner": "Turning recruiting into an efficient market.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1762295048,
+    "tags": [
+      "Artificial Intelligence",
+      "Recruiting",
+      "HR Tech",
+      "Talent Acquisition"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hireglide",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/hireglide.json"
+  },
+  {
     "id": 30945,
     "name": "Zalos",
     "slug": "zalos",
@@ -3561,7 +3775,7 @@
     "website": "https://heylua.ai/",
     "all_locations": "London, England, United Kingdom",
     "long_description": "Lua is the unified agent platform for mid-market enterprises.\r\n\r\nWe deliver enterprise reliability with the speed, flexibility, and economics that mid-market companies demand - helping them deploy AI agents that drive sales, support, and operations across everyday channels and tools.\r\n\r\nWe scale through developer agencies and channel partners, enabling rapid distribution without a large enterprise sales motion or scaled forward deployed teams. We think of Lua as an agentOS that abstracts all of the complexity required to launch enterprise grade agents and combine it with the tools needed for these agents to succeed in the real world.\r\n\r\nLua was founded by Lorcan O Cathain (CEO) and Stefan Kruger (CTO)- experienced founders who have spent 15 - 20 years each scaling technology companies across emerging markets.\r\n\r\nWe sell to mid-market enterprises and developer agencies in the US and internationally. Developers are increasingly our primary ICP but we run SMB & enterprise sales motions to accelerate our learnings and further develop our product:\r\n- SMB ($25- 1k per month): fully automated self-serve agents that handle sales and support for eCommerce companies, hotels, restaurants and general service businesses. If you’ve been on our website you’ve likely seen this.\r\n- Enterprise: We directly sell to mid-market (~ $50M- $1BN) businesses across the US and internationally to eat our own dog food and strengthen our platform.\r\n\r\nOur traction:\r\n- 400+ businesses building on Lua\r\n- $1m+ annual contracted recurring revenue (in 5 weeks) & growing 30% WoW\r\n- 500k+ end clients have engaged with a Lua agent (& growing)",
-    "one_liner": "Self-Serve AI powered Sales, Support & Booking Agents",
+    "one_liner": "The unified agent platform for mid-market enterprises",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4339,18 +4553,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7785e7f2104cbe8c0fd7a9462d42a9b03d5aeb86.png",
     "website": "https://www.freeportmarkets.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Freeport is the intelligence layer for DeFi investing, designed for onchain investors who want an easy way to gain smart exposure to risks that they can understand. It earns optimized yield on idle assets and builds diversified portfolios through a combination of human expertise and AI-driven guidance. The result is a simplified, interpretable, and personalized path to sustainable onchain returns. ",
-    "one_liner": "Intelligent DeFi Investment Platform",
+    "long_description": "Freeport is the intelligence layer for DeFi, built for onchain investors seeking smart & interpretable exposure. It seamlessly earns optimized yield on idle assets and constructs diversified portfolios through a combination of human insight and AI-driven intelligence. With access to tokenized private assets, structured yields, and institutional-grade investment strategies, Freeport puts the full spectrum of sophisticated onchain opportunities at your fingertips.",
+    "one_liner": "Intelligent DeFi Investing ",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1758671175,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Crypto / Web3",
       "Investing",
-      "Consumer Finance"
+      "Consumer Finance",
+      "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"
