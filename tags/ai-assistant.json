@@ -4537,6 +4537,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/simple-ai.json"
   },
   {
+    "id": 29795,
+    "name": "Odo",
+    "slug": "odo",
+    "former_names": [
+      "Odo",
+      "Odo Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1708fa08344b75fc38d36f9effcf823a2fb93846.png",
+    "website": "https://useodo.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Odo is your email assistant because you deserve a better morning. Odo can help you organize, draft emails, and follow-up effortlessly after meetings.",
+    "one_liner": "Your email assistant because you deserve a better morning",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Government",
+    "launched_at": 1717022864,
+    "tags": [
+      "SaaS",
+      "Productivity",
+      "Email",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/odo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/odo.json"
+  },
+  {
     "id": 29807,
     "name": "Dataleap",
     "slug": "dataleap",
@@ -5985,8 +6030,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15e87b5dae1ddc0ace7595505c49a86f51b6979a.png",
     "website": "https://epicenter.md",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Epicenter is building ChatGPT's memory feature in an open, portable format. This means you can take your entire chat history and plug it into another app, so it knows you instantly.\r\n\r\nOur long-term vision is to become the SSO for AI applications. Users use Epicenter to plug into any service, and they'll own their data, choose their models, and replace siloed apps with interoperable alternatives. Developers will use our framework to build highly customized experiences for said users.\r\n\r\nRight now, we're leading by example by building our own suite of tools on top of Epicenter. We store all your work—notes, transcripts, chat histories—in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, and so on. It's open, tweakable, and transparent. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nYou should own your memory in the same way you own your brain. ❤️",
-    "one_liner": "A database for your mind, built on plain text.",
+    "long_description": "Epicenter is an ecosystem of open-source, local-first apps. We store all your work—notes, transcripts, chat histories—in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your own AI models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. ❤️",
+    "one_liner": "Open-source, local-first apps that share a memory.",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -6324,15 +6369,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2b42e4b482076bb918488b3c6413ecb91ebf8e4.png",
     "website": "https://trylogical.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Logical is a desktop AI that acts as a proactive and largely promptless copilot, designed to reduce the friction of using AI for everyday tasks. It transfers context across apps, and allows taking action on many apps with just a few clicks. Logical can assist with drafting emails, writing docs, noting meetings and can even automatically detect action items. Need to prompt? Logical can understand intent in much fewer words than a regular chatbot. Plus, user data is never sent to Logical servers.",
+    "long_description": "Logical is a desktop AI that acts as a proactive and largely promptless copilot, designed to reduce the friction of using AI for everyday tasks. It transfers context across apps, and allows taking action on many apps with just a few clicks. Logical can assist with drafting emails, writing docs, noting meetings and can even automatically detect action items. Need to prompt? Logical can understand intent in much fewer words than a regular chatbot. Plus, user data is never sent to Logical servers. Logical is the AI resurrection of Clippy, but actually good.",
     "one_liner": "A hyper context-aware and proactive desktop AI copilot",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1761643617,
     "tags": [
-      "Artificial Intelligence",
+      "Consumer",
+      "B2B",
       "Productivity",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

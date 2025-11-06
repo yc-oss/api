@@ -1,5 +1,50 @@
 [
   {
+    "id": 26144,
+    "name": "OpenBuilder",
+    "slug": "openbuilder",
+    "former_names": [
+      "Personabo",
+      "EasyCode (Formerly Personabo)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png",
+    "website": "https://theopenbuilder.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "OpenBuilder is an open vibe coding platform that helps non-technical builders take their ideas to production. Instead of paying for credits, getting stuck and being locked-in, OpenBuilder is 100% free to build on, only charges to get you unstuck and ready for launch. ",
+    "one_liner": "Open source Lovable alternative that gets you unstuck",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1680284500,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Open Source",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openbuilder",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/openbuilder.json"
+  },
+  {
     "id": 30592,
     "name": "Prox",
     "slug": "prox",
@@ -482,16 +527,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/839111803eb4ccce6e6e411847617a96d8d7d880.png",
     "website": "https://aircaps.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building lightweight AR glasses that help you understand, remember and learn from conversations. AirCaps displays captions, translations, summaries and proactive insights for your conversations in your field of view in real-time. We're starting with real-time captions for hearing loss.\r\n\r\nWe did $90K in sales in October (grew 6.5X from September), have users averaging 6h+ daily use, and went viral on TikTok (75M views).\r\n\r\nMadhav (Yale CS, MIT Media Lab audio AI) and Nirbhay (Cornell CS) have been obsessed with smart glasses for 11 years—building Google Glass apps from age 13.\r\n\r\nPeople spend 3 hours a day in meaningful conversations—negotiations, interviews, pitches, conflicts, first dates. They struggle to comprehend 25-50% of them, forget 70% within 24 hours and 90% within a week, and have no way to learn and improve from their conversations.\r\n\r\nAR glasses are the only form factor that can augment conversations without disrupting them. They keep your hands free, allow you to maintain eye contact, provide information exactly when needed, and have unfiltered access to everything you hear and see.\r\n\r\nIn 5 years, 4.7 billion smartphone users will use smart glasses. But today's AR glasses are too heavy, conspicuous, and power hungry while failing to provide utility: generic toys without purpose. Conversations demand real-time, hands-free, eyes-up assistance precisely when you can't look away—the killer use case to kickstart mass adoption. If we're right, we'll own the gateway to the next interface for technology.",
-    "one_liner": "AR glasses to better understand, remember and learn from conversations",
-    "team_size": 3,
+    "long_description": "AirCaps is bringing AI assistance to real-world conversations. \r\n\r\nOur software provides live captions, translations, and proactive AI insights for meetings in your field of view on lightweight AR glasses.\r\n\r\nWe started by helping people with hearing loss understand speech with real-world captions, then expanded to breaking down language barriers with live translation, and now provide AI support during important meetings for professionals.\r\n\r\nWe’ve already transcribed 15,000 hours of in-person conversations and counting. Today, AirCaps assists with 11% of our users’ in-person conversations.\r\n\r\nWe did $93K in revenue in October and grew 6.5x from September while spending <$3K on marketing. Our power users average 6h+ daily usage and our day-30 retention is 91%.\r\n\r\nWe previously went viral (75M+ views on TikTok, 150K+ followers) and have been featured by The New Yorker, WIRED, and Forbes.\r\n\r\nWe’re building intelligence for the 200 billion daily conversations that happen face-to-face. \r\n\r\nMadhav (CEO, Yale CS) has been building on smart glasses since age 13, starting with Google Glass apps. He researched audio AI at the MIT Media Lab. Nirbhay (CTO, Cornell CS) built voice AI on smart glasses in high school and built conversational AI products as the first engineer at 2 YC startups.",
+    "one_liner": "Bringing AI assistance to real-world conversations. ",
+    "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Consumer Electronics",
     "launched_at": 1760571679,
     "tags": [
-      "Artificial Intelligence",
       "Augmented Reality",
-      "Consumer"
+      "Productivity",
+      "AI",
+      "Conversational AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -500,8 +546,7 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Virtual and Augmented Reality"
+      "Consumer"
     ],
     "regions": [
       "United States of America",
@@ -820,8 +865,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ce6100b0248b0cf8f017986931a26cfe36046f3.png",
     "website": "https://sylvian.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sylvian creates tool use environments and gathers expert tool use data (e.g. computer use, VSCode, Excel) for LLMs. We gather 1B tokens/week from experts ranging from IMO Golds to MIT/Stanford PhDs to full time quant researchers at Point72.",
-    "one_liner": "Expert tool use data for LLMs",
+    "long_description": "Sylvian creates expert data for LLMs through competitions.\r\n\r\nLLMs continue to need lots of expert data. Unfortunately, existing data vendors like Scale or Mercor are not motivating the best experts through part-time pay. Competitions are more intrinsic motivators, and naturally incentivize high quality data.\r\n\r\nSylvian creates expert data for LLMs through competitions, starting with tool use data (e.g. Excel, VSCode). We already have 4,500+ experts, from IMO Golds to MIT/Stanford PhDs to full time QRs at Point72, producing data at 1B tokens/week!",
+    "one_liner": "Data for LLMs through Competition",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -983,7 +1028,7 @@
     "former_names": [
       "Auler"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/116a7916c95520914702391b640fde340a3d901b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fce09b41be7523bc55b3742c8d06ae8ddf424a0d.png",
     "website": "https://aspect.inc",
     "all_locations": "",
     "long_description": "When footage comes off a camera, post-production teams spend hours organizing their project, assembling rough cuts, reviewing for changes and mistakes, and sending the right links to the right people.\r\n\r\nAspect is a platform with AI agents that understand a team’s video library and workflows better than humans. These agents fill the roles of a media team’s post-production assistant, so creatives can focus on what they love instead of managing media back-office tasks.",
@@ -1721,6 +1766,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/hypercubic.json"
   },
   {
+    "id": 30880,
+    "name": "Nessie",
+    "slug": "nessie",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/400e4be5acfaa12735760bedcf4f0ad136f82137.png",
+    "website": "https://nessielabs.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nessie is Perplexity for your mind, turning your scattered AI conversations and notes into a personal knowledge base. It's a thinking partner that lets you instantly search your entire history of ideas, synthesize them into new insights, and watch your knowledge build on itself over time.\r\n\r\nWho it's for: AI-native thinkers—founders, researchers, and writers—who believe their best ideas should compound.\r\n\r\nWe are two Yale CS grads and former Amazon engineers building the tool we needed for ourselves. We combine Anna's research on enhancing LLM reasoning with knowledge graphs, and Tiger's lifelong passion for building products, which started with shipping an Android app with 70k+ downloads at age 13.\r\n\r\nNessie was born from our shared obsession - we were using AI to push the limits of our own thinking, but the current tools couldn't keep up. Brilliant insights were getting lost in endless chat histories, and the context was constantly fragmented.\r\n\r\nWe realized the problem wasn't just about memory; it was that the medium for AI-native thought didn't exist yet. The chat window is a place to ask questions, not a place to build on ideas.\r\n\r\nWe're building Nessie to be that medium—your personal context layer, designed to amplify human thinking and give you agency over your own knowledge.",
+    "one_liner": "Perplexity for your mind",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Unspecified",
+    "launched_at": 1762383705,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Chat",
+      "Search",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nessie",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/nessie.json"
+  },
+  {
     "id": 30881,
     "name": "Wardstone",
     "slug": "wardstone",
@@ -2322,11 +2409,11 @@
     "subindustry": "Unspecified",
     "launched_at": 1762303410,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Analytics",
-      "Market Research"
+      "Market Research",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2440,15 +2527,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2b42e4b482076bb918488b3c6413ecb91ebf8e4.png",
     "website": "https://trylogical.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Logical is a desktop AI that acts as a proactive and largely promptless copilot, designed to reduce the friction of using AI for everyday tasks. It transfers context across apps, and allows taking action on many apps with just a few clicks. Logical can assist with drafting emails, writing docs, noting meetings and can even automatically detect action items. Need to prompt? Logical can understand intent in much fewer words than a regular chatbot. Plus, user data is never sent to Logical servers.",
+    "long_description": "Logical is a desktop AI that acts as a proactive and largely promptless copilot, designed to reduce the friction of using AI for everyday tasks. It transfers context across apps, and allows taking action on many apps with just a few clicks. Logical can assist with drafting emails, writing docs, noting meetings and can even automatically detect action items. Need to prompt? Logical can understand intent in much fewer words than a regular chatbot. Plus, user data is never sent to Logical servers. Logical is the AI resurrection of Clippy, but actually good.",
     "one_liner": "A hyper context-aware and proactive desktop AI copilot",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1761643617,
     "tags": [
-      "Artificial Intelligence",
+      "Consumer",
+      "B2B",
       "Productivity",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -2481,16 +2570,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4f5ece11eecade92cb79477adf78d6a6e699cfa.png",
     "website": "http://alephlab.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aleph Kids is an AI companion that chats and plays with children inside games like Minecraft, helping them learn a new language while they play. Kids already spend hours each week in their favorite games, and now parents can turn that game time into learning time.",
+    "long_description": "An AI companion that chats and plays with children inside games like Minecraft, helping them learn a new language while they play. Kids already spend hours each week in their favorite games, and now parents can turn that game time into learning time.",
     "one_liner": "Your child’s AI language buddy inside the games they already love. ",
     "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1761373763,
     "tags": [
+      "Artificial Intelligence",
       "Gaming",
-      "Edtech",
-      "AI"
+      "Edtech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2889,23 +2978,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c62fd75050245643921b794ea15f1786d2ee9033.png",
     "website": "https://selfin.app",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single intelligent platform. ",
     "one_liner": "The first AI Bank",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1759770880,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Finance",
-      "Consumer Finance",
-      "Neobank"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -2913,8 +2996,7 @@
       "Fintech"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3190,7 +3272,7 @@
     "name": "Nucleo",
     "slug": "nucleo",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8611e8ee90a2a7924397ab6bcf911ddc8e25d601.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c489d64c631359b79077be36194f234ac5e83b2c.png",
     "website": "https://nucleoresearch.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We help oncologists and radiologists extract insights from CT scans to support tumor characterization and treatment.\r\n\r\nThe hospitals we work with include Stanford Hospital, Cedars-Sinai (the largest hospital in California), UCI Health, and Weill Cornell.",
@@ -3608,7 +3690,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f43313bb066e1501a71f08b9bb9435ada83f0e9c.png",
     "website": "https://www.hireglide.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "HireGlide puts the right people in the right places. Candidates get sent towards roles which are looking for people just like them by creating a relational career passport which can assess fit at open roles. On the company side, teams can process even the heaviest inbound rapidly and do targeted outbound on candidates who want to be hired. \r\n",
+    "long_description": "HireGlide puts the right people in the right places. Candidates get sent to roles which are looking for people just like them with a relational career passport which can measure fit for multiple open positions. On the company side, teams can process even the heaviest inbound rapidly and do targeted outbound on candidates who want to be hired. \r\n",
     "one_liner": "Turning recruiting into an efficient market.",
     "team_size": 2,
     "industry": "B2B",
@@ -4463,6 +4545,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/uselemma.json"
   },
   {
+    "id": 30972,
+    "name": "Jarmin",
+    "slug": "jarmin",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a48984c0a7bc281e9b076876c8d571aaf44c799e.png",
+    "website": "https://jarmin.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Jarmin.ai is your 24/7 ML eng employee that you hire. Just talk to Jarmin like any other employee and Jarmin handles your AI/ML work from there. Completely hand over full initiatives or individual tasks.\r\n\r\nJarmin’s founding team is from Meta Super Intelligence Labs (Staff Engineers), Apple (Machine Learning Engineer), and AWS (scaling infra) with experience building AI/ML and automating complex work of Researchers, Data Scientists, ML Engineers with AI.",
+    "one_liner": "24/7 Machine Learning Engineer employees",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762304310,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "B2B",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/jarmin",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/jarmin.json"
+  },
+  {
     "id": 30977,
     "name": "Rovi Health",
     "slug": "rovi-health",
@@ -4514,7 +4638,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19d8cd9731e5b803cf28ada75d13c38049717b0e.png",
     "website": "https://miniswap.gg/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Miniswap a marketplace for the $1B+ tabletop miniatures market, starting with Warhammer.\r\n\r\nIn hobbies as complex as Warhammer, finding minis on general marketplaces is a huge pain. Filters don't work, free-form listings mean that products are regularly misidentified, and piles of counterfeit junk crowd search results. \r\n\r\nMiniswap saves hobbyists from this chaos with its catalogue of more than 8000 data-enriched SKUs. Sellers match their listings against Miniswap's catalogue giving buyers more information and structure as they shop.\r\n\r\nThe global market for tabletop games is estimated to be worth $10B+ in 2025 and Warhammer alone is projected to grow to $3B by 2030. By capturing the market in this untapped niche, Miniswap is strongly positioned to expand its wedge into adjacent categories, bringing greater transparency, simplicity, and connectivity into additional tabletop games and collectibles verticals.\r\n\r\nMiniswap's founding team merges deep domain knowledge with elite programming expertise and years of experience in business consulting and startups. Co-founders Zak and Will met while studying together at Cambridge, bonded over their love of Warhammer, and have been best friends ever since. ",
+    "long_description": "Miniswap a marketplace for the $20B tabletop games market, starting with Warhammer.\r\n\r\nIn hobbies as complex as Warhammer, finding what you want on general marketplaces is a huge pain. Filters don't work, free-form listings mean that products are regularly misidentified, and piles of counterfeit junk crowd search results. \r\n\r\nMiniswap saves hobbyists from this chaos with its catalogue of more than 14,000 unique miniatures. Sellers match their listings against Miniswap's catalogue giving buyers more information and structure as they shop.\r\n\r\nThe global market for tabletop games is estimated to be worth $20B in 2025 and Warhammer alone is projected to grow to $3B by 2030. By capturing the market in this untapped niche, Miniswap is strongly positioned to expand its wedge into adjacent categories, bringing greater transparency, simplicity, and connectivity into additional tabletop games and collectibles verticals.\r\n\r\nMiniswap's founding team merges deep domain knowledge with elite programming expertise and years of experience in business consulting and startups. Co-founders Zak and Will met while studying together at Cambridge, bonded over their love of Warhammer, and have been best friends ever since. ",
     "one_liner": "The Marketplace for Tabletop Games",
     "team_size": 2,
     "industry": "Consumer",
@@ -4844,6 +4968,88 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/stratus-aviation.json"
   },
   {
+    "id": 30992,
+    "name": "Amera",
+    "slug": "amera",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d11b3366a660003662af3941c9320ee9f871e73.png",
+    "website": "https://amerahealthsolutions.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Amera automates claims processing for health insurance payers, converting messy data into clean, usable formats that speed up operations, reduce costs, and make them more transparent. \r\n\r\nWe are already working with payers representing tens of thousands of members, giving them access to more affordable care options.",
+    "one_liner": "Automating claims processing workflows for health insurance payers.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1762373612,
+    "tags": [
+      "Workflow Automation",
+      "Health Insurance",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/amera",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/amera.json"
+  },
+  {
+    "id": 30993,
+    "name": "DiligenceSquared Inc.",
+    "slug": "diligencesquared-inc",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e75ae93d8e056556c69cc8d6215f5c6787ea95eb.png",
+    "website": "https://diligencesquared.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DiligenceSquared delivers AI-powered market due diligence for investment decisions - like the $1M McKinsey reports, but automated, auditable, and at a fraction of the cost.\r\n\r\nWhen Private Equity funds evaluate deals, they pay firms like McKinsey, BCG, and Bain $500K-$1M for market due diligence. The process takes weeks, and the output is a static PowerPoint that's impossible to audit. A single large-cap PE fund can spend >$30M annually on this and the total market is $10B+ per year.\r\n\r\nOur AI agents conduct expert interviews and synthesize insights with every claim linked to source transcripts. No black box, no \"trust me\" slides, and no 10x mark-up for human labor.\r\n\r\nFrederik bought these reports as a Principal at Blackstone. Soren sold them as a Principal at BCG. Harshil is a repeat founder and former Software Engineer at Google. We've seen both sides and know what matters in due diligence - and now we automate it.\r\n\r\nOur clients already include two of the world's five largest PE funds, and several mid-market funds - demonstrating broad appeal of our technology. Potential clients with users on our platform represent 60% of the top-30 PE funds globally.",
+    "one_liner": "AI-powered market due diligence for investment decisions",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1762366564,
+    "tags": [
+      "Artificial Intelligence",
+      "Analytics",
+      "Market Research"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/diligencesquared-inc",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/diligencesquared-inc.json"
+  },
+  {
     "id": 30995,
     "name": "Velvet",
     "slug": "velvet",
@@ -4888,6 +5094,46 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/velvet",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/velvet.json"
+  },
+  {
+    "id": 30996,
+    "name": "Axial Composites Industries",
+    "slug": "axial-composites-industries",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/007bb2c508bd83c57c360e94b7f692b23ba29ca1.png",
+    "website": "https://www.axialcomposite.com",
+    "all_locations": "",
+    "long_description": "Composites manufacturing is expensive and slow. \r\n\r\nWe are building a non-planar manufacturing cell that can produce thermoplastic composites by continuous fiber injection. \r\n\r\nThis not only allows for shorter lead times and iteration cycles, but it unlocks new possibilities for manufacturing composites. Our method can produce stronger and lighter parts by leveraging fiber anisotropy to our advantage. \r\n\r\nWe are commercializing a new approach to composite manufacturing that aims to be the backbone of the next aerospace and robotics age. ",
+    "one_liner": "Manufacturing cell for automated carbon fiber parts production",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1757132336,
+    "tags": [
+      "Hard Tech",
+      "Manufacturing",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/axial-composites-industries",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/axial-composites-industries.json"
   },
   {
     "id": 30997,

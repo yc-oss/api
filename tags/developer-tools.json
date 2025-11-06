@@ -9523,13 +9523,15 @@
     "website": "https://www.worldql.com/",
     "all_locations": "Denver, CO, USA; Remote",
     "long_description": "",
-    "one_liner": "Multiplayer game engine for RL environments",
+    "one_liner": "Browser-based game engine for AI training and creative play",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1648654841,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
+      "Reinforcement Learning",
       "Gaming"
     ],
     "tags_highlighted": [],
@@ -20028,48 +20030,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/promptless.json"
   },
   {
-    "id": 30212,
-    "name": "superglue",
-    "slug": "superglue",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d8702327beeb6c4e9700c883d54481531ce4f3b.png",
-    "website": "https://superglue.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "superglue automates workflows from natural language. Engineering teams use it to make agents reliable in prod: it lets them build deterministic workflows across apps, APIs and databases. Non-technical teams use it to automate complex workflows, without the need for engineers.",
-    "one_liner": "Workflow automation engine",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1737761136,
-    "tags": [
-      "Developer Tools",
-      "Open Source",
-      "API",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/superglue",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/superglue.json"
-  },
-  {
     "id": 30213,
     "name": "Truffle AI",
     "slug": "truffle-ai",
@@ -21451,7 +21411,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -21697,10 +21657,10 @@
     "subindustry": "B2B",
     "launched_at": 1756399069,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Workflow Automation",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22484,6 +22444,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/interfere.json"
   },
   {
+    "id": 30804,
+    "name": "Luminal",
+    "slug": "luminal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d9c818fe88489dd24e5032f7a25a97571050869.png",
+    "website": "https://luminal.com",
+    "all_locations": "",
+    "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",
+    "one_liner": "Making AI run fast on any hardware.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1752295982,
+    "tags": [
+      "AIOps",
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/luminal",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/luminal.json"
+  },
+  {
     "id": 30846,
     "name": "Parse",
     "slug": "parse-bot",
@@ -22709,11 +22710,11 @@
     "subindustry": "Unspecified",
     "launched_at": 1762303410,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Analytics",
-      "Market Research"
+      "Market Research",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23152,6 +23153,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/uselemma",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/uselemma.json"
+  },
+  {
+    "id": 30972,
+    "name": "Jarmin",
+    "slug": "jarmin",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a48984c0a7bc281e9b076876c8d571aaf44c799e.png",
+    "website": "https://jarmin.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Jarmin.ai is your 24/7 ML eng employee that you hire. Just talk to Jarmin like any other employee and Jarmin handles your AI/ML work from there. Completely hand over full initiatives or individual tasks.\r\n\r\nJarmin’s founding team is from Meta Super Intelligence Labs (Staff Engineers), Apple (Machine Learning Engineer), and AWS (scaling infra) with experience building AI/ML and automating complex work of Researchers, Data Scientists, ML Engineers with AI.",
+    "one_liner": "24/7 Machine Learning Engineer employees",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762304310,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "B2B",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/jarmin",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/jarmin.json"
   },
   {
     "id": 31001,

@@ -5248,7 +5248,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Tracecat helps security, IT, and production support engineers close tickets fast. We provide everything they need to automate mission-critical work — AI agents, workflow builder, and case management.\r\n\r\nBuilt open source on open source (Temporal, Pydantic AI, Postgres, Clickhouse). Founded in 2024, deployed by more than 200 organizations from startups to Fortune 500 and federal agencies.",
     "one_liner": "All-in-one AI automation platform for security and IT teams",
-    "team_size": 3,
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1704382841,
@@ -5852,20 +5852,20 @@
       "Odo Labs"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1708fa08344b75fc38d36f9effcf823a2fb93846.png",
-    "website": "https://www.odo.do/",
+    "website": "https://useodo.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "State and local governments buy $1.5TN worth of products and services from companies every year. However, the process of finding and winning government contracts is extremely fragmented, non-standardized, and time consuming today.\r\n\r\nOdo is the first AI-powered platform to help companies win state and local government contracts. Odo can find relevant contracts, draft proposals, and analyze why companies won or lost through public records sourcing. Our customers have saved up to 80% of time drafting proposals and increased their win rates.",
-    "one_liner": "Help companies find and win government contracts with AI",
+    "long_description": "Odo is your email assistant because you deserve a better morning. Odo can help you organize, draft emails, and follow-up effortlessly after meetings.",
+    "one_liner": "Your email assistant because you deserve a better morning",
     "team_size": 2,
-    "industry": "Government",
+    "industry": "B2B",
     "subindustry": "Government",
     "launched_at": 1717022864,
     "tags": [
-      "Generative AI",
-      "GovTech",
-      "B2B",
+      "SaaS",
       "Productivity",
-      "Procurement"
+      "Email",
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5874,7 +5874,7 @@
     "batch": "Summer 2024",
     "status": "Active",
     "industries": [
-      "Government"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -6664,8 +6664,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15e87b5dae1ddc0ace7595505c49a86f51b6979a.png",
     "website": "https://epicenter.md",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Epicenter is building ChatGPT's memory feature in an open, portable format. This means you can take your entire chat history and plug it into another app, so it knows you instantly.\r\n\r\nOur long-term vision is to become the SSO for AI applications. Users use Epicenter to plug into any service, and they'll own their data, choose their models, and replace siloed apps with interoperable alternatives. Developers will use our framework to build highly customized experiences for said users.\r\n\r\nRight now, we're leading by example by building our own suite of tools on top of Epicenter. We store all your work—notes, transcripts, chat histories—in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, and so on. It's open, tweakable, and transparent. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nYou should own your memory in the same way you own your brain. ❤️",
-    "one_liner": "A database for your mind, built on plain text.",
+    "long_description": "Epicenter is an ecosystem of open-source, local-first apps. We store all your work—notes, transcripts, chat histories—in a single folder of plain text and SQLite. Every tool we build shares this memory: your text editor, personal assistant, etc.. It's open, tweakable, and yours. Grep it, open it in Obsidian, host it wherever you like. The choice is yours.\r\n\r\nOur vision is to build a personal workspace where you own your data, choose your own AI models, and replace siloed apps with open, interoperable alternatives. All while preserving authenticity and being free and open source. ❤️",
+    "one_liner": "Open-source, local-first apps that share a memory.",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -6828,6 +6828,47 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pally.json"
   },
   {
+    "id": 30837,
+    "name": "AirCaps",
+    "slug": "aircaps",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/839111803eb4ccce6e6e411847617a96d8d7d880.png",
+    "website": "https://aircaps.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AirCaps is bringing AI assistance to real-world conversations. \r\n\r\nOur software provides live captions, translations, and proactive AI insights for meetings in your field of view on lightweight AR glasses.\r\n\r\nWe started by helping people with hearing loss understand speech with real-world captions, then expanded to breaking down language barriers with live translation, and now provide AI support during important meetings for professionals.\r\n\r\nWe’ve already transcribed 15,000 hours of in-person conversations and counting. Today, AirCaps assists with 11% of our users’ in-person conversations.\r\n\r\nWe did $93K in revenue in October and grew 6.5x from September while spending <$3K on marketing. Our power users average 6h+ daily usage and our day-30 retention is 91%.\r\n\r\nWe previously went viral (75M+ views on TikTok, 150K+ followers) and have been featured by The New Yorker, WIRED, and Forbes.\r\n\r\nWe’re building intelligence for the 200 billion daily conversations that happen face-to-face. \r\n\r\nMadhav (CEO, Yale CS) has been building on smart glasses since age 13, starting with Google Glass apps. He researched audio AI at the MIT Media Lab. Nirbhay (CTO, Cornell CS) built voice AI on smart glasses in high school and built conversational AI products as the first engineer at 2 YC startups.",
+    "one_liner": "Bringing AI assistance to real-world conversations. ",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Consumer Electronics",
+    "launched_at": 1760571679,
+    "tags": [
+      "Augmented Reality",
+      "Productivity",
+      "AI",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aircaps",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/aircaps.json"
+  },
+  {
     "id": 30861,
     "name": "Caddy",
     "slug": "caddy",
@@ -6877,15 +6918,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2b42e4b482076bb918488b3c6413ecb91ebf8e4.png",
     "website": "https://trylogical.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Logical is a desktop AI that acts as a proactive and largely promptless copilot, designed to reduce the friction of using AI for everyday tasks. It transfers context across apps, and allows taking action on many apps with just a few clicks. Logical can assist with drafting emails, writing docs, noting meetings and can even automatically detect action items. Need to prompt? Logical can understand intent in much fewer words than a regular chatbot. Plus, user data is never sent to Logical servers.",
+    "long_description": "Logical is a desktop AI that acts as a proactive and largely promptless copilot, designed to reduce the friction of using AI for everyday tasks. It transfers context across apps, and allows taking action on many apps with just a few clicks. Logical can assist with drafting emails, writing docs, noting meetings and can even automatically detect action items. Need to prompt? Logical can understand intent in much fewer words than a regular chatbot. Plus, user data is never sent to Logical servers. Logical is the AI resurrection of Clippy, but actually good.",
     "one_liner": "A hyper context-aware and proactive desktop AI copilot",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1761643617,
     "tags": [
-      "Artificial Intelligence",
+      "Consumer",
+      "B2B",
       "Productivity",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

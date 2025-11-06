@@ -4594,7 +4594,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -11011,10 +11011,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Fintech",
       "Credit and Lending"
@@ -11025,7 +11025,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -21803,10 +21803,10 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9e23dd28085a1e8e08c55a386fdd94d4eed49462.png",
     "website": "https://www.littio.co/",
-    "all_locations": "Bogotá, Bogota, Colombia; Remote",
+    "all_locations": "Bogotá, Bogota, Colombia",
     "long_description": "Littio is a neobank focused on solving the currency devaluation problem for Latin Americans. The product offers a Savings Account, a Mastercard debit, and investing options in U.S. dollars to help people avoid the currency risk.",
     "one_liner": "Dollar banking for people in Latin America",
-    "team_size": 28,
+    "team_size": 37,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1673386052,
@@ -21830,7 +21830,7 @@
       "Colombia",
       "Latin America",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -22237,7 +22237,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bc48fe8121550891d4d5f63eb127e89d23e40dd1.png",
     "website": "https://www.governgpt.com/",
     "all_locations": "Montreal, QC, Canada",
-    "long_description": "For money managers to raise their next billion, they dedicate entire teams to spend days filling diligence questionnaires with recycled content. We do it in minutes using AI.\r\nClients include Bridgewater, Coatue, Onex, Urban Partners, Yarra Capital, Axonic, NIAM, Raith Capital, Intl Farming, Hillsdale, White Oak, etc. ",
+    "long_description": "For money managers to raise their next billion, they dedicate entire teams to spend days filling diligence questionnaires with recycled content. We do it in minutes using AI.\r\nClients include Bridgewater, Pantheon, Coatue, Onex, Urban Partners, Yarra Capital, Axonic, NIAM, Raith Capital, Intl Farming, Hillsdale, White Oak, etc. ",
     "one_liner": "The RFP Platform Asset Managers Adopt",
     "team_size": 6,
     "industry": "Fintech",
@@ -23595,7 +23595,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -23698,14 +23698,14 @@
   },
   {
     "id": 29646,
-    "name": "Corgi Insurance",
-    "slug": "corgi-insurance",
+    "name": "Corgi",
+    "slug": "corgi",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f66899a62764756d799d5abc511dc4b46f8c151.png",
     "website": "https://corgi.insure",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corgi Insurance is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We’re taking it all.",
-    "one_liner": "Corgi is building an AI insurance company",
+    "long_description": "Corgi the AI financial infrastructure company. We are headquartered in San Francisco, with offices in Salt Lake City, Dallas, Chicago, and Atlanta.",
+    "one_liner": "Corgi is building an AI financial infrastructure company",
     "team_size": 70,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -23734,8 +23734,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/corgi-insurance",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/corgi-insurance.json"
+    "url": "https://www.ycombinator.com/companies/corgi",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/corgi.json"
   },
   {
     "id": 29730,
@@ -23863,46 +23863,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/paasa",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/paasa.json"
-  },
-  {
-    "id": 29792,
-    "name": "Winford Wealth",
-    "slug": "winford-wealth",
-    "former_names": [
-      "FundAImental",
-      "fundaimental",
-      "Fundaimental"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ee08623be14d88fb653c6b675912843b4f87e66.png",
-    "website": "https://winfordwealth.com",
-    "all_locations": "",
-    "long_description": "We’re solving personal finances for a generation that’s been left to figure it all out alone. From managing cash to filing taxes to actually starting to invest, Winford gives everyone the real guidance and tools they need, all in one place. Download our app on the app store to get started!\r\n\r\nWe also offer a cash account (AlphaCash) that goes beyond traditional and high yield savings accounts — allocating your idle dollars into high-quality, short-term bonds through money market funds, personalized for your taxes and goals. Included with Winford subscriptions or available on its own.",
-    "one_liner": "Making Money Make Sense For Everyone",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1722879025,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Consumer Finance"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/winford-wealth",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/winford-wealth.json"
   },
   {
     "id": 29796,
@@ -24289,15 +24249,15 @@
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Our platform makes it simple for small businesses to compare top-rated business insurance providers, buy the right coverage online, and manage policies all in one place.\r\n\r\nIf you're a carrier interested in partnering, send us a DM.",
-    "one_liner": "AI-native insurance agency to compare, buy, and manage coverage.",
+    "one_liner": "AI-native insurance brokerage to compare, buy, and manage coverage.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1731782052,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25652,23 +25612,17 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c62fd75050245643921b794ea15f1786d2ee9033.png",
     "website": "https://selfin.app",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single intelligent platform. ",
     "one_liner": "The first AI Bank",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1759770880,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Finance",
-      "Consumer Finance",
-      "Neobank"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -25676,8 +25630,7 @@
       "Fintech"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -25813,5 +25766,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/freeport-markets",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/freeport-markets.json"
+  },
+  {
+    "id": 30992,
+    "name": "Amera",
+    "slug": "amera",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d11b3366a660003662af3941c9320ee9f871e73.png",
+    "website": "https://amerahealthsolutions.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Amera automates claims processing for health insurance payers, converting messy data into clean, usable formats that speed up operations, reduce costs, and make them more transparent. \r\n\r\nWe are already working with payers representing tens of thousands of members, giving them access to more affordable care options.",
+    "one_liner": "Automating claims processing workflows for health insurance payers.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1762373612,
+    "tags": [
+      "Workflow Automation",
+      "Health Insurance",
+      "Healthcare IT"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/amera",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/amera.json"
   }
 ]

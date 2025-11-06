@@ -4251,7 +4251,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -10052,7 +10052,7 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/marketforce",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/marketforce.json"
@@ -12890,10 +12890,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "Fintech",
       "Credit and Lending"
@@ -12904,7 +12904,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -39618,51 +39618,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/baseline-ai.json"
   },
   {
-    "id": 29795,
-    "name": "Odo",
-    "slug": "odo",
-    "former_names": [
-      "Odo",
-      "Odo Labs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1708fa08344b75fc38d36f9effcf823a2fb93846.png",
-    "website": "https://www.odo.do/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "State and local governments buy $1.5TN worth of products and services from companies every year. However, the process of finding and winning government contracts is extremely fragmented, non-standardized, and time consuming today.\r\n\r\nOdo is the first AI-powered platform to help companies win state and local government contracts. Odo can find relevant contracts, draft proposals, and analyze why companies won or lost through public records sourcing. Our customers have saved up to 80% of time drafting proposals and increased their win rates.",
-    "one_liner": "Help companies find and win government contracts with AI",
-    "team_size": 2,
-    "industry": "Government",
-    "subindustry": "Government",
-    "launched_at": 1717022864,
-    "tags": [
-      "Generative AI",
-      "GovTech",
-      "B2B",
-      "Productivity",
-      "Procurement"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Government"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/odo",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/odo.json"
-  },
-  {
     "id": 29796,
     "name": "Finosu",
     "slug": "finosu",
@@ -40237,15 +40192,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "BrowserOS is an open-source agentic browser that runs AI agents locally.",
     "one_liner": "The Open Source Agentic Browser",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "Consumer",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1722468998,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Consumer",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42219,16 +42174,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Cenote uses AI to automate the back office for medical practices — eliminating the bottlenecks that often delay patient care and clinic revenue.\r\n\r\nTypically, practices hire teams to manually extract patient info from hundreds to thousands of faxes a week. This slow process risks losing patients to faster competitors. Cenote’s software streamlines this workflow. \r\n\r\nThere are 330,000 medical practices in the U.S Capturing $50,000 per practice presents a $16.5 Billion opportunity.\r\n\r\nThe team behind Cenote—Kofi, Ajani, and Kristy—met in San Francisco and bring deep expertise in building scalable solutions for highly-regulated industries such as climate and gov tech.",
     "one_liner": "Automate back office tasks for medical clinics",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1737428048,
     "tags": [
+      "Artificial Intelligence",
       "Robotic Process Automation",
       "Health Tech",
       "B2B",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46339,8 +46294,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ce6100b0248b0cf8f017986931a26cfe36046f3.png",
     "website": "https://sylvian.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sylvian creates tool use environments and gathers expert tool use data (e.g. computer use, VSCode, Excel) for LLMs. We gather 1B tokens/week from experts ranging from IMO Golds to MIT/Stanford PhDs to full time quant researchers at Point72.",
-    "one_liner": "Expert tool use data for LLMs",
+    "long_description": "Sylvian creates expert data for LLMs through competitions.\r\n\r\nLLMs continue to need lots of expert data. Unfortunately, existing data vendors like Scale or Mercor are not motivating the best experts through part-time pay. Competitions are more intrinsic motivators, and naturally incentivize high quality data.\r\n\r\nSylvian creates expert data for LLMs through competitions, starting with tool use data (e.g. Excel, VSCode). We already have 4,500+ experts, from IMO Golds to MIT/Stanford PhDs to full time QRs at Point72, producing data at 1B tokens/week!",
+    "one_liner": "Data for LLMs through Competition",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -46422,7 +46377,7 @@
     "former_names": [
       "Auler"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/116a7916c95520914702391b640fde340a3d901b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fce09b41be7523bc55b3742c8d06ae8ddf424a0d.png",
     "website": "https://aspect.inc",
     "all_locations": "",
     "long_description": "When footage comes off a camera, post-production teams spend hours organizing their project, assembling rough cuts, reviewing for changes and mistakes, and sending the right links to the right people.\r\n\r\nAspect is a platform with AI agents that understand a team’s video library and workflows better than humans. These agents fill the roles of a media team’s post-production assistant, so creatives can focus on what they love instead of managing media back-office tasks.",
@@ -46767,11 +46722,11 @@
     "subindustry": "Unspecified",
     "launched_at": 1762303410,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Analytics",
-      "Market Research"
+      "Market Research",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46793,6 +46748,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sanctum",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sanctum.json"
+  },
+  {
+    "id": 30907,
+    "name": "Logical",
+    "slug": "logical",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2b42e4b482076bb918488b3c6413ecb91ebf8e4.png",
+    "website": "https://trylogical.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Logical is a desktop AI that acts as a proactive and largely promptless copilot, designed to reduce the friction of using AI for everyday tasks. It transfers context across apps, and allows taking action on many apps with just a few clicks. Logical can assist with drafting emails, writing docs, noting meetings and can even automatically detect action items. Need to prompt? Logical can understand intent in much fewer words than a regular chatbot. Plus, user data is never sent to Logical servers. Logical is the AI resurrection of Clippy, but actually good.",
+    "one_liner": "A hyper context-aware and proactive desktop AI copilot",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1761643617,
+    "tags": [
+      "Consumer",
+      "B2B",
+      "Productivity",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/logical",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/logical.json"
   },
   {
     "id": 30911,
@@ -47513,6 +47511,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/uselemma",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/uselemma.json"
+  },
+  {
+    "id": 30972,
+    "name": "Jarmin",
+    "slug": "jarmin",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a48984c0a7bc281e9b076876c8d571aaf44c799e.png",
+    "website": "https://jarmin.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Jarmin.ai is your 24/7 ML eng employee that you hire. Just talk to Jarmin like any other employee and Jarmin handles your AI/ML work from there. Completely hand over full initiatives or individual tasks.\r\n\r\nJarmin’s founding team is from Meta Super Intelligence Labs (Staff Engineers), Apple (Machine Learning Engineer), and AWS (scaling infra) with experience building AI/ML and automating complex work of Researchers, Data Scientists, ML Engineers with AI.",
+    "one_liner": "24/7 Machine Learning Engineer employees",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762304310,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "B2B",
+      "ML"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/jarmin",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/jarmin.json"
   },
   {
     "id": 30982,

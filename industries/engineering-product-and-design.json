@@ -4086,7 +4086,8 @@
     "name": "EnvKey",
     "slug": "envkey",
     "former_names": [
-      "EnvKey"
+      "EnvKey",
+      "Plandex"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e132ca0e6ddbcae5090360eedff8684f41d05ef.png",
     "website": "https://envkey.com",
@@ -4105,7 +4106,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2018",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -12067,6 +12068,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/query-vary.json"
   },
   {
+    "id": 26144,
+    "name": "OpenBuilder",
+    "slug": "openbuilder",
+    "former_names": [
+      "Personabo",
+      "EasyCode (Formerly Personabo)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c40216045ca29b497365fcbc575ae3076769060e.png",
+    "website": "https://theopenbuilder.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "OpenBuilder is an open vibe coding platform that helps non-technical builders take their ideas to production. Instead of paying for credits, getting stuck and being locked-in, OpenBuilder is 100% free to build on, only charges to get you unstuck and ready for launch. ",
+    "one_liner": "Open source Lovable alternative that gets you unstuck",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1680284500,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Open Source",
+      "No-code"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openbuilder",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/openbuilder.json"
+  },
+  {
     "id": 26205,
     "name": "Karate Labs",
     "slug": "karate-labs",
@@ -16205,8 +16251,8 @@
     "website": "https://giga.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
-    "one_liner": "AI customer service agent for B2C  Companies",
-    "team_size": 20,
+    "one_liner": "AI Support Agent for Enterprises.",
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689858919,
@@ -20870,16 +20916,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d8702327beeb6c4e9700c883d54481531ce4f3b.png",
     "website": "https://superglue.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "superglue automates workflows from natural language. Engineering teams use it to make agents reliable in prod: it lets them build deterministic workflows across apps, APIs and databases. Non-technical teams use it to automate complex workflows, without the need for engineers.",
-    "one_liner": "Workflow automation engine",
-    "team_size": 2,
+    "long_description": "superglue replaces brittle SQL scripts, cron jobs, and one-off connectors that power enterprise operations with clean, versioned syncs you can actually understand and trust. It rebuilds the logic behind integrations, so migrating systems, adding tools, or scaling processes no longer breaks everything. Companies running on superglue roll out AI projects faster, spend less on maintenance, and future-proof their business for continuous optimization.",
+    "one_liner": "AI that fixes enterprise glue",
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1737761136,
     "tags": [
-      "Developer Tools",
       "Open Source",
       "API",
+      "Enterprise",
+      "Enterprise Software",
       "AI"
     ],
     "tags_highlighted": [],
@@ -22430,7 +22477,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -22973,14 +23020,14 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1c39b5d4fddfc8f8d3f3f4fe8f07a353ec5c7b1.png",
     "website": "https://www.wafer.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Host AI models on custom infrastructure optimized for time-sensitive applications. Custom Trained Models, Dedicated Infrastructure, and Protected Data.\r\n\r\nWe provide scalable compute, optimized inference engines, intelligent routing and autoscaling, real-time observability, and kernel-level performance optimizations, with strict SLAs and white-glove support. \r\n\r\nHerdora's long-term bet is maximizing intelligence per watt.\r\n\r\nAI is clearly going to be everywhere. The constraint won't be what models can do, but how much intelligence we can afford to run. \r\n\r\nMost companies waste enormous compute running inference inefficiently. They use the wrong models, bad serving stacks, and infrastructure that wasn't built for their actual workload. We focus on serving enterprises that need the best performance and reliability in the world while keeping control and visibility.",
-    "one_liner": "Optimized AI Inference. Custom Built for Your Stack.",
+    "long_description": "Every successful tool is a bet on efficiency. A waterwheel grinds more grain per unit effort than a quern. A transistor switches more operations per watt than a vacuum tube. This is civilization's pattern: do more work with less energy.\r\n\r\nFor ten thousand years, efficiency meant physical work. Intellectual work rode the surplus. Better farming, manufacturing, transport. But the brain itself bottlenecked every intellectual task.\r\n\r\nCompute changes this. For the first time, we can drive efficiency gains in intellectual work directly. Any repeatable job with measurable output has an efficiency ratio. Useful work divided by energy consumed. Intelligence per watt.\r\n\r\nHumans perform tasks at some quality-weighted outcomes per kilowatt-hour. AI systems do the same jobs. We can measure both the same way. AI is crossing the human baseline. Domain after domain.\r\n\r\nThe world's hardest problems are information problems, and human intelligence is no longer the limit. The cost of intelligence per unit of energy is the limit. Every order of magnitude drop in cost expands the set of solvable problems.\r\n\r\nOur mission at Wafer is to maximize intelligence per watt by using AI to optimize AI infrastructure, achieving thousands of times better energy and cost efficiency.\r\n\r\nWe want people to do their life's work here in pursuit of radical abundance. We believe cheap intelligence is the most essential piece of technology for a future of abundance. We will build the future with intelligence \"too cheap to meter.\"",
+    "one_liner": "AI that optimizes AI infrastructure",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751530242,
     "tags": [
-      "AI"
+      "Artificial Intelligence"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23707,7 +23754,7 @@
     "former_names": [
       "Auler"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/116a7916c95520914702391b640fde340a3d901b.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fce09b41be7523bc55b3742c8d06ae8ddf424a0d.png",
     "website": "https://aspect.inc",
     "all_locations": "",
     "long_description": "When footage comes off a camera, post-production teams spend hours organizing their project, assembling rough cuts, reviewing for changes and mistakes, and sending the right links to the right people.\r\n\r\nAspect is a platform with AI agents that understand a team’s video library and workflows better than humans. These agents fill the roles of a media team’s post-production assistant, so creatives can focus on what they love instead of managing media back-office tasks.",

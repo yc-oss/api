@@ -91,6 +91,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2019/rct-studio.json"
   },
   {
+    "id": 25306,
+    "name": "WorldQL",
+    "slug": "worldql",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/401194aca65ea13eef2464d414e25b5b43c7854f.png",
+    "website": "https://www.worldql.com/",
+    "all_locations": "Denver, CO, USA; Remote",
+    "long_description": "",
+    "one_liner": "Browser-based game engine for AI training and creative play",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1648654841,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Reinforcement Learning",
+      "Gaming"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/worldql",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/worldql.json"
+  },
+  {
     "id": 27882,
     "name": "Velos",
     "slug": "velos",
@@ -777,8 +821,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ce6100b0248b0cf8f017986931a26cfe36046f3.png",
     "website": "https://sylvian.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sylvian creates tool use environments and gathers expert tool use data (e.g. computer use, VSCode, Excel) for LLMs. We gather 1B tokens/week from experts ranging from IMO Golds to MIT/Stanford PhDs to full time quant researchers at Point72.",
-    "one_liner": "Expert tool use data for LLMs",
+    "long_description": "Sylvian creates expert data for LLMs through competitions.\r\n\r\nLLMs continue to need lots of expert data. Unfortunately, existing data vendors like Scale or Mercor are not motivating the best experts through part-time pay. Competitions are more intrinsic motivators, and naturally incentivize high quality data.\r\n\r\nSylvian creates expert data for LLMs through competitions, starting with tool use data (e.g. Excel, VSCode). We already have 4,500+ experts, from IMO Golds to MIT/Stanford PhDs to full time QRs at Point72, producing data at 1B tokens/week!",
+    "one_liner": "Data for LLMs through Competition",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
