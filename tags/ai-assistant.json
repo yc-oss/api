@@ -3065,7 +3065,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/885d2be670d352a8d396403e926005fd75ce210b.png",
     "website": "https://sweep.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Use your favorite JetBrains IDE without compromising on AI or privacy.",
+    "long_description": "Use your favorite JetBrains IDE without compromising on AI. Sweep is the best autocomplete and agent in JetBrains: https://plugins.jetbrains.com/plugin/26860-sweep-ai",
     "one_liner": "The best AI coding assistant for JetBrains",
     "team_size": 4,
     "industry": "B2B",
@@ -6159,17 +6159,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48c389a46401af22e7cde8396ad1941ad05a7401.png",
     "website": "https://www.brickwiseai.com",
     "all_locations": "",
-    "long_description": "We've built an AI property manager that automates maintenance for Landlord's and Property Managers. Brickwise handles tenant calls and messages 24/7, following up by chasing contractors and resolving paymens.\r\n\r\nThis provides higher tenant satisfaction, while also simplifying the workloads of property managers. Our property manager operates across all communication channels, including SMS, WhatsApp, phone calls, and email, making it easy to integrate with existing workflows.",
+    "long_description": "We've built an AI property manager that automates maintenance for Landlord's and Property Managers. Brickwise handles tenant calls and messages 24/7, following up by chasing contractors and resolving payments.\r\n\r\nThis provides higher tenant satisfaction, while also simplifying the workloads of property managers. Our property manager operates across all communication channels, including SMS, WhatsApp, phone calls, and email, making it easy to integrate with existing workflows.",
     "one_liner": "AI property manager for landlords and estate agents",
     "team_size": 3,
     "industry": "Real Estate and Construction",
     "subindustry": "B2B",
     "launched_at": 1762137164,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Real Estate",
       "Proptech",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -6192,48 +6192,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/brickwise",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/brickwise.json"
-  },
-  {
-    "id": 30861,
-    "name": "Caddy",
-    "slug": "caddy",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bac17a1edc08045fefbaf98ea25aab130faa01de.png",
-    "website": "https://trycaddy.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We are building Siri for work, but it actually works. Caddy turns your voice into the next computing interface. It understands what’s on your screen and your intent, so work gets done while you stay in flow.\r\n\r\nSay “create a Linear ticket and share it to Slack” and Caddy handles it instantly in the background.\r\n\r\nCaddy’s founders previously led product and design for Loom’s AI suite and core products. We believe the next era of computing will be powered by voice, where computers understand what you say and what’s on your screen so work happens naturally.",
-    "one_liner": "Control all your work apps with your voice",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1761153567,
-    "tags": [
-      "SaaS",
-      "Productivity",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/caddy",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/caddy.json"
   },
   {
     "id": 30865,
@@ -6278,6 +6236,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunavo.json"
   },
   {
+    "id": 30874,
+    "name": "Iris",
+    "slug": "iriscal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab0621356dad2e93ac6c0e1b6a09ff4607f0968f.png",
+    "website": "https://textiris.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Iris connects all your calendars and inboxes in one place with a built in personal assistant. It connects with Gmail, Google Calendar, Maps, and more to understand your context - what you’re working on, who you’re meeting, and where you need to be - and intelligently organizes your time around what actually matters. \r\n\r\nUnlike assistants that just schedule events, Iris learns your rhythm and automates your workflow: drafting emails, moving meetings, blocking focus time, and coordinating across accounts, all with your approval. \r\n\r\nWe’re building the next generation of personal AI, one that keeps you ahead.",
+    "one_liner": "All your calendars and inboxes, powered by an intelligent assistant.",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1762405247,
+    "tags": [
+      "Consumer",
+      "Productivity",
+      "Calendar",
+      "Email",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/iriscal",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/iriscal.json"
+  },
+  {
     "id": 30877,
     "name": "Questom",
     "slug": "questom",
@@ -6285,8 +6285,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81175075c72341af5dddb09d4bca172f70accf41.png",
     "website": "https://www.questom.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI Customer Support for the Merchandise Industry. Companies like Custom Ink and Shutterfly use our AI agents to power their sales and support.",
-    "one_liner": "AI Customer Support for the Merchandise Industry. ",
+    "long_description": "AI sales and support for the custom merchandise industry. We automate quoting, customer service, and follow-ups through voice, chat, and email agents.",
+    "one_liner": "AI Sales and Support for Merch Companies",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -6445,6 +6445,45 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/bravi",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bravi.json"
+  },
+  {
+    "id": 30928,
+    "name": "Thesis Labs",
+    "slug": "thesis-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
+    "website": "https://thesislabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "What if we could discover the next Transformer, invent the next AlphaFold, 10x faster? We are building systems that collaborate with humans to invent, train, and refine machine learning models. These agents operate in continuous, self-improving loops, guided by human creativity and intuition. Together, they accelerate the entire lifecycle of AI R&D, from idea to implementation.",
+    "one_liner": "Thesis is an applied research lab accelerating human-in-the-loop AI…",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762476616,
+    "tags": [
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/thesis-labs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis-labs.json"
   },
   {
     "id": 30943,

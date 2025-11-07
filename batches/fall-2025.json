@@ -11,16 +11,16 @@
     "website": "https://theopenbuilder.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "OpenBuilder is an open vibe coding platform that helps non-technical builders take their ideas to production. Instead of paying for credits, getting stuck and being locked-in, OpenBuilder is 100% free to build on, only charges to get you unstuck and ready for launch. ",
-    "one_liner": "Open source Lovable alternative that gets you unstuck",
+    "one_liner": "Open source Lovable that gets you unstuck",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1680284500,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Open Source",
-      "No-code"
+      "No-code",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -693,17 +693,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/48c389a46401af22e7cde8396ad1941ad05a7401.png",
     "website": "https://www.brickwiseai.com",
     "all_locations": "",
-    "long_description": "We've built an AI property manager that automates maintenance for Landlord's and Property Managers. Brickwise handles tenant calls and messages 24/7, following up by chasing contractors and resolving paymens.\r\n\r\nThis provides higher tenant satisfaction, while also simplifying the workloads of property managers. Our property manager operates across all communication channels, including SMS, WhatsApp, phone calls, and email, making it easy to integrate with existing workflows.",
+    "long_description": "We've built an AI property manager that automates maintenance for Landlord's and Property Managers. Brickwise handles tenant calls and messages 24/7, following up by chasing contractors and resolving payments.\r\n\r\nThis provides higher tenant satisfaction, while also simplifying the workloads of property managers. Our property manager operates across all communication channels, including SMS, WhatsApp, phone calls, and email, making it easy to integrate with existing workflows.",
     "one_liner": "AI property manager for landlords and estate agents",
     "team_size": 3,
     "industry": "Real Estate and Construction",
     "subindustry": "B2B",
     "launched_at": 1762137164,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Real Estate",
       "Proptech",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -952,7 +952,12 @@
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1758900227,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Infrastructure",
+      "Conversational AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -1198,10 +1203,10 @@
     "subindustry": "B2B -> Sales",
     "launched_at": 1761153567,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Productivity",
-      "AI",
-      "AI Assistant"
+      "Workflow Automation",
+      "Productivity"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1402,18 +1407,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e01ef6c12327b08c5946d9935ec8b977e130305.png",
     "website": "https://soren-ai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Vertical AI needs vertical evals.\r\n\r\nVertical AI applications are rapidly being adopted in real-world workflows. Yet there’s still no good way to rigorously evaluate their performance -- especially on complex, multi-step workflows.\r\n\r\nSoren AI helps teams curate high-quality datasets and benchmarks and provides the infrastructure to run these evaluations end to end.\r\n\r\nIf you want to make your AI more reliable, book a time at: https://soren-ai.com/",
-    "one_liner": "Domain-specific evals for your vertical AI",
+    "long_description": "Soren is building the first autonomous QA engineer for AI systems.\r\n\r\nToday, every model or prompt update risks introducing regressions, forcing teams to spend hundreds of hours maintaining evals and debugging failures.\r\n\r\nSoren automates the entire evaluation process — dynamically updating tests, surfacing root causes, and running experiments to test fixes.\r\n\r\nWe replace manual triage with adaptive, AI-driven evals that help teams ship more reliable AI, faster.",
+    "one_liner": "Autonomous QA engineer for AI systems",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1759390917,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Analytics"
+      "Analytics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1602,6 +1607,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/playvision.json"
   },
   {
+    "id": 30874,
+    "name": "Iris",
+    "slug": "iriscal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ab0621356dad2e93ac6c0e1b6a09ff4607f0968f.png",
+    "website": "https://textiris.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Iris connects all your calendars and inboxes in one place with a built in personal assistant. It connects with Gmail, Google Calendar, Maps, and more to understand your context - what you’re working on, who you’re meeting, and where you need to be - and intelligently organizes your time around what actually matters. \r\n\r\nUnlike assistants that just schedule events, Iris learns your rhythm and automates your workflow: drafting emails, moving meetings, blocking focus time, and coordinating across accounts, all with your approval. \r\n\r\nWe’re building the next generation of personal AI, one that keeps you ahead.",
+    "one_liner": "All your calendars and inboxes, powered by an intelligent assistant.",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1762405247,
+    "tags": [
+      "Consumer",
+      "Productivity",
+      "Calendar",
+      "Email",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/iriscal",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/iriscal.json"
+  },
+  {
     "id": 30875,
     "name": "Veria Labs",
     "slug": "veria-labs",
@@ -1649,8 +1696,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81175075c72341af5dddb09d4bca172f70accf41.png",
     "website": "https://www.questom.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI Customer Support for the Merchandise Industry. Companies like Custom Ink and Shutterfly use our AI agents to power their sales and support.",
-    "one_liner": "AI Customer Support for the Merchandise Industry. ",
+    "long_description": "AI sales and support for the custom merchandise industry. We automate quoting, customer service, and follow-ups through voice, chat, and email agents.",
+    "one_liner": "AI Sales and Support for Merch Companies",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -1692,8 +1739,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88689b5dae77948437304c27aefbb12261dcacb3.png",
     "website": "https://www.cranstonai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Cranston is a full service accounting firm. We handle bookkeeping, corporate taxes, and financial automations for SMB and mid market companies with AI software and a CPA team. We pull in context from all your company's apps & data, connect to existing systems of record and handle repetitive finance work.\r\n\r\nWe provide an intelligence layer on top of systems like QuickBooks, NetSuite, SAP, or custom ERPs to ingest and categorize transactions, post entries, route approvals, and surface only items that need a decision.\r\n\r\nWe automate bookkeeping with daily reconciliations, accruals, and a month end close reviewed by CPAs. We also handle Taxes end to end, from quarterly estimates to year end corporate returns, prepared from the same ledger and filed on schedule.",
-    "one_liner": "Full-service AI for accounting and finance",
+    "long_description": "Cranston is a full stack AI accounting firm. We handle bookkeeping, corporate taxes, and financial automations for SMB and mid market companies with AI software and a CPA team. We pull in context from all your company's apps & data, connect to existing systems of record and handle repetitive finance work.\r\n\r\nWe provide an intelligence layer on top of systems like QuickBooks, NetSuite, SAP, or custom ERPs to ingest and categorize transactions, post entries, route approvals, and surface only items that need a decision.\r\n\r\nWe automate bookkeeping with daily reconciliations, accruals, and a month end close reviewed by CPAs. We also handle Taxes end to end, from quarterly estimates to year end corporate returns, prepared from the same ledger and filed on schedule.",
+    "one_liner": "Full stack AI for accounting and finance",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -2451,6 +2498,8 @@
     "subindustry": "B2B -> Security",
     "launched_at": 1761187283,
     "tags": [
+      "AIOps",
+      "SaaS",
       "Swarm AI",
       "Security",
       "Kubernetes"
@@ -2725,8 +2774,8 @@
   },
   {
     "id": 30916,
-    "name": "Bellman",
-    "slug": "bellman",
+    "name": "Rovr",
+    "slug": "rovr",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be661dea8f47a3f8abccf2a96eac3ff45c4977d8.png",
     "website": "https://www.bellmanai.work/",
@@ -2761,8 +2810,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bellman",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/bellman.json"
+    "url": "https://www.ycombinator.com/companies/rovr",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/rovr.json"
   },
   {
     "id": 30917,
@@ -3095,6 +3144,45 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/play-health.json"
   },
   {
+    "id": 30928,
+    "name": "Thesis Labs",
+    "slug": "thesis-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
+    "website": "https://thesislabs.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "What if we could discover the next Transformer, invent the next AlphaFold, 10x faster? We are building systems that collaborate with humans to invent, train, and refine machine learning models. These agents operate in continuous, self-improving loops, guided by human creativity and intuition. Together, they accelerate the entire lifecycle of AI R&D, from idea to implementation.",
+    "one_liner": "Thesis is an applied research lab accelerating human-in-the-loop AI…",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762476616,
+    "tags": [
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/thesis-labs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis-labs.json"
+  },
+  {
     "id": 30929,
     "name": "Inspector",
     "slug": "inspector",
@@ -3356,7 +3444,7 @@
     "website": "https://s2.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "S2 is a serverless datastore for real-time, streaming data.\r\n\r\nThe more we worked on data systems, the more we felt like there was a missing building block. The seamless experience of object storage simply did not exist for durable streams – so we set out to fix that!\r\n\r\nS2 reimagines streams as an unlimited and access-controlled web resource. Like if Kafka and S3 had a baby.\r\n\r\n- Building agents? Use granular streams to persist context in real time, make workflows auditable, and coordinate between agents.\r\n\r\n- Publishing fast-moving data? Streams support high fanout and can be accessed directly over the internet, so they are a great fit for broadcasting real-time feeds.\r\n\r\n- Sandboxing? Emit to per-instance streams, and read history or live events just as easily.\r\n\r\n- Local-first and multiplayer experiences? Propagate updates reliably and efficiently.\r\n\r\nStop dealing with clusters, and start streaming.",
-    "one_liner": "Streams as a cloud storage primitive",
+    "one_liner": "Unlimited, durable, real-time streams",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -3482,7 +3570,7 @@
     "website": "https://imagineai.me",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Imagine AI clones you, not just your voice. We build you online with high-fidelity personas that replicate how you think, write, and sell - so our AI can handle your entire B2B content pipeline: posts, strategic comments, blogs and content engineering to achieve content-market fit.\r\n\r\nFor B2B service firms and YC companies, this means turning founders' expertise into a pipeline-generating machine. Instead of executives spending 8+ hours a week trying to create content, our forward-deployed content engineers perform deep research to understand who you are -> your voice, your clients' pain points, your unique insights -> then ship and optimize content that books meetings at named accounts.\r\n\r\nOur college-dropout, second-time founding team includes Sky Yang (raised $150M as UCSD's youngest Student Body President) and Neo Lee (a Berkeley Math/AI researcher who dropped out to build this). The idea came after a YC partner told us: founders at B2B companies are experts at their jobs, but consistently struggle to turn that expertise into marketing that drives revenue.\r\n\r\nWe launched in mid-July, now serve 40+ paying customers including 19 YC companies (Conduit W24, AthenaHQ W25, Bilanc W24, etc) plus VCs, global franchises, and ghostwriting agencies. Achieving minimum 30%-70% week to week growth.\r\n\r\n💡 Results:\r\n$10 M+ total revenue generated across clients\r\n$5 M deal closed from a single LinkedIn post\r\n$40 K inbound revenue in 1.5 weeks for one client\r\n200+ qualified inbounds in 1 month after hitting content-market fit\r\n\r\nWe’re not just another AI tool.\r\n\r\nWe’re forward-deployed content engineers, building the content OS for every LinkedIn-native B2B company.\r\n\r\n📅 Book a demo: https://calendar.notion.so/meet/skyyang333/ghost\r\n\r\n🔗 Connect with Sky: https://www.linkedin.com/in/skyyang/",
-    "one_liner": "A Better You for B2B Sales",
+    "one_liner": "Your AI Clone for B2B Content",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -3856,7 +3944,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40655594dbcd381c6c79a9439597f94109447459.png",
     "website": "https://heylua.ai/",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Lua is the unified agent platform for mid-market enterprises.\r\n\r\nWe deliver enterprise reliability with the speed, flexibility, and economics that mid-market companies demand - helping them deploy AI agents that drive sales, support, and operations across everyday channels and tools.\r\n\r\nWe scale through developer agencies and channel partners, enabling rapid distribution without a large enterprise sales motion or scaled forward deployed teams. We think of Lua as an agentOS that abstracts all of the complexity required to launch enterprise grade agents and combine it with the tools needed for these agents to succeed in the real world.\r\n\r\nLua was founded by Lorcan O Cathain (CEO) and Stefan Kruger (CTO)- experienced founders who have spent 15 - 20 years each scaling technology companies across emerging markets.\r\n\r\nWe sell to mid-market enterprises and developer agencies in the US and internationally. Developers are increasingly our primary ICP but we run SMB & enterprise sales motions to accelerate our learnings and further develop our product:\r\n- SMB ($25- 1k per month): fully automated self-serve agents that handle sales and support for eCommerce companies, hotels, restaurants and general service businesses. If you’ve been on our website you’ve likely seen this.\r\n- Enterprise: We directly sell to mid-market (~ $50M- $1BN) businesses across the US and internationally to eat our own dog food and strengthen our platform.\r\n\r\nOur traction:\r\n- 400+ businesses building on Lua\r\n- $1m+ annual contracted recurring revenue (in 5 weeks) & growing 30% WoW\r\n- 500k+ end clients have engaged with a Lua agent (& growing)",
+    "long_description": "Lua is the unified agent platform for mid-market enterprises.\r\n\r\nWe deliver enterprise reliability with the speed, flexibility, and economics that mid-market companies demand - helping them deploy AI agents that drive sales, support, and operations across everyday channels and tools.\r\n\r\nWe scale through developer agencies and channel partners, enabling rapid distribution without a large enterprise sales motion or scaled forward deployed teams. We think of Lua as an agentOS that abstracts all of the complexity required to launch enterprise grade agents and combine it with the tools needed for these agents to succeed in the real world.\r\n\r\nLua was founded by Lorcan O Cathain (CEO) and Stefan Kruger (CTO)- experienced founders who have spent 15 - 20 years each scaling technology companies across emerging markets.\r\n\r\nWe sell to mid-market enterprises and developer agencies in the US and internationally. Developers are increasingly our primary ICP but we run SMB & enterprise sales motions to accelerate our learnings and further develop our product:\r\n- SMB ($25- 1k per month): fully automated self-serve agents that handle sales and support for eCommerce companies, hotels, restaurants and general service businesses. If you’ve been on our website you’ve likely seen this.\r\n- Enterprise: We directly sell to mid-market (~ $50M- $1BN) businesses across the US and internationally to eat our own dog food and strengthen our platform.\r\n\r\nOur traction:\r\n400+ agents in market on Lua\r\n$1m+ annual contracted recurring revenue (in 5 weeks) & growing 30% WoW\r\n500k+ end clients have engaged with a Lua agent (& growing)",
     "one_liner": "The unified agent platform for mid-market enterprises",
     "team_size": 5,
     "industry": "B2B",
@@ -3974,21 +4062,23 @@
   },
   {
     "id": 30953,
-    "name": "Relaw",
-    "slug": "relaw",
+    "name": "Primer",
+    "slug": "primer",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b7a859750c32b6332683f2b54e04d4b251e7c417.png",
-    "website": "https://www.relaw.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfb9fdd67e9cec23e3f52f42df7e06dd89de9d57.png",
+    "website": "https://www.startprimer.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "AI Assistant for B2C Law Firms",
+    "long_description": "Primer is an AI agent that sells, onboards, and supports users automatically through live, personalized walkthroughs.",
+    "one_liner": "AI Product Demos",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1759337648,
     "tags": [
       "Artificial Intelligence",
-      "LegalTech"
+      "SaaS",
+      "Sales",
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3997,8 +4087,7 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Legal"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -4009,8 +4098,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/relaw",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/relaw.json"
+    "url": "https://www.ycombinator.com/companies/primer",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/primer.json"
   },
   {
     "id": 30954,
@@ -4587,6 +4676,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/jarmin.json"
   },
   {
+    "id": 30975,
+    "name": "Castari",
+    "slug": "castari",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20c64526d1a467a80b1b85a5386053d1f5a8a444.png",
+    "website": "https://castari.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Vercel for AI Agents – Deploy sandboxed agents with MCP tools & skills",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "Fintech",
+    "launched_at": 1762394891,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/castari",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/castari.json"
+  },
+  {
     "id": 30977,
     "name": "Rovi Health",
     "slug": "rovi-health",
@@ -5103,7 +5233,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/007bb2c508bd83c57c360e94b7f692b23ba29ca1.png",
     "website": "https://www.axialcomposite.com",
     "all_locations": "",
-    "long_description": "Composites manufacturing is expensive and slow. \r\n\r\nWe are building a non-planar manufacturing cell that can produce thermoplastic composites by continuous fiber injection. \r\n\r\nThis not only allows for shorter lead times and iteration cycles, but it unlocks new possibilities for manufacturing composites. Our method can produce stronger and lighter parts by leveraging fiber anisotropy to our advantage. \r\n\r\nWe are commercializing a new approach to composite manufacturing that aims to be the backbone of the next aerospace and robotics age. ",
+    "long_description": "At Axial Composites Industries we are building the first non-planar manufacturing cell to automate advanced thermoplastic composites production.\r\n\r\nWe believe in the following:\r\n\r\n•\tComposites are the apex material for drone-related applications\r\n•\tCarbon fiber manufacturing technology is still at its infancy\r\n\r\nOur mission is to develop novel composite manufacturing methods that will act as the foundation for the upcoming cambrian explosion in aerospace and robotics.\r\n\r\n\r\nOur method can produce stronger and lighter parts by leveraging fiber anisotropy to our advantage. This not only allows for shorter lead times and iteration cycles, but it unlocks new possibilities for composite manufacturing.\r\n\r\n",
     "one_liner": "Manufacturing cell for automated carbon fiber parts production",
     "team_size": 2,
     "industry": "Industrials",
@@ -5184,7 +5314,7 @@
     "website": "https://claybird.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Claybird is an agent that plans, generates, and edits your AI video ad.\r\n\r\nMarketers often rely on agencies to produce video ads - a slow, expensive process involving endless revisions, actors, and shoots.\r\n\r\nClaybird is like Lovable for AI ads: it collaborates with marketers on creative direction, generates shots using Veo, Sora, and other top models, and intelligently edits them into a studio-quality video.\r\n\r\nWhen most people try making AI content, it looks like “slop”. But Claybird Agent, like an expert director, understands quality: it knows which camera angle, shot type, and lighting is necessary for each scene.\r\n\r\nGet started at claybird.com",
-    "one_liner": "Claybird plans, creates, and edits your AI video ad.",
+    "one_liner": "AI-native video ad agency",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -5269,16 +5399,16 @@
     "website": "https://goclicks.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Clicks automates your back-office using your existing tools and processes without requiring any IT integrations.\r\n\r\nWhat We Do:\r\nThink of Clicks as your back-office worker that can handle any repetitive task. Simply describe your process via video call or share documentation, and our forward-deployed engineering team ensures it's automated exactly your way.\r\nOur AI agents work 24/7 and can be kicked-off via email, Slack, or our web app, handling tasks like CRM updates, report generation, and data entry while adapting to your existing software.\r\n\r\nInitial Focus:\r\nWe're starting with recruiting and executive search firms, automating candidate codification, assessment reports, and administrative workflows that typically consume hours of manual work each day.\r\n\r\nValue Proposition:\r\nOur pricing is 100% outcome based: you only pay for the work outputs we complete (e.g., candidates added to CRM, reports generate, etc.). Current customers are already live and saving an average of 60% in costs compared to human workers, with full automation deployed within one week.",
-    "one_liner": "The first AI back-office worker that works like a human.",
+    "one_liner": "Computer use agents to automate all back-office work",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1759173987,
     "tags": [
+      "Artificial Intelligence",
       "Workflow Automation",
       "Recruiting",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5350,7 +5480,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e5614f0ff0430254c23e0743e5e0490fb5f826c.png",
     "website": "https://markittrade.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "MarkIt builds AI agents that work directly inside the workflows trade professionals use every day — Excel, PDFs, broker portals, and more. \r\nFrom defensible classification, ACE report optimization, and a self-updating system of record, it serves trade professionals end to end with agents intelligent enough to work in the complex environment. \r\n\r\nMarkIt brings reasoning, memory, and automation to global trade compliance, helping Suppliers, Brokers, and OEMs reduce errors, save time, and streamline operations in the growingly intense world of Global Trade.",
+    "long_description": "MarkIt builds AI agents that work directly inside the workflows trade professionals use every day — Excel, PDFs, broker portals, and more. \r\nFrom defensible classification, ACE report audits, and a self-updating system of record, it serves trade professionals end to end with agents intelligent enough to work in the complex environment. \r\n\r\nMarkIt brings reasoning, memory, and automation to global trade compliance, helping Suppliers, Brokers, and OEMs reduce errors, save time, and streamline operations in the growingly intense world of Global Trade.",
     "one_liner": "Silver Bullet for Trade Compliance",
     "team_size": 2,
     "industry": "B2B",
@@ -5381,9 +5511,49 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/markit",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/markit.json"
+  },
+  {
+    "id": 31007,
+    "name": "Zarna",
+    "slug": "zarna",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d20374e923bd141960c3c8fd2965f8288e95aa58.png",
+    "website": "https://www.zarnaai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zarna is private equity’s first AI associate class.\r\n\r\nOur agents plug directly into your firm’s data and work like a deal team that never sleeps. Zarna’s agents analyze CIMs, build LBOs, update CRMs, draft IC memos, & act based on decades of proprietary firm knowledge. \r\n\r\nThe result: investors spend less time buried in decks and spreadsheets, and more time on judgment, relationships, and winning deals. \r\n",
+    "one_liner": "AI Private Equity Associates",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1762391689,
+    "tags": [
+      "Artificial Intelligence",
+      "Investments"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zarna",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/zarna.json"
   },
   {
     "id": 31008,
