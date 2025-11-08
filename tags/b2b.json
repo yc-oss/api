@@ -34321,16 +34321,16 @@
     "all_locations": "Mountain View, CA, USA",
     "long_description": "Silimate is the copilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging slowly to functional correctness and their targeted PPA (power/performance/area). With Silimate, chip designers create correct, PPA-converged RTL code in minutes and eliminate months from their tape out schedule.",
     "one_liner": "The copilot for chip designers",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1691095117,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Enterprise Software",
-      "Semiconductors",
-      "AI"
+      "Semiconductors"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37757,11 +37757,11 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1721694929,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "E-commerce",
-      "Supply Chain",
-      "AI"
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38174,6 +38174,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rewbi",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/rewbi.json"
+  },
+  {
+    "id": 29668,
+    "name": "Proxis",
+    "slug": "proxis",
+    "former_names": [
+      "CureAI",
+      "Tailwind Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/451285ce2b3407f2b83c947851ea72847724516e.png",
+    "website": "https://www.proxis.ai/",
+    "all_locations": "",
+    "long_description": "Proxis is the AI automation platform built for enterprises.\r\n\r\nProxis is creating AI email agents that empower brands and enterprise teams to close deals automatically. Think: your inbox, on autopilot.\r\n\r\nWe initially fine tuned and distilled LLMs for enterprise use—and quickly realized that companies need more than just smarter models. They need full-stack automation. So Proxis built AI agents that handle the tedious, time-consuming work—everything from autonomous sales closers to customer service agents.\r\n\r\nThe mission is bold: to build the world’s most capable team of AI agents for every enterprise. Proxis imagines a future where a single founder can run a billion-dollar company—backed by a custom-built army of agents. Proxis is rethinking how agents are built, trained, and deployed from the ground up.",
+    "one_liner": "The platform for enterprise AI agent automations, starting with email.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1725054386,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Productivity",
+      "Email"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/proxis",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/proxis.json"
   },
   {
     "id": 29672,
@@ -45273,20 +45317,20 @@
     "name": "Embedder",
     "slug": "embedder",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cb9ce1e52f71e5db25b0bce11fcb9be12a15f7d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/905c1f65eb8cd1b63a473b261cabbce9ac1c5d75.png",
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is a coding agent that can write and test firmware on real hardware.\r\n\r\nGeneral-purpose coding agents lack the hardware-specific context required to program embedded systems, resulting in plausible-looking code that is functionally useless on a real device. Embedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
-    "one_liner": "Claude Code for Firmware",
+    "long_description": "General-purpose coding agents lack the hardware-specific context required to program embedded systems, resulting in plausible-looking code that is functionally useless on a real device. Embedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
+    "one_liner": "AI for Embedded Software",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752258104,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45991,7 +46035,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/741086b6ee1ac324a06d9b831065e36b5b8e9d9b.png",
     "website": "https://dscribeai.com/",
-    "all_locations": "Overland Park, KS, USA",
+    "all_locations": "Olathe, KS, USA",
     "long_description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. We're starting by helping the ag and mining industry track stockpiles of grain and gravel.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 30 to 50%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform and have signed one of the largest agricultural company in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
     "one_liner": "Computer vision for bulk inventory tracking",
     "team_size": 2,
@@ -45999,10 +46043,10 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1752017595,
     "tags": [
-      "Artificial Intelligence",
       "Drones",
       "B2B",
       "Agriculture",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],
@@ -46299,6 +46343,7 @@
     "subindustry": "B2B",
     "launched_at": 1762195938,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "B2B"
     ],
@@ -46422,17 +46467,17 @@
     "website": "https://aspect.inc",
     "all_locations": "",
     "long_description": "When footage comes off a camera, post-production teams spend hours organizing their project, assembling rough cuts, reviewing for changes and mistakes, and sending the right links to the right people.\r\n\r\nAspect is a platform with AI agents that understand a team’s video library and workflows better than humans. These agents fill the roles of a media team’s post-production assistant, so creatives can focus on what they love instead of managing media back-office tasks.",
-    "one_liner": "AI Agents for post-production teams",
+    "one_liner": "AI agents for post-production teams",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1761607655,
     "tags": [
+      "Artificial Intelligence",
       "Computer Vision",
       "B2B",
       "Video",
-      "Media",
-      "AI"
+      "Media"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46545,7 +46590,7 @@
     "former_names": [
       "Remediate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e01ef6c12327b08c5946d9935ec8b977e130305.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ec4d613a72c1cb5d572b902612fb263b49949bb.png",
     "website": "https://soren-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren is building the first autonomous QA engineer for AI systems.\r\n\r\nToday, every model or prompt update risks introducing regressions, forcing teams to spend hundreds of hours maintaining evals and debugging failures.\r\n\r\nSoren automates the entire evaluation process — dynamically updating tests, surfacing root causes, and running experiments to test fixes.\r\n\r\nWe replace manual triage with adaptive, AI-driven evals that help teams ship more reliable AI, faster.",
@@ -47137,7 +47182,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37ac409b36b40159c5b6860f03b4e792466ac32c.png",
     "website": "https://leadbay.ai/",
-    "all_locations": "Paris, Île-de-France, France",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "We unlock untapped revenue for sales teams targeting fragmented, data-scarce SMB markets — like construction, hospitality, startups, and retail.\r\n\r\nYou might think that LinkedIn Sales Nav, Clay, ZoomInfo, or Apollo have you covered. They don’t. They miss 70% of U.S. companies and capture only 0.001% of digital signals or intent. We’re already working with enterprise clients who 5× their prospecting efficiency by simply unlocking hidden opportunities in the most data-scarce, fragmented markets.\r\n\r\nHow does it look like?\r\nUpload a list of won/lost leads. That’s it. \r\nLeadbay understands your Ideal Customer Profile, discovers untapped opportunities in your market, and scores your existing dormant accounts. Every day, you’ll receive fresh, high-value prospects right in your mobile or desktop app.\r\n\r\nWe make invisible companies visible.",
     "one_liner": "Discover and qualify SMB leads others can’t find.",
     "team_size": 8,
@@ -47146,14 +47191,13 @@
     "launched_at": 1760047494,
     "tags": [
       "Artificial Intelligence",
-      "Construction",
+      "SaaS",
       "B2B",
-      "Sales",
-      "Databases"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -47162,8 +47206,8 @@
       "Sales"
     ],
     "regions": [
-      "France",
-      "Europe",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -47467,6 +47511,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/automax-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/automax-ai.json"
+  },
+  {
+    "id": 30961,
+    "name": "Arcten",
+    "slug": "arcten",
+    "former_names": [
+      "Cortex",
+      "ArcTen",
+      "Arc Ten",
+      "ArcTen"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/714941e4c6e2e3b20d32f53aa366486b1ba71894.png",
+    "website": "https://arcten.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our toolkit lets companies deploy and embed enterprise-grade AI agents that integrate deeply with their app’s functionality and knowledge sources. Deploy any agent — built with any framework — to millions of concurrent conversations on our edge platform, and seamlessly add it into your app through our chat components or custom hooks for a unified agentic experience.",
+    "one_liner": "Infrastructure for AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1761245566,
+    "tags": [
+      "B2B",
+      "API",
+      "Enterprise",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arcten",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/arcten.json"
   },
   {
     "id": 30966,

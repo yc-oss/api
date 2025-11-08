@@ -2107,8 +2107,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01c6d0585e8c71ae2a60d4a67e5c15a449165704.png",
     "website": "https://www.getzep.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Build AI assistants that continually learn and delight users with personalized and accurate experiences. \r\n\r\n## Memory that learns from your users\r\nZep intelligently learns from user interactions, improving your assistant or agent's knowledge over time. Recall user facts in milliseconds, with Zep adding no latency to your prompt creation.\r\n\r\n## Ready for Production and Scale\r\n- Granular Memory Controls: Go beyond semantic search with developer-defined rubrics for user fact relevance. \r\n- Comprehensive APIs and SDKs: Python, TypeScript, and Go SDKs, with full CRUD control of stored facts.\r\n- SOC 2 and tools for Privacy Compliance.\r\n\r\n## Build Consistent and Correct LLM Apps\r\nZep's Structured Output and Dialog Classification tools build on Zep's memory enabling you to build more accurate and consistent user experiences.\r\n\r\n- Extract strongly-typed data from chat history, quickly & accurately: Go beyond your LLM provider's JSON or Structured Output mode with built-in types for datetimes, floats, emails, RegEx patterns, and more.\r\n- Instantly classify conversation state: Understand user intent and emotion, segment users, and more.",
-    "one_liner": "The Memory Foundation For Your AI Stack",
+    "long_description": "Build fast, accurate, and personalized agents with the only platform that systematically engineers relevant context from chat history and business data. Skip building complex personalization infrastructure, focus on your product instead.\r\n\r\nZep includes three core components:\r\n- Agent Memory - Transforms conversations, business data, & user interactions into a living knowledge graph that evolves with every interaction\r\n- Graph RAG - Connects your business data through relationships so agents retrieve relevant information in milliseconds, even as your data changes\r\n- Context Assembly - Combines memory and business data into optimized context for your LLM\r\n\r\nWhat you get:\r\n- Personalized Context Engineering - 100%+ accuracy improvements through temporal knowledge graphs that combine user memory with business data\r\n- Rapid Implementation - Deploy personalized agents in days using simple APIs, not months of infrastructure work\r\n- Enterprise-Ready Performance - 90% latency reduction with 98% token efficiency, plus SOC2 Type 2 and HIPAA compliance\r\n- Universal Integration - TypeScript, Python, and Go SDKs work with any LLM and framework including LangChain",
+    "one_liner": "Build Agents That Recall What Matters. End-to-End Context Engineering…",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -2864,7 +2864,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -3924,7 +3924,7 @@
     "name": "s2.dev",
     "slug": "s2-dev",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84b9b038b2893008e1ac88f7bd32d1227a105449.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db49ec4c66c85d205171bbf2f1700ea1146f627c.png",
     "website": "https://s2.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "S2 is a serverless datastore for real-time, streaming data.\r\n\r\nThe more we worked on data systems, the more we felt like there was a missing building block. The seamless experience of object storage simply did not exist for durable streams – so we set out to fix that!\r\n\r\nS2 reimagines streams as an unlimited and access-controlled web resource. Like if Kafka and S3 had a baby.\r\n\r\n- Building agents? Use granular streams to persist context in real time, make workflows auditable, and coordinate between agents.\r\n\r\n- Publishing fast-moving data? Streams support high fanout and can be accessed directly over the internet, so they are a great fit for broadcasting real-time feeds.\r\n\r\n- Sandboxing? Emit to per-instance streams, and read history or live events just as easily.\r\n\r\n- Local-first and multiplayer experiences? Propagate updates reliably and efficiently.\r\n\r\nStop dealing with clusters, and start streaming.",
@@ -3962,6 +3962,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/s2-dev",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/s2-dev.json"
+  },
+  {
+    "id": 30961,
+    "name": "Arcten",
+    "slug": "arcten",
+    "former_names": [
+      "Cortex",
+      "ArcTen",
+      "Arc Ten",
+      "ArcTen"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/714941e4c6e2e3b20d32f53aa366486b1ba71894.png",
+    "website": "https://arcten.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our toolkit lets companies deploy and embed enterprise-grade AI agents that integrate deeply with their app’s functionality and knowledge sources. Deploy any agent — built with any framework — to millions of concurrent conversations on our edge platform, and seamlessly add it into your app through our chat components or custom hooks for a unified agentic experience.",
+    "one_liner": "Infrastructure for AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1761245566,
+    "tags": [
+      "B2B",
+      "API",
+      "Enterprise",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arcten",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/arcten.json"
   },
   {
     "id": 30969,

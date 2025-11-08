@@ -850,7 +850,7 @@
     "name": "AgentMail",
     "slug": "agentmail",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/229d0f8aee3512a3e3602b0a708550a51a4f5e11.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c18d385fb2e41299574abf5d25f5ba98485d781.png",
     "website": "https://agentmail.to",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AgentMail is the email inbox API for AI agents. It gives agents their own email inboxes, like Gmail does for humans.",
@@ -860,14 +860,13 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1750990316,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "API",
       "Email"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -3168,51 +3167,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/parachute.json"
   },
   {
-    "id": 30683,
-    "name": "Louiza Labs",
-    "slug": "louiza-labs",
-    "former_names": [
-      "Ouiza",
-      "Louiza Labs",
-      "Ouiza"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4220e2cfc6aae811d256a42fb434498602e5b513.png",
-    "website": "https://www.louiza.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Louiza Labs build digital twins of real customers so brands can get preference data on demand with an end-to-end platform connecting consumers, manufacturers, and f&b brands.",
-    "one_liner": "Digital Twins",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Healthcare",
-    "launched_at": 1754166755,
-    "tags": [
-      "Manufacturing",
-      "Food Tech",
-      "Food & Beverage"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/louiza-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/louiza-labs.json"
-  },
-  {
     "id": 30684,
     "name": "Doe",
     "slug": "doe",
@@ -3506,20 +3460,20 @@
     "name": "Embedder",
     "slug": "embedder",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cb9ce1e52f71e5db25b0bce11fcb9be12a15f7d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/905c1f65eb8cd1b63a473b261cabbce9ac1c5d75.png",
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is a coding agent that can write and test firmware on real hardware.\r\n\r\nGeneral-purpose coding agents lack the hardware-specific context required to program embedded systems, resulting in plausible-looking code that is functionally useless on a real device. Embedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
-    "one_liner": "Claude Code for Firmware",
+    "long_description": "General-purpose coding agents lack the hardware-specific context required to program embedded systems, resulting in plausible-looking code that is functionally useless on a real device. Embedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
+    "one_liner": "AI for Embedded Software",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752258104,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5036,18 +4990,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce362aa339ed75ccb6c9572c39d69b3d181f1cc9.png",
     "website": "https://altur.io",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Voice AI Agents for Debt Collection",
     "one_liner": "Voice AI Agents for Debt Collection",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750622964,
-    "tags": [
-      "Generative AI",
-      "Telecommunications",
-      "AI"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -5058,8 +5008,6 @@
       "B2B"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -5698,7 +5646,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/741086b6ee1ac324a06d9b831065e36b5b8e9d9b.png",
     "website": "https://dscribeai.com/",
-    "all_locations": "Overland Park, KS, USA",
+    "all_locations": "Olathe, KS, USA",
     "long_description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. We're starting by helping the ag and mining industry track stockpiles of grain and gravel.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 30 to 50%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform and have signed one of the largest agricultural company in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
     "one_liner": "Computer vision for bulk inventory tracking",
     "team_size": 2,
@@ -5706,10 +5654,10 @@
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1752017595,
     "tags": [
-      "Artificial Intelligence",
       "Drones",
       "B2B",
       "Agriculture",
+      "AI",
       "Industrial"
     ],
     "tags_highlighted": [],

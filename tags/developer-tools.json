@@ -3900,7 +3900,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -15712,16 +15712,16 @@
     "all_locations": "Mountain View, CA, USA",
     "long_description": "Silimate is the copilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging slowly to functional correctness and their targeted PPA (power/performance/area). With Silimate, chip designers create correct, PPA-converged RTL code in minutes and eliminate months from their tape out schedule.",
     "one_liner": "The copilot for chip designers",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1691095117,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Enterprise Software",
-      "Semiconductors",
-      "AI"
+      "Semiconductors"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17285,8 +17285,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01c6d0585e8c71ae2a60d4a67e5c15a449165704.png",
     "website": "https://www.getzep.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Build AI assistants that continually learn and delight users with personalized and accurate experiences. \r\n\r\n## Memory that learns from your users\r\nZep intelligently learns from user interactions, improving your assistant or agent's knowledge over time. Recall user facts in milliseconds, with Zep adding no latency to your prompt creation.\r\n\r\n## Ready for Production and Scale\r\n- Granular Memory Controls: Go beyond semantic search with developer-defined rubrics for user fact relevance. \r\n- Comprehensive APIs and SDKs: Python, TypeScript, and Go SDKs, with full CRUD control of stored facts.\r\n- SOC 2 and tools for Privacy Compliance.\r\n\r\n## Build Consistent and Correct LLM Apps\r\nZep's Structured Output and Dialog Classification tools build on Zep's memory enabling you to build more accurate and consistent user experiences.\r\n\r\n- Extract strongly-typed data from chat history, quickly & accurately: Go beyond your LLM provider's JSON or Structured Output mode with built-in types for datetimes, floats, emails, RegEx patterns, and more.\r\n- Instantly classify conversation state: Understand user intent and emotion, segment users, and more.",
-    "one_liner": "The Memory Foundation For Your AI Stack",
+    "long_description": "Build fast, accurate, and personalized agents with the only platform that systematically engineers relevant context from chat history and business data. Skip building complex personalization infrastructure, focus on your product instead.\r\n\r\nZep includes three core components:\r\n- Agent Memory - Transforms conversations, business data, & user interactions into a living knowledge graph that evolves with every interaction\r\n- Graph RAG - Connects your business data through relationships so agents retrieve relevant information in milliseconds, even as your data changes\r\n- Context Assembly - Combines memory and business data into optimized context for your LLM\r\n\r\nWhat you get:\r\n- Personalized Context Engineering - 100%+ accuracy improvements through temporal knowledge graphs that combine user memory with business data\r\n- Rapid Implementation - Deploy personalized agents in days using simple APIs, not months of infrastructure work\r\n- Enterprise-Ready Performance - 90% latency reduction with 98% token efficiency, plus SOC2 Type 2 and HIPAA compliance\r\n- Universal Integration - TypeScript, Python, and Go SDKs work with any LLM and framework including LangChain",
+    "one_liner": "Build Agents That Recall What Matters. End-to-End Context Engineering…",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -19797,7 +19797,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -21732,7 +21732,7 @@
     "name": "AgentMail",
     "slug": "agentmail",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/229d0f8aee3512a3e3602b0a708550a51a4f5e11.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c18d385fb2e41299574abf5d25f5ba98485d781.png",
     "website": "https://agentmail.to",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AgentMail is the email inbox API for AI agents. It gives agents their own email inboxes, like Gmail does for humans.",
@@ -21742,14 +21742,13 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1750990316,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "API",
       "Email"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -22114,20 +22113,20 @@
     "name": "Embedder",
     "slug": "embedder",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cb9ce1e52f71e5db25b0bce11fcb9be12a15f7d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/905c1f65eb8cd1b63a473b261cabbce9ac1c5d75.png",
     "website": "https://www.embedder.dev/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is a coding agent that can write and test firmware on real hardware.\r\n\r\nGeneral-purpose coding agents lack the hardware-specific context required to program embedded systems, resulting in plausible-looking code that is functionally useless on a real device. Embedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
-    "one_liner": "Claude Code for Firmware",
+    "long_description": "General-purpose coding agents lack the hardware-specific context required to program embedded systems, resulting in plausible-looking code that is functionally useless on a real device. Embedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
+    "one_liner": "AI for Embedded Software",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752258104,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Hardware",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22658,7 +22657,7 @@
     "former_names": [
       "Remediate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e01ef6c12327b08c5946d9935ec8b977e130305.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ec4d613a72c1cb5d572b902612fb263b49949bb.png",
     "website": "https://soren-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren is building the first autonomous QA engineer for AI systems.\r\n\r\nToday, every model or prompt update risks introducing regressions, forcing teams to spend hundreds of hours maintaining evals and debugging failures.\r\n\r\nSoren automates the entire evaluation process — dynamically updating tests, surfacing root causes, and running experiments to test fixes.\r\n\r\nWe replace manual triage with adaptive, AI-driven evals that help teams ship more reliable AI, faster.",
@@ -22736,6 +22735,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sanctum",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sanctum.json"
+  },
+  {
+    "id": 30913,
+    "name": "Captain",
+    "slug": "captain",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c5e5da360891b80b4a1d6d511de963d613bbf08.png",
+    "website": "https://runcaptain.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Captain delivers the most accurate general-purpose retrieval engine for unstructured data.\r\n\r\nConnect file stores and effortlessly retrieve knowledge with much higher accuracy than RAG (Avg: 78% → 95% + citations).",
+    "one_liner": "The Reliable Alternative to RAG",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1762492786,
+    "tags": [
+      "Developer Tools",
+      "Big Data",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/captain",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/captain.json"
   },
   {
     "id": 30921,
@@ -22827,7 +22867,7 @@
     "name": "s2.dev",
     "slug": "s2-dev",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84b9b038b2893008e1ac88f7bd32d1227a105449.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db49ec4c66c85d205171bbf2f1700ea1146f627c.png",
     "website": "https://s2.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "S2 is a serverless datastore for real-time, streaming data.\r\n\r\nThe more we worked on data systems, the more we felt like there was a missing building block. The seamless experience of object storage simply did not exist for durable streams – so we set out to fix that!\r\n\r\nS2 reimagines streams as an unlimited and access-controlled web resource. Like if Kafka and S3 had a baby.\r\n\r\n- Building agents? Use granular streams to persist context in real time, make workflows auditable, and coordinate between agents.\r\n\r\n- Publishing fast-moving data? Streams support high fanout and can be accessed directly over the internet, so they are a great fit for broadcasting real-time feeds.\r\n\r\n- Sandboxing? Emit to per-instance streams, and read history or live events just as easily.\r\n\r\n- Local-first and multiplayer experiences? Propagate updates reliably and efficiently.\r\n\r\nStop dealing with clusters, and start streaming.",
@@ -23317,5 +23357,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/moss",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/moss.json"
+  },
+  {
+    "id": 31022,
+    "name": "JSX Tool",
+    "slug": "jsx-tool",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/336184b5090a4103bd3801bd555ccb2323dee7f4.png",
+    "website": "https://jsxtool.com",
+    "all_locations": "",
+    "long_description": "JSX Tool is a browser extension that hooks into your React project, so you can easily locate any React component and file with just just a click. This gives developers the ability to articulate visual requests to LLMs that without JSX Tool, are either vague or cumbersome to communicate in English and code snippets. On top of that JSX Tool is a full featured IDE tailored specifically for React Development, so users never have to leave the context of their browser when developing React code.",
+    "one_liner": "AI-First In-Browser IDE for React Development",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1762549706,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/jsx-tool",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/jsx-tool.json"
   }
 ]

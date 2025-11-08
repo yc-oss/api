@@ -737,9 +737,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f00f4b531cfdb83446f322df9e4f749afb8b0179.png",
     "website": "https://parrotapp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form video lessons backed by Dr. Stephen Krashen’s comprehensible input theory. Growing 20%% w/w, and power users averaging 35+ mins/day on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we’re building the first language platform that actually works.",
+    "long_description": "Parrot is the TikTok for language learning. We turn doomscrolling into fluency with personalized short-form videos. $74K MRR doubling every 2 months with power users averaging 49 mins/day on Parrot. Our team of engineers have lived the frustration of ineffective apps and learning methods - we’re building the first language platform that actually works.",
     "one_liner": "TikTok for language learning",
-    "team_size": 5,
+    "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1758577465,
@@ -776,8 +776,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b630790318ee271fefdcad27aee6e1409b369d3a.png",
     "website": "https://www.movedot.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Our platform allows engineers to automate the post processing of their test results and then teach an army of AI agents how to interpret them and find correlations / causations for their specific niche.",
-    "one_liner": "AI Agents for Physical World Testing",
+    "long_description": "Our platform allows engineers to automate the post processing of sensor data then teach an army of AI agents how to interpret them and find correlations / causations for their specific niche.",
+    "one_liner": "AI Agents for Sensor Data Analysis",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -872,6 +872,7 @@
     "subindustry": "B2B",
     "launched_at": 1762195938,
     "tags": [
+      "Artificial Intelligence",
       "Reinforcement Learning",
       "B2B"
     ],
@@ -1037,17 +1038,17 @@
     "website": "https://aspect.inc",
     "all_locations": "",
     "long_description": "When footage comes off a camera, post-production teams spend hours organizing their project, assembling rough cuts, reviewing for changes and mistakes, and sending the right links to the right people.\r\n\r\nAspect is a platform with AI agents that understand a team’s video library and workflows better than humans. These agents fill the roles of a media team’s post-production assistant, so creatives can focus on what they love instead of managing media back-office tasks.",
-    "one_liner": "AI Agents for post-production teams",
+    "one_liner": "AI agents for post-production teams",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1761607655,
     "tags": [
+      "Artificial Intelligence",
       "Computer Vision",
       "B2B",
       "Video",
-      "Media",
-      "AI"
+      "Media"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1404,7 +1405,7 @@
     "former_names": [
       "Remediate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e01ef6c12327b08c5946d9935ec8b977e130305.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ec4d613a72c1cb5d572b902612fb263b49949bb.png",
     "website": "https://soren-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren is building the first autonomous QA engineer for AI systems.\r\n\r\nToday, every model or prompt update risks introducing regressions, forcing teams to spend hundreds of hours maintaining evals and debugging failures.\r\n\r\nSoren automates the entire evaluation process — dynamically updating tests, surfacing root causes, and running experiments to test fixes.\r\n\r\nWe replace manual triage with adaptive, AI-driven evals that help teams ship more reliable AI, faster.",
@@ -2737,6 +2738,47 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/redapto.json"
   },
   {
+    "id": 30913,
+    "name": "Captain",
+    "slug": "captain",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0c5e5da360891b80b4a1d6d511de963d613bbf08.png",
+    "website": "https://runcaptain.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Captain delivers the most accurate general-purpose retrieval engine for unstructured data.\r\n\r\nConnect file stores and effortlessly retrieve knowledge with much higher accuracy than RAG (Avg: 78% → 95% + citations).",
+    "one_liner": "The Reliable Alternative to RAG",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1762492786,
+    "tags": [
+      "Developer Tools",
+      "Big Data",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/captain",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/captain.json"
+  },
+  {
     "id": 30914,
     "name": "Sunflower",
     "slug": "sunflower",
@@ -3317,7 +3359,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37ac409b36b40159c5b6860f03b4e792466ac32c.png",
     "website": "https://leadbay.ai/",
-    "all_locations": "Paris, Île-de-France, France",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "We unlock untapped revenue for sales teams targeting fragmented, data-scarce SMB markets — like construction, hospitality, startups, and retail.\r\n\r\nYou might think that LinkedIn Sales Nav, Clay, ZoomInfo, or Apollo have you covered. They don’t. They miss 70% of U.S. companies and capture only 0.001% of digital signals or intent. We’re already working with enterprise clients who 5× their prospecting efficiency by simply unlocking hidden opportunities in the most data-scarce, fragmented markets.\r\n\r\nHow does it look like?\r\nUpload a list of won/lost leads. That’s it. \r\nLeadbay understands your Ideal Customer Profile, discovers untapped opportunities in your market, and scores your existing dormant accounts. Every day, you’ll receive fresh, high-value prospects right in your mobile or desktop app.\r\n\r\nWe make invisible companies visible.",
     "one_liner": "Discover and qualify SMB leads others can’t find.",
     "team_size": 8,
@@ -3326,14 +3368,13 @@
     "launched_at": 1760047494,
     "tags": [
       "Artificial Intelligence",
-      "Construction",
+      "SaaS",
       "B2B",
-      "Sales",
-      "Databases"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -3342,8 +3383,8 @@
       "Sales"
     ],
     "regions": [
-      "France",
-      "Europe",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -3440,7 +3481,7 @@
     "name": "s2.dev",
     "slug": "s2-dev",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84b9b038b2893008e1ac88f7bd32d1227a105449.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db49ec4c66c85d205171bbf2f1700ea1146f627c.png",
     "website": "https://s2.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "S2 is a serverless datastore for real-time, streaming data.\r\n\r\nThe more we worked on data systems, the more we felt like there was a missing building block. The seamless experience of object storage simply did not exist for durable streams – so we set out to fix that!\r\n\r\nS2 reimagines streams as an unlimited and access-controlled web resource. Like if Kafka and S3 had a baby.\r\n\r\n- Building agents? Use granular streams to persist context in real time, make workflows auditable, and coordinate between agents.\r\n\r\n- Publishing fast-moving data? Streams support high fanout and can be accessed directly over the internet, so they are a great fit for broadcasting real-time feeds.\r\n\r\n- Sandboxing? Emit to per-instance streams, and read history or live events just as easily.\r\n\r\n- Local-first and multiplayer experiences? Propagate updates reliably and efficiently.\r\n\r\nStop dealing with clusters, and start streaming.",
@@ -3778,17 +3819,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f43313bb066e1501a71f08b9bb9435ada83f0e9c.png",
     "website": "https://www.hireglide.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "HireGlide puts the right people in the right places. Candidates get sent to roles which are looking for people just like them with a relational career passport which can measure fit for multiple open positions. On the company side, teams can process even the heaviest inbound rapidly and do targeted outbound on candidates who want to be hired. \r\n",
+    "long_description": "Hireglide is an AI screening tool for hiring teams. Instead of wading through 500 CVs, we screen them and surface the best candidates. In future, with access to millions of CVs, we will match candidates with relevant roles.\r\n\r\n",
     "one_liner": "Turning recruiting into an efficient market.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1762295048,
     "tags": [
-      "Artificial Intelligence",
       "Recruiting",
       "HR Tech",
-      "Talent Acquisition"
+      "Talent Acquisition",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4342,6 +4383,53 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/metorial",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/metorial.json"
+  },
+  {
+    "id": 30961,
+    "name": "Arcten",
+    "slug": "arcten",
+    "former_names": [
+      "Cortex",
+      "ArcTen",
+      "Arc Ten",
+      "ArcTen"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/714941e4c6e2e3b20d32f53aa366486b1ba71894.png",
+    "website": "https://arcten.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our toolkit lets companies deploy and embed enterprise-grade AI agents that integrate deeply with their app’s functionality and knowledge sources. Deploy any agent — built with any framework — to millions of concurrent conversations on our edge platform, and seamlessly add it into your app through our chat components or custom hooks for a unified agentic experience.",
+    "one_liner": "Infrastructure for AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1761245566,
+    "tags": [
+      "B2B",
+      "API",
+      "Enterprise",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arcten",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/arcten.json"
   },
   {
     "id": 30962,
@@ -5320,11 +5408,11 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1759979466,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Video",
       "Marketing",
-      "Advertising",
-      "AI"
+      "Advertising"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5796,5 +5884,87 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/item",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/item.json"
+  },
+  {
+    "id": 31021,
+    "name": "Zephyr Fusion",
+    "slug": "zephyr-fusion",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3bc97204b0d665ad12d9be818e42b4dccfcd7ba.png",
+    "website": "https://www.zephyrfusion.com",
+    "all_locations": "San Diego, CA, USA",
+    "long_description": "Zephyr Fusion is building the first in-orbit fusion power source: a megawatt-class reactor enabling large-scale industry in space, at a fraction of the cost of equivalent solar.\r\n\r\nFounded by former physicists from Lawrence Livermore and Oak Ridge National Laboratories, Zephyr leverages decades of fusion research to deliver a compact magnetic confinement system designed to take advantage of the space environment.",
+    "one_liner": "Powering tomorrow's industrial revolution in space",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1762532179,
+    "tags": [
+      "Fusion Energy",
+      "Hard Tech",
+      "Satellites",
+      "Aerospace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zephyr-fusion",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/zephyr-fusion.json"
+  },
+  {
+    "id": 31022,
+    "name": "JSX Tool",
+    "slug": "jsx-tool",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/336184b5090a4103bd3801bd555ccb2323dee7f4.png",
+    "website": "https://jsxtool.com",
+    "all_locations": "",
+    "long_description": "JSX Tool is a browser extension that hooks into your React project, so you can easily locate any React component and file with just just a click. This gives developers the ability to articulate visual requests to LLMs that without JSX Tool, are either vague or cumbersome to communicate in English and code snippets. On top of that JSX Tool is a full featured IDE tailored specifically for React Development, so users never have to leave the context of their browser when developing React code.",
+    "one_liner": "AI-First In-Browser IDE for React Development",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1762549706,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/jsx-tool",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/jsx-tool.json"
   }
 ]

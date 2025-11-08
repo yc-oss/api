@@ -4840,7 +4840,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -12498,47 +12498,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/whitelab-genomics.json"
   },
   {
-    "id": 26480,
-    "name": "Poly",
-    "slug": "poly",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c933e4442d83b03a9d59a60dc94be3f95e9d475.png",
-    "website": "https://withpoly.com/",
-    "all_locations": "San Francisco, CA, USA; Los Angeles, CA, USA",
-    "long_description": "A personal cloud storage platform that's so good, it'll replace Finder / File Explorer on your desktop. Find anything with multi-modal, natural language search. Browse with a lightning fast interface that feels just like native. Organize, tag, view, edit, share, and more. ",
-    "one_liner": "Intelligent Personal Cloud Storage",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1659993588,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Consumer",
-      "API"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/poly",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/poly.json"
-  },
-  {
     "id": 26505,
     "name": "Layerup",
     "slug": "layerup",
@@ -16904,7 +16863,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -17836,7 +17795,11 @@
     "name": "Lysto",
     "slug": "lysto",
     "former_names": [
-      "Bazaar"
+      "Bazaar",
+      "Awning AI",
+      "Lysto AI",
+      "Lysto",
+      "Airfront"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/336295daf8150faf71325baedaf8bd8b2bbe42db.png",
     "website": "https://lysto.ai/",
@@ -17845,7 +17808,7 @@
     "one_liner": "Revenue intelligence platforms for startups",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Sales",
     "launched_at": 1725912013,
     "tags": [
       "Artificial Intelligence"
@@ -17855,7 +17818,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Sales"
@@ -18663,6 +18626,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/andromeda-surgical",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/andromeda-surgical.json"
+  },
+  {
+    "id": 29010,
+    "name": "Silimate",
+    "slug": "silimate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f4bbb4f45487fb9514316eae7b6e1b1c316a4a.png",
+    "website": "https://www.silimate.com",
+    "all_locations": "Mountain View, CA, USA",
+    "long_description": "Silimate is the copilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging slowly to functional correctness and their targeted PPA (power/performance/area). With Silimate, chip designers create correct, PPA-converged RTL code in minutes and eliminate months from their tape out schedule.",
+    "one_liner": "The copilot for chip designers",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1691095117,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
+      "Semiconductors"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/silimate",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/silimate.json"
   },
   {
     "id": 29018,
@@ -23974,6 +23980,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/angstrom-ai.json"
   },
   {
+    "id": 29570,
+    "name": "Spherecast",
+    "slug": "spherecast",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a43915880e9457258d58ab7ad09815c195bf21a.png",
+    "website": "https://www.spherecast.ai/",
+    "all_locations": "",
+    "long_description": "Spherecast is an AI-powered inventory management software for omni-channel CPG brands, supporting supply chain managers with demand planning, inventory optimization, and supplier communication.\r\n\r\nSpherecast tells brands when to reorder, how much, which warehouse to stock, and at what cost. It then autonomously executes these decisions by communicating with suppliers and manufacturers.\r\n\r\nSpherecast helps avoid stockouts and overstock, improve inventory visibility, and save time.",
+    "one_liner": "AI Supply Chain Manager for CPG",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1721694929,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "E-commerce",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spherecast",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/spherecast.json"
+  },
+  {
     "id": 29574,
     "name": "Superunit",
     "slug": "superunit",
@@ -24762,6 +24810,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/willow",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/willow.json"
+  },
+  {
+    "id": 29668,
+    "name": "Proxis",
+    "slug": "proxis",
+    "former_names": [
+      "CureAI",
+      "Tailwind Health"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/451285ce2b3407f2b83c947851ea72847724516e.png",
+    "website": "https://www.proxis.ai/",
+    "all_locations": "",
+    "long_description": "Proxis is the AI automation platform built for enterprises.\r\n\r\nProxis is creating AI email agents that empower brands and enterprise teams to close deals automatically. Think: your inbox, on autopilot.\r\n\r\nWe initially fine tuned and distilled LLMs for enterprise use—and quickly realized that companies need more than just smarter models. They need full-stack automation. So Proxis built AI agents that handle the tedious, time-consuming work—everything from autonomous sales closers to customer service agents.\r\n\r\nThe mission is bold: to build the world’s most capable team of AI agents for every enterprise. Proxis imagines a future where a single founder can run a billion-dollar company—backed by a custom-built army of agents. Proxis is rethinking how agents are built, trained, and deployed from the ground up.",
+    "one_liner": "The platform for enterprise AI agent automations, starting with email.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1725054386,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Productivity",
+      "Email"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/proxis",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/proxis.json"
   },
   {
     "id": 29671,
@@ -32594,48 +32686,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/acrely.json"
   },
   {
-    "id": 30611,
-    "name": "AgentMail",
-    "slug": "agentmail",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/229d0f8aee3512a3e3602b0a708550a51a4f5e11.png",
-    "website": "https://agentmail.to",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AgentMail is the email inbox API for AI agents. It gives agents their own email inboxes, like Gmail does for humans.",
-    "one_liner": "Email Inboxes for AI Agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1750990316,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "API",
-      "Email"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/agentmail",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/agentmail.json"
-  },
-  {
     "id": 30615,
     "name": "Lanesurf",
     "slug": "lanesurf",
@@ -33775,6 +33825,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/trace-so.json"
   },
   {
+    "id": 30691,
+    "name": "Embedder",
+    "slug": "embedder",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/905c1f65eb8cd1b63a473b261cabbce9ac1c5d75.png",
+    "website": "https://www.embedder.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "General-purpose coding agents lack the hardware-specific context required to program embedded systems, resulting in plausible-looking code that is functionally useless on a real device. Embedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
+    "one_liner": "AI for Embedded Software",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1752258104,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Hardware",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/embedder",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/embedder.json"
+  },
+  {
     "id": 30695,
     "name": "Channel3",
     "slug": "channel3",
@@ -34818,49 +34910,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/kernel.json"
   },
   {
-    "id": 30763,
-    "name": "dScribe AI",
-    "slug": "dscribe-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/741086b6ee1ac324a06d9b831065e36b5b8e9d9b.png",
-    "website": "https://dscribeai.com/",
-    "all_locations": "Overland Park, KS, USA",
-    "long_description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. We're starting by helping the ag and mining industry track stockpiles of grain and gravel.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 30 to 50%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform and have signed one of the largest agricultural company in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
-    "one_liner": "Computer vision for bulk inventory tracking",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1752017595,
-    "tags": [
-      "Artificial Intelligence",
-      "Drones",
-      "B2B",
-      "Agriculture",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dscribe-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/dscribe-ai.json"
-  },
-  {
     "id": 30774,
     "name": "Clodo",
     "slug": "clodo",
@@ -35332,8 +35381,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b630790318ee271fefdcad27aee6e1409b369d3a.png",
     "website": "https://www.movedot.ai/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Our platform allows engineers to automate the post processing of their test results and then teach an army of AI agents how to interpret them and find correlations / causations for their specific niche.",
-    "one_liner": "AI Agents for Physical World Testing",
+    "long_description": "Our platform allows engineers to automate the post processing of sensor data then teach an army of AI agents how to interpret them and find correlations / causations for their specific niche.",
+    "one_liner": "AI Agents for Sensor Data Analysis",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -35412,6 +35461,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zavo",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/zavo.json"
+  },
+  {
+    "id": 30851,
+    "name": "Sylvian",
+    "slug": "sylvian",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ce6100b0248b0cf8f017986931a26cfe36046f3.png",
+    "website": "https://sylvian.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sylvian creates expert data for LLMs through competitions.\r\n\r\nLLMs continue to need lots of expert data. Unfortunately, existing data vendors like Scale or Mercor are not motivating the best experts through part-time pay. Competitions are more intrinsic motivators, and naturally incentivize high quality data.\r\n\r\nSylvian creates expert data for LLMs through competitions, starting with tool use data (e.g. Excel, VSCode). We already have 4,500+ experts, from IMO Golds to MIT/Stanford PhDs to full time QRs at Point72, producing data at 1B tokens/week!",
+    "one_liner": "Data for LLMs through Competition",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762195938,
+    "tags": [
+      "Artificial Intelligence",
+      "Reinforcement Learning",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sylvian",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/sylvian.json"
   },
   {
     "id": 30853,
@@ -35500,6 +35589,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hyperspell",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/hyperspell.json"
+  },
+  {
+    "id": 30857,
+    "name": "Aspect",
+    "slug": "aspect-inc",
+    "former_names": [
+      "Auler"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fce09b41be7523bc55b3742c8d06ae8ddf424a0d.png",
+    "website": "https://aspect.inc",
+    "all_locations": "",
+    "long_description": "When footage comes off a camera, post-production teams spend hours organizing their project, assembling rough cuts, reviewing for changes and mistakes, and sending the right links to the right people.\r\n\r\nAspect is a platform with AI agents that understand a team’s video library and workflows better than humans. These agents fill the roles of a media team’s post-production assistant, so creatives can focus on what they love instead of managing media back-office tasks.",
+    "one_liner": "AI agents for post-production teams",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1761607655,
+    "tags": [
+      "Artificial Intelligence",
+      "Computer Vision",
+      "B2B",
+      "Video",
+      "Media"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aspect-inc",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/aspect-inc.json"
   },
   {
     "id": 30859,
@@ -36133,7 +36266,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37ac409b36b40159c5b6860f03b4e792466ac32c.png",
     "website": "https://leadbay.ai/",
-    "all_locations": "Paris, Île-de-France, France",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "We unlock untapped revenue for sales teams targeting fragmented, data-scarce SMB markets — like construction, hospitality, startups, and retail.\r\n\r\nYou might think that LinkedIn Sales Nav, Clay, ZoomInfo, or Apollo have you covered. They don’t. They miss 70% of U.S. companies and capture only 0.001% of digital signals or intent. We’re already working with enterprise clients who 5× their prospecting efficiency by simply unlocking hidden opportunities in the most data-scarce, fragmented markets.\r\n\r\nHow does it look like?\r\nUpload a list of won/lost leads. That’s it. \r\nLeadbay understands your Ideal Customer Profile, discovers untapped opportunities in your market, and scores your existing dormant accounts. Every day, you’ll receive fresh, high-value prospects right in your mobile or desktop app.\r\n\r\nWe make invisible companies visible.",
     "one_liner": "Discover and qualify SMB leads others can’t find.",
     "team_size": 8,
@@ -36142,14 +36275,13 @@
     "launched_at": 1760047494,
     "tags": [
       "Artificial Intelligence",
-      "Construction",
+      "SaaS",
       "B2B",
-      "Sales",
-      "Databases"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -36158,8 +36290,8 @@
       "Sales"
     ],
     "regions": [
-      "France",
-      "Europe",
+      "United States of America",
+      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
@@ -36253,48 +36385,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/scott-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/scott-ai.json"
-  },
-  {
-    "id": 30944,
-    "name": "HireGlide",
-    "slug": "hireglide",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f43313bb066e1501a71f08b9bb9435ada83f0e9c.png",
-    "website": "https://www.hireglide.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "HireGlide puts the right people in the right places. Candidates get sent to roles which are looking for people just like them with a relational career passport which can measure fit for multiple open positions. On the company side, teams can process even the heaviest inbound rapidly and do targeted outbound on candidates who want to be hired. \r\n",
-    "one_liner": "Turning recruiting into an efficient market.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1762295048,
-    "tags": [
-      "Artificial Intelligence",
-      "Recruiting",
-      "HR Tech",
-      "Talent Acquisition"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Recruiting and Talent"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hireglide",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/hireglide.json"
   },
   {
     "id": 30945,
@@ -36919,6 +37009,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/diligencesquared-inc.json"
   },
   {
+    "id": 30999,
+    "name": "Claybird",
+    "slug": "claybird",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c99aaf789dfc9ef524dff38a9121909c0f00745c.png",
+    "website": "https://claybird.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Claybird is an agent that plans, generates, and edits your AI video ad.\r\n\r\nMarketers often rely on agencies to produce video ads - a slow, expensive process involving endless revisions, actors, and shoots.\r\n\r\nClaybird is like Lovable for AI ads: it collaborates with marketers on creative direction, generates shots using Veo, Sora, and other top models, and intelligently edits them into a studio-quality video.\r\n\r\nWhen most people try making AI content, it looks like “slop”. But Claybird Agent, like an expert director, understands quality: it knows which camera angle, shot type, and lighting is necessary for each scene.\r\n\r\nGet started at claybird.com",
+    "one_liner": "AI-native video ad agency",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1759979466,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Video",
+      "Marketing",
+      "Advertising"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/claybird",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/claybird.json"
+  },
+  {
     "id": 31002,
     "name": "Clicks",
     "slug": "clicks",
@@ -37123,5 +37256,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rivet-design",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/rivet-design.json"
+  },
+  {
+    "id": 31022,
+    "name": "JSX Tool",
+    "slug": "jsx-tool",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/336184b5090a4103bd3801bd555ccb2323dee7f4.png",
+    "website": "https://jsxtool.com",
+    "all_locations": "",
+    "long_description": "JSX Tool is a browser extension that hooks into your React project, so you can easily locate any React component and file with just just a click. This gives developers the ability to articulate visual requests to LLMs that without JSX Tool, are either vague or cumbersome to communicate in English and code snippets. On top of that JSX Tool is a full featured IDE tailored specifically for React Development, so users never have to leave the context of their browser when developing React code.",
+    "one_liner": "AI-First In-Browser IDE for React Development",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1762549706,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Web Development"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/jsx-tool",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/jsx-tool.json"
   }
 ]

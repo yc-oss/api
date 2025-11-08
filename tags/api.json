@@ -3569,19 +3569,19 @@
     "slug": "poly",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c933e4442d83b03a9d59a60dc94be3f95e9d475.png",
-    "website": "https://withpoly.com/",
-    "all_locations": "San Francisco, CA, USA; Los Angeles, CA, USA",
+    "website": "https://poly.app",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "A personal cloud storage platform that's so good, it'll replace Finder / File Explorer on your desktop. Find anything with multi-modal, natural language search. Browse with a lightning fast interface that feels just like native. Organize, tag, view, edit, share, and more. ",
     "one_liner": "Intelligent Personal Cloud Storage",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1659993588,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Consumer",
-      "API"
+      "API",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5032,7 +5032,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -6175,7 +6175,7 @@
     "name": "AgentMail",
     "slug": "agentmail",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/229d0f8aee3512a3e3602b0a708550a51a4f5e11.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c18d385fb2e41299574abf5d25f5ba98485d781.png",
     "website": "https://agentmail.to",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AgentMail is the email inbox API for AI agents. It gives agents their own email inboxes, like Gmail does for humans.",
@@ -6185,14 +6185,13 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1750990316,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "API",
       "Email"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -6298,7 +6297,7 @@
     "name": "s2.dev",
     "slug": "s2-dev",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84b9b038b2893008e1ac88f7bd32d1227a105449.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db49ec4c66c85d205171bbf2f1700ea1146f627c.png",
     "website": "https://s2.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "S2 is a serverless datastore for real-time, streaming data.\r\n\r\nThe more we worked on data systems, the more we felt like there was a missing building block. The seamless experience of object storage simply did not exist for durable streams – so we set out to fix that!\r\n\r\nS2 reimagines streams as an unlimited and access-controlled web resource. Like if Kafka and S3 had a baby.\r\n\r\n- Building agents? Use granular streams to persist context in real time, make workflows auditable, and coordinate between agents.\r\n\r\n- Publishing fast-moving data? Streams support high fanout and can be accessed directly over the internet, so they are a great fit for broadcasting real-time feeds.\r\n\r\n- Sandboxing? Emit to per-instance streams, and read history or live events just as easily.\r\n\r\n- Local-first and multiplayer experiences? Propagate updates reliably and efficiently.\r\n\r\nStop dealing with clusters, and start streaming.",
@@ -6336,5 +6335,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/s2-dev",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/s2-dev.json"
+  },
+  {
+    "id": 30961,
+    "name": "Arcten",
+    "slug": "arcten",
+    "former_names": [
+      "Cortex",
+      "ArcTen",
+      "Arc Ten",
+      "ArcTen"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/714941e4c6e2e3b20d32f53aa366486b1ba71894.png",
+    "website": "https://arcten.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our toolkit lets companies deploy and embed enterprise-grade AI agents that integrate deeply with their app’s functionality and knowledge sources. Deploy any agent — built with any framework — to millions of concurrent conversations on our edge platform, and seamlessly add it into your app through our chat components or custom hooks for a unified agentic experience.",
+    "one_liner": "Infrastructure for AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1761245566,
+    "tags": [
+      "B2B",
+      "API",
+      "Enterprise",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arcten",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/arcten.json"
   }
 ]

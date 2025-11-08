@@ -8851,6 +8851,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/reality-defender.json"
   },
   {
+    "id": 26480,
+    "name": "Poly",
+    "slug": "poly",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c933e4442d83b03a9d59a60dc94be3f95e9d475.png",
+    "website": "https://poly.app",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "A personal cloud storage platform that's so good, it'll replace Finder / File Explorer on your desktop. Find anything with multi-modal, natural language search. Browse with a lightning fast interface that feels just like native. Organize, tag, view, edit, share, and more. ",
+    "one_liner": "Intelligent Personal Cloud Storage",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1659993588,
+    "tags": [
+      "Generative AI",
+      "Consumer",
+      "API",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/poly",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/poly.json"
+  },
+  {
     "id": 26662,
     "name": "Paces",
     "slug": "paces",
@@ -15256,49 +15297,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/envelope.json"
   },
   {
-    "id": 29010,
-    "name": "Silimate",
-    "slug": "silimate",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61f4bbb4f45487fb9514316eae7b6e1b1c316a4a.png",
-    "website": "https://www.silimate.com",
-    "all_locations": "Mountain View, CA, USA",
-    "long_description": "Silimate is the copilot for chip designers; it finds and fixes functional and PPA issues in your chip designs.\r\n\r\nToday, chip teams spend most of their 12-18 month design cycles converging slowly to functional correctness and their targeted PPA (power/performance/area). With Silimate, chip designers create correct, PPA-converged RTL code in minutes and eliminate months from their tape out schedule.",
-    "one_liner": "The copilot for chip designers",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1691095117,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Enterprise Software",
-      "Semiconductors",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/silimate",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/silimate.json"
-  },
-  {
     "id": 29013,
     "name": "Sweep",
     "slug": "sweep",
@@ -18465,8 +18463,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01c6d0585e8c71ae2a60d4a67e5c15a449165704.png",
     "website": "https://www.getzep.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Build AI assistants that continually learn and delight users with personalized and accurate experiences. \r\n\r\n## Memory that learns from your users\r\nZep intelligently learns from user interactions, improving your assistant or agent's knowledge over time. Recall user facts in milliseconds, with Zep adding no latency to your prompt creation.\r\n\r\n## Ready for Production and Scale\r\n- Granular Memory Controls: Go beyond semantic search with developer-defined rubrics for user fact relevance. \r\n- Comprehensive APIs and SDKs: Python, TypeScript, and Go SDKs, with full CRUD control of stored facts.\r\n- SOC 2 and tools for Privacy Compliance.\r\n\r\n## Build Consistent and Correct LLM Apps\r\nZep's Structured Output and Dialog Classification tools build on Zep's memory enabling you to build more accurate and consistent user experiences.\r\n\r\n- Extract strongly-typed data from chat history, quickly & accurately: Go beyond your LLM provider's JSON or Structured Output mode with built-in types for datetimes, floats, emails, RegEx patterns, and more.\r\n- Instantly classify conversation state: Understand user intent and emotion, segment users, and more.",
-    "one_liner": "The Memory Foundation For Your AI Stack",
+    "long_description": "Build fast, accurate, and personalized agents with the only platform that systematically engineers relevant context from chat history and business data. Skip building complex personalization infrastructure, focus on your product instead.\r\n\r\nZep includes three core components:\r\n- Agent Memory - Transforms conversations, business data, & user interactions into a living knowledge graph that evolves with every interaction\r\n- Graph RAG - Connects your business data through relationships so agents retrieve relevant information in milliseconds, even as your data changes\r\n- Context Assembly - Combines memory and business data into optimized context for your LLM\r\n\r\nWhat you get:\r\n- Personalized Context Engineering - 100%+ accuracy improvements through temporal knowledge graphs that combine user memory with business data\r\n- Rapid Implementation - Deploy personalized agents in days using simple APIs, not months of infrastructure work\r\n- Enterprise-Ready Performance - 90% latency reduction with 98% token efficiency, plus SOC2 Type 2 and HIPAA compliance\r\n- Universal Integration - TypeScript, Python, and Go SDKs work with any LLM and framework including LangChain",
+    "one_liner": "Build Agents That Recall What Matters. End-to-End Context Engineering…",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -19190,48 +19188,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ultra",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/ultra.json"
-  },
-  {
-    "id": 29570,
-    "name": "Spherecast",
-    "slug": "spherecast",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a43915880e9457258d58ab7ad09815c195bf21a.png",
-    "website": "https://www.spherecast.ai/",
-    "all_locations": "",
-    "long_description": "Spherecast is an AI-powered inventory management software for omni-channel CPG brands, supporting supply chain managers with demand planning, inventory optimization, and supplier communication.\r\n\r\nSpherecast tells brands when to reorder, how much, which warehouse to stock, and at what cost. It then autonomously executes these decisions by communicating with suppliers and manufacturers.\r\n\r\nSpherecast helps avoid stockouts and overstock, improve inventory visibility, and save time.",
-    "one_liner": "AI Supply Chain Manager for CPG",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Supply Chain and Logistics",
-    "launched_at": 1721694929,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "E-commerce",
-      "Supply Chain",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Supply Chain and Logistics"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/spherecast",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/spherecast.json"
   },
   {
     "id": 29572,
@@ -28308,48 +28264,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/fulcrum.json"
   },
   {
-    "id": 30691,
-    "name": "Embedder",
-    "slug": "embedder",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cb9ce1e52f71e5db25b0bce11fcb9be12a15f7d.png",
-    "website": "https://www.embedder.dev/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is a coding agent that can write and test firmware on real hardware.\r\n\r\nGeneral-purpose coding agents lack the hardware-specific context required to program embedded systems, resulting in plausible-looking code that is functionally useless on a real device. Embedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
-    "one_liner": "Claude Code for Firmware",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1752258104,
-    "tags": [
-      "Developer Tools",
-      "Hardware",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/embedder",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/embedder.json"
-  },
-  {
     "id": 30692,
     "name": "Candytrail",
     "slug": "candytrail",
@@ -28764,48 +28678,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pares-ai.json"
   },
   {
-    "id": 30738,
-    "name": "Altur",
-    "slug": "altur",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce362aa339ed75ccb6c9572c39d69b3d181f1cc9.png",
-    "website": "https://altur.io",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Voice AI Agents for Debt Collection",
-    "one_liner": "Voice AI Agents for Debt Collection",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1750622964,
-    "tags": [
-      "Generative AI",
-      "Telecommunications",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/altur",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/altur.json"
-  },
-  {
     "id": 30739,
     "name": "Eden",
     "slug": "tryeden",
@@ -29060,6 +28932,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/certus-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/certus-ai.json"
+  },
+  {
+    "id": 30763,
+    "name": "dScribe AI",
+    "slug": "dscribe-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/741086b6ee1ac324a06d9b831065e36b5b8e9d9b.png",
+    "website": "https://dscribeai.com/",
+    "all_locations": "Olathe, KS, USA",
+    "long_description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. We're starting by helping the ag and mining industry track stockpiles of grain and gravel.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 30 to 50%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform and have signed one of the largest agricultural company in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
+    "one_liner": "Computer vision for bulk inventory tracking",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1752017595,
+    "tags": [
+      "Drones",
+      "B2B",
+      "Agriculture",
+      "AI",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dscribe-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/dscribe-ai.json"
   },
   {
     "id": 30768,
@@ -29695,50 +29610,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/gpt.json"
   },
   {
-    "id": 30857,
-    "name": "Aspect",
-    "slug": "aspect-inc",
-    "former_names": [
-      "Auler"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fce09b41be7523bc55b3742c8d06ae8ddf424a0d.png",
-    "website": "https://aspect.inc",
-    "all_locations": "",
-    "long_description": "When footage comes off a camera, post-production teams spend hours organizing their project, assembling rough cuts, reviewing for changes and mistakes, and sending the right links to the right people.\r\n\r\nAspect is a platform with AI agents that understand a team’s video library and workflows better than humans. These agents fill the roles of a media team’s post-production assistant, so creatives can focus on what they love instead of managing media back-office tasks.",
-    "one_liner": "AI Agents for post-production teams",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1761607655,
-    "tags": [
-      "Computer Vision",
-      "B2B",
-      "Video",
-      "Media",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aspect-inc",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/aspect-inc.json"
-  },
-  {
     "id": 30858,
     "name": "Deeptrace",
     "slug": "deeptrace",
@@ -29824,7 +29695,7 @@
     "former_names": [
       "Remediate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e01ef6c12327b08c5946d9935ec8b977e130305.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ec4d613a72c1cb5d572b902612fb263b49949bb.png",
     "website": "https://soren-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren is building the first autonomous QA engineer for AI systems.\r\n\r\nToday, every model or prompt update risks introducing regressions, forcing teams to spend hundreds of hours maintaining evals and debugging failures.\r\n\r\nSoren automates the entire evaluation process — dynamically updating tests, surfacing root causes, and running experiments to test fixes.\r\n\r\nWe replace manual triage with adaptive, AI-driven evals that help teams ship more reliable AI, faster.",
@@ -30818,6 +30689,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/scott-ai.json"
   },
   {
+    "id": 30944,
+    "name": "HireGlide",
+    "slug": "hireglide",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f43313bb066e1501a71f08b9bb9435ada83f0e9c.png",
+    "website": "https://www.hireglide.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hireglide is an AI screening tool for hiring teams. Instead of wading through 500 CVs, we screen them and surface the best candidates. In future, with access to millions of CVs, we will match candidates with relevant roles.\r\n\r\n",
+    "one_liner": "Turning recruiting into an efficient market.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1762295048,
+    "tags": [
+      "Recruiting",
+      "HR Tech",
+      "Talent Acquisition",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hireglide",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/hireglide.json"
+  },
+  {
     "id": 30946,
     "name": "Sourcebot",
     "slug": "sourcebot",
@@ -30901,6 +30814,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/usenarrative",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/usenarrative.json"
+  },
+  {
+    "id": 30961,
+    "name": "Arcten",
+    "slug": "arcten",
+    "former_names": [
+      "Cortex",
+      "ArcTen",
+      "Arc Ten",
+      "ArcTen"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/714941e4c6e2e3b20d32f53aa366486b1ba71894.png",
+    "website": "https://arcten.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our toolkit lets companies deploy and embed enterprise-grade AI agents that integrate deeply with their app’s functionality and knowledge sources. Deploy any agent — built with any framework — to millions of concurrent conversations on our edge platform, and seamlessly add it into your app through our chat components or custom hooks for a unified agentic experience.",
+    "one_liner": "Infrastructure for AI Agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1761245566,
+    "tags": [
+      "B2B",
+      "API",
+      "Enterprise",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arcten",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/arcten.json"
   },
   {
     "id": 30966,
@@ -31243,49 +31203,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lunabill",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunabill.json"
-  },
-  {
-    "id": 30999,
-    "name": "Claybird",
-    "slug": "claybird",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c99aaf789dfc9ef524dff38a9121909c0f00745c.png",
-    "website": "https://claybird.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Claybird is an agent that plans, generates, and edits your AI video ad.\r\n\r\nMarketers often rely on agencies to produce video ads - a slow, expensive process involving endless revisions, actors, and shoots.\r\n\r\nClaybird is like Lovable for AI ads: it collaborates with marketers on creative direction, generates shots using Veo, Sora, and other top models, and intelligently edits them into a studio-quality video.\r\n\r\nWhen most people try making AI content, it looks like “slop”. But Claybird Agent, like an expert director, understands quality: it knows which camera angle, shot type, and lighting is necessary for each scene.\r\n\r\nGet started at claybird.com",
-    "one_liner": "AI-native video ad agency",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1759979466,
-    "tags": [
-      "SaaS",
-      "Video",
-      "Marketing",
-      "Advertising",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/claybird",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/claybird.json"
   },
   {
     "id": 31001,
