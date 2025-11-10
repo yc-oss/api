@@ -24653,7 +24653,7 @@
     "one_liner": "High Quality Multilingual Training Data for AI Models",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1739847539,
     "tags": [
       "Artificial Intelligence",
@@ -25913,47 +25913,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zeon-systems",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/zeon-systems.json"
-  },
-  {
-    "id": 30437,
-    "name": "Kaelio",
-    "slug": "kaelio",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4c744ee428be44ba894f8b477449386dca44045.png",
-    "website": "https://kaelio.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kaelio is the unified intelligence layer for modern data teams.\r\n\r\nWe connect directly to the warehouse, turning complex models and metrics into a conversational interface that scales insights across the business — without adding to the data team's backlog.\r\n\r\nData leaders are stuck balancing speed and control: business teams need answers now, while data teams need consistency and governance. Kaelio bridges that gap by giving everyone access to trusted, governed insights through a single, intelligent interface.",
-    "one_liner": "Self-serve insights that data teams actually trust",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1747200146,
-    "tags": [
-      "Artificial Intelligence",
-      "Analytics",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kaelio",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/kaelio.json"
   },
   {
     "id": 30438,
@@ -28150,50 +28109,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/deepaware-ai.json"
   },
   {
-    "id": 30664,
-    "name": "Kestroll",
-    "slug": "kestroll",
-    "former_names": [
-      "GameHawk"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/62dd8bf0e67daad3ae7fc102aaae61085f5cc193.png",
-    "website": "https://www.kestroll.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI Digital Asset Manager that automates asset managment busy work, enforces brand guidelines, and supports creative experimentation across every touchpoint of the asset lifecycle.",
-    "one_liner": "AI Digital Asset Manager",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1751838348,
-    "tags": [
-      "Design",
-      "Marketing",
-      "Advertising",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kestroll",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/kestroll.json"
-  },
-  {
     "id": 30666,
     "name": "CareSwift",
     "slug": "careswift",
@@ -28398,6 +28313,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fulcrum",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/fulcrum.json"
+  },
+  {
+    "id": 30691,
+    "name": "Embedder",
+    "slug": "embedder",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/905c1f65eb8cd1b63a473b261cabbce9ac1c5d75.png",
+    "website": "https://www.embedder.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Embedder is building the world's first hardware-aware coding agent. General-purpose coding agents lack the hardware-specific context required to program embedded systems, resulting in plausible-looking code that is functionally useless on a real device. Embedder indexes hardware documentation and connects to physical tools, allowing it to autonomously test and validate the firmware it generates in the real world.",
+    "one_liner": "Cursor for Embedded Software",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1752258104,
+    "tags": [
+      "Developer Tools",
+      "Hardware",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/embedder",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/embedder.json"
   },
   {
     "id": 30692,
@@ -28940,6 +28897,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pleom",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pleom.json"
+  },
+  {
+    "id": 30749,
+    "name": "Fernstone",
+    "slug": "fernstone",
+    "former_names": [
+      "Sentri Security",
+      "Sentri"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2529eaf040180126a595ccd660f42824d36e2dae.png",
+    "website": "https://www.fernstone.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fernstone is an AI-powered insurance brokerage for businesses. We are competing with the 40,000 insurance brokers that sell $500B in commercial premium each year.\r\n\r\nBefore starting Fernstone, Luke and James met at Traba (Series A) when they started on the same day. Luke led a Growth team, closing some of Traba’s largest customers like JB Hunt and Kimberly Clark. James created and led Traba’s Enterprise function, growing it to 25% of company revenue. Bryant, James’ classmate from high school, was a Software Engineer at Sentilink and Google.\r\n",
+    "one_liner": "AI-powered insurance brokerage for businesses.",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Unspecified",
+    "launched_at": 1759775643,
+    "tags": [
+      "Fintech",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fernstone",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/fernstone.json"
   },
   {
     "id": 30754,
@@ -30037,7 +30038,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/942d0cc053faa8bcd3d973b7c4ce50fda2e6defa.png",
     "website": "https://usemod.ai",
     "all_locations": "",
-    "long_description": "We build AI agents to automate invoice processing for finance teams.\r\n\r\nFrom ingestion to ERP to payment and bookkeeping, our AI agents read emails, connect to EDIs, extract data from any document format, detect fraud, and sync directly with your ERP or accounting system. ",
+    "long_description": "We build AI agents that automate the accounts payable process for enterprises.\r\n\r\nDesigned to imitate accounts payable clerks, our AI agents read emails and find valid invoices, extract data from any document format, perform matching with purchase orders and receipts, route invoices organization-wide for approval, and sync directly with your ERP or accounting system. \r\n\r\nWe're the only AP automation solution on the market that's already leveraging the latest AI vision models instead of outdated OCR technology, achieving 94% higher accuracy than industry leaders and helping our users see an 83% reduction in time spent.",
     "one_liner": "AI Agents for Accounts Payable",
     "team_size": 4,
     "industry": "B2B",
@@ -30045,6 +30046,8 @@
     "launched_at": 1759171972,
     "tags": [
       "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
       "Finance",
       "AI"
     ],
@@ -30235,6 +30238,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/unsiloed-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/unsiloed-ai.json"
+  },
+  {
+    "id": 30895,
+    "name": "Allus AI",
+    "slug": "allus-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54229250ba85a1626b1be8439c198c6ece967b89.png",
+    "website": "https://allus.ai",
+    "all_locations": "Atlanta, GA, USA",
+    "long_description": "Allus builds next-gen vision foundation models that bring real intelligence to manufacturing. Enabling factories to see, understand, and improve production in real time. ",
+    "one_liner": "Transforming manufacturing with next-gen Vision Foundation Model",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "B2B",
+    "launched_at": 1761108820,
+    "tags": [
+      "Machine Learning",
+      "SaaS",
+      "Computer Vision",
+      "Manufacturing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/allus-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/allus-ai.json"
   },
   {
     "id": 30896,
@@ -30655,21 +30701,20 @@
   },
   {
     "id": 30928,
-    "name": "Thesis Labs",
-    "slug": "thesis-labs",
+    "name": "Thesis",
+    "slug": "thesis",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
     "website": "https://thesislabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "What if we could discover the next Transformer, invent the next AlphaFold, 10x faster? We are building systems that collaborate with humans to invent, train, and refine machine learning models. These agents operate in continuous, self-improving loops, guided by human creativity and intuition. Together, they accelerate the entire lifecycle of AI R&D, from idea to implementation.",
-    "one_liner": "Thesis is an applied research lab accelerating human-in-the-loop AI…",
-    "team_size": 0,
+    "long_description": "Thesis is an applied research lab.\r\n\r\nOur aim is to help scientists and researchers uncover the next Transformer and build the next AlphaFold. Faster and more systematically, treating breakthrough discovery as an engineering problem rather than a matter of luck.\r\n\r\nThe mission is to democratize invention by empowering researchers everywhere with machine intelligence to drive the discovery of the next big thing.",
+    "one_liner": "The scientific discovery engine.",
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1762476616,
     "tags": [
-      "AI",
-      "AI Assistant"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -30689,8 +30734,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/thesis-labs",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis-labs.json"
+    "url": "https://www.ycombinator.com/companies/thesis",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis.json"
   },
   {
     "id": 30929,
@@ -31127,7 +31172,7 @@
     "website": "https://useboom.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Boom builds the AI employee for e-commerce — an agent that manages every customer interaction across WhatsApp, Instagram, TikTok, Facebook, and web chat. It answers product questions, supports customers with orders, follows up on abandoned checkouts, restocks, and repeat purchases, and even runs marketing campaigns. Brands simply connect Boom to their store, and their AI agent instantly starts selling, supporting, and following up like a real team member — no setup or flow-building required.\r\n\r\nE-commerce is a $6T market where brands spend heavily to bring customers in, only to lose over 99% of them before checkout. Boom fixes that by turning every missed conversation into a sales opportunity. Our clients increase conversion rates and deliver a concierge-like buying experience at scale. We believe that in the near future, every online store will have AI employees managing sales and customer relationships — and Boom is building the platform that makes that possible.",
-    "one_liner": "Your AI sales and support team for e-commerce brands",
+    "one_liner": "Your AI growth team for e-commerce brands",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -31245,52 +31290,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/stratus-aviation.json"
   },
   {
-    "id": 30995,
-    "name": "Velvet",
-    "slug": "velvet",
-    "former_names": [
-      "Inline",
-      "Lenscape"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f333f0eb8eb873e8e242bef88d7d4fbf13bfc08.png",
-    "website": "https://velvet.video",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Velvet is a video editing suite, like Adobe Premiere, but for making AI videos. Our team has worked on video generation at Meta FAIR and infra at Adobe, and we’re building the single tool marketing teams need to produce AI video assets",
-    "one_liner": "The Adobe Premiere of AI video",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1761236237,
-    "tags": [
-      "Video",
-      "Media",
-      "Advertising",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/velvet",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/velvet.json"
-  },
-  {
     "id": 31001,
     "name": "Fastshot",
     "slug": "fastshot",
@@ -31372,5 +31371,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openroll",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/openroll.json"
+  },
+  {
+    "id": 31022,
+    "name": "JSX Tool",
+    "slug": "jsx-tool",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/336184b5090a4103bd3801bd555ccb2323dee7f4.png",
+    "website": "https://jsxtool.com",
+    "all_locations": "",
+    "long_description": "JSX Tool is a browser extension that hooks into your React project, so you can easily locate any React component and file with just a click. This gives developers the ability to articulate visual requests to LLMs that without JSX Tool, are either vague or cumbersome to communicate in English and code snippets. On top of that JSX Tool is a full featured IDE tailored specifically for React Development, so users never have to leave the context of their browser when developing React code.",
+    "one_liner": "AI-First In-Browser IDE for React Development",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1762549706,
+    "tags": [
+      "Developer Tools",
+      "Web Development",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/jsx-tool",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/jsx-tool.json"
   }
 ]
