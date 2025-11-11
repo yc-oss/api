@@ -1450,7 +1450,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -5388,7 +5388,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -14053,6 +14053,50 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/greentally.json"
   },
   {
+    "id": 28841,
+    "name": "SuperCraft",
+    "slug": "supercraft",
+    "former_names": [
+      "Neuralyze"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58f45e57c8a576ab6733463cd4c71ef2788b69e8.png",
+    "website": "https://supercraft.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "SuperCraft is a generative AI software for teams building physical products\r\n\r\nWe help businesses securely use generative AI capabilities across their design departments for faster design exploration and visualization of physical products\r\n\r\nFortune 500 companies are using SuperCraft to create new product designs, and visualize how their product will look like in a real scenario, before actually building it, and treat the design boards as a shared source of truth that all teams involved can collaborate and provide feedback on - resulting in faster design reviews, more creative exploration, and faster time to market.",
+    "one_liner": "Figma for designing physical products",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1688534176,
+    "tags": [
+      "B2B",
+      "Productivity",
+      "Design",
+      "Media",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/supercraft",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/supercraft.json"
+  },
+  {
     "id": 28847,
     "name": "Venta AI",
     "slug": "venta-ai",
@@ -18073,7 +18117,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -20202,20 +20246,19 @@
     "website": "https://ledgerup.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "LedgerUp is your AI billing teammate for B2B SaaS, transforming contract-based billing from a chore into a frictionless, revenue-accelerating process. We parse contracts, issue invoices, and collect payments in real-time, all while surfacing actionable analytics, allowing your finance team to escape spreadsheet chaos and focus on strategic growth. Just close deals and let us handle your billing for you.",
-    "one_liner": "Your AI teammate that handles all billing and revenue from Slack",
+    "one_liner": "AI agents that handles complex billing and revenue",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1722618064,
     "tags": [
-      "FinOps",
-      "Workflow Automation",
+      "Finance",
       "Billing",
       "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -20231,7 +20274,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/ledgerup",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/ledgerup.json"
   },
@@ -27856,45 +27899,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/monarcha.json"
   },
   {
-    "id": 30644,
-    "name": "Wafer",
-    "slug": "wafer",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73d3d68555ca97a0b7fa88945cb6c577d872c4c.png",
-    "website": "https://www.wafer.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Every successful tool is a bet on efficiency. A waterwheel grinds more grain per unit effort than a quern. A transistor switches more operations per watt than a vacuum tube. This is civilization's pattern: do more work with less energy.\r\n\r\nFor ten thousand years, efficiency meant physical work. Intellectual work rode the surplus. Better farming, manufacturing, transport. But the brain itself bottlenecked every intellectual task.\r\n\r\nCompute changes this. For the first time, we can drive efficiency gains in intellectual work directly. Any repeatable job with measurable output has an efficiency ratio. Useful work divided by energy consumed. Intelligence per watt.\r\n\r\nHumans perform tasks at some quality-weighted outcomes per kilowatt-hour. AI systems do the same jobs. We can measure both the same way. AI is crossing the human baseline. Domain after domain.\r\n\r\nThe world's hardest problems are information problems, and human intelligence is no longer the limit. The cost of intelligence per unit of energy is the limit. Every order of magnitude drop in cost expands the set of solvable problems.\r\n\r\nOur mission at Wafer is to maximize intelligence per watt by using AI to optimize AI infrastructure, achieving thousands of times better energy and cost efficiency.\r\n\r\nWe want people to do their life's work here in pursuit of radical abundance. We believe cheap intelligence is the most essential piece of technology for a future of abundance. We will build the future with intelligence \"too cheap to meter.\"",
-    "one_liner": "Optimized AI infrastructure",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1751530242,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wafer",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/wafer.json"
-  },
-  {
     "id": 30649,
     "name": "Lilac",
     "slug": "lilac",
@@ -29416,8 +29420,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e2b6583b762823b5a584f08e551758f4d63fa39.png",
     "website": "https://efference.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Efference is redefining robotic vision by building the most intelligent cameras on the market. We have an efficient way of computing high quality depth information and are putting that into a camera that will deliver higher performance at half the cost.",
-    "one_liner": "We help robots see like humans do.",
+    "long_description": "Efference builds the eyes and visual cortex for robots. Instead of treating depth as a hardware problem, we use software — inspired by how humans see — to generate rich and reliable 3D information. This lets us deliver higher performance and greater ease of use at a lower price than existing stereo cameras.",
+    "one_liner": "We build the eyes and visual cortex for robots.",
     "team_size": 1,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -29446,7 +29450,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/efference",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/efference.json"
   },
@@ -29577,57 +29581,15 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/aircaps.json"
   },
   {
-    "id": 30844,
-    "name": "Uplane",
-    "slug": "uplane",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f28d39fea2309ac2fc4d42b7be088ee964dccf6a.png",
-    "website": "https://uplane.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Uplane uses AI to automate digital advertising.\r\n\r\nUplane's AI platform creates thousands of ad campaigns with matching landing pages for each one, and allocates budgets across Meta, Google, TikTok and more. By connecting to CRM and ERP data, Uplane learns what drives profit and continuously improves campaigns.\r\n\r\nCompanies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving system. The result: 20-50% higher ROAS for enterprises and effortless, expert-level marketing for SMBs.\r\n\r\nDigital marketing is a $740B market with a 10% CAGR. Uplane charges a base fee plus up to 10% of ad spend, outperforming marketing agencies that typically charge 10-30%.\r\n\r\nThe team has deep founder-market fit: Julius managed a 7-digit monthly ad budget at one of the biggest ad spenders in Europe; Marvin has an academic background in Data Science (Imperial, Harvard) and led growth analytics & operations at a unicorn; Lukas was Head of Engineering at two YC startups, Blair (S19) and Fastgen (W23).",
-    "one_liner": "AI autopilot for digital advertising",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1759250646,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Advertising",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/uplane",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/uplane.json"
-  },
-  {
     "id": 30845,
     "name": "Structured AI",
     "slug": "structured-ai",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b994637fa890bb7d41d69d022b3d15f6e4f3e8c.png",
     "website": "https://www.getstructured.ai/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Structured AI understands building codes, standards, drawing, and project requirements to generate and update the technical documents that normally take weeks to complete. Its AI agents live inside software tools like Revit, Word, Excel, and SharePoint that mechanical, electrical, civil, and structural engineers already use. \r\n",
-    "one_liner": "Agentic AI workforce for pre-construction design engineering",
+    "one_liner": "AI workforce for construction design engineering",
     "team_size": 3,
     "industry": "Real Estate and Construction",
     "subindustry": "Real Estate and Construction -> Construction",
@@ -29650,7 +29612,8 @@
       "Construction"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -29659,6 +29622,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/structured-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/structured-ai.json"
+  },
+  {
+    "id": 30849,
+    "name": "MOVEdot",
+    "slug": "movedot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b630790318ee271fefdcad27aee6e1409b369d3a.png",
+    "website": "https://www.movedot.ai/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Our platform allows engineers to automate the post processing of sensor data then teach an army of AI agents how to interpret them and find correlations / causations for their specific niche.",
+    "one_liner": "AI Agents for Sensor Data Analysis",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759431340,
+    "tags": [
+      "Manufacturing",
+      "AI",
+      "Automotive",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/movedot",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/movedot.json"
   },
   {
     "id": 30857,
@@ -29949,6 +29956,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/veria-labs.json"
   },
   {
+    "id": 30878,
+    "name": "Cranston AI",
+    "slug": "cranston-ai",
+    "former_names": [
+      "Cranston Group"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88689b5dae77948437304c27aefbb12261dcacb3.png",
+    "website": "https://www.cranstonai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cranston is a full stack AI accounting firm automating the $200b market for accounting labor. Our software automates reconciliation, tax compliance and financial analysis for SMB and mid market companies. We pull in context from all your company's apps & data, connect to existing systems of record and handle repetitive finance work.\r\n\r\nWe provide an intelligence layer on top of systems like QuickBooks, NetSuite, SAP, or custom ERPs to ingest and categorize transactions, post entries, route approvals, and surface only items that need a decision.\r\n\r\nOur team is deep in the accounting space. Sean spent 5 years building an ERP after dropping out of Stanford and Max spent 5 years building an accounting firm that did every accounting workflow you can imagine on top of ERPs.",
+    "one_liner": "Full stack AI for accounting and finance",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1759732290,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cranston-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/cranston-ai.json"
+  },
+  {
     "id": 30879,
     "name": "Hypercubic",
     "slug": "hypercubic",
@@ -30120,7 +30170,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3725baa6ed275d3fe7064a6f04d7c57debd641c.png",
     "website": "https://getnivara.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI is now woven into every workflow. Engineers use Copilot, Cursor, and Claude, marketers use ChatGPT, analysts use Gemini, yet most companies still have no visibility into how it improves outcomes and drives impact.\r\n\r\nNivara gives organizations the intelligence to measure, improve, and scale AI adoption. We connect to tools like GitHub, Jira, Copilot, and Claude to show how AI impacts delivery speed and quality, then use a real-time in-work coach to help teams use AI more effectively inside their daily tools. \r\n\r\nBy combining AI usage intelligence, productivity insights, and adaptive coaching, Nivara helps companies close the loop between AI strategy and execution, driving measurable productivity gains across every function.\r\n\r\nEmpower every team to work intelligently with AI.",
+    "long_description": "Nivara gives engineering leaders visibility into how humans and AI build together, helping teams spot bottlenecks, measure impact, and turn AI adoption into real outcomes.  \r\n\r\nWe're building the much needed AI Resource Management Layer and empower every team to work intelligently with AI.",
     "one_liner": "The intelligence layer for how your teams use AI",
     "team_size": 2,
     "industry": "B2B",
@@ -30244,7 +30294,7 @@
     "name": "Allus AI",
     "slug": "allus-ai",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54229250ba85a1626b1be8439c198c6ece967b89.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/71ad9848dee44fa1e200195ee6353abc91a10e19.png",
     "website": "https://allus.ai",
     "all_locations": "Atlanta, GA, USA",
     "long_description": "Allus builds next-gen vision foundation models that bring real intelligence to manufacturing. Enabling factories to see, understand, and improve production in real time. ",
@@ -30324,6 +30374,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/multifactor",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/multifactor.json"
+  },
+  {
+    "id": 30900,
+    "name": "LogosGuard",
+    "slug": "logosguard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b3e17b292dce9142e728fb1a7ba4705bb06cceff.png",
+    "website": "https://logosguard.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Enterprises are racing to adopt AI, but often don't have the right controls in place or know how to verify vendors are compliant. LogosGuard turns AI policies into executable controls, stress-tests your AI products, and continuously monitors changes, giving enterprises the confidence to scale AI responsibly.",
+    "one_liner": "The risk management software for enterprises adopting AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762810607,
+    "tags": [
+      "B2B",
+      "Compliance",
+      "Security",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/logosguard",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/logosguard.json"
   },
   {
     "id": 30901,
@@ -30499,10 +30591,10 @@
     "slug": "rovr",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be661dea8f47a3f8abccf2a96eac3ff45c4977d8.png",
-    "website": "https://www.bellmanai.work/",
+    "website": "https://www.withrovr.com/",
     "all_locations": "",
-    "long_description": "We are Rovr, a team of ex-Mercor, Databricks, and Google engineers. We’ve built an AI Forward Deployed Engineer (AI FDE) — a system that removes the operational overhead from traditional FDE work and compresses month-long projects into weeks. Rovr automates deployment, integration, and customization of AI systems, letting teams move from concept to production faster than ever.",
-    "one_liner": "The Next-Gen AI FDE",
+    "long_description": "In Stealth.",
+    "one_liner": "Stealth",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -30657,87 +30749,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/compyle.json"
   },
   {
-    "id": 30924,
-    "name": "Casey",
-    "slug": "casey",
-    "former_names": [
-      "Clausee"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88a76602e15d6bde1447f1d7066e3a3e3708bea1.png",
-    "website": "https://www.meetcasey.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Casey is the fastest way for commercial insurance brokers to submit complex risks. We automate client data collection, build risk profiles, and prepare carrier-ready submissions for wholesalers and underwriters in minutes.",
-    "one_liner": "The infrastructure layer for insurance distribution",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1759942019,
-    "tags": [
-      "B2B",
-      "Insurance",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/casey",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/casey.json"
-  },
-  {
-    "id": 30928,
-    "name": "Thesis",
-    "slug": "thesis",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
-    "website": "https://thesislabs.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Thesis is an applied research lab.\r\n\r\nOur aim is to help scientists and researchers uncover the next Transformer and build the next AlphaFold. Faster and more systematically, treating breakthrough discovery as an engineering problem rather than a matter of luck.\r\n\r\nThe mission is to democratize invention by empowering researchers everywhere with machine intelligence to drive the discovery of the next big thing.",
-    "one_liner": "The scientific discovery engine.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1762476616,
-    "tags": [
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/thesis",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/thesis.json"
-  },
-  {
     "id": 30929,
     "name": "Inspector",
     "slug": "inspector",
@@ -30873,7 +30884,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e147d1eb5a08ce6e087e44a2f10d637816c7c5db.png",
     "website": "https://tryscott.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Get to your best spec faster. Align with your team faster. Let coding agents take on larger tasks.\r\n\r\nScott came from our own pain trying to build with coding agents on products that serve millions of users. We realized that the real productivity blocker is no longer coding speed. It’s ensuring that coding agents are aligned with developer intent. Scott AI addresses this problem by re-imagining the software design process with coding agents as first class participants.",
+    "long_description": "Get to your best spec faster. Align with your team faster. Let coding agents take on larger tasks. Scott lets teams orchestrate “swarms of experts” to debate architecture designs, making it easy for developers to discover and align on the best plan before handing it off to execution-oriented agents like Claude, Codex, or Cursor.\r\n\r\nScott came from our own pain trying to build with coding agents on products that serve millions of users. We realized that the real productivity blocker is no longer coding speed. It’s ensuring that coding agents are aligned with developer intent. Scott AI addresses this problem by re-imagining the software design process with coding agents as first class participants.",
     "one_liner": "Agentic Workspace for Software Spec Design",
     "team_size": 2,
     "industry": "B2B",
@@ -31032,48 +31043,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/usenarrative",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/usenarrative.json"
-  },
-  {
-    "id": 30966,
-    "name": "Karumi",
-    "slug": "karumi",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cc73de6be4a68b9b42a71616ee477afce055a351.png",
-    "website": "https://www.karumi.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Picture an AI assistant that can instantly hop into your video call, answer any question you throw its way, and then pull up a live screen‑share to walk you through your use case in real time.\r\n\r\nWe are building an AI product expert that can do product demos, customer support and internal enablement. ",
-    "one_liner": "AI-powered product demos",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1761723346,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/karumi",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/karumi.json"
   },
   {
     "id": 30969,
@@ -31288,6 +31257,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stratus-aviation",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/stratus-aviation.json"
+  },
+  {
+    "id": 30995,
+    "name": "Velvet",
+    "slug": "velvet",
+    "former_names": [
+      "Inline",
+      "Lenscape"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f333f0eb8eb873e8e242bef88d7d4fbf13bfc08.png",
+    "website": "https://velvet.video",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Velvet is the single platform for companies to instantly create and edit brand-consistent AI videos. Our team has worked on video generation at Meta FAIR and infra at Adobe, and we’re building the single tool companies need to produce AI video assets.",
+    "one_liner": "The platform for companies to create AI videos in seconds.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1761236237,
+    "tags": [
+      "Video",
+      "Media",
+      "Advertising",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/velvet",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/velvet.json"
   },
   {
     "id": 31001,
