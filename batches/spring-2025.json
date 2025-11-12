@@ -295,13 +295,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60e390e449209c3c990c56045efeb692cf4ce77a.png",
     "website": "https://blaxel.ai",
     "all_locations": "",
-    "long_description": "Blaxel is a cloud infrastructure to power AI agents. Our platform gives AI companies the toolbox and infrastructure to build and deploy agents efficiently. \r\n\r\nBillions of agents, tools, and models will transform how we work in the coming years. Traditional cloud providers weren't designed to handle them—their one-size-fits-all architecture holds them back. We fixed that with Blaxel.\r\n\r\nWhat is it? A complete computing platform with:\r\n\r\n- all services for developers to fast-track deploying agents without reinventing the wheel — like framework-agnostic serverless deployments, an AI gateway for model routing and fallback, and custom MCP server hosting.\r\n- a flexible low-level API for builders to ship really performant agentic AI using our backbone infrastructure — using services like sandboxed VMs usable by agents, a programmable global gateway, and a 20ms-latency serverless compute engine.\r\n- and a seamless developper experience that integrates with their CI/CD, and APIs that can even be consumed by agents themselves!",
+    "long_description": "Blaxel gives agents secure sandboxes to run AI code, parallel background tasks and tool calls.\r\n\r\nBlaxel Sandboxes are secure instant-launching compute environments that you can use for running AI-generated code.\r\n▫️ Automatic scale-to-zero instantly when inactive, resume from standby under 25ms even after weeks.\r\n▫️ Micro-VMs with full access to file system, processes and logs.\r\n▫️ Preview URLs with your own custom domain.\r\n\r\nThe rest of Blaxel’s cloud services include:\r\n▫️ Agents Hosting - Deploy your agent logic as a serverless endpoint on the same optimized infrastructure as your sandboxes to eliminate agent-to-sandbox latency.\r\n▫️ Batch Jobs - Scalable compute engine designed for agents to schedule and execute thousands of background AI processing tasks in parallel.\r\n▫️ MCP Servers Hosting - Deploy custom tool servers next to your agents.\r\n▫️ Model Gateway - Intelligent routing layer to LLM providers with built-in telemetry, token cost control, and fallbacks capabilities.\r\n▫️ Full observability — out-of-the-box",
     "one_liner": "AWS for AI Agents",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1745276338,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -2562,7 +2566,7 @@
     "former_names": [
       "NuPhone"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05dc1fcc381e78f5751ed829114514f490dacdec.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d135876d42639aa8e4db16aaa587df7c0a5f0ba9.png",
     "website": "https://voiceos.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "VoiceOS turns voice into a seamless, universal interface for reading and writing. It works in any app, letting users speak naturally to compose, edit, and understand text anywhere — email, Slack, Notion, Chrome, or Word. It doesn’t just transcribe; it refines, rewrites, and explains — transforming speech into clear, polished writing and static text into dynamic understanding. The result is a faster, more human way to think and communicate.",
@@ -4630,7 +4634,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/67f8fa73a583138ab0060e99d6a10e8341a0d040.png",
     "website": "https://www.mindfort.ai",
     "all_locations": "",
-    "long_description": "MindFort is building fully autonomous AI agents powered by their in-house models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it.\r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
+    "long_description": "MindFort is building fully autonomous AI agents powered by their in-house models that can find, exploit, and patch complex vulnerabilities in web applications at massive scale. MindFort agents use the same principles as human penetration testers to understand their target and figure out the best ways to work together to exploit it. We can do fully autonomous AI web pentesting. \r\n\r\nWhile security teams were already behind with legacy tools and processes, AI coding is make the problem worse. AI generates code far faster than human teams can secure it; MindFort can match that speed and scale. Our agents will become critical as organizations scale up development with AI.\r\n",
     "one_liner": "Autonomous Security Agents",
     "team_size": 5,
     "industry": "B2B",

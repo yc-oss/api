@@ -2510,9 +2510,9 @@
     "launched_at": 1715713232,
     "tags": [
       "AIOps",
+      "Artificial Intelligence",
       "Developer Tools",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3140,6 +3140,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fluidize",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/fluidize.json"
+  },
+  {
+    "id": 30366,
+    "name": "Blaxel",
+    "slug": "blaxel",
+    "former_names": [
+      "Beamlit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60e390e449209c3c990c56045efeb692cf4ce77a.png",
+    "website": "https://blaxel.ai",
+    "all_locations": "",
+    "long_description": "Blaxel gives agents secure sandboxes to run AI code, parallel background tasks and tool calls.\r\n\r\nBlaxel Sandboxes are secure instant-launching compute environments that you can use for running AI-generated code.\r\n▫️ Automatic scale-to-zero instantly when inactive, resume from standby under 25ms even after weeks.\r\n▫️ Micro-VMs with full access to file system, processes and logs.\r\n▫️ Preview URLs with your own custom domain.\r\n\r\nThe rest of Blaxel’s cloud services include:\r\n▫️ Agents Hosting - Deploy your agent logic as a serverless endpoint on the same optimized infrastructure as your sandboxes to eliminate agent-to-sandbox latency.\r\n▫️ Batch Jobs - Scalable compute engine designed for agents to schedule and execute thousands of background AI processing tasks in parallel.\r\n▫️ MCP Servers Hosting - Deploy custom tool servers next to your agents.\r\n▫️ Model Gateway - Intelligent routing layer to LLM providers with built-in telemetry, token cost control, and fallbacks capabilities.\r\n▫️ Full observability — out-of-the-box",
+    "one_liner": "AWS for AI Agents",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1745276338,
+    "tags": [
+      "Artificial Intelligence",
+      "Cloud Computing",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/blaxel",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/blaxel.json"
   },
   {
     "id": 30407,
@@ -3971,7 +4012,7 @@
     "website": "https://s2.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "S2 is a serverless datastore for real-time, streaming data.\r\n\r\nThe more we worked on data systems, the more we felt like there was a missing building block. The seamless experience of object storage simply did not exist for durable streams – so we set out to fix that!\r\n\r\nS2 reimagines streams as an unlimited and access-controlled web resource. Like if Kafka and S3 had a baby.\r\n\r\n- Building agents? Use granular streams to persist context in real time, make workflows auditable, and coordinate between agents.\r\n\r\n- Publishing fast-moving data? Streams support high fanout and can be accessed directly over the internet, so they are a great fit for broadcasting real-time feeds.\r\n\r\n- Sandboxing? Emit to per-instance streams, and read history or live events just as easily.\r\n\r\n- Local-first and multiplayer experiences? Propagate updates reliably and efficiently.\r\n\r\nStop dealing with clusters, and start streaming.",
-    "one_liner": "Unlimited, durable, real-time streams",
+    "one_liner": "The S3 for streams",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -4111,9 +4152,10 @@
     "subindustry": "Fintech",
     "launched_at": 1762394891,
     "tags": [
-      "Artificial Intelligence",
+      "Developer Tools",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

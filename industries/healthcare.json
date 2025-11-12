@@ -8323,17 +8323,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37ef137c0b25704bcbf6c8a2e9e8910944567fe6.png",
     "website": "https://www.brainkey.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "BrainKey is an AI-driven digital healthcare company with a mission to create a world free from dementia. The company specializes in developing advanced clinical technologies that empower longevity physicians to detect and prevent cognitive decline and other brain longevity challenges. By analyzing brain MRI and biomedical data, BrainKey provides highly accurate and personalized brain health insights, supporting physicians in delivering tailored care for brain longevity. BrainKey's AI-powered platform streamlines diagnostics and reporting, improving both clinical outcomes and financial efficiency across the continuum of brain health care.\r\n\r\nShort Clip about BrainKey from the BBC: https://www.youtube.com/watch?v=ioSgvROTP0E\r\n",
-    "one_liner": "Brain Longevity: We quantify brain health",
+    "long_description": "BrainKey is an AI-driven digital healthcare company with a mission to create a world free from dementia. ",
+    "one_liner": "Brain Longevity",
     "team_size": 20,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1541131379,
     "tags": [
-      "Artificial Intelligence",
       "Neurotechnology",
       "Health Tech",
-      "Digital Health"
+      "Digital Health",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12172,7 +12172,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2020",
     "status": "Active",
@@ -21076,7 +21076,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Miracle is the control room for clinical trials. Our platform consolidates data from multiple trial systems into real-time dashboards, delivering automated insights that empower clinical-stage biopharmaceutical companies to streamline operations, reduce manual workflows, and accelerate data-driven decision-making. By transforming complex trial data into actionable insights, Miracle helps biopharma teams speed up clinical trials, and ultimately, improve patient outcomes.",
     "one_liner": "Accelerate clinical trials with real-time, actionable insights",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1677015940,
@@ -24032,11 +24032,11 @@
     "subindustry": "Unspecified",
     "launched_at": 1707354939,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "B2B",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25286,6 +25286,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/baseline-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/baseline-ai.json"
+  },
+  {
+    "id": 29818,
+    "name": "Entropy",
+    "slug": "entropy",
+    "former_names": [
+      "Remo Financial"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1fc5d5cf43e3952bd0f4deec6829b45762ed6a5.png",
+    "website": "https://www.withentropy.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Autonomous intake and RCM for specialty clinics. \r\n\r\nWe're helping specialty clinics catapult in to the modern day by automating their patient intake (emails, calls, and faxes) and interactions with payors (insurance companies). We're helping them see patients quicker, keep referrers in the loop, and get paid on time. ",
+    "one_liner": "Autonomous intake and RCM for specialty clinics. ",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Fintech",
+    "launched_at": 1720072040,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/entropy",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/entropy.json"
   },
   {
     "id": 29857,
@@ -27407,7 +27447,9 @@
     "id": 30829,
     "name": "Remedy",
     "slug": "remedy",
-    "former_names": [],
+    "former_names": [
+      "TalkRx"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9775c990b59973e626bccf8bbb0b22ead6b88d7e.png",
     "website": "http://www.useremedy.co",
     "all_locations": "San Francisco, CA, USA",
@@ -27415,7 +27457,7 @@
     "one_liner": "AI Agents for Pharmacies",
     "team_size": 3,
     "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
+    "subindustry": "Healthcare",
     "launched_at": 1758854629,
     "tags": [
       "Healthcare"
@@ -27486,11 +27528,11 @@
     "name": "Kaigo Health",
     "slug": "kaigo-health",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/586118645a981d290c46b4ac2dedd14dfdb9c962.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59741bf929b644ae6eee61f3e03439f598f3ceeb.png",
     "website": "https://www.kaigohealth.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kaigo Health provides an AI-powered outpatient care management platform that automates and scales remote care management for Medicare patients including post-discharge followups, ongoing check-ins, and monitoring. Using phone calls as an age-friendly interface, we aggregate patient responses, voice biomarkers, and remote patient monitoring data for powerful preventative and proactive healthcare. ",
-    "one_liner": "AI-powered outpatient care management platform",
+    "one_liner": "AI outpatient care workforce",
     "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
@@ -27698,7 +27740,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/854d5ebc9419a8974e7acf5bf13e395923c740a6.png",
     "website": "https://www.rovi.health",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We deliver high-quality, affordable healthcare to employees through text. Employers cut 10–20% of healthcare spend. Employees get concierge care they love.\r\n\r\nOur AI-enabled virtual care treats common conditions over text or video. For in-person care, our AI agents search across all in-network providers using millions of price and quality data points, recommend the best options, then coordinate scheduling. Employees get rewarded for choosing high-value care through copay reimbursements.\r\n\r\nWe've already contracted to roll out to thousands of employees across multiple employers for the 2025-2026 plan year.\r\n\r\nWe're on a mission to build member-aligned, AI-native health insurance, starting with cost containment.",
+    "long_description": "We deliver high-quality, fairly-priced healthcare to employees through text. Employers cut 10–20% of healthcare spend. Employees get concierge care they love.\r\n\r\nOur AI-enabled virtual care treats common conditions over text or video. For in-person care, our AI agents search across all in-network providers using millions of price and quality data points, recommend the best options, then coordinate scheduling. Employees get rewarded for choosing high-value care through copay reimbursements.\r\n\r\nWe've already contracted to roll out to thousands of employees across multiple employers for the 2025-2026 plan year.\r\n\r\nWe're on a mission to build member-aligned, AI-native health insurance, starting with cost containment.",
     "one_liner": "Text-based healthcare that slashes employer health spend",
     "team_size": 2,
     "industry": "Healthcare",
@@ -27749,7 +27791,8 @@
     "tags": [
       "Artificial Intelligence",
       "Healthcare",
-      "Healthcare IT"
+      "Healthcare IT",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
