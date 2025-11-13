@@ -7066,7 +7066,7 @@
     "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2018",
-    "status": "Active",
+    "status": "Public",
     "industries": [
       "Fintech",
       "Asset Management"
@@ -11260,12 +11260,12 @@
       "Sling Health (formerly Arc)",
       "Sling Health"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d576fab8c654ab510c86afc4f13dcc1e6b53b02e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b89cac566636a744bfbbc0aa673ff4d81b1b779.png",
     "website": "https://pairteam.com/",
-    "all_locations": "San Francisco, CA, USA; New York, NY, USA; Remote",
-    "long_description": "Pair Team cares for the highest-need Medicaid recipients through a community-led, virtual care model. We take responsibility for the whole person by addressing not just clinical needs, but also health-related social needs such as housing instability and food access. We partner with local community-based organizations like shelters and safety net providers to coordinate care alongside our multidisciplinary care team to improve the wellbeing of underserved individuals and communities.",
-    "one_liner": "Connecting underserved communities to high quality care",
-    "team_size": 78,
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Pair Team is building a new kind of healthcare system across Medicaid, Medicare, and public assistance programs: one that recognizes that access to housing, nutritious food, and reliable transportation are just as critical to health as having the right medications or seeing a doctor. We run one of the largest medical groups for complex, low income patients and our next chapter is building a vertically integrated AI care manager to support any clinical, behavioral, or social need for everyone.",
+    "one_liner": "Building the safety net of the future",
+    "team_size": 500,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare Services",
     "launched_at": 1556171666,
@@ -21689,51 +21689,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/odys-aviation.json"
   },
   {
-    "id": 23948,
-    "name": "Superwall",
-    "slug": "staffbar",
-    "former_names": [
-      "Share That",
-      "StaffBar"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e4505819ade5550ec16c605c15c7ccf142d096de.png",
-    "website": "https://superwall.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "",
-    "one_liner": "Remotely configure every aspect of your mobile app's paywall",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1628553410,
-    "tags": [
-      "Developer Tools",
-      "Payments"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/staffbar",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/staffbar.json"
-  },
-  {
     "id": 23967,
     "name": "Varos",
     "slug": "varos",
@@ -28657,13 +28612,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Broccoli is building the AI-native operating system for home service businesses. Running a plumbing or HVAC company is chaotic—calls, scheduling, dispatch, follow-ups, marketing. We automate all of it so contractors can focus on what they do best: serving customers.\r\n\r\nOur AI agents handle both revenue and ops—answering phones 24/7, booking jobs in real time, following up on leads, and alerting techs when emergencies hit.\r\n\r\nWe’ve grown from 0 to 200+ contractors in under a year, raised an unannounced round led by a Tier 1 VC to take on one of the biggest labor automation opportunities in the country.",
     "one_liner": "AI-native operating system for home service businesses",
-    "team_size": 11,
+    "team_size": 21,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1646292663,
     "tags": [
+      "Artificial Intelligence",
       "Home Services",
-      "AI"
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35607,6 +35564,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/clickpe.json"
   },
   {
+    "id": 27938,
+    "name": "Boundary",
+    "slug": "boundary",
+    "former_names": [
+      "Gloo",
+      "Gloo Chat",
+      "Gloo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d66bb51ef2922c834b2fbb6de2b175e7a85b8f8.png",
+    "website": "https://www.boundaryml.com",
+    "all_locations": "Seattle, WA, USA",
+    "long_description": "Boundary is building BAML -- a programming language to build AI agents.\r\n\r\nWe used to code in assembly, and moved on to C.\r\nFrom C, we moved on to higher level languages like Python.\r\nNow we are going from Python to natural language.\r\n\r\nWhat does the code look like when 50% of the business decisions is decided by an AI agent / prompts? How do you test these AI components? We made BAML to address these problems.\r\n\r\nBAML helps has built-in tools to test, observe, and work with structured LLM outputs / tool calling natively in the language 10x faster. With BAML you can also instantly parallelize LLM Calls, or react to certain events or changes in your pipelines, without having to write any boilerplate. It's like using 'React' for AI.\r\n\r\nBAML code can used from any other language -- providing a standardized way to organize and declare any LLM or AI code.",
+    "one_liner": "The programming language for AI",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1678219068,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "Machine Learning",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/boundary",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/boundary.json"
+  },
+  {
     "id": 27943,
     "name": "Hadrius",
     "slug": "hadrius",
@@ -41663,7 +41666,7 @@
     "website": "https://www.greptile.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
-    "one_liner": "AI code reviewer with complete context of your codebase",
+    "one_liner": "AI code review agent with complete context of your codebase",
     "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -42857,8 +42860,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cb3f26201c03b2b4385a2fa733f92ea4057090c.png",
     "website": "https://getomni.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Omni turns documents, slide decks, websites and more into the data you need. You'll never need to copy + paste data into spreadsheets again.\r\n- Connect to a database or document store. We support Snowflake, Postgres, Google Drive, S3 and more.\r\n- Transform your data - Define type safe schemas to run against your unstructured data. We’ll run those models against your data, and keep your warehouse in sync as new rows/fields are added/deleted.\r\n- Query with SQL - All the transformed data stays in your warehouse. Surface this data in your product, or analyze with your existing BI tools.",
-    "one_liner": "Automate document workflows",
+    "long_description": "At Omni, we’re rebuilding how banks and fintechs lend to small businesses.\r\n\r\nThere are 34 million small businesses in the U.S., yet getting a loan still means weeks of emails, PDFs, and paperwork. Every deal starts with a pile of documents — tax returns, bank statements, corporate filings, and contracts that no one wants to read but everyone depends on. \r\n\r\nOmni is changing that. We work directly with lenders to modernize the entire stack, from document intake to underwriting, and we’re doing it with a small, fast-moving team that ships real systems used in production every day.",
+    "one_liner": "AI Agents for Commercial Lending",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -42877,7 +42880,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Finance and Accounting"
     ],
     "regions": [
       "United States of America",
@@ -55536,8 +55539,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3442ddefa8f2ffb38f683757efc6de9a1e78890b.png",
     "website": "https://withnixo.com/",
     "all_locations": "",
-    "long_description": "Accelerate your FDE team with Nixo’s ops solutions. Scope customer problems instantly, reuse deployments across accounts, and plan every engagement with operational precision.",
-    "one_liner": "Get SaaS-level margins from your AI forward deployed services.",
+    "long_description": "FDE teams manage some of the most complex customer engagements: enterprise onboarding, custom integrations, and high-stakes deployments where precision matters. Nixo defines the new standard of FDEOps -- bringing clarity, automation, and operational precision to every customer engagement. With Nixo, forward-deployed services can finally scale with SaaS-level efficiency and margins.",
+    "one_liner": "The first ops platform for forward deployed engineers",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -56604,13 +56607,13 @@
     "website": "https://www.wafer.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Every successful tool is a bet on efficiency. A waterwheel grinds more grain per unit effort than a quern. A transistor switches more operations per watt than a vacuum tube. This is civilization's pattern: do more work with less energy.\r\n\r\nFor ten thousand years, efficiency meant physical work. Intellectual work rode the surplus. Better farming, manufacturing, transport. But the brain itself bottlenecked every intellectual task.\r\n\r\nCompute changes this. For the first time, we can drive efficiency gains in intellectual work directly. Any repeatable job with measurable output has an efficiency ratio. Useful work divided by energy consumed. Intelligence per watt.\r\n\r\nHumans perform tasks at some quality-weighted outcomes per kilowatt-hour. AI systems do the same jobs. We can measure both the same way. AI is crossing the human baseline. Domain after domain.\r\n\r\nThe world's hardest problems are information problems, and human intelligence is no longer the limit. The cost of intelligence per unit of energy is the limit. Every order of magnitude drop in cost expands the set of solvable problems.\r\n\r\nOur mission at Wafer is to maximize intelligence per watt by using AI to optimize AI infrastructure, achieving thousands of times better energy and cost efficiency.\r\n\r\nWe want people to do their life's work here in pursuit of radical abundance. We believe cheap intelligence is the most essential piece of technology for a future of abundance. We will build the future with intelligence \"too cheap to meter.\"",
-    "one_liner": "Optimized AI infrastructure",
+    "one_liner": "AI That Optimizes AI Infrastructure",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1751530242,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -58520,9 +58523,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c62fd75050245643921b794ea15f1786d2ee9033.png",
     "website": "https://selfin.app",
-    "all_locations": "",
-    "long_description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single intelligent platform. ",
-    "one_liner": "The first AI Bank",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single platform. ",
+    "one_liner": "Building the first AI Bank",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -58545,7 +58548,8 @@
       "Consumer Finance"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -58595,6 +58599,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/everest",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/everest.json"
+  },
+  {
+    "id": 30944,
+    "name": "HireGlide",
+    "slug": "hireglide",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f43313bb066e1501a71f08b9bb9435ada83f0e9c.png",
+    "website": "https://www.hireglide.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hireglide is an AI screening tool for hiring teams. Instead of wading through 500 CVs, we screen them and surface the best candidates. In future, with access to millions of CVs, we will match candidates with relevant roles.\r\n\r\n",
+    "one_liner": "AI screening and matching for hiring teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1762295048,
+    "tags": [
+      "Artificial Intelligence",
+      "Recruiting",
+      "HR Tech",
+      "Talent Acquisition"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hireglide",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/hireglide.json"
   },
   {
     "id": 31010,

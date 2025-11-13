@@ -4403,48 +4403,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/assembly-2.json"
   },
   {
-    "id": 29326,
-    "name": "OmniAI",
-    "slug": "omniai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cb3f26201c03b2b4385a2fa733f92ea4057090c.png",
-    "website": "https://getomni.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Omni turns documents, slide decks, websites and more into the data you need. You'll never need to copy + paste data into spreadsheets again.\r\n- Connect to a database or document store. We support Snowflake, Postgres, Google Drive, S3 and more.\r\n- Transform your data - Define type safe schemas to run against your unstructured data. We’ll run those models against your data, and keep your warehouse in sync as new rows/fields are added/deleted.\r\n- Query with SQL - All the transformed data stays in your warehouse. Surface this data in your product, or analyze with your existing BI tools.",
-    "one_liner": "Automate document workflows",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1699651931,
-    "tags": [
-      "Documents",
-      "Finance",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/omniai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/omniai.json"
-  },
-  {
     "id": 29357,
     "name": "Salvy",
     "slug": "salvy",
@@ -5767,5 +5725,47 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/zalos",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/zalos.json"
+  },
+  {
+    "id": 30967,
+    "name": "Mantle",
+    "slug": "mantle",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29b0a2a5ad266c29913c6cd737b023935ee784ba.png",
+    "website": "https://www.mantle.work",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Mantle connects to all your tools: your CRM, Mail, Calendar, Payments, Product Analytics, and more. With just one prompt, you can create agents that handle back office work for you.\r\n\r\nThese agents can automate reports  and email them to you, drafts emails right in your email client, generates pre-meeting research directly in your calendar event, and much more. They run quietly in the background, react to changes in real time, follow a schedule or work when you chat with them. \r\n\r\nYou didn’t start up to stay stuck in admin. Turn your company AI-native with Mantle.",
+    "one_liner": "Build internal agents to automate back office work with one prompt",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1761343890,
+    "tags": [
+      "SaaS",
+      "Workflow Automation",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mantle",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/mantle.json"
   }
 ]

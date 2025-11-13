@@ -1504,17 +1504,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29768f3ec06f6ad6cbf8c250cca3501743daf869.png",
     "website": "https://www.getrima.ai",
     "all_locations": "Austin, TX, USA; Remote",
-    "long_description": "Small business owners use Rima to create professional financial reports that unlock insights to make confident decisions.\r\n\r\nWe are on a mission to create operational freedom for entrepreneurs beginning with eliminating manual reporting forever.",
-    "one_liner": "AI powered reporting for small businesses",
-    "team_size": 7,
+    "long_description": "Rima is an AI reconciliation assistant for accountants that enables them to complete complex reconciliations in minutes instead of hours\r\n\r\nWe are on a mission to build the automation layer for reconciliation for every ERP and payment system.",
+    "one_liner": "AI powered reconciliation for accountants",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1657049263,
     "tags": [
+      "Artificial Intelligence",
       "Finance",
       "B2B",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2244,8 +2244,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cb3f26201c03b2b4385a2fa733f92ea4057090c.png",
     "website": "https://getomni.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Omni turns documents, slide decks, websites and more into the data you need. You'll never need to copy + paste data into spreadsheets again.\r\n- Connect to a database or document store. We support Snowflake, Postgres, Google Drive, S3 and more.\r\n- Transform your data - Define type safe schemas to run against your unstructured data. We’ll run those models against your data, and keep your warehouse in sync as new rows/fields are added/deleted.\r\n- Query with SQL - All the transformed data stays in your warehouse. Surface this data in your product, or analyze with your existing BI tools.",
-    "one_liner": "Automate document workflows",
+    "long_description": "At Omni, we’re rebuilding how banks and fintechs lend to small businesses.\r\n\r\nThere are 34 million small businesses in the U.S., yet getting a loan still means weeks of emails, PDFs, and paperwork. Every deal starts with a pile of documents — tax returns, bank statements, corporate filings, and contracts that no one wants to read but everyone depends on. \r\n\r\nOmni is changing that. We work directly with lenders to modernize the entire stack, from document intake to underwriting, and we’re doing it with a small, fast-moving team that ships real systems used in production every day.",
+    "one_liner": "AI Agents for Commercial Lending",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -2264,7 +2264,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Finance and Accounting"
     ],
     "regions": [
       "United States of America",
@@ -3306,57 +3306,15 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/mod-ai.json"
   },
   {
-    "id": 30894,
-    "name": "Unsiloed AI",
-    "slug": "unsiloed-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9f85fd135a735334483a66e34f7d25f1c8f535c.png",
-    "website": "https://www.unsiloed.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI teams spend 6+ months building document workflows, yet fewer than 10% ever reach production. Generic LLM parsers and OCR collapse on multimodal documents with text, tables, images, and charts. Poor parsing and suboptimal chunking cripple RAG pipelines and downstream automation. Unsiloed AI has built state-of-the-art vision models which serves as the infrastructure layer for turning unstructured data into structured, queryable, and LLM-ready assets.\r\n\r\nOur APIs are already parsing hundreds of thousands of documents for startups and NASDAQ-listed enterprises, powering vertical AI solutions across industries. On public benchmarks, Unsiloed AI consistently outperforms solutions from LlamaIndex, Gemini, Mistral, and Unstructured.io among others.",
-    "one_liner": "API for parsing multimodal unstructured data",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "Unspecified",
-    "launched_at": 1759119503,
-    "tags": [
-      "Finance",
-      "B2B",
-      "Infrastructure",
-      "AI",
-      "APIs"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/unsiloed-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/unsiloed-ai.json"
-  },
-  {
     "id": 30922,
     "name": "Selfin",
     "slug": "selfin",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c62fd75050245643921b794ea15f1786d2ee9033.png",
     "website": "https://selfin.app",
-    "all_locations": "",
-    "long_description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single intelligent platform. ",
-    "one_liner": "The first AI Bank",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single platform. ",
+    "one_liner": "Building the first AI Bank",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -3379,7 +3337,8 @@
       "Consumer Finance"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

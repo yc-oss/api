@@ -2032,7 +2032,9 @@
     "id": 1560,
     "name": "Helix Nanotechnologies",
     "slug": "helix-nanotechnologies",
-    "former_names": [],
+    "former_names": [
+      "Helix Nanotechnologies"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f05a634de42c2c96484608b63b33b99fd27aa56e.png",
     "website": "http://helixnano.com",
     "all_locations": "Boston, MA, USA; Cambridge, MA, USA",
@@ -4322,24 +4324,23 @@
   },
   {
     "id": 12062,
-    "name": "In The Room",
-    "slug": "in-the-room",
+    "name": "Autodial prev Qwest",
+    "slug": "autodial-prev-qwest",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c2f0f7aef758fd23a921bc800b8b194b2b049cb.png",
-    "website": "https://www.intheroom.social",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b3eee35a4bfe7106117bae88bb555be906669dc.png",
+    "website": "https://www.autodial.com",
     "all_locations": "Miami, FL, USA; Remote",
-    "long_description": "In The Room is a hyper-local geospatial social network for IRL real-time connections in shared spaces. Designed to help you vibe with people literally in the same room, it answers the question, \"Who’s here?\" by seamlessly connecting you with others nearby. \r\n\r\nCurrently focused on dating, friendships and professional networking, it’s perfect for meeting people wherever they gather—restaurants, bars, clubs, lounges, events, or public spaces like Miami Beach. Go outside, vibe, and connect with others in the places you already love to visit.",
-    "one_liner": "Real-time connections in physical spaces",
+    "long_description": "Previous Qwest (W19) - skip busy club lines. Autodial (currently exiting) is a service for skipping busy phone lines for everyday people calling businesses. Our goal is to connect people directly to customer service via phone lines by reducing the wait time from 60 minutes to 5 minutes. We cover 10,000 phone lines ranging from financial institutions, telecom, home services, government, etc.\r\n\r\nThe Pivot\r\nClub and restaurant lines were non-existent during COVID. We reset the company and shifted focus using more technical skills in machine learning to build a service that millions of americans could use and leverage in the moment -- a service that called government phone lines and handled the call process.\r\n\r\nSucceeding we expanded quickly expanded and built a model to support people using the service for free. ",
+    "one_liner": "Skip Busy Phone Lines",
     "team_size": 1,
     "industry": "Consumer",
     "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "launched_at": 1541644230,
     "tags": [
       "Artificial Intelligence",
-      "Dating",
-      "Social",
-      "Social Network",
-      "Location-based"
+      "Machine Learning",
+      "Telecommunications",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4357,12 +4358,12 @@
       "Fully Remote"
     ],
     "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
+    "app_video_public": true,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/in-the-room",
-    "api": "https://yc-oss.github.io/api/batches/winter-2019/in-the-room.json"
+    "url": "https://www.ycombinator.com/companies/autodial-prev-qwest",
+    "api": "https://yc-oss.github.io/api/batches/winter-2019/autodial-prev-qwest.json"
   },
   {
     "id": 12091,
@@ -10624,10 +10625,10 @@
       "spinach.io"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32f61bbbf466e48b6d79b3f115c8246567eb41a8.png",
-    "website": "https://spinach.io",
+    "website": "https://spinach.ai",
     "all_locations": "Nashville, TN, USA; Remote",
-    "long_description": "Spinach AI, backed by Y Combinator, Zoom and Atlassian, is the AI Meeting Assistant - helps run your meeting, summarizes the conversation and automates post-meeting work. Spinach integrates with your existing tools and supports 100 languages.\r\nAccording to Gartner, 80% of project management tasks will be run by AI by 2030, Spinach is making that a reality today.",
-    "one_liner": "Meetings Powered by AI",
+    "long_description": "Backed by Y Combinator, Zoom and Atlassian, Spinach AI is the system of record for conversation data, transforming unstructured dialogue into a structured data asset leveraged across the enterprise by people, agents and LLMs. \r\nWe enable the Record-by-Default Enterprise! ",
+    "one_liner": "The System of Record for Conversation Data",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -10636,8 +10637,8 @@
       "Artificial Intelligence",
       "SaaS",
       "Productivity",
-      "Collaboration",
-      "Remote Work"
+      "Conversational AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10647,7 +10648,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Productivity"
     ],
     "regions": [
       "United States of America",
@@ -11728,6 +11729,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cinder-2",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/cinder-2.json"
+  },
+  {
+    "id": 25819,
+    "name": "Broccoli AI",
+    "slug": "broccoli-ai",
+    "former_names": [
+      "Telematica",
+      "Broccoli",
+      "Telematica"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a4af19eaef182970dcf0225cba17bed637d7b49f.png",
+    "website": "https://www.broccoli.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Broccoli is building the AI-native operating system for home service businesses. Running a plumbing or HVAC company is chaotic—calls, scheduling, dispatch, follow-ups, marketing. We automate all of it so contractors can focus on what they do best: serving customers.\r\n\r\nOur AI agents handle both revenue and ops—answering phones 24/7, booking jobs in real time, following up on leads, and alerting techs when emergencies hit.\r\n\r\nWe’ve grown from 0 to 200+ contractors in under a year, raised an unannounced round led by a Tier 1 VC to take on one of the biggest labor automation opportunities in the country.",
+    "one_liner": "AI-native operating system for home service businesses",
+    "team_size": 21,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1646292663,
+    "tags": [
+      "Artificial Intelligence",
+      "Home Services",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/broccoli-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/broccoli-ai.json"
   },
   {
     "id": 25825,
@@ -13334,6 +13381,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/maya-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/maya-labs.json"
+  },
+  {
+    "id": 26907,
+    "name": "Rima AI (formerly Garage)",
+    "slug": "rima-ai",
+    "former_names": [
+      "Garage Mobility Inc.",
+      "Garage Mobility"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29768f3ec06f6ad6cbf8c250cca3501743daf869.png",
+    "website": "https://www.getrima.ai",
+    "all_locations": "Austin, TX, USA; Remote",
+    "long_description": "Rima is an AI reconciliation assistant for accountants that enables them to complete complex reconciliations in minutes instead of hours\r\n\r\nWe are on a mission to build the automation layer for reconciliation for every ERP and payment system.",
+    "one_liner": "AI powered reconciliation for accountants",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1657049263,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Analytics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/rima-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/rima-ai.json"
   },
   {
     "id": 26912,
@@ -15657,7 +15751,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -19602,7 +19696,9 @@
     "former_names": [
       "42 Labs",
       "Planetary Computers Inc.",
-      "Planetary Computers"
+      "Planetary Computers",
+      "ztool",
+      "autotab"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4967676cdc6058f952822347fafe9d59a61218fb.png",
     "website": "https://autotab.com",
@@ -19624,7 +19720,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Productivity"
@@ -20250,7 +20346,7 @@
     "website": "https://www.greptile.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Greptile reviews pull requests with full context of the codebase. \r\n\r\nTop YC companies like PostHog, Raycast, Vouch, Podium, and YC's own internal software team use Greptile to review millions of changes every week. \r\n\r\nWhen companies start using Greptile, they catch more bugs and merge PRs 4x faster, on average\r\n\r\nGreptile can be used via the cloud, or be hosted 100% on your cloud in an air-gapped VPC.",
-    "one_liner": "AI code reviewer with complete context of your codebase",
+    "one_liner": "AI code review agent with complete context of your codebase",
     "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -24807,50 +24903,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/willow",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/willow.json"
-  },
-  {
-    "id": 29668,
-    "name": "Proxis",
-    "slug": "proxis",
-    "former_names": [
-      "CureAI",
-      "Tailwind Health"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/451285ce2b3407f2b83c947851ea72847724516e.png",
-    "website": "https://www.proxis.ai/",
-    "all_locations": "",
-    "long_description": "Proxis is the AI automation platform built for enterprises.\r\n\r\nProxis is creating AI email agents that empower brands and enterprise teams to close deals automatically. Think: your inbox, on autopilot.\r\n\r\nWe initially fine tuned and distilled LLMs for enterprise use—and quickly realized that companies need more than just smarter models. They need full-stack automation. So Proxis built AI agents that handle the tedious, time-consuming work—everything from autonomous sales closers to customer service agents.\r\n\r\nThe mission is bold: to build the world’s most capable team of AI agents for every enterprise. Proxis imagines a future where a single founder can run a billion-dollar company—backed by a custom-built army of agents. Proxis is rethinking how agents are built, trained, and deployed from the ground up.",
-    "one_liner": "The platform for enterprise AI agent automations, starting with email.",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1725054386,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Productivity",
-      "Email"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/proxis",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/proxis.json"
   },
   {
     "id": 29671,
@@ -31032,6 +31084,46 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/chonkie.json"
   },
   {
+    "id": 30440,
+    "name": "Sim",
+    "slug": "sim",
+    "former_names": [
+      "Sim Studio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6364aefff525f87988267b6c493e25ee8f50af75.png",
+    "website": "https://sim.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sim enables fast-growing dev teams to build and deploy AI agent workflows. \r\n\r\n65,000+ developers are already using Sim, integrating with 500+ apps to streamline workflows with AI agents.",
+    "one_liner": "Open source platform to build AI agent workflows",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1746478234,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sim",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/sim.json"
+  },
+  {
     "id": 30444,
     "name": "Percival",
     "slug": "percival",
@@ -32096,8 +32188,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/12837739c0d64330042216a7aa87b32fd0deb815.png",
     "website": "https://www.lumari.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumari enables supply chain teams to automate their manual operational work using custom-trained AI teammates that deeply understand their company context.",
-    "one_liner": "AI Digital Workers",
+    "long_description": "Lumari enables supply chain teams to automate tactical work using custom-trained AI digital workers across supply chain procurement and sourcing.",
+    "one_liner": "AI Digital Workers for Supply Chain",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
@@ -32115,7 +32207,8 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Supply Chain and Logistics"
     ],
     "regions": [
       "United States of America",
@@ -32916,45 +33009,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nuntius",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nuntius.json"
-  },
-  {
-    "id": 30644,
-    "name": "Wafer",
-    "slug": "wafer",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d73d3d68555ca97a0b7fa88945cb6c577d872c4c.png",
-    "website": "https://www.wafer.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Every successful tool is a bet on efficiency. A waterwheel grinds more grain per unit effort than a quern. A transistor switches more operations per watt than a vacuum tube. This is civilization's pattern: do more work with less energy.\r\n\r\nFor ten thousand years, efficiency meant physical work. Intellectual work rode the surplus. Better farming, manufacturing, transport. But the brain itself bottlenecked every intellectual task.\r\n\r\nCompute changes this. For the first time, we can drive efficiency gains in intellectual work directly. Any repeatable job with measurable output has an efficiency ratio. Useful work divided by energy consumed. Intelligence per watt.\r\n\r\nHumans perform tasks at some quality-weighted outcomes per kilowatt-hour. AI systems do the same jobs. We can measure both the same way. AI is crossing the human baseline. Domain after domain.\r\n\r\nThe world's hardest problems are information problems, and human intelligence is no longer the limit. The cost of intelligence per unit of energy is the limit. Every order of magnitude drop in cost expands the set of solvable problems.\r\n\r\nOur mission at Wafer is to maximize intelligence per watt by using AI to optimize AI infrastructure, achieving thousands of times better energy and cost efficiency.\r\n\r\nWe want people to do their life's work here in pursuit of radical abundance. We believe cheap intelligence is the most essential piece of technology for a future of abundance. We will build the future with intelligence \"too cheap to meter.\"",
-    "one_liner": "Optimized AI infrastructure",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1751530242,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/wafer",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/wafer.json"
   },
   {
     "id": 30645,
@@ -34092,50 +34146,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/finto-de.json"
   },
   {
-    "id": 30719,
-    "name": "April",
-    "slug": "april",
-    "former_names": [
-      "Inbox0"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d5d3a6edb5621c81b20be14a648f9b57921bf764.png",
-    "website": "https://tryapril.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "April is a voice AI Executive assistant that manages your email and calendar, hands free. It’s built for busy individuals who need EAs but don’t have them.",
-    "one_liner": "Voice AI Executive Assistant",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1753405058,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Productivity",
-      "Calendar",
-      "Email"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/april",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/april.json"
-  },
-  {
     "id": 30720,
     "name": "Autosana",
     "slug": "autosana",
@@ -35189,6 +35199,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/digipals.json"
   },
   {
+    "id": 30821,
+    "name": "Efference",
+    "slug": "efference",
+    "former_names": [
+      "Remnant Robotics"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5e2b6583b762823b5a584f08e551758f4d63fa39.png",
+    "website": "https://efference.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Efference builds the eyes and visual cortex for robots. Instead of treating depth as a hardware problem, we use software — inspired by how humans see — to generate rich and reliable 3D information. This lets us deliver higher performance and greater ease of use at a lower price than existing stereo cameras.",
+    "one_liner": "We build the eyes and visual cortex for robots.",
+    "team_size": 1,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1762259214,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Robotics",
+      "Computer Vision"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/efference",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/efference.json"
+  },
+  {
     "id": 30822,
     "name": "Lapis",
     "slug": "lapis",
@@ -35735,6 +35789,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/the-context-company.json"
   },
   {
+    "id": 30867,
+    "name": "Soren",
+    "slug": "soren",
+    "former_names": [
+      "Remediate"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f91d6491f54842844440400f685038d81f545316.png",
+    "website": "https://soren-ai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Soren is an AI engineer designed specifically for evals.\r\n\r\nToday, teams spend countless hours creating evals and maintaining them every time a new feature ships. When they finally run those evals, they’re met with a pile of logs and traces, but little clarity on what actually went wrong or how to fix it.\r\n\r\nSoren changes that with powerful agents that work alongside your team. It reasons across failed test cases to pinpoint root causes, then runs targeted experiments to surface better-performing solutions. New cases are added whenever new behaviors are detected, so engineers can stop doing ad-hoc maintenance.\r\n\r\nWe’re building the foundation for AI systems that can eventually evaluate and improve themselves.",
+    "one_liner": "The AI engineer for evals.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1759390917,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Analytics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/soren",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/soren.json"
+  },
+  {
     "id": 30880,
     "name": "Nessie",
     "slug": "nessie",
@@ -35860,6 +35958,88 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mod-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/mod-ai.json"
+  },
+  {
+    "id": 30889,
+    "name": "Nivara",
+    "slug": "nivara",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3725baa6ed275d3fe7064a6f04d7c57debd641c.png",
+    "website": "https://getnivara.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nivara gives engineering leaders visibility into how humans and AI build together, helping teams spot bottlenecks, measure impact, and turn AI adoption into real outcomes.  \r\n\r\nWe're building the much needed copilot for Engineering Managers and empower every team to work intelligently with AI.",
+    "one_liner": "The intelligence layer for how your teams use AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1761077242,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/nivara",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/nivara.json"
+  },
+  {
+    "id": 30894,
+    "name": "Unsiloed AI",
+    "slug": "unsiloed-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f9f85fd135a735334483a66e34f7d25f1c8f535c.png",
+    "website": "https://www.unsiloed.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI teams spend 6+ months building document workflows, yet fewer than 10% ever reach production. Generic LLM parsers and OCR collapse on multimodal documents with text, tables, images, and charts. Poor parsing and suboptimal chunking cripple RAG pipelines and downstream automation. Unsiloed AI has built state-of-the-art vision models which serves as the infrastructure layer for turning unstructured data into structured, queryable, and LLM-ready assets.\r\n\r\nOur APIs are already parsing hundreds of thousands of documents for startups and NASDAQ-listed enterprises, powering vertical AI solutions across industries. On public benchmarks, Unsiloed AI consistently outperforms solutions from LlamaIndex, Gemini, Mistral, and Unstructured.io among others.",
+    "one_liner": "API for parsing multimodal unstructured data",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1759119503,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Infrastructure",
+      "APIs"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/unsiloed-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/unsiloed-ai.json"
   },
   {
     "id": 30896,
@@ -36203,6 +36383,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/patent-watch.json"
   },
   {
+    "id": 30937,
+    "name": "Anto Biosciences",
+    "slug": "anto-biosciences",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/83f56c369ac0fb5e70438516e774b8603717940a.png",
+    "website": "https://www.anto.bio/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Anto Biosciences is building the first foundation model for microbial communities, making the gut microbiome computable for the first time. We predict drug toxicity and efficacy across diverse populations and fix drugs so they work for everyone — solving the hidden root cause of most drug failures. \r\n\r\nFounded by Arvid (Broad Institute of MIT and Harvard; Nature-published researcher who pioneered quality-aware, goal-directed sparsification) and David (Harvard Medical School Gastroenterology, J&J), second-time founders who published the breakthrough at leading machine learning AI conferences and Nature. \r\n\r\nWe've caught a $1B cancer drug that worked in China but failed clinical trials in the U.S. With the help of our model, we are the first ones to know exactly why.\r\n\r\nAnto is backed by Y Combinator (F25). https://www.anto.bio/",
+    "one_liner": "A multimodal foundation model for microbial communities.",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1761948352,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Biotech",
+      "Genomics",
+      "Drug discovery"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/anto-biosciences",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/anto-biosciences.json"
+  },
+  {
     "id": 30942,
     "name": "Scott AI",
     "slug": "scott-ai",
@@ -36242,6 +36464,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/scott-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/scott-ai.json"
+  },
+  {
+    "id": 30944,
+    "name": "HireGlide",
+    "slug": "hireglide",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f43313bb066e1501a71f08b9bb9435ada83f0e9c.png",
+    "website": "https://www.hireglide.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Hireglide is an AI screening tool for hiring teams. Instead of wading through 500 CVs, we screen them and surface the best candidates. In future, with access to millions of CVs, we will match candidates with relevant roles.\r\n\r\n",
+    "one_liner": "AI screening and matching for hiring teams",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Unspecified",
+    "launched_at": 1762295048,
+    "tags": [
+      "Artificial Intelligence",
+      "Recruiting",
+      "HR Tech",
+      "Talent Acquisition"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hireglide",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/hireglide.json"
   },
   {
     "id": 30945,
@@ -36461,8 +36725,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/714941e4c6e2e3b20d32f53aa366486b1ba71894.png",
     "website": "https://arcten.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The serverless runtime for enterprise-grade AI agents built with any agent framework.",
-    "one_liner": "Infrastructure for AI Agents",
+    "long_description": "Arcten makes companies AI-native, fast. Deploy AI agents globally on our edge runtime, embed anywhere in 5 lines of code, link proprietary knowledge sources in one click, and get out-of-the-box agent observability and analytics—all on one platform.",
+    "one_liner": "Vercel for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -36619,47 +36883,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/savahq.json"
   },
   {
-    "id": 30967,
-    "name": "Mantle",
-    "slug": "mantle",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/29b0a2a5ad266c29913c6cd737b023935ee784ba.png",
-    "website": "https://www.mantle.work",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Mantle connects to all your tools: your CRM, Mail, Calendar, Payments, Product Analytics, and more. With just one prompt, you can create agents that handle back office work for you.\r\n\r\nThese agents can automate reports  and email them to you, drafts emails right in your email client, generates pre-meeting research directly in your calendar event, and much more. They run quietly in the background, react to changes in real time, follow a schedule or work when you chat with them. \r\n\r\nYou didn’t start up to stay stuck in admin. Turn your company AI-native with Mantle.",
-    "one_liner": "Build internal agents to automate back office work with one prompt",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1761343890,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Workflow Automation",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mantle",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/mantle.json"
-  },
-  {
     "id": 30969,
     "name": "Lemma",
     "slug": "uselemma",
@@ -36762,9 +36985,9 @@
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "Machine Learning",
       "B2B",
-      "ML"
+      "Enterprise",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -36786,6 +37009,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jarmin",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/jarmin.json"
+  },
+  {
+    "id": 30981,
+    "name": "Freeport Markets",
+    "slug": "freeport-markets",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7785e7f2104cbe8c0fd7a9462d42a9b03d5aeb86.png",
+    "website": "https://www.freeportmarkets.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Freeport is the DeFi prime brokerage for wealth-oriented investors who want safe yields, no fees, and differentiated investment options. Get exposure to curated onchain enterprises, pre-IPO companies, structured credit, and other alternative digital assets.",
+    "one_liner": "Self-Custodial DeFi Prime Brokerage",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
+    "launched_at": 1758671175,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Crypto / Web3",
+      "Investing",
+      "Consumer Finance"
+    ],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Consumer Finance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/freeport-markets",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/freeport-markets.json"
   },
   {
     "id": 30982,

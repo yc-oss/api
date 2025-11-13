@@ -93,6 +93,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/prox.json"
   },
   {
+    "id": 30604,
+    "name": "Parametric",
+    "slug": "parametric",
+    "former_names": [
+      "Intelligent Machines"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6077089b2820cf087e262d7c3ff9da8b9617d791.png",
+    "website": "https://parametric.company/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Existing robots learn generic averages from massive datasets. Our robots learn from customer feedback.\r\n\r\nWe solve the RL feedback loop for robotics, allowing our robots to learn from your specific standards via an automated reward pipeline that combines customer feedback with an intelligent judge model. This is the only way to capture the multi-trillion dollar “long tail” of unique, high-aggregate-value business tasks. ",
+    "one_liner": "RL for Robotics",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1754696414,
+    "tags": [
+      "Deep Learning",
+      "Reinforcement Learning",
+      "Robotics",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/parametric",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/parametric.json"
+  },
+  {
     "id": 30657,
     "name": "Nori",
     "slug": "nori",
@@ -328,10 +372,10 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1762259214,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "Robotics",
-      "Computer Vision",
-      "AI"
+      "Computer Vision"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -351,7 +395,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/efference",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/efference.json"
   },
@@ -1450,21 +1494,21 @@
     "former_names": [
       "Remediate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ec4d613a72c1cb5d572b902612fb263b49949bb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f91d6491f54842844440400f685038d81f545316.png",
     "website": "https://soren-ai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soren is building the first autonomous QA engineer for AI systems.\r\n\r\nToday, every model or prompt update risks introducing regressions, forcing teams to spend hundreds of hours maintaining evals and debugging failures.\r\n\r\nSoren automates the entire evaluation process — dynamically updating tests, surfacing root causes, and running experiments to test fixes.\r\n\r\nWe replace manual triage with adaptive, AI-driven evals that help teams ship more reliable AI, faster.",
-    "one_liner": "Autonomous QA engineer for AI systems",
+    "long_description": "Soren is an AI engineer designed specifically for evals.\r\n\r\nToday, teams spend countless hours creating evals and maintaining them every time a new feature ships. When they finally run those evals, they’re met with a pile of logs and traces, but little clarity on what actually went wrong or how to fix it.\r\n\r\nSoren changes that with powerful agents that work alongside your team. It reasons across failed test cases to pinpoint root causes, then runs targeted experiments to surface better-performing solutions. New cases are added whenever new behaviors are detected, so engineers can stop doing ad-hoc maintenance.\r\n\r\nWe’re building the foundation for AI systems that can eventually evaluate and improve themselves.",
+    "one_liner": "The AI engineer for evals.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "Unspecified",
     "launched_at": 1759390917,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Analytics",
-      "AI"
+      "Analytics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1576,8 +1620,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d6be5eec5520358437374d48ae33d4a26eadd56.png",
     "website": "https://koyal.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Koyal is an Audio to Video Filmmaking Platform that allows you to seamlessly convert audio into personalized, visually compelling stories. We’re a team from Carnegie Mellon, MIT and Meta, with experience in AI video generation.\r\n\r\nhttps://koyal.ai builds directly upon our published research at the AI conference NeurIPS in December. We’ve been covered in the international press for our patented secure personalization protocol CHARCHA: the genAI captcha.\r\n\r\nAnnouncement: https://x.com/meh_agarwal/status/1965866965425348687\r\nDemo: https://x.com/meh_agarwal/status/1965137062119752099\r\n\r\n\r\nWe currently have paid pilots with the biggest global music labels, podcasts and production houses, and just launched our public beta at beta.koyal.ai\r\n\r\nWe recently concluded a pilot with Universal Music and T-Series (world’s largest music label) alongside Bollywood production houses like Maddock Entertainment, and Collective Artists Network! As part of that, we launched 5 music videos for Grammy and Oscar winning artists like A R Rahman, Ricky Kej and Shankar Mahadevan all crossing 1.5 million views!\r\n\r\nWe've recently built SOTA capabilities in (i) multilingual script to audio to video, (ii) Agentic lip-sync with dynamic movement & (iii) Multi-character consistency.",
-    "one_liner": "Personalized Audio to Video Filmmaking",
+    "long_description": "Koyal is an Agentic AI Filmmaking Platform that allows you to seamlessly convert script or audio into personalized, visually compelling stories. We’re a team from Carnegie Mellon, MIT and Meta, with experience in AI video generation.\r\n\r\nhttps://koyal.ai builds directly upon our published research at the AI conference NeurIPS in December. We’ve been covered in the international press for our patented secure personalization protocol CHARCHA: the genAI captcha.\r\n\r\nAnnouncement: https://x.com/meh_agarwal/status/1965866965425348687\r\nDemo: https://x.com/meh_agarwal/status/1965137062119752099\r\n\r\n\r\nWe currently have paid pilots with the biggest global music labels, podcasts and production houses, and just launched our public beta at beta.koyal.ai\r\n\r\nWe recently concluded a pilot with Universal Music and T-Series (world’s largest music label) alongside Bollywood production houses like Maddock Entertainment, and Collective Artists Network! As part of that, we launched 5 music videos for Grammy and Oscar winning artists like A R Rahman, Ricky Kej and Shankar Mahadevan all crossing 1.5 million views!\r\n\r\nWe've recently built SOTA capabilities in (i) multilingual script to audio to video, (ii) Agentic lip-sync with dynamic movement & (iii) Multi-character consistency.",
+    "one_liner": "Agentic AI Filmmaking Platform",
     "team_size": 5,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
@@ -2245,16 +2289,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3725baa6ed275d3fe7064a6f04d7c57debd641c.png",
     "website": "https://getnivara.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nivara gives engineering leaders visibility into how humans and AI build together, helping teams spot bottlenecks, measure impact, and turn AI adoption into real outcomes.  \r\n\r\nWe're building the much needed AI Resource Management Layer and empower every team to work intelligently with AI.",
+    "long_description": "Nivara gives engineering leaders visibility into how humans and AI build together, helping teams spot bottlenecks, measure impact, and turn AI adoption into real outcomes.  \r\n\r\nWe're building the much needed copilot for Engineering Managers and empower every team to work intelligently with AI.",
     "one_liner": "The intelligence layer for how your teams use AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1761077242,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2378,10 +2422,9 @@
     "subindustry": "Unspecified",
     "launched_at": 1759119503,
     "tags": [
-      "Finance",
+      "Artificial Intelligence",
       "B2B",
       "Infrastructure",
-      "AI",
       "APIs"
     ],
     "tags_highlighted": [],
@@ -2581,7 +2624,7 @@
     "name": "Sanctum",
     "slug": "sanctum",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cd22bee184fcb9c2caeab9537bdee087a53a0865.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/676b9954fbd7936ce531db4514cc008a76ca7a4d.png",
     "website": "https://heysanctum.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sanctum lets you launch new features to a massively parallel simulation of your users before releasing to real customers. We build AI user models from your session recordings, run them against your changes, and surface bugs, UX issues, and performance problems early. Sanctum also allows you to \"chat\" with your artificial personas, which can explore your site to answer your questions. Results get delivered into your existing workflows.",
@@ -3203,9 +3246,9 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c62fd75050245643921b794ea15f1786d2ee9033.png",
     "website": "https://selfin.app",
-    "all_locations": "",
-    "long_description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single intelligent platform. ",
-    "one_liner": "The first AI Bank",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Selfin is developing AI-powered banking. Users can enjoy personalised recommendations and optimisations of their finances by connecting all their financial products on a single platform. ",
+    "one_liner": "Building the first AI Bank",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech",
@@ -3228,7 +3271,8 @@
       "Consumer Finance"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -3325,6 +3369,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/play-health",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/play-health.json"
+  },
+  {
+    "id": 30926,
+    "name": "certitude.",
+    "slug": "certitude",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eefd1d180876e6febc95389e547a13368f1985fc.png",
+    "website": "https://certitude.me",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "certitude. trains a model for each employee, to which they can delegate any writing task.\r\n\r\nour models write in their user's tone, maintain a universal memory layer, and take decisions the way the user would.\r\n\r\ntry our test bench to see how certitude performs in any text field on your machine.\r\n\r\n----\r\n\r\nMax and Marwan have known each other since the first days of freshman year at Penn. Together, before certitude, they built AI agents used by over 10k job applicants.\r\n\r\nThey built the first prototype of a certitude personal model in days, which received tens of thousands of API requests and hundreds of thousands of social media views in the first 48h.",
+    "one_liner": "digital twins that work in your name via API.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1762995411,
+    "tags": [
+      "Machine Learning",
+      "API",
+      "Automation",
+      "Search",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/certitude",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/certitude.json"
   },
   {
     "id": 30928,
@@ -3624,7 +3710,7 @@
     "website": "https://s2.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "S2 is a serverless datastore for real-time, streaming data.\r\n\r\nThe more we worked on data systems, the more we felt like there was a missing building block. The seamless experience of object storage simply did not exist for durable streams – so we set out to fix that!\r\n\r\nS2 reimagines streams as an unlimited and access-controlled web resource. Like if Kafka and S3 had a baby.\r\n\r\n- Building agents? Use granular streams to persist context in real time, make workflows auditable, and coordinate between agents.\r\n\r\n- Publishing fast-moving data? Streams support high fanout and can be accessed directly over the internet, so they are a great fit for broadcasting real-time feeds.\r\n\r\n- Sandboxing? Emit to per-instance streams, and read history or live events just as easily.\r\n\r\n- Local-first and multiplayer experiences? Propagate updates reliably and efficiently.\r\n\r\nStop dealing with clusters, and start streaming.",
-    "one_liner": "The S3 for streams",
+    "one_liner": "API for unlimited, durable, real-time streams",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -3716,9 +3802,11 @@
     "subindustry": "Healthcare",
     "launched_at": 1761948352,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
-      "Reinforcement Learning",
-      "Genomics"
+      "Biotech",
+      "Genomics",
+      "Drug discovery"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3965,14 +4053,14 @@
     "subindustry": "Unspecified",
     "launched_at": 1762295048,
     "tags": [
+      "Artificial Intelligence",
       "Recruiting",
       "HR Tech",
-      "Talent Acquisition",
-      "AI"
+      "Talent Acquisition"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -4537,8 +4625,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/714941e4c6e2e3b20d32f53aa366486b1ba71894.png",
     "website": "https://arcten.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The serverless runtime for enterprise-grade AI agents built with any agent framework.",
-    "one_liner": "Infrastructure for AI Agents",
+    "long_description": "Arcten makes companies AI-native, fast. Deploy AI agents globally on our edge runtime, embed anywhere in 5 lines of code, link proprietary knowledge sources in one click, and get out-of-the-box agent observability and analytics—all on one platform.",
+    "one_liner": "Vercel for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -4793,10 +4881,10 @@
     "subindustry": "B2B",
     "launched_at": 1761343890,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Workflow Automation",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4805,7 +4893,8 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -4922,9 +5011,9 @@
     "tags": [
       "Artificial Intelligence",
       "Developer Tools",
-      "Machine Learning",
       "B2B",
-      "ML"
+      "Enterprise",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5007,8 +5096,8 @@
       "Consumer Health Services",
       "Health Tech",
       "Digital Health",
-      "Health Insurance",
-      "AI Assistant"
+      "Healthcare",
+      "Health Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5082,18 +5171,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7785e7f2104cbe8c0fd7a9462d42a9b03d5aeb86.png",
     "website": "https://www.freeportmarkets.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Freeport is the intelligence layer for DeFi, built for onchain investors seeking smart & interpretable exposure. It seamlessly earns optimized yield on idle assets and constructs diversified portfolios through a combination of human insight and AI-driven intelligence. With access to tokenized private assets, structured yields, and institutional-grade investment strategies, Freeport puts the full spectrum of sophisticated onchain opportunities at your fingertips.",
-    "one_liner": "Intelligent DeFi Investing ",
+    "long_description": "Freeport is the DeFi prime brokerage for wealth-oriented investors who want safe yields, no fees, and differentiated investment options. Get exposure to curated onchain enterprises, pre-IPO companies, structured credit, and other alternative digital assets.",
+    "one_liner": "Self-Custodial DeFi Prime Brokerage",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1758671175,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Crypto / Web3",
       "Investing",
-      "Consumer Finance",
-      "AI"
+      "Consumer Finance"
     ],
     "tags_highlighted": [
       "Crypto / Web3"

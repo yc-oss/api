@@ -6293,6 +6293,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/agentic-fabriq.json"
   },
   {
+    "id": 30926,
+    "name": "certitude.",
+    "slug": "certitude",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eefd1d180876e6febc95389e547a13368f1985fc.png",
+    "website": "https://certitude.me",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "certitude. trains a model for each employee, to which they can delegate any writing task.\r\n\r\nour models write in their user's tone, maintain a universal memory layer, and take decisions the way the user would.\r\n\r\ntry our test bench to see how certitude performs in any text field on your machine.\r\n\r\n----\r\n\r\nMax and Marwan have known each other since the first days of freshman year at Penn. Together, before certitude, they built AI agents used by over 10k job applicants.\r\n\r\nThey built the first prototype of a certitude personal model in days, which received tens of thousands of API requests and hundreds of thousands of social media views in the first 48h.",
+    "one_liner": "digital twins that work in your name via API.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1762995411,
+    "tags": [
+      "Machine Learning",
+      "API",
+      "Automation",
+      "Search",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/certitude",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/certitude.json"
+  },
+  {
     "id": 30935,
     "name": "s2.dev",
     "slug": "s2-dev",
@@ -6301,7 +6343,7 @@
     "website": "https://s2.dev",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "S2 is a serverless datastore for real-time, streaming data.\r\n\r\nThe more we worked on data systems, the more we felt like there was a missing building block. The seamless experience of object storage simply did not exist for durable streams – so we set out to fix that!\r\n\r\nS2 reimagines streams as an unlimited and access-controlled web resource. Like if Kafka and S3 had a baby.\r\n\r\n- Building agents? Use granular streams to persist context in real time, make workflows auditable, and coordinate between agents.\r\n\r\n- Publishing fast-moving data? Streams support high fanout and can be accessed directly over the internet, so they are a great fit for broadcasting real-time feeds.\r\n\r\n- Sandboxing? Emit to per-instance streams, and read history or live events just as easily.\r\n\r\n- Local-first and multiplayer experiences? Propagate updates reliably and efficiently.\r\n\r\nStop dealing with clusters, and start streaming.",
-    "one_liner": "The S3 for streams",
+    "one_liner": "API for unlimited, durable, real-time streams",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -6349,8 +6391,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/714941e4c6e2e3b20d32f53aa366486b1ba71894.png",
     "website": "https://arcten.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The serverless runtime for enterprise-grade AI agents built with any agent framework.",
-    "one_liner": "Infrastructure for AI Agents",
+    "long_description": "Arcten makes companies AI-native, fast. Deploy AI agents globally on our edge runtime, embed anywhere in 5 lines of code, link proprietary knowledge sources in one click, and get out-of-the-box agent observability and analytics—all on one platform.",
+    "one_liner": "Vercel for AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",

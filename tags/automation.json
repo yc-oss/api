@@ -1600,7 +1600,9 @@
     "former_names": [
       "42 Labs",
       "Planetary Computers Inc.",
-      "Planetary Computers"
+      "Planetary Computers",
+      "ztool",
+      "autotab"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4967676cdc6058f952822347fafe9d59a61218fb.png",
     "website": "https://autotab.com",
@@ -1622,7 +1624,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Productivity"
@@ -1821,8 +1823,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cb3f26201c03b2b4385a2fa733f92ea4057090c.png",
     "website": "https://getomni.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Omni turns documents, slide decks, websites and more into the data you need. You'll never need to copy + paste data into spreadsheets again.\r\n- Connect to a database or document store. We support Snowflake, Postgres, Google Drive, S3 and more.\r\n- Transform your data - Define type safe schemas to run against your unstructured data. We’ll run those models against your data, and keep your warehouse in sync as new rows/fields are added/deleted.\r\n- Query with SQL - All the transformed data stays in your warehouse. Surface this data in your product, or analyze with your existing BI tools.",
-    "one_liner": "Automate document workflows",
+    "long_description": "At Omni, we’re rebuilding how banks and fintechs lend to small businesses.\r\n\r\nThere are 34 million small businesses in the U.S., yet getting a loan still means weeks of emails, PDFs, and paperwork. Every deal starts with a pile of documents — tax returns, bank statements, corporate filings, and contracts that no one wants to read but everyone depends on. \r\n\r\nOmni is changing that. We work directly with lenders to modernize the entire stack, from document intake to underwriting, and we’re doing it with a small, fast-moving team that ships real systems used in production every day.",
+    "one_liner": "AI Agents for Commercial Lending",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -1841,7 +1843,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Finance and Accounting"
     ],
     "regions": [
       "United States of America",
@@ -3330,7 +3332,7 @@
     "former_names": [
       "Intelligent Machines"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/46c35f4e96ad6533d276ba2d798408427ce1a525.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6077089b2820cf087e262d7c3ff9da8b9617d791.png",
     "website": "https://parametric.company/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Existing robots learn generic averages from massive datasets. Our robots learn from customer feedback.\r\n\r\nWe solve the RL feedback loop for robotics, allowing our robots to learn from your specific standards via an automated reward pipeline that combines customer feedback with an intelligent judge model. This is the only way to capture the multi-trillion dollar “long tail” of unique, high-aggregate-value business tasks. ",
@@ -3349,7 +3351,7 @@
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
-    "batch": "Summer 2025",
+    "batch": "Fall 2025",
     "status": "Active",
     "industries": [
       "Industrials",
@@ -3365,7 +3367,7 @@
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/parametric",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/parametric.json"
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/parametric.json"
   },
   {
     "id": 30660,
@@ -3574,6 +3576,48 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/bravi",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bravi.json"
+  },
+  {
+    "id": 30926,
+    "name": "certitude.",
+    "slug": "certitude",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eefd1d180876e6febc95389e547a13368f1985fc.png",
+    "website": "https://certitude.me",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "certitude. trains a model for each employee, to which they can delegate any writing task.\r\n\r\nour models write in their user's tone, maintain a universal memory layer, and take decisions the way the user would.\r\n\r\ntry our test bench to see how certitude performs in any text field on your machine.\r\n\r\n----\r\n\r\nMax and Marwan have known each other since the first days of freshman year at Penn. Together, before certitude, they built AI agents used by over 10k job applicants.\r\n\r\nThey built the first prototype of a certitude personal model in days, which received tens of thousands of API requests and hundreds of thousands of social media views in the first 48h.",
+    "one_liner": "digital twins that work in your name via API.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "Consumer",
+    "launched_at": 1762995411,
+    "tags": [
+      "Machine Learning",
+      "API",
+      "Automation",
+      "Search",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/certitude",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/certitude.json"
   },
   {
     "id": 31002,
