@@ -75,7 +75,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -644,7 +644,7 @@
     "one_liner": "Knowledge base maintenance on auto-pilot",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1668613882,
     "tags": [
       "AI-Enhanced Learning",
@@ -732,7 +732,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pylon is the modern alternative to Zendesk, Intercom, Freshdesk, and Salesforce Service Cloud. We help B2B companies track customer support issues across common B2B channels including shared Slack channels (Slack Connect), Microsoft Teams, email, in-app chat, ticket forms, Slack community, and more.\r\n\r\nHundreds of fast-growing YC companies of all sizes like Vellum, Hightouch, and Deel are customers.\r\n\r\nLearn more at usepylon.com",
     "one_liner": "The only customer support platform built for B2B.",
-    "team_size": 50,
+    "team_size": 57,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1676268747,
@@ -756,7 +756,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -776,7 +776,7 @@
     "one_liner": "Scale customer success and onboarding with AI ",
     "team_size": 8,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1673362428,
     "tags": [
       "Artificial Intelligence",
@@ -821,7 +821,7 @@
     "one_liner": "Build Magical Customer Experiences",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1703119093,
     "tags": [
       "B2B",
@@ -983,6 +983,54 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/rulebase.json"
   },
   {
+    "id": 30362,
+    "name": "Ambral",
+    "slug": "ambral",
+    "former_names": [
+      "Helium",
+      "Halidom",
+      "Helium",
+      "Ambral AI",
+      "Ambral",
+      "ambral"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
+    "website": "https://www.ambral.com/",
+    "all_locations": "",
+    "long_description": "Ambral is building an AI Account Management army.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
+    "one_liner": "AI-powerewd Account Managers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1753910833,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Customer Success"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ambral",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/ambral.json"
+  },
+  {
     "id": 30487,
     "name": "Lyra",
     "slug": "lyrahq",
@@ -991,17 +1039,17 @@
     "website": "https://lyra.so/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AI notetakers clutter meetings. Multiple tabs separate knowledge.\r\nLyra brings meetings and work together in one clean workspace.\r\nYou can work on docs with AI and your team live, no screenshare required. Create follow-ups and action items as you talk. Ask your meeting questions after the call. Access auto-transcribed calls and instant summaries. Everything stays in one place with full context across every meeting.",
-    "one_liner": "Tthe final meeting platform.",
+    "one_liner": "The final meeting platform.",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Sales",
     "launched_at": 1746417759,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Customer Success",
       "Sales",
-      "Telecommunications"
+      "Telecommunications",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1029,7 +1077,9 @@
     "id": 30807,
     "name": "Paloma",
     "slug": "paloma",
-    "former_names": [],
+    "former_names": [
+      "Salesmith"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/59cd4e66e87a2529fc200defa6e386523e11058a.png",
     "website": "https://getpaloma.ai/",
     "all_locations": "San Francisco, CA, USA",
@@ -1037,7 +1087,7 @@
     "one_liner": "AI-native CRM for putting post-sales operations on autopilot",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Sales",
+    "subindustry": "B2B",
     "launched_at": 1754546482,
     "tags": [
       "Artificial Intelligence",

@@ -127,7 +127,10 @@
     "id": 24345,
     "name": "Geostar",
     "slug": "geostar",
-    "former_names": [],
+    "former_names": [
+      "Monto",
+      "Markix"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/940ca27c03165f32b9fdf0b5c174467ff230ba42.png",
     "website": "https://www.geostar.ai",
     "all_locations": "New York, NY, USA; Remote",
@@ -216,7 +219,9 @@
     "id": 27774,
     "name": "Versive",
     "slug": "versive",
-    "former_names": [],
+    "former_names": [
+      "Mirio"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c576ccab62c99fd845635ad445e0305d08a2681.png",
     "website": "https://www.getversive.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
@@ -224,7 +229,7 @@
     "one_liner": "AI-first user research platform",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Sales",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1677539488,
     "tags": [
       "Artificial Intelligence",
@@ -402,7 +407,7 @@
     "one_liner": "Thousands of AI search agents running in parallel ",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1731038423,
     "tags": [
       "Artificial Intelligence",
@@ -437,7 +442,9 @@
     "id": 30267,
     "name": "Lopus AI",
     "slug": "lopus-ai",
-    "former_names": [],
+    "former_names": [
+      "Levo UI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2bf383d00d833f8ead69445747af5777b0e0a0a6.png",
     "website": "https://lopus.ai",
     "all_locations": "San Francisco, CA, USA",
@@ -445,7 +452,7 @@
     "one_liner": "Data Unification for GTM Analytics ",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Analytics",
     "launched_at": 1740443352,
     "tags": [
       "Artificial Intelligence",
@@ -520,6 +527,55 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/artificial-societies.json"
   },
   {
+    "id": 30454,
+    "name": "Refresh",
+    "slug": "refresh",
+    "former_names": [
+      "JupyPilot",
+      "Operative",
+      "Operative.sh",
+      "operative.sh",
+      "Operative"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa69690b8b1a0cab958e9bf859bdea3e6735b40c.png",
+    "website": "https://www.refresh.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Building RL environments for the next generation of capabilities in frontier models. ",
+    "one_liner": "RL environments for computer use and software engineering work",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1745867856,
+    "tags": [
+      "Reinforcement Learning",
+      "Recruiting",
+      "Market Research",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/refresh",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/refresh.json"
+  },
+  {
     "id": 30713,
     "name": "Motives",
     "slug": "motives",
@@ -573,7 +629,7 @@
     "one_liner": "Ship features to simulated users before real ones",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B",
     "launched_at": 1762303410,
     "tags": [
       "Developer Tools",

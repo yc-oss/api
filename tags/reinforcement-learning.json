@@ -138,7 +138,9 @@
     "id": 27882,
     "name": "Velos",
     "slug": "velos",
-    "former_names": [],
+    "former_names": [
+      "GradientJ"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea18b8898b03249e01295dac0dccb51928c38c2e.png",
     "website": "https://www.tryvelos.com",
     "all_locations": "San Francisco, CA, USA",
@@ -146,7 +148,7 @@
     "one_liner": "Platform to automate manual back-office work",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1674503496,
     "tags": [
       "Artificial Intelligence",
@@ -232,7 +234,7 @@
     "one_liner": "Self-improving content bank for marketing",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1709332105,
     "tags": [
       "Artificial Intelligence",
@@ -269,7 +271,9 @@
     "slug": "justai",
     "former_names": [
       "Choice",
-      "Choice AI"
+      "Choice AI",
+      "just words",
+      "Just Words"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/166536f94d496e2b50084b3b8edf8b6d9e29040b.png",
     "website": "https://getjust.ai",
@@ -278,7 +282,7 @@
     "one_liner": "A modern workflow for lifecycle marketing",
     "team_size": 5,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1704840202,
     "tags": [
       "Artificial Intelligence",
@@ -354,7 +358,9 @@
     "id": 30173,
     "name": "Aviro",
     "slug": "aviro",
-    "former_names": [],
+    "former_names": [
+      "Tropir"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b42d798135f9265356b3ce6f69ea27eaee4a7b2.png",
     "website": "https://www.aviro.ai/",
     "all_locations": "San Francisco, CA, USA",
@@ -362,7 +368,7 @@
     "one_liner": "Build agents that learn from experience",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "Industrials -> Climate",
+    "subindustry": "B2B",
     "launched_at": 1746601065,
     "tags": [
       "Artificial Intelligence",
@@ -394,7 +400,10 @@
     "id": 30222,
     "name": "General Agency",
     "slug": "general-agency",
-    "former_names": [],
+    "former_names": [
+      "Symmetric Labs",
+      "Tessa"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33ed5cc65a127b902a3c0f29f59e767a7082abf1.png",
     "website": "https://heytessa.ai",
     "all_locations": "San Francisco, CA, USA",
@@ -402,7 +411,7 @@
     "one_liner": "AI coworkers that can learn and act just like a human",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "Consumer",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1736185270,
     "tags": [
       "Artificial Intelligence",
@@ -437,7 +446,9 @@
     "id": 30247,
     "name": "Osmosis",
     "slug": "osmosis",
-    "former_names": [],
+    "former_names": [
+      "Gulp"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e0e653e5da051b7c87a56070249ad76479b0594.png",
     "website": "https://osmosis.ai/",
     "all_locations": "",
@@ -604,6 +615,55 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/trainloop.json"
   },
   {
+    "id": 30454,
+    "name": "Refresh",
+    "slug": "refresh",
+    "former_names": [
+      "JupyPilot",
+      "Operative",
+      "Operative.sh",
+      "operative.sh",
+      "Operative"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa69690b8b1a0cab958e9bf859bdea3e6735b40c.png",
+    "website": "https://www.refresh.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Building RL environments for the next generation of capabilities in frontier models. ",
+    "one_liner": "RL environments for computer use and software engineering work",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1745867856,
+    "tags": [
+      "Reinforcement Learning",
+      "Recruiting",
+      "Market Research",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/refresh",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/refresh.json"
+  },
+  {
     "id": 30488,
     "name": "Theta Software",
     "slug": "theta-software",
@@ -650,7 +710,9 @@
     "id": 30501,
     "name": "Jazzberry",
     "slug": "jazzberry",
-    "former_names": [],
+    "former_names": [
+      "Prophet"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4583558e5875db68c5b000cee75a734ef515ec5f.png",
     "website": "https://jazzberry.ai",
     "all_locations": "San Francisco, CA, USA",

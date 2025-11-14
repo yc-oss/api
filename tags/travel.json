@@ -151,7 +151,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -441,7 +441,7 @@
       "Israel",
       "Middle East and North Africa"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -821,7 +821,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -922,7 +922,7 @@
     "one_liner": "Building software to remove friction in travel",
     "team_size": 30,
     "industry": "Consumer",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "launched_at": 1541644473,
     "tags": [
       "Travel"
@@ -1055,8 +1055,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8bb5ff249316d5bcee9ba94498a3fbe24db5bd30.png",
     "website": "https://guruhotel.com",
     "all_locations": "Mexico City, CDMX, Mexico; Remote",
-    "long_description": "GuruHotel is the Shopify for the hotel industry. Our platform lets independent hotels quickly create modern, high-converting websites, accept direct bookings without relying on OTAs, and increase revenue by up to 30%.\r\n\r\nHotels can launch in minutes with built-in payments, analytics, and AI tools that handle pricing, guest messaging, and upselling. We’ve combined decades of experience building products for travel and hospitality to give small and mid-size properties the same digital capabilities as the big brands, without switching their PMS.",
-    "one_liner": "The Shopify for hotels",
+    "long_description": "GuruHotel is building the AI-native booking protocol that will power direct hotel reservations in the next decade, effectively becoming \"Stripe for hotel bookings\" and ending OTAs' $370B stranglehold on hospitality distribution.\r\n\r\nFor 25 years, hotel ecommerce has been broken. Independent hotels lack the infrastructure to sell directly online, forcing them to pay OTAs 20-40% commissions on 40-60% of their bookings. Hotel websites don't convert (<0.5% vs. 5-10% in modern ecommerce), booking engines redirect users, payments are fragmented, and inventory is trapped in legacy PMS systems.\r\n\r\nMore critically: AI agents cannot book hotels directly today. ChatGPT, Perplexity, Claude, none can complete a hotel transaction end-to-end because inventory isn't exposed in a machine-readable format.\r\n\r\nGuruHotel has built the complete solution: a full-stack ecommerce platform (website + native booking engine + checkout + payments + AI-ready APIs) that integrates directly with hotel PMS systems, enabling both humans and AI agents to book directly.\r\n",
+    "one_liner": "AI-native direct booking infrastructure for global hospitality",
     "team_size": 12,
     "industry": "Fintech",
     "subindustry": "Fintech -> Payments",
@@ -1232,7 +1232,7 @@
     "all_locations": "Uberlândia, MG, Brazil",
     "long_description": "Portão 3 is Ramp for LATAM. We are the frictionless way for companies to make payments.\r\n\r\nThe company is founded by Fernando, second-time entrepreneur with past successful exit and ex-CPO of large IT consulting firms in Brazil and Bianca, experienced entrepreneur that handled payments for Cargill and funded startups in travel and growth. We've grown bootstrapped from the beginning and we were in the Y Combinator S21 batch.",
     "one_liner": "We are the frictionless way for companies to make payments.",
-    "team_size": 24,
+    "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1629397046,
@@ -1585,7 +1585,7 @@
     "one_liner": "Flight search engine using credit card points and miles",
     "team_size": 6,
     "industry": "Consumer",
-    "subindustry": "Fintech -> Consumer Finance",
+    "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "launched_at": 1685728226,
     "tags": [
       "Artificial Intelligence",
@@ -1620,7 +1620,9 @@
     "id": 29423,
     "name": "Triply",
     "slug": "triply",
-    "former_names": [],
+    "former_names": [
+      "TRIPITACA"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a50be8732ac92931d91e10a75379eb7b6b844ab1.png",
     "website": "https://business.triply.co/",
     "all_locations": "Nairobi, Nairobi County, Kenya",
@@ -1670,7 +1672,7 @@
     "one_liner": "Travel the world for free.",
     "team_size": 4,
     "industry": "Consumer",
-    "subindustry": "Fintech -> Credit and Lending",
+    "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "launched_at": 1701568382,
     "tags": [
       "Fintech",
@@ -1749,7 +1751,8 @@
     "name": "Stardrift",
     "slug": "stardrift",
     "former_names": [
-      "Kopfkino"
+      "Kopfkino",
+      "Moonglow"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c29a51fe4495bb246b4aafa097f950601ff7e364.png",
     "website": "https://stardrift.ai",
@@ -1758,7 +1761,7 @@
     "one_liner": "AI travel search for frequent flyers",
     "team_size": 2,
     "industry": "Consumer",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "launched_at": 1721868567,
     "tags": [
       "Consumer",
@@ -1880,7 +1883,11 @@
     "id": 30112,
     "name": "BookMyFlight",
     "slug": "bookmyflight",
-    "former_names": [],
+    "former_names": [
+      "Purge",
+      "Fix AI",
+      "Candid"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8debb481982ada27879515605e46ee4194bc15f1.png",
     "website": "https://bookmyflight.ai",
     "all_locations": "San Francisco, CA, USA",
@@ -1888,7 +1895,7 @@
     "one_liner": "We make booking a flight as easy as booking an Uber.",
     "team_size": 2,
     "industry": "Consumer",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "Consumer -> Travel, Leisure and Tourism",
     "launched_at": 1730227120,
     "tags": [
       "Artificial Intelligence",
@@ -1922,7 +1929,9 @@
     "id": 30282,
     "name": "Riviera",
     "slug": "riviera",
-    "former_names": [],
+    "former_names": [
+      "With Riviera"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/790dbe46b89475fab7c527c1403f9dcbd5c92c33.png",
     "website": "https://www.withriviera.com",
     "all_locations": "San Francisco, CA, USA",
@@ -1930,7 +1939,7 @@
     "one_liner": "AI Employees for Hotels",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "Consumer -> Travel, Leisure and Tourism",
+    "subindustry": "B2B",
     "launched_at": 1737322900,
     "tags": [
       "SaaS",

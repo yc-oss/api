@@ -605,7 +605,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -783,7 +783,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -997,7 +997,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": true,
@@ -1134,7 +1134,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1272,7 +1272,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1441,7 +1441,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1631,51 +1631,12 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2021/gaiia.json"
   },
   {
-    "id": 22878,
-    "name": "Popl",
-    "slug": "popl",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38d405f6de14f8d3d7f5c8feb80ff7911ac69ec2.png",
-    "website": "https://popl.co/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Capture leads, share digital business cards, and enrich validated contact and company info - at events, in the field, and beyond. Powered by AI and our proprietary data engine, Popl drives growth for companies around the world, turning every handshake into an opportunity.",
-    "one_liner": "Your complete in-person GTM platform",
-    "team_size": 60,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1610523196,
-    "tags": [
-      "SaaS",
-      "IoT"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": true,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/popl",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/popl.json"
-  },
-  {
     "id": 23017,
     "name": "Tractian",
     "slug": "tractian",
-    "former_names": [],
+    "former_names": [
+      "TRACTIAN"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8a76ce0d932f5b9149b08c23515c1d62bbef3229.png",
     "website": "https://tractian.com",
     "all_locations": "Atlanta, GA, USA",
@@ -1683,7 +1644,7 @@
     "one_liner": "Run Manufacturing Without Downtime.",
     "team_size": 530,
     "industry": "Industrials",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "Industrials",
     "launched_at": 1613167873,
     "tags": [
       "Artificial Intelligence",
@@ -1706,7 +1667,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1857,7 +1818,7 @@
     "one_liner": "Plug-and-play AI platform with sensors and dashboards that makes…",
     "team_size": 60,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1643385384,
     "tags": [
       "Artificial Intelligence",
@@ -1892,7 +1853,10 @@
     "id": 30042,
     "name": "VortexifyAI",
     "slug": "vortexifyai",
-    "former_names": [],
+    "former_names": [
+      "Praxis AI",
+      "Vortexify AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb3be511411bbaed481f911d10c8dcbfcfbc8735.png",
     "website": "https://www.vortexify.ai",
     "all_locations": "New York, NY, USA",
@@ -1900,7 +1864,7 @@
     "one_liner": "Build AI applications and automations for supply chain operations",
     "team_size": 1,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1732148257,
     "tags": [
       "IoT",

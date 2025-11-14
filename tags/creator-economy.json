@@ -171,7 +171,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -184,7 +184,9 @@
     "name": "Exly",
     "slug": "exly",
     "former_names": [
-      "Scoot"
+      "Scoot",
+      "MyScoot",
+      "Skillgully"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39f8436e3441b6cfabcfd9df54fba243f4b05d49.png",
     "website": "https://exlyapp.com/",
@@ -193,7 +195,7 @@
     "one_liner": "One stop shop for creators to launch, manage & grow their knowledge…",
     "team_size": 95,
     "industry": "Consumer",
-    "subindustry": "Consumer -> Travel, Leisure and Tourism",
+    "subindustry": "Consumer",
     "launched_at": 1543950223,
     "tags": [
       "SaaS",
@@ -231,7 +233,8 @@
     "slug": "plotdrive",
     "former_names": [
       "Figments",
-      "Wordloops"
+      "Wordloops",
+      "Heroic Story"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df9cac4be6a65c842360b6e500df9d1f0805f3c9.png",
     "website": "https://plotdrive.com",
@@ -240,7 +243,7 @@
     "one_liner": "AI that remembers your book & writes like you",
     "team_size": 4,
     "industry": "Consumer",
-    "subindustry": "Consumer -> Gaming",
+    "subindustry": "Consumer -> Content",
     "launched_at": 1556041719,
     "tags": [
       "Entertainment",
@@ -739,7 +742,7 @@
       "Dots"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ef214a749c163e81772f2ba192fdf4eeec23bbb3.png",
-    "website": "https://dots.dev",
+    "website": "https://usedots.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Dots is a developer-friendly API that lets businesses pay their contractors through just a few lines of code. Whether its gig workers like Uber drivers, sellers on marketplaces like Etsy, or simply your local handyman - Dots’ abstracts away the complexity of payouts completely. We manage the entire process: information collection (KYC), payments through any rail (ACH, Venmo, CashApp, Zelle, international, and many more to come), and even filing tax forms! Dots lets developers get payouts up and running over just a few hours, rather than the many months this would normally take.",
     "one_liner": "Developer friendly drop in payouts infrastructure",
@@ -769,7 +772,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1019,7 +1022,7 @@
     "one_liner": "Help high-growth tech companies hire strong engineers",
     "team_size": 6,
     "industry": "B2B",
-    "subindustry": "Consumer -> Content",
+    "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1658437017,
     "tags": [
       "Developer Tools",
@@ -1269,6 +1272,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/magic-hour.json"
   },
   {
+    "id": 29853,
+    "name": "Terra",
+    "slug": "terra-2",
+    "former_names": [
+      "Terra Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60929159fb0457a72b649564d6a624da5a1ec7b5.png",
+    "website": "https://useterra.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Terra empowers creators and brands to design, sample, and bring their own products to market. Creators keep 100% of profits above manufacturing cost — all with no upfront cost or minimums, while manufacturing, fulfillment & logistics are handled in full.",
+    "one_liner": "Design and sell products in minutes",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1720474111,
+    "tags": [
+      "Manufacturing",
+      "Supply Chain",
+      "Procurement",
+      "Consumer Products",
+      "Creator Economy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/terra-2",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/terra-2.json"
+  },
+  {
     "id": 30199,
     "name": "awen",
     "slug": "awen",
@@ -1320,7 +1368,7 @@
     "one_liner": "Rippling for Content Creators",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1748129784,
     "tags": [
       "Fintech",
@@ -1359,7 +1407,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Reacher is an AI-powered platform that automates creator marketing workflows—from discovery and outreach to campaign management and content strategy—making marketing teams 10x more productive. \r\n\r\nWe handle the manual tasks so brands can focus on building relationships with creators while centralizing their operations in one platform to manage creators on TikTok Shop, Instagram, and YouTube.\r\n\r\n\r\n\r\n\r\n",
     "one_liner": "We automate creator marketing for the world's largest brands",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750191046,

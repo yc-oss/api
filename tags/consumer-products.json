@@ -4,7 +4,8 @@
     "name": "MailTime",
     "slug": "mailtime",
     "former_names": [
-      "MailTime"
+      "MailTime",
+      "Measurable AI (MailTime)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72dc9ccfe26e8c21c74a8e2ae9b64027c599c994.png",
     "website": "http://mailtime.com",
@@ -126,7 +127,9 @@
     "id": 2025,
     "name": "LemonBox Health",
     "slug": "lemonbox-health",
-    "former_names": [],
+    "former_names": [
+      "LemonBox"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8e0f926603810ff5a714566d5b989b02b6c7398.png",
     "website": "http://www.lemonbox.com/",
     "all_locations": "Hong Kong, Hong Kong",
@@ -305,7 +308,8 @@
     "name": "Scout",
     "slug": "scout-2",
     "former_names": [
-      "Uh-Oh Labs"
+      "Uh-Oh Labs",
+      "Scout (formerly Uh-Oh Labs)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aef2a50967bbb0e1e0f4bc9ebba4727befed3822.png",
     "website": "http://scouthealth.com",
@@ -453,7 +457,7 @@
     "one_liner": "Hands-free email",
     "team_size": 2,
     "industry": "Consumer",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "Consumer",
     "launched_at": 1722921255,
     "tags": [
       "Artificial Intelligence",
@@ -484,10 +488,61 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/saldor.json"
   },
   {
+    "id": 29853,
+    "name": "Terra",
+    "slug": "terra-2",
+    "former_names": [
+      "Terra Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60929159fb0457a72b649564d6a624da5a1ec7b5.png",
+    "website": "https://useterra.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Terra empowers creators and brands to design, sample, and bring their own products to market. Creators keep 100% of profits above manufacturing cost — all with no upfront cost or minimums, while manufacturing, fulfillment & logistics are handled in full.",
+    "one_liner": "Design and sell products in minutes",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1720474111,
+    "tags": [
+      "Manufacturing",
+      "Supply Chain",
+      "Procurement",
+      "Consumer Products",
+      "Creator Economy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/terra-2",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/terra-2.json"
+  },
+  {
     "id": 30351,
     "name": "ThirdLayer",
     "slug": "thirdlayer",
-    "former_names": [],
+    "former_names": [
+      "Dexterity",
+      "Dex",
+      "Dexterity AI",
+      "Dexterity",
+      "Dex"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b8230cea80b14be0026f198edeff9c8f351272c.png",
     "website": "https://thirdlayer.inc",
     "all_locations": "San Francisco, CA, USA",
@@ -495,7 +550,7 @@
     "one_liner": "Building Dex, the AI Browser Copilot",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "B2B",
     "launched_at": 1737217789,
     "tags": [
       "Artificial Intelligence",

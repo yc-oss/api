@@ -164,7 +164,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": true,
@@ -209,7 +209,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -292,7 +292,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -337,7 +337,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -582,7 +582,7 @@
     "one_liner": "AI Teammate to Enable Every Knowledge Worker to Be a Top Performer",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B",
     "launched_at": 1690762424,
     "tags": [
       "Productivity",
@@ -624,7 +624,7 @@
     "one_liner": "Unified Platform for Text Enrichment",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1687991939,
     "tags": [
       "Developer Tools",
@@ -928,7 +928,10 @@
     "id": 30622,
     "name": "Liva AI",
     "slug": "liva-ai",
-    "former_names": [],
+    "former_names": [
+      "Symbia",
+      "Liva"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d577992606b8392c9619b8dffacec074b48668d.png",
     "website": "https://www.theliva.ai",
     "all_locations": "San Francisco, CA, USA",

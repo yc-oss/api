@@ -39,7 +39,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -145,7 +145,8 @@
     "former_names": [
       "slip",
       "Slip",
-      "Diode"
+      "Diode",
+      "Reason Robotics"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/da6c23e37cd7338b2276dfacd444e9175c6c2b9c.png",
     "website": "https://www.rmfg.com",
@@ -239,7 +240,7 @@
     "one_liner": "The modern operating system for chemical manufacturing.",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1721318249,
     "tags": [
       "SaaS",
@@ -487,7 +488,9 @@
     "id": 30556,
     "name": "Cascade Space",
     "slug": "cascade-space",
-    "former_names": [],
+    "former_names": [
+      "Heliosphere Network Corporation"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8b61a9c6976c89879b6647cf5de4a9c135cae19d.png",
     "website": "https://cascade.space",
     "all_locations": "",
@@ -529,7 +532,11 @@
     "id": 30560,
     "name": "Foundation Industries",
     "slug": "foundation-industries",
-    "former_names": [],
+    "former_names": [
+      "Sava Robotics",
+      "SAVA Robotics",
+      "SAVA"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9c4d6c7b4eeb36609b87bd95a70ffca51164330.png",
     "website": "https://www.foundation-industries.com/",
     "all_locations": "",
@@ -537,7 +544,7 @@
     "one_liner": "We supply hard tech companies with critical components.",
     "team_size": 3,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "subindustry": "Industrials",
     "launched_at": 1746512449,
     "tags": [
       "Manufacturing",
@@ -609,7 +616,10 @@
     "id": 30741,
     "name": "F4",
     "slug": "f4",
-    "former_names": [],
+    "former_names": [
+      "F4",
+      "F4 Industries"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1af9d562299111b9e8590450d36412897ddd8f8.png",
     "website": "https://f4.dev/",
     "all_locations": "San Francisco, CA, USA",
@@ -731,6 +741,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/movedot",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/movedot.json"
+  },
+  {
+    "id": 30904,
+    "name": "Tensr",
+    "slug": "tensr",
+    "former_names": [
+      "Core",
+      "Tensr",
+      "Core"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f3743327b1fc85ded6caddbd532e0c600eb2cb0.png",
+    "website": "https://tensr.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tensr is building fully autonomous robotic factories that make scaling hardware as effortless as scaling on AWS. We’re a group of Berkeley graduate robotics researchers who previously won a full scale autonomous IndyCar competition at 160mph.",
+    "one_liner": "Fully autonomous robotic factories",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1763065446,
+    "tags": [
+      "Deep Learning",
+      "Hardware",
+      "Robotics",
+      "Automation",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tensr",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/tensr.json"
   },
   {
     "id": 30991,

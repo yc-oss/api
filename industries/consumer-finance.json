@@ -429,7 +429,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1013,7 +1013,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1190,7 +1190,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1456,7 +1456,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1626,7 +1626,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1720,7 +1720,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": true,
@@ -1761,7 +1761,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1805,7 +1805,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2022,7 +2022,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": true,
     "app_answers": null,
@@ -2034,7 +2034,9 @@
     "id": 23036,
     "name": "Solo",
     "slug": "solo",
-    "former_names": [],
+    "former_names": [
+      "SoloSuit"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/888fa679977b5e66cbfce96bde4be5ca934497be.png",
     "website": "https://www.solosuit.com/",
     "all_locations": "Provo, UT, USA; Remote",
@@ -2153,7 +2155,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2642,7 +2644,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2965,7 +2967,8 @@
     "name": "Finvest",
     "slug": "finvest",
     "former_names": [
-      "Move"
+      "Move",
+      "Shyp"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/61b78a6a5ac4fd9c4582af51db8cfe1bf6e05bc1.png",
     "website": "https://www.getfinvest.com/",
@@ -2974,7 +2977,7 @@
     "one_liner": "Easy way to buy US Treasury Bills",
     "team_size": 5,
     "industry": "Fintech",
-    "subindustry": "B2B -> Supply Chain and Logistics",
+    "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1678100153,
     "tags": [],
     "tags_highlighted": [],
@@ -3302,7 +3305,7 @@
     "one_liner": "One-click mortgage: AI shops, negotiates, and handles your application",
     "team_size": 2,
     "industry": "Fintech",
-    "subindustry": "Unspecified",
+    "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1744861920,
     "tags": [
       "Fintech",
@@ -3385,7 +3388,7 @@
     "one_liner": "Building the first AI Bank",
     "team_size": 3,
     "industry": "Fintech",
-    "subindustry": "Fintech",
+    "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1759770880,
     "tags": [
       "Fintech",
@@ -3425,17 +3428,17 @@
     "website": "https://www.freeportmarkets.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Freeport is the DeFi prime brokerage for wealth-oriented investors who want safe yields, no fees, and differentiated investment options. Get exposure to curated onchain enterprises, pre-IPO companies, structured credit, and other alternative digital assets.",
-    "one_liner": "Self-Custodial DeFi Prime Brokerage",
+    "one_liner": "DeFi Prime Brokerage",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1758671175,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Crypto / Web3",
       "Investing",
-      "Consumer Finance"
+      "Consumer Finance",
+      "AI"
     ],
     "tags_highlighted": [
       "Crypto / Web3"

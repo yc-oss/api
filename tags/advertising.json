@@ -593,7 +593,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -790,7 +790,7 @@
     "one_liner": "First agentic AI-powered community for 1 billion people with criminal…",
     "team_size": 2,
     "industry": "Consumer",
-    "subindustry": "B2B -> Recruiting and Talent",
+    "subindustry": "Consumer",
     "launched_at": 1494892929,
     "tags": [
       "Artificial Intelligence",
@@ -1029,7 +1029,7 @@
       "Canada",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1139,7 +1139,7 @@
     "one_liner": "Turn intuition into insights, in minutes",
     "team_size": 18,
     "industry": "Consumer",
-    "subindustry": "B2B -> Marketing",
+    "subindustry": "Consumer -> Gaming",
     "launched_at": 1644566628,
     "tags": [
       "Generative AI",
@@ -1221,7 +1221,9 @@
     "id": 25835,
     "name": "Kular",
     "slug": "kular",
-    "former_names": [],
+    "former_names": [
+      "Kula"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c20d11e986368dc6d97c924d4d62583ec9585a01.png",
     "website": "https://www.kular.ai",
     "all_locations": "London, England, United Kingdom",
@@ -1273,7 +1275,7 @@
     "one_liner": "Uncover high-fit leads already silently engaging with your brand",
     "team_size": 10,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Sales",
     "launched_at": 1657624994,
     "tags": [
       "B2B",
@@ -1408,7 +1410,7 @@
     "one_liner": "Building the AI-powered marketing ops platform that turns website…",
     "team_size": 6,
     "industry": "B2B",
-    "subindustry": "B2B -> Sales",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1693007377,
     "tags": [
       "Artificial Intelligence",
@@ -1445,7 +1447,9 @@
     "id": 30068,
     "name": "Stewdio",
     "slug": "stewdio",
-    "former_names": [],
+    "former_names": [
+      "Cekura"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76c1ddcd6e0758f1c6b54dc35abad2f336a3c4a2.png",
     "website": "https://www.stewdio.ai",
     "all_locations": "New York, NY, USA",
@@ -1453,7 +1457,7 @@
     "one_liner": "All-in-one AI creative platform",
     "team_size": 2,
     "industry": "Consumer",
-    "subindustry": "B2B -> Security",
+    "subindustry": "Consumer",
     "launched_at": 1732154471,
     "tags": [
       "Design",
@@ -1540,7 +1544,7 @@
     "one_liner": "AI Digital Asset Manager",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1751838348,
     "tags": [
       "Artificial Intelligence",
@@ -1616,19 +1620,22 @@
     "id": 30958,
     "name": "Absurd",
     "slug": "absurd",
-    "former_names": [],
+    "former_names": [
+      "Dune"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png",
     "website": "https://tryabsurd.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Absurd (YC F25) makes absurd AI ads. Our last video for Kalshi did 1M+ views (https://x.com/Kalshi/status/1985754640747549100) and we average 300K+ views across 6 launch videos.\r\n\r\nMaking good AI videos is hard. You have to write a story that actually flows, pick the right models for motion, faces, and lighting, and then stitch it all together so it feels cinematic. Most people don’t realize how much craft that takes — so most AI ads end up looking like slop.\r\n\r\nAbsurd replaces that process with autonomous AI agents, guided by a team of creative directors, to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time — commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
+    "long_description": "Absurd (YC F25) makes absurd AI ads. Our last video for Kalshi (\"Election Day\") did 1M+ views, and we average 300K+ views across 6 launch videos. \r\n\r\nOur clients include Kalshi, Replit, Reforge, Gumloop, Micro1, and a couple YC and HF0 startups. \r\n\r\nWe do this with a multi-agent orchestration layer, guided by a team of creative directors, to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time — commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
     "one_liner": "Absurd AI Video Ads (300K avg views/video on X)",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "Consumer -> Content",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1760446134,
     "tags": [
       "Generative AI",
       "Video",
+      "Marketing",
       "Advertising"
     ],
     "tags_highlighted": [],
@@ -1751,18 +1758,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
     "website": "https://velvet.video",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Velvet is the integrated platform for making AI videos. Our team has worked on video generation at Meta FAIR and infra at Adobe, and we’re building the single tool companies need to produce AI video assets.",
-    "one_liner": "Integrated platform for making AI videos.",
+    "long_description": "Velvet is the all-in-one tool for making AI videos. Our team has worked on video generation at Meta FAIR and infra at Adobe, and we’re building the single tool that companies need to produce AI video assets.",
+    "one_liner": "All-in-one tool for making AI videos",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1761236237,
     "tags": [
+      "Artificial Intelligence",
       "Video",
       "Media",
       "Advertising",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1794,18 +1801,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c99aaf789dfc9ef524dff38a9121909c0f00745c.png",
     "website": "https://claybird.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Claybird is an agent that plans, generates, and edits your AI video ad.\r\n\r\nMarketers often rely on agencies to produce video ads - a slow, expensive process involving endless revisions, actors, and shoots.\r\n\r\nClaybird is like Lovable for AI ads: it collaborates with marketers on creative direction, generates shots using Veo, Sora, and other top models, and intelligently edits them into a studio-quality video.\r\n\r\nWhen most people try making AI content, it looks like “slop”. But Claybird Agent, like an expert director, understands quality: it knows which camera angle, shot type, and lighting is necessary for each scene.\r\n\r\nGet started at claybird.com",
+    "long_description": "Claybird (YC F25) makes studio-quality ads in under 72 hours for brands like Coca-Cola, Walmart, Eight Sleep, and Delve. \r\n\r\nClaybird’s AI agents use single-image NeRFs, fine-tuned image editing models, and eval layers for picture-perfect, consistent results at scale.\r\n\r\n\r\n\r\n\r\n\r\n",
     "one_liner": "AI-native video ad agency",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1759979466,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Video",
       "Marketing",
-      "Advertising",
-      "AI"
+      "Advertising"
     ],
     "tags_highlighted": [],
     "top_company": false,

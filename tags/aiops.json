@@ -78,7 +78,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -168,7 +168,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -349,7 +349,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -487,7 +487,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -957,7 +957,10 @@
     "name": "LiteLLM",
     "slug": "litellm",
     "former_names": [
-      "Clerkie"
+      "Clerkie",
+      "BerriAI",
+      "LiteLLM",
+      "BerriAI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34f2cd4e65f065f81d234d6cfb21f911860e50cc.png",
     "website": "https://www.litellm.ai/",
@@ -1000,7 +1003,10 @@
     "name": "Atla",
     "slug": "atla",
     "former_names": [
-      "Atla"
+      "Atla",
+      "atla",
+      "Atla",
+      "atla"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f7e8e61ea6d3f763043392069ac87464fc6db2af.png",
     "website": "https://www.atla-ai.com/",
@@ -1009,7 +1015,7 @@
     "one_liner": "The improvement engine for AI agents",
     "team_size": 10,
     "industry": "B2B",
-    "subindustry": "B2B -> Legal",
+    "subindustry": "B2B",
     "launched_at": 1687465633,
     "tags": [
       "AIOps",
@@ -1221,18 +1227,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f60a49b454abcbf399c1110eb888b6aa3b0627f.png",
     "website": "https://keywordsai.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the core infrastructure that engineers rely on to continuously trace, evaluate, and improve AI agents. \r\n\r\nWe ingest a billion LLM logs every month to enable some of the best AI teams to ship amazing products, including 70+ YC startups.\r\n\r\nMonitor and debug:\r\n- Request logging with full text search to monitor AI in prod\r\n- LLM agent tracing to debug workflows with ease\r\n- Metrics dashboard to understand usage, cost, latency, and get product growth metrics\r\n- User analytics to learn how every user is using your product\r\n\r\nBuild and iterate:\r\n- Collaborative prompt management\r\n- Playground for 350+ models\r\n- Model gateway with OpenAI/Anthropic API interface\r\n- Eval & experiments",
-    "one_liner": "Observability and evals platform for building AI agents",
+    "long_description": "We're building the core infrastructure that engineers rely on to continuously trace, evaluate, and improve AI agents. \r\n\r\nWe process a billion LLM calls every month to enable some of the best AI teams to ship amazing products, including 70+ YC startups.",
+    "one_liner": "The AI gateway with built-in observability & evals",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1711136962,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Monitoring"
+      "Monitoring",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1292,7 +1298,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1418,7 +1424,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1430,7 +1436,9 @@
     "id": 29660,
     "name": "Hyrex",
     "slug": "hyrex",
-    "former_names": [],
+    "former_names": [
+      "Kura"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c33003b33c54f32f641d1dd6956b58f331c3842d.png",
     "website": "https://www.hyrex.io",
     "all_locations": "San Francisco, CA, USA",
@@ -1520,7 +1528,9 @@
     "id": 29782,
     "name": "Laminar",
     "slug": "laminar",
-    "former_names": [],
+    "former_names": [
+      "Laminar AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f68c82dc13524e235198c783318ae1b1aa5d7432.png",
     "website": "https://www.lmnr.ai/",
     "all_locations": "San Francisco, CA, USA",
@@ -1611,7 +1621,9 @@
     "slug": "deployparagon",
     "former_names": [
       "Sift",
-      "Serix"
+      "Serix",
+      "Sift Dev",
+      "Sift"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/79ffca3b97639c7dbc3864b40c1a8a01d1691675.png",
     "website": "https://www.runparagon.com",
@@ -1620,7 +1632,7 @@
     "one_liner": "The AI Growth Engine for Industrials",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1737662674,
     "tags": [
       "AIOps",
@@ -1654,7 +1666,10 @@
     "id": 30264,
     "name": "Stillwind",
     "slug": "stillwind",
-    "former_names": [],
+    "former_names": [
+      "P2P Industries",
+      "Augento"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1b36aa3102c0461123d8bc84ffc46b58b33f3a9.png",
     "website": "https://stillwind.ai",
     "all_locations": "Zürich, ZH, Switzerland",
@@ -1662,7 +1677,7 @@
     "one_liner": "Autonomous Electrical Engineering",
     "team_size": 4,
     "industry": "B2B",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1740421634,
     "tags": [
       "AIOps",
@@ -1745,7 +1760,7 @@
     "one_liner": "Vercel For GPUs",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
     "launched_at": 1738629191,
     "tags": [
       "AIOps",
@@ -1820,7 +1835,8 @@
     "name": "Besimple AI",
     "slug": "besimple-ai",
     "former_names": [
-      "Simple Annotation"
+      "Simple Annotation",
+      "besimple ai"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8305d688995d7c8f184d463f02f3ded6947c12e7.png",
     "website": "https://besimple.ai",
@@ -1952,7 +1968,7 @@
     "one_liner": "AI underwriting for insurance",
     "team_size": null,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B",
     "launched_at": 1758589841,
     "tags": [
       "AIOps",
@@ -2028,7 +2044,9 @@
     "id": 30651,
     "name": "Alter",
     "slug": "alter",
-    "former_names": [],
+    "former_names": [
+      "Alter AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3a30946452aaca1a7c8b4b8fefafd9807f194243.png",
     "website": "https://alterai.dev",
     "all_locations": "New York, NY, USA",
@@ -2036,7 +2054,7 @@
     "one_liner": "Secure access control and authorization platform for agent workflows",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Security",
     "launched_at": 1752476002,
     "tags": [
       "AIOps",
@@ -2153,7 +2171,9 @@
     "id": 30722,
     "name": "Omnara",
     "slug": "omnara",
-    "former_names": [],
+    "former_names": [
+      "GroundDocs"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/878412a3d9ba975b0a0a65bd2a45ed8e7067c94f.png",
     "website": "https://omnara.com",
     "all_locations": "San Francisco, CA, USA",
@@ -2236,7 +2256,7 @@
     "name": "Luminal",
     "slug": "luminal",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d9c818fe88489dd24e5032f7a25a97571050869.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a913a7346d718d968cd73ae55003ff70433afe98.png",
     "website": "https://luminal.com",
     "all_locations": "",
     "long_description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/luminal-ai/luminal\r\nDiscord: https://discord.gg/APjuwHAbGy",

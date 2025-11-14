@@ -74,7 +74,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -116,7 +116,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -203,7 +203,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -427,7 +427,9 @@
     "id": 1596,
     "name": "Releaf Earth",
     "slug": "releaf-earth",
-    "former_names": [],
+    "former_names": [
+      "Releaf"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d78b353efb23a38c7fe5c78ffbc4e1fe2e0f341c.png",
     "website": "http://www.releaf.africa",
     "all_locations": "Lagos, LA, Nigeria",
@@ -435,7 +437,7 @@
     "one_liner": "Turning food waste into Biochar to remove CO2 from the atmsophere",
     "team_size": 100,
     "industry": "Industrials",
-    "subindustry": "B2B -> Sales",
+    "subindustry": "Industrials -> Climate",
     "launched_at": 1493179816,
     "tags": [
       "Carbon Capture and Removal",
@@ -500,7 +502,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -678,7 +680,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -766,7 +768,7 @@
       "Mexico",
       "Latin America"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -828,7 +830,7 @@
     "one_liner": "B2B supplier of fresh/healthy packaged food",
     "team_size": 47,
     "industry": "Consumer",
-    "subindustry": "B2B -> Supply Chain and Logistics",
+    "subindustry": "Consumer -> Food and Beverage",
     "launched_at": 1540962045,
     "tags": [
       "Consumer",
@@ -939,7 +941,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1038,7 +1040,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1104,7 +1106,7 @@
     "one_liner": "Route Optimisation platform for SMB in delivery & home services.",
     "team_size": 15,
     "industry": "B2B",
-    "subindustry": "B2B -> Retail",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1583790871,
     "tags": [
       "SaaS",
@@ -1175,7 +1177,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1443,7 +1445,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1725,7 +1727,7 @@
     "one_liner": "AI-Powered Assistant for Procurement and Strategic Sourcing",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "Fintech -> Asset Management",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1626372475,
     "tags": [
       "Artificial Intelligence",
@@ -2135,7 +2137,7 @@
     "one_liner": "Modern financial infrastructure for the trucking industry.",
     "team_size": 10,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Banking and Exchange",
+    "subindustry": "Fintech -> Payments",
     "launched_at": 1659420849,
     "tags": [
       "Fintech",
@@ -2206,7 +2208,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2322,7 +2324,7 @@
     "one_liner": "Single source of truth for your clinic's finances and supply chain.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1675048534,
     "tags": [
       "Health Tech",
@@ -2359,6 +2361,8 @@
     "former_names": [
       "Enbank",
       "Fynt",
+      "Fynt AI",
+      "Fynt",
       "Fynt AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4cf3efb3a17f100893c2b9e11f3f945ba7fbdf04.png",
@@ -2366,9 +2370,9 @@
     "all_locations": "",
     "long_description": "Mandel surfaces supply chain disruptions and supplier updates with email AI. We use AI agents that proactively extract data and email suppliers for order updates, building a real-time self updating supply chain source of truth.",
     "one_liner": "AI Supply Chain Coordinator",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "B2B",
-    "subindustry": "Fintech",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1691105932,
     "tags": [
       "Generative AI",
@@ -2434,7 +2438,7 @@
       "Canada",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2544,7 +2548,7 @@
     "one_liner": "The modern operating system for chemical manufacturing.",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1721318249,
     "tags": [
       "SaaS",
@@ -2586,7 +2590,7 @@
     "one_liner": "Getting companies refunds on tariffs & duties",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1705516248,
     "tags": [
       "Artificial Intelligence",
@@ -2757,7 +2761,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Lighthouz AI's AI agents solve the biggest problems in logistics - AR and AP! \r\n\r\n3PLs, brokers, factors, and carriers lose billions every year to slow invoicing, manual invoice audits, and billing disputes. Manual AP & AR processes create errors, disputes, cash flow bottlenecks, late fees —hurting everyone in the logistics supply chain. \r\n\r\n🚛 The Problem:\r\n- Factors: Auditing and verifying carrier invoices, timely invoicing\r\n- 3PLs & Brokers: Verifying carrier invoices, creating own invoices, and handling disputes and chargebacks. \r\n- Carriers: Timely invoicing, Submitting correct and complete paperwork, Dealing with late payments, incorrect deductions, and manual paperwork.\r\n- Shippers: Struggling with invoice error identification and resolution, delaying payments. \r\n\r\n📉 The Impact: The U.S. freight industry processes over $1.2 trillion in transactions annually, yet 25% of freight invoices contain errors, leading to payment disputes and delays.\r\n\r\n🔹 Our Solution is an AI agent that automates invoice audits, rate verifications, invoicing, and collections in the logistics industry. \r\n\r\nWith Lighthouz AI agents, businesses 10x their AR and AP processes. ",
     "one_liner": "AI Agents for AP and AR in Logistics",
-    "team_size": 7,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1724264636,
@@ -3018,11 +3022,11 @@
     "former_names": [
       "Terra Labs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e29636bebc1616780dfb5c53b76be0c6ea7607c5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60929159fb0457a72b649564d6a624da5a1ec7b5.png",
     "website": "https://useterra.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Enter Terra, a new world of product building. Connect with suppliers, expedite sampling, and track production in real-time, removing the uncertainties of overseas manufacturing.\r\n",
-    "one_liner": "Terra is like Faire for custom goods",
+    "long_description": "Terra empowers creators and brands to design, sample, and bring their own products to market. Creators keep 100% of profits above manufacturing cost — all with no upfront cost or minimums, while manufacturing, fulfillment & logistics are handled in full.",
+    "one_liner": "Design and sell products in minutes",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
@@ -3031,7 +3035,8 @@
       "Manufacturing",
       "Supply Chain",
       "Procurement",
-      "Enterprise Software"
+      "Consumer Products",
+      "Creator Economy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3059,7 +3064,10 @@
     "id": 30042,
     "name": "VortexifyAI",
     "slug": "vortexifyai",
-    "former_names": [],
+    "former_names": [
+      "Praxis AI",
+      "Vortexify AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb3be511411bbaed481f911d10c8dcbfcfbc8735.png",
     "website": "https://www.vortexify.ai",
     "all_locations": "New York, NY, USA",
@@ -3067,7 +3075,7 @@
     "one_liner": "Build AI applications and automations for supply chain operations",
     "team_size": 1,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1732148257,
     "tags": [
       "IoT",
@@ -3156,7 +3164,7 @@
     "one_liner": "AI agents for supply chain workflow automation",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Retail",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1740586280,
     "tags": [
       "SaaS",
@@ -3191,7 +3199,9 @@
     "id": 30225,
     "name": "Trava",
     "slug": "trava",
-    "former_names": [],
+    "former_names": [
+      "Vora AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d0be0347387260245589e1f25ed7b5d45b73488.png",
     "website": "https://www.usetrava.com/",
     "all_locations": "San Francisco, CA, USA",
@@ -3199,7 +3209,7 @@
     "one_liner": "AI agents for global trade compliance",
     "team_size": 1,
     "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1738095823,
     "tags": [
       "Generative AI",
@@ -3242,7 +3252,7 @@
     "one_liner": "Reasoning models for robotics",
     "team_size": 1,
     "industry": "B2B",
-    "subindustry": "Unspecified",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1738545890,
     "tags": [
       "Robotics",
@@ -3329,7 +3339,7 @@
     "one_liner": "AI Digital Workers for Supply Chain",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1747084472,
     "tags": [
       "Artificial Intelligence",
@@ -3363,7 +3373,9 @@
     "id": 30598,
     "name": "GETASAP",
     "slug": "getasap",
-    "former_names": [],
+    "former_names": [
+      "GETASAP ASIA"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/642bff7a1b26de3309aed7fc5200498a8dca5180.png",
     "website": "https://www.getasap.asia",
     "all_locations": "San Francisco, CA, USA",
@@ -3446,7 +3458,9 @@
     "id": 30663,
     "name": "Tesora",
     "slug": "tesora",
-    "former_names": [],
+    "former_names": [
+      "Tesora AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2793bc4802e1c1cddfc383aed3ac255ec33a0465.png",
     "website": "https://tesora.ai",
     "all_locations": "San Francisco, CA, USA",
@@ -3454,7 +3468,7 @@
     "one_liner": "Digital employees for manufacturing operations",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1755571936,
     "tags": [
       "Artificial Intelligence",
@@ -3488,7 +3502,9 @@
     "id": 30775,
     "name": "Fleetline",
     "slug": "fleetline",
-    "former_names": [],
+    "former_names": [
+      "Axel AI"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8008d7d50f1ead47eae177bcede0c9d614312ad4.png",
     "website": "https://fleetline.ai",
     "all_locations": "New York, NY, USA",
@@ -3568,5 +3584,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/burnt",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/burnt.json"
+  },
+  {
+    "id": 31005,
+    "name": "MarkIt",
+    "slug": "markit",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7e5614f0ff0430254c23e0743e5e0490fb5f826c.png",
+    "website": "https://markittrade.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "MarkIt builds AI agents that work directly inside the workflows trade professionals use every day — Excel, PDFs, broker portals, and more. \r\nFrom defensible classification, ACE report audits, and a self-updating system of record, it serves trade professionals end to end with agents intelligent enough to work in the complex environment. \r\n\r\nMarkIt brings reasoning, memory, and automation to global trade compliance, helping Suppliers, Brokers, and OEMs reduce errors, save time, and streamline operations in the growingly intense world of Global Trade.",
+    "one_liner": "AI Agents for Trade Compliance",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1759442158,
+    "tags": [
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Logistics",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/markit",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/markit.json"
   }
 ]
