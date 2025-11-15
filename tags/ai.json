@@ -14215,7 +14215,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -18125,8 +18125,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a0d5a7145a5d944c8cc2d7fa992ec4ec7971ffae.png",
     "website": "https://sagaland.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Sagaland is a platform for open-ended AI games.",
-    "one_liner": "Open-Ended AI Game Platform",
+    "long_description": "Sagaland is a UGC games platform where players create and remix games using AI. We’re starting with interactive story games.\r\n\r\nMinecraft and Roblox proved that players want agency over the worlds they play in. But building those worlds is still slow, technical, and locked inside a few complex engines.\r\nSagaland uses AI as the game engine and co-dev, so anyone can spin up, remix, and share games in minutes.\r\n\r\nAvailable here: https://apps.apple.com/us/app/sagaland-story-adventure/id6748543926\r\n\r\n",
+    "one_liner": "UGC Game Platform",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Gaming",
@@ -19235,52 +19235,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/inspectmind-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/inspectmind-ai.json"
-  },
-  {
-    "id": 29513,
-    "name": "GetCrux",
-    "slug": "getcrux",
-    "former_names": [
-      "Crux",
-      "getcrux"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e441803edd599221aeb0cd1571b07115de1320cb.png",
-    "website": "http://getcrux.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "GetCrux is the AI Creative Strategist to launch winning ads.\r\n\r\nCreatives have become the biggest lever to win on ad platforms. Yet, there is no clear way to figure out why something works. Marketers end up guessing and replicating the best performing ad, only to see it fail - with high CAC & wasted dollars.\r\n\r\nGetCrux helps performance marketers find winning patterns in their ad creatives across 100+ parameters like hooks, messaging, storyline, music, pacing, and recommend exactly what to launch next.",
-    "one_liner": "AI Creative Strategist",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1706206728,
-    "tags": [
-      "SaaS",
-      "Analytics",
-      "Marketing",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": true,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/getcrux",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/getcrux.json"
   },
   {
     "id": 29515,
@@ -20461,51 +20415,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/camfer.json"
   },
   {
-    "id": 29693,
-    "name": "Gauge",
-    "slug": "gauge",
-    "former_names": [
-      "Bridge"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/baefaa5c93373570223efc7d0248805dd36cba0c.png",
-    "website": "https://withgauge.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gauge helps your company show up in more AI answers.\r\n\r\nWith traffic leaving search, traditional SEO is dying. Our customers are seeing inbound traffic from AI answers double every quarter.\r\n\r\n",
-    "one_liner": "Get your product featured in AI answers.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1717523721,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Analytics",
-      "Marketing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gauge",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/gauge.json"
-  },
-  {
     "id": 29695,
     "name": "Dench.com",
     "slug": "dench-com",
@@ -21614,14 +21523,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/491bc3e14f2a2109e453def9bad93c9ac0db7f3e.png",
     "website": "https://withblast.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Blast helps large enterprises build safe and reliable LLM apps. We provide a platform to help enterprises rigorously evaluate and turn their generative AI prototypes into reliable apps that can be confidently deployed at scale.\r\n\r\n",
+    "long_description": "Refactor works closely with large organizations across healthcare, retail, and logistics to safely tackle their most ambitious AI use-cases in record time. We focus on building autonomous systems that call, click, and navigate legacy software systems. We deploy software exclusively on-premises. We have worked with companies serving tens of millions of customers and with $50B+ annual revenue. ",
     "one_liner": "Helping enterprises build safe and compliant LLM apps/agents",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B",
     "launched_at": 1724647952,
     "tags": [
       "B2B",
+      "Healthcare",
       "Enterprise Software",
       "AI"
     ],
@@ -21632,8 +21542,7 @@
     "batch": "Summer 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Engineering, Product and Design"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -22502,7 +22411,7 @@
     "website": "https://usemica.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Mica’s AI agents replace the team that resolves data pipeline exceptions — the messy edge cases that orchestration tools like Airflow, dbt, or Fivetran can’t fix. These failures require human judgment and context that rules can’t capture.\r\n\r\nWhen a pipeline hits bad or incomplete data, Mica does what a human would: it inspects the records, pulls context from internal databases, checks company docs, looks up information in external systems, and takes the correct action to get the pipeline moving again.\r\n\r\nThe result: your data pipelines scale without scaling your headcount. Mica turns exception handling from a manual bottleneck into an automated background process.",
-    "one_liner": "Automate away the humans resolving data pipeline exceptions",
+    "one_liner": "Replace the humans resolving data pipeline exceptions",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -26180,6 +26089,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/approval-ai.json"
   },
   {
+    "id": 30427,
+    "name": "Acolite",
+    "slug": "acolite",
+    "former_names": [
+      "Blueplan",
+      "Anvil"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bee88ddf2837ce69f6bc53bc24d264569098af38.png",
+    "website": "https://acolite.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Acolite builds AI teammates that handle submissions, issuing COIs, and SOV mapping across any AMS. Like an extra teammate, you simply forward an email and Acolite handles the rest.",
+    "one_liner": "AI Teammates for Insurance Agencies",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1747166393,
+    "tags": [
+      "Insurance",
+      "Operations",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/acolite",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/acolite.json"
+  },
+  {
     "id": 30431,
     "name": "Chonkie",
     "slug": "chonkie",
@@ -28755,8 +28708,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/905c1f65eb8cd1b63a473b261cabbce9ac1c5d75.png",
     "website": "https://www.embedder.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is automating embedded software development with AI.",
-    "one_liner": "Cursor for Embedded Software",
+    "long_description": "Embedder combines documentation indexing, hardware-aware code generation and autonomous debugging to eliminate the tedious parts of firmware development.",
+    "one_liner": "Cursor for Firmware",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -28831,6 +28784,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/candytrail",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/candytrail.json"
+  },
+  {
+    "id": 30696,
+    "name": "GhostEye",
+    "slug": "ghosteye",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/81ba9326d1d371675b429c97e982da02b3d22b88.png",
+    "website": "https://ghosteye.ai",
+    "all_locations": "New York, NY, USA",
+    "long_description": "GhostEye uses autonomous AI agents to test how attackers exploit human vulnerabilities to compromise organizations. Just as red teams simulate technical attacks against infrastructure, we simulate sophisticated social engineering campaigns and beyond against people. \r\n\r\nOur multi-agent platform validates complete attack paths from initial human compromise to data exfiltration, providing security teams with actionable intelligence about their true human attack surface exposure before attackers find it.",
+    "one_liner": "The Human-Breach Simulation Platform",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "launched_at": 1753230986,
+    "tags": [
+      "B2B",
+      "Cybersecurity",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Security"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ghosteye",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/ghosteye.json"
   },
   {
     "id": 30697,
@@ -29519,13 +29513,11 @@
     "long_description": "Clodo is AI for Large Scale Construction. We build AI agents that support teams and automate busy work for the largest general contractors in the country.",
     "one_liner": "AI For Large Scale Construction",
     "team_size": 3,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction",
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1754475903,
     "tags": [
       "Artificial Intelligence",
-      "Construction",
-      "Proptech",
       "AI"
     ],
     "tags_highlighted": [],
@@ -29535,7 +29527,7 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Real Estate and Construction"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -29976,51 +29968,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/movedot",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/movedot.json"
-  },
-  {
-    "id": 30850,
-    "name": "Zavo",
-    "slug": "zavo",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
-    "website": "https://zavopay.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Zavo is the first AI-native platform for in-person commerce.\r\n\r\nWe unify payments, point of sale, and AI agents into one seamless platform, giving every restaurant and retail business its own Ai workforce.\r\n\r\nWe started Zavo in May 2025, currently over 400 businesses of different sizes use Zavo to accept payments and manage operations\r\n\r\nThe future of in-person commerce is autonomous, and Zavo is building it.",
-    "one_liner": "Agentic Point of Sale for restaurants and retail",
-    "team_size": 8,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Payments",
-    "launched_at": 1758482945,
-    "tags": [
-      "Fintech",
-      "Payments",
-      "B2B",
-      "Restaurant Tech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Payments"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zavo",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/zavo.json"
   },
   {
     "id": 30858,
@@ -30696,49 +30643,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/aleph-lab.json"
   },
   {
-    "id": 30911,
-    "name": "Articulate",
-    "slug": "articulate",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b26a35750dbae152a692ea82c2b00bb8f78d4d9b.png",
-    "website": "https://usearticulate.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help construction and solar contractors eliminate delays, confusion, and rework. We audit designs for code compliance before construction starts, detect clashes early, and automatically generate RFIs from drawings. We also accelerate takeoffs, estimating, and trade package alignment so preconstruction teams can move faster with fewer errors. \r\n\r\nFrom RFIs to permits to supplier updates, everything runs automatically so teams can focus on building, not waiting. \r\n\r\nWe integrate with Procore, Outlook, Gmail, Bluebeam, Autodesk, and other tools you already use. \r\n\r\nTeams use us to:\r\n- Save $3,000,000 per project\r\n- Catch design and coordination errors before they happen\r\n- Verify code and permits instantly\r\n- Align trade packages and scopes automatically\r\n- Speed up takeoffs, estimating, and procurement\r\n- Get real-time updates from every crew\r\n\r\nContact us founders@usearticulate.com to learn more!",
-    "one_liner": "Speeding Up Construction with AI",
-    "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1760131149,
-    "tags": [
-      "Construction",
-      "B2B",
-      "Workflow Automation",
-      "Architecture",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/articulate",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/articulate.json"
-  },
-  {
     "id": 30916,
     "name": "Rovr",
     "slug": "rovr",
@@ -30789,8 +30693,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3f6ef97ecdc81fb89e8dc020bc91142bcb83a908.png",
     "website": "https://www.codyco.ai/en",
     "all_locations": "",
-    "long_description": "€5,000 in additional bookings. In 4 weeks. For a 53-room hotel.\r\n\r\nWe help hotel groups turn missed calls into bookings.\r\n\r\nThis it how it works: \r\n\r\n- They send their missed calls to us.\r\n- Our AI answers and takes the booking.\r\n- The booking goes right into their PMS.\r\n\r\nEven with call centers and central reservation departments they are still losing 5% of calls. \r\n\r\nThat is a seven figure revenue leak. We already work with 7 hotel groups that run 350 hotels recover that potential.\r\n\r\nWhy us? \r\nWe used to build software that can’t fail for massive companies. We started Codyco after a friend told us how much money he was losing from missed calls. We built the first version just for him.\r\n\r\nNow we give hotel groups the reliable AI they need, so they never lose a booking on the phone again.",
-    "one_liner": "AI Receptionist for Hotel Groups",
+    "long_description": "€5,000 in additional bookings. In 4 weeks. For a 53-room hotel.\r\n\r\nWe help hotel groups turn missed calls into bookings.\r\n\r\nThis it how it works: \r\n\r\n- They send their missed calls to us.\r\n- Our AI answers and takes the booking.\r\n- The booking goes right into their PMS.\r\n\r\nEven with call centers and central reservation departments they are still losing 5% of calls. \r\n\r\nThat is a seven figure revenue leak. \r\n\r\nWhy us? \r\nWe used to build software that can’t fail for massive companies. We started Codyco after a friend told us how much money he was losing from missed calls. We built the first version just for him.\r\n\r\nNow we give hotel groups the reliable AI they need, so they never lose a booking on the phone again.",
+    "one_liner": "The AI Reservation Team for Hotel Groups",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -31430,50 +31334,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/jarmin.json"
   },
   {
-    "id": 30975,
-    "name": "Castari",
-    "slug": "castari",
-    "former_names": [
-      "Castar"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20c64526d1a467a80b1b85a5386053d1f5a8a444.png",
-    "website": "https://castari.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Vercel for AI Agents – Deploy sandboxed agents with MCP tools & skills",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1762394891,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/castari",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/castari.json"
-  },
-  {
     "id": 30981,
     "name": "Freeport Markets",
     "slug": "freeport-markets",
@@ -31645,6 +31505,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stratus-aviation",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/stratus-aviation.json"
+  },
+  {
+    "id": 30999,
+    "name": "Claybird",
+    "slug": "claybird",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c99aaf789dfc9ef524dff38a9121909c0f00745c.png",
+    "website": "https://claybird.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Claybird makes studio-quality ads in under 72 hours for brands like Coca-Cola, Walmart, Eight Sleep, and Delve. \r\n\r\nClaybird’s AI agents use single-image NeRFs, fine-tuned image editing models, and eval layers for picture-perfect, consistent results at scale.\r\n",
+    "one_liner": "AI-native video ad agency",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1759979466,
+    "tags": [
+      "SaaS",
+      "Video",
+      "Marketing",
+      "Advertising",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/claybird",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/claybird.json"
   },
   {
     "id": 31001,

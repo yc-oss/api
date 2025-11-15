@@ -10824,7 +10824,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Shef, we’re bringing humanity back to mealtime by connecting consumers with talented chefs in their community. By introducing the sharing economy to the dinner table, we create meaningful economic opportunities for chefs while making homemade meals more accessible and affordable. Shefs on the platform craft menus inspired by their passion and expertise, preparing meals in small batches and delivering them to your door—so you can enjoy the warmth of a homemade meal without the hassle.\r\n\r\nWe have raised over $100M from investors including Andreessen Horowitz, Y Combinator, Craft Ventures, and M13, as well as founders and executives from Instacart, TaskRabbit, StubHub, AngelList, Lyft, Airbnb, and Yelp.",
     "one_liner": "Shef is a Marketplace for Homemade Food",
-    "team_size": 25,
+    "team_size": 70,
     "industry": "Consumer",
     "subindustry": "Consumer -> Food and Beverage",
     "launched_at": 1546662795,
@@ -21029,21 +21029,21 @@
     "name": "Waydev",
     "slug": "waydev",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34b205bfaa1f489d8476a0f6fc5723576e3a9a03.png",
-    "website": "https://waydev.co/ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Waydev AI is the first conversational platform for engineering, helping you measure productivity, track AI’s impact, and guide your teams with data-backed confidence.",
-    "one_liner": "The AI-Native Engineering Intelligence Platform ",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/90694f4bdb7eb8f17b02f85faee3e3455edb365b.png",
+    "website": "https://waydev.co/",
+    "all_locations": "Menlo Park, CA, USA",
+    "long_description": "Waydev is the Engineering Productivity Intelligence platform that helps companies understand, measure, and improve the performance of their software teams. It connects to the tools engineers already use, then transforms code, work items, reviews, deployments, and AI-assisted activity into a unified source of truth for engineering effectiveness.\r\n\r\nBuilt for modern engineering leaders, Waydev delivers deep visibility across delivery speed, code quality, collaboration patterns, and real business impact. With automated insights, conversational analytics, and industry benchmarks, teams can make decisions with clarity, reduce bottlenecks, and continuously improve how software is shipped.\r\n\r\nWaydev replaces manual reporting, subjective evaluations, and static dashboards. It gives executives, managers, and ICs the context they need to optimize workflows, forecast outcomes, and align engineering output to business results.\r\n\r\nWaydev powers engineering intelligence for fast-growing startups and global enterprises by turning raw activity into actionable strategy.",
+    "one_liner": "The Engineering Productivity Intelligence Platform | DORA, SPACE, DX,…",
     "team_size": 10,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Analytics",
     "launched_at": 1616455133,
     "tags": [
       "AI-Enhanced Learning",
       "Artificial Intelligence",
       "Enterprise",
       "Data Engineering",
-      "AI Assistant"
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21053,19 +21053,19 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Analytics"
     ],
     "regions": [
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/waydev",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/waydev.json"
   },
@@ -22917,51 +22917,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/pirouette-pharma.json"
   },
   {
-    "id": 24191,
-    "name": "Secoda",
-    "slug": "secoda",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b049a52be34bb701fef7828f1cea14c3624e5f6.png",
-    "website": "https://secoda.co",
-    "all_locations": "Toronto, ON, Canada",
-    "long_description": "We believe that finding the right data shouldn’t require a technical background or hours of digging. That’s why Secoda applies AI to transform messy, siloed analytics into a searchable, intuitive knowledge layer—so every question gets a fast, useful answer.\r\n\r\nOur vision is to become the AI search engine for your company’s analytics, making data discovery as seamless as finding a website on Google. To do that, Secoda gets data AI-ready by unifying governance, cataloging, observability, and lineage into one trusted, easy-to-use platform—empowering every team to move faster, stay compliant, and make smarter decisions.",
-    "one_liner": "Secoda is the AI layer for your Analytics",
-    "team_size": 27,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1626792128,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Analytics",
-      "Data Engineering"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Canada",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/secoda",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/secoda.json"
-  },
-  {
     "id": 24194,
     "name": "Aqua",
     "slug": "aqua",
@@ -23265,6 +23220,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/enerjazz",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/enerjazz.json"
+  },
+  {
+    "id": 24268,
+    "name": "testRigor",
+    "slug": "testrigor",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/320246972eefed6a269a40ed9fa38e5de40b066e.png",
+    "website": "https://testrigor.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "testRigor is an executable specifications engine to help companies to empower their manual QA to be able to build automation 15X than QA engineers and spend 200X less time maintaining the code.",
+    "one_liner": "Executable specifications in English for test automation",
+    "team_size": 25,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1629821348,
+    "tags": [
+      "Developer Tools",
+      "SaaS"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/testrigor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/testrigor.json"
   },
   {
     "id": 24282,
@@ -38707,47 +38704,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/synch.json"
   },
   {
-    "id": 28839,
-    "name": "Spine AI",
-    "slug": "spine-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7eba747c12d79722f933dd297d83341ffec8d94c.png",
-    "website": "https://www.getspine.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Spine is the unlimited visual workspace where your ideas can branch, run in parallel, and stay in view. Instead of being trapped in a linear chat thread, you think in blocks, not threads—chat, deep research, images, memos, slides—each block holding its own context while sharing it across the canvas.\r\n\r\nConnect and orchestrate GPT-5, Claude, Gemini, Grok, Llama and hundreds more like instruments in a symphony, all without losing your train of thought. Chat is great for Q&A; it’s terrible for thinking. Spine fixes that by letting context flow visually between blocks so your flow state never breaks.\r\n\r\nExtend this thinking to structured workflows that you can set up across 1000+ apps.\r\n\r\nReclaim your creative power. The age of prompt engineering is ending; the future of thinking is visual, collaborative, and unlimited—and it lives on Spine.",
-    "one_liner": "Unlimited visual workspace to collaborate with hundreds of AI models",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1687896796,
-    "tags": [
-      "Generative AI",
-      "SaaS",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/spine-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/spine-ai.json"
-  },
-  {
     "id": 28841,
     "name": "SuperCraft",
     "slug": "supercraft",
@@ -44949,6 +44905,45 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/hatchet-run.json"
   },
   {
+    "id": 29434,
+    "name": "Stacksync",
+    "slug": "stacksync",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/86069ba7639f52c1874bb95448db4e4cd2310e5e.png",
+    "website": "https://www.stacksync.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Stacksync powers real-time and bidirectional data synchronization between CRMs (e.g. Salesforce, Hubspot or SAP) and databases (e.g. Postgres, Google BigQuery,...). Edits made in your CRM will instantly update in your Database, and vice-versa. To set up a sync, users simply have to connect the two chosen apps in one click and select the tables they want to sync, no-code!\r\nStacksync reduces implementation delays from months to minutes for CRM integration projects and removes all the complexity behind CRM new feature development. We show a 90% improvement on delivery time and budget.",
+    "one_liner": "Real-time and two-way sync between CRMs and Databases",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1702317253,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/stacksync",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/stacksync.json"
+  },
+  {
     "id": 29435,
     "name": "Terrakotta",
     "slug": "terrakotta",
@@ -45879,6 +45874,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/reprompt.json"
   },
   {
+    "id": 29513,
+    "name": "GetCrux",
+    "slug": "getcrux",
+    "former_names": [
+      "Crux",
+      "getcrux"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e441803edd599221aeb0cd1571b07115de1320cb.png",
+    "website": "http://getcrux.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "GetCrux is the AI Creative Strategist to launch winning ads.\r\n\r\nCreatives have become the biggest lever to win on ad platforms. Yet, there is no clear way to figure out why something works. Marketers end up guessing and replicating the best performing ad, only to see it fail - with high CAC & wasted dollars.\r\n\r\nGetCrux helps performance marketers find winning patterns in their ad creatives across 100+ parameters like hooks, messaging, storyline, music, pacing, and recommend exactly what to launch next.",
+    "one_liner": "AI Creative Strategist",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1706206728,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Analytics",
+      "Marketing",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/getcrux",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/getcrux.json"
+  },
+  {
     "id": 29516,
     "name": "Same",
     "slug": "same",
@@ -46351,7 +46392,7 @@
     "slug": "glasskube",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c9fd82d6ad8c83a6a8a30a2f1f88b9186d91f977.png",
-    "website": "https://glasskube.dev/",
+    "website": "https://distr.sh/",
     "all_locations": "",
     "long_description": "Managing enterprise software deployments shouldn’t feel like a balancing act. At Glasskube, we make deploying, managing, and updating software in on-premises, VPC, and air-gapped environments easier than ever.\r\n\r\nOur Mission:\r\nWe empower software vendors to deliver exceptional customer experiences with less complexity. Whether you’re onboarding new clients, rolling out updates, or troubleshooting issues, our Software Distribution Platform streamlines every step.\r\n\r\nThe founders have been best friends for over 15 years, lived together in college, and even had a startup together. Philip was the CTO of a European Kubernetes-based company that was acquired in 2022.",
     "one_liner": "Software Distribution Platform for On-Prem, Kubernetes, Docker & BYOC",
@@ -53232,6 +53273,46 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/athenahq.json"
   },
   {
+    "id": 30269,
+    "name": "Strike",
+    "slug": "strike",
+    "former_names": [
+      "PowerPlay"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e3212b214ed79ac19b611c2453947f4caaa6755d.png",
+    "website": "http://tradestrike.app",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Still in stealth, reach out to learn more!",
+    "one_liner": "Prediction markets for businesses",
+    "team_size": 3,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1740523068,
+    "tags": [
+      "Marketplace"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/strike",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/strike.json"
+  },
+  {
     "id": 30274,
     "name": "Trata",
     "slug": "trata",
@@ -55084,50 +55165,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/galen-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/galen-ai.json"
-  },
-  {
-    "id": 30427,
-    "name": "Acolite",
-    "slug": "acolite",
-    "former_names": [
-      "Blueplan",
-      "Anvil"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bee88ddf2837ce69f6bc53bc24d264569098af38.png",
-    "website": "https://acolite.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Acolite builds AI teammates that handle submissions, issuing COIs, and SOV mapping across any AMS. Like an extra teammate, you simply forward an email and Acolite handles the rest.",
-    "one_liner": "AI Teammates for Insurance Agencies",
-    "team_size": 3,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1747166393,
-    "tags": [
-      "Artificial Intelligence",
-      "Insurance",
-      "Operations"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/acolite",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/acolite.json"
   },
   {
     "id": 30429,
@@ -57297,8 +57334,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/905c1f65eb8cd1b63a473b261cabbce9ac1c5d75.png",
     "website": "https://www.embedder.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Embedder is automating embedded software development with AI.",
-    "one_liner": "Cursor for Embedded Software",
+    "long_description": "Embedder combines documentation indexing, hardware-aware code generation and autonomous debugging to eliminate the tedious parts of firmware development.",
+    "one_liner": "Cursor for Firmware",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -58966,39 +59003,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/hireglide.json"
   },
   {
-    "id": 31010,
-    "name": "Fixpoint",
-    "slug": "fixpoint",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f1eaa6d1493780832479f97fca83170e4ebe91.png",
-    "website": "https://fixpoint.co/",
-    "all_locations": "",
-    "long_description": "Fixpoint helps AI training data companies hire the expert humans that create AI training data. We handle sourcing, vetting, and all HR for expert annotator teams, so our customers can focus just on creating training data.\r\n\r\nWe build AI agents to automate sourcing and interviewing, and a recruiting + HR system to keep track of annotators, assign them to projects, manage payroll, and everything else needed to run a human data project.\r\n\r\nYou can embed Fixpoint's APIs into an existing human data ops workflow or use our white-gloving staffing so you can just send us job requirements and get an expert team delivered to you.",
-    "one_liner": "Source and manage experts for AI training jobs",
+    "id": 31051,
+    "name": "Sarah AI",
+    "slug": "sarah-ai",
+    "former_names": [
+      "Sarah.AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4647b6b688845909431b5190e0671d6b6119ed0.png",
+    "website": "https://hellosarah.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sarah AI is building the AI-native operating system for consumer goods brands—an autonomous supply-chain brain that replaces legacy ERPs and actually runs the business. Founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30) and Dirk (ex-Google Data, Analytics & AI Lead), we’re backed by YC (W26).\r\n\r\nIn our first month full-time, we’ve raised $1.6M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: give CPG brands completely hands-free supply chains that run themselves through Sarah, their AI ops assistant.\r\n\r\nWe’re now growing a small, world-class team of builders excited to reinvent how physical goods companies operate—end-to-end, autonomous, and AI-first. If you want to work on hard problems, ship fast, and define the future of autonomous operations, you’ll feel right at home here.\r\n",
+    "one_liner": "AI Agents for CPG ops",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Human Resources",
-    "launched_at": 1759722442,
-    "tags": [],
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1763141207,
+    "tags": [
+      "AIOps",
+      "SaaS",
+      "B2B"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
     "nonprofit": false,
-    "batch": "Fall 2025",
+    "batch": "Winter 2026",
     "status": "Active",
     "industries": [
       "B2B",
-      "Human Resources"
+      "Operations"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fixpoint",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/fixpoint.json"
+    "url": "https://www.ycombinator.com/companies/sarah-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sarah-ai.json"
   }
 ]

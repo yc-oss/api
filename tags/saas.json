@@ -23803,7 +23803,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -24239,7 +24239,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -39718,7 +39718,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -42636,15 +42636,15 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1706206728,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Analytics",
       "Marketing",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -42659,7 +42659,7 @@
     "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/getcrux",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/getcrux.json"
@@ -43249,16 +43249,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Gauge helps your company show up in more AI answers.\r\n\r\nWith traffic leaving search, traditional SEO is dying. Our customers are seeing inbound traffic from AI answers double every quarter.\r\n\r\n",
     "one_liner": "Get your product featured in AI answers.",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1717523721,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Analytics",
-      "Marketing",
-      "AI"
+      "Marketing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44671,7 +44671,7 @@
     "website": "https://usemica.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Mica’s AI agents replace the team that resolves data pipeline exceptions — the messy edge cases that orchestration tools like Airflow, dbt, or Fivetran can’t fix. These failures require human judgment and context that rules can’t capture.\r\n\r\nWhen a pipeline hits bad or incomplete data, Mica does what a human would: it inspects the records, pulls context from internal databases, checks company docs, looks up information in external systems, and takes the correct action to get the pipeline moving again.\r\n\r\nThe result: your data pipelines scale without scaling your headcount. Mica turns exception handling from a manual bottleneck into an automated background process.",
-    "one_liner": "Automate away the humans resolving data pipeline exceptions",
+    "one_liner": "Replace the humans resolving data pipeline exceptions",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -46438,17 +46438,18 @@
   },
   {
     "id": 30279,
-    "name": "Snowbase",
-    "slug": "snowbase",
+    "name": "Highintent",
+    "slug": "highintent",
     "former_names": [
       "Doublecall",
       "Vovana",
-      "Bystreet"
+      "Bystreet",
+      "Snowbase"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/072efb2e6cfcc53017175fedf3f3279a70a6bf60.png",
-    "website": "http://www.snowbase.ai/",
+    "website": "http://www.highintent.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building Snowbase to help startups find their ideal customers through natural language search, signals, and verified contact data.",
+    "long_description": "We’re building Highintent to help startups find leads who want to buy, using go-to-market signals and AI-powered search.",
     "one_liner": "Find your ideal customers.",
     "team_size": 4,
     "industry": "B2B",
@@ -46479,8 +46480,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/snowbase",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/snowbase.json"
+    "url": "https://www.ycombinator.com/companies/highintent",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/highintent.json"
   },
   {
     "id": 30282,
@@ -50174,18 +50175,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c99aaf789dfc9ef524dff38a9121909c0f00745c.png",
     "website": "https://claybird.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Claybird (YC F25) makes studio-quality ads in under 72 hours for brands like Coca-Cola, Walmart, Eight Sleep, and Delve. \r\n\r\nClaybird’s AI agents use single-image NeRFs, fine-tuned image editing models, and eval layers for picture-perfect, consistent results at scale.\r\n\r\n\r\n\r\n\r\n\r\n",
+    "long_description": "Claybird makes studio-quality ads in under 72 hours for brands like Coca-Cola, Walmart, Eight Sleep, and Delve. \r\n\r\nClaybird’s AI agents use single-image NeRFs, fine-tuned image editing models, and eval layers for picture-perfect, consistent results at scale.\r\n",
     "one_liner": "AI-native video ad agency",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1759979466,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Video",
       "Marketing",
-      "Advertising"
+      "Advertising",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -50263,7 +50264,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Bear AI helps companies show up AI search engines like ChatGPT, Perplexity, and Google AI Overviews. \r\n\r\nWe provide analytics to track your brand's visibility, competitive intelligence to understand why competitors rank higher, and ways to improve your content for AI-powered search.",
     "one_liner": "Market to AI Agents",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1757825190,
@@ -50293,5 +50294,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bear",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bear.json"
+  },
+  {
+    "id": 31051,
+    "name": "Sarah AI",
+    "slug": "sarah-ai",
+    "former_names": [
+      "Sarah.AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4647b6b688845909431b5190e0671d6b6119ed0.png",
+    "website": "https://hellosarah.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sarah AI is building the AI-native operating system for consumer goods brands—an autonomous supply-chain brain that replaces legacy ERPs and actually runs the business. Founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30) and Dirk (ex-Google Data, Analytics & AI Lead), we’re backed by YC (W26).\r\n\r\nIn our first month full-time, we’ve raised $1.6M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: give CPG brands completely hands-free supply chains that run themselves through Sarah, their AI ops assistant.\r\n\r\nWe’re now growing a small, world-class team of builders excited to reinvent how physical goods companies operate—end-to-end, autonomous, and AI-first. If you want to work on hard problems, ship fast, and define the future of autonomous operations, you’ll feel right at home here.\r\n",
+    "one_liner": "AI Agents for CPG ops",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1763141207,
+    "tags": [
+      "AIOps",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sarah-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sarah-ai.json"
   }
 ]
