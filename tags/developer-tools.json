@@ -6320,7 +6320,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13439,51 +13439,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/wild-moose.json"
   },
   {
-    "id": 27892,
-    "name": "ShortLoop",
-    "slug": "shortloop",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/820af679200d42ba6edf958ca36c54bfd8a7734c.png",
-    "website": "https://shortloop.dev/",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "ShortLoop’s human-like AI agents convert leads and inquiries into demos, appointments and opportunities",
-    "one_liner": "AI Phone Agents For Your Business",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1677530662,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "SaaS",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shortloop",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/shortloop.json"
-  },
-  {
     "id": 27893,
     "name": "BuildJet",
     "slug": "buildjet",
@@ -18555,7 +18510,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -19213,10 +19168,10 @@
     "subindustry": "Consumer",
     "launched_at": 1723501563,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
       "Gaming",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -20033,8 +19988,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1727921167,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20329,7 +20284,7 @@
     "all_locations": "",
     "long_description": "Osmosis enables AI self-improvement through real-time reinforcement learning. ",
     "one_liner": "Online Reinforcement Learning for AI Agents",
-    "team_size": 4,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1737656598,
@@ -20409,18 +20364,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/070d8df8755a600f5ecf800f273f60a2cfa54bb0.png",
     "website": "https://lucidic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic AI provides tools for AI agent devs, specifically visualizations and simulations, and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
-    "one_liner": "Weights & Biases for AI Agents",
+    "long_description": "As AI agents take on more consequential workflows, the hard part isn’t just whether they work—it’s whether they behave consistently with your company’s knowledge, policies, and expectations. Lucidic AI turns that institutional knowledge into consistent agent behavior by continuously testing, stress-simulating, and auto-optimizing agents against your real production scenarios.\r\nLucidic ingests your real logs, edge cases, and operational rules, then uses controlled simulations, reinforcement learning, and Bayesian optimization to automatically discover failure modes, propose targeted fixes, and verify improvements before anything reaches production. Instead of relying on manual prompt fiddling or guesswork, your agents get a continuous improvement loop: they’re tested, corrected, and optimized based on what your business actually requires—not what a generic model assumes.\r\nThe result is AI agents that reliably follow your domain logic, adapt to changes, and stay aligned across clients, configurations, and environments—without you needing to hand-engineer every prompt or behavior.",
+    "one_liner": "Turning Your Company’s Knowledge Into Consistent AI Agent Behavior.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736904770,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21530,9 +21485,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/38edcfba2831cce5f05a5da045992ae4f758e655.png",
     "website": "https://www.cactuscompute.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "App developers can now deploy private, local, offline AI models in their mobile apps, achieving up to 150 tokens/sec and <50ms time to first token. \r\n\r\nCactus is used by 3k+ developers and completes 500k+ weekly inference tasks on phones today. It is open-source! Check out the repo: https://github.com/cactus-compute/cactus",
-    "one_liner": "Kernels & Engine for running AI on phones",
-    "team_size": 3,
+    "long_description": "CUDA for phones & consumer hardware: Cactus is used by 3k+ developers and 100+ products to run AI locally on consumer hardware. It is open-source! Check out the repo: https://github.com/cactus-compute/cactus",
+    "one_liner": "Kernels & Engine for running AI on consumer devices.",
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752189935,
@@ -21555,7 +21510,9 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23303,55 +23260,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/metorial",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/metorial.json"
-  },
-  {
-    "id": 30961,
-    "name": "Arcten",
-    "slug": "arcten",
-    "former_names": [
-      "Cortex",
-      "ArcTen",
-      "Arc Ten",
-      "ArcTen",
-      "ArcTen, Inc.",
-      "Arcten, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8b85a37c57824f6296369d2840bc02a481f8bf6.png",
-    "website": "https://arcten.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arcten makes companies AI-native, fast. Deploy AI agents globally on our edge runtime, embed anywhere in 5 lines of code, link proprietary knowledge sources in one click, and get out-of-the-box agent observability and analytics—all on one platform.",
-    "one_liner": "Building the platform for companies to ship AI agents fast",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1761245566,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "API",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arcten",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/arcten.json"
   },
   {
     "id": 30969,

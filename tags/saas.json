@@ -3872,7 +3872,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2015",
     "status": "Active",
@@ -19097,7 +19097,9 @@
     "tags": [
       "Artificial Intelligence",
       "SaaS",
-      "Emerging Markets"
+      "B2B",
+      "Emerging Markets",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25917,7 +25919,7 @@
     "all_locations": "São Paulo, SP, Brazil",
     "long_description": "Verde is a lending platform that offers fast loans to small-and-medium sized farmers in Brazil. Our vertical software allows independent ag loan advisors to originate loans digitally and manage their operations more effectively.",
     "one_liner": "Digital lending platform for Brazilian farmers",
-    "team_size": 13,
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Credit and Lending",
     "launched_at": 1626699987,
@@ -32158,7 +32160,7 @@
       "Concert"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b29418be152187b38ccc249652bf446728ba67bc.png",
-    "website": "https://chordio.com",
+    "website": "https://designrails.com",
     "all_locations": "Issaquah, WA, USA; Remote",
     "long_description": "Chordio is an AI-powered design review tool that helps product teams catch issues early, reduce QA grunt work,  and ship polished interfaces with confidence.\r\n\r\nIt works across Figma (plugin) and web (Chrome extension), so it's easy to incorporate into an existing design-development workflow. \r\n",
     "one_liner": "AI-powered design reviews that guard your standards",
@@ -37093,51 +37095,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wild-moose",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/wild-moose.json"
-  },
-  {
-    "id": 27892,
-    "name": "ShortLoop",
-    "slug": "shortloop",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/820af679200d42ba6edf958ca36c54bfd8a7734c.png",
-    "website": "https://shortloop.dev/",
-    "all_locations": "Bengaluru, KA, India",
-    "long_description": "ShortLoop’s human-like AI agents convert leads and inquiries into demos, appointments and opportunities",
-    "one_liner": "AI Phone Agents For Your Business",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1677530662,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "SaaS",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "India",
-      "South Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shortloop",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/shortloop.json"
   },
   {
     "id": 27893,
@@ -44543,16 +44500,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Anglera, we're developing a suite of AI agents to help e-commerce companies run their operations more efficiently. Our flagship agent helps our customers onboard, enrich, and manage their product data, reducing time per product from 15 mins down to 5 seconds.\r\n\r\nWe previously developed ML to automatically enrich millions of products at Uber Eats, and we're now on a mission to automate the most common manual workflows for every e-commerce business.",
     "one_liner": "AI-Powered Product Data Enrichment",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1719875304,
     "tags": [
+      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "B2B",
-      "E-commerce",
-      "AI"
+      "E-commerce"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46402,18 +46359,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/070d8df8755a600f5ecf800f273f60a2cfa54bb0.png",
     "website": "https://lucidic.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic AI provides tools for AI agent devs, specifically visualizations and simulations, and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",
-    "one_liner": "Weights & Biases for AI Agents",
+    "long_description": "As AI agents take on more consequential workflows, the hard part isn’t just whether they work—it’s whether they behave consistently with your company’s knowledge, policies, and expectations. Lucidic AI turns that institutional knowledge into consistent agent behavior by continuously testing, stress-simulating, and auto-optimizing agents against your real production scenarios.\r\nLucidic ingests your real logs, edge cases, and operational rules, then uses controlled simulations, reinforcement learning, and Bayesian optimization to automatically discover failure modes, propose targeted fixes, and verify improvements before anything reaches production. Instead of relying on manual prompt fiddling or guesswork, your agents get a continuous improvement loop: they’re tested, corrected, and optimized based on what your business actually requires—not what a generic model assumes.\r\nThe result is AI agents that reliably follow your domain logic, adapt to changes, and stay aligned across clients, configurations, and environments—without you needing to hand-engineer every prompt or behavior.",
+    "one_liner": "Turning Your Company’s Knowledge Into Consistent AI Agent Behavior.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736904770,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46446,7 +46403,7 @@
       "Bystreet",
       "Snowbase"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fed4b480637caee17ae069a28a213ccd475e64ee.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6032468c3c84f4f95dad9a7e1a2af0cc344d835.png",
     "website": "http://www.highintent.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
@@ -48678,7 +48635,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c7dda83aa113d5017c2cb187435ccccb356bd6a.png",
     "website": "https://autosana.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The AI QA agent for mobile teams. Add our agent to your mobile app repository and that's it.\r\n\r\nTurns natural language into E2E tests, eradicating manual testing and the need to write/maintain UX scripts. Seamlessly integrates into your CI, supports both iOS and Android, and is framework-agnostic (React Native, Flutter, Swift, etc).\r\n\r\nSaving your team hours and catching bugs before users do. ",
+    "long_description": "Autosana uses AI agents to save countless engineering hours and help teams ship with more confidence. \r\n\r\nTurns natural language into E2E tests, eradicating manual testing and the need to write/maintain UX scripts. Seamlessly integrates into your CI, supports both iOS and Android, and is framework-agnostic (React Native, Flutter, Swift, etc).\r\n\r\nCatching bugs before users do.",
     "one_liner": "AI Agents for Mobile QA",
     "team_size": 3,
     "industry": "B2B",
@@ -48686,8 +48643,9 @@
     "launched_at": 1751416575,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
-      "SaaS"
+      "SaaS",
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -50123,49 +50081,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mantle",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/mantle.json"
-  },
-  {
-    "id": 30999,
-    "name": "Claybird",
-    "slug": "claybird",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9529719c71a2b6a4f16690eb9667a824c2ab4d65.png",
-    "website": "https://claybird.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Claybird makes studio-quality video ads in under 72 hours for brands like Coca-Cola, Walmart, Eight Sleep, and Delve. \r\n\r\nClaybird’s AI agents use single-image NeRFs, fine-tuned image editing models, and eval layers for picture-perfect, consistent results at scale.\r\n",
-    "one_liner": "The full-stack AI ad agency",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1759979466,
-    "tags": [
-      "SaaS",
-      "Video",
-      "Marketing",
-      "Advertising",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/claybird",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/claybird.json"
   },
   {
     "id": 31008,
