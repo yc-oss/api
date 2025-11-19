@@ -6186,16 +6186,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We are combining synthetic biology and artificial intelligence to make cancer detection as easy as a pregnancy test. Cleancard's mission is to bring lab-grade diagnostics into the comfort of your home. Our novel method enables robust diagnostics and biomarker tracking from the urine. We are currently developing fully at-home, 30-minute tests for cancer using this methodology. We are constantly expanding the number of conditions we can detect from a single sample with our platform technology.",
     "one_liner": "Making cancer detection as easy as a pregnancy test",
-    "team_size": 15,
+    "team_size": 16,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Diagnostics",
     "launched_at": 1691571179,
     "tags": [
+      "Artificial Intelligence",
       "Computer Vision",
       "Biotech",
       "Healthcare",
-      "Diagnostics",
-      "AI"
+      "Diagnostics"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6211,7 +6211,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6494,16 +6494,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9099d64668ee675c725feb5d157da158b615724e.png",
     "website": "https://joingleam.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gleam is an AI platform that helps clinical research sites, sponsors, and CROs get to bring life-saving products to market faster.",
-    "one_liner": "AI for Clinical Research",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare",
+    "long_description": "Gleam automates data entry for clinical research sites.",
+    "one_liner": "AI Data Entry for Clinical Research",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1690443767,
     "tags": [
-      "Artificial Intelligence",
       "Biotech",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -6512,7 +6512,7 @@
     "batch": "Summer 2023",
     "status": "Active",
     "industries": [
-      "Healthcare"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -7583,16 +7583,16 @@
     "website": "https://refactor.co",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Refactor works closely with large organizations across healthcare, retail, and logistics to safely tackle their most ambitious AI use-cases in record time. We focus on building autonomous systems that call, click, and navigate legacy software systems. We have worked with companies serving tens of millions of customers and with $50B+ annual revenue. ",
-    "one_liner": "Helping enterprises build safe and compliant LLM apps/agents",
+    "one_liner": "Deploying secure and reliable AI agents across healthcare, retail,…",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1724647952,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Healthcare",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7627,20 +7627,17 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pharos automates hospital quality reporting, saving millions in labour costs and helping to prevent avoidable patient harm. \r\n\r\nToday, clinicians spend thousands of hours manually pulling complex facts out of medical records for mandatory reporting and quality improvement.\r\n\r\nOur AI pulls those facts out of unstructured medical records automatically. We automate reporting and show staff where avoidable patient harm is happening.",
     "one_liner": "Automate hospital reporting and prevent patient harm with AI",
-    "team_size": 3,
+    "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1722645222,
     "tags": [
-      "Health Tech",
-      "Digital Health",
-      "Healthcare",
-      "Healthcare IT",
-      "AI"
+      "Artificial Intelligence",
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -8537,54 +8534,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wedge",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/wedge.json"
-  },
-  {
-    "id": 30681,
-    "name": "Parachute",
-    "slug": "parachute",
-    "former_names": [
-      "Parachute",
-      "Parachute AI",
-      "Parachute",
-      "Parachute AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffdb102f014e8ce8401417ee051d9fbec55550e0.png",
-    "website": "https://parachute-ai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Parachute helps hospitals adopt AI safely and at scale. We vet AI tools that fill clinical gaps, run state-of-the-art evaluations, monitor every model for drift and compliance, and lock every decision in an immutable audit trail.",
-    "one_liner": "Infrastructure for hospitals to monitor and deploy clinical AI ",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1752533752,
-    "tags": [
-      "Health Tech",
-      "B2B",
-      "Healthcare",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parachute",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/parachute.json"
   },
   {
     "id": 30778,

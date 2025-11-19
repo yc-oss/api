@@ -6320,7 +6320,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -16605,14 +16605,14 @@
     "website": "https://www.nuanced.dev/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "We're building tools that combine static analysis with AI to obtain a deeper understanding of code behavior. By doing so, we help both humans and machines understand code behavior at a fundamental level.",
-    "one_liner": "Nuanced makes AI coding tools smarter with static analysis.",
+    "one_liner": "Nuanced makes AI coding agents and tools smarter with static analysis.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1705703098,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -22286,6 +22286,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/mohi.json"
   },
   {
+    "id": 30710,
+    "name": "mcp-use",
+    "slug": "mcp-use",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a3741e5c8fc7d9b30c081ec6b9b3a70e387566d.png",
+    "website": "https://mcp-use.com",
+    "all_locations": "",
+    "long_description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy custom AI agents with MCP servers. \r\nOur library has over 170,000 downloads and 7,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
+    "one_liner": "Open-source dev tools and infrastructure for MCP.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1752861544,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Open Source",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mcp-use",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/mcp-use.json"
+  },
+  {
     "id": 30756,
     "name": "Nottelabs",
     "slug": "nottelabs",
@@ -22714,7 +22756,7 @@
     "former_names": [
       "Remediate"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23447cb4c65dffc842d8078d9534fab1c71d7b30.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1852e5cb028f22711eec19617730fcb1dae1e9b4.png",
     "website": "https://soren-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren builds autonomous agents to replace human engineers on manual AI evaluation tasks.\r\n\r\nEvals are essential for building reliable AI systems, yet they remain incredibly time-consuming. Teams spend countless hours maintaining their evals and digging through piles of logs and traces to debug their systems. At scale, this level of manual work simply isn’t sustainable.\r\n\r\nSoren changes that with powerful agents that work alongside your team. They reason across test cases and logs to pinpoint root causes, then run targeted experiments to surface better-performing solutions. New test cases are added whenever new behaviors are detected, so engineers can stop doing ad-hoc maintenance.\r\n\r\nWe're building a future where AI handles the work and humans simply provide oversight.",

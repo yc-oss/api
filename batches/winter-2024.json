@@ -1224,14 +1224,14 @@
     "website": "https://www.nuanced.dev/",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "We're building tools that combine static analysis with AI to obtain a deeper understanding of code behavior. By doing so, we help both humans and machines understand code behavior at a fundamental level.",
-    "one_liner": "Nuanced makes AI coding tools smarter with static analysis.",
+    "one_liner": "Nuanced makes AI coding agents and tools smarter with static analysis.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1705703098,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -2347,24 +2347,26 @@
   },
   {
     "id": 29284,
-    "name": "Starlight Charging",
-    "slug": "starlight-charging",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ce99b082d93cdf76a1aadb5261e20db561d02df.png",
-    "website": "https://www.starlightcharging.com",
+    "name": "Avery",
+    "slug": "avery",
+    "former_names": [
+      "Starlight Charging",
+      "Avery HQ"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9858815bbd831276cdcb1d662f0a88316f786e6.png",
+    "website": "https://www.callavery.com",
     "all_locations": "Austin, TX, USA",
-    "long_description": "Starlight Charging offers ultra-low-cost EV-charging to condos and apartments. Our power-balancing software enables our network of installers to install chargers without expensive infrastructure upgrades, cutting the cost by 10x compared to any other option.\r\n\r\nThrough Starlight's Partner Program, electricians and small business owners can create their own charging network and generate passive income with owner-operated charging stations using Starlight battle-tested software.",
-    "one_liner": "Ultra-low-cost EV charging for condos and apartments",
+    "long_description": "Avery helps property managers fill vacancies faster and resolve maintenance requests automatically. Our AI property manager and leasing agents can be assigned to complete many common tasks, from getting tours scheduled to following up with vendors.  \r\n\r\nThere are nearly 300,000 third party property management companies across the US, many of whom are overwhelmed by dozens of repetitive tenant requests streaming in through antiquated software every day. Avery modernizes the property manager’s toolkit with a two-way contact center to provide an excellent resident experience.",
+    "one_liner": "AI Contact Center for Residential Property Managers",
     "team_size": 3,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Energy",
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
     "launched_at": 1705435157,
     "tags": [
+      "Artificial Intelligence",
+      "Real Estate",
       "Proptech",
-      "Climate",
-      "Energy",
-      "Electric Vehicles",
-      "Automotive"
+      "Telecommunications"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2373,8 +2375,8 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Energy"
+      "Real Estate and Construction",
+      "Housing and Real Estate"
     ],
     "regions": [
       "United States of America",
@@ -2385,8 +2387,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/starlight-charging",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/starlight-charging.json"
+    "url": "https://www.ycombinator.com/companies/avery",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/avery.json"
   },
   {
     "id": 29285,
@@ -4341,16 +4343,16 @@
     "all_locations": "",
     "long_description": "Tamarind Bio is a website and API which allows scientists to use computational biology tools at scale using a simple interface. On Tamarind, scientists can use ML models like AlphaFold to design and simulate molecules by simply selecting inputs instead of or setting up a high performance computing environment or dealing with DevOps.\r\n\r\n\r\nOur tools are used by thousands researchers in large pharma companies, top biotechs, and academic institutions. We currently focus on models in protein design and engineering, including for antibodies/therapeutics and enzymes.\r\n\r\n\r\nGet in touch at founders@tamarind.bio",
     "one_liner": "Easy to use computational biology tools for drug discovery",
-    "team_size": 4,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1702859345,
     "tags": [
       "AI-powered Drug Discovery",
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Biotech"
+      "Biotech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5600,11 +5602,11 @@
     "former_names": [
       "Superagent.sh"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3e5b6595eedce0fbf3857cfdf876dbd2f0d66a78.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5fb7dd012389ddf81869040550578bb786988ed.png",
     "website": "https://superagent.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superagent provides guardrails that make AI products secure and compliant.\r\n\r\nIt's a suite of purpose-trained small language models that run at runtime to protect, verify, and redact data flowing through AI systems.\r\n\r\n- GUARD detects and blocks unsafe inputs, prompt injections, and malicious tool calls before they reach your models\r\n- VERIFY grounds and validates outputs against enterprise sources to ensure every generation is factual and policy-aligned\r\n- REDACT removes sensitive data (PII, PHI, secrets) to maintain privacy and compliance\r\n\r\nSuperagent integrates via API, SDKs, CLI, MCP, and web Playground, with a unified dashboard for policies, logs, and compliance visibility.",
-    "one_liner": "Security and compliance for AI products",
+    "long_description": "Superagent identifies catastrophic failures in AI systems before they reach customers or regulators.\r\n\r\nWe run a fully managed test service that maps where your models, agents, and workflows can cause legal, security, or customer harm, then build and execute targeted test suites around those risks. The tests cover security, compliance, and product-critical failure modes, and produce structured, audit-ready evidence that enterprise buyers require.\r\n\r\nMost customers use Superagent to prove their AI products are safe to deploy and to maintain that assurance as the systems evolve.",
+    "one_liner": "Safety and compliance testing for AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
@@ -6915,7 +6917,7 @@
     "all_locations": "",
     "long_description": "Circleback helps teams get the most out of every conversation with best-in-class AI-powered meeting notes, action items, automations, and search.\r\n\r\nFor example, Circleback can automatically identify feature requests that come up in product demo calls and create Linear tasks for each of them, or update your CRM with customer details after a sales call.\r\n\r\nBefore Circleback, Ali led the first integration of LLMs into the Stripe support product and Kevin worked on predictive analytics at Tableau as a senior software engineer.",
     "one_liner": "AI-powered meeting notes and automations",
-    "team_size": 7,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1705519143,

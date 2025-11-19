@@ -3646,52 +3646,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/agenthub-2.json"
   },
   {
-    "id": 30681,
-    "name": "Parachute",
-    "slug": "parachute",
-    "former_names": [
-      "Parachute",
-      "Parachute AI",
-      "Parachute",
-      "Parachute AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffdb102f014e8ce8401417ee051d9fbec55550e0.png",
-    "website": "https://parachute-ai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Parachute helps hospitals adopt AI safely and at scale. We vet AI tools that fill clinical gaps, run state-of-the-art evaluations, monitor every model for drift and compliance, and lock every decision in an immutable audit trail.",
-    "one_liner": "Infrastructure for hospitals to monitor and deploy clinical AI ",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1752533752,
+    "id": 30710,
+    "name": "mcp-use",
+    "slug": "mcp-use",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a3741e5c8fc7d9b30c081ec6b9b3a70e387566d.png",
+    "website": "https://mcp-use.com",
+    "all_locations": "",
+    "long_description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy custom AI agents with MCP servers. \r\nOur library has over 170,000 downloads and 7,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
+    "one_liner": "Open-source dev tools and infrastructure for MCP.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1752861544,
     "tags": [
-      "Health Tech",
+      "Artificial Intelligence",
+      "Developer Tools",
       "B2B",
-      "Healthcare",
-      "Infrastructure",
-      "AI"
+      "Open Source",
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Healthcare",
-      "Healthcare IT"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parachute",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/parachute.json"
+    "url": "https://www.ycombinator.com/companies/mcp-use",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/mcp-use.json"
   },
   {
     "id": 30712,
@@ -4094,17 +4088,17 @@
     "website": "https://arcten.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Arcten makes companies AI-native, fast. Deploy AI agents globally on our edge runtime, embed anywhere in 5 lines of code, link proprietary knowledge sources in one click, and get out-of-the-box agent observability and analytics—all on one platform.",
-    "one_liner": "Building the platform for companies to ship AI agents fast",
+    "one_liner": "Ship AI agents without building infrastructure",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1761245566,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "API",
       "Enterprise",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
