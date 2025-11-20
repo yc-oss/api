@@ -2199,7 +2199,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2416,7 +2416,7 @@
     "all_locations": "",
     "long_description": "Circle Medical is a venture-backed Y-Combinator healthcare startup on a mission to bring quality, delightful primary care to everyone on the planet. Built by top-tier physicians, engineers, and designers, our medical practice and underlying technology have pioneered how people find and receive care.\r\n\r\nOur focus on building directly for our patients and providers to address serious care accessibility issues has enabled us to grow over 3X year-over-year. We’re now using our most recent round of funding from WELL Health, backed by Sir Li Ka-shing, to continue building out our hybrid in-clinic and telemedicine model across all fifty states.\r\n\r\nAs we enter the hypergrowth phase, we are looking for deeply motivated team players who are driven to solve some of the biggest challenges in healthcare so that people can live longer and healthier lives.\r\n\r\nMore about us can be found on our website!",
     "one_liner": "Modern primary care via video and in-person",
-    "team_size": 153,
+    "team_size": 235,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1430156123,
@@ -14510,7 +14510,7 @@
       "India",
       "South Asia"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22499,7 +22499,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24845,19 +24845,25 @@
   },
   {
     "id": 29643,
-    "name": "Clara",
-    "slug": "clara",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f6b06b1a3d9fa21d50da717df4b5634869f0342.png",
-    "website": "https://www.clarahomecare.com/",
+    "name": "Sage",
+    "slug": "sagecare",
+    "former_names": [
+      "Clara"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8391ef28b31f763fdf577fc8631f259459023eb8.png",
+    "website": "https://sagecare.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clara is Deel/Rippling for in-home senior care. We provide an all-in-one payroll, tax, and insurance platform for families to directly employ caregivers, and a marketplace for them to discover and match with their ideal caregiver from our network of hundreds of qualified local care providers.\r\n\r\nClara was founded by two former Uber colleagues who have experienced the challenges of managing care for a loved one personally, and are inspired by the opportunity to apply their tech backgrounds to solving the most widespread and impactful issues in the >$120B in-home care industry. \r\n\r\nClara's marketplace is currently live across California, delivering thousands of hours of care to families from a network of over 1,500 caregivers.",
-    "one_liner": "Helping families discover, hire, and manage in-home caregivers",
-    "team_size": 5,
+    "long_description": "Sage is a HIPAA compliant, AI-native communication platform that makes home care agency client-intake handling smarter, faster, and more reliable.\r\n\r\nTeams that use Sage can save over 100 minutes of busywork per prospect, freeing up their teams to manage a larger, faster growing business.",
+    "one_liner": "Automating home care agency operations with AI",
+    "team_size": 4,
     "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1722734654,
-    "tags": [],
+    "tags": [
+      "AIOps",
+      "Automation",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -24866,7 +24872,7 @@
     "status": "Active",
     "industries": [
       "Healthcare",
-      "Consumer Health and Wellness"
+      "Healthcare IT"
     ],
     "regions": [
       "United States of America",
@@ -24879,8 +24885,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/clara",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/clara.json"
+    "url": "https://www.ycombinator.com/companies/sagecare",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/sagecare.json"
   },
   {
     "id": 29679,

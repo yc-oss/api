@@ -11778,7 +11778,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -13277,6 +13277,54 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/100x",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/100x.json"
+  },
+  {
+    "id": 26877,
+    "name": "Peoplebox.ai",
+    "slug": "peoplebox",
+    "former_names": [
+      "Peoplebox Inc",
+      "Peoplebox"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d90945bbd65aa37022870fefcb46d282f82e8624.png",
+    "website": "https://www.peoplebox.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Peoplebox is a one-stop okr, performance management and employee engagement platform that deeply integrates with your current work tools. \r\n\r\nIt aligns OKRs, 1:1s, Performance Reviews and Compensation into a single platform to drive better execution, visibility, and team performance.\r\n\r\nPeoplebox integrates with all work tools (Slack, MS Teams, Workday, SQL, Jira, Asana, Hubspot, etc) to drive greater adoption of all business and HR processes and build an engaged and high performing culture with 90% less admin.",
+    "one_liner": "OKR, Performance and Engagement tool integrated with your worktools",
+    "team_size": 35,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1653465182,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Recruiting",
+      "HR Tech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/peoplebox",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/peoplebox.json"
   },
   {
     "id": 26890,
@@ -18016,6 +18064,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/dialtone.json"
   },
   {
+    "id": 28886,
+    "name": "Cardinal Gray",
+    "slug": "cardinal-gray",
+    "former_names": [
+      "Cardinal Gray Incorporated"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd23108e8186366e29a1827c228ceddd75097d20.png",
+    "website": "https://www.cardinalgray.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "When a lender gives out a car loan, they need to file a lien with their borrower’s DMV. This is difficult because the process varies by state and county. We’ve leveraged LLMs to help lenders automate lien filings for over $1B of loans.",
+    "one_liner": "Automating lenders' interactions with the DMV",
+    "team_size": 4,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1687970738,
+    "tags": [
+      "Artificial Intelligence",
+      "Enterprise Software",
+      "Consumer Finance",
+      "Automation",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cardinal-gray",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/cardinal-gray.json"
+  },
+  {
     "id": 28891,
     "name": "Cleancard",
     "slug": "cleancard",
@@ -18050,7 +18143,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18898,6 +18991,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/silimate",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/silimate.json"
+  },
+  {
+    "id": 29013,
+    "name": "Sweep",
+    "slug": "sweep",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/885d2be670d352a8d396403e926005fd75ce210b.png",
+    "website": "https://sweep.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Use your favorite JetBrains IDE without compromising on AI. Sweep is the best autocomplete and agent in JetBrains: https://plugins.jetbrains.com/plugin/26860-sweep-ai",
+    "one_liner": "The best AI coding assistant for JetBrains",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1684527271,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sweep",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/sweep.json"
   },
   {
     "id": 29018,
@@ -25490,6 +25624,57 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/gauge.json"
   },
   {
+    "id": 29695,
+    "name": "Dench.com",
+    "slug": "dench-com",
+    "former_names": [
+      "Merse",
+      "Merse Originals, Inc.",
+      "Merse",
+      "Dench.com",
+      "Dench"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72652345dd93303f8e5c34c9302bbaeac39647b7.png",
+    "website": "https://dench.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "An AI Workforce paired with an in-built CRM, that lives in your communication channels, is online forever, knows your everything about your business. and does the tasks on your behalf only so you can click \"Approve\" every morning.\r\n\r\nBuild you own AI employees today...\r\n- Lead intake via Voice / SMS / Email and then updating the Contact / Matter / Case in the CRM.\r\n- Connects with Gmail / Outlook for AI to write replies (in draft for you to review) all ready to send, for every email that deserves your reply, so you don't spend time writing emails anymore.\r\n- Handles outbound sales completely, scrapes all the leads there possibly are on the internet, phone books, data brokers, and contacts customers, chats back and forth with them at scale, infinitely, parallely all at once.\r\n- Writes daily/weekly/monthly briefings and reports based on all the new context there is on the CRM every day/week/month. It finds out insights you possibly couldn't have found by looking at it all manually.\r\n- Customer Research AI agents: find powerful POCs of a company, check through your LinkedIn connection tree to find out how far apart in mutual connections you are from them, research their background, and send out intro texts / emails / call agents to connect you with the POC.\r\n\r\nand so much more. Contact us for enterprise needs.",
+    "one_liner": "AI Workforce that does it all",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1720334032,
+    "tags": [
+      "Documents",
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Analytics",
+      "CRM"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/dench-com",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/dench-com.json"
+  },
+  {
     "id": 29697,
     "name": "Stormy AI",
     "slug": "stormy-ai",
@@ -25636,7 +25821,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "TaxGPT AI co-pilot for accountants and tax professionals increases tax firm's productivity and profitability by 10x by automating tax research, client communication, onboarding flows and secure document collection.",
     "one_liner": "AI tax assistant for professionals and businesses",
-    "team_size": 30,
+    "team_size": 28,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1724299254,
@@ -27168,7 +27353,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sepal is a data research company on a mission to advance human knowledge and capabilities through safe AI.\r\n\r\nWe partner with the world’s leading AI labs and enterprises to help their models get better at the tasks people actually want them to do.\r\n\r\nWe’ve built a Cloud-Native Agent Dataset Factory which turns the process of generating evaluation and training data from manual, inconsistent, and labor-intensive into something automated, standardized, and scalable.\r\n\r\nSepal AI was founded in 2024 by engineers and operators from Vercel and Turing. We went through Y Combinator, raised several million dollars from leading investors, and already count multiple Fortune 500s and top AI research labs as paying customers.",
     "one_liner": "Data Development for Advanced AI",
-    "team_size": 7,
+    "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1722966351,
@@ -29598,55 +29783,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/toothy-ai.json"
   },
   {
-    "id": 30222,
-    "name": "Altrina",
-    "slug": "altrina",
-    "former_names": [
-      "Symmetric Labs",
-      "Tessa",
-      "General Agency"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ee7aa773e16f7887979b0dcfa61db69ba9fd25.png",
-    "website": "https://altrina.com",
-    "all_locations": "Menlo Park, CA, USA",
-    "long_description": "We are building Altrina, a platform to solve the information and process bottlenecks in human organizations, so teams of 10,000 can operate with the efficiency of a startup.\r\n\r\nTo accomplish this, we've pioneered the concept of AI auto-alignment - the autonomous learning and continual application of user preferences for agentic processes.\r\n\r\nWe have already significantly improved organizational efficiency for local governments, law offices, insurance brokers, consulting firms, and hedge funds.\r\n\r\nFormerly General Agency/Tessa AI",
-    "one_liner": "The Operating System for Knowledge Work",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1736185270,
-    "tags": [
-      "Artificial Intelligence",
-      "Hard Tech",
-      "Reinforcement Learning",
-      "Automation",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/altrina",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/altrina.json"
-  },
-  {
     "id": 30226,
     "name": "Tejas AI",
     "slug": "tejas-ai",
@@ -31076,55 +31212,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/vantel.json"
   },
   {
-    "id": 30362,
-    "name": "Ambral",
-    "slug": "ambral",
-    "former_names": [
-      "Helium",
-      "Halidom",
-      "Helium",
-      "Ambral AI",
-      "Ambral",
-      "ambral"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
-    "website": "https://www.ambral.com/",
-    "all_locations": "",
-    "long_description": "We're an AI Account Management army.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
-    "one_liner": "AI-powerewd Account Managers",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1753910833,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Customer Success",
-      "Sales"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ambral",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/ambral.json"
-  },
-  {
     "id": 30365,
     "name": "Mentra",
     "slug": "mentra",
@@ -31568,7 +31655,7 @@
     "one_liner": "Evals and environments for computer use and software engineering work",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1745867856,
     "tags": [
       "Artificial Intelligence",
@@ -35869,6 +35956,51 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/brickwise.json"
   },
   {
+    "id": 30849,
+    "name": "MOVEdot",
+    "slug": "movedot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ded2bf087bf8cb3bfc1892bfe645a7a09f0b265.png",
+    "website": "https://www.movedot.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our platform allows hardware engineers to orchestrate agents for tasks such as analyzing failures across entire test campaigns, pulling the right data and KPIs from their databases, checking how conditions (like temperature or load) affect performance and reliability, and then document findings in reports and dashboards. Our agents provide up to 10x efficiency when analyzing collected data and internal documentation.",
+    "one_liner": "AI Agents for Hardware Engineering",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759431340,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Manufacturing",
+      "Automotive",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/movedot",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/movedot.json"
+  },
+  {
     "id": 30850,
     "name": "Zavo",
     "slug": "zavo",
@@ -37369,6 +37501,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/primer",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/primer.json"
+  },
+  {
+    "id": 30959,
+    "name": "Kalpa Labs",
+    "slug": "kalpa-labs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e2ae21e5585fe49cdcbe433b98758f630b57fe40.png",
+    "website": "https://kalpalabs.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We're building the next frontier of speech models. Generalist speech models that unlock in-context learning & strong instruction following for speech models alongside unifying existing speech capabilities like speech to text, text to speech, voice cloning, etc.",
+    "one_liner": "Scaling Generalist Speech models",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1759705278,
+    "tags": [
+      "Artificial Intelligence",
+      "Speech Recognition",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/kalpa-labs",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/kalpa-labs.json"
   },
   {
     "id": 30962,

@@ -8984,7 +8984,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11182,7 +11182,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Polymath is building a general autonomy stack for cautious vehicles.  Our software allows any industrial vehicle - whether it's a tractor in a field or a bulldozer in a mine, drive itself.  We bundle together AI, ML, Controls, ROS, Safety and best-in-class deployment practices to enable our customers to tell automated vehicles to do via a REST API.\r\n\r\nWe're on more robots than we have engineers, are seeing our revenue (and robotic fleet) grow rapidly, and are looking for folks who want to help automate the world.",
     "one_liner": "General Autonomy for Industrial Vehicles",
-    "team_size": 20,
+    "team_size": 13,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1659110769,
@@ -14865,51 +14865,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/dialtone.json"
   },
   {
-    "id": 28886,
-    "name": "Cardinal Gray",
-    "slug": "cardinal-gray",
-    "former_names": [
-      "Cardinal Gray Incorporated"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd23108e8186366e29a1827c228ceddd75097d20.png",
-    "website": "https://www.cardinalgray.com/",
-    "all_locations": "New York, NY, USA",
-    "long_description": "When a lender gives out a car loan, they need to file a lien with their borrower’s DMV. This is difficult because the process varies by state and county. We’ve leveraged LLMs to help lenders automate lien filings for over $500M of loans.",
-    "one_liner": "Automating lenders' interactions with the DMV",
-    "team_size": 4,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Credit and Lending",
-    "launched_at": 1687970738,
-    "tags": [
-      "Enterprise Software",
-      "Consumer Finance",
-      "Automation",
-      "AI",
-      "Automotive"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Credit and Lending"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cardinal-gray",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/cardinal-gray.json"
-  },
-  {
     "id": 28887,
     "name": "Skyvern",
     "slug": "skyvern",
@@ -15675,47 +15630,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/envelope",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/envelope.json"
-  },
-  {
-    "id": 29013,
-    "name": "Sweep",
-    "slug": "sweep",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/885d2be670d352a8d396403e926005fd75ce210b.png",
-    "website": "https://sweep.dev/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Use your favorite JetBrains IDE without compromising on AI. Sweep is the best autocomplete and agent in JetBrains: https://plugins.jetbrains.com/plugin/26860-sweep-ai",
-    "one_liner": "The best AI coding assistant for JetBrains",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1684527271,
-    "tags": [
-      "Developer Tools",
-      "AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sweep",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/sweep.json"
   },
   {
     "id": 29018,
@@ -19601,7 +19515,7 @@
     "all_locations": "",
     "long_description": "Every time workers in a warehouse box an order, they reference a 100 page manual with instructions like where to put the shipping label. RetailReady replaces the instruction manual with a tablet application.",
     "one_liner": "An AI-powered supply chain compliance engine",
-    "team_size": 6,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1705423924,
@@ -20286,6 +20200,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/bayesline.json"
   },
   {
+    "id": 29643,
+    "name": "Sage",
+    "slug": "sagecare",
+    "former_names": [
+      "Clara"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8391ef28b31f763fdf577fc8631f259459023eb8.png",
+    "website": "https://sagecare.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sage is a HIPAA compliant, AI-native communication platform that makes home care agency client-intake handling smarter, faster, and more reliable.\r\n\r\nTeams that use Sage can save over 100 minutes of busywork per prospect, freeing up their teams to manage a larger, faster growing business.",
+    "one_liner": "Automating home care agency operations with AI",
+    "team_size": 4,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1722734654,
+    "tags": [
+      "AIOps",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sagecare",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/sagecare.json"
+  },
+  {
     "id": 29646,
     "name": "Corgi",
     "slug": "corgi",
@@ -20727,57 +20686,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/camfer",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/camfer.json"
-  },
-  {
-    "id": 29695,
-    "name": "Dench.com",
-    "slug": "dench-com",
-    "former_names": [
-      "Merse",
-      "Merse Originals, Inc.",
-      "Merse",
-      "Dench.com",
-      "Dench"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/72652345dd93303f8e5c34c9302bbaeac39647b7.png",
-    "website": "https://dench.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "An AI Workforce paired with an in-built CRM, that lives in your communication channels, is online forever, knows your everything about your business. and does the tasks on your behalf only so you can click \"Approve\" every morning.\r\n\r\nBuild you own AI employees today...\r\n- Lead intake via Voice / SMS / Email and then updating the Contact / Matter / Case in the CRM.\r\n- Connects with Gmail / Outlook for AI to write replies (in draft for you to review) all ready to send, for every email that deserves your reply, so you don't spend time writing emails anymore.\r\n- Handles outbound sales completely, scrapes all the leads there possibly are on the internet, phone books, data brokers, and contacts customers, chats back and forth with them at scale, infinitely, parallely all at once.\r\n- Writes daily/weekly/monthly briefings and reports based on all the new context there is on the CRM every day/week/month. It finds out insights you possibly couldn't have found by looking at it all manually.\r\n- Customer Research AI agents: find powerful POCs of a company, check through your LinkedIn connection tree to find out how far apart in mutual connections you are from them, research their background, and send out intro texts / emails / call agents to connect you with the POC.\r\n\r\nand so much more. Contact us for enterprise needs.",
-    "one_liner": "AI Workforce that does it all",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1720334032,
-    "tags": [
-      "Documents",
-      "Workflow Automation",
-      "Analytics",
-      "CRM",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/dench-com",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/dench-com.json"
   },
   {
     "id": 29702,
@@ -24632,6 +24540,55 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/verbiflow.json"
   },
   {
+    "id": 30222,
+    "name": "Altrina",
+    "slug": "altrina",
+    "former_names": [
+      "Symmetric Labs",
+      "Tessa",
+      "General Agency"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ee7aa773e16f7887979b0dcfa61db69ba9fd25.png",
+    "website": "https://altrina.com",
+    "all_locations": "Menlo Park, CA, USA",
+    "long_description": "We are building Altrina, a platform to solve the information and process bottlenecks in human organizations, so teams of 10,000 can operate with the efficiency of a startup.\r\n\r\nTo accomplish this, we've pioneered the concept of AI auto-alignment - the autonomous learning and continual application of user preferences for agentic processes. We've built a platform for back offices and operations teams that automates workflows and can be customized in minutes, not months.\r\n\r\nWe have already significantly improved organizational efficiency for local governments, law offices, insurance brokers, consulting firms, and hedge funds.\r\n\r\nFormerly General Agency/Tessa AI",
+    "one_liner": "The Operating System for Knowledge Work",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1736185270,
+    "tags": [
+      "Hard Tech",
+      "Reinforcement Learning",
+      "Automation",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/altrina",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/altrina.json"
+  },
+  {
     "id": 30223,
     "name": "a0.dev",
     "slug": "a0-dev",
@@ -26048,6 +26005,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fluidize",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/fluidize.json"
+  },
+  {
+    "id": 30362,
+    "name": "Ambral",
+    "slug": "ambral",
+    "former_names": [
+      "Helium",
+      "Halidom",
+      "Helium",
+      "Ambral AI",
+      "Ambral",
+      "ambral"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c1261383b7f5f7d5fcba63a49453bf6d9148fcfc.png",
+    "website": "https://www.ambral.com/",
+    "all_locations": "",
+    "long_description": "We're an AI Account Management army.\r\n\r\nAmbral synthesizes signals from all customer activity and interactions into AI-powered models of every account. It pinpoints who needs attention and why, and autonomously takes the best next action to drive expansions, prevent churn, and ensure no customer slips through the cracks. \r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. \r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. ",
+    "one_liner": "AI Account Managers",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1753910833,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Customer Success",
+      "Sales",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ambral",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/ambral.json"
   },
   {
     "id": 30400,
@@ -29963,8 +29969,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a100705513555f60b674edacd7874b01e7bef2df.png",
     "website": "https://www.digipals.app/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Social media has become more media and less social. When I open up Facebook and Instagram, I don’t see any of my friends on it anymore - it’s one third ads, one third content from strangers on the internet, and one third AI slop. My friends are no longer on social media - I either meet up with them IRL or catch up with them in group chats.\r\n\r\nLaunch Video\r\nhttps://youtu.be/KW2tjLl6sxM \r\n\r\nWe’re building the future of social in the age of AI where digipals (ambient ai agents that have full context over your location, calendar, group chats, photos, and relationship history with your friends) act as the atomic units of human coordination. Your digipal gets full context over who you are, when you're available, and what you like. It then talks with your friends’ digipals to suggest hangouts when everyone is free, find restaurants and coffee shops nearby, make dinner reservations using AI calls, split bills based on the receipt, and nudge posting photo memories after hanging out.\r\n\r\nBy removing the friction for human connection, we believe that AI can be used to deepen human relationships by allowing us to spend more time with friends IRL and through staying close to their life updates and memories in group chats.",
-    "one_liner": "Building the Future of Social in the Age of AI",
+    "long_description": "Social networks are dead. Social media became more media than social. My friends aren't on social media anymore - it's one third ads, one third content from strangers, and one third AI slop. Our social lives are fragmented across dozens of apps: WhatsApp, Instagram, Find My, Google Calendar, Splitwise. We're building Digipals: ambient AI agents that live in your group chats with full context over your location, calendar, relationships, and photos, that write code to generate custom widgets to help us build better friendships. Digipals is the first AI-native social operating system and the last social platform anyone will ever need.\r\n\r\nLaunch Video\r\nhttps://youtu.be/KW2tjLl6sxM ",
+    "one_liner": "Building the future of Social in the age of AI",
     "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Social",
@@ -30168,50 +30174,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/structured-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/structured-ai.json"
-  },
-  {
-    "id": 30849,
-    "name": "MOVEdot",
-    "slug": "movedot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b630790318ee271fefdcad27aee6e1409b369d3a.png",
-    "website": "https://www.movedot.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Our platform allows engineers to automate the post processing of sensor data then teach an army of AI agents how to interpret them and find correlations / causations for their specific niche.",
-    "one_liner": "AI Agents for Sensor Data Analysis",
-    "team_size": 10,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1759431340,
-    "tags": [
-      "Manufacturing",
-      "AI",
-      "Automotive",
-      "Industrial"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/movedot",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/movedot.json"
   },
   {
     "id": 30858,
@@ -31359,46 +31321,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sourcebot",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sourcebot.json"
-  },
-  {
-    "id": 30959,
-    "name": "Kalpa Labs",
-    "slug": "kalpa-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed843493a1f155b6b3563dc2e5494c78ea6cdaa0.png",
-    "website": "https://kalpalabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're building the next frontier of speech models. Generalist speech models that unlock in-context learning & strong instruction following for speech models alongside unifying existing speech capabilities like speech to text, text to speech, voice cloning, etc.",
-    "one_liner": "Scaling Generalist Speech models",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1759705278,
-    "tags": [
-      "Speech Recognition",
-      "AI",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kalpa-labs",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/kalpa-labs.json"
   },
   {
     "id": 30961,

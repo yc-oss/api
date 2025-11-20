@@ -15911,8 +15911,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1684527271,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -17585,19 +17585,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3d7390c9fddfe9a6cf41b3b323ffc04d09432fa0.png",
     "website": "https://www.bilanc.co",
-    "all_locations": "London, England, United Kingdom",
+    "all_locations": "",
     "long_description": "The AI Engineering Productivity Platform",
     "one_liner": "The AI Engineering Productivity Platform",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1701093428,
-    "tags": [
-      "SaaS",
-      "B2B",
-      "Analytics",
-      "DevOps"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -17609,8 +17604,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United Kingdom",
-      "Europe"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -19134,7 +19128,7 @@
     "all_locations": "",
     "long_description": "rl. interp. alignment. data.",
     "one_liner": "Look inside the model",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725040353,
@@ -22227,7 +22221,7 @@
     "one_liner": "Evals and environments for computer use and software engineering work",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Recruiting and Talent",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1745867856,
     "tags": [
       "Artificial Intelligence",
@@ -23735,18 +23729,19 @@
     "name": "MOVEdot",
     "slug": "movedot",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b630790318ee271fefdcad27aee6e1409b369d3a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ded2bf087bf8cb3bfc1892bfe645a7a09f0b265.png",
     "website": "https://www.movedot.ai/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Our platform allows engineers to automate the post processing of sensor data then teach an army of AI agents how to interpret them and find correlations / causations for their specific niche.",
-    "one_liner": "AI Agents for Sensor Data Analysis",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our platform allows hardware engineers to orchestrate agents for tasks such as analyzing failures across entire test campaigns, pulling the right data and KPIs from their databases, checking how conditions (like temperature or load) affect performance and reliability, and then document findings in reports and dashboards. Our agents provide up to 10x efficiency when analyzing collected data and internal documentation.",
+    "one_liner": "AI Agents for Hardware Engineering",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1759431340,
     "tags": [
+      "Artificial Intelligence",
+      "Hardware",
       "Manufacturing",
-      "AI",
       "Automotive",
       "Industrial"
     ],
@@ -23764,7 +23759,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -24458,5 +24453,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jsx-tool",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/jsx-tool.json"
+  },
+  {
+    "id": 31057,
+    "name": "Valgo",
+    "slug": "valgo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c34fbe5d783459ff37f7c664b24ff15cf5e7843.png",
+    "website": "https://valgo.dev",
+    "all_locations": "San Mateo, CA, USA",
+    "long_description": "As autonomy moves into complex safety-critical domains (e.g., aviation), failures become more costly and companies must devote significant in-house effort to validate their system before real-world deployment. Valgo accelerates autonomous systems development and certification by providing tooling to perform algorithmic safety validation at scale. We are building a platform to efficiently find rare and realistic failure events in simulation at a fraction of the compute cost required by existing approaches. Our tools are agnostic to models/simulators (i.e., black box) and can be applied across industries such as autonomous vehicles, aviation, robotics, space, defense, energy, and finance.\r\n\r\nValgo is founded by Stanford PhDs who wrote the textbook and taught the course at Stanford on algorithmic safety validation. We also have significant industry experience working on an FAA-certified collision avoidance system at MIT Lincoln Laboratory, validating autonomous aircraft at Xwing, and collaborating with industry sponsors across transportation, aviation, and energy.",
+    "one_liner": "Algorithmic safety validation tools for autonomy.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1763584142,
+    "tags": [
+      "Robotics",
+      "B2B",
+      "Aerospace",
+      "Trust & Safety",
+      "Self-Driving Vehicles"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/valgo",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/valgo.json"
   }
 ]
