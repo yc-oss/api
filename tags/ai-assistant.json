@@ -325,15 +325,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/df9cac4be6a65c842360b6e500df9d1f0805f3c9.png",
     "website": "https://plotdrive.com",
     "all_locations": "Los Angeles, CA, USA",
-    "long_description": "We're building the world's first AI that actually remembers your entire book - an intelligent writing companion that transforms how stories get finished. Our mission is to solve the #1 reason books die unfinished: writers losing track of their own stories across hundreds of pages. Founded by brothers who've pushed creative boundaries across poker, VR gaming, and interactive storytelling, we combine deep technical expertise with an obsessive focus on what writers actually need. Our CEO, a former world-class poker player, brings the same strategic depth that won millions to ensuring every writer can finally type \"The End.\" We're a team of rebellious optimists who've already helped authors break through decade-long blocks and publish books they thought would never see the light of day. The printing press gave stories reach. We're giving them wings.",
-    "one_liner": "AI that remembers your book & writes like you",
+    "long_description": "Plotdrive is the first continuous production system for narrative — infrastructure that transforms how long-form stories move from imagination to completion. Most books don’t fail for lack of talent; they fail when the workflow collapses somewhere between page 80 and page 300.\r\n\r\nFounded by brothers with backgrounds in high-stakes poker, VR, and narrative systems, we built what we couldn’t find: an engine that holds the entire shape of a story while authors work inside it. Writers see 4–5× gains in throughput without losing their voice. Manuscripts that sat untouched for years finally reach the finish line. Authors are using Plotdrive to break decade-long blocks. Publishers are using it to rethink how story pipelines should operate when continuity, context, and editorial craft can finally scale.\r\n\r\nThe printing press made distribution industrial. We’re making completion industrial — creating the foundational layer for how narrative gets made at scale.",
+    "one_liner": "AI that remembers your book and helps you finish it",
     "team_size": 4,
-    "industry": "Consumer",
+    "industry": "B2B",
     "subindustry": "Consumer -> Content",
     "launched_at": 1556041719,
     "tags": [
       "Entertainment",
-      "Marketing",
+      "Media",
       "Creator Economy",
       "AI",
       "AI Assistant"
@@ -345,8 +345,7 @@
     "batch": "Summer 2019",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Content"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -1678,6 +1677,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nophin",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/nophin.json"
+  },
+  {
+    "id": 26016,
+    "name": "Finku",
+    "slug": "finku",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd2fc34605d4558d713fd1df46893a192df5b825.png",
+    "website": "http://finku.id",
+    "all_locations": "Jakarta, Jakarta, Indonesia",
+    "long_description": "Finku is an AI powered personal finance app (budget & money manager) focused on geographies without Open Banking, such as Indonesia. \r\n\r\nFinku makes it easy for users to learn about their spending behaviors and recommends ways for user to achieve their goals faster (i.e saving more, etc.). Finku has helped 1 million Indonesian by offering a more seamless and innovative method of storing financial transactions, by processing these data-points & offering insightful suggestions for users, by providing access to a virtual financial assistant, hence creating a rewarding & sticky experience for our users.\r\n\r\nFinku is backed by B Capital, Partech, Golden Gate Ventures, Goodwater Capital, Trihill Capital and YCombinator.",
+    "one_liner": "AI powered personal finance app for Indonesia",
+    "team_size": 20,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1640796466,
+    "tags": [
+      "Fintech",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "Indonesia",
+      "Southeast Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/finku",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/finku.json"
   },
   {
     "id": 26052,
@@ -3909,7 +3949,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
