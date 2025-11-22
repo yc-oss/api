@@ -2479,6 +2479,43 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2015/reach.json"
   },
   {
+    "id": 902,
+    "name": "Verge Genomics",
+    "slug": "verge-genomics",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c4cfdad3584cced8a30fec859292e2380372a30d.png",
+    "website": "http://vergegenomics.com",
+    "all_locations": "",
+    "long_description": "Verge uses artificial intelligence and human data to develop better drugs faster. Verge has an end-to-end technology-driven drug discovery and development platform, featuring one of the field’s largest and most comprehensive proprietary patient genomics datasets from human tissue. Verge uses machine learning to mine this data and develops these insights into new drugs using it’s human-centric biology and chemistry platforms. ",
+    "one_liner": "We use human data and AI to develop better drugs faster.",
+    "team_size": 50,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Drug Discovery and Delivery",
+    "launched_at": 1430156118,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2015",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Drug Discovery and Delivery"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/verge-genomics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2015/verge-genomics.json"
+  },
+  {
     "id": 913,
     "name": "Drip Capital",
     "slug": "drip-capital",
@@ -9898,7 +9935,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11692,6 +11729,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/directshifts",
     "api": "https://yc-oss.github.io/api/batches/summer-2019/directshifts.json"
+  },
+  {
+    "id": 12675,
+    "name": "Wasmer",
+    "slug": "wasmer",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe488b892d71890ae82f8d4a1420433b33d6b741.png",
+    "website": "https://wasmer.io",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "We are working on the software that will power the next generation of Cloud Computing (Edge Computing) platforms using WebAssembly.\r\n\r\nYou can see us as a mix between Docker (but 100x more performant in startup time, and with 100x more lightweight containers), npm (we released the first WebAssembly package manager: wapm.io) and the JVM (but more universal).",
+    "one_liner": "The Operating System for Edge Computing",
+    "team_size": 11,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1556823526,
+    "tags": [
+      "Developer Tools",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2019",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/wasmer",
+    "api": "https://yc-oss.github.io/api/batches/summer-2019/wasmer.json"
   },
   {
     "id": 12711,
@@ -14445,7 +14524,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15047,6 +15126,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shuttle",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/shuttle.json"
+  },
+  {
+    "id": 21795,
+    "name": "QuestDB",
+    "slug": "questdb",
+    "former_names": [
+      "QuestDB Limited"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3aef5c655cdc851ccad387554c204466a87669e7.png",
+    "website": "https://questdb.io/",
+    "all_locations": "London, England, United Kingdom; Remote",
+    "long_description": "QuestDB is a high-performance, open-source database for time series data. It focuses on fast ingest, blazingly fast queries and superior developer experience with SQL and open formats.\r\n\r\nQuestDB is designed from the ground up to operate as close to the hardware as possible -- eliminating ingestion bottlenecks and lowering overall hardware requirements.\r\n\r\nQuestDB powers the infrastructure for companies in Financial Services, Crypto/Web3, Space Exploration, and Energy/Renewables.",
+    "one_liner": "The fastest open source time series database",
+    "team_size": 30,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1593714682,
+    "tags": [
+      "Developer Tools",
+      "Analytics",
+      "Open Source",
+      "Time Series"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2020",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/questdb",
+    "api": "https://yc-oss.github.io/api/batches/summer-2020/questdb.json"
   },
   {
     "id": 21799,
@@ -18026,59 +18151,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/spruceid",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/spruceid.json"
-  },
-  {
-    "id": 22717,
-    "name": "Avocado",
-    "slug": "avocado",
-    "former_names": [
-      "Instamenu",
-      "Avocado",
-      "Avocado (prev Instamenu)",
-      "Avocado",
-      "Avocado (prev Instamenu)",
-      "Avocado",
-      "Avocado (prev Instamenu)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee598c4bd559ee64f6fb65373d9e54f75eda4260.png",
-    "website": "https://avocadopos.com",
-    "all_locations": "Austin, TX, USA",
-    "long_description": "Avocado is a modern point-of-sale system for restaurants, powered by a built-in AI agent. More than just a POS, Avocado combines order management, KDS, kiosks, and online ordering in one platform - and lets restaurants control everything with simple voice or text commands. Want to change your menu, check your sales, or optimize pricing? Just ask. Avocado’s AI understands your business and takes action instantly, freeing up owners and staff to focus on what matters most: great food and service.",
-    "one_liner": "Restaurant POS with built-in AI agent",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Retail",
-    "launched_at": 1614625915,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Generative AI",
-      "Restaurant Tech",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2021",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Retail"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avocado",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/avocado.json"
   },
   {
     "id": 22719,
@@ -26864,48 +26936,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/kaso.json"
   },
   {
-    "id": 25447,
-    "name": "Myria",
-    "slug": "myria",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ead23204732cf71066d05d95b633fe5109de70e7.png",
-    "website": "https://myria.us",
-    "all_locations": "Los Angeles, CA, USA; Remote",
-    "long_description": "Myria is a private community and concierge for off-market goods & services — the things you can't Google. \r\n\r\nUltra-high net worth individuals spend $390 billion per year ($1.3 million each) on lifestyle, but they still struggle to find everything they want. Why?\r\n\r\nBecause the best of any category — homes, boats, restaurant reservations — the best stuff is never listed online. Likewise, the best people don’t need the internet to find a new client or job. \r\n\r\nThe best is always off-market.  Myria is the Off-Marketplace. \r\n\r\nMyria helps off-market sellers reach the nicest and wealthiest buyers. In turn, we help the world’s most successful people access the best of everything, give back, and get the most out of life. \r\n\r\nIf it’s off-market, it’s on Myria! ",
-    "one_liner": "A marketplace of luxury services for the ultra-wealthy",
-    "team_size": 7,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1647814152,
-    "tags": [
-      "Marketplace",
-      "Consumer",
-      "Community"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/myria",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/myria.json"
-  },
-  {
     "id": 25472,
     "name": "Ozone",
     "slug": "ozone",
@@ -28442,7 +28472,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -29769,6 +29799,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openbuilder",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/openbuilder.json"
+  },
+  {
+    "id": 26147,
+    "name": "Cofactr",
+    "slug": "cofactr",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/39a586314e7bd62c08d22961d04f803a003c805f.png",
+    "website": "https://www.cofactr.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Innovative hardware teams use Cofactr to scale their electronic hardware from BOM through production, replacing spreadsheets and shelves with insights and on-demand infrastructure.\r\n\r\nWe're a Y Combinator W22 company with growing revenue and backed with significant venture funding from VCs like Bain Capital Ventures.",
+    "one_liner": "Cloud pre-factory logistics and procurement for electronics",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1642458035,
+    "tags": [
+      "Hardware",
+      "B2B",
+      "Logistics",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cofactr",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/cofactr.json"
   },
   {
     "id": 26254,
@@ -33664,6 +33738,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/finvest.json"
   },
   {
+    "id": 27673,
+    "name": "Reflex",
+    "slug": "reflex",
+    "former_names": [
+      "Pynecone"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/677513c7f80f22199de3136c5024581799a126f2.png",
+    "website": "https://reflex.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Reflex is an AI app builder for creating production-grade web apps entirely in Python, powered by its own open-source framework.\r\n\r\nPython is one of the most popular programming languages in the world, and web development is one of the most popular applications of programming. So why can’t we make full-stack web apps using just Python? \r\n\r\nWith Reflex, you just connect your data and enter a prompt. It generates production-ready apps that integrate any data source, API, or Python package. \r\n\r\nFounded by Nikhil Rao and  Alek Petuskey, Reflex has over 1 million apps created, 27k GitHub stars, and has been used by 30% of Fortune 500 companies for internal tools and data-driven applications.",
+    "one_liner": "Reflex is an AI app builder for creating production-grade web apps…",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1674447011,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Web Development",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/reflex",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/reflex.json"
+  },
+  {
     "id": 27674,
     "name": "OneText",
     "slug": "onetext",
@@ -34544,7 +34663,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Tennr is solving the black hole problem in healthcare by leveraging models to digitize the flow of paperwork between healthcare providers.\r\n--\r\nToday, when you go to your doctor and need to be referred to a specialist (e.g., for sleep apnea), your doctor sends a fax (yes, in 2024, 90% of provider-provider communication is a 1980s fax). These are often converted into 20+ page PDFs, with handwritten (doctor’s handwriting!) notes, in thousands of different formats. The problem is so complex that a person has to read it, type it up, and manually enter your information. Tennr built RaeLM™ (7B—trained on 3M+ documents) to read these docs, talk to your doc to ensure nothing is missed, and text you to help schedule your appointment so you can get better, faster.\r\n",
     "one_liner": "Fast, Transparent Patient Experiences",
-    "team_size": 85,
+    "team_size": 135,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1676577561,
@@ -34564,7 +34683,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -35440,49 +35559,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/storyboarder",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/storyboarder.json"
-  },
-  {
-    "id": 27911,
-    "name": "IcePanel",
-    "slug": "icepanel",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7373c1adcb59518de3f0525b2829a0ed7943e0a3.png",
-    "website": "https://icepanel.io",
-    "all_locations": "North Vancouver, BC, Canada",
-    "long_description": "IcePanel is a collaborative diagramming tool that helps software engineering and product teams align on technical decisions. Teams use IcePanel to create a map of their software systems, giving them full context about how it works.",
-    "one_liner": "Design and explain complex software architecture.",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1669087724,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Collaboration",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Canada",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/icepanel",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/icepanel.json"
   },
   {
     "id": 27919,
@@ -36635,15 +36711,15 @@
     "website": "https://withbenchmark.com/",
     "all_locations": "New York, NY, USA",
     "long_description": "Benchmark is the trusted AI platform for investment firms. Today, leading firms use Benchmark to screen deals, extract insights from unstructured data, and automate workflows. Our platform combines cutting-edge AI with deep industry expertise to help investment firms make smarter, faster decisions across their entire deal lifecycle.",
-    "one_liner": "The trusted AI platform for investment firms",
+    "one_liner": "Decision infrastructure for investment firms",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1673633463,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Finance",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -38683,7 +38759,7 @@
       "SuperCraft",
       "Ponder"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/58f45e57c8a576ab6733463cd4c71ef2788b69e8.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b6e756502dc5f4b2e2648f538d38a846286de5a.png",
     "website": "https://supercraft.ai",
     "all_locations": "New York, NY, USA",
     "long_description": "SuperCraft is a generative AI software for teams building physical products\r\n\r\nWe help businesses securely use generative AI capabilities across their design departments for faster design exploration and visualization of physical products\r\n\r\nFortune 500 companies are using SuperCraft to create new product designs, and visualize how their product will look like in a real scenario, before actually building it, and treat the design boards as a shared source of truth that all teams involved can collaborate and provide feedback on - resulting in faster design reviews, more creative exploration, and faster time to market.",
@@ -38693,11 +38769,11 @@
     "subindustry": "B2B",
     "launched_at": 1688534176,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Productivity",
       "Design",
-      "Media",
-      "AI"
+      "Media"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40839,7 +40915,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -42706,6 +42782,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/paradigm.json"
   },
   {
+    "id": 29288,
+    "name": "Arini",
+    "slug": "arini",
+    "former_names": [
+      "HireAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1592d841d2bf7a7c1bbe388bce6eed056114383b.png",
+    "website": "https://www.arini.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Arini, we’re building the operating system for dental groups. Phones are the backbone of dental operations — 80% of appointments are still booked over the phone — yet practices miss 20–30% of inbound calls. That’s millions in lost revenue every month.\r\n\r\nPatient engagement is the biggest bottleneck to growth in dentistry, and we’ve built the most comprehensive AI-powered patient engagement suite in the industry. Arini manages calls, texts, and bookings.\r\n\r\nWe’re going after a $220B, overlooked industry that still runs on legacy systems and outdated workflows. Arini is bringing AI to every part of the dental stack.",
+    "one_liner": "AI receptionist for dentists",
+    "team_size": 10,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1708365250,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Dental",
+      "Call Center",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arini",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/arini.json"
+  },
+  {
     "id": 29290,
     "name": "FurtherAI",
     "slug": "furtherai",
@@ -43683,8 +43804,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9efd3b7815df44b6aca06023be3c607e3a345ee5.png",
     "website": "https://codeant.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "CodeAnt AI cuts manual code review time and bugs by over 50%. \r\n- Gives One-click fixes for code quality and security issues\r\n- Works with all languages, IDEs, and CI/CD tools\r\n- Supports GitHub, GitLab, Bitbucket, Azure DevOps (Cloud & Self-Hosted)\r\n- SOC 2 & HIPAA compliant",
-    "one_liner": "AI Code Review Platform",
+    "long_description": "CodeAnt AI is the Code Health platform built for the AI era.\r\n\r\nWe bring AI Code Review, Code Security, Code Quality, and Engineering Metrics into one unified platform, so engineering teams can ship faster, safer, and with confidence.\r\n\r\nCodeAnt AI understands your entire codebase.\r\n\r\nWorks with GitHub, GitLab (Cloud & Self-Hosted), Bitbucket, Azure DevOps, all IDEs, and CI/CD tools. Supports all languages and monorepos.\r\n\r\nTrusted by startups and global enterprises including Commvault, to improve code health and reduce review time by 80%.\r\n\r\nSOC 2 Type II & HIPAA compliant.\r\nWe never train on customer code.",
+    "one_liner": "AI Code Health Platform",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -47451,7 +47572,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -49653,14 +49774,14 @@
     "website": "https://pharos.health/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pharos automates hospital quality reporting, saving millions in labour costs and helping to prevent avoidable patient harm. \r\n\r\nToday, clinicians spend thousands of hours manually pulling complex facts out of medical records for mandatory reporting and quality improvement.\r\n\r\nOur AI pulls those facts out of unstructured medical records automatically. We automate reporting and show staff where avoidable patient harm is happening.",
-    "one_liner": "Automate hospital reporting and prevent patient harm with AI",
+    "one_liner": "Helping hospitals identify and prevent avoidable harm using AI",
     "team_size": 5,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1722645222,
     "tags": [
-      "Artificial Intelligence",
-      "Healthcare"
+      "Healthcare",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54589,42 +54710,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/artifact-2.json"
   },
   {
-    "id": 30356,
-    "name": "Fira",
-    "slug": "fira",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8180359e4edaaddd169f88aafc0eb2338fe0116f.png",
-    "website": "https://firaresearch.com/",
-    "all_locations": "",
-    "long_description": "Fira accelerates financial research for investment analysts by instantly searching and analyzing thousands of pages of company filings and earnings reports, delivering source-cited answers and verifiable calculations.\r\n\r\nOur mission is to build a comprehensive research platform that integrates seamlessly with internal and external data sources, handles research and analysis, generates investment documents, and automates repetitive workflows. This frees investment professionals to focus on what matters most: building relationships and making strategic decisions.",
-    "one_liner": "Financial research platform for investment firms",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
-    "launched_at": 1736800806,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Finance and Accounting"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fira",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/fira.json"
-  },
-  {
     "id": 30364,
     "name": "Wayline",
     "slug": "wayline",
@@ -56120,10 +56205,9 @@
     "subindustry": "B2B",
     "launched_at": 1747424808,
     "tags": [
-      "Marketing",
-      "Advertising",
-      "SEO",
-      "AI"
+      "Artificial Intelligence",
+      "Sales",
+      "SEO"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -57819,6 +57903,42 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/finto-de.json"
   },
   {
+    "id": 30717,
+    "name": "Iron Grid",
+    "slug": "iron-grid",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74e6bdb4c255f21276dac2d593eebde20bf29b57.png",
+    "website": "https://getirongrid.com/",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "AI Insurance for hardware.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1754064844,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/iron-grid",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/iron-grid.json"
+  },
+  {
     "id": 30724,
     "name": "Risely AI",
     "slug": "risely-ai",
@@ -58859,42 +58979,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bolna-ai.json"
   },
   {
-    "id": 30914,
-    "name": "Sunflower",
-    "slug": "sunflower",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0205358bcacb803d2d20a6f091abad1460fc2bde.png",
-    "website": "https://sunflowersober.com/",
-    "all_locations": "",
-    "long_description": "Sunflower is on a mission to create one trillion days sober. Our product is both a consumer app (think a \"Duolingo for addiction\") but also with a tele-therapy clinic inside. \r\n\r\nConsumer App: \r\n- We built the #1 AI Sponsor for any kind of addiction\r\n- Beautiful visual progression tracking to power the core \"task to be done\" of addiction\r\n- A twitter style social media for addicts \r\n- DIY learn content (think Masterclass for addiction) for all major addiction types \r\n- CBT based journaling exercises \r\n\r\nTele-Therapy: \r\n- Think a \"Early Medical Peter Attia\" quality of clinic, but completely focused on addiction \r\n- Starting with talk therapy in CA & TX we're rolling out to all 50 states + MAT \r\n- Bringing together the worlds best doctors to create the most effective protocol for addiction \r\n\r\nSunflower went from 0 - 100k MAU in less than 6 months, and now we're continuing the traction to create the #1 product for addiction for the 1.2B humans on this planet that struggle with this fundamental human problem. ",
-    "one_liner": "Building the Sobriety Platform for the future of Superintelligence. 🌻",
-    "team_size": 7,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1757558729,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sunflower",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/sunflower.json"
-  },
-  {
     "id": 30917,
     "name": "Bravi",
     "slug": "bravi",
@@ -58945,7 +59029,7 @@
     "website": "https://getlexi.io/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Lexi, we are building AI-powered associates for law firms. Our associates learn your firm's standards and improve with every case, having already handled 135,000+ documents across 7,000+ cases.",
-    "one_liner": "AI Powered Associates",
+    "one_liner": "AI Associates for Corporate Law",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
@@ -59032,8 +59116,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f72f7790d8bf3b1bd1e22c33c744503ff17f84d0.png",
     "website": "https://everestmanagedai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "90% of SMBs rely on outsourced IT support companies to manage their IT. It's a $300B industry running on 10-20% margins. We're building AI support engineers to help outsourced IT solve support tickets faster and increase margins to 70-80%. \r\n\r\nYolanda worked as a Senior Support Engineer at Netflix. Her team ran 3x more efficiently than average outsourced IT support companies. We're now bringing the automation Netflix has to 140K companies globally. ",
-    "one_liner": "We build AI support engineers for outsourced IT services (MSPs)",
+    "long_description": "Outsourced IT is a $350B industry running on 10-20% margins. We're building AI employees to help them solve support tickets faster and increase margins to 70-80%. \r\n\r\nYolanda worked as a Senior Support Engineer at Netflix. Her team ran 3x more efficiently than average outsourced IT companies. We're now bringing the automation Netflix has to 150K companies globally. ",
+    "one_liner": "AI employees for outsourced IT ",
     "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B",
