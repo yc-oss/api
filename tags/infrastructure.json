@@ -3430,48 +3430,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/boost-robotics.json"
   },
   {
-    "id": 30549,
-    "name": "Airweave",
-    "slug": "airweave",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/257567a4b9d73aa0377d1adf521ba46dc6b0340f.png",
-    "website": "https://airweave.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Open-source context retrieval for AI agents across apps and databases. It connects to productivity tools, databases, or document stores and transforms their contents into searchable knowledge bases for agents.",
-    "one_liner": "Context retrieval for AI agents across apps and databases",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1744594621,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Search",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/airweave",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/airweave.json"
-  },
-  {
     "id": 30628,
     "name": "datafruit",
     "slug": "datafruit",
@@ -3944,6 +3902,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/unsiloed-ai.json"
   },
   {
+    "id": 30901,
+    "name": "Sanctum",
+    "slug": "sanctum",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/676b9954fbd7936ce531db4514cc008a76ca7a4d.png",
+    "website": "https://heysanctum.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sanctum lets you launch new features to agent swarms that mimic your users before releasing to real customers. We build AI user models from your session recordings and run them against your changes to surface bugs, UX issues, and performance problems early.",
+    "one_liner": "Ship features to simulated users before real ones",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1762303410,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Analytics",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sanctum",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/sanctum.json"
+  },
+  {
     "id": 30903,
     "name": "Kestrel AI",
     "slug": "kestrel-ai",
@@ -3951,17 +3951,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a17c93b508bc423bb59667db4befdfd07cfd6f68.png",
     "website": "https://usekestrel.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kestrel helps teams using Kubernetes detect, investigate, and fix issues without manual firefighting. It monitors cluster health and security 24/7, finds root causes, and generates ready-to-apply YAML fixes - so incidents get resolved in seconds instead of hours.",
-    "one_liner": "AI-Native Kubernetes Ops & Security Platform",
+    "long_description": "Kestrel helps cloud-native teams detect, investigate, and fix issues without manual firefighting. It monitors cloud and kubernetes infrastructure health and security 24/7, finds root causes, and generates ready-to-apply fixes - so incidents get resolved in seconds instead of hours.",
+    "one_liner": "AI-Native Cloud Incident Response Platform",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1761187283,
     "tags": [
       "AIOps",
-      "SaaS",
       "Security",
       "Kubernetes",
+      "Cloud Computing",
       "Infrastructure"
     ],
     "tags_highlighted": [],
@@ -4073,30 +4073,24 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/s2-dev.json"
   },
   {
-    "id": 30961,
-    "name": "Arcten",
-    "slug": "arcten",
+    "id": 30950,
+    "name": "Narrative",
+    "slug": "usenarrative",
     "former_names": [
-      "Cortex",
-      "ArcTen",
-      "Arc Ten",
-      "ArcTen",
-      "ArcTen, Inc.",
-      "Arcten, Inc."
+      "AdDojo"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8b85a37c57824f6296369d2840bc02a481f8bf6.png",
-    "website": "https://arcten.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1c937f26cf2f7d07e3a562baef0a61677eff7cb.png",
+    "website": "http://www.narrative.video",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arcten makes companies AI-native, fast. Deploy AI agents globally on our edge runtime, embed anywhere in 5 lines of code, link proprietary knowledge sources in one click, and get out-of-the-box agent observability and analytics—all on one platform.",
-    "one_liner": "Ship AI agents without building infrastructure",
-    "team_size": 2,
+    "long_description": "Narrative is the AI video understanding infrastructure. We let language models understand thousands of hours of video just as easily as they understand text.",
+    "one_liner": "The infrastructure for AI video processing ",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1761245566,
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1759338774,
     "tags": [
-      "B2B",
-      "API",
-      "Enterprise",
+      "Computational Storage",
+      "Video",
       "Infrastructure",
       "AI"
     ],
@@ -4107,7 +4101,8 @@
     "batch": "Fall 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Infrastructure"
     ],
     "regions": [
       "United States of America",
@@ -4118,8 +4113,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arcten",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/arcten.json"
+    "url": "https://www.ycombinator.com/companies/usenarrative",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/usenarrative.json"
   },
   {
     "id": 30969,

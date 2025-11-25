@@ -140,6 +140,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/piggy-robotics.json"
   },
   {
+    "id": 30569,
+    "name": "Fifth Door",
+    "slug": "fifth-door",
+    "former_names": [
+      "Placeholder (Gaming + Gen AI)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccb42373fb1495367c087cca6ae092d6da20baba.png",
+    "website": "https://fifthdoor.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fifth Door unlocks the power of imagination by making it easy for everyone to create, share, and play games anywhere, with anyone. We exist to stimulate the creativity, connection, and joy that people get when they play games.\r\n",
+    "one_liner": "Create and play games with AI",
+    "team_size": null,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1764014092,
+    "tags": [
+      "Consumer",
+      "Gaming",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fifth-door",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/fifth-door.json"
+  },
+  {
     "id": 30592,
     "name": "Prox",
     "slug": "prox",
@@ -342,7 +385,9 @@
     "tags": [
       "Artificial Intelligence",
       "Fintech",
-      "Insurance"
+      "B2B",
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -956,19 +1001,19 @@
     "name": "MOVEdot",
     "slug": "movedot",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ded2bf087bf8cb3bfc1892bfe645a7a09f0b265.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27061067f085dc8708e42c7c5cc69e587d7dbdc3.png",
     "website": "https://www.movedot.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Our platform allows hardware engineers to orchestrate agents for tasks such as analyzing failures across entire test campaigns, pulling the right data and KPIs from their databases, checking how conditions (like temperature or load) affect performance and reliability, and then document findings in reports and dashboards. Our agents provide up to 10x efficiency when analyzing collected data and internal documentation.",
-    "one_liner": "AI Agents for Hardware Engineering",
+    "one_liner": "AI Agents for Hardware Testing",
     "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1759431340,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Manufacturing",
+      "AI",
       "Automotive",
       "Industrial"
     ],
@@ -1559,6 +1604,7 @@
     "subindustry": "B2B",
     "launched_at": 1759188885,
     "tags": [
+      "Developer Tools",
       "Robotic Process Automation",
       "B2B",
       "Workflow Automation"
@@ -2828,11 +2874,11 @@
     "subindustry": "B2B",
     "launched_at": 1762303410,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Analytics",
-      "Market Research",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2863,17 +2909,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a17c93b508bc423bb59667db4befdfd07cfd6f68.png",
     "website": "https://usekestrel.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kestrel helps teams using Kubernetes detect, investigate, and fix issues without manual firefighting. It monitors cluster health and security 24/7, finds root causes, and generates ready-to-apply YAML fixes - so incidents get resolved in seconds instead of hours.",
-    "one_liner": "AI-Native Kubernetes Ops & Security Platform",
+    "long_description": "Kestrel helps cloud-native teams detect, investigate, and fix issues without manual firefighting. It monitors cloud and kubernetes infrastructure health and security 24/7, finds root causes, and generates ready-to-apply fixes - so incidents get resolved in seconds instead of hours.",
+    "one_liner": "AI-Native Cloud Incident Response Platform",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1761187283,
     "tags": [
       "AIOps",
-      "SaaS",
       "Security",
       "Kubernetes",
+      "Cloud Computing",
       "Infrastructure"
     ],
     "tags_highlighted": [],
@@ -3082,7 +3128,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b26a35750dbae152a692ea82c2b00bb8f78d4d9b.png",
     "website": "https://usearticulate.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We help construction and solar contractors eliminate delays, confusion, and rework. We audit designs for code compliance before construction starts, detect clashes early, and automatically generate RFIs from drawings. We also accelerate takeoffs, estimating, and trade package alignment so preconstruction teams can move faster with fewer errors. \r\n\r\nFrom RFIs to permits to supplier updates, everything runs automatically so teams can focus on building, not waiting. \r\n\r\nWe integrate with Procore, Outlook, Gmail, Bluebeam, Autodesk, and other tools you already use. \r\n\r\nTeams use us to:\r\n- Save $3,000,000 per project\r\n- Catch design and coordination errors before they happen\r\n- Verify code and permits instantly\r\n- Align trade packages and scopes automatically\r\n- Speed up takeoffs, estimating, and procurement\r\n- Get real-time updates from every crew\r\n\r\nContact us founders@usearticulate.com to learn more!",
+    "long_description": "We help construction teams eliminate rework, delays, and drawing confusion before construction starts. We analyze PDF plans, detect clashes and inconsistencies across disciplines, and create draft RFIs so teams can resolve issues early.\r\n\r\nWhat we do:\r\n- Automatically detect clashes, missing information, and drawing mismatches\r\n- Align architectural, structural, and MEP plans so everything matches across sheets\r\n- Generate draft RFIs from issues we find\r\n- Replace long page-turn meetings with instant drawing analysis\r\n- Reduce rework and prevent schedule delays before boots hit the ground\r\n\r\nWe integrate with: Procore, Autodesk, email, and the tools teams already use\r\n\r\nTeams use us to:\r\n- Save hundreds of thousands to millions of dollars per project\r\n- Catch design and coordination issues early\r\n- Reduce RFIs and prevent field fixes\r\n- Keep projects on schedule with fewer surprises\r\n\r\nContact us at founders@usearticulate.com",
     "one_liner": "Automatic Construction Drawing Clash Detection ",
     "team_size": 2,
     "industry": "Real Estate and Construction",
@@ -3409,7 +3455,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb8c922483150b7ebb7320f8160a0722809b666c.png",
     "website": "https://getlexi.io/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Lexi, we are building AI-powered associates for law firms. Our associates learn your firm's standards and improve with every case, having already handled 135,000+ documents across 7,000+ cases.",
+    "long_description": "At Lexi, we are building AI associates for Corporate Law. Our associates learn your firm's standards and improve with every case, having already handled 135,000+ documents across 7,000+ cases.",
     "one_liner": "AI Associates for Corporate Law",
     "team_size": 4,
     "industry": "B2B",
@@ -3417,10 +3463,10 @@
     "launched_at": 1758861304,
     "tags": [
       "Artificial Intelligence",
+      "SaaS",
       "B2B",
       "Legal",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3539,7 +3585,7 @@
     "former_names": [
       "Clausee"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88a76602e15d6bde1447f1d7066e3a3e3708bea1.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fa8267b34eb44ac708090ff04ca6eeef01fa75d3.png",
     "website": "https://www.meetcasey.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Casey is the fastest way for commercial insurance brokers to submit complex risks. We automate client data collection, build risk profiles, and prepare carrier-ready submissions for wholesalers and underwriters in minutes.",
@@ -3630,8 +3676,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
     "website": "https://thesislabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Thesis is an applied research lab. Our aim is to help researchers uncover the next Transformer or build the next AlphaFold, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as an engineering challenge to be solved. The mission is to democratize invention by empowering researchers everywhere with machine intelligence to drive the discovery of the next big thing.",
-    "one_liner": "The scientific discovery engine.",
+    "long_description": "Thesis is an applied research lab, accelerating AI R&D. Our aim is to help researchers uncover the next Transformer or build the next AlphaFold, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as an engineering challenge to be solved. The mission is to democratize invention by empowering researchers everywhere with machine intelligence to drive the discovery of the next big thing in AI.",
+    "one_liner": "The AI R&D engine.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -4525,9 +4571,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1759338774,
     "tags": [
-      "Artificial Intelligence",
       "Computational Storage",
-      "Video"
+      "Video",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4727,7 +4774,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png",
     "website": "https://tryabsurd.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Absurd (YC F25) makes absurd AI ads. Our last video for Kalshi (\"Election Day\") did 1M+ views, and we average 300K+ views across 6 launch videos. \r\n\r\nOur clients include Kalshi, Replit, Reforge, Gumloop, Micro1, and a couple YC and HF0 startups. \r\n\r\nWe do this with a multi-agent orchestration layer, guided by a team of creative directors, to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time — commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
+    "long_description": "Absurd (YC F25) makes absurd AI ads. Our last video for Kalshi (\"Election Day\") did 1M+ views, and we average 300K+ views across 6 videos. \r\n\r\nOur clients include Kalshi, Replit, Reforge, Gumloop, Micro1, and a couple YC and HF0 startups. \r\n\r\nWe do this with a multi-agent orchestration layer to create production-quality videos in 72 hours. These agents collaborate with your team on Slack to plan, script, and generate every scene on an interactive canvas. From the canvas, your team can watch shotlists, image frames, and video renders come to life in real time — commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at tryabsurd.com",
     "one_liner": "Absurd AI Marketing Videos",
     "team_size": 3,
     "industry": "B2B",
@@ -4856,17 +4903,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8b85a37c57824f6296369d2840bc02a481f8bf6.png",
     "website": "https://arcten.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arcten makes companies AI-native, fast. Deploy AI agents globally on our edge runtime, embed anywhere in 5 lines of code, link proprietary knowledge sources in one click, and get out-of-the-box agent observability and analytics—all on one platform.",
-    "one_liner": "Ship AI agents without building infrastructure",
+    "long_description": "Arcten helps companies ship copilots that execute actions for users inside their product. You can add AI copilots to your product in minutes, connect them to your company’s information, and track how they’re performing -- all in one place.",
+    "one_liner": "Add drop-in, production-ready copilots to your applications",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1761245566,
     "tags": [
+      "SaaS",
       "B2B",
-      "API",
+      "Customer Success",
       "Enterprise",
-      "Infrastructure",
       "AI"
     ],
     "tags_highlighted": [],
@@ -5696,11 +5743,11 @@
     "name": "Forge Robotics",
     "slug": "forge-robotics",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c02750d438079c212fed98a30cb270db92c521c3.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc718543c8da7c7d1c6d5308ecd4cde3ca18269c.png",
     "website": "https://forge-robotics.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Forge Robotics is changing the way that metal parts are fabricated. We are enabling a future where our intelligent robotic system completes all steps needed to take raw metal stock and transform it into fully welded parts. \r\n\r\nBeginning with welding, we are building a robot-mounted vision system and AI feature detection that creates a real-time 3D map and tells the arm exactly where to go at every instant.",
-    "one_liner": "A robotics intelligence layer for metal fabrication",
+    "one_liner": "A robotics intelligence system for metal fabrication",
     "team_size": 3,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
@@ -6288,8 +6335,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f1eaa6d1493780832479f97fca83170e4ebe91.png",
     "website": "https://fixpoint.co/",
     "all_locations": "",
-    "long_description": "Fixpoint helps AI training data companies hire the expert humans that create AI training data. We handle sourcing, vetting, and all HR for expert annotator teams, so our customers can focus just on creating training data.\r\n\r\nWe build AI agents to automate sourcing and interviewing, and a recruiting + HR system to keep track of annotators, assign them to projects, manage payroll, and everything else needed to run a human data project.\r\n\r\nYou can embed Fixpoint's APIs into an existing human data ops workflow or use our white-gloving staffing so you can just send us job requirements and get an expert team delivered to you.",
-    "one_liner": "Source and manage experts for AI training jobs",
+    "long_description": "Fixpoint is Deel for human data annotation: automating the sourcing, vetting, and management of data labelers.\r\n\r\nIt used to be a manual process to staff people on AI training data or eval projects - but Fixpoint leverages AI to staff people and create data better, cheaper, and faster. This includes a network of pre-vetted experts, AI-automated vetting, and annotator management + payroll.",
+    "one_liner": "Deel for human data annotation",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",

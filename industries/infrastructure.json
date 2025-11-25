@@ -9687,19 +9687,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/257567a4b9d73aa0377d1adf521ba46dc6b0340f.png",
     "website": "https://airweave.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Open-source context retrieval for AI agents across apps and databases. It connects to productivity tools, databases, or document stores and transforms their contents into searchable knowledge bases for agents.",
     "one_liner": "Context retrieval for AI agents across apps and databases",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1744594621,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Search",
-      "Infrastructure"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -9711,8 +9706,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -9780,8 +9774,8 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1753229882,
     "tags": [
-      "B2B",
-      "AI"
+      "Artificial Intelligence",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10494,9 +10488,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1759338774,
     "tags": [
-      "Artificial Intelligence",
       "Computational Storage",
-      "Video"
+      "Video",
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -10603,5 +10598,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dome",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/dome.json"
+  },
+  {
+    "id": 31137,
+    "name": "Luel",
+    "slug": "luel",
+    "former_names": [
+      "Vidcoin"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b08b4ca96925b2e8c409dfbed108a0b4f3808348.png",
+    "website": "https://luel.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Luel is a two-sided platform enabling companies to access fast, rights-cleared multimodal training data at scale. We connect AI teams directly with a global network of vetted contributors and off-the-shelf datasets, cutting out slow vendor processes and delivering on-spec multimodal and instruction-grounded data with full provenance. Together, we’re building a compliant, diverse, data ecosystem that the next generation of AI depends on. For more information, visit www.luel.ai or follow us on LinkedIn.",
+    "one_liner": "Turning everyday words and actions into usable training data.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1763965677,
+    "tags": [
+      "Marketplace",
+      "B2B",
+      "Big Data"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/luel",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/luel.json"
   }
 ]

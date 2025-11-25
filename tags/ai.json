@@ -2002,7 +2002,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2018",
     "status": "Active",
@@ -2046,7 +2046,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2018",
     "status": "Active",
@@ -5711,7 +5711,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7992570619d05ec7bff0789242805495d444dbf5.png",
     "website": "https://firstquadrant.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "FirstQuadrant helps revenue teams move faster, stay organized, and close more deals, by streamlining the behind-the-scenes sales-work so nothing ever slips through the cracks.",
     "one_liner": "Sales AI that helps revenue teams move faster and close more deals.",
     "team_size": 2,
@@ -5739,7 +5739,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Fully Remote"
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -15272,6 +15272,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/glade.json"
   },
   {
+    "id": 28957,
+    "name": "Continue",
+    "slug": "continue",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea071d17d03a0effc12bac914da21cd9bee66060.png",
+    "website": "https://continue.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Continue enables developers to ship faster with Continuous AI. The future of coding isn't writing more code. It's delegating the boring parts, so you can build the interesting stuff.\r\n\r\nDevelopers are drowning in AI-generated code. Continuous AI solves this by automating the workflows around code, not just the code itself. The role of the software engineer is shifting from prompting AI to designing processes that run automatically.\r\n\r\nWith hundreds of thousands of users, Continue is loved by developers worldwide at organizations ranging from small startups to Fortune 500 companies. Continue has raised $5.1M from Heavybit, Y Combinator, and angel investors. The company was founded in 2023 and is based in San Francisco.\r\n\r\nWe believe the time is now to create a future where developers are amplified, not automated.",
+    "one_liner": "Ship faster with Continuous AI",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1688142176,
+    "tags": [
+      "Developer Tools",
+      "DevSecOps",
+      "Machine Learning",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/continue",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/continue.json"
+  },
+  {
     "id": 28974,
     "name": "Gleam",
     "slug": "gleam",
@@ -21707,7 +21750,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -22792,7 +22835,7 @@
     "all_locations": "Los Angeles, CA, USA",
     "long_description": "Merlin is an AI-powered ERP for construction companies. \r\n\r\nWe provide construction companies with a single, AI-powered platform to manage their entire business operations. Our platform unifies project management, materials management, finance, estimating, and CRM—traditionally scattered across multiple systems—into one cohesive solution. For the first time, construction firms can automate and oversee every aspect of their projects in a single, intuitive system. Today, construction companies pay for 8-17 different tools - that we eliminate the need for. \r\n\r\nWe reduce \r\n\r\n- Manual work by 60%\r\n- Cut software costs by $10,000 monthly\r\n- Complete projects 3x faster. \r\n\r\nWhy Now?\r\nWe're witnessing a perfect storm of factors: decades of stagnation in traditional ERP systems, a multi-billion-dollar industry built on misaligned incentives, and the transformative potential of AI. This confluence creates a rare cyclical opportunity for market upheaval. The last major shift in this space occurred in the 1990s with the advent of digital systems, and now, 30 years later, we're on the cusp of another seismic change. Customers are crying out for innovation and as AI reshapes the landscape, early customer signals indicate an eagerness for smarter, more efficient systems. It's a unique window of opportunity that opens perhaps once in a multi-decade chance to redefine an entire industry's operational backbone.\r\n\r\nTeam:\r\nKS, a BITS Pilani grad and successful startup co-founder, and Ayantika, an IIT alumni and tech expert, bring extensive coding and product development expertise together bringing about over a decade of technical expertise. Sneha ( that’s me), with over a decade of experience in supply chain management and lean manufacturing within the construction industry, has lived the pain of using ERPs in this industry.",
     "one_liner": "AI powered ERP for Construction",
-    "team_size": 6,
+    "team_size": 28,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1722038915,
@@ -25404,48 +25447,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/mundo-ai.json"
   },
   {
-    "id": 30272,
-    "name": "Lucidic AI",
-    "slug": "lucidic-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/070d8df8755a600f5ecf800f273f60a2cfa54bb0.png",
-    "website": "https://lucidic.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "As AI agents take on more consequential workflows, the hard part isn’t just whether they work—it’s whether they behave consistently with your company’s knowledge, policies, and expectations. Lucidic AI turns that institutional knowledge into consistent agent behavior by continuously testing, stress-simulating, and auto-optimizing agents against your real production scenarios.\r\nLucidic ingests your real logs, edge cases, and operational rules, then uses controlled simulations, reinforcement learning, and Bayesian optimization to automatically discover failure modes, propose targeted fixes, and verify improvements before anything reaches production. Instead of relying on manual prompt fiddling or guesswork, your agents get a continuous improvement loop: they’re tested, corrected, and optimized based on what your business actually requires—not what a generic model assumes.\r\nThe result is AI agents that reliably follow your domain logic, adapt to changes, and stay aligned across clients, configurations, and environments—without you needing to hand-engineer every prompt or behavior.",
-    "one_liner": "Turning Your Company’s Knowledge Into Consistent AI Agent Behavior.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1736904770,
-    "tags": [
-      "AIOps",
-      "Developer Tools",
-      "SaaS",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lucidic-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/lucidic-ai.json"
-  },
-  {
     "id": 30276,
     "name": "General Trajectory",
     "slug": "general-trajectory",
@@ -27043,7 +27044,7 @@
     "name": "Kestral",
     "slug": "kestral",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2803b99a0f6ad3a6257fd02f86b580fc76eee42e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/434f06dd5cbc21fd8688f57eddd151366b355c44.png",
     "website": "https://kestral.team",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Kestral makes it clear what your customers want most, prioritizes those tasks for highest leverage, and closes the loop with those customers.\r\n\r\nWe (Brian and Bernard) have been close friends since university, and most recently worked together at Asana, leading AI and Authorization efforts. There we realized AI can completely disrupt the $50B Work Management Market, but it required a fresh start.\r\n\r\nWhat work we even choose to manage in the first place is critical, and the most important insights from customers are silo-ed in sales/CS while R&D gives their best shot at roadmaps meant to deliver impact. Significant requests sit in a backlog, duplicate asks flood the system, months wasted on \"strategic investments\". We want to bridge this gap.\r\n\r\nThis message is resonating with heads of sales, heads of product, CEOs, as well as individuals, all trying to make sure the most important things get done, with less wasted effort and more revenue/retention.\r\n\r\nKestral works by automatically take in customer data like sales call transcripts & feature request messages and a team of agents:\r\n1. analyze them for actionable takeaways, deal blockers, and nice to haves\r\n2. consolidate them and manage all the asks with citations\r\n3. prioritize them by impact and frequency to cut through the noise so you can see the biggest opportunities clearly\r\n4. connect them to your existing strategic roadmap so when the work gets done, we can automatically follow back up with your customers and win them over\r\n\r\nThis is just step one of our mission to revolutionize how work gets done -- starting with what we choose to work on, and hope you follow us along for the ride!",
@@ -27451,50 +27452,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lyrahq",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/lyrahq.json"
-  },
-  {
-    "id": 30488,
-    "name": "Theta",
-    "slug": "theta",
-    "former_names": [
-      "Handler AI",
-      "Theta Software"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bef5c2a34194462b75e30c574accec7a94eef920.png",
-    "website": "https://thetasoftware.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Specialized AI for Every Job",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1746731099,
-    "tags": [
-      "Developer Tools",
-      "Reinforcement Learning",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/theta",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/theta.json"
   },
   {
     "id": 30492,
@@ -28222,6 +28179,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/rid.json"
   },
   {
+    "id": 30569,
+    "name": "Fifth Door",
+    "slug": "fifth-door",
+    "former_names": [
+      "Placeholder (Gaming + Gen AI)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccb42373fb1495367c087cca6ae092d6da20baba.png",
+    "website": "https://fifthdoor.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fifth Door unlocks the power of imagination by making it easy for everyone to create, share, and play games anywhere, with anyone. We exist to stimulate the creativity, connection, and joy that people get when they play games.\r\n",
+    "one_liner": "Create and play games with AI",
+    "team_size": null,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Gaming",
+    "launched_at": 1764014092,
+    "tags": [
+      "Consumer",
+      "Gaming",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Gaming"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fifth-door",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/fifth-door.json"
+  },
+  {
     "id": 30596,
     "name": "Adaptional",
     "slug": "adaptional",
@@ -28303,50 +28303,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dedalus-labs",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/dedalus-labs.json"
-  },
-  {
-    "id": 30612,
-    "name": "truthsystems",
-    "slug": "truthsystems",
-    "former_names": [
-      "Truth Systems"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a8136f761e13642b6fed7c2f34b631be3b028652.png",
-    "website": "https://www.truthsystems.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Truth Systems provides a compliance agent to govern the use of generative AI. It translates operational policies into intelligent, real-time guardrails that monitor every AI interaction. This empowers companies to proactively block non-compliant actions and align access to AI tools with user competency. By eliminating the risks and operational blind spots associated with uncontrolled AI adoption, our platform enables enterprises to fully leverage the technology's potential without compromising security. \r\n\r\nWe are establishing the new standard for AI governance, building a future where every professional can innovate safely and confidently.",
-    "one_liner": "Automatically blocking risky behavior with real-time governance agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1753229882,
-    "tags": [
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/truthsystems",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/truthsystems.json"
   },
   {
     "id": 30613,
@@ -29217,7 +29173,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "GhostEye uses autonomous AI agents to test how attackers exploit human vulnerabilities to compromise organizations. Just as red teams simulate technical attacks against infrastructure, we simulate sophisticated social engineering campaigns and beyond against people. \r\n\r\nOur multi-agent platform validates complete attack paths from initial human compromise to data exfiltration, providing security teams with actionable intelligence about their true human attack surface exposure before attackers find it.",
     "one_liner": "The Human-Breach Simulation Platform",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1753230986,
@@ -29711,6 +29667,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pleom",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pleom.json"
+  },
+  {
+    "id": 30749,
+    "name": "Fernstone",
+    "slug": "fernstone",
+    "former_names": [
+      "Sentri Security",
+      "Sentri"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2529eaf040180126a595ccd660f42824d36e2dae.png",
+    "website": "https://www.fernstone.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fernstone is an AI-powered insurance brokerage for businesses. We are competing with the 40,000 insurance brokers that sell $500B in commercial premium each year.\r\n\r\nBefore starting Fernstone, Luke and James met at Traba (Series A) when they started on the same day. Luke led a Growth team, closing some of Traba’s largest customers like JB Hunt and Kimberly Clark. James created and led Traba’s Enterprise function, growing it to 25% of company revenue. Bryant, James’ classmate from high school, was a Software Engineer at SentiLink and Google.\r\n",
+    "one_liner": "AI-powered insurance brokerage for businesses.",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1759775643,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B",
+      "Insurance",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fernstone",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/fernstone.json"
   },
   {
     "id": 30754,
@@ -30261,6 +30263,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/aircaps",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/aircaps.json"
+  },
+  {
+    "id": 30849,
+    "name": "MOVEdot",
+    "slug": "movedot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27061067f085dc8708e42c7c5cc69e587d7dbdc3.png",
+    "website": "https://www.movedot.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our platform allows hardware engineers to orchestrate agents for tasks such as analyzing failures across entire test campaigns, pulling the right data and KPIs from their databases, checking how conditions (like temperature or load) affect performance and reliability, and then document findings in reports and dashboards. Our agents provide up to 10x efficiency when analyzing collected data and internal documentation.",
+    "one_liner": "AI Agents for Hardware Testing",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1759431340,
+    "tags": [
+      "Hardware",
+      "Manufacturing",
+      "AI",
+      "Automotive",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/movedot",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/movedot.json"
   },
   {
     "id": 30858,
@@ -30816,48 +30863,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/logosguard.json"
   },
   {
-    "id": 30901,
-    "name": "Sanctum",
-    "slug": "sanctum",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/676b9954fbd7936ce531db4514cc008a76ca7a4d.png",
-    "website": "https://heysanctum.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sanctum lets you launch new features to agent swarms that mimic your users before releasing to real customers. We build AI user models from your session recordings and run them against your changes to surface bugs, UX issues, and performance problems early.",
-    "one_liner": "Ship features to simulated users before real ones",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1762303410,
-    "tags": [
-      "Developer Tools",
-      "B2B",
-      "Analytics",
-      "Market Research",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sanctum",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/sanctum.json"
-  },
-  {
     "id": 30910,
     "name": "Aleph Lab",
     "slug": "aleph-lab",
@@ -30981,51 +30986,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/codyco.json"
   },
   {
-    "id": 30920,
-    "name": "Lexi",
-    "slug": "lexi",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb8c922483150b7ebb7320f8160a0722809b666c.png",
-    "website": "https://getlexi.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Lexi, we are building AI-powered associates for law firms. Our associates learn your firm's standards and improve with every case, having already handled 135,000+ documents across 7,000+ cases.",
-    "one_liner": "AI Associates for Corporate Law",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1758861304,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Legal",
-      "LegalTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lexi",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/lexi.json"
-  },
-  {
     "id": 30921,
     "name": "Compyle",
     "slug": "compyle",
@@ -31078,8 +31038,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/834b16b30c5de79bf9dbcd0a4819289bfa937936.png",
     "website": "https://thesislabs.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Thesis is an applied research lab. Our aim is to help researchers uncover the next Transformer or build the next AlphaFold, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as an engineering challenge to be solved. The mission is to democratize invention by empowering researchers everywhere with machine intelligence to drive the discovery of the next big thing.",
-    "one_liner": "The scientific discovery engine.",
+    "long_description": "Thesis is an applied research lab, accelerating AI R&D. Our aim is to help researchers uncover the next Transformer or build the next AlphaFold, faster, more systematically, and at scale. We treat discovery not as a matter of luck, but as an engineering challenge to be solved. The mission is to democratize invention by empowering researchers everywhere with machine intelligence to drive the discovery of the next big thing in AI.",
+    "one_liner": "The AI R&D engine.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -31414,6 +31374,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sourcebot.json"
   },
   {
+    "id": 30950,
+    "name": "Narrative",
+    "slug": "usenarrative",
+    "former_names": [
+      "AdDojo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1c937f26cf2f7d07e3a562baef0a61677eff7cb.png",
+    "website": "http://www.narrative.video",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Narrative is the AI video understanding infrastructure. We let language models understand thousands of hours of video just as easily as they understand text.",
+    "one_liner": "The infrastructure for AI video processing ",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1759338774,
+    "tags": [
+      "Computational Storage",
+      "Video",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/usenarrative",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/usenarrative.json"
+  },
+  {
     "id": 30961,
     "name": "Arcten",
     "slug": "arcten",
@@ -31428,17 +31432,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b8b85a37c57824f6296369d2840bc02a481f8bf6.png",
     "website": "https://arcten.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Arcten makes companies AI-native, fast. Deploy AI agents globally on our edge runtime, embed anywhere in 5 lines of code, link proprietary knowledge sources in one click, and get out-of-the-box agent observability and analytics—all on one platform.",
-    "one_liner": "Ship AI agents without building infrastructure",
+    "long_description": "Arcten helps companies ship copilots that execute actions for users inside their product. You can add AI copilots to your product in minutes, connect them to your company’s information, and track how they’re performing -- all in one place.",
+    "one_liner": "Add drop-in, production-ready copilots to your applications",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1761245566,
     "tags": [
+      "SaaS",
       "B2B",
-      "API",
+      "Customer Success",
       "Enterprise",
-      "Infrastructure",
       "AI"
     ],
     "tags_highlighted": [],
