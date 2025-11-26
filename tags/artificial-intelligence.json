@@ -2369,7 +2369,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": false,
@@ -9133,7 +9133,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14272,6 +14272,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/invision-medical-technology.json"
   },
   {
+    "id": 27254,
+    "name": "Chima",
+    "slug": "chima",
+    "former_names": [
+      "Rather",
+      "Atara"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/73b01925c3fe10e55b7ea30eed61c9a2d82f29d3.png",
+    "website": "https://www.withchima.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Companies struggle to customize their generative AI models by taking advantage of their existing customer and enterprise data, in real-time. Chima solves for this through a sleek, interoperable layer before the standard generative AI models are applied.",
+    "one_liner": "Building infrastructure tools to help large companies customize their…",
+    "team_size": 7,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1676087399,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Generative AI",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chima",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/chima.json"
+  },
+  {
     "id": 27255,
     "name": "Intuned",
     "slug": "intuned",
@@ -18483,7 +18528,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -25389,7 +25434,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -27962,48 +28007,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/midship.json"
   },
   {
-    "id": 29983,
-    "name": "PathPilot",
-    "slug": "pathpilot",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e75c7444d35c6b426ac80829e6ed40b07d33577d.png",
-    "website": "https://www.getpathpilot.com/",
-    "all_locations": "San Jose, CA, USA",
-    "long_description": "Fintechs, banks, and other institutions managing financial services face constant pressure to reduce costs, enhance customer experience, and ensure regulatory compliance. PathPilot provides the speed of pre-built AI agents combined with the flexibility of full customization. This enables internal teams to remain in full control—designing, deploying, and governing AI solutions independently, without reliance on external vendors.",
-    "one_liner": "AI platform helping fintech/bank teams scale efficiently",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1724891975,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Finance",
-      "B2B",
-      "Customer Support"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pathpilot",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/pathpilot.json"
-  },
-  {
     "id": 29990,
     "name": "DreamRP",
     "slug": "dreamrp",
@@ -28658,47 +28661,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/gecko-security.json"
   },
   {
-    "id": 30097,
-    "name": "Innate",
-    "slug": "innate",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/374e6b2cd282f5fe31c64fcc82aaebb3105153c9.png",
-    "website": "https://innate.bot",
-    "all_locations": "Palo Alto, CA, USA",
-    "long_description": "We make personal AI robots - general-purpose physical machines that anyone can program with code, language and demonstrations.\r\n\r\nWe believe building open platforms like the first PCs this is the only way to bring the robotics future that we all want, where everyone can participate in the robotics revolution.",
-    "one_liner": "Personal AI Robots",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Consumer Electronics",
-    "launched_at": 1730365227,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Robotics"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Consumer Electronics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/innate",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/innate.json"
-  },
-  {
     "id": 30099,
     "name": "Gander",
     "slug": "gander",
@@ -28749,9 +28711,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6f433de4b4c642c9311574e0d72dda2296ffd27.png",
     "website": "https://diffusion.studio/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Think CapCut + Cursor",
-    "one_liner": "The multimodal AI studio for professional creatives",
-    "team_size": 2,
+    "long_description": "Diffusion Studio Pro is a browser based non linear editor that uses WebCodecs and WebGPU to deliver smooth, pro level performance. It brings the modern UX of tools like Figma and Framer to video editing, making it easy for anyone to create professional content.",
+    "one_liner": "Professional-grade video editing, in your browser.",
+    "team_size": 3,
     "industry": "Consumer",
     "subindustry": "Consumer -> Content",
     "launched_at": 1731522844,
@@ -29525,6 +29487,55 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/toothy-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/toothy-ai.json"
+  },
+  {
+    "id": 30222,
+    "name": "Altrina",
+    "slug": "altrina",
+    "former_names": [
+      "Symmetric Labs",
+      "Tessa",
+      "General Agency"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/23ee7aa773e16f7887979b0dcfa61db69ba9fd25.png",
+    "website": "https://altrina.com",
+    "all_locations": "Menlo Park, CA, USA",
+    "long_description": "Altrina automates SOPs to give humans back their time to do what matters.\r\n\r\nWe have already significantly improved organizational efficiency for local governments, law offices, insurance brokers, consulting firms, and hedge funds.\r\n\r\nFormerly General Agency/Tessa AI",
+    "one_liner": "The SOP Automation Platform",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1736185270,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Reinforcement Learning",
+      "Automation",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/altrina",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/altrina.json"
   },
   {
     "id": 30226,
@@ -31778,50 +31789,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/nomi.json"
   },
   {
-    "id": 30488,
-    "name": "Theta",
-    "slug": "theta",
-    "former_names": [
-      "Handler AI",
-      "Theta Software"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bef5c2a34194462b75e30c574accec7a94eef920.png",
-    "website": "https://thetasoftware.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "Specialized AI for Every Job",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1746731099,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Reinforcement Learning",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/theta",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/theta.json"
-  },
-  {
     "id": 30496,
     "name": "QualGent",
     "slug": "qualgent",
@@ -32545,6 +32512,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/code-four.json"
   },
   {
+    "id": 30543,
+    "name": "Cactus",
+    "slug": "oncactus",
+    "former_names": [
+      "Cravd",
+      "Cactus",
+      "Cactus AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b17acc0c0aa0c02481e7a3a2117028126178942.png",
+    "website": "https://oncactus.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cactus is the 24/7 AI call center built for home service businesses. Our AI answers calls, qualifies customers, books jobs, and follows up automatically, helping business owners capture more leads and retain more customers - all without hiring additional staff.",
+    "one_liner": "24/7 AI Call Center for Home Services",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1746571239,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/oncactus",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/oncactus.json"
+  },
+  {
     "id": 30545,
     "name": "StarSling",
     "slug": "starsling",
@@ -32892,48 +32902,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/closera",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/closera.json"
-  },
-  {
-    "id": 30606,
-    "name": "Acrely",
-    "slug": "acrely",
-    "former_names": [
-      "Zetlkast"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/599629b9dce294f5621aeaf663b76424933bd820.png",
-    "website": "https://www.acrely.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Have something to say? Feel free to reach out: founders@acrely.ai\r\n\r\nWe provide home service business owners with voice AI to capture every inbound call and turn it into booked jobs.\r\n\r\nMeet Jane, your AI-powered customer service rep. When a customer calls and no one answers, Jane does. She talks naturally with callers, understands their problem, and books the job, whether it’s a leaky pipe, an AC repair, or a new installation.\r\n\r\nHome services are still phone-first, but owners lose thousands each month to missed calls and overwhelmed CSRs. Every truck, website, and yard sign funnels calls in, yet too often they go to voicemail or get dropped. Jane makes sure the real jobs, the ones that pay, never slip through.\r\n\r\nWe’re starting by solving inbound, the single most expensive leak in the business. With Jane, contractors never miss a call, never lose a customer to voicemail, and finally have a CSR that works 24/7 without turnover or breaks.",
-    "one_liner": "AI CSR + Dispatch for HVAC",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1752517197,
-    "tags": [
-      "Artificial Intelligence",
-      "Home Services",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/acrely",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/acrely.json"
   },
   {
     "id": 30612,
@@ -35489,49 +35457,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/paloma.json"
   },
   {
-    "id": 30816,
-    "name": "Digipals",
-    "slug": "digipals",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a100705513555f60b674edacd7874b01e7bef2df.png",
-    "website": "https://www.digipals.app/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Social networks are dead. Social media became more media than social. My friends aren't on social media anymore - it's one third ads, one third content from strangers, and one third AI slop. Our social lives are fragmented across dozens of apps: WhatsApp, Instagram, Find My, Google Calendar, Splitwise. We're building Digipals: ambient AI agents that live in your group chats with full context over your location, calendar, relationships, and photos, that write code to generate custom widgets to help us build better friendships. Digipals is the first AI-native social operating system and the last social platform anyone will ever need.\r\n\r\nLaunch Video\r\nhttps://youtu.be/KW2tjLl6sxM ",
-    "one_liner": "Building the future of Social in the age of AI",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Social",
-    "launched_at": 1762213106,
-    "tags": [
-      "Artificial Intelligence",
-      "Consumer",
-      "Social Media",
-      "Social",
-      "Social Network"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Social"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/digipals",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/digipals.json"
-  },
-  {
     "id": 30821,
     "name": "Efference",
     "slug": "efference",
@@ -36872,7 +36797,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -37926,8 +37851,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e85636cc8d85e40e183c3547b34d3f05a5aa19c6.png",
     "website": "https://www.openroll.com",
     "all_locations": "Stockholm, Stockholm County, Sweden",
-    "long_description": "Openroll is building the AI-powered workspace for compensation teams.\r\n\r\nTrillions in salaries are still set with spreadsheets and gut-feeling. Openroll automates the manual work and surfaces real peer pay, misalignments, and at-risk talent. We’re here to redefine how the world sets salaries.\r\n\r\nLearn more at https://www.openroll.com",
-    "one_liner": "The world's first Agentic compensation platform",
+    "long_description": "Openroll is the AI-native operating system for compensation.\r\n\r\nOpenroll gives companies a single system where compensation finally happens. Offers are sent instantly, budgets stay aligned automatically, promotions stay consistent, and salary decisions are made with confidence. Instead of fragmented tools, spreadsheets, and manual approvals, compensation runs end-to-end in one intelligent system used across the entire organization.\r\n\r\nLearn more at https://www.openroll.com",
+    "one_liner": "AI-Native Workday",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -37936,7 +37861,8 @@
       "Artificial Intelligence",
       "B2B",
       "HR Tech",
-      "Data Visualization"
+      "Data Visualization",
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37967,7 +37893,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27852a72a2c3864e7f9b2c7273ec39951f3e8d68.png",
     "website": "https://rivet.design/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rivet is a visual tool that sits above a codebase. It's a bridge that lets product designers own any UI change to the software they work on. \r\n\r\nDesigners use Rivet today to shortcut painful design handoffs and just make any visual change themselves. This saves time for designers and engineers and makes it radically easier to build software with great design and taste. \r\n\r\nThis becomes the next design tool because it lets designers break out of static tools and prototype like frontend engineers.  Use real components from your existing codebase to design remarkably complex interactions, and then ship it yourself.  ",
+    "long_description": "Rivet is a visual AI editor for product designers to make UI changes.  Designers ship the changes they make directly to their codebase. \r\n\r\nThe most painful problem for designers today is that their vision doesn't match code.  Rivet replaces design handoffs by letting designers just do it themselves. The tool helps turn product designers into design engineers.\r\n \r\nDesign-led companies in YC F25 are Rivet customers.\r\n\r\nLearn more at rivet.design",
     "one_liner": "Rivet helps product designers change software without coding.",
     "team_size": null,
     "industry": "B2B",
@@ -37976,7 +37902,8 @@
     "tags": [
       "Artificial Intelligence",
       "Design",
-      "Design Tools"
+      "Design Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -5935,7 +5935,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": false,
@@ -29076,7 +29076,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -33138,7 +33138,7 @@
       "Rather",
       "Atara"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5536faf0c37956706227c0349f57943e972007e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/73b01925c3fe10e55b7ea30eed61c9a2d82f29d3.png",
     "website": "https://www.withchima.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Companies struggle to customize their generative AI models by taking advantage of their existing customer and enterprise data, in real-time. Chima solves for this through a sleek, interoperable layer before the standard generative AI models are applied.",
@@ -33148,11 +33148,11 @@
     "subindustry": "B2B",
     "launched_at": 1676087399,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -34277,7 +34277,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Generic payroll providers weren't built for construction - Hammr is. Our modern tools simplify construction payroll, HR and operations. We help construction companies boost profits, not paperwork. ",
     "one_liner": "Rippling for the Construction Industry",
-    "team_size": 9,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
     "launched_at": 1677616888,
@@ -34878,7 +34878,7 @@
     "former_names": [
       "Vooma Automation"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1fdfc5ed075de08a82ef72ac83e078ba29b962ac.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1c751288cf7f05b5a6a5d45e591d1a07deb00d2.png",
     "website": "https://www.vooma.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Vooma is the AI agent for logistics. We help our customers automate manual tasks and focus on work that drives business value.\r\n\r\nMike built self driving trucks as a founding engineer at Kodiak Robotics (prev. Uber, Otto) and led their motion planning and safety teams. Jesse grew a private equity backed logistics software company from $2M to $20M+ as CEO.",
@@ -35081,6 +35081,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/haven-2",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/haven-2.json"
+  },
+  {
+    "id": 27858,
+    "name": "Kivo Health",
+    "slug": "kivo-health",
+    "former_names": [
+      "Kivo Health",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ee15c21c618dfd0aa1cbb6bb3be671ac26a2be94.png",
+    "website": "https://kivohealth.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Kivo Health provides AI-powered virtual care for chronic lung disease patients. We offer an Medicare-covered clinical program that improves symptoms and reduces costs of care. ",
+    "one_liner": "AI-powered virtual care for chronic lung disease",
+    "team_size": 25,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1675703099,
+    "tags": [
+      "Consumer Health Services",
+      "Telehealth",
+      "Digital Health",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/kivo-health",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/kivo-health.json"
   },
   {
     "id": 27860,
@@ -39906,52 +39953,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/continue",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/continue.json"
-  },
-  {
-    "id": 28966,
-    "name": "Pincites",
-    "slug": "pincites",
-    "former_names": [
-      "Pincite"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66314affa2a18460ebaf6082abe1eba1272e5498.png",
-    "website": "https://www.pincites.com/",
-    "all_locations": "Menlo Park, CA, USA",
-    "long_description": "Pincites makes contract negotiations faster and more consistent for legal teams. Using LLMs, Pincites takes a first pass at reviewing contracts, helping lawyers focus on riskiest parts of their negotiations.",
-    "one_liner": "Close deals faster with AI for contract negotiation",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1688690921,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Legal",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pincites",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/pincites.json"
   },
   {
     "id": 28980,
@@ -47703,6 +47704,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/weave-robotics.json"
   },
   {
+    "id": 29693,
+    "name": "Gauge",
+    "slug": "gauge",
+    "former_names": [
+      "Bridge"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/baefaa5c93373570223efc7d0248805dd36cba0c.png",
+    "website": "https://withgauge.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Gauge helps your company show up in more AI answers.\r\n\r\nWith traffic leaving search, traditional SEO is dying. Our customers are seeing inbound traffic from AI answers double every quarter.\r\n\r\n",
+    "one_liner": "Get your product featured in AI answers.",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1717523721,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Marketing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gauge",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/gauge.json"
+  },
+  {
     "id": 29695,
     "name": "Dench.com",
     "slug": "dench-com",
@@ -50152,6 +50198,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/simcare.json"
   },
   {
+    "id": 29983,
+    "name": "PathPilot",
+    "slug": "pathpilot",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e75c7444d35c6b426ac80829e6ed40b07d33577d.png",
+    "website": "https://www.getpathpilot.com/",
+    "all_locations": "San Jose, CA, USA",
+    "long_description": "PathPilot is the AI platform powering the next generation of financial operations.\r\nWe build fintech-specialized AI agents that automate the most critical and manual workflows — loan origination, customer support, onboarding, collections, and regulatory oversight — so financial institutions can scale with confidence.",
+    "one_liner": "AI platform helping fintech/bank teams scale efficiently",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1724891975,
+    "tags": [
+      "SaaS",
+      "Finance",
+      "B2B",
+      "Customer Support",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pathpilot",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/pathpilot.json"
+  },
+  {
     "id": 29987,
     "name": "Syntra",
     "slug": "syntra",
@@ -50161,13 +50249,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We integrate with any EHR to ensure you are not under/overcoding instantly instead of having to wait months to hear back from the insurance company.",
-    "one_liner": "Real-time AI audits of medical charts and charges.",
+    "long_description": "Syntra delivers an agentic medical billing platform that automates chart review, claim review, and claim entry with AI. Our specialty-specific AI agents understand the clinical and payer nuances needed to run your RCM function autonomously. Syntra powers hundreds of specialty practices nationwide and processes over $1B in medical claim charges every year.\r\n\r\n",
+    "one_liner": "Agentic billing system for specialty medical practices.",
     "team_size": 6,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
-    "tags": [],
+    "tags": [
+      "Healthcare IT",
+      "Billing",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -54924,11 +55016,11 @@
     "name": "nao Labs",
     "slug": "nao-labs",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc383861067e52763d4fc791adef3e3fa4e6164d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9572a4af92fd7a09438369c8555334bcd54574f8.png",
     "website": "https://getnao.io/",
     "all_locations": "",
     "long_description": "nao is an AI code editor for data teams. Its AI agent is natively integrated with your data warehouse, and trained on data workflows - so it can write code that actually works on your data and guarantees its quality.",
-    "one_liner": "Cursor for data teams.",
+    "one_liner": "AI data IDE",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -58784,11 +58876,11 @@
     "subindustry": "Consumer -> Social",
     "launched_at": 1762213106,
     "tags": [
-      "Artificial Intelligence",
       "Consumer",
       "Social Media",
       "Social",
-      "Social Network"
+      "Social Network",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -59022,7 +59114,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c135d5c13c34c689bf78aa9a3a87d41b5a66518.png",
     "website": "https://www.bravi.app/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our platform automates customer communications with AI voice and chat assistants that answer, qualify, and follow up instantly. Internally, Bravi provides AI-powered knowledge tools that let technical teams search hundreds of product documents in seconds.\r\n\r\nWe’re already working with leading installers and manufacturers in shutters, solar, and construction. One client uncovered 1,000+ missed calls per month that Bravi now converts into over $1M in potential revenue.",
+    "long_description": "We automate customer communication with AI voice and chat assistants that answer, qualify, and follow up instantly. Internally, Bravi gives field and technical teams an AI copilot that can search hundreds of product documents and installation guides in seconds.\r\n\r\nBravi is already used by leading installers and manufacturers across shutters, solar, windows and garage doors. One customer uncovered more than a thousand missed calls per month that Bravi now handles automatically, converting lost demand into new business.\r\n\r\nWe’re becoming the AI layer for the multi-trillion-dollar home-services market.",
     "one_liner": "AI Communication hub for home services companies",
     "team_size": 2,
     "industry": "B2B",
@@ -59055,51 +59147,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/bravi",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bravi.json"
-  },
-  {
-    "id": 30920,
-    "name": "Lexi",
-    "slug": "lexi",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb8c922483150b7ebb7320f8160a0722809b666c.png",
-    "website": "https://getlexi.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Lexi, we are building AI associates for Corporate Law. Our associates learn your firm's standards and improve with every case, having already handled 135,000+ documents across 7,000+ cases.",
-    "one_liner": "AI Associates for Corporate Law",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1758861304,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Legal",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lexi",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/lexi.json"
   },
   {
     "id": 30922,

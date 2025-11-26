@@ -1662,9 +1662,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/73b6704b442fafacacd64a71fafe1899c3d11a6c.png",
     "website": "https://getplutto.com/",
     "all_locations": "Santiago, Santiago Metropolitan Region, Chile",
-    "long_description": "Plutto gathers all the information and documents needed to verify and identify any business in LatAm. We process this information and provide insights to your on-boarding or compliance teams so they can make better decisions. This increases on-boarding speed from weeks to minutes and automates highly manual processes such as requesting and reading documents.",
-    "one_liner": "Verify and validate business customers in minutes for LatAm.",
-    "team_size": 12,
+    "long_description": "Plutto is a supply-chain risk management and compliance platform for Latin America. We automate due diligence, compliance checks, and conflict-of-interest reviews—helping corporates across LatAm work with vendors and contractors safely.",
+    "one_liner": "Supply-chain risk management and compliance platform for Latin…",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1657201173,
@@ -4412,48 +4412,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/hyprnote.json"
   },
   {
-    "id": 30720,
-    "name": "Autosana",
-    "slug": "autosana",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5c7dda83aa113d5017c2cb187435ccccb356bd6a.png",
-    "website": "https://autosana.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Autosana uses AI agents to save countless engineering hours and help teams ship with more confidence. \r\n\r\nTurns natural language into E2E tests, eradicating manual testing and the need to write/maintain UX scripts. Seamlessly integrates into your CI, supports both iOS and Android, and is framework-agnostic (React Native, Flutter, Swift, etc).\r\n\r\nCatching bugs before users do.",
-    "one_liner": "AI Agents for Mobile QA",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1751416575,
-    "tags": [
-      "AIOps",
-      "SaaS",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/autosana",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/autosana.json"
-  },
-  {
     "id": 30852,
     "name": "Nexus",
     "slug": "gpt",
@@ -4666,5 +4624,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/velvet",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/velvet.json"
+  },
+  {
+    "id": 31011,
+    "name": "Openroll",
+    "slug": "openroll",
+    "former_names": [
+      "Compensara"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e85636cc8d85e40e183c3547b34d3f05a5aa19c6.png",
+    "website": "https://www.openroll.com",
+    "all_locations": "Stockholm, Stockholm County, Sweden",
+    "long_description": "Openroll is the AI-native operating system for compensation.\r\n\r\nOpenroll gives companies a single system where compensation finally happens. Offers are sent instantly, budgets stay aligned automatically, promotions stay consistent, and salary decisions are made with confidence. Instead of fragmented tools, spreadsheets, and manual approvals, compensation runs end-to-end in one intelligent system used across the entire organization.\r\n\r\nLearn more at https://www.openroll.com",
+    "one_liner": "AI-Native Workday",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1758664179,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "HR Tech",
+      "Data Visualization",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Sweden",
+      "Europe"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/openroll",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/openroll.json"
   }
 ]

@@ -1905,7 +1905,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -21386,7 +21386,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -25580,13 +25580,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
     "website": "https://www.syntra.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We integrate with any EHR to ensure you are not under/overcoding instantly instead of having to wait months to hear back from the insurance company.",
-    "one_liner": "Real-time AI audits of medical charts and charges.",
+    "long_description": "Syntra delivers an agentic medical billing platform that automates chart review, claim review, and claim entry with AI. Our specialty-specific AI agents understand the clinical and payer nuances needed to run your RCM function autonomously. Syntra powers hundreds of specialty practices nationwide and processes over $1B in medical claim charges every year.\r\n\r\n",
+    "one_liner": "Agentic billing system for specialty medical practices.",
     "team_size": 6,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1723733582,
-    "tags": [],
+    "tags": [
+      "Healthcare IT",
+      "Billing",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -27886,5 +27890,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lunabill",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunabill.json"
+  },
+  {
+    "id": 31183,
+    "name": "Patientdesk.ai",
+    "slug": "patientdeskai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1817be5549646fb9b2b3d779a9bab1f85f130917.png",
+    "website": "https://patientdesk.ai/",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "AI voice agent for patient calls & admin workflows",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1764074488,
+    "tags": [
+      "Customer Service",
+      "Call Center",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/patientdeskai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/patientdeskai.json"
   }
 ]
