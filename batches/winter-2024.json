@@ -3837,15 +3837,15 @@
     "all_locations": "",
     "long_description": "",
     "one_liner": "LLM Security and Compliance",
-    "team_size": 3,
+    "team_size": null,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1702083397,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "Security",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4589,25 +4589,26 @@
   },
   {
     "id": 29347,
-    "name": "Ragas",
-    "slug": "ragas",
+    "name": "Vibrant Labs",
+    "slug": "vibrant-labs",
     "former_names": [
-      "Exploding Gradients"
+      "Exploding Gradients",
+      "Ragas"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f96276163c8da1e965a42a8d981ff344509c39.png",
-    "website": "https://www.ragas.io",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b03fadf62fa443c473d34c31148c9785ea34dceb.png",
+    "website": "https://vibrantlabs.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "The fragmented and proprietary evaluation tools today are leading to significant inefficiencies and confusion among developers. The world needs a standard everyone can rely on and that is why we are building Ragas as the open-source standard. \r\n\r\n\r\nWe have 4k stars on GitHub, 1.3k members in our discord community, and over 80+ external contributors. We also have partnerships with key AI companies like Langchain, Llamaindex, Arize, Weaviate and more to help create a standard.\r\n\r\n\r\nWe already process 5 million evaluations monthly for engineers from companies like AWS, Microsoft, Databricks, and Moody’s and it is growing at 70% month over month.\r\n\r\nWe are building LLM application testing and evaluation infrastructure for Enterprises.\r\n",
-    "one_liner": "Building the open source standard for evaluating LLM Applications",
+    "long_description": "We work on benchmarking and improving the long-horizon capabilities of AI Agents. We build out specialised environments to improve the long-horizon capabilities of browser and computer use agents. ",
+    "one_liner": "RL environments for long horizon AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1709606147,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4630,8 +4631,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ragas",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/ragas.json"
+    "url": "https://www.ycombinator.com/companies/vibrant-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/vibrant-labs.json"
   },
   {
     "id": 29348,
@@ -5599,8 +5600,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a5fb7dd012389ddf81869040550578bb786988ed.png",
     "website": "https://superagent.sh/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Superagent identifies catastrophic failures in AI systems before they reach customers or regulators.\r\n\r\nWe run a fully managed test service that maps where your models, agents, and workflows can cause legal, security, or customer harm, then build and execute targeted test suites around those risks. The tests cover security, compliance, and product-critical failure modes, and produce structured, audit-ready evidence that enterprise buyers require.\r\n\r\nMost customers use Superagent to prove their AI products are safe to deploy and to maintain that assurance as the systems evolve.",
-    "one_liner": "Safety and compliance testing for AI",
+    "long_description": "Superagent makes AI products safe and compliant.\r\n\r\nWe provide defense models and adversarial tests that prevent safety and compliance failures in AI agents and give companies the proof they need for enterprise deals. \r\n\r\nOur small language models, Guard, Redact, and Verify, run inside agents to stop prompt injections, data leaks, and unsafe outputs. Our tests measure prompt resistance, data protection, and factual accuracy so teams know how their system behaves under pressure.",
+    "one_liner": "Defense models and adversarial tests for AI products",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Security",

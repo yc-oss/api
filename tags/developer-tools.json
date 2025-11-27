@@ -15840,7 +15840,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/977767259425ed1273851af858b9587fd34772e4.png",
     "website": "https://sudocode.ai",
     "all_locations": "Mountain View, CA, USA",
-    "long_description": "sudocode lets users code in plain english, by turning technical requirements directly into code.\r\n\r\nTry it out at sudocode.ai",
+    "long_description": "sudocode automates the logistics of managing context windows and orchestrating agents so you can direct the work instead of babysitting agents.\r\n\r\nFully open-source. Try it at sudocode.ai or https://github.com/sudocode-ai/sudocode",
     "one_liner": "code in plain english",
     "team_size": 2,
     "industry": "B2B",
@@ -15870,7 +15870,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sudocode",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/sudocode.json"
   },
@@ -17076,25 +17076,26 @@
   },
   {
     "id": 29347,
-    "name": "Ragas",
-    "slug": "ragas",
+    "name": "Vibrant Labs",
+    "slug": "vibrant-labs",
     "former_names": [
-      "Exploding Gradients"
+      "Exploding Gradients",
+      "Ragas"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/51f96276163c8da1e965a42a8d981ff344509c39.png",
-    "website": "https://www.ragas.io",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b03fadf62fa443c473d34c31148c9785ea34dceb.png",
+    "website": "https://vibrantlabs.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "The fragmented and proprietary evaluation tools today are leading to significant inefficiencies and confusion among developers. The world needs a standard everyone can rely on and that is why we are building Ragas as the open-source standard. \r\n\r\n\r\nWe have 4k stars on GitHub, 1.3k members in our discord community, and over 80+ external contributors. We also have partnerships with key AI companies like Langchain, Llamaindex, Arize, Weaviate and more to help create a standard.\r\n\r\n\r\nWe already process 5 million evaluations monthly for engineers from companies like AWS, Microsoft, Databricks, and Moody’s and it is growing at 70% month over month.\r\n\r\nWe are building LLM application testing and evaluation infrastructure for Enterprises.\r\n",
-    "one_liner": "Building the open source standard for evaluating LLM Applications",
+    "long_description": "We work on benchmarking and improving the long-horizon capabilities of AI Agents. We build out specialised environments to improve the long-horizon capabilities of browser and computer use agents. ",
+    "one_liner": "RL environments for long horizon AI Agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1709606147,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17117,8 +17118,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ragas",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/ragas.json"
+    "url": "https://www.ycombinator.com/companies/vibrant-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/vibrant-labs.json"
   },
   {
     "id": 29362,
@@ -20405,15 +20406,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f75ba97279846098d21850986cc1298a5b21d9a0.png",
     "website": "https://rejot.dev",
     "all_locations": "Amsterdam, NH, Netherlands",
-    "long_description": "At ReJot, we're building a synchronization engine to greatly reduce the complexity of data sharing between backend services within enterprises. The traditional approach is Event Streaming, where events are published to a platform like Kafka. Kafka not only requires significant effort to operate, it also forces engineers to use events. Events come with inherent complexity—they encode something happening rather than something being (i.e., state).\r\n\r\nOur approach is based on replication, where state is transferred directly instead of requiring a back-and-forth conversion to events. We provide primitives to enable teams to break data silos, while keeping in mind data ownership and provenance. Teams define what data their backend publishes and requires, and we'll make sure everything is reactively up-to-date. ReJot works on top of existing infrastructure such as Postgres.\r\n",
-    "one_liner": "Sync engine to share data across engineering teams in enterprises",
+    "long_description": "ReJot is building Fragno to let API companies go from simply exposing an API to offering drop-in integrations that work out of the box.\r\n\r\nFragno is an open‑source framework for packaging backend endpoints, data storage patterns, and frontend utilities into reusable building blocks. API providers ship full integrations, not just low‑level SDKs and docs.\r\n\r\nCustomers configure rather than write code, so integrations are both much faster to launch and far more consistent across customers.",
+    "one_liner": "We turn complex API integrations into drop‑in full‑stack libraries ",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1737760830,
     "tags": [
       "Developer Tools",
-      "Enterprise Software",
+      "API",
       "Infrastructure",
       "Databases"
     ],
