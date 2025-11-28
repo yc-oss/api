@@ -464,17 +464,17 @@
     "website": "https://usemixy.com",
     "all_locations": "",
     "long_description": "Live out your DJ dreams with Mixy, the mind-blowing music app that lets you mash-up any song in seconds.\r\n\r\n⁕ Add your songs\r\n⁕ Instantly blend vocals and beats\r\n⁕ Play and share your mashup anywhere\r\n\r\nThere’s no limit to your imagination!\r\n\r\n⁕ Launched to #1 in Music on June 19th\r\n⁕ 1.5M users in 3 months\r\n⁕ 15M mashups made and growing",
-    "one_liner": "Make Mashups",
+    "one_liner": "Make mashups without knowing how to DJ",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1758155628,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "Entertainment",
       "Social",
-      "Music",
-      "AI"
+      "Music"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -801,17 +801,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f28d39fea2309ac2fc4d42b7be088ee964dccf6a.png",
     "website": "https://uplane.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Uplane uses AI to automate digital advertising.\r\n\r\nUplane's AI platform creates thousands of ad campaigns with matching landing pages for each one, and allocates budgets across Meta, Google, TikTok and more. By connecting to CRM and ERP data, Uplane learns what drives profit and continuously improves campaigns.\r\n\r\nCompanies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by replacing a patchwork of agencies, spreadsheets, and siloed tools with one self-improving system. The result: 20-50% higher ROAS for enterprises and effortless, expert-level marketing for SMBs.\r\n\r\nDigital marketing is a $740B market with a 10% CAGR. Uplane charges a base fee plus up to 10% of ad spend, outperforming marketing agencies that typically charge 10-30%.\r\n\r\nThe team has deep founder-market fit: Julius managed a 7-digit monthly ad budget at one of the biggest ad spenders in Europe; Marvin has an academic background in Data Science (Imperial, Harvard) and led growth analytics & operations at a unicorn; Lukas was Head of Engineering at two YC startups, Blair (S19) and Fastgen (W23).",
-    "one_liner": "Automate digital advertising with AI",
-    "team_size": 6,
+    "long_description": "Uplane replaces marketing agencies with AI. We generate hundreds of ads with matching landing pages and steer the ad spend across channels like Meta, Google, LinkedIn and others. By connecting to CRM and ERP data, Uplane learns what drives profits and continuously improves campaigns.\r\n\r\nWe’ve grown from $0 to $29k MRR in only 4 months. Our largest customer recently fired their ad agency at an all-time performance high, just to work with us. Now they get 20 times as many ads per month as before. And the landing pages we generate convert up to 3-times as well as the status quo. Even the best marketing managers in the world can’t beat AI at personalization and A/B testing.\r\n\r\nDigital marketing is a $740B market with a 10% CAGR. Uplane charges a base fee plus up to 10% of ad spend, outperforming marketing agencies that typically charge 10-30%.",
+    "one_liner": "Replace marketing agencies with AI",
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1759250646,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Advertising"
+      "Analytics",
+      "Advertising",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1315,11 +1316,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1761607655,
     "tags": [
-      "Artificial Intelligence",
       "Computer Vision",
       "B2B",
       "Video",
-      "Media"
+      "Media",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2048,7 +2049,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
+    "question_answers": false,
     "url": "https://www.ycombinator.com/companies/questom",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/questom.json"
   },
@@ -3426,7 +3427,7 @@
     "subindustry": "B2B",
     "launched_at": 1760645667,
     "tags": [
-      "AI",
+      "Artificial Intelligence",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -3505,7 +3506,7 @@
     "website": "https://compyle.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Compyle is a less autonomous coding agent that asks before it acts. We're like Cursor or Claude Code - but you won't need to rewrite your codebase every time you use it for more than a small task.\r\n\r\nWe built Compyle because we were frustrated with the direction other coding agents are headed. They're all racing to be more autonomous, running for hours without human input.\r\n\r\nThis doesn't work for real production code. When agents run autonomously, they make countless small decisions that pile up in your codebase. Engineers lose ownership - they don't know what was implemented, can't effectively debug or maintain it, and struggle to build on top of it. The code becomes a black box, and they're forced to throw it away.\r\n\r\nCompyle keeps engineers in the driver's seat.",
-    "one_liner": "Lovable for Software Engineers",
+    "one_liner": "The coding agent that actually collaborates with you",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -4142,7 +4143,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fb8df693185d3d01a607d26dc392fa6f5307be2a.png",
     "website": "https://www.expectedparrot.com",
     "all_locations": "Cambridge, MA, USA",
-    "long_description": "We help companies simulate their customers and explore pricing, product, marketing, communications and other high-impact business decisions at scale. We have an open-source library and no-code web app for designing custom agents and conducting interviews and surveys with them using LLMs of your choice to generate results and reports. Everything is cached and reproducible, and you can automatically send the same surveys to human respondents to calibrate your agents and validate answers at any time.",
+    "long_description": "Expected Parrot helps companies simulate their customers with AI agents to explore pricing, product, marketing, communications and other high-impact business decisions at scale. Our open-source library and no-code web app let you design custom agent personas and conduct interviews and surveys with them using LLMs of your choice to generate results and reports. Everything is cached and reproducible, and you can automatically send the same surveys to human respondents to validate results at any time.",
     "one_liner": "Simulate your customers with AI agents.",
     "team_size": 5,
     "industry": "B2B",
@@ -5112,16 +5113,16 @@
     "website": "https://www.karumi.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Karumi is an AI agent that joins a live video call with your prospects to deliver personalized product demos, 24/7, in any language.\r\n\r\nIt bridges the gap between your landing page and your sales team by engaging visitors at the peak of their interest, turning curiosity into conversion. For those not ready to talk to sales but eager to explore, Karumi offers the next generation of interactive, self-guided demos.",
-    "one_liner": "AI-powered product demos",
+    "one_liner": "Personalized demos at scale, powered by AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1761723346,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "Sales",
-      "AI"
+      "Sales"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5134,9 +5135,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -5243,7 +5242,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Exonic is building a global network of intelligence to cure all disease.\r\n\r\nWe are the first drug discovery company open to everyone.\r\n\r\nToday drug discovery is siloed - secretive, adversarial institutions in glass towers.\r\n\r\nBiological AI is changing the rules. Every day drug discovery becomes more of a computational problem.\r\n\r\nExonic is turning drug discovery into an open, meritocratic tournament.\r\n\r\nWe are advised by world leaders in bio AI, including the former Head of AI at Ginkgo Bioworks, and the first author of Evo (cover of Science). \r\n\r\nAll of the best biological AI models are open source. And on Exonic, you can combine them, prompt them, and share your innovative workflows without writing a single line of code. \r\n\r\nUsing Exonic Studio, we just beat a state-of-the-art benchmark in liver cancer (HepG2) synthetic enhancer design, validated in our wet lab.\r\n\r\nThe platform just went live - you can start right now.\r\n\r\nWe are turning the internet into a drug discovery powerhouse.",
     "one_liner": "Crowdsourcing drug discovery.",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Drug Discovery and Delivery",
     "launched_at": 1762663893,
@@ -5291,10 +5290,10 @@
     "subindustry": "B2B",
     "launched_at": 1762304310,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Enterprise",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -6338,7 +6337,7 @@
     "website": "https://fixpoint.co/",
     "all_locations": "",
     "long_description": "Fixpoint is Deel for human data annotation: automating the sourcing, vetting, and management of data labelers.\r\n\r\nIt used to be a manual process to staff people on AI training data or eval projects - but Fixpoint leverages AI to staff people and create data better, cheaper, and faster. This includes a network of pre-vetted experts, AI-automated vetting, and annotator management + payroll.",
-    "one_liner": "Deel for human data annotators",
+    "one_liner": "Deel for human data annotation",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Human Resources",
@@ -6539,7 +6538,7 @@
     "name": "Zephyr Fusion",
     "slug": "zephyr-fusion",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3bc97204b0d665ad12d9be818e42b4dccfcd7ba.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c896e2a98ef03115005ed5ae8acd4500d7eea752.png",
     "website": "https://www.zephyrfusion.com",
     "all_locations": "San Diego, CA, USA",
     "long_description": "Zephyr Fusion is building the first in-orbit fusion power source: a megawatt-class reactor enabling large-scale industry in space, at a fraction of the cost of equivalent solar.\r\n\r\nFounded by former physicists from Lawrence Livermore and Oak Ridge National Laboratories, Zephyr leverages decades of fusion research to deliver a compact magnetic confinement system designed to take advantage of the space environment.",
