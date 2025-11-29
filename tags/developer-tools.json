@@ -2770,7 +2770,7 @@
     "long_description": "Any business - from travel startups to financial enterprises - can build with Duffel. Shop flights and accommodation, purchase extras, manage bookings and more.",
     "one_liner": "The complete toolkit to sell travel.",
     "team_size": 70,
-    "industry": "B2B",
+    "industry": "Consumer",
     "subindustry": "B2B",
     "launched_at": 1525230394,
     "tags": [
@@ -2787,7 +2787,8 @@
     "batch": "Summer 2018",
     "status": "Active",
     "industries": [
-      "B2B"
+      "Consumer",
+      "Travel, Leisure and Tourism"
     ],
     "regions": [
       "United Kingdom",
@@ -8412,7 +8413,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -12580,18 +12581,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/737382941e8e44eb83d28fa6b26854131dcdfcf9.png",
     "website": "https://trigger.dev",
     "all_locations": "London, England, United Kingdom",
-    "long_description": "Trigger.dev is the open source platform for building AI workflows in TypeScript. Long-running tasks with retries, queues, full observability, and elastic scaling.\r\n\r\nPreviously, the founders built JSON Hero, an open source JSON viewer that is currently used by more than 35k developers a month. Eric was CTO of Code School, an early code learning platform that was acquired in 2015. Matt created two iPad apps that won Apple’s App of the Year.",
+    "long_description": "Trigger.dev is the open source platform for building AI agents and workflows in TypeScript. Long-running tasks with retries, queues, full observability, and elastic scaling.\r\n\r\nPreviously, the founders built JSON Hero, an open source JSON viewer that is currently used by more than 35k developers a month. Eric was CTO of Code School, an early code learning platform that was acquired in 2015. Matt created two iPad apps that won Apple’s App of the Year.",
     "one_liner": "Build and deploy fully‑managed AI agents and workflows",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1665673307,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -21049,8 +21050,8 @@
     "former_names": [
       "Percival Technologies"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e3360b8e2473286288f70d61dbda9fd5cc72aee9.png",
-    "website": "https://www.percivaltech.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdf1ebc7dc7ea895611a77f39a7009d41c1f8342.png",
+    "website": "https://percy.tech",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Building an AI copilot for researchers to analyze and transform real-world data.",
     "one_liner": "Accelerating data analysis for research",
@@ -21059,9 +21060,9 @@
     "subindustry": "B2B",
     "launched_at": 1745969288,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Data Science"
+      "Data Science",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22546,7 +22547,7 @@
     "website": "https://parse.bot",
     "all_locations": "",
     "long_description": "Parse lets developers build APIs for any website in seconds at fractions of a cent per call. Unlike traditional scraping tools that rely on slow, expensive headless browsers, Parse reverse-engineers websites' underlying network requests and generates optimized API endpoints automatically. This makes Parse 10-100x faster and significantly cheaper than browser automation, enabling use cases like real-time price monitoring, lead generation, and data integration that were previously impractical.",
-    "one_liner": "Build an API to interact with any website in seconds. ",
+    "one_liner": "Build an API to interact with any website.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -22715,7 +22716,7 @@
     "website": "https://usedari.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "An automation platform where users can reliably automate web workflows using natural language prompts.\r\n\r\nWe handle two-factor authentication and deterministic playback of workflows, ensuring your workflows don't break. ",
-    "one_liner": "The easiest way to build reliable browser use agents.",
+    "one_liner": "An API to build the most reliable browser use agents",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -22758,7 +22759,7 @@
     "website": "https://soren-ai.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Soren builds autonomous agents to replace human engineers on manual AI evaluation tasks.\r\n\r\nEvals are essential for building reliable AI systems, yet they remain incredibly time-consuming. Teams spend countless hours maintaining their evals and digging through piles of logs and traces to debug their systems. At scale, this level of manual work simply isn’t sustainable.\r\n\r\nSoren changes that with powerful agents that work alongside your team. They reason across test cases and logs to pinpoint root causes, then run targeted experiments to surface better-performing solutions. New test cases are added whenever new behaviors are detected, so engineers can stop doing ad-hoc maintenance.\r\n\r\nWe're building a future where AI handles the work and humans simply provide oversight.",
-    "one_liner": "The AI engineer for evals.",
+    "one_liner": "AI agents for evaluating and debugging AI systems.",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -22768,7 +22769,7 @@
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Analytics"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22799,8 +22800,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/676b9954fbd7936ce531db4514cc008a76ca7a4d.png",
     "website": "https://heysanctum.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sanctum lets you launch new features to agent swarms that mimic your users before releasing to real customers. We build AI user models from your session recordings and run them against your changes to surface bugs, UX issues, and performance problems early.",
-    "one_liner": "Ship features to simulated users before real ones",
+    "long_description": "Sanctum lets you launch new features to agents that mimic your real users. We build AI user models from your session recordings and run them against your changes to surface bugs, UX issues, and performance problems early.",
+    "one_liner": "Catch software issues with user simulations",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -23270,8 +23271,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d6cf9656ff81c358bc8acc1f8b0221e2f963a06.png",
     "website": "https://metorial.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Metorial is Vercel for MCP. We build the enterprise-ready infra layer for AI integrations. Our serverless MCP runtime comes with sub-second cold starts, built-in security, and monitoring. We make it easy for developers to connect AI agents to APIs and data sources at scale.",
-    "one_liner": "Vercel for MCP",
+    "long_description": "Metorial is the infra layer for AI integrations. We built the only serverless MCP runtime that can maintain state with sub-second cold starts, built-in security, and monitoring. We make it easy for developers to connect AI agents to apps and data sources at scale.",
+    "one_liner": "The infra layer for AI integrations.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -23360,10 +23361,10 @@
     "subindustry": "B2B",
     "launched_at": 1762304310,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Enterprise",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -23394,7 +23395,7 @@
     "former_names": [
       "Castar"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20c64526d1a467a80b1b85a5386053d1f5a8a444.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b8f2a59336dfc904201981cfcd3455964d5be2.png",
     "website": "https://castari.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Castari lets developers deploy AI agents in secure, autoscaling sandboxes with one command. We handle tool/MCP connectors, snapshots, and observability so teams go from prototype to production in hours instead of weeks.\r\n\r\nDevelopers focus on building agents, Castari provides the autoscaling sandbox infrastructure to ensure your agents and its tools are secure.",
