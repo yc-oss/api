@@ -19152,51 +19152,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/zeropath.json"
   },
   {
-    "id": 29826,
-    "name": "Orca",
-    "slug": "orcaengine",
-    "former_names": [
-      "Titan",
-      "Simplifine"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ce0c43be54d93fe3569a81f9840b0bb15401e733.png",
-    "website": "https://orcaengine.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Simplifine is making Orca, the open-source AI game engine, so you don't need to give your years to make a game. We are integrating a chat bot, with complete access to Godot. The chatbot can:\r\n\r\nRead/edit/create/delete files\r\nUnderstand the entire project as context\r\nCreate images and keep consistency across images created\r\nEdit Godot native objects, e.g. nodes, scenes, ...",
-    "one_liner": "Jet engine for game development",
-    "team_size": 2,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1723501563,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Consumer",
-      "Gaming",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/orcaengine",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/orcaengine.json"
-  },
-  {
     "id": 29835,
     "name": "Voker",
     "slug": "voker",
@@ -20366,17 +20321,17 @@
     "website": "https://lucidic.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "As AI agents take on more consequential workflows, the hard part isn’t just whether they work—it’s whether they behave consistently with your company’s knowledge, policies, and expectations. Lucidic AI turns that institutional knowledge into consistent agent behavior by continuously testing, stress-simulating, and auto-optimizing agents against your real production scenarios.\r\nLucidic ingests your real logs, edge cases, and operational rules, then uses controlled simulations, reinforcement learning, and Bayesian optimization to automatically discover failure modes, propose targeted fixes, and verify improvements before anything reaches production. Instead of relying on manual prompt fiddling or guesswork, your agents get a continuous improvement loop: they’re tested, corrected, and optimized based on what your business actually requires—not what a generic model assumes.\r\nThe result is AI agents that reliably follow your domain logic, adapt to changes, and stay aligned across clients, configurations, and environments—without you needing to hand-engineer every prompt or behavior.",
-    "one_liner": "Simulations for AI Agents",
+    "one_liner": "AI Agent Training via Simulations",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1736904770,
     "tags": [
       "AIOps",
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -20530,7 +20485,7 @@
     "name": "Mastra",
     "slug": "mastra",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fff9ee9f605429bb5f88b472b70d8a265a0328bf.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6e5f319cbd11b23e8938be90ed120209a914c0a.png",
     "website": "https://mastra.ai",
     "all_locations": "Remote",
     "long_description": "Mastra is the easiest way to build a production AI application, built by the team that brought you Gatsby. We provide a complete set of AI primitives: workflows for complex operations, agents for autonomous decisions, RAG for knowledge integration, and evals for quality & accuracy. Mastra is open-source, modular, and built in Typescript for product developers. You can deploy Mastra on any cloud, and it gives you a straightforward syntax to solve the hardest problems building with AI: human-in-the-loop workflows, agent memory and tool selection, and output quality. ",
@@ -22679,11 +22634,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1759953898,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Analytics",
-      "Monitoring"
+      "Monitoring",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22765,11 +22720,11 @@
     "subindustry": "B2B",
     "launched_at": 1759390917,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22887,15 +22842,15 @@
     "website": "https://www.withrovr.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Rovr streamlines engineering operations by automating intake, triage, routing, and cross-team coordination. It replaces internal forms, manual Slack triage, and scattered docs with an AI front desk that understands requests, assigns owners, updates context, and posts status changes directly into Slack. Rovr’s built-in ops CRM gives teams a single system of record for eng requests — from tooling access to platform incidents to dev-infra workflows — reducing operational drag across the entire org.",
-    "one_liner": "AI Ops Engine that runs your engineering workflows",
+    "one_liner": "AI FDE Engine that runs your engineering workflows",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1761690618,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22981,10 +22936,10 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1762248076,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Design",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23464,8 +23419,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Remote",
-      "Partly Remote"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
