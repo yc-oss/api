@@ -8562,9 +8562,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e506d56d7c881b7aaf4341d22a276be88c1ec16.png",
     "website": "https://www.mutinyhq.com",
     "all_locations": "New York, NY, USA",
-    "long_description": "Mutiny is an AI Revenue Engine that helps B2B companies unify sales and marketing to break into their most valuable accounts.",
-    "one_liner": "AI Revenue Engine to help sales and marketing teams close large…",
-    "team_size": 45,
+    "long_description": "Mutiny is building a first-class agentic GTM platform that unifies sales and marketing to help companies close enterprise deals faster. Our customers are enterprise marketing and sales teams who face a fundamental challenge: what works isn’t scalable, and what’s scalable doesn’t work. Mutiny is solving this by combining AI agents, creative workflows, and deep integrations to deliver personalized marketing and sales experiences at scale.\r\n\r\nOur customers include some of the fastest-growing B2B companies—Uber, Amplitude, Qualtrics, and LaunchDarkly. We are backed by Sequoia Capital, Tiger Global, Insight Partners, and Y Combinator.",
+    "one_liner": "AI for Enterprise GTM",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1526439893,
@@ -29526,6 +29526,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/olympian-motors.json"
   },
   {
+    "id": 26051,
+    "name": "GIMO",
+    "slug": "gimo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c68de92438a9912956f54bb8432706d4b265d422.png",
+    "website": "https://gimo.vn/en",
+    "all_locations": "Hanoi, Hanoi, Vietnam",
+    "long_description": "We are building a new financial platform that helps underbanked workers get paid as they earn it, anytime, anywhere. By partnering up with corporate employers, GIMO is providing a mobile financial application as a benefit to their employees, aiming at changing the way the employees earn, spend, save and invest.",
+    "one_liner": "We help underbanked workers get paid before payday",
+    "team_size": 70,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1639507973,
+    "tags": [
+      "Fintech",
+      "Payments"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "Vietnam",
+      "Southeast Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/gimo",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/gimo.json"
+  },
+  {
     "id": 26108,
     "name": "GoSats",
     "slug": "gosats",
@@ -31123,18 +31165,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a2858087cb4a0409dfdf9550fd470d4f1798ec6.png",
     "website": "https://juicebox.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "In the past decade, the recruiting industry has not had any innovation. AI has created an opportunity to disrupt it through software that can reason and take actions.\r\n\r\nJuicebox is an AI-powered recruiting platform. We build agentic workflows to identify, assess, and engage the best talent.\r\n\r\nWe’ve grown to 7 figures in revenue with 20% monthly growth. We have 500+ customers including Patreon, Replit, and leading AI labs.",
+    "long_description": "Juicebox is on a mission to help teams win the talent war.\r\n\r\nIn the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.\r\n\r\nTeams at Ramp, Perplexity, and leading AI labs use Juicebox to power their hiring, alongside 3,000+ customers from early-stage startups to Fortune 500 companies.\r\n\r\nWe’ve crossed $10M in ARR with 20%+ monthly growth, powering thousands of searches every day and making Juicebox one of the fastest-growing AI SaaS companies in the world.\r\n\r\nJuicebox has raised $36M in funding, including a $30M Series A led by Sequoia Capital. Additional investors in Juicebox include Coatue, NFDG, Lux Capital, Y Combinator, and BOND Capital.",
     "one_liner": "AI-powered talent sourcing for recruiters",
-    "team_size": 14,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1659905940,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Recruiting",
-      "HR Tech",
-      "AI"
+      "HR Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -31148,9 +31190,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -35951,7 +35991,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38574,7 +38614,7 @@
     "regions": [
       "Unspecified"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -38845,14 +38885,18 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/572a5971c1a0245d7008a992165eb1146a0f145c.png",
     "website": "https://www.sid.ai",
-    "all_locations": "",
-    "long_description": "We make it easy for developers to connect data to their LLM apps. Instead of spending months on integrations and retrieval pipelines, Reworkd's AgentGPT added our button in an afternoon and let thousands of people connect their Notion, email and Drive instantly.\r\n\r\nEvery single AI company is building data retrieval. Currently, they're doing this from scratch – we don't think they should have to. Just like OpenAI made working with LLMs as simple as an API call, SID makes it easy for every AI company to access data the same way.",
-    "one_liner": "Serverless RAG to connect AI to company, industry, or person-specific…",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "SID is an AI research lab based in San Francisco. We train models that can retrieve and reason over any data source.",
+    "one_liner": "AI research lab for retrieval",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1689093789,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Infrastructure",
+      "AI"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -38864,7 +38908,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -40629,7 +40674,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7d5b43cf42b46a6425da47dbd166eb9eb4f389a.png",
     "website": "https://www.collectpure.com/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "Los Angeles, CA, USA",
     "long_description": "Pure is the first transparent marketplace for the $11B Rare Coins Sector & $55B Precious Metals sector. We make it easy to buy & sell authenticated rare coins and precious metals such as Gold, Silver, Platinum, Palladium & Rhodium. ",
     "one_liner": "Marketplace for Rare Coins & Precious Metals",
     "team_size": 10,
@@ -42924,8 +42969,8 @@
     "website": "https://www.greenboard.com",
     "all_locations": "New York, NY, USA",
     "long_description": "Greenboard is building a singular, AI-powered platform to handle management of the entirety of financial firms’ compliance programs, and eventually all back office processes. Today, financial institutions use Greenboard to detect risk using AI and to rip out and replace the bad legacy back office tooling they have wanted to get rid of for years.\r\n \r\n\r\n\r\nGreenboard's mission is to enable financial institutions to operate their back office teams at a higher standard, with half of the headcount. We’re starting with compliance",
-    "one_liner": "'Rippling' for Financial Compliance and Operations ",
-    "team_size": 9,
+    "one_liner": "Modern OS for the financial back office. ",
+    "team_size": 17,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1700498020,
@@ -42943,7 +42988,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -43914,51 +43959,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bilanc",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/bilanc.json"
-  },
-  {
-    "id": 29376,
-    "name": "Carma",
-    "slug": "carma",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/995749b249373d88528eca173b29dc4d2d8e77da.png",
-    "website": "https://www.joincarma.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Carma, we’re revolutionizing the fleet management space by building a massively simplified experience for commercial fleet operators to receive same-day repair and maintenance for any vehicle with real-time, transparent quotes from highly-vetted service center partners with a guaranteed 24-hour turnaround.\r\n\r\nFleet operators face the challenging task of keeping hundreds or thousands of vehicles on the road cost-efficiently with minimal downtime. Our platform solves this precise problem, powering operations for our fleet customers with every tool needed for modern fleet management - real-time service tracking, cost verification, diagnostics visibility, and so much more. We are tackling an enormous market—worth $177 billion in the United States alone.\r\n\r\nWe're growing very rapidly and are looking for superstars to join us on our rocketship growth as we relentlessly work towards building a multi-billion dollar company to take over the outdated fleet management market.\r\n\r\nJoin us if you're eager to make a significant impact and be part of an explosive-growth startup from the ground up.",
-    "one_liner": "Same-Day Auto Repair for Commercial Fleets.",
-    "team_size": 15,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1701065445,
-    "tags": [
-      "Auto Commerce",
-      "Marketplace",
-      "B2B",
-      "Trust & Safety",
-      "Automotive"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/carma",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/carma.json"
   },
   {
     "id": 29377,
@@ -50387,13 +50387,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Run parallel agents in isolated workspaces. See at a glance what they’re working on, then review and merge their changes. ",
     "one_liner": "Run a team of coding agents on your Mac",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725301012,
     "tags": [
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -51402,43 +51402,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/curo",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/curo.json"
-  },
-  {
-    "id": 30086,
-    "name": "Autumn",
-    "slug": "autumn",
-    "former_names": [
-      "Recase"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a032c69ab86b17f432855010110e329002ec9e2.png",
-    "website": "https://useautumn.com",
-    "all_locations": "",
-    "long_description": "Autumn is open-source infrastructure over Stripe that allows AI startups to build their pricing plans quickly, and flexibly. We act as your app's DB and manage who's paying for what, track usage and manage customer feature access.\r\n\r\nYC companies use us because we make it easy to handle common pricing models like usage-based, credits, subscriptions, rollovers and more in 3 functions and no webhooks. \r\n\r\nAs you scale, you get reliable billing, that you can change however you want without wrangling code (we handle versioning, migrations etc), and manage custom pricing too. Everything you could down the line (credits, multiple subscription groups, rollovers, referral program, usage analytics, centralized team billing etc), you can drop in at any point. ",
-    "one_liner": "Billing infrastructure for AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1730430835,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/autumn",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/autumn.json"
   },
   {
     "id": 30089,
@@ -53596,46 +53559,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/athenahq.json"
   },
   {
-    "id": 30269,
-    "name": "Strike",
-    "slug": "strike",
-    "former_names": [
-      "PowerPlay"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e3212b214ed79ac19b611c2453947f4caaa6755d.png",
-    "website": "http://tradestrike.app",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Still in stealth, reach out to learn more!",
-    "one_liner": "Prediction markets for businesses",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1740523068,
-    "tags": [
-      "Marketplace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/strike",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/strike.json"
-  },
-  {
     "id": 30274,
     "name": "Trata",
     "slug": "trata",
@@ -54559,6 +54482,42 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/butter",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/butter.json"
+  },
+  {
+    "id": 30336,
+    "name": "Atlog",
+    "slug": "atlog",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3405b06390efd124a27be23179a4e549fc3f10d0.png",
+    "website": "https://atlog.ai",
+    "all_locations": "",
+    "long_description": "Atlog creates voice agents with built-in compliance. Companies use Atlog to automate their calls and texts without worrying about getting sued.",
+    "one_liner": "Voice AI That Won't Get You Sued",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1748272733,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/atlog",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/atlog.json"
   },
   {
     "id": 30337,
@@ -56864,7 +56823,7 @@
     "all_locations": "",
     "long_description": "The problem:\r\nPeople are no longer searching on Google. They’re ASKING AI. If your product doesn’t appear in AI answers, you’re dead.\r\n\r\nHow it works:\r\n1. Find & analyze user questions: We find the exact questions your users ask and check how often your product is mentioned.\r\n2. Create content: We tell you what to post, where to post, and do it for you.\r\n3. Route to AI-optimized page: We redirect AI traffic to AI-optimized page\r\n\r\nOffer: Get your free AI visibility report → promptingcompany.com",
     "one_liner": "We help products get mentioned in ChatGPT.",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1755802702,
@@ -58348,44 +58307,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/humoniq.json"
   },
   {
-    "id": 30734,
-    "name": "Avelis Health",
-    "slug": "avelis-health",
-    "former_names": [
-      "Avelis"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9759643303306b86f190396a0aa959a693947140.png",
-    "website": "https://avelishealth.com",
-    "all_locations": "",
-    "long_description": "𝐖𝐡𝐲 𝐰𝐞 𝐛𝐮𝐢𝐥𝐭 𝐭𝐡𝐢𝐬:\r\nI (Angel) have had three knee surgeries since my mid-teens and was billed more than $250K for care that should have cost a fraction of that. Fighting those inflated charges was so painful that we set out to build a consumer-facing AI agent to do it for others. In less than five months, we helped sixty patients erase or reduce over $300K from their medical bills.\r\n\r\nThis inspired us to fix the problem farther upstream: stopping bad payments before the patient ever sees a bill. So we launched payment integrity, machine-learning models that audit every medical claim for self-insured employers and health plans in real time.\r\n\r\n𝐓𝐡𝐞 𝐏𝐫𝐨𝐛𝐥𝐞𝐦:\r\n• Self-insured employers waste $60 B+ each year on claims that never should have been paid. Healthcare is the 2nd largest company expense after payroll.\r\n\r\n• Manual audits are slow and partial: Reviewers focus only on high-dollar claims, letting millions more slip through unnoticed.\r\n\r\n• Existing audit software is static: Decades-old rule engines can’t keep pace with evolving codes, contracts, or billing tactics.\r\n\r\n• Incentives are misaligned: Third-party administrators are paid to process claims, not to police them, so accuracy checks are minimal.\r\n\r\n𝐎𝐮𝐫 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧:\r\nOur models audit medical claims before and after payments have been issued. We catch nuanced billing, coding, and contract errors to save 3-7% on annual claims spend. We work with self-insured employers and health plans.\r\n\r\n𝐀𝐛𝐨𝐮𝐭 𝐔𝐬:\r\nAngel Onuoha (CEO) and Ahmad Shehu (CTO) have worked together for 4 years. Before Avelis Health they built Zuvy, a Lagos-based fintech company that provided invoice factoring to small businesses. Zuvy was acquired by The BAS Group in 2025.",
-    "one_liner": "We audit medical claims for self-insured employers and health plans.",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1753718864,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avelis-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/avelis-health.json"
-  },
-  {
     "id": 30738,
     "name": "Altur",
     "slug": "altur",
@@ -59208,9 +59129,9 @@
     "subindustry": "B2B",
     "launched_at": 1758900227,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Infrastructure",
+      "AI",
       "Conversational AI"
     ],
     "tags_highlighted": [],
@@ -59237,11 +59158,55 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bolna-ai.json"
   },
   {
+    "id": 30885,
+    "name": "Semble AI",
+    "slug": "semble-ai",
+    "former_names": [
+      "Cadence",
+      "Cadlit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15b0437dc4c919af5fc88d2d21f7c78539cfe9a1.png",
+    "website": "https://www.sembleai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Semble AI builds AI agents that design building-systems (fire, HVAC, plumbing, security). Construction companies use Semble to cut down weeks on commercial and residential projects. \r\n\r\nThe $600B building-system integration industry still runs on spreadsheets and manual drawings, even as building codes rapidly evolve and become more localized. It’s a massive blind spot for the tech world. \r\n\r\nJonathan and Ethan met studying computer science at Stanford. Jonathan worked at Convergint, one of the world's largest building system integrators, specifically for the purpose of learning how this industry works. Ethan is obsessed for a different reason: His house burned down in 2017 due to a faulty fire system.\r\n\r\nThey are determined to make Semble the industry standard for construction design.\r\n",
+    "one_liner": "Autonomous building-system design for construction companies.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1758754473,
+    "tags": [
+      "SaaS",
+      "Design Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/semble-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/semble-ai.json"
+  },
+  {
     "id": 30917,
     "name": "Bravi",
     "slug": "bravi",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c135d5c13c34c689bf78aa9a3a87d41b5a66518.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f454d5ba03bb70a84b22fc085d9687287771440b.png",
     "website": "https://www.bravi.app/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We automate customer communication with AI voice and chat assistants that answer, qualify, and follow up instantly. Internally, Bravi gives field and technical teams an AI copilot that can search hundreds of product documents and installation guides in seconds.\r\n\r\nBravi is already used by leading installers and manufacturers across shutters, solar, windows and garage doors. One customer uncovered more than a thousand missed calls per month that Bravi now handles automatically, converting lost demand into new business.\r\n\r\nWe’re becoming the AI layer for the multi-trillion-dollar home-services market.",

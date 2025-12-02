@@ -7389,7 +7389,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -13756,53 +13756,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/boundary.json"
   },
   {
-    "id": 27939,
-    "name": "Defog.ai",
-    "slug": "defog-ai",
-    "former_names": [
-      "Data Narratives"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cec525dadbe8e5b36cf08f0d30035025bee9f88b.png",
-    "website": "https://defog.ai",
-    "all_locations": "Singapore, Singapore",
-    "long_description": "Defog lets your business users query data in seconds, using everyday language.\r\n\r\nWe are powered by SQLCoder – our state of the art open-source model that can search and visualise structured data (like SQL databases or Data Warehouses), and can be further fine-tuned and and deployed on-prem on your servers.",
-    "one_liner": "Fine-tuned LLMs for enterprise data analysis",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1672890387,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "Machine Learning",
-      "Open Source",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "Singapore",
-      "Southeast Asia",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/defog-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/defog-ai.json"
-  },
-  {
     "id": 27941,
     "name": "Sage AI",
     "slug": "sage-ai",
@@ -19335,13 +19288,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Run parallel agents in isolated workspaces. See at a glance what they’re working on, then review and merge their changes. ",
     "one_liner": "Run a team of coding agents on your Mac",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1725301012,
     "tags": [
-      "Developer Tools",
-      "AI"
+      "Artificial Intelligence",
+      "Developer Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22547,11 +22500,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1760534513,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Machine Learning",
       "B2B",
-      "Infrastructure",
-      "AI"
+      "Infrastructure"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22594,9 +22547,9 @@
     "subindustry": "B2B",
     "launched_at": 1759160221,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23019,7 +22972,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e147d1eb5a08ce6e087e44a2f10d637816c7c5db.png",
     "website": "https://tryscott.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Get to your best spec faster. Align with your team faster. Let coding agents take on larger tasks. Scott lets teams orchestrate “swarms of experts” to debate architecture designs, making it easy for developers to discover and align on the best plan before handing it off to execution-oriented agents like Claude, Codex, or Cursor.\r\n\r\nScott came from our own pain trying to build with coding agents on products that serve millions of users. We realized that the real productivity blocker is no longer coding speed. It’s ensuring that coding agents are aligned with developer intent. Scott AI addresses this problem by re-imagining the software design process with coding agents as first class participants.",
+    "long_description": "Scott AI is the agentic workspace where teams align on specs before any codegen runs.\r\n\r\nTeams use multiple coding agents. Different agents will have different strengths. An engineer will entrust a long-running agent to add dark-mode end-to-end while they pair carefully with an IDE-based agent on a critical DB migrations in parallel. These execution agents can’t be used for plan alignment because they are biased to their own tool. Scott is the missing layer that will link agent agnostic high-level intent to code agent workloads. Teams will use Scott as their shared decision layer to structure plans, surface tradeoffs, and empower developers to determine which parts of the plan each coding agent should handle.",
     "one_liner": "Agentic Workspace for Software Spec Design",
     "team_size": 2,
     "industry": "B2B",
@@ -23067,11 +23020,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1759606313,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "DevSecOps",
       "B2B",
-      "Open Source",
-      "AI"
+      "Open Source"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23317,10 +23270,10 @@
     "subindustry": "B2B",
     "launched_at": 1762304310,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
       "Enterprise",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -23361,10 +23314,10 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1762394891,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -23403,9 +23356,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1759962128,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "No-code",
-      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
