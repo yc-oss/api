@@ -6276,7 +6276,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10253,7 +10253,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -11131,6 +11131,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hyperbeam",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/hyperbeam.json"
+  },
+  {
+    "id": 25643,
+    "name": "Mintlify",
+    "slug": "mintlify",
+    "former_names": [
+      "Figstack"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed8c75028bc46b4acc10c1fcd555e74616bcdeb3.png",
+    "website": "https://mintlify.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "The best developer companies (think Stripe, Twilio, MongoDB) have effective and user-centric documentation at their backbone. Mintlify helps any company achieve the documentation they need effortlessly, so that they can focus on building what they do best.",
+    "one_liner": "The intelligent documentation platform",
+    "team_size": 35,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1641800191,
+    "tags": [
+      "Developer Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Growth",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/mintlify",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/mintlify.json"
   },
   {
     "id": 25645,
@@ -13712,19 +13753,19 @@
       "Ombord"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ebf166f7f6e8f6d186e2ea4a16a6cf16becaf7b.png",
-    "website": "https://frigade.ai",
+    "website": "https://frigade.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Frigade AI is an in-app assistant that intelligently guides and onboards your users through your product. Our agent learns your product's interface, gives contextual guidance that adapts to each user, and takes actions directly on your users' behalf.\r\n\r\nLearn more at Frigade.ai",
+    "long_description": "Frigade AI is an in-app assistant that intelligently guides and onboards your users through your product. Our agent learns your product's interface, gives contextual guidance that adapts to each user, and takes actions directly on your users' behalf.\r\n\r\nLearn more at Frigade.com",
     "one_liner": "AI-powered product assistance for modern software teams",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1672157010,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Customer Success",
       "Customer Service",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -20196,7 +20237,7 @@
     "former_names": [
       "Titan Ops"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d97ce9291f8a51ec2a48e5fa70be7766b06a04b5.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/25be37475616d06861cf90a8c0fa61b3c3cf29ae.png",
     "website": "https://upshift.dev",
     "all_locations": "",
     "long_description": "Upshift is an asynchronous coding agent workspace to help your software development lifecycle.\r\n\r\nAccess Claude Code and other agents in a shared team environment, so you can explore them easily, share prompt techniques, and unlock the value of asynchronous AI in your organization.\r\n\r\nYou can use Upshift today to automate dependency bumps, tidy up sprawling debt code, and handle routine pull requests.",
@@ -22650,23 +22691,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9a497a3dd8d97bd1afd47deddea2d641ad655b69.png",
     "website": "https://delty.ai",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "As software systems grow more complex and teams scale, key engineering work happens outside of code: product specs, docs, and architecture decisions and norms. That’s where a staff software engineer shines.\r\n\r\nDelty is an AI staff engineer.\r\n\r\nLike a seasoned engineer embedded in your team, Delty understands your architecture, code evolution, and constraints. It designs new software systems and grounds your coding agents with real engineering context to help you deliver reliable, scalable systems, fast.",
     "one_liner": "AI staff engineer: software architect that leads coding agents",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1746945144,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "SaaS",
-      "B2B",
-      "Enterprise Software"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -22675,8 +22710,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23738,9 +23772,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1759431340,
     "tags": [
-      "Artificial Intelligence",
       "Hardware",
       "Manufacturing",
+      "AI",
       "Automotive",
       "Industrial"
     ],
@@ -23955,9 +23989,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1763057438,
     "tags": [
-      "Artificial Intelligence",
       "Analytics",
-      "Design Tools"
+      "Design Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24345,9 +24379,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1759962128,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "No-code",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],

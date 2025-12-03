@@ -3548,7 +3548,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -4754,10 +4754,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -4768,7 +4768,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5812,7 +5812,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2020",
     "status": "Active",
@@ -7183,17 +7183,18 @@
   },
   {
     "id": 22995,
-    "name": "QuickNode",
-    "slug": "quiknode",
+    "name": "Quicknode",
+    "slug": "quicknode",
     "former_names": [
-      "QuikNode"
+      "QuikNode",
+      "QuickNode"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/641cf157d5c98793f172eb12060ccbaf1c980255.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3738c77c0ea3671e089e7ffa51492968ed674317.png",
     "website": "https://www.quicknode.com",
     "all_locations": "Miami, FL, USA",
-    "long_description": "Web3 developer platform to build, test, and scale blockchain applications. Lightning fast access to 44+ chains like Ethereum, Bitcoin, Solana, Polygon, Optimism, Arbitrum, Avalanche, Near, Stacks, Flow, Tron, zkSync and more. Elastic APIs, advanced ETL, storage (IPFS), powerful tools, analytics, and a 3rd-party marketplace -- all at your command through a simple control panel. Build your next big thing on-chain! Build it with QuickNode.",
+    "long_description": "Quicknode is an enterprise-grade blockchain development platform that helps teams build and scale high-performance onchain applications. Developers get fast and reliable access to over 80 chains, real-time and historical data, automation tools, and a unified suite of APIs. From startups to global enterprises, teams choose Quicknode for consistent performance, predictable pricing, and a platform built for growth.",
     "one_liner": "Tools & infra to build and scale high-quality blockchain applications.",
-    "team_size": 107,
+    "team_size": 115,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1615595217,
@@ -7221,13 +7222,13 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/quiknode",
-    "api": "https://yc-oss.github.io/api/batches/winter-2021/quiknode.json"
+    "url": "https://www.ycombinator.com/companies/quicknode",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/quicknode.json"
   },
   {
     "id": 23064,
@@ -8820,7 +8821,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -10228,7 +10229,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Productivity"
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -22972,8 +22973,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e147d1eb5a08ce6e087e44a2f10d637816c7c5db.png",
     "website": "https://tryscott.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Scott AI is the agentic workspace where teams align on specs before any codegen runs.\r\n\r\nTeams use multiple coding agents. Different agents will have different strengths. An engineer will entrust a long-running agent to add dark-mode end-to-end while they pair carefully with an IDE-based agent on a critical DB migrations in parallel. These execution agents can’t be used for plan alignment because they are biased to their own tool. Scott is the missing layer that will link agent agnostic high-level intent to code agent workloads. Teams will use Scott as their shared decision layer to structure plans, surface tradeoffs, and empower developers to determine which parts of the plan each coding agent should handle.",
-    "one_liner": "Agentic Workspace for Software Spec Design",
+    "long_description": "Scott AI is the agentic workspace where teams align before any codegen runs.\r\n\r\nTeams use multiple coding agents. Different agents will continue to evolve to have different strengths. An engineer will entrust a long-running agent to add dark-mode end-to-end while they pair carefully with an IDE-based agent on a critical DB migrations. These execution agents cannot be the alignment layer because they are biased to their own tool, they are not neutral. Scott is the neutral, agent agnostic decision layer for the age of multi agent building. Teams will use Scott as their decision workspace to finally ditch google docs and notion as their primary alignment layer.",
+    "one_liner": "Agentic Workspace for Engineering Team Alignment",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -23356,9 +23357,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1759962128,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "No-code",
+      "AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
@@ -23439,9 +23440,9 @@
     "subindustry": "B2B",
     "launched_at": 1761590258,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "SaaS"
+      "SaaS",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
