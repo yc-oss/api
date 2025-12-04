@@ -498,7 +498,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1003,7 +1003,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4946,7 +4946,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -8437,7 +8437,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "The Easiest Way to Make Internet Money.\r\n\r\nA payments layer for your app that you can program in natural language.\r\n\r\nUnlimited pricing models, one source of truth, zero webhooks.",
     "one_liner": "The payment processor for natural language software",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1583962983,
@@ -27802,28 +27802,31 @@
   },
   {
     "id": 29465,
-    "name": "GoldenBasis",
-    "slug": "goldenbasis",
+    "name": "Polar",
+    "slug": "polar",
     "former_names": [
-      "Aria"
+      "Aria",
+      "GoldenBasis"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b502f86e93aee645281246992225fb07dc00ad38.png",
-    "website": "https://www.goldenbasis.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "GoldenBasis makes modern back-office software for brokerages like Schwab or Fidelity, and we’re starting with asset transfers. Every year, $1.1 trillion in assets are transferred between brokerages using decades-old software. Brokerages hire thousands of people to compensate but still lose revenue from abandoned transfers. We solve this problem by automating back-office workflows with AI.",
-    "one_liner": "Modern back-office software for brokerages",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a67ca9f40a361ea65885c3e75244352a9f9f8a46.png",
+    "website": "https://www.polarfi.com",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Polar helps remote workers, freelancers, and ship crew manage their USD earnings globally. Using Polar, you can:\r\n1. Get a U.S. bank account in minutes with just your phone and local ID\r\n2. Send money to 120+ countries faster and cheaper than alternatives\r\n3. Earn 2-6% interest on USD savings\r\n4. Invest in gold, Bitcoin, and Ethereum 24/7, starting with $1",
+    "one_liner": "The smarter way to manage USD earnings globally",
     "team_size": 2,
     "industry": "Fintech",
-    "subindustry": "Fintech -> Banking and Exchange",
+    "subindustry": "Fintech -> Consumer Finance",
     "launched_at": 1708655609,
     "tags": [
       "Fintech",
-      "API",
-      "Enterprise Software",
-      "Infrastructure",
-      "Operations"
+      "Crypto / Web3",
+      "Investing",
+      "Remittances",
+      "Neobank"
     ],
-    "tags_highlighted": [],
+    "tags_highlighted": [
+      "Crypto / Web3"
+    ],
     "top_company": false,
     "isHiring": false,
     "nonprofit": false,
@@ -27831,19 +27834,21 @@
     "status": "Active",
     "industries": [
       "Fintech",
-      "Banking and Exchange"
+      "Consumer Finance"
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/goldenbasis",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/goldenbasis.json"
+    "url": "https://www.ycombinator.com/companies/polar",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/polar.json"
   },
   {
     "id": 29500,
@@ -28900,16 +28905,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube helps venture-backed startups to compare business insurance, buy the right coverage online, and manage policies all in one place.\r\n\r\nIf you're a carrier interested in partnering, send us a DM.",
+    "long_description": "RiskCube helps venture-backed startups to compare business insurance, buy the right coverage online, and manage policies all in one place.\r\n\r\nIf you're a startup looking to buy insurance, please reach out.",
     "one_liner": "AI-native insurance brokerage to compare, buy, and manage coverage.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1731782052,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
-      "Insurance",
-      "AI"
+      "Insurance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -29923,8 +29928,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2529eaf040180126a595ccd660f42824d36e2dae.png",
     "website": "https://www.fernstone.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fernstone is an AI-powered insurance brokerage for high risk businesses. We are competing with the 40,000 insurance brokers that sell $500B in commercial premium each year.\r\n\r\nBefore starting Fernstone, Luke and James met at Traba (Series A) when they started on the same day. Luke led a Growth team, closing some of Traba’s largest customers like JB Hunt and Kimberly Clark. James created and led Traba’s Enterprise function, growing it to 25% of company revenue. Bryant, James’ classmate from high school, was a Software Engineer at SentiLink and Google.\r\n",
-    "one_liner": "AI-powered insurance brokerage for high-risk businesses.",
+    "long_description": "Fernstone is a a full-stack AI insurance brokerage for critical indusries. We are competing directly with the 40,000 commercial insurance brokers in the US that earn $80B in revenue each year. Today, construction and industrials companies use Fernstone to obtain coverage for complex risks. \r\n\r\nLuke and James met at Traba (industrial staffing startup backed by Founders Fund). There, they created and led the enterprise function, growing it from 0 to 25% of company revenue, while closing customers like JB Hunt and Kimberly Clark. Bryant, James’ friend since high school, was a Software Engineer at Google and SentiLink; he studied Math & CS at Vanderbilt.",
+    "one_liner": "Full-stack AI insurance brokerage for critical industries. ",
     "team_size": 3,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
@@ -30222,8 +30227,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/942d0cc053faa8bcd3d973b7c4ce50fda2e6defa.png",
     "website": "https://usemod.ai",
     "all_locations": "",
-    "long_description": "Mod AI helps enterprises automate their accounts payable with AI agents. Our agents imitate AP clerks, handling vendor communication, fraud detection, advanced GL coding + 3-way matching, and exceptions. \r\n\r\nIn just 49 days, we built a compliant platform from scratch and closed 6 enterprise contracts ($165k cARR), helping customers reduce labor costs by 83%. 4 of these customers are also participating in our seed round!\r\n\r\nEvan & Jeet are previous founders from LinkedIn, Amazon, and Adyen, that met studying CS at UIUC.",
-    "one_liner": "AI Agents for Accounts Payable",
+    "long_description": "We're building the agentic workforce that will replace the bottom half of the accounting org chart. Our agents imitate accounting clerks, taking charge of the entire workflow; vendor communication, fraud detection, invoice coding and exception handling. \r\n\r\nIn just 49 days, we built a compliant platform from scratch and closed 6 enterprise contracts ($165k cARR), helping customers reduce labor costs by 83%. 4 of these customers are also participating in our seed round!\r\n\r\nEvan & Jeet are previous founders from LinkedIn, Amazon, and Adyen, that met studying CS at UIUC.",
+    "one_liner": "Our AI Agents Replace Accounting Clerks",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
