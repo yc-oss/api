@@ -8633,7 +8633,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -17026,14 +17026,18 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb011897f099f9342d33ca8a6bad3b4388ee0a54.png",
     "website": "https://usetusk.ai",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Tusk (YC W24) is an AI agent that helps developers generate unit and integration tests with codebase context. Tusk sits in CI and provides automatic coverage whenever software engineers raise a PR. Engineering teams use Tusk to prevent critical regressions while increasing test coverage.",
     "one_liner": "AI agent that generates unit and integration tests",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1700257117,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -17045,7 +17049,8 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23643,7 +23648,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "",
     "one_liner": "Build software that never breaks",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752094986,
@@ -23812,18 +23817,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/172f5fb23b85c343374cfa3c2b0a719eb64be3b6.png",
     "website": "https://aspect.inc",
     "all_locations": "",
-    "long_description": "When footage comes off a camera today, media teams still lose hours dumping files into generic storage, renaming and sorting folders, hunting for past shots, assembling rough cuts by hand, and passing around review links in Slack and email.\r\n\r\nAspect is an AI-native video file system that understands a team’s library and day-to-day workflows. Today, teams use Aspect to migrate footage from Dropbox/Drive/servers into a single library, search it through chat (“show me where Dr. Brown used a robotic forcep”), leave timestamped feedback and mark up frames, generate rough draft sequences, and automatically route the right clips into tools like ClickUp and Slack. The platform offloads the organizing, searching and routing work, so teams can spend more time making content and companies can achieve a higher ROI on their library.",
-    "one_liner": "AI system-of-record for enterprise media content",
+    "long_description": "With our visual understanding engine & platform, Aspect primarily serves both enterprise content teams and data teams at AI labs.\r\n\r\nFor enterprise:\r\nAspect deeply understands a team's visual (video, 3D, multimodal docs) libraries and day-to-day workflows, performing clip search, rough drafting, and automated review.\r\n\r\nFor research:\r\nAspect processes dense multimodal datasets, providing tools for segmentation, QC, structured schema extraction. \r\n\r\nCompanies today have access to Glean and Notion Agents for working with vast text corpuses - Aspect is enabling that for multimodal data.",
+    "one_liner": "AI Visual Understanding for Multimodal Data ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1761607655,
     "tags": [
-      "Artificial Intelligence",
       "Computer Vision",
       "B2B",
       "Video",
-      "Media"
+      "Media",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -24531,5 +24536,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/valgo",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/valgo.json"
+  },
+  {
+    "id": 31215,
+    "name": "Bubble Lab",
+    "slug": "bubble-lab",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
+    "website": "https://bubblelab.ai/",
+    "all_locations": "",
+    "long_description": "Bubble Lab is an open-source Typescript-native workflow automation platform. Unlike tools that use proprietary JSON, you describe a workflow in natural language, and instantly get both a visual flow and fully-typed TypeScript code side-by-side. It offers built-in observability, testability, and scalability out of the box. \r\n",
+    "one_liner": "Open-source, Typescript-native agentic workflow builder ",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1764881455,
+    "tags": [
+      "Developer Tools",
+      "Workflow Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bubble-lab",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
   }
 ]

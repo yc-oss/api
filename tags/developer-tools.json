@@ -1008,7 +1008,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -2228,7 +2228,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3551,7 +3551,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Infrastructure"
@@ -3560,7 +3560,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3898,15 +3898,15 @@
     "subindustry": "Consumer",
     "launched_at": 1584125566,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Generative AI",
       "Machine Learning",
-      "Gaming"
+      "Gaming",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
     "status": "Active",
@@ -4768,7 +4768,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6858,7 +6858,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8396,12 +8396,12 @@
     "name": "Rootly",
     "slug": "rootly",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a2564e596519346980eeb0db1c1545af7126b49.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/458bec513b681478458c39da4795bf6502d09edb.png",
     "website": "https://rootly.com",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Rootly is a modern on-call and incident management platform used by top YC companies like Dropbox, Lattice, Webflow, Faire, but also Figma, LinkedIn, NVIDIA and 100s more.",
-    "one_liner": "Modern On-Call and Incident Management Platform",
-    "team_size": 60,
+    "one_liner": "AI-native on-call and incident response carefully crafted to help…",
+    "team_size": 75,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1625761934,
@@ -9577,7 +9577,7 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/77812b9a6c46bc50c4a0b0326c080c241d029714.png",
     "website": "https://www.worldql.com/",
-    "all_locations": "Denver, CO, USA; Remote",
+    "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "",
     "one_liner": "Multiplayer engine for building games and RL environments",
     "team_size": 3,
@@ -9585,10 +9585,10 @@
     "subindustry": "Consumer -> Gaming",
     "launched_at": 1648654841,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Reinforcement Learning",
-      "Gaming",
-      "AI"
+      "Gaming"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -16765,6 +16765,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/leaping.json"
   },
   {
+    "id": 29310,
+    "name": "Tusk",
+    "slug": "tusk",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cb011897f099f9342d33ca8a6bad3b4388ee0a54.png",
+    "website": "https://usetusk.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Tusk (YC W24) is an AI agent that helps developers generate unit and integration tests with codebase context. Tusk sits in CI and provides automatic coverage whenever software engineers raise a PR. Engineering teams use Tusk to prevent critical regressions while increasing test coverage.",
+    "one_liner": "AI agent that generates unit and integration tests",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1700257117,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Open Source"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tusk",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/tusk.json"
+  },
+  {
     "id": 29311,
     "name": "Engines",
     "slug": "engines",
@@ -22375,7 +22416,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "",
     "one_liner": "Build software that never breaks",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1752094986,
@@ -22973,7 +23014,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e147d1eb5a08ce6e087e44a2f10d637816c7c5db.png",
     "website": "https://tryscott.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Scott AI is the agentic workspace where teams align before any codegen runs.\r\n\r\nTeams use multiple coding agents. Different agents will continue to evolve to have different strengths. An engineer will entrust a long-running agent to add dark-mode end-to-end while they pair carefully with an IDE-based agent on a critical DB migrations. These execution agents cannot be the alignment layer because they are biased to their own tool, they are not neutral. Scott is the neutral, agent agnostic decision layer for the age of multi agent building. Teams will use Scott as their decision workspace to finally ditch google docs and notion as their primary alignment layer.",
+    "long_description": "Scott AI is the agentic workspace where teams align on spec before any codegen runs.\r\n\r\nTeams already use multiple coding agents to build. Different coding agents will continue to evolve and have diverse strengths. An engineer will entrust a long-running agent to add dark-mode end-to-end while they pair carefully with an IDE-based agent to land a critical DB migration. These execution agents cannot be the decision layer because they are biased to their own tool, they are not neutral. Scott AI is the neutral, agent agnostic decision layer for the age of multi agent building. Teams will use Scott as their decision workspace to finally ditch google docs and notion as their primary spec alignment layer.",
     "one_liner": "Agentic Workspace for Engineering Team Alignment",
     "team_size": 2,
     "industry": "B2B",
@@ -23506,5 +23547,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jsx-tool",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/jsx-tool.json"
+  },
+  {
+    "id": 31215,
+    "name": "Bubble Lab",
+    "slug": "bubble-lab",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fc7f7534f4fb913904f49914952c1daa8086654.png",
+    "website": "https://bubblelab.ai/",
+    "all_locations": "",
+    "long_description": "Bubble Lab is an open-source Typescript-native workflow automation platform. Unlike tools that use proprietary JSON, you describe a workflow in natural language, and instantly get both a visual flow and fully-typed TypeScript code side-by-side. It offers built-in observability, testability, and scalability out of the box. \r\n",
+    "one_liner": "Open-source, Typescript-native agentic workflow builder ",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1764881455,
+    "tags": [
+      "Developer Tools",
+      "Workflow Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bubble-lab",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
   }
 ]
