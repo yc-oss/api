@@ -7446,7 +7446,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22876,9 +22876,9 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Team:\r\nChaz: Founder of Fat Llama YC S17 - Acquired by Hygglo. Responsible for Business and Sales \r\nArns: Founder of Fancy S20 - Acquired by Gopuff, Responsible for tech and product. ",
     "one_liner": "AI Workspace for Financial Services.",
-    "team_size": 2,
+    "team_size": 50,
     "industry": "B2B",
-    "subindustry": "B2B -> Finance and Accounting",
+    "subindustry": "B2B",
     "launched_at": 1700480676,
     "tags": [
       "Artificial Intelligence",
@@ -22893,8 +22893,7 @@
     "batch": "Winter 2024",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Finance and Accounting"
+      "B2B"
     ],
     "regions": [
       "United Kingdom",
@@ -28108,8 +28107,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b03e14b8a7d809f05b6579c758dc4fbbe6ff821.png",
     "website": "https://www.dreamrp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "DreamRP lets users chat with character chatbots made by the content owners themselves. For example, users could chat with Jon Snow bot made by George R. R. Martin. \r\n\r\nCharacter chat is the most engaging social category ever - more than YouTube, Instagram, or TikTok. But all the current chatbots are fan-made knock-offs and do not have deals with the actual content owners, whose IP they are stealing.  We’re building the first fully legal character chat platform that shares revenue with the content owners.",
-    "one_liner": "Bring your characters to life",
+    "long_description": "DreamRP supports creators and entertainment studios as they navigate generative AI. We build technology that protects their work, preserves the authenticity of their characters and worlds, and enables new ways for fans to engage with stories.",
+    "one_liner": "Tools that help creators and studios use AI safely and responsibly",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -35949,6 +35948,49 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/gpt.json"
   },
   {
+    "id": 30853,
+    "name": "Bolna AI",
+    "slug": "bolna-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b089abe00badc05c8bba9c5210bd4a34f636170.png",
+    "website": "https://bolna.ai",
+    "all_locations": "Bengaluru, KA, India",
+    "long_description": "Bolna handles the complexity of voice infra, so enterprises can automate calls faster, better, and cheaper, at scale\r\n\r\nBolna is a Voice AI Orchestration platform purpose-built for Indian enterprises.\r\nBusinesses in India run tens of thousands of calls every day - across sales, support, collections, recruitment, and more. Bolna gives them the power to build and deploy Voice AI Agents directly from their transcripts and FAQs, so they can start automating calls immediately.\r\n\r\nWith Bolna, enterprises get:\r\n\r\n1. Full control over agent intelligence, tone, and workflows\r\n2. Cost efficiency at scale with smart routing across providers and price points\r\n3. Enterprise-grade performance on latency, interruptions, multi-language, and multi-accent understanding\r\n\r\n",
+    "one_liner": "Voice AI to enable India's next billion",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1758900227,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Infrastructure",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "India",
+      "South Asia",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bolna-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/bolna-ai.json"
+  },
+  {
     "id": 30856,
     "name": "Scoop",
     "slug": "scoop",
@@ -37782,6 +37824,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/avoice",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/avoice.json"
+  },
+  {
+    "id": 31214,
+    "name": "Pocket",
+    "slug": "pocket",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b428e32efe17d32eca49b716cb0a2375cd4f5ef3.png",
+    "website": "https://heypocket.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Pocket is a tiny AI device that lives on your phone and turns everything you say and hear into clear notes, action items, and search. We combine custom hardware, AI, and software to build the best note-taking experience for people who talk and move fast",
+    "one_liner": "The world's best AI note-taking device and app",
+    "team_size": 6,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1764996860,
+    "tags": [
+      "Artificial Intelligence",
+      "Hardware",
+      "Productivity",
+      "Note-taking"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pocket",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/pocket.json"
   },
   {
     "id": 31215,
