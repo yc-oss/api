@@ -48032,7 +48032,7 @@
     "all_locations": "",
     "long_description": "Kastle is an AI voice agent for mortgage servicing. We help servicers collect payments, verify new borrowers, and qualify new loan inquiries over the phone. \r\n\r\nRishi and Nitish met at UIUC where they graduated with degrees in systems engineering and computer science.  Rishi was the founding Product Manager for Redfin’s Mortgage Marketplace at 22 and grew the business from $3M to $6M in revenue in 9 months. Nitish patented Verkada’s motion search system and was the youngest tech lead at the company at 23.\r\n\r\nWhile building Redfin's Mortgage Marketplace Rishi realized traditional lenders didn't have the infrastructure to service online inquiries and were losing customers. Nitish and Rishi are building Kastle to help traditional financial services companies better interface with their customers. ",
     "one_liner": "AI agents for mortgage servicing",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1720330783,
@@ -57095,7 +57095,7 @@
     "all_locations": "",
     "long_description": "EffiGov is building an AI OS for local governments. We've started with AI call operators that answer 311 and departmental lines 24/7 - handling everything from permit applications to animal control.",
     "one_liner": "The AI OS for Cities",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "Government",
     "subindustry": "Government",
     "launched_at": 1755582399,
@@ -57516,47 +57516,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bootloop",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/bootloop.json"
-  },
-  {
-    "id": 30681,
-    "name": "Parachute",
-    "slug": "parachute",
-    "former_names": [
-      "Parachute",
-      "Parachute AI",
-      "Parachute",
-      "Parachute AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffdb102f014e8ce8401417ee051d9fbec55550e0.png",
-    "website": "https://parachute-ai.com",
-    "all_locations": "",
-    "long_description": "Parachute helps hospitals adopt AI safely and at scale. We vet AI tools that fill clinical gaps, run state-of-the-art evaluations, monitor every model for drift and compliance, and lock every decision in an immutable audit trail.",
-    "one_liner": "Infrastructure for hospitals to monitor and deploy clinical AI ",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1752533752,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/parachute",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/parachute.json"
   },
   {
     "id": 30686,
@@ -59445,6 +59404,42 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/hireglide.json"
   },
   {
+    "id": 30960,
+    "name": "Metorial",
+    "slug": "metorial",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7d6cf9656ff81c358bc8acc1f8b0221e2f963a06.png",
+    "website": "https://metorial.com",
+    "all_locations": "Remote",
+    "long_description": "Metorial is the infra layer for AI integrations. We built the only serverless MCP runtime that can maintain state with sub-second cold starts, built-in security, and monitoring. We make it easy for developers to connect AI agents to apps and data sources at scale.",
+    "one_liner": "The infra layer for AI integrations.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1759440132,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/metorial",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/metorial.json"
+  },
+  {
     "id": 30966,
     "name": "Karumi",
     "slug": "karumi",
@@ -59453,7 +59448,7 @@
     "website": "https://www.karumi.ai/",
     "all_locations": "",
     "long_description": "Karumi is an AI agent that joins a live video call with your prospects to deliver personalized product demos, 24/7, in any language.\r\n\r\nIt bridges the gap between your landing page and your sales team by engaging visitors at the peak of their interest, turning curiosity into conversion. For those not ready to talk to sales but eager to explore, Karumi offers the next generation of interactive, self-guided demos.",
-    "one_liner": "24/7 AI demo agent for B2B SaaS",
+    "one_liner": "The Waymo of Personalized demos",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
