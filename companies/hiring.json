@@ -3146,7 +3146,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14477,7 +14477,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -16236,49 +16236,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dataland",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/dataland.json"
-  },
-  {
-    "id": 22077,
-    "name": "Akiflow",
-    "slug": "akiflow",
-    "former_names": [
-      "Akido"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/711701aab43e1cf32d5d6f30ef959de45cbc80c1.png",
-    "website": "https://akiflow.com",
-    "all_locations": "Padua, Veneto, Italy; Remote",
-    "long_description": "Akiflow is an AI-powered productivity app, integrating tasks + calendars and an AI executive assistant",
-    "one_liner": "All your tasks and calendars into an AI-powered productivity app",
-    "team_size": 18,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1597668620,
-    "tags": [
-      "Productivity"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "Italy",
-      "Europe",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/akiflow",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/akiflow.json"
   },
   {
     "id": 22082,
@@ -25232,6 +25189,42 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/aviator.json"
   },
   {
+    "id": 24842,
+    "name": "FirstIgnite",
+    "slug": "firstignite",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6093f8dee5d8e445d2bff9f30caeb8397b0ec2eb.png",
+    "website": "https://firstignite.com",
+    "all_locations": "Remote",
+    "long_description": "FirstIgnite builds AI powered business intelligence tools.",
+    "one_liner": "AI-Powered Business Development for Scientific Organizations",
+    "team_size": 9,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1624624276,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/firstignite",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/firstignite.json"
+  },
+  {
     "id": 24859,
     "name": "Synder",
     "slug": "synder",
@@ -26710,6 +26703,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/teamout",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/teamout.json"
+  },
+  {
+    "id": 25394,
+    "name": "Harmoney",
+    "slug": "harmoney",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2ca23fbe179b9d869adbd001cf7a397b7153bf4d.png",
+    "website": "https://www.harmoney.in/",
+    "all_locations": "MH, India",
+    "long_description": "Harmoney is an agentic AI solution for fixed income research, portfolio optimization, and credit analysis for buy-side and wealth managers. We not only make financial analysis faster and cost-effective but also unlock things that could not be done manually before.",
+    "one_liner": "Agentic AI solution for fixed income, credit and portfolio analysis",
+    "team_size": 30,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Asset Management",
+    "launched_at": 1645537602,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "B2B",
+      "Enterprise Software",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Asset Management"
+    ],
+    "regions": [
+      "India",
+      "South Asia"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/harmoney",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/harmoney.json"
   },
   {
     "id": 25398,
@@ -29093,28 +29129,29 @@
   },
   {
     "id": 25983,
-    "name": "Verse",
-    "slug": "verse",
+    "name": "Housewarming",
+    "slug": "housewarming",
     "former_names": [
       "Discz Music Inc.",
       "Discz Music",
       "Discz",
-      "discz"
+      "discz",
+      "Verse"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ecc706b4839585f0453988bfa733bf68f4eb23b.png",
-    "website": "https://madeonverse.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dc18b30f3ba3c2ca49e86ec5e15296059e9d89f.png",
+    "website": "https://housewarming.me",
     "all_locations": "New York, NY, USA",
-    "long_description": "Verse is one of the fastest platforms ever to reach over 10 million users. We're building a home on the internet for Gen Z to showcase their identity and keep up with their friends in novel and creative ways. ",
-    "one_liner": "Social network based on who you are, not what you look like",
-    "team_size": 5,
+    "long_description": "Housewarming is social media and AI designed to bring you closer to your friends, not replace them or keep you isolated in an algorithm.\r\n\r\nWe've been building mega-viral consumer AI experiences since 2020. From the music discovery app Discz (1.5M users) to creative expression with Verse & Internet Bedroom (0-10 million users in 30 days, one of the fastest growing products of all-time) we like building at the frontier of technology in ways consumer truly love.\r\n\r\nHousewarming is our latest and most delightful product ever. Check it out, share moments with your friends, and let us know what you think :)",
+    "one_liner": "Share casual moments with the people you care about",
+    "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1647358465,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "Entertainment",
       "Social",
-      "Music",
       "AI"
     ],
     "tags_highlighted": [],
@@ -29131,12 +29168,12 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
+    "app_video_public": true,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/verse",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/verse.json"
+    "url": "https://www.ycombinator.com/companies/housewarming",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/housewarming.json"
   },
   {
     "id": 25984,
@@ -34177,53 +34214,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/latent.json"
   },
   {
-    "id": 27701,
-    "name": "Backdrop",
-    "slug": "backdrop",
-    "former_names": [
-      "Sphere",
-      "Twig",
-      "Backdrop",
-      "Backdrop (previously Twig)"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dcbaa3bb5c44063d7f8556a66262b6a2852f72aa.png",
-    "website": "https://www.joinbackdrop.com",
-    "all_locations": "",
-    "long_description": "We are an expense management and payments platform for the entertainment industry, which still rely on spreadsheets and paper receipts to manage the $650B+ they spend each year. ",
-    "one_liner": "Vertical SaaS for $650B+ Film, TV, Music & Event Production Industry ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1677171652,
-    "tags": [
-      "Fintech",
-      "B2B",
-      "Entertainment",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/backdrop",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/backdrop.json"
-  },
-  {
     "id": 27704,
     "name": "FlexDesk",
     "slug": "flexdesk",
@@ -36359,6 +36349,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/invopop",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/invopop.json"
+  },
+  {
+    "id": 28091,
+    "name": "Hindsight",
+    "slug": "hindsight",
+    "former_names": [
+      "NodeFlow",
+      "Baseplate",
+      "DealPage"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7937cfc67cd819742d4ef88a0139c7be4122cc00.png",
+    "website": "https://www.usehindsight.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Hindsight's AI helps teams understand why they win or lose deals - and use that insight to win more.\r\n\r\nOur platform is used by teams like Ironclad, LaunchDarkly, and Klaviyo to build workflows on top of their GTM data.\r\n\r\n1. Build battlecards, objection handling guides, and case studies that never go out of date\r\n2. Create AI roleplays based on real conversations your sales team is having\r\n3. Analyze 1000s of deals to create reports and alerts for your GTM, product, and strategy teams.",
+    "one_liner": "Deal Intelligence and Sales Coaching Platform",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1673288585,
+    "tags": [
+      "B2B",
+      "Analytics",
+      "Sales",
+      "Sales Enablement",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hindsight",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/hindsight.json"
   },
   {
     "id": 28094,
@@ -39286,16 +39323,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Medical practices struggle with front desk shortages and nonstop admin work—ringing phones, scheduling mishaps, intake errors, and billing headaches. The result? Overworked staff and less time for patient care.\r\n\r\nDecoda Health’s AI platform takes over 80% of these tedious tasks, handling calls, scheduling, and payments while alerting staff only when necessary. By reducing chaos and streamlining operations, teams can focus on what truly matters—providing exceptional patient care.",
     "one_liner": "AI-powered platform automating medical practice operations",
-    "team_size": 7,
+    "team_size": 9,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1689972321,
     "tags": [
+      "Artificial Intelligence",
       "Messaging",
       "Digital Health",
       "Healthcare IT",
-      "Billing",
-      "AI"
+      "Billing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39368,53 +39405,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/vetrec",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/vetrec.json"
-  },
-  {
-    "id": 28921,
-    "name": "Surface Labs",
-    "slug": "surface-labs",
-    "former_names": [
-      "Surface"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd06883b73b261dd75ac5399b0cd9b5dc03518d1.png",
-    "website": "https://withsurface.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Surface Labs helps B2B companies capture, qualify, and convert inbound leads through intelligent contact forms. We replace tools like HubSpot Forms, Zapier, and Chili Piper with a single platform that embeds on any site with one line of code.\r\n\r\nOur AI agents handle lead capture, enrichment, routing, follow-up, and CRO testing — automating what used to require full marketing ops teams. Customers see a 30% lift in conversions in under 2 weeks, and our partial response capture feature collects 50% more emails from form drop-offs.",
-    "one_liner": "Building the AI-powered marketing ops platform that turns website…",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1693007377,
-    "tags": [
-      "Artificial Intelligence",
-      "Sales",
-      "Marketing",
-      "Advertising",
-      "Conversational AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/surface-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/surface-labs.json"
   },
   {
     "id": 28922,
@@ -42921,6 +42911,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trellis-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/trellis-ai.json"
+  },
+  {
+    "id": 29314,
+    "name": "Lucite",
+    "slug": "lucite",
+    "former_names": [
+      "My Analyst",
+      "MyAnalyst"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/858c3c063dfedd813fbec2ad5e3c30a120380f2c.png",
+    "website": "https://www.lucite.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Lucite is building the first AI-native platform to help insurance brokers and advisors automate the most complex and time consuming parts of their job. We ingest unstructured carrier documents to accurately extract and analyze data, create insights, and generate deliverables, saving firms hours of time each day.",
+    "one_liner": "Supercharging Insurance Brokers & Advisors",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1705081211,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lucite",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/lucite.json"
   },
   {
     "id": 29315,
@@ -46610,7 +46639,7 @@
     "former_names": [
       "mdhub Inc"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4c43236386ca779de71d41d548198ab1b1fdbb1e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8810cb0657abfb26b4ab235328498daa7db5f112.png",
     "website": "https://www.mdhub.ai/",
     "all_locations": "",
     "long_description": "We’re building the AI workforce for healthcare clinics, starting with mental health.\r\n\r\nOur AI Admissions Coordinator, Sarah, manages the first patient touchpoint via phone, text, or referrals. Available 24/7, she responds instantly and increases new patient bookings by up to 30%.\r\n\r\nOur AI Clinical Assistant, Emma, automates the paperwork and administrative tasks before, during, and after each session, so clinicians can focus fully on patient care.",
@@ -47127,45 +47156,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/leeroo",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/leeroo.json"
-  },
-  {
-    "id": 29657,
-    "name": "Azalea Robotics Corporation",
-    "slug": "azalea-robotics-corporation",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a43d3ef392fa3a7d4ef89797c2972ddacbdd1b5c.png",
-    "website": "https://azalearobotics.com/",
-    "all_locations": "Berkeley, CA, USA",
-    "long_description": "Azalea Robotics automates airport baggage handling with intelligent robot operations. The global market for airport baggage handling systems is $20+ billion and growing, presenting a significant opportunity for innovation and market disruption in this sector.\r\n\r\n\r\nPassenger air traffic volume is increasing, driving demand for efficient and reliable baggage handling at airports and putting immense pressure on existing infrastructure. In 2023 alone, airports processed approximately 4.5 billion bags, highlighting the need for advanced solutions to manage this load effectively. Azalea Robotics provides state-of-the-art robotic systems that enhance efficiency, reduce mishandling, and improve passenger experience through more reliable operations.\r\n\r\n\r\nBaggage handling is a critical component of airline ground operations, yet it is fraught with challenges. The work is physically demanding, often leading to long-term injuries among workers. Traditional baggage handling involves repetitive lifting and maneuvering of heavy loads, which can result in long-term health issues. Azalea Robotics addresses these challenges by automating the most strenuous tasks, thereby reducing the risk of injury and enhancing operational efficiency.",
-    "one_liner": "Automating airport baggage handling with robots.",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1723668106,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/azalea-robotics-corporation",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/azalea-robotics-corporation.json"
   },
   {
     "id": 29659,
@@ -48115,7 +48105,7 @@
     "all_locations": "Antwerp, Flanders, Belgium",
     "long_description": "Conveo powers your qualitative research from start to finish, all in one platform. Your AI co-worker designs expert research studies, interviews real people and instantly analyzes your videos. Get robust, actionable insights of consumers, users and audiences at scale. Tell powerful stories to your stakeholders within days.",
     "one_liner": "Confident decisions in days with AI-led interviews.",
-    "team_size": 13,
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1718889893,
@@ -53412,8 +53402,8 @@
     "website": "https://www.athenahq.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Make sure your brand doesn't get left behind by the paradigm shift from traditional search to generative search.\r\n\r\nAthenaHQ helps your brand get discovered on generative engines like ChatGPT, Perplexity, Claude, Gemini, and more using generative engine optimization (GEO).\r\n\r\nAI search is expected to overtake traditional search in the next 3 years. We are building AthenaHQ to fill that gap.\r\n\r\nTeam of former product manager on Google Search's information acquisition team, Deepmind Generative Media team, and ChatGPT superusers.",
-    "one_liner": "Get Your Brand Discovered on ChatGPT.",
-    "team_size": 10,
+    "one_liner": "Get Your Brand Discovered on AI Search.",
+    "team_size": 12,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1739175359,
@@ -55957,6 +55947,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/nixo.json"
   },
   {
+    "id": 30496,
+    "name": "QualGent",
+    "slug": "qualgent",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e454cf353c971b2d54e61c997bd0585c07acf8c.png",
+    "website": "https://qualgent.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "QualGent is an AI Mobile App Quality Assurance Tester that mimics a real human, helping teams catch bugs and ship faster - without hiring more QA testers. One customer reached #3 in the Education category on the App Store by improving app quality with QualGent.\r\n\r\nMobile bugs hurt: crashes kill ratings, broken checkouts drive churn. QualGent helps teams scale QA effortlessly and avoid Sonos-level disasters.\r\n\r\nThe idea for QualGent was born from the founders’ experience leading engineering teams at Google across Android XR, Stadia, Quick Share, and foldable devices where shipping to billions of users meant constantly facing the painful trade-off between moving fast and maintaining quality. With prior research experience at Nvidia, Maryland, and Berkeley, the team saw a clear opportunity: use AI to scale QA.\r\n\r\nQualGent’s vision is to close the loop on software creation. As AI enables engineers to code 100x faster, QualGent eliminates the next bottleneck—software verification—unlocking truly scalable, end-to-end software development.",
+    "one_liner": "AI Mobile App Quality Assurance Tester",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1747257305,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/qualgent",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/qualgent.json"
+  },
+  {
     "id": 30500,
     "name": "Besimple AI",
     "slug": "besimple-ai",
@@ -57086,6 +57116,44 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/blank-bio.json"
   },
   {
+    "id": 30624,
+    "name": "Verne Robotics",
+    "slug": "verne-robotics",
+    "former_names": [
+      "Verne Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08842805c015165cf0d7e591168f2b15a9e9c85a.png",
+    "website": "https://vernerobotics.com/",
+    "all_locations": "",
+    "long_description": "We build AI models for controlling robot arms, enabling them to learn new skills in just hours. Our robots help businesses cut costs by automating back-of-house tasks with an innovative  pay-by-the-hour business model. Our customers include a biotech unicorn, a leading biotech non-profit, and a direct to consumer apparel brand.",
+    "one_liner": "AI models that teach robots new skills in hours",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1753480338,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/verne-robotics",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/verne-robotics.json"
+  },
+  {
     "id": 30636,
     "name": "EffiGov",
     "slug": "effigov",
@@ -57685,16 +57753,16 @@
     "website": "https://vibeflow.ai/",
     "all_locations": "",
     "long_description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
-    "one_liner": "Shopify for saas",
+    "one_liner": "Lovable, n8n and a database all in one platform ",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753078619,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

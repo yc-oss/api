@@ -20569,7 +20569,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -25091,23 +25091,25 @@
   },
   {
     "id": 26712,
-    "name": "Bunting Labs",
-    "slug": "bunting-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54ea16bb656251701a24761299c1463cf1564a86.png",
-    "website": "https://buntinglabs.com",
+    "name": "Atonomo",
+    "slug": "atonomo",
+    "former_names": [
+      "Bunting Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b874ad123c5c3db82b6109936874a16a044dbf19.png",
+    "website": "https://atonomo.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bunting Labs is automating the digitization of maps into GIS and CAD software.",
-    "one_liner": "Digitize geospatial data locked on paper and in PDFs ",
+    "long_description": "Atonomo is an AI team member which continuously ingests product analytics to provide a once-weekly conversion rate optimization you can ship or A/B test, prioritized by ROI (+KPIs). Atonomo submits a PR or gives you a Claude Code/Cursor prompt.",
+    "one_liner": "Autonomous conversion rate optimization for startups",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1659469853,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Geographic Information System",
       "B2B",
-      "AI"
+      "Web Development"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25127,8 +25129,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bunting-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/bunting-labs.json"
+    "url": "https://www.ycombinator.com/companies/atonomo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2022/atonomo.json"
   },
   {
     "id": 26715,
@@ -29236,7 +29238,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -32136,25 +32138,25 @@
       "Baseplate",
       "DealPage"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/952fd2e1150812d69a22ab140fc8f9e56c48ff59.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7937cfc67cd819742d4ef88a0139c7be4122cc00.png",
     "website": "https://www.usehindsight.com/",
     "all_locations": "New York, NY, USA",
-    "long_description": "Hindsight provides teams with insights that help increase win rates\r\n\r\n1. Monitor competitor moves across the web using AI agents\r\n2. Collect feedback from buyers with win-loss interviews\r\n3. Deeply analyze your calls and CRM data\r\n\r\nHindsight combines these insights into dashboards, battlecards, and other enablement materials for sales teams.",
-    "one_liner": "Competitive Intelligence that's actually intelligent",
+    "long_description": "Hindsight's AI helps teams understand why they win or lose deals - and use that insight to win more.\r\n\r\nOur platform is used by teams like Ironclad, LaunchDarkly, and Klaviyo to build workflows on top of their GTM data.\r\n\r\n1. Build battlecards, objection handling guides, and case studies that never go out of date\r\n2. Create AI roleplays based on real conversations your sales team is having\r\n3. Analyze 1000s of deals to create reports and alerts for your GTM, product, and strategy teams.",
+    "one_liner": "Deal Intelligence and Sales Coaching Platform",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1673288585,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Analytics",
       "Sales",
-      "Sales Enablement"
+      "Sales Enablement",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -43767,7 +43769,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -45378,16 +45380,16 @@
     "website": "https://vibeflow.ai/",
     "all_locations": "",
     "long_description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
-    "one_liner": "Shopify for saas",
+    "one_liner": "Lovable, n8n and a database all in one platform ",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1753078619,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Consumer",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46101,6 +46103,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/okibi.json"
   },
   {
+    "id": 30774,
+    "name": "Clodo",
+    "slug": "clodo",
+    "former_names": [
+      "Disclodocs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f11e383f1603855e0c14f84e4d86a8e59ed719ed.png",
+    "website": "https://clodo.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clodo is the AI Copilot for Outbound Sales",
+    "one_liner": "AI Copilot for Outbound Sales",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1754475903,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Sales",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clodo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/clodo.json"
+  },
+  {
     "id": 30785,
     "name": "RowFlow",
     "slug": "rowflow",
@@ -46498,18 +46543,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/172f5fb23b85c343374cfa3c2b0a719eb64be3b6.png",
     "website": "https://aspect.inc",
     "all_locations": "",
-    "long_description": "With our visual understanding engine & platform, Aspect primarily serves both enterprise content teams and data teams at AI labs.\r\n\r\nFor enterprise:\r\nAspect deeply understands a team's visual (video, 3D, multimodal docs) libraries and day-to-day workflows, performing clip search, rough drafting, and automated review.\r\n\r\nFor research:\r\nAspect processes dense multimodal datasets, providing tools for segmentation, QC, structured schema extraction. \r\n\r\nCompanies today have access to Glean and Notion Agents for working with vast text corpuses - Aspect is enabling that for multimodal data.",
+    "long_description": "With our visual understanding engine & platform, Aspect data teams at AI labs.\r\n\r\nAspect processes dense multimodal datasets, providing tools for segmentation, QC, structured schema extraction. \r\n\r\nCompanies today have access to Glean and Notion Agents for working with vast text corpuses - Aspect is enabling that for multimodal data.",
     "one_liner": "AI Visual Understanding for Multimodal Data ",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1761607655,
     "tags": [
+      "Artificial Intelligence",
       "Computer Vision",
       "B2B",
       "Video",
-      "Media",
-      "AI"
+      "Media"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46919,7 +46964,7 @@
     "slug": "sanctum",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/676b9954fbd7936ce531db4514cc008a76ca7a4d.png",
-    "website": "https://heysanctum.com/",
+    "website": "https://withsanctum.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sanctum lets you launch new features to agents that mimic your real users. We build AI user models from your session recordings and run them against your changes to surface bugs, UX issues, and performance problems early.",
     "one_liner": "Catch software issues with user simulations",

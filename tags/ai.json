@@ -468,7 +468,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8667,28 +8667,29 @@
   },
   {
     "id": 25983,
-    "name": "Verse",
-    "slug": "verse",
+    "name": "Housewarming",
+    "slug": "housewarming",
     "former_names": [
       "Discz Music Inc.",
       "Discz Music",
       "Discz",
-      "discz"
+      "discz",
+      "Verse"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1ecc706b4839585f0453988bfa733bf68f4eb23b.png",
-    "website": "https://madeonverse.com/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8dc18b30f3ba3c2ca49e86ec5e15296059e9d89f.png",
+    "website": "https://housewarming.me",
     "all_locations": "New York, NY, USA",
-    "long_description": "Verse is one of the fastest platforms ever to reach over 10 million users. We're building a home on the internet for Gen Z to showcase their identity and keep up with their friends in novel and creative ways. ",
-    "one_liner": "Social network based on who you are, not what you look like",
-    "team_size": 5,
+    "long_description": "Housewarming is social media and AI designed to bring you closer to your friends, not replace them or keep you isolated in an algorithm.\r\n\r\nWe've been building mega-viral consumer AI experiences since 2020. From the music discovery app Discz (1.5M users) to creative expression with Verse & Internet Bedroom (0-10 million users in 30 days, one of the fastest growing products of all-time) we like building at the frontier of technology in ways consumer truly love.\r\n\r\nHousewarming is our latest and most delightful product ever. Check it out, share moments with your friends, and let us know what you think :)",
+    "one_liner": "Share casual moments with the people you care about",
+    "team_size": 4,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1647358465,
     "tags": [
+      "Artificial Intelligence",
       "Consumer",
       "Entertainment",
       "Social",
-      "Music",
       "AI"
     ],
     "tags_highlighted": [],
@@ -8705,12 +8706,12 @@
       "America / Canada"
     ],
     "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
+    "app_video_public": true,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/verse",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/verse.json"
+    "url": "https://www.ycombinator.com/companies/housewarming",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/housewarming.json"
   },
   {
     "id": 25999,
@@ -9531,47 +9532,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/makeasite",
     "api": "https://yc-oss.github.io/api/batches/summer-2022/makeasite.json"
-  },
-  {
-    "id": 26712,
-    "name": "Bunting Labs",
-    "slug": "bunting-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/54ea16bb656251701a24761299c1463cf1564a86.png",
-    "website": "https://buntinglabs.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Bunting Labs is automating the digitization of maps into GIS and CAD software.",
-    "one_liner": "Digitize geospatial data locked on paper and in PDFs ",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1659469853,
-    "tags": [
-      "SaaS",
-      "Geographic Information System",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bunting-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/bunting-labs.json"
   },
   {
     "id": 26717,
@@ -11778,7 +11738,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -13369,6 +13329,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/thread-2.json"
   },
   {
+    "id": 28091,
+    "name": "Hindsight",
+    "slug": "hindsight",
+    "former_names": [
+      "NodeFlow",
+      "Baseplate",
+      "DealPage"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7937cfc67cd819742d4ef88a0139c7be4122cc00.png",
+    "website": "https://www.usehindsight.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Hindsight's AI helps teams understand why they win or lose deals - and use that insight to win more.\r\n\r\nOur platform is used by teams like Ironclad, LaunchDarkly, and Klaviyo to build workflows on top of their GTM data.\r\n\r\n1. Build battlecards, objection handling guides, and case studies that never go out of date\r\n2. Create AI roleplays based on real conversations your sales team is having\r\n3. Analyze 1000s of deals to create reports and alerts for your GTM, product, and strategy teams.",
+    "one_liner": "Deal Intelligence and Sales Coaching Platform",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1673288585,
+    "tags": [
+      "B2B",
+      "Analytics",
+      "Sales",
+      "Sales Enablement",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hindsight",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/hindsight.json"
+  },
+  {
     "id": 28096,
     "name": "OpenInt",
     "slug": "openint",
@@ -14272,54 +14279,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/asklio.json"
   },
   {
-    "id": 28836,
-    "name": "CORE",
-    "slug": "heysol",
-    "former_names": [
-      "Poozle",
-      "Mira",
-      "Tegon",
-      "Sigma",
-      "SOL"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9d0fae4f448de789e718cb96878197c7ecc29e2f.png",
-    "website": "https://heysol.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "CORE is an open-source unified, persistent memory layer for all your AI tools. Your context follows you from Cursor to Claude to ChatGPT to Claude Code. One knowledge graph remembers who said what, when, and why. Connect once, remember everywhere. Stop managing context and start building.",
-    "one_liner": "Build your personal memory system to power your AI apps.",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1687596955,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "SaaS",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/heysol",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/heysol.json"
-  },
-  {
     "id": 28838,
     "name": "GreenTally",
     "slug": "greentally",
@@ -14894,53 +14853,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/skyvern",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/skyvern.json"
-  },
-  {
-    "id": 28890,
-    "name": "Decoda Health",
-    "slug": "decoda-health",
-    "former_names": [
-      "Heal Financial"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7f3b1efd47e85f38279cafba940ec0988913d113.png",
-    "website": "https://decodahealth.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Medical practices struggle with front desk shortages and nonstop admin work—ringing phones, scheduling mishaps, intake errors, and billing headaches. The result? Overworked staff and less time for patient care.\r\n\r\nDecoda Health’s AI platform takes over 80% of these tedious tasks, handling calls, scheduling, and payments while alerting staff only when necessary. By reducing chaos and streamlining operations, teams can focus on what truly matters—providing exceptional patient care.",
-    "one_liner": "AI-powered platform automating medical practice operations",
-    "team_size": 7,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1689972321,
-    "tags": [
-      "Messaging",
-      "Digital Health",
-      "Healthcare IT",
-      "Billing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/decoda-health",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/decoda-health.json"
   },
   {
     "id": 28893,
@@ -15871,6 +15783,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/elythea",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/elythea.json"
+  },
+  {
+    "id": 29079,
+    "name": "Tiptap",
+    "slug": "tiptap",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45a420bd235fd41d8ee714d37c421a5f053f3657.png",
+    "website": "https://tiptap.dev/",
+    "all_locations": "Berlin, Berlin, Germany",
+    "long_description": "Tiptap is a suite of open source content editing and real-time collaboration tools for developers building apps like Notion or Google Docs. It’s used by thousands of businesses worldwide, including LinkedIn, GitLab, Axios, and Anthropic.",
+    "one_liner": "Developer toolkit for building collaborative apps.",
+    "team_size": 16,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1687103873,
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Germany",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tiptap",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/tiptap.json"
   },
   {
     "id": 29082,
@@ -21095,7 +21050,7 @@
     "slug": "manaflow",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f240894ee1866a817f8d66f9ed82314520294cbf.png",
-    "website": "https://www.cmux.dev/",
+    "website": "https://www.manaflow.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Manaflow is building new interfaces and tools for the future of software engineering. We're the creators of cmux, a universal AI coding agent manager that supports Claude Code, Codex, Gemini CLI, Amp, Opencode, and other coding CLIs. \r\n\r\ncmux helps software engineers context switch between tasks, deploy coding agents safely in cloud sandboxes, and verify AI-written code through preview environments.\r\n\r\nYou can use cmux like Jira, Asana, or GitHub Issues, writing a bunch of tickets like a todos list – except cmux will deploy AI coding agents of your choice to complete the tickets for you. \r\n\r\nFor every task that you start, cmux will:\r\n- Start up dev environments that include VS Code + browser previews for any dev servers so you can visually verify and test live changes fast\r\n- Spin up cloud sandboxes to safely deploy AI coding agents in YOLO mode so they can move fast and NOT break things\r\n- Evaluate all of the code diffs for all of your selected AI coding agents when they finish their tasks and choose the best version for you\r\n\r\nThe future of software engineering will be managing, verifying, and reviewing 10+ coding tasks done by AI agents simultaneously. Human software engineers will become software engineering managers with AI software engineering teams behind them. Manaflow is building these interfaces to enable engineers to become 10x more productive with AI.\r\n\r\ncmux is an open-source app, and you can also bring your own API keys or OpenAI and Claude Max subscriptions. You can download cmux at https://www.cmux.dev/.",
     "one_liner": "Building interfaces for managing AI coding agents to do good work",
@@ -27319,50 +27274,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/youlearn.json"
   },
   {
-    "id": 30444,
-    "name": "Percival",
-    "slug": "percival",
-    "former_names": [
-      "Percival Technologies"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdf1ebc7dc7ea895611a77f39a7009d41c1f8342.png",
-    "website": "https://percy.tech",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Building an AI copilot for researchers to analyze and transform real-world data.",
-    "one_liner": "Accelerating data analysis for research",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1745969288,
-    "tags": [
-      "Developer Tools",
-      "Data Science",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/percival",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/percival.json"
-  },
-  {
     "id": 30445,
     "name": "Mbodi AI",
     "slug": "mbodi-ai",
@@ -27927,7 +27838,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -29615,46 +29526,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/normal.json"
   },
   {
-    "id": 30699,
-    "name": "VibeFlow",
-    "slug": "vibeflow",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5596537c1b7f7b2fdc729cd0da77e9c233f79180.png",
-    "website": "https://vibeflow.ai/",
-    "all_locations": "",
-    "long_description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
-    "one_liner": "Shopify for saas",
-    "team_size": 0,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1753078619,
-    "tags": [
-      "Developer Tools",
-      "Consumer",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/vibeflow",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/vibeflow.json"
-  },
-  {
     "id": 30711,
     "name": "Hyprnote",
     "slug": "hyprnote",
@@ -30262,14 +30133,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f11e383f1603855e0c14f84e4d86a8e59ed719ed.png",
     "website": "https://clodo.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clodo is AI for Large Scale Construction. We build AI agents that support teams and automate busy work for the largest general contractors in the country.",
-    "one_liner": "AI For Large Scale Construction",
-    "team_size": 3,
+    "long_description": "Clodo is the AI Copilot for Outbound Sales",
+    "one_liner": "AI Copilot for Outbound Sales",
+    "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1754475903,
     "tags": [
       "Artificial Intelligence",
+      "B2B",
+      "Sales",
       "AI"
     ],
     "tags_highlighted": [],
@@ -30768,50 +30641,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hyperspell",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/hyperspell.json"
-  },
-  {
-    "id": 30857,
-    "name": "Aspect",
-    "slug": "aspect-inc",
-    "former_names": [
-      "Auler"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/172f5fb23b85c343374cfa3c2b0a719eb64be3b6.png",
-    "website": "https://aspect.inc",
-    "all_locations": "",
-    "long_description": "With our visual understanding engine & platform, Aspect primarily serves both enterprise content teams and data teams at AI labs.\r\n\r\nFor enterprise:\r\nAspect deeply understands a team's visual (video, 3D, multimodal docs) libraries and day-to-day workflows, performing clip search, rough drafting, and automated review.\r\n\r\nFor research:\r\nAspect processes dense multimodal datasets, providing tools for segmentation, QC, structured schema extraction. \r\n\r\nCompanies today have access to Glean and Notion Agents for working with vast text corpuses - Aspect is enabling that for multimodal data.",
-    "one_liner": "AI Visual Understanding for Multimodal Data ",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1761607655,
-    "tags": [
-      "Computer Vision",
-      "B2B",
-      "Video",
-      "Media",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aspect-inc",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/aspect-inc.json"
   },
   {
     "id": 30859,
@@ -31546,7 +31375,7 @@
     "slug": "sanctum",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/676b9954fbd7936ce531db4514cc008a76ca7a4d.png",
-    "website": "https://heysanctum.com/",
+    "website": "https://withsanctum.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Sanctum lets you launch new features to agents that mimic your real users. We build AI user models from your session recordings and run them against your changes to surface bugs, UX issues, and performance problems early.",
     "one_liner": "Catch software issues with user simulations",
