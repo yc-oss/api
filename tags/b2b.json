@@ -14471,7 +14471,7 @@
     "all_locations": "San Diego, CA, USA; Remote",
     "long_description": "Rethoric is a plug-and-play content team specialized in helping founders publish high-quality content consistently and grow on LinkedIn to get 1M+ monthly impressions.\r\n\r\nMost founders know the value of building an audience on LinkedIn, but the process demands consistency, time, creativity, writing skills, and energy—things founders often lack.\r\n\r\nOur clients only need to attend a monthly content interview session, and we do the rest. ",
     "one_liner": "LinkedIn content & strategy for founders to get 1M monthly impressions",
-    "team_size": 6,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
     "launched_at": 1613662142,
@@ -19977,7 +19977,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re modernizing construction, a $12T global industry run by siloed software built 20-40 years ago (on-prem, no APIs, no mobile access, etc.). \r\n\r\nOur core product is Agave Sync, which helps General and Trade Contractors keep financial data in sync between their field teams on jobsites and their accounting teams in a central back office.",
     "one_liner": "Data infrastructure for Construction",
-    "team_size": 23,
+    "team_size": 28,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1642541270,
@@ -29587,16 +29587,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Salient is an AI workflow automation tool for lenders. We're working with the largest auto lenders in America and are hiring! ",
     "one_liner": "AI Servicing for Auto Lenders",
-    "team_size": 23,
+    "team_size": 40,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1677110461,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "Generative AI",
       "B2B",
-      "Operations"
+      "Operations",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41364,53 +41364,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/gecko-security.json"
   },
   {
-    "id": 30101,
-    "name": "BrowserBook",
-    "slug": "browserbook",
-    "former_names": [
-      "Chorrie"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a865085a8c1bba663b682273cb6897a7a4f4686.png",
-    "website": "https://browserbook.com",
-    "all_locations": "New York, NY, USA",
-    "long_description": "BrowserBook makes it easy to reliably automate the web. It's a Jupyter-style IDE for browser automation that combines a live browser, executable code cells, and an AI coding assistant to generate Playwright scripts that are deterministic by default. Developers use BrowserBook to build, debug, and deploy robust web automations, powering AI agents, QA workflows, and data operations.",
-    "one_liner": "The Browser Automation IDE",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1731609344,
-    "tags": [
-      "Developer Tools",
-      "Generative AI",
-      "SaaS",
-      "B2B",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/browserbook",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/browserbook.json"
-  },
-  {
     "id": 30105,
     "name": "ArchiLabs",
     "slug": "archilabs",
@@ -43629,8 +43582,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f45e72de8a958a28fb7ae53a3b51322bb3d582a8.png",
     "website": "https://getcleon.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Cleon is building an AI-native software implementation platform to speed up customer onboarding, beginning with a focus on ingesting complex Excel files with agentic AI. \r\n\r\nB2B SaaS companies have millions of dollars of contracted revenue sitting behind implementations. Cleon handles everything from the big picture (generating requirements and aligning stakeholders) to the details (data cleaning and schema mapping). \r\n\r\nThe team consists of Alexandros (ex-athlete in rowing and engineer at a proptech startup), Rohan (engineer at a fintech startup with long implementations and at an SAP code migration startup), and Ric (banker at RBC and enterprise sales at Palantir).",
-    "one_liner": "AI Agents for Software Implementations",
+    "long_description": "Cleon's AI voice agents work 24/7—answering every incoming call right away and making outbound calls when you need them. They chat like real people, handle FAQs, book appointments, take orders, and pass the complex stuff to your team when needed.",
+    "one_liner": "AI Phone Agents",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -48376,5 +48329,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/luel",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/luel.json"
+  },
+  {
+    "id": 31230,
+    "name": "o11",
+    "slug": "o11",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
+    "website": "https://o11.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "o11 brings bulge bracket level speed and output quality to capital markets firms of any size. Seamlessly integrated into every Microsoft 365 tool, it transforms your documents and models into a dynamic knowledge layer that drives research, modeling, and client ready deliverables with consistent precision.",
+    "one_liner": "The AI Platform for Capital Market Firms",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1765258468,
+    "tags": [
+      "Fintech",
+      "Finance",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/o11",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
   }
 ]
