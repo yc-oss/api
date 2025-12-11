@@ -7371,16 +7371,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af09359ecc24430a6054310be3115645fc95f1d8.png",
     "website": "http://www.kalamlabs.in",
     "all_locations": "India",
-    "long_description": "Building Stratospheric Near Space UAV Platform.\r\n\r\nUtilized by military to provide:-\r\n- Stratospheric high altitude stealth ISR\r\n- Low-cost stealth loitering kamikaze strikes\r\n- Atmospheric Meterological Data Capture and Nuclear Fallout testing\r\n\r\nSystems currently deployed at Indo-China LoC to help out the free-world's military.",
-    "one_liner": "Stratospheric Aerial Robotics Lab",
+    "long_description": "Fun STEM aerial kits for children.\r\n\r\nWe at Kalam Labs have built our own microcontrollers, which can power aerial machines which children can fly and learn from.",
+    "one_liner": "STEMS Kits for Kids",
     "team_size": 10,
     "industry": "Industrials",
     "subindustry": "Industrials -> Drones",
     "launched_at": 1625919461,
     "tags": [
+      "Artificial Intelligence",
+      "Education",
       "Drones",
-      "Aerospace",
-      "AI"
+      "Aerospace"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -12577,48 +12578,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/mbodi-ai.json"
   },
   {
-    "id": 30469,
-    "name": "HABIT",
-    "slug": "habit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/346513b86ce82dc04f53e62543ed7ec57a508425.png",
-    "website": "https://habitrobotics.com",
-    "all_locations": "",
-    "long_description": "HABIT will deploy on-demand robotic labor to you — and to restaurants, hotels, stores, and farms in your neighborhood. Our first vertical (the $45B car wash and auto detailing market) is high cost, labor intensive, and already offered in thousands of locations across America.",
-    "one_liner": "Reshaping neighborhood services with robotics.",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1747768090,
-    "tags": [
-      "Hard Tech",
-      "Robotics",
-      "Consumer",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/habit",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/habit.json"
-  },
-  {
     "id": 30502,
     "name": "PowerMatrix",
     "slug": "powermatrix",
@@ -13902,5 +13861,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hlabs",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/hlabs.json"
+  },
+  {
+    "id": 31233,
+    "name": "Chasi",
+    "slug": "chasi",
+    "former_names": [
+      "Chasi AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f00390c0a223102a56fdf65295fa18a5bdaf56c.png",
+    "website": "https://chasi.co/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Chasi helps equipment dealers grow and retain customers with 24/7 VIP treatment across all channels. Chasi’s AI agents act as executive assistants for sales and support reps, automating follow-ups, data collection, status updates, and outreach so teams can spend more time with customers and less on admin.\r\n\r\nOver half of dealer payroll goes to sales and support, but a third of that team’s time is lost to admin. Fleets still run under 60% utilization, most branches lack after-hours coverage, and the aftermarket is largely reactive. Chasi plugs these revenue leaks by keeping units rented or sold, chasing every lead, and driving the right parts and service before machines fail.",
+    "one_liner": "AI Concierge for Equipment sales, service & rentals",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1765343151,
+    "tags": [
+      "SaaS",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/chasi",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/chasi.json"
   }
 ]

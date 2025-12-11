@@ -212,15 +212,17 @@
   },
   {
     "id": 29179,
-    "name": "Driver AI",
-    "slug": "driver-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c6034119b98e2931dff82142dcd69ad4993b8c77.png",
+    "name": "Driver",
+    "slug": "driver",
+    "former_names": [
+      "Driver AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ea81e9c37c41aa8296991408bceb179678f02b16.png",
     "website": "https://www.driverai.com/",
     "all_locations": "",
-    "long_description": "Driver AI is the new way to write technical documentation. It helps everyone in an organization write interactive documents to explain millions of lines of code in minutes instead of months.\r\n\r\nWHO: We partner with chip manufacturing, enterprise IT, and software product development teams.\r\n\r\nWHY: Traditionally, these teams spend millions and wait months (sometimes years) to understand their complex technology infrastructure well enough to build on top of it. \r\n\r\nTHE DRIVER DIFFERENCE: Instead, Driver AI is a tool that explains complex codebases in minutes vs. months. This enables teams to rapidly accelerate the technical discovery process and save significant resources. \r\n\r\nHOW IT WORKS: Driver AI works by digesting a codebase, organizing it for analysis, and harnessing Large Language Models (LLMs) to generate interactive explanations for executives, product and technology leaders, and developers.\r\n\r\n\"Driver AI is a paradigm shift for managing our complex software delivery pipeline.\" - Executive Vice President, Global Semiconductor Company",
-    "one_liner": "Understand millions of lines of code in minutes.",
-    "team_size": 11,
+    "long_description": "Driver is the context layer that translates your codebase into shared, structured understanding. By computing context ahead of time, Driver delivers symbol‑complete documentation, architecture maps, and history guides so teams and agents can reason across an entire codebase without guesswork.",
+    "one_liner": "Context for Codebases",
+    "team_size": 13,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1706885806,
@@ -243,8 +245,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/driver-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/driver-ai.json"
+    "url": "https://www.ycombinator.com/companies/driver",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/driver.json"
   },
   {
     "id": 29180,
@@ -276,7 +278,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7963,14 +7965,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/334553fe55450cd0888b7e50f8918d05c8491633.png",
     "website": "https://www.sparkhq.ai",
     "all_locations": "",
-    "long_description": "Spark is an AI-powered planning and workflow tool for large-scale clean energy developers that lets them break ground faster. With Spark, developers can search across thousands of PDFs, maps, and websites to identify requirements and screen locations in seconds, not weeks.\r\n\r\nJulia and Tae were previously engineering and product managers at Brex, Tesla, and Apple. They grew up within 10 minutes of each other in Brazil but met in the US through a shared passion for software and infrastructure for society.",
-    "one_liner": "AI-powered workflows for large-scale clean energy",
-    "team_size": 3,
+    "long_description": "Spark AI is workflow software for solar, storage, and data center developers. We've reviewed and identified over 1 million zoning, permitting, and project-related documents in nearly every jurisdiction in America, so that you can instantly identify project requirements, local sentiment, and fatal flaws in seconds.\r\n\r\nWe’re trusted by dozens of industry-leading developers representing over 90 gigawatts of project pipeline and $30 billion in financing. Our team combines leadership experience from AI and energy (Microsoft, Apple, Department of Energy, Brex).",
+    "one_liner": "AI-powered workflows for energy infrastructure",
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1708060326,
     "tags": [
-      "Climate"
+      "Energy Storage",
+      "Solar Power",
+      "Climate",
+      "Energy",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

@@ -637,7 +637,7 @@
     ],
     "tags_highlighted": [],
     "top_company": true,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2016",
     "status": "Active",
@@ -5481,10 +5481,10 @@
     "website": "https://waydev.co/",
     "all_locations": "Menlo Park, CA, USA",
     "long_description": "Waydev is the Engineering Productivity Intelligence platform that helps companies understand, measure, and improve the performance of their software teams. It connects to the tools engineers already use, then transforms code, work items, reviews, deployments, and AI-assisted activity into a unified source of truth for engineering effectiveness.\r\n\r\nBuilt for modern engineering leaders, Waydev delivers deep visibility across delivery speed, code quality, collaboration patterns, and real business impact. With automated insights, conversational analytics, and industry benchmarks, teams can make decisions with clarity, reduce bottlenecks, and continuously improve how software is shipped.\r\n\r\nWaydev replaces manual reporting, subjective evaluations, and static dashboards. It gives executives, managers, and ICs the context they need to optimize workflows, forecast outcomes, and align engineering output to business results.\r\n\r\nWaydev powers engineering intelligence for fast-growing startups and global enterprises by turning raw activity into actionable strategy.",
-    "one_liner": "The Engineering Productivity Intelligence Platform | DORA, SPACE, DX,…",
-    "team_size": 10,
+    "one_liner": "The Engineering Intelligence Platform | DORA, SPACE, DX, CORE 4 ",
+    "team_size": 13,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1616455133,
     "tags": [
       "AI-Enhanced Learning",
@@ -5501,7 +5501,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Analytics"
+      "Productivity"
     ],
     "regions": [
       "United States of America",
@@ -5882,53 +5882,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/firstquadrant.json"
   },
   {
-    "id": 24039,
-    "name": "Kalam Labs",
-    "slug": "kalam-labs",
-    "former_names": [
-      "Kalam Labs",
-      "Kiddernet (prev. Kalam Labs)",
-      "AskPenny",
-      "Kiddernet (prev Kalam Labs)",
-      "AskPenny"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/af09359ecc24430a6054310be3115645fc95f1d8.png",
-    "website": "http://www.kalamlabs.in",
-    "all_locations": "India",
-    "long_description": "Building Stratospheric Near Space UAV Platform.\r\n\r\nUtilized by military to provide:-\r\n- Stratospheric high altitude stealth ISR\r\n- Low-cost stealth loitering kamikaze strikes\r\n- Atmospheric Meterological Data Capture and Nuclear Fallout testing\r\n\r\nSystems currently deployed at Indo-China LoC to help out the free-world's military.",
-    "one_liner": "Stratospheric Aerial Robotics Lab",
-    "team_size": 10,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Drones",
-    "launched_at": 1625919461,
-    "tags": [
-      "Drones",
-      "Aerospace",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2021",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Drones"
-    ],
-    "regions": [
-      "India",
-      "South Asia"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kalam-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/kalam-labs.json"
-  },
-  {
     "id": 24040,
     "name": "Affogato AI",
     "slug": "affogato-ai",
@@ -6199,6 +6152,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dailybot",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/dailybot.json"
+  },
+  {
+    "id": 24161,
+    "name": "Tavus",
+    "slug": "tavus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ec34501cca11c6da0cb968806ccdc60d66356e3.png",
+    "website": "https://www.tavus.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Tavus, we're building the human layer of AI. Our mission is to make human-AI interaction as natural as face-to-face interaction, enabling the human touch where it has been previously unscalable. We achieve this through pioneering research in multi-modal AI models for human perception and understanding, combined with state-of-the-art human avatar rendering and conversation models that we make accessible to developers worldwide. Our models and APIs power everything from text-to-video AI avatars to real-time conversational video experiences across industries like healthcare, recruiting, sales, education, and more. By enabling AI to see, hear, and communicate with human-like authenticity, we're creating the foundation for developers to create the next generation of AI employees, assistants, and companions.",
+    "one_liner": "Building the human layer of AI",
+    "team_size": 40,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1625678589,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "Video",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Growth",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tavus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/tavus.json"
   },
   {
     "id": 24192,
@@ -14911,7 +14908,7 @@
     "all_locations": "",
     "long_description": "Dialtone helps enterprises transform cross-functional, cross-system tasks into intelligent, self-running AI agents - all with your existing enterprise security controls. Companies across technology, sports and entertainment, healthcare, finance, and retail deploy Dialtone Agents to automate both internal operations and customer-facing processes.\r\n\r\nWhat sets us apart:\r\n1. Agentic AI delivered on day one: Our platform couples cutting-edge AI infrastructure with built-in reliability, security, and observability so teams can launch production-grade agents in days, not months.\r\n2. White-glove engineering included: Dedicated engineering support to help end-to-end, from scoping to launch to continuous optimization - at no extra cost.\r\n3. Success over software: We measure our impact by real business outcomes, not seat counts. If our agents aren’t moving the needle, we’re not done.\r\n\r\nHow it works:\r\n1.No-code Agent Builder - Design, test, deploy, and run agents in an intuitive UI anyone can use. All backed by Dialtone’s best-in-class AI infrastructure and agent orchestration platform.\r\n2. Humans in the loop - Employees can seamlessly collaborate with agents when human input or oversight is required.\r\n3. Triggers + Surfaces - Configure agents to run on integration events, time based schedules, or arbitrary webhooks - all in an easy-to-use UI. Or, use and talk with agents from your existing chat and email surfaces.\r\n4. Integrations Library - 100+ (and counting) first-party data, action, and event connectors for the software and tools you already depend on.\r\n5. Observability - View every step of any agentic flow with easily parseable real-time logs and traces for rapid debugging, optimization, and auditing.\r\n6. Custom Integrations + API - Extend agents with your proprietary systems and software using your existing OpenAPI specs and MCP servers. Need even more customization? Programmatically create, orchestrate, and monitor agents from your own codebase.\r\n",
     "one_liner": "AI agents for enterprises",
-    "team_size": 8,
+    "team_size": 10,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1688669019,
@@ -19487,6 +19484,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/zep-ai.json"
   },
   {
+    "id": 29438,
+    "name": "Spark",
+    "slug": "spark",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/334553fe55450cd0888b7e50f8918d05c8491633.png",
+    "website": "https://www.sparkhq.ai",
+    "all_locations": "",
+    "long_description": "Spark AI is workflow software for solar, storage, and data center developers. We've reviewed and identified over 1 million zoning, permitting, and project-related documents in nearly every jurisdiction in America, so that you can instantly identify project requirements, local sentiment, and fatal flaws in seconds.\r\n\r\nWe’re trusted by dozens of industry-leading developers representing over 90 gigawatts of project pipeline and $30 billion in financing. Our team combines leadership experience from AI and energy (Microsoft, Apple, Department of Energy, Brex).",
+    "one_liner": "AI-powered workflows for energy infrastructure",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1708060326,
+    "tags": [
+      "Energy Storage",
+      "Solar Power",
+      "Climate",
+      "Energy",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/spark",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/spark.json"
+  },
+  {
     "id": 29440,
     "name": "Rove",
     "slug": "rove",
@@ -23156,6 +23194,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/browseros.json"
   },
   {
+    "id": 29957,
+    "name": "Anglera",
+    "slug": "anglera",
+    "former_names": [
+      "Angler"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a2dfb2adf611e11737fa14a1b9b4be581858cfc3.png",
+    "website": "https://www.anglera.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "At Anglera, we're developing a suite of AI agents to help e-commerce companies run their operations more efficiently. Our flagship agent helps our customers onboard, enrich, and manage their product data, reducing time per product from 15 mins down to 5 seconds.\r\n\r\nWe previously developed ML to automatically enrich millions of products at Uber Eats, and we're now on a mission to automate the most common manual workflows for every e-commerce business.",
+    "one_liner": "AI-Powered Product Data Enrichment",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1719875304,
+    "tags": [
+      "Machine Learning",
+      "SaaS",
+      "B2B",
+      "E-commerce",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/anglera",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/anglera.json"
+  },
+  {
     "id": 29962,
     "name": "General Analysis",
     "slug": "general-analysis",
@@ -24368,48 +24451,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/vly-ai-2.json"
   },
   {
-    "id": 30077,
-    "name": "AutoComputer",
-    "slug": "autocomputer",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a60f5ba14460a149ec6587f93611a37f06bcb11.png",
-    "website": "https://www.autocomputer.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AutoComputer is a desktop robotic process automation system.  Given just a text prompt, our AI automates tedious tasks such as financial data entry by performing all the clicks and keystrokes for you.",
-    "one_liner": "Desktop RPA with AI computer use",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1731450144,
-    "tags": [
-      "Deep Learning",
-      "B2B",
-      "Enterprise",
-      "Automation",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/autocomputer",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/autocomputer.json"
-  },
-  {
     "id": 30088,
     "name": "PermitPortal",
     "slug": "permitportal",
@@ -24857,7 +24898,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -27837,48 +27878,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/labric.json"
   },
   {
-    "id": 30469,
-    "name": "HABIT",
-    "slug": "habit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/346513b86ce82dc04f53e62543ed7ec57a508425.png",
-    "website": "https://habitrobotics.com",
-    "all_locations": "",
-    "long_description": "HABIT will deploy on-demand robotic labor to you — and to restaurants, hotels, stores, and farms in your neighborhood. Our first vertical (the $45B car wash and auto detailing market) is high cost, labor intensive, and already offered in thousands of locations across America.",
-    "one_liner": "Reshaping neighborhood services with robotics.",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
-    "launched_at": 1747768090,
-    "tags": [
-      "Hard Tech",
-      "Robotics",
-      "Consumer",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/habit",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/habit.json"
-  },
-  {
     "id": 30479,
     "name": "Crimson",
     "slug": "crimson",
@@ -28051,7 +28050,7 @@
     "slug": "qualgent",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e454cf353c971b2d54e61c997bd0585c07acf8c.png",
-    "website": "https://qualgent.ai",
+    "website": "https://qualgent.link/qualgent",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "QualGent is an AI Mobile App Quality Assurance Tester that mimics a real human, helping teams catch bugs and ship faster - without hiring more QA testers. One customer reached #3 in the Education category on the App Store by improving app quality with QualGent.\r\n\r\nMobile bugs hurt: crashes kill ratings, broken checkouts drive churn. QualGent helps teams scale QA effortlessly and avoid Sonos-level disasters.\r\n\r\nThe idea for QualGent was born from the founders’ experience leading engineering teams at Google across Android XR, Stadia, Quick Share, and foldable devices where shipping to billions of users meant constantly facing the painful trade-off between moving fast and maintaining quality. With prior research experience at Nvidia, Maryland, and Berkeley, the team saw a clear opportunity: use AI to scale QA.\r\n\r\nQualGent’s vision is to close the loop on software creation. As AI enables engineers to code 100x faster, QualGent eliminates the next bottleneck—software verification—unlocking truly scalable, end-to-end software development.",
     "one_liner": "AI Mobile App Quality Assurance Tester",
@@ -32235,48 +32234,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/boom-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/boom-ai.json"
-  },
-  {
-    "id": 30983,
-    "name": "Telemetron",
-    "slug": "telemetron-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db4f19af21f2acf6ffe0cf95e59e6961ae9e1f89.png",
-    "website": "https://www.telemetron.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Telemetron is an AI-powered support platform tailored for hardware products (medical devices, consumer electronics, industrial hardware, robotics, and more). \r\n\r\nOur platform unifies ticketing, device diagnostics, order tracking, and product documentation into one intelligent system. Our AI agents connect directly to devices, APIs, and backend systems to deliver faster resolutions, smarter routing, and better support experiences.",
-    "one_liner": "Support and Operations Platform for Hardware Companies",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1759807426,
-    "tags": [
-      "Hardware",
-      "B2B",
-      "Customer Success",
-      "Customer Support",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/telemetron-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/telemetron-ai.json"
   },
   {
     "id": 30989,

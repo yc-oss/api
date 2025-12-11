@@ -2377,7 +2377,7 @@
     ],
     "tags_highlighted": [],
     "top_company": true,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2016",
     "status": "Active",
@@ -16593,11 +16593,11 @@
     "subindustry": "B2B",
     "launched_at": 1625678589,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
       "Video",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40413,16 +40413,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Anglera, we're developing a suite of AI agents to help e-commerce companies run their operations more efficiently. Our flagship agent helps our customers onboard, enrich, and manage their product data, reducing time per product from 15 mins down to 5 seconds.\r\n\r\nWe previously developed ML to automatically enrich millions of products at Uber Eats, and we're now on a mission to automate the most common manual workflows for every e-commerce business.",
     "one_liner": "AI-Powered Product Data Enrichment",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1719875304,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "B2B",
-      "E-commerce"
+      "E-commerce",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41247,11 +41247,11 @@
     "subindustry": "B2B",
     "launched_at": 1731450144,
     "tags": [
+      "Artificial Intelligence",
       "Deep Learning",
       "B2B",
       "Enterprise",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -41686,7 +41686,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -43495,19 +43495,19 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/346513b86ce82dc04f53e62543ed7ec57a508425.png",
     "website": "https://habitrobotics.com",
-    "all_locations": "",
-    "long_description": "HABIT will deploy on-demand robotic labor to you — and to restaurants, hotels, stores, and farms in your neighborhood. Our first vertical (the $45B car wash and auto detailing market) is high cost, labor intensive, and already offered in thousands of locations across America.",
-    "one_liner": "Reshaping neighborhood services with robotics.",
-    "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "all_locations": "El Segundo, CA, USA",
+    "long_description": "Every month, our robots greet thousands of Americans with a smile. They answer questions, upsell customers, and can be trained just like a human employee.",
+    "one_liner": "Conversational robots for physical businesses.",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
     "launched_at": 1747768090,
     "tags": [
-      "Hard Tech",
+      "Artificial Intelligence",
       "Robotics",
       "Consumer",
       "B2B",
-      "AI"
+      "Retail"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43516,11 +43516,12 @@
     "batch": "Spring 2025",
     "status": "Active",
     "industries": [
-      "Industrials",
-      "Manufacturing and Robotics"
+      "B2B",
+      "Retail"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -43707,7 +43708,7 @@
     "slug": "qualgent",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e454cf353c971b2d54e61c997bd0585c07acf8c.png",
-    "website": "https://qualgent.ai",
+    "website": "https://qualgent.link/qualgent",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "QualGent is an AI Mobile App Quality Assurance Tester that mimics a real human, helping teams catch bugs and ship faster - without hiring more QA testers. One customer reached #3 in the Education category on the App Store by improving app quality with QualGent.\r\n\r\nMobile bugs hurt: crashes kill ratings, broken checkouts drive churn. QualGent helps teams scale QA effortlessly and avoid Sonos-level disasters.\r\n\r\nThe idea for QualGent was born from the founders’ experience leading engineering teams at Google across Android XR, Stadia, Quick Share, and foldable devices where shipping to billions of users meant constantly facing the painful trade-off between moving fast and maintaining quality. With prior research experience at Nvidia, Maryland, and Berkeley, the team saw a clear opportunity: use AI to scale QA.\r\n\r\nQualGent’s vision is to close the loop on software creation. As AI enables engineers to code 100x faster, QualGent eliminates the next bottleneck—software verification—unlocking truly scalable, end-to-end software development.",
     "one_liner": "AI Mobile App Quality Assurance Tester",
@@ -47856,48 +47857,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/boom-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/boom-ai.json"
-  },
-  {
-    "id": 30983,
-    "name": "Telemetron",
-    "slug": "telemetron-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db4f19af21f2acf6ffe0cf95e59e6961ae9e1f89.png",
-    "website": "https://www.telemetron.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Telemetron is an AI-powered support platform tailored for hardware products (medical devices, consumer electronics, industrial hardware, robotics, and more). \r\n\r\nOur platform unifies ticketing, device diagnostics, order tracking, and product documentation into one intelligent system. Our AI agents connect directly to devices, APIs, and backend systems to deliver faster resolutions, smarter routing, and better support experiences.",
-    "one_liner": "Support and Operations Platform for Hardware Companies",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1759807426,
-    "tags": [
-      "Hardware",
-      "B2B",
-      "Customer Success",
-      "Customer Support",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/telemetron-ai",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/telemetron-ai.json"
   },
   {
     "id": 30989,

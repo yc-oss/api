@@ -1657,7 +1657,7 @@
     ],
     "tags_highlighted": [],
     "top_company": true,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2016",
     "status": "Active",
@@ -1995,7 +1995,7 @@
     "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2016",
-    "status": "Active",
+    "status": "Public",
     "industries": [
       "B2B",
       "Retail"
@@ -2006,7 +2006,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5225,16 +5225,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Anglera, we're developing a suite of AI agents to help e-commerce companies run their operations more efficiently. Our flagship agent helps our customers onboard, enrich, and manage their product data, reducing time per product from 15 mins down to 5 seconds.\r\n\r\nWe previously developed ML to automatically enrich millions of products at Uber Eats, and we're now on a mission to automate the most common manual workflows for every e-commerce business.",
     "one_liner": "AI-Powered Product Data Enrichment",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1719875304,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "B2B",
-      "E-commerce"
+      "E-commerce",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5341,6 +5341,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/kirana-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/kirana-ai.json"
+  },
+  {
+    "id": 30469,
+    "name": "HABIT",
+    "slug": "habit",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/346513b86ce82dc04f53e62543ed7ec57a508425.png",
+    "website": "https://habitrobotics.com",
+    "all_locations": "El Segundo, CA, USA",
+    "long_description": "Every month, our robots greet thousands of Americans with a smile. They answer questions, upsell customers, and can be trained just like a human employee.",
+    "one_liner": "Conversational robots for physical businesses.",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "launched_at": 1747768090,
+    "tags": [
+      "Artificial Intelligence",
+      "Robotics",
+      "Consumer",
+      "B2B",
+      "Retail"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Retail"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/habit",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/habit.json"
   },
   {
     "id": 30695,

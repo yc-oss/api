@@ -34,7 +34,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4936,7 +4936,7 @@
     ],
     "tags_highlighted": [],
     "top_company": true,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2016",
     "status": "Active",
@@ -44374,16 +44374,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Anglera, we're developing a suite of AI agents to help e-commerce companies run their operations more efficiently. Our flagship agent helps our customers onboard, enrich, and manage their product data, reducing time per product from 15 mins down to 5 seconds.\r\n\r\nWe previously developed ML to automatically enrich millions of products at Uber Eats, and we're now on a mission to automate the most common manual workflows for every e-commerce business.",
     "one_liner": "AI-Powered Product Data Enrichment",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1719875304,
     "tags": [
-      "Artificial Intelligence",
       "Machine Learning",
       "SaaS",
       "B2B",
-      "E-commerce"
+      "E-commerce",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49922,5 +49922,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/avoice",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/avoice.json"
+  },
+  {
+    "id": 31233,
+    "name": "Chasi",
+    "slug": "chasi",
+    "former_names": [
+      "Chasi AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f00390c0a223102a56fdf65295fa18a5bdaf56c.png",
+    "website": "https://chasi.co/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Chasi helps equipment dealers grow and retain customers with 24/7 VIP treatment across all channels. Chasi’s AI agents act as executive assistants for sales and support reps, automating follow-ups, data collection, status updates, and outreach so teams can spend more time with customers and less on admin.\r\n\r\nOver half of dealer payroll goes to sales and support, but a third of that team’s time is lost to admin. Fleets still run under 60% utilization, most branches lack after-hours coverage, and the aftermarket is largely reactive. Chasi plugs these revenue leaks by keeping units rented or sold, chasing every lead, and driving the right parts and service before machines fail.",
+    "one_liner": "AI Concierge for Equipment sales, service & rentals",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1765343151,
+    "tags": [
+      "SaaS",
+      "Industrial"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/chasi",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/chasi.json"
   }
 ]
