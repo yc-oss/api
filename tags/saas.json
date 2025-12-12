@@ -961,7 +961,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2011",
     "status": "Active",
@@ -13159,7 +13159,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -14861,7 +14861,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22035,10 +22035,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Marketing"
@@ -40247,7 +40247,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Goodbye Slurm, Hello Konduktor.\r\n\r\nTrainy Konduktor is a software platform for AI teams to schedule workloads with priority, control resource allocation, and improve GPU reliability. With Konduktor, teams submit jobs to a healthy pool of GPUs, assign job priority with a simple user interface, and never worry about hardware faults again.",
     "one_liner": "Infrastructure for managing GPU clusters for training/serving.",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1687891811,
@@ -47057,8 +47057,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f2e58c42a604fd5e1a5fcad5f8c2350c03ca60a.png",
     "website": "https://clidey.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Clidey is building Docucod (https://docucod.com)\r\n\r\nDocucod auto-generates and maintains always-up-to-date documentation—right from your codebase. Your team can move faster, onboard quicker, and stay focused on building.\r\n\r\nSeamless to set up and built for scale, it fits cleanly into any repo—whether you're shipping solo or leading a growing dev team. Docucod tracks your PRs and understands what changes need to be made to the documentation and then makes them.\r\n\r\nFrom onboarding guides to API references and system diagrams, Docucod creates clear, accurate documentation—without slowing you down.\r\n\r\nIt’s developer-first, fully editable, and always in sync—so you never have to choose between speed and quality again.",
-    "one_liner": "Documentation made for AI Agents",
+    "long_description": "Clidey is building WhoDB (https://whodb.com)\r\n\r\nComing soon.",
+    "one_liner": "Removing the application layer completely",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -47561,7 +47561,7 @@
     "former_names": [
       "Heliosphere Network Corporation"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a3aa0d95916d3b4131e5082f239f41e897c5e822.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/36e55270dbc5bebe580db836e83f643f2121440a.png",
     "website": "https://cascade.space",
     "all_locations": "",
     "long_description": "Cascade Space is building a turn-key communications system for lunar and deep space missions. Our ground station network and integrated software tools work together to maximize uptime and availability, while reducing spacecraft iteration cycles from weeks to hours. \r\n",
@@ -48420,17 +48420,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c96ba5c83b86c4246bc8f55c3a927bdde88653.png",
     "website": "https://www.palace.so",
     "all_locations": "New York, NY, USA",
-    "long_description": "Palace (palace.so) is an AI board observer that private market investors use to monitor+report on portfolio companies. We save investment teams 100's of hours every quarter on manual data entry and provide real-time analytics across their portfolio.",
-    "one_liner": "Operational intelligence for PE funds and PE-backed companies",
+    "long_description": "Palace (palace.so) plans, coordinates, and executes daily back-office work for trucking fleets. By automating the manual decisions that consume planning, dispatch, and CSR teams (assigning loads, managing appointments, communicating updates, and resolving exceptions) carriers can increase revenue-per-driver while running leaner teams.\r\n\r\nLeeds and Derek have been building together as close friends for over six years. The team have been early PMs/engineers at exited startups and decacorns and worked on the algorithms behind Amazon’s robotic logistics systems.",
+    "one_liner": "Palace plans, coordinates, and executes daily ops for trucking fleets",
     "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1755096535,
     "tags": [
-      "Fintech",
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "AI"
+      "Logistics",
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48439,8 +48440,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Asset Management"
+      "B2B",
+      "Supply Chain and Logistics"
     ],
     "regions": [
       "United States of America",
@@ -48991,9 +48992,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1758754473,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
-      "Design Tools",
-      "AI"
+      "Design Tools"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49880,24 +49881,24 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/didit.json"
   },
   {
-    "id": 31121,
-    "name": "AVoice",
-    "slug": "avoice",
+    "id": 31207,
+    "name": "Caretta",
+    "slug": "caretta",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c73f3aa66598c20f8f95198d12fb07e005357d63.png",
-    "website": "https://avoice.co/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9b2cec49b6c47c5edddfb78c96e58a79924a1032.png",
+    "website": "https://www.caretta.so",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AVoice brings full visibility to the physical side of sales.\r\n\r\nMost sales intelligence tools only track digital interactions — emails, calls, CRM entries — but the majority of global revenue is still driven by in-person visits. Reps take photos, record voice notes, send quick messages, and make on-site observations, but this information is scattered, unstructured, and rarely reaches the CRM.\r\n\r\nAVoice automatically captures, analyzes, and structures everything that happens during a field visit. Photos, voice notes, text updates, and observations are instantly transformed into searchable insights for reps, managers, and leadership. AVoice highlights risks, opportunities, buying signals, product issues, market trends, and territory health in real time.\r\n\r\nBy turning the offline economy into usable data, AVoice gives companies the visibility they’ve always had for digital sales — now applied to the real world where deals are actually won.",
-    "one_liner": "AI-Driven Sales Intelligence for the Physical Economy",
+    "long_description": "Caretta is a Sales Intelligence for revenue teams. It joins reps in live calls, helping them handle information requests, questions, and objections in real time. Caretta lives in Slack to join the team conversation.\r\n\r\nCaretta gets smarter automatically: every call expands its knowledge base and objection library, turning conversations into compounding organizational advantage.",
+    "one_liner": "24/7 Sales Intelligence ",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
-    "launched_at": 1763995110,
+    "launched_at": 1765447039,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Sales",
-      "Sales Enablement"
+      "Sales Enablement",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49911,17 +49912,15 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avoice",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/avoice.json"
+    "url": "https://www.ycombinator.com/companies/caretta",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/caretta.json"
   },
   {
     "id": 31233,
@@ -49936,8 +49935,8 @@
     "long_description": "Chasi helps equipment dealers grow and retain customers with 24/7 VIP treatment across all channels. Chasi’s AI agents act as executive assistants for sales and support reps, automating follow-ups, data collection, status updates, and outreach so teams can spend more time with customers and less on admin.\r\n\r\nOver half of dealer payroll goes to sales and support, but a third of that team’s time is lost to admin. Fleets still run under 60% utilization, most branches lack after-hours coverage, and the aftermarket is largely reactive. Chasi plugs these revenue leaks by keeping units rented or sold, chasing every lead, and driving the right parts and service before machines fail.",
     "one_liner": "AI Concierge for Equipment sales, service & rentals",
     "team_size": 2,
-    "industry": "Industrials",
-    "subindustry": "Industrials",
+    "industry": "B2B",
+    "subindustry": "B2B",
     "launched_at": 1765343151,
     "tags": [
       "SaaS",
@@ -49950,7 +49949,7 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "Industrials"
+      "B2B"
     ],
     "regions": [
       "United States of America",

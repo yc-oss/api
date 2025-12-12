@@ -12551,7 +12551,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -19101,7 +19101,7 @@
     "website": "https://sudocode.ai",
     "all_locations": "Mountain View, CA, USA",
     "long_description": "sudocode automates the logistics of managing context windows and orchestrating agents so you can direct the work instead of babysitting agents.\r\n\r\nFully open-source. Try it at sudocode.ai or https://github.com/sudocode-ai/sudocode",
-    "one_liner": "code in plain english",
+    "one_liner": "orchestrate your coding agents with sudocode",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -28417,47 +28417,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/ctgt.json"
   },
   {
-    "id": 30055,
-    "name": "RiskCube",
-    "slug": "riskcube",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
-    "website": "https://riskcube.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube helps venture-backed startups to compare business insurance, buy the right coverage online, and manage policies all in one place.\r\n\r\nIf you're a startup looking to buy insurance, please reach out.",
-    "one_liner": "AI-native insurance brokerage to compare, buy, and manage coverage.",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1731782052,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Insurance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/riskcube",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/riskcube.json"
-  },
-  {
     "id": 30056,
     "name": "Keye",
     "slug": "keye",
@@ -29277,48 +29236,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/edexia",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/edexia.json"
-  },
-  {
-    "id": 30173,
-    "name": "Aviro",
-    "slug": "aviro",
-    "former_names": [
-      "Tropir"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b42d798135f9265356b3ce6f69ea27eaee4a7b2.png",
-    "website": "https://www.aviro.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aviro is building the infra for enterprise AI agents to continuously upskill to handle complex workflows. Our runtime layer, Cortex, guides agents in real time, anchoring them to enterprise standard operating procedures (SOPs) and compounding their abilities through reinforcement learning. By embedding operational expertise directly into agent runs, Aviro ensures agents reliably follow company workflows, adapt on the fly, and get smarter with each task.",
-    "one_liner": "Build agents that learn from experience",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1746601065,
-    "tags": [
-      "Artificial Intelligence",
-      "Generative AI",
-      "Reinforcement Learning"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/aviro",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/aviro.json"
   },
   {
     "id": 30178,
@@ -31750,8 +31667,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f2e58c42a604fd5e1a5fcad5f8c2350c03ca60a.png",
     "website": "https://clidey.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Clidey is building Docucod (https://docucod.com)\r\n\r\nDocucod auto-generates and maintains always-up-to-date documentation—right from your codebase. Your team can move faster, onboard quicker, and stay focused on building.\r\n\r\nSeamless to set up and built for scale, it fits cleanly into any repo—whether you're shipping solo or leading a growing dev team. Docucod tracks your PRs and understands what changes need to be made to the documentation and then makes them.\r\n\r\nFrom onboarding guides to API references and system diagrams, Docucod creates clear, accurate documentation—without slowing you down.\r\n\r\nIt’s developer-first, fully editable, and always in sync—so you never have to choose between speed and quality again.",
-    "one_liner": "Documentation made for AI Agents",
+    "long_description": "Clidey is building WhoDB (https://whodb.com)\r\n\r\nComing soon.",
+    "one_liner": "Removing the application layer completely",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -34882,6 +34799,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/floot.json"
   },
   {
+    "id": 30731,
+    "name": "Palace",
+    "slug": "palace",
+    "former_names": [
+      "Lucid Spring"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c96ba5c83b86c4246bc8f55c3a927bdde88653.png",
+    "website": "https://www.palace.so",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Palace (palace.so) plans, coordinates, and executes daily back-office work for trucking fleets. By automating the manual decisions that consume planning, dispatch, and CSR teams (assigning loads, managing appointments, communicating updates, and resolving exceptions) carriers can increase revenue-per-driver while running leaner teams.\r\n\r\nLeeds and Derek have been building together as close friends for over six years. The team have been early PMs/engineers at exited startups and decacorns and worked on the algorithms behind Amazon’s robotic logistics systems.",
+    "one_liner": "Palace plans, coordinates, and executes daily ops for trucking fleets",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "launched_at": 1755096535,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Logistics",
+      "Supply Chain"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Supply Chain and Logistics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/palace",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/palace.json"
+  },
+  {
     "id": 30747,
     "name": "Convexia",
     "slug": "convexia",
@@ -36132,8 +36094,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ce6100b0248b0cf8f017986931a26cfe36046f3.png",
     "website": "https://sylvian.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sylvian creates expert data for LLMs through competitions.\r\n\r\nLLMs continue to need lots of expert data. Unfortunately, existing data vendors like Scale or Mercor are not motivating the best experts through part-time pay. Competitions are more intrinsic motivators, and naturally incentivize high quality data.\r\n\r\nSylvian creates expert data for LLMs through competitions, starting with tool use data (e.g. Excel, VSCode). We already have 4,500+ experts, from IMO Golds to MIT/Stanford PhDs to full time QRs at Point72, producing data at 1B tokens/week!",
-    "one_liner": "Data for LLMs through Competition",
+    "long_description": "Sylvian helps companies build specialized AI agents. ",
+    "one_liner": "Specialized AI Agents.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -36542,6 +36504,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nessie",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/nessie.json"
+  },
+  {
+    "id": 30885,
+    "name": "Semble AI",
+    "slug": "semble-ai",
+    "former_names": [
+      "Cadence",
+      "Cadlit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/15b0437dc4c919af5fc88d2d21f7c78539cfe9a1.png",
+    "website": "https://www.sembleai.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Semble AI builds AI agents that design building-systems (fire, HVAC, plumbing, security). Construction companies use Semble to cut down weeks on commercial and residential projects. \r\n\r\nThe $600B building-system integration industry still runs on spreadsheets and manual drawings, even as building codes rapidly evolve and become more localized. It’s a massive blind spot for the tech world. \r\n\r\nJonathan and Ethan met studying computer science at Stanford. Jonathan worked at Convergint, one of the world's largest building system integrators, specifically for the purpose of learning how this industry works. Ethan is obsessed for a different reason: His house burned down in 2017 due to a faulty fire system.\r\n\r\nThey are determined to make Semble the industry standard for construction design.\r\n",
+    "one_liner": "Autonomous building-system design for construction companies.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1758754473,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/semble-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/semble-ai.json"
   },
   {
     "id": 30886,
@@ -37572,6 +37578,45 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/waffer.json"
   },
   {
+    "id": 30964,
+    "name": "Sava",
+    "slug": "savahq",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adc8f9d4d6337ea663afc0947984b8597189cd0a.png",
+    "website": "https://www.savahq.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "If you are a trusts & estates attorney, RIA, fintech, or family office interested in Sava, reach us at founders@savahq.com",
+    "one_liner": "Building the future of trusts",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1762196127,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/savahq",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/savahq.json"
+  },
+  {
     "id": 30969,
     "name": "Lemma",
     "slug": "uselemma",
@@ -38085,50 +38130,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/hlabs.json"
   },
   {
-    "id": 31121,
-    "name": "AVoice",
-    "slug": "avoice",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c73f3aa66598c20f8f95198d12fb07e005357d63.png",
-    "website": "https://avoice.co/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AVoice brings full visibility to the physical side of sales.\r\n\r\nMost sales intelligence tools only track digital interactions — emails, calls, CRM entries — but the majority of global revenue is still driven by in-person visits. Reps take photos, record voice notes, send quick messages, and make on-site observations, but this information is scattered, unstructured, and rarely reaches the CRM.\r\n\r\nAVoice automatically captures, analyzes, and structures everything that happens during a field visit. Photos, voice notes, text updates, and observations are instantly transformed into searchable insights for reps, managers, and leadership. AVoice highlights risks, opportunities, buying signals, product issues, market trends, and territory health in real time.\r\n\r\nBy turning the offline economy into usable data, AVoice gives companies the visibility they’ve always had for digital sales — now applied to the real world where deals are actually won.",
-    "one_liner": "AI-Driven Sales Intelligence for the Physical Economy",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1763995110,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Sales",
-      "Sales Enablement"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avoice",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/avoice.json"
-  },
-  {
     "id": 31133,
     "name": "Skillsync",
     "slug": "skillsync",
@@ -38210,5 +38211,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bubble-lab",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
+  },
+  {
+    "id": 31230,
+    "name": "o11",
+    "slug": "o11",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b91d12799d3c1083cf13c1c333bde8b754cfd8dd.png",
+    "website": "https://o11.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "o11 brings bulge bracket level speed and output quality to capital markets firms of any size. Seamlessly integrated into every Microsoft 365 tool, it transforms your documents and models into a dynamic knowledge layer that drives research, modeling, and client ready deliverables with consistent precision.",
+    "one_liner": "The AI Platform for Capital Market Firms",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1765258468,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Finance",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/o11",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
   }
 ]

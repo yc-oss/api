@@ -3380,7 +3380,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15444,7 +15444,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Goodbye Slurm, Hello Konduktor.\r\n\r\nTrainy Konduktor is a software platform for AI teams to schedule workloads with priority, control resource allocation, and improve GPU reliability. With Konduktor, teams submit jobs to a healthy pool of GPUs, assign job priority with a simple user interface, and never worry about hardware faults again.",
     "one_liner": "Infrastructure for managing GPU clusters for training/serving.",
-    "team_size": 2,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1687891811,
@@ -15796,7 +15796,7 @@
     "website": "https://sudocode.ai",
     "all_locations": "Mountain View, CA, USA",
     "long_description": "sudocode automates the logistics of managing context windows and orchestrating agents so you can direct the work instead of babysitting agents.\r\n\r\nFully open-source. Try it at sudocode.ai or https://github.com/sudocode-ai/sudocode",
-    "one_liner": "code in plain english",
+    "one_liner": "orchestrate your coding agents with sudocode",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -19758,7 +19758,7 @@
     "former_names": [
       "FoundryAI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0cdc287e25253ff66d23c6477db54da9f173287.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c86ce92c78b4bd9698a823b31a8ee51eff7418e7.png",
     "website": "https://www.foundryrl.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re building browser-native infrastructure that makes software creation production-ready end-to-end. Today’s AI tools can scaffold code, but they fail on the critical workflows that actually get products into production — provisioning, auth, QA, and compliance — all of which happen inside the browser.\r\n\r\nOur system makes these workflows deterministic, reproducible, and automatable, so both agents and humans can go from idea to a production-ready app. The opportunity is massive: billions of dollars of value locked up in workflows that today block non-technical founders and slow technical teams. We’re building the infrastructure layer that makes production possible.",
@@ -21172,8 +21172,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f2e58c42a604fd5e1a5fcad5f8c2350c03ca60a.png",
     "website": "https://clidey.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Clidey is building Docucod (https://docucod.com)\r\n\r\nDocucod auto-generates and maintains always-up-to-date documentation—right from your codebase. Your team can move faster, onboard quicker, and stay focused on building.\r\n\r\nSeamless to set up and built for scale, it fits cleanly into any repo—whether you're shipping solo or leading a growing dev team. Docucod tracks your PRs and understands what changes need to be made to the documentation and then makes them.\r\n\r\nFrom onboarding guides to API references and system diagrams, Docucod creates clear, accurate documentation—without slowing you down.\r\n\r\nIt’s developer-first, fully editable, and always in sync—so you never have to choose between speed and quality again.",
-    "one_liner": "Documentation made for AI Agents",
+    "long_description": "Clidey is building WhoDB (https://whodb.com)\r\n\r\nComing soon.",
+    "one_liner": "Removing the application layer completely",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -23508,6 +23508,87 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jsx-tool",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/jsx-tool.json"
+  },
+  {
+    "id": 31091,
+    "name": "Sonarly",
+    "slug": "sonarly",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/07e7fd61200416376d06e84b0c02917c8e9379f3.png",
+    "website": "https://sonarly.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We'd like to automate monitoring. To advance that mission, we're building Sonarly.\r\n\r\nCoding agents are amazingly good at building software. But they struggle fixing production bugs because they lack the right context for them. We give them that context, eliminating the time you spend on bug detection, session replay, issue description, and endlessly copy-pasting logs to your AI agent.",
+    "one_liner": "Production-bug context for AI agents",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1765492562,
+    "tags": [
+      "Developer Tools",
+      "Generative AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sonarly",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sonarly.json"
+  },
+  {
+    "id": 31123,
+    "name": "21st",
+    "slug": "21st",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
+    "website": "https://21st.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Product design and prototyping tool for AI native teams",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1765422527,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/21st",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/21st.json"
   },
   {
     "id": 31215,

@@ -43453,8 +43453,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4f2e58c42a604fd5e1a5fcad5f8c2350c03ca60a.png",
     "website": "https://clidey.com",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Clidey is building Docucod (https://docucod.com)\r\n\r\nDocucod auto-generates and maintains always-up-to-date documentation—right from your codebase. Your team can move faster, onboard quicker, and stay focused on building.\r\n\r\nSeamless to set up and built for scale, it fits cleanly into any repo—whether you're shipping solo or leading a growing dev team. Docucod tracks your PRs and understands what changes need to be made to the documentation and then makes them.\r\n\r\nFrom onboarding guides to API references and system diagrams, Docucod creates clear, accurate documentation—without slowing you down.\r\n\r\nIt’s developer-first, fully editable, and always in sync—so you never have to choose between speed and quality again.",
-    "one_liner": "Documentation made for AI Agents",
+    "long_description": "Clidey is building WhoDB (https://whodb.com)\r\n\r\nComing soon.",
+    "one_liner": "Removing the application layer completely",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -45587,17 +45587,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c96ba5c83b86c4246bc8f55c3a927bdde88653.png",
     "website": "https://www.palace.so",
     "all_locations": "New York, NY, USA",
-    "long_description": "Palace (palace.so) is an AI board observer that private market investors use to monitor+report on portfolio companies. We save investment teams 100's of hours every quarter on manual data entry and provide real-time analytics across their portfolio.",
-    "one_liner": "Operational intelligence for PE funds and PE-backed companies",
+    "long_description": "Palace (palace.so) plans, coordinates, and executes daily back-office work for trucking fleets. By automating the manual decisions that consume planning, dispatch, and CSR teams (assigning loads, managing appointments, communicating updates, and resolving exceptions) carriers can increase revenue-per-driver while running leaner teams.\r\n\r\nLeeds and Derek have been building together as close friends for over six years. The team have been early PMs/engineers at exited startups and decacorns and worked on the algorithms behind Amazon’s robotic logistics systems.",
+    "one_liner": "Palace plans, coordinates, and executes daily ops for trucking fleets",
     "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1755096535,
     "tags": [
-      "Fintech",
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "AI"
+      "Logistics",
+      "Supply Chain"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -45606,8 +45607,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Fintech",
-      "Asset Management"
+      "B2B",
+      "Supply Chain and Logistics"
     ],
     "regions": [
       "United States of America",
@@ -46325,8 +46326,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ce6100b0248b0cf8f017986931a26cfe36046f3.png",
     "website": "https://sylvian.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sylvian creates expert data for LLMs through competitions.\r\n\r\nLLMs continue to need lots of expert data. Unfortunately, existing data vendors like Scale or Mercor are not motivating the best experts through part-time pay. Competitions are more intrinsic motivators, and naturally incentivize high quality data.\r\n\r\nSylvian creates expert data for LLMs through competitions, starting with tool use data (e.g. Excel, VSCode). We already have 4,500+ experts, from IMO Golds to MIT/Stanford PhDs to full time QRs at Point72, producing data at 1B tokens/week!",
-    "one_liner": "Data for LLMs through Competition",
+    "long_description": "Sylvian helps companies build specialized AI agents. ",
+    "one_liner": "Specialized AI Agents.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -48247,6 +48248,92 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/valgo.json"
   },
   {
+    "id": 31101,
+    "name": "LegalOS",
+    "slug": "legalos",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08c53bbd673e3022b474ab6c387588bceea5b021.png",
+    "website": "https://www.legalos.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "LegalOS is an AI-powered immigration law firm for complex U.S. work visas. \r\n\r\nOur AI agents generate a USCIS-ready petition package in 24–48 hours, including forms, support letters, and a structured evidence memo.\r\n\r\nEvery case is reviewed and signed by licensed immigration attorneys with 40+ years of experience and a near-100% approval rate, so companies get both speed and reliability. LegalOS already supports O-1, H-1B, L-1A, L-1B, TN, EB-1A, EB-1C, and EB-2 NIW petitions and has a 100% approval rate so far across all visa categories.",
+    "one_liner": "The AI-powered immigration law firm for complex work visas",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1765500266,
+    "tags": [
+      "B2B",
+      "Legal",
+      "HR Tech",
+      "Immigration",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/legalos",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/legalos.json"
+  },
+  {
+    "id": 31123,
+    "name": "21st",
+    "slug": "21st",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74c9b33dec39ae88db50c30496502959820c2018.png",
+    "website": "https://21st.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Product design and prototyping tool for AI native teams",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1765422527,
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Design Tools"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/21st",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/21st.json"
+  },
+  {
     "id": 31137,
     "name": "Luel",
     "slug": "luel",
@@ -48304,10 +48391,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1765258468,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "Finance",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,

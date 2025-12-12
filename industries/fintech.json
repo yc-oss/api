@@ -5918,7 +5918,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9235,7 +9235,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18652,7 +18652,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2022",
     "status": "Active",
@@ -24339,16 +24339,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
     "website": "https://riskcube.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RiskCube helps venture-backed startups to compare business insurance, buy the right coverage online, and manage policies all in one place.\r\n\r\nIf you're a startup looking to buy insurance, please reach out.",
-    "one_liner": "AI-native insurance brokerage to compare, buy, and manage coverage.",
+    "long_description": "Problem: Venture-backed startups are underserved by traditional brokers and limited to single-quote MGAs, leading to opaque pricing and suboptimal coverage.\r\n\r\nSolution: RiskCube is an independent, AI-native brokerage that provides founders with multi-carrier quote comparison, enabling transparent, data-driven insurance decisions.\r\n\r\nUnfair Advantage: Our platform is built on proprietary risk models designed by our founder, a risk & insurance expert and former member of the WTW Risk & Analytics division. This expertise allows us to identify and price startup risks that generalist brokers miss.\r\n\r\nResult: We leverage AI and quantitative analysis to ensure compliance and reduce total cost of risk.",
+    "one_liner": "AI-Powered Insurance Comparison for Startups.",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1731782052,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -25398,50 +25398,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/iron-grid.json"
   },
   {
-    "id": 30731,
-    "name": "Palace",
-    "slug": "palace",
-    "former_names": [
-      "Lucid Spring"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f6c96ba5c83b86c4246bc8f55c3a927bdde88653.png",
-    "website": "https://www.palace.so",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Palace (palace.so) is an AI board observer that private market investors use to monitor+report on portfolio companies. We save investment teams 100's of hours every quarter on manual data entry and provide real-time analytics across their portfolio.",
-    "one_liner": "Operational intelligence for PE funds and PE-backed companies",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Asset Management",
-    "launched_at": 1755096535,
-    "tags": [
-      "Fintech",
-      "SaaS",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Asset Management"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/palace",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/palace.json"
-  },
-  {
     "id": 30749,
     "name": "Fernstone",
     "slug": "fernstone",
@@ -25837,15 +25793,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/adc8f9d4d6337ea663afc0947984b8597189cd0a.png",
     "website": "https://www.savahq.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sava is building the agentic trust company for an industry that manages $6.5 trillion in U.S. assets today.\r\n\r\nA trust charter is the state license that lets us act as a legal trustee: open and administer trusts, hold assets, and make distributions under the law. \r\n\r\nWe treat that charter like infrastructure.\r\n\r\nThink Stripe for fiduciary work: one integration and dashboard to open a trust, fund it, track it in real time, make distributions, and stay compliant. \r\n\r\nOur AI agents handle the grunt work: collect data, chase signatures, assemble documents, reconcile positions so that people can focus on making high-quality decisions. Every step is captured in a timestamped audit trail. Agents also enable continuous compliance: risk checks run as data changes. Reviews are prompted automatically. Nothing falls through the cracks.\r\n\r\nTeam\r\n\r\nNimit Maru, CEO – 2X YC Founder.  Built and sold Fullstack (S12) for $55M on $1M raised. Experienced the trust industry's dysfunction firsthand post-exit and came back to YC to fix it.\r\n\r\nRush Sadiwala, COO – Experienced founder, previously backed by Kevin Rose at True Ventures. Spent the first 5 years of his career on the buy side in Investment Management. \r\n\r\nWe're in YC F25 and working with experienced trust professionals, including a Chief Trust Officer from a top-tier trust company, to bring modern infrastructure to the trust industry.",
-    "one_liner": "The Fullstack AI-Native Trust Company",
+    "long_description": "If you are a trusts & estates attorney, RIA, fintech, or family office interested in Sava, reach us at founders@savahq.com",
+    "one_liner": "Building the future of trusts",
     "team_size": 2,
     "industry": "Fintech",
     "subindustry": "Fintech",
     "launched_at": 1762196127,
     "tags": [
-      "Fintech",
-      "AI"
+      "Artificial Intelligence",
+      "Fintech"
     ],
     "tags_highlighted": [],
     "top_company": false,
