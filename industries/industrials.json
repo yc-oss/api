@@ -5748,7 +5748,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/027a381dc7bf9fa4c0f68b1e2c46b8a768c43327.png",
     "website": "http://www.avion.health",
-    "all_locations": "San Francisco, CA, USA; Addis Ababa, Addis Ababa, Ethiopia",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "Avion is a drone-based digital health platform, designed to bridge the gap between remote clinics and urban healthcare infrastructures. By connecting these isolated clinics with sophisticated labs and well-stocked pharmacies in cities, Avion brings a new era of remote diagnostics and prescription fulfilment.\r\n\r\nAvion ensures the rapid, safe, and efficient delivery of vital medical supplies and clinical samples, even to the most hard-to-reach locations. \r\n\r\nAvion's operation uniquely combines cutting-edge autonomous drone technology with digital health platforms. Our drones, built with advanced eVTOL capabilities, ensure seamless take-off and landing capabilities, even in challenging terrains.\r\n\r\nAvion's digital health platform serves as the connective tissue between urban health centers and remote clinics. The platform features an intuitive interface, making it easy for healthcare providers to order necessary supplies, track shipments, and even communicate with laboratory and pharmacy staff.",
     "one_liner": "Avion builds and operates autonomous eVTOL drones that deliver vital…",
     "team_size": null,
@@ -5771,9 +5771,7 @@
     ],
     "regions": [
       "United States of America",
-      "Ethiopia",
-      "America / Canada",
-      "Africa"
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -6673,7 +6671,7 @@
     "one_liner": "Autonomous street sweeping as a service by retro-fitting vehicles",
     "team_size": 5,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "subindustry": "Industrials -> Defense",
     "launched_at": 1614620062,
     "tags": [
       "Autonomous Trucking",
@@ -6688,7 +6686,7 @@
     "status": "Active",
     "industries": [
       "Industrials",
-      "Manufacturing and Robotics"
+      "Defense"
     ],
     "regions": [
       "United States of America",
@@ -7581,6 +7579,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nira-energy",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/nira-energy.json"
+  },
+  {
+    "id": 24382,
+    "name": "Malloc Inc",
+    "slug": "malloc-inc",
+    "former_names": [
+      "Malloc, LTD.",
+      "Malloc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f9e51a7bd166fd06ac233b1bc31a81d599db773.png",
+    "website": "https://mallocprivacy.com/",
+    "all_locations": "Nicosia, Nicosia, Cyprus",
+    "long_description": "Malloc aims to help people companies and organisations protect their apps, their devices and their data. The Malloc Privacy & Security VPN app available in AppStore and PlayStore helps you stay safe and private online by blocking spyware and online threats. Malloc App Security is an SDK library that other app owners can use to protect their app from hacking attempts. ",
+    "one_liner": "We protect your phone from spyware and hacking attempts. ",
+    "team_size": 7,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1626963356,
+    "tags": [
+      "Consumer",
+      "Security",
+      "Privacy",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "Cyprus",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/malloc-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/malloc-inc.json"
   },
   {
     "id": 24488,
@@ -9996,6 +10041,54 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/ohmic-biosciences.json"
   },
   {
+    "id": 28927,
+    "name": "Metalware",
+    "slug": "metalware",
+    "former_names": [
+      "Metalware",
+      "metalware",
+      "Metalware",
+      "Isocode"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/17a2d106f9cdebdba12fd6e7d00d9e948e77f5be.png",
+    "website": "https://www.metalware.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Metalware develops advanced firmware security solutions for critical infrastructure, protecting industries like aerospace, defense, automotive, telecom, and healthcare from cyber threats.\r\n\r\nOur product is an automated, intelligent binary fuzzer that enables organizations to efficiently discover and remediate security weaknesses in hardware products before deployment.",
+    "one_liner": "Firmware cybersecurity",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1689732876,
+    "tags": [
+      "DevSecOps",
+      "Hardware",
+      "GovTech",
+      "Cybersecurity",
+      "Enterprise"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/metalware",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/metalware.json"
+  },
+  {
     "id": 29158,
     "name": "Feanix Biotechnologies",
     "slug": "feanix-biotechnologies",
@@ -11495,7 +11588,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/bucket-robotics",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/bucket-robotics.json"
   },
@@ -11938,6 +12031,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/astro",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/astro.json"
+  },
+  {
+    "id": 30210,
+    "name": "Conntour",
+    "slug": "conntour",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e13662a45aaad5a75d32c886f95fbfe0a3d0af5a.png",
+    "website": "https://www.conntour.com/",
+    "all_locations": "",
+    "long_description": "Conntour lets governments and corporations query their security cameras.\r\n\r\nUsers can search past footage (“Find a man with a blue backpack”), set alerts (“Notify me if someone climbs over the wall”), and extract data (“How many vehicles entered yesterday?”).\r\n\r\nWe just completed an $80K POC with the Singapore government, which was a great success, leading us toward a $2M/year contract. That’s only one of five huge customers we’re set to close in the next few months.\r\n\r\nMatan (CEO) worked with security cameras for years, leading video surveillance in the Israel Defense Forces. Tomer (CTO) is a second-time founder and former director of engineering. Our team also includes computer vision experts from Israel’s elite 8200 intelligence unit and former top officials from the Mossad.\r\n\r\nThe problem with existing solutions is that they offer low customization, as they’re limited to pre-defined parameters (like shirt color or license plate number). This lack of flexibility causes missed critical events, too many false alarms, and countless hours wasted on manual footage review. Conntour solves this by offering unlimited customization through natural language queries - just ask anything.",
+    "one_liner": "AI to monitor thousands of security cameras.",
+    "team_size": 6,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1738284252,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/conntour",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/conntour.json"
   },
   {
     "id": 30224,
@@ -13123,7 +13252,7 @@
     "one_liner": "America's Golden Dome for Drones",
     "team_size": 3,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Drones",
+    "subindustry": "Industrials -> Defense",
     "launched_at": 1750048762,
     "tags": [],
     "tags_highlighted": [],
@@ -13134,7 +13263,7 @@
     "status": "Active",
     "industries": [
       "Industrials",
-      "Drones"
+      "Defense"
     ],
     "regions": [
       "Unspecified"

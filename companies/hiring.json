@@ -6196,7 +6196,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18518,7 +18518,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19808,6 +19808,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/stoke-space",
     "api": "https://yc-oss.github.io/api/batches/winter-2021/stoke-space.json"
+  },
+  {
+    "id": 23064,
+    "name": "Tint",
+    "slug": "tint",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7dde25caa0cd447568d68dc1fc85383b5f346ba8.png",
+    "website": "http://www.tint.ai",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Tint makes it easy for tech platforms to embed insurance into their products. For example, when you go to Outdoorsy to rent an RV, the insurance that is sold with the rental is powered by our technology.\r\n\r\nOur product provides anything that is needed from underwriting software to access to insurers to compliance, in a simple API. ",
+    "one_liner": "Makes it easy for tech platforms to embed insurance into products",
+    "team_size": 40,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1610519523,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Fintech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2021",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/tint",
+    "api": "https://yc-oss.github.io/api/batches/winter-2021/tint.json"
   },
   {
     "id": 23105,
@@ -39447,8 +39490,8 @@
     "long_description": "Metalware develops advanced firmware security solutions for critical infrastructure, protecting industries like aerospace, defense, automotive, telecom, and healthcare from cyber threats.\r\n\r\nOur product is an automated, intelligent binary fuzzer that enables organizations to efficiently discover and remediate security weaknesses in hardware products before deployment.",
     "one_liner": "Firmware cybersecurity",
     "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Security",
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
     "launched_at": 1689732876,
     "tags": [
       "DevSecOps",
@@ -39464,8 +39507,8 @@
     "batch": "Summer 2023",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Security"
+      "Industrials",
+      "Defense"
     ],
     "regions": [
       "United States of America",
@@ -49630,7 +49673,7 @@
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": false,
+    "question_answers": true,
     "url": "https://www.ycombinator.com/companies/bucket-robotics",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/bucket-robotics.json"
   },
@@ -50944,11 +50987,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1730040950,
     "tags": [
-      "Artificial Intelligence",
-      "Deep Learning",
       "SaaS",
+      "Finance",
       "B2B",
-      "Enterprise"
+      "Enterprise",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54805,7 +54848,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Code review is a major bottleneck for software teams, and the rise of AI-generated code is making the problem worse. Reviewing large volumes of code slows devs down, and increases the chances of bugs slipping through.\r\n\r\nThat's why we're building cubic: an intelligent code review platform that helps devs merge PRs 28% faster.\r\n\r\nHow? \r\n- When you open a PR, cubic automatically reviews it. It learns from your codebase's patterns, points out bugs, suggesting fixes, and frees you from low-level review tasks.\r\n- You then jump into the cubic platform, which is designed to optimize how humans review code. For example, file changes are organized in a logical order instead of alphabetical, and cubic generates diagrams of architecture changes.",
     "one_liner": "AI-powered code review platform",
-    "team_size": 2,
+    "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1743248262,
@@ -56891,7 +56934,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AgentMail is the email inbox API for AI agents. It gives agents their own email inboxes, like Gmail does for humans.",
     "one_liner": "Email Inboxes for AI Agents",
-    "team_size": 4,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1750990316,
@@ -57686,7 +57729,7 @@
     "one_liner": "America's Golden Dome for Drones",
     "team_size": 3,
     "industry": "Industrials",
-    "subindustry": "Industrials -> Drones",
+    "subindustry": "Industrials -> Defense",
     "launched_at": 1750048762,
     "tags": [],
     "tags_highlighted": [],
@@ -57697,7 +57740,7 @@
     "status": "Active",
     "industries": [
       "Industrials",
-      "Drones"
+      "Defense"
     ],
     "regions": [
       "Unspecified"
@@ -59123,8 +59166,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f454d5ba03bb70a84b22fc085d9687287771440b.png",
     "website": "https://www.bravi.app/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We automate customer communication with AI voice and chat assistants that answer, qualify, and follow up instantly. Internally, Bravi gives field and technical teams an AI copilot that can search hundreds of product documents and installation guides in seconds.\r\n\r\nBravi is already used by leading installers and manufacturers across shutters, solar, windows and garage doors. One customer uncovered more than a thousand missed calls per month that Bravi now handles automatically, converting lost demand into new business.\r\n\r\nWe’re becoming the AI layer for the multi-trillion-dollar home-services market.",
-    "one_liner": "AI Communication hub for home services companies",
+    "long_description": "Bravi is building the AI operating system for home-services businesses, using AI-powered customer communication as the wedge.\r\n\r\nWe replace the front office (calls, chats, follow-ups) with AI agents that never miss a lead, then layer an internal AI copilot that understands products, pricing, and technical documentation.\r\n\r\nWe started with fenestration (shutters, windows, garage doors), a large, complex vertical with no modern software and no real competition, before expanding to adjacent trades.\r\n\r\nBravi is already live with leading installers and manufacturers across Europe and the US, turning missed demand into revenue.",
+    "one_liner": "The AI operating system powering home services businesses",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -59156,6 +59199,49 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/bravi",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/bravi.json"
+  },
+  {
+    "id": 30932,
+    "name": "Leadbay",
+    "slug": "leadbay",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37ac409b36b40159c5b6860f03b4e792466ac32c.png",
+    "website": "https://leadbay.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Leadbay (YC F25) discovers and qualifies SMB leads that couldn't be found before. Small-to-enterprise teams use us to prospect the most low-data-low-signals industries like construction, hospitality, even startups.\r\n\r\nCo-founders are Milan Stankovic (CTO) - PhD to make AI work with limited data, and Ludovic Granger (CEO). \r\n\r\nTry us on leadbay.ai.",
+    "one_liner": "Discover and qualify SMB leads that couldn't be found before.",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1760047494,
+    "tags": [
+      "B2B",
+      "Sales",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/leadbay",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/leadbay.json"
   },
   {
     "id": 30940,

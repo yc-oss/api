@@ -2555,7 +2555,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7567,7 +7567,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -18605,52 +18605,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/sizeless.json"
   },
   {
-    "id": 28966,
-    "name": "Pincites",
-    "slug": "pincites",
-    "former_names": [
-      "Pincite"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66314affa2a18460ebaf6082abe1eba1272e5498.png",
-    "website": "https://www.pincites.com/",
-    "all_locations": "Menlo Park, CA, USA",
-    "long_description": "Pincites makes contract negotiations faster and more consistent for legal teams. Using LLMs, Pincites takes a first pass at reviewing contracts, helping lawyers focus on riskiest parts of their negotiations.",
-    "one_liner": "Close deals faster with AI for contract negotiation",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1688690921,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Legal",
-      "LegalTech"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pincites",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/pincites.json"
-  },
-  {
     "id": 28976,
     "name": "Bolto",
     "slug": "bolto",
@@ -26085,6 +26039,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/planbase.json"
   },
   {
+    "id": 29745,
+    "name": "Lumenary",
+    "slug": "lumenary",
+    "former_names": [
+      "January",
+      "Lumenary",
+      "Lumenary, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/becd07dd532d02d7faf201baa5f85e3101cc6f42.png",
+    "website": "https://try.solar",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lumenary develops Solar, a tool to build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.\r\n\r\nLumenary was founded by four best friends who met at Dartmouth, with experience from Jane Street, IMC, and Palantir. They've published research in venues like NeurIPS, and have deployed software managing billions of dollars, petabytes of data, and a lot of LLM tokens.",
+    "one_liner": "Build working software exceedingly fast in Solar",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1722638950,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Automation"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lumenary",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/lumenary.json"
+  },
+  {
     "id": 29746,
     "name": "Drillbit",
     "slug": "drillbit",
@@ -28287,49 +28286,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/attimet.json"
   },
   {
-    "id": 30054,
-    "name": "CTGT",
-    "slug": "ctgt",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/70be263b066d6de8782aafcee6461d75b56a008f.png",
-    "website": "https://www.ctgt.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Enterprises are paralyzed by the risks of deploying generative AI. Traditional methods like RAG and fine-tuning are brittle, expensive, and fail to prevent costly hallucinations or guarantee compliance in high-stakes environments. This lack of trust stalls innovation and blocks ROI.\r\n\r\nCTGT ensures strict, auditable adherence to your policies on the fly. We deliver defensible audit trails and remediate noncompliant model behavior, so outputs become more aligned with company policies over time, combating data and model drift.\r\n\r\nCTGT is backed by Google's AI fund (Gradient), General Catalyst, and luminaries like Paul Graham. We provide the control and confidence necessary to unlock the full potential of enterprise AI.",
-    "one_liner": "CTGT safeguards against reputational risk from GenAI across your org",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1730040950,
-    "tags": [
-      "Artificial Intelligence",
-      "Deep Learning",
-      "SaaS",
-      "B2B",
-      "Enterprise"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ctgt",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/ctgt.json"
-  },
-  {
     "id": 30056,
     "name": "Keye",
     "slug": "keye",
@@ -29149,6 +29105,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/edexia",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/edexia.json"
+  },
+  {
+    "id": 30173,
+    "name": "Aviro",
+    "slug": "aviro",
+    "former_names": [
+      "Tropir"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0b42d798135f9265356b3ce6f69ea27eaee4a7b2.png",
+    "website": "https://www.aviro.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": ".",
+    "one_liner": ".",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1746601065,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Reinforcement Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aviro",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/aviro.json"
   },
   {
     "id": 30178,
@@ -37277,49 +37275,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pixley-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/pixley-ai.json"
-  },
-  {
-    "id": 30932,
-    "name": "Leadbay",
-    "slug": "leadbay",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/37ac409b36b40159c5b6860f03b4e792466ac32c.png",
-    "website": "https://leadbay.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Leadbay (YC F25) discovers and qualifies SMB leads that couldn't be found before. Small-to-enterprise teams use us to prospect the most low-data-low-signals industries like construction, hospitality, even startups.\r\n\r\nCo-founders are Milan Stankovic (CTO) - PhD to make AI work with limited data, and Ludovic Granger (CEO). \r\n\r\nTry us on leadbay.ai.",
-    "one_liner": "Discover and qualify SMB leads that couldn't be found before.",
-    "team_size": 8,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1760047494,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Sales"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/leadbay",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/leadbay.json"
   },
   {
     "id": 30942,
