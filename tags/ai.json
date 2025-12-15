@@ -10382,7 +10382,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -18263,49 +18263,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/speck.json"
   },
   {
-    "id": 29333,
-    "name": "Lemon Slice",
-    "slug": "lemon-slice",
-    "former_names": [
-      "Infinity AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05eb67ac8202d3dd3c90fdda089940b58b254645.png",
-    "website": "https://www.lemonslice.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lemon Slice (formerly Infinity AI) is a video foundation model for human motion and emotion. We allow creators to generate expressive, talking characters across all styles, from photorealistic to cartoons.",
-    "one_liner": "Expressive characters that talk",
-    "team_size": 3,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Content",
-    "launched_at": 1709320242,
-    "tags": [
-      "Video",
-      "Creator Economy",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Consumer",
-      "Content"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lemon-slice",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/lemon-slice.json"
-  },
-  {
     "id": 29334,
     "name": "Decipher AI",
     "slug": "decipher-ai",
@@ -20090,6 +20047,56 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dragoneye",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/dragoneye.json"
+  },
+  {
+    "id": 29506,
+    "name": "Mathos",
+    "slug": "mathos",
+    "former_names": [
+      "MathGPTPro",
+      "MathGPT",
+      "MathGPT Pro",
+      "MathGPT",
+      "MathGPTPro"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f3f536ef35f5c7ee64be3f52c50f6a3f42790fd2.png",
+    "website": "https://info.mathos.ai/",
+    "all_locations": "Santa Clara, CA, USA",
+    "long_description": "Mathos AI (Formerly MathGPTPro) is the leading AI math solver that enables academic performance and productivity of both students and teachers. It has empowered over 1M students from over 200 countries in the past year, which turns the previously mission-impossible personalized learning into real. Our advanced math AI model achieves roughly 20% higher accuracy in mathematical and quantitative problem-solving capabilities then GPT4o. \r\n\r\nAs we move forward, we will tackle the hardest problems in the educational sector, personalization, adaptive learning, and shortages of teachers, with our trial runs in schools. By automating grading, providing insightful analytics, and generating adaptive assignments, our model empowers teachers to understand what their students need and what should be provided accordingly. \r\n",
+    "one_liner": "Ultimate AI Math Problem Solver to Revolutionize Personalized Learning",
+    "team_size": 5,
+    "industry": "Education",
+    "subindustry": "Education",
+    "launched_at": 1712036975,
+    "tags": [
+      "AI-Enhanced Learning",
+      "Education",
+      "Generative AI",
+      "Edtech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Education"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/mathos",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/mathos.json"
   },
   {
     "id": 29510,
@@ -26302,8 +26309,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/35cbadbc20698fdbde411ffce51ce8c13ee4beb3.png",
     "website": "https://www.sennu.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Sennu's AI agents automate Salesforce functional testing. Just connect your user stories and we'll take care of the rest.",
-    "one_liner": "Hands off Salesforce QA",
+    "long_description": "Sennu AI reviews every pull request with full context of your Salesforce codebase like a senior Salesforce architect would",
+    "one_liner": "AI Code Review for Salesforce Development",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -28381,6 +28388,49 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/hemut.json"
   },
   {
+    "id": 30521,
+    "name": "Janus",
+    "slug": "janus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b44f7b050ecc3ee1451baeb4e0a733b19937955.png",
+    "website": "https://www.withjanus.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Janus automates AI evaluations by using high-fidelity simulation environments, catching failures in reasoning, compliance, tool usage, and performance. \r\n\r\nThe resulting datasets benchmark products and feed post-training loops to continuously improve performance over time.",
+    "one_liner": "Evaluate AI Agents with Simulation Environments",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1748466933,
+    "tags": [
+      "AIOps",
+      "Developer Tools",
+      "Reinforcement Learning",
+      "Monitoring",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/janus",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/janus.json"
+  },
+  {
     "id": 30522,
     "name": "Relixir",
     "slug": "relixir",
@@ -29241,49 +29291,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/monarcha",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/monarcha.json"
-  },
-  {
-    "id": 30649,
-    "name": "Lilac",
-    "slug": "lilac",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/18234851431f8da18d1f087abc867a57412f1a97.png",
-    "website": "https://getlilac.com",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Lilac taps idle GPUs from cloud providers and enterprises, giving startups and researchers cheaper compute while letting companies monetize unused capacity. Fully automated with Kubernetes integration.",
-    "one_liner": "Spot GPUs that use idle GPUs from enterprises",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1754345371,
-    "tags": [
-      "Machine Learning",
-      "Cloud Computing",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lilac",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/lilac.json"
   },
   {
     "id": 30655,
@@ -30430,6 +30437,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/outrove.json"
   },
   {
+    "id": 30797,
+    "name": "Veritus",
+    "slug": "veritus",
+    "former_names": [
+      "Veritus Agent"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a784e9084818b8c7af26cd462448e7fd4415c18b.png",
+    "website": "https://www.veritus.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Veritus is a omni-channel platform for deploying AI agents for loan servicing and collections, including inbound and outbound voice agents. Our agents negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.\r\n\r\nBy combining cutting edge voice AI with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates. ",
+    "one_liner": "AI agents for the consumer lending industry",
+    "team_size": 10,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Credit and Lending",
+    "launched_at": 1753735109,
+    "tags": [
+      "Fintech",
+      "Lending",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Credit and Lending"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/veritus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/veritus.json"
+  },
+  {
     "id": 30801,
     "name": "burnt",
     "slug": "burnt",
@@ -30557,6 +30609,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lapis",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lapis.json"
+  },
+  {
+    "id": 30828,
+    "name": "Semiotic",
+    "slug": "semiotic",
+    "former_names": [
+      "Mooodboard"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d4bdfd8767934d0004a0927458374ac99619350f.png",
+    "website": "http://semiotic.so",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Semiotic is builds AI design agents. We’re starting with agents that build landing pages for fast‑growing startups. \r\n\r\nExisting AI website builders didn't make creating websites easier—they made creating ugly websites easier. So, companies choose between blue-purple gradient slop or agencies with 3-month waitlists and $100k minimums.\r\n\r\nYou don't have to choose anymore. \r\n\r\nStart a project: semiotic.so",
+    "one_liner": "Studio-Grade Design at Scale",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1760501936,
+    "tags": [
+      "Design",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/semiotic",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/semiotic.json"
   },
   {
     "id": 30837,
@@ -32529,6 +32623,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rivet-design",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/rivet-design.json"
+  },
+  {
+    "id": 31062,
+    "name": "Hlabs",
+    "slug": "hlabs",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2007aefe34bda2618000c044128494ad2cb4af5f.png",
+    "website": "https://www.hlaboratories.com",
+    "all_locations": "Austin, TX, USA",
+    "long_description": "Robotics is going to be one of the largest industries the world has ever seen, but right now teams have to build so much in house just to get something to move. Hlabs is making a plug-and-play ecosystem of robotic parts with simple opensource software libraries to reduce the complexity in building a robot.\r\n\r\nHlabs is founded by Paul, a second time YC founder who also participated in the W21 batch with Mystic. He ran Mystic as CEO for 6 years.\r\n\r\nFrom the first launch in October 2025 over 40 robotics companies have placed orders for the actuator control product. Hlabs is targeting Q1 '26 for the release of several additional plug-and-play products including an Nvidia Jetson powered main board, a low cost expandable camera system, and wireless communication/video module to make every robot wireless out of the box.\r\n\r\n",
+    "one_liner": "Developer friendly robotics",
+    "team_size": 1,
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "launched_at": 1763422443,
+    "tags": [
+      "Hardware",
+      "Robotics",
+      "Electronics",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/hlabs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/hlabs.json"
   },
   {
     "id": 31080,
