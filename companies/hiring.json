@@ -6877,16 +6877,17 @@
   },
   {
     "id": 1809,
-    "name": "Juni",
-    "slug": "juni-learning",
+    "name": "Acely",
+    "slug": "acely",
     "former_names": [
-      "Juni Learning"
+      "Juni Learning",
+      "Juni"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb66d2b66860b1771e4d0e7fa9498dc3607286cb.png",
-    "website": "https://junilearning.com",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e1558ba3ecea486419a23248ce22eccdda564fb.png",
+    "website": "https://acely.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Juni is a membership-driven learning platform designed to help each student discover and pursue their passions with joy. The company offers award-winning curriculums in Computer Science, Math, and English for students 7-18 taught by near-peer instructors from top universities and access to a global community. Through project-centered courses, best-in-class technology, and the power of community, Juni’s varied learning experiences prepare students for their best future.\r\n\r\nJuni is backed by Forerunner Ventures, Index Ventures, Y Combinator Co-founder Jessica Livingston, Arielle Zuckerberg, and more. The company is headquartered in San Francisco and was recently featured in Forbes, Fortune, WSJ, Fast Company and TechCrunch. ",
-    "one_liner": "A learning platform helping every student achieve their best future. ",
+    "long_description": "Acely is the leading AI tutor for the digital SAT and ACT, helping students get into their dream college. Our mission is to democratize opportunity for high school families through AI-native tools that empower students to learn smarter and gain confidence.\r\n\r\nBacked by Forerunner Ventures, we've grown to $10M ARR with a lean, 10-person team, proof that small, mission-driven teams can deliver outsized impact. Our product has traction, our users are engaged, and we're now at an inflection point: ready to scale with speed, craft, and AI-native excellence.\r\n\r\nAcely was launched out of beta in January 2024 as a spinout product from Juni (YC W18).",
+    "one_liner": "Every student's AI coach for college readiness",
     "team_size": 30,
     "industry": "Education",
     "subindustry": "Education",
@@ -6911,13 +6912,13 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/juni-learning",
-    "api": "https://yc-oss.github.io/api/batches/winter-2018/juni-learning.json"
+    "url": "https://www.ycombinator.com/companies/acely",
+    "api": "https://yc-oss.github.io/api/batches/winter-2018/acely.json"
   },
   {
     "id": 1810,
@@ -18492,8 +18493,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/598668f38816dc5cfd50d0d695fccc6371a93877.png",
     "website": "https://tryperdiem.com",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Per Diem makes launching an app as easy as building a website. Think Starbucks-level tech for every mom-and-pop shop, at 10x the speed and 1/10th the cost. Ranked as the top app for Loyalty & Rewards in the Square app marketplace, our iOS and Android apps power over 150 brands, including Coffee Dose, Think Coffee, and Chip City.",
-    "one_liner": "The AI OS that automates operations for SMBs and franchises",
+    "long_description": "Per Diem is the AI operating system for cafés, bakeries, and restaurant franchises. Built natively on Square, we help merchants launch branded ordering, loyalty, and marketing apps and automate the workflows around them. Today, 500+ brands including Oakberry, Think Coffee, and Chip City use Per Diem to own their customer relationships without third-party fees or fragmented tools.",
+    "one_liner": "The AI operating system for SMBs",
     "team_size": 15,
     "industry": "B2B",
     "subindustry": "B2B -> Marketing",
@@ -34133,16 +34134,16 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "At Latent, we're building medical language models to tackle the trillions of operational overhead weighing down healthcare. Our flagship product streamlines authorizations for life-saving drugs by analyzing EHR records and surfacing the most relevant data.\r\n\r\nWe've built our product and signed enterprise contracts with some of the largest health systems in the US.",
     "one_liner": "Medical language models to automate healthcare operations",
-    "team_size": 30,
+    "team_size": 50,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1677047143,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Healthcare",
       "Insurance",
-      "Enterprise",
-      "AI"
+      "Enterprise"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -35251,6 +35252,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2023/inkeep.json"
   },
   {
+    "id": 27892,
+    "name": "ShortLoop",
+    "slug": "shortloop",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/820af679200d42ba6edf958ca36c54bfd8a7734c.png",
+    "website": "https://shortloop.dev/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Dealerships leave significant revenue every year because they are unable to effectively answer calls or run campaigns due to staffing issues. \r\n\r\nShortLoop fixes this with human-like AI phone agents that answer calls instantly, book appointments and test drives, and also help run outbound campaigns. It ensures that our customers never miss a revenue opportunity, inbound or outbound. \r\n\r\nOur AI is integrated with CDK, Reynolds, Tekion, Xtime, Auto/Mate, DealerFX, VinSolutions, myKaarma and other popular dealership tools. It handles thousands of calls each week for U.S. dealerships across service, sales, and outbound campaigns.\r\n\r\nOur mission is to help dealerships transition their phone operations to the AI world and capture the revenue they leave on the table today.",
+    "one_liner": "Phone AI that Captures Every Dealership Revenue Opportunity",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1677530662,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "AI",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shortloop",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/shortloop.json"
+  },
+  {
     "id": 27896,
     "name": "Truewind",
     "slug": "truewind",
@@ -36223,15 +36268,15 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Pylon is the modern alternative to Zendesk, Intercom, Freshdesk, and Salesforce Service Cloud. We help B2B companies track customer support issues across common B2B channels including shared Slack channels (Slack Connect), Microsoft Teams, email, in-app chat, ticket forms, Slack community, and more.\r\n\r\nHundreds of fast-growing YC companies of all sizes like Vellum, Hightouch, and Deel are customers.\r\n\r\nLearn more at usepylon.com",
     "one_liner": "The only customer support platform built for B2B.",
-    "team_size": 57,
+    "team_size": 70,
     "industry": "B2B",
     "subindustry": "B2B -> Operations",
     "launched_at": 1676268747,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Customer Success",
-      "Customer Support",
-      "AI"
+      "Customer Support"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -37216,7 +37261,7 @@
       "Lasso",
       "Automat (formerly lasso)"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/33598558818f290fb0d366a1c310188cc6ebe31a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/55c324c494df9a6e5d939b7ecdc8e94880f2d575.png",
     "website": "https://www.runautomat.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Traditional automation software is slow and expensive, Automat is 10X faster and 1/10th the price. It lets operations teams automate using video and natural language.\r\n\r\n🧐 The problem: Traditional Robotic Process Automation is slow and expensive.\r\n💡 Our Solution: Automat makes it 10X cheaper and faster to build any robotic process automation using natural language on any operating system\r\n\r\nWe’re solving this by creating a platform that enables robotics process automation for Chrome using large language models and computer vision.\r\n\r\nCurrently our customers send us descriptions or videos of the processes they’d like us to automate and we use our internal tooling to quickly build out those automations.",
@@ -37227,10 +37272,10 @@
     "launched_at": 1677178978,
     "tags": [
       "Documents",
+      "Artificial Intelligence",
       "Developer Tools",
       "Robotic Process Automation",
-      "Automation",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39409,7 +39454,7 @@
     "website": "https://maintouch.com/?utm_source=bookface&utm_medium=social&utm_campaign=profile",
     "all_locations": "New York, NY, USA",
     "long_description": "We're the ONLY platform to help you rank on both SEO and AI Search. I grew up working at my family's 9 figure SEO agency and learned how to automate everything. That's what we do for people now.",
-    "one_liner": "the only SEO + AI search platform",
+    "one_liner": "the system of action for marketing",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -39485,8 +39530,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7baf1d932735ae26f5f56e89dbefd702516201c7.png",
     "website": "https://www.upstream.do/",
     "all_locations": "",
-    "long_description": "Upstream is an email client designed for team collaboration. We add features like channels and task-tracking functionality on top of a typical email client, so that teams can have full context and transparency on all of their conversations, and make decisions more efficiently.",
-    "one_liner": "An email client designed for team collaboration",
+    "long_description": "Upstream is a modern email client designed to make email feel human again. It drafts replies in your exact voice using prompts you control, so you can fly through your inbox with a calmer, more enjoyable experience.",
+    "one_liner": "An email client that feels human and fun",
     "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -41443,9 +41488,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/def9ae8f0c06685a28e8184b828d9de7e1232ad3.png",
     "website": "https://www.onyx.app/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Onyx is the open source generative AI platform connected to your company’s docs, apps, and people. We ingest and sync from all sources of information (Google Drive, Slack, GitHub, Confluence, Salesforce, etc.) to provide a centralized place for users to ask about anything. Imagine your most knowledgeable co-workers, all-rolled into one, and available 24/7!\r\n\r\nCheck us out on Github: https://www.github.com/onyx-dot-app/onyx\r\nOr visit our website: https://www.onyx.app/",
-    "one_liner": "Open Source AI Assistant and Enterprise Search",
-    "team_size": 13,
+    "long_description": "Onyx is the open source chat UI connected to your company’s docs, apps, and people. We ingest and sync from all sources of information (Google Drive, Slack, GitHub, Confluence, Salesforce, etc.) to provide a centralized place for users to ask about anything. Imagine your most knowledgeable co-workers, all-rolled into one, and available 24/7!\r\n\r\nCheck us out on Github: https://www.github.com/onyx-dot-app/onyx\r\nOr visit our website: https://www.onyx.app/",
+    "one_liner": "Open Source AI Chat",
+    "team_size": 20,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1704724705,
@@ -41995,10 +42040,9 @@
     "launched_at": 1704382841,
     "tags": [
       "Artificial Intelligence",
-      "Productivity",
       "Open Source",
       "Enterprise",
-      "AI"
+      "Automation"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44435,10 +44479,10 @@
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1709280983,
     "tags": [
-      "Artificial Intelligence",
       "Hard Tech",
       "Robotics",
-      "Logistics"
+      "Logistics",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -46278,7 +46322,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -49209,6 +49253,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/paasa",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/paasa.json"
+  },
+  {
+    "id": 29790,
+    "name": "YouShift",
+    "slug": "youshift",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a22f1efd256331a2e5ea299a5c6ecd931817254.png",
+    "website": "https://www.you-shift.com/",
+    "all_locations": "",
+    "long_description": "YouShift uses AI to automate hospital shift scheduling, replacing legacy software and eliminating the need for full-time schedulers. And scheduling is just the beginning — we're building the future of healthcare workforce management.",
+    "one_liner": "The OS for healthcare staffing, starting with scheduling AI agents.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "launched_at": 1738883676,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Human Resources"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/youshift",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/youshift.json"
   },
   {
     "id": 29791,
@@ -54717,17 +54797,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/60e390e449209c3c990c56045efeb692cf4ce77a.png",
     "website": "https://blaxel.ai",
-    "all_locations": "",
-    "long_description": "Blaxel gives agents secure sandboxes to run AI code, parallel background tasks and tool calls.\r\n\r\nBlaxel Sandboxes are secure instant-launching compute environments that you can use for running AI-generated code.\r\n▫️ Automatic scale-to-zero instantly when inactive, resume from standby under 25ms even after weeks.\r\n▫️ Micro-VMs with full access to file system, processes and logs.\r\n▫️ Preview URLs with your own custom domain.\r\n\r\nThe rest of Blaxel’s cloud services include:\r\n▫️ Agents Hosting - Deploy your agent logic as a serverless endpoint on the same optimized infrastructure as your sandboxes to eliminate agent-to-sandbox latency.\r\n▫️ Batch Jobs - Scalable compute engine designed for agents to schedule and execute thousands of background AI processing tasks in parallel.\r\n▫️ MCP Servers Hosting - Deploy custom tool servers next to your agents.\r\n▫️ Model Gateway - Intelligent routing layer to LLM providers with built-in telemetry, token cost control, and fallbacks capabilities.\r\n▫️ Full observability — out-of-the-box",
-    "one_liner": "AWS for AI Agents",
-    "team_size": 6,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Blaxel is the perpetual sandbox platform for AI agents that need to run code fast.\r\n\r\nUnlike traditional sandboxes that expire or suffer from cold starts, our sandboxes automatically scale to zero after 1s of inactivity and resume in under 25ms with full memory state preserved — allowing you to keep millions of secure sandboxes on standby indefinitely.\r\n\r\nWe also co-locate your agent logic alongside these sandboxes to eliminate network overhead, delivering near-instant latency for end users.",
+    "one_liner": "The perpetual sandbox platform",
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1745276338,
     "tags": [
-      "Artificial Intelligence",
       "Cloud Computing",
-      "Infrastructure"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -54739,7 +54819,8 @@
       "B2B"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -57459,13 +57540,13 @@
     "all_locations": "New York, NY, USA",
     "long_description": "CareSwift is a real-time AI assistant built directly into ambulance reporting systems, guiding medics as they document care and instantly flagging errors. Crews complete accurate, compliant reports in under three minutes, cutting documentation time by 80 percent and helping agencies avoid insurance claim denials. Ambulance crews lose valuable time completing reports after each call. Even minor mistakes cause insurance claims to be rejected. ",
     "one_liner": "AI scribe for Ambulance Reports",
-    "team_size": 3,
+    "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1751153734,
     "tags": [
-      "Health Tech",
-      "AI"
+      "Artificial Intelligence",
+      "Health Tech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -57566,6 +57647,43 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bootloop",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/bootloop.json"
+  },
+  {
+    "id": 30685,
+    "name": "IronLedger.ai",
+    "slug": "ironledger-ai",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fda446d464914642f213b7da0cd38f3f6fead898.png",
+    "website": "https://ironledger.ai",
+    "all_locations": "",
+    "long_description": "IronLedger provides AI agents for property accounting, starting with accounts payable. We eliminate more than $70K of accounting costs annually for over 35K multifamily units. Soon, we'll be providing end-to-end accounting services including automated billbacks, month-end close and bank reconciliation.\r\n\r\nhttps://www.ironledger.ai/",
+    "one_liner": "AI agents for property accounting",
+    "team_size": 2,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "launched_at": 1753882869,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Housing and Real Estate"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ironledger-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/ironledger-ai.json"
   },
   {
     "id": 30686,
@@ -59191,7 +59309,7 @@
     ],
     "stage": "Early",
     "app_video_public": false,
-    "demo_day_video_public": false,
+    "demo_day_video_public": true,
     "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/wardstone",
@@ -59276,6 +59394,42 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/semble-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/semble-ai.json"
+  },
+  {
+    "id": 30914,
+    "name": "Sunflower",
+    "slug": "sunflower",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0205358bcacb803d2d20a6f091abad1460fc2bde.png",
+    "website": "https://sunflowersober.com/",
+    "all_locations": "",
+    "long_description": "Sunflower is on a mission to create one trillion days sober. Our product is both a consumer app (think a \"Duolingo for addiction\") but also with a tele-therapy clinic inside. \r\n\r\nConsumer App: \r\n- We built the #1 AI Sponsor for any kind of addiction\r\n- Beautiful visual progression tracking to power the core \"task to be done\" of addiction\r\n- A twitter style social media for addicts \r\n- DIY learn content (think Masterclass for addiction) for all major addiction types \r\n- CBT based journaling exercises \r\n\r\nTele-Therapy: \r\n- Think a \"Early Medical Peter Attia\" quality of clinic, but completely focused on addiction \r\n- Starting with talk therapy in CA & TX we're rolling out to all 50 states + MAT \r\n- Bringing together the worlds best doctors to create the most effective protocol for addiction \r\n\r\nSunflower went from 0 - 100k MAU in less than 6 months, and now we're continuing the traction to create the #1 product for addiction for the 1.2B humans on this planet that struggle with this fundamental human problem. ",
+    "one_liner": "Building the Sobriety Platform for the future of Superintelligence. 🌻",
+    "team_size": 15,
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "launched_at": 1757558729,
+    "tags": [],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "Consumer"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sunflower",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/sunflower.json"
   },
   {
     "id": 30917,
