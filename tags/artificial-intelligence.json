@@ -2356,7 +2356,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2017",
     "status": "Active",
@@ -2507,7 +2507,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4487,7 +4487,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2019",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "Consumer",
       "Home and Personal"
@@ -4498,7 +4498,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6300,54 +6300,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/cohere",
     "api": "https://yc-oss.github.io/api/batches/summer-2020/cohere.json"
-  },
-  {
-    "id": 22126,
-    "name": "Mito",
-    "slug": "mito",
-    "former_names": [
-      "Saga",
-      "Mtio"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1806ed31ccae256cd4739f203e4b05a30a49eea.png",
-    "website": "http://trymito.io",
-    "all_locations": "New York, NY, USA; Philadelphia, PA, USA; Remote",
-    "long_description": "Mito is Cursor for data science. We’re building an AI enabled IDE to 10x the productivity of data people. Data analysts use Mito to automate reports without relying on internal engineering resources. \r\n\r\nMito is used by thousands of business analysts, data scientists, and automation engineers at some of the world's largest banks, private equity shops, and consulting firms. \r\n\r\nOpen source is key to our enterprise sales strategy. Mito is open source and built on top of Jupyter. That means getting started with Mito is as simple as running `pip install` and doesn't require enterprises to manager new infrastructure. \r\n\r\nCheck us out at: https://www.trymito.io/",
-    "one_liner": "Cursor for data analysis",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1660746128,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Analytics",
-      "Open Source",
-      "Data Science"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2020",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mito",
-    "api": "https://yc-oss.github.io/api/batches/summer-2020/mito.json"
   },
   {
     "id": 22151,
@@ -8252,7 +8204,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -12955,52 +12907,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2022/ecsa.json"
   },
   {
-    "id": 26730,
-    "name": "Mocke",
-    "slug": "mocke",
-    "former_names": [
-      "Paigo",
-      "Champ"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2cb70201308c4f41ceff6ec22383930a1f465fe.png",
-    "website": "https://mocke.co/",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "AI simulated email campaigns to reveal the real reasons your prospects ignore you. Stop guessing and start iterating.",
-    "one_liner": "Finally, know why your leads don't reply to email campaigns.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1654798414,
-    "tags": [
-      "Artificial Intelligence",
-      "B2B",
-      "Sales"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/mocke",
-    "api": "https://yc-oss.github.io/api/batches/summer-2022/mocke.json"
-  },
-  {
     "id": 26750,
     "name": "NuMind",
     "slug": "numind",
@@ -14575,7 +14481,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -20728,7 +20634,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Reducto offers robust and reliable document ingestion for any workflow. Our API allows you to convert complex, unstructured documents into structured outputs that are perfect for RAG, process automation, and more. ",
     "one_liner": "The most accurate API to parse documents",
-    "team_size": 18,
+    "team_size": 30,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1704664395,
@@ -20753,7 +20659,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22124,6 +22030,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ellipsis",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ellipsis.json"
+  },
+  {
+    "id": 29370,
+    "name": "Browser Buddy",
+    "slug": "browser-buddy",
+    "former_names": [
+      "Recipe",
+      "Browser Buddy",
+      "People Net",
+      "Bitter"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9ee6645e8e73e60100ef3c3c0a7d44601e0d88c8.png",
+    "website": "https://www.browserbuddy.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Find great essays for any topic you're interested in. ",
+    "one_liner": "A recommendation system for great Internet writing",
+    "team_size": 2,
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Content",
+    "launched_at": 1701246038,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "Consumer",
+      "Content"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/browser-buddy",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/browser-buddy.json"
   },
   {
     "id": 29372,
@@ -29983,7 +29934,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -30079,48 +30030,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/trata",
     "api": "https://yc-oss.github.io/api/batches/winter-2025/trata.json"
-  },
-  {
-    "id": 30283,
-    "name": "Confident AI",
-    "slug": "confident-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e739bf439400b44a89bc15e023cbe6bca3f9e00.png",
-    "website": "https://confident-ai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (4.3k stars, >400k monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",
-    "one_liner": "Open-Source Unit Testing for LLM Applications",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1736794966,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Generative AI",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/confident-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/confident-ai.json"
   },
   {
     "id": 30291,
@@ -32485,49 +32394,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/aegis.json"
   },
   {
-    "id": 30559,
-    "name": "Godela",
-    "slug": "godela",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fe1589548b774d33ca4f20c5020467a9627f9c13.png",
-    "website": "http://godela.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "What if every experiment you wanted to run could be modeled using AI? \r\nGodela is an AI-powered physics engine that gives engineers faster, cheaper replacement to simulations and physical prototypes.\r\nNo set up, no wait. Just ask—and get simulation quality result.\r\n",
-    "one_liner": "AI Physics Engine to replace simulations and prototypes",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1747413596,
-    "tags": [
-      "Artificial Intelligence",
-      "Hard Tech",
-      "Hardware",
-      "Aerospace",
-      "ML"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/godela",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/godela.json"
-  },
-  {
     "id": 30561,
     "name": "Sureform",
     "slug": "sureform",
@@ -34780,17 +34646,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b1e76d8c0743b28030c0f3c37f0d0bfa7f51272.png",
     "website": "https://pleom.com",
     "all_locations": "",
-    "long_description": "At Pleom, we’re building AI hardware devices that everyday consumers can talk to — devices that understand your context and handle real-world tasks. We’re going head-to-head with OpenAI and io, moving faster to market and capturing mindshare first.\r\n\r\nToday, Pleom is a website. Tomorrow, it will be integrated into our family of hardware devices.",
-    "one_liner": "Talk to your AI",
+    "long_description": "Automatic insights on all your company data. Speed up business workflows to visualizations with a 0 learning curve.",
+    "one_liner": "Agentic Business Intelligence",
     "team_size": 0,
-    "industry": "Consumer",
-    "subindustry": "Consumer -> Consumer Electronics",
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
     "launched_at": 1755614874,
     "tags": [
       "Artificial Intelligence",
       "Generative AI",
-      "Hardware",
-      "Electronics",
+      "Analytics",
+      "Big Data",
       "AI"
     ],
     "tags_highlighted": [],
@@ -34800,8 +34666,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "Consumer",
-      "Consumer Electronics"
+      "B2B",
+      "Analytics"
     ],
     "regions": [
       "Unspecified"
@@ -35073,50 +34939,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/reacher",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/reacher.json"
-  },
-  {
-    "id": 30762,
-    "name": "Kernel",
-    "slug": "kernel",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99f219c3bf45966a5083306e113e41c33e2a056a.png",
-    "website": "https://www.onkernel.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kernel is the best place in the world to launch web agents. We handle the hard parts of running browser infrastructure in the cloud so you don’t have to: spinning up browsers quickly, responsive read/write live view, logs, headless vs. headful mode, replays, residential proxies, and more. Our API allows developers to instantly launch browsers in the cloud, so you can focus on your core product logic rather than the infra underneath.\r\n\r\nOur customers use Kernel to launch QA agents, vertical-specific agents that automate back office processes, and more.\r\n\r\nWe're open source, HIPAA-compliant (SOC2 Type 2 pending), & compatible with every browser/web agent framework (Playwright, Puppeteer, CUA, Browser Use, Magnitude, etc). Check us out —> https://github.com/onkernel/kernel-images",
-    "one_liner": "Crazy Fast Browsers-as-a-Service",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1753229701,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Cloud Computing",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kernel",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/kernel.json"
   },
   {
     "id": 30763,
@@ -36565,6 +36387,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/multifactor.json"
   },
   {
+    "id": 30905,
+    "name": "Travo",
+    "slug": "travo",
+    "former_names": [
+      "TravoAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/deeed8a6efc77a26be86d84cd2f8f691af1cf633.png",
+    "website": "https://www.travoai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We are building the most accurate and comprehensive real estate data set for RV parks and similar niche asset classes.\r\n\r\nTravo is the one stop shop for anyone working in real estate to search any property or parcel of land and instantly access rental comps, ownership, zoning and financials. With our data, we build the best informed AI applications for real estate private equity firms, developers, and brokers.",
+    "one_liner": "We use AI to collect and analyze real estate data",
+    "team_size": 4,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction",
+    "launched_at": 1766027196,
+    "tags": [
+      "Artificial Intelligence",
+      "Real Estate",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/travo",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/travo.json"
+  },
+  {
     "id": 30907,
     "name": "Logical",
     "slug": "logical",
@@ -37639,6 +37503,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/boom-ai",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/boom-ai.json"
+  },
+  {
+    "id": 30993,
+    "name": "DiligenceSquared",
+    "slug": "diligencesquared-inc",
+    "former_names": [
+      "DiligenceSquared Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e75ae93d8e056556c69cc8d6215f5c6787ea95eb.png",
+    "website": "https://diligencesquared.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "DiligenceSquared delivers AI-powered market due diligence for investment decisions - like the $500k McKinsey reports, but automated, auditable, and at a fraction of the cost.\r\n\r\nWhen Private Equity funds evaluate deals, they pay firms like McKinsey, BCG, and Bain $500K-$1M for market due diligence. The process takes weeks, and the output is a static PowerPoint that's impossible to audit. A single large-cap PE fund can spend >$30M annually on this and the total market is $10B per year.\r\n\r\nOur AI agents conduct expert interviews and synthesize insights with every claim linked to source transcripts. No black box, no \"trust me\" slides, and no 10x mark-up for human labor.\r\n\r\nFrederik bought these reports as a Principal at Blackstone. Soren sold them as a Principal at BCG. Harshil is a repeat founder and former Software Engineer at Google. We've seen both sides and know what matters in due diligence - and now we automate it.\r\n\r\nOur clients already include 8 leading private equity funds with over $2.4 trillion in combined AUM.",
+    "one_liner": "AI-powered market due diligence for investment decisions",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1762366564,
+    "tags": [
+      "Artificial Intelligence",
+      "Analytics",
+      "Market Research"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/diligencesquared-inc",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/diligencesquared-inc.json"
   },
   {
     "id": 30997,

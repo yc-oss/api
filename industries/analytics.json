@@ -1775,7 +1775,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1885,7 +1885,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1806ed31ccae256cd4739f203e4b05a30a49eea.png",
     "website": "http://trymito.io",
-    "all_locations": "New York, NY, USA; Philadelphia, PA, USA; Remote",
+    "all_locations": "New York, NY, USA; Remote",
     "long_description": "Mito is Cursor for data science. We’re building an AI enabled IDE to 10x the productivity of data people. Data analysts use Mito to automate reports without relying on internal engineering resources. \r\n\r\nMito is used by thousands of business analysts, data scientists, and automation engineers at some of the world's largest banks, private equity shops, and consulting firms. \r\n\r\nOpen source is key to our enterprise sales strategy. Mito is open source and built on top of Jupyter. That means getting started with Mito is as simple as running `pip install` and doesn't require enterprises to manager new infrastructure. \r\n\r\nCheck us out at: https://www.trymito.io/",
     "one_liner": "Cursor for data analysis",
     "team_size": 3,
@@ -1893,11 +1893,11 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1660746128,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "Analytics",
       "Open Source",
-      "Data Science"
+      "Data Science",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5062,6 +5062,48 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/fulcrum.json"
   },
   {
+    "id": 30748,
+    "name": "Pleom",
+    "slug": "pleom",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b1e76d8c0743b28030c0f3c37f0d0bfa7f51272.png",
+    "website": "https://pleom.com",
+    "all_locations": "",
+    "long_description": "Automatic insights on all your company data. Speed up business workflows to visualizations with a 0 learning curve.",
+    "one_liner": "Agentic Business Intelligence",
+    "team_size": 0,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1755614874,
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Analytics",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pleom",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/pleom.json"
+  },
+  {
     "id": 30822,
     "name": "Lapis",
     "slug": "lapis",
@@ -5167,9 +5209,9 @@
     "subindustry": "B2B -> Analytics",
     "launched_at": 1762366564,
     "tags": [
+      "Artificial Intelligence",
       "Analytics",
-      "Market Research",
-      "AI"
+      "Market Research"
     ],
     "tags_highlighted": [],
     "top_company": false,
