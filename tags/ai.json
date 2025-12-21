@@ -3299,7 +3299,7 @@
       "Canada",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4874,7 +4874,7 @@
       "United Kingdom",
       "Europe"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15582,52 +15582,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/continue.json"
   },
   {
-    "id": 28966,
-    "name": "Pincites",
-    "slug": "pincites",
-    "former_names": [
-      "Pincite"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/66314affa2a18460ebaf6082abe1eba1272e5498.png",
-    "website": "https://www.pincites.com/",
-    "all_locations": "Menlo Park, CA, USA",
-    "long_description": "Pincites makes contract negotiations faster and more consistent for legal teams. Using LLMs, Pincites takes a first pass at reviewing contracts, helping lawyers focus on riskiest parts of their negotiations.",
-    "one_liner": "Close deals faster with AI for contract negotiation",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1688690921,
-    "tags": [
-      "B2B",
-      "Legal",
-      "LegalTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pincites",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/pincites.json"
-  },
-  {
     "id": 28969,
     "name": "Studdy",
     "slug": "studdy",
@@ -23619,6 +23573,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/general-analysis.json"
   },
   {
+    "id": 29973,
+    "name": "Arva AI",
+    "slug": "arva-ai",
+    "former_names": [
+      "Tarit AI",
+      "Arva AI",
+      "Arva"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/637fd6f0b41173fce58a7cc13944c42be5d808ec.png",
+    "website": "https://www.arva.ai",
+    "all_locations": "",
+    "long_description": "Banks and fintechs have large teams of human analysts who conduct manual checks and reviews. We replace those human compliance analysts with AI agents that automate 80% of the manual work for faster and more compliant financial crime (AML) reviews.\r\n\r\nOur first three products are: Screening AI (discount 91% of screening alerts), KYB/C AI (speed up onboarding), Transaction Monitoring AI (handle AML transaction monitoring alerts)\r\n\r\nOur end goal is to have a whole suite of AI workers that can handle manual compliance work for banks and fintechs. A $24B opportunity in the US alone.",
+    "one_liner": "AI Agents to scale AML, KYB and KYC operations",
+    "team_size": 14,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1721196993,
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Compliance",
+      "Regtech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arva-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/arva-ai.json"
+  },
+  {
     "id": 29977,
     "name": "Merlin AI",
     "slug": "merlin-ai",
@@ -25176,47 +25175,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/careforce",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/careforce.json"
-  },
-  {
-    "id": 30176,
-    "name": "Trace",
-    "slug": "trace",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b378729fd84fc23dc6a2bc2f3d8add67f2d6c815.png",
-    "website": "http://tracetec.co",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We started Trace because we believe AI should wow customers, not frustrate them. As a result, we prioritize reliability and seamless customer interactions. \r\n\r\nTrace AI agents resolve calls end-to-end, securely integrating with bank systems and external APIs. So far, our agents handle quoting, application, and transaction tracking calls for our partners — but we’re still searching for new exciting use cases.\r\n\r\nQuestion to all fintechs/banks: Which customer requests keep coming back to you? We’d love to learn how you handle them now and if they are ripe for automation. ",
-    "one_liner": "Voice AI Customer Support for Financial Services",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1738662568,
-    "tags": [
-      "SaaS",
-      "Finance",
-      "B2B",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trace",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/trace.json"
   },
   {
     "id": 30179,
@@ -28001,55 +27959,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/bluejay.json"
   },
   {
-    "id": 30454,
-    "name": "Refresh",
-    "slug": "refresh",
-    "former_names": [
-      "JupyPilot",
-      "Operative",
-      "Operative.sh",
-      "operative.sh",
-      "Operative"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ccf0b2ab481c2f80ab1cae885c909b33ef41f986.png",
-    "website": "https://www.withrefresh.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Building RL environments for the next generation of capabilities in frontier models",
-    "one_liner": "Evals and environments for computer use and software engineering work",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1745867856,
-    "tags": [
-      "Reinforcement Learning",
-      "Recruiting",
-      "Market Research",
-      "Data Labeling",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/refresh",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/refresh.json"
-  },
-  {
     "id": 30456,
     "name": "Tinfoil",
     "slug": "tinfoil",
@@ -28898,6 +28807,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nimbic-ai",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/nimbic-ai.json"
+  },
+  {
+    "id": 30533,
+    "name": "Delty",
+    "slug": "delty",
+    "former_names": [
+      "Cue",
+      "Delty AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdd61a6b51bd621ffd6f24f4e6cd7ce09b1d4a71.png",
+    "website": "https://delty.ai",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "Transforming healthcare operations with AI agents",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1746945144,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Healthcare",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/delty",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/delty.json"
   },
   {
     "id": 30544,
