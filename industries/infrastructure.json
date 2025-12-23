@@ -7084,14 +7084,15 @@
   },
   {
     "id": 27820,
-    "name": "LaunchFlow / infra.new",
-    "slug": "launchflow-infra-new",
+    "name": "infra.new",
+    "slug": "infranew",
     "former_names": [
       "FlowState",
       "Inlet",
       "launchflow",
       "LaunchFlow",
-      "infra.new"
+      "infra.new",
+      "LaunchFlow / infra.new"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
     "website": "https://infra.new",
@@ -7103,11 +7104,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1675872738,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Cloud Computing",
-      "AI"
+      "Cloud Computing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -7128,8 +7129,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/launchflow-infra-new",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/launchflow-infra-new.json"
+    "url": "https://www.ycombinator.com/companies/infranew",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/infranew.json"
   },
   {
     "id": 27877,
@@ -7500,7 +7501,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10605,6 +10606,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dome",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/dome.json"
+  },
+  {
+    "id": 31030,
+    "name": "Haladir",
+    "slug": "haladir",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/891b1ae1a3af72452ca88d9f14e1dbe9e18217c6.png",
+    "website": "https://www.haladir.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "RLVR changed the game for post-training. We're here to build and supply the next-generation of coding data and RL environments using model checking languages and formal verification. In a world where solid coding data is becoming increasingly sparse, Haladir provides the data and environments needed to build the next generation of coding models.",
+    "one_liner": "Rooting Formal Methods into CodeGen RL & Data",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1766374394,
+    "tags": [
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/haladir",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/haladir.json"
   },
   {
     "id": 31036,

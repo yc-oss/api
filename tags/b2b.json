@@ -29888,14 +29888,15 @@
   },
   {
     "id": 27820,
-    "name": "LaunchFlow / infra.new",
-    "slug": "launchflow-infra-new",
+    "name": "infra.new",
+    "slug": "infranew",
     "former_names": [
       "FlowState",
       "Inlet",
       "launchflow",
       "LaunchFlow",
-      "infra.new"
+      "infra.new",
+      "LaunchFlow / infra.new"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ba2bf3c743512b0b3cda71e1f81a113f9c1c05c.png",
     "website": "https://infra.new",
@@ -29907,11 +29908,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1675872738,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Cloud Computing",
-      "AI"
+      "Cloud Computing"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -29932,8 +29933,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/launchflow-infra-new",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/launchflow-infra-new.json"
+    "url": "https://www.ycombinator.com/companies/infranew",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/infranew.json"
   },
   {
     "id": 27821,
@@ -37877,7 +37878,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/380201f9cadb6a3d51cb0328080b2378d425269f.png",
     "website": "https://www.inspectmind.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "An AI agent that catch issues in drawings before they become costly rework and dely\r\n",
+    "long_description": "An AI agent that catches issues in construction drawings before they become costly rework and project delays",
     "one_liner": "AI agent for construction drawings review",
     "team_size": 3,
     "industry": "Real Estate and Construction",
@@ -38101,16 +38102,16 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Codes automates patient record collection. Today, documents are scattered across EHRs, providers, and faxes; we use AI to compile & analyze docs for those who need them. ",
     "one_liner": "Perfect medical histories. ",
-    "team_size": 4,
+    "team_size": 7,
     "industry": "Healthcare",
     "subindustry": "Healthcare",
     "launched_at": 1721954121,
     "tags": [
+      "Artificial Intelligence",
       "Health Tech",
       "B2B",
       "Healthcare",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -44415,11 +44416,12 @@
       "Artificial Intelligence",
       "B2B",
       "Logistics",
-      "Supply Chain"
+      "Supply Chain",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -44877,15 +44879,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c24ca870b6eaffd66597cfdb3e463eeed660675.png",
     "website": "https://useskope.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "",
-    "one_liner": "",
+    "long_description": "Skope builds AI agents for law firms that perform a variety of tasks to increase efficiency from bulk data extraction and filling out templates to drafting and reviewing documents. We will help your law firm make more money, with AI.",
+    "one_liner": "Build a more profitable law firm with AI.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1750879126,
     "tags": [
-      "Artificial Intelligence",
-      "B2B"
+      "B2B",
+      "Legal",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48171,7 +48174,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b4647b6b688845909431b5190e0671d6b6119ed0.png",
     "website": "https://hellosarah.ai/",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "Sarah AI is building the AI-native operating system for consumer goods brands—an autonomous supply-chain brain that replaces legacy ERPs and actually runs the business. Founded by Chris (2x Founder; ex-CEO at Better Nature; Forbes 30U30) and Dirk (ex-Google Data, Analytics & AI Lead), we’re backed by YC (W26).\r\n\r\nIn our first month full-time, we’ve raised $1.6M and secured rapid commercial traction with 15 design partners and a growing pipeline of 30+ brands. Our mission is bold: give CPG brands completely hands-free supply chains that run themselves through Sarah, their AI ops assistant.\r\n\r\nWe’re now growing a small, world-class team of builders excited to reinvent how physical goods companies operate—end-to-end, autonomous, and AI-first. If you want to work on hard problems, ship fast, and define the future of autonomous operations, you’ll feel right at home here.\r\n",
     "one_liner": "AI Agents for CPG ops",
     "team_size": 2,
@@ -48194,8 +48197,6 @@
       "Operations"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada",
       "Remote",
       "Partly Remote"
     ],
