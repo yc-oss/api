@@ -2336,7 +2336,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2c24ca870b6eaffd66597cfdb3e463eeed660675.png",
     "website": "https://useskope.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Skope builds AI agents for law firms that perform a variety of tasks to increase efficiency from bulk data extraction and filling out templates to drafting and reviewing documents. We will help your law firm make more money, with AI.",
+    "long_description": "Skope builds AI for core legal workflows. We will save your law firm time and help you make more money, with AI.",
     "one_liner": "Build a more profitable law firm with AI.",
     "team_size": 2,
     "industry": "B2B",
@@ -3017,7 +3017,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -5557,10 +5557,10 @@
     "slug": "kernel",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/99f219c3bf45966a5083306e113e41c33e2a056a.png",
-    "website": "https://www.onkernel.com/",
+    "website": "https://www.kernel.sh",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Kernel is the best place in the world to launch web agents. We handle the hard parts of running browser infrastructure in the cloud so you don’t have to: spinning up browsers quickly, responsive read/write live view, logs, headless vs. headful mode, replays, residential proxies, and more. Our API allows developers to instantly launch browsers in the cloud, so you can focus on your core product logic rather than the infra underneath.\r\n\r\nOur customers use Kernel to launch QA agents, vertical-specific agents that automate back office processes, and more.\r\n\r\nWe're open source, HIPAA-compliant (SOC2 Type 2 pending), & compatible with every browser/web agent framework (Playwright, Puppeteer, CUA, Browser Use, Magnitude, etc). Check us out —> https://github.com/onkernel/kernel-images",
-    "one_liner": "Crazy Fast Browsers-as-a-Service",
+    "long_description": "Kernel is crazy fast, open source infra for AI agents to access the internet 🧠🕸️\r\n- Built on unikernels for crazy fast cold starts and low resource usage\r\n- Sub-150ms cold starts on managed headful browsers\r\n- Built-in stealth mode with residential proxies and automatic CAPTCHA solving\r\n- Full observability: session recording, live view, and full logs\r\n- Persistent sessions that maintain cookies and auth across invocations\r\n- Native support for all browser and computer use frameworks\r\n- SOC 2 compliant and HIPAA-ready\r\n\r\nTrusted by Cash App, Rye, and 1000+ others. Backed by Accel & Y Combinator (S25).",
+    "one_liner": "Crazy fast, open source infra for AI agents to use the Internet",
     "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
@@ -5818,13 +5818,13 @@
     "one_liner": "AI Copilot for Outbound Sales",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Sales",
     "launched_at": 1754475903,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
       "Sales",
-      "AI"
+      "AI",
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5833,7 +5833,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Sales"
     ],
     "regions": [
       "United States of America",
@@ -6404,7 +6405,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
