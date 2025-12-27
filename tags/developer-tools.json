@@ -21690,20 +21690,21 @@
   },
   {
     "id": 30616,
-    "name": "Async",
-    "slug": "async",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6a6a6deeb99cb0fdc200c141518d2d94972bd2b.png",
-    "website": "https://www.async.build/",
+    "name": "gitdot",
+    "slug": "gitdot",
+    "former_names": [
+      "Async"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2d07ddb576ac56313f5c987b3bb7c2ff770b583a.png",
+    "website": "https://www.gitdot.io/",
     "all_locations": "",
-    "long_description": "Async is an open-source task management tool that doesn't just track work, it does it.\r\nAsync automatically triages tickets, completes them, and tests from end-to-end. We're fully open-source and self-hostable, so you can customize Async to work for your company and your processes.\r\n\r\nOur mission is to kill engineering busywork: bug fixes, UI tweaks, papercuts, and KTLO.",
-    "one_liner": "AI-native Linear",
+    "long_description": "",
+    "one_liner": "A better GItHub",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1752630869,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "B2B"
     ],
@@ -21725,8 +21726,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/async",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/async.json"
+    "url": "https://www.ycombinator.com/companies/gitdot",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/gitdot.json"
   },
   {
     "id": 30618,
@@ -22584,7 +22585,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/db1cb9787e09629b6ccb1639f659a5f8d0bb21b1.png",
     "website": "https://usedari.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "An automation platform where users can reliably automate web workflows using natural language prompts.\r\n\r\nWe handle two-factor authentication and deterministic playback of workflows, ensuring your workflows don't break. ",
+    "long_description": "A platform where users can automate web workflows using natural language prompts.\r\n\r\nWe handle deterministic playback of browser workflows and fall back to LLMs where necessary, ensuring reliability. ",
     "one_liner": "An API to build the most reliable browser use agents",
     "team_size": 2,
     "industry": "B2B",
