@@ -24215,47 +24215,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/codes-health.json"
   },
   {
-    "id": 29634,
-    "name": "Random Labs",
-    "slug": "random-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fc21f071bc440027719fe93cbb326886a0f83528.png",
-    "website": "",
-    "all_locations": "",
-    "long_description": "We are building a fully local opensource software engineer. Software thrives on opensource tools and it's only right that this technology be built for all to use.",
-    "one_liner": "Random labs is building fully open source software agents",
-    "team_size": null,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1725599788,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Open Source",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/random-labs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/random-labs.json"
-  },
-  {
     "id": 29641,
     "name": "Invaria",
     "slug": "invaria",
@@ -30731,7 +30690,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -36906,6 +36865,50 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sourcebot.json"
   },
   {
+    "id": 30950,
+    "name": "Narrative",
+    "slug": "usenarrative",
+    "former_names": [
+      "AdDojo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1c937f26cf2f7d07e3a562baef0a61677eff7cb.png",
+    "website": "http://www.narrative-sports.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Narrative automates the creation and distribution of high-quality sports highlight videos for broadcasters, teams, and leagues.",
+    "one_liner": "AI-Powered Sports Highlights",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1759338774,
+    "tags": [
+      "Artificial Intelligence",
+      "Sports Tech",
+      "B2B",
+      "Video"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/usenarrative",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/usenarrative.json"
+  },
+  {
     "id": 30953,
     "name": "Primer",
     "slug": "primer",
@@ -37677,6 +37680,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/mantis-biotechnology",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/mantis-biotechnology.json"
+  },
+  {
+    "id": 31077,
+    "name": "Panta",
+    "slug": "panta",
+    "former_names": [
+      "Panta Insure"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dff0894649ff29064b020845633a9ebb22c2e9de.png",
+    "website": "https://pantainsure.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Panta is the autonomous commercial insurance brokerage run by AI agents. Today, businesses wait weeks for coverage because the $1 trillion industry runs on a \"human API\"—armies of brokers manually bridging the gap with carriers. Instead of chasing email threads and re-keying data, Panta’s clients get results 10x faster because our AI agents automate the entire back-office.\r\n\r\nVincent was a Machine Learning Engineer at Google, where he led research on foundation models for recommendation at Vertex AI. Frank was a Senior Full Stack Engineer at Apple and is a top open-source contributor to the Rust and Gleam ecosystems.\r\n\r\nWe realized that while carrier response times are slow, the real bottleneck is the broker. Traditional firms spend 80% of their time on manual data entry, forcing them to scale linearly with headcount. By replacing this work with autonomous agents, we operate with zero data entry and significantly higher margins. We are building a service business with software economics.\r\n\r\nWe formed the company in December and have already bound multiple commercial policies for clients in San Francisco.\r\n\r\nWe aren't just building a better brokerage; we are building the autonomous infrastructure that American business runs on.",
+    "one_liner": "Commercial insurance brokerage run by AI agents. Scales like software.",
+    "team_size": 3,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1766956081,
+    "tags": [
+      "Artificial Intelligence",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/panta",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/panta.json"
   },
   {
     "id": 31094,
