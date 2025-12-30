@@ -9214,7 +9214,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -12655,7 +12655,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -13155,7 +13155,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -14392,53 +14392,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/linum",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/linum.json"
-  },
-  {
-    "id": 27680,
-    "name": "Trigger.dev",
-    "slug": "trigger-dev",
-    "former_names": [
-      "API Hero"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/737382941e8e44eb83d28fa6b26854131dcdfcf9.png",
-    "website": "https://trigger.dev",
-    "all_locations": "London, England, United Kingdom",
-    "long_description": "Trigger.dev is the open source platform for building AI agents and workflows in TypeScript. Long-running tasks with retries, queues, full observability, and elastic scaling.\r\n\r\nPreviously, the founders built JSON Hero, an open source JSON viewer that is currently used by more than 35k developers a month. Eric was CTO of Code School, an early code learning platform that was acquired in 2015. Matt created two iPad apps that won Apple’s App of the Year.",
-    "one_liner": "Build and deploy fully‑managed AI agents and workflows",
-    "team_size": 7,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1665673307,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Open Source"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2023",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United Kingdom",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Growth",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/trigger-dev",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/trigger-dev.json"
   },
   {
     "id": 27687,
@@ -30800,6 +30753,51 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/kashikoi.json"
   },
   {
+    "id": 30406,
+    "name": "BitBoard",
+    "slug": "bitboard",
+    "former_names": [
+      "Realm"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cd237a1ed9ded0c19b8fecc9c46b0ad45f89c04.png",
+    "website": "https://bitboard.work/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "BitBoard is an AI-first spreadsheet that lets you build, update, and analyze spreadsheets via agent chat. Handle complex modeling and analysis 10x faster without giving up direct cell-level control when you need it.\r\n\r\nWe wanted the most capable agent and seamless UX, so we built an agent and spreadsheet to work together instead of bolting chat onto a legacy app.",
+    "one_liner": "The best way to use AI for spreadsheets.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1746992332,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Analytics",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bitboard",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/bitboard.json"
+  },
+  {
     "id": 30409,
     "name": "Notus Autonomous Systems",
     "slug": "notus-autonomous-systems",
@@ -35337,8 +35335,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76ede784d7a376de00be11e60bd9f1ed3f6c298c.png",
     "website": "https://www.trylapis.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lapis is an AI growth assistant for marketing agencies.\r\n\r\nWe help businesses understand the full buyer journey from discovery to purchase on organic (Google and AI search) and paid media channels (Google, LinkedIn, Meta, TikTok).\r\n\r\nWe do this through a custom RL environment that's fine-tuned to capture a business' specific context.",
-    "one_liner": "AI Growth Assistant for Marketing Agencies",
+    "long_description": "Lapis is an AI growth marketer for startups.\r\n\r\nLapis' AI agents create ads, run marketing campaigns, write website content, and track web and LLM analytics so startups can get more customers.",
+    "one_liner": "AI Growth Marketer for Startups",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -35882,6 +35880,48 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/deeptrace.json"
   },
   {
+    "id": 30861,
+    "name": "Caddy",
+    "slug": "caddy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bac17a1edc08045fefbaf98ea25aab130faa01de.png",
+    "website": "https://trycaddy.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "We are building Siri for work, but it actually works. Caddy turns your voice into the next computing interface. It understands what’s on your screen and your intent, so work gets done while you stay in flow.\r\n\r\nSay “create a Linear ticket and share it to Slack” and Caddy handles it instantly in the background.\r\n\r\nCaddy’s founders previously led product and design for Loom’s AI suite and core products. We believe the next era of computing will be powered by voice, where computers understand what you say and what’s on your screen so work happens naturally.",
+    "one_liner": "The voice interface that works proactively for you",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1761153567,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Workflow Automation",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/caddy",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/caddy.json"
+  },
+  {
     "id": 30867,
     "name": "Soren",
     "slug": "soren",
@@ -36136,6 +36176,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/nivara",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/nivara.json"
+  },
+  {
+    "id": 30891,
+    "name": "SF Tensor",
+    "slug": "sf-tensor",
+    "former_names": [
+      "Emma Lang"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b80c521c36f8132868240eedba730602859b428.png",
+    "website": "https://sf-tensor.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "AI researchers should be pushing the boundaries of what's possible with new architectures and training methods. Instead, they waste weeks configuring cloud infrastructure, debugging distributed systems, and optimizing their GPU code. We know because we lived it: While training our own models across thousands of GPUs earlier this year, we spent more time fighting our infrastructure than doing actual research.\r\n\r\nThat why we're building two things. First, Elastic Cloud: a managed platform that automatically finds the cheapest GPUs across all providers, handles spot instance preemption, and cuts compute costs by up to 80%. Second, automatic kernel optimization that makes training code run faster by modeling hardware topology, often beating hand-tuned implementations.\r\n\r\nThe problem is that getting high performance across different hardware is genuinely hard. NVIDIA's CUDA moat exists because writing fast kernels requires deep expertise. Most teams either accept vendor lock-in or hire expensive kernel engineers. Our goal is to break the CUDA moat.\r\n\r\nThe compute bottleneck is the biggest constraint on AI progress. NVIDIA can't manufacture enough GPUs, and their monopoly keeps prices astronomical. Meanwhile, AMD, Google, and Amazon are shipping capable alternative hardware that nobody uses because the software is too hard. We're breaking that moat. If we succeed, anyone will be able to train state-of-the-art models without thinking past their PyTorch code.",
+    "one_liner": "Infrastructure for AI labs to focus on research.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1759869599,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Open Source",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/sf-tensor",
+    "api": "https://yc-oss.github.io/api/batches/fall-2025/sf-tensor.json"
   },
   {
     "id": 30894,
@@ -36863,50 +36947,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sourcebot",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/sourcebot.json"
-  },
-  {
-    "id": 30950,
-    "name": "Narrative",
-    "slug": "usenarrative",
-    "former_names": [
-      "AdDojo"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1c937f26cf2f7d07e3a562baef0a61677eff7cb.png",
-    "website": "http://www.narrative-sports.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Narrative automates the creation and distribution of high-quality sports highlight videos for broadcasters, teams, and leagues.",
-    "one_liner": "AI-Powered Sports Highlights",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1759338774,
-    "tags": [
-      "Artificial Intelligence",
-      "Sports Tech",
-      "B2B",
-      "Video"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/usenarrative",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/usenarrative.json"
   },
   {
     "id": 30953,
@@ -37763,6 +37803,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lexius",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/lexius.json"
+  },
+  {
+    "id": 31112,
+    "name": "Burt",
+    "slug": "burt",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6a11400ce1b300bf129e9c9b8227340f5de10efd.png",
+    "website": "https://www.trainburt.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We help teams fine tune and deploy models specialized for their domain and use cases.\r\n\r\nGeneralist, proprietary models like gpt-5 and claude are impressive and have their place but for your most important tasks you need your AI agents to be powered by models that are specialists. Models you own, trained on your data, that can continuously improve for your use cases.",
+    "one_liner": "Easily fine tune and deploy specialized models",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1766971540,
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Reinforcement Learning"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/burt",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/burt.json"
   },
   {
     "id": 31133,

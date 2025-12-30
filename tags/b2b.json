@@ -17721,7 +17721,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -24657,7 +24657,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -28208,7 +28208,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -28562,7 +28562,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -28730,16 +28730,16 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Trigger.dev is the open source platform for building AI agents and workflows in TypeScript. Long-running tasks with retries, queues, full observability, and elastic scaling.\r\n\r\nPreviously, the founders built JSON Hero, an open source JSON viewer that is currently used by more than 35k developers a month. Eric was CTO of Code School, an early code learning platform that was acquired in 2015. Matt created two iPad apps that won Apple’s App of the Year.",
     "one_liner": "Build and deploy fully‑managed AI agents and workflows",
-    "team_size": 7,
+    "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1665673307,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
       "SaaS",
       "B2B",
-      "Open Source"
+      "Open Source",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -28757,7 +28757,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28962,7 +28962,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -40165,7 +40165,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -43139,6 +43139,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/frekil",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/frekil.json"
+  },
+  {
+    "id": 30406,
+    "name": "BitBoard",
+    "slug": "bitboard",
+    "former_names": [
+      "Realm"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2cd237a1ed9ded0c19b8fecc9c46b0ad45f89c04.png",
+    "website": "https://bitboard.work/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "BitBoard is an AI-first spreadsheet that lets you build, update, and analyze spreadsheets via agent chat. Handle complex modeling and analysis 10x faster without giving up direct cell-level control when you need it.\r\n\r\nWe wanted the most capable agent and seamless UX, so we built an agent and spreadsheet to work together instead of bolting chat onto a legacy app.",
+    "one_liner": "The best way to use AI for spreadsheets.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "launched_at": 1746992332,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "B2B",
+      "Analytics",
+      "Operations"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Operations"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bitboard",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/bitboard.json"
   },
   {
     "id": 30441,
@@ -46117,8 +46162,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/76ede784d7a376de00be11e60bd9f1ed3f6c298c.png",
     "website": "https://www.trylapis.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lapis is an AI growth assistant for marketing agencies.\r\n\r\nWe help businesses understand the full buyer journey from discovery to purchase on organic (Google and AI search) and paid media channels (Google, LinkedIn, Meta, TikTok).\r\n\r\nWe do this through a custom RL environment that's fine-tuned to capture a business' specific context.",
-    "one_liner": "AI Growth Assistant for Marketing Agencies",
+    "long_description": "Lapis is an AI growth marketer for startups.\r\n\r\nLapis' AI agents create ads, run marketing campaigns, write website content, and track web and LLM analytics so startups can get more customers.",
+    "one_liner": "AI Growth Marketer for Startups",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -47525,7 +47570,7 @@
     "former_names": [
       "AdDojo"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1c937f26cf2f7d07e3a562baef0a61677eff7cb.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b636d26f0f02158e31ac7e53e4854268351ec2d2.png",
     "website": "http://www.narrative-sports.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Narrative automates the creation and distribution of high-quality sports highlight videos for broadcasters, teams, and leagues.",
@@ -47535,10 +47580,10 @@
     "subindustry": "B2B -> Marketing",
     "launched_at": 1759338774,
     "tags": [
-      "Artificial Intelligence",
       "Sports Tech",
       "B2B",
-      "Video"
+      "Video",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
