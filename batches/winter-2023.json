@@ -1089,7 +1089,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5689,14 +5689,16 @@
   },
   {
     "id": 27898,
-    "name": "Forfeit",
-    "slug": "forfeit",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/40d61c99891f5b3d2b37f2827d94e52f65d27280.png",
-    "website": "https://www.forfeit.app/",
+    "name": "Overlord",
+    "slug": "overlord",
+    "former_names": [
+      "Forfeit"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6794908867671327914d0ac60da63f7da4549e15.png",
+    "website": "https://www.overlord.app/",
     "all_locations": "New York, NY, USA; Remote",
-    "long_description": "Say what you're going to do, when you're going to do it, and how much money you'll forfeit if you don't do it. Send photo or timelapse evidence of you completing the habit by the time you set, or we take your money.\r\n\r\nEg, I could set it to go to the gym (or meditate for 30 mins, or take a photo of a sent email, or of a max amount of calories on MyFitnessPal) tomorrow at 6am, or lose $30. If I don't send photo evidence in the gym (that we manually approve), I lose $30.",
-    "one_liner": "An app that takes your money if you don't complete your habits.",
+    "long_description": "Overlord knows everything about you (location, Mac data, health data, +dozens more), and can take actions (block Mac/iOS/Android, text/call you, text your friends, take your money) to force you to stay on track with your habits.",
+    "one_liner": "AI Accountability Partner",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer -> Home and Personal",
@@ -5727,10 +5729,10 @@
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/forfeit",
-    "api": "https://yc-oss.github.io/api/batches/winter-2023/forfeit.json"
+    "url": "https://www.ycombinator.com/companies/overlord",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/overlord.json"
   },
   {
     "id": 27899,
