@@ -2631,22 +2631,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7b80c521c36f8132868240eedba730602859b428.png",
     "website": "https://sf-tensor.com",
-    "all_locations": "San Francisco, CA, USA",
+    "all_locations": "",
     "long_description": "AI researchers should be pushing the boundaries of what's possible with new architectures and training methods. Instead, they waste weeks configuring cloud infrastructure, debugging distributed systems, and optimizing their GPU code. We know because we lived it: While training our own models across thousands of GPUs earlier this year, we spent more time fighting our infrastructure than doing actual research.\r\n\r\nThat why we're building two things. First, Elastic Cloud: a managed platform that automatically finds the cheapest GPUs across all providers, handles spot instance preemption, and cuts compute costs by up to 80%. Second, automatic kernel optimization that makes training code run faster by modeling hardware topology, often beating hand-tuned implementations.\r\n\r\nThe problem is that getting high performance across different hardware is genuinely hard. NVIDIA's CUDA moat exists because writing fast kernels requires deep expertise. Most teams either accept vendor lock-in or hire expensive kernel engineers. Our goal is to break the CUDA moat.\r\n\r\nThe compute bottleneck is the biggest constraint on AI progress. NVIDIA can't manufacture enough GPUs, and their monopoly keeps prices astronomical. Meanwhile, AMD, Google, and Amazon are shipping capable alternative hardware that nobody uses because the software is too hard. We're breaking that moat. If we succeed, anyone will be able to train state-of-the-art models without thinking past their PyTorch code.",
     "one_liner": "Infrastructure for AI labs to focus on research.",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1759869599,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "Open Source",
-      "Cloud Computing"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -2655,8 +2650,7 @@
       "Infrastructure"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -4796,7 +4790,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2a8caed7d0a490086d7e541276710ed25029450f.png",
     "website": "https://absurd.com/",
     "all_locations": "",
-    "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and we average 300K+ organic views across all videos. \r\n\r\nOur clients also include Replit, Whop, Reforge, Gumloop, Micro1, and a couple YC and HF0 startups. \r\n\r\nWe do this with a multi-agent orchestration layer to create production-quality videos in 72 hours. These agents collaborate with your team to plan and generate every scene on an interactive canvas. From the canvas, your team can watch shot renders come to life in real time — commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at absurd.com",
+    "long_description": "Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (\"Election Day\") did 1M+ views, and we average 300K+ organic views across all videos. \r\n\r\nOur clients also include Replit, Brex, Whop, Reforge, Gumloop, Micro1, and a couple YC and HF0 startups. \r\n\r\nWe do this with a multi-agent orchestration layer to create production-quality videos in 72 hours. These agents collaborate with your team to plan and generate every scene on an interactive canvas. From the canvas, your team can watch shot renders come to life in real time — commenting, iterating, or generating new ideas alongside the agents.\r\n\r\nTry it today at absurd.com",
     "one_liner": "AI Brand and Performance Ads at Scale",
     "team_size": 3,
     "industry": "B2B",
