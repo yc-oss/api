@@ -1093,6 +1093,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
   },
   {
+    "id": 31205,
+    "name": "Human Archive",
+    "slug": "human-archive",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88bf8a6692e5da320453a8e9ba77f0176ddd1256.png",
+    "website": "https://www.humanarchive.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re archiving the physical world for embodied intelligence by collecting and labeling aligned multimodal data. To build dexterous and perceptive robots that generalize robustly, we need massive amounts of real-world data across multiple modalities and environments.\r\n\r\nWe have thought deeply about the fine line between biomimicry and its application to humanoid systems. Based on this research, we design and deploy custom hardware across residential and manufacturing settings. We then process the resulting data through internal QA, anonymization, and annotation pipelines to deliver diverse, high-fidelity datasets at scale to frontier labs developing robotics foundation models and general-purpose robotics companies. \r\n\r\nWe believe we are at a historic inflection point, with a unique opportunity to leave a dent on humanity and reshape physical labor markets forever. That's why our team dropped out of Stanford and Berkeley and moved to Asia to collect the world’s largest annotated multimodal dataset. ",
+    "one_liner": "Multimodal data provider for robotics learning",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Manufacturing and Robotics",
+    "launched_at": 1767518366,
+    "tags": [
+      "Robotics",
+      "Data Labeling",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Manufacturing and Robotics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/human-archive",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/human-archive.json"
+  },
+  {
     "id": 31207,
     "name": "Caretta",
     "slug": "caretta",
@@ -1139,7 +1180,7 @@
     "name": "AxionOrbital Space",
     "slug": "axionorbital-space",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ff7ea0a2705181cece299bd5b340009989058d59.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/45756da0fcb8d428dd8a6d3aaccf624ef98863b9.png",
     "website": "https://axionorbital.space/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "AxionOrbital Space builds foundation models that enable continuous visibility through clouds and darkness. Legacy optical satellites are rendered useless 70% of the time by weather and night cycles, while Synthetic Aperture Radar (SAR) produces data that is unintelligible to humans and breaks standard vision pipelines.\r\n\r\nWe solve this by translating raw radar backscatter into analysis-ready optical imagery in real-time. Our proprietary architecture uses deterministic one-step diffusion to transform complex radar signals into clear, photorealistic images. This enables persistent, 24/7 situational awareness for defense, commodities trading, and disaster response, guaranteeing visibility even when the sky is blocked.",
