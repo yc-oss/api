@@ -14198,7 +14198,7 @@
     "all_locations": "North Vancouver, BC, Canada",
     "long_description": "IcePanel is a collaborative diagramming tool that helps software engineering and product teams align on technical decisions. Teams use IcePanel to create a map of their software systems, giving them full context about how it works.",
     "one_liner": "Design and explain complex software architecture.",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1669087724,
@@ -14211,7 +14211,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -14700,10 +14700,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -14712,7 +14712,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -22408,16 +22408,22 @@
     "former_names": [
       "PhotonIQ"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3ff2fd0b8e2a6e3d9320055214a0e22da17a8b8e.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f9f89a3e11065395408b656b79f12f0fd9868a1.png",
     "website": "https://www.photoniumoptics.com/",
     "all_locations": "",
-    "long_description": "Photonium automates optical system design. Think of us as Cadence or Synopsys chip design automation, but for optics instead of semiconductors. We handle the full design workflow—from optimization and verification to sourcing—for industries including quantum, biomedical imaging, LiDAR for autonomous vehicles and defense, and metrology for semiconductor fabrication.",
-    "one_liner": "AI-Driven Optical System Design",
+    "long_description": "Photonium is building software to automate optical system design. We supercharge optics experts with intelligent tooling to reduce costs and deliver faster. We handle the full design stack — from optimization, verification, sourcing, to prototyping — for AR/VR, quantum, biotech, metrology/chip fab, LiDAR, and more. ",
+    "one_liner": "AI-Powered Optical Consulting & Software",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1748388578,
-    "tags": [],
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Machine Learning",
+      "B2B",
+      "Manufacturing"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -22447,7 +22453,7 @@
       "Prism AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e38f7eee6195fcd30d32532805a6f85297a16925.png",
-    "website": "https://www.prismshorts.app/",
+    "website": "https://prismshorts.app/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "",
     "one_liner": "Short form video ads",
@@ -23956,19 +23962,14 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bac17a1edc08045fefbaf98ea25aab130faa01de.png",
     "website": "https://trycaddy.ai/",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "",
     "long_description": "We are building Siri for work, but it actually works. Caddy turns your voice into the next computing interface. It understands what’s on your screen and your intent, so work gets done while you stay in flow.\r\n\r\nSay “create a Linear ticket and share it to Slack” and Caddy handles it instantly in the background.\r\n\r\nCaddy’s founders previously led product and design for Loom’s AI suite and core products. We believe the next era of computing will be powered by voice, where computers understand what you say and what’s on your screen so work happens naturally.",
     "one_liner": "The voice interface that works proactively for you",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1761153567,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Workflow Automation",
-      "Productivity"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": false,
@@ -23980,8 +23981,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -24676,6 +24676,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/21st",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/21st.json"
+  },
+  {
+    "id": 31182,
+    "name": "Visibl Semiconductors",
+    "slug": "visibl-semiconductors",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e1e5043a0ffc6163892286ad2ffa62ff671b9be8.png",
+    "website": "https://visiblsemi.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Visibl is an on-prem AI platform that turns compute into chip design capacity.\r\n\r\nAs chips grow more complex, adding engineers yields diminishing returns — coordination costs rise while progress slows. The bottleneck is no longer ideas, but execution throughput.\r\n\r\nVisibl turns compute into a teammate. Our AI-native IDE ingests the full design context (code, specs, scripts, tool outputs) to decode ambiguous tool feedback into actionable steps. We validate changes and package decisions for review, resulting in safer changes, shorter iteration cycles, and fewer late surprises on the path to tapeout.",
+    "one_liner": "The AI IDE for chip design.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1767637338,
+    "tags": [
+      "Enterprise Software",
+      "Semiconductors",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/visibl-semiconductors",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/visibl-semiconductors.json"
   },
   {
     "id": 31215,

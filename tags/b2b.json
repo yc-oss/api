@@ -3750,7 +3750,7 @@
       "Fondo (was BloomJoy)"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f0b5fe4e91dafcccff1f484b17acd3b14006850.png",
-    "website": "http://tryfondo.com",
+    "website": "https://fondo.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Fondo is the easy way for startups to get their bookkeeping done, taxes filed, and cash back from the IRS (average startup gets $21k). We’ll optimize and file your taxes, and you’ll get cash back — up to $500k per year. Need more help? We’ll also do your bookkeeping, so you don’t have to worry about a thing.",
     "one_liner": "Bookkeeping, tax, & tax credits on autopilot for 1,000+ startups",
@@ -3759,10 +3759,10 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1580421990,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "SaaS",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -30754,7 +30754,7 @@
     "all_locations": "North Vancouver, BC, Canada",
     "long_description": "IcePanel is a collaborative diagramming tool that helps software engineering and product teams align on technical decisions. Teams use IcePanel to create a map of their software systems, giving them full context about how it works.",
     "one_liner": "Design and explain complex software architecture.",
-    "team_size": 6,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1669087724,
@@ -30767,7 +30767,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -32247,10 +32247,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Engineering, Product and Design"
@@ -32259,7 +32259,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -32912,7 +32912,7 @@
     "all_locations": "Paris, Île-de-France, France",
     "long_description": "HyLight builds and operates autonomous airships for long range monitoring. We focus on detecting methane leaks on pipelines and defects on power lines.\r\n\r\nOur innovation, the HyLighter, is a crossover between drone and airship technology. Like a drone, it is easily controllable and transportable. And, like an airship, it is extremely energy-efficient, enabling it to fly for up to 10 hours at slow speed (22mph) for optimal data collection which represents a range of 220miles. \r\n\r\nToday, energy infrastructure operators struggle with conducting inspections that are simultaneously: massive and precise. HyLight offers a solution to precisely detect issues on the infrastructure at an industrial scale, and all of this without emitting GHGs.\r\n\r\nWe are 3 co-founders experienced in hardware and energy companies with Masters in Mechanical Engineering, Computer Science and Business from the best Engineering and Business School in France.\r\n\r\nWe have developed 5 different flying aircrafts and signed 5 pilots programs with major energy infrastructure operators. We also have LOIs worth over $3.5M.",
     "one_liner": "Small unmanned hydrogen airships for long range monitoring",
-    "team_size": 9,
+    "team_size": 22,
     "industry": "Industrials",
     "subindustry": "Industrials -> Climate",
     "launched_at": 1687803555,
@@ -36676,11 +36676,11 @@
     "subindustry": "B2B -> Finance and Accounting",
     "launched_at": 1710174596,
     "tags": [
-      "Artificial Intelligence",
       "Fintech",
       "SaaS",
       "Finance",
-      "B2B"
+      "B2B",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -43311,6 +43311,50 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/clado.json"
   },
   {
+    "id": 30465,
+    "name": "Photonium",
+    "slug": "photonium",
+    "former_names": [
+      "PhotonIQ"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1f9f89a3e11065395408b656b79f12f0fd9868a1.png",
+    "website": "https://www.photoniumoptics.com/",
+    "all_locations": "",
+    "long_description": "Photonium is building software to automate optical system design. We supercharge optics experts with intelligent tooling to reduce costs and deliver faster. We handle the full design stack — from optimization, verification, sourcing, to prototyping — for AR/VR, quantum, biotech, metrology/chip fab, LiDAR, and more. ",
+    "one_liner": "AI-Powered Optical Consulting & Software",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1748388578,
+    "tags": [
+      "Hard Tech",
+      "Hardware",
+      "Machine Learning",
+      "B2B",
+      "Manufacturing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/photonium",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/photonium.json"
+  },
+  {
     "id": 30467,
     "name": "Opusense AI",
     "slug": "opusense-ai",
@@ -44483,7 +44527,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "The world's best AI video generator that turns your documents and/or prompts into whiteboard explainer videos. In addition, we have a similar product that generates podcast-style audio explainers from your documents/prompts. API access available for both video and conversational audio. Product of Red Tree Inc. Please reach out at founders@golpoai.com",
     "one_liner": "Most Powerful AI Video Gen Model for Explainer Videos From Documents",
-    "team_size": 2,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1753141974,
@@ -47182,7 +47226,7 @@
     "name": "Oxus",
     "slug": "oxus",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f351d3619398c94dd80df3c98165c32873b52035.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c5dc4c6090df4a19a92481a7d237d695670dda4a.png",
     "website": "https://oxus-ai.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Oxus is the AI-native platform modernizing internal audits. We turn hours of manual scoping, documentation, and control testing into review-ready outputs generated within minutes.\r\n \r\nWith Oxus, audit teams deliver more audits, faster.",
@@ -47192,10 +47236,10 @@
     "subindustry": "B2B",
     "launched_at": 1765688555,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Workflow Automation",
-      "Compliance",
-      "AI"
+      "Compliance"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -47395,7 +47439,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Aside listens to your sales calls and surfaces real-time answers pulled from your docs, HubSpot, or past calls. It's like pressing 𝚌𝚝𝚛𝚕+𝚟 on your company’s knowledge into every rep – so anyone can sound like your best rep.\r\n\r\n- 🔎 Shows answers from your docs, Slack, and past winning calls\r\n- 📝 Live coaching that catches what reps miss: Aside spots what reps skip during calls and guides every rep to apply your playbook - BANT, SPICED, or your own - not after, live.\r\n- 💬 Preload your cheatsheets as Live Cards: Turn your playbooks, FAQs, and notes into instant, in-call cards.\r\n- 🎓 Coaching feedback, remembered by AI: Aside reviews every call, gives feedback, and turns it into live suggestions for your next one - so you never repeat the same mistake.",
     "one_liner": "Live answer copilot for enterprise tech sales",
-    "team_size": 4,
+    "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
     "launched_at": 1760485553,
@@ -47731,50 +47775,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/jarmin",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/jarmin.json"
-  },
-  {
-    "id": 30975,
-    "name": "Castari",
-    "slug": "castari",
-    "former_names": [
-      "Castar"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b8f2a59336dfc904201981cfcd3455964d5be2.png",
-    "website": "https://castari.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Castari lets developers deploy AI agents in secure, autoscaling sandboxes with one command. We handle tool/MCP connectors, snapshots, and observability so teams go from prototype to production in hours instead of weeks.\r\n\r\nDevelopers focus on building agents, Castari provides the autoscaling sandbox infrastructure to ensure your agents and its tools are secure.",
-    "one_liner": "Vercel for AI Agents – Deploy sandboxed agents with MCP tools & skills",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1762394891,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B",
-      "Infrastructure"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/castari",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/castari.json"
   },
   {
     "id": 30982,
@@ -48517,8 +48517,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4a713774c85daa51c5353d80d0b599eae5069e05.png",
     "website": "https://veriad.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Veriad is an AI compliance officer for enterprises. Our agent analyzes documents, media, and processes against regulations, industry precedents, and internal policies - flagging what's compliant, what's not, and why. Rohan and Anton founded Veriad after building and selling internal compliance tools to Fortune 500 companies. ",
-    "one_liner": "AI compliance officer",
+    "long_description": "Veriad is building AI compliance officers for enterprises. Our agent analyze documents, media, and processes against regulations, industry precedents, and internal policies - flagging what's compliant, what's not, and why. Rohan and Anton founded Veriad after building and selling internal compliance tools to Fortune 500 companies.\r\n",
+    "one_liner": "AI compliance officers",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
