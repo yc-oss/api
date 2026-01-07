@@ -13089,7 +13089,7 @@
     "all_locations": "London, England, United Kingdom",
     "long_description": "Trigger.dev is the open source platform for building AI agents and workflows in TypeScript. Long-running tasks with retries, queues, full observability, and elastic scaling.\r\n\r\nPreviously, the founders built JSON Hero, an open source JSON viewer that is currently used by more than 35k developers a month. Eric was CTO of Code School, an early code learning platform that was acquired in 2015. Matt created two iPad apps that won Apple’s App of the Year.",
     "one_liner": "Build and deploy fully‑managed AI agents and workflows",
-    "team_size": 8,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1665673307,
@@ -13116,7 +13116,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14712,7 +14712,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19192,7 +19192,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -22961,51 +22961,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/traceroot-ai.json"
   },
   {
-    "id": 30620,
-    "name": "Ghostship",
-    "slug": "ghostship",
-    "former_names": [
-      "Playdo.ai"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1e6eeafade8c1d3cdb6545bb6e588d11a521444e.png",
-    "website": "https://tryghostship.dev/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Imagine a QA team of 5,000 testers available 24/7 on every new feature you ship. That's Ghostship. \r\n\r\nOur AI agents will crawl through your product and interact with it like users would to find the bugs (especially edge cases) that lead to churn—all at a fraction of the cost.",
-    "one_liner": "AI Agents that Find Bugs in Your Product",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1754285936,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "DevOps",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/ghostship",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/ghostship.json"
-  },
-  {
     "id": 30628,
     "name": "datafruit",
     "slug": "datafruit",
@@ -23963,7 +23918,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bac17a1edc08045fefbaf98ea25aab130faa01de.png",
     "website": "https://trycaddy.ai/",
     "all_locations": "",
-    "long_description": "We are building Siri for work, but it actually works. Caddy turns your voice into the next computing interface. It understands what’s on your screen and your intent, so work gets done while you stay in flow.\r\n\r\nSay “create a Linear ticket and share it to Slack” and Caddy handles it instantly in the background.\r\n\r\nCaddy’s founders previously led product and design for Loom’s AI suite and core products. We believe the next era of computing will be powered by voice, where computers understand what you say and what’s on your screen so work happens naturally.",
+    "long_description": "Caddy is the operating system that works proactively for you. It learns how you work and acts on your behalf, keeping work moving while your context and voice stay intact.\r\n\r\nInstead of producing generic AI output, Caddy creates real work artifacts that sound like you and fit how you actually work. Today, it operates across the tools you use every day, including email, calendar, Slack, Linear, and Notion.\r\n\r\nCaddy is built by the team behind Loom’s AI and core product. We believe the next era of computing is software that understands intent, handles ambiguous work, and quietly gets work done in the background.",
     "one_liner": "The voice interface that works proactively for you",
     "team_size": 3,
     "industry": "B2B",
@@ -23972,7 +23927,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2025",
     "status": "Active",
@@ -24802,5 +24757,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arzule",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/arzule.json"
+  },
+  {
+    "id": 31241,
+    "name": "Corelayer",
+    "slug": "corelayer",
+    "former_names": [
+      "Sevvy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
+    "website": "https://www.corelayer.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building AI agents that do on-call support for data-heavy industries like financial services and fintech, healthcare, and insurance.\r\n\r\nOn-call engineers in these industries need to query data to debug production issues. We monitor both data and infrastructure for anomalies and use AI agents to debug and suggest fixes for issues.\r\n\r\nData is especially sensitive in regulated industries, so we offer hardware-backed secure environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building large-scale data infrastructure together at Goldman Sachs.",
+    "one_liner": "AI on-call engineer that debugs using data",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1767713346,
+    "tags": [
+      "Developer Tools",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corelayer",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/corelayer.json"
   }
 ]
