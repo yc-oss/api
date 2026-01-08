@@ -1420,7 +1420,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -4261,7 +4261,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2020",
     "status": "Active",
@@ -10261,7 +10261,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11795,7 +11795,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19660,53 +19660,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/openmart.json"
   },
   {
-    "id": 29425,
-    "name": "Zep AI",
-    "slug": "zep-ai",
-    "former_names": [
-      "Zep Software",
-      "Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01c6d0585e8c71ae2a60d4a67e5c15a449165704.png",
-    "website": "https://www.getzep.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Build fast, accurate, and personalized agents with the only platform that systematically engineers relevant context from chat history and business data. Skip building complex personalization infrastructure, focus on your product instead.\r\n\r\nZep includes three core components:\r\n- Agent Memory - Transforms conversations, business data, & user interactions into a living knowledge graph that evolves with every interaction\r\n- Graph RAG - Connects your business data through relationships so agents retrieve relevant information in milliseconds, even as your data changes\r\n- Context Assembly - Combines memory and business data into optimized context for your LLM\r\n\r\nWhat you get:\r\n- Personalized Context Engineering - 100%+ accuracy improvements through temporal knowledge graphs that combine user memory with business data\r\n- Rapid Implementation - Deploy personalized agents in days using simple APIs, not months of infrastructure work\r\n- Enterprise-Ready Performance - 90% latency reduction with 98% token efficiency, plus SOC2 Type 2 and HIPAA compliance\r\n- Universal Integration - TypeScript, Python, and Go SDKs work with any LLM and framework including LangChain",
-    "one_liner": "Build Agents That Recall What Matters. End-to-End Context Engineering…",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1709681560,
-    "tags": [
-      "Developer Tools",
-      "Infrastructure",
-      "AI",
-      "Conversational AI",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zep-ai",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/zep-ai.json"
-  },
-  {
     "id": 29438,
     "name": "Spark",
     "slug": "spark",
@@ -21857,7 +21810,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -23691,51 +23644,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/pathpilot.json"
   },
   {
-    "id": 29987,
-    "name": "Syntra",
-    "slug": "syntra",
-    "former_names": [
-      "Lightning Medical"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
-    "website": "https://www.syntra.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Syntra delivers an agentic medical billing platform that automates chart review, claim review, and claim entry with AI. Our specialty-specific AI agents understand the clinical and payer nuances needed to run your RCM function autonomously. Syntra powers hundreds of specialty practices nationwide and processes over $1B in medical claim charges every year.\r\n\r\n",
-    "one_liner": "AI chart and charges auditor for speciality medical clinics",
-    "team_size": 6,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1723733582,
-    "tags": [
-      "Healthcare IT",
-      "Billing",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/syntra",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/syntra.json"
-  },
-  {
     "id": 29988,
     "name": "Delineate",
     "slug": "delineate",
@@ -25208,6 +25116,46 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/careforce.json"
   },
   {
+    "id": 30129,
+    "name": "HumanLayer",
+    "slug": "humanlayer",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7da261b740a4ae0fbccdb7818277d3243f8a1c8.png",
+    "website": "https://humanlayer.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "CodeLayer is an OSS IDE for managing coding agents, built with proven workflows to solve hard problems in complex codebases.",
+    "one_liner": "Getting AI Coding Agents to solve hard problems in complex codebases",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1727921167,
+    "tags": [
+      "Developer Tools",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/humanlayer",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/humanlayer.json"
+  },
+  {
     "id": 30179,
     "name": "Vetnio",
     "slug": "vetnio",
@@ -26232,7 +26180,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -29046,6 +28994,46 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/dedalus-labs.json"
   },
   {
+    "id": 30606,
+    "name": "Acrely",
+    "slug": "acrely",
+    "former_names": [
+      "Zetlkast"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/599629b9dce294f5621aeaf663b76424933bd820.png",
+    "website": "https://www.acrely.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Acrely enables enterprises to build and deploy enterprise-grade voice agents. With both cloud and on-prem offerings, Acrely empowers organizations to leverage AI for customer service, sales, operations, and more.",
+    "one_liner": "Enterprise Voice Agents",
+    "team_size": 6,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1752517197,
+    "tags": [
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/acrely",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/acrely.json"
+  },
+  {
     "id": 30613,
     "name": "Blank Bio",
     "slug": "blank-bio",
@@ -29820,17 +29808,17 @@
     "former_names": [
       "GroundDocs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/878412a3d9ba975b0a0a65bd2a45ed8e7067c94f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd794dace414f8acdb113022db360874e7706519.png",
     "website": "https://omnara.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Omnara is the command center for AI agents. We enable developers to launch AI agents like Claude Code on their laptop and then seamlessly continue working on mobile, freeing engineers from being desk-bound. With a growing community of users, Omnara is building the essential infrastructure for the era of AI agents.\r\n",
-    "one_liner": "The Command Center for AI Agents",
+    "long_description": "Omnara brings Claude Code to your phone. Start a coding session on your desktop, then seamlessly hand off to mobile and keep building whether you're commuting, traveling, or away from your desk. Code in local or remote environments with full context preservation across devices. Plus, use voice to code hands-free by having natural conversations with Omnara to build, debug, and ship from anywhere.\r\n",
+    "one_liner": "Mobile & Voice Interface for Claude Code",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753676392,
     "tags": [
-      "AIOps",
+      "Developer Tools",
       "AI",
       "AI Assistant"
     ],
@@ -29841,7 +29829,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -30156,6 +30145,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/locata",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/locata.json"
+  },
+  {
+    "id": 30756,
+    "name": "Notte",
+    "slug": "notte",
+    "former_names": [
+      "nottelabs",
+      "Nottelabs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63003c4a4bcce138151403c1e186fcebf3dfa34a.png",
+    "website": "https://www.notte.cc/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Nottelabs offers a platform to build and deploy enterprise-grade browser agents. We help companies cut costs and save time by automating repetitive tasks. Unlike others, we provide agents, tools, and infrastructure through a single API, making us the fastest path to reliable web AI agents in production.",
+    "one_liner": "Reliable Web Agents for Enterprise",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1752518156,
+    "tags": [
+      "Developer Tools",
+      "Automation",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/notte",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/notte.json"
   },
   {
     "id": 30759,
@@ -32643,7 +32675,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27852a72a2c3864e7f9b2c7273ec39951f3e8d68.png",
     "website": "https://rivet.design/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rivet is a visual AI editor for product designers to make UI changes.  Designers ship the changes they make directly to their codebase. \r\n\r\nThe most painful problem for designers today is that their vision doesn't match code.  Rivet replaces slow collaboration between designers and engineers by letting designers just do it themselves. Rivet's editor helps turn product designers into design engineers.\r\n \r\nDesign-led companies in YC F25 are Rivet customers.\r\n\r\nLearn more at rivet.design",
+    "long_description": "Rivet is a visual AI editor for product designers to make UI changes.  Designers ship the changes they make directly to their codebase. \r\n\r\nThe most painful problem for designers today is that their vision doesn't match code.  Rivet replaces slow collaboration between designers and engineers by letting designers just do it themselves. Rivet's editor helps turn product designers into design engineers.\r\n \r\nDesign-led companies in YC are Rivet customers.\r\n\r\nLearn more at rivet.design",
     "one_liner": "Visual editor to design in production code",
     "team_size": null,
     "industry": "B2B",
@@ -33068,7 +33100,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/507992dfdd26c7120b018a48e02b63f2dbff68b3.png",
     "website": "https://constellation-io.com/",
     "all_locations": "Seattle, WA, USA",
-    "long_description": "ConstellationOS uses environmental and antenna telemetry to predict satellite link failures before they happen. By shifting ground stations from reactive emergency handoffs to proactive scheduling, we eliminate manual overhead and the high cost of data loss for satellite operators.",
+    "long_description": "ConstellationOS uses environmental and antenna telemetry to predict satellite link failures before they happen. By shifting ground stations from reactive emergency handoffs to proactive scheduling, we eliminate manual overhead and the high cost of data loss for spacecraft operators.",
     "one_liner": "AI for satellite mission assurance.",
     "team_size": 4,
     "industry": "B2B",
@@ -33143,48 +33175,5 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/o11",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
-  },
-  {
-    "id": 31241,
-    "name": "Corelayer",
-    "slug": "corelayer",
-    "former_names": [
-      "Sevvy"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
-    "website": "https://www.corelayer.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building AI agents that do on-call support for data-heavy industries like financial services and fintech, healthcare, and insurance.\r\n\r\nOn-call engineers in these industries need to query data to debug production issues. We monitor both data and infrastructure for anomalies and use AI agents to debug and suggest fixes for issues.\r\n\r\nData is especially sensitive in regulated industries, so we offer hardware-backed secure environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building large-scale data infrastructure together at Goldman Sachs.",
-    "one_liner": "AI on-call engineer that debugs using data",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1767713346,
-    "tags": [
-      "Developer Tools",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/corelayer",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/corelayer.json"
   }
 ]

@@ -2861,7 +2861,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -3509,7 +3509,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2018",
     "status": "Active",
@@ -6613,7 +6613,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9382,20 +9382,21 @@
   },
   {
     "id": 24395,
-    "name": "Pod AI",
-    "slug": "pod-ai",
+    "name": "Paperbook",
+    "slug": "paperbook",
     "former_names": [
       "Goodseed",
       "Invezo",
       "Multibase",
       "Update",
-      "Pod"
+      "Pod",
+      "Pod AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddceed80a342502cfc2fa717821aabc8680d889f.png",
-    "website": "https://callpod.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aeb0b93729cedfebdf93df84ed65027afb41f806.png",
+    "website": "https://paperbook.io",
     "all_locations": "New York, NY, USA",
-    "long_description": "Pod is your round-the-clock team of AI agents for customer service. They pick up every call instantly, talk to customers like real people, answer common questions, place orders or appointments, and hand off the tricky stuff to a live rep—no phone trees, no hold music. Because they plug straight into your CRM and scheduling tools, your customers get fast, human-sounding help while your staff stays focused on the conversations that truly need them.",
-    "one_liner": "AI Phone Agents for Customer Support",
+    "long_description": "Paperbook is the intelligent platform that continuously audits, cleans, and maintains your knowledge base by detecting outdated content, inconsistencies, and structural issues before they impact customers or support teams.",
+    "one_liner": "Intelligent knowledge base platform",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -9424,8 +9425,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pod-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/pod-ai.json"
+    "url": "https://www.ycombinator.com/companies/paperbook",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/paperbook.json"
   },
   {
     "id": 24476,
@@ -14415,11 +14416,11 @@
       "Stack AI"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f0b69f56464fb22aa0805117c2f93c2b32f1c717.png",
-    "website": "https://www.stack.ai",
+    "website": "https://www.stack-ai.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "With Stack AI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\r\nHundreds of companies use Stack AI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
-    "one_liner": "AI Agents for the Enterprise",
-    "team_size": 29,
+    "long_description": "With StackAI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\r\nHundreds of companies use StackAI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
+    "one_liner": "The Enterprise AI Transformation Platform",
+    "team_size": 55,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1673634480,
@@ -14439,9 +14440,7 @@
     ],
     "regions": [
       "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
+      "America / Canada"
     ],
     "stage": "Growth",
     "app_video_public": false,
@@ -18539,7 +18538,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2023",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Legal"
@@ -22953,6 +22952,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/openmart",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/openmart.json"
+  },
+  {
+    "id": 29425,
+    "name": "Zep AI",
+    "slug": "zep-ai",
+    "former_names": [
+      "Zep Software",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01c6d0585e8c71ae2a60d4a67e5c15a449165704.png",
+    "website": "https://www.getzep.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zep assembles the right context from chat history, business data, and user behavior so agents are personalized, accurate, and fast. Our open source project Graphiti hit 20k GitHub stars in under 12 months. Sub-200ms retrieval, SOC 2 Type 2/HIPAA certified, used by teams from startups to Fortune 500s.",
+    "one_liner": "Agent Context Is Hard. We Fixed It.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1709681560,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Infrastructure",
+      "Conversational AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zep-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/zep-ai.json"
   },
   {
     "id": 29432,
@@ -27617,6 +27663,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/affil-ai.json"
   },
   {
+    "id": 29987,
+    "name": "Syntra",
+    "slug": "syntra",
+    "former_names": [
+      "Lightning Medical"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a6d299272e28e28fc0eef5034541be246b698d0b.png",
+    "website": "https://www.syntra.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Syntra delivers an agentic medical billing platform that automates chart review, claim review, and claim entry with AI. Our specialty-specific AI agents understand the clinical and payer nuances needed to run your RCM function autonomously. Syntra powers hundreds of specialty practices nationwide and processes over $1B in medical claim charges every year.\r\n\r\n",
+    "one_liner": "AI chart and charges auditor for speciality medical clinics",
+    "team_size": 6,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1723733582,
+    "tags": [
+      "Artificial Intelligence",
+      "Healthcare IT",
+      "Billing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/syntra",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/syntra.json"
+  },
+  {
     "id": 29989,
     "name": "Conductor",
     "slug": "conductor",
@@ -28622,46 +28713,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/friday",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/friday.json"
-  },
-  {
-    "id": 30129,
-    "name": "HumanLayer",
-    "slug": "humanlayer",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a7da261b740a4ae0fbccdb7818277d3243f8a1c8.png",
-    "website": "https://humanlayer.dev",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "CodeLayer is an OSS IDE for managing coding agents, built with proven workflows to solve hard problems in complex codebases.",
-    "one_liner": "Getting AI Coding Agents to solve hard problems in complex codebases",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1727921167,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/humanlayer",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/humanlayer.json"
   },
   {
     "id": 30160,
@@ -29950,7 +30001,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -30449,7 +30500,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -31297,51 +31348,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/the-llm-data-company",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/the-llm-data-company.json"
-  },
-  {
-    "id": 30458,
-    "name": "Jeevy Fabrication",
-    "slug": "jeevy-fabrication",
-    "former_names": [
-      "Jeevy Data",
-      "Jeevy Automation"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eac311ec272dd9a9d05d85595f54625e24114fe0.png",
-    "website": "https://www.jeevyfabrication.com/",
-    "all_locations": "Cocoa, FL, USA",
-    "long_description": "Jeevy Fabrication is an AI-powered contractor that connects complex weld jobs to the best-fit shops—fast. We deliver top-tier QA and total transparency, all at better traditional outsourced pricing.\r\n\r\nOur software reduces bid and scheduling time for our in-network shops by over 80%. It converts manufacturing drawings into an accurate bill of materials and a resource-loaded, high-fidelity schedule—eliminating costly errors and rework. Using this our in-network fabricators can bid on more jobs and deliver more reliable results than their competitors. \r\n\r\nWe also offer our clients a streamlined purchasing and project tracking experience. Clients submit purchase requests, track schedules, access key documents, and receive real-time photo updates—all in one place. We provide traceability for easy material review and maintenance of domestic content standards as required. Faster decisions, fewer delays, complete visibility. ",
-    "one_liner": "AI Driven EPC - Weld Fabrication Contractor",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1746772622,
-    "tags": [
-      "Artificial Intelligence",
-      "Manufacturing",
-      "Aerospace",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/jeevy-fabrication",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/jeevy-fabrication.json"
   },
   {
     "id": 30463,
@@ -32802,46 +32808,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/closera",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/closera.json"
-  },
-  {
-    "id": 30606,
-    "name": "Acrely",
-    "slug": "acrely",
-    "former_names": [
-      "Zetlkast"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/599629b9dce294f5621aeaf663b76424933bd820.png",
-    "website": "https://www.acrely.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Acrely enables enterprises to build and deploy enterprise-grade voice agents. With both cloud and on-prem offerings, Acrely empowers organizations to leverage AI for customer service, sales, operations, and more.",
-    "one_liner": "Enterprise Voice Agents",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1752517197,
-    "tags": [
-      "Artificial Intelligence"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/acrely",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/acrely.json"
   },
   {
     "id": 30612,
@@ -34879,48 +34845,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pally",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pally.json"
-  },
-  {
-    "id": 30756,
-    "name": "Nottelabs",
-    "slug": "nottelabs",
-    "former_names": [
-      "nottelabs"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63003c4a4bcce138151403c1e186fcebf3dfa34a.png",
-    "website": "https://www.notte.cc/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Nottelabs offers a platform to build and deploy enterprise-grade browser agents. We help companies cut costs and save time by automating repetitive tasks. Unlike others, we provide agents, tools, and infrastructure through a single API, making us the fastest path to reliable web AI agents in production.",
-    "one_liner": "Reliable Web Agents for Enterprise",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1752518156,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nottelabs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/nottelabs.json"
   },
   {
     "id": 30759,
@@ -37540,7 +37464,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27852a72a2c3864e7f9b2c7273ec39951f3e8d68.png",
     "website": "https://rivet.design/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rivet is a visual AI editor for product designers to make UI changes.  Designers ship the changes they make directly to their codebase. \r\n\r\nThe most painful problem for designers today is that their vision doesn't match code.  Rivet replaces slow collaboration between designers and engineers by letting designers just do it themselves. Rivet's editor helps turn product designers into design engineers.\r\n \r\nDesign-led companies in YC F25 are Rivet customers.\r\n\r\nLearn more at rivet.design",
+    "long_description": "Rivet is a visual AI editor for product designers to make UI changes.  Designers ship the changes they make directly to their codebase. \r\n\r\nThe most painful problem for designers today is that their vision doesn't match code.  Rivet replaces slow collaboration between designers and engineers by letting designers just do it themselves. Rivet's editor helps turn product designers into design engineers.\r\n \r\nDesign-led companies in YC are Rivet customers.\r\n\r\nLearn more at rivet.design",
     "one_liner": "Visual editor to design in production code",
     "team_size": null,
     "industry": "B2B",
@@ -38039,5 +37963,88 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/arzule",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/arzule.json"
+  },
+  {
+    "id": 31227,
+    "name": "Sequence Markets",
+    "slug": "sequence-markets",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/564c0c8ad6b1cf6c6c24454e941feb323039e055.png",
+    "website": "https://sequencemkts.com/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Sequence Markets builds execution technology for digital-asset markets. Our platform improves trade routing across venues and helps institutions and active investors access better pricing, lower slippage and more reliable execution.\r\n\r\nWe operate as a fully non-custodial technology provider and integrate with existing brokers, exchanges and custodial platforms.\r\n",
+    "one_liner": "Smarter and faster trade execution for digital assets",
+    "team_size": 5,
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "launched_at": 1767826402,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Cryptocurrency"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Fintech"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sequence-markets",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sequence-markets.json"
+  },
+  {
+    "id": 31241,
+    "name": "Corelayer",
+    "slug": "corelayer",
+    "former_names": [
+      "Sevvy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
+    "website": "https://www.corelayer.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building AI agents that do on-call support for data-heavy industries like financial services and fintech, healthcare, and insurance.\r\n\r\nOn-call engineers in these industries need to query data to debug production issues. We monitor both data and infrastructure for anomalies and use AI agents to debug and suggest fixes for issues.\r\n\r\nData is especially sensitive in regulated industries, so we offer hardware-backed secure environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building large-scale data infrastructure together at Goldman Sachs.",
+    "one_liner": "AI on-call engineer that debugs using data",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1767713346,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Enterprise Software"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corelayer",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/corelayer.json"
   }
 ]

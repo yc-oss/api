@@ -6571,7 +6571,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -13116,7 +13116,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19732,7 +19732,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Helium is building self-improving software — AI that continuously experiments on key moments in the user funnel to boost revenue. Our first customer, a social app with 20M MAU, uses Helium to test new in-app paywalls to get more users to subscribe. \r\n\r\nZach previously made $100M+ in growth experiments at Uber, Shishir led the first LLM features for Alexa, and Anish worked at Meta building ML to automatically experiment on ads, increasing Instagram ads conversion by 10%. ",
     "one_liner": "Self Improving Software",
-    "team_size": 4,
+    "team_size": 7,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1722968896,
@@ -20800,8 +20800,8 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1727921167,
     "tags": [
-      "Artificial Intelligence",
-      "Developer Tools"
+      "Developer Tools",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -22366,22 +22366,17 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eac311ec272dd9a9d05d85595f54625e24114fe0.png",
     "website": "https://www.jeevyfabrication.com/",
-    "all_locations": "Cocoa, FL, USA",
+    "all_locations": "",
     "long_description": "Jeevy Fabrication is an AI-powered contractor that connects complex weld jobs to the best-fit shops—fast. We deliver top-tier QA and total transparency, all at better traditional outsourced pricing.\r\n\r\nOur software reduces bid and scheduling time for our in-network shops by over 80%. It converts manufacturing drawings into an accurate bill of materials and a resource-loaded, high-fidelity schedule—eliminating costly errors and rework. Using this our in-network fabricators can bid on more jobs and deliver more reliable results than their competitors. \r\n\r\nWe also offer our clients a streamlined purchasing and project tracking experience. Clients submit purchase requests, track schedules, access key documents, and receive real-time photo updates—all in one place. We provide traceability for easy material review and maintenance of domestic content standards as required. Faster decisions, fewer delays, complete visibility. ",
     "one_liner": "AI Driven EPC - Weld Fabrication Contractor",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1746772622,
-    "tags": [
-      "Artificial Intelligence",
-      "Manufacturing",
-      "Aerospace",
-      "AI Assistant"
-    ],
+    "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Spring 2025",
     "status": "Active",
@@ -22390,8 +22385,7 @@
       "Engineering, Product and Design"
     ],
     "regions": [
-      "United States of America",
-      "America / Canada"
+      "Unspecified"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -23456,6 +23450,49 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/autosana.json"
   },
   {
+    "id": 30722,
+    "name": "Omnara",
+    "slug": "omnara",
+    "former_names": [
+      "GroundDocs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd794dace414f8acdb113022db360874e7706519.png",
+    "website": "https://omnara.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Omnara brings Claude Code to your phone. Start a coding session on your desktop, then seamlessly hand off to mobile and keep building whether you're commuting, traveling, or away from your desk. Code in local or remote environments with full context preservation across devices. Plus, use voice to code hands-free by having natural conversations with Omnara to build, debug, and ship from anywhere.\r\n",
+    "one_liner": "Mobile & Voice Interface for Claude Code",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1753676392,
+    "tags": [
+      "Developer Tools",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/omnara",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/omnara.json"
+  },
+  {
     "id": 30729,
     "name": "Floot",
     "slug": "floot",
@@ -24432,7 +24469,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/27852a72a2c3864e7f9b2c7273ec39951f3e8d68.png",
     "website": "https://rivet.design/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Rivet is a visual AI editor for product designers to make UI changes.  Designers ship the changes they make directly to their codebase. \r\n\r\nThe most painful problem for designers today is that their vision doesn't match code.  Rivet replaces slow collaboration between designers and engineers by letting designers just do it themselves. Rivet's editor helps turn product designers into design engineers.\r\n \r\nDesign-led companies in YC F25 are Rivet customers.\r\n\r\nLearn more at rivet.design",
+    "long_description": "Rivet is a visual AI editor for product designers to make UI changes.  Designers ship the changes they make directly to their codebase. \r\n\r\nThe most painful problem for designers today is that their vision doesn't match code.  Rivet replaces slow collaboration between designers and engineers by letting designers just do it themselves. Rivet's editor helps turn product designers into design engineers.\r\n \r\nDesign-led companies in YC are Rivet customers.\r\n\r\nLearn more at rivet.design",
     "one_liner": "Visual editor to design in production code",
     "team_size": null,
     "industry": "B2B",
@@ -24775,9 +24812,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1767713346,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,

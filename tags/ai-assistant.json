@@ -723,7 +723,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2020",
     "status": "Active",
@@ -1122,20 +1122,21 @@
   },
   {
     "id": 24395,
-    "name": "Pod AI",
-    "slug": "pod-ai",
+    "name": "Paperbook",
+    "slug": "paperbook",
     "former_names": [
       "Goodseed",
       "Invezo",
       "Multibase",
       "Update",
-      "Pod"
+      "Pod",
+      "Pod AI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ddceed80a342502cfc2fa717821aabc8680d889f.png",
-    "website": "https://callpod.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aeb0b93729cedfebdf93df84ed65027afb41f806.png",
+    "website": "https://paperbook.io",
     "all_locations": "New York, NY, USA",
-    "long_description": "Pod is your round-the-clock team of AI agents for customer service. They pick up every call instantly, talk to customers like real people, answer common questions, place orders or appointments, and hand off the tricky stuff to a live rep—no phone trees, no hold music. Because they plug straight into your CRM and scheduling tools, your customers get fast, human-sounding help while your staff stays focused on the conversations that truly need them.",
-    "one_liner": "AI Phone Agents for Customer Support",
+    "long_description": "Paperbook is the intelligent platform that continuously audits, cleans, and maintains your knowledge base by detecting outdated content, inconsistencies, and structural issues before they impact customers or support teams.",
+    "one_liner": "Intelligent knowledge base platform",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -1164,8 +1165,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pod-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/pod-ai.json"
+    "url": "https://www.ycombinator.com/companies/paperbook",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/paperbook.json"
   },
   {
     "id": 24408,
@@ -4254,22 +4255,22 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01c6d0585e8c71ae2a60d4a67e5c15a449165704.png",
     "website": "https://www.getzep.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Build fast, accurate, and personalized agents with the only platform that systematically engineers relevant context from chat history and business data. Skip building complex personalization infrastructure, focus on your product instead.\r\n\r\nZep includes three core components:\r\n- Agent Memory - Transforms conversations, business data, & user interactions into a living knowledge graph that evolves with every interaction\r\n- Graph RAG - Connects your business data through relationships so agents retrieve relevant information in milliseconds, even as your data changes\r\n- Context Assembly - Combines memory and business data into optimized context for your LLM\r\n\r\nWhat you get:\r\n- Personalized Context Engineering - 100%+ accuracy improvements through temporal knowledge graphs that combine user memory with business data\r\n- Rapid Implementation - Deploy personalized agents in days using simple APIs, not months of infrastructure work\r\n- Enterprise-Ready Performance - 90% latency reduction with 98% token efficiency, plus SOC2 Type 2 and HIPAA compliance\r\n- Universal Integration - TypeScript, Python, and Go SDKs work with any LLM and framework including LangChain",
-    "one_liner": "Build Agents That Recall What Matters. End-to-End Context Engineering…",
+    "long_description": "Zep assembles the right context from chat history, business data, and user behavior so agents are personalized, accurate, and fast. Our open source project Graphiti hit 20k GitHub stars in under 12 months. Sub-200ms retrieval, SOC 2 Type 2/HIPAA certified, used by teams from startups to Fortune 500s.",
+    "one_liner": "Agent Context Is Hard. We Fixed It.",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1709681560,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Infrastructure",
-      "AI",
       "Conversational AI",
       "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -5822,51 +5823,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/kanava-ai.json"
   },
   {
-    "id": 30458,
-    "name": "Jeevy Fabrication",
-    "slug": "jeevy-fabrication",
-    "former_names": [
-      "Jeevy Data",
-      "Jeevy Automation"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eac311ec272dd9a9d05d85595f54625e24114fe0.png",
-    "website": "https://www.jeevyfabrication.com/",
-    "all_locations": "Cocoa, FL, USA",
-    "long_description": "Jeevy Fabrication is an AI-powered contractor that connects complex weld jobs to the best-fit shops—fast. We deliver top-tier QA and total transparency, all at better traditional outsourced pricing.\r\n\r\nOur software reduces bid and scheduling time for our in-network shops by over 80%. It converts manufacturing drawings into an accurate bill of materials and a resource-loaded, high-fidelity schedule—eliminating costly errors and rework. Using this our in-network fabricators can bid on more jobs and deliver more reliable results than their competitors. \r\n\r\nWe also offer our clients a streamlined purchasing and project tracking experience. Clients submit purchase requests, track schedules, access key documents, and receive real-time photo updates—all in one place. We provide traceability for easy material review and maintenance of domestic content standards as required. Faster decisions, fewer delays, complete visibility. ",
-    "one_liner": "AI Driven EPC - Weld Fabrication Contractor",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1746772622,
-    "tags": [
-      "Artificial Intelligence",
-      "Manufacturing",
-      "Aerospace",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/jeevy-fabrication",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/jeevy-fabrication.json"
-  },
-  {
     "id": 30480,
     "name": "Flott HQ",
     "slug": "flott-hq",
@@ -6349,17 +6305,17 @@
     "former_names": [
       "GroundDocs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/878412a3d9ba975b0a0a65bd2a45ed8e7067c94f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd794dace414f8acdb113022db360874e7706519.png",
     "website": "https://omnara.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Omnara is the command center for AI agents. We enable developers to launch AI agents like Claude Code on their laptop and then seamlessly continue working on mobile, freeing engineers from being desk-bound. With a growing community of users, Omnara is building the essential infrastructure for the era of AI agents.\r\n",
-    "one_liner": "The Command Center for AI Agents",
+    "long_description": "Omnara brings Claude Code to your phone. Start a coding session on your desktop, then seamlessly hand off to mobile and keep building whether you're commuting, traveling, or away from your desk. Code in local or remote environments with full context preservation across devices. Plus, use voice to code hands-free by having natural conversations with Omnara to build, debug, and ship from anywhere.\r\n",
+    "one_liner": "Mobile & Voice Interface for Claude Code",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753676392,
     "tags": [
-      "AIOps",
+      "Developer Tools",
       "AI",
       "AI Assistant"
     ],
@@ -6370,7 +6326,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",

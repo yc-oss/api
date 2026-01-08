@@ -677,12 +677,12 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Acrely enables enterprises to build and deploy enterprise-grade voice agents. With both cloud and on-prem offerings, Acrely empowers organizations to leverage AI for customer service, sales, operations, and more.",
     "one_liner": "Enterprise Voice Agents",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752517197,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4058,7 +4058,7 @@
     "tags": [],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -4453,17 +4453,17 @@
     "former_names": [
       "GroundDocs"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/878412a3d9ba975b0a0a65bd2a45ed8e7067c94f.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd794dace414f8acdb113022db360874e7706519.png",
     "website": "https://omnara.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Omnara is the command center for AI agents. We enable developers to launch AI agents like Claude Code on their laptop and then seamlessly continue working on mobile, freeing engineers from being desk-bound. With a growing community of users, Omnara is building the essential infrastructure for the era of AI agents.\r\n",
-    "one_liner": "The Command Center for AI Agents",
+    "long_description": "Omnara brings Claude Code to your phone. Start a coding session on your desktop, then seamlessly hand off to mobile and keep building whether you're commuting, traveling, or away from your desk. Code in local or remote environments with full context preservation across devices. Plus, use voice to code hands-free by having natural conversations with Omnara to build, debug, and ship from anywhere.\r\n",
+    "one_liner": "Mobile & Voice Interface for Claude Code",
     "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1753676392,
     "tags": [
-      "AIOps",
+      "Developer Tools",
       "AI",
       "AI Assistant"
     ],
@@ -4474,7 +4474,8 @@
     "batch": "Summer 2025",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Engineering, Product and Design"
     ],
     "regions": [
       "United States of America",
@@ -5380,10 +5381,11 @@
   },
   {
     "id": 30756,
-    "name": "Nottelabs",
-    "slug": "nottelabs",
+    "name": "Notte",
+    "slug": "notte",
     "former_names": [
-      "nottelabs"
+      "nottelabs",
+      "Nottelabs"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/63003c4a4bcce138151403c1e186fcebf3dfa34a.png",
     "website": "https://www.notte.cc/",
@@ -5395,9 +5397,9 @@
     "subindustry": "B2B",
     "launched_at": 1752518156,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Automation"
+      "Automation",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5417,8 +5419,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/nottelabs",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/nottelabs.json"
+    "url": "https://www.ycombinator.com/companies/notte",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/notte.json"
   },
   {
     "id": 30758,
@@ -5890,7 +5892,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9c6be0818283f49c20fc921c3bc7db67bfb60bf5.png",
     "website": "https://www.magnetictax.com",
     "all_locations": "",
-    "long_description": "Magnetic scans client documents - from handwritten charity notes to excel spreadsheet Schedule Cs to multi-state K-1s - and enters them into tax software automatically, saving hours of tedious data entry. \r\n\r\nThe accounting profession is facing a massive talent shortage, as graduates choose different professions and the old guard begins to retire. As a result, CPA and tax preparation firms are awash in clientele, but unable to keep up. At many firms, phones go unanswered, clients are \"fired\", and websites are taken down, as the existing workforce tries to handle the grueling 80 hour+ weeks necessary to push through tax season to the April 15th deadline.\r\n\r\nWe built this because a former colleague who owns her own tax firm asked us to automate her workload, and we quickly realized the massive opportunity. Thomas brings deep domain expertise as the former Head of Product at Keeper (YC W19), where he built tax engine automation systems and an OCR form scanning system that outperformed everything else on the market. At Keeper, he leveraged early access to OpenAI's LLMs (well before ChatGPT) to build systems that automated the entire tax filing process, allowing a tiny team of CPAs to process thousands of returns with near zero busy work. Patrick was the first engineer at FunCraft, shipping multiple mobile games with 1M+ downloads and building scalable shared codebases. We've worked together since 2017, including co-leading multiple teams at Zynga as PM & Tech Lead respectively.\r\n\r\nWe launched this year in the middle of tax season and quickly processed hundreds of returns, earning thousands in ARR, and since tax season we've been growing customers by >30% month-over-month. We've completely automated over 25% of the return process so far and developed a proprietary vision model that beats incumbent scanning technology by almost 2x on accuracy - jumping from 50% field-level accuracy to 89%, approaching the quality of their expensive human-verified service at 92%.\r\n\r\nThe opportunity is massive - there are 80M US personal tax returns filed via professionals annually, in a $2B outsourcing market where individual CPA firms currently pay $100k-$1M per year for inferior services. We're positioned to capture significant market share by offering better accuracy & document coverage, instant processing, and superior user experience.\r\n\r\nWe've built this kind of software before, we've worked together for years (and even lived together), we've built products to $10M ARR before, and we have the grit to outwork anyone in this space.",
+    "long_description": "Magnetic scans client documents - from handwritten charity notes to excel spreadsheet Schedule Cs to multi-state K-1s - and enters them into tax software automatically, saving hours of tedious data entry. \r\n\r\nThe accounting profession is facing a massive talent shortage, as graduates choose different professions and the old guard begins to retire. As a result, CPA and tax preparation firms are awash in clientele, but unable to keep up. At many firms, phones go unanswered, clients are \"fired\", and websites are taken down, as the existing workforce tries to handle the grueling 80 hour+ weeks necessary to push through tax season to the April 15th deadline.\r\n\r\nWe built this because a former colleague who owns her own tax firm asked us to automate her workload, and we quickly realized the massive opportunity. Thomas brings deep domain expertise as the former Head of Product at Keeper (YC W19), where he built tax engine automation systems and an OCR form scanning system that outperformed everything else on the market. At Keeper, he leveraged early access to OpenAI's LLMs (well before ChatGPT) to build systems that automated the entire tax filing process, allowing a tiny team of CPAs to process thousands of returns with near zero busy work. Patrick was the first engineer at FunCraft, shipping multiple mobile games with 1M+ downloads and building scalable shared codebases. We've worked together since 2017, including co-leading multiple teams at Zynga as PM & Tech Lead respectively.\r\n\r\nThe opportunity is massive - there are 80M US personal tax returns filed via professionals annually, in a $2B outsourcing market where individual CPA firms currently pay $100k-$1M per year for inferior services. We're positioned to capture significant market share by offering better accuracy & document coverage, instant processing, and superior user experience.\r\n\r\nWe've built this kind of software before, we've worked together for years (and even lived together), we've built products to $10M ARR before, and we have the grit to outwork anyone in this space.",
     "one_liner": "AI Tax Preparer for CPA firms",
     "team_size": 2,
     "industry": "B2B",
