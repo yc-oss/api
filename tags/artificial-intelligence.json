@@ -2861,7 +2861,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6613,7 +6613,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -8409,6 +8409,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/legion-health",
     "api": "https://yc-oss.github.io/api/batches/summer-2021/legion-health.json"
+  },
+  {
+    "id": 23954,
+    "name": "Serif Health",
+    "slug": "serif-health",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e3b6e17c1858f320778e38ff8fee6dda1399834.png",
+    "website": "https://www.serifhealth.com",
+    "all_locations": "Los Angeles, CA, USA; Remote",
+    "long_description": "At Serif Health, we are taking the complexity out of the cost of healthcare. Our mission is to make healthcare pricing and contracting more transparent, easier to understand, fairer, and ultimately more affordable for all. New price transparency regulations have made a wealth of healthcare pricing and reimbursement data publicly available for the first time, but it is still extremely hard to ingest, organize, and actually use this data to understand the cost of care. That’s where we come in. Serif Health is building healthcare price intelligence data products and APIs to power the future of more transparent healthcare.\r\n\r\nWe are an early-stage, venture-backed startup with a small, collaborative team of healthcare experts, engineers, and designers. We are excited to add new team members motivated by our mission, passionate about making a difference in healthcare, and looking forward to learning and growing from the challenges we will face along the way!",
+    "one_liner": "Healthcare Price Transparency APIs and Data Products",
+    "team_size": 15,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare Services",
+    "launched_at": 1646347894,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Analytics",
+      "Healthcare",
+      "API"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2022",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare Services"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/serif-health",
+    "api": "https://yc-oss.github.io/api/batches/winter-2022/serif-health.json"
   },
   {
     "id": 23958,
@@ -14796,7 +14841,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -16553,6 +16598,94 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/rex-fit",
     "api": "https://yc-oss.github.io/api/batches/winter-2023/rex-fit.json"
+  },
+  {
+    "id": 28175,
+    "name": "Pier",
+    "slug": "pier",
+    "former_names": [
+      "Pier Fin",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eb10300785960d3b48dfff648ae5ee0f8ba40cfc.png",
+    "website": "http://www.pier-finance.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building an API for launching credit products. We enable companies to compliantly offer credit by handling the tech stack for origination, underwriting and loan management with just a few lines of code. We have built-in compliance guardrails to ensure that our customers comply with state and federal regulations and assist with licensing requirements and license management. ",
+    "one_liner": "Stripe for Credit - Trusted Credit Compliance Partner",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1673342537,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "Compliance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/pier",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/pier.json"
+  },
+  {
+    "id": 28183,
+    "name": "Metal",
+    "slug": "metal",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bdcc8475801e999a95ad750970c80614d23f5c4.png",
+    "website": "https://metal.ai/",
+    "all_locations": "New York, NY, USA",
+    "long_description": "Metal is building the world’s most powerful intelligence platform for private market investors. We support deal teams throughout the investment lifecycle - from market research and sourcing to diligence and post-close. Top-tier funds like Berkshire Partners and Clearlake Capital already rely on Metal to move faster and make smarter investment decisions - and we’re just getting started.\r\n\r\nIf you're excited to transform how private investors work, collaborate, and make decisions, we’d love to meet you.",
+    "one_liner": "Institutional Intelligence for Private Equity",
+    "team_size": 17,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1674209670,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "Finance",
+      "Investing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/metal",
+    "api": "https://yc-oss.github.io/api/batches/winter-2023/metal.json"
   },
   {
     "id": 28366,
@@ -21214,52 +21347,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/ecliptor.json"
   },
   {
-    "id": 29301,
-    "name": "Topo",
-    "slug": "topo",
-    "former_names": [
-      "Topo.io",
-      "Topo AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/864115baccd18fe0bc2af9212e6eb4a771c3ba80.png",
-    "website": "https://www.topo.io/",
-    "all_locations": "Paris, Île-de-France, France",
-    "long_description": "We are helping B2B companies reach the right leads with an AI sales agent custom trained on their knowledge.\r\n\r\n\r\n\r\nThe goal is to reproduce the behavior of a sales top performers:\r\n\r\n- They know the product, the industry, the pain points, and the company's value proposition perfectly (trained on datas from your knowledge base, calls transcript, CRM...). \r\n\r\n- They will find the right leads, ready to buy, based on buying signals in the industry-specific channels (Linkedin, G2, Github...) or on the company's website visitors.\r\n\r\n\r\nThat's exactly what the agent can do!\r\n\r\nThink of it as an expert SDR in your industry, ramp up in minutes. ",
-    "one_liner": "AI sales agent custom trained for each company to reach the best leads",
-    "team_size": 9,
-    "industry": "B2B",
-    "subindustry": "B2B -> Sales",
-    "launched_at": 1700494333,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "Sales"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Sales"
-    ],
-    "regions": [
-      "France",
-      "Europe",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/topo",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/topo.json"
-  },
-  {
     "id": 29303,
     "name": "TokenOwl",
     "slug": "tokenowl",
@@ -24363,50 +24450,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/invaria.json"
   },
   {
-    "id": 29646,
-    "name": "Corgi",
-    "slug": "corgi",
-    "former_names": [
-      "Corgi",
-      "Corgi Insurance"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8f66899a62764756d799d5abc511dc4b46f8c151.png",
-    "website": "https://corgi.insure",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Corgi is the AI financial infrastructure company. ",
-    "one_liner": "Corgi is building an AI financial infrastructure company",
-    "team_size": 70,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Insurance",
-    "launched_at": 1720644316,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Insurance"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Insurance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/corgi",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/corgi.json"
-  },
-  {
     "id": 29647,
     "name": "Maitai",
     "slug": "maitai",
@@ -25733,6 +25776,50 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/ontra-mobility",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/ontra-mobility.json"
+  },
+  {
+    "id": 29727,
+    "name": "Overstand Labs",
+    "slug": "overstand-labs",
+    "former_names": [
+      "Overstand Labs",
+      "Overstand Labs Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/061e173be11210d3cca9f1b51ba89c7c5255750b.png",
+    "website": "https://overstandlabs.com",
+    "all_locations": "",
+    "long_description": "Overstand is an on-demand data and insights team for customer communications. We unify Slack, email, calls, and operational data, then surface the signals that matter — customer needs, risks, and revenue opportunities hidden in everyday conversations.\r\n\r\nInstead of waiting on reports or manual analysis, teams get immediate, evidence-backed answers from the data they already have. Overstand delivers clarity and leverage as your business scales.",
+    "one_liner": "The on-demand data team for medium-to-large enterprises",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1724369845,
+    "tags": [
+      "Artificial Intelligence",
+      "Data Science",
+      "Data Engineering",
+      "Conversational AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/overstand-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/overstand-labs.json"
   },
   {
     "id": 29729,
@@ -29219,6 +29306,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/truffle-ai.json"
   },
   {
+    "id": 30215,
+    "name": "Contrario",
+    "slug": "contrario",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d28f487260593082101d049c62573937f376006a.png",
+    "website": "https://contrario.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Contrario fills critical roles faster with a network of AI-powered expert recruiters. Companies trust Contrario from pre-seed to post-IPO for their most important hires including engineering, GTM, ops, product design, and more. ",
+    "one_liner": "Fill critical roles faster with  AI-powered recruiters",
+    "team_size": 10,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1740035301,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Recruiting"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/contrario",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/contrario.json"
+  },
+  {
     "id": 30218,
     "name": "Toothy AI",
     "slug": "toothy-ai",
@@ -30705,7 +30835,7 @@
       "Dex"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4b8230cea80b14be0026f198edeff9c8f351272c.png",
-    "website": "https://thirdlayer.inc",
+    "website": "https://joindex.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "ThirdLayer is an applied research and product lab building the next interface for human–AI collaboration.\r\n\r\nOur first product is Dex, an AI copilot for the browser. Think Cursor for knowledge work, optimized for speed and embedded directly where you work.\r\n\r\nMost web agents are built for set-and-forget tasks. But real work is fluid and messy—spread across tabs, tools, and evolving decisions. Dex transforms your browser into an intelligent, multimodal workspace that understands your intent through voice, text, and action. It enhances familiar interfaces, automates tedious steps, and removes the friction of handoffs.\r\n\r\nBeneath the surface, Dex is more than a browser agent — it’s a foundation for:\r\n\r\n● Long-term, cross-modal memory grounded in real workflows\r\n● A new interaction layer to replace static UI with a collaborative canvas \r\n● Personalization: understanding how individuals approach tasks and navigate software\r\n\r\nWe're building the infrastructure for adaptive, intent-aware systems that work the way you do.",
     "one_liner": "Building Dex, the AI Browser Copilot",
@@ -33188,49 +33318,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cyberdesk.json"
   },
   {
-    "id": 30648,
-    "name": "Janet AI",
-    "slug": "tryjanet",
-    "former_names": [
-      "MeetingToCode"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
-    "website": "https://tryjanet.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Janet AI is the AI-first ticket management system, built for modern engineering teams.\r\n\r\nTicket management today is too reliant on manual work. Context gets scattered. Information doesn’t stay-up-to date. Systems get noisy.\r\n\r\nWe integrate with your information channels (meetings, Slack, Discord, SMS, etc.) to auto-create, update, and organize work items.",
-    "one_liner": "The AI-Native Jira",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1752861520,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "DevOps"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tryjanet",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tryjanet.json"
-  },
-  {
     "id": 30649,
     "name": "Lilac",
     "slug": "lilac",
@@ -33409,48 +33496,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/nori.json"
   },
   {
-    "id": 30659,
-    "name": "Keystone",
-    "slug": "keystone",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8c3915c83dfe6a246f33ae908d5156017a0cef3f.png",
-    "website": "https://withkeystone.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Keystone is an AI engineer that joins your team and understands your product from codebase to production. It can triage tickets, fix bugs, and automatically resolve incidents, autonomously.",
-    "one_liner": "Your team's on-call AI engineer",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1749673205,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/keystone",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/keystone.json"
-  },
-  {
     "id": 30660,
     "name": "Sagekit",
     "slug": "sagekit",
@@ -33495,50 +33540,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sagekit",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/sagekit.json"
-  },
-  {
-    "id": 30664,
-    "name": "Kestroll",
-    "slug": "kestroll",
-    "former_names": [
-      "GameHawk"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/791faaacaac3270c6ecc1890048190ca2903c6f0.png",
-    "website": "https://www.kestroll.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The AI operating system for modern brand and marketing teams that automates digital asset management and creative operations.",
-    "one_liner": "AI Digital Asset Manager",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
-    "launched_at": 1751838348,
-    "tags": [
-      "Artificial Intelligence",
-      "Design",
-      "Marketing",
-      "Advertising"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Marketing"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/kestroll",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/kestroll.json"
   },
   {
     "id": 30666,
@@ -37835,49 +37836,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ressl-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
-  },
-  {
-    "id": 31214,
-    "name": "Pocket",
-    "slug": "pocket",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b428e32efe17d32eca49b716cb0a2375cd4f5ef3.png",
-    "website": "https://heypocket.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pocket is a tiny AI device that lives on your phone and turns everything you say and hear into clear notes, action items, and search. We combine custom hardware, AI, and software to build the best note-taking experience for people who talk and move fast",
-    "one_liner": "The world's best AI note-taking device and app",
-    "team_size": 6,
-    "industry": "Consumer",
-    "subindustry": "Consumer",
-    "launched_at": 1764996860,
-    "tags": [
-      "Artificial Intelligence",
-      "Hardware",
-      "Productivity",
-      "Note-taking"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "Consumer"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pocket",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/pocket.json"
   },
   {
     "id": 31215,
