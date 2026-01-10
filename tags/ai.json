@@ -9741,7 +9741,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2022",
     "status": "Active",
@@ -13956,7 +13956,7 @@
     "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2023",
-    "status": "Active",
+    "status": "Inactive",
     "industries": [
       "B2B",
       "Sales"
@@ -15619,50 +15619,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/studdy",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/studdy.json"
-  },
-  {
-    "id": 28974,
-    "name": "Gleam",
-    "slug": "gleam",
-    "former_names": [
-      "gleam"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9099d64668ee675c725feb5d157da158b615724e.png",
-    "website": "https://joingleam.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gleam automates data entry for clinical research sites.",
-    "one_liner": "AI Data Entry for Clinical Research",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1690443767,
-    "tags": [
-      "Biotech",
-      "Healthcare",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2023",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gleam",
-    "api": "https://yc-oss.github.io/api/batches/summer-2023/gleam.json"
   },
   {
     "id": 28982,
@@ -17699,51 +17655,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/pivot-robotics.json"
   },
   {
-    "id": 29284,
-    "name": "Avery",
-    "slug": "avery",
-    "former_names": [
-      "Starlight Charging",
-      "Avery HQ"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9858815bbd831276cdcb1d662f0a88316f786e6.png",
-    "website": "https://www.callavery.com",
-    "all_locations": "Austin, TX, USA",
-    "long_description": "Avery helps property managers fill vacancies faster and resolve maintenance requests automatically. Our AI property manager and leasing agents can be assigned to complete many common tasks, from getting tours scheduled to following up with vendors.  \r\n\r\nThere are nearly 300,000 third party property management companies across the US, many of whom are overwhelmed by dozens of repetitive tenant requests streaming in through antiquated software every day. Avery modernizes the property manager’s toolkit with a two-way contact center to provide an excellent resident experience.",
-    "one_liner": "AI Contact Center for Residential Property Managers",
-    "team_size": 3,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
-    "launched_at": 1705435157,
-    "tags": [
-      "Real Estate",
-      "Proptech",
-      "Telecommunications",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Housing and Real Estate"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/avery",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/avery.json"
-  },
-  {
     "id": 29285,
     "name": "Patchwork",
     "slug": "patchwork",
@@ -18398,6 +18309,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/speck",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/speck.json"
+  },
+  {
+    "id": 29333,
+    "name": "Lemon Slice",
+    "slug": "lemon-slice",
+    "former_names": [
+      "Infinity AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/05eb67ac8202d3dd3c90fdda089940b58b254645.png",
+    "website": "https://www.lemonslice.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lemon Slice is a frontier AI research and product lab building the future of interactive video. Our interactive avatar models allow you to turn a voice agent into an engaging video call. \r\n",
+    "one_liner": "Give your voice agents a face",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1709320242,
+    "tags": [
+      "Consumer",
+      "Video",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lemon-slice",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/lemon-slice.json"
   },
   {
     "id": 29334,
@@ -19709,6 +19662,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/openmart.json"
   },
   {
+    "id": 29425,
+    "name": "Zep AI",
+    "slug": "zep-ai",
+    "former_names": [
+      "Zep Software",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01c6d0585e8c71ae2a60d4a67e5c15a449165704.png",
+    "website": "https://www.getzep.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zep assembles the right context from chat history, business data, and user behavior so agents are personalized, accurate, and fast. Our open source project Graphiti hit 20k GitHub stars in under 12 months. Sub-200ms retrieval, SOC 2 Type 2/HIPAA certified, used by teams from startups to Fortune 500s.",
+    "one_liner": "Agent Context Is Hard. We Fixed It.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1709681560,
+    "tags": [
+      "Developer Tools",
+      "Infrastructure",
+      "AI",
+      "Conversational AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zep-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/zep-ai.json"
+  },
+  {
     "id": 29438,
     "name": "Spark",
     "slug": "spark",
@@ -19834,28 +19834,31 @@
   },
   {
     "id": 29443,
-    "name": "Pernell",
-    "slug": "pernell",
+    "name": "Adapted",
+    "slug": "adapted",
     "former_names": [
       "Chirp",
       "Convey",
       "Corefin",
       "Stackgrant",
       "For Effect",
-      "ForEffect"
+      "ForEffect",
+      "Pernell"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d93bffb3ca25d2213455e170b4cfd0c9811d9135.png",
-    "website": "https://pernell.ai",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a533cff802e0f9057f1431e6f53533be5b04b80.png",
+    "website": "https://adapted.app",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pernell is your AI-powered second phone that records, transcribes, and summarizes calls. When you’re busy, an AI receptionist answers for you - no more missed calls.",
-    "one_liner": "Your AI-Powered Second Phone",
+    "long_description": "Adapted helps athletes become bulletproof through personalized prehab.",
+    "one_liner": "Helping athletes stay durable",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
     "launched_at": 1702424671,
     "tags": [
-      "AI",
-      "Conversational AI"
+      "Fitness",
+      "Digital Health",
+      "Health & Wellness",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -19875,8 +19878,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pernell",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/pernell.json"
+    "url": "https://www.ycombinator.com/companies/adapted",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/adapted.json"
   },
   {
     "id": 29447,
@@ -27391,47 +27394,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/neoncoral.json"
   },
   {
-    "id": 30426,
-    "name": "Approval AI",
-    "slug": "approval-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e03bf91580d0265ba53d615ffca014e6017c8053.png",
-    "website": "https://getapproval.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Approval AI is an AI-powered mortgage co-pilot that automates the most complex parts of getting a mortgage: rate shopping, negotiation, and paperwork, all in one place. We automate what brokers and loan officers do, and hand those tools directly to the buyer.",
-    "one_liner": "One-click mortgage: AI shops, negotiates, and handles your application",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Consumer Finance",
-    "launched_at": 1744861920,
-    "tags": [
-      "Fintech",
-      "Consumer",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Consumer Finance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/approval-ai",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/approval-ai.json"
-  },
-  {
     "id": 30427,
     "name": "Acolite",
     "slug": "acolite",
@@ -29527,7 +29489,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
     "website": "https://tryjanet.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Janet AI (tryjanet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn’t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS.\r\n- Duplicate or related issues are automatically detected to reduce noise as you scale.\r\n- Tickets are auto-moved when PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can fully understand, cluster, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI.\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That’s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single feature, project, or sprint.\r\n\r\nSounds interesting? Check out tryjanet.ai to get started today!",
+    "long_description": "Janet AI (tryjanet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn’t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS.\r\n- Duplicate or related issues are automatically detected to reduce noise as you scale.\r\n- Tickets are auto-moved when PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can fully understand, cluster, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That’s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out tryjanet.ai to get started today!",
     "one_liner": "The AI-Native Jira",
     "team_size": 2,
     "industry": "B2B",
@@ -29641,6 +29603,52 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/keystone",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/keystone.json"
+  },
+  {
+    "id": 30660,
+    "name": "Sagekit",
+    "slug": "sagekit",
+    "former_names": [
+      "Magnitude",
+      "Sidekick"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/172ef6eb2756c4075d4f6b5ef99859af63b4926b.png",
+    "website": "https://sagekit.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sagekit is an AI workspace where chat and documents are deeply connected. Think ChatGPT meets Notion. Chat with AI, research topics with web and Reddit data, and build real documents you and AI can both edit—all in one workspace.",
+    "one_liner": "AI workspace where chat and documents are deeply connected",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1751905744,
+    "tags": [
+      "SaaS",
+      "Productivity",
+      "Automation",
+      "AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sagekit",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/sagekit.json"
   },
   {
     "id": 30661,
@@ -31053,51 +31061,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/movedot",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/movedot.json"
-  },
-  {
-    "id": 30854,
-    "name": "Hyperspell",
-    "slug": "hyperspell",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4149c6afc651c9770fc182e08dde776e24f88554.png",
-    "website": "https://hyperspell.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Hyperspell (YC F25) gives AI agents memory.\r\n\r\nIt connects to tools like Slack, Gmail, Notion, and Drive so agents can recall, reason, and remember across company knowledge. Developers use Hyperspell’s API to turn disconnected agents into AI coworkers that understand their work. Conor and Manu founded Hyperspell after building their own workplace agent and seeing how limited AI is without memory. They have over 15 years of experience in machine learning and have scaled API-based products to $30M ARR.",
-    "one_liner": "Memory for AI Agents",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1760534513,
-    "tags": [
-      "Developer Tools",
-      "Machine Learning",
-      "B2B",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/hyperspell",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/hyperspell.json"
   },
   {
     "id": 30859,
@@ -32586,51 +32549,6 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2025/stratus-aviation.json"
   },
   {
-    "id": 30995,
-    "name": "Velvet",
-    "slug": "velvet",
-    "former_names": [
-      "Inline",
-      "Lenscape"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3c02ad81894db8e1b1d0e71c379c7cae04211613.png",
-    "website": "https://velvet.video",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Velvet is the all-in-one tool for making AI videos. Our team has worked on video generation at Meta FAIR and infra at Adobe, and we’re building the single tool that companies need to produce AI video assets.",
-    "one_liner": "All-in-one tool for making AI videos",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1761236237,
-    "tags": [
-      "B2B",
-      "Video",
-      "Media",
-      "Creator Economy",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/velvet",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/velvet.json"
-  },
-  {
     "id": 31001,
     "name": "Fastshot",
     "slug": "fastshot",
@@ -33012,51 +32930,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/runanywhere.json"
   },
   {
-    "id": 31101,
-    "name": "LegalOS",
-    "slug": "legalos",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08c53bbd673e3022b474ab6c387588bceea5b021.png",
-    "website": "https://www.legalos.ai",
-    "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "LegalOS is an AI-powered immigration law firm for complex U.S. work visas. \r\n\r\nOur AI agents generate a USCIS-ready petition package in 24–48 hours, including forms, support letters, and a structured evidence memo.\r\n\r\nEvery case is reviewed and signed by licensed immigration attorneys with 40+ years of experience and a near-100% approval rate, so companies get both speed and reliability. LegalOS already supports O-1, H-1B, L-1A, L-1B, TN, EB-1A, EB-1C, and EB-2 NIW petitions and has a 100% approval rate so far across all visa categories.",
-    "one_liner": "The AI-powered immigration law firm for complex work visas",
-    "team_size": 3,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1765500266,
-    "tags": [
-      "B2B",
-      "Legal",
-      "HR Tech",
-      "Immigration",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Fully Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/legalos",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/legalos.json"
-  },
-  {
     "id": 31117,
     "name": "Bujo AI",
     "slug": "bujo",
@@ -33145,23 +33018,27 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/avoice.json"
   },
   {
-    "id": 31173,
-    "name": "Laurence",
-    "slug": "laurence",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eca6f9c65dd95b9514253d24a67c4a4593ea1f0d.png",
-    "website": "https://trylaurence.com",
-    "all_locations": "",
-    "long_description": "Research lab meets trading desk: Laurence is the digital brain for advertising\r\n\r\nAdvertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork.\r\n\r\nWe've built quantitative models and train transformers to advertise how cutting-edge hedge funds trade markets: quantitative, algorithmic, and systematic.\r\n\r\nStarting with Amazon, we're currently managing $2.5M in live ad spend while delivering 30% increased return on ad spend",
-    "one_liner": "The digital brain for advertising",
-    "team_size": 2,
+    "id": 31146,
+    "name": "Arcline",
+    "slug": "arcline",
+    "former_names": [
+      "https://www.arcline-ai.com/",
+      "Arcline AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f76442626bb5dc33b9b6ae6b9ea6033dff2869f6.png",
+    "website": "https://www.arcline-ai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fast and predictable AI-native legal services designed for startups: If you’re a founder tired of spending $ X0k+ and months on a priced round, MSA, ESOP, product compliance, or cross-border legal work, we built Arcline for you. \r\n\r\nArcline’s 40+ AI-native lawyers deliver legal services fast, quality-assured and affordable. \r\n\r\nSo you can sell, raise, hire, and launch in hours, not months.\r\n\r\nArcline lawyers are trained at top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). Trusted by founders backed by YC, Sequoia, a16z, Founders Fund.\r\n\r\nWe’re delivering the same top tier legal help to you, without the usual delay or cost. \r\n\r\nDiscover Arcline if you want legal to stop being the bottleneck or crippling your runway.",
+    "one_liner": "Fire your law firm: Cheaper and faster AI native lawyers for startups",
+    "team_size": 5,
     "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1767919574,
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1767976988,
     "tags": [
-      "Reinforcement Learning",
-      "Advertising",
-      "Trading",
+      "Marketplace",
+      "Compliance",
+      "Legal",
+      "LegalTech",
       "AI"
     ],
     "tags_highlighted": [],
@@ -33172,18 +33049,21 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Analytics"
+      "Legal"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
-    "app_video_public": false,
+    "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/laurence",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/laurence.json"
+    "url": "https://www.ycombinator.com/companies/arcline",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/arcline.json"
   },
   {
     "id": 31182,

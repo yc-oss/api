@@ -895,7 +895,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1148,7 +1148,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1588,16 +1588,20 @@
     "former_names": [
       "NavierAI"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/421603d587e9780cfef7115cea07feea72f68772.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5d00aa43f66ec38980b608755437974dcc244c98.png",
     "website": "http://navier.ai",
-    "all_locations": "",
-    "long_description": "Navier AI is making CFD 1000x faster with their ML-based solver.\r\n\r\n\r\nPhysics simulations, such as Computational Fluid Dynamics (CFD), are essential across many industries ranging from the design and analysis of aircraft, to weather prediction, to the development of medical devices. Today’s simulation tools use explicit numerical solvers for physical equations, such as the Naiver-Stokes equations. These solvers are complex to setup and can take ages to produce results.\r\n\r\n\r\nNavier AI is building 1000x faster simulations using physics-ML solvers. Navier AI's fast CFD platform will enable engineers to quickly explore design spaces and perform analysis-in-the-loop design optimization. They are lowering the barrier to entry for aerospace and mechanical engineers to create high performance designs.",
-    "one_liner": "Real-Time CFD Simulations",
-    "team_size": 2,
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Navier AI is building the first Agent-Driven Engineering platform.\r\n\r\nWe believe engineers should focus on designing great products, not wrestling with simulation software.\r\n\r\nNavier AI makes it simple to run CFD simulations at scale through our web-based platform built on OpenFOAM, the industry-standard solver for CFD. Our AI agents autonomously handle the complex, time-consuming steps of simulation—from geometry cleanup and meshing to solver configuration and cloud resource management.\r\n\r\nBy automating the tedious parts of the workflow, we enable engineering teams to move faster, explore more design possibilities, and spend their time on high-value engineering decisions.",
+    "one_liner": "Agent-Driven Engineering",
+    "team_size": 7,
     "industry": "Industrials",
     "subindustry": "Industrials -> Aviation and Space",
     "launched_at": 1708536461,
-    "tags": [],
+    "tags": [
+      "Artificial Intelligence",
+      "Aerospace",
+      "Automotive"
+    ],
     "tags_highlighted": [],
     "top_company": false,
     "isHiring": true,
@@ -1609,7 +1613,8 @@
       "Aviation and Space"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

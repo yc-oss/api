@@ -926,9 +926,9 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdb4c71ccbddd0ad292fc773c3cfb169d2a4a5ba.png",
     "website": "https://www.solveintelligence.com/",
     "all_locations": "",
-    "long_description": "We provide an in-browser document editor that any patent attorney can start using straight away. It works just like Google Docs but, under the hood, is powered by an AI copilot to help the attorney draft, prosecute, and harvest high-quality patents efficiently.\r\n\r\nOur product can help with all stages of the patent life cycle, from drafting and filing to prosecution and opposition.",
+    "long_description": "We provide an in-browser document editor that any patent attorney can start using straight away. It works just like Google Docs but, under the hood, is powered by an AI copilot to help the attorney draft, prosecute, and harvest high-quality patents efficiently.\r\n\r\nOur product can help with all stages of the patent life cycle, from drafting and filing to prosecution and opposition, as well as claim charts for patent litigation, freedom to operate analysis, and more.",
     "one_liner": "AI patent drafting, prosecution, harvesting and more for legal teams.",
-    "team_size": 21,
+    "team_size": 25,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1686701574,
@@ -946,7 +946,7 @@
     "regions": [
       "Unspecified"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -1978,7 +1978,7 @@
     "name": "LegalOS",
     "slug": "legalos",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08c53bbd673e3022b474ab6c387588bceea5b021.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/85e872135272bf3527b0349fdcaf59c29b227c47.png",
     "website": "https://www.legalos.ai",
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "LegalOS is an AI-powered immigration law firm for complex U.S. work visas. \r\n\r\nOur AI agents generate a USCIS-ready petition package in 24–48 hours, including forms, support letters, and a structured evidence memo.\r\n\r\nEvery case is reviewed and signed by licensed immigration attorneys with 40+ years of experience and a near-100% approval rate, so companies get both speed and reliability. LegalOS already supports O-1, H-1B, L-1A, L-1B, TN, EB-1A, EB-1C, and EB-2 NIW petitions and has a 100% approval rate so far across all visa categories.",
@@ -1988,11 +1988,11 @@
     "subindustry": "B2B -> Legal",
     "launched_at": 1765500266,
     "tags": [
+      "Artificial Intelligence",
       "B2B",
       "Legal",
       "HR Tech",
-      "Immigration",
-      "AI"
+      "Immigration"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2020,13 +2020,15 @@
   },
   {
     "id": 31130,
-    "name": "MirageDoodle, Inc.",
-    "slug": "miragedoodle-inc",
-    "former_names": [],
+    "name": "AutoSitu",
+    "slug": "autositu",
+    "former_names": [
+      "MirageDoodle, Inc."
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e152edb1a93ed2437635e5b7630e93b7466a400.png",
-    "website": "https://miragedoodle.com/",
+    "website": "https://autositu.com/",
     "all_locations": "",
-    "long_description": "At MirageDoodle, we’re building coordinated AI agents that live inside cities’ cross-department development review workflows—doing the heavy lifting, escalating judgment calls, and letting staff focus where human expertise actually matters.\r\n\r\nMirageDoodle provides expert-level guidance in minutes based on precedents, helping cities and design firms navigate an increasingly complex, fragmented regulatory environment\r\n\r\nWe serve as strategic partners to forward-thinking cities and design firms across the country.",
+    "long_description": "At AutoSitu (formerly MirageDoodle), we’re building coordinated AI agents that live inside cities’ cross-department development review workflows—doing the heavy lifting, escalating judgment calls, and letting staff focus where human expertise actually matters.\r\n\r\nAutoSitu provides expert-level guidance in minutes based on precedents, helping cities and design firms navigate an increasingly complex, fragmented regulatory environment\r\n\r\nWe serve as strategic partners to forward-thinking cities and design firms across the country.",
     "one_liner": "AI-native workspace for municipal development review",
     "team_size": 2,
     "industry": "B2B",
@@ -2055,7 +2057,55 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/miragedoodle-inc",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/miragedoodle-inc.json"
+    "url": "https://www.ycombinator.com/companies/autositu",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/autositu.json"
+  },
+  {
+    "id": 31146,
+    "name": "Arcline",
+    "slug": "arcline",
+    "former_names": [
+      "https://www.arcline-ai.com/",
+      "Arcline AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f76442626bb5dc33b9b6ae6b9ea6033dff2869f6.png",
+    "website": "https://www.arcline-ai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fast and predictable AI-native legal services designed for startups: If you’re a founder tired of spending $ X0k+ and months on a priced round, MSA, ESOP, product compliance, or cross-border legal work, we built Arcline for you. \r\n\r\nArcline’s 40+ AI-native lawyers deliver legal services fast, quality-assured and affordable. \r\n\r\nSo you can sell, raise, hire, and launch in hours, not months.\r\n\r\nArcline lawyers are trained at top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). Trusted by founders backed by YC, Sequoia, a16z, Founders Fund.\r\n\r\nWe’re delivering the same top tier legal help to you, without the usual delay or cost. \r\n\r\nDiscover Arcline if you want legal to stop being the bottleneck or crippling your runway.",
+    "one_liner": "Fire your law firm: Cheaper and faster AI native lawyers for startups",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1767976988,
+    "tags": [
+      "Marketplace",
+      "Compliance",
+      "Legal",
+      "LegalTech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arcline",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/arcline.json"
   }
 ]
