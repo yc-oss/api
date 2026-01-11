@@ -591,7 +591,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -5666,8 +5666,8 @@
   },
   {
     "id": 13231,
-    "name": "QueryPie",
-    "slug": "querypie",
+    "name": "QueryPie AI",
+    "slug": "querypie-ai",
     "former_names": [
       "CHEQUER",
       "QueryPie",
@@ -5676,22 +5676,21 @@
       "HynData",
       "CHEQUER",
       "QueryPie",
-      "QueryPie2"
+      "QueryPie2",
+      "QueryPie"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/734a6a33e019411f619b73219afce2e9d4af8ef7.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6cd5d778a431fee3fe10378b90678afded63d808.png",
     "website": "https://www.querypie.com",
     "all_locations": "San Mateo, CA, USA",
-    "long_description": "QueryPie is the enterprise-ready solution for governing AI-powered access in modern data environments. With native Model Context Protocol (MCP) support and verified integrations with tools like Slack, GitHub, and AWS, QueryPie sets a new standard for secure, centralized access governance.\r\nAs a unified access governance platform based on Zero Trust principles, QueryPie enables organizations to manage and monitor access to databases, servers, Kubernetes clusters, and internal web applications with precision and ease.\r\nTrusted by over 130 enterprises and fully compliant with global standards such as ISMS, PCI-DSS, and GDPR, QueryPie empowers organizations to build secure and scalable data access control frameworks.\r\nWith built-in support for AI infrastructure, QueryPie seamlessly connects large language models (LLMs), AI agents, and MCP servers through a centralized control layer—ensuring that all automated workflows across SaaS tools, cloud environments, and internal systems remain secure, auditable, and compliant.",
-    "one_liner": "QueryPie: Secure Enterprise AI Platform",
-    "team_size": 97,
+    "long_description": "QueryPie AI is an enterprise AI platform designed to securely operate AI agents in enterprise environments. Built on an MCP-based architecture, it connects internal data and diverse business systems while enforcing access control and centralized management. This enables organizations to execute AI Transformation (AX) with security as a foundation and extend AI adoption into practical automation and tangible business outcomes.",
+    "one_liner": "QueryPie AIP - Enterprise Ready Agentic AI Platform",
+    "team_size": 70,
     "industry": "B2B",
-    "subindustry": "B2B -> Security",
+    "subindustry": "B2B",
     "launched_at": 1606270339,
     "tags": [
       "Artificial Intelligence",
-      "Compliance",
-      "Security",
-      "Cybersecurity"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5700,8 +5699,7 @@
     "batch": "Winter 2020",
     "status": "Active",
     "industries": [
-      "B2B",
-      "Security"
+      "B2B"
     ],
     "regions": [
       "United States of America",
@@ -5709,13 +5707,13 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/querypie",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/querypie.json"
+    "url": "https://www.ycombinator.com/companies/querypie-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/querypie-ai.json"
   },
   {
     "id": 13322,
@@ -23130,6 +23128,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/openmart.json"
   },
   {
+    "id": 29425,
+    "name": "Zep AI",
+    "slug": "zep-ai",
+    "former_names": [
+      "Zep Software",
+      "Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/01c6d0585e8c71ae2a60d4a67e5c15a449165704.png",
+    "website": "https://www.getzep.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Zep assembles the right context from chat history, business data, and user behavior so agents are personalized, accurate, and fast. Our open source project Graphiti hit 20k GitHub stars in under 12 months. Sub-200ms retrieval, SOC 2 Type 2/HIPAA certified, used by teams from startups to Fortune 500s.",
+    "one_liner": "Agent Context Is Hard. We Fixed It.",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1709681560,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Infrastructure",
+      "Conversational AI",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/zep-ai",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/zep-ai.json"
+  },
+  {
     "id": 29432,
     "name": "Shepherd",
     "slug": "shepherd-2",
@@ -26999,6 +27044,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/dataleap.json"
   },
   {
+    "id": 29808,
+    "name": "Starcloud",
+    "slug": "starcloud",
+    "former_names": [
+      "Lumen Orbit, Inc.",
+      "Lumen Orbit",
+      "Star Cloud"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9c9b9996bb500ee171134f1e1a0a83f5d48bec3.png",
+    "website": "https://www.starcloud.com/",
+    "all_locations": "Redmond, WA, USA",
+    "long_description": "(Formerly known as Lumen Orbit) \r\nStarcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give us access to abundant energy, passive cooling, and the ability to rapidly scale in space.\r\n\r\nIn Partnership with NVIDIA's Inception Program, we are launching our demonstrator satellite in late 2025, which will have 100x more powerful GPUs than have ever been operated in space. ",
+    "one_liner": "Data centers in space",
+    "team_size": 12,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Aviation and Space",
+    "launched_at": 1718841179,
+    "tags": [
+      "Artificial Intelligence",
+      "Hard Tech",
+      "Satellites",
+      "Climate",
+      "Cloud Computing"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Aviation and Space"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": true,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/starcloud",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/starcloud.json"
+  },
+  {
     "id": 29812,
     "name": "ZeroPath",
     "slug": "zeropath",
@@ -27184,8 +27276,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3264c421729b2bff6ef1ef17bf775cafd7c098a6.png",
     "website": "https://orcaengine.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Orca is an open source AI Agent for game development that enables everyone to make video games without learning coding, game engines, or art. We are integrating a chat bot, with complete access to Godot. The chatbot can:\r\n\r\nRead/edit/create/delete files\r\nUnderstand the entire project as context\r\nCreate images and keep consistency across images created\r\nCreate 2D characters and animations\r\nEdit Godot native objects, e.g. nodes, scenes, ...",
-    "one_liner": "AI Agent for Game Development",
+    "long_description": "Orca is an AI-native game engine that allows everyone to create 3D worlds and games only by chatting with an AI Agent, play with friends and fellow gamers.",
+    "one_liner": "AI Game Engine",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -34013,7 +34105,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Channel3 is building a database of every product on the internet.\r\n\r\nGoogle and OpenAI maintain vast product graphs, but keep that valuable data to themselves. Channel3 gives every developer access, opening a world of possibility for new shopping experiences across any vertical. For instance, developers could build AI fashion stylists or give their agents shopping capabilities.\r\n\r\nWe don’t just collect product data; we actually understand it. With the latest image classification and reasoning models, we can match products across merchants—even when listings and images differ—recognize variants, and surface the perfect matches for every search. As we grow, we’ll capture unique insights into what users want, click, and buy.\r\n\r\nAs AI models get smarter and cheaper, our flywheel accelerates: our catalog will improve, and it will be even easier for developers and vibe-coders to build on our infrastructure. To further incentivize building on Channel3, we provide built-in monetization; developers earn commissions on sales they drive.\r\n\r\nAlex discovered this need while building an AI tutor that could recommend products and earn affiliate revenue. When no solution existed, he persuaded his smartest friend from Duke and former co-founder George to leave Palantir and build Channel3 together.",
     "one_liner": "Database of every product on the internet",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1752182938,
@@ -34023,7 +34115,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -35996,50 +36088,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/deeptrace",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/deeptrace.json"
-  },
-  {
-    "id": 30867,
-    "name": "Soren",
-    "slug": "soren",
-    "former_names": [
-      "Remediate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1852e5cb028f22711eec19617730fcb1dae1e9b4.png",
-    "website": "https://soren-ai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soren builds autonomous agents to replace human engineers on manual AI evaluation tasks.\r\n\r\nEvals are essential for building reliable AI systems, yet they remain incredibly time-consuming. Teams spend countless hours maintaining their evals and digging through piles of logs and traces to debug their systems. At scale, this level of manual work simply isn’t sustainable.\r\n\r\nSoren changes that with powerful agents that work alongside your team. They reason across test cases and logs to pinpoint root causes, then run targeted experiments to surface better-performing solutions. New test cases are added whenever new behaviors are detected, so engineers can stop doing ad-hoc maintenance.\r\n\r\nBuilt by MIT engineers who've published leading research in this space and lived the problem. We're building a future where AI handles the work and humans simply provide oversight.",
-    "one_liner": "AI agents for evaluating and debugging AI systems.",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1759390917,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Enterprise Software"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/soren",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/soren.json"
   },
   {
     "id": 30868,
@@ -38092,50 +38140,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bubble-lab",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/bubble-lab.json"
-  },
-  {
-    "id": 31223,
-    "name": "Arzule",
-    "slug": "arzule",
-    "former_names": [
-      "Flow AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34258b15ca5b4476b85cb059efce39097c6b6d07.png",
-    "website": "https://www.arzule.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Multi-agent systems fail quietly today due to state drift, broken assumptions, and coordination breakdowns. Arzule ingests failed traces from tools like CrewAI, LangChain, AutoGen, and custom stacks, finds coordination failures, and generates a corrected trace with a replayable path for how the workflow should have proceeded. It provides debugging tools, failure detection, and patch plans that can be dropped back into agent workflows to restore forward progress. Arzule also provides labeled multi-agent coordination data that support debugging, benchmarking, evaluation, and the development of more reliable multi-agent systems.",
-    "one_liner": "Debugging and labeling to improve multi-agent coordination",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1767154035,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Data Labeling"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arzule",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/arzule.json"
   },
   {
     "id": 31227,
