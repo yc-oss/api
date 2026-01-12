@@ -938,7 +938,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e152edb1a93ed2437635e5b7630e93b7466a400.png",
     "website": "https://autositu.com/",
     "all_locations": "",
-    "long_description": "At AutoSitu (formerly MirageDoodle), we’re building coordinated AI agents that live inside cities’ cross-department development review workflows—doing the heavy lifting, escalating judgment calls, and letting staff focus where human expertise actually matters.\r\n\r\nAutoSitu provides expert-level guidance in minutes based on precedents, helping cities and design firms navigate an increasingly complex, fragmented regulatory environment\r\n\r\nWe serve as strategic partners to forward-thinking cities and design firms across the country.",
+    "long_description": "At AutoSitu (formerly MirageDoodle), we build coordinated AI agents that operate inside real-world development review workflows.\r\n\r\nWe handle the first 50% of the problem, performing code checks and ensuring technical correctness, but we also know correctness isn’t the finish line. AutoSitu tackles the latter 50% by analyzing patterns from past projects to anticipate issues, align expectations, and reduce costly re-submittals.\r\n\r\nAutoSitu helps public- and private-sector teams navigate an increasingly complex, fragmented regulatory environment.",
     "one_liner": "AI-native workspace for municipal development review",
     "team_size": 2,
     "industry": "B2B",
@@ -1151,8 +1151,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f76442626bb5dc33b9b6ae6b9ea6033dff2869f6.png",
     "website": "https://www.arcline-ai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Fast and predictable AI-native legal services designed for startups: If you’re a founder tired of spending $ X0k+ and months on a priced round, MSA, ESOP, product compliance, or cross-border legal work, we built Arcline for you. \r\n\r\nArcline’s 40+ AI-native lawyers deliver legal services fast, quality-assured and affordable. \r\n\r\nSo you can sell, raise, hire, and launch in hours, not months.\r\n\r\nArcline lawyers are trained at top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). Trusted by founders backed by YC, Sequoia, a16z, Founders Fund.\r\n\r\nWe’re delivering the same top tier legal help to you, without the usual delay or cost. \r\n\r\nDiscover Arcline if you want legal to stop being the bottleneck or crippling your runway.",
-    "one_liner": "Fire your law firm: Cheaper and faster AI native lawyers for startups",
+    "long_description": "AI-native legal services designed to solve startup legal work in hours. \r\nIf you’re a founder tired of spending $ X0k+ and months on ESOP, contracts, compliance, corporate, or cross-border legal work, we built Arcline for you. \r\n\r\nArcline’s 40+ AI-native lawyers deliver legal services fast, quality-assured and affordable. \r\n\r\nSo you can sell, raise, hire, and launch in hours, not months.\r\n\r\nArcline lawyers are trained at top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). Trusted by founders backed by YC, Sequoia, a16z, Founders Fund.\r\n\r\nWe’re delivering the same top tier legal help to you, without the usual delay or cost. \r\n\r\nDiscover Arcline if you want legal to stop being the bottleneck or crippling your runway.\r\n\r\n",
+    "one_liner": "AI-native lawyers handling startup legal work in hours",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
@@ -1196,17 +1196,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eca6f9c65dd95b9514253d24a67c4a4593ea1f0d.png",
     "website": "https://trylaurence.com",
     "all_locations": "",
-    "long_description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork.\r\n\r\nWe've built quantitative models and train transformers to advertise how cutting-edge hedge funds trade markets: quantitative, algorithmic, and systematic.\r\n\r\nStarting with Amazon, we're currently managing $2.5M in live ad spend while delivering 30% increased return on ad spend",
+    "long_description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork.\r\n\r\nWe've built quantitative models and train transformers to advertise how cutting-edge hedge funds trade markets: quantitative, algorithmic, and systematic.\r\n\r\nWe're currently managing $2.5M in live Amazon Ad spend while lowering advertising cost of spend by 30%",
     "one_liner": "The digital brain for advertising",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1767919574,
     "tags": [
-      "Artificial Intelligence",
       "Reinforcement Learning",
       "Advertising",
-      "Trading"
+      "Trading",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1315,6 +1315,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/prana-health.json"
   },
   {
+    "id": 31178,
+    "name": "Cardboard",
+    "slug": "cardboard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd18107dd1d0b70679aef18956a0bd68d03549b0.png",
+    "website": "https://cardboard.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cardboard is an agentic video editor for growth/marketing teams and serious creators who need to ship videos consistently. Instead of agencies, long timelines, and infinite review cycles, teams give cardboard a footage + a goal (“3 variants”, “30s hook”, “testimonials”) to get a strong first cut in minutes on which they can iterate quickly.\r\n\r\nMultimodal LLMs can finally reason over footage, and WebGPU/WebCodecs make a real NLE possible in the browser. For the first time, an “AI director” inside a professional editor can be a reality.\r\n\r\nWe have to build two hard things at once: a high-performance editor in the browser and an agentic editor that is reliable for production use cases. Most startups do one; incumbents can’t rebuild their stack without breaking everything.\r\n\r\nSaksham and Ishan met in school and have known each other since 15 years. Saksham was Co-founder/CTO of Iterate AI (backed by EF) and posts content on social media; Ishan has spent ~5yr building memory-heavy, performance-critical browser apps at HackerRank (S11) and deeply understands browsers. He has built Hotspoter (5M+ downloads) when he was 14.\r\n\r\nTogether, we’re unusually suited to build the editor core others avoid.\r\n\r\nVideo is becoming the default distribution channel, and the team that iterates fastest compounds attention. Cardboard becomes the default workspace for video production, the way Canva/Figma became the workspace for design - because it’s collaborative, fast, and does the tedious parts for you.",
+    "one_liner": "Agentic video editor",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768162565,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Video",
+      "Media"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cardboard",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/cardboard.json"
+  },
+  {
     "id": 31182,
     "name": "Visibl Semiconductors",
     "slug": "visibl-semiconductors",
@@ -1394,6 +1435,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/patientdeskai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/patientdeskai.json"
+  },
+  {
+    "id": 31185,
+    "name": "Chamber",
+    "slug": "chamber",
+    "former_names": [
+      "Astraio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1fc77901b81373bfd2cdb4b4fd70816597bb561.png",
+    "website": "https://www.usechamber.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Chamber puts your AI infrastructure on autopilot. Our agentic AI enabled platform orchestrates, governs, and optimizes your AI infrastructure so teams can run ~50% more workloads on the same GPUs without manual intervention. It operates like an autonomous infrastructure team: continuously monitoring GPU clusters, forecasting demand, detecting unhealthy nodes, and reallocating resources in real time to where they create the most impact. Your ML teams move faster, infra waste drops, and GPU bottlenecks disappear.",
+    "one_liner": "Autopiloting your AI infrastructure",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1768078423,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chamber",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/chamber.json"
   },
   {
     "id": 31191,
@@ -1782,8 +1868,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34258b15ca5b4476b85cb059efce39097c6b6d07.png",
     "website": "https://www.arzule.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Multi-agent systems fail quietly today due to state drift, broken assumptions, and coordination breakdowns. Arzule ingests failed traces from tools like CrewAI, LangChain, Claude Code, and custom stacks, finds coordination failures, and generates a corrected trace with a replayable path for how the workflow should have proceeded. It provides debugging tools, failure detection, and patch plans that can be dropped back into agent workflows to restore forward progress. Arzule also provides labeled multi-agent coordination data that support debugging, benchmarking, evaluation, and the development of more reliable multi-agent systems.",
-    "one_liner": "Debugging and labeling to improve multi-agent coordination",
+    "long_description": "Multi-agent systems fail quietly today due to state drift, broken assumptions, and coordination breakdowns. Arzule ingests failed traces from tools like CrewAI, LangChain, Claude Code, and custom stacks, finds coordination failures, and generates a corrected trace. Users can approve or deny the correction so Arzule learns what “good” looks like in the context of the current project. It provides observability, debugging tools, failure detection, and patch plans that can be dropped back into agent workflows to improve costs, efficiency, and quality. Additionally, Arzule is currently offering early access to synthetic creation and labeling of multi-agent coordination tasks for companies who reach out.",
+    "one_liner": "Debugging multi-agent coordination",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -1982,6 +2068,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/corelayer",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/corelayer.json"
+  },
+  {
+    "id": 31247,
+    "name": "Fed10",
+    "slug": "fed10",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed78fd7caa59335d26e6924d7cd9e597c6f6f2a8.png",
+    "website": "https://www.fed10.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fed10 is a legislative consulting firm staffed by AI agents. \r\n\r\nWe monitor every bill across the U.S., flag threats to your business, and deliver actionable insights — the same work a $500/hr policy consultant does, but in seconds instead of days.\r\n\r\nBuilt by three ex-lobbyists who passed legislation together.",
+    "one_liner": "AI agents that replace your policy consultants",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1768118288,
+    "tags": [
+      "GovTech",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fed10",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/fed10.json"
   },
   {
     "id": 31263,

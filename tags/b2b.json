@@ -36405,7 +36405,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/995749b249373d88528eca173b29dc4d2d8e77da.png",
     "website": "https://www.joincarma.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "At Carma, we’re revolutionizing the fleet management space by building a massively simplified experience for commercial fleet operators to receive same-day repair and maintenance for any vehicle with real-time, transparent quotes from highly-vetted service center partners with a guaranteed 24-hour turnaround.\r\n\r\nFleet operators face the challenging task of keeping hundreds or thousands of vehicles on the road cost-efficiently with minimal downtime. Our platform solves this precise problem, powering operations for our fleet customers with every tool needed for modern fleet management - real-time service tracking, cost verification, diagnostics visibility, and so much more. We are tackling an enormous market—worth $177 billion in the United States alone.\r\n\r\nWe're growing very rapidly and are looking for superstars to join us on our rocketship growth as we relentlessly work towards building a multi-billion dollar company to take over the outdated fleet management market.\r\n\r\nJoin us if you're eager to make a significant impact and be part of an explosive-growth startup from the ground up.",
+    "long_description": "Carma is building an AI-native platform that transforms fleet operations from tedious, manual work into effortless, automated workflows.\r\n\r\nWe’re the fastest-growing company in fleet management software. Carma already powers some of the largest fleets in the U.S., including Fortune 500 clients, saving operations teams thousands of hours by eliminating busywork and keeping vehicles on the road.\r\n\r\nBacked by Soma Capital, Y Combinator, founders of Superhuman, and top-tier investors, we raised our $5.5M seed and are sprinting toward a Series A in 2026.\r\n\r\nWe’re hiring the top 0.1% of engineers who want real ownership and impact—starting Day 1, you’ll build and ship fast to production for enterprise clients. Fleet operations run in real time, so your work is immediately used in the field and gets real customer feedback in hours, not months.",
     "one_liner": "Same-Day Auto Repair for Commercial Fleets.",
     "team_size": 15,
     "industry": "B2B",
@@ -36420,7 +36420,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2024",
     "status": "Active",
@@ -42061,16 +42061,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/544faf85c3fb3b0e5acf3a985a6a1ce535df4377.png",
     "website": "https://fromolive.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Olive connects to your database & third party services to help you build admin dashboards and support tools in minutes.",
-    "one_liner": "Build admin dashboards with a prompt.",
+    "long_description": "Olive learns your hiring bar as you review candidates and gives you suggestions to find the best talent.",
+    "one_liner": "AI Applicant Screening",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1740018718,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
+      "B2B",
+      "Recruiting",
+      "Talent Acquisition"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42080,7 +42081,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Recruiting and Talent"
     ],
     "regions": [
       "United States of America",
@@ -48295,6 +48296,51 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/luel.json"
   },
   {
+    "id": 31185,
+    "name": "Chamber",
+    "slug": "chamber",
+    "former_names": [
+      "Astraio"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a1fc77901b81373bfd2cdb4b4fd70816597bb561.png",
+    "website": "https://www.usechamber.io",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Chamber puts your AI infrastructure on autopilot. Our agentic AI enabled platform orchestrates, governs, and optimizes your AI infrastructure so teams can run ~50% more workloads on the same GPUs without manual intervention. It operates like an autonomous infrastructure team: continuously monitoring GPU clusters, forecasting demand, detecting unhealthy nodes, and reallocating resources in real time to where they create the most impact. Your ML teams move faster, infra waste drops, and GPU bottlenecks disappear.",
+    "one_liner": "Autopiloting your AI infrastructure",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1768078423,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/chamber",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/chamber.json"
+  },
+  {
     "id": 31191,
     "name": "Clice AI",
     "slug": "clice-ai",
@@ -48389,8 +48435,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34258b15ca5b4476b85cb059efce39097c6b6d07.png",
     "website": "https://www.arzule.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Multi-agent systems fail quietly today due to state drift, broken assumptions, and coordination breakdowns. Arzule ingests failed traces from tools like CrewAI, LangChain, Claude Code, and custom stacks, finds coordination failures, and generates a corrected trace with a replayable path for how the workflow should have proceeded. It provides debugging tools, failure detection, and patch plans that can be dropped back into agent workflows to restore forward progress. Arzule also provides labeled multi-agent coordination data that support debugging, benchmarking, evaluation, and the development of more reliable multi-agent systems.",
-    "one_liner": "Debugging and labeling to improve multi-agent coordination",
+    "long_description": "Multi-agent systems fail quietly today due to state drift, broken assumptions, and coordination breakdowns. Arzule ingests failed traces from tools like CrewAI, LangChain, Claude Code, and custom stacks, finds coordination failures, and generates a corrected trace. Users can approve or deny the correction so Arzule learns what “good” looks like in the context of the current project. It provides observability, debugging tools, failure detection, and patch plans that can be dropped back into agent workflows to improve costs, efficiency, and quality. Additionally, Arzule is currently offering early access to synthetic creation and labeling of multi-agent coordination tasks for companies who reach out.",
+    "one_liner": "Debugging multi-agent coordination",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
@@ -48465,6 +48511,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/o11",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
+  },
+  {
+    "id": 31247,
+    "name": "Fed10",
+    "slug": "fed10",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ed78fd7caa59335d26e6924d7cd9e597c6f6f2a8.png",
+    "website": "https://www.fed10.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Fed10 is a legislative consulting firm staffed by AI agents. \r\n\r\nWe monitor every bill across the U.S., flag threats to your business, and deliver actionable insights — the same work a $500/hr policy consultant does, but in seconds instead of days.\r\n\r\nBuilt by three ex-lobbyists who passed legislation together.",
+    "one_liner": "AI agents that replace your policy consultants",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "launched_at": 1768118288,
+    "tags": [
+      "GovTech",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Legal"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/fed10",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/fed10.json"
   },
   {
     "id": 31263,

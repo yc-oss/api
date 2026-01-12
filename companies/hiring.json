@@ -33414,7 +33414,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6ad200a24281fdd6a8a1c278067a5acc87ff1dab.png",
     "website": "https://www.landeed.com/",
     "all_locations": "Hyderabad, Telangana, India",
-    "long_description": "Landeed is building India's (then for rest of the world)  fastest and most comprehensive property title search engine. More than 84% of Indian household wealth is stored in real estate, property and land. However, with 2/3rds of all court cases in India dealing with land-related disputes, it is essential that people have accessible public records to both protect themselves against litigation and provide appropriate documentation for facilitating transactions.",
+    "long_description": "Landeed is the digital infrastructure for property intelligence, verification, and transactions in India. We provide read/write rails that turn fragmented property and regulatory records into verified data for managing compliance and completing transactions. Landeed uses AI-powered document intelligence and proprietary language models to convert messy records into queryable data that powers title search, legal-grade due diligence, collateral verification, title transfers and property payments. With coverage across 24 states, enterprises go live nationally from day one. We are trusted by Fortune India 500 companies across BFSI, real estate, and retail.\r\n\r\nLandeed is the blue tick for property.",
     "one_liner": "Landeed is India's fastest property title search engine ",
     "team_size": 35,
     "industry": "Fintech",
@@ -33422,10 +33422,10 @@
     "launched_at": 1656366086,
     "tags": [
       "Documents",
-      "Artificial Intelligence",
       "Fintech",
       "Legal",
-      "Proptech"
+      "Proptech",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -42073,43 +42073,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2024/duckie.json"
   },
   {
-    "id": 29244,
-    "name": "Sonia",
-    "slug": "sonia",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4e8e965172a175b24efa8810d434466238bede51.png",
-    "website": "https://soniahealth.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our goal is to build a safe AI therapist clinically as effective as the 99th percentile human therapist and to make mental health support accessible to anyone. Founded by a team of MIT researchers who published 9 papers on AI at conferences like NeurIPS.",
-    "one_liner": "AI Therapy",
-    "team_size": 5,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Consumer Health and Wellness",
-    "launched_at": 1706473568,
-    "tags": [],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2024",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Consumer Health and Wellness"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/sonia",
-    "api": "https://yc-oss.github.io/api/batches/winter-2024/sonia.json"
-  },
-  {
     "id": 29245,
     "name": "Kabilah",
     "slug": "kabilah",
@@ -43988,6 +43951,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bilanc",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/bilanc.json"
+  },
+  {
+    "id": 29376,
+    "name": "Carma",
+    "slug": "carma",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/995749b249373d88528eca173b29dc4d2d8e77da.png",
+    "website": "https://www.joincarma.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Carma is building an AI-native platform that transforms fleet operations from tedious, manual work into effortless, automated workflows.\r\n\r\nWe’re the fastest-growing company in fleet management software. Carma already powers some of the largest fleets in the U.S., including Fortune 500 clients, saving operations teams thousands of hours by eliminating busywork and keeping vehicles on the road.\r\n\r\nBacked by Soma Capital, Y Combinator, founders of Superhuman, and top-tier investors, we raised our $5.5M seed and are sprinting toward a Series A in 2026.\r\n\r\nWe’re hiring the top 0.1% of engineers who want real ownership and impact—starting Day 1, you’ll build and ship fast to production for enterprise clients. Fleet operations run in real time, so your work is immediately used in the field and gets real customer feedback in hours, not months.",
+    "one_liner": "Same-Day Auto Repair for Commercial Fleets.",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1701065445,
+    "tags": [
+      "Auto Commerce",
+      "Marketplace",
+      "B2B",
+      "Trust & Safety",
+      "Automotive"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/carma",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/carma.json"
   },
   {
     "id": 29377,
@@ -49317,7 +49325,7 @@
     "all_locations": "",
     "long_description": "The rise of low-cost commercial drones has introduced a new class of asymmetric threats to U.S. national security. Off-the-shelf platforms now deliver ISR, contraband, or payloads with precision, while operating below radar coverage and beyond line-of-sight. These systems—often costing under $1,000—are capable of neutralizing multi-million-dollar defense assets. For drone detection to be viable at scale, sensors must achieve cost parity with the threat.\r\n\r\nIn response, the Department of Defense established multiple initiatives to counter the rapid proliferation of uncrewed aerial systems. The Joint Counter-small UAS Office (JCO) coordinates policy and acquisition across services. The Base Defense Cross-Functional Team enables persistent perimeter security for CONUS and OCONUS installations. Falcon Peak, Red Sands, and related exercises are accelerating deployment of counter-UAS technologies in complex environments.\r\n\r\nThis threat is no longer exclusive to military operations overseas. It now directly targets the U.S. homeland. In 2025, an executive order designated the protection of American airspace sovereignty a national priority, recognizing that uncrewed systems present both surveillance and kinetic risks within the United States. That same year, a domestic extremist plotted to destroy a Tennessee power substation using a drone rigged with C-4 explosives—a plan disrupted by undercover federal agents. In July 2025, an unauthorized drone collided with a rescue helicopter during disaster response operations in Kerr County, Texas, forcing an emergency landing and halting flood relief efforts. These are not isolated incidents—they reflect a broader shift in drone-enabled threats against homeland infrastructure and public safety.\r\n\r\nGuardian RF builds passive, radiofrequency-based drone detection systems for force protection and critical infrastructure defense inside the United States. Our systems are fielded under an AFWERX Direct-to-Phase-II SBIR with the 30th Security Forces Squadron at Vandenberg Space Force Base, deployed by local and state law enforcement, and integrated into commercial security operations. We were selected as a finalist for Falcon Peak 25.2, the Department of Defense’s premier counter-UAS exercise.\r\n\r\nScout is a passive RF sensor for fixed, mobile, or temporary deployments. It detects and classifies drone control signals—including modified variants of DJI, Crossfire, and ExpressLRS—at standoff ranges. Scout supports direct integration into TAK and other operational APIs and is managed through GRF-SECURE, our secure interface for live monitoring, threat alerting, and forensic review.\r\n\r\nMosaic extends coverage in austere environments, enabling persistent low-altitude monitoring and classification of non–Remote ID drones across complex terrain—without active emissions or mesh dependency.\r\n\r\nBuilt in the United States, Guardian RF delivers scalable, automated, and cost-aligned drone detection—passive by design and hardened for real-world deployment across the homeland.",
     "one_liner": "Drone detection for US defense and national security  ",
-    "team_size": 6,
+    "team_size": 15,
     "industry": "Industrials",
     "subindustry": "Industrials -> Drones",
     "launched_at": 1718385099,
@@ -49603,8 +49611,8 @@
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8045f80c2b2b1a1fc2929fceeae73b968063f35d.png",
     "website": "https://vendra-marketplace.io/",
-    "all_locations": "",
-    "long_description": "Vendra Marketplace makes sourcing custom parts from US manufacturers effortless. Submit one RFQ and Vendra automates the entire sourcing process - matching you with the right suppliers, handling outreach, and collecting competitive quotes. Full transparency and no middleman markups - just smarter sourcing. \r\n\r\nVisit www.vendra-marketplace.io and submit an RFQ today!",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Vendra makes sourcing custom parts from US manufacturers effortless. Submit one RFQ and we automate the entire sourcing process - matching you with the right suppliers, handling outreach, and collecting competitive quotes. Full transparency and no middleman markups - just smarter sourcing. \r\n\r\nVisit www.vendra.io and submit an RFQ today!",
     "one_liner": "Custom Parts, Manufactured in America 🇺🇸",
     "team_size": 4,
     "industry": "Industrials",
@@ -49621,7 +49629,8 @@
       "Industrials"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -50872,7 +50881,7 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d318f4dc19468a1650202defffac7c3b9d4b5b40.png",
     "website": "https://streamable.run",
-    "all_locations": "New York, NY, USA",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "https://streamable.run\r\n",
     "one_liner": "Never IRL stream with issues again.",
     "team_size": 4,
@@ -53359,16 +53368,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/544faf85c3fb3b0e5acf3a985a6a1ce535df4377.png",
     "website": "https://fromolive.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Olive connects to your database & third party services to help you build admin dashboards and support tools in minutes.",
-    "one_liner": "Build admin dashboards with a prompt.",
+    "long_description": "Olive learns your hiring bar as you review candidates and gives you suggestions to find the best talent.",
+    "one_liner": "AI Applicant Screening",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1740018718,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
+      "B2B",
+      "Recruiting",
+      "Talent Acquisition"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -53378,7 +53388,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Recruiting and Talent"
     ],
     "regions": [
       "United States of America",
@@ -57610,10 +57620,10 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/08842805c015165cf0d7e591168f2b15a9e9c85a.png",
     "website": "https://vernerobotics.com/",
-    "all_locations": "",
+    "all_locations": "San Francisco, CA, USA",
     "long_description": "We build AI models for controlling robot arms, enabling them to learn new skills in just hours. Our robots help businesses cut costs by automating back-of-house tasks with an innovative  pay-by-the-hour business model. Our customers include a biotech unicorn, a leading biotech non-profit, and a direct to consumer apparel brand.",
     "one_liner": "AI models that teach robots new skills in hours",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1753480338,
@@ -57629,7 +57639,8 @@
       "Manufacturing and Robotics"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,

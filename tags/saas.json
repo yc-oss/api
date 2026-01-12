@@ -49563,6 +49563,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/protent.json"
   },
   {
+    "id": 31178,
+    "name": "Cardboard",
+    "slug": "cardboard",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd18107dd1d0b70679aef18956a0bd68d03549b0.png",
+    "website": "https://cardboard.sh",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cardboard is an agentic video editor for growth/marketing teams and serious creators who need to ship videos consistently. Instead of agencies, long timelines, and infinite review cycles, teams give cardboard a footage + a goal (“3 variants”, “30s hook”, “testimonials”) to get a strong first cut in minutes on which they can iterate quickly.\r\n\r\nMultimodal LLMs can finally reason over footage, and WebGPU/WebCodecs make a real NLE possible in the browser. For the first time, an “AI director” inside a professional editor can be a reality.\r\n\r\nWe have to build two hard things at once: a high-performance editor in the browser and an agentic editor that is reliable for production use cases. Most startups do one; incumbents can’t rebuild their stack without breaking everything.\r\n\r\nSaksham and Ishan met in school and have known each other since 15 years. Saksham was Co-founder/CTO of Iterate AI (backed by EF) and posts content on social media; Ishan has spent ~5yr building memory-heavy, performance-critical browser apps at HackerRank (S11) and deeply understands browsers. He has built Hotspoter (5M+ downloads) when he was 14.\r\n\r\nTogether, we’re unusually suited to build the editor core others avoid.\r\n\r\nVideo is becoming the default distribution channel, and the team that iterates fastest compounds attention. Cardboard becomes the default workspace for video production, the way Canva/Figma became the workspace for design - because it’s collaborative, fast, and does the tedious parts for you.",
+    "one_liner": "Agentic video editor",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768162565,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Video",
+      "Media"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cardboard",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/cardboard.json"
+  },
+  {
     "id": 31207,
     "name": "Caretta",
     "slug": "caretta",
@@ -49614,8 +49655,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34258b15ca5b4476b85cb059efce39097c6b6d07.png",
     "website": "https://www.arzule.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Multi-agent systems fail quietly today due to state drift, broken assumptions, and coordination breakdowns. Arzule ingests failed traces from tools like CrewAI, LangChain, Claude Code, and custom stacks, finds coordination failures, and generates a corrected trace with a replayable path for how the workflow should have proceeded. It provides debugging tools, failure detection, and patch plans that can be dropped back into agent workflows to restore forward progress. Arzule also provides labeled multi-agent coordination data that support debugging, benchmarking, evaluation, and the development of more reliable multi-agent systems.",
-    "one_liner": "Debugging and labeling to improve multi-agent coordination",
+    "long_description": "Multi-agent systems fail quietly today due to state drift, broken assumptions, and coordination breakdowns. Arzule ingests failed traces from tools like CrewAI, LangChain, Claude Code, and custom stacks, finds coordination failures, and generates a corrected trace. Users can approve or deny the correction so Arzule learns what “good” looks like in the context of the current project. It provides observability, debugging tools, failure detection, and patch plans that can be dropped back into agent workflows to improve costs, efficiency, and quality. Additionally, Arzule is currently offering early access to synthetic creation and labeling of multi-agent coordination tasks for companies who reach out.",
+    "one_liner": "Debugging multi-agent coordination",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",

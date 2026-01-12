@@ -17291,17 +17291,16 @@
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2892a41266e0a3d9870f882c5e0a3ca3f6d266b6.png",
     "website": "https://www.aethergtm.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aether helps home services teams generate more revenue by instantly targeting high-intent properties, measuring property, managing deals and sending quotes-in one platform. \r\n",
-    "one_liner": "AI go-to-market revenue engine for home services installers. ",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Aether produces roof, exterior, interior, and property measurement reports from multiple visual inputs, including aerial imagery, LiDAR, drone capture, and ground-level photos and video\r\n",
+    "one_liner": "Aether turns imagery, and video into building measurements. ",
     "team_size": 8,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1709429693,
     "tags": [
-      "Climate",
-      "CRM",
-      "AI"
+      "Artificial Intelligence",
+      "CRM"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -17317,7 +17316,7 @@
       "United States of America",
       "America / Canada",
       "Remote",
-      "Partly Remote"
+      "Fully Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
@@ -21337,47 +21336,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/hud.json"
   },
   {
-    "id": 30255,
-    "name": "Olive",
-    "slug": "olive",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/544faf85c3fb3b0e5acf3a985a6a1ce535df4377.png",
-    "website": "https://fromolive.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Olive connects to your database & third party services to help you build admin dashboards and support tools in minutes.",
-    "one_liner": "Build admin dashboards with a prompt.",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1740018718,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "B2B"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/olive",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/olive.json"
-  },
-  {
     "id": 30260,
     "name": "Macadamia",
     "slug": "macadamia",
@@ -24720,8 +24678,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/34258b15ca5b4476b85cb059efce39097c6b6d07.png",
     "website": "https://www.arzule.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Multi-agent systems fail quietly today due to state drift, broken assumptions, and coordination breakdowns. Arzule ingests failed traces from tools like CrewAI, LangChain, Claude Code, and custom stacks, finds coordination failures, and generates a corrected trace with a replayable path for how the workflow should have proceeded. It provides debugging tools, failure detection, and patch plans that can be dropped back into agent workflows to restore forward progress. Arzule also provides labeled multi-agent coordination data that support debugging, benchmarking, evaluation, and the development of more reliable multi-agent systems.",
-    "one_liner": "Debugging and labeling to improve multi-agent coordination",
+    "long_description": "Multi-agent systems fail quietly today due to state drift, broken assumptions, and coordination breakdowns. Arzule ingests failed traces from tools like CrewAI, LangChain, Claude Code, and custom stacks, finds coordination failures, and generates a corrected trace. Users can approve or deny the correction so Arzule learns what “good” looks like in the context of the current project. It provides observability, debugging tools, failure detection, and patch plans that can be dropped back into agent workflows to improve costs, efficiency, and quality. Additionally, Arzule is currently offering early access to synthetic creation and labeling of multi-agent coordination tasks for companies who reach out.",
+    "one_liner": "Debugging multi-agent coordination",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
