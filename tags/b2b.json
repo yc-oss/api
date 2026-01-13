@@ -6325,7 +6325,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -18206,10 +18206,10 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2021",
-    "status": "Active",
+    "status": "Acquired",
     "industries": [
       "B2B",
       "Supply Chain and Logistics"
@@ -30284,7 +30284,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2023",
     "status": "Active",
@@ -33726,17 +33726,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e638279869f7de4ca5752835249b8d2c8711f432.png",
     "website": "https://www.arcimus.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We track thousands of signals across the world to find people who need your product, just tell us who your perfect customer is and we'll get you a list. (Don't limit yourself to basic filters like revenue or size)\r\n\r\nSome things we can track: \r\n- Brand new online degree programs\r\n- Law firms expanding\r\n- Companies hiring their first sales reps\r\n\r\nreally anything, try us 😎",
-    "one_liner": "Find who needs your product",
+    "long_description": "We send founders and heads of recruiting a steady flow of engineers filtered with real engineering judgment.",
+    "one_liner": "A stream of engineering candidates who ship.",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1688422259,
     "tags": [
-      "Artificial Intelligence",
       "Generative AI",
       "B2B",
-      "Sales"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -33745,7 +33744,8 @@
     "batch": "Summer 2023",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Recruiting and Talent"
     ],
     "regions": [
       "United States of America",
@@ -36406,16 +36406,16 @@
     "website": "https://www.joincarma.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Carma is building an AI-native platform that transforms fleet operations from tedious, manual work into effortless, automated workflows.\r\n\r\nWe’re the fastest-growing company in fleet management software. Carma already powers some of the largest fleets in the U.S., including Fortune 500 clients, saving operations teams thousands of hours by eliminating busywork and keeping vehicles on the road.\r\n\r\nBacked by Soma Capital, Y Combinator, founders of Superhuman, and top-tier investors, we raised our $5.5M seed and are sprinting toward a Series A in 2026.\r\n\r\nWe’re hiring the top 0.1% of engineers who want real ownership and impact—starting Day 1, you’ll build and ship fast to production for enterprise clients. Fleet operations run in real time, so your work is immediately used in the field and gets real customer feedback in hours, not months.",
-    "one_liner": "Same-Day Auto Repair for Commercial Fleets.",
+    "one_liner": "The AI Operating System For Modern Fleets.",
     "team_size": 15,
     "industry": "B2B",
-    "subindustry": "B2B -> Marketing",
+    "subindustry": "B2B -> Operations",
     "launched_at": 1701065445,
     "tags": [
-      "Auto Commerce",
-      "Marketplace",
+      "Artificial Intelligence",
       "B2B",
-      "Trust & Safety",
+      "Workflow Automation",
+      "Compliance",
       "Automotive"
     ],
     "tags_highlighted": [],
@@ -36426,7 +36426,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Marketing"
+      "Operations"
     ],
     "regions": [
       "United States of America",
@@ -41929,49 +41929,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/oki.json"
   },
   {
-    "id": 30247,
-    "name": "Osmosis",
-    "slug": "osmosis",
-    "former_names": [
-      "Gulp"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e0e653e5da051b7c87a56070249ad76479b0594.png",
-    "website": "https://osmosis.ai/",
-    "all_locations": "",
-    "long_description": "Osmosis enables AI self-improvement through real-time reinforcement learning. ",
-    "one_liner": "Online Reinforcement Learning for AI Agents",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1737656598,
-    "tags": [
-      "Developer Tools",
-      "Reinforcement Learning",
-      "B2B",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/osmosis",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/osmosis.json"
-  },
-  {
     "id": 30248,
     "name": "Operand",
     "slug": "operand",
@@ -43975,13 +43932,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Lumari enables supply chain teams to streamline operations with always-on agents that monitor, coordinate, and take action from sourcing to delivery.",
     "one_liner": "AI Digital Workers for Supply Chain",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1747084472,
     "tags": [
       "Artificial Intelligence",
       "B2B",
+      "Manufacturing",
       "Supply Chain",
       "Operations"
     ],
@@ -48140,9 +48098,10 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1767743432,
     "tags": [
+      "Artificial Intelligence",
+      "SaaS",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,

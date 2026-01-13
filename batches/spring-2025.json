@@ -1687,22 +1687,25 @@
   },
   {
     "id": 30438,
-    "name": "Beluga Labs",
-    "slug": "beluga-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50d42478a34c0d5bf559cd697f4f613bc54bad1d.png",
+    "name": "Beluga",
+    "slug": "beluga",
+    "former_names": [
+      "Beluga Labs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/11644b045eb253141d3efc6875010730a886df27.png",
     "website": "https://www.belugalabs.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "The rapidly growing creator economy ($250B+) consists of millions of solo entrepreneurs still managing complex business finances with spreadsheets and a patchwork of disconnected tools. They face volatile multi-source income, unique business expenses, and daunting U.S. tax obligations: leading to significant stress, lost time, and missed financial opportunities.\r\n\r\nBeluga Labs is building the financial operating system for these modern solopreneurs. Our platform starts with intelligent bookkeeping: we connect all their financial accounts, use AI to automatically categorize income and expenses, and assess their potential tax deductibility, giving creators a clear picture of their business finances and tax preparedness. This core solution, already actively used for expense management and tax Q&A, is the first step. We will rapidly expand to automate quarterly tax filing and payments, then provide integrated tools for S-corp formation and management, payroll, and benefits: truly becoming the 'Rippling for content creators.' Our success means creators save more money, reduce administrative burdens, and can confidently focus on their craft and growth within the creator economy.",
-    "one_liner": "Rippling for Content Creators",
-    "team_size": 2,
+    "long_description": "Using our 7+ years of influencer marketing experience to help companies run their influencer campaigns at scale. Fully managed solution to drive real, attributable results to their marketing efforts.",
+    "one_liner": "Influencer marketing that converts",
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Operations",
+    "subindustry": "B2B -> Marketing",
     "launched_at": 1748129784,
     "tags": [
-      "Fintech",
-      "Creator Economy",
-      "AI"
+      "Artificial Intelligence",
+      "Marketing",
+      "Advertising",
+      "Creator Economy"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1712,19 +1715,21 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Operations"
+      "Marketing"
     ],
     "regions": [
       "United States of America",
-      "America / Canada"
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/beluga-labs",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/beluga-labs.json"
+    "url": "https://www.ycombinator.com/companies/beluga",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/beluga.json"
   },
   {
     "id": 30439,
@@ -5170,13 +5175,14 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Lumari enables supply chain teams to streamline operations with always-on agents that monitor, coordinate, and take action from sourcing to delivery.",
     "one_liner": "AI Digital Workers for Supply Chain",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Supply Chain and Logistics",
     "launched_at": 1747084472,
     "tags": [
       "Artificial Intelligence",
       "B2B",
+      "Manufacturing",
       "Supply Chain",
       "Operations"
     ],

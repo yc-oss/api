@@ -1860,7 +1860,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2018",
     "status": "Active",
@@ -14516,6 +14516,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2023/remy.json"
   },
   {
+    "id": 28812,
+    "name": "Cedana",
+    "slug": "cedana",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/765d8a1a78a1c5939f354a26be87d3c1c1696290.png",
+    "website": "https://cedana.ai",
+    "all_locations": "New York, NY, USA; Remote",
+    "long_description": "Cedana (YC S23) brings hyperscaler and frontier-lab orchestration capabilities for AI workflows. Our core capability is live migration for CPUs and GPUs workloads. This increases cost savings up to 80%, accelerates time to first token 2-10x, and enables stateful reliability of training jobs even through catastrophic GPU failures. We've integrated our solution into K8s, and support Kueue and Slurm for training distributed jobs, and Kserve for serving inference.    \r\n\r\nOpenAI, Meta and Microsoft have flavors of these capabilities internally and we’re bringing them to everyone. \r\n\r\nOur vision is to transform cloud compute into a real-time, arbitraged commodity. \r\n\r\nhttps://www.cedana.ai",
+    "one_liner": "Fast, reliable, reproducible AI with GPU live migration",
+    "team_size": 5,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1689189501,
+    "tags": [
+      "Deep Learning",
+      "Developer Tools",
+      "Cloud Computing",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cedana",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/cedana.json"
+  },
+  {
     "id": 28815,
     "name": "Atla",
     "slug": "atla",
@@ -14999,6 +15044,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/docsum",
     "api": "https://yc-oss.github.io/api/batches/summer-2023/docsum.json"
+  },
+  {
+    "id": 28857,
+    "name": "Arcimus",
+    "slug": "arcimus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e638279869f7de4ca5752835249b8d2c8711f432.png",
+    "website": "https://www.arcimus.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We send founders and heads of recruiting a steady flow of engineers filtered with real engineering judgment.",
+    "one_liner": "A stream of engineering candidates who ship.",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "launched_at": 1688422259,
+    "tags": [
+      "Generative AI",
+      "B2B",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2023",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Recruiting and Talent"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/arcimus",
+    "api": "https://yc-oss.github.io/api/batches/summer-2023/arcimus.json"
   },
   {
     "id": 28864,
@@ -18704,6 +18790,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/pandasai",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/pandasai.json"
+  },
+  {
+    "id": 29350,
+    "name": "Aether",
+    "slug": "aether",
+    "former_names": [
+      "Aether Energy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2892a41266e0a3d9870f882c5e0a3ca3f6d266b6.png",
+    "website": "https://www.aethergtm.com/",
+    "all_locations": "San Francisco, CA, USA; Remote",
+    "long_description": "Aether is a building measurement platform for home-services contractors and insurance carriers, delivering roof, exterior, interior, and property measurement reports.\r\n\r\n\r\n",
+    "one_liner": "Aether turns imagery, and video into building measurements. ",
+    "team_size": 8,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1709429693,
+    "tags": [
+      "CRM",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Fully Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/aether",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/aether.json"
   },
   {
     "id": 29354,
@@ -22956,6 +23086,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/autarc.json"
   },
   {
+    "id": 29824,
+    "name": "Assembly HOA",
+    "slug": "assembly-hoa",
+    "former_names": [
+      "Assembly Technologies Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/251db0cfd3ffbbbe376cb8fa8066246654b8bd87.png",
+    "website": "https://assemblyhoa.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Assembly is an AI-native HOA management company on a mission to fix homeowner associations. Traditional HOA management is often reactive, confusing, and inefficient. Assembly takes a different approach by combining professional expertise with intelligent software to make communities run smoothly and decisions easier.\r\n\r\nWe exist to build trust, create transparency, and ensure well-run communities that protect and enhance property values.\r\n\r\nAssembly simplifies day-to-day operations, automates routine tasks, and delivers the right knowledge at the right time. Our platform gives boards and homeowners clarity to make smarter, more confident decisions. \r\n\r\nWe manage HOAs in San Francisco Bay Area and Greater Los Angeles. ",
+    "one_liner": "AI-enabled HOA Management Company",
+    "team_size": 9,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "launched_at": 1720464041,
+    "tags": [
+      "Fintech",
+      "Real Estate",
+      "Housing",
+      "Proptech",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction",
+      "Housing and Real Estate"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/assembly-hoa",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/assembly-hoa.json"
+  },
+  {
     "id": 29825,
     "name": "Sepal AI",
     "slug": "sepal-ai",
@@ -25895,49 +26072,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2025/swerve.json"
   },
   {
-    "id": 30247,
-    "name": "Osmosis",
-    "slug": "osmosis",
-    "former_names": [
-      "Gulp"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0e0e653e5da051b7c87a56070249ad76479b0594.png",
-    "website": "https://osmosis.ai/",
-    "all_locations": "",
-    "long_description": "Osmosis enables AI self-improvement through real-time reinforcement learning. ",
-    "one_liner": "Online Reinforcement Learning for AI Agents",
-    "team_size": 6,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1737656598,
-    "tags": [
-      "Developer Tools",
-      "Reinforcement Learning",
-      "B2B",
-      "Infrastructure",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "Unspecified"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/osmosis",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/osmosis.json"
-  },
-  {
     "id": 30250,
     "name": "GradeWiz",
     "slug": "gradewiz",
@@ -27480,47 +27614,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/zeon-systems",
     "api": "https://yc-oss.github.io/api/batches/spring-2025/zeon-systems.json"
-  },
-  {
-    "id": 30438,
-    "name": "Beluga Labs",
-    "slug": "beluga-labs",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/50d42478a34c0d5bf559cd697f4f613bc54bad1d.png",
-    "website": "https://www.belugalabs.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "The rapidly growing creator economy ($250B+) consists of millions of solo entrepreneurs still managing complex business finances with spreadsheets and a patchwork of disconnected tools. They face volatile multi-source income, unique business expenses, and daunting U.S. tax obligations: leading to significant stress, lost time, and missed financial opportunities.\r\n\r\nBeluga Labs is building the financial operating system for these modern solopreneurs. Our platform starts with intelligent bookkeeping: we connect all their financial accounts, use AI to automatically categorize income and expenses, and assess their potential tax deductibility, giving creators a clear picture of their business finances and tax preparedness. This core solution, already actively used for expense management and tax Q&A, is the first step. We will rapidly expand to automate quarterly tax filing and payments, then provide integrated tools for S-corp formation and management, payroll, and benefits: truly becoming the 'Rippling for content creators.' Our success means creators save more money, reduce administrative burdens, and can confidently focus on their craft and growth within the creator economy.",
-    "one_liner": "Rippling for Content Creators",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1748129784,
-    "tags": [
-      "Fintech",
-      "Creator Economy",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/beluga-labs",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/beluga-labs.json"
   },
   {
     "id": 30441,
@@ -29269,48 +29362,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/topological",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/topological.json"
-  },
-  {
-    "id": 30638,
-    "name": "Lotas",
-    "slug": "lotas",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b64e79cf442071bbe251c8f19acacccc3dbf1fea.png",
-    "website": "https://www.lotas.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lotas is building Erdos: a secure, AI-native IDE for data science. Cursor is excellent for software development but it lacks data science-specific tools that are critical to a data scientist’s workflow. Lotas is closing that gap.\r\n\r\nFor our first product, we built Rao: an AI coding assistant into RStudio — an IDE used by up to 5 million data scientists and statisticians who use the R programming language to analyze data. Rao could read, write, and edit code while understanding the user's context (codebase and environmental variables).",
-    "one_liner": "Cursor for Data Science — secure, AI-native IDE for data scientists",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1754374450,
-    "tags": [
-      "Developer Tools",
-      "Data Science",
-      "Data Visualization",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lotas",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/lotas.json"
   },
   {
     "id": 30640,
@@ -32762,49 +32813,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/hlabs.json"
   },
   {
-    "id": 31078,
-    "name": "Tensol",
-    "slug": "tensol",
-    "former_names": [
-      "Solstis"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c512a434afc14b086c9aa27ce1cbd85e0059813d.png",
-    "website": "https://www.tensol.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Tensol is the AI-native operating system for hospitality. We replace legacy hotel ERPs and back-office software with one system that runs guest communications, bookings, reviews, procurement, and invoicing in a single place, where AI agents answer guest messages, send quotes and confirmations, update bookings, respond to reviews, and log everything directly in the system.\r\n\r\nWe’re starting with guest communications and review management, where AI agents handle inbound guest requests and reviews end-to-end, making front-office teams 3x more productive, resolving 80% of inquiries automatically, increasing upsells and brand reputation.",
-    "one_liner": "AI-native Hospitality Operating System",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Operations",
-    "launched_at": 1767743432,
-    "tags": [
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Operations"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tensol",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/tensol.json"
-  },
-  {
     "id": 31080,
     "name": "Didit",
     "slug": "didit",
@@ -32977,54 +32985,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/avoice.json"
   },
   {
-    "id": 31146,
-    "name": "Arcline",
-    "slug": "arcline",
-    "former_names": [
-      "https://www.arcline-ai.com/",
-      "Arcline AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f76442626bb5dc33b9b6ae6b9ea6033dff2869f6.png",
-    "website": "https://www.arcline-ai.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI-native legal services designed to solve startup legal work in hours. \r\nIf you’re a founder tired of spending $ X0k+ and months on ESOP, contracts, compliance, corporate, or cross-border legal work, we built Arcline for you. \r\n\r\nArcline’s 40+ AI-native lawyers deliver legal services fast, quality-assured and affordable. \r\n\r\nSo you can sell, raise, hire, and launch in hours, not months.\r\n\r\nArcline lawyers are trained at top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). Trusted by founders backed by YC, Sequoia, a16z, Founders Fund.\r\n\r\nWe’re delivering the same top tier legal help to you, without the usual delay or cost. \r\n\r\nDiscover Arcline if you want legal to stop being the bottleneck or crippling your runway.\r\n\r\n",
-    "one_liner": "AI-native lawyers handling startup legal work in hours",
-    "team_size": 5,
-    "industry": "B2B",
-    "subindustry": "B2B -> Legal",
-    "launched_at": 1767976988,
-    "tags": [
-      "Marketplace",
-      "Compliance",
-      "Legal",
-      "LegalTech",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Legal"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": true,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/arcline",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/arcline.json"
-  },
-  {
     "id": 31173,
     "name": "Laurence",
     "slug": "laurence",
@@ -33159,7 +33119,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88bf8a6692e5da320453a8e9ba77f0176ddd1256.png",
     "website": "https://www.humanarchive.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re archiving the physical world for embodied intelligence by collecting and labeling aligned multimodal data. To build dexterous and perceptive robots that generalize robustly, we need massive amounts of real-world data across multiple modalities and environments.\r\n\r\nWe have thought deeply about the fine line between biomimicry and its application to humanoid systems. Based on this research, we design and deploy custom hardware across residential and manufacturing settings. We then process the resulting data through internal QA, anonymization, and annotation pipelines to deliver diverse, high-fidelity datasets at scale to frontier labs developing robotics foundation models and general-purpose robotics companies. \r\n\r\nWe believe we are at a historic inflection point, with a unique opportunity to leave a dent on humanity and reshape physical labor markets forever. That's why our team dropped out of Stanford and Berkeley and moved to Asia to collect the world’s largest annotated multimodal dataset. ",
+    "long_description": "We’re archiving the physical world for embodied intelligence by collecting and labeling aligned multimodal data. To build dexterous and perceptive robots that generalize robustly, we need massive amounts of real-world data across multiple modalities and environments.\r\n\r\nWe have thought deeply about the fine line between biomimicry and its application to humanoid systems. Based on this research, we design and deploy custom hardware across residential and manufacturing settings. We then post-process the resulting data through internal QA, anonymization, and annotation pipelines to deliver diverse, high-fidelity datasets at scale to frontier labs developing robotics foundation models and general-purpose robotics companies. \r\n\r\nWe believe we are at a historic inflection point, with a unique opportunity to leave a dent on humanity and reshape physical labor markets forever. That's why our team dropped out of Stanford and Berkeley and moved to Asia to collect the world’s largest annotated multimodal dataset. ",
     "one_liner": "Multimodal data provider for robotics learning",
     "team_size": 4,
     "industry": "Industrials",
@@ -33191,47 +33151,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/human-archive",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/human-archive.json"
-  },
-  {
-    "id": 31212,
-    "name": "Constellation",
-    "slug": "constellation",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/507992dfdd26c7120b018a48e02b63f2dbff68b3.png",
-    "website": "https://constellation-io.com/",
-    "all_locations": "Seattle, WA, USA",
-    "long_description": "ConstellationOS uses environmental and antenna telemetry to predict satellite link failures before they happen. By shifting ground stations from reactive emergency handoffs to proactive scheduling, we eliminate manual overhead and the high cost of data loss for spacecraft operators.",
-    "one_liner": "AI for satellite mission assurance.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1766273553,
-    "tags": [
-      "Satellites",
-      "Aerospace",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/constellation",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation.json"
   },
   {
     "id": 31214,
@@ -33362,6 +33281,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/o11",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/o11.json"
+  },
+  {
+    "id": 31241,
+    "name": "Corelayer",
+    "slug": "corelayer",
+    "former_names": [
+      "Sevvy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
+    "website": "https://www.corelayer.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building AI agents that do on-call support for data-heavy industries like financial services and fintech, healthcare, and insurance.\r\n\r\nOn-call engineers in these industries need to inspect data to debug production issues. We monitor both data and infrastructure for issues and use AI agents to debug and suggest fixes in minutes.\r\n\r\nData is especially sensitive in regulated industries, so we offer on-prem deployments and hardware-backed secure environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building data infrastructure together at Goldman Sachs, where they spent many late nights and weekends debugging systems that processed 100s of billions of rows a day.",
+    "one_liner": "AI on-call engineer that debugs using data",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1767713346,
+    "tags": [
+      "Developer Tools",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corelayer",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/corelayer.json"
   },
   {
     "id": 31247,

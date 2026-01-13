@@ -4987,17 +4987,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b64e79cf442071bbe251c8f19acacccc3dbf1fea.png",
     "website": "https://www.lotas.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lotas is building Erdos: a secure, AI-native IDE for data science. Cursor is excellent for software development but it lacks data science-specific tools that are critical to a data scientist’s workflow. Lotas is closing that gap.\r\n\r\nFor our first product, we built Rao: an AI coding assistant into RStudio — an IDE used by up to 5 million data scientists and statisticians who use the R programming language to analyze data. Rao could read, write, and edit code while understanding the user's context (codebase and environmental variables).",
-    "one_liner": "Cursor for Data Science — secure, AI-native IDE for data scientists",
+    "long_description": "For our first product, we built Rao: an AI coding assistant into RStudio — an IDE used by up to 5 million data scientists and statisticians who use the R programming language to analyze data. Rao could read, write, and edit code while understanding the user's context (codebase and environmental variables).",
+    "one_liner": "AI for Data Science and 3D",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1754374450,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
       "Data Science",
-      "Data Visualization",
-      "AI"
+      "Data Visualization"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5365,22 +5365,24 @@
   },
   {
     "id": 31212,
-    "name": "Constellation",
-    "slug": "constellation",
-    "former_names": [],
+    "name": "Constellation Space",
+    "slug": "constellation-space",
+    "former_names": [
+      "Constellation"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/507992dfdd26c7120b018a48e02b63f2dbff68b3.png",
     "website": "https://constellation-io.com/",
     "all_locations": "Seattle, WA, USA",
-    "long_description": "ConstellationOS uses environmental and antenna telemetry to predict satellite link failures before they happen. By shifting ground stations from reactive emergency handoffs to proactive scheduling, we eliminate manual overhead and the high cost of data loss for spacecraft operators.",
-    "one_liner": "AI for satellite mission assurance.",
+    "long_description": "Constellation builds ConstellationOS, an AI-driven platform that makes satellite networks autonomous and resilient. We ingest telemetry from satellites, ground stations, and weather systems (100K+ messages/sec), predict link failures with 90%+ accuracy up to 5 minutes in advance, and automatically reroute traffic—zero data loss, zero human intervention.\r\n\r\nhello@constellation-io.com",
+    "one_liner": "The Operating System for Space.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1766273553,
     "tags": [
+      "Artificial Intelligence",
       "Satellites",
-      "Aerospace",
-      "AI"
+      "Aerospace"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5401,7 +5403,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/constellation",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation.json"
+    "url": "https://www.ycombinator.com/companies/constellation-space",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation-space.json"
   }
 ]

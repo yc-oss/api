@@ -68,7 +68,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2026",
     "status": "Active",
@@ -483,9 +483,10 @@
     "subindustry": "B2B -> Operations",
     "launched_at": 1767743432,
     "tags": [
+      "Artificial Intelligence",
+      "SaaS",
       "B2B",
-      "Enterprise Software",
-      "AI"
+      "Enterprise Software"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -929,6 +930,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/21st.json"
   },
   {
+    "id": 31129,
+    "name": "Verdex",
+    "slug": "verdex",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1120bcf00706a94884c56902a7b3d67ae4dc02dc.png",
+    "website": "https://www.verdexai.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Verdex uses satellite imagery and weather data to create a persistent, time-anchored record of what happens on every acre. This turns land into a measurable asset whose outcomes can be audited objectively at scale.\r\n\r\nVerdex is built to replace manual field inspections in insurance verification and risk management.",
+    "one_liner": "Asset Intelligence for Farmland",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Agriculture",
+    "launched_at": 1768239774,
+    "tags": [
+      "Artificial Intelligence",
+      "Insurance",
+      "Agriculture"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Agriculture"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/verdex",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/verdex.json"
+  },
+  {
     "id": 31130,
     "name": "AutoSitu",
     "slug": "autositu",
@@ -1151,18 +1193,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f76442626bb5dc33b9b6ae6b9ea6033dff2869f6.png",
     "website": "https://www.arcline-ai.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI-native legal services designed to solve startup legal work in hours. \r\nIf you’re a founder tired of spending $ X0k+ and months on ESOP, contracts, compliance, corporate, or cross-border legal work, we built Arcline for you. \r\n\r\nArcline’s 40+ AI-native lawyers deliver legal services fast, quality-assured and affordable. \r\n\r\nSo you can sell, raise, hire, and launch in hours, not months.\r\n\r\nArcline lawyers are trained at top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). Trusted by founders backed by YC, Sequoia, a16z, Founders Fund.\r\n\r\nWe’re delivering the same top tier legal help to you, without the usual delay or cost. \r\n\r\nDiscover Arcline if you want legal to stop being the bottleneck or crippling your runway.\r\n\r\n",
+    "long_description": "If you’re tired of spending $ X0k+ and months on ESOP, contracts, compliance, fundraising, cross-border work, employment, or tech, we built Arcline for you. \r\n\r\nArcline’s 50+ AI-native lawyers works at startup speed and price. So you can sell, raise, hire, and launch in hours, not months.\r\n\r\nArcline lawyers are trained at top schools (Harvard, Stanford, Oxford) and leading firms (Cooley, Goodwin, Fenwick). Trusted by founders backed by YC, Sequoia, a16z, Founders Fund.\r\n\r\nWe’re delivering the same top tier legal help to you, without the usual delay or cost. \r\n\r\nThink of us as your fractional in-house legal team, ready to deploy when needed. \r\n\r\nDiscover Arcline if you want legal to stop being the bottleneck or crippling your runway.",
     "one_liner": "AI-native lawyers handling startup legal work in hours",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Legal",
     "launched_at": 1767976988,
     "tags": [
+      "Artificial Intelligence",
       "Marketplace",
       "Compliance",
       "Legal",
-      "LegalTech",
-      "AI"
+      "LegalTech"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1617,7 +1659,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/88bf8a6692e5da320453a8e9ba77f0176ddd1256.png",
     "website": "https://www.humanarchive.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re archiving the physical world for embodied intelligence by collecting and labeling aligned multimodal data. To build dexterous and perceptive robots that generalize robustly, we need massive amounts of real-world data across multiple modalities and environments.\r\n\r\nWe have thought deeply about the fine line between biomimicry and its application to humanoid systems. Based on this research, we design and deploy custom hardware across residential and manufacturing settings. We then process the resulting data through internal QA, anonymization, and annotation pipelines to deliver diverse, high-fidelity datasets at scale to frontier labs developing robotics foundation models and general-purpose robotics companies. \r\n\r\nWe believe we are at a historic inflection point, with a unique opportunity to leave a dent on humanity and reshape physical labor markets forever. That's why our team dropped out of Stanford and Berkeley and moved to Asia to collect the world’s largest annotated multimodal dataset. ",
+    "long_description": "We’re archiving the physical world for embodied intelligence by collecting and labeling aligned multimodal data. To build dexterous and perceptive robots that generalize robustly, we need massive amounts of real-world data across multiple modalities and environments.\r\n\r\nWe have thought deeply about the fine line between biomimicry and its application to humanoid systems. Based on this research, we design and deploy custom hardware across residential and manufacturing settings. We then post-process the resulting data through internal QA, anonymization, and annotation pipelines to deliver diverse, high-fidelity datasets at scale to frontier labs developing robotics foundation models and general-purpose robotics companies. \r\n\r\nWe believe we are at a historic inflection point, with a unique opportunity to leave a dent on humanity and reshape physical labor markets forever. That's why our team dropped out of Stanford and Berkeley and moved to Asia to collect the world’s largest annotated multimodal dataset. ",
     "one_liner": "Multimodal data provider for robotics learning",
     "team_size": 4,
     "industry": "Industrials",
@@ -1735,22 +1777,24 @@
   },
   {
     "id": 31212,
-    "name": "Constellation",
-    "slug": "constellation",
-    "former_names": [],
+    "name": "Constellation Space",
+    "slug": "constellation-space",
+    "former_names": [
+      "Constellation"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/507992dfdd26c7120b018a48e02b63f2dbff68b3.png",
     "website": "https://constellation-io.com/",
     "all_locations": "Seattle, WA, USA",
-    "long_description": "ConstellationOS uses environmental and antenna telemetry to predict satellite link failures before they happen. By shifting ground stations from reactive emergency handoffs to proactive scheduling, we eliminate manual overhead and the high cost of data loss for spacecraft operators.",
-    "one_liner": "AI for satellite mission assurance.",
+    "long_description": "Constellation builds ConstellationOS, an AI-driven platform that makes satellite networks autonomous and resilient. We ingest telemetry from satellites, ground stations, and weather systems (100K+ messages/sec), predict link failures with 90%+ accuracy up to 5 minutes in advance, and automatically reroute traffic—zero data loss, zero human intervention.\r\n\r\nhello@constellation-io.com",
+    "one_liner": "The Operating System for Space.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1766273553,
     "tags": [
+      "Artificial Intelligence",
       "Satellites",
-      "Aerospace",
-      "AI"
+      "Aerospace"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1771,8 +1815,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/constellation",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation.json"
+    "url": "https://www.ycombinator.com/companies/constellation-space",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation-space.json"
   },
   {
     "id": 31214,
@@ -2036,16 +2080,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
     "website": "https://www.corelayer.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We’re building AI agents that do on-call support for data-heavy industries like financial services and fintech, healthcare, and insurance.\r\n\r\nOn-call engineers in these industries need to query data to debug production issues. We monitor both data and infrastructure for anomalies and use AI agents to debug and suggest fixes for issues.\r\n\r\nData is especially sensitive in regulated industries, so we offer hardware-backed secure environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building large-scale data infrastructure together at Goldman Sachs.",
+    "long_description": "We’re building AI agents that do on-call support for data-heavy industries like financial services and fintech, healthcare, and insurance.\r\n\r\nOn-call engineers in these industries need to inspect data to debug production issues. We monitor both data and infrastructure for issues and use AI agents to debug and suggest fixes in minutes.\r\n\r\nData is especially sensitive in regulated industries, so we offer on-prem deployments and hardware-backed secure environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building data infrastructure together at Goldman Sachs, where they spent many late nights and weekends debugging systems that processed 100s of billions of rows a day.",
     "one_liner": "AI on-call engineer that debugs using data",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1767713346,
     "tags": [
-      "Artificial Intelligence",
       "Developer Tools",
-      "Enterprise Software"
+      "Enterprise Software",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2109,6 +2153,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/fed10",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/fed10.json"
+  },
+  {
+    "id": 31260,
+    "name": "Coevolved",
+    "slug": "coevolved",
+    "former_names": [
+      "Sevenfold",
+      "Rhombal"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/be31930e3dbc1a85dbabae911121196fb26497df.png",
+    "website": "https://www.coevolved.ai",
+    "all_locations": "",
+    "long_description": "A next generation multi-agent framework for designing, deploying, and scaling agent systems with clear, composable architectures. Built to make multi-agent systems fast, observable, and production ready from day one, with support for fully managed inference.",
+    "one_liner": "Incredibly Fast Multi-Agent Orchestration and Execution",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1768253497,
+    "tags": [
+      "AIOps",
+      "Generative AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/coevolved",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/coevolved.json"
   },
   {
     "id": 31263,

@@ -747,7 +747,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9c9b9996bb500ee171134f1e1a0a83f5d48bec3.png",
     "website": "https://www.starcloud.com/",
     "all_locations": "Redmond, WA, USA",
-    "long_description": "(Formerly known as Lumen Orbit) \r\nStarcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give us access to abundant energy, passive cooling, and the ability to rapidly scale in space.\r\n\r\nIn Partnership with NVIDIA's Inception Program, we are launching our demonstrator satellite in late 2025, which will have 100x more powerful GPUs than have ever been operated in space. ",
+    "long_description": "Starcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give Starcloud access to abundant energy, radiative cooling, and the ability to rapidly scale in space.\r\n\r\nIn November 2025, just 21 months after founding, Starcloud launched its first satellite, Starcloud-1 to space. This has an Nvidia H100, which is 100x more powerful GPU than has ever been operated in space before. With this, they became the first entity to train an LLM in space and the first to run a version of Gemini in space. \r\n\r\nStarcloud are launching their second satellite in October this year, which will have 100x the power generation of the first. Starcloud expects that within 10 years, most new data centers will be being built in space for the energy.",
     "one_liner": "Data centers in space",
     "team_size": 12,
     "industry": "Industrials",
@@ -867,22 +867,24 @@
   },
   {
     "id": 31212,
-    "name": "Constellation",
-    "slug": "constellation",
-    "former_names": [],
+    "name": "Constellation Space",
+    "slug": "constellation-space",
+    "former_names": [
+      "Constellation"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/507992dfdd26c7120b018a48e02b63f2dbff68b3.png",
     "website": "https://constellation-io.com/",
     "all_locations": "Seattle, WA, USA",
-    "long_description": "ConstellationOS uses environmental and antenna telemetry to predict satellite link failures before they happen. By shifting ground stations from reactive emergency handoffs to proactive scheduling, we eliminate manual overhead and the high cost of data loss for spacecraft operators.",
-    "one_liner": "AI for satellite mission assurance.",
+    "long_description": "Constellation builds ConstellationOS, an AI-driven platform that makes satellite networks autonomous and resilient. We ingest telemetry from satellites, ground stations, and weather systems (100K+ messages/sec), predict link failures with 90%+ accuracy up to 5 minutes in advance, and automatically reroute traffic—zero data loss, zero human intervention.\r\n\r\nhello@constellation-io.com",
+    "one_liner": "The Operating System for Space.",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1766273553,
     "tags": [
+      "Artificial Intelligence",
       "Satellites",
-      "Aerospace",
-      "AI"
+      "Aerospace"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -903,7 +905,7 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/constellation",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation.json"
+    "url": "https://www.ycombinator.com/companies/constellation-space",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation-space.json"
   }
 ]
