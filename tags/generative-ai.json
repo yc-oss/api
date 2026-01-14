@@ -751,7 +751,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2020",
     "status": "Active",
@@ -5877,8 +5877,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/04042feea68cfa6b3181b5712c149970e24f178f.png",
     "website": "https://www.veratainsight.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "No more switching back and forth between Pitchbook, LinkedIn, and ZoomInfo. \r\n\r\nVerata brings together the best of all three with in-depth financial and people data in one easy to use platform.\r\n\r\nVerata lets you map markets, find comparables, and conduct deep research on operators with unparalleled metrics on executive track records.\r\n\r\nResearch that took hours now takes minutes. Source deals, operating partners, advisors, and portfolio leaders all in one place. ",
-    "one_liner": "The all-in-one private equity intelligence platform.",
+    "long_description": "Source Proprietary Deals Through Your Network. Verata combines relationship intelligence with private company data to help PE firms find targets, identify warm paths, and get to companies before they hit the market. We also empower firms to leverage their extended network for back-channeling and due diligence on prospective investment targets. ",
+    "one_liner": "Network Intelligence for Investors",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -6771,16 +6771,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e638279869f7de4ca5752835249b8d2c8711f432.png",
     "website": "https://www.arcimus.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We send founders and heads of recruiting a steady flow of engineers filtered with real engineering judgment.",
+    "long_description": "We send founders and recruiting teams  a steady flow of engineers filtered with real engineering judgment.",
     "one_liner": "A stream of engineering candidates who ship.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Recruiting and Talent",
     "launched_at": 1688422259,
     "tags": [
+      "Artificial Intelligence",
       "Generative AI",
-      "B2B",
-      "AI"
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -8912,7 +8912,7 @@
     "name": "Saturn",
     "slug": "saturn",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1d77f433d1459ea2b50d107fe573ece73e32a6aa.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b86d0449e238a14d1e61291d7f68a95e0d8fafc5.png",
     "website": "https://www.SaturnOS.com",
     "all_locations": "London, England, United Kingdom",
     "long_description": "At Saturn, our mission is to make financial peace of mind more accessible by building the best operating system for wealth managers. \r\n\r\nWealth and Asset Management is one of the world’s highest revenue-generating industries, yet it remains painfully inefficient. The sector relies heavily on disjointed legacy systems, manual human tasks, and a complex web of intermediaries, all of which increase costs. \r\n\r\nSaturn is an AI-powered operating system for wealth management built to automate investment research, streamline operations, and ensure compliance. Saturn creates the best version of truth, empowering investment advisors to work more efficiently, navigate complex regulatory landscapes, and deliver personalised, high-value services to their clients.\r\n\r\nToday, Saturn supports over 200 firms globally that manage more than £35bn in assets under management (AUM) and over 200,000 clients.\r\n\r\nAs the industry grows, it faces massive operational challenges like bad tech, advisor retirements, regulatory pressure, an increased cost base, and transformational opportunities like great intergenerational wealth transfer and changing consumer needs.\r\n\r\nSaturn aims to be at the forefront of this transformation, driving the future of wealth management.",
@@ -11068,47 +11068,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/blueshoe.json"
   },
   {
-    "id": 30554,
-    "name": "Bond",
-    "slug": "bond",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4056bd531497eb8c59fcb550011c9196adad6a6.png",
-    "website": "https://www.bondapp.io/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Our AI Chief of Staff gives CEOs and busy executives instant visibility into project progress, team performance and key company metrics. Eliminating status updates and saving execs 10+ hours a week.\r\n",
-    "one_liner": "Your AI Chief of Staff",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Productivity",
-    "launched_at": 1748290714,
-    "tags": [
-      "Generative AI",
-      "B2B",
-      "Workflow Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Productivity"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/bond",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/bond.json"
-  },
-  {
     "id": 30565,
     "name": "Cohesive",
     "slug": "cohesive",
@@ -11797,7 +11756,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e152edb1a93ed2437635e5b7630e93b7466a400.png",
     "website": "https://autositu.com/",
     "all_locations": "",
-    "long_description": "At AutoSitu (formerly MirageDoodle), we build coordinated AI agents that operate inside real-world development review workflows.\r\n\r\nWe handle the first 50% of the problem, performing code checks and ensuring technical correctness, but we also know correctness isn’t the finish line. AutoSitu tackles the latter 50% by analyzing patterns from past projects to anticipate issues, align expectations, and reduce costly re-submittals.\r\n\r\nAutoSitu helps public- and private-sector teams navigate an increasingly complex, fragmented regulatory environment.",
+    "long_description": "At Autositu, we’re building coordinated AI agents that live inside cities’ cross-department development review workflows—doing the heavy lifting, escalating judgment calls, and letting staff focus where human expertise actually matters. Autositu provides expert-level guidance and catch issues in minutes, helping cities and design firms navigate an increasingly complex and fragmented regulatory environment. We serve as a strategic partner to forward-thinking public agencies and design teams across the country and are backed by Y Combinator (W26).",
     "one_liner": "AI-native workspace for municipal development review",
     "team_size": 2,
     "industry": "B2B",
@@ -11828,6 +11787,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/autositu",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/autositu.json"
+  },
+  {
+    "id": 31152,
+    "name": "Ishiki Labs",
+    "slug": "ishiki-labs",
+    "former_names": [
+      "ProactiveAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4791097536ccb2083067cbad86c74ce21f0dea77.png",
+    "website": "https://www.ishikilabs.ai/",
+    "all_locations": "",
+    "long_description": "We're building Fern - a multimodal AI that listens and watches continuously, understands context over time, and acts with human-like judgment — proactively guiding you in the moment when needed, and staying out of the way when not.",
+    "one_liner": "Building the Future of Multimodal AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768297786,
+    "tags": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Generative AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/ishiki-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ishiki-labs.json"
   },
   {
     "id": 31260,

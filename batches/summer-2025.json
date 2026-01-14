@@ -980,13 +980,15 @@
   },
   {
     "id": 30614,
-    "name": "Gaus",
-    "slug": "gaus",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/46613747d4e524395d78d130167310be1c6c0303.png",
-    "website": "https://www.joingaus.com/",
+    "name": "Astor",
+    "slug": "astor",
+    "former_names": [
+      "Gaus"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/84b5fdcf24f0c61830898968d03a605cac559df3.png",
+    "website": "https://www.joinastor.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gaus is an AI investment advisor for retail investors.\r\n\r\nFounded by Bruno Koba (Nubank, monashees) and Daniel Tulha (Stripe, Robinhood), Gaus gives every active investor an AI investment advisor working around the clock to surface their next great investment. We’re backed by YC (S25).\r\n\r\nRetail investors now account for 25% of all U.S. trading volume, nearly double from 2012. But over 56% still say they don’t feel confident in their investment decisions. Gaus fixes that. \r\n\r\nOur AI agents uncover opportunities, decode emerging trends, and deliver analysis tailored to you. Instead of drowning in noise, investors gain a clear edge, shifting from guesswork to confident decision-making.\r\n",
+    "long_description": "Astor is an AI investment advisor for retail investors.\r\n\r\nFounded by Bruno Koba (Nubank, monashees) and Daniel Tulha (Stripe, Robinhood), Astor gives every active investor an AI investment advisor working around the clock to surface their next great investment. We’re backed by YC (S25).\r\n\r\nRetail investors now account for 25% of all U.S. trading volume, nearly double from 2012. But over 56% still say they don’t feel confident in their investment decisions. Gaus fixes that. \r\n\r\nOur AI agents uncover opportunities, decode emerging trends, and deliver analysis tailored to you. Instead of drowning in noise, investors gain a clear edge, shifting from guesswork to confident decision-making.\r\n",
     "one_liner": "AI advisor for retail investors",
     "team_size": 2,
     "industry": "Fintech",
@@ -1017,8 +1019,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/gaus",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/gaus.json"
+    "url": "https://www.ycombinator.com/companies/astor",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/astor.json"
   },
   {
     "id": 30615,
@@ -1164,11 +1166,11 @@
     "subindustry": "Fintech -> Payments",
     "launched_at": 1753916245,
     "tags": [
+      "Artificial Intelligence",
       "Fintech",
       "B2B",
       "HR Tech",
-      "Payroll",
-      "AI"
+      "Payroll"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1284,22 +1286,24 @@
   },
   {
     "id": 30623,
-    "name": "Pharmie AI",
-    "slug": "pharmie-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d229305f98494015f6e3f083bec99ca9e83082a.png",
-    "website": "https://www.pharmie.app/",
+    "name": "Playgent",
+    "slug": "playgent",
+    "former_names": [
+      "Pharmie AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ad8d62052816b9ab3349fc92ba2137b2b1edb02.png",
+    "website": "https://useplaygent.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pharmie is an AI assistant for pharmacies. It can pick up calls, process prescriptions, handle insurance follow-ups, and even help upsell specific drugs and services. Pharmacies can get 50+ phone calls a day, and missing phone calls means lost revenue from filling prescriptions.\r\n\r\nPharmacy workflows are complex and custom to each pharmacy's needs. Generic tools are not enough, which is why AI agents can handle tasks end-to-end that previously could not be automated. We are constantly evolving Pharmie to become a suite of agents that supercharge your pharmacy.\r\n\r\nIn the future, pharmacies will evolve into patient care centers, bridging the gaps in access caused by today’s overburdened healthcare system. Successful pharmacies will use AI to optimize their operations, resulting in a higher quality patient experience traditional pharmacies cannot match.",
-    "one_liner": "The first AI pharmacy technician",
+    "long_description": "When enterprise agents fail in production, the conditions that caused the failure are critical: user state, data, tool calls, and context. Without a way to recreate these conditions, teams can't fix what broke.\r\n\r\nPlaygent provides infrastructure to create high-fidelity sandbox environments for AI agents. Our environments come packaged as a single MCP url where tool calls are mocked, authentication is abstracted away, and test data can be initialized via natural language or JSON specifications.\r\n\r\nTeams can use Playgent to reproduce production failures in safe, scoped environments that accurately reconstruct state. Finally, export runs as OTel traces from Playgent's environment to plug directly into your observability tools or RL pipelines.",
+    "one_liner": "Sandboxes for AI agents",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1754457298,
     "tags": [
       "SaaS",
-      "Health Tech",
-      "AI Assistant"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1320,8 +1324,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pharmie-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/pharmie-ai.json"
+    "url": "https://www.ycombinator.com/companies/playgent",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/playgent.json"
   },
   {
     "id": 30624,
@@ -2078,17 +2082,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
     "website": "https://tryjanet.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Janet AI (tryjanet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn’t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS.\r\n- Duplicate or related issues are automatically detected to reduce noise as you scale.\r\n- Tickets are auto-moved when PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can fully understand, cluster, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That’s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out tryjanet.ai to get started today!",
+    "long_description": "Janet AI (tryjanet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn’t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS.\r\n- Duplicate or related issues are automatically detected to reduce noise as you scale.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can fully understand, cluster, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That’s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out tryjanet.ai to get started today!",
     "one_liner": "The AI-Native Jira",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752861520,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "DevOps",
-      "AI"
+      "DevOps"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -3154,7 +3158,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fda446d464914642f213b7da0cd38f3f6fead898.png",
     "website": "https://ironledger.ai",
     "all_locations": "",
-    "long_description": "IronLedger provides AI agents for property accounting, starting with accounts payable. We eliminate more than $70K of accounting costs annually for over 35K multifamily units. Soon, we'll be providing end-to-end accounting services including automated billbacks, month-end close and bank reconciliation.\r\n\r\nhttps://www.ironledger.ai/",
+    "long_description": "IronLedger provides AI agents for property accounting, starting with accounts payable. We eliminate more than $70K of accounting costs annually for over 35K multifamily units.\r\n\r\nhttps://www.ironledger.ai/",
     "one_liner": "AI agents for property accounting",
     "team_size": 2,
     "industry": "Real Estate and Construction",
@@ -3569,15 +3573,15 @@
     "website": "https://ghosteye.ai",
     "all_locations": "New York, NY, USA",
     "long_description": "GhostEye uses autonomous AI agents to test how attackers exploit human vulnerabilities to compromise organizations. Just as red teams simulate technical attacks against infrastructure, we simulate sophisticated social engineering campaigns and beyond against people. \r\n\r\nOur multi-agent platform validates complete attack paths from initial human compromise to data exfiltration, providing security teams with actionable intelligence about their true human attack surface exposure before attackers find it.",
-    "one_liner": "Human-Layer Breach and Attack Breach Simulation",
+    "one_liner": "Human-Layer Breach and Attack Simulation",
     "team_size": 3,
     "industry": "B2B",
     "subindustry": "B2B -> Security",
     "launched_at": 1753230986,
     "tags": [
-      "Artificial Intelligence",
       "B2B",
-      "Cybersecurity"
+      "Cybersecurity",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -4742,7 +4746,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2025",
     "status": "Active",
@@ -6204,6 +6208,51 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/spotlight-realty.json"
   },
   {
+    "id": 30792,
+    "name": "Bizzy AI",
+    "slug": "geo-ai",
+    "former_names": [
+      "Visibl.ai",
+      "Geo AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f1bb9d080fb903ceaca051fee53ae9b28b4bb593.png",
+    "website": "https://www.usebizzy.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bizzy handles your calls, captures and qualifies leads, and books appointments directly into your CRM. It understands your services better than a receptionist would, routes and escalates calls, and syncs with your existing tools to incorporate complex workflows, all so your team can focus on servicing leads, not qualifying them.",
+    "one_liner": "Bizzy works 24/7 so you never miss a lead.",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "launched_at": 1768273014,
+    "tags": [
+      "Workflow Automation",
+      "Sales",
+      "Marketing",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Marketing"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/geo-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/geo-ai.json"
+  },
+  {
     "id": 30794,
     "name": "Vulcan Technologies",
     "slug": "vulcan-technologies",
@@ -6797,7 +6846,7 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1762789781,
     "tags": [
-      "Artificial Intelligence"
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,

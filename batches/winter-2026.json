@@ -436,13 +436,13 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Panta is the autonomous commercial insurance brokerage run by AI agents. Today, businesses wait weeks for coverage because the $1 trillion industry runs on a \"human API\"—armies of brokers manually bridging the gap with carriers. Instead of chasing email threads and re-keying data, Panta’s clients get results 10x faster because our AI agents automate the entire back-office.\r\n\r\nVincent was a Machine Learning Engineer at Google, where he led research on foundation models for recommendation at Vertex AI. Frank was a Senior Full Stack Engineer at Apple and is a top open-source contributor to the Rust and Gleam ecosystems.\r\n\r\nWe realized that while carrier response times are slow, the real bottleneck is the broker. Traditional firms spend 80% of their time on manual data entry, forcing them to scale linearly with headcount. By replacing this work with autonomous agents, we operate with zero data entry and significantly higher margins. We are building a service business with software economics.\r\n\r\nWe formed the company in December and have already bound multiple commercial policies for clients in San Francisco.\r\n\r\nWe aren't just building a better brokerage; we are building the autonomous infrastructure that American business runs on.",
     "one_liner": "Commercial insurance brokerage run by AI agents. Scales like software.",
-    "team_size": 3,
+    "team_size": 4,
     "industry": "Fintech",
     "subindustry": "Fintech -> Insurance",
     "launched_at": 1766956081,
     "tags": [
-      "Artificial Intelligence",
-      "Insurance"
+      "Insurance",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -716,6 +716,50 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/lexius.json"
   },
   {
+    "id": 31098,
+    "name": "10x Science",
+    "slug": "10x-science",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/80a81e39e735a3e350222fa5fd72596c97653b0a.png",
+    "website": "https://10xscience.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Our mission at 10x Science is to enable biopharmaceutical development to keep pace with AI-powered drug discovery. \r\n\r\nThanks to AI, the front end of drug discovery is flooding the pipeline with new drug candidates. However, current solutions for drug development are unable to resolve drug complexity and cannot keep up with modern demand. Our platform is the unlock for this bottleneck. \r\n\r\nBy applying modern AI to the development stage, specifically to protein characterization and quality assessment, we provide an end-to-end solution to dramatically speed up and scale up the preparation of candidates for the clinic. \r\n\r\nOur team is composed of Stanford University researchers from a Nobel Laureate's lab with 18+ years of collective domain expertise, 47+ scientific publications, and a 2x YC Founder. We move at the highest velocity and are positioned to lead the next-generation of modern AI drug development. ",
+    "one_liner": "The AI-native platform for next-generation protein characterization.",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768312668,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Biotech",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/10x-science",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/10x-science.json"
+  },
+  {
     "id": 31101,
     "name": "LegalOS",
     "slug": "legalos",
@@ -934,7 +978,7 @@
     "name": "Verdex",
     "slug": "verdex",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1120bcf00706a94884c56902a7b3d67ae4dc02dc.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2d57e5242b045e9e94aed1a55a2e5654b0b3108.png",
     "website": "https://www.verdexai.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Verdex uses satellite imagery and weather data to create a persistent, time-anchored record of what happens on every acre. This turns land into a measurable asset whose outcomes can be audited objectively at scale.\r\n\r\nVerdex is built to replace manual field inspections in insurance verification and risk management.",
@@ -944,9 +988,9 @@
     "subindustry": "Industrials -> Agriculture",
     "launched_at": 1768239774,
     "tags": [
-      "Artificial Intelligence",
       "Insurance",
-      "Agriculture"
+      "Agriculture",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -980,7 +1024,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2e152edb1a93ed2437635e5b7630e93b7466a400.png",
     "website": "https://autositu.com/",
     "all_locations": "",
-    "long_description": "At AutoSitu (formerly MirageDoodle), we build coordinated AI agents that operate inside real-world development review workflows.\r\n\r\nWe handle the first 50% of the problem, performing code checks and ensuring technical correctness, but we also know correctness isn’t the finish line. AutoSitu tackles the latter 50% by analyzing patterns from past projects to anticipate issues, align expectations, and reduce costly re-submittals.\r\n\r\nAutoSitu helps public- and private-sector teams navigate an increasingly complex, fragmented regulatory environment.",
+    "long_description": "At Autositu, we’re building coordinated AI agents that live inside cities’ cross-department development review workflows—doing the heavy lifting, escalating judgment calls, and letting staff focus where human expertise actually matters. Autositu provides expert-level guidance and catch issues in minutes, helping cities and design firms navigate an increasingly complex and fragmented regulatory environment. We serve as a strategic partner to forward-thinking public agencies and design teams across the country and are backed by Y Combinator (W26).",
     "one_liner": "AI-native workspace for municipal development review",
     "team_size": 2,
     "industry": "B2B",
@@ -1231,6 +1275,92 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/arcline.json"
   },
   {
+    "id": 31152,
+    "name": "Ishiki Labs",
+    "slug": "ishiki-labs",
+    "former_names": [
+      "ProactiveAI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4791097536ccb2083067cbad86c74ce21f0dea77.png",
+    "website": "https://www.ishikilabs.ai/",
+    "all_locations": "",
+    "long_description": "We're building Fern - a multimodal AI that listens and watches continuously, understands context over time, and acts with human-like judgment — proactively guiding you in the moment when needed, and staying out of the way when not.",
+    "one_liner": "Building the Future of Multimodal AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768297786,
+    "tags": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "Generative AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/ishiki-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ishiki-labs.json"
+  },
+  {
+    "id": 31163,
+    "name": "Opalite Health",
+    "slug": "opalite-health",
+    "former_names": [
+      "Calliope"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/486a2091ac156a249fa74de7d7c575fedb03c889.png",
+    "website": "http://opalitehealth.com/",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "Opalite makes it easy for healthcare providers to communicate with non-English speaking patients. We’re built to work inside existing clinical workflows, so providers can communicate in real time without waiting for an interpreter or delaying care. \r\n\r\nOpalite is available instantly, 24/7, and replaces traditional interpretation services with software that’s more reliable and saves millions of dollars per year.\r\n\r\nWe've built a voice AI system that is the safest, most compliant, and most accurate medical interpreter in the world.",
+    "one_liner": "Solving language barriers in healthcare",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1768325224,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Digital Health",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/opalite-health",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/opalite-health.json"
+  },
+  {
     "id": 31173,
     "name": "Laurence",
     "slug": "laurence",
@@ -1238,17 +1368,15 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/eca6f9c65dd95b9514253d24a67c4a4593ea1f0d.png",
     "website": "https://trylaurence.com",
     "all_locations": "",
-    "long_description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork.\r\n\r\nWe've built quantitative models and train transformers to advertise how cutting-edge hedge funds trade markets: quantitative, algorithmic, and systematic.\r\n\r\nWe're currently managing $2.5M in live Amazon Ad spend while lowering advertising cost of spend by 30%",
-    "one_liner": "The digital brain for advertising",
+    "long_description": "Advertising today is like trading in the 1980s pits: archaic, manual, and iterative guesswork. Humans update bids and keywords using noisy, delayed data with fixed rules that both break at scale and ignore stochasticity.\r\n\r\nWe've built quantitative systems that advertise the way modern hedge-funds trade markets: continuous decision-making under stochastic outcomes and explicit profit constraints. Our models systematically price bids, allocate budgets, and adjust targeting based on observed conversion signals and uncertainty.\r\n\r\nStarting with Amazon, we are automating $2.5M in live ad spend, increasing gross sales while decreasing advertising cost of sales by 40%.",
+    "one_liner": "Automating performance advertising with quantitative models",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1767919574,
     "tags": [
-      "Reinforcement Learning",
       "Advertising",
-      "Trading",
-      "AI"
+      "Trading"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1531,16 +1659,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2b70bf211f4ebf5c82ae3b52b372c4acc569be0d.png",
     "website": "https://www.clice.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Clice is the AI powered communication layer that works for any business built on relationships. It unifies email, calendar, and CRM into one intelligent workflow engine that understands context and keeps work moving without manual effort.\r\n\r\nTeams across industries use Clice to manage follow-ups, schedule meetings, organize client records, draft messages, and keep their communication channels clean and responsive. Anyone who works with clients, partners, or stakeholders can plug Clice into their CRM and get an AI teammate that handles the repetitive operational load.\r\n\r\nClice connects to the systems you already use and keeps everything organized while you focus on the work that actually moves the business forward.",
-    "one_liner": "The communication layer for every relationship-driven business",
+    "long_description": "Clice gives everyone on your team a personal AI agent that actually executes. Every agent knows their person's context, and every agent can talk to each other.\r\n\r\nNeed an answer from someone who's offline? Your agent asks their agent. A bug gets fixed in prod? Your agent updates the ticket and responds to the thread. Need to meet before launch? Your agent coordinates with theirs and books it.\r\n\r\nSales, eng, ops. If it involves communicating or coordinating across people, Clice handles it. You focus on the work that actually matters.",
+    "one_liner": "Personal AI agents for your team that coordinate with each other",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B -> Sales",
+    "subindustry": "B2B -> Productivity",
     "launched_at": 1767260558,
     "tags": [
       "B2B",
       "Productivity",
-      "Automation"
+      "Sales",
+      "Automation",
+      "Operations"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1550,7 +1680,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Sales"
+      "Productivity"
     ],
     "regions": [
       "United States of America",
@@ -2112,6 +2242,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/corelayer",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/corelayer.json"
+  },
+  {
+    "id": 31243,
+    "name": "Scout Out",
+    "slug": "scout-out",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bbc4def34ee35f1be5646ba1619e18503ee7b982.png",
+    "website": "https://scoutout.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Scout Out helps clients hire the right builder by turning building plans into fast, comparable bids.\r\n\r\nToday, every contractor who wants to bid on a project has to independently estimate material and labor quantities. That makes bidding slow, expensive, and inconsistent — and homeowners often end up comparing apples to oranges.\r\n\r\nScout Out automates this step. We use computer vision trained on building plans to generate standardized material and labor takeoffs once, in-house. We then share those takeoffs with vetted contractors, so everyone is bidding on the same scope.\r\n\r\nThe result: homeowners get more bids, faster turnaround, and clearer pricing — without asking each contractor to redo the same estimation work.\r\n\r\nWe’re starting in Los Angeles, helping homeowners rebuild after the Palisades and Eaton fires.",
+    "one_liner": "Find someone to build your building",
+    "team_size": 1,
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction",
+    "launched_at": 1768343791,
+    "tags": [
+      "Artificial Intelligence",
+      "Real Estate",
+      "Construction",
+      "Proptech"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Real Estate and Construction"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/scout-out",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/scout-out.json"
   },
   {
     "id": 31247,

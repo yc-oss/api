@@ -464,17 +464,18 @@
   },
   {
     "id": 116,
-    "name": "imgix",
+    "name": "Imgix",
     "slug": "imgix",
     "former_names": [
-      "Imgix"
+      "Imgix",
+      "imgix"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d95dbc346596e3e1fb9cc6dd5db4cb8d77ce0686.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2273004e67b5c5dafba52cce5fd02df150287bfb.png",
     "website": "https://www.imgix.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Nobody should have to employ expensive imaging scientists and engineers for their business to get the most out of their visual media. This is where imgix has your back. imgix is a platform for managing, processing, rendering, optimizing, and delivering your existing visual assets so that you can meet the demands of your business and your team can stay focused on what they do best.\r\n\r\nThe business demands on web visual media can blindside even the most hyper-aware content teams and developers. Just to be competitive on the Internet, you need your images to be sized perfectly to every device, served in one of any of a half dozen web formats, optimized to the absolute best perceptual quality while maintaining pinpoint performance, and distributed to wherever your users are, anywhere in the world. And that is just the baseline. Next-level imaging concerns like copyright, licensing, accessibility, moderation, illegal or explicit content, \"fake news\", and more, can threaten your business at any moment if not handled properly. Get any of these things wrong and you are shedding revenue, ceding ground to competitors, and potentially exposing your business to extreme liability.\r\n\r\nBy working with imgix's powerful APIs, SDKs, user interfaces, and integrations, you can rest assured that any demands on your images and videos will always be met, now and into the future, without you having to invest in building it yourself or patching together a mishmash of open source and third-party technologies. Our platform is designed to ensure that your images are always working for your business and never against it.\r\n\r\nimgix was launched through the famed Y Combinator accelerator program. Its customers include Google, Lyft, Kickstarter, AirBnb, Coursera, Bonobos, Spotify, Vimeo, Bustle, and many others.",
     "one_liner": "The platform for your visual media.",
-    "team_size": 65,
+    "team_size": 34,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1326789519,
@@ -499,10 +500,10 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
-    "app_answers": true,
+    "app_answers": null,
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/imgix",
     "api": "https://yc-oss.github.io/api/batches/summer-2011/imgix.json"
@@ -3182,7 +3183,7 @@
     "all_locations": "San Francisco, CA, USA; Remote",
     "long_description": "Our customers use Freshpaint to make their websites and entire marketing stack HIPAA compliant. It's impossible to use modern analytics and marketing tools without sharing sensitive HIPAA-regulated data. Our platform does the hard thing of moving data from A to B. And then we do the really hard thing of controlling the flow of sensitive HIPAA-regulated data to various 3rd-party marketing tools.\r\n\r\nWe're building the data infrastructure that safeguards patient privacy while also enabling marketing teams promote access to healthcare.",
     "one_liner": "Customer data collection, safeguarding, & activation for healthcare",
-    "team_size": 100,
+    "team_size": 120,
     "industry": "B2B",
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1578352495,
@@ -3207,7 +3208,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -7302,7 +7303,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1a7f1c3e5b076e80781490318e3dfe43f0db3a2b.png",
     "website": "https://www.arroyo.dev",
     "all_locations": "Berkeley, CA, USA",
-    "long_description": "Arroyo is a serverless stream processing platform built on top of the open-source Arroyo streaming engine. We allow companies to transform, filter, aggregate, and join their Kafka streams in real-time just by writing SQL. We charge purely based on usage, with no fixed costs or clusters to manage.",
+    "long_description": "Arroyo is a serverless stream processing platform built on top of the open-source Arroyo streaming engine. We allow companies to transform, filter, aggregate, and join their Kafka streams in real-time just by writing SQL. We charge purely based on usage, with no fixed costs or clusters to manage.\r\n\r\nIn 2025, Arroyo was acquired by Cloudflare and now powers Cloudflare Pipelines",
     "one_liner": "Cloud-native stream processing",
     "team_size": 2,
     "industry": "B2B",

@@ -1122,21 +1122,22 @@
   },
   {
     "id": 24395,
-    "name": "Paperbook",
-    "slug": "paperbook",
+    "name": "Miniloop",
+    "slug": "miniloop",
     "former_names": [
       "Goodseed",
       "Invezo",
       "Multibase",
       "Update",
       "Pod",
-      "Pod AI"
+      "Pod AI",
+      "Paperbook"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aeb0b93729cedfebdf93df84ed65027afb41f806.png",
-    "website": "https://paperbook.io",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/aeed5cd44236d1a01c6e9a140c5fea1bd7489cac.png",
+    "website": "https://miniloop.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "Paperbook is the intelligent platform that continuously audits, cleans, and maintains your knowledge base by detecting outdated content, inconsistencies, and structural issues before they impact customers or support teams.",
-    "one_liner": "Intelligent knowledge base platform",
+    "long_description": "Miniloop is a workflow engine for building reliable AI systems. It turns one-off prompts into structured, reusable workflows with enforced context, typed outputs, and safe re-runs, making AI dependable in production environments.",
+    "one_liner": "AI workflow engine for reliable systems",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -1165,8 +1166,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/paperbook",
-    "api": "https://yc-oss.github.io/api/batches/summer-2021/paperbook.json"
+    "url": "https://www.ycombinator.com/companies/miniloop",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/miniloop.json"
   },
   {
     "id": 24408,
@@ -5997,6 +5998,48 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/zero.json"
   },
   {
+    "id": 30554,
+    "name": "Bond",
+    "slug": "bond",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f4056bd531497eb8c59fcb550011c9196adad6a6.png",
+    "website": "https://www.bondapp.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Bond is an AI Chief of Staff that gives CEOs and busy executives real-time visibility into what’s happening across the company and tells them what to focus on. Saving execs 10+ hours a week.\r\n",
+    "one_liner": "Your AI Chief of Staff",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1748290714,
+    "tags": [
+      "B2B",
+      "Workflow Automation",
+      "Productivity",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Spring 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/bond",
+    "api": "https://yc-oss.github.io/api/batches/spring-2025/bond.json"
+  },
+  {
     "id": 30566,
     "name": "Rid",
     "slug": "rid",
@@ -6124,47 +6167,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bidflow",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/bidflow.json"
-  },
-  {
-    "id": 30623,
-    "name": "Pharmie AI",
-    "slug": "pharmie-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d229305f98494015f6e3f083bec99ca9e83082a.png",
-    "website": "https://www.pharmie.app/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pharmie is an AI assistant for pharmacies. It can pick up calls, process prescriptions, handle insurance follow-ups, and even help upsell specific drugs and services. Pharmacies can get 50+ phone calls a day, and missing phone calls means lost revenue from filling prescriptions.\r\n\r\nPharmacy workflows are complex and custom to each pharmacy's needs. Generic tools are not enough, which is why AI agents can handle tasks end-to-end that previously could not be automated. We are constantly evolving Pharmie to become a suite of agents that supercharge your pharmacy.\r\n\r\nIn the future, pharmacies will evolve into patient care centers, bridging the gaps in access caused by today’s overburdened healthcare system. Successful pharmacies will use AI to optimize their operations, resulting in a higher quality patient experience traditional pharmacies cannot match.",
-    "one_liner": "The first AI pharmacy technician",
-    "team_size": 2,
-    "industry": "Healthcare",
-    "subindustry": "Healthcare -> Healthcare IT",
-    "launched_at": 1754457298,
-    "tags": [
-      "SaaS",
-      "Health Tech",
-      "AI Assistant"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Healthcare",
-      "Healthcare IT"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pharmie-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/pharmie-ai.json"
   },
   {
     "id": 30660,

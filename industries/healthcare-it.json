@@ -5605,22 +5605,24 @@
   },
   {
     "id": 30623,
-    "name": "Pharmie AI",
-    "slug": "pharmie-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d229305f98494015f6e3f083bec99ca9e83082a.png",
-    "website": "https://www.pharmie.app/",
+    "name": "Playgent",
+    "slug": "playgent",
+    "former_names": [
+      "Pharmie AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ad8d62052816b9ab3349fc92ba2137b2b1edb02.png",
+    "website": "https://useplaygent.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pharmie is an AI assistant for pharmacies. It can pick up calls, process prescriptions, handle insurance follow-ups, and even help upsell specific drugs and services. Pharmacies can get 50+ phone calls a day, and missing phone calls means lost revenue from filling prescriptions.\r\n\r\nPharmacy workflows are complex and custom to each pharmacy's needs. Generic tools are not enough, which is why AI agents can handle tasks end-to-end that previously could not be automated. We are constantly evolving Pharmie to become a suite of agents that supercharge your pharmacy.\r\n\r\nIn the future, pharmacies will evolve into patient care centers, bridging the gaps in access caused by today’s overburdened healthcare system. Successful pharmacies will use AI to optimize their operations, resulting in a higher quality patient experience traditional pharmacies cannot match.",
-    "one_liner": "The first AI pharmacy technician",
+    "long_description": "When enterprise agents fail in production, the conditions that caused the failure are critical: user state, data, tool calls, and context. Without a way to recreate these conditions, teams can't fix what broke.\r\n\r\nPlaygent provides infrastructure to create high-fidelity sandbox environments for AI agents. Our environments come packaged as a single MCP url where tool calls are mocked, authentication is abstracted away, and test data can be initialized via natural language or JSON specifications.\r\n\r\nTeams can use Playgent to reproduce production failures in safe, scoped environments that accurately reconstruct state. Finally, export runs as OTel traces from Playgent's environment to plug directly into your observability tools or RL pipelines.",
+    "one_liner": "Sandboxes for AI agents",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1754457298,
     "tags": [
       "SaaS",
-      "Health Tech",
-      "AI Assistant"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -5641,8 +5643,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pharmie-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/pharmie-ai.json"
+    "url": "https://www.ycombinator.com/companies/playgent",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/playgent.json"
   },
   {
     "id": 30681,

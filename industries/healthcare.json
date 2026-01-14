@@ -10909,7 +10909,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11165,21 +11165,22 @@
   },
   {
     "id": 13316,
-    "name": "Fella & Delilah",
-    "slug": "fella-and-delilah",
+    "name": "Aios Medical",
+    "slug": "aios-medical",
     "former_names": [
       "Aios",
       "KelvinBio",
       "Aios",
       "Fella",
-      "Fella Health"
+      "Fella Health",
+      "Fella & Delilah"
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0de85134fc604ac092592b05d0a2d2fc9d99b7b0.png",
     "website": "https://www.fellahealth.com/",
     "all_locations": "San Francisco, CA, USA; Remote",
-    "long_description": "Fella is optimized for busy bigger guys who want a no-nonsense solution to getting healthier.\r\nDelilah is built for strong women in their prime who want a sustainable solution to feel their best.\r\n\r\nWe use affordable, effective weight loss medication to solve our customers’ most pressing healthcare need, then aim to remain their core healthcare provider for the rest of their life — expanding to hormonal health, mental health, longevity, and primary care.\r\n\r\n**We’ve grown >1000x since Aug 2021, >100x since Aug 2022, >10x since Aug 2023**. We’re >$50M ARR. We’ve been cashflow positive for the last 24mo. We’re >10,000 customers with high NPS.\r\n\r\nAlmost all of this has so far been through Fella. Delilah is still very new.\r\n\r\nWe’re a young startup and we’re just getting started. This is still Day 1 and all our work is ahead of us.\r\nYou can read more about working at Fella & Delilah here: https://www.notion.so/Working-at-Fella-Delilah-14a2ac8575d34d148d009bb410387af4?pvs=21",
-    "one_liner": "Fella & Delilah is the direct-to-patient clinic for busy families to…",
-    "team_size": 88,
+    "long_description": "Our overarching mission is to accelerate the global mass-market adoption of consumer biotech products so every human can live at least 100 healthy years.\r\n\r\nOur immediate focus is excess bodyweight. We are accelerating the global take-up of GLP-1 medications by increasing their accessibility to help solve obesity worldwide.\r\n\r\nTo do that, we’re building an AI-powered clinical operating system: ClinicOS. ClinicOS makes it effortless for consumer brands to easily offer direct-to-patient healthcare, globally. We work with external Brand Partners, as well as using this infrastructure to scale our own internal consumer healthcare brands.\r\n\r\nSince we launched Fella Health in the US in June 2021, Fella has positioned itself as no-nonsense weight loss for busy bigger guys. Today, we operate multiple brands across the US & UK — our two biggest are Fella Health (US & UK) & Bolt Pharmacy (UK).\r\n\r\nOur infrastructure will have served 100 million patients worldwide by 2035. We’ll then use that direct-to-patient infrastructure to serve next-gen biotech products at-scale to increase the proportion of humans living at least 100 healthy years.\r\n\r\nIn so doing, we’ll become the world’s first trillion dollar healthcare company.\r\n\r\nWe’ve grown >1000x since Aug 2021, >200x since Aug 2022, >40x since Aug 2023. We’re serving >50k customers with high NPS. We’re >$100M/yr revenue. We’ve been cashflow positive since June 2023.\r\n\r\nWe’re a young startup and we’re just getting started. This is still Day 1 and all our work is ahead of us.\r\n\r\nYou can read more about working at Aios Medical here: https://fella.notion.site/working-at-aios-medical",
+    "one_liner": "Accelerating the global take-up of GLP-1 medications",
+    "team_size": 100,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Consumer Health and Wellness",
     "launched_at": 1579678888,
@@ -11209,8 +11210,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/fella-and-delilah",
-    "api": "https://yc-oss.github.io/api/batches/winter-2020/fella-and-delilah.json"
+    "url": "https://www.ycombinator.com/companies/aios-medical",
+    "api": "https://yc-oss.github.io/api/batches/winter-2020/aios-medical.json"
   },
   {
     "id": 13321,
@@ -26923,22 +26924,24 @@
   },
   {
     "id": 30623,
-    "name": "Pharmie AI",
-    "slug": "pharmie-ai",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0d229305f98494015f6e3f083bec99ca9e83082a.png",
-    "website": "https://www.pharmie.app/",
+    "name": "Playgent",
+    "slug": "playgent",
+    "former_names": [
+      "Pharmie AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ad8d62052816b9ab3349fc92ba2137b2b1edb02.png",
+    "website": "https://useplaygent.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Pharmie is an AI assistant for pharmacies. It can pick up calls, process prescriptions, handle insurance follow-ups, and even help upsell specific drugs and services. Pharmacies can get 50+ phone calls a day, and missing phone calls means lost revenue from filling prescriptions.\r\n\r\nPharmacy workflows are complex and custom to each pharmacy's needs. Generic tools are not enough, which is why AI agents can handle tasks end-to-end that previously could not be automated. We are constantly evolving Pharmie to become a suite of agents that supercharge your pharmacy.\r\n\r\nIn the future, pharmacies will evolve into patient care centers, bridging the gaps in access caused by today’s overburdened healthcare system. Successful pharmacies will use AI to optimize their operations, resulting in a higher quality patient experience traditional pharmacies cannot match.",
-    "one_liner": "The first AI pharmacy technician",
+    "long_description": "When enterprise agents fail in production, the conditions that caused the failure are critical: user state, data, tool calls, and context. Without a way to recreate these conditions, teams can't fix what broke.\r\n\r\nPlaygent provides infrastructure to create high-fidelity sandbox environments for AI agents. Our environments come packaged as a single MCP url where tool calls are mocked, authentication is abstracted away, and test data can be initialized via natural language or JSON specifications.\r\n\r\nTeams can use Playgent to reproduce production failures in safe, scoped environments that accurately reconstruct state. Finally, export runs as OTel traces from Playgent's environment to plug directly into your observability tools or RL pipelines.",
+    "one_liner": "Sandboxes for AI agents",
     "team_size": 2,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1754457298,
     "tags": [
       "SaaS",
-      "Health Tech",
-      "AI Assistant"
+      "Infrastructure",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26959,8 +26962,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/pharmie-ai",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/pharmie-ai.json"
+    "url": "https://www.ycombinator.com/companies/playgent",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/playgent.json"
   },
   {
     "id": 30641,
@@ -27843,6 +27846,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/lunabill",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/lunabill.json"
+  },
+  {
+    "id": 31163,
+    "name": "Opalite Health",
+    "slug": "opalite-health",
+    "former_names": [
+      "Calliope"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/486a2091ac156a249fa74de7d7c575fedb03c889.png",
+    "website": "http://opalitehealth.com/",
+    "all_locations": "Palo Alto, CA, USA",
+    "long_description": "Opalite makes it easy for healthcare providers to communicate with non-English speaking patients. We’re built to work inside existing clinical workflows, so providers can communicate in real time without waiting for an interpreter or delaying care. \r\n\r\nOpalite is available instantly, 24/7, and replaces traditional interpretation services with software that’s more reliable and saves millions of dollars per year.\r\n\r\nWe've built a voice AI system that is the safest, most compliant, and most accurate medical interpreter in the world.",
+    "one_liner": "Solving language barriers in healthcare",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "launched_at": 1768325224,
+    "tags": [
+      "Artificial Intelligence",
+      "Health Tech",
+      "Digital Health",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/opalite-health",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/opalite-health.json"
   },
   {
     "id": 31177,

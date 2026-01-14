@@ -878,7 +878,7 @@
     "all_locations": "New York, NY, USA; Paris, Île-de-France, France; Remote",
     "long_description": "Brainboard is a collaborative and end-to-end solution for engineers to visually design & manage their Cloud infrastructures.\r\nWe allow companies to lower the learning curve while moving to IaC, build a self serve model, have a service catalog to not reinvent the wheel.\r\n\r\nBoth technical profiles with 25+ years of combined expertise and after working together at a major French Cloud provider, Chafik and Jeremy launched Brainboard in 2020.",
     "one_liner": "Visually design and manage cloud infrastructures.",
-    "team_size": 12,
+    "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1645991861,
@@ -3427,6 +3427,49 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/bidflow",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/bidflow.json"
+  },
+  {
+    "id": 30623,
+    "name": "Playgent",
+    "slug": "playgent",
+    "former_names": [
+      "Pharmie AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5ad8d62052816b9ab3349fc92ba2137b2b1edb02.png",
+    "website": "https://useplaygent.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "When enterprise agents fail in production, the conditions that caused the failure are critical: user state, data, tool calls, and context. Without a way to recreate these conditions, teams can't fix what broke.\r\n\r\nPlaygent provides infrastructure to create high-fidelity sandbox environments for AI agents. Our environments come packaged as a single MCP url where tool calls are mocked, authentication is abstracted away, and test data can be initialized via natural language or JSON specifications.\r\n\r\nTeams can use Playgent to reproduce production failures in safe, scoped environments that accurately reconstruct state. Finally, export runs as OTel traces from Playgent's environment to plug directly into your observability tools or RL pipelines.",
+    "one_liner": "Sandboxes for AI agents",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1754457298,
+    "tags": [
+      "SaaS",
+      "Infrastructure",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/playgent",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/playgent.json"
   },
   {
     "id": 30628,
