@@ -14041,7 +14041,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "We’re on a mission to make behavioral health more available and accessible. We're backed by a16z, YCombinator, Craft, and many others to make this dream a reality.\r\n\r\nAt Camber, we build software for clinicians to improve quality of care. We streamline and replace manual efforts so clinicians can focus on what they do best: providing high-quality care.\r\n\r\n—\r\n\r\nHealthcare is broken. We think this is a problem worth solving, and we think we know how to solve it. Interested? Check out https://jobs.ashbyhq.com/camber.\r\n",
     "one_liner": "Admin automation for healthcare",
-    "team_size": 80,
+    "team_size": 85,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1610859243,
@@ -14063,7 +14063,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -21321,7 +21321,8 @@
     "name": "Scanbase",
     "slug": "scanbase",
     "former_names": [
-      "Scanbase, Inc."
+      "Scanbase",
+      "Inc."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2982f68c8c82ccb0dcb8909ae50c7cdbbdcd9b70.png",
     "website": "https://www.scanbase.com",
@@ -23872,7 +23873,7 @@
     "all_locations": "New York, NY, USA",
     "long_description": "Clarion is building the most advanced AI communication layer for healthcare. Our AI agents handle the overwhelming volume of calls and messages that clinics face daily—from scheduling to billing to prescription refills—freeing staff to focus on patient care. We're an in-person company based in New York.\r\n\r\nToday, clinics miss 30-40% of inbound calls due to staffing shortages. We're solving this by automating complex workflows end-to-end, already serving tens of thousands of patients monthly across virtual care companies, health systems, and a $5B health insurance company.\r\n\r\nWe've raised $5.4M from Accel, Y Combinator, Sequoia (scout), and healthcare founders from Ophelia, Medallion, and Counsel Health. \r\n\r\nOur founders bring both clinical and technical expertise—our CEO Ryan is a Stanford/Harvard-trained physician who was on the founding teams of Two Chairs and Ophelia, while our CTO Jeffrey built voice AI at Amazon Alexa and led AI/ML teams at Salesforce.\r\n\r\nJoin us as we transform healthcare communication—creating a future where patients get faster resolutions and providers reclaim time for what matters most.",
     "one_liner": "The AI communication layer for healthcare",
-    "team_size": 12,
+    "team_size": 14,
     "industry": "Healthcare",
     "subindustry": "Healthcare -> Healthcare IT",
     "launched_at": 1709616757,
@@ -27974,5 +27975,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/patientdeskai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/patientdeskai.json"
+  },
+  {
+    "id": 31276,
+    "name": "Ritivel",
+    "slug": "ritivel",
+    "former_names": [
+      "Ritivel",
+      "ritivel"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20339e5cb76cdfb65db692fb1ab38e8c6f710609.png",
+    "website": "https://www.ritivel.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ritivel turns raw clinical trial data into FDA submission documents in minutes. Traditionally, medical writers spend 8-12 weeks manually compiling data; our system uses study protocol and statistical outputs to instantly generate these reports with full traceability to the source data.\r\n\r\nClinical development is pharma's biggest bottleneck. Despite rising R&D, trial timelines have increased 33% over the last decade. Accelerating clinical timelines by 20% unlocks hundreds of millions in additional revenue per drug by extending patent life. \r\n\r\nGeneric AI fails in pharma due to a lack of traceability, with only 28% of pilots reaching production - the FDA requires traceability for all claims. Our proprietary engine solves this with word-level traceability, linking every generated sentence to clinical evidence. We deploy 100% on-premise to keep sensitive patient data within the client's infrastructure, making us a trusted AI partner for pharma.\r\n\r\nWe automate the most complex parts of CSRs (clinical narratives and biostatistical analysis). Our high-quality output, validated by senior regulatory writers, costs 1/100th of human writing. We're built by experts from Microsoft, Kearney, and IQVIA - combining deep AI engineering with regulatory expertise to solve the \"last mile\" of drug development—a problem generic AI wrappers can't solve because they don't understand the standards or FDA requirements.",
+    "one_liner": "We turn clinical trial data into FDA submission documents in minutes",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1768402832,
+    "tags": [
+      "Generative AI",
+      "Compliance",
+      "Enterprise Software",
+      "Regtech",
+      "Biotechnology"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ritivel",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json"
   }
 ]

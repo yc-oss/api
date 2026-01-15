@@ -974,11 +974,52 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/21st.json"
   },
   {
+    "id": 31128,
+    "name": "Cumulus",
+    "slug": "cumulus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a985c19aae7a6332fcfc82b7724dd2f4276053d2.png",
+    "website": "https://cumuluslabs.io",
+    "all_locations": "",
+    "long_description": "Cumulus (YC W26) is building a performance-optimized GPU cloud for AI training and inference, where customers are only charged for what they use.\r\n\r\nThe platform aggregates idle GPU capacity from public clouds, private data centers, and vetted individual hosts into a single, unified Cumulus pool. \r\n\r\nFor training and fine-tuning, workloads are predictively packed alongside other jobs to maximize efficiency and dynamically migrated live during execution to faster or cheaper clusters as they become available. \r\n\r\nFor inference, the platform captures and replicates execution state across our global compute CDN, enabling ultra-fast cold starts and performant serving where your users are. \r\n\r\nThe Cumulus Scheduler constantly diagnoses failures, auto-recovers workloads, and intelligently orchestrates across the entire pool. The Cumulus Prediction system will learn usage patterns to optimize resources available to customer jobs.\r\n\r\nGetting started takes less than 20 lines of config. Fine-tuning becomes as simple as specifying your data and model architecture, while inference deployments automatically optimize for latency and cost. \r\n\r\nCumulus handles all GPU orchestration complexity, allowing teams to save on cost and significantly boost performance in real-time while focusing on what matters: building & serving better models. The result is 50-70% cost savings, faster cold starts, and never spending time managing infrastructure ever again.\r\n",
+    "one_liner": "The Optimized GPU Cloud",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1768427687,
+    "tags": [
+      "Machine Learning",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cumulus",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/cumulus.json"
+  },
+  {
     "id": 31129,
     "name": "Verdex",
     "slug": "verdex",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f2d57e5242b045e9e94aed1a55a2e5654b0b3108.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2f35f0d4e2a885cb8f0c3f1b37d3a0f972156d53.png",
     "website": "https://www.verdexai.com/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Verdex uses satellite imagery and weather data to create a persistent, time-anchored record of what happens on every acre. This turns land into a measurable asset whose outcomes can be audited objectively at scale.\r\n\r\nVerdex is built to replace manual field inspections in insurance verification and risk management.",
@@ -988,7 +1029,6 @@
     "subindustry": "Industrials -> Agriculture",
     "launched_at": 1768239774,
     "tags": [
-      "Insurance",
       "Agriculture",
       "AI"
     ],
@@ -1192,8 +1232,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe951afa5872a811734029111550a11062d931e.png",
     "website": "https://ramain.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RamAIn is your real-life Jarvis that works out-of-the-box on your favorite applications including WhatsApp Desktop, Outlook and more. Just tell it what to do sit back and watch it work just like you, intelligently simulating mouse and keyboard clicks to achieve your goals.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces allowing them to intelligently use the computer super-duper fast. ",
-    "one_liner": "Super Fast Computer Use Agents",
+    "long_description": "RamAIn can automate any super complex, intelligent and repetitive process across applications (Windows + Mac + Browser + Desktop) super-duper fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
+    "one_liner": "Super fast computer-use agents to automate anything.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -1275,6 +1315,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/arcline.json"
   },
   {
+    "id": 31151,
+    "name": "Sparkles",
+    "slug": "sparkles",
+    "former_names": [
+      "Litmus",
+      "Flics"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fa726d414c3f4d378fa6af116bb14e3abb29e0f.png",
+    "website": "https://sparkles.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sparkles is like Lovable for existing projects, so even Sharon from Marketing can change the button styling on the front page without going back and forth with the dev team.\r\n\r\nSomeone technical connects their GitHub to Sparkles, sets up the repository and environment variables, and then anyone on the team with a @yourcompany.com email can log in on Sparkles and create pull requests without needing to know what Git is.",
+    "one_liner": "Make everyone on your team an engineer",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1768436882,
+    "tags": [
+      "Developer Tools",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sparkles",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sparkles.json"
+  },
+  {
     "id": 31152,
     "name": "Ishiki Labs",
     "slug": "ishiki-labs",
@@ -1284,16 +1367,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4791097536ccb2083067cbad86c74ce21f0dea77.png",
     "website": "https://www.ishikilabs.ai/",
     "all_locations": "",
-    "long_description": "We're building Fern - a multimodal AI that listens and watches continuously, understands context over time, and acts with human-like judgment — proactively guiding you in the moment when needed, and staying out of the way when not.",
+    "long_description": "Current multimodal models can see and hear. But they talk when they shouldn't. They can't tell if you're speaking to them or someone else. We are building an AI that knows when to stay silent, yet still understanding what's going on in your conversation, so it can best assist when you do need it in real time.\r\n\r\nOur first version, fern-0.1: provides real-time expert opinions on demand, instant task delegation, zero interruptions. All as fast as ChatGPT voice and Gemini live.",
     "one_liner": "Building the Future of Multimodal AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768297786,
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
-      "Generative AI"
+      "Generative AI",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -1314,6 +1397,48 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/ishiki-labs",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ishiki-labs.json"
+  },
+  {
+    "id": 31155,
+    "name": "Q2Q",
+    "slug": "q2q",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6c42d7cabd8a666e0d6369ef40a058fca967f90.png",
+    "website": "https://tryq2q.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Here's the problem: it takes private equity firms and search funds hours to write personalized messages for each outreach campaign.\r\n\r\nWe speed this up by using AI to research each company across its website and social channels. Our platform helps you:\r\n\r\n1) Research market niches to refine your investment thesis\r\n2) Search for leads in our constantly-growing database\r\n3) Design custom campaigns with personalized messaging\r\n4) See inbound interest and track all prospects/communications in our CRM",
+    "one_liner": "We help funds source deals and run personalized outreach with AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1768420792,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/q2q",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
   },
   {
     "id": 31163,
@@ -1526,6 +1651,53 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/cardboard.json"
   },
   {
+    "id": 31180,
+    "name": "Seeing Systems",
+    "slug": "seeing-systems",
+    "former_names": [
+      "Seeing Systems Ltd",
+      "Seeing Systems",
+      "Seeing Systems Ltd"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/8d8e226478cb43c163b19e22186c3bab3bdb9668.png",
+    "website": "https://www.seeing-systems.com",
+    "all_locations": "London, England, United Kingdom",
+    "long_description": "We’re building modular strike and reconnaissance drone platforms and a corresponding super-easy-to-use swarm control system in collaboration with Royal Marine Commandos, US, and allied nations, to fill a capability gap.\r\n\r\nWhy? Because modern conflict has led to a shift in the procurement landscape. It’s now possible to work directly with military units to build what they need, which is exactly what we’ve been doing at Seeing Systems.\r\n\r\nThink of us as Anduril, but with worse weather, and better banter.",
+    "one_liner": "AI Drone Systems for Defence",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1768422348,
+    "tags": [
+      "Hardware",
+      "Swarm AI",
+      "Robotics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "United Kingdom",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/seeing-systems",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/seeing-systems.json"
+  },
+  {
     "id": 31182,
     "name": "Visibl Semiconductors",
     "slug": "visibl-semiconductors",
@@ -1660,7 +1832,7 @@
     "website": "https://www.clice.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Clice gives everyone on your team a personal AI agent that actually executes. Every agent knows their person's context, and every agent can talk to each other.\r\n\r\nNeed an answer from someone who's offline? Your agent asks their agent. A bug gets fixed in prod? Your agent updates the ticket and responds to the thread. Need to meet before launch? Your agent coordinates with theirs and books it.\r\n\r\nSales, eng, ops. If it involves communicating or coordinating across people, Clice handles it. You focus on the work that actually matters.",
-    "one_liner": "Personal AI agents for your team that coordinate with each other",
+    "one_liner": "AI clones of people that can coordinate with each other",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -2217,7 +2389,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1767713346,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
+      "B2B",
       "Enterprise Software",
       "AI"
     ],
@@ -2283,6 +2457,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/scout-out",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/scout-out.json"
+  },
+  {
+    "id": 31245,
+    "name": "Squid",
+    "slug": "squid",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0dabfec2f533f2142f1c315fccba6afcb525ef1.png",
+    "website": "https://squid.energy",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "AI-powered grid planning in your browser 🦑",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1768422882,
+    "tags": [
+      "SaaS",
+      "Energy",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/squid",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/squid.json"
   },
   {
     "id": 31247,
@@ -2445,5 +2659,139 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/spotpay",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/spotpay.json"
+  },
+  {
+    "id": 31276,
+    "name": "Ritivel",
+    "slug": "ritivel",
+    "former_names": [
+      "Ritivel",
+      "ritivel"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20339e5cb76cdfb65db692fb1ab38e8c6f710609.png",
+    "website": "https://www.ritivel.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ritivel turns raw clinical trial data into FDA submission documents in minutes. Traditionally, medical writers spend 8-12 weeks manually compiling data; our system uses study protocol and statistical outputs to instantly generate these reports with full traceability to the source data.\r\n\r\nClinical development is pharma's biggest bottleneck. Despite rising R&D, trial timelines have increased 33% over the last decade. Accelerating clinical timelines by 20% unlocks hundreds of millions in additional revenue per drug by extending patent life. \r\n\r\nGeneric AI fails in pharma due to a lack of traceability, with only 28% of pilots reaching production - the FDA requires traceability for all claims. Our proprietary engine solves this with word-level traceability, linking every generated sentence to clinical evidence. We deploy 100% on-premise to keep sensitive patient data within the client's infrastructure, making us a trusted AI partner for pharma.\r\n\r\nWe automate the most complex parts of CSRs (clinical narratives and biostatistical analysis). Our high-quality output, validated by senior regulatory writers, costs 1/100th of human writing. We're built by experts from Microsoft, Kearney, and IQVIA - combining deep AI engineering with regulatory expertise to solve the \"last mile\" of drug development—a problem generic AI wrappers can't solve because they don't understand the standards or FDA requirements.",
+    "one_liner": "We turn clinical trial data into FDA submission documents in minutes",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1768402832,
+    "tags": [
+      "Generative AI",
+      "Compliance",
+      "Enterprise Software",
+      "Regtech",
+      "Biotechnology"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ritivel",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json"
+  },
+  {
+    "id": 31285,
+    "name": "GrazeMate",
+    "slug": "grazemate",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/d2a4475db614107fb0effa347e625a6885ca8045.png",
+    "website": "https://grazemate.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "GrazeMate builds autonomous drones that herd cattle.\r\n\r\nAt the push of a button, our AI drones fly to a paddock, position themselves around the herd and guide them to new paddocks. Instead of a full day mustering with helicopters, motorbikes, and horses, farmers use GrazeMate.\r\n\r\nWe work with the world's largest cattle ranches, giving them complete visibility into their operations. While our drones herd cattle autonomously, they simultaneously estimate animal weights, measure grass biomass, monitoring water levels, and detect sick animals. We're building physical AI that gives farmers superhuman capabilities - managing thousands of livestock across massive distances from their phone.",
+    "one_liner": "Robot Cowboys that Muster Cattle with AI Drones",
+    "team_size": 4,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Agriculture",
+    "launched_at": 1768433444,
+    "tags": [
+      "Livestock Health",
+      "Reinforcement Learning",
+      "Robotics",
+      "Drones",
+      "Sustainable Agriculture"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Agriculture"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/grazemate",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/grazemate.json"
+  },
+  {
+    "id": 31300,
+    "name": "Shofo",
+    "slug": "shofo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1aad9ee57557732efcdcbdc3474874eab470647.png",
+    "website": "https://shofo.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Shofo builds large-scale social media training datasets by collecting, labeling, and enriching public content for pre-training and fine-tuning AI models. Our indexes continuously collect and update every post across hard to access social media platforms. Companies use Shofo to avoid building their own data collection and processing systems and spending months turning unstructured social content into model-ready data. We started with TikTok and are expanding across every major social platform.",
+    "one_liner": "Scraping hard to access social media posts to curate training datasets",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1768432806,
+    "tags": [
+      "Social Media",
+      "API",
+      "Data Labeling",
+      "Big Data",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shofo",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/shofo.json"
   }
 ]

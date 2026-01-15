@@ -6358,51 +6358,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/spade.json"
   },
   {
-    "id": 25969,
-    "name": "Shaped",
-    "slug": "shaped",
-    "former_names": [
-      "shaped.ai Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/241b1f1931647920258ef5ae6571461ada0b62f1.png",
-    "website": "https://shaped.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Increase engagement, conversion, and revenue with a configurable search and recommendation system that adapts in real-time.",
-    "one_liner": "The fastest path to relevant recommendations and search",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1646119340,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "API",
-      "Search",
-      "Recommendation System"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shaped",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/shaped.json"
-  },
-  {
     "id": 25975,
     "name": "Ploomber",
     "slug": "ploomber",
@@ -7159,7 +7114,8 @@
     "name": "Scanbase",
     "slug": "scanbase",
     "former_names": [
-      "Scanbase, Inc."
+      "Scanbase",
+      "Inc."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2982f68c8c82ccb0dcb8909ae50c7cdbbdcd9b70.png",
     "website": "https://www.scanbase.com",
@@ -10258,6 +10214,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/burt.json"
   },
   {
+    "id": 31128,
+    "name": "Cumulus",
+    "slug": "cumulus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a985c19aae7a6332fcfc82b7724dd2f4276053d2.png",
+    "website": "https://cumuluslabs.io",
+    "all_locations": "",
+    "long_description": "Cumulus (YC W26) is building a performance-optimized GPU cloud for AI training and inference, where customers are only charged for what they use.\r\n\r\nThe platform aggregates idle GPU capacity from public clouds, private data centers, and vetted individual hosts into a single, unified Cumulus pool. \r\n\r\nFor training and fine-tuning, workloads are predictively packed alongside other jobs to maximize efficiency and dynamically migrated live during execution to faster or cheaper clusters as they become available. \r\n\r\nFor inference, the platform captures and replicates execution state across our global compute CDN, enabling ultra-fast cold starts and performant serving where your users are. \r\n\r\nThe Cumulus Scheduler constantly diagnoses failures, auto-recovers workloads, and intelligently orchestrates across the entire pool. The Cumulus Prediction system will learn usage patterns to optimize resources available to customer jobs.\r\n\r\nGetting started takes less than 20 lines of config. Fine-tuning becomes as simple as specifying your data and model architecture, while inference deployments automatically optimize for latency and cost. \r\n\r\nCumulus handles all GPU orchestration complexity, allowing teams to save on cost and significantly boost performance in real-time while focusing on what matters: building & serving better models. The result is 50-70% cost savings, faster cold starts, and never spending time managing infrastructure ever again.\r\n",
+    "one_liner": "The Optimized GPU Cloud",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1768427687,
+    "tags": [
+      "Machine Learning",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cumulus",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/cumulus.json"
+  },
+  {
     "id": 31145,
     "name": "RamAIn",
     "slug": "ramain",
@@ -10267,8 +10264,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe951afa5872a811734029111550a11062d931e.png",
     "website": "https://ramain.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RamAIn is your real-life Jarvis that works out-of-the-box on your favorite applications including WhatsApp Desktop, Outlook and more. Just tell it what to do sit back and watch it work just like you, intelligently simulating mouse and keyboard clicks to achieve your goals.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces allowing them to intelligently use the computer super-duper fast. ",
-    "one_liner": "Super Fast Computer Use Agents",
+    "long_description": "RamAIn can automate any super complex, intelligent and repetitive process across applications (Windows + Mac + Browser + Desktop) super-duper fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
+    "one_liner": "Super fast computer-use agents to automate anything.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",

@@ -3951,7 +3951,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -7133,6 +7133,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2024/dench-com.json"
   },
   {
+    "id": 29745,
+    "name": "Lumenary",
+    "slug": "lumenary",
+    "former_names": [
+      "January",
+      "Lumenary",
+      "Lumenary, Inc."
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/becd07dd532d02d7faf201baa5f85e3101cc6f42.png",
+    "website": "https://try.solar",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Lumenary develops Solar, a tool to build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.\r\n\r\nLumenary was founded by three best friends who met at Dartmouth, with experience from Jane Street, IMC, and Palantir. They've published research in venues like NeurIPS, and have deployed software managing billions of dollars, petabytes of data, and a lot of LLM tokens.",
+    "one_liner": "Build working software exceedingly fast in Solar",
+    "team_size": 3,
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "launched_at": 1722638950,
+    "tags": [
+      "Artificial Intelligence",
+      "Finance",
+      "Analytics",
+      "Big Data",
+      "Data Engineering"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Analytics"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/lumenary",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/lumenary.json"
+  },
+  {
     "id": 29768,
     "name": "Ember Robotics",
     "slug": "ember-robotics",
@@ -7265,49 +7312,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/capitol-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/capitol-ai.json"
-  },
-  {
-    "id": 30032,
-    "name": "Coblocks",
-    "slug": "coblocks",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/46707ad38f8fd59e85067d699fe9815eaa71b3c8.png",
-    "website": "https://coblocks.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Coblocks is a thoughtfully-designed data platform that helps teams write queries and automate workflows faster. \r\n\r\nWe understand the columns, tables, and relationships in your data and use them to help anyone on your team build pipelines with AI, SQL and Python. Think of us like Zapier plus Cursor for data engineering.\r\n\r\nHere’s how we’re different:\r\n\r\n• All-in-one: You can get started in 2 minutes – no setup or configuration required. We have one-click integrations, warehousing, transformation, and schedules all built in.\r\n• Seamless integrations: Plug in your Postgres database, Stripe transactions, Hubspot leads, or any other data source, without writing code to keep things in sync.\r\n• Thoughtful AI: We love Cursor and we love data – we combined the two to help you write accurate queries. We use existing metadata to help you create new datasets, connect sources, fix errors, or edit in place.\r\n• Collaborative: Easily share data and discover what others in your org have built as a starting place for your analysis. Wrap common blocks of logic with templates so your team never has to start from zero.\r\n• Resilient and Scalable: Our compute engine is lightning-fast for queries and builds. Git and branching are built-in for both code and data, so you can time-travel backwards when things break. You can start with GBs and grow to TBs.",
-    "one_liner": "Build data pipelines in minutes with AI",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1731328761,
-    "tags": [
-      "Analytics",
-      "Data Science",
-      "Big Data",
-      "Data Engineering",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/coblocks",
-    "api": "https://yc-oss.github.io/api/batches/fall-2024/coblocks.json"
   },
   {
     "id": 30201,

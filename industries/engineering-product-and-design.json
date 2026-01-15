@@ -4467,7 +4467,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": true,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6276,7 +6276,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9468,7 +9468,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2021",
     "status": "Active",
@@ -18533,11 +18533,11 @@
     "slug": "variant",
     "former_names": [],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dd64bca7fac097523dd134d6167e96f5fb79ab98.png",
-    "website": "https://variant.ai",
+    "website": "https://variant.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Creative intelligence",
     "one_liner": "Creative intelligence",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1732310413,
@@ -19503,51 +19503,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hestus-inc",
     "api": "https://yc-oss.github.io/api/batches/summer-2024/hestus-inc.json"
-  },
-  {
-    "id": 29745,
-    "name": "Lumenary",
-    "slug": "lumenary",
-    "former_names": [
-      "January",
-      "Lumenary",
-      "Lumenary, Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/becd07dd532d02d7faf201baa5f85e3101cc6f42.png",
-    "website": "https://try.solar",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumenary develops Solar, a tool to build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.\r\n\r\nLumenary was founded by four best friends who met at Dartmouth, with experience from Jane Street, IMC, and Palantir. They've published research in venues like NeurIPS, and have deployed software managing billions of dollars, petabytes of data, and a lot of LLM tokens.",
-    "one_liner": "Build working software exceedingly fast in Solar",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1722638950,
-    "tags": [
-      "Artificial Intelligence",
-      "Developer Tools",
-      "Automation"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2024",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/lumenary",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/lumenary.json"
   },
   {
     "id": 29769,
@@ -21750,7 +21705,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "TrainLoop makes it effortless for developers to supercharge LLM performance through reinforcement learning.",
     "one_liner": "Reasoning Fine-Tuning",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738700190,
@@ -24587,6 +24542,49 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/21st.json"
   },
   {
+    "id": 31151,
+    "name": "Sparkles",
+    "slug": "sparkles",
+    "former_names": [
+      "Litmus",
+      "Flics"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2fa726d414c3f4d378fa6af116bb14e3abb29e0f.png",
+    "website": "https://sparkles.dev",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Sparkles is like Lovable for existing projects, so even Sharon from Marketing can change the button styling on the front page without going back and forth with the dev team.\r\n\r\nSomeone technical connects their GitHub to Sparkles, sets up the repository and environment variables, and then anyone on the team with a @yourcompany.com email can log in on Sparkles and create pull requests without needing to know what Git is.",
+    "one_liner": "Make everyone on your team an engineer",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1768436882,
+    "tags": [
+      "Developer Tools",
+      "Productivity"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/sparkles",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/sparkles.json"
+  },
+  {
     "id": 31182,
     "name": "Visibl Semiconductors",
     "slug": "visibl-semiconductors",
@@ -24729,7 +24727,9 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1767713346,
     "tags": [
+      "Artificial Intelligence",
       "Developer Tools",
+      "B2B",
       "Enterprise Software",
       "AI"
     ],

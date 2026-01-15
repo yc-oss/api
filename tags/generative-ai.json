@@ -9478,8 +9478,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b03e14b8a7d809f05b6579c758dc4fbbe6ff821.png",
     "website": "https://www.dreamrp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "DreamRP supports creators and entertainment studios as they navigate generative AI. We build technology that protects their work, preserves the authenticity of their characters and worlds, and enables new ways for fans to engage with stories.",
-    "one_liner": "Tools that help creators and studios use AI safely and responsibly",
+    "long_description": "AI entertainment feels like slop because companies value technology over human creativity. DreamRP is here to change that.\r\n\r\nCompanies like to focus on technology because it usually lets them win. But what fans love has never been about the tech.\r\n\r\nA fan doesn’t fill their apartment with posters because of the lens a movie was shot on. They do it because of the mind behind the camera.f\r\n\r\nLike all technology, AI is just a tool. In the wrong hands, it makes endless sludge. In the right ones, fans will love entertainment more than ever before.\r\n\r\nDreamRP builds for creatives, from indie artists to global stars, because they have always been the real reason audiences love what they love.\r\n",
+    "one_liner": "Technology for human creators in the generative AI era",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -9493,7 +9493,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -10435,7 +10435,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Calltree makes enterprise-grade AI support reps for call centers. Our AI reps take voice calls and chats like other AI support agents but can also use internal enterprise tools like a homegrown CRM or internal dashboards, like the highly trained humans working there today.",
     "one_liner": "Enterprise-grade AI support reps for call centers",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1738270018,
@@ -10448,7 +10448,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -10646,7 +10646,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "TrainLoop makes it effortless for developers to supercharge LLM performance through reinforcement learning.",
     "one_liner": "Reasoning Fine-Tuning",
-    "team_size": 2,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1738700190,
@@ -11798,16 +11798,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4791097536ccb2083067cbad86c74ce21f0dea77.png",
     "website": "https://www.ishikilabs.ai/",
     "all_locations": "",
-    "long_description": "We're building Fern - a multimodal AI that listens and watches continuously, understands context over time, and acts with human-like judgment — proactively guiding you in the moment when needed, and staying out of the way when not.",
+    "long_description": "Current multimodal models can see and hear. But they talk when they shouldn't. They can't tell if you're speaking to them or someone else. We are building an AI that knows when to stay silent, yet still understanding what's going on in your conversation, so it can best assist when you do need it in real time.\r\n\r\nOur first version, fern-0.1: provides real-time expert opinions on demand, instant task delegation, zero interruptions. All as fast as ChatGPT voice and Gemini live.",
     "one_liner": "Building the Future of Multimodal AI",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1768297786,
     "tags": [
-      "Artificial Intelligence",
       "Deep Learning",
-      "Generative AI"
+      "Generative AI",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -11870,5 +11870,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/coevolved",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/coevolved.json"
+  },
+  {
+    "id": 31276,
+    "name": "Ritivel",
+    "slug": "ritivel",
+    "former_names": [
+      "Ritivel",
+      "ritivel"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/20339e5cb76cdfb65db692fb1ab38e8c6f710609.png",
+    "website": "https://www.ritivel.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Ritivel turns raw clinical trial data into FDA submission documents in minutes. Traditionally, medical writers spend 8-12 weeks manually compiling data; our system uses study protocol and statistical outputs to instantly generate these reports with full traceability to the source data.\r\n\r\nClinical development is pharma's biggest bottleneck. Despite rising R&D, trial timelines have increased 33% over the last decade. Accelerating clinical timelines by 20% unlocks hundreds of millions in additional revenue per drug by extending patent life. \r\n\r\nGeneric AI fails in pharma due to a lack of traceability, with only 28% of pilots reaching production - the FDA requires traceability for all claims. Our proprietary engine solves this with word-level traceability, linking every generated sentence to clinical evidence. We deploy 100% on-premise to keep sensitive patient data within the client's infrastructure, making us a trusted AI partner for pharma.\r\n\r\nWe automate the most complex parts of CSRs (clinical narratives and biostatistical analysis). Our high-quality output, validated by senior regulatory writers, costs 1/100th of human writing. We're built by experts from Microsoft, Kearney, and IQVIA - combining deep AI engineering with regulatory expertise to solve the \"last mile\" of drug development—a problem generic AI wrappers can't solve because they don't understand the standards or FDA requirements.",
+    "one_liner": "We turn clinical trial data into FDA submission documents in minutes",
+    "team_size": 3,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1768402832,
+    "tags": [
+      "Generative AI",
+      "Compliance",
+      "Enterprise Software",
+      "Regtech",
+      "Biotechnology"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/ritivel",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/ritivel.json"
   }
 ]

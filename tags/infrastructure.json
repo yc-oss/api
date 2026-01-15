@@ -4201,6 +4201,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/voltair.json"
   },
   {
+    "id": 31128,
+    "name": "Cumulus",
+    "slug": "cumulus",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a985c19aae7a6332fcfc82b7724dd2f4276053d2.png",
+    "website": "https://cumuluslabs.io",
+    "all_locations": "",
+    "long_description": "Cumulus (YC W26) is building a performance-optimized GPU cloud for AI training and inference, where customers are only charged for what they use.\r\n\r\nThe platform aggregates idle GPU capacity from public clouds, private data centers, and vetted individual hosts into a single, unified Cumulus pool. \r\n\r\nFor training and fine-tuning, workloads are predictively packed alongside other jobs to maximize efficiency and dynamically migrated live during execution to faster or cheaper clusters as they become available. \r\n\r\nFor inference, the platform captures and replicates execution state across our global compute CDN, enabling ultra-fast cold starts and performant serving where your users are. \r\n\r\nThe Cumulus Scheduler constantly diagnoses failures, auto-recovers workloads, and intelligently orchestrates across the entire pool. The Cumulus Prediction system will learn usage patterns to optimize resources available to customer jobs.\r\n\r\nGetting started takes less than 20 lines of config. Fine-tuning becomes as simple as specifying your data and model architecture, while inference deployments automatically optimize for latency and cost. \r\n\r\nCumulus handles all GPU orchestration complexity, allowing teams to save on cost and significantly boost performance in real-time while focusing on what matters: building & serving better models. The result is 50-70% cost savings, faster cold starts, and never spending time managing infrastructure ever again.\r\n",
+    "one_liner": "The Optimized GPU Cloud",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1768427687,
+    "tags": [
+      "Machine Learning",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cumulus",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/cumulus.json"
+  },
+  {
     "id": 31192,
     "name": "SideKit",
     "slug": "sidekit",
@@ -4242,5 +4283,45 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sidekit",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sidekit.json"
+  },
+  {
+    "id": 31245,
+    "name": "Squid",
+    "slug": "squid",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0dabfec2f533f2142f1c315fccba6afcb525ef1.png",
+    "website": "https://squid.energy",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "AI-powered grid planning in your browser 🦑",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1768422882,
+    "tags": [
+      "SaaS",
+      "Energy",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/squid",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/squid.json"
   }
 ]

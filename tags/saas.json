@@ -598,7 +598,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -6881,7 +6881,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -11181,7 +11181,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -11446,7 +11446,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -19429,7 +19429,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -24043,7 +24043,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -27047,11 +27047,11 @@
     "subindustry": "B2B -> Productivity",
     "launched_at": 1624955795,
     "tags": [
+      "Artificial Intelligence",
       "SaaS",
       "Health Tech",
       "B2B",
-      "Healthcare",
-      "AI"
+      "Healthcare"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -40694,7 +40694,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -45033,7 +45033,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Fall 2024",
     "status": "Active",
@@ -46283,7 +46283,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Calltree makes enterprise-grade AI support reps for call centers. Our AI reps take voice calls and chats like other AI support agents but can also use internal enterprise tools like a homegrown CRM or internal dashboards, like the highly trained humans working there today.",
     "one_liner": "Enterprise-grade AI support reps for call centers",
-    "team_size": 5,
+    "team_size": 6,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1738270018,
@@ -46296,7 +46296,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Winter 2025",
     "status": "Active",
@@ -47646,17 +47646,17 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
     "website": "https://tryjanet.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Janet AI (tryjanet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn’t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS.\r\n- Duplicate or related issues are automatically detected to reduce noise as you scale.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can fully understand, cluster, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That’s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out tryjanet.ai to get started today!",
+    "long_description": "Janet AI (tryjanet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn’t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- Janet evaluates ticket quality, clusters related issues, and auto-tags issues.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can create, understand, update, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That’s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out tryjanet.ai to get started today!",
     "one_liner": "The AI-Native Jira",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1752861520,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
-      "DevOps"
+      "DevOps",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -49654,6 +49654,48 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/protent.json"
   },
   {
+    "id": 31155,
+    "name": "Q2Q",
+    "slug": "q2q",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6c42d7cabd8a666e0d6369ef40a058fca967f90.png",
+    "website": "https://tryq2q.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Here's the problem: it takes private equity firms and search funds hours to write personalized messages for each outreach campaign.\r\n\r\nWe speed this up by using AI to research each company across its website and social channels. Our platform helps you:\r\n\r\n1) Research market niches to refine your investment thesis\r\n2) Search for leads in our constantly-growing database\r\n3) Design custom campaigns with personalized messaging\r\n4) See inbound interest and track all prospects/communications in our CRM",
+    "one_liner": "We help funds source deals and run personalized outreach with AI",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1768420792,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Finance and Accounting"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/q2q",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
+  },
+  {
     "id": 31178,
     "name": "Cardboard",
     "slug": "cardboard",
@@ -49863,5 +49905,45 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/chasi",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/chasi.json"
+  },
+  {
+    "id": 31245,
+    "name": "Squid",
+    "slug": "squid",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/c0dabfec2f533f2142f1c315fccba6afcb525ef1.png",
+    "website": "https://squid.energy",
+    "all_locations": "",
+    "long_description": "",
+    "one_liner": "AI-powered grid planning in your browser 🦑",
+    "team_size": 2,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1768422882,
+    "tags": [
+      "SaaS",
+      "Energy",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/squid",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/squid.json"
   }
 ]

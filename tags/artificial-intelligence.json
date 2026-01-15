@@ -2895,7 +2895,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -5697,7 +5697,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -10244,6 +10244,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/exa.json"
   },
   {
+    "id": 24914,
+    "name": "Sully.ai",
+    "slug": "sully-ai",
+    "former_names": [
+      "Odiggo"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9050d789232441d310c7b2bc53166a978e1f735d.png",
+    "website": "https://www.sully.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building the autonomy layer where AI agents, people, and robots work as one team.",
+    "one_liner": "AutonomousOS for healthcare organizations",
+    "team_size": 49,
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "launched_at": 1624955795,
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Health Tech",
+      "B2B",
+      "Healthcare"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Productivity"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": true,
+    "url": "https://www.ycombinator.com/companies/sully-ai",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/sully-ai.json"
+  },
+  {
     "id": 25249,
     "name": "SilkChart",
     "slug": "silkchart",
@@ -12142,51 +12189,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hoai",
     "api": "https://yc-oss.github.io/api/batches/winter-2022/hoai.json"
-  },
-  {
-    "id": 25969,
-    "name": "Shaped",
-    "slug": "shaped",
-    "former_names": [
-      "shaped.ai Inc."
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/241b1f1931647920258ef5ae6571461ada0b62f1.png",
-    "website": "https://shaped.ai",
-    "all_locations": "New York, NY, USA",
-    "long_description": "Increase engagement, conversion, and revenue with a configurable search and recommendation system that adapts in real-time.",
-    "one_liner": "The fastest path to relevant recommendations and search",
-    "team_size": 12,
-    "industry": "B2B",
-    "subindustry": "B2B -> Infrastructure",
-    "launched_at": 1646119340,
-    "tags": [
-      "Artificial Intelligence",
-      "Machine Learning",
-      "API",
-      "Search",
-      "Recommendation System"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Infrastructure"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/shaped",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/shaped.json"
   },
   {
     "id": 25983,
@@ -14505,7 +14507,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "With StackAI, any organization can deploy custom AI agents to automate its back-office operations. Our low-code interface allows teams of all levels of expertise to build internal tools.\r\n\r\nHundreds of companies use StackAI to build knowledge-based AI assistants, fill out RFPs and questionnaires, automate content QA, conduct due diligence research, and extract data from documents.",
     "one_liner": "The Enterprise AI Transformation Platform",
-    "team_size": 55,
+    "team_size": 46,
     "industry": "B2B",
     "subindustry": "B2B",
     "launched_at": 1673634480,
@@ -14527,7 +14529,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15234,7 +15236,8 @@
     "name": "Scanbase",
     "slug": "scanbase",
     "former_names": [
-      "Scanbase, Inc."
+      "Scanbase",
+      "Inc."
     ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/2982f68c8c82ccb0dcb8909ae50c7cdbbdcd9b70.png",
     "website": "https://www.scanbase.com",
@@ -19595,7 +19598,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2023",
     "status": "Active",
@@ -26093,16 +26096,18 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/becd07dd532d02d7faf201baa5f85e3101cc6f42.png",
     "website": "https://try.solar",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Lumenary develops Solar, a tool to build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.\r\n\r\nLumenary was founded by four best friends who met at Dartmouth, with experience from Jane Street, IMC, and Palantir. They've published research in venues like NeurIPS, and have deployed software managing billions of dollars, petabytes of data, and a lot of LLM tokens.",
+    "long_description": "Lumenary develops Solar, a tool to build full-stack apps alongside many LLMs on a canvas, where you can freely remix features and try design variants. We provide infra (auth, DBs, storage, servers), or you can integrate with your own. Deploy in a click.\r\n\r\nLumenary was founded by three best friends who met at Dartmouth, with experience from Jane Street, IMC, and Palantir. They've published research in venues like NeurIPS, and have deployed software managing billions of dollars, petabytes of data, and a lot of LLM tokens.",
     "one_liner": "Build working software exceedingly fast in Solar",
-    "team_size": 4,
+    "team_size": 3,
     "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
+    "subindustry": "B2B -> Analytics",
     "launched_at": 1722638950,
     "tags": [
       "Artificial Intelligence",
-      "Developer Tools",
-      "Automation"
+      "Finance",
+      "Analytics",
+      "Big Data",
+      "Data Engineering"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -26112,7 +26117,7 @@
     "status": "Active",
     "industries": [
       "B2B",
-      "Engineering, Product and Design"
+      "Analytics"
     ],
     "regions": [
       "United States of America",
@@ -28019,8 +28024,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b03e14b8a7d809f05b6579c758dc4fbbe6ff821.png",
     "website": "https://www.dreamrp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "DreamRP supports creators and entertainment studios as they navigate generative AI. We build technology that protects their work, preserves the authenticity of their characters and worlds, and enables new ways for fans to engage with stories.",
-    "one_liner": "Tools that help creators and studios use AI safely and responsibly",
+    "long_description": "AI entertainment feels like slop because companies value technology over human creativity. DreamRP is here to change that.\r\n\r\nCompanies like to focus on technology because it usually lets them win. But what fans love has never been about the tech.\r\n\r\nA fan doesn’t fill their apartment with posters because of the lens a movie was shot on. They do it because of the mind behind the camera.f\r\n\r\nLike all technology, AI is just a tool. In the wrong hands, it makes endless sludge. In the right ones, fans will love entertainment more than ever before.\r\n\r\nDreamRP builds for creatives, from indie artists to global stars, because they have always been the real reason audiences love what they love.\r\n",
+    "one_liner": "Technology for human creators in the generative AI era",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -28034,7 +28039,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -28321,6 +28326,47 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/raycaster",
     "api": "https://yc-oss.github.io/api/batches/fall-2024/raycaster.json"
+  },
+  {
+    "id": 30055,
+    "name": "RiskCube",
+    "slug": "riskcube",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/93b1b4fbe4b8807a5770f0fad5c76f3b8685dee9.png",
+    "website": "https://riskcube.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Problem: Venture-backed startups are underserved by the traditional insurance market and limited to single-quote insurance carrier, leading to opaque pricing and suboptimal coverage.\r\n\r\nSolution: RiskCube is an independent, AI-native comparison platform that provides founders with multi-carrier quote comparison, enabling transparent, data-driven insurance decisions.\r\n\r\nUnfair Advantage: Our platform is built on proprietary risk models designed by our founder, a risk & insurance expert and former member of the WTW Risk & Analytics division. This expertise allows us to identify and price startup risks that generalist brokers miss.\r\n\r\nResult: We leverage AI and quantitative analysis to ensure compliance and reduce total cost of risk for venture-backed startups. ",
+    "one_liner": "AI-native insurance firm for startups.",
+    "team_size": 2,
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Insurance",
+    "launched_at": 1731782052,
+    "tags": [
+      "Artificial Intelligence",
+      "Fintech",
+      "Insurance"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "Fintech",
+      "Insurance"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/riskcube",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/riskcube.json"
   },
   {
     "id": 30056,
@@ -31349,49 +31395,6 @@
     "api": "https://yc-oss.github.io/api/batches/spring-2025/synthiolabs.json"
   },
   {
-    "id": 30426,
-    "name": "Ralo",
-    "slug": "ralo",
-    "former_names": [
-      "Approval AI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/fd1079ebae09b6f3c1cfa789bc4e9fa9c80c8537.png",
-    "website": "https://www.ralo.com/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Ralo is an AI-powered mortgage co-pilot that automates the most complex parts of getting a mortgage: rate shopping, negotiation, and paperwork, all in one place. We automate what brokers and loan officers do, and hand those tools directly to the buyer.",
-    "one_liner": "One-click mortgage: AI shops, negotiates, and handles your application",
-    "team_size": 2,
-    "industry": "Fintech",
-    "subindustry": "Fintech -> Consumer Finance",
-    "launched_at": 1744861920,
-    "tags": [
-      "Artificial Intelligence",
-      "Fintech",
-      "Consumer"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Spring 2025",
-    "status": "Active",
-    "industries": [
-      "Fintech",
-      "Consumer Finance"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/ralo",
-    "api": "https://yc-oss.github.io/api/batches/spring-2025/ralo.json"
-  },
-  {
     "id": 30431,
     "name": "Chonkie",
     "slug": "chonkie",
@@ -33379,46 +33382,6 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/pond.json"
   },
   {
-    "id": 30626,
-    "name": "ContextFort",
-    "slug": "contextfort",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0bb8bde8646cf10a60dc7d32e6b9b4e39c4a7557.png",
-    "website": "https://contextfort.ai/",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "ContextFort is bringing the power of AI to the three trillion dollar construction industry, starting with an AI co-pilot that reviews every revision of your architectural and structural drawings in minutes—not weeks.\r\n\r\nOur Software:\r\n• Detects missing or conflicting dimensions across sheets\r\n• Highlights overlay mismatches between versions\r\n• Checks if an issue is already resolved in the latest set\r\n• Auto-drafts spec-compliant RFIs so you hit “send,” not “type”\r\n\r\nContractors save 2-3 weeks per project, cut costly rework, and keep schedules on track.",
-    "one_liner": "Helping construction contractors find errors in blueprints",
-    "team_size": 2,
-    "industry": "Real Estate and Construction",
-    "subindustry": "Real Estate and Construction -> Construction",
-    "launched_at": 1753951898,
-    "tags": [
-      "Artificial Intelligence",
-      "Construction"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "Real Estate and Construction",
-      "Construction"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/contextfort",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/contextfort.json"
-  },
-  {
     "id": 30630,
     "name": "Lark",
     "slug": "lark",
@@ -33670,49 +33633,6 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/cyberdesk",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/cyberdesk.json"
-  },
-  {
-    "id": 30648,
-    "name": "Janet AI",
-    "slug": "tryjanet",
-    "former_names": [
-      "MeetingToCode"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/00eb0a0f3a1d2e114523331a618501c6336a1b3f.png",
-    "website": "https://tryjanet.ai",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Janet AI (tryjanet.ai) is the first AI-native ticket management system, built for modern engineering teams and tool stacks. Janet doesn’t wait for your manual work.\r\n\r\n- Ideas, bug reports, and feature requests get tracked directly from meetings/Slack/Discord/SMS.\r\n- Duplicate or related issues are automatically detected to reduce noise as you scale.\r\n- Tickets are auto-moved when GitHub PRs resolving them are opened and merged.\r\n- You can reply to issue reporters in Slack/Discord directly from Janet when a ticket is resolved.\r\n- We bring all your tickets to your Cursor/Claude Code's context so coding agents can fully understand, cluster, prioritize, and resolve issues - the time spent on thorough ticketing finally has tangible ROI (not just a chore).\r\n- And more!\r\n\r\nFounders, product leaders, customer success, and engineers all love Janet: cross-team communication, collaboration, and execution are made seamless. That’s why users repeatedly switch away from Linear, Jira, and others after trying Janet for just a single project/sprint.\r\n\r\nCheck out tryjanet.ai to get started today!",
-    "one_liner": "The AI-Native Jira",
-    "team_size": 2,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1752861520,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "DevOps"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Summer 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/tryjanet",
-    "api": "https://yc-oss.github.io/api/batches/summer-2025/tryjanet.json"
   },
   {
     "id": 30649,
@@ -35284,6 +35204,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/dscribe-ai",
     "api": "https://yc-oss.github.io/api/batches/summer-2025/dscribe-ai.json"
+  },
+  {
+    "id": 30774,
+    "name": "Clodo",
+    "slug": "clodo",
+    "former_names": [
+      "Disclodocs"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/f11e383f1603855e0c14f84e4d86a8e59ed719ed.png",
+    "website": "https://clodo.ai",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Clodo is built for Vibe GTM. Find and reach your next customers with just a prompt. \r\nExecute your outbound ideas at the speed of thought. ",
+    "one_liner": "Vibe GTM. Execute your outbound ideas with just a prompt",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "launched_at": 1754475903,
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Sales",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Sales"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/clodo",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/clodo.json"
   },
   {
     "id": 30782,
@@ -38117,8 +38081,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/9fe951afa5872a811734029111550a11062d931e.png",
     "website": "https://ramain.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "RamAIn is your real-life Jarvis that works out-of-the-box on your favorite applications including WhatsApp Desktop, Outlook and more. Just tell it what to do sit back and watch it work just like you, intelligently simulating mouse and keyboard clicks to achieve your goals.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces allowing them to intelligently use the computer super-duper fast. ",
-    "one_liner": "Super Fast Computer Use Agents",
+    "long_description": "RamAIn can automate any super complex, intelligent and repetitive process across applications (Windows + Mac + Browser + Desktop) super-duper fast. It doesn’t matter whether you have API access or not - if you can see it, RamAIn can do it.\r\n\r\nCurrent CUAs all follow the same decision loop: screenshot, VLM, decision, repeat. This is expensive, unreliable and slow. We build infrastructure to pre-train CUAs on specific interfaces, effectively teaching RamAIn to use your computer.",
+    "one_liner": "Super fast computer-use agents to automate anything.",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -38200,25 +38164,24 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/arcline.json"
   },
   {
-    "id": 31152,
-    "name": "Ishiki Labs",
-    "slug": "ishiki-labs",
-    "former_names": [
-      "ProactiveAI"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4791097536ccb2083067cbad86c74ce21f0dea77.png",
-    "website": "https://www.ishikilabs.ai/",
-    "all_locations": "",
-    "long_description": "We're building Fern - a multimodal AI that listens and watches continuously, understands context over time, and acts with human-like judgment — proactively guiding you in the moment when needed, and staying out of the way when not.",
-    "one_liner": "Building the Future of Multimodal AI",
+    "id": 31155,
+    "name": "Q2Q",
+    "slug": "q2q",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b6c42d7cabd8a666e0d6369ef40a058fca967f90.png",
+    "website": "https://tryq2q.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Here's the problem: it takes private equity firms and search funds hours to write personalized messages for each outreach campaign.\r\n\r\nWe speed this up by using AI to research each company across its website and social channels. Our platform helps you:\r\n\r\n1) Research market niches to refine your investment thesis\r\n2) Search for leads in our constantly-growing database\r\n3) Design custom campaigns with personalized messaging\r\n4) See inbound interest and track all prospects/communications in our CRM",
+    "one_liner": "We help funds source deals and run personalized outreach with AI",
     "team_size": 2,
     "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1768297786,
+    "subindustry": "B2B -> Finance and Accounting",
+    "launched_at": 1768420792,
     "tags": [
       "Artificial Intelligence",
-      "Deep Learning",
-      "Generative AI"
+      "Fintech",
+      "SaaS",
+      "B2B"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -38227,18 +38190,20 @@
     "batch": "Winter 2026",
     "status": "Active",
     "industries": [
-      "B2B"
+      "B2B",
+      "Finance and Accounting"
     ],
     "regions": [
-      "Unspecified"
+      "United States of America",
+      "America / Canada"
     ],
     "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
-    "question_answers": true,
-    "url": "https://www.ycombinator.com/companies/ishiki-labs",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/ishiki-labs.json"
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/q2q",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/q2q.json"
   },
   {
     "id": 31163,
@@ -38580,6 +38545,51 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/sequence-markets",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/sequence-markets.json"
+  },
+  {
+    "id": 31241,
+    "name": "Corelayer",
+    "slug": "corelayer",
+    "former_names": [
+      "Sevvy"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/7fc77bd9760310dfdeb4b8ba962b09280b614937.png",
+    "website": "https://www.corelayer.com",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "We’re building AI agents that do on-call support for data-heavy industries like financial services and fintech, healthcare, and insurance.\r\n\r\nOn-call engineers in these industries need to inspect data to debug production issues. We monitor both data and infrastructure for issues and use AI agents to debug and suggest fixes in minutes.\r\n\r\nData is especially sensitive in regulated industries, so we offer on-prem deployments and hardware-backed secure environments that let agents safely use production data as context while debugging.\r\n\r\nMitch and Shipra founded Corelayer after building data infrastructure together at Goldman Sachs, where they spent many late nights and weekends debugging systems that processed 100s of billions of rows a day.",
+    "one_liner": "AI on-call engineer that debugs using data",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1767713346,
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "B2B",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/corelayer",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/corelayer.json"
   },
   {
     "id": 31243,
