@@ -13061,7 +13061,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -15401,7 +15401,7 @@
     "website": "http://varos.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Varos AI delivers the work of business analysts 10x faster, better & cheaper with AI agents built for discovery.\r\n\r\nArthur, our AI agent, acts as a Senior Business Analysts and works for you 24/7 in any language. He conducts intelligent 10-15 minutes voice or text-based interviews with your teams to rapidly capture the institutional knowledge you need to execute on projects. He learns from each conversation, cross-references information, and analyzes all the findings to deliver actionable insights. \r\n\r\nArthur is an expert at capturing mapping & optimizing complex processes, gathering knowledge from employees' heads and documenting it, supporting automation projects, uncovering root causes to significant problems and more. \r\n\r\nAll this information gathered is turned into a private, secure knowledge base that can be used by the org → turning tribal knowledge into institutional knowledge.\r\n\r\nFor example, Arthur unblocked a critical system migration for a large financial system in 3 days by interviewing 100+ operators in the org, replacing a $1m & 6 month engagement of a consulting firm.\r\n\r\nBacked by Y Combinator, Mosaic General Partnership, and leading financial institutions ($8.5m in funding).",
-    "one_liner": "AI-based market research, competitive intelligence and benchmarks.",
+    "one_liner": "AI Business Analysts to gather requirements and optimize processes",
     "team_size": 9,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
@@ -19390,7 +19390,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/678a075ba845be1f92622449400b609811c48c31.png",
     "website": "https://aviator.co",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Aviator is a developer tool that automates merge workflows and keeps builds healthy. Engineers save up to 5 hours a week and avoid frustration of broken builds.\r\n\r\nOur users include Slack, Bosch, Lightspeed, Square, Benchling, Figma and many others. For instance, Slack went from 180 master-build failures per quarter to just 1 build failure when they started using Aviator.\r\n\r\nOur goal is to become the leading brand for developer experience.",
+    "long_description": "Aviator is a developer tool that automates merge workflows and keeps builds healthy. Engineers save up to 5 hours a week and avoid frustration of broken builds.\r\n\r\nOur users include Slack, Square, Benchling, Figma, Doordash and many others.\r\n\r\nOur goal is to become the leading brand for developer experience.",
     "one_liner": "Google-level engineering productivity suite",
     "team_size": 6,
     "industry": "B2B",
@@ -23705,11 +23705,11 @@
     "subindustry": "B2B -> Engineering, Product and Design",
     "launched_at": 1643704657,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "B2B",
       "Chatbot",
-      "No-code"
+      "No-code",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -39883,22 +39883,24 @@
   },
   {
     "id": 29805,
-    "name": "Zimi",
-    "slug": "zimi",
-    "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ec60c31775dc7d4aded90c3f6de6c90b4a3e2a4f.png",
-    "website": "https://www.withzimi.com",
+    "name": "Handled",
+    "slug": "handled",
+    "former_names": [
+      "Zimi"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/1fdf52cef6695c6b6cc22e266f32b62f76e95483.png",
+    "website": "https://www.itshandled.ai",
     "all_locations": "New York, NY, USA",
-    "long_description": "E-commerce brands rely on disconnected, outdated systems to manage everything after the buy button. From fulfillment and inventory to returns, customer support, and shipment tracking, post-purchase operations are messy, manual, and expensive to scale. Zimi replaces the tangle of disconnected tools with one intelligent system that runs everything after the buy button.\r\n\r\nDespite billions spent on e-commerce tech, post-purchase operations remain a black hole—leading to delays, unhappy customers, and skyrocketing support costs. Legacy ERPs are slow, customer service tools are reactive, and logistics platforms don’t connect to CX systems—forcing brands to patch things together with manual work and multiple tools.\r\n\r\nZimi solves this with a single platform that connects 147+ tools and sales channels to centralize data, automate workflows, and power AI agents that proactively resolve issues before customers even ask. Brands use Zimi to route orders intelligently, manage inventory across multiple 3PLs, reduce returns friction, and deliver world-class customer experiences—without the operational chaos.\r\n\r\nWe built Zimi after watching high-growth brands lose time, money, and trust trying to scale with tools that were never designed to work together. Our founding team has deep experience across e-commerce, logistics, and SaaS, and we're building the post-purchase infrastructure every modern brand will need to compete.\r\n",
-    "one_liner": "AI automating post-purchase operations and support for e-commerce",
+    "long_description": "Post-order operations are one of the least automated parts of e-commerce. After an order is placed, teams still spend their days tracking shipments, chasing exceptions, processing returns, adjusting invoices, and answering “Can you check this?” requests. This manual busywork lives outside core systems and scales linearly with order volume, forcing brands and 3PLs to keep adding headcount as they scale.\r\n\r\nHandled is an operations automation platform for e-commerce brands and the 3PLs that run their order fulfillment. We execute the manual work that happens after an order is placed by unifying post-order data across commerce, warehouse, carrier, and support systems.\r\nHandled gives teams real-time visibility across orders, shipments, returns, and inventory in one system — eliminating the need to dig through disconnected tools or react only after customers complain. When issues occur, Handled automatically executes the follow-up work, such as resolving shipment delays, processing returns, filing claims, or making order and billing adjustments, without manual back-and-forth.\r\n\r\nBy combining visibility, issue detection, and automated execution in a single AI-powered operational layer, Handled replaces manual coordination with software-driven post-order operations in a large, recurring market tied directly to e-commerce volume.",
+    "one_liner": "Automating post-order operations for e-commerce brands and 3PLs",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Retail",
     "launched_at": 1719423480,
     "tags": [
-      "SaaS",
       "B2B",
       "Workflow Automation",
+      "Logistics",
       "E-commerce",
       "AI"
     ],
@@ -39921,8 +39923,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/zimi",
-    "api": "https://yc-oss.github.io/api/batches/summer-2024/zimi.json"
+    "url": "https://www.ycombinator.com/companies/handled",
+    "api": "https://yc-oss.github.io/api/batches/summer-2024/handled.json"
   },
   {
     "id": 29812,
@@ -39947,7 +39949,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -42315,20 +42317,21 @@
   },
   {
     "id": 30279,
-    "name": "Gowatch",
-    "slug": "highintent",
+    "name": "Bystreet",
+    "slug": "bystreet",
     "former_names": [
       "Doublecall",
       "Vovana",
       "Bystreet",
       "Snowbase",
-      "Highintent"
+      "Highintent",
+      "Gowatch"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/19b90316af55734fa1c394207982640436988361.png",
-    "website": "http://www.gowatch.ai/",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/661c95370effd9a14d3dd4db4de24f6e31c6c41f.png",
+    "website": "http://www.bystreet.com",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Gowatch is the AI monitoring platform for businesses. Easily set up AI agents that search and monitor the web for your competitors, customers, investments, and more.\r\n",
-    "one_liner": "Monitor the web with AI agents.",
+    "long_description": "We use AI to get you any kind of real estate data you want. Think of us as the AI CoStar. ",
+    "one_liner": "The AI CoStar",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -42358,8 +42361,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/highintent",
-    "api": "https://yc-oss.github.io/api/batches/winter-2025/highintent.json"
+    "url": "https://www.ycombinator.com/companies/bystreet",
+    "api": "https://yc-oss.github.io/api/batches/winter-2025/bystreet.json"
   },
   {
     "id": 30282,
@@ -45248,10 +45251,10 @@
     "name": "mcp-use",
     "slug": "mcp-use",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a3741e5c8fc7d9b30c081ec6b9b3a70e387566d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
     "website": "https://mcp-use.com",
     "all_locations": "",
-    "long_description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy custom AI agents with MCP servers. \r\nOur library has over 170,000 downloads and 7,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
+    "long_description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT.\r\nOur library has over 4M downloads and 8,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
     "one_liner": "Open-source dev tools and infrastructure for MCP.",
     "team_size": 3,
     "industry": "B2B",
@@ -48258,13 +48261,15 @@
   },
   {
     "id": 31128,
-    "name": "Cumulus",
-    "slug": "cumulus",
-    "former_names": [],
+    "name": "Cumulus Labs",
+    "slug": "cumulus-labs",
+    "former_names": [
+      "Cumulus"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a985c19aae7a6332fcfc82b7724dd2f4276053d2.png",
     "website": "https://cumuluslabs.io",
     "all_locations": "",
-    "long_description": "Cumulus (YC W26) is building a performance-optimized GPU cloud for AI training and inference, where customers are only charged for what they use.\r\n\r\nThe platform aggregates idle GPU capacity from public clouds, private data centers, and vetted individual hosts into a single, unified Cumulus pool. \r\n\r\nFor training and fine-tuning, workloads are predictively packed alongside other jobs to maximize efficiency and dynamically migrated live during execution to faster or cheaper clusters as they become available. \r\n\r\nFor inference, the platform captures and replicates execution state across our global compute CDN, enabling ultra-fast cold starts and performant serving where your users are. \r\n\r\nThe Cumulus Scheduler constantly diagnoses failures, auto-recovers workloads, and intelligently orchestrates across the entire pool. The Cumulus Prediction system will learn usage patterns to optimize resources available to customer jobs.\r\n\r\nGetting started takes less than 20 lines of config. Fine-tuning becomes as simple as specifying your data and model architecture, while inference deployments automatically optimize for latency and cost. \r\n\r\nCumulus handles all GPU orchestration complexity, allowing teams to save on cost and significantly boost performance in real-time while focusing on what matters: building & serving better models. The result is 50-70% cost savings, faster cold starts, and never spending time managing infrastructure ever again.\r\n",
+    "long_description": "Cumulus Labs is building a performance-optimized GPU cloud for AI training and inference, where customers are only charged by physical resource use.\r\n\r\nThe platform aggregates idle GPU capacity from public clouds, private data centers, and vetted individual hosts into a single, unified Cumulus pool. \r\n\r\nFor training and fine-tuning, workloads are predictively packed alongside other jobs to maximize efficiency and dynamically migrated live during execution to faster or cheaper clusters as they become available. \r\n\r\nFor inference, the platform captures and replicates execution state across our global compute CDN, enabling ultra-fast cold starts and performant serving where your users are. \r\n\r\nThe Cumulus Scheduler constantly diagnoses failures, auto-recovers workloads, and intelligently orchestrates across the entire pool. The Cumulus Prediction system will learn usage patterns to optimize resources available to customer jobs.\r\n\r\nGetting started takes less than 20 lines of config. Fine-tuning becomes as simple as specifying your data and model architecture, while inference deployments automatically optimize for latency and cost. \r\n\r\nCumulus handles all GPU orchestration complexity, allowing teams to save on cost and significantly boost performance in real-time while focusing on what matters: building & serving better models. The result is 50-70% cost savings, faster cold starts, and never spending time managing infrastructure ever again.\r\n",
     "one_liner": "The Optimized GPU Cloud",
     "team_size": 2,
     "industry": "B2B",
@@ -48294,8 +48299,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cumulus",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/cumulus.json"
+    "url": "https://www.ycombinator.com/companies/cumulus-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/cumulus-labs.json"
   },
   {
     "id": 31137,
@@ -48436,7 +48441,7 @@
     "website": "https://www.clice.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Clice gives everyone on your team a personal AI agent that actually executes. Every agent knows their person's context, and every agent can talk to each other.\r\n\r\nNeed an answer from someone who's offline? Your agent asks their agent. A bug gets fixed in prod? Your agent updates the ticket and responds to the thread. Need to meet before launch? Your agent coordinates with theirs and books it.\r\n\r\nSales, eng, ops. If it involves communicating or coordinating across people, Clice handles it. You focus on the work that actually matters.",
-    "one_liner": "AI clones of people that can coordinate with each other",
+    "one_liner": "AI assistants for employees, operating in one Slack-like workspace",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -48444,9 +48449,8 @@
     "tags": [
       "B2B",
       "Productivity",
-      "Sales",
       "Automation",
-      "Operations"
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -48513,6 +48517,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/ressl-ai",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
+  },
+  {
+    "id": 31213,
+    "name": "Byteport",
+    "slug": "byteport",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/462f2cba50e8812c9f84433bea456da30ecab7fa.png",
+    "website": "https://byteport.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Global upload acceleration for 1GB-100TB files.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768498499,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/byteport",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/byteport.json"
   },
   {
     "id": 31223,

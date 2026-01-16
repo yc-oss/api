@@ -423,5 +423,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/hlabs",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/hlabs.json"
+  },
+  {
+    "id": 31107,
+    "name": "BaseFrame",
+    "slug": "baseframe",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bf1c04a6815e7f5e0f651298fe715b7395428d.png",
+    "website": "https://baseframe.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "BaseFrame helps hardware teams build more efficiently by identifying design gaps, data-driven tradeoffs, and component availability issues before the first board is spun, catching fatal mistakes while they are still cheap to fix.\r\n\r\nWe want to speed-up hardware teams so that they can build the cool innovations they are trying to bring to life with fewer bottlenecks.\r\n\r\nThe current hardware workflow is a broken sequence of handoffs: you finalize a design and send it to procurement, only to discover weeks later that there was an oversight or a critical component has a massive lead time. \r\n\r\nHow It Works\r\n• Project Scoping: Specialized AI agents ask you questions to scope out the project and uncover gaps, drilling down with follow up questions if needed or handing off to the next agent when sufficient. It provides suggestions and recommendations for each question, making sure we have thought about everything early on. \r\n• Validations: Once the questions are answered, we consolidate them into a document and run parallel agents to once again find issues, contradictions, or areas of improvement. \r\n• BOM Generation: Our AI splits the scope into a block diagram and generates a Bill of Materials (BOM) for each by parsing diagrams and tables from datasheets, getting price and lead time data from top vendors, and internal vendor communications. \r\n• Versioning & Parallel Agents: You can branch designs and use parallel agents to simulate multiple architectures simultaneously, revealing quantitative tradeoffs in cost, price, and lead times \r\n\r\nWe met during our first week of college and became roommates at Berkeley, and are excited to make physical innovation easier!\r\n",
+    "one_liner": "AI agents for hardware design that catch risks and tradeoffs early",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1768518655,
+    "tags": [
+      "Hardware",
+      "Workflow Automation",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/baseframe",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/baseframe.json"
   }
 ]

@@ -2861,7 +2861,7 @@
       "Remote",
       "Partly Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -9370,6 +9370,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2021/digibuild.json"
   },
   {
+    "id": 24382,
+    "name": "Malloc Inc",
+    "slug": "malloc-inc",
+    "former_names": [
+      "Malloc, LTD.",
+      "Malloc"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6f9e51a7bd166fd06ac233b1bc31a81d599db773.png",
+    "website": "https://mallocprivacy.com/",
+    "all_locations": "Nicosia, Nicosia, Cyprus",
+    "long_description": "Malloc aims to help people companies and organisations protect their apps, their devices and their data. The Malloc Privacy & Security VPN app available in AppStore and PlayStore helps you stay safe and private online by blocking spyware and online threats. Malloc App Security is an SDK library that other app owners can use to protect their app from hacking attempts. ",
+    "one_liner": "We protect your phone from spyware and hacking attempts. ",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Defense",
+    "launched_at": 1626963356,
+    "tags": [
+      "Artificial Intelligence",
+      "Consumer",
+      "Security",
+      "Privacy"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2021",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Defense"
+    ],
+    "regions": [
+      "Cyprus",
+      "Europe",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": true,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/malloc-inc",
+    "api": "https://yc-oss.github.io/api/batches/summer-2021/malloc-inc.json"
+  },
+  {
     "id": 24383,
     "name": "Milky Way AI",
     "slug": "milky-way-ai",
@@ -12239,55 +12286,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2022/housewarming.json"
   },
   {
-    "id": 25989,
-    "name": "Blink",
-    "slug": "blink-new",
-    "former_names": [
-      "1Flow, Inc.",
-      "1Flow",
-      "Tuesday"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a032695f4ef91de1841f09f2b8ba9b6fc2bcf959.png",
-    "website": "https://blink.new",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Blink is the fastest way to build and launch web apps—no coding required. Our AI-powered platform lets anyone create full-stack apps in minutes: just describe what you want, and Blink handles design, database, backend, hosting, and authentication instantly. Apps are fully editable, remixable, and deploy with one click to a live site, including custom domains and monetization.\r\n\r\nBuilders, startups, and creators use Blink to launch MVPs, internal tools, SaaS products, and websites up to 20× faster—no developers needed. Each app is shareable and remixable, powering viral growth. Blink is “Shopify for web apps,” making software creation as easy and fun as making a TikTok.",
-    "one_liner": "Build fully functional apps with AI.",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B -> Engineering, Product and Design",
-    "launched_at": 1643704657,
-    "tags": [
-      "Artificial Intelligence",
-      "SaaS",
-      "B2B",
-      "Chatbot",
-      "No-code"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": true,
-    "nonprofit": false,
-    "batch": "Winter 2022",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Engineering, Product and Design"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada",
-      "Remote",
-      "Partly Remote"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/blink-new",
-    "api": "https://yc-oss.github.io/api/batches/winter-2022/blink-new.json"
-  },
-  {
     "id": 25991,
     "name": "Humand",
     "slug": "humand",
@@ -14529,7 +14527,7 @@
       "United States of America",
       "America / Canada"
     ],
-    "stage": "Early",
+    "stage": "Growth",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -14547,7 +14545,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/dfa8ece84ef2c7a7d1d679ee7a41f9d4e488ac86.png",
     "website": "https://www.linum.ai/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "Linum builds state-of-the-art text-to-video diffusion models.\r\n\r\nOver the next ten years, we’re going to witness a shift in animation, tv, and film similar to what we’ve seen with YouTube - where most content will be generated by everyday people. At Linum, we’re using AI to build the tools that will enable this transition.\r\n\r\nLinum was founded by Sahil Chopra and Manu Chopra - two brothers with 10 years of AI experience. Sahil co-wrote Stanford’s graduate-course on LLMs (Large Language Models). Manu trained RL (Reinforcement Learning) models for anesthesia administration at UCSF. \r\n\r\nSign up for our beta at https://www.linum.ai/",
+    "long_description": "Linum builds generative video models.",
     "one_liner": "type text, dream video",
     "team_size": 2,
     "industry": "Consumer",
@@ -14555,8 +14553,6 @@
     "launched_at": 1674684513,
     "tags": [
       "Artificial Intelligence",
-      "Consumer",
-      "Entertainment",
       "Video"
     ],
     "tags_highlighted": [],
@@ -18876,7 +18872,7 @@
     "former_names": [
       "AdMagic"
     ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3098c944f1965d042d69f06ce5a2ce66019ccf72.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/0ab41e90328883754ecff618e23fa11d9632ee43.png",
     "website": "https://www.sola-solutions.com/",
     "all_locations": "Jersey City, NJ, USA",
     "long_description": "Sola is copilot for workflow automation. \r\n\r\nWe help automation-minded teams build robust robotic agents to handle tedious tasks via LLMs and computer vision, smoothly integrated into their standard workflow. \r\n\r\nOur tooling makes it easy for companies to automate data entry/scraping in manual filing and processing flows. Go from a screen recording to a bot in any desktop or browser workflow; develop logic and watch logic self-develop in the face of new events!",
@@ -21737,6 +21733,53 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/speck",
     "api": "https://yc-oss.github.io/api/batches/winter-2024/speck.json"
+  },
+  {
+    "id": 29332,
+    "name": "Pillar",
+    "slug": "trypillar",
+    "former_names": [
+      "Double"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3765a4b3a407691f524ffa2f1b9c994e62781a26.png",
+    "website": "https://trypillar.com/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Your help center shouldn't be an afterthought. Pillar keeps yours alive and accurate, letting users self-help with trusted answers embedded right where they need them.",
+    "one_liner": "The Intelligent Help Center",
+    "team_size": null,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1701750687,
+    "tags": [
+      "Artificial Intelligence",
+      "Workflow Automation",
+      "Customer Success",
+      "Customer Service",
+      "AI Assistant"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/trypillar",
+    "api": "https://yc-oss.github.io/api/batches/winter-2024/trypillar.json"
   },
   {
     "id": 29335,
@@ -27204,7 +27247,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Summer 2024",
     "status": "Active",
@@ -28024,8 +28067,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3b03e14b8a7d809f05b6579c758dc4fbbe6ff821.png",
     "website": "https://www.dreamrp.com/",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "AI entertainment feels like slop because companies value technology over human creativity. DreamRP is here to change that.\r\n\r\nCompanies like to focus on technology because it usually lets them win. But what fans love has never been about the tech.\r\n\r\nA fan doesn’t fill their apartment with posters because of the lens a movie was shot on. They do it because of the mind behind the camera.f\r\n\r\nLike all technology, AI is just a tool. In the wrong hands, it makes endless sludge. In the right ones, fans will love entertainment more than ever before.\r\n\r\nDreamRP builds for creatives, from indie artists to global stars, because they have always been the real reason audiences love what they love.\r\n",
-    "one_liner": "Technology for human creators in the generative AI era",
+    "long_description": "AI entertainment feels like slop because companies chose technology over human creativity.\r\n\r\nCompanies like to focus on tech because it usually lets them win. But what fans love has never been about the tech.\r\n\r\nA fan doesn’t fill their apartment with posters because of the lens a movie was shot on. They do it because of the mind behind the camera.\r\n\r\nLike all technology, AI is just a tool. In the wrong hands, it makes endless sludge. In the right ones, fans will love entertainment more than ever.\r\n\r\nDreamRP builds for creatives, from indie artists to global stars, because they have always been the real reason audiences love what they love.\r\n\r\nIf this resonates, message me.\r\n\r\nEthics FAQ on website in bio\r\n\r\n",
+    "one_liner": "Tech and platforms for human creators and the entertainment industry",
     "team_size": 2,
     "industry": "Consumer",
     "subindustry": "Consumer",
@@ -32226,8 +32269,8 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/4583558e5875db68c5b000cee75a734ef515ec5f.png",
     "website": "https://jazzberry.ai",
     "all_locations": "San Francisco, CA, USA",
-    "long_description": "We're creating an AI agent that orchestrates debugging tools and runs your code to find bugs. It's time to close the loop on vibe coding.",
-    "one_liner": "Training LLMs to be expert bug finders",
+    "long_description": "We're creating reinforcement learning environments for training frontier models.",
+    "one_liner": "Building reinforcement learning environments",
     "team_size": 1,
     "industry": "B2B",
     "subindustry": "B2B",
@@ -34484,10 +34527,10 @@
     "name": "mcp-use",
     "slug": "mcp-use",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/5a3741e5c8fc7d9b30c081ec6b9b3a70e387566d.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/3838f80b214ed1fcda53a2778860e8be11cfdb0d.png",
     "website": "https://mcp-use.com",
     "all_locations": "",
-    "long_description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy custom AI agents with MCP servers. \r\nOur library has over 170,000 downloads and 7,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
+    "long_description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT.\r\nOur library has over 4M downloads and 8,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
     "one_liner": "Open-source dev tools and infrastructure for MCP.",
     "team_size": 3,
     "industry": "B2B",
@@ -38423,49 +38466,6 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/ressl-ai.json"
   },
   {
-    "id": 31212,
-    "name": "Constellation Space",
-    "slug": "constellation-space",
-    "former_names": [
-      "Constellation"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/507992dfdd26c7120b018a48e02b63f2dbff68b3.png",
-    "website": "https://constellation-io.com/",
-    "all_locations": "Seattle, WA, USA",
-    "long_description": "Constellation builds ConstellationOS, an AI-driven platform that makes satellite networks autonomous and resilient. We ingest telemetry from satellites, ground stations, and weather systems (100K+ messages/sec), predict link failures with 90%+ accuracy up to 5 minutes in advance, and automatically reroute traffic—zero data loss, zero human intervention.\r\n\r\nhello@constellation-io.com",
-    "one_liner": "The Operating System for Space.",
-    "team_size": 4,
-    "industry": "B2B",
-    "subindustry": "B2B -> Analytics",
-    "launched_at": 1766273553,
-    "tags": [
-      "Artificial Intelligence",
-      "Satellites",
-      "Aerospace"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Winter 2026",
-    "status": "Active",
-    "industries": [
-      "B2B",
-      "Analytics"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/constellation-space",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation-space.json"
-  },
-  {
     "id": 31215,
     "name": "Bubble Lab",
     "slug": "bubble-lab",
@@ -38631,5 +38631,48 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/scout-out",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/scout-out.json"
+  },
+  {
+    "id": 31300,
+    "name": "Shofo",
+    "slug": "shofo",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
+    "website": "https://shofo.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Shofo builds large-scale social media training datasets by collecting, labeling, and enriching public content for pre-training and fine-tuning AI models. Our indexes continuously collect and update every post across hard to access social media platforms. Companies use Shofo to avoid building their own data collection and processing systems and spending months turning unstructured social content into model-ready data. We started with TikTok and are expanding across every major social platform.",
+    "one_liner": "Scraping hard to access social media posts to curate training datasets",
+    "team_size": 4,
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "launched_at": 1768432806,
+    "tags": [
+      "Artificial Intelligence",
+      "Social Media",
+      "API",
+      "Data Labeling",
+      "Big Data"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Infrastructure"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/shofo",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/shofo.json"
   }
 ]

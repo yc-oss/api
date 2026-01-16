@@ -848,6 +848,47 @@
     "api": "https://yc-oss.github.io/api/batches/winter-2026/protent.json"
   },
   {
+    "id": 31107,
+    "name": "BaseFrame",
+    "slug": "baseframe",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/13bf1c04a6815e7f5e0f651298fe715b7395428d.png",
+    "website": "https://baseframe.co",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "BaseFrame helps hardware teams build more efficiently by identifying design gaps, data-driven tradeoffs, and component availability issues before the first board is spun, catching fatal mistakes while they are still cheap to fix.\r\n\r\nWe want to speed-up hardware teams so that they can build the cool innovations they are trying to bring to life with fewer bottlenecks.\r\n\r\nThe current hardware workflow is a broken sequence of handoffs: you finalize a design and send it to procurement, only to discover weeks later that there was an oversight or a critical component has a massive lead time. \r\n\r\nHow It Works\r\n• Project Scoping: Specialized AI agents ask you questions to scope out the project and uncover gaps, drilling down with follow up questions if needed or handing off to the next agent when sufficient. It provides suggestions and recommendations for each question, making sure we have thought about everything early on. \r\n• Validations: Once the questions are answered, we consolidate them into a document and run parallel agents to once again find issues, contradictions, or areas of improvement. \r\n• BOM Generation: Our AI splits the scope into a block diagram and generates a Bill of Materials (BOM) for each by parsing diagrams and tables from datasheets, getting price and lead time data from top vendors, and internal vendor communications. \r\n• Versioning & Parallel Agents: You can branch designs and use parallel agents to simulate multiple architectures simultaneously, revealing quantitative tradeoffs in cost, price, and lead times \r\n\r\nWe met during our first week of college and became roommates at Berkeley, and are excited to make physical innovation easier!\r\n",
+    "one_liner": "AI agents for hardware design that catch risks and tradeoffs early",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1768518655,
+    "tags": [
+      "Hardware",
+      "Workflow Automation",
+      "Electronics"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/baseframe",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/baseframe.json"
+  },
+  {
     "id": 31112,
     "name": "Burt",
     "slug": "burt",
@@ -975,13 +1016,15 @@
   },
   {
     "id": 31128,
-    "name": "Cumulus",
-    "slug": "cumulus",
-    "former_names": [],
+    "name": "Cumulus Labs",
+    "slug": "cumulus-labs",
+    "former_names": [
+      "Cumulus"
+    ],
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/a985c19aae7a6332fcfc82b7724dd2f4276053d2.png",
     "website": "https://cumuluslabs.io",
     "all_locations": "",
-    "long_description": "Cumulus (YC W26) is building a performance-optimized GPU cloud for AI training and inference, where customers are only charged for what they use.\r\n\r\nThe platform aggregates idle GPU capacity from public clouds, private data centers, and vetted individual hosts into a single, unified Cumulus pool. \r\n\r\nFor training and fine-tuning, workloads are predictively packed alongside other jobs to maximize efficiency and dynamically migrated live during execution to faster or cheaper clusters as they become available. \r\n\r\nFor inference, the platform captures and replicates execution state across our global compute CDN, enabling ultra-fast cold starts and performant serving where your users are. \r\n\r\nThe Cumulus Scheduler constantly diagnoses failures, auto-recovers workloads, and intelligently orchestrates across the entire pool. The Cumulus Prediction system will learn usage patterns to optimize resources available to customer jobs.\r\n\r\nGetting started takes less than 20 lines of config. Fine-tuning becomes as simple as specifying your data and model architecture, while inference deployments automatically optimize for latency and cost. \r\n\r\nCumulus handles all GPU orchestration complexity, allowing teams to save on cost and significantly boost performance in real-time while focusing on what matters: building & serving better models. The result is 50-70% cost savings, faster cold starts, and never spending time managing infrastructure ever again.\r\n",
+    "long_description": "Cumulus Labs is building a performance-optimized GPU cloud for AI training and inference, where customers are only charged by physical resource use.\r\n\r\nThe platform aggregates idle GPU capacity from public clouds, private data centers, and vetted individual hosts into a single, unified Cumulus pool. \r\n\r\nFor training and fine-tuning, workloads are predictively packed alongside other jobs to maximize efficiency and dynamically migrated live during execution to faster or cheaper clusters as they become available. \r\n\r\nFor inference, the platform captures and replicates execution state across our global compute CDN, enabling ultra-fast cold starts and performant serving where your users are. \r\n\r\nThe Cumulus Scheduler constantly diagnoses failures, auto-recovers workloads, and intelligently orchestrates across the entire pool. The Cumulus Prediction system will learn usage patterns to optimize resources available to customer jobs.\r\n\r\nGetting started takes less than 20 lines of config. Fine-tuning becomes as simple as specifying your data and model architecture, while inference deployments automatically optimize for latency and cost. \r\n\r\nCumulus handles all GPU orchestration complexity, allowing teams to save on cost and significantly boost performance in real-time while focusing on what matters: building & serving better models. The result is 50-70% cost savings, faster cold starts, and never spending time managing infrastructure ever again.\r\n",
     "one_liner": "The Optimized GPU Cloud",
     "team_size": 2,
     "industry": "B2B",
@@ -1011,8 +1054,8 @@
     "demo_day_video_public": false,
     "app_answers": null,
     "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/cumulus",
-    "api": "https://yc-oss.github.io/api/batches/winter-2026/cumulus.json"
+    "url": "https://www.ycombinator.com/companies/cumulus-labs",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/cumulus-labs.json"
   },
   {
     "id": 31129,
@@ -1832,7 +1875,7 @@
     "website": "https://www.clice.ai",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Clice gives everyone on your team a personal AI agent that actually executes. Every agent knows their person's context, and every agent can talk to each other.\r\n\r\nNeed an answer from someone who's offline? Your agent asks their agent. A bug gets fixed in prod? Your agent updates the ticket and responds to the thread. Need to meet before launch? Your agent coordinates with theirs and books it.\r\n\r\nSales, eng, ops. If it involves communicating or coordinating across people, Clice handles it. You focus on the work that actually matters.",
-    "one_liner": "AI clones of people that can coordinate with each other",
+    "one_liner": "AI assistants for employees, operating in one Slack-like workspace",
     "team_size": 2,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
@@ -1840,9 +1883,8 @@
     "tags": [
       "B2B",
       "Productivity",
-      "Sales",
       "Automation",
-      "Operations"
+      "AI Assistant"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2088,15 +2130,15 @@
     "website": "https://constellation-io.com/",
     "all_locations": "Seattle, WA, USA",
     "long_description": "Constellation builds ConstellationOS, an AI-driven platform that makes satellite networks autonomous and resilient. We ingest telemetry from satellites, ground stations, and weather systems (100K+ messages/sec), predict link failures with 90%+ accuracy up to 5 minutes in advance, and automatically reroute traffic—zero data loss, zero human intervention.\r\n\r\nhello@constellation-io.com",
-    "one_liner": "The Operating System for Space.",
+    "one_liner": "AI for Space Mission Assurance. ",
     "team_size": 4,
     "industry": "B2B",
     "subindustry": "B2B -> Analytics",
     "launched_at": 1766273553,
     "tags": [
-      "Artificial Intelligence",
       "Satellites",
-      "Aerospace"
+      "Aerospace",
+      "AI"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2119,6 +2161,46 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/constellation-space",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/constellation-space.json"
+  },
+  {
+    "id": 31213,
+    "name": "Byteport",
+    "slug": "byteport",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/462f2cba50e8812c9f84433bea456da30ecab7fa.png",
+    "website": "https://byteport.io/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "",
+    "one_liner": "Global upload acceleration for 1GB-100TB files.",
+    "team_size": 1,
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "launched_at": 1768498499,
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/byteport",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/byteport.json"
   },
   {
     "id": 31214,
@@ -2756,7 +2838,7 @@
     "name": "Shofo",
     "slug": "shofo",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/b1aad9ee57557732efcdcbdc3474874eab470647.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/cdc8fbfe28cb5c8e4405b92f33ce7b6536b88c17.png",
     "website": "https://shofo.ai/",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Shofo builds large-scale social media training datasets by collecting, labeling, and enriching public content for pre-training and fine-tuning AI models. Our indexes continuously collect and update every post across hard to access social media platforms. Companies use Shofo to avoid building their own data collection and processing systems and spending months turning unstructured social content into model-ready data. We started with TikTok and are expanding across every major social platform.",
@@ -2766,11 +2848,11 @@
     "subindustry": "B2B -> Infrastructure",
     "launched_at": 1768432806,
     "tags": [
+      "Artificial Intelligence",
       "Social Media",
       "API",
       "Data Labeling",
-      "Big Data",
-      "AI"
+      "Big Data"
     ],
     "tags_highlighted": [],
     "top_company": false,
@@ -2793,5 +2875,50 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/shofo",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/shofo.json"
+  },
+  {
+    "id": 31306,
+    "name": "Martini",
+    "slug": "martini",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6c61a438eef6d3a1fe29d67dd180ddaaac257b9d.png",
+    "website": "https://martini.film",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Martini is a collaborative, AI-native platform for professional filmmaking in the era of generative media.\r\nBy integrating the best generative models into professional workflows, we enable world-class creatives to harness generative AI as a legitimate medium for film.",
+    "one_liner": "Collaborative AI-native filmmaking for professionals",
+    "team_size": 2,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1768440972,
+    "tags": [
+      "Generative AI",
+      "Entertainment",
+      "Design Tools",
+      "Video",
+      "Media"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/martini",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/martini.json"
   }
 ]
