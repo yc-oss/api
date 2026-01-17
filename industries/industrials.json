@@ -7384,7 +7384,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -11581,7 +11581,7 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e9c9b9996bb500ee171134f1e1a0a83f5d48bec3.png",
     "website": "https://www.starcloud.com/",
     "all_locations": "Redmond, WA, USA",
-    "long_description": "Starcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give Starcloud access to abundant energy, radiative cooling, and the ability to rapidly scale in space.\r\n\r\nIn November 2025, just 21 months after founding, Starcloud launched its first satellite, Starcloud-1 to space. This has an Nvidia H100, which is 100x more powerful GPU than has ever been operated in space before. With this, they became the first entity to train an LLM in space and the first to run a version of Gemini in space. \r\n\r\nStarcloud are launching their second satellite in October this year, which will have 100x the power generation of the first. Starcloud expects that within 10 years, most new data centers will be being built in space for the energy.",
+    "long_description": "Starcloud is building data centers in space, initially to provide GPU compute to other satellites, and later to address the rapidly growing demand for energy caused by the deployment of AI. Falling launch costs give Starcloud access to abundant energy, radiative cooling, and the ability to rapidly scale in space.\r\n\r\nIn November 2025, just 21 months after founding, Starcloud launched its first satellite, Starcloud-1 to space. This has an Nvidia H100, which is 100x more powerful GPU than has ever been operated in space before. With this, they became the first entity to train an LLM in space and the first to run a version of Gemini in space. Starcloud will soon also run high-powered inference on Capella SAR data on orbit for the first time. \r\n\r\nStarcloud is launching its second satellite in October 2026, which will have 100x the power generation of the first and generate more cash than it costs to build and launch. Starcloud expects that within 10 years, most new data centers will be being built in space for the energy.",
     "one_liner": "Data centers in space",
     "team_size": 12,
     "industry": "Industrials",
@@ -12772,7 +12772,7 @@
     "all_locations": "San Francisco, CA, USA",
     "long_description": "We’re building AI-powered systems that automate manual work in scientific labs using robotics.\r\n\r\nScientists simply type their experiment in plain English. Zeon translates it into code and runs it on robotic arms (no coding required).\r\n\r\nBy controlling robots with natural language, we’re enabling automation for every lab, every scientist, and every experiment.\r\n\r\nZeon is lab-aware. It detects equipment, adapts to protocols, and moves autonomously between instruments to execute full workflows.\r\n\r\nWe’re already working with labs at Stanford and UCSF to accelerate discovery - from running overnight nanoparticle fluorescence measurements to safely disposing of hundreds of bacterial samples. \r\n\r\nZeon reclaims time for what matters most: the science.",
     "one_liner": "AI-powered robotics for scientific lab automation.",
-    "team_size": 2,
+    "team_size": 5,
     "industry": "Industrials",
     "subindustry": "Industrials -> Manufacturing and Robotics",
     "launched_at": 1745428848,
@@ -14422,6 +14422,46 @@
     "question_answers": true,
     "url": "https://www.ycombinator.com/companies/axionorbital-space",
     "api": "https://yc-oss.github.io/api/batches/winter-2026/axionorbital-space.json"
+  },
+  {
+    "id": 31219,
+    "name": "Voxel Energy",
+    "slug": "voxel-energy",
+    "former_names": [],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/74fcdd0e430ec52b7926e6bf7ffe4e4cbb1b2571.png",
+    "website": "https://voxelenergy.com/",
+    "all_locations": "",
+    "long_description": "The best grid connection is no grid connection. Voxel captures, stores, and consumes solar energy onsite without the grid, completely bypassing utility connection delays. By leveraging the vast supply of second-life EV batteries with our novel DC microgrid architecture, we drastically reduce engineering overhead and time-to-power.",
+    "one_liner": "Energy independent data centers with solar and repurposed batteries. ",
+    "team_size": 3,
+    "industry": "Industrials",
+    "subindustry": "Industrials -> Energy",
+    "launched_at": 1768576763,
+    "tags": [
+      "Artificial Intelligence",
+      "Renewable Energy",
+      "Infrastructure"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Winter 2026",
+    "status": "Active",
+    "industries": [
+      "Industrials",
+      "Energy"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/voxel-energy",
+    "api": "https://yc-oss.github.io/api/batches/winter-2026/voxel-energy.json"
   },
   {
     "id": 31245,

@@ -6786,7 +6786,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": true,
+    "isHiring": false,
     "nonprofit": false,
     "batch": "Winter 2018",
     "status": "Active",
@@ -22428,7 +22428,7 @@
     ],
     "tags_highlighted": [],
     "top_company": false,
-    "isHiring": false,
+    "isHiring": true,
     "nonprofit": false,
     "batch": "Summer 2021",
     "status": "Active",
@@ -24043,7 +24043,7 @@
       "Remote",
       "Fully Remote"
     ],
-    "stage": "Growth",
+    "stage": "Early",
     "app_video_public": false,
     "demo_day_video_public": false,
     "app_answers": null,
@@ -28191,16 +28191,16 @@
     "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/32f61bbbf466e48b6d79b3f115c8246567eb41a8.png",
     "website": "https://spinach.ai",
     "all_locations": "Nashville, TN, USA; Remote",
-    "long_description": "Backed by Y Combinator, Zoom and Atlassian, Spinach AI is the system of record for conversation data, transforming unstructured dialogue into a structured data asset leveraged across the enterprise by people, agents and LLMs. \r\nWe enable the Record-by-Default Enterprise! ",
-    "one_liner": "The System of Record for Conversation Data",
+    "long_description": "Backed by Y Combinator, Zoom and Atlassian, Spinach AI is the system of action for conversation data. Industry leaders like Abnormal AI and eToro use Spinach to capture and transform raw conversations into structured knowledge that powers people, agents, and LLMs across the enterprise, driving productivity for workers and strategic insight for leaders.",
+    "one_liner": "The System of Action for Conversation Data",
     "team_size": 5,
     "industry": "B2B",
     "subindustry": "B2B -> Productivity",
     "launched_at": 1641876509,
     "tags": [
-      "Artificial Intelligence",
       "SaaS",
       "Productivity",
+      "AI",
       "Conversational AI",
       "AI Assistant"
     ],
@@ -44882,6 +44882,56 @@
     "api": "https://yc-oss.github.io/api/batches/fall-2024/raycaster.json"
   },
   {
+    "id": 30046,
+    "name": "Cekura",
+    "slug": "cekura-ai",
+    "former_names": [
+      "Lex",
+      "Vocera",
+      "Cekura",
+      "Cekura (formerly Vocera)",
+      "Cekura",
+      "Cekura (formerly Vocera)"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/e614d24f652dc1e194f172153c3b7036c9c30b2f.png",
+    "website": "https://www.cekura.ai/",
+    "all_locations": "San Francisco, CA, USA",
+    "long_description": "Cekura helps Conversational AI companies with automated QA. From pre-production simulation and evaluations to production call monitoring, to assisting customers in setting up the CI/CD pipeline, we help in QA across the agent lifecycle.\r\n\r\nWe are working with 75+ customers across healthcare, BFSI, logistics, recruitment, and retail. Some of the largest CCAS players and enterprises use Cekura to ship AI voice and chat agents reliably ",
+    "one_liner": "Voice AI and Chat AI agents: Testing and Observability",
+    "team_size": 15,
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "launched_at": 1728616885,
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": true,
+    "nonprofit": false,
+    "batch": "Fall 2024",
+    "status": "Active",
+    "industries": [
+      "B2B",
+      "Engineering, Product and Design"
+    ],
+    "regions": [
+      "United States of America",
+      "America / Canada",
+      "Remote",
+      "Partly Remote"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/cekura-ai",
+    "api": "https://yc-oss.github.io/api/batches/fall-2024/cekura-ai.json"
+  },
+  {
     "id": 30054,
     "name": "CTGT",
     "slug": "ctgt",
@@ -46534,11 +46584,11 @@
     "name": "Ergo",
     "slug": "ergo",
     "former_names": [],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/bd659fbea3fde9a2b42434fe03f0a75943f09e6a.png",
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/6d306e43299c0c7361faa4ee78066a9912cf4151.png",
     "website": "https://joinergo.com",
     "all_locations": "San Francisco, CA, USA",
     "long_description": "Ergo is AI for sales teams, monitoring customer communication across tools like Zoom, Email, and Slack to keep CRMs such as HubSpot and Salesforce up to date. Ergo’s AI agents execute revenue-generating activities, such as automating mid-funnel follow-ups based on external market signals and past customer interactions. By eliminating manual operational tasks, Ergo helps sales teams maintain active pipelines, prevent deals from stalling, and cut sales cycles in half.",
-    "one_liner": "AI Agents for Sales Operations",
+    "one_liner": "AI Agents for Revenue Teams",
     "team_size": 0,
     "industry": "B2B",
     "subindustry": "B2B -> Sales",
@@ -47896,6 +47946,53 @@
     "api": "https://yc-oss.github.io/api/batches/summer-2025/wedge.json"
   },
   {
+    "id": 30681,
+    "name": "Parachute",
+    "slug": "parachute",
+    "former_names": [
+      "Parachute",
+      "Parachute AI",
+      "Parachute",
+      "Parachute AI"
+    ],
+    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/ffdb102f014e8ce8401417ee051d9fbec55550e0.png",
+    "website": "https://parachute-ai.com",
+    "all_locations": "",
+    "long_description": "Parachute helps hospitals adopt AI safely and at scale. We vet AI tools that fill clinical gaps, run state-of-the-art evaluations, monitor every model for drift and compliance, and lock every decision in an immutable audit trail.",
+    "one_liner": "Infrastructure for hospitals to monitor and deploy clinical AI ",
+    "team_size": 2,
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "launched_at": 1752533752,
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "B2B",
+      "Healthcare IT",
+      "AI"
+    ],
+    "tags_highlighted": [],
+    "top_company": false,
+    "isHiring": false,
+    "nonprofit": false,
+    "batch": "Summer 2025",
+    "status": "Active",
+    "industries": [
+      "Healthcare",
+      "Healthcare IT"
+    ],
+    "regions": [
+      "Unspecified"
+    ],
+    "stage": "Early",
+    "app_video_public": false,
+    "demo_day_video_public": false,
+    "app_answers": null,
+    "question_answers": false,
+    "url": "https://www.ycombinator.com/companies/parachute",
+    "api": "https://yc-oss.github.io/api/batches/summer-2025/parachute.json"
+  },
+  {
     "id": 30684,
     "name": "Doe",
     "slug": "doe",
@@ -48494,50 +48591,6 @@
     "question_answers": false,
     "url": "https://www.ycombinator.com/companies/uplane",
     "api": "https://yc-oss.github.io/api/batches/fall-2025/uplane.json"
-  },
-  {
-    "id": 30867,
-    "name": "Soren",
-    "slug": "soren",
-    "former_names": [
-      "Remediate"
-    ],
-    "small_logo_thumb_url": "https://bookface-images.s3.amazonaws.com/small_logos/78482bef0efe7ba1111c1d4e5a3af8b8afd23e47.png",
-    "website": "https://soren-ai.com",
-    "all_locations": "San Francisco, CA, USA",
-    "long_description": "Soren builds autonomous agents to replace human engineers on manual AI evaluation tasks.\r\n\r\nEvals are essential for building reliable AI systems, yet they remain incredibly time-consuming. Teams spend countless hours maintaining their evals and digging through piles of logs and traces to debug their systems. At scale, this level of manual work simply isn’t sustainable.\r\n\r\nSoren changes that with powerful agents that work alongside your team. They reason across test cases and logs to pinpoint root causes, then run targeted experiments to surface better-performing solutions. New test cases are added whenever new behaviors are detected, so engineers can stop doing ad-hoc maintenance.\r\n\r\nBuilt by MIT engineers who've published leading research in this space and lived the problem. We're building a future where AI handles the work and humans simply provide oversight.",
-    "one_liner": "AI agents for evaluating and debugging AI systems.",
-    "team_size": 1,
-    "industry": "B2B",
-    "subindustry": "B2B",
-    "launched_at": 1759390917,
-    "tags": [
-      "Developer Tools",
-      "SaaS",
-      "B2B",
-      "Enterprise Software",
-      "AI"
-    ],
-    "tags_highlighted": [],
-    "top_company": false,
-    "isHiring": false,
-    "nonprofit": false,
-    "batch": "Fall 2025",
-    "status": "Active",
-    "industries": [
-      "B2B"
-    ],
-    "regions": [
-      "United States of America",
-      "America / Canada"
-    ],
-    "stage": "Early",
-    "app_video_public": false,
-    "demo_day_video_public": false,
-    "app_answers": null,
-    "question_answers": false,
-    "url": "https://www.ycombinator.com/companies/soren",
-    "api": "https://yc-oss.github.io/api/batches/fall-2025/soren.json"
   },
   {
     "id": 30878,
